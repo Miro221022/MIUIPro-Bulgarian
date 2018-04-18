@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="nonui_mode_config_description">Всеки път, когато MIUI установи, че не използвате устройството си, MIUI ще изключи светодиодният индикатор, сензора за пръстови отпечатъци и сензорните елементи за управление, и няма да включва екрана при известия.</string>
+   <string name="nonui_mode_config_title">Не интерактивен режим</string>
+   <string name="search_result_text">Няма намерени програми</string>
+</resources>

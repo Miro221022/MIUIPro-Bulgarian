@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="launcher_gesture_entries"> 
+        <item>Изключване на екрана</item> 
+        <item>Меню за рестартиране</item> 
+        <item>Последни приложения</item> 
+        <item>Телефон</item> 
+        <item>Режим на звук: Звук / Вибрация</item> 
+        <item>Панел за известия</item> 
+        <item>Превключване Wi-Fi</item> 
+        <item>Превключване Bluetooth</item> 
+        <item>Превключване на мобилни данни</item> 
+        <item>Изчистване на паметта</item> 
+        <item>Стартиране на приложение</item> 
+        <item>Изключено</item>
+    </string-array> 
+    <string-array name="smart_mobiledata_entries"> 
+        <item>Не променяй</item> 
+        <item>Само 2G</item> 
+        <item>Само 3G</item> 
+        <item>Само 4G</item> 
+        <item>Предпочитан 3G</item> 
+        <item>Предпочитан 4G</item> 
+        <item>2G/3G (GSM/WCDMA)</item> 
+        <item>4G/3G (LTE/WCDMA)</item> 
+        <item>2G/3G/4G (GSM/WCDMA/LTE)</item> 
+    </string-array> 
+  	<string-array name="timer_entries"> 
+        <item>Не изключвай</item> 
+        <item>След секунда</item> 
+        <item>След минута</item> 
+        <item>След 5 минути</item> 
+        <item>След 10 минути</item> 
+        <item>След 20 минути</item> 
+        <item>След 30 минути</item> 
+        <item>След час</item> 
+    </string-array> 
+	<string-array name="battery_indicator_style_entries"> 
+        <item>Графика</item> 
+        <item>Проценти и графика</item> 
+        <item>Линия над лентата за състоянието</item> 
+        <item>Само проценти</item> 
+        <item>Изкл.</item> 
+    </string-array> 
+	<string-array name="ios_toggle_entries"> 
+        <item>По подразбиране</item> 
+        <item>IOS стил</item> 
+		<item>Нов Стил</item>
+        <item>AOSP Стил</item>
+    </string-array> 
+    <string-array name="text_bat_color_entries">
+        <item>По подразбиране</item>
+        <item>Открояващ се</item>
+        <item>Цвят по избор</item>
+    </string-array>
+	<string-array name="sim_select_entries"> 
+        <item>Sim 1</item> 
+        <item>Sim 2</item> 
+		<item>Sim 1 / Sim 2</item> 
+    </string-array> 
+	<string-array name="toggles_line_entries"> 
+        <item>Една линия</item> 
+        <item>Всички линии</item> 
+    </string-array> 
+	<string-array name="smart_timer_entries">
+        <item>Не променяй</item>
+        <item>10 минути</item>
+        <item>20 минути</item>
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+    </string-array>
+	<string-array name="toast_animation_entries"> 
+        <item>Няма</item> 
+        <item>По подразбиране</item> 
+        <item>Гладко появяване / смекчаване</item> 
+        <item>Отстъпване отдясно и отзад</item> 
+        <item>Отстъпване отляво и отзад</item> 
+        <item>Отстъпване от дясно на ляво</item> 
+        <item>Отстъпване от ляво на дясно</item> 
+        <item>Анимация Xylon</item> 
+        <item>Анимация Toko</item> 
+        <item>Завъртане</item> 
+        <item>Анимация Honami</item> 
+        <item>Рязко появяване</item> 
+        <item>Бавно появяване</item> 
+        <item>Изкачане от центъра</item> 
+        <item>Изкачане отгоре</item> 
+        <item>Прозрачност</item> 
+        <item>Разместване Дясно / Ляво</item> 
+        <item>Обръщане с превъртане от долу</item> 
+        <item>С преобръщане от центъра</item> 
+        <item>Отдръпване отдолу</item> 
+        <item>От центъра към центъра</item> 
+        <item>Персонализиране</item> 
+    </string-array> 
+	<string-array name="gesture_anywhere_position_entries"> 
+        <item>Ляво</item> 
+        <item>Дясно</item> 
+    </string-array> 
+	<string-array name="listview_animation_entries"> 
+        <item>По подразбиране</item> 
+        <item>Вълна (на дясно)</item> 
+        <item>Вълна (на ляво)</item> 
+        <item>Алфа</item> 
+        <item>Мащаб</item> 
+        <item>Мащабиране (отгоре)</item> 
+        <item>Мащабиране (отдолу)</item> 
+        <item>Разгъване</item> 
+        <item>Сгъване</item> 
+        <item>Преместване (ляво)</item> 
+        <item>Преместване (дясно)</item> 
+    </string-array> 
+    <string-array name="listview_interpolator_entries"> 
+        <item>По подразбиране</item> 
+        <item>Ускоряване</item> 
+        <item>Забавяне</item> 
+        <item>Ускоряване забавяне</item> 
+        <item>Изпреварване</item> 
+        <item>Отхвърляне</item> 
+        <item>Изпреварване с подхвърляне</item> 
+        <item>Подскачане</item> 
+        <item>Циклично</item> 
+        <item>Линейно</item> 
+    </string-array> 
+	<string-array name="crt_animation_entries"> 
+        <item>Изключено</item> 
+        <item>Бавно</item> 
+        <item>Много бавно</item> 
+        <item>Бавен</item> 
+        <item>Нормално</item> 
+        <item>Бърз</item> 
+        <item>Много бърз</item> 
+        <item>Супер бърз</item> 
+    </string-array> 
+	<string-array name="crt_animation_framing_entries"> 
+        <item>Постоянна</item> 
+        <item>50 кадри/с</item> 
+        <item>25 кадри/с</item> 
+        <item>10 кадри/с</item> 
+        <item>5 кадри/с</item> 
+    </string-array> 
+	<string-array name="crt_fade_entries"> 
+        <item>По подразбиране</item> 
+        <item>Избеляване</item> 
+    </string-array> 
+	<string-array name="smart_timer_sleepon_entries">
+        <item>Не активирай</item>
+        <item>10 минути</item>
+        <item>20 минути</item>
+        <item>30 минути</item>
+    </string-array>
+	<string-array name="low_battery_warning_entries"> 
+        <item>Съобщение и звук</item> 
+        <item>Само съобщение</item> 
+        <item>Само звук</item> 
+        <item>Изкл.</item> 
+    </string-array> 
+	<string-array name="battery_off_entries"> 
+        <item>Изключване на LED индикатора</item> 
+        <item>Остави LED индикатора включен</item> 
+    </string-array> 
+	<string-array name="set_haptic_entries"> 
+        <item>Деактивирана</item> 
+        <item>Слаба</item> 
+        <item>Силна</item> 
+    </string-array>
+	<string-array name="mtp_default_entries">
+        <item>Винаги зареждане</item>
+        <item>Винаги MTP</item>
+        <item>MTP, ако екрана не е заключен с парола</item> 
+    </string-array> 
+	<string-array name="volbtn_action_entries"> 
+        <item>Напред</item> 
+        <item>Пауза</item> 
+        <item>Изпълни</item> 
+        <item>Изпълни / Пауза</item> 
+        <item>Предишен</item> 
+    </string-array> 
+	<string-array name="policy_control_entries"> 
+        <item>Потапяне (по подразбиране)</item> 
+        <item>Потапяне (на цял екран)</item> 
+        <item>Скрий лентата на състоянието</item> 
+        <item>Скрий навигационната лента</item> 
+    </string-array> 
+	<string-array name="ts_keycode_entries"> 
+        <item>Начален екран</item> 
+        <item>Последни</item> 
+    </string-array> 
+    <string-array name="ts_limit_entries"> 
+        <item>Два</item> 
+        <item>Три</item> 
+        <item>Пет</item> 
+        <item>Седем</item> 
+        <item>Десет</item> 
+        <item>Без ограничение</item> 
+    </string-array> 
+    <string-array name="ts_direct_entries"> 
+        <item>Назад</item> 
+        <item>Напред</item> 
+    </string-array> 
+	<string-array name="def_audio_entries"> 
+        <item>Мелодия на телефон</item> 
+        <item>Мултимедия</item> 
+        <item>Известия</item> 
+    </string-array> 
+    <string-array name="folder_toggle_entries"> 
+        <item>3 колони</item> 
+        <item>4 колони</item> 
+    </string-array> 
+</resources>

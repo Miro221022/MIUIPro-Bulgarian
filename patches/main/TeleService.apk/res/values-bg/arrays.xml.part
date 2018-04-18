@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_backlight_entries"> 
+        <item>Само входящи повиквания</item> 
+        <item>След отговаряне на обаждане</item> 
+        <item>Винаги с входящите</item> 
+        <item>Винаги с изходящите</item> 
+    </string-array> 
+    <string-array name="call_entries"> 
+        <item>Нищо</item> 
+        <item>Отвори телефон</item> 
+        <item>Изход към начален екран</item> 
+        <item>Изход и закл. на телефона</item> 
+    </string-array> 
+ 	<string-array name="incall_small_background_entries"> 
+	    <item>По подразбиране</item>
+        <item>Агент</item> 
+        <item>Заек</item> 
+		<item>Маска</item> 
+		<item>MI лого</item> 
+		<item>Неизвестен</item>
+    </string-array>
+	<string-array name="incall_background_entries"> 
+	    <item>По пдразбиране</item>
+        <item>Писък</item> 
+        <item>Кървави ръце</item> 
+        <item>Човек с качулка</item> 
+        <item>Hitman</item> 
+        <item>Ръка зад стъкло</item> 
+    </string-array> 
+  	<string-array name="set_samplingrate_entries">
+        <item>По подразбиране (8000 Хц)</item>
+        <item>16000 Хц</item>
+        <item>22050 Хц</item>
+        <item>44100 Хц</item>
+    </string-array>
+    <string-array name="set_bitrate_entries">
+        <item>По подразбиране (8 кб/с)</item>
+        <item>24 кб/с</item>
+        <item>32 кб/с</item>
+        <item>48 кб/с</item>
+        <item>64 кб/с</item>
+        <item>96 кб/с</item>
+        <item>128 кб/с</item>
+    </string-array>
+   	<string-array name="show_search_entries"> 
+        <item>Покажи</item> 
+        <item>Покажи в контактите</item> 
+        <item>Покажи в телефона</item> 
+        <item>Скрий</item> 
+    </string-array> 
+   	<string-array name="key_call_entries"> 
+        <item>Скрий</item> 
+        <item>Покажи</item> 
+    </string-array> 
+   	<string-array name="call_home_entries"> 
+        <item>Приеми повикване</item> 
+        <item>Откажи повикване</item> 
+        <item>Звук изкл.</item> 
+        <item>Деактивиран</item> 
+    </string-array> 
+ </resources>

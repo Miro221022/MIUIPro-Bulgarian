@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="card_main_hbassistant_title">Защита</string>
+    <string name="card_main_hbassistant_summary">Увеличаване на скоростта &amp; при игри</string>
+	<string name="power_settings_number">Проценти и Графика</string>
+    <string name="xunyou_pay_webview">Само Проценти</string> 
+    <string name="xunyou_server_expired">Изкл.</string>
+</resources>
