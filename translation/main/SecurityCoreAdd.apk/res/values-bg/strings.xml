@@ -293,7 +293,7 @@
   <string name="spaceSetting">Настройки</string>
   <string name="start_input_finger_print">Добавяне на отпечатък</string>
   <string name="start_new_fingerprint">Добави нов пръстов отпечатък</string>
-  <string name="start_new_fingerprint_tips">\"Use Second space fingerprint to enter Second space from Lock screen\"</string>
+  <string name="start_new_fingerprint_tips">\"Използвайте пръстов отпечатък за да може да влизате от заключен екран към второ пространство\"</string>
   <string name="start_setting_guide_desc_title">Има няколко неща за настройка</string>
   <string name="startSet">Настрой</string>
   <string name="startTransfer">Премести</string>
