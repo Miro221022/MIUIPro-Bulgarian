@@ -518,4 +518,16 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite иска разрешение да възстанови елементи на вашия телефон. Позволяване?</string>
     <string name="alert_button_deny">Отхвърли</string>
     <string name="alert_button_agree_and_continue">Разреши</string>
+	<string name="button_clean_garbage">Освобождаване на място</string>
+    <string name="button_got_it">OK</string>
+    <string name="button_quit">Изход</string>
+    <string name="err_bakfile_not_exist">"Архивният файл не съществува."</string>
+    <string name="err_binder_died">Приложението спря неочаквано.</string>
+    <string name="err_pkg_not_exist">"Приложението не може да бъде намерено."</string>
+    <string name="err_user_abort">Прекратено от потребителя.</string>
+    <string name="trans_failed_details_page_title">Неуспешни трансфери</string>
+    <string name="trans_generate_qrcode_failed">"Не може да се генерира QR код. Опитайте отново."</string>
+    <string name="trans_generating_qrcode">Генериране на QR код…</string>
+    <string name="trans_old_phone_low_space_msg">"Mi Mover се нуждае от повече място за съхранение на пакетите прехвърлени данни но изглежда, че няма достатъчно свободно място на старото устройство. Освободете място чрез \"Оптимизация\" или прехвърлете само важните елементи."</string>
+    <string name="trans_old_phone_low_space_title">Няма достатъчно свободно място в хранилището</string>
 </resources>
