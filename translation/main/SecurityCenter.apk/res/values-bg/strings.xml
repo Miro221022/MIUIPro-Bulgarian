@@ -900,7 +900,7 @@
     <string name="memory_cleaned_memory_up">Ускорение на скоростта</string>
     <string name="memory_cleaned_memory_info">Достъпна памет</string>
     <string name="memory_clean_no_running_process">Няма планирано почистване</string>
-    <string name="memory_clean_btn_click_text">Подобрете скоростта</string>
+    <string name="memory_clean_btn_click_text">Ускорение</string>
     <string name="optimize_result_header_view_summary">Ускорение на скоростта</string>
     <string name="optimize_result_available_memory_info">Достъпна памет</string>
     <string name="optimize_result_title_uninstall_apps">Приложения</string>
@@ -1339,8 +1339,8 @@
     <string name="btn_text_power_cleanup">Дълбоко почистване</string>
     <string name="btn_text_network_speed_detail">Свързване</string>
     <string name="btn_text_quick_scan">Сканирай</string>
-    <string name="menu_text_antivirus">Сканиране на защитата</string>
-    <string name="menu_text_optimize_manage">Подобрете скоростта</string>
+    <string name="menu_text_antivirus">Антивирус</string>
+    <string name="menu_text_optimize_manage">Ускорение</string>
     <string name="menu_text_networkassistants">Монитор за данни</string>
     <string name="menu_text_networkassistants_remain">%s остават</string>
     <string name="menu_text_networkassistants_danger">%s над лимита</string>
@@ -1692,10 +1692,10 @@
     <string name="preferred_app_entries_gallery">Галерия</string>
     <string name="preferred_app_entries_music">Музика</string>
     <string name="preferred_app_entries_email">Имейл</string>
-    <string name="card_main_applock_title">Закл. на Прил.</string>
+    <string name="card_main_applock_title">Заключване на приложения</string>
     <string name="card_main_applock_summary">Защитете вашите съобщения, снимки и други неща с парола.</string>
     <string name="card_main_applock_action">Активирай</string>
-    <string name="card_main_deepclean_title">Дълбоко почистване</string>
+    <string name="card_main_deepclean_title">Пълно почистване</string>
     <string name="card_main_deepclean_summary">Изтрийте файловете от които нямате нужда</string>
     <string name="card_main_deepclean_action">Изчистване</string>
     <string name="card_main_deepclean_wechat_title">WeChat кеш</string>
@@ -1703,7 +1703,7 @@
     <string name="card_main_deepclean_wechat_action">Изчистване</string>
     <string name="card_main_sectool_title">Инструменти</string>
     <string name="card_main_monthreport_action">Покажи</string>
-    <string name="card_main_netcheck_title">Диагностика на мрежата</string>
+    <string name="card_main_netcheck_title">Тест на мрежата</string>
     <string name="card_main_netcheck_summary">Диагностика на мрежата за проблеми при свързването</string>
     <string name="card_main_netcheck_action">Тест</string>
     <string name="card_main_hbassistant_title">Защита</string>
@@ -1716,7 +1716,7 @@
     <string name="card_main_optimize_manage_title">Подобри скоростта</string>
     <string name="card_main_optimize_manage_summary">Изчистване на кеша за повишаване производителността на устройството ви</string>
     <string name="card_main_optimize_manage_action">Ускори сега</string>
-    <string name="card_main_private_space_title">Второ пространство</string>
+    <string name="card_main_private_space_title">Второ място</string>
     <string name="card_main_private_space_summary">Използвайте Второ пространство все едно имате две устройства</string>
     <string name="card_main_private_space_action">Създаване</string>
     <string name="card_main_xspace_title">Клонирани приложения</string>
@@ -1925,7 +1925,7 @@
     <string name="confirmSecondSpacePassword">Потвърдете вашата парола за Второ пространство</string>
     <string name="sponsored_sec_fb">Спонсорирани</string>
     <string name="add_game_notification_summary">Докоснете за стартиране и ускорение</string>
-    <string name="app_manager_title">Управление на приложенията</string>
+    <string name="app_manager_title">Приложения</string>
     <string name="app_manager_uninstall">Деинсталиране</string>
     <string name="app_manager_bipartition">Клонирани приложения</string>
     <string name="app_manager_perm">Разрешения</string>
