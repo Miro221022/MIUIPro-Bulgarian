@@ -279,7 +279,7 @@
     <string name="trans_receiver_time_remained">"Остават %s.
 Не изключвайте Wi-Fi Hotspot.
 Дръжте устройствата на близко разстояние."</string>
-    <string name="trans_time_spent">\" Изтекло време: %s\"</string>
+    <string name="trans_time_spent">Изминало време: %s</string>
     <string name="trans_restoring_no_items">Синхр. елементи</string>
     <string name="trans_detail_category_sysdata">Системна информация (включително съобщения, контакти и история на обаждания)</string>
     <string name="trans_detail_category_userdata">Приложения</string>
@@ -351,7 +351,8 @@
     <string name="trans_wait_trans_data">\"Свързано към старото устройство. В очакване за трансфер…\"</string>
     <string name="trans_select_data">Избор на елементи за изпращане</string>
     <string name="trans_select_data_tips">\"Изберете елементи за трансфер Подобните файлове на новото устройство ще бъдат презаписани\"</string>
-    <string name="trans_select_data_no_space">\"%s налични на новото устройство Изберете файлове отново или освободете място\"</string>
+  <string name="trans_select_data_no_space">"Няма достатъчно място за съхранение на новото устройство (разполагате с %s).
+Освободете място или прехвърлете само важни елементи."</string>
     <string name="trans_select_data_too_large">"Избрали сте твърде много елементи за прехвърляне.
  Изберете само важните за вас неща за да направите прехвърлянето по-бързо."</string>
     <string name="trans_calculating_base_size">Изчислен размер на данни</string>
