@@ -5613,4 +5613,8 @@ Stable"</string>
     <string name="accessibility_close_tab">Зарваряне на текущия раздел</string>
     <string name="accessibility_more_settings">Допълнителни настройки</string>
     <string name="wifi_hide_password">Скриване на паролата</string>
+	<string name="close_optimization_message">Разположение на текста, профили, и други части от MIUI може да бъдат засегнати след като изключите тази функция.</string>
+    <string name="close_optimization_option">Изключване</string>
+    <string name="open_optimization_message">Включете оптимизацията за да се наслаждавате на гладък и бърз интерфейс.</string>
+    <string name="open_optimization_option">Включване</string>
 </resources>
