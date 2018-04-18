@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Обратно към начална страница</item>
+        <item>Превключване между разделите</item>
+        <item>Няма</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>По подразбиране</item>
+        <item>По избор</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Телефон</item>
+        <item>Таблет</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Миниатюрен</item>
+        <item>Малък</item>
+        <item>Нормален</item>
+        <item>Голям</item>
+        <item>Огромен</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Андроид</item>
+        <item>Настолна</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Изтрий</item>
+        <item>Не, благодаря</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Следвай</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Съобщение от браузъра</item>
+        <item>Следвайте Олимпийските игри с Mi</item>
+    </string-array>
+    <string-array name="suggestion_weather_condition_message">
+        <item>Ясно</item>
+        <item>Частична облачност</item>
+        <item>Облачно</item>
+        <item>Превалявания</item>
+        <item>Гръмотевична буря</item>
+        <item>Градушка</item>
+        <item>Суграшица</item>
+        <item>Лек дъждец</item>
+        <item>Умерен дъжд</item>
+        <item>Силен дъжд</item>
+        <item>Дъждовна буря</item>
+        <item>Пороен дъжд</item>
+        <item>Много силна дъждовна буря</item>
+        <item>Снеговалеж</item>
+        <item>Слаб сняг</item>
+        <item>Умерен снеговалеж</item>
+        <item>Силен снеговалеж</item>
+        <item>Снежна виелица</item>
+        <item>Мъгла</item>
+        <item>Леден дъжд</item>
+        <item>Пясъчна буря</item>
+        <item>Лек до умерен дъжд</item>
+        <item>Умерен до силен дъжд</item>
+        <item>Силен до пороен дъжд</item>
+        <item>Пороен до проливен дъжд</item>
+        <item>Проливен дъжд до силна буря</item>
+        <item>Слаб до умерен снеговалеж</item>
+        <item>Умерен до силен снеговалеж</item>
+        <item>Силен снеговалеж до снежна виелица</item>
+        <item>Силно запрашено</item>
+        <item>Пясък из въздуха</item>
+        <item>Пясъчна буря</item>
+        <item>Гъста мъгла</item>
+        <item>Силна мъгла</item>
+        <item>Мараня</item>
+        <item>Умерена мараня</item>
+        <item>Силна мараня</item>
+        <item>Тежка мараня</item>
+        <item>Гъста мъгла</item>
+        <item>Силна гъста мъгла</item>
+        <item>Няма</item>
+        <item>Дъжд</item>
+        <item>Сняг</item>
+    </string-array>
+</resources>
