@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MiCloudSync</string>
+  <string name="error_data_in_transfer">Синхронизирането ще приключи след %s часа.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud е недостъпен</string>
+  <string name="error_forbidden">Синхронизирането беше деактивирано поради проблеми с вашият Mi профил.</string>
+  <string name="error_not_acceptable">Синхронизирането е деактивирано.</string>
+  <string name="error_title">"Не може да се синхронизира"</string>
+  <string name="error_unauthorized">Синхронизирането беше деактивирано поради твърде много опити за вписване.</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+</resources>
