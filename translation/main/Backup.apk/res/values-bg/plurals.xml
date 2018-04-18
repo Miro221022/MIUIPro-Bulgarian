@@ -52,4 +52,12 @@
         <item quantity="other">%d елементи са прехвърлени отново.</item>
         <item quantity="one">%d елемент е прехвърлен отново.</item>
     </plurals>
+	<plurals name="trans_failed_summary">
+        <item quantity="other">"Не може да се прехвърлят %d елемента. Чукнете за подробности."</item>
+        <item quantity="one">"Не може да се прехвърли %d елемент. Чукнете за подробности."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">"Не може да се прехвърлят %d елемента."</item>
+        <item quantity="one">"Не може да се прехвърли %d елемент."</item>
+    </plurals>
 </resources>
