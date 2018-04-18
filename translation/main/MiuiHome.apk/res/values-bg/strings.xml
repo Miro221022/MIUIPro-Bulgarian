@@ -195,7 +195,7 @@
     <string name="menu_add">Добави</string>
     <string name="menu_auto_fill">Запълване на празните клетки</string>
     <string name="menu_back_desktop">Обратно към началния екран</string>
-    <string name="menu_cell_setting">Оформление на Начален екран</string>
+    <string name="menu_cell_setting">Заключване на начален екран</string>
     <string name="menu_customize">Настройки</string>
     <string name="menu_default_screen_preview">Задай екран по подразбиране</string>
     <string name="menu_edit">Редактирай джаджи</string>
@@ -209,7 +209,7 @@
     <string name="menu_search">Търсене</string>
     <string name="menu_settings">Настройки</string>
     <string name="menu_sort">Сортиране на икони</string>
-    <string name="menu_trans_effect">Ефекти преход на екрани</string>
+    <string name="menu_trans_effect">Ефект при преход между екраните</string>
     <string name="menu_wallpaper">Тапет</string>
     <string name="menu_workspace_preview">Преглед на начален екран</string>
     <string name="mi_wallpaper">MIUI тапет</string>
