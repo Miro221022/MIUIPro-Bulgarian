@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Разрешения</string>
+    <string name="app_name">Разрешенията</string>
     <string name="HIPS_Action_Accept">Разреши</string>
     <string name="HIPS_Action_Reject">Забрани</string>
     <string name="HIPS_Perm_SendSMS">Изпращане на SMS</string>
