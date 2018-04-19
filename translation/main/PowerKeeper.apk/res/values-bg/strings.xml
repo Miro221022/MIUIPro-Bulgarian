@@ -16,7 +16,7 @@
     <string name="show_system_app">Покажи системните приложения</string>
     <string name="hide_system_app">Скрий системните приложения</string>
     <string name="scenario_policies_title">Интелигентни ситуации</string>
-    <string name="config_scenario_policies_title">Ситуации</string>
+    <string name="config_scenario_policies_title">Спящ режим</string>
     <string name="scenario_policies_summary">Прилагане на различни стратегии за спестяване на енергия за различни ситуации.</string>
     <string name="sleep_config_enhance_title">Спящ режим</string>
     <string name="sleep_config_enhance_description">Когато MIUI регистрира, че устройството е заспало, ще затвори приложенията на заден план, ще ограничи NFC, Bluetooth, GPS, мобилните данни и употребата на Wi-Fi и няма да активира екрана при известия.</string>
