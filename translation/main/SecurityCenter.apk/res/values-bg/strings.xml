@@ -1989,14 +1989,14 @@
     <string name="app_manager_app_info_name">Име на приложение</string>
     <string name="app_manager_app_ifno_version">Версия на приложението</string>
     <string name="app_manager_app_info_pkg">Име на APK</string>
-    <string name="app_manager_copy_pkg_to_clip">Копирано в Клипборда</string>
-    <string name="app_manager_show_all_apps">Покажи всички приложения</string>
-    <string name="app_manager_hide_system_server">Скрий системните процеси</string>
+    <string name="app_manager_copy_pkg_to_clip">Копирано в клипборда</string>
+    <string name="app_manager_show_all_apps">Покажи системните приложения</string>
+    <string name="app_manager_hide_system_server">Скрий системните приложения</string>
     <string name="app_manager_back">Назад</string>
     <string name="app_manager_defaults_setting">Стандартни приложения</string>
     <string name="app_manager_clear_cache">Изчисти кеша</string>
-    <string name="app_manager_reset_app_preferences">Нулиране на предпочитания за приложение</string>
-    <string name="app_manager_reset_app_preferences_title">Нулиране на предпочитания за приложение?</string>
+    <string name="app_manager_reset_app_preferences">Възстановяване на стандартни настройки</string>
+    <string name="app_manager_reset_app_preferences_title">Възстанови стандартни настройки?</string>
     <string name="app_manager_reset_app_preferences_desc">"Това ще нулира всички предпочитания за:\u000d
 \u000d
  \"\"\"\""<li>Изкл приложения</li>"\"\"\"\"\u000d
