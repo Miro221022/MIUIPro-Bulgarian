@@ -1927,7 +1927,7 @@
     <string name="add_game_notification_summary">Докоснете за стартиране и ускорение</string>
     <string name="app_manager_title">Приложения</string>
     <string name="app_manager_uninstall">Деинсталиране</string>
-    <string name="app_manager_bipartition">Клонирани приложения</string>
+    <string name="app_manager_bipartition">Клонирани</string>
     <string name="app_manager_perm">Разрешения</string>
     <string name="app_manager_app_update">Актуализации</string>
     <string name="app_manager_details_storage_title">Хранилище</string>
