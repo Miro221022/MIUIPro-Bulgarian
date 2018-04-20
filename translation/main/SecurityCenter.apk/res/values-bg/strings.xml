@@ -1995,16 +1995,10 @@
     <string name="app_manager_back">Назад</string>
     <string name="app_manager_defaults_setting">Стандартни приложения</string>
     <string name="app_manager_clear_cache">Изчисти кеша</string>
-    <string name="app_manager_reset_app_preferences">Възстановяване на стандартни настройки</string>
-    <string name="app_manager_reset_app_preferences_title">Възстанови стандартни настройки?</string>
-    <string name="app_manager_reset_app_preferences_desc">"Това ще нулира всички предпочитания за:\u000d
-\u000d
- \"\"\"\""<li>Изкл приложения</li>"\"\"\"\"\u000d
- \"\"\"\""<li>Изкл известия на приложения</li>"\"\"\"\"\u000d
- \"\"\"\""<li>Предпочитани приложения за действия</li>"\"\"\"\"\u000d
- \"\"\"\""<li>Ограничения за данни във фонов режим</li>"\"\"\"\"\u000d
-\u000d
- Вие няма да загубите никаква информация."</string>
+    <string name="app_manager_reset_app_preferences">Възстановяване на стандартни настройки за приложенията</string>
+    <string name="app_manager_reset_app_preferences_title">Възстановяване на стандартни настройки?</string>
+    <string name="app_manager_reset_app_preferences_desc">"Това ще нулира всички потребителски настройки за:\nИзкл приложения\nИзкл известия на приложения\nПредпочитани приложения за действия\nОграничения за данни във фонов режим
+\nВие няма да загубите никаква информация."</string>
     <string name="app_manager_reset_app_preferences_button">Нулирай приложения</string>
     <string name="app_manager_disable_text">Деактивирай</string>
     <string name="app_manager_enable_text">Активирай</string>
