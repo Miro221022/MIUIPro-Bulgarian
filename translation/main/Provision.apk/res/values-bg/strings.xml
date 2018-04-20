@@ -43,7 +43,7 @@
   <string name="next_fingerprint">Следващ</string>
   <string name="other_settings">Допълнителни настройки</string>
   <string name="other_settings_ad_enable">Персонализирана рекламна препоръка</string>
-  <string name="other_settings_ad_enable_summary">Препоръчани персонализирани реклами въз основа на данните за поведението си</string>
+  <string name="other_settings_ad_enable_summary">Препоръчани персонализирани реклами въз основа на данните за поведението Ви</string>
   <string name="other_settings_auto_update">Автом. инсталиране</string>
   <string name="other_settings_auto_update_summary">MIUI ще избере най-подходящото време за да инсталира актуализациите.</string>
   <string name="other_settings_location">Местоположение</string>
