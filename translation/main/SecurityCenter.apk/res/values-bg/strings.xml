@@ -1997,7 +1997,7 @@
     <string name="app_manager_clear_cache">Изчисти кеша</string>
     <string name="app_manager_reset_app_preferences">Възстановяване на стандартни настройки за приложенията</string>
     <string name="app_manager_reset_app_preferences_title">Възстановяване на стандартни настройки?</string>
-    <string name="app_manager_reset_app_preferences_desc">"Това ще нулира всички потребителски настройки за:\nИзкл приложения\nИзкл известия на приложения\nПредпочитани приложения за действия\nОграничения за данни във фонов режим
+    <string name="app_manager_reset_app_preferences_desc">"Това ще нулира всички потребителски настройки за:\nДеактивирани приложения\nДеактивирани известия от приложенията\nПриложения по подразбиране\nЗабрани за ползване на данни от приложенията
 \nВие няма да загубите никаква информация."</string>
     <string name="app_manager_reset_app_preferences_button">Нулирай приложения</string>
     <string name="app_manager_disable_text">Деактивирай</string>
