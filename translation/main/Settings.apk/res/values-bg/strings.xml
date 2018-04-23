@@ -4804,7 +4804,7 @@ Stable"</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Ако използвате криптиране на своя телефон, ще трябва да въвеждате своята парола, PIN или шаблон всеки път, когато рестартирате устройството, за да го декриптирате.</string>
     <string name="crypt_keeper_conditions_title">За шифроването на вашето устройство</string>
     <string name="crypt_keeper_conditions">Шифроването отнема най-малко един час. Трябва да започнете със заредена батерия и устройството ви да е включено към захранването, докато процесът завърши. Ако го прекъснете, ще загубите някои или всичките си данни.</string>
-    <string name="application_lock_name">Закл. на приложения</string>
+    <string name="application_lock_name">Заключване на приложения</string>
     <string name="bug_report_settings">Доклад за грешки</string>
     <string name="connecting_to_vpn">Свързване към VPN</string>
     <string name="vpn_on">Вкл</string>
