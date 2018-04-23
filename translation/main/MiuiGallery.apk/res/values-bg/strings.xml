@@ -1195,4 +1195,16 @@
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
     <string name="you_are">Вие сте дете на</string>
+	<string name="refocus_discard_confirm_message">Запазване на промените?</string>
+    <string name="refocus_discard_negative_btn">Отхвърляне</string>
+    <string name="refocus_discard_positive_btn">Запази</string>
+    <string name="refocus_photo_not_support">"Не може да се приложи замъглен ефект за тази снимка"</string>
+    <string name="refocus_save_cancel">Отказ</string>
+    <string name="refocus_save_title">Изберете формат</string>
+    <string name="refocus_save_to_photo">Запазване като изображение</string>
+    <string name="refocus_save_to_video">Запазване като видео</string>
+    <string name="refocus_saving">Запазване…</string>
+    <string name="refocus_title">Замъглен ефект</string>
+    <string name="refocus_type_static">Ниво на замъгляване</string>
+    <string name="refocus_type_video">Посока на светлината</string>
 </resources>
