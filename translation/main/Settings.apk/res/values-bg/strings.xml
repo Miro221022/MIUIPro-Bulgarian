@@ -5617,4 +5617,5 @@ Stable"</string>
     <string name="close_optimization_option">Изключване</string>
     <string name="open_optimization_message">Включете оптимизацията за да се наслаждавате на гладък и бърз интерфейс.</string>
     <string name="open_optimization_option">Включване</string>
+	<string name="game_mode_settings">Режим за игри</string>
 </resources>
