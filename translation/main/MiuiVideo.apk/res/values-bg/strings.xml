@@ -717,4 +717,9 @@ To activate your account, follow the
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="font_family">miui</string>
     <string name="vp_time_separator">/</string>
+	<string name="offline_setting_mobile_net_limit_size1">1ГБ</string>
+    <string name="offline_setting_mobile_net_limit_size2">500МБ</string>
+    <string name="offline_setting_mobile_net_limit_summary">Ограничаване на ползването на мобилни данни след като размера на изтеглените клипове достигне избрания лимит</string>
+    <string name="offline_setting_mobile_net_limit_title">Ограничение за ползване на мобилни данни</string>
+    <string name="offline_setting_mobile_net_unlimited">Без ограничение</string>
 </resources>
