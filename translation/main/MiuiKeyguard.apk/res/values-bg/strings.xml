@@ -5,12 +5,12 @@
     <string name="unlockscreen_recharge_completed">Батерията е заредена</string>
     <string name="unlockscreen_low_battery">Свържете зарядното устройство</string>
     <string name="lockscreen_charging_msg">Зарежда се</string>
-    <string name="reset_device_tip">Зарежда се бавно, моля, преместете телефона</string>
-    <string name="reset_device_detail_tip">Безжично зареждане, моля, подравнете базата на телефона, за да подобрите скоростта на зареждане.</string>
+    <string name="reset_device_tip">Зарежда се бавно, моля регилирайте позицията на телефона</string>
+    <string name="reset_device_detail_tip">Уверете се, че позицията на вашето устройство върху базата за зареждане е правилна.</string>
     <string name="wireless_charge_stop">Безжичното зареждане е спря</string>
-    <string name="change_to_ac_charging">Превключен на безжично зареждане</string>
-    <string name="wireless_charge_dialog_title">Неправилна позиция, моля, променете я</string>
-    <string name="wireless_charge_dialog_cancel">Отказ</string>
+    <string name="change_to_ac_charging">Превключен на кабелно зареждане</string>
+    <string name="wireless_charge_dialog_title">Поставете устройството си в центъра на базата за зареждане</string>
+    <string name="wireless_charge_dialog_cancel">Приемам</string>
     <string name="emergency_call_string">SOS</string>
     <string name="forget_password_string">Забравена парола</string>
     <string name="input_puk_code">Въведете PUK код</string>
@@ -156,5 +156,5 @@
 	<string name="gxzw_press_harder">Моля, натиснете малко по-силно</string>
     <string name="gxzw_try_more_again">Опитайте отново</string>
     <string name="gxzw_use_password">Моля, използвайте вашата парола за отключване</string>
-
+	<string name="wireless_current_charge">Зареждане</string>
 </resources>
