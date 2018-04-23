@@ -183,7 +183,7 @@
     <string name="quit_all">Откажи всички</string>
     <string name="receive_follow">Известия за нови епизоди</string>
     <string name="receive_follow_summary">Включете, за да получавате известия за нови епизоди в показванията, които следите</string>
-    <string name="receive_mipush">Получавайте push известия</string>
+    <string name="receive_mipush">Получаване на изкачащи известия</string>
     <string name="receive_mipush_summary">Включете, за да получавате известия за популярни видеоклипове</string>
     <string name="reload_sub_title">Докоснете, за да опитате отново.</string>
     <string name="reload_title">"Не можа да се свърже с мрежата."</string>
