@@ -244,7 +244,7 @@
     <string name="use_cellular_network_summary">Изключете, за да спестите мобилните данни и да избегнете допълнителни такси</string>
     <string name="use_cellular_offlinedownload_summary">Включете, за да получавате известия за нови видеоклипове, когато сте свързани с мобилни данни</string>
     <string name="use_cellular_offlinedownload_title">Уведомявайте за нови видеоклипове, когато сте свързани с мобилни данни</string>
-    <string name="use_cellular_play_summary">Изкчи за спестяване на мобилни данни</string>
+    <string name="use_cellular_play_summary">Изключи за спестяване на мобилни данни</string>
     <string name="use_cellular_play_title">Ползвай мобилни данни за изпълнение на видео</string>
     <string name="v_addon">Популярни</string>
     <string name="v_agree">Съгласие</string>
