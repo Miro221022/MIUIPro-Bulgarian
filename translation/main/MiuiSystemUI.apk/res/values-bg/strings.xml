@@ -790,4 +790,10 @@ MMMM d"</string>
 	<string name="click_to_return_multi_window_of_notch">Връщане към Разделен екран</string>
 	<string name="select_logd_level">Изберете ниво на лога</string>
 	<string name="prompt_danger">Опасност</string>
+	<string name="enter_special_mode_message">След като рестартирате приложението, съдържанието на приложението ще бъде разширено до горната област на лентата на състоянието. Ако има изключения като неправилно съдържание и кликвания на не точното място, можете отново да кликнете върху бутона, за да възстановите режима по подразбиране.</string>
+    <string name="enter_special_mode_title">Рестартирайте приложението и разширете пространството за показване</string>
+    <string name="exit_special_mode_message">След като рестартирате приложението, пространство за показване на приложението ще бъде възстановено в режим по подразбиране.</string>
+    <string name="exit_special_mode_title">Рестартирайте приложението и възстановете пространството за показване</string>
+    <string name="special_mode_cancel">Отказ</string>
+    <string name="special_mode_ok">Рестарт</string>
 </resources>
