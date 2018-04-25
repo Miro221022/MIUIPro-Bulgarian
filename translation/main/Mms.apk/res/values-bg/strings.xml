@@ -652,7 +652,21 @@
   <string name="warning_show">Изпращане след %d сек.</string>
   <string name="wild_msg_processing">Обработва се...</string>
   <string name="wild_msg_title">Включи синхр. с облачна услуга</string>
-  <string name="yellowpage_recommend_msg">Проверете функциите на MIUI  съобщения</string>
+  <string name="yellowpage_recommend_msg">Проверете функциите на MIUI съобщения</string>
   <string name="yes">OК</string>
   <string name="yesterday">Вчера</string>
+  <string name="button_emoji_creature">Емоджита (животни)</string>
+  <string name="button_emoji_lifestyle">Емоджита (начин на живот)</string>
+  <string name="button_emoji_smiley">Емоджита (лица)</string>
+  <string name="button_emoji_symbol">Емоджита (символи)</string>
+  <string name="button_emoji_text">Емоджита (текст)</string>
+  <string name="button_fold">Свиване</string>
+  <string name="button_next_slide">Next</string>
+  <string name="button_pre_slide">Предишен</string>
+  <string name="button_resend_message">Изпрати отново</string>
+  <string name="button_unfold">Разгъване</string>
+  <string name="dialog_message_fake_cell_detect_error">Коригиране на информацията за това съобщение? За да направите това, MIUI трябва да качи телефонен номер (%1$s), съдържанието на съобщението, и информацията за близко местоположение на сървърите си.</string>
+  <string name="dialog_title_fake_cell_detect_error">Корекция</string>
+  <string name="draft">Чернова</string>
+  <string name="fake_cell_alert_detect_error">"Това не е изпратено от фалшива базова станция"</string>
 </resources>
