@@ -71,4 +71,15 @@
     <string name="stop_record_while_locking_summary">Спиране на записа и запазване на видеото, когато екранът е заключен</string>
     <string name="stop_recording">Спри записа</string>
     <string name="timer_format">%s</string>
+	<string name="cannot_change_frames">Скоростта на кадрите може да бъде персонализирана само за записи с фиксирана скорост на кадрите.</string>
+    <string name="close_screen_record">Спрян запис</string>
+    <string name="fixed_frame_rate">Фиксирана скорост на кадрите</string>
+    <string name="fixed_frame_rate_summary">Записването на видеоклипове с фиксирана скорост на кадрите подобрява възпроизвеждането на социалните медийни платформи и намалява живота на батерията.</string>
+    <string name="is_checked">Избрани</string>
+    <string name="is_go_home">Върнете се отново в екранното записващо приложение</string>
+    <string name="is_go_home_summary">"Отваряне на началната страница на екранното записващо приложение след като завършите записа"</string>
+    <string name="settings">Настройки</string>
+    <string name="storage_location">Хранилище</string>
+    <string name="storage_location_summary">Изберете предпочитаната от вас опция за съхранение</string>
+    <string name="unchecked">Не е избрано</string>
 </resources>
