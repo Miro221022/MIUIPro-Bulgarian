@@ -5618,4 +5618,9 @@ Stable"</string>
     <string name="open_optimization_message">Включете оптимизацията за да се наслаждавате на гладък и бърз интерфейс.</string>
     <string name="open_optimization_option">Включване</string>
 	<string name="game_mode_settings">Режим за игри</string>
+	<string name="mqs_privacy_automatically_upload">Качване автоматично следващия път</string>
+    <string name="mqs_privacy_dialog_cancel">Отказ</string>
+    <string name="mqs_privacy_dialog_confirm">Качване</string>
+    <string name="mqs_privacy_dialog_content">Ще качите ли регистрационните файлове, за да ни помогнете да открием и разрешим този проблем? Регистрационните файлове може да съдържат вашата лична информация, включително информацията за местоположението ви.</string>
+    <string name="mqs_privacy_dialog_title">Възникна грешка</string>
 </resources>
