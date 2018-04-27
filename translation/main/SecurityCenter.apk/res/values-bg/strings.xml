@@ -1729,7 +1729,7 @@
     <string name="password_type_underline"><u>Смяна на парола</u></string>
     <string name="Setting_lock">Настройки</string>
     <string name="more_lock">Още</string>
-    <string name="app_name">Закл. на прил.</string>
+    <string name="app_name">Заключване на приложения</string>
     <string name="back_app_name">Върнете се в Закл. приложения</string>
     <string name="ac_notification_contentTitle">Защитете приложенията чрез Заключване на приложения</string>
     <string name="ac_pre_notification_contentTitle">Опитайте Заключване на приложения</string>
