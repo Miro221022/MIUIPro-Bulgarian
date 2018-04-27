@@ -1198,4 +1198,5 @@
   <string name="sdnContacts_empty">Няма Сервизни номера</string>
   <string name="sdnContacts_emptyLoading">Зареждане на Сервизни номера…</string>
   <string name="special_code_security_exception">Операцията е отменена:Няма приложение за повикване по подразбиране</string>
+  <string name="no_setting_menu">Няма налични опции за менюто</string>
 </resources>
