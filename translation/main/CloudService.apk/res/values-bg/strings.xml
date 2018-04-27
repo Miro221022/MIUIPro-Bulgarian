@@ -554,7 +554,7 @@
     <string name="micloud_main_head_menu_cloud_backup">Архив на нач. екран</string>
     <string name="micloud_main_head_menu_state_open">Вкл</string>
     <string name="micloud_main_head_menu_state_close">Изкл</string>
-    <string name="micloud_main_head_menu_state_unavailable">Не е налично</string>
+    <string name="micloud_main_head_menu_state_unavailable">Не се поддържа</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Намерете устройството не е налице във Второ пространство, можете да го използвате в Първо пространство.</string>
     <string name="micloud_main_see_unsynced_data">Проверка на данните, които ще бъдат синхронизирани</string>
     <string name="micloud_find_device_sms_alert">Възможно е да бъде изпратено СМС съобщение за да се активира тази услуга. Вашият оператор ще ви таксува за това съобщение. Когато превключите SIM картата си, може автоматично да бъде изпратено съобщение, за да се активира отново тази функция.</string>
