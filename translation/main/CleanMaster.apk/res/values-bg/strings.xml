@@ -528,4 +528,12 @@
   <string name="guide_virus_dialog_positive">Сканиране</string>
   <string name="guide_virus_dialog_title">Антивирусно сканиране</string>
   <string name="mainbtn_text_no_trash">Пропускане</string>
+  <string name="menu_open">Отвори</string>
+  <string name="tips_low_storage_dialog_cancel">Отказ</string>
+  <string name="tips_low_storage_dialog_msg_qq">QQ кеша достигна 3ГБ. Това може да забави устройството Ви. Изчистване на QQ кеша сега?</string>
+  <string name="tips_low_storage_dialog_msg_storage">"Вече е заето 90% хранилището в устройството Ви. Деинсталирайте приложения които не използвате."</string>
+  <string name="tips_low_storage_dialog_msg_wechat">WeChat кеша достигна 3ГБ. Това може да забави устройството Ви. Изчистване на WeChat кеша сега?</string>
+  <string name="tips_low_storage_dialog_ok">Почистване</string>
+  <string name="tips_low_storage_dialog_ok_storage">Освобождаване на място</string>
+  <string name="tips_low_storage_dialog_title">Мястото в хранилището е малко</string>
 </resources>
