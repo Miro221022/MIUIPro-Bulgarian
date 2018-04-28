@@ -971,8 +971,8 @@
     <string name="power_consume_rank_title">Използване на батерията</string>
     <string name="power_consume_rank_software">Приложения</string>
     <string name="power_consume_rank_hardware">Система</string>
-    <string name="power_consume_software_total_format">Приложения: %s</string>
-    <string name="power_consume_hardware_total_format">Хардуер: %s</string>
+    <string name="power_consume_software_total_format">Приложения:</string>
+    <string name="power_consume_hardware_total_format">Хардуер:</string>
     <string name="power_consume_other">Други</string>
     <string name="battery_desc_other_apps">Разход на батерия от други приложения</string>
     <string name="power_settings_title">Задаване</string>
@@ -1995,8 +1995,8 @@
     <string name="app_manager_back">Назад</string>
     <string name="app_manager_defaults_setting">Стандартни приложения</string>
     <string name="app_manager_clear_cache">Изчисти кеша</string>
-    <string name="app_manager_reset_app_preferences">Възстановяване на стандартни настройки за приложенията</string>
-    <string name="app_manager_reset_app_preferences_title">Възстановяване на стандартни настройки?</string>
+    <string name="app_manager_reset_app_preferences">Възстановяване на стандартни настройки</string>
+    <string name="app_manager_reset_app_preferences_title">Възстановяване на настройки?</string>
     <string name="app_manager_reset_app_preferences_desc">"Това ще нулира всички потребителски настройки за:\nДеактивирани приложения\nДеактивирани известия от приложенията\nПриложения по подразбиране\nЗабрани за ползване на данни от приложенията
 \nВие няма да загубите никаква информация."</string>
     <string name="app_manager_reset_app_preferences_button">Нулирай приложения</string>
