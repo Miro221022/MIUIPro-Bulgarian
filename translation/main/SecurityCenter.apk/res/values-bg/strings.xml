@@ -971,14 +971,14 @@
     <string name="power_consume_rank_title">Използване на батерията</string>
     <string name="power_consume_rank_software">Приложения</string>
     <string name="power_consume_rank_hardware">Система</string>
-    <string name="power_consume_software_total_format">Приложения:</string>
-    <string name="power_consume_hardware_total_format">Хардуер:</string>
+    <string name="power_consume_software_total_format">Приложения: %s</string>
+    <string name="power_consume_hardware_total_format">Хардуер: %s</string>
     <string name="power_consume_other">Други</string>
     <string name="battery_desc_other_apps">Разход на батерия от други приложения</string>
     <string name="power_settings_title">Задаване</string>
     <string name="power_settings_category_title">Индикатор за батерия</string>
     <string name="power_settings_shape">Графично</string>
-    <string name="power_settings_number">Проценти и Графика</string>
+    <string name="power_settings_number">Проценти и графика</string>
     <string name="power_settings_top">Горна лента</string>
     <string name="power_customize_giveup_change">Ще отмените ли промените?</string>
     <string name="menu_item_force_stop">Затваряне</string>
