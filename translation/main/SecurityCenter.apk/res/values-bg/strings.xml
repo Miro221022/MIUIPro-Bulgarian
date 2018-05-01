@@ -1993,7 +1993,7 @@
     <string name="app_manager_show_all_apps">Покажи системните приложения</string>
     <string name="app_manager_hide_system_server">Скрий системните приложения</string>
     <string name="app_manager_back">Назад</string>
-    <string name="app_manager_defaults_setting">Стандартни приложения</string>
+    <string name="app_manager_defaults_setting">Приложения по подразбиране</string>
     <string name="app_manager_clear_cache">Изчисти кеша</string>
     <string name="app_manager_reset_app_preferences">Възстановяване на стандартни настройки</string>
     <string name="app_manager_reset_app_preferences_title">Възстановяване на настройки?</string>
