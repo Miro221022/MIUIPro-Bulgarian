@@ -4500,7 +4500,7 @@
     <string name="wifi_required_info_text">За да завърши настройката, устройството ви се нуждае от достъп до Wi-Fi. След това можете да превключвате между мобилни данни и Wi-Fi.</string>
     <string name="wifi_setting_frequency_band_title">Честотен спектър за Wi-Fi</string>
     <string name="wifi_setting_frequency_band_summary">Уточнете вида честотен обхват на операцията</string>
-    <string name="preferred_app_settings">Настройки на приложенията по подразбиране</string>
+    <string name="preferred_app_settings">Приложенията по по дразбиране</string>
     <string name="preferred_app_settings_default">По подразбиране</string>
     <string name="preferred_app_settings_not_selected">Не е избрано</string>
     <string name="preferred_app_settings_reset">Възстанови по подразбиране</string>
