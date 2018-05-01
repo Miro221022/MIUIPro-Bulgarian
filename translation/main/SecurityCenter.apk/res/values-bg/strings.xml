@@ -1162,7 +1162,7 @@
     <string name="auto_task_condition_choose_end_time">Краен час</string>
     <string name="auto_task_condition_number_pick_title">Задайте състояние на батерията</string>
     <string name="auto_task_condition_time_pick_title">Моля, задайте таймер</string>
-    <string name="auto_atsk_condition_battery_level_text_down">При достигане на батерията до %s</string>
+    <string name="auto_atsk_condition_battery_level_text_down">При изтощаване на батерията до %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">При зареждане на батерията до %s</string>
     <string name="auto_task_condition_time_text">В %s</string>
     <string name="auto_task_condition_time_duration_text">От %1$s до %2$s</string>
