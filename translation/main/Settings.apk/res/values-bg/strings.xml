@@ -5263,7 +5263,7 @@ Stable"</string>
     <string name="wakeup_for_keyguard_notification_title">Събуждане на екрана при известия</string>
     <string name="secure_keyguard_business_title">Настройване заключен екран</string>
     <string name="fingerprint_and_password_entrance_title">Заключване на екрана и пръстов отпечатък</string>
-    <string name="password_entrance_title">Закл. на екрана</string>
+    <string name="password_entrance_title">Заключване на екрана</string>
     <string name="apply_fingerprint_to_category_title">Прилагане на пръстов отпечатък за…</string>
     <string name="manage_fingerprint_text">Управление на пръстовите отпечатъци</string>
     <string name="fingerprint_identify_msg">Разчитане на отпечатък…</string>
@@ -5280,7 +5280,7 @@ Stable"</string>
     <string name="lock_screen_unlock_show">Прескочи закл. екран</string>
     <string name="lock_screen_unlock_show_summary">Отворете Начален екран или въведете паролата директно</string>
     <string name="security_keyguard_category_name">Заключен екран</string>
-    <string name="security_password_category_name">Закл. на екрана</string>
+    <string name="security_password_category_name">Заключване на екрана</string>
     <string name="fingerprint_payment">Плащане с Пръстов отпечатък</string>
     <string name="unlock_disable_frp_warning_content_profile">Услугите за защита на профила няма да работят без вашата парола.</string>
     <string name="wifi_assistant_intro_setup">Въвеждане в WLAN Асистента</string>
