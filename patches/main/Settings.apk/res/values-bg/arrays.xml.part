@@ -126,13 +126,13 @@
     </string-array> 
 	<string-array name="crt_animation_entries"> 
         <item>Изключено</item> 
-        <item>Бавно</item> 
-        <item>Много бавно</item> 
-        <item>Бавен</item> 
-        <item>Нормално</item> 
-        <item>Бърз</item> 
-        <item>Много бърз</item> 
-        <item>Супер бърз</item> 
+        <item>Забавена</item> 
+        <item>Много бавна</item> 
+        <item>Бавена</item> 
+        <item>Нормална</item> 
+        <item>Бърза</item> 
+        <item>Много бърза</item> 
+        <item>Супер бърза</item> 
     </string-array> 
 	<string-array name="crt_animation_framing_entries"> 
         <item>Постоянна</item> 
