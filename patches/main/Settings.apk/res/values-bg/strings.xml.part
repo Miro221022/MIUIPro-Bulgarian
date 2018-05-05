@@ -110,7 +110,7 @@
     <string name="listview_animation_title">Списък с анимации</string> 
     <string name="listview_interpolator_title">Допълнителен списък</string>
     <string name="fade_animation_title">Стил на анимация</string> 
-    <string name="crt_animation_title">Анимация при изкл. на екрана</string>
+    <string name="crt_animation_title">Анимация при изключване на екрана</string>
     <string name="animation_framing_title">Честота на кадрите</string>
     <string name="volume_panel_title">Лента за сила на звука</string> 
     <string name="volume_full_title">Разширен панел</string> 
