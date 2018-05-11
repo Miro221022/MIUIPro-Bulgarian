@@ -5622,4 +5622,6 @@ Stable"</string>
     <string name="mqs_privacy_dialog_confirm">Качване</string>
     <string name="mqs_privacy_dialog_content">Ще качите ли регистрационните файлове, за да ни помогнете да открием и разрешим този проблем? Регистрационните файлове може да съдържат вашата лична информация, включително информацията за местоположението ви.</string>
     <string name="mqs_privacy_dialog_title">Възникна грешка</string>
+	<string name="notch_force_black_desc">Когато е включено, площта около веждата на екрана ще е черна</string>
+    <string name="notch_force_black_title">Скриване на веждата на екрана</string>
 </resources>
