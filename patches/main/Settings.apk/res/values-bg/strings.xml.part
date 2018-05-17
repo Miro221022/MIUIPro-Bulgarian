@@ -53,7 +53,7 @@
     <string name="charging_sounds_off">Звук, когато е прекъснато зареждането</string>
     <string name="haptic_off">Вибрация при зареждане</string>
     <string name="ios_toggle_title">Разположение на иконите</string> 
-    <string name="charging_display">Включване на екрана екрана при зареждане</string>
+    <string name="charging_display">Включване на екрана при зареждане</string>
     <string name="text_bat_color">Цвят на текста на батерията</string>
     <string name="text_bat_color_title">Смяна цвета на текста</string>
     <string name="text_bat_color_0_title">Цвят под 20%</string>
