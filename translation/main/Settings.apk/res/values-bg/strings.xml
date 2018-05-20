@@ -139,7 +139,7 @@
     <string name="bugreport_in_power">Връзка към Доклада за грешки</string>
     <string name="bugreport_in_power_summary">Добавете пряк път в меню Енергия за докладване на грешки</string>
     <string name="keep_screen_on">Постоянно включен</string>
-    <string name="keep_screen_on_summary">Екраня няма да заспива в режим на зареждане</string>
+    <string name="keep_screen_on_summary">Екрана няма да заспива в режим на зареждане</string>
     <string name="bt_hci_snoop_log">Активиране на регистрационния файл за анализ на пакетите в команден ред за Bluetooth с протокола HCI</string>
     <string name="bt_hci_snoop_log_summary">Заснемане на всички пакети за Bluetooth с протокола HCI във файла</string>
     <string name="oem_unlock_enable">Отключване чрез оборудването на производителя</string>
@@ -4899,8 +4899,8 @@ Stable"</string>
     <string name="miui_experience_optimization">Вкл. на MIUI оптимизация</string>
     <string name="open_miui_optimization_title">Вкл. на MIUI оптимизация</string>
     <string name="close_miui_optimization_title">Изкл. на MIUI оптимизация</string>
-    <string name="open_miui_optimization_warning_message">Устройството ви ще се рестартира, за да приложи промяната.</string>
-    <string name="close_miui_optimization_warning_message">Устройството ви ще се рестартира, за да приложи промяната.</string>
+    <string name="open_miui_optimization_warning_message">Рестартирайте устройството,за да се приложи промяната.</string>
+    <string name="close_miui_optimization_warning_message">Рестартирайте устройството,за да се приложи промяната.</string>
     <string name="optimization_close">Изкл. и рестарт</string>
     <string name="optimization_open">Включване</string>
     <string name="optimization_cancel">Отказ</string>
@@ -4908,8 +4908,8 @@ Stable"</string>
     <string name="sdcard_optimization_summary">Направете SD картата много по-бърза</string>
     <string name="open_sdcard_optimization_title">Включи оптимизацията на SD карти</string>
     <string name="close_sdcard_optimization_title">Изключи оптимизацията на SD карти</string>
-    <string name="open_sdcard_optimization_warning_message">Устройството ви ще се рестартира, за да приложи промяната.</string>
-    <string name="close_sdcard_optimization_warning_message">Устройството ви ще се рестартира, за да приложи промяната.</string>
+    <string name="open_sdcard_optimization_warning_message">Устройството Ви ще се рестартира, за да приложи промяната.</string>
+    <string name="close_sdcard_optimization_warning_message">Устройството Ви ще се рестартира, за да приложи промяната.</string>
     <string name="sdcard_optimization_close">Изключване и рестарт</string>
     <string name="sdcard_optimization_open">Включи</string>
     <string name="sdcard_optimization_cancel">Отказ</string>
