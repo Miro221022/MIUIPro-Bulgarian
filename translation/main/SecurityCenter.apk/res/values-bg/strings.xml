@@ -866,8 +866,8 @@
     <string name="status_bar_network_flow_setup_data_plan">"   Настрой план за данни >"</string>
     <string name="status_bar_network_flow_phone_balance">"   Баланс телефон:%1$s "</string>
     <string name="status_bar_network_flow_exceed_content">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;План превишени:<font color="%2$s">%3$s</font></string>
-    <string name="status_bar_network_flow_content">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; Остават: %2$s</string>
-    <string name="status_bar_network_flow_content_not_setting">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; Този месец: %2$s</string>
+    <string name="status_bar_network_flow_content">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Остават: %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Този месец: %2$s</string>
     <string name="status_bar_network_flow_today">Днес: %1$s</string>
     <string name="pref_key_tethering_setting">Еднократен лимит за данни</string>
     <string name="pref_key_tethering_title">Еднократен лимит за данни</string>
