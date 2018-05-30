@@ -26,7 +26,7 @@
     <string name="double_tap_app_title">Приложение при двойно почукване</string> 
     <string name="swipe_up_app_title">Приложение при плъзгане нагоре</string>
     <string name="search_menu_summary">Настройки за търсене, при плъзгане нагоре</string> 
-    <string name="smart_mobile_network_settings_title">Състояние прехвърлени данни и мрежов режим</string> 
+    <string name="smart_mobile_network_settings_title">Състояние прехвърлени данни и мрежови режим</string> 
     <string name="smart_mobile_network_title">Интелигентна мобилна мрежа</string> 
     <string name="sim_select_title">Настройване на образец за:</string>
     <string name="WiFiOn_mobile_title">Когато Wi-Fi е включен</string>
@@ -171,4 +171,6 @@
     <string name="powermenu_title">Деактивиране на разширеното меню за рестартиране</string>
     <string name="hide_app">Настройки на преки пътища</string>
     <string name="hide_app_title">Скриване на приложения</string>
+	<string name="smart_mobile_title">Настройки на интелигентна мрежа</string> 
+    <string name="timer_setting">Настройки на таймери за свързване</string>
 </resources>
