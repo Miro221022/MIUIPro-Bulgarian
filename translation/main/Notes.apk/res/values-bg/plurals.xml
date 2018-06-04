@@ -12,4 +12,12 @@
         <item quantity="other">%1$s не са синхронизирани</item>
         <item quantity="one">%1$s не е синхронизирана</item>
     </plurals>
+	     <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d секунди остават</item>
+        <item quantity="one">%d секунда остава</item>
+     </plurals>
+     <plurals name="word_count">
+        <item quantity="other">%s Символа</item>
+        <item quantity="one">%s Символ</item>
+     </plurals>
 </resources>
