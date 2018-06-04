@@ -424,4 +424,22 @@
     <string name="widget_select_style">Избери джаджа</string>
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_display_name">Xiaomi Календар</string>
+	<string name="action_bar_date_button_title">Изчисляване на датата</string>
+    <string name="anniversary_secondary_tag">Юбилей</string>
+    <string name="birthday_born">рождена дата</string>
+    <string name="clear_net_mock_success">Недвусмислен ясен успех</string>
+    <string name="countdown_secondary_tag">Отброяване</string>
+    <string name="date_calculate_hint">Научете каква е датата след няколко дни</string>
+    <string name="date_jump_hint">Отидете директно до определен ден</string>
+    <string name="date_jump_title">Направо към дата</string>
+    <string name="edit_event_birthday_reminder_3_days_before">Напомнете също 3 дни предварително</string>
+    <string name="guide_card_import">Внасяне</string>
+    <string name="guide_card_primary_text">Внасяне на рожден ден на приятел</string>
+    <string name="guide_card_second_text">Групово внасяне, на рождени дни на приятели</string>
+    <string name="guide_card_title">Внасяне на рождени дни</string>
+    <string name="receive_net_mock_success">Груповото внасяне е успешно</string>
+    <string name="tab_title_agenda">Събития</string>
+    <string name="tab_title_day">Ден</string>
+    <string name="tab_title_month">Месец</string>
+    <string name="tab_title_week">Седмица</string>
 </resources>
