@@ -536,4 +536,6 @@
   <string name="tips_low_storage_dialog_ok">Почистване</string>
   <string name="tips_low_storage_dialog_ok_storage">Освобождаване на място</string>
   <string name="tips_low_storage_dialog_title">Мястото в хранилището е малко</string>
+  <string name="clean_long_msg">"Почистването на %1$d файла,%2$d завърши 
+%3$d%%  елемента/секунда оставащо време:%4$s"</string>
 </resources>

@@ -101,4 +101,16 @@
     <item quantity="other">(%1$d празни файлове)</item>
     <item quantity="one">(%1$d празен файл)</item>
   </plurals>
+       <plurals name="hour">
+        <item quantity="other">%1$d часа</item>
+        <item quantity="one">%1$d час</item>
+     </plurals>
+     <plurals name="minute">
+        <item quantity="other">%1$d минути</item>
+        <item quantity="one">%1$d минута</item>
+     </plurals>
+     <plurals name="second">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="one">%1$d секунда</item>
+     </plurals>
 </resources>
