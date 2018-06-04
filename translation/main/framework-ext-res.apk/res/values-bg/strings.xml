@@ -173,4 +173,8 @@
     <string name="switching_tv">Превключване…</string>
     <string name="switch_desc_tv">Две пространства. Едно устройство.</string>
     <string name="switch_brand_desc_tv">Услугите за безопасност са предоставени от Spaces Mobile</string>
+	<string name="miui_forbid_poweroff_when_device_locked">"Не може да се изключи, устройството е заключено."</string>
+    <string name="super_resolution_maintain_tips">"Супер резолюция все още не е налице."</string>
+    <string name="wifi_assistant_wifi_no_internet">Тази WLAN мрежа няма достъп до интернет</string>
+    <string name="wifi_assistant_wifi_no_internet_detail">Докоснете, за да видите подробности</string>
 </resources>
