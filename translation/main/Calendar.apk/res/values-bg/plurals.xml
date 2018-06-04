@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">%d дни преди</item>
-        <item quantity="one">%d ден преди</item>
+        <item quantity="other">преди %d дни</item>
+        <item quantity="one">преди %d ден</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d часа преди</item>
-        <item quantity="one">%d час преди</item>
+        <item quantity="other">преди %d часа</item>
+        <item quantity="one">преди %d час</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d минути преди</item>
-        <item quantity="one">%d минута преди</item>
+        <item quantity="other">преди %d минути</item>
+        <item quantity="one">преди %d минута</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
@@ -29,8 +29,8 @@
         <item quantity="one">преди %1$d ден в %2$s</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d седмици преди</item>
-        <item quantity="one">%d седмица преди</item>
+        <item quantity="other">преди %d седмици</item>
+        <item quantity="one">преди %d седмица</item>
     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s дни</item>
@@ -104,4 +104,16 @@
         <item quantity="other">%d работни дни</item>
         <item quantity="one">%d работен ден</item>
     </plurals>
+	<plurals name="Ndays_after">
+    <item quantity="other">След %1$d дни</item>
+    <item quantity="one">След %1$d ден</item>
+    <item quantity="few">След %1$d дни</item>
+    <item quantity="many">След %1$d дни</item>
+  </plurals>
+  <plurals name="Ndays_ago">
+    <item quantity="other">преди %1$d дни</item>
+    <item quantity="one">преди %1$d ден</item>
+    <item quantity="few">преди %1$d дни</item>
+    <item quantity="many">преди %1$d дни</item>
+  </plurals>
 </resources>
