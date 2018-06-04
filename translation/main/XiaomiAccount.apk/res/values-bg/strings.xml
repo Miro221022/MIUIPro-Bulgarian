@@ -451,4 +451,8 @@
   <string name="vip_account_settings">VIP Настройки</string>
   <string name="vip_settings_info">VIP настройки</string>
   <string name="xiao_mi_vip">Mi VIP</string>
+  <string name="passport_talkback_image_captcha">Код за потвърждаване на изображения</string>
+  <string name="passport_talkback_switch_image_captcha">Преминете към кода за потвърждение на изображението</string>
+  <string name="passport_talkback_switch_voice_captcha">Превключете на код за потвърждаване на гласа</string>
+  <string name="passport_talkback_voice_captcha">Изпълняване на код за потвърждаване на гласа</string>
 </resources>
