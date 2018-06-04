@@ -1714,4 +1714,17 @@
 	<string name="prompt_when_turnon_volte_without_lte">"VoLTE мрежите не са налични в момента. Включването на VoLTE може да Ви попречи да провеждате редовни разговори."</string>
 	<string name="switch_dds_to_sub_alert">Задайте тази карта като основна карта за данни.</string>
 	<string name="volte_tips_when_turn_on">China Telecom VoLTE услугите се предоставят само в районите с VoLTE покритие. VoLTE услугите се предоставят от оператора.</string>
+	<string name="voice_service_cannot_call_notification_content">Възможно е да имате проблеми с връзката, докато се опитвате да осъществявате повиквания.</string>
+    <string name="voice_service_cannot_call_notification_title">"Не може да се осъществяват повиквания в текущата мрежа"</string>
+    <string name="voice_service_switch_summary">Включете, за да можете да използвате функцията за повикване с VoLTE в мрежите с VoLTE</string>
+    <string name="voice_service_switch_title">Използвайте услуги за разговори с VoLTE</string>
+    <string name="voice_service_warning_dialog_body">"Този таблет поддържа VoLTE повиквания в 4G мрежи. Уверете се, че мрежите към които сте свързани, поддържат тази функционалност. VoLTE услугите се предоставят от вашия оператор. Свържете се с вашия местен оператор, за да научите дали VoLTE се поддържа във вашия район.
+
+Ако виждате _ в лентата за състоянието, VoLTE повикванията не са налични. Ако не можете да осъществявате или да получавате повиквания или вашите разговори са прекъснати, уверете се, че вашата мрежа е съвместима с VoLTE.
+
+Тази таблетка няма слушалка. Можете да превключите в режим "свободни ръце" или да използвате слушалки, за да осъществявате повиквания."</string>
+    <string name="voice_service_warning_dialog_cancel">Отказ</string>
+    <string name="voice_service_warning_dialog_ok">Разбрах</string>
+    <string name="voice_service_warning_dialog_ok_timer">Разбрах (%d)</string>
+    <string name="voice_service_warning_dialog_title">VoLTE повиквания</string>
 </resources>
