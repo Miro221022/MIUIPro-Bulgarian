@@ -1230,4 +1230,17 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="play_video">Изпълни видео</string>
     <string name="popup_video">Изскачащ видеоклип</string>
     <string name="share_video">Споделяне на клип</string>
+	<string name="action_one_touch">Отваряне на известия</string>
+    <string name="action_skip">Пропускане</string>
+    <string name="enter_infoflow_guide">Плъзнете нагоре,за да видите новините</string>
+    <string name="hot_words_item_ads_mark">Реклами</string>
+    <string name="info_flow_description">Информационен канал</string>
+    <string name="message_notice_push">Последни горещи точки, не ги пропускайте!</string>
+    <string name="pref_navscreen_layoutstate_title">Управление на разделен екран</string>
+    <string name="refresh_description">Обновяване</string>
+    <string name="save_file_suffix">файл</string>
+    <string name="short_video_description">Видео канал</string>
+    <string name="short_video_tip">Вижте! Смешно видео</string>
+    <string name="suggestion_clear_record_message">Потвърждавате ли празен запис?</string>
+    <string name="title_notice_push">Обърнете внимание</string>
 </resources>

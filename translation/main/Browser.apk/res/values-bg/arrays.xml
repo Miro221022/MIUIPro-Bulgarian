@@ -83,4 +83,12 @@
         <item>Дъжд</item>
         <item>Сняг</item>
     </string-array>
+     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Вертикален изглед</item>
+        <item>Хоризонтален изглед</item>
+     </string-array>
+     <string-array name="pref_navscreen_layoutstate_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
 </resources>
