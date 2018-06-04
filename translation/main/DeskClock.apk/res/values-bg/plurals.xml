@@ -40,4 +40,8 @@
         <item quantity="other">Да се изтрият ли избраните часови зони?</item>
         <item quantity="one">Да се изтрие ли тази часова зона?</item>
     </plurals>
+	     <plurals name="second">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+     </plurals>
 </resources>
