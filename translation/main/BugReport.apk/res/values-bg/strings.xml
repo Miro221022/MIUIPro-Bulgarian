@@ -314,4 +314,10 @@
   <string name="upload_log_failed">Не мога да изпратя историята</string>
   <string name="warning_field_empty">Въведи %1$s</string>
   <string name="warning_field_invalid">Изберете валидно %1$s</string>
+  <string name="feedback_status_collect_log_failed">"Логовете не може да се получат"</string>
+  <string name="feedback_status_get_and_save_bbs_info_failed">"Не може да се получи прикаченият URL адрес"</string>
+  <string name="feedback_status_save_log_info_failed">"Не може да се промени прикаченият URL адрес"</string>
+  <string name="feedback_status_submit_bbs_failed">"Съдържанието на отзивите не може да бъде изпратено"</string>
+  <string name="feedback_status_submit_feedback_failed">"Отзивитене могат да бъдат изпратени"</string>
+  <string name="feedback_status_upload_log_failed">"Прикачените файлове не можаха да бъдат качени"</string>
 </resources>
