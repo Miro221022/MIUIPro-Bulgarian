@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="special_locale_names_global">
+        <item>Опростен китайски</item>
+        <item>Традиционен китайски (Тайван)</item>
+        <item>Традиционен китайски (Хонг Конг)</item>
+        <item>Испански (Америка)</item>
+        <item>Португалски (Бразилия)</item>
+     </string-array>
+</resources>

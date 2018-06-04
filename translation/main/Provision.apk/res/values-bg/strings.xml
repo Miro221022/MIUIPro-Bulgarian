@@ -78,4 +78,7 @@
   <string name="voice_assist_title">Събуждане с глас</string>
   <string name="welcome">Добре дошли в</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Разрешаване на свързването към мобилни мрежи? Ако го направите, поставената от вас СИМ-карта ще се използва за свързване към мобилни мрежи за данни.</string>
+  <string name="sim_card_detection_mobile_not_available">"SIM картата не може да се свърже с мрежата"</string>
+  <string name="sim_scard_detecting_check_mobile_not_available">"SIM картата ви не може да се свърже към валидна операторска мрежа. Уверете се,че имате достатъчно кредит в картата и опитайте отново."</string>
+  <string name="start_up_slogan" />
 </resources>
