@@ -184,4 +184,13 @@
     <string name="cta_check_reminder">Не показвай повече</string>
     <string name="cta_button_quit">Изход</string>
     <string name="cta_button_continue">Приемам</string>
+	<string name="candy">Бонбони</string>
+    <string name="fairyland">Вълшебна земя</string>
+    <string name="fieldtrip">Пътуване из полето</string>
+    <string name="glee">Радост</string>
+    <string name="kungfu">Кунг фу</string>
+    <string name="mountainspring">Планински извор</string>
+    <string name="notice_audition">Природни звуци</string>
+    <string name="spaceage">Космическа ера</string>
+    <string name="vigor">Енергия</string>
 </resources>
