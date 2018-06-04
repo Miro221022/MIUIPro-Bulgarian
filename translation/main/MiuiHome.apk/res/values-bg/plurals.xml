@@ -28,4 +28,7 @@
         <item quantity="other">%1$d прилож са деинсталирани</item>
         <item quantity="one">%1$d прилож е деинсталирано</item>
     </plurals>
+	     <plurals name="announce_for_unread">
+        <item quantity="other">%2$s непрочетени от %1$s</item>
+     </plurals>
 </resources>

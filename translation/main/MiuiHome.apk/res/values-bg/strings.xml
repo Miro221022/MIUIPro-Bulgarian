@@ -330,4 +330,17 @@
     <string name="screen_cells_config_title">Схема на Начален екран</string>
     <string name="show_mem_info_title">Покажи съст. на рам памет</string>
     <string name="title_jeejen">Jeejen Начален екран</string>
+	<string name="announce_for_checked">%1$s, проверен</string>
+    <string name="announce_for_move">Преместване в ред %1$d колона %2$d</string>
+    <string name="announce_for_move_hotseat">Преместване в основна позиция %1$d</string>
+    <string name="announce_for_unchecked">%1$s, непроверен</string>
+    <string name="backup_fail">Неуспешно архивиране на лънчъра.</string>
+    <string name="icon_reorganize_channel">Разположение на иконата</string>
+    <string name="notification_reset_description">%1$s%1$s Може да нулира лънчъра до %2$s</string>
+    <string name="notification_reset_duration">След 2 часа,</string>
+    <string name="notification_reset_title">Автоматичното почистване завърши</string>
+    <string name="quick_app">Бързо приложение</string>
+    <string name="refresh">Обновяване</string>
+    <string name="reset_fail">Нулирането не бе успешно</string>
+    <string name="reset_title">нулиране</string>
 </resources>
