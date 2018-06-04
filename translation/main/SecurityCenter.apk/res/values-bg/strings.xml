@@ -2230,4 +2230,12 @@
     <string name="tc_receive_timeout">Времето за калибрирането изтече</string>
     <string name="tc_send_sms_error">"Не може да се изпрати SMS"</string>
     <string name="tc_web_correct_error">"Не може да се калибрира"</string>
+	<string name="gamebox_qq_not_find">Инсталирайте QQ и опитайте отново.</string>
+    <string name="gamebox_wechat_not_find">Инсталирайте WeChat и опитайте отново.</string>
+    <string name="gb_msg_not_shielded_summary">Покажи</string>
+    <string name="gs_gamebox">Команди за бърз достъп по време на игра</string>
+    <string name="gs_gamebox_detail">Показване на панела за бърз достъп в играта</string>
+    <string name="midrop_post_notification_contentText">"Опитайте Mi Drop. Той е бърз и без реклами."</string>
+    <string name="midrop_post_notification_contentTitle">Налага се да прехвърлите файлове?</string>
+    <string name="screenrecord_not_find">Инсталирайте последната версия на Запис на екрана и опитайте отново.</string>
 </resources>
