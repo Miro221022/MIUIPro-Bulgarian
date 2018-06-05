@@ -320,4 +320,5 @@
   <string name="feedback_status_submit_bbs_failed">"Съдържанието на отзивите не може да бъде изпратено"</string>
   <string name="feedback_status_submit_feedback_failed">"Отзивитене могат да бъдат изпратени"</string>
   <string name="feedback_status_upload_log_failed">"Прикачените файлове не можаха да бъдат качени"</string>
+  <string name="toast_loading_app_id">Получаване на информация…</string>
 </resources>
