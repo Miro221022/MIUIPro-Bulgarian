@@ -5023,7 +5023,7 @@ Stable"</string>
     <string name="standard">Без звук</string>
     <string name="standard_info">Всички обаждания и известия ще бъдат заглушени</string>
     <string name="total">Режим Не ме безпокойте</string>
-    <string name="total_info">Заглуши звуците и изключи вибрацията за всички, освен за будилника</string>
+    <string name="total_info">Заглушаване на звуците %1$s с изключение на алармите</string>
     <string name="rule_name">Име</string>
     <string name="day_of_week">Ден от седмицата</string>
     <string name="silent_mode">Тих режим</string>
@@ -5680,4 +5680,5 @@ Stable"</string>
     <string name="wifi_traffic_priority_regular">Редовен режим</string>
     <string name="wifi_traffic_priority_regular_summary">Споделете честотната лента между процесите въвфонов режим и приложенията на преден план</string>
     <string name="wifi_traffic_priority_summary">Дайте приоритет на скоростта на свързване автоматично</string>
+	<string name="total_info_sub">и изключете вибрацията</string>
 </resources>

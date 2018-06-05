@@ -464,6 +464,6 @@
 	<string name="ai_scene_mode_use_hint_text">"AI камерата автоматично разпознава сцени и оптимизира вашите снимки въз основа на тази информация"</string>
 	<string name="pref_camera_ai_scene_title">AI Камера</string>
 	<string name="accessibility_ai_scene_off">Интелигентна камера е изключена</string>
-    <string name="accessibility_ai_scene_on">Интелигентна камера</string>
-    <string name="hint_ae_af_lock">Авто фокус / автоматичната експозиция е заключена</string>
+    <string name="accessibility_ai_scene_on">Интелигентна камера е включена</string>
+    <string name="hint_ae_af_lock">Авто фокус/автоматичната експозиция е заключена</string>
 </resources>

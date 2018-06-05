@@ -1218,7 +1218,7 @@
   <string name="quick_settings_dnd_priority_label">Само с приоритет</string>
   <string name="quick_settings_done">Готово</string>
   <string name="quick_settings_drivemode_label">Режим Автомобил</string>
-  <string name="quick_settings_dual_location_label">GPS</string>
+  <string name="quick_settings_dual_location_label">Dual GPS</string>
   <string name="quick_settings_edit_label">Редактиране</string>
   <string name="quick_settings_flashlight_label">Фенерче</string>
   <string name="quick_settings_hotspot_label">WiFi т.д.</string>
@@ -1700,4 +1700,12 @@
   <string name="zen_priority_introduction">Няма да бъдете обезпокоявани от звуци и вибрации, освен от аларми, напомняния, събития, и повиквания, които посочвате.</string>
   <string name="zen_silence_introduction">Това блокира ВСИЧКИ звуци и вибрации, включително от аларми, музика, видеоклипове и игри.</string>
   <string name="zen_silence_introduction_voice">Това блокира ВСИЧКИ звуци и вибрации, включително от аларми, музика, видеоклипове и игри. Но ще можете да осъществявате телефонни обаждания.</string>
+  <string name="prompt_danger">Опасност</string>
+  <string name="prompt_detecting">Откриване</string>
+  <string name="prompt_safe">Безопасно</string>
+  <string name="prompt_unknown">Неизвестно</string>
+  <string name="status_bar_safepay_risk">Установени са рисковете при плащане</string>
+  <string name="status_bar_safepay_safe">Няма рискове при плащане</string>
+  <string name="status_bar_safepay_scanning">Проверка на платежната обстановка…</string>
+  <string name="status_bar_safepay_unknown">"Не може да се провери платежната обстановка"</string>
 </resources>
