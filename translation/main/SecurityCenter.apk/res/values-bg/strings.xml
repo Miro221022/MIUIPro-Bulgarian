@@ -2238,4 +2238,5 @@
     <string name="midrop_post_notification_contentText">"Опитайте Mi Drop. Той е бърз и без реклами."</string>
     <string name="midrop_post_notification_contentTitle">Налага се да прехвърлите файлове?</string>
     <string name="screenrecord_not_find">Инсталирайте последната версия на Запис на екрана и опитайте отново.</string>
+	<string name="app_manager_details_title">Информация за приложението</string>
 </resources>
