@@ -3877,7 +3877,6 @@
     <string name="screenshot_three_gesture">Плъзнете три пръста надолу по дисплея за снимка на екрана</string>
     <string name="screenshot_three_gesture_summary">Другите жестове с три пръста ще бъдат изключени</string>
     <string name="has_screenshot_sound">Звук за снимка на екрана</string>
-    <string name="paper_mode_side_effect_hint">По-високата интензивност може да окаже влияние върху съдържанието, което се показва.</string>
     <string name="key_settings_title">Преки пътища за клавиши и жестове</string>
     <string name="key_settings">Преки пътища за клавиши и жестове</string>
     <string name="key_position_cat">Позиции на бутоните</string>
