@@ -618,10 +618,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Графика</item>
-        <item>Проценти и Графика</item>
-        <item>Линия над статус лентата</item>
-        <item>Само проценти</item>
-        <item>Изкл.</item>
+        <item>Проценти и графика</item>
+        <item>Линия над лентата за състояние</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Запитване при включване</item>
@@ -791,7 +789,7 @@
         <item>Галерия</item>
         <item>Музика</item>
         <item>Имейл</item>
-        <item>Пусни видеото</item>
+        <item>Видео</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Връзката е бавна поради засилен трафик</item>
