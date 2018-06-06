@@ -230,4 +230,5 @@
     <string name="livetalk_left_minute">остават %s мин.</string>
     <string name="purchase_now">Вземи пакет</string>
 	<string name="prompt_no_volte_when_failed">"VoLTE услугите не са налице."</string>
+	<string name="conference_call_recorder_title">Конферентен разговор</string>
 </resources>

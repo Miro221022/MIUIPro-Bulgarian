@@ -461,9 +461,21 @@
     <string name="portait_effect_entry_movie">Филм</string>
     <string name="portait_effect_entry_riddle">Загадъчен</string>
     <string name="portait_effect_entry_story">Исторически</string>
-	<string name="ai_scene_mode_use_hint_text">"AI камерата автоматично разпознава сцени и оптимизира вашите снимки въз основа на тази информация"</string>
-	<string name="pref_camera_ai_scene_title">AI Камера</string>
+	<string name="ai_scene_mode_use_hint_text">"Интелигентната камерата автоматично разпознава сцени и оптимизира вашите снимки въз основа на тази информация"</string>
+	<string name="pref_camera_ai_scene_title">Интелигентна Камера</string>
 	<string name="accessibility_ai_scene_off">Интелигентна камера е изключена</string>
     <string name="accessibility_ai_scene_on">Интелигентна камера е включена</string>
     <string name="hint_ae_af_lock">Авто фокус/автоматичната експозиция е заключена</string>
+	<string name="edit_chin">Брадичка</string>
+    <string name="edit_lips">Устни</string>
+    <string name="edit_neck">Врат</string>
+    <string name="edit_nose">Нос</string>
+    <string name="edit_risorius">Уста</string>
+    <string name="edit_slim_nose">Нос</string>
+    <string name="edit_smile">Усмивка</string>
+    <string name="popup_tip_3d_beauty_intro_text">3D Красота</string>
+    <string name="pref_video_encoder_default">h264</string>
+    <string name="pref_video_encoder_entry_h264">H.264 Висока съвместимост</string>
+    <string name="pref_video_encoder_entry_h265">H.265 Висока производителност</string>
+    <string name="pref_video_encoder_title">Видео енкодер</string>
 </resources>
