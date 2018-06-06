@@ -1063,4 +1063,19 @@
   <string name="request_copy_db_to_disk">Поща изисква копиране на базата данни във файл</string>
   <string name="three_day">Три дни</string>
   <string name="recognize_ticket_air_user_name">Пасажер: %1$s</string>
+  <string name="account_setup_failed_auth_required">"Методите за удостоверяване не се поддържат от сървъра."</string>
+  <string name="login_mail">Вход в Поща</string>
+  <string name="need_get_qq_mail">Нужен е QQ мейл</string>
+  <string name="open_notification_kingagent">Open the notice of the burial point</string>
+  <string name="optimization_suggestion">Предложение за оптимизация</string>
+  <string name="others_mail">Други</string>
+  <string name="others_mail_des">(Преобразуване на повече от 60,0000 мейла)</string>
+  <string name="qq_authorization_help_get">Помогнете ми да получа</string>
+  <string name="qq_authorization_know">Получаване на кода за оторизация</string>
+  <string name="qq_authorization_tips">No longer prompt</string>
+  <string name="qq_verify_code">(Нужен е QQ код за потвърждение)</string>
+  <string name="title_activity_about">За</string>
+  <string name="verify_code">Потвърдете кода</string>
+  <string name="version_string">Версия: %s</string>
+  <string name="wps_title">WPS Поща</string>
 </resources>

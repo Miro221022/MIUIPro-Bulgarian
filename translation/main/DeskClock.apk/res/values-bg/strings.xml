@@ -210,11 +210,13 @@
   <string name="timer_running">Таймерът работи</string>
   <string name="timer_running_hint">Продължаване</string>
   <string name="timer_start_timer">Стартиране на таймер</string>
-  <string name="worldclock_input_hint_text">Въведете държава или град</string>
+  <string name="worldclock_input_hint_text">Въведете град</string>
   <string name="worldclock_search_city">Изберете град</string>
   <string name="worldclock_world_time">Часови зони</string>
   <string name="worldcolock_timezone_current">Текуща: %1$s</string>
   <string name="worldcolock_timezone_date">MMM dd</string>
   <string name="worldcolock_timezone_gap">Час</string>
   <string name="worldcolock_timezone_local">Същото като местното време</string>
+  <string name="open_keep_screen">Екранът ще бъде запазен</string>
+  <string name="shut_down_keep_screen">"Екранът няма да бъде запазен"</string>
 </resources>
