@@ -891,7 +891,7 @@
   <string name="saved">"Записано %s "</string>
   <string name="saving">Записване…</string>
   <string name="sdcard_cannot_use">Не може да използвате SD картата</string>
-  <string name="search_bar_text">Търсене на съобщения и контакти</string>
+  <string name="search_bar_text">Търсете подател или търсете контакт</string>
   <string name="search_hint">Търсене на поща</string>
   <string name="search_result">"Резултати "</string>
   <string name="search_tabs_name_all">Всички</string>
@@ -1018,7 +1018,7 @@
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="update_to_wps_mail">Насладете се на повече функции с WPS поща</string>
   <string name="updated_at">Обновено в %1$s</string>
-  <string name="upload_log">Качване на хронологията</string>
+  <string name="upload_log">Изпратете регистрационните файлове</string>
   <string name="upload_log_failed">Не може да се изпрати писмото с хронологията</string>
   <string name="upload_log_no">Отказ</string>
   <string name="upload_log_success">Успешно изпратено, ние ще се свържем с вас скоро.</string>
