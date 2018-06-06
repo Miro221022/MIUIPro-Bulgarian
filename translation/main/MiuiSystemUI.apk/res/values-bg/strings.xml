@@ -1153,7 +1153,7 @@
   <string name="power_discharging_duration">%1$s - прибл. %2$s остават</string>
   <string name="power_discharging_duration_short">%1$s - %2$s остават</string>
   <string name="power_notification_controls_description">С контрола за известия за захраването, можете да настроите ниво на важност от 0 до 5 за приложенията. \n\n\"&lt;b&gt;Ниво 5&lt;/b&gt;\" \n- Показване в горната част на списъка с известия \n- Разрешаване на прекъсване на цял екран \n- Винаги видими \n\n\"&lt;b&gt;Ниво 4&lt;/b&gt;\" \n- Предотвратяване на пълно прекъсване на екрана \n- Винаги видими \n\n\"&lt;b&gt;Ниво 3&lt;/b&gt;\" \n- Предотвратяване на пълно прекъсване на екрана \n- Без показване \n\n\"&lt;b&gt;Ниво 2&lt;/b&gt;\" \n- Предотвратяване на пълно прекъсване на екрана \n- Без показване \n- Без звук и вибрация \n\n\"&lt;b&gt;Ниво 1&lt;/b&gt;\" \n- Предотвратяване на пълно прекъсване на екрана \n- Без показване \n- Без звук и вибрация \n- Скриване от екрана за заключване и лентата на състоянието \n- Показване в долната част на списъка с известия \n\n\"&lt;b&gt;Ниво 0&lt;/b&gt;\" \n- Блокиране навсички известия от приложението</string>
-  <string name="power_remaining_charging_duration_only">%1$s left until fully charged</string>
+  <string name="power_remaining_charging_duration_only">%1$s остават до пълното зареждане</string>
   <string name="power_remaining_duration_only">Приблизително %1$s е изминало</string>
   <string name="power_remaining_duration_only_short">%1$s е изминало</string>
   <string name="process_kernel_label">Android операционна система</string>
