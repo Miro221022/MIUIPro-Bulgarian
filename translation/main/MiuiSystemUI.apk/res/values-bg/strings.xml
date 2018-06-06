@@ -1253,8 +1253,6 @@
   <string name="quick_settings_settings_label">Настройки</string>
   <string name="quick_settings_sync_label">Синхронизация</string>
   <string name="quick_settings_tethering_label">Тетъринг</string>
-  <string name="quick_settings_tiles_retail_mode">клетка,пестене на батерия,режим на захранване,фенерче,завъртане,местоположение</string>
-  <string name="quick_settings_tiles_stock">клетка,wifi,фенерче,тишина,екранна снимка,bt,авто яркост,самолетен режим,закл. на екрана,режим управление,завъртане,редакция,вибрация,точка за достъп,хартиен режим,синхронизация,тих режим,режим на захранване,бутон за сника на екрана,пестене на батерия,midrop</string>
   <string name="quick_settings_time_label">Време</string>
   <string name="quick_settings_user_label">Аз</string>
   <string name="quick_settings_user_new_user">Нов потребител</string>
