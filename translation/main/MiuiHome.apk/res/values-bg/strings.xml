@@ -335,12 +335,14 @@
     <string name="announce_for_move_hotseat">Преместване в основна позиция %1$d</string>
     <string name="announce_for_unchecked">%1$s, непроверен</string>
     <string name="backup_fail">Неуспешно архивиране на лънчъра.</string>
-    <string name="icon_reorganize_channel">Разположение на иконата</string>
+    <string name="icon_reorganize_channel">Подреждане на иконите</string>
     <string name="notification_reset_description">%1$s%1$s Може да нулира лънчъра до %2$s</string>
     <string name="notification_reset_duration">След 2 часа,</string>
-    <string name="notification_reset_title">Автоматичното почистване завърши</string>
+    <string name="notification_reset_title">Иконите са подредени успешно</string>
     <string name="quick_app">Бързо приложение</string>
     <string name="refresh">Обновяване</string>
-    <string name="reset_fail">Нулирането не бе успешно</string>
-    <string name="reset_title">нулиране</string>
+    <string name="reset_fail">Не може да се възстанови</string>
+    <string name="reset_title">Възстановяване</string>
+	<string name="reset_description_first_time">Можете да възстановите оформлението от %1$s в рамките на 2 hours</string>
+    <string name="reset_description_others">Можете да възстановите оформлението от %1$s</string>
 </resources>

@@ -1069,7 +1069,7 @@
   <string name="notification_group_divider_symbol">" • "</string>
   <string name="notification_header_default_channel">Известия</string>
   <string name="notification_header_title">Известия</string>
-  <string name="notification_hidden_by_policy_text">Съдържанието е скрито</string>
+  <string name="notification_hidden_by_policy_text">Съдържанието е скрито от политика</string>
   <string name="notification_hidden_text">Получено е ново съобщение</string>
   <string name="notification_info_channel_disabled_text">Вие няма да получите %2$s известия от %1$s.</string>
   <string name="notification_info_channel_enabled_text">Ще получите %2$s известия от %1$s.</string>
@@ -1691,10 +1691,10 @@
   <string name="wrong_password">Неправилна парола</string>
   <string name="zen_alarm_warning">Няма да чуете следващата си аларма %1$s</string>
   <string name="zen_alarm_warning_indef">Няма да чуете следващата си аларма %1$s освен ако не го изключите преди това</string>
-  <string name="zen_alarms_introduction">Няма да бъдете обезпокочвани от звуци и вибрации, освен от аларми.</string>
+  <string name="zen_alarms_introduction">Няма да бъдете обезпокоявани от звуци и вибрации, освен от аларми.Но все пак ще чувате всичко което изберете, включително музика, видеоклипове и игри</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
   <string name="zen_priority_customize_button">Персонализиране</string>
-  <string name="zen_priority_introduction">Няма да бъдете обезпокоявани от звуци и вибрации, освен от аларми, напомняния, събития, и повиквания, които посочвате.</string>
+  <string name="zen_priority_introduction">Няма да бъдете обезпокоявани от звуци и вибрации, освен от аларми, напомняния, събития и обаждания, които сте посочили.Но все пак ще чуете всичко, което изберете, включително музика, видеоклипове и игри</string>
   <string name="zen_silence_introduction">Това блокира ВСИЧКИ звуци и вибрации, включително от аларми, музика, видеоклипове и игри.</string>
   <string name="zen_silence_introduction_voice">Това блокира ВСИЧКИ звуци и вибрации, включително от аларми, музика, видеоклипове и игри. Но ще можете да осъществявате телефонни обаждания.</string>
   <string name="prompt_danger">Опасност</string>
@@ -1705,4 +1705,10 @@
   <string name="status_bar_safepay_safe">Няма рискове при плащане</string>
   <string name="status_bar_safepay_scanning">Проверка на платежната обстановка…</string>
   <string name="status_bar_safepay_unknown">"Не може да се провери платежната обстановка"</string>
+  <string name="data_connection_no_internet">Няма интернет</string>
+  <string name="notification_channel_screenbutton">Екранен бутон</string>
+  <string name="quick_settings_night_secondary_label_on_at">Включено в %s</string>
+  <string name="quick_settings_night_secondary_label_on_at_sunset">Включено при залез</string>
+  <string name="quick_settings_night_secondary_label_until_sunrise">До изгрев слънце</string>
+  <string name="quick_settings_secondary_label_until">Докато %s</string>
 </resources>
