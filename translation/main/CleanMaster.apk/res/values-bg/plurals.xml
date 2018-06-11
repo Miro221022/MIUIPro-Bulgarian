@@ -101,11 +101,11 @@
     <item quantity="other">(%1$d празни файлове)</item>
     <item quantity="one">(%1$d празен файл)</item>
   </plurals>
-       <plurals name="hour">
-        <item quantity="other">%1$d часа</item>
-        <item quantity="one">%1$d час</item>
-     </plurals>
-     <plurals name="minute">
+   <plurals name="hour">
+   <item quantity="other">%1$d часа</item>
+   <item quantity="one">%1$d час</item>
+  </plurals>
+    <plurals name="minute">
         <item quantity="other">%1$d минути</item>
         <item quantity="one">%1$d минута</item>
      </plurals>
@@ -113,4 +113,14 @@
         <item quantity="other">%1$d секунди</item>
         <item quantity="one">%1$d секунда</item>
      </plurals>
+	    <plurals name="clean_long_msg_p1">
+        <item quantity="other">"Почистването на %1$d файла,%2$d приключи 
+        </item>
+        <item quantity="one">"Почисването на %1$d файл,%2$d приключи 
+        </item>
+     </plurals>
+     <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d%% елемента/секунда оставащо време:%2$s</item>
+        <item quantity="one">%1$d%% елемента/секунда оставащо време:%2$s</item>
+     </plurals> 
 </resources>

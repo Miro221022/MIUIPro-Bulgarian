@@ -1727,4 +1727,10 @@
     <string name="voice_service_warning_dialog_ok">Разбрах</string>
     <string name="voice_service_warning_dialog_ok_timer">Разбрах (%d)</string>
     <string name="voice_service_warning_dialog_title">VoLTE повиквания</string>
+	<string name="wfcmode_mobile_preferred">Предпочитания за мрежа</string>
+    <string name="wfcmode_wifi_only">WLAN само</string>
+    <string name="wfcmode_wifi_preferred">Предпочита се WLAN</string>
+    <string name="wifi_call_setting">WLAN обаждания</string>
+    <string name="wificall_switch_summary">Устройството ви може да превключва между WLAN и VoLTE, когато връзката е лоша</string>
+    <string name="wificall_switch_title">Осъществяване на повиквания чрез WLAN</string>
 </resources>

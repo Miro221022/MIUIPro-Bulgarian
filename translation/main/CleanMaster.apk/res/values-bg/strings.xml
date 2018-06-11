@@ -90,7 +90,7 @@
   <string name="byteShort">Б</string>
   <string name="cache_title_empty_folder">Празна папка (%d)</string>
   <string name="cache_title_empty_folder2">Празна папка</string>
-  <string name="cache_title_system_cache">Системен кеш</string>
+  <string name="cache_title_system_cache">Кеширани данни</string>
   <string name="cached_garbage">Кеш</string>
   <string name="call_log">Дневник на обажданията</string>
   <string name="cancel">Отказ</string>

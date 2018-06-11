@@ -245,7 +245,7 @@
     <string name="micloud_main_sync_pause">Пауза</string>
     <string name="micloud_main_sync_need_charge_or_sleep">Свържете зарядното устр. и изключете екрана за да синхронизирате</string>
     <string name="micloud_main_detail">детайли</string>
-    <string name="micloud_main_network_abnormal">Няма връзка с мрежата</string>
+    <string name="micloud_main_network_abnormal">Проверете мрежовите настройки</string>
     <string name="micloud_main_sync_init">Инициализация</string>
     <string name="micloud_main_battery_low">Няма достатъчно батерия за синхр.</string>
     <string name="micloud_main_battery_message">Включете зарядното за синхронизиране</string>

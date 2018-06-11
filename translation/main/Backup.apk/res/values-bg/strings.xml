@@ -280,7 +280,7 @@
 Не изключвайте Wi-Fi Hotspot.
 Дръжте устройствата на близко разстояние."</string>
     <string name="trans_time_spent">Изминало време: %s</string>
-    <string name="trans_restoring_no_items">Синхр. елементи</string>
+    <string name="trans_restoring_no_items">Получаване на информация</string>
     <string name="trans_detail_category_sysdata">Системна информация (включително съобщения, контакти и история на обаждания)</string>
     <string name="trans_detail_category_userdata">Приложения</string>
     <string name="trans_detail_category_account">Профили и контакти</string>

@@ -223,7 +223,7 @@
     <string name="pref_camera_exposuretime_entry_250">1/250сек</string>
     <string name="pref_camera_exposuretime_entry_500">1/500 сек.</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000сек</string>
-    <string name="face_analyze_info">Години: %2$s (%1$s)</string>
+    <string name="face_analyze_info">Възраст: %2$s (%1$s)</string>
     <string name="face_analyze_info_male">Мъж</string>
     <string name="face_analyze_info_female">Жена</string>
     <string name="face_beauty_intelligent_level_0">Изкл.</string>
@@ -478,4 +478,10 @@
     <string name="pref_video_encoder_entry_h264">H.264 Висока съвместимост</string>
     <string name="pref_video_encoder_entry_h265">H.265 Висока производителност</string>
     <string name="pref_video_encoder_title">Видео енкодер</string>
+	<string name="beauty_fragment_tab_name_3d_beauty">Красота</string>
+    <string name="beauty_fragment_tab_name_3d_remodeling">Ремоделиране</string>
+    <string name="lens_dirty_detected_content">"Обектива на камерата е замърсен,
+моля, почистете обектива на камерата за по-добра картина."</string>
+    <string name="lens_dirty_detected_title_back">Обектива на задната камера е замърсен</string>
+    <string name="lens_dirty_detected_title_front">Обектива на предната камера е замърсен</string>
 </resources>

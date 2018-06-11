@@ -4888,8 +4888,9 @@ Stable"</string>
     <string name="bootloader_locked_answer_1">Xiaomi заключва устройствата за да защити личните ви данни и да прекрати достъпа до тях. Ако искате да преинсталирате устройството в режим Fastboot трябва да го отключите.</string>
     <string name="bootloader_locked_answer_1_warning">Запомнете: Няма да може да използвате “Открий устройството“ след отключването на телефона.</string>
     <string name="bootloader_locked_question_2">Разбирам риска, искам да отключа устройството.</string>
-    <string name="bootloader_locked_answer_2">Докоснете бутона за да свържете устройството с вашия Mi профил. Отидете до сайта на MIUI, за да истеглите програмата за отключване и я инсталирайте на вашия компютър. Последвайте адреса:</string>
-    <string name="bootloader_locked_check_status">Добавете профил и устройство</string>
+  <string name="bootloader_locked_answer_2">"1. Уверете се, че вече сте поставили SIM карта в устройството си.
+2. Натиснете \"Добави проофил\" долу, за да свържете вашичт Mi профил с това устройство.
+3. Изтеглете инструмента за отключване от нашия уебсайт. Имайте предвид, че трябва да отключите устройства с помощта на компютър. Изтеглете от тук:"</string>    <string name="bootloader_locked_check_status">Добавете профил и устройство</string>
     <string name="bootloader_device_bind_already">Успешно добавяне. Mi профилът ви е свързан с това устройство.</string>
     <string name="bootloader_device_bind_no_account">Първо влезте в своя Mi профил</string>
     <string name="bootloader_device_bind_no_network">Свържете се с интернет и опитайте отново</string>
@@ -5653,7 +5654,7 @@ Stable"</string>
 1.Когато връзката с WLAN е лоша, WLAN асистентът ще се опита да свърже устройството ви с други налични WLAN мрежи.
 2. Ако всички налични WLAN връзки се окажат слаби и мобилните данни са включени, WLAN асистентът ще превключи на мобилни данни."</string>
     <string name="wifi_assistant_disconnect">Прекъсване на връзката</string>
-    <string name="wifi_assistant_explicitly_confirm_data_message">Тази WLAN мрежа няма достъп до интернет. Ще изполвате ли мобилни данни?</string>
+    <string name="wifi_assistant_explicitly_confirm_data_message">Тази Wi-Fi мрежа няма достъп до интернет. Вместо това ще използвате ли мобилни данни?</string>
     <string name="wifi_assistant_explicitly_confirm_disconnect">Тази WLAN мрежа няма достъп до интернет. Прекъсване на връзката?</string>
     <string name="wifi_assistant_explicitly_confirm_wifi_message">Тази WLAN мрежа няма достъп до интернет. Но са налични и други WLAN мрежи. Превключване на друга мрежа?</string>
     <string name="wifi_assistant_keep_connection">Останете свързани</string>
@@ -5680,4 +5681,15 @@ Stable"</string>
     <string name="wifi_traffic_priority_regular_summary">Споделете честотната лента между процесите въвфонов режим и приложенията на преден план</string>
     <string name="wifi_traffic_priority_summary">Дайте приоритет на скоростта на свързване автоматично</string>
 	<string name="total_info_sub">и изключете вибрацията</string>
+	<string name="bootloader_device_bind_exceed_sim_limit">"Не може да се добавят повече акаунти към тази СИМ-карта."</string>
+    <string name="bootloader_device_bind_no_sim">Поставете SIM картата и опитайте отново.</string>
+    <string name="bootloader_device_bind_server_code">"Не може да се добави. Код на грешка:"</string>
+    <string name="bootloader_device_bind_sim_invalid">SIM картата е невалидна. Заменете я и опитайте отново.</string>
+    <string name="bootloader_status_privacy_dialog_message">Mi Unlock се нуждае от Mi профил, CPU ID, IMEI, IMSI за да работи нормално. Ние събираме, използваме и обработваме данните ви в съответствие с нашите %s. Съгласни ли сте?</string>
+    <string name="bootloader_status_privacy_dialog_no">Отказ</string>
+    <string name="bootloader_status_privacy_dialog_title">Искани разрешения</string>
+    <string name="bootloader_status_privacy_dialog_url_text">Правила за поверителност</string>
+    <string name="bootloader_status_privacy_dialog_yes">Съгласен</string>
+    <string name="device_miui_version_for_POCO">MIUI версия (For POCO)</string>
+    <string name="taplus_title">Taplus</string>
 </resources>
