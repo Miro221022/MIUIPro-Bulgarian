@@ -80,7 +80,8 @@
     <string name="launch_camera">Стартиране на ваше приложение</string>
     <string name="launch_my_app_title">Приложение за стартиране</string>
     <string name="vibrate_on">Вибрация при отключване</string>
-    <string name="toggles_columns_title">Брой на превключвателите</string> 
+    <string name="toggles_columns_title">Брой на превключвателите (Един ред)</string>
+	<string name="toggles_columns_full_title">Брой на превключвателите (Всички редове)</string>
     <string name="toggles_columns_summary">Показани: %s в ред</string>
     <string name="toast_animation_title">Toast анимация</string>
     <string name="gesture_anywhere_title">Жестове навсякъде</string> 
