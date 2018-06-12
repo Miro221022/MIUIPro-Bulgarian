@@ -85,6 +85,6 @@
     <string name="sleepmode_privacy_link">Подробна сигурност и поверителност</string>
     <string name="sleepmode_privacy_title">Спящ режим</string>
 	<string name="app_preload_policies_summary">Използвайте машинно обучение, за да предскажете приложенията, които най-вероятно ще използвате и заредете ресурсите предварително</string>
-    <string name="app_preload_policies_title">Предварително зареждане на AI</string>
+    <string name="app_preload_policies_title">Предварително зареждане</string>
     <string name="pref_config_title">Оптимизация на ефективността</string>
 </resources>

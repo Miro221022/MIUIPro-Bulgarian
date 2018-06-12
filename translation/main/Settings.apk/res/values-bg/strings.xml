@@ -5642,7 +5642,7 @@ Stable"</string>
     <string name="super_resolution_desc">Направете ясни изображения, като използвате AI алгоритъм</string>
     <string name="super_resolution_maintain">"Супер резолюцията все още не е налице."</string>
     <string name="super_resolution_no_app_tips">Изтеглете WeChat и Toutiao първо.</string>
-    <string name="super_resolution_reboot_tips">Рестартирайте приложенията, за да направите тази функция да работеща, след като я включите.</string>
++  <string name="super_resolution_reboot_tips">Тази функция позволява да направите размазани изображения в WeChat и Toutiao crisper. Стартирайте отново приложенията, след като включите тази функция.</string>
     <string name="super_resolution_title">Супер резолюция</string>
     <string name="wifi_assistant">WLAN асистент</string>
     <string name="wifi_assistant_auto_confirm_data_message">Тази безжична мрежа няма достъп до интернет. Вместо това вашето устройство ще използва мобилни данни. Можете да изключите WLAN асистента в настройките.</string>
@@ -5690,6 +5690,9 @@ Stable"</string>
     <string name="bootloader_status_privacy_dialog_title">Искани разрешения</string>
     <string name="bootloader_status_privacy_dialog_url_text">Правила за поверителност</string>
     <string name="bootloader_status_privacy_dialog_yes">Съгласен</string>
-    <string name="device_miui_version_for_POCO">MIUI версия (For POCO)</string>
+    <string name="device_miui_version_for_POCO">MIUI версия (За POCO)</string>
     <string name="taplus_title">Taplus</string>
+	<string name="miui_lab_ai_cloud_closed">"Интелигентното предварително зареждане все още не е налице."</string>
+    <string name="miui_lab_ai_preload_desc">Интелигентното предварително зареждане ускорява скоростта на стартиране на приложенията</string>
+    <string name="miui_lab_ai_preload_title">Интелигентно предварително зареждане</string>
 </resources>

@@ -177,4 +177,5 @@
     <string name="super_resolution_maintain_tips">"Супер резолюция все още не е налице."</string>
     <string name="wifi_assistant_wifi_no_internet">Тази WLAN мрежа няма достъп до интернет</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Докоснете, за да видите подробности</string>
+	<string name="resolver_app_recommend_flag">Препоръчано</string>
 </resources>
