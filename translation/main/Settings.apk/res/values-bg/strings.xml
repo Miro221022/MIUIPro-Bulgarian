@@ -5695,4 +5695,5 @@ Stable"</string>
 	<string name="miui_lab_ai_cloud_closed">"Интелигентното предварително зареждане все още не е налице."</string>
     <string name="miui_lab_ai_preload_desc">Интелигентното предварително зареждане ускорява скоростта на стартиране на приложенията</string>
     <string name="miui_lab_ai_preload_title">Интелигентно предварително зареждане</string>
+	<string name="wifi_click_login_wlan">Изисква се вписване/потвърждение</string>
 </resources>

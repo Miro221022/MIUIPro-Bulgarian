@@ -455,4 +455,14 @@
   <string name="passport_talkback_switch_image_captcha">Преминете към кода за потвърждение на изображението</string>
   <string name="passport_talkback_switch_voice_captcha">Превключете на код за потвърждаване на гласа</string>
   <string name="passport_talkback_voice_captcha">Изпълняване на код за потвърждаване на гласа</string>
+  <string name="account_mibi_charge">Mi кредити и такси</string>
+  <string name="passport_Resend">Повторно изпращане</string>
+  <string name="passport_btn_change_account">Промяна на профила</string>
+  <string name="passport_error_empty_voice_code">Въведете потвърждение</string>
+  <string name="passport_input_voice_hint">Въведете гласов код</string>
+  <string name="passport_license_info_collapse">Разпадане</string>
+  <string name="passport_license_info_open">Подробности</string>
+  <string name="passport_new_user_register">Създаване на профил</string>
+  <string name="passport_register_using_other_ways">Други начини за вписване</string>
+  <string name="passport_wrong_voice">Кодът който въведохте е неправилен</string>
 </resources>
