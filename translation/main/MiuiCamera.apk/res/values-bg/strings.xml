@@ -484,4 +484,5 @@
 моля, почистете обектива на камерата за по-добра картина."</string>
     <string name="lens_dirty_detected_title_back">Обектива на задната камера е замърсен</string>
     <string name="lens_dirty_detected_title_front">Обектива на предната камера е замърсен</string>
+	<string name="back_bokeh_use_hint">"Уверете се, че обектът е на не повече от от 1,5 метра."</string>
 </resources>
