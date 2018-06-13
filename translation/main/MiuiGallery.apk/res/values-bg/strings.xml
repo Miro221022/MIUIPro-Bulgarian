@@ -1247,4 +1247,16 @@
     <string name="video_editor_video_is_short">"Този видеоклип не може да бъде редактиран."</string>
     <string name="video_editor_watermark">Воден знак</string>
     <string name="voice_assistant">Гласово въвеждане</string>
+	<string name="checked">Избрани</string>
+    <string name="checked_something">Избрани %s</string>
+    <string name="enter_choice_mode">Влезте в диалога за споделяне</string>
+    <string name="exit_choice_mode">Напускане на диалога за споделяне</string>
+    <string name="feature_guidance_photo_effects">Фото ефекти</string>
+    <string name="image_with_time">Снимката е заснета на %s</string>
+    <string name="image_with_time_and_location">Снимката е заснета на %1$s. Местоположение: %2$s.</string>
+    <string name="storage_description_usb">USB съхранение</string>
+    <string name="unchecked">Отказани</string>
+    <string name="unchecked_something">Отказани %s</string>
+    <string name="video_with_time">Видеото е заснето на %s</string>
+    <string name="video_with_time_and_location">Видеото е заснето на %1$s. Местоположение: %2$s.</string>
 </resources>
