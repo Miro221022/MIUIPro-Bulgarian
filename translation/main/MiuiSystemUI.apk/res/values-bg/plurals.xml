@@ -108,6 +108,10 @@
     <item quantity="other">1 от %d категории за известяване от това приложение</item>
     <item quantity="one">1 от %d категория за известяване от това приложение</item>
   </plurals>
+    <plurals name="notification_num_channels">
+    <item quantity="other">%d категории за известяване</item>
+    <item quantity="one">%d категория за известяване</item>
+    </plurals>
   <plurals name="phone_locked_timeout_minutes_string">
     <item quantity="other">Опитайте отново след %d минути</item>
     <item quantity="one">Опитайте отново след %d минута</item>

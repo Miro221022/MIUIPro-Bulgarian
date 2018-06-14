@@ -180,14 +180,14 @@
   <string name="dialog_message_negative">"Не съм съгласен"</string>
   <string name="dynamic_alarm_speech">Интелигентна аларма</string>
   <string name="edit_alarm">редактиране на аларма</string>
-  <string name="module_download_cancel">Не сега</string>
-  <string name="module_download_data_msg">"За да направите интелигентни аларми, nature sounds, и алармите за рождени дни налични, Часовникът трябва да се свърже с интернет и да има достъп до вашите контакти. Ще трябва да изтеглите допълнително аудио. Ще използвате ли мобилни данни, за да изтеглите допълнително аудио?"</string>
-  <string name="module_download_data_msg_golbal">За да се направят интелигентни аларми и характерни звуци, Часовникът трябва да изтегли допълнителни звуци. Ще използвате мобилни данни, за да изтеглите допълнително аудио?</string>
+  <string name="module_download_cancel">Не благодаря</string>
+  <string name="module_download_data_msg">"Часовникът трябва да се свърже с интернет, за да изтегли (20МБ) аудиофайлове за озвучаване и интелигентни аларми.В момента използвате мобилни данни.Ще разрешите ли?"</string>
+  <string name="module_download_data_msg_golbal">Часовникът трябва да изтегли (20МБ) аудиофайлове за озвучаване и интелигентни аларми.В момента използвате мобилни данни.Ще разрешите ли?</string>
   <string name="module_download_fail">"Не може да се изтегли допълнително аудио"</string>
-  <string name="module_download_msg">"За да се направят интелигентни аларми, характерни звуци и аларми за рождени дни, Часовникът трябва да се свърже с интернет и да има достъп до вашите контакти. Ще трябва да изтеглите допълнително аудио. Съгласни ли сте?"</string>
-  <string name="module_download_msg_golbal">За да се направят интелигентни аларми и характерни звуци, Часовникът трябва да изтегли допълнителни звуци. Съгласени ли сте?</string>
+  <string name="module_download_msg">"Часовникът трябва да се свърже с интернет, за да изтегли аудиофайлове за озвучаване и интелигентни аларми.Ще разрешите ли?"</string>
+  <string name="module_download_msg_golbal">Часовникът трябва да изтегли аудиофайлове за озвучаване и интелигентни аларми. Ще разрешите ли?</string>
   <string name="module_download_no_network">"Неуспешно свързване с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
-  <string name="module_download_ok">Съгласе &amp; изтегли</string>
+  <string name="module_download_ok">Разрешаване</string>
   <string name="module_download_success">Успешно изтегляне на допълнителни звуци</string>
   <string name="module_download_title">Изискват се допълнителни звуци</string>
   <string name="module_downloading">Изтегляне на допълнителни звуци…</string>
@@ -219,4 +219,5 @@
   <string name="worldcolock_timezone_local">Същото като местното време</string>
   <string name="open_keep_screen">Екранът ще бъде запазен</string>
   <string name="shut_down_keep_screen">"Екранът няма да бъде запазен"</string>
+  <string name="dialog_message_not_remind">"Не показвай отново"</string>
 </resources>

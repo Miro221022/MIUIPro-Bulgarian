@@ -1711,4 +1711,7 @@
   <string name="quick_settings_night_secondary_label_on_at_sunset">Включено при залез</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">До изгрев слънце</string>
   <string name="quick_settings_secondary_label_until">Докато %s</string>
+  <string name="notification_channel_battery">Батерия</string>
+  <string name="notification_channel_usb">USB</string>
+  <string name="quick_settings_gps_label">GPS</string>
 </resources>

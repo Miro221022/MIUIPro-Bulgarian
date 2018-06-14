@@ -480,9 +480,9 @@
     <string name="pref_video_encoder_title">Видео енкодер</string>
 	<string name="beauty_fragment_tab_name_3d_beauty">Красота</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">Ремоделиране</string>
-    <string name="lens_dirty_detected_content">"Обектива на камерата е замърсен,
-моля, почистете обектива на камерата за по-добра картина."</string>
-    <string name="lens_dirty_detected_title_back">Обектива на задната камера е замърсен</string>
-    <string name="lens_dirty_detected_title_front">Обектива на предната камера е замърсен</string>
+    <string name="lens_dirty_detected_content">"Изглежда, че лещата на камерата ви е замърсена.
+Почистете лещата за по-добър ефект."</string>
+    <string name="lens_dirty_detected_title_back">Обективът на задната камера е замърсен</string>
+    <string name="lens_dirty_detected_title_front">Обективът на предната камера е замърсен</string>
 	<string name="back_bokeh_use_hint">"Уверете се, че обектът е на не повече от от 1,5 метра."</string>
 </resources>
