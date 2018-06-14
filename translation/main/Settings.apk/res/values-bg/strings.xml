@@ -4361,7 +4361,6 @@
     <string name="wifi_signal_found_msg">Открита е Wi-Fi AP, ще се свържете ли?</string>
     <string name="miui_data_usage_menu_metered">Мобилни точки на достъп</string>
     <string name="wifi_click_share_wlan">Чукнете, за да споделите паролата</string>
-    <string name="wifi_click_login_wlan">Свързан. Необходимо е потвърждение.</string>
     <string name="saved_wifi">Управление на запазените мрежи</string>
     <string name="connect_mode">Тип на връзката</string>
     <string name="traffic_balance">Режим употреба на данни</string>
@@ -5642,7 +5641,7 @@ Stable"</string>
     <string name="super_resolution_desc">Направете ясни изображения, като използвате AI алгоритъм</string>
     <string name="super_resolution_maintain">"Супер резолюцията все още не е налице."</string>
     <string name="super_resolution_no_app_tips">Изтеглете WeChat и Toutiao първо.</string>
-+  <string name="super_resolution_reboot_tips">Тази функция позволява да направите размазани изображения в WeChat и Toutiao crisper. Стартирайте отново приложенията, след като включите тази функция.</string>
+    <string name="super_resolution_reboot_tips">Тази функция позволява да направите размазани изображения в WeChat и Toutiao crisper. Стартирайте отново приложенията, след като включите тази функция.</string>
     <string name="super_resolution_title">Супер резолюция</string>
     <string name="wifi_assistant">WLAN асистент</string>
     <string name="wifi_assistant_auto_confirm_data_message">Тази безжична мрежа няма достъп до интернет. Вместо това вашето устройство ще използва мобилни данни. Можете да изключите WLAN асистента в настройките.</string>
