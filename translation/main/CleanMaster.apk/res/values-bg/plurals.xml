@@ -114,13 +114,13 @@
         <item quantity="one">%1$d секунда</item>
      </plurals>
 	    <plurals name="clean_long_msg_p1">
-        <item quantity="other">"Почистването на %1$d файла,%2$d приключи 
+        <item quantity="other">"Почистване на %1$d файла (%2$d%%) 
         </item>
-        <item quantity="one">"Почисването на %1$d файл,%2$d приключи 
+        <item quantity="one">"Почистване на %1$d файл (%2$d%%) 
         </item>
      </plurals>
      <plurals name="clean_long_msg_p2">
-        <item quantity="other">%1$d%% елемента/секунда оставащо време:%2$s</item>
-        <item quantity="one">%1$d%% елемента/секунда оставащо време:%2$s</item>
+        <item quantity="other">%1$d елемента в секунда | Оставащо време: %2$s</item>
+        <item quantity="one">%1$d елемент в секунда | Оставащо време: %2$s</item>
      </plurals> 
 </resources>

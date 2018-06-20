@@ -5695,4 +5695,10 @@ Stable"</string>
     <string name="miui_lab_ai_preload_desc">Интелигентното предварително зареждане ускорява скоростта на стартиране на приложенията</string>
     <string name="miui_lab_ai_preload_title">Интелигентно предварително зареждане</string>
 	<string name="wifi_click_login_wlan">Изисква се вписване/потвърждение</string>
+	<string name="cancel_description">Отказ</string>
+    <string name="confirm_description">Потвърди</string>
+    <string name="fallback_home_title">Една секунда…</string>
+    <string name="key_fsg_dialog_message">"Използвате жестове на цял екран за управление. Функциите, свързани с бутоните, не са налични в момента. Превключване към бутони?"</string>
+    <string name="key_fsg_dialog_negative">Отказ</string>
+    <string name="key_fsg_dialog_positive">Превключване към бутони</string>
 </resources>

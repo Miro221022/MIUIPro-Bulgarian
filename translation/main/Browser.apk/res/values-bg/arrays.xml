@@ -91,4 +91,8 @@
         <item>0</item>
         <item>1</item>
      </string-array>
+	     <string-array name="suggestion_topic_tips">
+        <item>Гледане на Фокус</item>
+        <item>Централно емисия</item>
+    </string-array>
 </resources>
