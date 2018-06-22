@@ -152,4 +152,6 @@
     <string name="head_set_tip_dialog_msg">Разкачете слушалките си, за да можете да запишете звуци със специфично съдържание (напр. Музика, Гласове).</string>
     <string name="head_set_tip_dialog_ok">Направено</string>
     <string name="rename_fail_tip">Грешка при преименуване, файл с такова име вече съществува.</string>
+	<string name="record_format_preference_title">Формат на записа</string>
+    <string name="record_resotre">Възстановяване на записи</string>
 </resources>
