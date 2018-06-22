@@ -3086,7 +3086,7 @@
     <string name="app_launch_open_domain_urls_summary">Отваряне без запитване</string>
     <string name="app_launch_supported_domain_urls_title">Поддържани връзки</string>
     <string name="app_launch_other_defaults_title">Други стандартни настройки</string>
-    <string name="storage_summary_format">Използва/т се %1$s от %2$s</string>
+    <string name="storage_summary_format">Използват се %1$s от %2$s</string>
     <string name="storage_type_internal">Вътрешно хранилище</string>
     <string name="storage_type_external">Външно хранилище</string>
     <string name="app_data_usage">Пренос на данни</string>
@@ -3945,7 +3945,7 @@
     <string name="multi_touch_points_category_title">Мултитъч точки</string>
     <string name="multi_touch_points_preference">Рестартирай за активиране</string>
     <string name="trackball_settings">Trackball</string>
-    <string name="status_bar_settings">Известия</string>
+    <string name="status_bar_settings">Известия и лента за състоянието</string>
     <string name="complete_settings">Пълни настройки</string>
     <string name="common_settings">Бързи настройки</string>
     <string name="battery_settings">Батерия</string>
@@ -5044,7 +5044,7 @@ Stable"</string>
     <string name="bt_rarely_used_device_title">Рядко използвани устройства (%d)</string>
     <string name="search_input_hint">Търси в настройките</string>
     <string name="back_button">Назад</string>
-    <string name="launcher_title">Начален екран и Последни</string>
+    <string name="launcher_title">Начален екран и последни</string>
     <string name="wifi_scan_notify_text_location_on">За да подобри точността на местоположението и за други цели, Google и други приложения могат да сканират за мрежи в района, дори когато WLAN е изключена. Ако не искате това да се случи, отидете на Разширени > Сканирането винаги е налице.</string>
     <string name="wifi_scan_notify_text_location_off">Приложенията могат да сканират за близки мрежи дори когато WLAN е изключена. Ако не искате това да се случи, отидете на Разширени > Сканирането винаги е налице.</string>
     <string name="music_audio_effect_optimize">Аудио настройки</string>
