@@ -2334,7 +2334,7 @@
     <string name="usage_access_title">Прил. с достъп до използването</string>
     <string name="emergency_tone_title">Тон за спешност</string>
     <string name="emergency_tone_summary">Задаване на поведение при спешно обаждане</string>
-    <string name="privacy_settings">Рез. копия и нулиране</string>
+    <string name="privacy_settings">Резервни копия и нулиране</string>
     <string name="privacy_settings_title">Резервни копия и нулиране</string>
     <string name="backup_section_title">Резервни копия и възстановяване</string>
     <string name="personal_data_section_title">Лични данни</string>
