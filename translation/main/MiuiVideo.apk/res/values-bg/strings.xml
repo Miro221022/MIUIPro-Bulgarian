@@ -298,7 +298,7 @@ Try searching for something else."</string>
     <string name="v_need_update_app">Update Mi Video to view</string>
     <string name="v_network_failed">A network error occurred.</string>
     <string name="v_next">Next</string>
-    <string name="v_not_login">Not signed in</string>
+    <string name="v_not_login">Не сте вписан</string>
     <string name="v_offline_video">Локални клипве</string>
     <string name="v_ok">OK</string>
     <string name="v_onlineservice_close_info">"You won't be able to play new videos after you turn off online services."</string>
@@ -722,4 +722,10 @@ To activate your account, follow the
     <string name="offline_setting_mobile_net_limit_summary">Ограничаване на ползването на мобилни данни след като размера на изтеглените клипове достигне избрания лимит</string>
     <string name="offline_setting_mobile_net_limit_title">Ограничение за ползване на мобилни данни</string>
     <string name="offline_setting_mobile_net_unlimited">Без ограничение</string>
+	<string name="v_coin_task">Мисии</string>
+    <string name="v_get_cash">Кеш</string>
+    <string name="v_coin_market">Магазин</string>
+    <string name="v_coin_asset_desc">Профил</string>
+    <string name="v_coin_cash_desc">Кеш</string>
+    <string name="v_defaultsearch_name">Търсене на популярни ТВ предавания</string>
 </resources>
