@@ -339,4 +339,8 @@
     <string name="preference_check_update_summary_new_version">Налична е актуализация: %s</string>
     <string name="description_title">За Калкулатор</string>
     <string name="description_content">Освен основните си функции, Калкулатор може да работи и като мултифункционален конвертор, кредитен и таксов калкулатор. Уверете се, че можете да използвате устройството си без тези услуги, преди да деинсталирате приложението.</string>
+	<string name="tab_title_calculator">Калкулатор</string>
+    <string name="tab_title_convert">Конвертор</string>
+    <string name="tab_title_tax_mortgage">Ипотека</string>
+	<string name="tab_title_tax_mortgage_global">Ипотека</string>
 </resources>
