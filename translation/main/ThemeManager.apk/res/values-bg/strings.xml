@@ -478,4 +478,5 @@
     <string name="wallpaper_settings_page_title">Тапети</string>
 	<string name="using_theme_next_automatic_update">Автоматични актуализации</string>
     <string name="using_theme_next_automatic_update_summary">Актуализиране на инстлираните теми чрез Wi-Fi автоматично, когато екранът е заключен</string>
+	<string name="component_title_video_wallpaper">Видео тапети</string>
 </resources>
