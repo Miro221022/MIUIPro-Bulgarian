@@ -457,14 +457,14 @@
     <string name="create">Създаване</string>
     <string name="allow">Разрешаване</string>
     <string name="deny">Отказ</string>
-    <string name="wifiap_settings_desc">WLAN wifiap can share this phone’s data Internet connection with other PC/mobile devices via WLAN.</string>
-    <string name="wifiap_settings_indication">After the WLAN wifiap is turned on, other PC/mobile devices can connect to it and start using the internet by following steps:</string>
-    <string name="wifiap_settings_indication_step1">1. Turn on WLAN on PC/Mobile device.</string>
-    <string name="wifiap_settings_indication_step2">2. Find “%s” in the list of WLAN networks.</string>
+    <string name="wifiap_settings_desc">WLAN точката за достъп може да споделя интернет връзката на този телефон с друг компютър/мобилно устройство чрез безжична връзка.</string>
+    <string name="wifiap_settings_indication">След като WLAN точката за достъп бъде включена, друг компютър/телефон може да се свърже към нея и да започне да използва интернет чрез следните стъпки:</string>
+    <string name="wifiap_settings_indication_step1">1. Включване на WLAN в компютъра/телефона.</string>
+    <string name="wifiap_settings_indication_step2">2. Намиране на “%s” в списъка с WLAN мрежи.</string>
     <string name="wifiap_title">WLAN точка за достъп</string>
-    <string name="wifiap_configure_ap_text">Set up WLAN wifiap</string>
-    <string name="wifiap_configure_subtext">%1$s%2$s portable WLAN wifiap</string>
-    <string name="wifiap_turn_on_hint">За да използвате WLAN wifiap, го включете.</string>
+    <string name="wifiap_configure_ap_text">Настройване на WLAN точка за достъп</string>
+    <string name="wifiap_configure_subtext">%1$s%2$s портативна WLAN точка за достъп</string>
+    <string name="wifiap_turn_on_hint">За да използвате WLAN точката за достъп я включете.</string>
     <string name="dlg_close">Затваряне</string>
     <string name="dlg_switch">Превключване</string>
     <string name="device_info_default">Неизвестно</string>
@@ -1029,7 +1029,7 @@
     <string name="wifi_in_airplane_mode">В самолетен режим</string>
     <string name="wifi_notify_open_networks">Известие за мрежа</string>
     <string name="wifi_notify_open_networks_summary">Известяване, когато е налице обществена мрежа</string>
-    <string name="wifi_enable_hs2_title">Passpoint On</string>
+    <string name="wifi_enable_hs2_title">Точката на преминаване е включена</string>
     <string name="wifi_poor_network_detection">Да се избягват лоши връзки</string>
     <string name="wifi_poor_network_detection_summary">Да не се използва Wi-Fi мрежа, освен ако няма добра връзка с интернет</string>
     <string name="wifi_avoid_poor_network_detection_summary">Да се ползват само мрежи с добра връзка с интернет</string>
@@ -3100,7 +3100,7 @@
     <string name="notifications_silenced">Без звуков сигнал</string>
     <string name="notifications_redacted">Не се показва деликатно съдържание на заключения екран</string>
     <string name="notifications_hidden">Известията не се показват на закл. екран</string>
-    <string name="notifications_priority">Настройката „Не безпокойте“ е отменена</string>
+    <string name="notifications_priority">Настройката „Не ме безпокойте“ е отменен</string>
     <string name="notifications_summary_divider"> / </string>
     <string name="notification_summary_level">Ниво %d</string>
     <string name="runtime_permissions_summary_no_permissions_granted">Няма предоставени разрешения</string>
@@ -3111,7 +3111,7 @@
     <string name="filter_work_apps">Служебни</string>
     <string name="filter_notif_blocked_apps">Блокирани</string>
     <string name="filter_with_domain_urls_apps">С URL адреси в домейните</string>
-    <string name="filter_notif_priority_apps">Отменя „Не безпокойте“</string>
+    <string name="filter_notif_priority_apps">Отменя „Не ме безпокойте“</string>
     <string name="filter_notif_sensitive_apps">Без делик. съдърж. на закл. екран</string>
     <string name="filter_notif_hide_notifications_apps">Без показване на закл. екран</string>
     <string name="filter_notif_silent">Показване без звуков сигнал</string>
@@ -3434,13 +3434,13 @@
     <string name="cellular_to_wlan_hint_title">Клетъчен->WLAN съвет</string>
     <string name="cellular_to_wlan_hint_summary">Позволете съвет когато избирате ръчно или винаги питай в клетъчен->WLAN</string>
     <string name="cellular_to_wlan_hint_toast">Клетъчната->WLAN връзката може да бъде засегната</string>
-    <string name="wlan_to_cellular_hint_title">WLAN->Cellular hint</string>
+    <string name="wlan_to_cellular_hint_title">WLAN->Клетъчен съвет</string>
     <string name="notify_connect">CMCC WLAN достъп</string>
     <string name="notify_connect_summary">Напомни когато има достъп до CMCC WLAN</string>
     <string name="wifi_setting_connect_type_error">При задаването на типа свързване възникна проблем.</string>
     <string name="app_ops_permiss_name">С достъп до мрежата</string>
-    <string name="label_global_roaming_settings">Roaming Settings</string>
-    <string name="set_data_time_range">Show time range</string>
+    <string name="label_global_roaming_settings">Роуминг настройки</string>
+    <string name="set_data_time_range">Показване на времевия диапазон</string>
     <string name="lte_4g_settings_title">Активирай 4G</string>
     <string name="lte_4g_switch_prompt">Телефонът ще премине от 3G / 2G на 4G, някои активни действия може да бъдат спрени</string>
     <string name="lte_4g_settings_4genable_summary">4G Активиран</string>
@@ -3450,7 +3450,7 @@
     <string name="profiles_settings_title">Системни профили</string>
     <string name="select_sim_card">Избери SIM карта</string>
     <string name="mbn_version">MBN версия</string>
-    <string name="voice_over_lte">Voice over LTE</string>
+    <string name="voice_over_lte">Глас през LTE</string>
     <string name="network_operator_display_title">Покажи мрежовия оператор</string>
     <string name="keywords_network_name_display">името на мрежата</string>
     <string name="network_name_displayed_summary">Показване на името на мрежата в лентата на състоянието</string>
@@ -3467,17 +3467,17 @@
 
 1.Когато устройството ви се използва като точка за WLAN достъп, не можете да използвате приложенията на устройството си за достъп до интернет чрез неговата WLAN връзка (но разбира се, вие оставате свързани към интернет през вашата мобилна мрежа за данни). 
 
-2.Конфигурирате hotspot с настройките на WLAN hotspot.\""</string>
+2.Конфигурирате точка за достъп с настройките на WLAN точка за достъп.\""</string>
     <string name="turn_on_wifi_dialog_title">Включи wifi</string>
     <string name="turn_on_wifi_dialog_text">WLAN е изключена, когато мобилната точка за достъп е активна. За да включите WLAN, моля, изключете мобилната точка.</string>
-    <string name="dialog_not_show_again">Do not show again</string>
-    <string name="tethering_settings_summary">Споделете връзка за мобилни данни на устройството си чрез USB или Mobile HotSpot</string>
+    <string name="dialog_not_show_again">Не показвай отново</string>
+    <string name="tethering_settings_summary">Споделете връзка за мобилни данни на устройството си чрез USB или мобилна точка за достъп</string>
     <string name="collect_diagnostics_title">Събиране на диагностика</string>
     <string name="collect_diagnostics_summary">Съберете диагностичните данни за отстраняване на неизправности</string>
     <string name="tethering_no_sim_alert_title">Няма SIM Карта</string>
-    <string name="tethering_no_sim_card_text">Моля, инсталирайте SIM картата, за да споделяте връзката си за данни с други устройства, като използвате Mobile HotSpot или USB тетъринг за достъп до Интернет.</string>
-    <string name="tether_settings_launch_title">Mobile HotSpot</string>
-    <string name="wifi_tether_first_use_message">Настройте Mobile HotSpot при първото използване</string>
+    <string name="tethering_no_sim_card_text">Моля, инсталирайте SIM картата, за да споделяте връзката си за данни с други устройства, като използвате мобилна точка за достъп или USB тетъринг за достъп до Интернет.</string>
+    <string name="tether_settings_launch_title">Мобилна точка за достъп</string>
+    <string name="wifi_tether_first_use_message">Настройте мобилната точка за достъп при първото използване</string>
     <string name="ad_service">Услуга за реклами</string>
     <string name="use_personalized_ad_service">Използвай идентификатора на реклами</string>
     <string name="use_personalized_ad_service_summary">Когато функцията за препоръки е изключена, пак ще видите същото количество реклами, както когато е включена, но не въз основа на данните за поведението Ви или личната ви информация.</string>
@@ -5276,7 +5276,7 @@ Stable"</string>
     <string name="delete_legacy_fingerprint">Изтрий</string>
     <string name="keep_legacy_fingerprint">Запази</string>
     <string name="lockpattern_recording_intro_header_second_space">Начертайте фигура за отключване на Второ пространство:</string>
-    <string name="lock_screen_unlock_show">Прескочи закл. екран</string>
+    <string name="lock_screen_unlock_show">Прескочи заключен екран</string>
     <string name="lock_screen_unlock_show_summary">Отворете Начален екран или въведете паролата директно</string>
     <string name="security_keyguard_category_name">Заключен екран</string>
     <string name="security_password_category_name">Заключване на екрана</string>
@@ -5284,11 +5284,11 @@ Stable"</string>
     <string name="unlock_disable_frp_warning_content_profile">Услугите за защита на профила няма да работят без вашата парола.</string>
     <string name="wifi_assistant_intro_setup">Въвеждане в WLAN Асистента</string>
     <string name="wifi_assistant_card_message">Автоматично се свържете с наличните мрежи с помощта на WLAN асистент.</string>
-    <string name="wifi_assistant_title_message">Google WLAN Assistant автоматично ви свързва с най-добрата налична безжична локална мрежа</string>
+    <string name="wifi_assistant_title_message">Google WLAN Асистентът автоматично ви свързва с най-добрата налична безжична локална мрежа</string>
     <string name="wifi_assistant_explanation_message">Google WLAN Асистента открива наличните за Вас мрежи и свързва устройството ви с тази с най-голяма скорост и надеждност.</string>
     <string name="wifi_assistant_vpn_message">За да защитите данните си, Google WLAN Асистент може да осигури надеждна VPN връзка чрез сървърите на Google.</string>
     <string name="wifi_assistant_dialog_message">WLAN Асистента иска да създаде VPN връзка, която да позволява наблюдението на мрежовия трафик. Приемайте само ако имате доверие на източника.</string>
-    <string name="wifi_assistant_permission_accepted">Дадохте разрешение на Асистент на Google WLAN да настрои VPN връзка. Това означава, че това приложение може да следи мрежовия трафик.</string>
+    <string name="wifi_assistant_permission_accepted">Дадохте разрешение на Google WLAN Асистент да настрои VPN връзка. Това означава, че това приложение може да следи мрежовия трафик.</string>
     <string name="wifi_automatically_manage_title">Автоматично управление на WLAN</string>
     <string name="wifi_automatically_manage_summary">Нека асистентът на WLAN да управлява вашата WLAN връзка</string>
     <string name="wifi_assistant_setting_title">WLAN асистент</string>
@@ -5701,4 +5701,13 @@ Stable"</string>
     <string name="key_fsg_dialog_message">"Използвате жестове на цял екран за управление. Функциите, свързани с бутоните, не са налични в момента. Превключване към бутони?"</string>
     <string name="key_fsg_dialog_negative">Отказ</string>
     <string name="key_fsg_dialog_positive">Превключване към бутони</string>
+    <string name="flash_drive_backup_restore">USB архивиране</string>
+    <string name="flash_drive_backup_restore_summary">Свържете USB памет</string>
+	<string name="lockpassword_choose_your_pin_title">Въведете 4-16 цифри</string>
+	<string name="miui_lab_pic_in_pic_desc">Разрешаване на плаващи видеоклипове за избрани приложения</string>
+    <string name="miui_lab_pic_in_pic_title">Картина в картината</string>
+	<string name="sim_management_title_singlesim">SIM карта &amp; мобилни мрежи</string>
+	<string name="video_pip_access_title">Достъпни приложения</string>
+    <string name="video_pip_enable_title">Активиране на видео режим Картина в картина</string>
+    <string name="video_pip_tips">Кликнете върху плаващия прозорец, за да влезете в режим на Картина в картина</string>
 </resources>
