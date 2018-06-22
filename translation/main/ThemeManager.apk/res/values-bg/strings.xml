@@ -476,4 +476,6 @@
     <string name="wallpaper_settings_no_history">Няма хронология</string>
     <string name="wallpaper_settings_pad_more_page_title">Още тапети</string>
     <string name="wallpaper_settings_page_title">Тапети</string>
+	<string name="using_theme_next_automatic_update">Автоматични актуализации</string>
+    <string name="using_theme_next_automatic_update_summary">Актуализиране на инстлираните теми чрез Wi-Fi автоматично, когато екранът е заключен</string>
 </resources>
