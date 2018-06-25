@@ -6,31 +6,39 @@
         <item>Деактивирано</item>
     </string-array>
 	     <string-array name="ai_scene_names">
-        <item>без</item>
-        <item>досие</item>
-        <item>цвете</item>
-        <item>храна</item>
+        <item>Без</item>
+        <item>Досие</item>
+        <item>Цвете</item>
+        <item>Храна</item>
         <item>ppt</item>
-        <item>небе</item>
+        <item>Небе</item>
         <item>Изгрев и залез</item>
-        <item>котка</item>
-        <item>куче</item>
-        <item>зелени растения</item>
+        <item>Котка</item>
+        <item>Куче</item>
+        <item>Зелени растения</item>
         <item>Нощна сцена</item>
         <item>Снежна сцена</item>
-        <item>морски</item>
-        <item>есен</item>
-        <item>свещи</item>
-        <item>кола</item>
-        <item>поляна</item>
-        <item>лист</item>
-        <item>месо</item>
-        <item>сграда</item>
-        <item>град</item>
-        <item>мътен</item>
-        <item>облачен ден</item>
+        <item>Морски</item>
+        <item>Есен</item>
+        <item>Свещи</item>
+        <item>Кола</item>
+        <item>Поляна</item>
+        <item>Лист</item>
+        <item>Месо</item>
+        <item>Сграда</item>
+        <item>Град</item>
+        <item>Мътен</item>
+        <item>Облачен ден</item>
         <item>Портрет на фоново осветление</item>
-        <item>скица</item>
-        <item>портрет</item>
-     </string-array>
+        <item>Скица</item>
+        <item>Портрет</item>
+		<item>Бижута</item>
+        <item>Статуя на Буда</item>
+        <item>Говеда</item>
+        <item>Къри</item>
+        <item>Мотоциклет</item>
+        <item>Храм</item>
+        <item>Плаж</item>
+        <item>Под вода</item>
+    </string-array>
 </resources>

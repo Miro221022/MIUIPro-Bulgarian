@@ -2242,4 +2242,5 @@
 	<string name="gamebox_type_close">"Не показвай"</string>
     <string name="gamebox_type_float">Фиксиран пряк път</string>
     <string name="gamebox_type_gesture">Плъзнете за показване</string>
+	<string name="notify_channel_name_security">Системна сигурност</string>
 </resources>
