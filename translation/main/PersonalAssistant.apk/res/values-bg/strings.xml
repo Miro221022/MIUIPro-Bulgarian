@@ -2,7 +2,7 @@
 <resources>
   <string name="access_select">Избран %s</string>
   <string name="access_unselect">Отказани %s</string>
-  <string name="accessibility_title">Трезор за прилож</string>
+  <string name="accessibility_title">Личен асистент</string>
   <string name="accordingto_position">Разпознаване на чести места чрез използване на GPS</string>
   <string name="account_address">Адрес</string>
   <string name="add_stock">Добави</string>
@@ -44,7 +44,7 @@
   <string name="alipay_sdk_payed_success">Успешно плащане</string>
   <string name="alipay_sdk_tiemout">Бързо плащане (не е необходимо инсталиране на приложение)</string>
   <string name="already">Завършено:</string>
-  <string name="app_label">Трезор за прилож</string>
+  <string name="app_label">Личен асистент</string>
   <string name="apps">Предположения за приложения</string>
   <string name="apps_label">Прилж</string>
   <string name="arrive">Приземяване</string>
@@ -116,7 +116,7 @@
   <string name="card_example">Карта</string>
   <string name="card_expand_note_clear">Изчистване</string>
   <string name="card_expand_note_dialog_button">Приемам</string>
-  <string name="card_expand_note_dialog_message">Нова бележка се създава всеки път, когато докоснете бутона \'\'Запазване\'\' в Трезора за приложения.</string>
+  <string name="card_expand_note_dialog_message">Нова бележка се създава всеки път, когато докоснете бутона \'\'Запазване\'\' в Личният асистент.</string>
   <string name="card_expand_note_dialog_title">Записване на бележки</string>
   <string name="card_expand_note_toast_clear_null">Изчистено успешно</string>
   <string name="card_expand_note_toast_save_done">Запазено в Бележки</string>
@@ -173,12 +173,12 @@
   <string name="cta_desc">Събирайте важни преки пътища и информация точно тук.</string>
   <string name="cta_dialog_negative">Изход</string>
   <string name="cta_dialog_positive">Съгласен</string>
-  <string name="cta_dialog_text_all">За да използвате Трезора за приложения, трябва да прочетете и да се съгласите с %1$s\"Потребителското Споразумение\'\'; %2$s и %3$s \'\'Декларация за поверителност\'\'; %4$s. Услугата изисква също интернет връзка и достъп до услугите за местоположение. Съхраняването на съдържание, използвано от някои услуги, изисква и интернет връзка. Съгласени ли сте?</string>
+  <string name="cta_dialog_text_all">За да използвате Личен асистент, трябва да прочетете и да се съгласите с %1$s\"Потребителското Споразумение\'\'; %2$s и %3$s \'\'Декларация за поверителност\'\'; %4$s. Услугата изисква също интернет връзка и достъп до услугите за местоположение. Съхраняването на съдържание, използвано от някои услуги, изисква и интернет връзка. Съгласени ли сте?</string>
   <string name="cta_dialog_title">Условия за ползване</string>
   <string name="cta_negative">Затвори</string>
   <string name="cta_positive">Детайли</string>
   <string name="cta_text5">Услугата изисква интернет връзка и достъп до местоположението. Съгласен ли сте с това?</string>
-  <string name="cta_title">Нека Трезор на приложения ви помогне</string>
+  <string name="cta_title">Нека Личен асистент ви помогне</string>
   <string name="daily_greeting">Поздрав за всеки ден</string>
   <string name="data_error">Неочаквана грешка. Моля, изчакайте минута-две и опитайте отново.</string>
   <string name="data_error_show">Поръчката е завършена, не може да се видят подробности</string>
@@ -661,7 +661,7 @@
   <string name="notification_content_fail_stay_longer">Останете на страницата за плащане за поне 1 секунда</string>
   <string name="notification_content_success">%2$s Плащане в CNY след %1$s</string>
   <string name="notification_express_app_open">Включи</string>
-  <string name="notification_express_content">Проследяване на поръчката, използвайки Трезор за прилож</string>
+  <string name="notification_express_content">Проследяване на поръчката, използвайки Личен асистент</string>
   <string name="notification_express_title">Включете картите от приложенията за пазаруване</string>
   <string name="notification_title">Добавено в любими</string>
   <string name="notification_title_fail">Плащането не може да бъде добавено</string>
@@ -712,7 +712,7 @@
   <string name="payment_pref_source_mms_summary">Получавайте информация за плащане от текстови съобщения</string>
   <string name="payment_pref_source_wechat_summary">Получете информация за плащане от WeChat</string>
   <string name="payment_privacy_dialog_cancel">Изход</string>
-  <string name="payment_privacy_dialog_message">\'\'Моите плащания\'\' ви позволява да събирате сметки от големи приложения за плащане на едно място. Цялата информация за плащане ще бъде шифрована и сигурно съхранена на устройството ви. Той няма да бъде синхронизиран с Mi Cloud или качен на друг сървър. Можете да изключите \'\'Моите плащания\'\' в Настройки или просто да премахнете тази карта от Трезора за приложения, за да престанете да използвате тази услуга. Съгласен ли сте?</string>
+  <string name="payment_privacy_dialog_message">\'\'Моите плащания\'\' ви позволява да събирате сметки от големи приложения за плащане на едно място. Цялата информация за плащане ще бъде шифрована и сигурно съхранена на устройството ви. Той няма да бъде синхронизиран с Mi Cloud или качен на друг сървър. Можете да изключите \'\'Моите плащания\'\' в Настройки или просто да премахнете тази карта от Личен асистент, за да престанете да използвате тази услуга. Съгласен ли сте?</string>
   <string name="payment_privacy_dialog_ok">Съгласен</string>
   <string name="payment_privacy_dialog_title">\'\'Моите плащания\'\' Политика за поверителност</string>
   <string name="payment_record_add">Добави плащане</string>
@@ -726,7 +726,7 @@
   <string name="payment_record_recent_title">Последни плащания</string>
   <string name="payment_record_show_more">Виж повече</string>
   <string name="payment_report_failed_record_dialog_cancel">Отказ</string>
-  <string name="payment_report_failed_record_dialog_message">\"\"\'\'Докладвайте необработени плащания\'\', за да ни помогнете да направим изчисляването на плащанията по-точно.\u000d\n\"\"\"&lt;b&gt;Елементите, които споделяте, ще се използват само за подобряване на Трезора за приложения.&lt;/b&gt;</string>
+  <string name="payment_report_failed_record_dialog_message">\"\"\'\'Докладвайте необработени плащания\'\', за да ни помогнете да направим изчисляването на плащанията по-точно.\u000d\n\"\"\"&lt;b&gt;Елементите, които споделяте, ще се използват само за подобряване на Личен асистент.&lt;/b&gt;</string>
   <string name="payment_report_failed_record_dialog_ok">Доклад</string>
   <string name="payment_total_month_desc">Този месец</string>
   <string name="payment_total_today_desc">Днес</string>
@@ -841,7 +841,7 @@
   <string name="share_title">Споделяне на URL</string>
   <string name="shortcut">Преки пътища</string>
   <string name="show_more">Показване на още</string>
-  <string name="smart_assistant_enter_tip">Трезор за приложения</string>
+  <string name="smart_assistant_enter_tip">Личен асистент</string>
   <string name="sms_address">Адрес</string>
   <string name="sms_airline">Авиолинии</string>
   <string name="sms_button_add_calendar">Добави в Календар</string>
@@ -928,7 +928,7 @@
   <string name="trip_quick">Шофьор</string>
   <string name="trip_taxi">Такси</string>
   <string name="try_again">Опитайте отново</string>
-  <string name="understandassistant">За Трезор на приложения</string>
+  <string name="understandassistant">За Личен асистент</string>
   <string name="uninstall">Не е инсталирано</string>
   <string name="unusual_weather">Предупреждения за лошо време</string>
   <string name="unusual_weather_open">Включи предупреждение за лошо време</string>
