@@ -109,7 +109,6 @@
     <string name="yearly">Ежегодно (%s)</string>
     <string name="yearly_plain">Годишно</string>
     <string name="account_and_calendar">Акаунт и календар</string>
-    <string name="action_bar_date_button_title">Пресметни дата</string>
     <string name="action_bar_more_menu_view_description">Още</string>
     <string name="action_bar_return">Назад</string>
     <string name="action_text_card_manager">Канал</string>
@@ -165,7 +164,6 @@
     <string name="date_calculate_description">Разберете датата, преди или след определен ден</string>
     <string name="date_calculate_direction">Посока</string>
     <string name="date_calculate_direction_content_description">Текущо направление: %1s.</string>
-    <string name="date_calculate_hint">Научете каква дата е след броени дни</string>
     <string name="date_calculate_result">Резултат</string>
     <string name="date_calculate_tab">Пресметни дата</string>
     <string name="date_calculate_today">0 дни</string>
@@ -175,7 +173,6 @@
     <string name="date_interval_start">От</string>
     <string name="date_interval_tab">Интервал</string>
     <string name="date_interval_text_to">До %1$s</string>
-    <string name="date_jump_hint">Отиди директно на определена дата</string>
     <string name="date_jump_title">Отиди на дата</string>
     <string name="date_today">" (днес)"</string>
     <string name="default_reminder_mode">Напомняне по подразбиране</string>
@@ -374,10 +371,6 @@
     <string name="subscribe_channel_subscribing">Абониране</string>
     <string name="subscribe_channel_title">Канал</string>
     <string name="subscribing_card">Абониране</string>
-    <string name="tab_title_agenda">Събития</string>
-    <string name="tab_title_day">Ден</string>
-    <string name="tab_title_month">Месец</string>
-    <string name="tab_title_week">Седмица</string>
     <string name="talk_back_read_date">Текуща дата:%1$s(%2$sспоред лунния календар).</string>
     <string name="template_week_num">Седмица %1$s</string>
     <string name="time_zone">Часова зона</string>
@@ -430,9 +423,8 @@
     <string name="clear_net_mock_success">Недвусмислен ясен успех</string>
     <string name="countdown_secondary_tag">Отброяване</string>
     <string name="date_calculate_hint">Научете каква е датата след няколко дни</string>
-    <string name="date_jump_hint">Отидете директно до определен ден</string>
-    <string name="date_jump_title">Направо към дата</string>
-    <string name="edit_event_birthday_reminder_3_days_before">Напомнете също 3 дни предварително</string>
+    <string name="date_jump_hint">Отидете директно на определен ден</string>
+    <string name="edit_event_birthday_reminder_3_days_before">Напомняне 3 дни предварително</string>
     <string name="guide_card_import">Внасяне</string>
     <string name="guide_card_primary_text">Внасяне на рожден ден на приятел</string>
     <string name="guide_card_second_text">Групово внасяне, на рождени дни на приятели</string>
