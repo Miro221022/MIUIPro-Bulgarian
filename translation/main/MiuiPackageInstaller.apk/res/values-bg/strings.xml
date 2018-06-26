@@ -367,7 +367,6 @@
     <string name="virus_scan_clear">Remove</string>
     <string name="virus_scan_caller_unknown">Unknown</string>
     <string name="lift_ban_once">Allow once</string>
-    <string name="dlg_appstore_notice">"We can't verify the authenticity or security of apps from sources outside the "<font color="#91c727"><u>App Store.</string>
     <string name="app_store_missing_title">"App Store isn't installed"</string>
     <string name="reboot_time">Getting ready to reboot… (%1$s)</string>
     <string name="app_store_missing_message">"Изглежда, че не сте инсталирали официалният App Store. Инсталирайте го сега?"</string>
@@ -385,7 +384,6 @@
     <string name="message_appstore_verify_has_new_version">По-нова версия на това приложение е налична в App Store. Искате ли да я инсталирате?</string>
     <string name="message_appstore_verify_inconsistent">"This app's signature is different from that in App Store, it will be safer to install the app from there."</string>
     <string name="message_appstore_verify_ok">The version of this app in App Store has passed our security tests, we recommend you to install the app from there.</string>
-    <string name="install_from_appstore_hint">We recommend you to install the app from <font color="#91c727"><u>AppStore</string>
     <string name="waiting_tip">This may take a while, but well worth it</string>
     <string name="miui_install_confirm_question">Ще инсталирате ли това приложение?</string>
     <string name="miui_install_confirm_question_update">Заместване на съществуващото приложение?</string>
