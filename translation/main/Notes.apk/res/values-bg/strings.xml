@@ -225,4 +225,8 @@
   <string name="toast_refuse_to_record_when_in_call">"Тази функция не може да се използва по време на разговори"</string>
   <string name="toolbar_text_description">Стил на текста</string>
   <string name="toolbar_voice_description">Глас</string>
+  <string name="actionbar_close_description">Затваряне</string>
+  <string name="actionbar_home_description">Назад</string>
+  <string name="menu_more_description">Още</string>
+  <string name="toast_refuse_to_record_when_in_multi_window">"Тази функция не може да се използва в режим разделен екран"</string>
 </resources>

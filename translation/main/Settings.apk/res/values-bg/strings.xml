@@ -4330,7 +4330,9 @@
     <string name="unlock_disable_lock_pin_summary">Премахване на PIN кода за отключване</string>
     <string name="lockpassword_confirm_for_second_user">Потвърдете вашата парола за Второ пространство</string>
     <string name="lockpassword_choose_for_second_user">Задаване на парола за Второ пространство</string>
-    <string name="lockpassword_choose_your_password_second_space">\"Задайте парола за Второ пространство\"</string>
+    <string name="lockpassword_choose_your_password_second_space">"Задайте ПИН за Второ пространство.
+ПИН кодът трябва да съдържа толкова цифри
+като вашият ПИН за Първо пространство."</string>    
     <string name="lockpassword_choose_your_pin_header_second_space">\"Задайте PIN за Второ пространство\"</string>
     <string name="cancel_alert">Отменяте ли промените?</string>
     <string name="android_beam_witch_label">Включи Android Beam</string>
