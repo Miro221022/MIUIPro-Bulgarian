@@ -220,4 +220,6 @@
   <string name="open_keep_screen">Екранът ще бъде запазен</string>
   <string name="shut_down_keep_screen">"Екранът няма да бъде запазен"</string>
   <string name="dialog_message_not_remind">"Не показвай отново"</string>
+  <string name="add_clock">Добавяне на часовник</string>
+  <string name="content_desc_keep_screen">Бутон \"Винаги вкл. екран\"</string>
 </resources>

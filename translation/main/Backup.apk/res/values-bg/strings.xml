@@ -595,4 +595,10 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
    <string name="usb_trans_select_data_no_space">"Само %s е налице на USB устройството ви.
 Освободете място или прехвърлете само важни елементи."</string>
    <string name="err_acquire_system_service">"Не може да се стартира системната услуга."</string>
+   <string name="trans_button_exit">Изход</string>
+   <string name="trans_button_stay">Оставане</string>
+   <string name="trans_cancel_selection_message">Ако излезете от Mi Mover, текущият трансфер ще бъде прекъснат. Изчакайте, докато прехвърлянето завърши.</string>
+   <string name="trans_cancel_selection_title">Остани в Mi Mover</string>
+   <string name="trans_select_notification_message">Докоснете за преглед</string>
+   <string name="trans_select_notification_title">Mi Mover работи…</string>
 </resources>

@@ -1714,4 +1714,8 @@
   <string name="notification_channel_battery">Батерия</string>
   <string name="notification_channel_usb">USB</string>
   <string name="quick_settings_gps_label">GPS</string>
+  <string name="accessibility_menu_item_split_disable">"Приложението не поддържа Разделен екран."</string>
+  <string name="accessibility_menu_item_split_enable">Приложението поддържа Разделен екран</string>
+  <string name="accessibility_splite_screen_primary">Добавяне на основно приложение към Разделен екран</string>
+  <string name="accessibility_splite_screen_secondary">Добавяне на второ приложение към Разделен екран</string>
 </resources>

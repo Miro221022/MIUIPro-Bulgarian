@@ -81,13 +81,13 @@
         <item>Отлагане</item>
         <item>Изключване</item>
     </string-array>
-	     <string-array name="timer_duration">
+	    <string-array name="timer_duration">
         <item>Общо време %1$s</item>
         <item>Общо време %2$s</item>
-        <item>Общо време %1$s%2$s</item>
+        <item>Общо време %1$s %2$s</item>
         <item>Общо време %3$s</item>
-        <item>Общо време %1$s%3$s</item>
-        <item>Общо време %2$s%3$s</item>
-        <item>Общо време %1$s%2$s%3$s</item>
+        <item>Общо време %1$s %3$s</item>
+        <item>Общо време %2$s %3$s</item>
+        <item>Общо време %1$s %2$s %3$s</item>
      </string-array>
 </resources>

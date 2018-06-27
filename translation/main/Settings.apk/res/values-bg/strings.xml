@@ -5592,18 +5592,18 @@ Stable"</string>
     <string name="accessibility_wifi_security_type_none">Отворена мрежа</string>
     <string name="accessibility_wifi_security_type_secured">Защитена мрежа</string>
 	<string name="gxzw_add_fingerprint_continue">Продължаване</string>
-    <string name="gxzw_add_fingerprint_edge_message">Местете пръста си, за да може датчикът да записва краищата на отпечатъка Ви.</string>
-    <string name="gxzw_add_fingerprint_edge_title">Преместете пръста си леко</string>
+    <string name="gxzw_add_fingerprint_edge_message">Преместете пръста си, за да запишете краищата на отпечатъка си.</string>
+    <string name="gxzw_add_fingerprint_edge_title">Регулирайте натиска</string>
     <string name="gxzw_add_fingerprint_finish">Готово</string>
-    <string name="gxzw_add_fingerprint_indicate">Натискайте по-силно тук</string>
+    <string name="gxzw_add_fingerprint_indicate">Леко натиснете тази област</string>
     <string name="gxzw_add_fingerprint_know">Готово</string>
-    <string name="gxzw_add_fingerprint_message">Поддържайте пръстите си и повърхността на екрана чисти</string>
+    <string name="gxzw_add_fingerprint_message">Уверете се, че пръстът и екранът ви са чисти</string>
     <string name="gxzw_add_fingerprint_move_indicate">Преместете пръста си леко</string>
-    <string name="gxzw_add_fingerprint_move_message">"Не може да запаметят останалите зони от пръстовия Ви отпечатък. Преместете леко пръста си"</string>
-    <string name="gxzw_add_fingerprint_move_title">Преместете леко пръста си</string>
-    <string name="gxzw_add_fingerprint_put_finger_message">Натиснете малко по-силно и повдигнете пръста си след като усетите вибрация. Повторете няколко пъти</string>
-    <string name="gxzw_add_fingerprint_put_finger_title">Натиснете по-силно и повдигнете пръста си след вибрацията</string>
-    <string name="gxzw_add_fingerprint_title">Добавяне на пръстов отпечатък</string>
+    <string name="gxzw_add_fingerprint_move_message">Местете пръста си, за да запишете всички части от отпечатъка си</string>
+    <string name="gxzw_add_fingerprint_move_title">Преместете малко пръста си</string>
+    <string name="gxzw_add_fingerprint_put_finger_message">Натиснете екрана и вдигнете пръста си, след като почувствате вибрация. Повторете няколко пъти.</string>
+    <string name="gxzw_add_fingerprint_put_finger_title">Натиснете и повдигнете след вибрацията</string>
+    <string name="gxzw_add_fingerprint_title">Добавете пръстов отпечатък</string>
 	<string name="add_fingerprint_cancel_button_text">Назад</string>
 	<string name="choose_a_card_to_reset">Изберете сим карта за нулиране</string>
     <string name="reset_network_bluetooth">Bluetooth</string>
@@ -5712,4 +5712,6 @@ Stable"</string>
 	<string name="video_pip_access_title">Достъпни приложения</string>
     <string name="video_pip_enable_title">Активиране на видео режим Картина в картина</string>
     <string name="video_pip_tips">Кликнете върху плаващия прозорец, за да влезете в режим на Картина в картина</string>
+	<string name="add_fingerprint_dirty_fingerprint">Уверете се, че повърхността на екрана е чиста. Опитайте отново да запишете отпечатъка си.</string>
+    <string name="add_fingerprint_move_fast">Дръжте пръста си на екрана малко по-дълго</string>
 </resources>
