@@ -174,4 +174,7 @@
     <string name="hide_app_title">Скриване на приложения</string>
 	<string name="smart_mobile_title">Настройки на интелигентна мрежа</string> 
     <string name="timer_setting">Настройки на таймери за свързване</string>
+	<string name="vol_sounds_title">Деактивиране на звука при излизане от Тих режим </string>
+    <string name="del_sounds_title">Заглушаване на звука при изтриване на файлове</string>
+    <string name="notif_view_title">Стил на известията</string>
 </resources>
