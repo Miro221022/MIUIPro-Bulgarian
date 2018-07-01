@@ -175,8 +175,10 @@
 	<string name="smart_mobile_title">Настройки на интелигентна мрежа</string> 
     <string name="timer_setting">Настройки на таймери за свързване</string>
 	<string name="vol_sounds_title">Деактивиране на звука при излизане от Тих режим </string>
-    <string name="del_sounds_title">Заглушаване на звука при изтриване на файлове</string>
+    <string name="del_sounds_title">Звук при изтриване на файлове</string>
     <string name="notif_view_title">Стил на известията</string>
 	<string name="enable_vertical_clock">Вертикални часовници</string>
     <string name="enable_vertical_clock_summary">Показване на вертикален часовник на заключения екран</string>
+	<string name="numberpicker_change_summary">Календар, аларма и други</string>
+    <string name="del_sounds_summary">Контакти, снимки, записи и други.</string>
 </resources>
