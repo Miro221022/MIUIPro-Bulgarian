@@ -495,8 +495,8 @@
     <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Your Alipay data will be safe even if you lose your device</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ recommends you to turn on Find device</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Your QQ data will be safe even if you lose your device</string>
-    <string name="micloud_find_device_guide_alert_title">Запомняне на вашите Mi профил ID и парола</string>
-    <string name="micloud_find_device_guide_alert_content">Намери устройство е свързана с вашия Mi профил услуга. Необходимо е да зададете парола или въведете паролата, която сте задали. Уверете се, че помните вашите потребителско име и парола в Mi профил.</string>
+    <string name="micloud_find_device_guide_alert_title">Запомняне на паролата</string>
+    <string name="micloud_find_device_guide_alert_content">Намери устройство е свързан с вашият Mi профил. Необходимо е да зададете парола или въведете паролата, която сте задали. Уверете се, че помните вашите потребителско име и парола в Mi профил.</string>
     <string name="micloud_find_device_guide_alert_positive">OК</string>
     <string name="micloud_find_device_guide_alert_negtive">Не, благодаря</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">Не, благодаря</string>

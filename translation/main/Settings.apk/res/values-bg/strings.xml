@@ -4247,9 +4247,9 @@
     <string name="screen_color_and_optimize">Цветове и контраст</string>
     <string name="screen_color_and_optimize_disabled">В режим за четене не може да се настройва цветова температура</string>
     <string name="screen_paper_mode_title">Режим четене</string>
-    <string name="screen_paper_mode_summary">Намалява сините цветове</string>
+    <string name="screen_paper_mode_summary">Режимът за четене прави цветовете на дисплея по-топли, позволявайки на очите ви да отпочинат</string>
     <string name="screen_paper_mode_time_title">Планиране</string>
-    <string name="screen_paper_mode_time_summary">Планиране на времето за включване и изключване на режим Четене</string>
+    <string name="screen_paper_mode_time_summary">Планиране на времето за включване и изключване на Режим Четене</string>
     <string name="paper_mode_auto_twilight_title">Нощен режим за четене</string>
     <string name="paper_mode_auto_twilight_summary">Превключване на режим Четене автоматично след залез</string>
     <string name="paper_mode_customize_time_title">Потребителски период</string>
