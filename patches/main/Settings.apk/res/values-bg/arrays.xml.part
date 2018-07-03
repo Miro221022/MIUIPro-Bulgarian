@@ -95,10 +95,6 @@
         <item>От центъра към центъра</item> 
         <item>Персонализиране</item> 
     </string-array> 
-	<string-array name="gesture_anywhere_position_entries"> 
-        <item>Ляво</item> 
-        <item>Дясно</item> 
-    </string-array> 
 	<string-array name="listview_animation_entries"> 
         <item>По подразбиране</item> 
         <item>Вълна (на дясно)</item> 
