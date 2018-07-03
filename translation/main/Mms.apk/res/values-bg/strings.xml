@@ -382,7 +382,7 @@
   <string name="pref_show_blocked_messages_summary">Показване на блокираните SMS в списъка с кореспонденции</string>
   <string name="pref_show_list_avatar_summary">Покажи профилни снимки и информация за контакт като списък</string>
   <string name="pref_show_photo_word_summary">Автоматично присвояване на снимка за контакт без снимка</string>
-  <string name="pref_show_sms_template_entry_summary">Открий еднократни пароли в SMS</string>
+  <string name="pref_show_sms_template_entry_summary">Открий еднократни пароли и покажи бързи менюта</string>
   <string name="pref_show_sms_template_in_summary">Автоматично засичане на OTP в SMS съобщенията</string>
   <string name="pref_show_sms_template_summary">Включете смарт функциите на Mi Message - копиране на кодове, проверка на сметката и т.н.</string>
   <string name="pref_smart_messages_settings">Тарикатски съобщения</string>
@@ -610,7 +610,7 @@
   <string name="title_show_blocked_messages">Показване на блокирани SMS</string>
   <string name="title_show_list_avatar">Покажи профилни снимки</string>
   <string name="title_show_photo_word">Присвои снимка за контакт</string>
-  <string name="title_show_sms_template">Проверка за кодове за потвърждение в SMS-а</string>
+  <string name="title_show_sms_template">Интелигентни съобщения</string>
   <string name="title_show_sms_template_in">Проверка на SMS за OTP</string>
   <string name="title_timed_message_dialog">Час за изпращане на съобщение</string>
   <string name="title_use_gsm_alphabet">Използвайте GSM азбука</string>

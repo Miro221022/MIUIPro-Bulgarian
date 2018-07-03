@@ -337,7 +337,7 @@
     <string name="status_bar_settings_notification_priority_summary">Показване на известията най-горе в списъка</string>
     <string name="status_bar_settings_show_home_message">Значка върху иконата</string>
     <string name="status_bar_settings_show_floating_notification">Плаващи известия</string>
-    <string name="status_bar_settings_show_floating_notification_summary">Плаващите известия ще изчезват автоматично, след като се покажат в горната част на екрана</string>
+    <string name="status_bar_settings_show_floating_notification_summary">Позволяване на важни известия в горната част на екрана</string>
     <string name="status_bar_settings_show_keyguard_notification">Известия на заключен екран</string>
     <string name="status_bar_settings_notification_sound">Звук</string>
     <string name="status_bar_settings_notification_vibrate">Вибрация</string>
@@ -345,7 +345,7 @@
     <string name="status_bar_settings_notification_bar">Лента с известия</string>
     <string name="status_bar_settings_app_notification_preferences">Настройки на приложенията</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Свиване при докосване</string>
-    <string name="status_bar_settings_status_bar">Статус лента</string>
+    <string name="status_bar_settings_status_bar">Лента за състояние</string>
     <string name="status_bar_settings_show_notification_icon">Покажи икона на известието</string>
     <string name="status_bar_settings_show_network_speed">Покажи скоростта на връзката</string>
     <string name="status_bar_settings_expandable_under_keyguard">Покажи на заключен екран</string>

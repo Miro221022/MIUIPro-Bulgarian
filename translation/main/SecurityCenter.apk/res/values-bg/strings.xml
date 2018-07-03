@@ -2243,4 +2243,10 @@
     <string name="gamebox_type_float">Фиксиран пряк път</string>
     <string name="gamebox_type_gesture">Плъзнете за показване</string>
 	<string name="notify_channel_name_security">Системна сигурност</string>
+	<string name="fod_authentication_shift_button">Отказ</string>
+    <string name="fod_button_finger">Използване на пръстов отпечатък</string>
+    <string name="fod_button_password">Въведете парола</string>
+    <string name="fod_finger_notice_title">Поставете пръста си на екрана</string>
+    <string name="fod_finger_windows_tips">Потвърдете отпечатъка си</string>
+    <string name="fod_tips_split_screen_more_than_half">Въведете парола</string>
 </resources>
