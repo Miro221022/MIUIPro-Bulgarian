@@ -5714,4 +5714,5 @@ Stable"</string>
     <string name="video_pip_tips">Кликнете върху плаващия прозорец, за да влезете в режим на Картина в картина</string>
 	<string name="add_fingerprint_dirty_fingerprint">Уверете се, че повърхността на екрана е чиста. Опитайте отново да запишете отпечатъка си.</string>
     <string name="add_fingerprint_move_fast">Дръжте пръста си на екрана малко по-дълго</string>
+	<string name="status_bar_settings_show_keyguard_notification_summary">Разрешаване на важни известия на заключен екран</string>
 </resources>
