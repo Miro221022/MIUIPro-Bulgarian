@@ -1172,7 +1172,7 @@
   <string name="qs_paging">Използвайте новите бързи настройки</string>
   <string name="qs_rearrange">Пренареждане на бързите настройки</string>
   <string name="quick_settings">Бързи настройки</string>
-  <string name="quick_settings_autobrightness_label">Автоматична яркост</string>
+  <string name="quick_settings_autobrightness_label">Яркост на екрана</string>
   <string name="quick_settings_batterysaver_label">Пестене на батерия</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Няма налични сдвоени устройства</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
@@ -1248,7 +1248,7 @@
   <string name="quick_settings_rssi_emergency_only">Само спешни повиквания</string>
   <string name="quick_settings_rssi_label">RSSI</string>
   <string name="quick_settings_screenbutton_label">Бутони</string>
-  <string name="quick_settings_screenlock_label">Заключен екран</string>
+  <string name="quick_settings_screenlock_label">Заключване на екрана</string>
   <string name="quick_settings_screenshot_label">Екранна снимка</string>
   <string name="quick_settings_settings_label">Настройки</string>
   <string name="quick_settings_sync_label">Синхронизация</string>
