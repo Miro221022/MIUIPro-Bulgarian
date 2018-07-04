@@ -867,7 +867,7 @@
   <string name="kg_wrong_password">Грешна парола</string>
   <string name="kg_wrong_pattern">Направилна фигура</string>
   <string name="kg_wrong_pin">Грешен ПИН</string>
-  <string name="kilobyte_per_second">K/s</string>
+  <string name="kilobyte_per_second">К/с</string>
   <string name="label_view">Преглед</string>
   <string name="launch_defaults_none">Няма настройки по подразбиране</string>
   <string name="launch_defaults_some">Задаване на определени настройки</string>
@@ -962,7 +962,7 @@
   <string name="media_projection_action_text">Стартирай сега</string>
   <string name="media_projection_dialog_text">%s ще започне да записва всичко, което се показва на екрана ви.</string>
   <string name="media_projection_remember_text">Не показвай отново</string>
-  <string name="megabyte_per_second">M/s</string>
+  <string name="megabyte_per_second">М/с</string>
   <string name="memory_clear_result_giga">%1$sГБ почистени</string>
   <string name="memory_clear_result_mega">%1$sМБ почистени</string>
   <string name="menu_ime">Превключвател на клавиатурата</string>
