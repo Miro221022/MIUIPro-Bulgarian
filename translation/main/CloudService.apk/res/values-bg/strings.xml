@@ -591,4 +591,8 @@
     <string name="wipe_data_dialog_msg">Някои елементи %s не са синхронизирани. Те ще бъдат запазени на вашето устройство и няма да бъдат изтрити.</string>
 	<string name="user_agreement_content">"Използвайки тази услуга, вие се съгласявате с %s."</string>
     <string name="user_agreement_link">"Условия за Ползване на Mi Cloud"</string>
+	<string name="member_menu_vipname_free">Безплатно</string>
+    <string name="member_menu_vipname_mega">Мега</string>
+    <string name="member_menu_vipname_premium">Премиум</string>
+    <string name="member_menu_vipname_ultra">Ултра</string>
 </resources>

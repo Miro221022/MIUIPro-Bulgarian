@@ -5703,8 +5703,6 @@ Stable"</string>
     <string name="key_fsg_dialog_message">"Използвате жестове на цял екран за управление. Функциите, свързани с бутоните, не са налични в момента. Превключване към бутони?"</string>
     <string name="key_fsg_dialog_negative">Отказ</string>
     <string name="key_fsg_dialog_positive">Превключване към бутони</string>
-    <string name="flash_drive_backup_restore">USB архивиране</string>
-    <string name="flash_drive_backup_restore_summary">Свържете USB памет</string>
 	<string name="lockpassword_choose_your_pin_title">Въведете 4-16 цифри</string>
 	<string name="miui_lab_pic_in_pic_desc">Разрешаване на плаващи видеоклипове за избрани приложения</string>
     <string name="miui_lab_pic_in_pic_title">Картина в картината</string>
@@ -5715,4 +5713,6 @@ Stable"</string>
 	<string name="add_fingerprint_dirty_fingerprint">Уверете се, че повърхността на екрана е чиста. Опитайте отново да запишете отпечатъка си.</string>
     <string name="add_fingerprint_move_fast">Дръжте пръста си на екрана малко по-дълго</string>
 	<string name="status_bar_settings_show_keyguard_notification_summary">Разрешаване на важни известия на заключен екран</string>
+    <string name="flash_drive_backup_restore">Архивиране или възстановяване чрез USB</string>
+    <string name="flash_drive_backup_restore_summary">Свържете USB памет</string>
 </resources>
