@@ -200,8 +200,8 @@
   <string name="timer_alert_type_beach">Плаж</string>
   <string name="timer_alert_type_forest">Гора</string>
   <string name="timer_alert_type_mute">По подразбиране</string>
-  <string name="timer_alert_type_rain">Ръмеж</string>
-  <string name="timer_alert_type_stove_fire">Горещо</string>
+  <string name="timer_alert_type_rain">Дъжд</string>
+  <string name="timer_alert_type_stove_fire">Огън</string>
   <string name="timer_alert_type_summer_night">Лятна нощ</string>
   <string name="timer_cancel_timer">Отмяна на таймера</string>
   <string name="timer_continue_timer">Възобновяване на таймера</string>
