@@ -5715,4 +5715,18 @@ Stable"</string>
 	<string name="status_bar_settings_show_keyguard_notification_summary">Разрешаване на важни известия на заключен екран</string>
     <string name="flash_drive_backup_restore">Архивиране или възстановяване чрез USB</string>
     <string name="flash_drive_backup_restore_summary">Свържете USB памет</string>
+    <string name="bt_ldac_declaration">Когато Bluetooth устройството поддържа LDAC, то ще бъде свързано по подразбиране. LDAC осигурява висококачествено аудио изживяване и също така води до по-висока консумация на енергия. Възпроизвеждането може да не се осъществи поради Bluetooth хардуерни ограничения</string>
+    <string name="bt_ldac_dialog_summary">"LDAC осигурява висококачествено аудио изживяване и също така води до по-висока консумация на енергия.
+Тази функция може да бъде изключена в [Настройки]"</string>
+    <string name="bt_ldac_dialog_title">Текущото устройство поддържа LDAC, което беше свързано по подразбиране:</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC осигурява висококачествено аудио изживяване и също така води до по-висока консумация на енергия. Възпроизвеждането може да не се осъществи поради Bluetooth хардуерни ограничения</string>
+    <string name="bt_ldac_open_dialog_title">Сигурни ли сте,че искате да включите LDAC?</string>
+    <string name="bt_ldac_pre_summary">Осигурява висококачествено аудио изживяване</string>
+    <string name="bt_ldac_pre_title">LDAC</string>
+    <string name="bt_ldac_property">Атрибути</string>
+    <string name="bt_ldac_remember_choice">Запомняне на избора</string>
+    <string name="bt_ldac_settings">Настройки</string>
+    <string name="secspace_fod_finger_tips">"Не може да се потвърди. Опитайте отново."</string>
+    <string name="secspace_fod_finger_title">Потвърдете отпечатъка си</string>
+    <string name="secspace_fod_use_password">Въведете парола</string>
 </resources>
