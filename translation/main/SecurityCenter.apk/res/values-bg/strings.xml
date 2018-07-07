@@ -1314,7 +1314,7 @@
     <string name="resource_antispam">Блокирани</string>
     <string name="keywords_antispam">Списък блокирани;Блокиране;Черен списък;Измамници;Продавачи;Агенти;Списък блокирани обаждания;Списък блокирани съобщения;Списък с блокирани съобщения;SMS списък блокирани;списък блокирани;черен списък;списък блокирани;списък блокирани;измами;блокиран контакт;блокирани контакти</string>
     <string name="path_antispam">Системни приложения/Списък с блокирани</string>
-    <string name="resource_networkassistant_1">Изп. на данни</string>
+    <string name="resource_networkassistant_1">Използване на данни</string>
     <string name="keywords_networkassistant_1">Мобилни данни;Трафик</string>
     <string name="path_networkassistant_1">Системни приложения/Сигурност/Използване на мобилни данни</string>
     <string name="resource_networkassistant_2">Задаване на план за данни</string>

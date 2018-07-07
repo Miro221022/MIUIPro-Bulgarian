@@ -84,8 +84,8 @@
     <item>Час на последната актуализация</item>
   </string-array>
   <string-array name="traffic_type">
-    <item>"Изп. мобилни данни "</item>
-    <item>"Изп. Wi-Fi "</item>
+    <item>"Използване на мобилни данни "</item>
+    <item>"Използване на Wi-Fi "</item>
   </string-array>
   <string-array name="sort_type">
     <item>Статус</item>
