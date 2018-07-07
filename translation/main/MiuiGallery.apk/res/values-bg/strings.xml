@@ -501,7 +501,7 @@
     <string name="finish_fill_baby">Създаване</string>
     <string name="flash_off">Без светкавица</string>
     <string name="flash_on">Със светкавица</string>
-    <string name="gallery_setting">Галерия</string>
+    <string name="gallery_setting">Настройки</string>
     <string name="gallery_sync_disable_toast">Синхр. на Галерия е изкл.</string>
     <string name="get_album_info_in_process">Получаване на информация за споделен албум…</string>
     <string name="gif_tip">GIF</string>
