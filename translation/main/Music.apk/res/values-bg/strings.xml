@@ -456,7 +456,7 @@
     <string name="local_page_artist_more">Още песни от %s</string>
     <string name="local_page_custom_subtitle">Нова песен всеки ден</string>
     <string name="local_page_custom_title">За теб</string>
-    <string name="local_page_playlist">Моите списъци с песни</string>
+    <string name="local_page_playlist">Моите списъци</string>
     <string name="local_page_song_all">Всички песни</string>
     <string name="local_page_song_download">Свалени песни</string>
     <string name="local_page_song_download_history">Изтегляния</string>
@@ -942,4 +942,5 @@
     <string name="impunity_declaration_content3">" и "</string>
     <string name="impunity_declaration_content4">Политика за поверителност</string>
     <string name="impunity_declaration_content5">.</string>
+	<string name="auto_enter_nowplaying_setting_title">Авт. влизане в "Изпълняващи се в момента"</string>
 </resources>
