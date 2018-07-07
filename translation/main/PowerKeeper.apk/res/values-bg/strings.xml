@@ -19,10 +19,10 @@
     <string name="config_scenario_policies_title">Спящ режим</string>
     <string name="scenario_policies_summary">Прилагане на различни стратегии за спестяване на енергия за различни ситуации.</string>
     <string name="sleep_config_enhance_title">Спящ режим</string>
-    <string name="sleep_config_enhance_description">Когато MIUI регистрира, че устройството е заспало, ще затвори приложенията на заден план, ще ограничи NFC, Bluetooth, GPS, мобилните данни и употребата на Wi-Fi и няма да активира екрана при известия.</string>
-    <string name="sleep_config_enhance_description_non_nfc">Винаги, когато MIUI установи, че Вие не използвате устройството си, ще затвори приложенията на заден план, ще ограничи Bluetooth, GPS, мобилни данни и Wi-Fi и няма да активира екрана при известия.</string>
+    <string name="sleep_config_enhance_description">Когато MIUI регистрира, че устройството е заспало, ще затвори приложенията на заден план, ще ограничи NFC, Bluetooth, GPS, мобилните данни и употребата на Wi-Fi и няма да активира екрана при получаване на известия.</string>
+    <string name="sleep_config_enhance_description_non_nfc">Винаги когато MIUI установи, че Вие не използвате устройството си, ще затвори приложенията на заден план.Също така ще ограничи Bluetooth, GPS, мобилни данни и Wi-Fi и няма да активира екрана при получаване на известия.</string>
     <string name="nonui_mode_config_title">Не интерактивен режим</string>
-    <string name="nonui_mode_config_description">Всеки път, когато MIUI разбере, че не използвате устройството си, MIUI ще светодиодният индикатор, сензора за пръстови отпечатъци и сензорните елементи за управление, и няма да включва екрана при известия.</string>
+    <string name="nonui_mode_config_description">Винаги, когато MIUI разбере, че не използвате устройството си, MIUI ще изключи светодиодният индикатор, сензора за пръстови отпечатъци и сензорните елементи за управление.Също така няма да активира екрана при получаване на известия.</string>
     <string name="power_center">Захранване</string>
     <string name="power_usage">Консумация на енергия</string>
     <string name="power_mode">Режим на производителност</string>
