@@ -39,7 +39,7 @@
     <string name="set_key_call_title">Способност да се скрие / Покаже</string> 
     <string name="key_title_summary">За да изведете бутоните в прозореца за повикване, прекарайте пръст надолу по номера. За да ги скриете, прекарайте пръст отдолу нагоре</string> 
     <string name="key_call_title">Първоначално състояние</string> 
-	<string name="call_home_title">Действие на бутона [НАЧАЛО]</string>
+	<string name="call_home_title">Бутон [НАЧАЛО]</string>
 	<string name="auto_redial_times_title">Опити за набиране</string> 
     <string name="auto_redial_times_summary">Инсталиран: %s</string>
 </resources>

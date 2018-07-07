@@ -236,7 +236,7 @@
         <item>Нищо</item>
         <item>Отвори телефон</item>
         <item>Изход към начален екран</item>
-        <item>Изход и закл. на телефона</item>
+        <item>Изход и заключване на телефона</item>
     </string-array>
     <string-array name="incall_small_background_entries">
         <item>По подразбиране</item>
@@ -282,7 +282,7 @@
     <string-array name="call_home_entries">
         <item>Приеми повикване</item>
         <item>Откажи повикване</item>
-        <item>Звук изкл.</item>
+        <item>Изключване на звук</item>
         <item>Деактивиран</item>
     </string-array>
 </resources>
