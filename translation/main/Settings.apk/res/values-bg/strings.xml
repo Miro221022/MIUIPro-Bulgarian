@@ -1335,7 +1335,7 @@
     <string name="system_update_settings_list_item_title">Magisk Manager</string>
     <string name="firmware_version">Версия на Андроид</string>
     <string name="security_patch">Ниво на корекцията на сигурността под Андроид</string>
-    <string name="model_number">Номер на модел</string>
+    <string name="model_number">Модел</string>
     <string name="fcc_equipment_id">Идент. № на оборудването</string>
     <string name="baseband_version">Версия на радиомодула</string>
     <string name="kernel_version">Версия на ядрото</string>
@@ -1362,8 +1362,8 @@
     <string name="status_signal_strength">Сила на сигнала</string>
     <string name="status_roaming">Роуминг</string>
     <string name="status_operator">Мрежа</string>
-    <string name="status_wifi_mac_address">MAC адрес за Wi-Fi</string>
-    <string name="status_bt_address">Адрес на Bluetooth</string>
+    <string name="status_wifi_mac_address">Wi-Fi MAC адрес</string>
+    <string name="status_bt_address">Bluetooth MAC адрес</string>
     <string name="status_serial_number">Сериен номер</string>
     <string name="status_unavailable">Няма данни</string>
     <string name="status_up_time">Време на активност</string>
@@ -2789,7 +2789,7 @@
     <string name="color_orange">оранжево</string>
     <string name="color_purple">лилаво</string>
     <string name="sim_no_inserted_msg">Няма поставени SIM карти</string>
-    <string name="sim_status_title">Статус на SIM</string>
+    <string name="sim_status_title">Състояние на SIM</string>
     <string name="sim_call_back_title">Обратно обаждане от стандартната SIM карта</string>
     <string name="sim_outgoing_call_title">SIM карта за изходящи обаждания</string>
     <string name="sim_other_call_settings">Други настройки за обаждане</string>
