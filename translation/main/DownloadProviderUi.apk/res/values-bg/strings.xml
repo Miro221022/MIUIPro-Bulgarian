@@ -387,7 +387,7 @@
   <string name="sniff_text_sniff_next_page">Продължи &gt;</string>
   <string name="sniff_vip_tip_speedup">Може да опитате да ускорите скоростта безплатно само веднъж</string>
   <string name="sniff_vip_tip_vip">Xunlei може да продължи да усилва вашата скорост на изтегляне</string>
-  <string name="speed_entrance">Тествайте скоростта на WLAN</string>
+  <string name="speed_entrance">Тест на скоростта</string>
   <string name="speed_result_broadband_text1">Текуща скорост на изтегляне</string>
   <string name="speed_result_broadband_text2">%s от честотната лента</string>
   <string name="speed_result_broadband_text3">Честотна лента</string>
