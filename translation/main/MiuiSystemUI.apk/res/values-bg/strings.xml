@@ -45,8 +45,8 @@
   <string name="accessibility_bluetooth_disconnected">Bluetooth е прекъснат.</string>
   <string name="accessibility_bluetooth_name">Свързан към %s.</string>
   <string name="accessibility_bluetooth_tether">Bluetooth тетъринг.</string>
-  <string name="accessibility_brightness">Яркост на дисплея</string>
-  <string name="accessibility_brightness_slider">Плъзгач за Яркост</string>
+  <string name="accessibility_brightness">Яркост на екрана</string>
+  <string name="accessibility_brightness_slider">Плъзгач за яркост</string>
   <string name="accessibility_camera_button">Камера</string>
   <string name="accessibility_carrier_network_change_mode">Промяна на мрежата.</string>
   <string name="accessibility_cast_name">Свързан към %s.</string>
