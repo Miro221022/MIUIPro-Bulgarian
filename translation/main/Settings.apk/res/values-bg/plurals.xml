@@ -225,4 +225,8 @@
          <item quantity="other">Връзката е ограничена за %s приложения</item>
          <item quantity="one">Връзката е ограничена за %s приложение</item>
     </plurals>
+	<plurals name="show_reset_countdown">
+         <item quantity="other">Изпълнете %1$d стъпки за да извършите нулиране до фабрични настройки</item>
+         <item quantity="one">Изпълнете %1$d стъпка за да извършите нулиране до фабрични настройки</item>
+    </plurals>
 </resources>

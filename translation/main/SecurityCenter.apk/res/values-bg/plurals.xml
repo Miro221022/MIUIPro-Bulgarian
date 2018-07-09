@@ -319,4 +319,20 @@
         <item quantity="other">%d мАч</item>
         <item quantity="one">%d мАч</item>
      </plurals>
+	     <plurals name="menu_text_antivirus_2">
+        <item quantity="other">%d елемента</item>
+        <item quantity="one">%d елемент</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_3">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="menu_text_antispam_2">
+        <item quantity="other">%d елемента</item>
+        <item quantity="one">%d елемент</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d приложения</item>
+        <item quantity="one">%d приложение</item>
+    </plurals>
 </resources>

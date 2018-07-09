@@ -93,12 +93,12 @@
     <item>Честота на използване</item>
     <item>Използване на памет</item>
     <item>Час (Дата) на инсталиране</item>
-</string-array>
-<string-array name="sort_title">
+  </string-array>
+  <string-array name="sort_title">
     <item>Сортиране по статус</item>
     <item>Сортиране по име</item>
     <item>Сортиране по честота на използване</item>
     <item>Сортиране по използване на памет</item>
     <item>Сортиране по час (дата) на инсталиране</item>
-</string-array>
+   </string-array>
 </resources>

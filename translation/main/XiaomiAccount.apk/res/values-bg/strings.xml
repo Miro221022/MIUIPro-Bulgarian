@@ -373,7 +373,7 @@
   <string name="passport_vcode_notification_title">Проверката при вписването ви не е завършила</string>
   <string name="passport_vcode_prompt_long">Въведете кода за потвърждение</string>
   <string name="passport_vcode_sms_send_prompt">Изпрати код за потвърждаване на %s</string>
-  <string name="passport_verification_failed">Неуспешно удостоверяване</string>
+  <string name="passport_verification_failed">Профилът не може да бъде потвърден</string>
   <string name="passport_verify">Проверка</string>
   <string name="passport_verifying_activator_phone">Потвърждава се сигурността на телефона…</string>
   <string name="passport_wait_for_sms_prompt">Да започнете ли отначало? Верификационните събщения може да отнемат до 10 минути, докато бъдат доставени.</string>

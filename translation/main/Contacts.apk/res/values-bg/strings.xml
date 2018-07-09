@@ -1201,4 +1201,6 @@
   <string name="no_setting_menu">Няма налични опции за менюто</string>
   <string name="contact_detail_entry_pay_request">Заявете пари</string>
   <string name="preference_show_firewall_calllog">Показване на блокираните повиквания в историята на обажданията</string>
+  <string name="toast_call_no_SoundRecorder">Приложението за запис не е налице</string>
+  <string name="toast_call_no_notes">Приложението "Бележки" не е налице</string>
 </resources>

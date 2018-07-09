@@ -1724,4 +1724,11 @@
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Тоновете за звънене, както и звуците за известия и медия, ще се възпроизвеждат.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Тоновете за звънене, както и звуците за известия и медия, ще бъдат заглушени.</string>
   <string name="lockscreen_storage_locked">Отключване за всички функции и данни</string>
+  <string name="wireless_change_to_ac_charging">Превключен към кабелно зареждане</string>
+  <string name="wireless_charge_current">Зареждане</string>
+  <string name="wireless_charge_dialog_cancel">Разбрах</string>
+  <string name="wireless_charge_dialog_title">Поставете устройството си в центъра на базата за зареждане</string>
+  <string name="wireless_charge_reset_device">Зареждането е бавно. Преместете устройството.</string>
+  <string name="wireless_charge_reset_device_detail">Уверете се, че позицията на вашето устройство на базата за зареждане е правилна</string>
+  <string name="wireless_charge_stop">Безжичното зареждане спря</string>
 </resources>

@@ -107,7 +107,7 @@
   <string name="charge_length_format">Преди %1$s</string>
   <string name="choose_profile">Избиране на потр. профил</string>
   <string name="clear_adb_keys">Отмяна на упълномощ. за отстр. на грешки през USB</string>
-  <string name="close">Затвори</string>
+  <string name="close">Изключване</string>
   <string name="confirm_enable_oem_unlock_text">ПРЕДУПРЕЖДЕНИЕ: Функциите за защита на устройството няма да работят, докато следната настройка е включена.</string>
   <string name="confirm_enable_oem_unlock_title">Да се разреши ли отключване от OEM?</string>
   <string name="connected_via_passpoint">Установена е връзка през „%1$s“</string>
