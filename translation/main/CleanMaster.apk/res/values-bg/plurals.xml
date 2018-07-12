@@ -122,5 +122,9 @@
      <plurals name="clean_long_msg_p2">
         <item quantity="other">%1$d елемента в секунда | Оставащо време: %2$s</item>
         <item quantity="one">%1$d елемент в секунда | Оставащо време: %2$s</item>
-     </plurals> 
+     </plurals>
+	 <plurals name="whatsapp_delete_files">
+        <item quantity="other">Изтриване на %1$d файла?</item>
+        <item quantity="one">Изтриване на %1$d файл?</item>
+    </plurals>
 </resources>

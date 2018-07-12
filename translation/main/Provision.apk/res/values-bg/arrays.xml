@@ -7,4 +7,9 @@
         <item>Испански (Америка)</item>
         <item>Португалски (Бразилия)</item>
      </string-array>
+	 <string-array name="other_settings_auto_update_entries">
+        <item>WLAN и мобилни данни</item>
+        <item>WLAN само</item>
+        <item>Изключено</item>
+    </string-array>
 </resources>

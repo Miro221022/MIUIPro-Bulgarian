@@ -1518,4 +1518,8 @@
          <item>Отстраняване на грешка</item>
          <item>Подробен</item>
     </string-array>
+	<string-array name="notch_battery_indicator_style_entries">
+        <item>Графика</item>
+        <item>Проценти</item>
+    </string-array>
 </resources>

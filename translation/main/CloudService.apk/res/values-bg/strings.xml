@@ -595,4 +595,10 @@
     <string name="member_menu_vipname_mega">Мега</string>
     <string name="member_menu_vipname_premium">Премиум</string>
     <string name="member_menu_vipname_ultra">Ултра</string>
+	<string name="hybrid_check_network">Мрежови настройки</string>
+    <string name="hybrid_data_error">Възникна грешка</string>
+    <string name="hybrid_network_access_denied">Достъпът до мрежата е отказан</string>
+    <string name="hybrid_network_unavaliable">"Не може да се свърже с мрежата"</string>
+    <string name="hybrid_service_unavailiable">Услугата не е достъпна</string>
+    <string name="hybrid_try_again">Опитайте отново</string>
 </resources>

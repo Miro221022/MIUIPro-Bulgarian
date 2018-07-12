@@ -5729,4 +5729,6 @@ Stable"</string>
     <string name="secspace_fod_finger_tips">"Не може да се потвърди. Опитайте отново."</string>
     <string name="secspace_fod_finger_title">Потвърдете отпечатъка си</string>
     <string name="secspace_fod_use_password">Въведете парола</string>
+	<string name="rgb_manage_facerecoginition_text">Управление на 2D лицеви данни</string>
+    <string name="structure_manage_facerecoginition_text">Управление на 3D лицеви данни</string>
 </resources>

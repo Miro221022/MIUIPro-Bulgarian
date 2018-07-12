@@ -355,7 +355,6 @@
     <string name="enable_cloud_for_sharing">Необходимо е да активирате облачните албуми за преглед на споделените снимки.</string>
     <string name="enable_face_album_summary">Автоматично сортиране на снимките по лицата в тях</string>
     <string name="enable_face_album_title">Сортиране по лица</string>
-    <string name="enabling_face_feature">Един момент…</string>
     <string name="enter_email_hint">Въведете Имейл адрес</string>
     <string name="error_album_not_exist">Албумът не съществува.</string>
     <string name="error_build_thumbnail_action">Изтегляне на оригиналния файл</string>
@@ -425,14 +424,12 @@
     <string name="exit_share_successfully">Излязохте от %1$s</string>
     <string name="exit_video_play">Изход</string>
     <string name="expand_people">Повече лица</string>
-    <string name="face_album_detecting_tip">Един момент…</string>
     <string name="face_album_empty">Празно</string>
     <string name="face_album_empty_syncing">Синхр. на данни</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Свържете се с интернет, за да синхронизирате информацията</string>
     <string name="face_album_long_tap_tip">За избиране на много хора или промяна на групови настройки, натиснете и задръжте профилната снимка</string>
     <string name="face_album_new_name_hint">Ново име</string>
     <string name="face_album_not_named">Без име</string>
-    <string name="face_album_pending_enable_tip">Снимките ще се сортират само по Wi-Fi</string>
     <string name="face_album_rename_hint">Въведете име</string>
     <string name="face_album_title">Снимки c %s</string>
     <string name="face_album_use_tip">Автоматично сортиране на снимките по лицата в тях.</string>
@@ -956,7 +953,6 @@
     <string name="search_select_network">Избор на мрежа</string>
     <string name="search_set_network_connection">Настройки на мрежата</string>
     <string name="search_setting_sub_title">Търсене на хора, места и обекти във вашите снимки.</string>
-    <string name="search_setting_sub_title_open">Приложено. Изчакайте малко преди да започнете.</string>
     <string name="search_setting_title">Намерете снимки в Галерия</string>
     <string name="search_syncing">Синхронизират се данни, върнете се след малко</string>
     <string name="search_title_album">Албум</string>
@@ -1187,7 +1183,6 @@
     <string name="video_not_exist">Видеото не съществува</string>
     <string name="view_by_gallery_tip">MIUI Галерия</string>
     <string name="view_face_album">Покажи албума</string>
-    <string name="view_queuing_status">Проверка на статуса</string>
     <string name="welcome_to_micloud">Добре дошли в Mi Cloud.</string>
     <string name="where_is_barcode">Къде е QR кода?</string>
     <string name="who_is_this">Кой е този?</string>
@@ -1232,7 +1227,7 @@
     <string name="video_editor_smart_effect_fastslow">Движение</string>
     <string name="video_editor_smart_effect_freesze">Спрете движението</string>
     <string name="video_editor_smart_effect_halo">Ореол</string>
-    <string name="video_editor_smart_effect_high_iframes_text">Този ефект работи най-добре с видеоклипове с висока честота на кадрите.</string>
+    <string name="video_editor_smart_effect_high_iframes_text">Този ефект работи най-добре за видеоклипове с 120 кадъра в секунда.</string>
     <string name="video_editor_smart_effect_movie">Филм</string>
     <string name="video_editor_smart_effect_none">Няма</string>
     <string name="video_editor_smart_effect_radical">Оптимистичен</string>
@@ -1251,7 +1246,7 @@
     <string name="checked_something">Избрани %s</string>
     <string name="enter_choice_mode">Влезте в диалога за споделяне</string>
     <string name="exit_choice_mode">Напускане на диалога за споделяне</string>
-    <string name="feature_guidance_photo_effects">Фото ефекти</string>
+    <string name="feature_guidance_photo_effects">Налице е нов фото ефект</string>
     <string name="image_with_time">Снимката е заснета на %s</string>
     <string name="image_with_time_and_location">Снимката е заснета на %1$s. Местоположение: %2$s.</string>
     <string name="storage_description_usb">USB съхранение</string>
@@ -1259,4 +1254,21 @@
     <string name="unchecked_something">Отказани %s</string>
     <string name="video_with_time">Видеото е заснето на %s</string>
     <string name="video_with_time_and_location">Видеото е заснето на %1$s. Местоположение: %2$s.</string>
+	<string name="album_notes">Бележки</string>
+    <string name="feature_guidance_video_editor_smart_effects">New effects are available</string>
+    <string name="photomovie_audio_default">Памет</string>
+    <string name="photomovie_audio_kawaii">Романтика</string>
+    <string name="photomovie_audio_light">Балада</string>
+    <string name="photomovie_audio_linear">Рок</string>
+    <string name="photomovie_audio_soft">Ukulele</string>
+    <string name="photomovie_audio_sport">Техно</string>
+    <string name="photomovie_template_kawaii">Сексапил</string>
+    <string name="photomovie_template_light">Бриз</string>
+    <string name="photomovie_template_linear">Пътешествие</string>
+    <string name="photomovie_template_soft">Младост</string>
+    <string name="photomovie_template_sport">Енергия</string>
+    <string name="picker_origin_request_progress_message">Подготовка на оригинални файлове (%1$d/%2$d)…</string>
+    <string name="search_request_requesting">Приложен. Изчакайте известно време, преди да започнете.</string>
+    <string name="secret_reason_video_not_support">"Не може да се добави видео към скрит албум"</string>
+    <string name="video_editor_video_loading">Видеоклипа се подготвя, изчакайте секунда или две и опитайте отново.</string>
 </resources>

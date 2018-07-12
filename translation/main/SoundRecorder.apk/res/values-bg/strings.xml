@@ -154,4 +154,5 @@
     <string name="rename_fail_tip">Грешка при преименуване, файл с такова име вече съществува.</string>
 	<string name="record_format_preference_title">Формат на записа</string>
     <string name="record_resotre">Възстановяване на записи</string>
+	<string name="record_format_preference_title">Формат на запис</string>
 </resources>

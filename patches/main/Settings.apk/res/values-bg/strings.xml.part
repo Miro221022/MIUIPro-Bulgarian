@@ -9,7 +9,7 @@
   <string name="bar_shadow_title">Скриване на отражението на иконата</string>
   <string name="battery_level">Настройка на нивото на зареждане</string>
   <string name="battery_off_title">Когато батерията е напълно заредена</string>
-  <string name="bluetooth_icon_title">Скриване на bluetooth иконата</string>
+  <string name="bluetooth_icon_title">Скриване на иконата за bluetooth слушалка</string>
   <string name="brightness_panel_title">Скриване на панела за яркост</string>
   <string name="charging_display">Включване на екрана при зареждане</string>
   <string name="charging_sounds_full_title">Звук, когато е напълно зареден</string>
