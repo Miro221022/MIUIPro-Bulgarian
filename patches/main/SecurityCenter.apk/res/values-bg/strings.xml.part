@@ -5,4 +5,6 @@
 	<string name="power_settings_number">Проценти и графика</string>
     <string name="xunyou_pay_webview">Само проценти</string> 
     <string name="xunyou_server_expired">Изкл.</string>
+    <string name="card_main_deepclean_wechat_title">Защита</string>
+    <string name="card_main_deepclean_qq_title">Тест на мрежата</string>
 </resources>
