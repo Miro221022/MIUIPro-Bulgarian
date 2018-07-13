@@ -316,7 +316,7 @@
     <string name="cta_dialog_msg">Оптимизацията се нуждае от интернет връзка за получаване на актуализации, както и достъп до местоположение за да работи нормално.</string>
     <string name="cta_settings">Разреши достъп до интернет</string>
     <string name="gdpr_msg">За да използвате основните характеристики на Оптимизация, трябва да се съгласите, че Xiaomi ще събира, обработва и използва личните Ви данни, включително информация за начините, по които използвате функциите на Оптимизация (напр. Статистически данни за използването на мобилни данни, информация за злонамерен софтуер, както и като основна информация за вашето устройство) и други видове информация, посочени в нашата<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Правила за поверителност</a>.\"</string>
-    <string name="app_name_na">Монитор</string>
+    <string name="app_name_na">Монитор за данни</string>
     <string name="list_empty_text">Празно</string>
     <string name="dialog_title_attention">Внимание</string>
     <string name="kilobyte_per_second">K/с</string>
@@ -333,7 +333,7 @@
     <string name="main_button_usage_adjusting">Настройка…</string>
     <string name="main_button_usage_adjusting_bill">Настройка…</string>
     <string name="main_button_usage_adjust_manual">Задаване на лимит на трафика</string>
-    <string name="main_button_usage_package_setting">Задаване на лимит на трафика</string>
+    <string name="main_button_usage_package_setting">Задаване на лимит</string>
     <string name="main_alert_message_no_imsi">SIM картата не е открита</string>
     <string name="main_primary_message_traffic_remain">Мобилни данни</string>
     <string name="main_primary_message_traffic_warning">Предупреждение за данни</string>
@@ -1355,9 +1355,9 @@
     <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Предишното сканиране е прекъснато преди да завърши</string>
     <string name="examination_score_100">Изглежда всичко работи добре!</string>
-    <string name="examination_score_80_100">Някои елементи могат да бъдат оптимизирани</string>
-    <string name="examination_score_80_60">Някои елементи могат да бъдат оптимизирани</string>
-    <string name="examination_score_60_0">Трябва да оптимизирате вашето устройство</string>
+    <string name="examination_score_80_100">Оптимизирайте няколко елемента</string>
+    <string name="examination_score_80_60">Оптимизирайте няколко елемента</string>
+    <string name="examination_score_60_0">Оптимизирайте устройството си</string>
     <string name="examination_score_has_virus">Открити са някои съмнителни приложения!</string>
     <string name="activity_title_settings">Настройки</string>
     <string name="activity_title_antivirus">Сканиране на защитата</string>
@@ -1693,7 +1693,7 @@
     <string name="card_main_applock_title">Заключване на приложения</string>
     <string name="card_main_applock_summary">Защитете вашите съобщения, снимки и други неща с парола.</string>
     <string name="card_main_applock_action">Активирай</string>
-    <string name="card_main_deepclean_title">Пълно почистване</string>
+    <string name="card_main_deepclean_title">Почистване</string>
     <string name="card_main_deepclean_summary">Изтрийте файловете от които нямате нужда</string>
     <string name="card_main_deepclean_action">Изчистване</string>
     <string name="card_main_deepclean_wechat_title">WeChat кеш</string>
@@ -1707,8 +1707,8 @@
     <string name="card_main_hbassistant_title">Защита</string>
     <string name="card_main_hbassistant_summary">Увеличаване на скоростта &amp; при игри</string>
     <string name="card_main_deepclean_qq_title">QQ почистване</string>
-    <string name="action_button_text_100">Оптимизирай</string>
-    <string name="action_button_text_80_100">Оптимизирай</string>
+    <string name="action_button_text_100">Оптимизиране</string>
+    <string name="action_button_text_80_100">Оптимизиране</string>
     <string name="action_button_text_60_80">Поправи</string>
     <string name="action_button_text_60">Поправи</string>
     <string name="card_main_optimize_manage_title">Подобри скоростта</string>
@@ -1717,7 +1717,7 @@
     <string name="card_main_private_space_title">Второ място</string>
     <string name="card_main_private_space_summary">Използвайте Второ пространство все едно имате две устройства</string>
     <string name="card_main_private_space_action">Създаване</string>
-    <string name="card_main_xspace_title">Клонирани приложения</string>
+    <string name="card_main_xspace_title">Клониране</string>
     <string name="card_main_xspace_summary">Създайте два профила за всяко приложение</string>
     <string name="card_main_xspace_action">Създаване</string>
     <string name="card_main_overscroll_tips">Оптимизация</string>
@@ -2234,18 +2234,18 @@
     <string name="fod_finger_notice_title">Поставете пръста си на екрана</string>
     <string name="fod_finger_windows_tips">Потвърдете отпечатъка си</string>
     <string name="fod_tips_split_screen_more_than_half">Въведете парола</string>
-	<string name="card_main_gamebooster_summary">Увеличаване на стабилността на връзката за игри</string>
+	<string name="card_main_gamebooster_summary">Стабилизиране на връзката</string>
     <string name="menu_summary_antispam">Блокиране на повиквания и съобщения</string>
     <string name="menu_summary_antispam_2">Блокирани обаждания и съобщения</string>
-    <string name="menu_summary_antivirus">Потърсете вируси във вашето устройство</string>
+    <string name="menu_summary_antivirus">Сканирайте за вируси</string>
     <string name="menu_summary_antivirus_2">Потенциални рискове са открити</string>
     <string name="menu_summary_antivirus_3">"Не сте сканирали устройството"</string>
-    <string name="menu_summary_app_manager">Актуализиране и деинсталиране на приложения</string>
+    <string name="menu_summary_app_manager">Управление</string>
     <string name="menu_summary_app_manager_2">Налице са актуализации</string>
-    <string name="menu_summary_garbage_cleanup">Няма намерени непотребни файлове</string>
+    <string name="menu_summary_garbage_cleanup">Няма непотребни файлове</string>
     <string name="menu_summary_garbage_cleanup_2">Размер на непотребните файлове</string>
     <string name="menu_summary_garbage_cleanup_3">Почистване на непотребните файлове</string>
-    <string name="menu_summary_networkassistants">Управлявайте своя план за данни</string>
+    <string name="menu_summary_networkassistants">Управление на данни</string>
     <string name="menu_summary_networkassistants_2">Над лимита</string>
     <string name="menu_summary_networkassistants_3">Достатъчно мобилни данни остават</string>
     <string name="menu_summary_networkassistants_4">Нямате налични данни</string>
