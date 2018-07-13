@@ -343,8 +343,8 @@
     <string name="refresh">Обновяване</string>
     <string name="reset_fail">Не може да се възстанови</string>
     <string name="reset_title">Възстановяване</string>
-	<string name="reset_description_first_time">Можете да възстановите оформлението от %1$s в рамките на 2 hours</string>
+	<string name="reset_description_first_time">Можете да възстановите оформлението от %1$s в рамките на 2 часа</string>
     <string name="reset_description_others">Можете да възстановите оформлението от %1$s</string>
 	<string name="default_folder_title_services">Услуги</string>
-    <string name="open_personal_assistant_dialog_desc_international">"Няма да можете да използвате карти в Трезора за приложения (бележки, преки пътища и др.) и да получавате актуализации, след като изключите тази функция."</string>
+    <string name="open_personal_assistant_dialog_desc_international">"Няма да можете да използвате карти в Личен асистент (бележки, преки пътища и др.) и да получавате актуализации, след като изключите тази функция."</string>
 </resources>
