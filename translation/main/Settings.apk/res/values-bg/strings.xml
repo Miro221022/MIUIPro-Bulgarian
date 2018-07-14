@@ -4840,7 +4840,7 @@ Stable"</string>
     <string name="lock_settings_with_fingerprint">Заключен екран и пароли</string>
     <string name="master_clear_summary">Изтрива всички данни на устройството</string>
     <string name="onekey_migrate">Експорт към ново устройство</string>
-    <string name="forget_password_button_text">&lt;u>Забравена парола&lt;/u></string>
+    <string name="forget_password_button_text">" "<u>Забравена парола?</u>" "</string>
     <string name="storage_usb">USB хранилище</string>
     <string name="usb_eject">Спиране на USB хранилището</string>
     <string name="usb_eject_summary">Спиране на USB хранилището за безопасното му премахване</string>
