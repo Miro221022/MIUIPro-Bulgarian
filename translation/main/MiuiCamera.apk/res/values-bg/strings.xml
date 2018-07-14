@@ -340,7 +340,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Ефект дълбочина</string>
     <string name="portrait_with_facebeauty_hint">Опцията Разкрасяване е налична в режим Портрет</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Разкрасяване в Портретен режим</string>
-    <string name="portrait_mode_use_hint">"Режим Портрет замъглява задния план, 
+    <string name="portrait_mode_use_hint">"Режим Портрет замъглява фона 
 и по този начин лицата на хората изпъкват ясно на преден план."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
     <string name="simple_mode_button_text_square">Изключи Квадрат</string>
@@ -483,7 +483,7 @@
 	<string name="back_bokeh_use_hint">"Уверете се, че обектът е на не повече от от 1,5 метра."</string>
 	<string name="pref_video_quality_summary">4K видео не се поддържа в режим 120 кадъра</string>
 	<string name="portrait_bokeh_text">Портретен режим</string>
-    <string name="portrait_bokeh_first_tips">"Използвайте режим Портрет за размазване
+    <string name="portrait_bokeh_first_tips">"Използвайте режим Портрет за замъгляване на
 фона на вашите снимки"</string>
     <string name="portrait_bokeh_tips">Поставете предмета в рамките на 1,5 метра</string>
 	<string name="lighting_hint_needed">Поставете обекта в осветенето място</string>
