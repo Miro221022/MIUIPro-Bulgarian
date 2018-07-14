@@ -152,9 +152,9 @@
     <string name="noRemind">Не напомняй</string>
     <string name="restoreSync">Синхронизирай</string>
     <string name="enableAll">Включи всички</string>
-    <string name="master_alert_notif_dspt_add">Изчакващи синхронизиране: %s</string>
+    <string name="master_alert_notif_dspt_add">Изчакващи синхронизации: %s</string>
     <string name="master_alert_notif_dspt_no">Синхронизирано</string>
-    <string name="sub_alert_notif_dspt_add">Изчакващи синхронизиране: %s</string>
+    <string name="sub_alert_notif_dspt_add">Изчакващи синхронизации: %s</string>
     <string name="sub_alert_notif_dspt_no">Синхронизирано</string>
     <string name="cloudservice_new_sync">Синхрон на %s с Mi Cloud</string>
     <string name="click_to_enabled">Докоснете за синхр.</string>
@@ -197,8 +197,8 @@
     <string name="enable_sync_dspt">Синхр. е изключена</string>
     <string name="enable_sync">Включи</string>
     <string name="cloud_find_device">Открий устройството</string>
-    <string name="cloud_find_device_on">Вкл</string>
-    <string name="cloud_find_device_off">Изкл</string>
+    <string name="cloud_find_device_on">Включено</string>
+    <string name="cloud_find_device_off">Изключено</string>
     <string name="find_device_dspt">Дистанционно заключване или изтриване на устройството.</string>
     <string name="micloud_user_space_title">Място в хранилището</string>
     <string name="sync_sub_dspt_provision">Преглед и управление на вашите данни отвсякъде</string>
@@ -468,7 +468,7 @@
     <string name="micloud_notif_content_dirty_data">Детайли</string>
     <string name="micloud_notif_title_privacy_reopen_failed">Облачната услуга не може да се стартира</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Виж детайли</string>
-    <string name="micloud_find_device_guide_title">Впишете се в <b><font color="#FF0000"><font color="#FF0000"><b>&lt;b>&lt;font color=\"#FF0000\">&lt;font color=#FF&lt;/fo</b></font></font></b>nt>&lt;/b>0000>&lt;b>i.mi.com&lt;/b>&lt;/font> за намиране, заключване или изтриване на всичко във вашето устройство. Това може да помогне в случай, че го загубите.&lt;br />Ако загубите устройството си, вашата връзка с Mi Облак ще използва услугите за сигурност на приложенията, които употребявате най-често (напр., Alipay, WeChat, QQ) за да защити вашия профил в &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>.</string>
+    <string name="micloud_find_device_guide_title">"Впишете се в &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> за да намерите, заключите или нулирате устройството си. Това може да ви помогне да намерите устройството си в случай, че е изгубено.&lt;br />Ако загубите устройството си, можете да се свържете с услугата за сигурност на приложенията, които използвате често (Alipay, WeChat, QQ) за да защитите профилите си в &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>."</string>
     <string name="micloud_find_device_guide_content">Изходящ SMS може да бъде изпратен за активация на тази услуга. Вашият оператор ще ви таксува за това съобщение. Когато смените вашата SIM карта, съобщението ще бъде изпратено автоматично отново за активация.</string>
     <string name="micloud_find_device_guide_button">Включване на Открий устройството</string>
     <string name="micloud_find_device_guide_progress">Открий устройството се включва…</string>
@@ -550,7 +550,7 @@
     <string name="micloud_dialog_sync_now_negative">Не сега</string>
     <string name="micloud_dialog_sync_now_positive">Използвайте мобилни данни</string>
     <string name="micloud_main_head_menu_recycle_bin_title">Изтрити елементи</string>
-    <string name="micloud_main_head_menu_recycle_bin_summary">Възстанови изтритите елементи</string>
+    <string name="micloud_main_head_menu_recycle_bin_summary">Възстановяване на изтритите елементи</string>
     <string name="micloud_main_head_menu_cloud_backup">Архив на нач. екран</string>
     <string name="micloud_main_head_menu_state_open">Вкл</string>
     <string name="micloud_main_head_menu_state_close">Изкл</string>
@@ -601,4 +601,5 @@
     <string name="hybrid_network_unavaliable">"Не може да се свърже с мрежата"</string>
     <string name="hybrid_service_unavailiable">Услугата не е достъпна</string>
     <string name="hybrid_try_again">Опитайте отново</string>
+    <string name="find_device_gdpr_prompt">Чрез включването на Намиране на устройството приемате нашата Декларация за поверителност. Ако искате да отмените разрешението, изключете тази функция.</string>
 </resources>
