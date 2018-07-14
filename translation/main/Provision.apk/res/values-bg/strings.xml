@@ -81,4 +81,5 @@
   <string name="sim_card_detection_mobile_not_available">"SIM картата не може да се свърже с мрежата"</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"SIM картата ви не може да се свърже към валидна операторска мрежа. Уверете се,че имате достатъчно кредит в картата и опитайте отново."</string>
   <string name="start_up_slogan">Проектиран за изживяване на цял екран</string>
+  <string name="other_settings_user_experience_summary_index">Подробности</string>
 </resources>
