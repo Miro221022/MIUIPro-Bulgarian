@@ -956,7 +956,7 @@
     <string name="om_ill_proc_type_radio_detail">Поправка на проблеми със свързване към мрежата</string>
     <string name="om_ill_proc_activity_title">Проблеми</string>
     <string name="power_center_title">Употреба на батерия</string>
-    <string name="power_center_back">Обратно към употреба на батерия</string>
+    <string name="power_center_back">Назад</string>
     <string name="power_center_auto_shutdown">Превключвател</string>
     <string name="power_center_ontime_boot">Включване по график</string>
     <string name="power_center_time_to_boot">Час за включване</string>
@@ -1836,7 +1836,7 @@
     <string name="applock_not_login_account">Не сте вписан</string>
     <string name="applock_bind_account_title">Забравена парола</string>
     <string name="applock_close_dialog_title">Изкл. на Заключване на приложения?</string>
-    <string name="applock_close_dialog_summary">Приложенията няма повече да бъдат защитени и вашата парола ще бъде изтрита, след като изключите Заключване на приложения.</string>
+    <string name="applock_close_dialog_summary">Всички скрити приложения ще бъдат показани, техните иконки ще бъдат възстановени на началният екран и вашата парола за Заключени приложения ще бъде изтрита.Ще изключите ли Заключването на приложения</string>
     <string name="applock_header_text_less_than_half">Прекалено малко. Начертайте още.</string>
     <string name="quite_all_string">Отказ</string>
     <string name="delete_input">Изтрий</string>
@@ -2269,4 +2269,18 @@
     <string name="gb_first_window_summary">Увеличаване на скоростта и производителността на системно ниво</string>
     <string name="gb_first_window_title">Ускоряване на скоростта при игри</string>
     <string name="manage_hybrid_permissions">"Управление на разрешенията на приложенията"</string>
+	<string name="privacy_apps">Скрити приложения</string>
+    <string name="privacy_apps_category_title">Скрити приложения</string>
+    <string name="privacy_apps_checkbox_remind_choice">"Не показвай отново"</string>
+    <string name="privacy_apps_close">Затвори</string>
+    <string name="privacy_apps_enable_summary">Преместете приложенията в скрита папка и премахнете преките пътища от началния екран</string>
+    <string name="privacy_apps_go_to_use">Начало</string>
+    <string name="privacy_apps_manage">Управление на скрити приложения</string>
+    <string name="privacy_apps_manage_dialog_title">Относно скритите приложения</string>
+    <string name="privacy_apps_manager_dialog_message">Скриването на приложение изисква настроена парола за зключен екран. Известията от скрити приложения ще бъдат изключени. Скриване на това приложение?</string>
+    <string name="privacy_apps_tutorial">Обяснение</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">"Когато скриете приложение, то се премества в скрита папка. Неговият пряк път на началния екран също се скрива.
+Но тази функция не се поддържа за системни приложения."</string>
+    <string name="privacy_apps_tutorial_prompt_pagethree">След като въведете паролата си,папката със скритите приложения ще се покаже.</string>
+    <string name="privacy_apps_tutorial_prompt_pagetwo">"Плъзнете два пръста навън(от центъра към краищата на екрана). Ще видите съобщение, в което се иска да въведете вашата парола за заключване на приложения."</string>
 </resources>

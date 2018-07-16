@@ -335,4 +335,12 @@
         <item quantity="other">%d приложения</item>
         <item quantity="one">%d приложение</item>
     </plurals>
+	    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Може да се скрият %d приложения</item>
+        <item quantity="one">Може да се скрие %d приложение</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d приложения са скрити</item>
+        <item quantity="one">%d приложение е скрито</item>
+    </plurals>
 </resources>
