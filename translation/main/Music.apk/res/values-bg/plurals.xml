@@ -132,4 +132,8 @@
         <item quantity="other">%d песни</item>
         <item quantity="one">%d песен</item>
     </plurals>
+	<plurals name="Nsleep_quit_warning">
+        <item quantity="other">%d минути остават</item>
+        <item quantity="one">%d минута остава</item>
+    </plurals>
 </resources>

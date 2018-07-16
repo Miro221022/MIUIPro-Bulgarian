@@ -943,4 +943,25 @@
     <string name="impunity_declaration_content4">Политика за поверителност</string>
     <string name="impunity_declaration_content5">.</string>
 	<string name="auto_enter_nowplaying_setting_title">Авт. влизане в "Изпълняващи се в момента"</string>
+	<string name="add_cannot_gif_list">Не може да се добави към списък за изпълнение</string>
+    <string name="albun_publish_time">Час на публикуване:%1$s</string>
+    <string name="cannot_comment_try_scroll">Тази песен не може да бъде коментирана, опитайте се да превъртите</string>
+    <string name="comment">коментар</string>
+    <string name="more_milink_bluetooth">Milink и Bluetooth</string>
+    <string name="multiple_select">Мулти избор</string>
+    <string name="nowplaying_find_more">Намери още</string>
+    <string name="play_all"><Data>Изпълни всички&lt;font color=#999999>（%1$d）&lt;/font></Data></string>
+    <string name="play_mode_circle">Режим "кръг"</string>
+    <string name="play_mode_shuffle">Режим разбъркване</string>
+    <string name="play_mode_single">Единичен режим</string>
+    <string name="song_group_float_save_picture">Запазване на снимката</string>
+    <string name="song_group_float_save_picture_success">Запазено успешно</string>
+    <string name="song_group_float_to_save_picture">Запазено в %1$s</string>
+    <string name="talkback_frame_list">Списък с рамки</string>
+    <string name="talkback_next_play">Изпълни следващ</string>
+    <string name="talkback_remove_list">Премахване от списъка</string>
+    <string name="title_album_list">Албум</string>
+    <string name="title_play_list">Списък за изпълнение</string>
+    <string name="video_more_dislike">Не харесвам</string>
+    <string name="video_more_like">Харесвам</string>
 </resources>
