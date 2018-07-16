@@ -21,12 +21,12 @@
 		<item>Неизвестен</item>
     </string-array>
 	<string-array name="incall_background_entries"> 
-	    <item>По пдразбиране</item>
+        <item>По подразбиране</item>
+        <item>MiuiPro</item> 
         <item>Писък</item> 
-        <item>Кървави ръце</item> 
-        <item>Човек с качулка</item> 
-        <item>Hitman</item> 
-        <item>Ръка зад стъкло</item> 
+        <item>Ръце зад стъкло</item> 
+        <item>Sakura</item> 
+        <item>Призрак</item> 
     </string-array> 
   	<string-array name="set_samplingrate_entries">
         <item>По подразбиране (8000 Хц)</item>

@@ -124,9 +124,9 @@
   <string name="timer">Таймер за безжична връзка</string>
   <string name="timer_setting">Настройки на таймери за свързване</string>
   <string name="toast_animation_title">Toast анимация</string>
-  <string name="toggles_columns_full_title">Брой на превключвателите (Всички редове)</string>
-  <string name="toggles_columns_summary">Показани: %s в ред</string>
-  <string name="toggles_columns_title">Брой на превключвателите (Един ред)</string>
+  <string name="toggles_columns_full_title">Превключватели (Всички редове)</string>
+  <string name="toggles_columns_summary">%s в ред</string>
+  <string name="toggles_columns_title">Превключватели (Един ред)</string>
   <string name="toggles_line_title">Превключете панела при отваряне на щората</string>
   <string name="translation_contributors_title">Преводачи</string>
   <string name="trigger_bottom_title">Височина на зоната за жеста</string>
@@ -165,4 +165,6 @@
   <string name="wifiact_icon_title">Скриване на Wi-Fi стрелките</string>
   <string name="WiFiOn_mobile_title">Когато Wi-Fi е включен</string>
   <string name="search_bluetooth_enable">Bluetooth</string>
+  <string name="toggles_columns_row_title">Брой на редовете</string>
+  <string name="toggles_columns_row_summary">Показани: %s</string>
 </resources>
