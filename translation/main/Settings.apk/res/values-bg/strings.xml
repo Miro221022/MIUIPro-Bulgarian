@@ -5731,4 +5731,7 @@ Stable"</string>
     <string name="secspace_fod_use_password">Въведете парола</string>
 	<string name="rgb_manage_facerecoginition_text">Управление на 2D лицеви данни</string>
     <string name="structure_manage_facerecoginition_text">Управление на 3D лицеви данни</string>
+	<string name="sound_stereo_mode_summary">Налице е само когато се възпроизвежда звук с високоговорител</string>
+    <string name="sound_stereo_mode_title">Стерео звук</string>
+    <string name="unmute_sound_title">Активиране на звука</string>
 </resources>
