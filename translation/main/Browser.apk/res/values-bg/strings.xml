@@ -233,7 +233,7 @@
     <string name="download_completed">Изтеглени</string>
     <string name="download_default_path_txt">Изтегляй в тази папка по подразбиране, без да питаш за това отново</string>
     <string name="download_dialog_default_path_invalid">Невалидна папка за сваляне, използвай зададената по подразбиране</string>
-    <string name="download_dialog_file_length_hint_txt">"Размер на файла: "</string>
+    <string name="download_dialog_file_length_hint_txt">"Размер: "</string>
     <string name="download_dialog_file_length_lessthan1kb">По-малко от 1КБ</string>
     <string name="download_dialog_file_length_nolength_error_txt">Неуспешно изчисляване на размера на файла</string>
     <string name="download_dialog_file_length_nolength_txt">Изчисляване на размера на файла ...</string>
@@ -599,7 +599,7 @@ Remember that the files you download and the bookmarks you add will still be sav
     <string name="same_folder_name_warning">Тази група вече съществува</string>
     <string name="save_button_text">Запази</string>
     <string name="save_dialog_title">Запази</string>
-    <string name="save_file">Запази </string>
+    <string name="save_file">"Запази "</string>
     <string name="save_file_already_exist_alert_message">Файл със същото име вече съществува, замяна сега?</string>
     <string name="save_file_already_exist_alert_title">Замяна на файла?</string>
     <string name="save_form_data_confirm_message">Изключването на функцията може да засегне използването.</string>
@@ -1238,7 +1238,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="message_notice_push">Квалификация на моята лична информация!</string>
     <string name="pref_navscreen_layoutstate_title">Управление на разделен екран</string>
     <string name="refresh_description">Обновяване</string>
-    <string name="save_file_suffix"> файл</string>
+    <string name="save_file_suffix">" файл"</string>
     <string name="short_video_description">Видео канал</string>
     <string name="short_video_tip">Вижте! Смешно видео</string>
     <string name="suggestion_clear_record_message">Потвърждавате ли празен запис?</string>
