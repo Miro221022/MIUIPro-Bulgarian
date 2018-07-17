@@ -295,7 +295,7 @@
   <string name="recommend_show_other_downloads">Виж популярни</string>
   <string name="remove_download">Изтрий</string>
   <string name="restart_download">Рестартиране</string>
-  <string name="resume_download">Възобнови</string>
+  <string name="resume_download">Възобновяване</string>
   <string name="retry_after_network_available">Няма връзка с мрежата. Проверете настройките си и опитайте отново.</string>
   <string name="retry_download">Опитайте отново</string>
   <string name="revert_default">Възстанови началните настройки</string>
