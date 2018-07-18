@@ -1716,8 +1716,8 @@
   <string name="quick_settings_gps_label">GPS</string>
   <string name="accessibility_menu_item_split_disable">"Приложението не поддържа Разделен екран."</string>
   <string name="accessibility_menu_item_split_enable">Приложението поддържа Разделен екран</string>
-  <string name="accessibility_splite_screen_primary">Добавяне на основно приложение към Разделен екран</string>
-  <string name="accessibility_splite_screen_secondary">Добавяне на второ приложение към Разделен екран</string>
+  <string name="accessibility_splite_screen_primary">Добавено като основно приложение към Разделен екран</string>
+  <string name="accessibility_splite_screen_secondary">Добавено като второ приложение към Разделен екран</string>
   <string name="miui_guide_dialog_button_negative_text">Настройки</string>
   <string name="miui_guide_dialog_button_positive_text">Разбрах</string>
   <string name="miui_guide_dialog_message">Медиините звуци (музика, видео, и т.н.) ще продължат да се възпроизвеждат в режим Без звук. Можете да промените това в "Настройки".</string>
@@ -1750,9 +1750,11 @@
    <string name="structure_face_unlock_model_dialog_enable">Включване</string>
    <string name="structure_face_unlock_model_dialog_notenable">Не благодаря</string>
    <string name="structure_face_unlock_model_other">Друго</string>
-   <string name="structure_face_unlock_model_other_msg_2d">2D recognition</string>
-   <string name="structure_face_unlock_model_other_msg_3d">3D recognition</string>
-   <string name="structure_face_unlock_model_other_suggestion_2d">2D face recognition is less secure than a pattern, PIN, or password. Whenthis feature is on, your device might be unlocked by your photo, as well as people or objects that look like you.</string>
-   <string name="structure_face_unlock_model_other_suggestion_3d">"3D face recognition is relatively secure. It's highly unlikely that your device can be unlocked with your photo when this feature is on. However, it might be unlocked by people or objects that look like you."</string>
-   <string name="structure_face_unlock_model_other_title">Face recognition</string>
+   <string name="structure_face_unlock_model_other_msg_2d">2D разпознаване</string>
+   <string name="structure_face_unlock_model_other_msg_3d">3D разпознаване</string>
+   <string name="structure_face_unlock_model_other_suggestion_2d">2D разпознаването на лице е по-малко сигурно от шаблон, PIN или парола. Когато тази функция е включена, устройството ви може да се отключи от ваша снимката, също и от хора или предмети които приличат на вас.</string>
+   <string name="structure_face_unlock_model_other_suggestion_3d">"3D разпознаването на лице е сравнително сигурно. Малко вероятно е устройството ви да може да се отключи с вашата снимка, когато тази функция е включена. Въпреки това, то може да бъде отключено от хора или предмети, които приличат на вас."</string>
+   <string name="structure_face_unlock_model_other_title">Лицево разпознаване</string>
+   <string name="structure_face_unlock_not_same_person">"Трябва да завършите всички стъпки само с вашето лице. Не позволявайте запис на друго лице."</string>
+   <string name="structure_face_unlock_really_person">"Изглежда, че сте сменил лицето си с предмет."</string>
 </resources>

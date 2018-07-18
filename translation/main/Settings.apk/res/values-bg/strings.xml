@@ -3774,7 +3774,7 @@
     <string name="max_cpu8_info">"Осемядрен Макс.Честота "</string>
     <string name="device_cpu10_info">"Десетядрен "</string>
     <string name="max_cpu10_info">"Десетядрен Макс.Честота "</string>
-    <string name="instruction_title">Инструкции</string>
+    <string name="instruction_title">Важна информация за безопасността</string>
     <string name="my_device_disclaimer">Бележка: Информацията за хардуера, включително CPU, капацитет на батерията, размер на екрана и неговата резолюция, са предоставени от Xiaomi.</string>
     <string name="approve_title">Потвърждение</string>
     <string name="update_new_version">Налична е актуализация</string>
@@ -5734,4 +5734,6 @@ Stable"</string>
 	<string name="sound_stereo_mode_summary">Налице е само когато се възпроизвежда звук с високоговорител</string>
     <string name="sound_stereo_mode_title">Стерео звук</string>
     <string name="unmute_sound_title">Активиране на звука</string>
+	<string name="structure_face_enroll_not_able_low_electric_itle">"Тази функция не може да се използва поради слаб заряд на батерията"</string>
+    <string name="structure_face_enroll_not_able_low_electric_msg">Батерията трябва да бъде заредена до поне 5%, за да започне записването.</string>
 </resources>

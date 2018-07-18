@@ -336,7 +336,7 @@
     <string name="pref_camera_portrait_mode_entry_on">Режим Портрет е включен</string>
     <string name="portrait_mode_lowlight_hint">Прекалено е тъмно</string>
     <string name="portrait_mode_too_close_hint">Отдалечете малко обекта</string>
-    <string name="portrait_mode_too_far_hint">Поставете обекта на разстояние до 2.5 метра</string>
+    <string name="portrait_mode_too_far_hint">Поставете обекта на разстояние до 2 метра</string>
     <string name="portrait_mode_depth_effect_success_hint">Ефект дълбочина</string>
     <string name="portrait_with_facebeauty_hint">Опцията Разкрасяване е налична в режим Портрет</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Разкрасяване в Портретен режим</string>

@@ -410,7 +410,7 @@
     <string name="root">ROOT достъп</string>
     <string name="app_detail">Детайли</string>
     <string name="app_version">Версия</string>
-    <string name="app_mobile">2G/3G</string>
+    <string name="app_mobile">Мобилни данни</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">Няма</string>
     <string name="sorted_dialog_title">Сортиране</string>
@@ -1836,7 +1836,7 @@
     <string name="applock_not_login_account">Не сте вписан</string>
     <string name="applock_bind_account_title">Забравена парола</string>
     <string name="applock_close_dialog_title">Изкл. на Заключване на приложения?</string>
-    <string name="applock_close_dialog_summary">Всички скрити приложения ще бъдат показани, техните иконки ще бъдат възстановени на началният екран и вашата парола за Заключени приложения ще бъде изтрита.Ще изключите ли Заключването на приложения</string>
+    <string name="applock_close_dialog_summary">Приложенията вече няма да бъдат защитени и паролата ви ще бъде изтрита, след като изключите Заключването на приложения</string>
     <string name="applock_header_text_less_than_half">Прекалено малко. Начертайте още.</string>
     <string name="quite_all_string">Отказ</string>
     <string name="delete_input">Изтрий</string>
@@ -2261,26 +2261,12 @@
     <string name="gb_first_window_antimsg_summary_quick_answer">Използване  на бързи отговори</string>
     <string name="gb_first_window_antimsg_summary_transparent_show">Вижте текста на прозрачен фон</string>
     <string name="gb_first_window_antimsg_title">Удобни известия</string>
-    <string name="gb_first_window_gamebox_summary_four">Изчистване на кеша, правене на екранни записи и екранни снимки</string>
-    <string name="gb_first_window_gamebox_summary_six">Използване на бързи отговори, правене на екранни записи и екранни снимки</string>
+    <string name="gb_first_window_gamebox_summary_four">Използвайте бързи отговори, правете екранни записи и екранни снимки</string>
+    <string name="gb_first_window_gamebox_summary_six">Изчистете кеша, направете екранни записи и екранни снимки</string>
     <string name="gb_first_window_handsfree_summary">Включване на високоговорителя автоматично</string>
     <string name="gb_first_window_handsfree_title">Hands-free разговори</string>
     <string name="gb_first_window_start">Започнете да играете</string>
     <string name="gb_first_window_summary">Увеличаване на скоростта и производителността на системно ниво</string>
     <string name="gb_first_window_title">Ускоряване на скоростта при игри</string>
     <string name="manage_hybrid_permissions">"Управление на разрешенията на приложенията"</string>
-	<string name="privacy_apps">Скрити приложения</string>
-    <string name="privacy_apps_category_title">Скрити приложения</string>
-    <string name="privacy_apps_checkbox_remind_choice">"Не показвай отново"</string>
-    <string name="privacy_apps_close">Затвори</string>
-    <string name="privacy_apps_enable_summary">Преместете приложенията в скрита папка и премахнете преките пътища от началния екран</string>
-    <string name="privacy_apps_go_to_use">Начало</string>
-    <string name="privacy_apps_manage">Управление на скрити приложения</string>
-    <string name="privacy_apps_manage_dialog_title">Относно скритите приложения</string>
-    <string name="privacy_apps_manager_dialog_message">Скриването на приложение изисква настроена парола за зключен екран. Известията от скрити приложения ще бъдат изключени. Скриване на това приложение?</string>
-    <string name="privacy_apps_tutorial">Обяснение</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">"Когато скриете приложение, то се премества в скрита папка. Неговият пряк път на началния екран също се скрива.
-Но тази функция не се поддържа за системни приложения."</string>
-    <string name="privacy_apps_tutorial_prompt_pagethree">След като въведете паролата си,папката със скритите приложения ще се покаже.</string>
-    <string name="privacy_apps_tutorial_prompt_pagetwo">"Плъзнете два пръста навън(от центъра към краищата на екрана). Ще видите съобщение, в което се иска да въведете вашата парола за заключване на приложения."</string>
 </resources>
