@@ -5736,4 +5736,5 @@ Stable"</string>
     <string name="unmute_sound_title">Активиране на звука</string>
 	<string name="structure_face_enroll_not_able_low_electric_itle">"Тази функция не може да се използва поради слаб заряд на батерията"</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">Батерията трябва да бъде заредена до поне 5%, за да започне записването.</string>
+	<string name="status_bar_settings_notification_shade_shortcut">Функция не прекия път в панела за известия</string>
 </resources>

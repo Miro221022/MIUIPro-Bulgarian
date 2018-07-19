@@ -1522,4 +1522,8 @@
         <item>Графика</item>
         <item>Проценти</item>
     </string-array>
+	<string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Търсене</item>
+        <item>Настройки</item>
+    </string-array>
 </resources>
