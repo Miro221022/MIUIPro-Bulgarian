@@ -42,4 +42,6 @@
 	<string name="call_home_title">Бутон [НАЧАЛО]</string>
 	<string name="auto_redial_times_title">Опити за набиране</string> 
     <string name="auto_redial_times_summary">Инсталиран: %s</string>
+    <string name="button_color_title">Цвят на бутоните</string>  
+    <string name="text_color_title">Цвят на текста на бутоните</string>
 </resources>
