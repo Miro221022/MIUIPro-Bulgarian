@@ -366,4 +366,5 @@
   <string name="wifi_verbose_logging">„Многословно“ регистр. на Wi‑Fi: Актив.</string>
   <string name="wifi_verbose_logging_summary">По-подробно регистр. на Wi‑Fi – данни за RSSI на SSID в инстр. за избор на Wi‑Fi</string>
   <string name="window_animation_scale_title">Скала на аним.: Прозорец</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Изключване на TTY режима за осъществяване на видеообаждания.</string>
 </resources>

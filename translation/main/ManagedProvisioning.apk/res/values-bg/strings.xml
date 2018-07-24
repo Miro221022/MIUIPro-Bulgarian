@@ -87,4 +87,9 @@
     <string name="cancel_setup_and_factory_reset_dialog_msg">С прекратяването на настройването ще се възстановят фабричните настройки на устройството ви и ще се върнете на първия екран.</string>
     <string name="cancel_setup_and_factory_reset_dialog_cancel">Отказ</string>
     <string name="cancel_setup_and_factory_reset_dialog_ok">Нулиране на устройството</string>
+	<string name="device_owner_error_already_provisioned_user">Това устройство вече е настроено за този потребител.</string>
+    <string name="device_owner_error_package_name_invalid">"Не може да се инсталира администраторското приложение. Името на пакета е невалидно. Свържете се с вашия IT отдел."</string>
+    <string name="device_owner_error_package_not_installed">"Администраторското приложение не е инсталирано на устройството ви"</string>
+    <string name="set_up">Настройка</string>
+    <string name="user_is_not_owner">Работните профили трябва да бъдат настроени от основния потребител на устройството</string>
 </resources>

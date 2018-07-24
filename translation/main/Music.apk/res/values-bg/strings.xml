@@ -964,4 +964,22 @@
     <string name="title_play_list">Списък за изпълнение</string>
     <string name="video_more_dislike">Не харесвам</string>
     <string name="video_more_like">Харесвам</string>
+	<string name="click_login">Чукнете за вписване</string>
+    <string name="delete_comment_successfully">Коментарът бе изтрит успешно</string>
+    <string name="download_times">Download times remaining: %d</string>
+    <string name="favorite_songgroup">Любима група(%d)</string>
+    <string name="login">Вписване</string>
+    <string name="login_tips">Впишете се, за да получите съответните препоръки</string>
+    <string name="market_version_too_low">Първо актуализирайте магазина за приложения</string>
+    <string name="mi_live_install">Инсталиране на Mi Live асистент…</string>
+    <string name="new_search_instant_title">Търсене：%1$s</string>
+    <string name="no_copyright_song_confirm_close">Затвори</string>
+    <string name="no_copyright_song_hint_text">Тази песен няма авторски права</string>
+    <string name="no_copyright_song_recommend_hint_text">По-добре е да опитате тази</string>
+    <string name="play_all_shuffle"><Data>Разбъркване на всички&lt;font color=#999999>(%1$d)&lt;/font></Data></string>
+    <string name="play_all_song_with_count">Изпълни всички(%d)</string>
+    <string name="shuffle_music_with_count">Случайно възпроизвеждане(%d)</string>
+    <string name="title_online_special">Всички въпроси</string>
+    <string name="vip_tip">Абонирайте се за Mi Music, за да предавате висококачествено аудио</string>
+    <string name="voice_ass">Гласов асистент</string>
 </resources>

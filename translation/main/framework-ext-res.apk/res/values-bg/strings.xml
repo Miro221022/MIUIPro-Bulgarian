@@ -178,4 +178,9 @@
     <string name="wifi_assistant_wifi_no_internet">Тази WLAN мрежа няма достъп до интернет</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Докоснете, за да видите подробности</string>
 	<string name="resolver_app_recommend_flag">Препоръчано</string>
+	<string name="voice_begin">Какво търсите?</string>
+    <string name="voice_button_action_down">Пуснете за търсене</string>
+    <string name="voice_button_action_up">Натиснете, за да говорите</string>
+    <string name="voice_input_error_network">"Неуспешно свързване с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
+    <string name="voice_input_error_other">Възникна грешка. Изчакайте минута и опитайте отново.</string>
 </resources>

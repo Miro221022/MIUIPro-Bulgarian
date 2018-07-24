@@ -596,4 +596,5 @@
     <string name="member_menu_vipname_premium">Премиум</string>
     <string name="member_menu_vipname_ultra">Ултра</string>
     <string name="find_device_gdpr_prompt">Чрез включването на Намиране на устройството приемате нашата Декларация за поверителност. Ако искате да отмените разрешението, изключете тази функция.</string>
+	<string name="close_shortcut">Затвори</string>
 </resources>

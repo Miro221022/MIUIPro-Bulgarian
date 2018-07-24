@@ -136,4 +136,12 @@
         <item quantity="other">%d минути остават</item>
         <item quantity="one">%d минута остава</item>
     </plurals>
+	<plurals name="comment_input_length_invalid">
+        <item quantity="other">Можете да въведете до %1$d символа.</item>
+        <item quantity="one">Можете да въведете до %1$d символ.</item>
+    </plurals>
+	<plurals name="swipe_to_load_head_complete_success">
+        <item quantity="other">Здравейте %1$s! Тук са %1$d актуализациiте за вас:</item>
+        <item quantity="one">Здравейте %1$s! Тук е %1$d актулизацията за вас:</item>
+    </plurals>
 </resources>

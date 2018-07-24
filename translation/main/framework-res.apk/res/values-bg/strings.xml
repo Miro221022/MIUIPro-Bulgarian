@@ -1384,4 +1384,24 @@
     <string name="lock_to_app_description">\"Фиксирането на екрана заключва дисплея в един изглед. За да го освободите, докоснете и задръжте едновременно бутона за връщане назад и този за общ преглед.\"</string>
     <string name="lock_to_app_description_accessible">\"Фиксирането на екрана заключва дисплея в един изглед. За да го освободите, докоснете и задръжте бутона за общ преглед.\"</string>
 	<string name="move_button_text">Превключи</string>
+	<string name="EmergencyCallWarningSummary">Спешните повиквания изискват мобилна мрежа.</string>
+    <string name="EmergencyCallWarningTitle">WLAN повикването е активно</string>
+    <string name="dlg_confirm_kill_storage_users_text">"Ако включите USB хранилището, някои приложения, които използвате, ще спрат и може да са недостъпни, докато не изключите USB хранилището."</string>
+    <string name="dlg_confirm_kill_storage_users_title">Включване на USB хранилището</string>
+    <string name="dlg_error_title">USB операцията е неуспешна</string>
+    <string name="notification_channel_mobile_data_status">Състояние на мобилните данни</string>
+    <string name="notification_reply_button_accessibility">Отговор</string>
+    <string name="permdesc_flashlight">Разрешава на приложението да контролира фенерчето.</string>
+    <string name="permlab_flashlight">Контрол на фенерчето</string>
+    <string name="popup_window_default_title">Изкачащ прозорец</string>
+    <string name="RestrictedChangedTitle">Ограниченият достъп е променен</string>
+    <string name="usb_unsupported_audio_accessory_message">Свързаното устройство не е съвместимо с този телефон. Докоснете за подробности.</string>
+    <string name="usb_unsupported_audio_accessory_title">Открит е аналогов аудио аксесоар</string>
+    <string name="wifi_available_action_all_networks">Всички мрежи</string>
+    <string name="wifi_available_action_connect">Свързване</string>
+    <string name="wifi_available_content_failed_to_connect">Докоснете за да видите всички мрежи</string>
+    <string name="wifi_available_title">Свържете се към отворена WLAN мрежа</string>
+    <string name="wifi_available_title_connected">Свързан към WLAN мрежа</string>
+    <string name="wifi_available_title_connecting">Свъзване към WLAN мрежа</string>
+    <string name="wifi_available_title_failed_to_connect">Не може да се свърже към WLAN мрежа</string>
 </resources>

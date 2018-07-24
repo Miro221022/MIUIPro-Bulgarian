@@ -1702,4 +1702,5 @@
    <string name="data_saver_enable_title">Ще включите ли пестенето на данни?</string>
    <string name="accessibility_quick_settings_alarm_on">Алармата е настроена.</string>
    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Заряд на bluetooth устройството %d процента.</string>
+   <string name="keyguard_left_mi_wallet">Mi портвейл</string>
 </resources>
