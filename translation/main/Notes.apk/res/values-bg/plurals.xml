@@ -17,7 +17,7 @@
         <item quantity="one">%d секунда остава</item>
      </plurals>
      <plurals name="word_count">
-        <item quantity="other">%s Символа</item>
-        <item quantity="one">%s Символ</item>
+        <item quantity="other">%d символа</item>
+        <item quantity="one">%d символ</item>
      </plurals>
 </resources>

@@ -5024,7 +5024,7 @@ Stable"</string>
     <string name="standard">Без звук</string>
     <string name="standard_info">Всички обаждания и известия ще бъдат заглушени</string>
     <string name="total">Режим Не ме безпокойте</string>
-    <string name="total_info">Заглушаване на звуците %1$s с изключение на алармите</string>
+    <string name="total_info">Заглушаване на звуците и изключване на вибрацията с изключение на алармите</string>
     <string name="rule_name">Име</string>
     <string name="day_of_week">Ден от седмицата</string>
     <string name="silent_mode">Тих режим</string>
@@ -5681,7 +5681,6 @@ Stable"</string>
     <string name="wifi_traffic_priority_regular">Редовен режим</string>
     <string name="wifi_traffic_priority_regular_summary">Споделете честотната лента между процесите въвфонов режим и приложенията на преден план</string>
     <string name="wifi_traffic_priority_summary">Дайте приоритет на скоростта на свързване автоматично</string>
-	<string name="total_info_sub">и изключете вибрацията</string>
 	<string name="bootloader_device_bind_exceed_sim_limit">"Не може да се добавят повече акаунти към тази СИМ-карта."</string>
     <string name="bootloader_device_bind_no_sim">Поставете SIM картата и опитайте отново.</string>
     <string name="bootloader_device_bind_server_code">"Не може да се добави. Код на грешка:"</string>
@@ -5697,8 +5696,6 @@ Stable"</string>
     <string name="miui_lab_ai_preload_desc">Интелигентното предварително зареждане ускорява скоростта на стартиране на приложенията</string>
     <string name="miui_lab_ai_preload_title">Интелигентно предварително зареждане</string>
 	<string name="wifi_click_login_wlan">Изисква се вписване/потвърждение</string>
-	<string name="cancel_description">Отказ</string>
-    <string name="confirm_description">Потвърди</string>
     <string name="fallback_home_title">Една секунда…</string>
     <string name="key_fsg_dialog_message">"Използвате жестове на цял екран за управление. Функциите, свързани с бутоните, не са налични в момента. Превключване към бутони?"</string>
     <string name="key_fsg_dialog_negative">Отказ</string>
@@ -5737,4 +5734,5 @@ Stable"</string>
 	<string name="structure_face_enroll_not_able_low_electric_itle">"Тази функция не може да се използва поради слаб заряд на батерията"</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">Батерията трябва да бъде заредена до поне 5%, за да започне записването.</string>
 	<string name="status_bar_settings_notification_shade_shortcut">Функция не прекия път в панела за известия</string>
+	<string name="total_info_no_vibrator">Заглушаване на звуците с изключение на алармите</string>
 </resources>

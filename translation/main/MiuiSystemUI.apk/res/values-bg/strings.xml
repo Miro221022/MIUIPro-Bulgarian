@@ -788,8 +788,6 @@
   <string name="keyguard_indication_charging_time_slowly">Зарежда се бавно (%s до пълно зареждане)</string>
   <string name="keyguard_indication_trust_disabled">Устройството ще остане заключено, докато го отключите ръчно</string>
   <string name="keyguard_instructions_when_pattern_disabled">Натиснете Меню, за да отключите.</string>
-  <string name="keyguard_left_bankcard">Калкулатор</string>
-  <string name="keyguard_left_buscard">Будилник</string>
   <string name="keyguard_left_remotecentral">Съобщения</string>
   <string name="keyguard_left_smarthome">Контакти</string>
   <string name="keyguard_left_view_lock_wallpaper">Ежедневни Тапети</string>
@@ -932,7 +930,7 @@
   <string name="menu_ime">Превключвател на клавиатурата</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Отключено с Mi Band</string>
   <string name="miui_ringer_count_down">Обратно броене</string>
-  <string name="miui_ringer_count_down_time">Обратно броене: %s</string>
+  <string name="miui_ringer_count_down_time">%s</string>
   <string name="miui_ringer_standard">Безшумен</string>
   <string name="miui_ringer_standard_description">Заглушаване на мелодии за входящи повиквания и известия</string>
   <string name="miui_ringer_total">Не ме безпокойте</string>
@@ -1702,4 +1700,6 @@
    <string name="data_saver_description">За да се намали използването на данни, функцията за пестене на данни не позволява на някои приложения да изпращат или получават данни във фонов режим. Приложението, което използвате в момента, може да има достъп до мобилни данни но може да го прави по-рядко. Това може да означава, например, че изображенията не се показват, докато не ги докоснете.</string>
    <string name="data_saver_enable_button">Включване</string>
    <string name="data_saver_enable_title">Ще включите ли пестенето на данни?</string>
+   <string name="accessibility_quick_settings_alarm_on">Алармата е настроена.</string>
+   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Заряд на bluetooth устройството %d процента.</string>
 </resources>

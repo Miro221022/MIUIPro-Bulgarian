@@ -170,7 +170,7 @@
     <string name="close_camera_requesting">Камера се изключва…</string>
     <string name="close_camera_failed">Не може да се изключи камерата…</string>
     <string name="change_to_voice_tips_when_background">Отсрещният абонат е превключил на гласово повикване</string>
-    <string name="video_crbt_title">%s видео тон за звънене</string>
+    <string name="video_crbt_title">Други части на видеотона на звънене се изпълнява</string>
     <string name="crbt_second_hold_prompt">%s е на задържане…</string>
     <string name="crbt_second_hold_prompt_no_name">Предишното повикване е задържано…</string>
     <string name="crbt_second_hold_prompt_conference">Конферентният разговор е на задържане…</string>

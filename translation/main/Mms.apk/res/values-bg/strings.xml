@@ -669,10 +669,18 @@
   <string name="dialog_title_fake_cell_detect_error">Корекция</string>
   <string name="draft">Чернова</string>
   <string name="fake_cell_alert_detect_error">"Това не е изпратено от фалшива базова станция"</string>
-  <string name="notification_channel_description">Известия от съобщения</string>
-  <string name="notification_channel_name">Съобщения</string>
   <string name="notification_copy">Копиране на OTP</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="toast_pending_hangup_msg">Съобщението ще бъде изпратено след края на разговора</string>
   <string name="url_scan_again">Проверете отново</string>
+  <string name="notification_channel_msg_description">Известие за съобщение</string>
+  <string name="notification_channel_msg_name">Съобщение</string>
+  <string name="notification_channel_other_description">Non-message notification</string>
+  <string name="notification_channel_other_name">Други</string>
+  <string name="notification_channel_sim1_description">Известие при съобщение на SIM1</string>
+  <string name="notification_channel_sim1_name">SIM1 съобщение</string>
+  <string name="notification_channel_sim2_description">Известие при съобщение на SIM2</string>
+  <string name="notification_channel_sim2_name">SIM2 съобщение</string>
+  <string name="notification_group_name">Съобщения</string>
+  <string name="unsubscribe">Отписване</string>
 </resources>

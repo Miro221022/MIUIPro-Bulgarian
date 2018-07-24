@@ -501,4 +501,6 @@
     <string name="lighting_pattern_stage">Сцена</string>
 	<string name="pref_camera_super_resolution_title">Включване на SR</string>
 	<string name="pref_google_lens">Google обектив</string>
+	<string name="pref_camera_video_bokeh_off">Боке видеото е затворено</string>
+    <string name="pref_camera_video_bokeh_on">Боке видео</string>
 </resources>
