@@ -6,7 +6,7 @@
   <string name="ad_download">Инсталиране</string>
   <string name="ad_mark">РЕКЛАМА</string>
   <string name="ad_title">Потребителите също свалиха  %1$s </string>
-  <string name="ad_title_other">Хората, които са изтеглили това изображение, са изтеглили също и</string>
+  <string name="ad_title_other">С тази снимка хората също изтеглят и</string>
   <string name="add_flow_fail_haveget_msg">Пробният период е изтекъл.</string>
   <string name="add_flow_fail_vip_msg">Xunlei ускорител за изтегляне е вкл</string>
   <string name="add_flow_success_msg">Добавени са %s за този месец</string>
@@ -68,8 +68,8 @@
   <string name="dialog_insufficient_space_on_cache">Изтеглянето не може да бъде завършено. Няма достатъчно място на вътрешната памет.</string>
   <string name="dialog_insufficient_space_on_external">Изтеглянето не може да бъде завършено. Няма достатъчно място на външната памет.</string>
   <string name="dialog_media_not_found">Свържете външното хранилище, за да започнете изтеглянето.</string>
-  <string name="dialog_msg_disabled_net">%1$s изтегляния са ограничени в тази мрежа. Влезте в Мрежови настройки и настройте приложението за сигурността.</string>
-  <string name="dialog_msg_recommend">Няма да виждате препоръчаните източници, след като ги изключите. Може да изберете \"Зареждане само по Wi-Fi\", за да спестите мобилни данни.</string>
+  <string name="dialog_msg_disabled_net">%1$s ограничено изтегляне за текущата мрежа. Докоснете Мрежови настройки, за да отидете в приложението за Оптимизация.</string>
+  <string name="dialog_msg_recommend">"Няма да можете да преглеждате препоръчваните източници, след като ги изключите. Можете да изберете" Зареждане на съдържание само с WLAN ", за да спестите мобилните данни..</string>
   <string name="dialog_queued_body">Този файл е в списъка за бъдещо изтегляне.</string>
   <string name="dialog_speed_cancel">Отказ</string>
   <string name="dialog_speed_msg">Използването на мобилни данни за тестване на мрежа може да консумира големи количества мобилни данни. Продължавате ли все пак?</string>
@@ -206,7 +206,7 @@
   <string name="member_cost">Год. такса</string>
   <string name="menu_all_task_pause">Всички на пауза</string>
   <string name="menu_all_task_start">Стартиране на всички</string>
-  <string name="menu_back">Върнете се в членството в Xunlei</string>
+  <string name="menu_back">Върнете си в членството в Xunlei</string>
   <string name="menu_des_more">Още</string>
   <string name="menu_des_vip">Членство в Xunlei</string>
   <string name="menu_enter_edit_mode">Редактор</string>
@@ -262,9 +262,9 @@
   <string name="percent_title">%1$s хора са изтеглили</string>
   <string name="period_of_validity">Валидност:</string>
   <string name="petabyteShort">ПБ</string>
-  <string name="pref_download_revert_default">Подразбиране</string>
-  <string name="pref_download_settings_title">Лимит на размера за изтегляне</string>
-  <string name="pref_download_storage_path">Създаване на нова папка за изтеглянията</string>
+  <string name="pref_download_revert_default">Запазване в мястото по подразбиране</string>
+  <string name="pref_download_settings_title">Изтеглянето чрез използване на мобилни данни е ограничено</string>
+  <string name="pref_download_storage_path">Съхраняване на място по ваш избор</string>
   <string name="pref_sniff_shortcut">Добавете пряк път на начален екран за бързо интернет търсене</string>
   <string name="pref_summary_any_bytes_popup">Винаги изчаквай Wi-Fi връзка за изтегляне на файлове</string>
   <string name="pref_summary_enable_max_bytes_popup">Показвай известие при използване на мобилни данни за изтегляне на съдържание</string>
@@ -379,7 +379,7 @@
   <string name="sniff_terms_check_text">Приемане на Условията за ползване</string>
   <string name="sniff_terms_msg">Съгласяване с \"Условия за ползване\" за да започнете използване на външни източници.</string>
   <string name="sniff_terms_msg_a">Тази функция се предоставя от външен разработчик. Първо трябва да приемете Условията на ползване, преди да може да я използвате.</string>
-  <string name="sniff_terms_msg_b">Тази функция се предоставя от външен разработчик. Първо трябва да приемете Условията на ползване, преди да може да я използвате. Ако сте съгласни, маркирайте отметката по-долу.</string>
+  <string name="sniff_terms_msg_b">Тази функция за търсене се предоставя от разработчик от трета страна. Трябва да приемете Условия за ползване преди да можете да го използвате. Ако сте съгласни с Условия за ползване, докоснете отметката по-долу.</string>
   <string name="sniff_terms_msg_bold">Условия за ползване</string>
   <string name="sniff_terms_msg_bold_new">Условия за ползване</string>
   <string name="sniff_terms_reject">Отхвърляне</string>
@@ -414,7 +414,7 @@
   <string name="subfile_list">Файлове</string>
   <string name="task_detail">Задачи</string>
   <string name="task_detail_notfound_confirm">OК</string>
-  <string name="task_fail">Неуспешно</string>
+  <string name="task_fail">"Операцията не може да бъде завършена"</string>
   <string name="terabyteShort">ТБ</string>
   <string name="test_speed">Тест</string>
   <string name="test_speed_detail">Детайли</string>
@@ -469,7 +469,7 @@
   <string name="xl_month_vip_open">Месечно членство (%1$s Mi Кредити)</string>
   <string name="xl_month_vip_renew">Поднови за един месец (%1$s Mi Кредити)</string>
   <string name="xl_pay_info">Всичко %1$s CNY, спестени%2$s CNY</string>
-  <string name="xl_privilege_play">Изтегли възпроизведени</string>
+  <string name="xl_privilege_play">Синхронизиране на възпроизвеждането</string>
   <string name="xl_privilege_play_info">Незавършен стрийм на всички утройства</string>
   <string name="xl_privilege_speedup">Ускорител за изтегляне</string>
   <string name="xl_privilege_speedup_info">Високоскоростен канал и поддръжка на офлайн изтегления</string>
@@ -497,6 +497,4 @@
   <string name="xunlei_open_info">Използвай Xunlei Високоскоростно изтегляне за отваряне на подобни връзки?</string>
   <string name="xunlei_speed_service">Xunlei високоскоростно изтегляне</string>
   <string name="xunlei_switch">Xunlei изтегляне</string>
-  <string name="ad_install">Инсталиране</string>
-  <string name="common_google_play_services_unknown_issue">%1$s има проблеми с услугите в Google Play. Опитайте отново.</string>
 </resources>
