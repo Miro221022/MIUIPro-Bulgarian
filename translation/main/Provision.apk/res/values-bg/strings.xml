@@ -82,4 +82,16 @@
   <string name="sim_scard_detecting_check_mobile_not_available">"SIM картата ви не може да се свърже към валидна операторска мрежа. Уверете се,че имате достатъчно кредит в картата и опитайте отново."</string>
   <string name="start_up_slogan">Проектиран за изживяване на цял екран</string>
   <string name="other_settings_user_experience_summary_index">Подробности</string>
+  <string name="agree_terms_input_method_facemoji">"Прочетох и се съгласих с Политиката за Поверителност на Facemoji."</string>
+  <string name="agree_terms_input_method_kika">"Прочетох и се съгласих с Политиката за Поверителност на Kika."</string>
+  <string name="terms_of_use_label_systemhelper">Самообслужване</string>
+  <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+Трябва да приемете Facemoji Декларацията за поверителност, преди да използвате тази функция."</string>
+  <string name="terms_of_use_lable_default_input_method_kika">"
+
+Трябва да приемете Декларацията за поверителност на Kika, преди да използвате тази функция."</string>
+  <string name="terms_privacy_policy_input_method_facemoji">Декларация за поверителност на Facemoji</string>
+  <string name="terms_privacy_policy_input_method_kika">Декларация за поверителност на Kika</string>
+  <string name="voice_assist_desp_screen_light">След като екранът светне, кажете \"Mi AI\" на телефона си. Mi AI ще разпознае гласа ви и ще може да контролира устройството ви.</string>
 </resources>

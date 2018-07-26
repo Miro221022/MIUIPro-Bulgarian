@@ -1233,9 +1233,9 @@
     <string name="video_editor_smart_effect_radical">Оптимистичен</string>
     <string name="video_editor_smart_effect_rhythm">Пулс</string>
     <string name="video_editor_smart_effect_street">Метрополис</string>
-    <string name="video_editor_smart_effect_time_limit_txt_40">Можете да приложите този ефект върху видеоклипове с продължителност до 40 секунди.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_40">Този ефект може да се приложи към видеоклипове с продължителност не повече от 40 секунди. Автоматично зададена продължителност.</string>
     <string name="video_editor_smart_effect_time_limit_txt_6">Можете да приложите този ефект върху видеоклипове с продължителност поне 6 секунди.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_60">Можете да приложите този ефект върху видеоклипове с продължителност до 60 секунди.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_60">Този ефект може да се приложи към видеоклипове с продължителност не повече от 60 секунди. Автоматично зададена продължителност.</string>
     <string name="video_editor_text_edit_all">Всички</string>
     <string name="video_editor_text_edit_input_all_hint">Въведете текст</string>
     <string name="video_editor_unzip_file_fail">"Не може да се разопакова видеоклипа."</string>
@@ -1270,5 +1270,5 @@
     <string name="picker_origin_request_progress_message">Подготовка на оригинални файлове (%1$d/%2$d)…</string>
     <string name="search_request_requesting">Приложен. Изчакайте известно време, преди да започнете.</string>
     <string name="secret_reason_video_not_support">"Не може да се добави видео към скрит албум"</string>
-    <string name="video_editor_video_loading">Видеоклипа се подготвя, изчакайте секунда или две и опитайте отново.</string>
+    <string name="video_editor_video_loading">Подготовка на видеото ... Изчакайте секунда или две и опитайте отново.</string>
 </resources>

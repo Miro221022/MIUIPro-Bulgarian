@@ -111,7 +111,7 @@
   <string name="deep_clean_completed_tips">Успешно почистено</string>
   <string name="deep_clean_data_path_clean_title">Изчисти кеша</string>
   <string name="deep_clean_uninstall_completed_tips">Успешно деинсталиране</string>
-  <string name="deepclean_1_k_clean">Бързо почистване</string>
+  <string name="deepclean_1_k_clean">Почистване на паметта</string>
   <string name="deepclean_apk_content">Изтрива APK файлове или ненужни приложения</string>
   <string name="deepclean_apk_summary_empty">Всичко изглежда добре, няма APK за изтриване</string>
   <string name="deepclean_apk_version_error">Неизвестно</string>
@@ -247,7 +247,7 @@
   <string name="hints_storage_free">Свободно</string>
   <string name="hints_storage_free_size">Общо %1$s, достъпни %2$s</string>
   <string name="hints_storage_news">Секретни новини</string>
-  <string name="hints_title_garbage">отпадъци</string>
+  <string name="hints_title_garbage">Отпадъци</string>
   <string name="hints_video_camera">Записани видеа</string>
   <string name="hints_video_download">Изтеглени видеа</string>
   <string name="hot">Популярни</string>
@@ -538,7 +538,7 @@
   <string name="tips_low_storage_dialog_title">Мястото в хранилището е малко</string>
   <string name="clean_long_msg">"Почистването на %1$d файла,%2$d завърши 
 %3$d%%  елемента/секунда оставащо време:%4$s"</string>
-  <string name="main_total_garbage">Общо непотребни файлове</string>
+  <string name="main_total_garbage">Размер на непотребните файлове</string>
    <string name="whatsapp_btn_quick_cleanup">Почистване на избраните елементи (%s)</string>
    <string name="whatsapp_clean_exit_confirm_cancel">Продължаване на сканирането</string>
    <string name="whatsapp_clean_exit_confirm_msg">"Все още не сте приключили с сканирането на WhataApp. Ще спрете ли сканирането сега? "</string>

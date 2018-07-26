@@ -26,13 +26,13 @@
   <string name="activate_phone_cancel_notif_title_msim">Активирането на SIM карта %d е отменено</string>
   <string name="activate_phone_failed_notif_title">SIM картата не може да се активира</string>
   <string name="activate_phone_failed_notif_title_msim">Не може да се активира SIM карта %d</string>
-  <string name="activate_phone_success_notif_title">SIM картата е активирана</string>
-  <string name="activate_phone_success_notif_title_msim">SIM картата %d е активирана</string>
+  <string name="activate_phone_success_notif_title">SIM картата е активирана успешно</string>
+  <string name="activate_phone_success_notif_title_msim">SIM картата %d е активирана успешно</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Опитайте отново</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Опитайте отново</string>
   <string name="activate_popup_confirm_error_device_id">Опитайте отново</string>
   <string name="activate_popup_confirm_failed_phone_error">Опитайте отново</string>
-  <string name="activate_popup_confirm_failed_query_info">Нов опит</string>
+  <string name="activate_popup_confirm_failed_query_info">Изпрати отново</string>
   <string name="activate_popup_confirm_failed_receive_sms">Опитайте отново</string>
   <string name="activate_popup_confirm_failed_send_sms">Повторно изпращане</string>
   <string name="activate_popup_confirm_failed_server">Опитайте отново</string>
@@ -103,7 +103,7 @@
   <string name="activate_status_title_activating">Активиране на SIM картата…</string>
   <string name="activate_status_title_activating_msim">Активиране на SIM карта %d…</string>
   <string name="agree">Приеми</string>
-  <string name="app_name">Xiaomi услуга за активиране на SIM картата</string>
+  <string name="app_name">Xiaomi SIM активиране</string>
   <string name="explain_send_sms_permission_button">Потвърждаване</string>
   <string name="explain_send_sms_permission_msg">За да включи %s, Рамка на услугите на Xiaomi ще изпрати SMS, за да потвърди вашия телефонен номер. Ще бъдете таксувани по стандартната тарифа за SMS.</string>
   <string name="explain_send_sms_permission_title">Потвърждаване на телефонния ви номер</string>
@@ -115,4 +115,8 @@
   <string name="phone_verify_title">Разрешете %1$s да потвърди вашия номер</string>
   <string name="privacy_revoke_tips">Ако отмените, синхронизирането на SMS няма да може да се използва</string>
   <string name="sim_unactivated_title">SIM картата ви не е активирана</string>
+  <string name="error_checking_client">Възникна грешка по време на активирането</string>
+  <string name="error_network_io">Възникна грешка в мрежата</string>
+  <string name="error_no_send_sms_permission">Xiaomi SIM активацията има нужда от разрешение за изпращане на SMS</string>
+  <string name="error_sim_not_in_service">Чака се SIM картата да бъде активирана</string>
 </resources>

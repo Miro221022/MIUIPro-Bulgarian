@@ -503,4 +503,9 @@
 	<string name="pref_google_lens">Google обектив</string>
 	<string name="pref_camera_video_bokeh_off">Боке видеото е затворено</string>
     <string name="pref_camera_video_bokeh_on">Боке видео</string>
+	<string name="beauty_fragment_tab_name_3d_makeup">Грим</string>
+    <string name="edit_blusher">Руж</string>
+    <string name="edit_eyebrow_dye">Вежди</string>
+    <string name="edit_jelly_lips">Гланц за устни</string>
+    <string name="edit_pupil_line">Очна линия</string>
 </resources>

@@ -410,8 +410,6 @@
     <string name="navigation_guide_dialog_ok">Обучение</string>
     <string name="navigation_guide_dialog_skip">По-късно</string>
     <string name="navigation_guide_dialog_dont_show_again">Не показвай отново</string>
-    <string name="navigation_guide_back_anim_title">Анимиран жест \"Върни се обратно\"</string>
-    <string name="navigation_guide_back_anim_summary">Показване на анимация, докато плъзгате от ръба на екрана</string>
     <string name="fsg_mistake_touch_title">Двойна проверка за жестовете</string>
     <string name="fsg_mistake_touch_summary">В някои сцени, като например игри и видеоклипове на цял екран, жестовете трябва да бъдат двукратно, за да влязат в сила</string>
     <string name="navigation_guide_settings">Демонстрация на жестове</string>
