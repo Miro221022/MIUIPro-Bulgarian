@@ -480,7 +480,7 @@
 Почистете лещата за по-добър ефект."</string>
     <string name="lens_dirty_detected_title_back">Обективът на задната камера е замърсен</string>
     <string name="lens_dirty_detected_title_front">Обективът на предната камера е замърсен</string>
-	<string name="back_bokeh_use_hint">"Уверете се, че обектът е на не повече от от 1,5 метра."</string>
+	<string name="back_bokeh_use_hint">"Уверете се, че обектът е на не повече от 1,5 метра."</string>
 	<string name="pref_video_quality_summary">4K видео не се поддържа в режим 120 кадъра</string>
 	<string name="portrait_bokeh_text">Портретен режим</string>
     <string name="portrait_bokeh_first_tips">"Използвайте режим Портрет за замъгляване на
