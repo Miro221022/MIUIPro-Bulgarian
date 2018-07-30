@@ -3774,7 +3774,7 @@
     <string name="max_cpu10_info">"Десетядрен Макс.Честота "</string>
     <string name="instruction_title">Важна информация за безопасността</string>
     <string name="my_device_disclaimer">Бележка: Информацията за хардуера, включително CPU, капацитет на батерията, размер на екрана и неговата резолюция, са предоставени от Xiaomi.</string>
-    <string name="approve_title">Потвърждение</string>
+    <string name="approve_title">Сертифициране</string>
     <string name="update_new_version">Налична е актуализация</string>
     <string name="notification_update_new_version">Налична е актуализация</string>
     <string name="notification_update_now">Актуализиране сега</string>
@@ -5460,7 +5460,7 @@ Stable"</string>
     <string name="lock_screen_secure_after_timeout_immediately_never">Никога не изисквай парола</string>
     <string name="title_jeejen">Jeejen Начален екран</string>
 	<string name="app_detail">Детайли</string>
-    <string name="app_mobile">Мобилни</string>
+    <string name="app_mobile">Мобилни данни</string>
     <string name="app_name_na">Използвани данни</string>
     <string name="app_version">Версия</string>
     <string name="app_wifi">WLAN</string>
@@ -5710,12 +5710,12 @@ Stable"</string>
 	<string name="status_bar_settings_show_keyguard_notification_summary">Разрешаване на важни известия на заключен екран</string>
     <string name="flash_drive_backup_restore">Архивиране или възстановяване чрез USB</string>
     <string name="flash_drive_backup_restore_summary">Свържете USB памет</string>
-    <string name="bt_ldac_declaration">Когато Bluetooth устройството поддържа LDAC, то ще бъде свързано по подразбиране. LDAC осигурява висококачествено аудио изживяване и също така води до по-висока консумация на енергия. Възпроизвеждането може да не се осъществи поради Bluetooth хардуерни ограничения</string>
+    <string name="bt_ldac_declaration">Когато Bluetooth устройство поддържа LDAC, то ще бъде свързано по подразбиране. LDAC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. По време на възпроизвеждане могат да възникнат проблеми, дължащи се на ограниченията на Bluetooth хардуера.</string>
     <string name="bt_ldac_dialog_summary">"LDAC осигурява висококачествено аудио изживяване и също така води до по-висока консумация на енергия.
 Тази функция може да бъде изключена в [Настройки]"</string>
     <string name="bt_ldac_dialog_title">Текущото устройство поддържа LDAC, което беше свързано по подразбиране:</string>
-    <string name="bt_ldac_open_dialog_summary">LDAC осигурява висококачествено аудио изживяване и също така води до по-висока консумация на енергия. Възпроизвеждането може да не се осъществи поради Bluetooth хардуерни ограничения</string>
-    <string name="bt_ldac_open_dialog_title">Сигурни ли сте,че искате да включите LDAC?</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC осигурява висококачествено аудио изживяване и също така води до по-висока консумация на енергия. По време на възпроизвеждане могат да възникнат проблеми, дължащи се на ограниченията на Bluetooth хардуера.</string>
+    <string name="bt_ldac_open_dialog_title">Включване на LDAC?</string>
     <string name="bt_ldac_pre_summary">Осигурява висококачествено аудио изживяване</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Атрибути</string>
@@ -5726,11 +5726,23 @@ Stable"</string>
     <string name="secspace_fod_use_password">Въведете парола</string>
 	<string name="rgb_manage_facerecoginition_text">Управление на 2D лицеви данни</string>
     <string name="structure_manage_facerecoginition_text">Управление на 3D лицеви данни</string>
-	<string name="sound_stereo_mode_summary">Налице е само когато се възпроизвежда звук с високоговорител</string>
+	<string name="sound_stereo_mode_summary">Работи само с високоговорител</string>
     <string name="sound_stereo_mode_title">Стерео звук</string>
     <string name="unmute_sound_title">Активиране на звука</string>
 	<string name="structure_face_enroll_not_able_low_electric_itle">"Тази функция не може да се използва поради слаб заряд на батерията"</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">Батерията трябва да бъде заредена до поне 5%, за да започне записването.</string>
 	<string name="status_bar_settings_notification_shade_shortcut">Функция не прекия път в панела за известия</string>
 	<string name="total_info_no_vibrator">Заглушаване на звуците с изключение на алармите</string>
+	<string name="miui_lab_install_drive_mode_error">"Неуспешно инсталиране,опитайте отново."</string>
+    <string name="miui_lab_install_drive_mode_summary">"Автомобилният режим е системно приложение. Инсталирането не изисква интернет връзка."</string>
+    <string name="miui_lab_install_drive_mode_title">Инсталиране на режим "Автомобил"</string>
+	<string name="wapi_auto_sel_cert_fail">"Не може да се избират сертификати автоматично. Изберете сертификат от списъка и опитайте да се свържете."</string>
+    <string name="wapi_cert_is_not_selected">Първо изберете сертификат</string>
+    <string name="wapi_no">Не</string>
+    <string name="wapi_no_vaild_cert">"Изглежда, че не са инсталирани необходимите сертификати. Инсталиране сега?"</string>
+    <string name="wapi_password_empty">Въведете парола</string>
+    <string name="wapi_password_hex_format_invalid">Невалиден формат на паролата</string>
+    <string name="wapi_password_hex_length_invalid">Броят на шестнадесетичните символи трябва да е четен</string>
+    <string name="wapi_password_length_invalid">Паролата трябва да е с дължина от 8 до 64 символа</string>
+    <string name="wapi_yes">Да</string>
 </resources>

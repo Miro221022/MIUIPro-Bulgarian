@@ -497,4 +497,8 @@
   <string name="xunlei_open_info">Използвай Xunlei Високоскоростно изтегляне за отваряне на подобни връзки?</string>
   <string name="xunlei_speed_service">Xunlei високоскоростно изтегляне</string>
   <string name="xunlei_switch">Xunlei изтегляне</string>
+  <string name="channel_active">Активно изтегляне</string>
+  <string name="channel_complete">Изтеглянето завърши</string>
+  <string name="channel_insufficient_space">Недостатъчно място</string>
+  <string name="channel_waiting">Изтегляне на изчакване</string>		
 </resources>

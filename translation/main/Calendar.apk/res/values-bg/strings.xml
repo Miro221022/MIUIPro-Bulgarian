@@ -371,7 +371,7 @@
     <string name="subscribe_channel_subscribing">Абониране</string>
     <string name="subscribe_channel_title">Канал</string>
     <string name="subscribing_card">Абониране</string>
-    <string name="talk_back_read_date">Текуща дата:%1$s(%2$sспоред лунния календар).</string>
+    <string name="talk_back_read_date">%1$s (%2$s според лунния календар).</string>
     <string name="template_week_num">Седмица %1$s</string>
     <string name="time_zone">Часова зона</string>
     <string name="today_no_events">Няма събития</string>
@@ -434,4 +434,9 @@
     <string name="tab_title_day">Ден</string>
     <string name="tab_title_month">Месец</string>
     <string name="tab_title_week">Седмица</string>
+	<string name="close_alarm">Изключване</string>
+    <string name="guide_card_close">затвори</string>
+    <string name="login_failed_toast">"Не може да се впишете, опреснете и опитайте отново"</string>
+    <string name="talk_back_month">месец</string>
+    <string name="talk_back_setting">настройки</string>
 </resources>
