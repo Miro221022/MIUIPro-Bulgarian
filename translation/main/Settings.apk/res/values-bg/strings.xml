@@ -96,7 +96,7 @@
     <string name="launch_defaults_some">Задаване на определени настройки</string>
     <string name="launch_defaults_none">Няма настройки по подразбиране</string>
     <string name="tts_settings">Настройки на Текст за произнасяне</string>
-    <string name="tts_settings_title">Изходящ Текст за произнасяне</string>
+    <string name="tts_settings_title">Текст към реч-синтетична реч</string>
     <string name="tts_default_rate_title">Ниво на гласа</string>
     <string name="tts_default_rate_summary">Скорост на произнасяне на текста</string>
     <string name="tts_default_pitch_title">Стъпка</string>
@@ -110,7 +110,7 @@
     <string name="tts_install_data_title">Инсталиране на гласови данни</string>
     <string name="tts_install_data_summary">Инсталиране на гласови данни за синтезираната реч</string>
     <string name="tts_engine_security_warning">Гласовата машина може да записва всичко, което изговаряте, включително лична информация, като пароли и номера на кредитни карти. Тази гласова машина е предоставена от %s. Искате ли да включа гласовата машина?</string>
-    <string name="tts_engine_network_required">Този език изисква работеща мрежова връзка за изходящ текст за произнасяне.</string>
+    <string name="tts_engine_network_required">Този език изисква работеща мрежова връзка за текст към реч.</string>
     <string name="tts_default_sample_string">Това е примерна синтезирана реч</string>
     <string name="tts_status_title">Състояние на системния език</string>
     <string name="tts_status_ok">%1$s се поддържа изцяло</string>
@@ -915,9 +915,9 @@
     <string name="device_admin_title">Администриране на устройство</string>
     <string name="manage_device_admin">Администратори на устройството</string>
     <string name="manage_device_admin_summary">Преглед или деактивиране на администраторите на устройството</string>
-    <string name="manage_trust_agents">Trust agents</string>
+    <string name="manage_trust_agents">Доверени посредници</string>
     <string name="disabled_because_no_backup_security">За да използвате, първо задайте заключване на екрана</string>
-    <string name="manage_trust_agents_summary">Преглед или деактивиране на trust agents</string>
+    <string name="manage_trust_agents_summary">Преглед или деактивиране на доверени посредници</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Включване на Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>
@@ -1575,7 +1575,7 @@
     <string name="network_reset_not_available">Този потребител не може да нулира мрежовите настройки</string>
     <string name="reset_network_complete_toast">Мрежовите настройки са нулирани</string>
     <string name="device_reset_title">Нулиране на устройството</string>
-    <string name="master_clear_title">Възст. на фабричните настройки</string>
+    <string name="master_clear_title">Възстановяване на фабрични настройки</string>
     <string name="master_clear_desc">"Това ще изтрие всички данни от &lt;b>вътрешното хранилище&lt;/b>\" на телефона ви, включително:
 
 \"&lt;li>профила ви в Google;&lt;/li>\"
@@ -1936,7 +1936,7 @@
     <string name="auto_punctuate">Автоматично поставяне на пунктуация</string>
     <string name="hardkeyboard_category">Настройки за физическа клавиатура</string>
     <string name="auto_punctuate_summary">Натискане на интервал два пъти, за вмъкване на „.“</string>
-    <string name="show_password">Нека паролите да са видими</string>
+    <string name="show_password">Показване на паролите</string>
     <string name="ime_security_warning">%1$s може да събира целия въведен от вас текст, включително лични данни като пароли и номера на кредитни карти.</string>
     <string name="spellchecker_security_warning">Тази програма за проверка на правописа може да събира целия въвеждан от вас текст, включително лични данни, като пароли и номера на кредитни карти. Тя произлиза от приложението %1$s. Искате ли да я активирате?</string>
     <string name="spellchecker_quick_settings">Настройки</string>
@@ -2032,15 +2032,15 @@
     <string name="accessibility_captioning_title">Надписи</string>
     <string name="accessibility_screen_magnification_title">Жест за увеличение</string>
     <string name="accessibility_screen_magnification_short_summary">Трикратно докосване за промяна на мащаба</string>
-    <string name="accessibility_screen_magnification_summary">"&lt;b>За да увеличите мащаба&lt;/b>\", докоснете бързо екрана три пъти с един пръст.
-\"&lt;li>&lt;ul>\"За да превъртите, плъзнете два или повече пръсти.
-\"&lt;li>За да коригирате мащаба, съберете заедно или разгънете два или повече пръсти.&lt;/li>&lt;/ul>&lt;/li>\"
+    <string name="accessibility_screen_magnification_summary">" "<b>За да увеличите мащаба</b>", докоснете бързо екрана три пъти с един пръст.
+"<li> <ul>"За да превъртите, плъзнете два или повече пръсти
+"<li>За да коригирате мащаба, съберете заедно или разгънете два или повече пръсти</li> </ul> </li>"
 
-\"&lt;b>За да увеличите временно мащаба&lt;/b>\", докоснете бързо екрана три пъти и задръжте пръста си при последното докосване.
-\"&lt;li>&lt;ul>\"За да се придвижите по екрана, плъзнете пръста си.
-\"&lt;li>За да намалите мащаба, вдигнете пръста си.&lt;/li>&lt;/ul>&lt;/li>\"
+"<b>За да увеличите временно мащаба</b>", докоснете бързо екрана три пъти и задръжте пръста си при последното докосване.
+"<li> <ul>"За да се придвижите по екрана, плъзнете пръста си
+"<li>За да намалите мащаба, вдигнете пръста си</li> </ul> </li>"
 
-Не можете да променяте мащаба на клавиатурата и лентата за навигация.\""</string>
+Не можете да променяте мащаба на клавиатурата и лентата за навигация."</string>
     <string name="accessibility_global_gesture_preference_title">Пряк път за достъпност</string>
     <string name="accessibility_global_gesture_preference_summary_on">Включено</string>
     <string name="accessibility_global_gesture_preference_summary_off">Изкл.</string>
@@ -2304,14 +2304,14 @@
     <string name="gadget_brightness_state_half">наполовина</string>
     <string name="gadget_brightness_state_off">изключена</string>
     <string name="vpn_settings_title">VPN</string>
-    <string name="credentials_title">Хранилище за идент. данни</string>
+    <string name="credentials_title">Съхранение на идентификационни данни</string>
     <string name="credentials_install">Инсталиране от хранилището</string>
     <string name="credentials_install_summary">Инсталиране на сертификати от хранилището</string>
-    <string name="credentials_reset">Изчистване на идент. данни</string>
+    <string name="credentials_reset">Изчистване на идентификационни данни</string>
     <string name="credentials_reset_summary">Премахване на всички сертификати</string>
-    <string name="trusted_credentials">Надеждни идент. данни</string>
+    <string name="trusted_credentials">Надеждни идентификационни данни</string>
     <string name="trusted_credentials_summary">Показване на надеждни сертификати от сертифициращи органи</string>
-    <string name="user_credentials">Идентиф. данни на потребителя</string>
+    <string name="user_credentials">Идентификационни данни на потребителя</string>
     <string name="user_credentials_summary">Преглед и промяна на съхранените идентификационни данни</string>
     <string name="advanced_security_title">Разширени</string>
     <string name="credential_storage_type">Тип на хранилището</string>
@@ -2329,7 +2329,7 @@
     <string name="credentials_not_erased">Хран. за идент. данни не можа да бъде изтрито.</string>
     <string name="credentials_enabled">Хранилището за идентификационни данни е активирано.</string>
     <string name="credentials_configure_lock_screen_hint">Трябва да зададете ПИН код или парола за заключен екран, преди да можете да използвате хранилището за идентификационни данни.</string>
-    <string name="usage_access_title">Прил. с достъп до използването</string>
+    <string name="usage_access_title">Приложения с достъп до дейността</string>
     <string name="emergency_tone_title">Тон за спешност</string>
     <string name="emergency_tone_summary">Задаване на поведение при спешно обаждане</string>
     <string name="privacy_settings">Резервни копия и нулиране</string>
@@ -3147,10 +3147,10 @@
     <string name="system_app">(Системно)</string>
     <string name="system_default_app">(Стандартно за системата)</string>
     <string name="apps_storage">Хранилище за приложения</string>
-    <string name="usage_access">Достъп до данни за ползването</string>
-    <string name="permit_usage_access">Достъп до данни за ползването: Разрешаване</string>
+    <string name="usage_access">Достъп до данни за дейността ви</string>
+    <string name="permit_usage_access">Достъп до данни за дейността: Разрешаване</string>
     <string name="app_usage_preference">Предпочитания за използване на приложенията</string>
-    <string name="usage_access_description">Достъпът до данните за ползването разрешава на приложението да проследява какви други приложения използвате и колко често, както и оператора ви, настройките ви за езика и други подробности.</string>
+    <string name="usage_access_description">Достъпът до данните за дейността разрешава на приложението да проследява какви други приложения използвате и колко често, както и оператора ви, настройките ви за езика и други подробности.</string>
     <string name="memory_settings_title">Памет</string>
     <string name="memory_details_title">Подробности за паметта</string>
     <string name="always_running">Изпълнява се винаги (%s)</string>
@@ -3891,10 +3891,10 @@
     <string name="under_keyguard">Изключен екран</string>
     <string name="long_press_volume_down">Натиснете и задръжте бутона за намаляване на звука</string>
     <string name="launch_camera">Стартиране на ваше приложение</string>
-    <string name="screen_shot">Направи снимка на екрана</string>
+    <string name="screen_shot">Снимка на екрана</string>
     <string name="launch_voice_assistant">Стартирай Гласов помощник</string>
     <string name="launch_google_search">Стартирай Помощник на Google</string>
-    <string name="go_to_sleep">Изключи екрана</string>
+    <string name="go_to_sleep">Изключване на екрана</string>
     <string name="turn_on_torch">Включи фенерче</string>
     <string name="close_app">Затвори текущото приложение</string>
     <string name="split_screen">Отвори Разделен екран</string>
@@ -5745,4 +5745,5 @@ Stable"</string>
     <string name="wapi_password_hex_length_invalid">Броят на шестнадесетичните символи трябва да е четен</string>
     <string name="wapi_password_length_invalid">Паролата трябва да е с дължина от 8 до 64 символа</string>
     <string name="wapi_yes">Да</string>
+	<string name="privacy_authorize_dialog_exit">Изход</string>
 </resources>
