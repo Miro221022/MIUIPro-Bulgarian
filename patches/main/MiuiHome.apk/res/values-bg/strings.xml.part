@@ -13,6 +13,6 @@
   <string name="preferred_app_settings_not_selected">Не е избрано</string>
   <string name="recents_config_title">Скорошни</string>
   <string name="screen_cells_config_title">Схема на Начален екран</string>
-  <string name="show_mem_info_title">Покажи състояние на рам памет</string>
+  <string name="show_mem_info_title">Покажи състояние на рам паметта</string>
   <string name="title_jeejen">Jeejen Начален екран</string>
 </resources>

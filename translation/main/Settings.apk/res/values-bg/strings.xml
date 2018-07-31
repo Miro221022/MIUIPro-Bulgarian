@@ -5456,7 +5456,7 @@ Stable"</string>
     <string name="open_personal_assistant_title">Включи Личен асистент</string>
     <string name="recents_config_title">Скорошни</string>
     <string name="screen_cells_config_title">Схема на Начален екран</string>
-    <string name="show_mem_info_title">Покажи съст. на рам памет</string>
+    <string name="show_mem_info_title">Покажи състоянието на рам паметта</string>
     <string name="lock_screen_secure_after_timeout_immediately_never">Никога не изисквай парола</string>
     <string name="title_jeejen">Jeejen Начален екран</string>
 	<string name="app_detail">Детайли</string>
