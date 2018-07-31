@@ -1332,7 +1332,7 @@
     <string name="device_info_settings">Състояние на телефона</string>
     <string name="system_update_settings_list_item_title">Magisk Manager</string>
     <string name="firmware_version">Версия на Андроид</string>
-    <string name="security_patch">Ниво на корекцията на сигурността под Андроид</string>
+    <string name="security_patch">Ниво на кръпка за сигурност на Андроид</string>
     <string name="model_number">Модел</string>
     <string name="fcc_equipment_id">Идент. № на оборудването</string>
     <string name="baseband_version">Версия на радиомодула</string>
