@@ -1334,7 +1334,7 @@
     <string name="ok">ОК</string>
     <string name="exit">Изход</string>
     <string name="cancel">Отказ</string>
-    <string name="btn_text_quick_cleanup">Почисти</string>
+    <string name="btn_text_quick_cleanup">Почистване на паметта</string>
     <string name="btn_text_power_cleanup">Дълбоко почистване</string>
     <string name="btn_text_network_speed_detail">Свързване</string>
     <string name="btn_text_quick_scan">Сканирай</string>
@@ -1415,7 +1415,7 @@
     <string name="menu_item_shortcut_title">Управление на преките пътища</string>
     <string name="menu_item_shortcut_summary">Добавяне на често използвани функции на началния екран</string>
     <string name="activity_title_create_shortcut">Управление на преките пътища</string>
-    <string name="menu_item_notification_title">Показвай в лентата с известия</string>
+    <string name="menu_item_notification_title">Покажи в лентата с известия</string>
     <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_power_text">Енергия</string>
     <string name="menu_item_notification_antispam_text_normal">Спам</string>
@@ -1490,7 +1490,7 @@
     <string name="scanning_bar_number">%d%%</string>
     <string name="hints_scanning_text">Сканира се…</string>
     <string name="auto_handle_title">Оптимизирай автоматично</string>
-    <string name="manual_item_white_list_title">Някои прил. могат да се оптимизират</string>
+    <string name="manual_item_white_list_title">Изключения</string>
     <string name="manual_item_white_list_summary">Ръчно упр. на изключенията</string>
     <string name="pm_auto_start_by_system">Стартиращи прил.</string>
     <string name="pm_auto_start_by_system_event">Разрешава прил. да стартират автоматично</string>
@@ -1900,7 +1900,7 @@
     <string name="optimize_result_summary_sucurity_risk">Някой от функциите по сигурността не са включени. Включете ги за да сте по-защитени:</string>
     <string name="optimize_result_ads_close_text">Реклама</string>
     <string name="information_setting">Препоръки</string>
-    <string name="load_only_under_wlan">Заредете използвайки Wi-Fi</string>
+    <string name="load_only_under_wlan">Зареждане само чрез Wi-Fi</string>
     <string name="recommend_news">Получавайте препоръки</string>
     <string name="setting_privacy_password">Добавете шаблон</string>
     <string name="bind_xiaomi_account_title">Добавете Mi профил</string>
@@ -2052,7 +2052,7 @@
     <string name="gs_anto_clean_memory_whitelist">Изключения</string>
     <string name="gs_call_handsfree">Отговор на повиквания чрез хендс фрий</string>
     <string name="gs_call_handsfree_mute">Тих режим</string>
-    <string name="gs_forbid_autosync">Ограничаване синхр на заден план</string>
+    <string name="gs_forbid_autosync">Ограничаване синхронизацията на заден план</string>
     <string name="gs_app_back_self_start">Икономия на батерия</string>
     <string name="gs_only_self_start_for_list">Ограничаване на процесите на заден план за икономия на батерия при игри</string>
     <string name="gs_game_shortcut">Подобрете опита си в играта</string>

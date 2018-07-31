@@ -313,7 +313,7 @@
   <string name="petabyteShort">ПБ</string>
   <string name="phone_search">Търсене в Google</string>
   <string name="positive_confirm">ОК</string>
-  <string name="pref_category_title_auto_clean_settings">Напомняне за изчистване</string>
+  <string name="pref_category_title_auto_clean_settings">Напомняне за почистване</string>
   <string name="pref_category_title_auto_update_cleanup_db">Допълнителни настройки</string>
   <string name="pref_category_title_cleanup_white_list">Изключения</string>
   <string name="pref_category_title_engine_settings">Настройки на дефиниции за сканиране</string>
@@ -333,7 +333,7 @@
   <string name="pref_title_auto_clean_content_choose">Изберете елементи за почистване</string>
   <string name="pref_title_auto_update_cleanup_db">Авт. обновяване</string>
   <string name="pref_title_choose_engine">Дефиниции</string>
-  <string name="pref_title_clean_alert">Напомняне за изчистване</string>
+  <string name="pref_title_clean_alert">Напомняне за почистване</string>
   <string name="pref_title_cleanup_white_list">Изключения</string>
   <string name="pref_title_expand_cache_group">Покажи кешираните елементи</string>
   <string name="pref_title_garbage_cleanup_check_size">Лимит на отпадъците</string>
@@ -412,7 +412,7 @@
   <string name="tips_of_traffic_notification">Вижте статистиките за мобилни данни в лентата с известия</string>
   <string name="tips_of_traffic_pack_threshold">Купете още данни, когато сте напът да достигнете лимита си</string>
   <string name="tips_of_virus_scan">Сканирайте устройството си периодично за вируси, за го запазите в безопасност</string>
-  <string name="title_auto_cleaner">Напомняне за изчистване</string>
+  <string name="title_auto_cleaner">Напомняне за почистване</string>
   <string name="title_delete_cache">Изтриване на кеш данните?</string>
   <string name="title_delete_clipboard">Клипборд съдържание</string>
   <string name="title_delete_deepclean">Изтрий</string>
