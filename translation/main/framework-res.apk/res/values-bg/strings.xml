@@ -1404,4 +1404,7 @@
     <string name="wifi_available_title_connected">Свързан към WLAN мрежа</string>
     <string name="wifi_available_title_connecting">Свъзване към WLAN мрежа</string>
     <string name="wifi_available_title_failed_to_connect">Не може да се свърже към WLAN мрежа</string>
+	<string name="tethered_notification_multi_device_message">%1$s свързани устройства</string>
+    <string name="tethered_notification_no_device_message">Няма свързани устройства</string>
+    <string name="tethered_notification_one_device_message">%1$s свързано устройство</string>
 </resources>
