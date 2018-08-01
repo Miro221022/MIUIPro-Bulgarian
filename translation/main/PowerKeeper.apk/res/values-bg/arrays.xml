@@ -9,8 +9,8 @@
         <item>Режим \"Производителност\"</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Текущ контрол на температурата</item>
-        <item>Текущ режим производителност</item>
+        <item>Приоритет на температурния контрол</item>
+        <item>Приоритет на ефективността</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Производителност</item>
@@ -92,8 +92,8 @@
         <item></item>
     </string-array>
 	    <string-array name="pc_manage_active_app_items">
-        <item>Незабавно заспиване</item>
-        <item>Стратегия за спестяване на енергия</item>
+        <item>Приспиване на приложенията</item>
+        <item>Спестяване на енергия</item>
      </string-array>
      <string-array name="hmode_app_classify1">
         <item>По избор</item>
@@ -101,6 +101,6 @@
      </string-array>
      <string-array name="hmode_app_classify2">
         <item>Активни приложения</item>
-        <item>Неактивни приложения</item>
+        <item>Спящи приложения</item>
      </string-array>
 </resources>

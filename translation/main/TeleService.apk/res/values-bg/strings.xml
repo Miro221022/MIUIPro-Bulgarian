@@ -523,7 +523,7 @@
     <string name="no_change">Не бяха направени промени.</string>
     <string name="sum_voicemail_choose_provider">Избор на услугата за гласова поща</string>
     <string name="voicemail_default">Моят оператор</string>
-    <string name="mobile_networks">Настройки на мобилната мрежа</string>
+    <string name="mobile_networks">Настройки на мобилна мрежа</string>
     <string name="label_available">Налични мрежи</string>
     <string name="load_networks_progress">Търси се…</string>
     <string name="empty_networks_list">Не са намерени мрежи.</string>
@@ -1734,7 +1734,7 @@
     <string name="wificall_switch_title">Осъществяване на повиквания чрез WLAN</string>
 	<string name="cloud_sim_enabled_dual_4g_summary">"Не може да се изключи Двоен 4G когато се ползва Mi Роуминг"</string>
     <string name="cloud_sim_enabled_preferred_network_summary">"Не можете да променяте предпочитанията за мрежата, докато използвате услугата Mi Роуминг"</string>
-    <string name="data_plan">планове за мобилни данни</string>
+    <string name="data_plan">Планове за мобилни данни</string>
     <string name="dc_alert_dialog_message">Някои приложения изискват мобилна връзка за данни. Можете да се свържете с оператора си, за да научите какви %s са на ваше разположение.</string>
     <string name="dc_alert_dialog_title">Предупреждение за използването на данни</string>
     <string name="do_not_show_again">"Не покзавай отново"</string>

@@ -70,8 +70,9 @@
   <string name="summary_not_set">Не е настроено</string>
   <string name="system_navigation_mode">Режим за навигиране в системата</string>
   <string name="terms_of_use">Условия за ползване</string>
-  <string name="terms_of_use_label">Вашата сигурност е много важна за нас. Моля, прочетете нашето потребителско споразумение, за да разберете каква информация събираме, как я използваме и какви възможности за избор имате вие.\n\nВие трябва да се съгласите с потребителското споразумение, преди да използвате MIUI. При активирането Mi услугите, Открий устройството, системен компонент MSA и данни за статистика, ще се свържат към Интернет и ще изискат вашето местоположение.</string>
-  <string name="terms_of_use_label_gms">Вашата сигурност е много важна за нас. Моля, прочетете нашето потребителско споразумение, за да разберете каква информация събираме, как я използваме и какви възможности за избор имате вие.\n\nВие трябва да се съгласите с потребителското споразумение, преди да използвате MIUI. При активирането Mi услугите, Открий устройството, системен компонент MSA и данни за статистика, ще се свържат към Интернет и ще изискат вашето местоположение.</string>
+  <string name="terms_of_use_label">"Вашата поверителност е много важна за нас. Прочетете нашите Общи условия и Декларацията за поверителност, за да разберете каква информация събираме, как я използваме и какви възможности са налични за вас.
+
+Трябва да приемете нашите Общи условия и Декларацията за поверителност, преди да можете да използвате MIUI. %s и компонентите на Mi профила  ще се свързват с интернет и ще придобият местоположението ви."</string>
   <string name="title_fingerprint">Задай парола</string>
   <string name="user_agreement">Потребителско споразумение</string>
   <string name="voice_assist_desp">Кажете \"Mi AI\" на смартфона си. Mi Асистент ще разпознае вашият глас и ще може да контролира вашето устройство.</string>
@@ -84,7 +85,7 @@
   <string name="other_settings_user_experience_summary_index">Подробности</string>
   <string name="agree_terms_input_method_facemoji">"Прочетох и се съгласих с Политиката за Поверителност на Facemoji."</string>
   <string name="agree_terms_input_method_kika">"Прочетох и се съгласих с Политиката за Поверителност на Kika."</string>
-  <string name="terms_of_use_label_systemhelper">Самообслужване</string>
+  <string name="terms_of_use_label_systemhelper">, Услуга за саморегистриране</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Трябва да приемете Facemoji Декларацията за поверителност, преди да използвате тази функция."</string>
@@ -94,4 +95,7 @@
   <string name="terms_privacy_policy_input_method_facemoji">Декларация за поверителност на Facemoji</string>
   <string name="terms_privacy_policy_input_method_kika">Декларация за поверителност на Kika</string>
   <string name="voice_assist_desp_screen_light">След като екранът светне, кажете \"Mi AI\" на телефона си. Mi AI ще разпознае гласа ви и ще може да контролира устройството ви.</string>
+  <string name="terms_of_use_lable_gms">, Услуги на Google Play</string>
+  <string name="terms_of_use_lable_smart_cards">, Смарт карти</string>
+  <string name="terms_of_use_lable_apps">Mi услуги, Mi Услуги за активиране на SIM картата, Mi Облак, Намери устройството, Начален екран, Център за игри, MAB, MIUI Daemon и MSA системни компоненти, Ускуги за превод, Бързи приложения, Личен асистент, статистики, Mi Link</string>
 </resources>

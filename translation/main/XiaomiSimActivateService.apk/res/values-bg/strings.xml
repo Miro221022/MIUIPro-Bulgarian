@@ -115,8 +115,10 @@
   <string name="phone_verify_title">Разрешете %1$s да потвърди вашия номер</string>
   <string name="privacy_revoke_tips">Ако отмените, синхронизирането на SMS няма да може да се използва</string>
   <string name="sim_unactivated_title">SIM картата ви не е активирана</string>
-  <string name="error_checking_client">Възникна грешка по време на активирането</string>
+  <string name="error_checking_client">Възникна грешка при активирането</string>
   <string name="error_network_io">Възникна грешка в мрежата</string>
   <string name="error_no_send_sms_permission">Xiaomi SIM активацията има нужда от разрешение за изпращане на SMS</string>
-  <string name="error_sim_not_in_service">Чака се SIM картата да бъде активирана</string>
+  <string name="error_sim_not_in_service">"Не можете да активирате SIM картата. Уверете се, че вашият баланс е достатъчен."</string>
+  <string name="checking_client">Проверка на обстановката за активиране</string>
+  <string name="waiting_sim_in_service">Чака се SIM картата да бъде активирана</string>
 </resources>

@@ -5746,4 +5746,6 @@ Stable"</string>
     <string name="wapi_password_length_invalid">Паролата трябва да е с дължина от 8 до 64 символа</string>
     <string name="wapi_yes">Да</string>
 	<string name="privacy_authorize_dialog_exit">Изход</string>
+    <string name="notification_channels">Категории на известията</string>
+    <string name="play_pause_description">Бутон Изпълни/Пауза</string>
 </resources>
