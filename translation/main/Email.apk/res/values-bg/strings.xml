@@ -1078,4 +1078,5 @@
   <string name="verify_code">Потвърдете кода</string>
   <string name="version_string">Версия: %s</string>
   <string name="wps_title">WPS Поща</string>
+  <string name="privacy_policy">Политика за поверителност</string>
 </resources>

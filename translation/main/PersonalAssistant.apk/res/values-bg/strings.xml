@@ -989,4 +989,6 @@
   <string name="miot_device_network_error">Текущата мрежа не е свързана</string>
   <string name="miot_device_shrink_list">Свиване списък</string>
   <string name="net_unavailable">"Не може да се свърже с мрежата."</string>
+  <string name="search">Търсене</string>
+
 </resources>

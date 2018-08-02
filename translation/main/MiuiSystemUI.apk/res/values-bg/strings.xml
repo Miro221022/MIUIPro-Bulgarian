@@ -809,7 +809,7 @@
   <string name="keyguard_permanent_disabled_sim_instructions">Вашата СИМ-карта е била напълно деактивирана.\n Свържете се с вашия доставчик на безжични услуги за друга SIM карта.</string>
   <string name="keyguard_permanent_disabled_sim_message_short">Неизползваема SIM карта.</string>
   <string name="keyguard_plugged_in">Зареждане</string>
-  <string name="keyguard_plugged_in_charging_fast">Бързо зареждане</string>
+  <string name="keyguard_plugged_in_charging_fast">Зарежда се бързо</string>
   <string name="keyguard_plugged_in_charging_slowly">Бавно зареждане</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Бързо зареждане. Чукнете за подробности.</string>
   <string name="keyguard_sim_locked_message">SIM картата е заключена.</string>
@@ -819,7 +819,7 @@
   <string name="keyguard_unlock">Плъзнете нагоре, за да отключите</string>
   <string name="keyguard_widget_12_hours_format">hmm</string>
   <string name="keyguard_widget_24_hours_format">kkmm</string>
-  <string name="kg_enter_confirm_pin_hint">Потвърдете желания ПИН код</string>
+  <string name="kg_enter_confirm_pin_hint">Потвърдете новият ПИН код</string>
   <string name="kg_failed_attempts_almost_at_erase_profile">Неправилно сте се опитали да отключите телефона %1$d пъти. След още %2$d неуспешни опита, работеният профил ще бъде премахнат, което ще изтрие всичките му данни.</string>
   <string name="kg_failed_attempts_almost_at_erase_user">Неправилно сте се опитали да отключите телефона %1$d пъти. След още %2$d неуспешни опита, този потребител ще бъде премахнат, което ще изтрие всички потребителски данни.</string>
   <string name="kg_failed_attempts_almost_at_login">Неправилно сте изпълнили фигурата за отключване %1$d пъти. След още %2$d неуспешни опита, ще бъдете помолени да отключите телефона си чрез имейл акаунт.\n\n Опитайте отново след %3$d секунди.</string>
@@ -829,14 +829,14 @@
   <string name="kg_failed_attempts_now_wiping">Неправилно сте се опитали да отключите телефона %d пъти. Този телефон ще бъде нулиран, което ще изтрие всичките му данни.</string>
   <string name="kg_forgot_pattern_button_text">Забравена фигура</string>
   <string name="kg_invalid_confirm_pin_hint">PIN кодовете не съвпадат</string>
-  <string name="kg_invalid_puk">Въведете отново PUK код. Повторните опити ще деактивират за постоянно SIM картата.</string>
+  <string name="kg_invalid_puk">Въведете правилния PUK код отново. Повторните опити ще деактивират за постоянно SIM картата.</string>
   <string name="kg_invalid_sim_pin_hint">Въведтете PIN който е с 4 до 8 цифри.</string>
   <string name="kg_invalid_sim_puk_hint">PUK кодът трябва да бъде с 8 цифри или повече.</string>
   <string name="kg_login_too_many_attempts">Твърде много опити с фигура</string>
-  <string name="kg_password_instructions">Въвеждане на парола</string>
-  <string name="kg_password_pin_failed">Операцията с пин кода на картата е неуспешна!</string>
-  <string name="kg_password_puk_failed">Операцията с PUK кода е неуспешна!</string>
-  <string name="kg_password_wrong_pin_code_pukked">Неправилен PIN код трябва да се свържете с оператора, за да отключите устройството си.</string>
+  <string name="kg_password_instructions">Въведете парола</string>
+  <string name="kg_password_pin_failed">"Не може да се отключи чрез ПИН код"</string>
+  <string name="kg_password_puk_failed">"Не може да се отключи чрез PUK код"</string>
+  <string name="kg_password_wrong_pin_code_pukked">ПИН кодът на SIM картата е неправилен. Свържете се с вашия оператор, за да отключите устройството си.</string>
   <string name="kg_password_wrong_puk_code_dead">SIM е неизползваема. Свържете се с оператор.</string>
   <string name="kg_pattern_instructions">Начертайте фигурата си</string>
   <string name="kg_pin_accepted">Кодът е приет!</string>
@@ -852,18 +852,20 @@
   <string name="kg_prompt_reason_timeout_pattern">Необходима е фигура за допълнителна сигурност</string>
   <string name="kg_prompt_reason_timeout_pin">Изисква се ПИН за допълнителна сигурност</string>
   <string name="kg_prompt_reason_user_request">Устройството е заключено ръчно</string>
-  <string name="kg_puk_enter_pin_hint">Въведете желания ПИН код</string>
-  <string name="kg_puk_enter_puk_hint">SIM картата вече е деактивирана. Въведете PUK код, за да продължите. Свържете се с оператора за подробности.</string>
-  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" е вече деактивирана. Въведете PUK код, за да продължите. Свържете се с оператора за подробности.</string>
+  <string name="kg_puk_enter_pin_hint">Въведете нов ПИН код</string>
+  <string name="kg_puk_enter_puk_hint">SIM картата вече е деактивирана. Въведете PUK код, за да продължите. Свържете се с вашия оператор за подробности.</string>
+  <string name="kg_puk_enter_puk_hint_multi">SIM картата \"%1$s\" е вече деактивирана. Въведете PUK код, за да продължите. Свържете се с оператора за подробности.</string>
   <string name="kg_sim_pin_instructions">Въведете ПИН код</string>
   <string name="kg_sim_pin_instructions_multi">Въвдете ПИН код за \"%1$s\"</string>
   <string name="kg_sim_unlock_progress_dialog_message">Отключване на SIM картата…</string>
   <string name="kg_too_many_failed_attempts_countdown">Опитайте отново след %d секунди.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">Неправилно сте въвели паролата  си %1$d пъти. \n\nОпитайте отново след %2$d секунди.</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message">"Въвели сте вашата парола %1$d пъти. 
+
+Опитайте отново след %2$d секунди."</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message">Неправилно сте въвели фигурата за отключване %1$d пъти. \n\nОпитайте отново след %2$d секунди.</string>
   <string name="kg_too_many_failed_pin_attempts_dialog_message">Неправилно сте въвели своя ПИН %1$d пъти. \n\nОпитайте отново след %2$d секунди.</string>
   <string name="kg_wrong_password">Грешна парола</string>
-  <string name="kg_wrong_pattern">Направилна фигура</string>
+  <string name="kg_wrong_pattern">Грешна фигура</string>
   <string name="kg_wrong_pin">Грешен ПИН</string>
   <string name="kilobyte_per_second">К/с</string>
   <string name="label_view">Преглед</string>
@@ -899,7 +901,7 @@
   <string name="lockscreen_none">Няма</string>
   <string name="lockscreen_shortcut_left">Ляв пряк път</string>
   <string name="lockscreen_shortcut_right">Десен пряк път</string>
-  <string name="lockscreen_sim_error_message_short">Невалидна карта.</string>
+  <string name="lockscreen_sim_error_message_short">СИМ картата е невалидна.</string>
   <string name="lockscreen_unlock_left">Левият пряк път също отключва</string>
   <string name="lockscreen_unlock_right">Десният пряк път също отключва</string>
   <string name="long_screenshot_not_support_msg">Приложението не поддържа дълги екранни снимки</string>
@@ -1692,7 +1694,7 @@
    <string name="structure_face_unlock_model_other">Друго</string>
    <string name="structure_face_unlock_model_other_msg_2d">2D разпознаване</string>
    <string name="structure_face_unlock_model_other_msg_3d">3D разпознаване</string>
-   <string name="structure_face_unlock_model_other_suggestion_2d">2D разпознаването на лице е по-малко сигурно от шаблон, PIN или парола. Когато тази функция е включена, устройството ви може да се отключи от ваша снимката, също и от хора или предмети които приличат на вас.</string>
+   <string name="structure_face_unlock_model_other_suggestion_2d">2D разпознаването на лице е по-малко сигурно от шаблон, PIN или парола. Когато тази функция е включена, устройството ви може да се отключи от ваша снимката, също и от хора или обекти които приличат на вас.</string>
    <string name="structure_face_unlock_model_other_suggestion_3d">"3D разпознаването на лице е сравнително сигурно. Малко вероятно е устройството ви да може да се отключи с вашата снимка, когато тази функция е включена. Въпреки това, то може да бъде отключено от хора или предмети, които приличат на вас."</string>
    <string name="structure_face_unlock_model_other_title">Лицево разпознаване</string>
    <string name="structure_face_unlock_not_same_person">"Трябва да завършите всички стъпки само с вашето лице. Не позволявайте запис на друго лице."</string>
