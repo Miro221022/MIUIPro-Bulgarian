@@ -155,4 +155,5 @@
 	<string name="record_format_preference_title">Формат на записа</string>
     <string name="record_resotre">Възстановяване на записи</string>
 	<string name="record_format_preference_title">Формат на запис</string>
+	<string name="privacy_policy_title">Правила за поверителност</string>
 </resources>

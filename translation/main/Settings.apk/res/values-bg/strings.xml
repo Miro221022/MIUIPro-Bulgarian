@@ -5748,4 +5748,8 @@ Stable"</string>
 	<string name="privacy_authorize_dialog_exit">Изход</string>
     <string name="notification_channels">Категории на известията</string>
     <string name="play_pause_description">Бутон Изпълни/Пауза</string>
+	<string name="bootloader_locked_answer_2_no_sim">"1. Чукнете \"Добавяне на профил\" по-долу, за да свържете вашият Mi профил с това устройство.
+2. Изтеглете инструмента за отключване от нашия уебсайт. Имайте предвид, че трябва да отключите устройството с помощта на компютър. Изтеглете от тук:"</string>
+    <string name="security_input">Защитено въвеждане</string>
+    <string name="security_input_hint">Въведете парола чрез защитената клавиатура</string>
 </resources>

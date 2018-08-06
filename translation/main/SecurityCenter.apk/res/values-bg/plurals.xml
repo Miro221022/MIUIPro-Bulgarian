@@ -343,4 +343,8 @@
         <item quantity="other">%d приложения са скрити</item>
         <item quantity="one">%d приложение е скрито</item>
     </plurals>
+	<plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Стандартни настройки(%ds)</item>
+        <item quantity="one">Стандартна настройка(%ds)</item>
+    </plurals>
 </resources>

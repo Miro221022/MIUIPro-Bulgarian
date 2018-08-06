@@ -183,4 +183,7 @@
     <string name="voice_button_action_up">Натиснете, за да говорите</string>
     <string name="voice_input_error_network">"Неуспешно свързване с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
     <string name="voice_input_error_other">Възникна грешка. Изчакайте минута и опитайте отново.</string>
+	<string name="miui_warning_button_ok">OK</string>
+    <string name="miui_warning_button_cancel">Отказ</string>
+    <string name="miui_warning_tip_info">Възникна грешка в %1$s. Затваряне на приложението сега?</string>
 </resources>

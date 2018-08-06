@@ -432,9 +432,9 @@
     <string name="pref_title_declaration">Отказ от отговорност</string>
     <string name="pref_new_installed_preconfig_title">Стандартни настройки за нови прил.</string>
     <string name="pref_bg_network_title">Връзка на заден план</string>
-    <string name="pref_mi_sim_settings">Настройки на Mi SIM</string>
-    <string name="pref_title_upload_data_usage">Докладвайте за бъг при отчитането на данните</string>
-    <string name="pref_summary_upload_data_usage">Докладвайте за проблеми при отчитането на изразходваните мобилни данни, за да ни помогнете да подобрим MIUI. Докладваното е съобразно нашите правила за сигурност.</string>
+    <string name="pref_mi_sim_settings">%sнастройки на пакета</string>
+    <string name="pref_title_upload_data_usage">Докладвайте информация за използването на данни</string>
+    <string name="pref_summary_upload_data_usage">Докладвайте информацията за използването на данни, за да ни помогнете да подобрим услугите на MIUI. Процесът на отчитане ще се извърши в съответствие с нашата Декларация за поверителност.</string>
     <string name="pref_manual_adjust">Ръчна настройка на трафика</string>
     <string name="pref_daily_adjust">Задайте лимит на данни при слаб трафик</string>
     <string name="pref_free_adjust">Задайте лимит на мобилни данни при слаб трафик</string>
@@ -2269,4 +2269,7 @@
     <string name="gb_first_window_summary">Увеличаване на скоростта и производителността на системно ниво</string>
     <string name="gb_first_window_title">Ускоряване на скоростта при игри</string>
     <string name="manage_hybrid_permissions">"Управление на разрешенията на приложенията"</string>
+	<string name="reset_data_title">"Паролата не може да бъде възстановена"</string>
+    <string name="reset_data_dialog_message">"Това устройство не е свързано с вашия Ми профил. Не може да се възстанови или нулира паролата. Архивирайте всички важни елементи и върнете фабрични настройки на устройството си. Всички данни ще бъдат изтрити за постоянно и вашата SD карта ще бъде форматирана по време на фабричните настройки."</string>
+    <string name="reset_data_dialog_ok">Фабрично нулиране</string>
 </resources>
