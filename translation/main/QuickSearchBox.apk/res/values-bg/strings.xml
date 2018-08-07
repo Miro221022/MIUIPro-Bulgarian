@@ -142,8 +142,8 @@
   <string name="suggestion_tab_btn">Начало</string>
   <string name="suggestion_tab_detail">Изберете категория за по-точно търсене</string>
   <string name="suggestion_tab_title">Търсене в следните категории</string>
-  <string name="swipe_up_summary">Прекарайте пръст нагоре, за да започнете да търсите</string>
-  <string name="swipe_up_title">Започнете търсенето с разгъване нагоре</string>
+  <string name="swipe_up_summary">Отворете търсенето с помощта на бърз жест</string>
+  <string name="swipe_up_title">Плъзнете, за да отворите търсенето</string>
   <string name="switch_application">Приложения</string>
   <string name="switch_browser">Браузър</string>
   <string name="switch_contacts">Свържете се с нас</string>
@@ -177,4 +177,17 @@
   <string name="xiaomi_source_url">localhost</string>
   <string name="xiaomi_source_url_alpha">localhost</string>
   <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v5/topclick</string>
+  <string name="other">Друго</string>
+  <string name="page_search_hint">Търсене</string>
+  <string name="setting_privacy_policy">Правила за поверителност</string>
+  <string name="swipe_click_setting">Промяна на настройките</string>
+  <string name="swipe_item_down">Плъзнете надолу когато сте в начален екран</string>
+  <string name="swipe_item_down_short">Плъзгане надолу</string>
+  <string name="swipe_item_up">Плъзнете нагоре когато сте в начален екран</string>
+  <string name="swipe_item_up_short">Плъзгане нагоре</string>
+  <string name="swipe_option_description">Изберете жест за отваряне на Търсенето от началния екран</string>
+  <string name="swipe_option_title">Изберете бърз жест</string>
+  <string name="swipe_prompt_content">Търсете елементи онлайн и в това устройство</string>
+  <string name="swipe_prompt_setting">Плъзнете надолу от горната част на екрана, за да отворите панела за известия</string>
+  <string name="web_search">Намерете на страницата…</string>
 </resources>
