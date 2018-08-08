@@ -435,8 +435,8 @@
     <string name="tab_title_month">Месец</string>
     <string name="tab_title_week">Седмица</string>
 	<string name="close_alarm">Изключване</string>
-    <string name="guide_card_close">затвори</string>
+    <string name="guide_card_close">Затвори</string>
     <string name="login_failed_toast">"Не може да се впишете, опреснете и опитайте отново"</string>
     <string name="talk_back_month">месец</string>
-    <string name="talk_back_setting">настройки</string>
+    <string name="talk_back_setting">Настройки</string>
 </resources>

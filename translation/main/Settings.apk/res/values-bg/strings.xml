@@ -5752,4 +5752,10 @@ Stable"</string>
 2. Изтеглете инструмента за отключване от нашия уебсайт. Имайте предвид, че трябва да отключите устройството с помощта на компютър. Изтеглете от тук:"</string>
     <string name="security_input">Защитено въвеждане</string>
     <string name="security_input_hint">Въведете парола чрез защитената клавиатура</string>
+	<string name="forget_password_dialog_button_text">Назад</string>
+    <string name="forget_password_dialog_content_four"><Data>2. Изберете &lt;font color=#e6e6e6>[Изтриване на данните]&lt;/font> и изчакайте, докато устройството ви се рестартира.</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>"Ако забравите паролата си, няма да можете да я възстановите. Можете обаче да зададете нова парола след като &lt;font color=#ec2700>изтриете всички данни на устройството си&lt;/font> (включително снимки, контакти и др.). Архивирайте всички важни данни преди това."</Data></string>
+    <string name="forget_password_dialog_content_three"><Data>"1. Изключете устройството си. Натиснете &lt;font color=#e6e6e6>[Бутона за вкл./изкл.]&lt;/font> и &lt;font color=#e6e6e6>[Бутона за усилване на звука]&lt;/font> одновременно и ги задръжте, докато не видите тази &lt;img src=''> икона."</Data></string>
+    <string name="forget_password_dialog_content_two">Следвайте тези стъпки, за да изтриете данните:</string>
+    <string name="forget_password_dialog_title">Нулиране на паролата</string>
 </resources>

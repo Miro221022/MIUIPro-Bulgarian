@@ -597,4 +597,11 @@
     <string name="member_menu_vipname_ultra">Ултра</string>
     <string name="find_device_gdpr_prompt">Чрез включването на Намиране на устройството приемате нашата Декларация за поверителност. Ако искате да отмените разрешението, изключете тази функция.</string>
 	<string name="close_shortcut">Затвори</string>
+	<string name="micloud_dspt_provision_xms">Използвайте Mi Cloud за синхронизиране на информация.</string>
+    <string name="micloud_main_cancel_sync_now">Анулира се ...</string>
+    <string name="micloud_main_simple_synced">Синхронизирано</string>
+    <string name="micloud_main_simple_syncing">Синхронизиране</string>
+    <string name="micloud_main_simple_pending">Изчаква се</string>
+    <string name="micloud_main_simple_off">Синхронизацията е изключена</string>
+    <string name="micloud_main_simple_last_sync_time">Последно синхронизиране： %s</string>
 </resources>

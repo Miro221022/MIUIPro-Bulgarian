@@ -2092,7 +2092,7 @@
     <string name="sys_title_gamebooster_unit_mb">M</string>
     <string name="gmscore_support_service">Услуги на Google</string>
     <string name="gmscore_support_remind">Включете тази услуга, ако имате проблеми с използването на Gmail, Google Карти и други услуги на Google. Ще се съкрати малко животът на батерията.</string>
-    <string name="google_base_app_install_choice">\"%s\" изисква услугата Google Service Framework, за да работи нормално, да се изтегли ли и инсталира сега?</string>
+    <string name="google_base_app_install_choice">Приложението изисква услугата Google Service Framework, за да работи нормално, да се изтегли ли и инсталира сега?</string>
     <string name="application_item_disable">Забранено</string>
     <string name="application_item_already_permission">Позволено</string>
     <string name="man_add_application">Добавете приложения за автостартиране ръчно</string>
