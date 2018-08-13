@@ -1706,4 +1706,8 @@
    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Заряд на bluetooth устройството %d процента.</string>
    <string name="keyguard_left_mi_wallet">Mi портвейл</string>
    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Не можете да превключвате между пространствата, когато Семейна охрана е включено"</string>
+   <string name="accessibility_fingerprint_dialog_app_icon">Икона на приложението</string>
+   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Икона на пръстовия отпечатък</string>
+   <string name="accessibility_fingerprint_dialog_help_area">Област за помощни съобщения</string>
+   <string name="fingerprint_dialog_touch_sensor">Докоснете сензора за отпечатъци</string>
 </resources>

@@ -1741,4 +1741,6 @@
 	<string name="opened_dual_4g_confirm_prompt_with_sim">Само SIM %1$s поддържа 4G. За да сте сигурни, че SIM картата ви работи нормално, беше включен двоен 4G режим.</string>
     <string name="change_data_sim_4g_only_prompt">"Само SIM %1$s поддържа 4G. Когато SIM %2$s не е вашата SIM по подразбиране за мобилни данни, SIM картата може да не работи нормално. Превключване сега?"</string>
     <string name="opened_dual_4g_confirm_prompt">Изглежда, че имате 4G SIM карта. Двойният 4G режим беше включен автоматично.</string>
+	<string name="dds_switch_warning_message_data_off">"Не може да намери SIM %1$s. SIM %2$s е зададена като карта по подразбиране за мобилни данни в момента. Мобилните данни в момента са изключени."</string>
+    <string name="dds_switch_warning_message_data_on">"Не може да намери SIM %1$s. SIM %2$s е зададена като карта по подразбиране за мобилни данни в момента. Мобилните данни в момента са изключени за да се избегнат ненужните такси от оператора."</string>
 </resources>

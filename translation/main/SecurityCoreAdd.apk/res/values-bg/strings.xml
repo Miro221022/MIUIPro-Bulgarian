@@ -387,4 +387,30 @@
   <string name="net_work_notice">Родителските контроли трябва да се свързват с интернет и да получат достъп до вашето местоположение, за да работят нормално. Тези разрешения са изискват за изпращане на информация за нивата на батерията, брой на стъпки, и местоположението на контролираните устройства. Разрешаване?</string>
   <string name="qq_login">Вписване в QQ</string>
   <string name="this_function_can_not_use_in_second_space">Тази функция може да се използва само в Първо пространство</string>
+  <string name="about_ent_mode">За Корпоративен режим</string>
+  <string name="activate_ent_mode">Активиране на Корпоративен режим</string>
+  <string name="ent_activating">Активиране…</string>
+  <string name="ent_activation">Активиране</string>
+  <string name="ent_activation_hint">Въведете корпоративния си код заедно с лицензния код, за да активирате Корпоративен режим. След това ще бъдат активирани потребителски корпоративни услуги.</string>
+  <string name="ent_activation_hint_whit_licence">"Активирайте "Корпоративен" режим, за да активирате потребителски бизнес услуги.
+Уверете се, че името на вашата корпорация е правилно. Преди да активирате, прочетете и приемете съответните политики за поверителност."</string>
+  <string name="ent_agency_code">Корпоративен код</string>
+  <string name="ent_agency_code_hint">Въведете корпоративен код</string>
+  <string name="ent_agency_code_invalid">Въведеният от вас корпоративен код е невалиден.</string>
+  <string name="ent_agree_privacy_policy">"Прочел съм и се съгласявам с Декларацията за поверителност"</string>
+  <string name="ent_app_verified">Изглежда, че на устройството ви са инсталирани корпоративни приложения. Активиране на Корпоративен режим?</string>
+  <string name="ent_confirm_dialog_content">"Няма да можете да се върнете към текущото състояние на вашата система, след като активирате Корпоративен режим. Всички ваши данни на това устройство щебъдат запазени. Ще трябва да рестартирате устройството си, за да активирате Корпоративен режим. Активиране сега?"</string>
+  <string name="ent_disallow_running">На приложението му е забранено да стартира</string>
+  <string name="ent_error_dialog_content">Поне един от кодовете, който въведохте е неправилен. Проверете вашите корпоративни и лицензионнини кодове и ги въведете отново.</string>
+  <string name="ent_get_code_hint">Можете да получите корпоративни и лицензионни кодове от вашия ръководител</string>
+  <string name="ent_invalid_agency">Корпоративният код е невалиден.</string>
+  <string name="ent_invalid_qr">QR кода е невалиден.</string>
+  <string name="ent_licence_code">Лицензионен код</string>
+  <string name="ent_licence_code_hint">Въведете лицензионен код</string>
+  <string name="ent_licence_code_invalid">Въведеният от вас лицензен код е невалиден.</string>
+  <string name="ent_mode_activated">Корпоративен режим е активиран</string>
+  <string name="ent_network_error">"Не може да се свърже с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
+  <string name="ent_next_step">Следващ</string>
+  <string name="ent_privacy_policy_notice">* Личните данни в този режим се събират съгласно правилата, установени от вашата корпорация. Xiaomi не събира лични данни в този режим.</string>
+  <string name="enterprise_mode">Корпоративен режим</string>
 </resources>

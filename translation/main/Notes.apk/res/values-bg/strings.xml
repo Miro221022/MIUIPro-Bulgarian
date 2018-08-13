@@ -232,4 +232,6 @@
   <string name="date_time_picker_dialog_title">Настройване на дата и час</string>
   <string name="date_time_picker_has_not_set_alarm">"Алармата не е настроена"</string>
   <string name="date_time_picker_has_set_alarm">Алармата е настроена успешно</string>
+  <string name="setting_other">ДРУГИ</string>
+  <string name="setting_privacy">Политика за поверителност</string>
 </resources>

@@ -224,4 +224,6 @@
   <string name="timer_end_time">Таймерът ще спре в %s</string>
   <string name="timer_end_time_format">HH:mm MMM dd</string>
   <string name="timer_end_time_format_today">HH:mm</string>
+  <string name="timer_can_continue_in_timer">Отваряне на таймера за възобновяване</string>
+  <string name="timer_is_paused">Таймерът е на пауза</string>
 </resources>

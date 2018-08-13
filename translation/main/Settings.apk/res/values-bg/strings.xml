@@ -5758,4 +5758,5 @@ Stable"</string>
     <string name="forget_password_dialog_content_three"><Data>"1. Изключете устройството си. Натиснете &lt;font color=#e6e6e6>[Бутона за вкл./изкл.]&lt;/font> и &lt;font color=#e6e6e6>[Бутона за усилване на звука]&lt;/font> одновременно и ги задръжте, докато не видите тази &lt;img src=''> икона."</Data></string>
     <string name="forget_password_dialog_content_two">Следвайте тези стъпки, за да изтриете данните:</string>
     <string name="forget_password_dialog_title">Нулиране на паролата</string>
+	<string name="enterprise_mode">Корпоративен режим</string>
 </resources>
