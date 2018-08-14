@@ -358,7 +358,6 @@
   <string name="device_import_progress_begin_message">Подготовка за импортиране…</string>
   <string name="device_import_progress_end_message">Импортирането завърши!</string>
   <string name="device_import_progress_message">Импортиране...</string>
-  <string name="device_import_progress_toast">%1$d контакти са импортирани</string>
   <string name="device_import_title">Импортиране</string>
   <string name="device_list_title">изберете телефон</string>
   <string name="device_other_guide">Поддържа ли другият телефон bluetooth?</string>
@@ -1201,6 +1200,7 @@
   <string name="no_setting_menu">Няма налични опции за менюто</string>
   <string name="contact_detail_entry_pay_request">Заявете пари</string>
   <string name="preference_show_firewall_calllog">Показване на блокираните повиквания в историята на обажданията</string>
-  <string name="toast_call_no_SoundRecorder">Приложението за запис не е налице</string>
+  <string name="toast_call_no_SoundRecorder">Приложението "Звукозапис" не е налице</string>
   <string name="toast_call_no_notes">Приложението "Бележки" не е налице</string>
+  <string name="preference_privacy_policy_title">Политика за поверителност</string>
 </resources>

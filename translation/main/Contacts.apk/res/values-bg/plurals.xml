@@ -159,4 +159,8 @@
     <item quantity="other">%1$d души</item>
     <item quantity="one">%1$d човек</item>
   </plurals>
+  <plurals name="device_import_progress_toast_plurals">
+    <item quantity="other">Импортирани са %1$d контакта</item>
+    <item quantity="one">Импортиран е %1$d контакт</item>
+    </plurals>
 </resources>

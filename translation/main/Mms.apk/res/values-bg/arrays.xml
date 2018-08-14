@@ -61,4 +61,9 @@
     <item>Mi Съобщение</item>
     <item>CMCC Smart SMS</item>
   </string-array>
+  <string-array name="recv_type">
+    <item>Приеми и извести</item>
+    <item>Приемане само</item>
+    <item>Отхвърляне</item>
+    </string-array>
 </resources>
