@@ -5759,4 +5759,5 @@ Stable"</string>
     <string name="forget_password_dialog_content_two">Следвайте тези стъпки, за да изтриете данните:</string>
     <string name="forget_password_dialog_title">Нулиране на паролата</string>
 	<string name="enterprise_mode">Корпоративен режим</string>
+	<string name="status_bar_settings_expand_top_notification">Разгъване на най-новото известие</string>
 </resources>

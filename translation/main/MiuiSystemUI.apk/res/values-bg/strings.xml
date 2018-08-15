@@ -1009,7 +1009,7 @@
   <string name="notification_default_channel_desc">Това приложение няма категории за известяване</string>
   <string name="notification_done">Готово</string>
   <string name="notification_group_collapse_button_text">Сгъване</string>
-  <string name="notification_group_divider_symbol">" • "</string>
+  <string name="notification_group_divider_symbol">%1$s • %2$s</string>
   <string name="notification_header_default_channel">Известия</string>
   <string name="notification_header_title">Известия</string>
   <string name="notification_hidden_by_policy_text">Съдържанието е скрито от политика</string>
@@ -1161,7 +1161,7 @@
   <string name="quick_settings_done">Готово</string>
   <string name="quick_settings_drivemode_label">Режим Автомобил</string>
   <string name="quick_settings_dual_location_label">Dual GPS</string>
-  <string name="quick_settings_edit_label">Редактиране</string>
+  <string name="quick_settings_edit_label">Още</string>
   <string name="quick_settings_flashlight_label">Фенерче</string>
   <string name="quick_settings_hotspot_label">WiFi т.д.</string>
   <string name="quick_settings_ime_label">Метод за въвеждане</string>
