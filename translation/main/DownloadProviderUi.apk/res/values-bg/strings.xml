@@ -500,5 +500,6 @@
   <string name="channel_active">Активно изтегляне</string>
   <string name="channel_complete">Изтеглянето завърши</string>
   <string name="channel_insufficient_space">Недостатъчно място</string>
-  <string name="channel_waiting">Изтегляне на изчакване</string>		
+  <string name="channel_waiting">Изтегляне на изчакване</string>
+  <string name="privacy_policy">Политика за поверителност</string>
 </resources>

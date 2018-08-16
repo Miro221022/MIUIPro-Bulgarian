@@ -574,4 +574,5 @@
    <string name="memory_clean_icon_text">Почистване на паметта</string>
    <string name="pref_title_create_onekeyclean_shortcut">Покажи пряк път на началния екран</string>
    <string name="memory_clean_no_trash_tip">Всичко изглежда добре</string>
+   <string name="pref_about_privacy_title">Политика за поверителност</string>
 </resources>

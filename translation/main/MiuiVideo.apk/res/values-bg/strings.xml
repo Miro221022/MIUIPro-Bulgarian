@@ -728,4 +728,47 @@ To activate your account, follow the
     <string name="v_coin_asset_desc">Профил</string>
     <string name="v_coin_cash_desc">Кеш</string>
     <string name="v_defaultsearch_name">Търсене на популярни ТВ предавания</string>
+	<string name="install">Инсталирай</string>
+    <string name="installing">Инсталиране</string>
+    <string name="message_center_activity_title">Моите съобщения</string>
+    <string name="message_center_activity_title_setting">Настройки</string>
+    <string name="message_comment_item_my_content"><Data>&lt;font color=#3f3f3f>Me&lt;/font></Data>: %s</string>
+    <string name="message_comment_item_my_reply_content"><Data>&lt;font color=#3f3f3f>Моят&lt;/font></Data> отговори в <Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
+    <string name="message_comment_item_reply"><Data>&lt;font color=#5C7997>%s&lt;/font></Data> отговори:</string>
+    <string name="message_list_fragment_login_comment">Впишете се, за да видите съобщенията за коментари.</string>
+    <string name="message_list_fragment_login_praise">Впишете се, за да видите съобщенията за харесвания.</string>
+    <string name="message_list_fragment_no_message">"Все още нямате съобщения."</string>
+    <string name="message_praise_item_more">%1$s, %2$s, <Data>&lt;font color=#3f3f3f>и&lt;/font></Data> %3$s <Data>&lt;font color=#3f3f3f>други хора&lt;/font></Data></string>
+    <string name="message_praise_item_my_content"><Data>&lt;font color=#3f3f3f>Me&lt;/font></Data>: %s</string>
+    <string name="message_praise_item_my_reply_content"><Data>&lt;font color=#3f3f3f>Моят&lt;/font></Data> отговори в <Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
+    <string name="message_praise_item_praise">харесва коментара ви</string>
+    <string name="message_praise_item_praised">е харесал коментара ви</string>
+    <string name="message_setting">Управление на съобщения</string>
+    <string name="message_setting_clear_message_dialog_clear_all">Всички съобщения</string>
+    <string name="message_setting_clear_message_dialog_clear_comment">Съобщения за коментари</string>
+    <string name="message_setting_clear_message_dialog_clear_notification">Известия</string>
+    <string name="message_setting_clear_message_dialog_clear_prasie">Съобщения за харесвания</string>
+    <string name="message_setting_clear_message_dialog_title">Изчистване на съобщенията</string>
+    <string name="message_setting_clear_message_title">Изчистване на съобщенията</string>
+    <string name="message_setting_clear_message_toast_fail">"Съобщенията не бяха изтрити"</string>
+    <string name="message_setting_clear_message_toast_success">Съобщенията са изчистени успешно</string>
+    <string name="message_setting_unread_message_summary">Включете, за да получавате известия</string>
+    <string name="message_setting_unread_message_title">Известяване за непрочетените съобщения</string>
+    <string name="notification_desc_offline">Известяване за завършени изтегляния</string>
+    <string name="notification_name_apklaunch">Известяване за стартирането на други приложения</string>
+    <string name="notification_name_appupdate">Известия за актуализации</string>
+    <string name="notification_name_common">Редовни известия</string>
+    <string name="notification_name_message_push">Изкачащи известия</string>
+    <string name="notification_name_offline">Известия за изтегляния</string>
+    <string name="open">Отвори</string>
+    <string name="operate_message_item_dialog_comment">Преглед на коментарите</string>
+    <string name="operate_message_item_dialog_delete">Изтрий</string>
+    <string name="operate_message_item_dialog_reply">Отговори</string>
+    <string name="operate_message_item_dialog_video">Виж \"%s\"</string>
+    <string name="privacy">Политика за поверителност</string>
+    <string name="toast_operate_message_delete_success">Изтрит успешно</string>
+    <string name="toast_gprs_network">Използване на мобилни данни за поточно видео…</string>
+    <string name="v_notification_settings_summary">Известия в лентата на състоянието</string>
+    <string name="v_notification_settings_title">Управление на известията</string>
+    <string name="dolby_audio_cant_play">"Този аудиозапис не може да бъде възпроизведен поради ограничения на авторските права."</string>
 </resources>

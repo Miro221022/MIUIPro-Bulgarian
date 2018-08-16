@@ -413,4 +413,5 @@
   <string name="ent_next_step">Следващ</string>
   <string name="ent_privacy_policy_notice">* Личните данни в този режим се събират съгласно правилата, установени от вашата корпорация. Xiaomi не събира лични данни в този режим.</string>
   <string name="enterprise_mode">Корпоративен режим</string>
+  <string name="menu_item_about_privacy_title">Политика за поверителност</string>
 </resources>
