@@ -1710,4 +1710,14 @@
    <string name="accessibility_fingerprint_dialog_fingerprint_icon">Икона на пръстовия отпечатък</string>
    <string name="accessibility_fingerprint_dialog_help_area">Област за помощни съобщения</string>
    <string name="fingerprint_dialog_touch_sensor">Докоснете сензора за отпечатъци</string>
+   <string name="battery_can_use_time">Приблизително %s остават</string>
+   <string name="dlg_cancel">Отказ</string>
+   <string name="dlg_confirm">Включване</string>
+   <string name="dlg_summary_close_app">Ограничете активността на заден план и известията</string>
+   <string name="dlg_summary_close_theme">Ограничете анимирани теми</string>
+   <string name="dlg_summary_close_wifi">Изключване на WLAN, Bluetooth и WiFi точ. достъп</string>
+   <string name="dlg_summary_nfc">Изключи NFC</string>
+   <string name="dlg_summary_title">Екстремното пестене на батерията спира цялата дейност на заден план, след като напуснете приложение и се върнете в началния екран.Ако искате да се изпълнява дадено приложение във фонов режим, добавете го към изключения.</string>
+   <string name="enable_extreme_power_save_mode">Екстремно пестене на батерия</string>
+   <string name="open_extreme_power_save_mode_title">Включване на Екстремно пестене на батерия</string>
 </resources>

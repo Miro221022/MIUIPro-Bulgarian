@@ -21,8 +21,6 @@
   <string name="crt_animation_title">Анимация при изключване на екрана</string>
   <string name="Data_set"> / Данни:</string>
   <string name="def_audio_title">Регулиране с бутоните за сила на звука</string>
-  <string name="del_sounds_summary">Контакти, снимки, записи и други.</string>
-  <string name="del_sounds_title">Звук при изтриване на файлове</string>
   <string name="developer_build">\nBeta</string>
   <string name="dim_advanced_summary">%s процента от времето преди заспиване</string>
   <string name="dim_advanced_title">Ръчно настройване на времето до затъмняване на екрана</string>

@@ -414,4 +414,11 @@
   <string name="ent_privacy_policy_notice">* Личните данни в този режим се събират съгласно правилата, установени от вашата корпорация. Xiaomi не събира лични данни в този режим.</string>
   <string name="enterprise_mode">Корпоративен режим</string>
   <string name="menu_item_about_privacy_title">Политика за поверителност</string>
+  <string name="ent_installing">Инсталиране…</string>
+  <string name="ent_download_install_dialog_content">Трябва да инсталирате корпоративни приложения, за да активирате Корпоративен режим. Инсталиране сега?</string>
+  <string name="ent_download_install_dialog_title">Изтеглете корпоративни приложения</string>
+  <string name="ent_downloading_message">Изтегляне %d%%</string>
+  <string name="install">Инсталирай</string>
+  <string name="install_error">"Неуспешно инсталиране. Опитайте отново."</string>
+  <string name="ent_install_dialog_content">Инсталирайте приложенията и рестартирайте устройството си сега?</string>
 </resources>

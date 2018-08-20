@@ -61,4 +61,6 @@
     <string name="cancel">Отказ</string>
     <string name="open_perm_msg">Компас се нуждае от достъп до информация за местоположението и камера. This is necessary to determine coordinates and provide live previews. Allow?</string>
     <string name="open_perm_title">Необходими са разрешения</string>
+	<string name="preference_other">Други</string>
+    <string name="preference_privacy_title">Политика за поверителност</string>
 </resources>

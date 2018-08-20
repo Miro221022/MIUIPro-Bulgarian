@@ -1271,4 +1271,5 @@
     <string name="search_request_requesting">Приложен. Изчакайте известно време, преди да започнете.</string>
     <string name="secret_reason_video_not_support">"Не може да се добави видео към скрит албум"</string>
     <string name="video_editor_video_loading">Подготовка на видеото ... Изчакайте секунда или две и опитайте отново.</string>
+	<string name="photo_editor_crop_auto">Авто</string>
 </resources>

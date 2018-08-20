@@ -1836,7 +1836,7 @@
     <string name="applock_not_login_account">Не сте вписан</string>
     <string name="applock_bind_account_title">Забравена парола</string>
     <string name="applock_close_dialog_title">Изкл. на Заключване на приложения?</string>
-    <string name="applock_close_dialog_summary">Приложенията вече няма да бъдат защитени и паролата ви ще бъде изтрита, след като изключите Заключването на приложения</string>
+    <string name="applock_close_dialog_summary">Всички скрити приложения вече няма да бъдат скрити, техните преки пътища ще бъдат възстановени и вашата парола за Закл. прил. ще бъде изтрита. Изключване на Закл. на прил.?</string>
     <string name="applock_header_text_less_than_half">Прекалено малко. Начертайте още.</string>
     <string name="quite_all_string">Отказ</string>
     <string name="delete_input">Изтрий</string>
@@ -2273,4 +2273,29 @@
     <string name="reset_data_dialog_message">"Това устройство не е свързано с вашия Ми профил. Не може да се възстанови или нулира паролата. Архивирайте всички важни елементи и върнете фабрични настройки на устройството си. Всички данни ще бъдат изтрити за постоянно и вашата SD карта ще бъде форматирана по време на фабричните настройки."</string>
     <string name="reset_data_dialog_ok">Фабрично нулиране</string>
 	<string name="menu_item_about_privacy_title">Политика за поверителност</string>
+	<string name="extreme_power_save_mode_title">Екстремно пестене на батерия</string>
+    <string name="extreme_power_save_mode_summary">Екстремното пестене на батерията ограничава активността на заден план, спира синхронизацията и намалява цветовете на дисплея.</string>
+    <string name="extreme_power_save_description"><li>"Екстремното пестене на батерият спира цялата активност на заден план на дадено приложение, след като го напуснете и се върнете в началния екран. Това приложение няма да ви изпраща известия или да получава актуализации."</li>"
+"<li>Ако искате приложение да работи във фонов режим, заключете го в Последни или го добавете към изключения. Най-много 4 приложения могат да се изпълняват на заден план когато е включен Екстремен режим за пестене на батерия.</li>"
+"<li>Екстремното пестене на батерия изключва NFC по подразбиране. Можете да промените това в Настройки.</li>"
+"<li>За да сте сигурни, че можете да използвате всички функции на устройството си нормално, Екстремното пестене на батеия ще бъде изключено автоматично когато батерията бъде заредена до 30%.</li></string>
+    <string name="extreme_add_white_list_title">Изключения</string>
+    <string name="extreme_add_white_list_summary">Добавете до 4 приложения</string>
+    <string name="notification_open_extreme_mode_text">Включено е Екстремно пестене на батерия</string>
+    <string name="notification_exit_extreme_mode_title">Изключено е Екстремно пестене на батерия</string>
+    <string name="notification_exit_extreme_mode_text">Батерията е повече от %s заредена</string>
+    <string name="privacy_apps_category_title">Скрити приложения</string>
+    <string name="privacy_apps">Скрити приложения</string>
+    <string name="privacy_apps_enable_summary">Преместете приложенията в скрита папка и премахнете преките им пътища на началния екран</string>
+    <string name="privacy_apps_manage">Управление на скрити приложения</string>
+    <string name="privacy_apps_tutorial">Инструкция</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">"Когато скриете приложение, то се премества в скрита папка. Неговият пряк път на началния екран се скрива добре.
+Тази функция не се поддържа за системни приложения."</string>
+    <string name="privacy_apps_tutorial_prompt_pagetwo">"Плъзнете с разделяне два пръста по екрана. Ще видите съобщение, в което се иска да въведете паролата за Заключване на приложения."</string>
+    <string name="privacy_apps_tutorial_prompt_pagethree">След като въведете паролата си, ще се покаже папката със скрити приложения.</string>
+    <string name="privacy_apps_manage_dialog_title">Относно Скрити приложения</string>
+    <string name="privacy_apps_manager_dialog_message">Скриването на приложения изисква настройка на парола за Заключване на приложения. Известията за скрити приложения ще бъдат изключени. Скриване на това приложение?</string>
+    <string name="privacy_apps_checkbox_remind_choice">"Не показвай отново"</string>
+    <string name="privacy_apps_go_to_use">Старт</string>
+    <string name="privacy_apps_close">Затвори</string>
 </resources>

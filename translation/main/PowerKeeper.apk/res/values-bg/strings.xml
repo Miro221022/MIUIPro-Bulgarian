@@ -4,7 +4,7 @@
     <string name="error_filename_too_long">Въведеното от вас име е твърде дълго.</string>
     <string name="power_config_select_apps_title">Приложения</string>
     <string name="power_config_event_delete">Изтрий</string>
-    <string name="hide_mode_desc">Икономия на батерията чрез ограничаване на процесите на заден план, Wi-Fi, мобилните данни и GPS за всяко приложение поотделно</string>
+    <string name="hide_mode_desc"><font color="#000000">Когато приложението работи на заден план, неговите дейности ще бъдат наблюдавани, за да се намали употребата на батерията. Тази функция ще получи и използва потребителските данни според %s</font></string>
     <string name="power_hide_mode_title">Батерия и производителност</string>
     <string name="power_config_apps">Икономия на батерия</string>
     <string name="app_list_title">Избор на приложения</string>
@@ -90,4 +90,8 @@
 	<string name="active_classify">Сортиране по състояние на активността</string>
     <string name="appconfig_active_app_dialog_title">Управление на активни приложения</string>
     <string name="config_classify">Сортирайте по настройка на приложението</string>
+	<string name="privacy">Политика за поверителност</string>
+    <string name="about_extreme_mode">Екстремно пестене на батерия</string>
+    <string name="extreme_mode_max_item_alert">Само 4 приложения могат да бъдат избрани, за да се изпълняват на заден план в екстремен режим на пестене на батерията</string>
+    <string name="message_i_know">Знам</string>
 </resources>

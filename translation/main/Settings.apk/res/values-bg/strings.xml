@@ -5759,4 +5759,7 @@ Stable"</string>
     <string name="forget_password_dialog_content_two">Следвайте тези стъпки, за да изтриете данните:</string>
     <string name="forget_password_dialog_title">Нулиране на паролата</string>
 	<string name="enterprise_mode">Корпоративен режим</string>
+	<string name="delete_sound_effect">Звук при \"Изтриване\"</string>
+    <string name="keyguard_security_setting_others">Други</string>
+    <string name="keyguard_security_setting_privacy_policy">Политика за поверителност</string>
 </resources>
