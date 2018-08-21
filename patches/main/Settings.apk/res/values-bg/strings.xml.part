@@ -38,7 +38,7 @@
   <string name="haptic_off">Вибрация при зареждане</string>
   <string name="headset_icon_title">Скриване на иконата за слушалки</string>
   <string name="hide_app">Настройки на преки пътища</string>
-  <string name="hide_app_title">Скриване на приложения</string>
+  <string name="hide_app_title">Списък на системни приложения за скриване</string>
   <string name="icon_mode">Икони в лентата за състояние</string>
   <string name="icon_name_title">Скриване на надписите на иконите</string>
   <string name="icon_off">Не показвай</string>
