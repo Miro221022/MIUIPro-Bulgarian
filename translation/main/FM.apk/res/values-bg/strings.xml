@@ -66,4 +66,5 @@
     <string name="using_recorder_confirm">Разрешаване</string>
     <string name="using_recorder_cancel">Отказване</string>
     <string name="runtime_permission_ungranted">"Не може да се стартира запис поради липсващо разрешение"</string>
+	<string name="menu_privacy">Политика за поверителност</string>
 </resources>

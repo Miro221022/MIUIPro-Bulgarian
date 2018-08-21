@@ -175,7 +175,6 @@
   <string name="toast_cancel_to_insert_image">Не може да се добави изображение.</string>
   <string name="toast_message_add_image_fail">Вмъкването на изображение е неуспешно!</string>
   <string name="toast_notes_delete_success">Изтриването е успешно</string>
-  <string name="toast_notes_hidden">Успешно скриване</string>
   <string name="toast_notes_hidden_count">Скрити %1$s успешно</string>
   <string name="toast_notes_unhidden">Успешно показване</string>
   <string name="toast_notes_unhidden_count">Показани %1$s успешно</string>
@@ -234,4 +233,6 @@
   <string name="date_time_picker_has_set_alarm">Алармата е настроена успешно</string>
   <string name="setting_other">ДРУГИ</string>
   <string name="setting_privacy">Политика за поверителност</string>
+  <string name="toast_notes_hidden_edit">Тази бележка бе скрита успешно. Издърпайте надолу, за да видите скритите бележки.</string>
+  <string name="toast_notes_hidden_home">Тази бележка бе скрита успешно. Издърпайте надолу, за да видите скритите бележки.</string>
 </resources>

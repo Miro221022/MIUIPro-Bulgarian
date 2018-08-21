@@ -1720,4 +1720,5 @@
    <string name="dlg_summary_title">Екстремното пестене на батерията спира цялата дейност на заден план, след като напуснете приложение и се върнете в началния екран.Ако искате да се изпълнява дадено приложение във фонов режим, добавете го към изключения.</string>
    <string name="enable_extreme_power_save_mode">Екстремно пестене на батерия</string>
    <string name="open_extreme_power_save_mode_title">Включване на Екстремно пестене на батерия</string>
+   <string name="quick_settings_extreme_batterysaver_label">Екстремно пестене</string>
 </resources>
