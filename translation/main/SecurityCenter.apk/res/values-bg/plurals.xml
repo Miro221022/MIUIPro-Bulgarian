@@ -355,4 +355,12 @@
         <item quantity="other">%d приложения са скрити</item>
         <item quantity="one">%d приложение е скрито</item>
     </plurals>
+	    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d още символа</item>
+        <item quantity="one">    +%1$d още символ</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d проблема изискват оптимизация</item>
+        <item quantity="one">%1$d проблем изисква оптимизация</item>
+    </plurals>
 </resources>

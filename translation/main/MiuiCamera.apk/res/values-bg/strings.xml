@@ -508,4 +508,6 @@
     <string name="edit_eyebrow_dye">Вежди</string>
     <string name="edit_jelly_lips">Гланц за устни</string>
     <string name="edit_pupil_line">Очна линия</string>
+	<string name="accessibility_intent_done_retry">Повторно</string>
+    <string name="view_privacy_policy">Вижте Политиката за поверителност</string>
 </resources>

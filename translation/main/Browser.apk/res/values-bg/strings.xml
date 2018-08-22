@@ -1298,4 +1298,5 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="suggestion_input_history_title_text">Въведете история</string>
     <string name="suggestion_input_hitory_clear_text">Изчистване</string>
     <string name="url_hint_head">Всеки търси：</string>
+    <string name="pref_privacy_policy">Политика за поверителност</string>
 </resources>
