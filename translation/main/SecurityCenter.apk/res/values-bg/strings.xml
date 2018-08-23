@@ -2396,4 +2396,5 @@
     <string name="first_aid_card_kadun_button3">Изключи</string>
     <string name="first_aid_dialog_title_stop_scan">Спиране на сканирането</string>
     <string name="first_aid_dialog_msg_stop_scan">Спиране на сканирането сега?</string>
+	<string name="see_more_content">Актуализирайте центъра за игри, за да видите повече акценти</string>
 </resources>

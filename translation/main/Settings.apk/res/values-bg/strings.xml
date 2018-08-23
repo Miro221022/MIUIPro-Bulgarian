@@ -5762,4 +5762,11 @@ Stable"</string>
 	<string name="delete_sound_effect">Звук при \"Изтриване\"</string>
     <string name="keyguard_security_setting_others">Други</string>
     <string name="keyguard_security_setting_privacy_policy">Политика за поверителност</string>
+	<string name="sccret_code_error">Въведеният от вас код е неправилен.</string>
+    <string name="stop_upload_audio_log">Завършване на получаването на аудио отчет</string>
+    <string name="stop_upload_gps_log">Завършване на получаването на GPS отчет</string>
+    <string name="stop_upload_modem_log">Завършване на получаването на отчета за модема</string>
+    <string name="upload_audio_log">Стартиране на получаването на аудио отчет</string>
+    <string name="upload_gps_log">Стартиране на получаването на GPS отчет</string>
+    <string name="upload_modem_log">Стартиране на получаването на отчет за модема</string>
 </resources>
