@@ -165,4 +165,26 @@
   <string name="search_bluetooth_enable">Bluetooth</string>
   <string name="toggles_columns_row_title">Брой на редовете</string>
   <string name="toggles_columns_row_summary">Показани: %s</string>
+  <string name="WCDMA_preferred">WCDMA предпочитан</string>
+  <string name="GSM_only">GSM само</string>
+  <string name="WCDMA_only">WCDMA само</string>
+  <string name="GSM_auto">GSM авто (PRL)</string>
+  <string name="CDMA_auto">CDMA авто (PRL)</string>
+  <string name="CDMA_only">CDMA само</string>
+  <string name="EvDo_only">EvDo само</string>
+  <string name="Global_auto">Глобален авто (PRL)</string>
+  <string name="LTE_CDMA_auto">LTE/CDMA авто (PRL)</string>
+  <string name="LTE_UMTS_auto">LTE/UMTS авто (PRL)</string>
+  <string name="LTE_CDMA_UMTS_auto">LTE/CDMA/UMTS авто (PRL)</string>
+  <string name="LTE_only">LTE само</string>
+  <string name="TD_SCDMA_only">TD/SCDMA само</string>
+  <string name="Unknown_set">Неизвестен</string>
+  <string name="Disabled_set">Деактивиран</string>
+  <string name="Immediate_set">Незабавен</string>
+  <string name="Min_5s">Мин 5 сек</string>
+  <string name="Min_10s">Мин 10 сек</string>
+  <string name="Min_60s">Мин 60 сек</string>
+  <string name="allowed_set">разрешен</string>
+  <string name="not_allowed_set">не е разрешен</string>
+  <string name="no_neighboring_cells">няма съседни клетки</string>
 </resources>
