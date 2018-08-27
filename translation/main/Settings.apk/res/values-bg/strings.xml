@@ -5769,4 +5769,10 @@ Stable"</string>
     <string name="upload_audio_log">Стартиране на получаването на аудио отчет</string>
     <string name="upload_gps_log">Стартиране на получаването на GPS отчет</string>
     <string name="upload_modem_log">Стартиране на получаването на отчет за модема</string>
+    <string name="failed_to_erase_text">Моля, изключете паролата на заключен екран, преди да извършите операция 1217.</string>
+    <string name="failed_to_erase_title">Забранена операция</string>
+    <string name="navigation_guide_appswitch_anim_summary">Плъзнете по екрана, като започнете от края, за да се върнете към предишното приложение</string>
+    <string name="navigation_guide_appswitch_anim_title">Превключване към предишно приложение</string>
+    <string name="navigation_guide_appswitch_click">Първо включете \"Връщане към предишно приложение\"</string>
+	<string name="picture_in_picture_app_detail_summary">"Разрешете на това приложение да създава прозорец за картина в картина, докато приложението е отворено или след като го излезете от него (например, да продължите да гледате видеоклип). Този прозорец се показва върху другите приложения, които използвате."</string>
 </resources>

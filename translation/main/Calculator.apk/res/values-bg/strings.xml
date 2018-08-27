@@ -430,4 +430,7 @@
     <string name="voiceDesc">Гласов контрол</string>
     <string name="word_figure_guide_text">Натиснете и задръжте текста, за да конвертирате между валутите.</string>
 	<string name="item_title_relationship">Условия за родство</string>
+	<string name="preference_other">Други</string>
+    <string name="preference_privacy_title">Политика за поверителност</string>
+	<string name="dialog_new_contact_account">Създайте контакти под профил</string>
 </resources>

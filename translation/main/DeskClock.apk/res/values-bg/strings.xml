@@ -226,4 +226,9 @@
   <string name="timer_end_time_format_today">HH:mm</string>
   <string name="timer_can_continue_in_timer">Отваряне на таймера за възобновяване</string>
   <string name="timer_is_paused">Таймерът е на пауза</string>
+  <string name="expired_timers_dismissed">Таймерът е отхвърлен</string>
+  <string name="invalid_timer_length">Невалидна продължителност на таймера</string>
+  <string name="other_category_title">Други</string>
+  <string name="privacy_policy">Политика за поверителност</string>
+  <string name="timer_created">Таймерът е зададен</string>
 </resources>

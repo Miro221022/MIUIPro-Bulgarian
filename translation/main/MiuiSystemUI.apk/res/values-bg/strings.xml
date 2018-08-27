@@ -1721,4 +1721,7 @@
    <string name="enable_extreme_power_save_mode">Екстремно пестене на батерия</string>
    <string name="open_extreme_power_save_mode_title">Включване на Екстремно пестене на батерия</string>
    <string name="quick_settings_extreme_batterysaver_label">Екстремно пестене</string>
+   <string name="keyguard_charging_back_to_lockscreen">Назад към заключен екран</string>
+   <string name="keyguard_left_torch">Фенерче</string>
+   <string name="switch_system_user">Отваряне на Първо пространство</string>
 </resources>

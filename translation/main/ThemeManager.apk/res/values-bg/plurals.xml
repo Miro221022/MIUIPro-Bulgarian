@@ -8,4 +8,8 @@
         <item quantity="other">Налични са актуализации за %1$d теми.</item>
         <item quantity="one">Налична е актуализация за %1$d тема.</item>
     </plurals>
+	<plurals name="resource_comment_score_count">
+        <item quantity="other">%d коментара</item>
+        <item quantity="one">%d коментар</item>
+    </plurals>
 </resources>
