@@ -400,7 +400,7 @@
     <string name="screen_button_tips">Плъзнете надолу, за да скриете екранните бутони</string>
     <string name="screen_button">Екранни бутони</string>
     <string name="unimportant">Маловажно</string>
-    <string name="check_importance">Маркиране като важно?</string>
+    <string name="check_importance">Правила за групирани известия</string>
     <string name="statusbar_permission_desc">Следните разрешения са валидни само за важни известия.</string>
     <string name="navigation_type_settings">Навигиране в системата</string>
     <string name="navigation_type_radio_text_virtual_key">Бутони</string>
@@ -5775,4 +5775,6 @@ Stable"</string>
     <string name="navigation_guide_appswitch_anim_title">Превключване към предишно приложение</string>
     <string name="navigation_guide_appswitch_click">Първо включете \"Връщане към предишно приложение\"</string>
 	<string name="picture_in_picture_app_detail_summary">"Разрешете на това приложение да създава прозорец за картина в картина, докато приложението е отворено или след като го излезете от него (например, да продължите да гледате видеоклип). Този прозорец се показва върху другите приложения, които използвате."</string>
+	<string name="check_importance_dialog_cancel">Отказ</string>
+    <string name="handy_mode_tips_full_screen">"Когато използвате жестове на цял екран, можете да включите режима с една ръка, като използвате Тъч асистент. Можете също така да превключите към използване на бутони, вместо жестове на цял екран."</string>
 </resources>

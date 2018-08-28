@@ -993,4 +993,6 @@
   <string name="app_setting_xiaoai">Xiao AI бутон</string>
   <string name="go_to_pay">Бързо погасяване</string>
   <string name="tb_setting_xiaoai">Xiao AI</string>
+  <string name="express_select_send_providers">Изберете доставчик на куриерска услуга</string>
+  <string name="express_send_not_available">Услугата е временно недостъпна, моля, опитайте отново по-късно</string>
 </resources>
