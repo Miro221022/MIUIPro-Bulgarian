@@ -347,4 +347,5 @@
     <string name="reset_description_others">Можете да възстановите оформлението от %1$s</string>
 	<string name="default_folder_title_services">Услуги</string>
     <string name="open_personal_assistant_dialog_desc_international">"Няма да можете да използвате карти в Личен асистент (бележки, преки пътища и др.) и да получавате актуализации, след като изключите тази функция."</string>
+    <string name="use_theme_screen_cells_title">Позволете на темата да пренебрегне оформлението на екрана</string>
 </resources>
