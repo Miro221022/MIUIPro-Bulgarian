@@ -2292,7 +2292,7 @@
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Плъзнете с разделяне два пръста по екрана. Ще видите съобщение, в което се иска да въведете паролата за Заключване на приложения."</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">След като въведете паролата си, ще се покаже папката със скрити приложения.</string>
     <string name="privacy_apps_manage_dialog_title">Относно Скрити приложения</string>
-    <string name="privacy_apps_manager_dialog_message">Скриването на приложения изисква настройка на парола за Заключване на приложения. Известията за скрити приложения ще бъдат изключени. Скриване на това приложение?</string>
+    <string name="privacy_apps_manager_dialog_message">Иконата на това приложение няма да се показва на началния екран, след като скриете приложението. Ще скриете ли това приложение сега?</string>
     <string name="privacy_apps_checkbox_remind_choice">"Не показвай отново"</string>
     <string name="privacy_apps_go_to_use">Старт</string>
     <string name="privacy_apps_close">Затвори</string>
