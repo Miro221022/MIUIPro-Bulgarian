@@ -990,7 +990,7 @@
   <string name="app_setting_more_setting">Още настройки</string>
   <string name="app_setting_on_off_setting">Настройки на превключване</string>
   <string name="app_setting_search">Лента за търсене</string>
-  <string name="app_setting_xiaoai">Xiao AI бутон</string>
+  <string name="app_setting_xiaoai">Google гласов асистент</string>
   <string name="go_to_pay">Бързо погасяване</string>
   <string name="tb_setting_xiaoai">Xiao AI</string>
   <string name="express_select_send_providers">Изберете доставчик на куриерска услуга</string>
