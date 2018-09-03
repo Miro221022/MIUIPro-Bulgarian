@@ -567,7 +567,7 @@
    <string name="clean_summary">Почистени %1$s файла</string>
    <string name="onekeyclean_boosting_title">Ускоряване на скоростта</string>
    <string name="onekeyclean_boosted_title">Почистено успешно</string>
-   <string name="onekeyclean_boost_cleaned">%s почистени</string>
+   <string name="onekeyclean_boost_cleaned">Почистени %s</string>
    <string name="onekeyclean_boost_available">%s на разположение</string>
    <string name="onekeyclean_card_summery">Почистете непотребните файлове, за да освободите място</string>
    <string name="onekeyclean_card_btn">Почистване сега</string>

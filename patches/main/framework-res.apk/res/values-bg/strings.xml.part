@@ -15,4 +15,5 @@
 	<string name="cat_5">Мобилни данни активирани</string>
 	<string name="cat_6">Wi-Fi е деактивиран</string>
 	<string name="cat_7">Wi-Fi е активиран</string>
+	<string name="not_setup_app">Приложението Гласов асистент не е конфигурирано</string>
 </resources>

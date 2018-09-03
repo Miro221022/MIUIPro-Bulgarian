@@ -145,7 +145,17 @@
         <item quantity="one">Здравейте %1$s! Тук е %1$d актулизацията за вас:</item>
     </plurals>
 	<plurals name="Nnowplaying_songs">
-       <item quantity="other">(%d песни)</item>
+        <item quantity="other">(%d песни)</item>
         <item quantity="one">(%d песен)</item>
 	</plurals>
+	    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Абонаментът ви изтича след %d дни.
+Искате ли да помогнем да го подновите?"</item>
+        <item quantity="one">"Абонаментът ви изтича след %d ден.
+Искате ли да помогнем да го подновите?"</item>
+   </plurals>
+   <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">Можете да изтеглите %1$d безплатни песни. Изтегляне %2$s сега?</item>
+        <item quantity="one">Можете да изтеглите %1$d безплатна песен. Изтегляне %2$s сега?</item>
+   </plurals>
 </resources>

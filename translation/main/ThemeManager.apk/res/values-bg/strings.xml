@@ -568,4 +568,10 @@
     <string name="resource_free_download">Безплатно изтегляне</string>
     <string name="tag_ad">Реклама</string>
     <string name="tips_theme_gate_transfer_fail">"Тази страница не може да се отвори. Изчакайте минута или две и опитайте отново."</string>
+	<string name="exit_extreme_mode_dialog_agree">Съгласен</string>
+    <string name="exit_extreme_mode_dialog_cancel">Отказ</string>
+    <string name="exit_extreme_mode_dialog_title">Изключете Екстремния режим</string>
+    <string name="extreme_mode_dialog_message">"Тази функция не е налице в Екстремен режим. Изключете екстремния режим, за да можете да я използвате."</string>
+    <string name="extreme_mode_dialog_ok">Разбрах</string>
+    <string name="extreme_mode_dialog_title">Предупреждение</string>
 </resources>

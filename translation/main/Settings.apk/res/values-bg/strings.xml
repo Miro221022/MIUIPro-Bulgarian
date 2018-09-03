@@ -849,7 +849,7 @@
     <string name="unlock_set_unlock_pattern_title">Фигура</string>
     <string name="unlock_set_unlock_pattern_summary">Начертайте прост шаблон с пръста си за да отключите устройството</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
-    <string name="unlock_set_unlock_pin_summary">Въведете 4 числа за отключване на устройството</string>
+    <string name="unlock_set_unlock_pin_summary">Въведете 4-16 цифри, за да отключите устройството</string>
     <string name="unlock_set_unlock_password_title">Парола</string>
     <string name="unlock_set_unlock_password_summary">Въведете 4 или повече букви за отключване на устройството</string>
     <string name="unlock_set_do_later_title">Не сега</string>

@@ -363,4 +363,12 @@
         <item quantity="other">%1$d проблема изискват оптимизация</item>
         <item quantity="one">%1$d проблем изисква оптимизация</item>
     </plurals>
+		<plurals name="power_center_menu_text">
+        <item quantity="other">елемента</item>
+        <item quantity="one">елемент</item>
+   </plurals>
+   <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Добави %d минути</item>
+        <item quantity="one">Добави %d минута</item>
+   </plurals>
 </resources>

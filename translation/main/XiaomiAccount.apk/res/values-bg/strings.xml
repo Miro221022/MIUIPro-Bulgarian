@@ -465,4 +465,5 @@
   <string name="passport_new_user_register">Създаване на профил</string>
   <string name="passport_register_using_other_ways">Други начини за вписване</string>
   <string name="passport_wrong_voice">Кодът който въведохте е неправилен</string>
+  <string name="account_invalid_user_avatar">Снимката е невалидна</string>
 </resources>

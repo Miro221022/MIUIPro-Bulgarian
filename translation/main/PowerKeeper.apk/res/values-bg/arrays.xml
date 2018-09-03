@@ -11,6 +11,7 @@
     <string-array name="thermal_summaries">
         <item>Приоритет на температурния контрол</item>
         <item>Приоритет на ефективността</item>
+		<item>Конфигурацията е деактивирана в екстремен режим за пестене</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Производителност</item>
