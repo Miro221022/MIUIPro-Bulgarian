@@ -205,5 +205,9 @@
     <string-array name="folder_toggle_entries"> 
         <item>3 колони</item> 
         <item>4 колони</item> 
-    </string-array> 
+    </string-array>
+	<string-array name="app_assistant_entries"> 
+        <item>Google асистент</item> 
+        <item>Yandex асистент</item> 
+    </string-array>
 </resources>
