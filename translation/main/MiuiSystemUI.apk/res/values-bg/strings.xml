@@ -1724,4 +1724,5 @@
    <string name="keyguard_charging_back_to_lockscreen">Назад към заключен екран</string>
    <string name="keyguard_left_torch">Фенерче</string>
    <string name="switch_system_user">Отваряне на Първо пространство</string>
+   <string name="miui_screen_rotation_freeze_message">Автоматичното завъртане е деактивирано.</string>
 </resources>

@@ -5787,4 +5787,11 @@ Stable"</string>
     <string name="find_my_device">Намери устройството</string>
     <string name="find_my_device_disable">Изкл.</string>
     <string name="find_my_device_enable">Вкл.</string>
+	<string name="status_bar_settings_customer_feedback">обратна връзка</string>
+    <string name="status_bar_settings_function_description">Оносно тази функция</string>
+    <string name="status_bar_settings_user_fold_description1">Папката за известия бе въведена в MIUI 9. Тази функция филтрира маловажни известия и ги поставя в отделна папка.</string>
+    <string name="status_bar_settings_user_fold_description2">MIUI ще запомни кои известия докосвате и след това използвайте няколко критерия, за да определите дали те са важни.</string>
+    <string name="status_bar_settings_user_fold_description3">"Ако известията, които смятате за важни, продължават да се показват в папката за известия, уверете се и съобщете за тези проблеми."</string>
+    <string name="status_bar_settings_user_fold_disable">Изкл.</string>
+    <string name="status_bar_settings_user_fold_enable">Вкл.</string>
 </resources>

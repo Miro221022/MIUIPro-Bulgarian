@@ -98,4 +98,8 @@
   <string name="terms_of_use_lable_gms">, Услуги на Google Play</string>
   <string name="terms_of_use_lable_smart_cards">, Смарт карти</string>
   <string name="terms_of_use_lable_apps">Mi услуги, Mi Услуги за активиране на SIM картата, Mi Облак, Намери устройството, Начален екран, Център за игри, MAB, MIUI Daemon и MSA системни компоненти, Ускуги за превод, Бързи приложения, Личен асистент, статистики, Mi Link</string>
+  <string name="voice_assist_advice">Mi AI ви позволява да използвате гласови контрол, но консумира повече енергия (+1% на всеки час).</string>
+  <string name="voice_assist_condition">"Ще можете да използвате Mi AI в следните случаи:
+1. Когато екранът е включен.
+2. Когато слушате музика с изключен екран."</string>
 </resources>
