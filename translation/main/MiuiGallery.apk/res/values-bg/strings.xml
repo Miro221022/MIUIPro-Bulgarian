@@ -1272,4 +1272,15 @@
     <string name="secret_reason_video_not_support">"Не може да се добави видео към скрит албум"</string>
     <string name="video_editor_video_loading">Подготовка на видеото ... Изчакайте секунда или две и опитайте отново.</string>
 	<string name="photo_editor_crop_auto">Авто</string>
+	<string name="privacy_permission_request_message">Галерия се нуждае от достъп до %3$s. Информацията, която събираме, ще бъде използвана в съответствие с нашите %1$s и %2$s. Разрешаване?</string>
+    <string name="privacy_permission_request_negative">Ограничи</string>
+    <string name="privacy_permission_request_positive">Разреши</string>
+    <string name="privacy_permission_request_title">Необходими разрешения</string>
+    <string name="video_editor_cancel_download">Отказ</string>
+    <string name="video_editor_download">Изтегли</string>
+    <string name="video_editor_download_failed_for_notwork">"Не може да се изтегли. Свържете се с мрежата и опитайте отново."</string>
+    <string name="video_editor_download_without_wifi_msg">"Използването на мобилна връзка за данни за изтегляне на файлове ще увеличи използването на данни. Ако превишите лимита за данните за вашия план, вашият оператор може да ви таксува с допълнително."</string>
+    <string name="video_editor_download_without_wifi_title">Предупреждение за използване на данни</string>
+    <string name="video_editor_return">Назад</string>
+    <string name="video_editor_save">Запази</string>
 </resources>
