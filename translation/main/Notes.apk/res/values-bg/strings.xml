@@ -23,7 +23,7 @@
   <string name="cancel_alarm_description">Отмени будилник</string>
   <string name="cloud_service_state_open_reminder">Включете синхронизирането с Mi Облак за да синхронизирате бележките.</string>
   <string name="cloud_trash_bin_title">Изтриване на бележки от Mi Облак</string>
-  <string name="cta_reminder">Това приложение се нуждае от достъп до интернет, за да архивира бележките Ви в Mi Облак, както и имената на контактите Ви като заглавие на бележка по време на обаждания.</string>
+  <string name="cta_reminder">Бележки се нуждае от разрешения за свързване с интернет, записване на звук и достъп до вашите контакти, за да работят нормално. Разрешаване?</string>
   <string name="db_downgrade_clear_button">Изчистване на данните</string>
   <string name="db_downgrade_clear_date_reminder">Преминаването към друга версия на MIUI налага изчистването на информацията от приложението Бележки. Преди да направите това, уверете се, че сте архивирали вашите бележки в Mi Облак.</string>
   <string name="default_folder_name">Бележки</string>

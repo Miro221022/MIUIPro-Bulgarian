@@ -3353,7 +3353,7 @@
     <string name="data_saver_off">Изключено</string>
     <string name="unrestricted_app_title">Неограничен пренос на данни</string>
     <string name="unrestricted_app_summary">Пълен достъп до данните при вкл. Икономия на данни</string>
-    <string name="home_app">Приложение за начален екран</string>
+    <string name="home_app">Стартер</string>
     <string name="no_default_home">Няма стандартно приложение за начален екран</string>
     <string name="lockpattern_settings_require_cred_before_startup">Надеждно стартиране</string>
     <string name="lockpattern_settings_require_pattern_before_startup_summary">Изискване на фигура при стартиране на устройството Ви. Докато то е изключено, няма да получавате обаждания, съобщения и известия, нито ще чувате будилници.</string>

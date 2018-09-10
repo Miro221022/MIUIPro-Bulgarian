@@ -73,4 +73,8 @@
         <item>guide_second_00</item>
         <item></item>
      </string-array>
+	 <string-array name="second_guide_contents_pad_or_inter">
+        <item>Гласови бележки</item>
+        <item>Вече можете да създавате гласови бележки. Просто докоснете иконата, запишете гласа си и запазете аудиофайла в бележката.</item>
+    </string-array>
 </resources>
