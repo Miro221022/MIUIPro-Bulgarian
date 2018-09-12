@@ -421,4 +421,6 @@
   <string name="install">Инсталирай</string>
   <string name="install_error">"Неуспешно инсталиране. Опитайте отново."</string>
   <string name="ent_install_dialog_content">Инсталирайте приложенията и рестартирайте устройството си сега?</string>
+  <string name="confirm_close_password_desc">"Няма да можете да влезете в Второ пространство от заключен екран, след като изключите паролата. Изключване въпреки това?"</string>
+  <string name="confirm_close_password_title">Изключване на паролата</string>
 </resources>

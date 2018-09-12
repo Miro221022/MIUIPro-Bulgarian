@@ -601,4 +601,11 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
    <string name="trans_cancel_selection_title">Остани в Mi Mover</string>
    <string name="trans_select_notification_message">Докоснете за преглед</string>
    <string name="trans_select_notification_title">Mi Mover работи…</string>
+   <string name="trans_cancel_dialog_survey_title">Защо прекъснахте прехвърлянето??</string>
+   <string name="trans_dialog_survey_finish">Изпрати</string>
+   <string name="trans_success_dialog_button_market_comment">Коментар</string>
+   <string name="trans_success_dialog_button_survey">Анкета</string>
+   <string name="trans_success_dialog_market_comment_and_survey_title">"Готови сте да разбивате! Кажете ни какво мислите за Mi Mover."</string>
+   <string name="trans_success_dialog_survey_title">Ние оценяваме вашите отзиви</string>
+   <string name="trans_success_survey_hint">Първо попълнете всички полета.</string>
 </resources>

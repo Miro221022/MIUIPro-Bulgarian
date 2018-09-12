@@ -366,9 +366,13 @@
 		<plurals name="power_center_menu_text">
         <item quantity="other">елемента</item>
         <item quantity="one">елемент</item>
-   </plurals>
-   <plurals name="power_center_list_item_optimize_button">
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Добави %d минути</item>
         <item quantity="one">Добави %d минута</item>
    </plurals>
+   <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d приложенията може би се показват неправилно. Ограничете плаващите известия.</item>
+        <item quantity="one">%d приложението може би се показва неправилно. Ограничете плаващите известия.</item>
+  </plurals> 
 </resources>

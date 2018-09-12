@@ -5769,8 +5769,8 @@ Stable"</string>
     <string name="upload_audio_log">Стартиране на получаването на аудио отчет</string>
     <string name="upload_gps_log">Стартиране на получаването на GPS отчет</string>
     <string name="upload_modem_log">Стартиране на получаването на отчет за модема</string>
-    <string name="failed_to_erase_text">Моля, изключете паролата на заключен екран, преди да извършите операция 1217.</string>
-    <string name="failed_to_erase_title">Забранена операция</string>
+    <string name="failed_to_erase_text">Изключете паролата за заключване преди да въведете кода \ "1217 \".</string>
+    <string name="failed_to_erase_title">"Не може да се завърши това действие"</string>
     <string name="navigation_guide_appswitch_anim_summary">Плъзнете по екрана, като започнете от края, за да се върнете към предишното приложение</string>
     <string name="navigation_guide_appswitch_anim_title">Връщане към предишното приложение</string>
     <string name="navigation_guide_appswitch_click">Първо включете \"Връщане към предишно приложение\"</string>
@@ -5798,4 +5798,7 @@ Stable"</string>
     <string name="aod_got_it">Разбрах</string>
     <string name="aod_to_close">Изключи</string>
 	<string name="account_invalid_user_avatar">Тази снимка е невалидна. Пробвайте с друга.</string>
+	<string name="bootloader_device_bind_no_data_network">Изключете WLAN и добавете профила и устройството си, като използвате мобилни данни.</string>
+    <string name="bootloader_device_bind_server_token_expired_1">"Не може да се потвърди. Опитайте да добавите отново профила и устройството си."</string>
+    <string name="bootloader_device_bind_server_token_expired_2">"Не може да се потвърди. Влезте отново в профила си и започнете отначало."</string>
 </resources>

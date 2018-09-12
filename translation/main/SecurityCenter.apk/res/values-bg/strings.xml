@@ -2385,7 +2385,7 @@
     <string name="first_aid_card_unable_install_button">Освобождаване на място</string>
     <string name="first_aid_result_summary_normal">Всичко изглежда добре!</string>
     <string name="first_aid_result_feedback_title">Обратна връзка</string>
-    <string name="first_aid_result_feedback_summary">"Не мога да разреша проблеми в моето устройство."</string>
+    <string name="first_aid_result_feedback_summary">"Сканирането за първа помощ не можа да намери никакви проблеми. Но въпреки това,аз забелязах някои."</string>
     <string name="first_aid_result_feedback_button">Изпращане</string>
     <string name="first_aid_card_kadun_title">Устройството се забавя</string>
     <string name="first_aid_card_kadun_summary1">Освободете място за съхранение, за да може устройството ви да работи нормално.</string>
@@ -2432,4 +2432,5 @@
     <string name="device_manager_apply_step_2">"Активирането като администратор на устройството за това приложение може да доведе до показване на вашите лични данни.
 Всички данни на устройството ви може да бъдат изтрити и паролата за заключване на екрана може да бъде нулирана."</string>
     <string name="device_manager_apply_step_3">Уверете се, че разбирате всички възможни рискове, преди да продължите. Активиране като администратор на устройството на това приложение сега?</string>
+	<string name="first_aid_result_summary_not_finished">"Сканирането не е завършило. Някои рискове може да не са открити."</string>
 </resources>
