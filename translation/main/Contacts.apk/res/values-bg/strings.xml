@@ -1204,4 +1204,5 @@
   <string name="toast_call_no_notes">Приложението "Бележки" не е налице</string>
   <string name="preference_privacy_policy_title">Политика за поверителност</string>
   <string name="rcs_app_name">Мини приложение</string>
+  <string name="conference_call_disable_tip">"Не може да се правят повиквания. Уверете се, че устройството ви е свързано към 4G мрежа с VoLTE поддръжка."</string>
 </resources>

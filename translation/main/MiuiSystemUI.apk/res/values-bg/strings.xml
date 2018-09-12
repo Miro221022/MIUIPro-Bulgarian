@@ -591,7 +591,7 @@
   <string name="face_unlock_offset_top">Вдигнете телефона си още малко</string>
   <string name="face_unlock_open_eye">Отворете още малко очите си</string>
   <string name="face_unlock_passwork">Използвай парола</string>
-  <string name="face_unlock_passwork_and_fingerprint">Използване на парола или отключване с лице</string>
+  <string name="face_unlock_passwork_and_fingerprint">Използвайте парола или пръстов отпечатък</string>
   <string name="face_unlock_quality">Лицето ви не се вижда ясно</string>
   <string name="face_unlock_reenter_content">Алгоритъмът за отключване с лице се актуализира. Докоснете, за да запишете отново данните за лицето.</string>
   <string name="face_unlock_reenter_title">Запишете отново данните за лицето си.</string>
@@ -1705,7 +1705,7 @@
    <string name="accessibility_quick_settings_alarm_on">Алармата е настроена.</string>
    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Заряд на bluetooth устройството %d процента.</string>
    <string name="keyguard_left_mi_wallet">Mi портвейл</string>
-   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Не можете да превключвате между пространствата, когато Семейна охрана е включено"</string>
+   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Не можете да превключвате между пространствата, когато е включен родителски контрол"</string>
    <string name="accessibility_fingerprint_dialog_app_icon">Икона на приложението</string>
    <string name="accessibility_fingerprint_dialog_fingerprint_icon">Икона на пръстовия отпечатък</string>
    <string name="accessibility_fingerprint_dialog_help_area">Област за помощни съобщения</string>

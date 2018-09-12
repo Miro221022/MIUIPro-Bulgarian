@@ -564,7 +564,7 @@
    <string name="whatsapp_delete_confirm_cancel">Отказ</string>
    <string name="whatsapp_delete_confirm_message">Изтриване сега?</string>
    <string name="whatsapp_delete_confirm_ok">OK</string>
-   <string name="clean_summary">Почистени %1$s файла</string>
+   <string name="clean_summary">Почистени %1$s</string>
    <string name="onekeyclean_boosting_title">Ускоряване на скоростта</string>
    <string name="onekeyclean_boosted_title">Почистено успешно</string>
    <string name="onekeyclean_boost_cleaned">Почистени %s</string>
@@ -577,4 +577,5 @@
    <string name="pref_about_privacy_title">Политика за поверителност</string>
    <string name="toast_updater_close_4g_text">"Приложенията няма да се актуализират чрез мобилни данни (4G)"</string>
    <string name="toast_updater_open_4g_text">Приложенията ще се актуализират чрез мобилни данни (4G)</string>
+   <string name="cd_scanning">сканиране</string>
 </resources>

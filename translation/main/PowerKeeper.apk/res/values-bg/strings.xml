@@ -91,7 +91,7 @@
     <string name="appconfig_active_app_dialog_title">Управление на активни приложения</string>
     <string name="config_classify">Сортирайте по настройка на приложението</string>
 	<string name="privacy">Политика за поверителност</string>
-    <string name="about_extreme_mode">Екстремно пестене на батерия</string>
-    <string name="extreme_mode_max_item_alert">Само 4 приложения могат да бъдат избрани, за да се изпълняват на заден план в екстремен режим на пестене на батерията</string>
+    <string name="about_extreme_mode">Екстремен режим</string>
+    <string name="extreme_mode_max_item_alert">Можете да изберете до 4 приложения, които да работят на заден план в Екстремен режим</string>
     <string name="message_i_know">Знам</string>
 </resources>

@@ -2416,7 +2416,7 @@
     <string name="power_center_list_item_set_lockscreen_time">Задйте заспиване на екрана при 30 секунди бездействие</string>
     <string name="power_center_scan_item_title_GPS">Настройте точност на GPS</string>
     <string name="power_center_scan_item_title_abnormal">Проблеми с батерията</string>
-    <string name="power_center_scan_item_title_abnormal_apps">Неправилно подаване на енергия</string>
+    <string name="power_center_scan_item_title_abnormal_apps">Приложения, които изтощават батерията</string>
     <string name="power_center_scan_item_title_auto_invoke">Стартиране на веригата</string>
     <string name="power_center_scan_item_title_auto_start">Автостарт</string>
     <string name="power_center_scan_item_title_battery_details">Данни за използването на батерията</string>
@@ -2428,4 +2428,8 @@
     <string name="power_center_scan_result_safe">Няма намерени проблеми с батерията</string>
     <string name="power_center_stop_scan_title">Спиране на сканирането</string>
     <string name="power_save_started_summary_text">"Пестенето на батерия е включено. Това намалява активността на приложенията на заден план, спира синхронизирането и намалява системните анимации."</string>
+	<string name="device_manager_apply_step_1">Задаване като администратор на устройството това приложение?</string>
+    <string name="device_manager_apply_step_2">"Активирането като администратор на устройството за това приложение може да доведе до показване на вашите лични данни.
+Всички данни на устройството ви може да бъдат изтрити и паролата за заключване на екрана може да бъде нулирана."</string>
+    <string name="device_manager_apply_step_3">Уверете се, че разбирате всички възможни рискове, преди да продължите. Активиране като администратор на устройството на това приложение сега?</string>
 </resources>
