@@ -43,4 +43,89 @@
         <item>Дядо по майчина линия</item>
         <item>Баба по майчина линия</item>
     </string-array>
+	  <string-array name="card_last_week_day">
+     <item>Миналия понеделник</item>
+     <item>Миналия вторник</item>
+     <item>Миналата сряда</item>
+     <item>Миналия четвъртък</item>
+     <item>Миналия петък</item>
+  </string-array>
+  <string-array name="chinese_holiday_last_year">
+     <item>"Миналата китайска новогодишна нощ"</item>
+     <item>Миналата китайска Нова Година</item>
+     <item>Миналия фестивал на фенерчето</item>
+     <item>Миналия фестивал на драконовите лодки</item>
+     <item>Миналия фестивал на Qixi</item>
+     <item>Миналия фестивал в средата на есента</item>
+  </string-array>
+  <string-array name="chinese_holiday_past_year">
+     <item>"Китайската Нова година през годините"</item>
+     <item>Китайска Нова година през годините</item>
+     <item>Фестивалът на Фенерчето през годините</item>
+     <item>Фестивалът на Драконова лодка през годините</item>
+     <item>Qixi фестивалът през годините</item>
+     <item>Фестивалът в средата на есента през годините</item>
+  </string-array>
+  <string-array name="holiday_last_year">
+     <item>"Последната Нова година"</item>
+     <item>"Последният Свети Валентин"</item>
+     <item>Последният ден на труда</item>
+     <item>"Последният ден на детето"</item>
+     <item>Последният национален празник</item>
+     <item>Последната Коледа</item>
+  </string-array>
+  <string-array name="holiday_past_year">
+     <item>"Нова година през годините"</item>
+     <item>"Денят на Свети Валентин през годините"</item>
+     <item>Денят на труда през годините</item>
+     <item>"Денят на детето през годините"</item>
+     <item>Националните празници през годините</item>
+     <item>Коледа през годините</item>
+  </string-array>
+  <string-array name="month_last_year">
+     <item>Миналия Януари</item>
+     <item>Миналия Февруари</item>
+     <item>Миналия Март</item>
+     <item>Миналия Април</item>
+     <item>Миналия Май</item>
+     <item>Миналия Юни</item>
+     <item>Миналия Юли</item>
+     <item>Миналия Август</item>
+     <item>Миналия Септември</item>
+     <item>Миналия Октомври</item>
+     <item>Миналия Ноември</item>
+     <item>Миналия Декември</item>
+  </string-array>
+  <string-array name="month_past_year">
+     <item>Януарски спомени</item>
+     <item>Февруарски спомени</item>
+     <item>Мартенски спомени</item>
+     <item>Априлски спомени</item>
+     <item>Майски спомени</item>
+     <item>Юнски спомени</item>
+     <item>Юлски спомени</item>
+     <item>Августовски спомени</item>
+     <item>Септемврийски спомени</item>
+     <item>Октомврийски спомени</item>
+     <item>Ноемврийски спомени</item>
+     <item>Декемврийски спомени</item>
+  </string-array>
+  <string-array name="season_last_year">
+     <item>Миналата пролет</item>
+     <item>Миналото лято</item>
+     <item>Миналата есен</item>
+     <item>Миналата зима</item>
+  </string-array>
+  <string-array name="season_past_year">
+     <item>Пролетни спомени</item>
+     <item>Летни спомени</item>
+     <item>Есенни спомени</item>
+     <item>Зимни спомени</item>
+  </string-array>
+  <string-array name="season_recap">
+     <item>Пролетно обобщение</item>
+     <item>Лятно обобщение</item>
+     <item>Есенно обобщение</item>
+     <item>Зимно обобщение</item>
+  </string-array>
 </resources>

@@ -64,4 +64,8 @@
         <item quantity="other">%d получатели</item>
         <item quantity="one">%d получател</item>
     </plurals>
+	  <plurals name="mark_number_dialog_subtitle">
+     <item quantity="other">Маркирано като %2$s от %1$d потребители</item>
+     <item quantity="one">Маркирано като %2$s от %1$d потребител</item>
+  </plurals>
 </resources>

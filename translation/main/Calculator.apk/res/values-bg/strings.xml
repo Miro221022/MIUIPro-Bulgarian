@@ -433,4 +433,6 @@
 	<string name="preference_other">Други</string>
     <string name="preference_privacy_title">Политика за поверителност</string>
 	<string name="dialog_new_contact_account">Създайте контакти под профил</string>
+	<string name="tax_thershold_native_new">%s (нов)</string>
+    <string name="tax_thershold_native_new_description">Данъците ще се изчисляват съгласно новия данъчен закон, започващ от 1 октомври 2018 г.</string>
 </resources>

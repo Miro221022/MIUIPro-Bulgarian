@@ -702,7 +702,7 @@
   <string name="over_due">Просрочени задължения</string>
   <string name="overlays_fail_tip">Много съжаляваме, че пощенската ви кутия не е конфигурирана успешно, отворете променливите разрешения на Windows и опитайте отново</string>
   <string name="overlays_ok">Отворете разрешенията</string>
-  <string name="overlays_tip">Отворете плаващите разрешения на Windows и веднага се насладете на 139 Mailbox, за да конфигурирате автоматично екстремното преживяване.</string>
+  <string name="overlays_tip">Настройки - Приложение - Подробности за приложението - отворете плаващи прозорци за разрешения в мениджъра на разрешенията и веднага се насладете на 139 mailbox за автоматично конфигуриране на екстремното преживяване.</string>
   <string name="overlays_title">Отворете плаващи разрешения за Windows</string>
   <string name="parase_setup_data">Получаване на данните…</string>
   <string name="parse_bill_discribe">Завеждане на сметки с кредитна карта…</string>
@@ -1079,4 +1079,10 @@
   <string name="version_string">Версия: %s</string>
   <string name="wps_title">WPS Поща</string>
   <string name="privacy_policy">Политика за поверителност</string>
+  <string name="chinese">Китайски</string>
+  <string name="notify_channel_new_mail">известяване за нови съобщения</string>
+  <string name="notify_channel_permission_notice">Бележка за известието за разрешение</string>
+  <string name="notify_channel_send_fail">Известяване за неуспешната доставка</string>
+  <string name="show_more_attachment">Още прикачени файлове</string>
+  <string name="overlays_tip_23">Отворете плаващи прозорци за разрешения в мениджъра на разрешенията и веднага се насладете на 139 mailbox за автоматично конфигуриране на екстремното преживяване.</string>
 </resources>

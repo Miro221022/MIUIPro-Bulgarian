@@ -120,10 +120,10 @@
   <string name="count_down">Намалели: %1$s</string>
   <string name="create_shortcut_success">Прекия път е добавен успешно</string>
   <string name="daily_clockin">Регистрация</string>
-  <string name="data_consumption_cancel">Изход</string>
+  <string name="data_consumption_cancel">"Не се съгласявай"</string>
   <string name="data_consumption_checkbox_hint">Не показвай отново</string>
   <string name="data_consumption_confirm">ОК</string>
-  <string name="data_consumption_message">Приложението се нуждае от връзка към интернет чрез Wi-Fi, за да работи нормално.</string>
+  <string name="data_consumption_message">"Файловият мениджър трябва да се свърже с мрежата, когато го използвате. Съгласни ли сте?"</string>
   <string name="data_consumption_message1">Приложението Файлове се нуждае от достъп до интернет за да направи популярните видеоклипове и стикери достъпни.</string>
   <string name="data_consumption_title">Свързване към интернет</string>
   <string name="decompress_cancel">Отказ</string>

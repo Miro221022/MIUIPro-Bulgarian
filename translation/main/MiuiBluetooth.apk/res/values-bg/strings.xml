@@ -51,20 +51,21 @@
     <string name="fast_connect_device_connect_cancel">Отказ</string>
     <string name="fast_connect_device_connect_ok">Свържи</string>
     <string name="fast_connect_device_connect_retry">Повторен опит</string>
-    <string name="fast_connect_device_connect_setup">Настройка</string>
-    <string name="fast_connect_device_connect_success">Успешно</string>
-    <string name="fast_connect_device_headset_l">L E</string>
+    <string name="fast_connect_device_connect_setup">Настройки</string>
+    <string name="fast_connect_device_connect_success">Готово</string>
+    <string name="fast_connect_device_headset_l">Ляво</string>
     <string name="fast_connect_device_headset_l_not_connect">L не е свързан</string>
     <string name="fast_connect_device_headset_l_use_time">L %1$s часа</string>
     <string name="fast_connect_device_headset_name">%1$s слушалки</string>
-    <string name="fast_connect_device_headset_r">R E</string>
+    <string name="fast_connect_device_headset_r">Дясно</string>
     <string name="fast_connect_device_headset_r_not_connect">R не е свързан</string>
     <string name="fast_connect_device_headset_r_use_time">R %1$s часа</string>
-    <string name="fast_connect_device_title_connect_fail">Неуспешно свързване на слушалките</string>
+    <string name="fast_connect_device_title_connect_fail">"Не може да се свърже с %1$s"</string>
     <string name="fast_connect_device_title_connecting">Свързване...</string>
     <string name="fast_connect_device_title_find_headset">Намиране на слушалките %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Намиране на слушалките %1$s други</string>
     <string name="notify_fast_connect_device_group">Автоматично свързване на слушалките</string>
     <string name="notify_fast_connect_device_text">Отключете екрана, след това опитайте да се свържете</string>
     <string name="notify_fast_connect_device_title">Намиране на слушалките %1$s</string>
+	<string name="fast_connect_device_headset_reset">Натиснете и задръжте бутона на кутията</string>
 </resources>

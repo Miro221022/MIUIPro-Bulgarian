@@ -5801,4 +5801,6 @@ Stable"</string>
 	<string name="bootloader_device_bind_no_data_network">Изключете WLAN и добавете профила и устройството си, като използвате мобилни данни.</string>
     <string name="bootloader_device_bind_server_token_expired_1">"Не може да се потвърди. Опитайте да добавите отново профила и устройството си."</string>
     <string name="bootloader_device_bind_server_token_expired_2">"Не може да се потвърди. Влезте отново в профила си и започнете отначало."</string>
+	<string name="accessibility_summary_source">Предоставено от %s</string>
+    <string name="credentials_title_verification">Потвърждение</string>
 </resources>

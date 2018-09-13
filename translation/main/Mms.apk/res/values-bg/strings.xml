@@ -46,9 +46,9 @@
   <string name="bcc_label">Скрито копие:</string>
   <string name="block_messaging_entry_title">Блокиран SMS</string>
   <string name="block_support_text">Поддържа се от Antiy.</string>
-  <string name="bookmark">Любими</string>
-  <string name="bookmark_confirm_delete_message">Избраните съобщения ще бъдат премахнати от любими</string>
-  <string name="bookmark_empty">Няма любими</string>
+  <string name="bookmark">Добавено към любими</string>
+  <string name="bookmark_confirm_delete_message">Премахване на избраните съобщения от любими?</string>
+  <string name="bookmark_empty">Няма съобщения в любими</string>
   <string name="bookmark_list_title">Любими</string>
   <string name="call_sender">Изпращащ обаждане</string>
   <string name="cannot_add_picture_and_video">Не можете да добавите снимка и видео едновременно.</string>
@@ -114,7 +114,7 @@
   <string name="copy_to_sdcard_fail">Файлът не е записан</string>
   <string name="copy_to_sdcard_success">Файлът е записан като %s</string>
   <string name="delete">Изтрий</string>
-  <string name="delete_bookmark">Премахни от любими</string>
+  <string name="delete_bookmark">Премахване от любими</string>
   <string name="delete_message">Изтрий</string>
   <string name="delete_phrase">Изтрий шаблон</string>
   <string name="delete_unlocked">Изтрий заключени съобщения</string>
@@ -171,7 +171,7 @@
   <string name="fake_cell_detection_entry">Засечена е фалшива базова станция</string>
   <string name="fake_cell_safe_hint">Това съобщение е безопасно</string>
   <string name="fake_cell_timeout_hint">Неуспешна проверка на сигурността</string>
-  <string name="favorite_at_time">Обозначени със звезда на %1s</string>
+  <string name="favorite_at_time">Добавен към любими на: %1s</string>
   <string name="fdn_check_failure">Можете да изпращате съобщения само до Вашите разрешени номера.</string>
   <string name="festival_sms_loading">Зареждане...</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -450,7 +450,7 @@
   <string name="private_message">Частни съобщения</string>
   <string name="private_new_notification">Известие</string>
   <string name="private_protect">Защита на частни съобщения</string>
-  <string name="private_settings">Настройки на частни съобщения</string>
+  <string name="private_settings">Настройки</string>
   <string name="processing">Обработка...</string>
   <string name="prvate_contact">Частни контакти</string>
   <string name="quick_reply">Отговори</string>
@@ -688,13 +688,13 @@
   <string name="can_not_send_by_rcs">"Не може да се използва China Mobile съобщения"</string>
   <string name="converting_vcard_failed">"Контактът не може да бъде конвертиран"</string>
   <string name="delivery_toast_body_more">Приети съобщения от %1$s и %2$d други хора</string>
-  <string name="dialog_message_mx">Mi Съобщения ви позволява да изпращате съобщение до други MIUI устройства без допълнителни такси. Изисква се изпращане на съобщение за, да се активира Mi Съобщения. Вашият оператор ще ви таксува за това съобщение. Трябва да се съгласите с нашите \"%1$s\" и \"%2$s\" преди да използвате Mi Съобщения.</string>
+  <string name="dialog_message_mx">Mi Съобщения ви позволява да изпращате съобщение до други MIUI потребители без допълнителни такси. Изисква се изпращане на съобщение, за да се активира Mi Съобщения. Вашият оператор ще ви таксува за това съобщение. Трябва да се съгласите с нашите \"%1$s\" и \"%2$s\" преди да използвате Mi Съобщения.</string>
   <string name="dialog_message_mx_rcs">Mi Съобщения ви позволява да изпращате съобщение до други MIUI устройства и абонати на China Mobile без допълнителни такси. Изисква се изпращане на съобщение, за да се активира Mi Съобщения. Вашият оператор ще ви таксува за това съобщение. Трябва да се съгласите с нашите \"%1$s\" и \"%2$s\" преди да използвате Mi Съобщения. Съгласни ли сте?</string>
-  <string name="dialog_message_networking">Съобщения трябва да се свържете с интернет и да осъществи достъп до местоположението ви, за да осигури Интелигентни съобщения, разпознаване на ID на изпращача и други услуги. Трябва да се съгласите с нашите \"%1$s\" и \"%2$s\" преди да използвате тези услуги. Разрешаване?</string>
+  <string name="dialog_message_networking">Съобщения трябва да използва Жълти страници, за да може да предостави разпознаване на идентификацията на изпращача. Съобщения и Жълти страници трябва да се свържат с интернет и да имат достъп до вашето местоположение, за да работят нормално. Разрешаване?</string>
   <string name="dialog_message_networking_mx">Mi Съобщения ви позволява да изпращате съобщение до други MIUI устройства без допълнителни такси. Изисква се изпращане на съобщение за активиране на Mi Съобщения. Вашият оператор ще ви таксува за това съобщение. Трябва да се съгласите с нашите \"%1$s\" и \"%2$s\" преди да използвате Mi Съобщения. Съобщения трябва да се свържете с интернет и да осъществи достъп до местоположението ви, за да осигури Интелигентни съобщения, разпознаване на изпращача и други услуги. Разрешаване?</string>
   <string name="dialog_message_networking_mx_rcs">Mi Съобщения ви позволява да изпращате съобщение до други MIUI устройства и абонати на China Mobile без допълнителни такси. Изисква се изпращане на съобщение за активиране на Mi Съобщения. Вашият оператор ще ви таксува за това съобщение. Трябва да се съгласите с нашите \"%1$s\" и \"%2$s\" преди да използвате Mi Съобщения. Съобщения трябва да се свържете с интернет и да осъществи достъп до местоположението ви, за да го осигури Интелигентни съобщения, разпознаване на изпращача и други услуги. Разрешаване?</string>
   <string name="dialog_message_networking_rcs">China Mobile Messaging ви позволява да изпращате съобщения до други China Mobile абонати без допълнителни такси. Трябва да се съгласите с нашите \"%1$s\" и \"%2$s\" преди да използвате China Mobile Messaging. Съобщения трябва да се свърже с интернет и да осъществи достъп до местоположението ви, за да го осигури Интелигентни съобщения, разпознаване на изпращача и други услуги. Разрешаване?</string>
-  <string name="dialog_message_rcs">China Mobile Messaging ви разрешава да изпращате съобщения до други China Mobile абонати без допълнителни такси. Трябва да се съгласите с нашите \"%1$s\" и \"%2$s\" преди да използвате China Mobile Messaging. Съгласни ли сте?</string>
+  <string name="dialog_message_rcs">China Mobile Messaging ви позволява да изпращате съобщения до други потребители на China Mobile в континентален Китай, без да плащате допълнителни такси. Трябва да се съгласите с \"%1$s\" преди да използвате China Mobile Messaging.</string>
   <string name="dialog_title_mx_rcs">Mi Съобщения</string>
   <string name="dialog_title_networking">Правила и условия</string>
   <string name="exceed_length_limit">Превишаване на ограничението за максимална дължина</string>
@@ -769,4 +769,7 @@
   <string name="send_rms_editor_hints">China Mobile Messaging</string>
   <string name="send_rms_editor_hints_omit">Mi Съобщения</string>
   <string name="user_agreement">Потребителско споразумение</string>
+  <string name="mark_number_by_own_dialog_subtitle">Маркирано като %1$s</string>
+  <string name="rcs_dspt_unavailable">"Тази функция не може да се използва в момента. China Mobile SIM картата не е вашата стандартна карта за данни."</string>
+  <string name="rcs_service_agreement">Споразумение за обслужване</string>
 </resources>
