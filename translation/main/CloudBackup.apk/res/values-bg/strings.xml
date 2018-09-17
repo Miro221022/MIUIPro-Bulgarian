@@ -172,4 +172,7 @@
     <string name="msg_alert_restore_error">"Не може да се възстановят елементи от Mi Облак. Опитайте отново."</string>
     <string name="title_alert_cancel_restore">Спиране на възстановяването</string>
     <string name="title_alert_restore_error">Не може да се възстанови</string>
+	<string name="error_retry_later">Неуспешно, опитайте по-късно.</string>
+    <string name="home_hint_other_launcher">Друг Начален екран</string>
+   <string name="unsupported_home">Моля, актуализирайте до най-новата ОС.</string>
 </resources>

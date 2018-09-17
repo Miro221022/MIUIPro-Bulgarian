@@ -186,4 +186,6 @@
 	<string name="miui_warning_button_ok">OK</string>
     <string name="miui_warning_button_cancel">Отказ</string>
     <string name="miui_warning_tip_info">Възникна грешка в %1$s. Затваряне на приложението сега?</string>
+	<string name="talk_back_water_mark_string1">TalkBack е включен</string>
+    <string name="talk_back_water_mark_string2">Натиснете и задръжте \"Volume+\" и \"Volume-\" за 3 секунди за изключване</string>
 </resources>

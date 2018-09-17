@@ -2433,4 +2433,6 @@
 Всички данни на устройството ви може да бъдат изтрити и паролата за заключване на екрана може да бъде нулирана."</string>
     <string name="device_manager_apply_step_3">Уверете се, че разбирате всички възможни рискове, преди да продължите. Активиране като администратор на устройството на това приложение сега?</string>
 	<string name="first_aid_result_summary_not_finished">"Сканирането не е завършило. Някои рискове може да не са открити."</string>
+    <string name="card_main_deepclean_whatsapp_title">WhatsApp почистване</string>
+    <string name="card_main_hwtest_title">Тест на хардуера</string>
 </resources>
