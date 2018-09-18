@@ -94,4 +94,6 @@
     <string name="about_extreme_mode">Екстремен режим</string>
     <string name="extreme_mode_max_item_alert">Можете да изберете до 4 приложения, които да работят на заден план в Екстремен режим</string>
     <string name="message_i_know">Знам</string>
+    <string name="high_temp_state">Висока температура</string>
+    <string name="high_temp_state_message">Защитата срещу висока температура,данни,преносима точка за достъп,gps,камера и т.н. ще бъдат ограничени</string>
 </resources>

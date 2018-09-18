@@ -2259,8 +2259,8 @@
     <string name="gb_first_window_antimsg_summary_quick_answer">Използване  на бързи отговори</string>
     <string name="gb_first_window_antimsg_summary_transparent_show">Вижте текста на прозрачен фон</string>
     <string name="gb_first_window_antimsg_title">Удобни известия</string>
-    <string name="gb_first_window_gamebox_summary_four">Използвайте бързи отговори, правете екранни записи и екранни снимки</string>
-    <string name="gb_first_window_gamebox_summary_six">Изчистете кеша, направете екранни записи и екранни снимки</string>
+    <string name="gb_first_window_gamebox_summary_four">Изчистете кеша, направете екранни записи и екранни снимки</string>
+    <string name="gb_first_window_gamebox_summary_six">Използвайте бързи отговори, направете екранни записи и екранни снимки</string>
     <string name="gb_first_window_handsfree_summary">Включване на високоговорителя автоматично</string>
     <string name="gb_first_window_handsfree_title">Hands-free разговори</string>
     <string name="gb_first_window_start">Започнете да играете</string>
