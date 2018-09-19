@@ -995,4 +995,5 @@
   <string name="tb_setting_xiaoai">Xiao AI</string>
   <string name="express_select_send_providers">Изберете доставчик на куриерска услуга</string>
   <string name="express_send_not_available">Услугата е временно недостъпна, моля, опитайте отново по-късно</string>
+  <string name="miot_device_click_show_detail">Кликнете, за да научите за Умен дом</string>
 </resources>

@@ -1302,4 +1302,13 @@ Browser needs to connect to the internet to work normally. You must agree to our
 	<string name="data_traffic_download_cancel">Отказ</string>
     <string name="data_traffic_download_prompt">Текущото видео може да бъде изтеглено само чрез wifi</string>
     <string name="data_traffic_download_setting">Настройки</string>
+	<string name="bubble_guide_bottom_message_text">Имате %d непрочетени съобщения</string>
+    <string name="bubble_guide_portrait_message_text">Кликнете за преглед</string>
+    <string name="dialog_recovery_tabs_disc">Откриването на незатворени страници изисква пълно възстановяване.</string>
+    <string name="dialog_recovery_tabs_title">Отворяне на страницата преди възстановяване</string>
+    <string name="exit_browser_confirmation">Натиснете отново, за да се върнете на работния плот</string>
+    <string name="pref_checkbox_tab_restore">Запомни тази опция (може да отидете към Разширени настройки, за да промените)</string>
+    <string name="pref_slide_back_forward">Плъзгане назад или напред</string>
+    <string name="pref_tab_restore">Възстановяване на последната отворена страница при стартиране</string>
+    <string name="slide_guide">Плъзгане, за връщане</string>
 </resources>

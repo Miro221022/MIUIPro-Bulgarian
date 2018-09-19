@@ -107,5 +107,6 @@
 	 <string-array name="emode_app_groups">
         <item>Системни приложения</item>
         <item>Други приложения</item>
+		<item>Избрани приложения</item>
     </string-array>
 </resources>

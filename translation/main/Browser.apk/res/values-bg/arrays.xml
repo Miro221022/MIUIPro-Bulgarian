@@ -91,8 +91,13 @@
         <item>0</item>
         <item>1</item>
      </string-array>
-	     <string-array name="suggestion_topic_tips">
+	 <string-array name="suggestion_topic_tips">
         <item>Гледане на Фокус</item>
         <item>Централно емисия</item>
+    </string-array>
+	    <string-array name="pref_tab_restore_array">
+        <item>Винаги питай</item>
+        <item>Отвори</item>
+        <item>Затвори</item>
     </string-array>
 </resources>
