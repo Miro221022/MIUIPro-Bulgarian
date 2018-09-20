@@ -522,7 +522,7 @@
     <string name="eye_light_rainbow">Светлина от дъга</string>
     <string name="eye_light_star">Звездна светлина</string>
     <string name="eye_light_window">Светлина от прозорец</string>
-    <string name="fps960_toast">Заснемането със забавено движение ще започне, когато таймерът достигне бялата точка</string>
+    <string name="fps960_toast">Заснемането на бавно движение ще започне в последната четвърт на записа</string>
     <string name="hint_eye_light">Осветлението ще бъде по-добро, когато светкавицата е включена</string>
     <string name="makeup_reset_toast">Премахнати са ефектите за грим</string>
     <string name="module_name_new_slow_motion">Забавен кадър</string>

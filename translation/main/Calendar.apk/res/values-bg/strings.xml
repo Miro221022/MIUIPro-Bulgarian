@@ -456,4 +456,5 @@
     <string name="abc_shareactionprovider_share_with">Сподели с</string>
     <string name="abc_shareactionprovider_share_with_application">Сподели с %s</string>
     <string name="abc_toolbar_collapse_description">Свиване</string>
+	<string name="edit_event_dislike_title">Защо отказвате?</string>
 </resources>
