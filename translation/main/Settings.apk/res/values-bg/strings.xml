@@ -849,7 +849,7 @@
     <string name="unlock_set_unlock_pattern_title">Фигура</string>
     <string name="unlock_set_unlock_pattern_summary">Начертайте прост шаблон с пръста си за да отключите устройството</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
-    <string name="unlock_set_unlock_pin_summary">Въведете 4-16 цифри, за да отключите устройството</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">Въведете %d-%d цифри,за да отключите устройството</string>
     <string name="unlock_set_unlock_password_title">Парола</string>
     <string name="unlock_set_unlock_password_summary">Въведете 4 или повече букви за отключване на устройството</string>
     <string name="unlock_set_do_later_title">Не сега</string>
@@ -5698,7 +5698,7 @@ Stable"</string>
     <string name="key_fsg_dialog_message">"Използвате жестове на цял екран за управление. Функциите, свързани с бутоните, не са налични в момента. Превключване към бутони?"</string>
     <string name="key_fsg_dialog_negative">Отказ</string>
     <string name="key_fsg_dialog_positive">Превключване към бутони</string>
-	<string name="lockpassword_choose_your_pin_title">Въведете 4-16 цифри</string>
+    <string name="lockpassword_choose_your_pin_title" formatted="false">Въведете %d-%d цифри</string>
 	<string name="miui_lab_pic_in_pic_desc">Разрешаване на плаващи видеоклипове за избрани приложения</string>
     <string name="miui_lab_pic_in_pic_title">Картина в картината</string>
 	<string name="sim_management_title_singlesim">SIM карта &amp; мобилни мрежи</string>
@@ -5860,4 +5860,10 @@ Stable"</string>
 За да се гарантира нормалното използване на функцията за Спешни съощения, може да е необходимо да се установи местоположението ви, да се използва мобилната мрежа и да се прочетете адресната ви книга, потвърждавате ли?"</string>
     <string name="sos_privacy_dialog_title">Правила и условия</string>
     <string name="talkback_watermark_enable">TalkBack воден знак</string>
+	<string name="fingerprint_others_title">Друго</string>
+    <string name="gxzw_anim_light">Неон</string>
+    <string name="gxzw_anim_metal">Метал</string>
+    <string name="gxzw_anim_pulse">Пулс</string>
+    <string name="gxzw_anim_rhythm">Ритъм</string>
+    <string name="gxzw_anim_title">Анимация на пръстов отпечатък</string>
 </resources>

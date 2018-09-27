@@ -2218,7 +2218,7 @@
     <string name="gb_msg_not_shielded_summary">Покажи</string>
     <string name="gs_gamebox">Команди за бърз достъп по време на игра</string>
     <string name="gs_gamebox_detail">Показване на панела за бърз достъп в играта</string>
-    <string name="midrop_post_notification_contentText">"Опитайте Mi Drop. Той е бърз и без реклами."</string>
+    <string name="midrop_post_notification_contentText">"Изпробвайте Mi Drop със скорост на трансфер до 50М/с."</string>
     <string name="midrop_post_notification_contentTitle">Налага се да прехвърлите файлове?</string>
     <string name="screenrecord_not_find">Инсталирайте последната версия на Запис на екрана и опитайте отново.</string>
 	<string name="app_manager_details_title">Информация за приложението</string>

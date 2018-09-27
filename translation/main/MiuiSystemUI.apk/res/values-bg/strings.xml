@@ -507,7 +507,7 @@
   <string name="dock_forced_resizable">Приложението може да не работи в Разделен екран</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Разделен екран не се поддържа върху Заключен екран.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Това приложение не поддържа Разделен екран</string>
-  <string name="drag_to_add_tiles">Плъзнете, за да добавите плочки</string>
+  <string name="drag_to_add_tiles">Натиснете и задръжте, за да добавите или пренаредите елементи</string>
   <string name="drag_to_remove_tiles">Плъзнете тук, за да премахнете</string>
   <string name="drive_mode_tip">Режим шофиране е активиран - Шофирайте внимателно</string>
   <string name="drive_mode_tip_idle">Докоснете, за да излезете от режим \"Автомобил\"</string>
@@ -1223,7 +1223,7 @@
   <string name="recents_accessibility_split_screen_top">Разделяне на екрана отгоре</string>
   <string name="recents_app_info_button_label">Информация за приложение</string>
   <string name="recents_caption_resize">Избор на ново име за задачата</string>
-  <string name="recents_drag_hint_message">Провлачете елементи тук</string>
+  <string name="recents_drag_hint_message">Натиснете и задръжте приложение, след което го плъзнете тук</string>
   <string name="recents_empty_message">Няма скорошни елементи</string>
   <string name="recents_empty_message_dismissed_all">Вие премахнахте всички елементи</string>
   <string name="recents_empty_message_multi_window">Отваряне на приложения от Начален екран</string>
@@ -1726,4 +1726,5 @@
    <string name="switch_system_user">Отваряне на Първо пространство</string>
    <string name="miui_screen_rotation_freeze_message">Автоматичното завъртане е деактивирано.</string>
    <string name="face_unlock_sc_status">Натиснете екрана надолу, за да отворите камерата</string>
+   <string name="quick_settings_toast_drag_to_enable_custom_tile">За да добавите елемент, натиснете и го задръжте, след което го плъзнете в горната част на панела.</string>
 </resources>
