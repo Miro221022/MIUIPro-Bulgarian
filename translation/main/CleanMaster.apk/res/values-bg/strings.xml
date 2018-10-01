@@ -396,7 +396,7 @@
   <string name="summary_delete_cache">Някой приложения може да имат нужда от тези данни, за да работят нормално.</string>
   <string name="summary_delete_large_file">Някой от големите файлове са полезни когато нямате връзка с интернет (напр. карти, графици и т.н.).Уверете се, че не се нуждаете от този файл.</string>
   <string name="summary_delete_video">Да се изтрият ли избраните видео файлове за постоянно?</string>
-  <string name="summary_optimizer">Функцията качва имената на папките в онлайн-базата с данни на Cheetah Mobile (изисква се ID на вашето устройство).</string>
+  <string name="summary_optimizer">Функцията качва имената на папките в онлайн базата с данни на Cheetah Mobile (изисква се ID на вашето устройство).</string>
   <string name="terabyteShort">ТБ</string>
   <string name="text_optimizer">Качване на имената на папките</string>
   <string name="there_is_no">Всичко изглежда наред, проверете по-късно</string>

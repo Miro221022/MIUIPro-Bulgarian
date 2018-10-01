@@ -1332,7 +1332,7 @@
     <string name="device_info_settings">Състояние на телефона</string>
     <string name="system_update_settings_list_item_title">Magisk Manager</string>
     <string name="firmware_version">Версия на Андроид</string>
-    <string name="security_patch">Ниво на кръпка за сигурност на Андроид</string>
+    <string name="security_patch">Ниво на корекцията за сигурност на Андроид</string>
     <string name="model_number">Модел</string>
     <string name="fcc_equipment_id">Идент. № на оборудването</string>
     <string name="baseband_version">Версия на радиомодула</string>
@@ -5866,4 +5866,6 @@ Stable"</string>
     <string name="gxzw_anim_pulse">Пулс</string>
     <string name="gxzw_anim_rhythm">Ритъм</string>
     <string name="gxzw_anim_title">Анимация на пръстов отпечатък</string>
+	<string name="autofill_app">Услуга за автоматично попълване</string>
+	<string name="autofill_confirmation_message">"&lt;b>Сигурнили сте,че вярвате на това приложение&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Автоматично попълване>%1$s&lt;/xliff:g> използва това, което е на екрана ви, за да определи какво може да бъде попълнено автоматично."</string>
 </resources>

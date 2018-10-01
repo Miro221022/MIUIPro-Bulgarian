@@ -678,7 +678,7 @@
   <string name="how_to_switch_recents">Отвори Скорошни</string>
   <string name="how_to_use_drawer">Как да отворите плъзгащото меню</string>
   <string name="how_to_use_drawer_summary">Прекарайте пръст надясно в горната част на екрана</string>
-  <string name="how_to_use_fsg">Вие можете да извършите това действие с използване на жестове:</string>
+  <string name="how_to_use_fsg">Вие можете да извършите тези действия с използване на жестове:</string>
   <string name="ime_security_warning">%1$s може да записва всичко, което въвеждате, включително пароли, номера на кредитни карти и други лични данни.</string>
   <string name="immediately_destroy_activities">Не’ запазвайте активността</string>
   <string name="immediately_destroy_activities_summary">Унищож. на всяка дейност при напускането от потребител</string>

@@ -1286,7 +1286,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="guide_motor_text">Моторни</string>
     <string name="guide_politics_text">Политика</string>
     <string name="guide_rocket_type_main_title">Светкавица бързо</string>
-    <string name="guide_rocket_type_subtitle">Удивителна скорост, гладка интерфейс</string>
+    <string name="guide_rocket_type_subtitle">Удивителна скорост, плавен интерфейс</string>
     <string name="guide_skip">Пропусни</string>
     <string name="guide_sports_text">Спортни</string>
     <string name="guide_start_experience">Старт</string>
@@ -1312,7 +1312,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="pref_tab_restore">Възстановяване на последната отворена страница при стартиране</string>
     <string name="slide_guide">Плъзгане, за връщане</string>
 	<string name="action_menu_text_bookmark_removed">Изтриване на отметка</string>
-    <string name="action_menu_text_fullscreen_enter">Влизане на цял екран</string>
+    <string name="action_menu_text_fullscreen_enter">Влизане в цял екран</string>
     <string name="action_menu_text_fullscreen_exit">Изход от цял екран</string>
     <string name="action_text_all_select_bookmark">Избери всички</string>
     <string name="action_text_all_select_bookmark_cancel">Откажи всички</string>
@@ -1329,7 +1329,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="bookmark_not_deleted">"Отметката не може да бъде изтрита"</string>
     <string name="bookmark_url_not_exisit">"Вече сте изтрили този URL"</string>
     <string name="guide_fiction_text">измислица</string>
-    <string name="guide_flash_type_main_title">Светкавица бърз</string>
+    <string name="guide_flash_type_main_title">Светкавично бърз</string>
     <string name="guide_flash_type_subtitle">Удивителна скорост, плавен интерфейс</string>
     <string name="nav_close_index_tab">Изтриване на елемента %d</string>
     <string name="nav_screen_tab_incognito_enter">Влизане в раздел инкогнито</string>
