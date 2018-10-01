@@ -188,4 +188,8 @@
   <string name="not_allowed_set">не е разрешен</string>
   <string name="no_neighboring_cells">няма съседни клетки</string>
   <string name="app_assistant_title">Бутон за гласова помощ</string>
+  <string name="icon_quick_title">Скриване на иконата за бързо зареждане</string>
+  <string name="icon_setnet_title">Икона на мрежата</string>
+  <string name="icon_setnet_on">Вертикална</string>
+  <string name="icon_setnet_off">Хоризонтална</string>
 </resources>

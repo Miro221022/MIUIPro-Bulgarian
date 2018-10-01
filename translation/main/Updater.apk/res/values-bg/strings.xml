@@ -26,7 +26,7 @@
   <string name="auto_update_sum">MIUI ще избере най-подходящото време за да инсталира актуализациите</string>
   <string name="autosetmode">Настройки</string>
   <string name="best_update">Най-добра актуализация</string>
-  <string name="boot_recovery">Рестартирай в режим \"Recovery\"</string>
+  <string name="boot_recovery">Рестартиране в режим \"Recovery\"</string>
   <string name="button_delay_update_reboot">Рестартирай и обнови</string>
   <string name="button_text_check">Проверка</string>
   <string name="button_text_reboot">Рестарт сега</string>
@@ -36,7 +36,7 @@
   <string name="cancel_download">Да спре ли изтеглянето на актуализацията?</string>
   <string name="check_local_package_update_btn">Рестарт и актуализиране</string>
   <string name="check_local_package_update_btn_ab">Актуализация</string>
-  <string name="check_local_package_update_msg">You\'re going to update to MIUI version %s. The phone will reboot automatically during the update.</string>
+  <string name="check_local_package_update_msg">На път сте да актуализирате до MIUI версия %s. Телефонът ще се рестартира автоматично по време на актуализацията.</string>
   <string name="check_local_package_update_msg_ab">Вашето устройство ще се актуализира до версия %s на MIUI.</string>
   <string name="check_local_package_update_title">Актуализирай</string>
   <string name="check_local_package_validate_error_button">OK</string>
@@ -49,7 +49,7 @@
   <string name="clean_up_button">Почистване</string>
   <string name="comment_publish">Изпрати</string>
   <string name="confirm_local_package_wipe_btn">Изтрий и актуализирай</string>
-  <string name="confirm_local_package_wipe_msg">Your personal data will be erased. Make sure you back up all important items before you start the process.</string>
+  <string name="confirm_local_package_wipe_msg">Вашите лични данни ще бъдат изтрити. Уверете се, че сте архивирали всички важни елементи, преди да започнете процеса.</string>
   <string name="confirm_local_package_wipe_title">Изтриване на данните?</string>
   <string name="continue_update_negative_btn">Продължи</string>
   <string name="continue_update_positive_btn">Спри</string>
@@ -123,10 +123,10 @@
   <string name="later">По-късно</string>
   <string name="loading">Свързване с MIUI сървъра...</string>
   <string name="log_share">Сподели</string>
-  <string name="log_status_locked_info">Вие нямате права за достъп до лога с актуализациите.</string>
+  <string name="log_status_locked_info">Вие нямате права за достъп до списъка с актуализациите.</string>
   <string name="log_status_locked_summary">Уверете се, че вашият профил е регистриран с необходимите права за достъп.</string>
   <string name="menu_more_button">Меню</string>
-  <string name="menu_title_apply_for_alpha">Запишете се в програмата за Бета тестери</string>
+  <string name="menu_title_apply_for_alpha">Запишете се в програмата за бета тестери</string>
   <string name="menu_title_current_version_log">Резюме на актуализацията</string>
   <string name="menu_title_download_current_rom">Изтегляне на актуализацията</string>
   <string name="menu_title_feedback">Обратна връзка</string>
