@@ -145,9 +145,9 @@
     <string name="oem_unlock_enable_summary">Разрешаване на отключването на програмата за зареждане на системата (bootloader)</string>
     <string name="confirm_enable_oem_unlock_title">Разрешавате ли Отключване чрез оборудването на производителя?</string>
     <string name="confirm_enable_oem_unlock_text">ПРЕДУПРЕЖДЕНИЕ: Функциите за защита на устройството няма да работят, докато настройките са включени.</string>
-    <string name="mock_location_app">Избор на комплект приложни настройки за местоположението</string>
-    <string name="mock_location_app_not_set">Няма комплект приложни настройки за местоположението</string>
-    <string name="mock_location_app_set">Комплект приложни настройки за местоположението: %1$s</string>
+    <string name="mock_location_app">Избор на приложение за мнимо местоположение</string>
+    <string name="mock_location_app_not_set">Няма избрано приложение за мнимо местоположение</string>
+    <string name="mock_location_app_set">Няма избрано приложение за мнимо местоположение: %1$s</string>
     <string name="debug_networking_category">Мрежа</string>
     <string name="wifi_display_certification">Сертификат за безжичен дисплей</string>
     <string name="wifi_verbose_logging">Активирай Wi‑Fi разширено регистр</string>
@@ -249,7 +249,7 @@
     <string name="inactive_apps_title">Неактивни приложения</string>
     <string name="inactive_app_inactive_summary">Неактивен. Чукнете за да промените.</string>
     <string name="inactive_app_active_summary">Активен. Чукнете за да промените.</string>
-    <string name="runningservices_settings_title">Предлагани услуги</string>
+    <string name="runningservices_settings_title">Текущи услуги</string>
     <string name="runningservices_settings_summary">Преглед и контрол на услугите предлагани в момента</string>
     <string name="enable_webview_multiprocess">Многозадачен преглед на страниците</string>
     <string name="enable_webview_multiprocess_desc">Пускане на WebView рендериране отделно</string>
@@ -4370,8 +4370,8 @@
     <string name="wifi_enable_data_and_wifi_roam_summary">Запазване на вкл. данни и Wi-Fi за превключване към данни при слаба вкъзка през Wi-Fi.</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Уверете се, че устройствата се докосват и изберете съдържанието, което искате да прехвърлите.</string>
-    <string name="bt_trace_log">Разрешете Bluetooth Trace log</string>
-    <string name="bt_trace_log_summary">Разрешете Bluetooth Trace log</string>
+    <string name="bt_trace_log">Отчет за Bluetooth проследяване</string>
+    <string name="bt_trace_log_summary">Отчет за Bluetooth проследяване</string>
     <string name="bluetooth_ask_enablement_detected">иска да включи Bluetooth.</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" иска да включи Bluetooth и да направи телефона ви видим за други устройства за %1$d секунди."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" иска да включи Bluetooth и да направи телефона ви видим за други устройства. Тази опция се управлява от настройки на Bluetooth."</string>
@@ -4873,8 +4873,8 @@ Stable"</string>
     <string name="bootloader_apply_step_5">Уверете се, че знаете как да използвате режим Fastboot, преди да го включите.</string>
     <string name="usb_install_app">Инсталирайте през USB</string>
     <string name="usb_install_app_desc">Позволи инсталирането на приложения през USB</string>
-    <string name="usb_adb_input">USB дебъгване (настройки на сигурността)</string>
-    <string name="usb_adb_input_desc">Позволете даването на разрешения и симулирането на въвеждане през USB дебъгване</string>
+    <string name="usb_adb_input">USB отсраняване на грешки (Настройки за сигурност)</string>
+    <string name="usb_adb_input_desc">Разрешаване даването на разрешения и симулиране на въвеждане чрез USB остраняване на грешки</string>
     <string name="bootloader_status">Mi Unlock статус</string>
     <string name="bootloader_status_summary">Проверка дали устройството е заключено</string>
     <string name="bootloader_status_locked">Заключено</string>
@@ -5904,4 +5904,21 @@ Stable"</string>
 	<string name="accessibility_shortcut_service_on_lock_screen_title">Разрешаване от заключен екран</string>
 	<string name="accessibility_shortcut_description">Когато командата за бърз достъп е включена, можете да натиснете двата бутона за сила на звука за 3 секунди, за да стартирате функция за достъпност.</string>
     <string name="print_settings_title">Услуги за печат</string>
+    <string name="quick_settings_developer_tiles">Бързи настройки с плочки за програмисти</string>
+	<string name="bluetooth_select_avrcp_version_dialog_title">Изберете Bluetooth AVRCP версия</string>
+    <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP версия</string>
+	<string name="bluetooth_select_a2dp_codec_type">Bluetooth аудио кодек</string>
+	<string name="bluetooth_select_a2dp_codec_type_dialog_title">Изберете Bluetooth аудио кодек</string>
+	<string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth аудио честота на звука</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Изберете Bluetooth аудио кодек:
+Примерна скорост"</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth аудио битове по образец</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Изберете Bluetooth аудио кодек:
+Битове по образец"</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Режим Bluetooth аудио канал</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Изберете Bluetooth аудио кодек:
+Режим на канала"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth аудио LDAC кодек: Качество на възпроизвеждане</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Изберете Bluetooth аудио LDAC кодек:
+Качество на възпроизвеждане"</string>
 </resources>
