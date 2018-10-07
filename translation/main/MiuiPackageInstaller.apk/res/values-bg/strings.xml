@@ -461,7 +461,7 @@
     <string name="pref_key_antivirus_summary">Проверка на приложението преди инсталиране</string>
     <string name="pref_ads">Препоръки</string>
     <string name="unlike">Не благодаря</string>
-    <string name="dlg_msg_unoffical">"Can't install system applications from unofficial channels"</string>
+    <string name="dlg_msg_unoffical">"Не може да се инсталират системни приложения от неофициални канали"</string>
     <string name="dlg_msg_unoffical_ok">OK</string>
     <string name="app_name">Инсталатор за пакети</string>
     <string name="next">Следващ</string>

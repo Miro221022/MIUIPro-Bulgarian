@@ -2249,7 +2249,7 @@
     <string name="menu_summary_networkassistants_4">Нямате налични данни</string>
     <string name="menu_summary_power_manager">Пестенето на батерия ви дава повече време между зарежданията</string>
     <string name="menu_summary_power_manager_1">Батерията е напълно заредена</string>
-    <string name="menu_summary_power_manager_2">%s остава</string>
+    <string name="menu_summary_power_manager_2">%s остават</string>
     <string name="menu_summary_power_manager_3">Свържете зарядното устройство</string>
     <string name="menu_summary_power_manager_4">%s докато се зареди</string>
     <string name="network_traffic_warning_text">"MIUI не може да изчисли статистическите данни за използването на данни за отделните системни приложения.Ще можете да видите информацията, свързана с използването на данни, в подробностите за приложението, в случай че това приложение активно използва мобилни данни."</string>

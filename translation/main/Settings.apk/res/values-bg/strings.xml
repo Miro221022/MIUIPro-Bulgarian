@@ -5868,4 +5868,16 @@ Stable"</string>
     <string name="gxzw_anim_title">Анимация на пръстов отпечатък</string>
 	<string name="autofill_app">Услуга за автоматично попълване</string>
 	<string name="autofill_confirmation_message">"&lt;b>Сигурнили сте,че вярвате на това приложение&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Автоматично попълване>%1$s&lt;/xliff:g> използва това, което е на екрана ви, за да определи какво може да бъде попълнено автоматично."</string>
+	<string name="install_other_apps">Инсталиране на неизвестни приложения</string>
+	<string name="external_source_switch_title">Разрешаване от този източник</string>
+    <string name="picture_in_picture_app_detail_switch">Разрешаване на картина в картина</string>
+	<string name="picture_in_picture_app_detail_title">Картина в картината</string>
+	<string name="picture_in_picture_empty_text">Няма инсталирани приложения които поддържат картина в картина</string>
+    <string name="picture_in_picture_title">Картина в картината</string>
+	<string name="encryption_and_credential_settings_title">Шифроване и пълномощия</string>
+	<string name="encryption_and_credential_settings_summary">Телефонът е шифрован</string>
+    <string name="external_source_untrusted">Не е разрешено</string>
+    <string name="external_source_trusted">Разрешено</string>
+	<string name="picture_in_picture_off">Не</string>
+    <string name="picture_in_picture_on">Да</string>
 </resources>
