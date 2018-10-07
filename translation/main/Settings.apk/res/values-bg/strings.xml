@@ -105,7 +105,7 @@
     <string name="tts_lang_use_system">Използване на системния език</string>
     <string name="tts_lang_not_selected">Не е избран език</string>
     <string name="tts_default_lang_summary">Задайте език по подразбиране за изходна реч на гласовата машина</string>
-    <string name="tts_play_example_title">Прослучване на примерен текст</string>
+    <string name="tts_play_example_title">Прослушване на примерен текст</string>
     <string name="tts_play_example_summary">Демонстративно прослушване на синтезираната реч</string>
     <string name="tts_install_data_title">Инсталиране на гласови данни</string>
     <string name="tts_install_data_summary">Инсталиране на гласови данни за синтезираната реч</string>
@@ -119,7 +119,6 @@
     <string name="tts_status_checking">Проверка…</string>
     <string name="tts_engine_settings_title">Настройки за%s</string>
     <string name="tts_engine_settings_button">Стартирай настройките за този инструмент</string>
-    <string name="tts_engine_preference_section_title">Предпочитан инструмент</string>
     <string name="tts_general_section_title">Основни</string>
     <string name="tts_reset_speech_pitch_title">Нулиране на стъпката на речта</string>
     <string name="tts_reset_speech_pitch_summary">Нулиране на стъпката при която текста се произнася по подразбиране.</string>
@@ -311,7 +310,7 @@
     <string name="suw_next_button_label">Напред</string>
     <string name="suw_back_button_label">Назад</string>
     <string name="suw_more_button_label">Още</string>
-    <string name="privacy_authorize_revoke_title">Упълномощаване и анулиране</string>
+    <string name="privacy_authorize_revoke_title">Оторизация и отмяна</string>
     <string name="enabled_authorised_apps_title">Дадено разрешение</string>
     <string name="enabled_authorised_apps_summary">Вашето разрешение ще бъде отменено, след като зададете превключване за отделни приложения.</string>
     <string name="disabled_authorised_apps_title">Отменено разрешение</string>
@@ -328,7 +327,7 @@
     <string name="privacy_authorize_revoke_failed">Разрешението не може да бъде отменено</string>
     <string name="privacy_authorize_success">Успешно е дадено разрешение</string>
     <string name="privacy_authorize_revoking">Отмяна на разрешението…</string>
-    <string name="privacy_authorize_cloud_msg">За да гарантирате сигурността на профила си, влезте в системата на i.mi.com, ако искате да отмените разрешението за услуги Mi Cloud (включително синхронизация и архивиране).</string>
+    <string name="privacy_authorize_cloud_msg">За да гарантирате сигурността на профила си, влезте в системата на i.mi.com, ако искате да отмените разрешението на услуги Mi Cloud (включително синхронизация и архивиране).</string>
     <string name="status_bar_and_notification_bar">Лента с известия и статус лента</string>
     <string name="status_bar_settings_manage_notification">Управление на известията</string>
     <string name="status_bar_settings_all_app_display_loading">Един момент…</string>
@@ -5880,4 +5879,29 @@ Stable"</string>
     <string name="external_source_trusted">Разрешено</string>
 	<string name="picture_in_picture_off">Не</string>
     <string name="picture_in_picture_on">Да</string>
+	<string name="user_installed_services_category_title">Изтеглени услуги</string>
+	<string name="screen_reader_category_title">Екранни четци</string>
+	<string name="interaction_control_category_title">Управление на взаимодействието</string>
+	<string name="audio_and_captions_category_title">Звук и текст на екрана</string>
+	<string name="experimental_category_title">Експериментални</string>
+	<string name="display_category_title">Показване</string>
+	<string name="tts_engine_preference_section_title">Предпочитана машина</string>
+    <string name="tts_engine_preference_title">Предпочитана машина</string>
+	<string name="accessibility_screen_magnification_gestures_title">Увеличение с трикратно докосване</string>
+	<string name="accessibility_screen_magnification_navbar_title">Увеличение с бутон</string>
+	<string name="accessibility_screen_magnification_navbar_summary">"Когато увеличението е включено, използвайте бутона за достъпност в долната част на екрана, за да увеличите бързо.
+
+"<b>To zoom</b>", докоснете бутона "Достъпност", след това докоснете където и да било на екрана.
+"<ul> <li>Плъзнете 2 или повече пръста, за да превъртите</li>"
+"<li>Разтегнете с 2 или повече пръста, за да регулирате увеличението</li> </ul>"
+
+"<b>За временно увеличаване</b>", докоснете бутона за достъпност, след което докоснете и задръжте някъде по екрана.
+"<ul> <li>Плъзнете, за да се придвижите екрана</li>"
+"<li>Вдигнете пръста, за да намалите мащаба</li> </ul>"
+
+Не можете да увеличите мащаба на клавиатурата или навигационната лента."</string>
+    <string name="accessibility_shortcut_service_title">Услуга за бърз достъп</string>
+	<string name="accessibility_shortcut_service_on_lock_screen_title">Разрешаване от заключен екран</string>
+	<string name="accessibility_shortcut_description">Когато командата за бърз достъп е включена, можете да натиснете двата бутона за сила на звука за 3 секунди, за да стартирате функция за достъпност.</string>
+    <string name="print_settings_title">Услуги за печат</string>
 </resources>
