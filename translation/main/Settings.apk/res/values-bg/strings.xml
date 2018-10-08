@@ -5921,4 +5921,14 @@ Stable"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth аудио LDAC кодек: Качество на възпроизвеждане</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Изберете Bluetooth аудио LDAC кодек:
 Качество на възпроизвеждане"</string>
+    <string name="ai_settings_double_click_category">Двукратно натискане на AI бутона</string>
+    <string name="ai_settings_double_click_title">Двукратно натискане</string>
+    <string name="ai_settings_long_press_des">Натиснете продължително AI бутона и говорете с помощника на Google, можете да получите отговор.</string>
+    <string name="ai_settings_single_click_category">Натиснете AI бутона</string>
+    <string name="ai_settings_single_click_title">Натиснете</string>
+    <string name="long_press_AI_button">Натиснете и задръжте AI бутона</string>
+    <string name="gxzw_dialog_message">"За да можете да използвате вградения в екрана сензор за пръстови отпечатъци, не използвайте протектори за екран. Ако смятате, че протектора за екран е необходим, изберете между оторизираните съвместими опции."</string>
+    <string name="gxzw_dialog_not_show_again">"Не показвай отново"</string>
+    <string name="gxzw_dialog_ok">Разбрах</string>
+    <string name="gxzw_dialog_title">За сензора за пръстови отпечатъци в екрана</string>
 </resources>

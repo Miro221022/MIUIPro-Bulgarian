@@ -1731,4 +1731,5 @@
    <string name="lock_screen_no_sim_card_emergency_only">Само спешни повиквания</string>
    <string name="lock_screen_no_sim_card_no_service">Няма услуга</string>
    <string name="torch_high_temperature_warning">"Устройството ви е прегряло. В момента не може да се използва фенерче."</string>
+   <string name="status_bar_network_name_separator">-</string>
 </resources>

@@ -1407,4 +1407,7 @@
 	<string name="tethered_notification_multi_device_message">%1$s свързани устройства</string>
     <string name="tethered_notification_no_device_message">Няма свързани устройства</string>
     <string name="tethered_notification_one_device_message">%1$s свързано устройство</string>
+	<string name="notification_description">Състояние на гласово повикване</string>
+    <string name="status_communication_speaker_summary">Извършва се обаждане чрез "свободни ръце". Звукът ще продължи да се възпроизвежда през високоговорителя, когато се свържат слушалки.</string>
+    <string name="status_communication_summary">Провежда се обаждане. В момента можете да коригирате звука на обажданията.</string>
 </resources>

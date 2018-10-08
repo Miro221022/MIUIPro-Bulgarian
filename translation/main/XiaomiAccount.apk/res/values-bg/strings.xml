@@ -349,7 +349,7 @@
   <string name="passport_skip_login">Пропусни</string>
   <string name="passport_skip_register">Пропусни вписването</string>
   <string name="passport_skip_setup_account_msg">Може да настроите вашият Mi профил по-късно от \"Настройки\".</string>
-  <string name="passport_skip_setup_account_title">Пропускане</string>
+  <string name="passport_skip_setup_account_title">Не използвай Mi Облак</string>
   <string name="passport_sms_send_success">Изпратено</string>
   <string name="passport_sms_verification_code_login">Вписване със SMS</string>
   <string name="passport_sync_account_data">Синхронизира се информация за профила…</string>

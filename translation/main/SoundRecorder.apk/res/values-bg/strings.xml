@@ -145,9 +145,9 @@
     <string name="alert_message_clear_records">Желаете ли да изтриете избрания звукозапис?</string>
     <string name="clear_records">Изтрий синхронизираните записи</string>
     <string name="network_tip_dialog_title">Необходима е връзка с интернет</string>
-    <string name="network_tip_dialog_content">Звукозапис се нуждае от връзка с интернет за да прочете вашите контакти и да работи нормално. Съгласен ли сте?</string>
+    <string name="network_tip_dialog_content">Звукозапис трябва да се свърже с интернет, за да работи нормално. Съгласен ли сте?</string>
     <string name="network_tip_dialog_ok">Съгласен</string>
-    <string name="network_tip_dialog_cancel">Отмени</string>
+    <string name="network_tip_dialog_cancel">Не се съгласявам</string>
     <string name="head_set_tip_dialog_title">Използвай вградения микрофон</string>
     <string name="head_set_tip_dialog_msg">Разкачете слушалките си, за да можете да запишете звуци със специфично съдържание (напр. Музика, Гласове).</string>
     <string name="head_set_tip_dialog_ok">Направено</string>
