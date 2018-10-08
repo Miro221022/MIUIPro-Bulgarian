@@ -20,4 +20,8 @@
         <item quantity="other">%d файлове изчакват</item>
         <item quantity="one">1 файл изчаква</item>
     </plurals>
+	     <plurals name="notification_download_failed_more">
+        <item quantity="other">"Не може да се изтеглят %1$d елемента"</item>
+        <item quantity="one">"Не може да се изтегли %1$d елемент"</item>
+    </plurals>
 </resources>

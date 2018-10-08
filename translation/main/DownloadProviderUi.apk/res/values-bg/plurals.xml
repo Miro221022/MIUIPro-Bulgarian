@@ -12,4 +12,12 @@
         <item quantity="other">Открити са %d резултата</item>
         <item quantity="one">Открит е 1 резултат</item>
     </plurals>
+	     <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Изтриване на %d изтегляния?</item>
+        <item quantity="one">Изтриване на %d изтегляне?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Успешно са изтрити %s изтегляния</item>
+        <item quantity="one">Успешно е изтрито %s изтегляне</item>
+    </plurals>
 </resources>

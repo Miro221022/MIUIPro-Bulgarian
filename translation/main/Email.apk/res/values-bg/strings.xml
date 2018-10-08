@@ -1085,4 +1085,5 @@
   <string name="notify_channel_send_fail">Известяване за неуспешната доставка</string>
   <string name="show_more_attachment">Още прикачени файлове</string>
   <string name="overlays_tip_23">Отворете плаващи прозорци за разрешения в мениджъра на разрешенията и веднага се насладете на 139 mailbox за автоматично конфигуриране на екстремното преживяване.</string>
+  <string name="add_file_exception">Добавете изключение. Моля, опитайте да добавите от други пътища.</string>
 </resources>

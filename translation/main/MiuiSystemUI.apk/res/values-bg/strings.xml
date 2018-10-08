@@ -1727,4 +1727,8 @@
    <string name="miui_screen_rotation_freeze_message">Автоматичното завъртане е деактивирано.</string>
    <string name="face_unlock_sc_status">Натиснете екрана надолу, за да отворите камерата</string>
    <string name="quick_settings_toast_drag_to_enable_custom_tile">За да добавите елемент, натиснете и го задръжте, след което го плъзнете в горната част на панела.</string>
+   <string name="lock_screen_carrier_airplane_mode_on">Самолетен режим</string>
+   <string name="lock_screen_no_sim_card_emergency_only">Само спешни повиквания</string>
+   <string name="lock_screen_no_sim_card_no_service">Няма услуга</string>
+   <string name="torch_high_temperature_warning">"Устройството ви е прегряло. В момента не може да се използва фенерче."</string>
 </resources>
