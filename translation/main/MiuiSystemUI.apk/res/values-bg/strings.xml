@@ -1715,7 +1715,7 @@
    <string name="dlg_confirm">Включване</string>
    <string name="dlg_summary_close_app">Ограничете активността на заден план и известията</string>
    <string name="dlg_summary_close_theme">Ограничете анимирани теми</string>
-   <string name="dlg_summary_close_wifi">Изключване на WLAN, Bluetooth и WiFi точ. достъп</string>
+   <string name="dlg_summary_close_wifi">Изключване на WLAN, Bluetooth и WiFi точка за достъп</string>
    <string name="dlg_summary_nfc">Изключи NFC</string>
    <string name="dlg_summary_title">Екстремното пестене на батерията спира цялата дейност на заден план, след като напуснете приложение и се върнете в началния екран.Ако искате да се изпълнява дадено приложение във фонов режим, добавете го към изключения.</string>
    <string name="enable_extreme_power_save_mode">Екстремно пестене на батерия</string>
@@ -1732,4 +1732,7 @@
    <string name="lock_screen_no_sim_card_no_service">Няма услуга</string>
    <string name="torch_high_temperature_warning">"Устройството ви е прегряло. В момента не може да се използва фенерче."</string>
    <string name="status_bar_network_name_separator">-</string>
+   <string name="notch_sos_status_bar_title">SOS</string>
+   <string name="sos_status_bar_summary">кликнете, за изход</string>
+   <string name="sos_status_bar_title">SOS</string>
 </resources>
