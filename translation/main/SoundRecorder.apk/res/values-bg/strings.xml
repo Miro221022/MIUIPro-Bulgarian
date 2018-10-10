@@ -104,12 +104,12 @@
     <string name="cloud_status_full_dialog_msg">Мястото в облака е пълно.Надстройте акаунта за повече свободно място.</string>
     <string name="cloud_status_full_dialog_cancel">Не сега</string>
     <string name="cloud_status_full_dialog_ok">Надстройка</string>
-    <string name="text_btn_recording">Звукозаписи</string>
+    <string name="text_btn_recording">Записване</string>
     <string name="text_btn_pause">Пауза</string>
     <string name="text_btn_play">Прослушване</string>
-    <string name="text_btn_mark">Маркиран</string>
+    <string name="text_btn_mark">Маркиране</string>
     <string name="text_btn_list">Списък</string>
-    <string name="text_btn_complete">Завършени</string>
+    <string name="text_btn_complete">Завършване</string>
     <string name="text_btn_recognize">Разпознаване</string>
     <string name="text_btn_wave">Вълна</string>
     <string name="text_finish">Потвърди</string>

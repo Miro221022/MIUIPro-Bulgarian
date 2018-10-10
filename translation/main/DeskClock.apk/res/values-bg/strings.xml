@@ -9,7 +9,7 @@
   <string name="alarm_disabled">Изключен</string>
   <string name="alarm_in_silent_mode_title">Будилник в режим без звук</string>
   <string name="alarm_klaxon_service_desc">Услуга за възпроизвеждане на звук за будилниците, зададени в часовника.</string>
-  <string name="alarm_label_hint">Въведете името на будилника</string>
+  <string name="alarm_label_hint">Въведете име на будилника</string>
   <string name="alarm_list_title">Будилници</string>
   <string name="alarm_notify_snooze_label">%s отложено</string>
   <string name="alarm_notify_text">Отложи или изключи будилника.</string>
@@ -103,7 +103,7 @@
   <string name="more_setting">Още настройки</string>
   <string name="more_settings">Настройки</string>
   <string name="never">Никога</string>
-  <string name="oneshot_alarm">Изтрий след изключване</string>
+  <string name="oneshot_alarm">Изтриване след изключване</string>
   <string name="pause">Пауза</string>
   <string name="percentage_sign">%</string>
   <string name="remind_ringtone">Тон на звънене</string>
@@ -165,8 +165,8 @@
   <string name="turn_off_this_repeat_alarm">Изключи повтарянето на този будилник</string>
   <string name="upcoming_alarm">%s Предстоящ будилник</string>
   <string name="upcoming_alarm_hint">Може да изкл алармата предварително</string>
-  <string name="vibrate_pref_summary">Вибриране при будилник</string>
-  <string name="vibrate_when_ringing">Вибриране при звънене</string>
+  <string name="vibrate_pref_summary">Вибрация при будилник</string>
+  <string name="vibrate_when_ringing">Вибрация при звънене</string>
   <string name="volume_button_setting_summary">Задайте функция на бутоните при натискане по време на звънене на будилника</string>
   <string name="volume_button_setting_title">Бутони за сила на звука</string>
   <string name="workday_alarm_clock">През делничните дни</string>

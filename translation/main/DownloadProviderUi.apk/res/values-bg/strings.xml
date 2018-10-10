@@ -59,7 +59,7 @@
   <string name="dialog_confirm_delete_checkbox_message">Изтрий също и локалните файлове</string>
   <string name="dialog_confirm_delete_downloads_message">Да се изтрият ли %d задачи?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Изтрий тези задачи</string>
-  <string name="dialog_content_limit_max">Неограничен</string>
+  <string name="dialog_content_limit_max">Без ограничение</string>
   <string name="dialog_content_limit0">Ограничаване на изтеглянията</string>
   <string name="dialog_failed_body">Ще опитате ли да изтеглите файла по-късно или ще го премахнете от списъка?</string>
   <string name="dialog_file_already_exists">Този файл вече съществува.</string>
@@ -263,7 +263,7 @@
   <string name="period_of_validity">Валидност:</string>
   <string name="petabyteShort">ПБ</string>
   <string name="pref_download_revert_default">Запазване в мястото по подразбиране</string>
-  <string name="pref_download_settings_title">Изтеглянето чрез използване на мобилни данни е ограничено</string>
+  <string name="pref_download_settings_title">Изтеглянето чрез мобилни данни</string>
   <string name="pref_download_storage_path">Съхраняване на място по ваш избор</string>
   <string name="pref_sniff_shortcut">Добавете пряк път на начален екран за бързо интернет търсене</string>
   <string name="pref_summary_any_bytes_popup">Винаги изчаквай Wi-Fi връзка за изтегляне на файлове</string>

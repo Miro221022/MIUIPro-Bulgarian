@@ -53,7 +53,7 @@
     <string name="app_wifi_mode_summary">Актуализирайте Mi Видео автоматично, когато сте свързани с Wi-Fi</string>
     <string name="background_offline">Изтегляне във фонов режим</string>
     <string name="bmp_quality_mode">Високо качество</string>
-    <string name="bmp_quality_mode_desc">Включете, за да гледате HD плакати</string>
+    <string name="bmp_quality_mode_desc">Включете, за да гледате HD афиши</string>
     <string name="boss_login_failed">"Неуспешно влизане"</string>
     <string name="buffering">Буфериране…</string>
     <string name="buffering_video_netplay_label_v5">Буфериране…</string>
@@ -63,7 +63,7 @@
     <string name="check_plugin_tips">HD видео добавка</string>
     <string name="clear_cache">Изчисти кеш</string>
     <string name="clear_cache_success">Изчистването на кеша успешно</string>
-    <string name="clear_cache_summary">Изчистете кешираните видео плакати</string>
+    <string name="clear_cache_summary">Изчистете кешираните видео афиши</string>
     <string name="comfirm_open">Включи</string>
     <string name="comment_back">Назад</string>
     <string name="comment_detail">Подробности</string>
@@ -189,7 +189,7 @@
     <string name="reload_title">"Не можа да се свърже с мрежата."</string>
     <string name="replay">Повтори</string>
     <string name="score">Рейтинг</string>
-    <string name="search_hint">Търсете филми, актьори, категории…</string>
+    <string name="search_hint">Търсене на филми, актьори, категории…</string>
     <string name="search_settings">Видео;Видео настройки;мобилни данни;push;push известия;известия;кеш;потребителски опит;потребителски опит;wifi;Wi-Fi</string>
     <string name="server_summary">Избери сървър (за бета изпитатели)</string>
     <string name="server_switch">Сървър</string>
@@ -240,7 +240,7 @@
     <string name="ui_log_tip">Докоснете тази област, за да скриете, натиснете и задръжте, за да изчистите старите дневници. Плъзнете регистрационните файлове ръчно.</string>
     <string name="unzip_file_failure">"Файлът не може да се разархивира"</string>
     <string name="url_access_failed">Достъпът до адреса не бе успешен, свържете се с отдела за обслужване на клиенти</string>
-    <string name="use_cellular_network">Позволете използване на мобилни данни</string>
+    <string name="use_cellular_network">Изпъленение чрез мобилни данни</string>
     <string name="use_cellular_network_summary">Изключете, за да спестите мобилните данни и да избегнете допълнителни такси</string>
     <string name="use_cellular_offlinedownload_summary">Включете, за да получавате известия за нови видеоклипове, когато сте свързани с мобилни данни</string>
     <string name="use_cellular_offlinedownload_title">Уведомявайте за нови видеоклипове, когато сте свързани с мобилни данни</string>
@@ -771,4 +771,5 @@ To activate your account, follow the
     <string name="v_notification_settings_summary">Известия в лентата на състоянието</string>
     <string name="v_notification_settings_title">Управление на известията</string>
     <string name="dolby_audio_cant_play">"Този аудиозапис не може да бъде възпроизведен поради ограничения на авторските права."</string>
+	<string name="offline_download_setting">Изтегляния</string>
 </resources>

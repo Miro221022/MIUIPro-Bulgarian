@@ -42,8 +42,8 @@
     <string name="low_momery_warning">Няма достатъчно място в хранилището. Спрете записа и го съхранете.</string>
     <string name="memory_not_allowed">Няма достатъчно място в хранилището. Освободете място за нов запис.</string>
     <string name="mic_sound">Микрофон</string>
-    <string name="no_recorder_info">Няма видео тук</string>
-    <string name="no_recorder_info2">Докоснете бутона за стартиране на записа</string>
+    <string name="no_recorder_info">Няма записи</string>
+    <string name="no_recorder_info2">Докоснете бутона за стартиране на запис</string>
     <string name="no_sound">Заглуши</string>
     <string name="operation_delete">Изтриване</string>
     <string name="operation_send">Изпрати</string>
