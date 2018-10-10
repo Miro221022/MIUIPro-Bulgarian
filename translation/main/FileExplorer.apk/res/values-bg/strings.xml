@@ -406,7 +406,7 @@
   <string name="operation_reply">Коментар</string>
   <string name="operation_send">Изпрати</string>
   <string name="operation_share">Споделяне</string>
-  <string name="operation_show_sys">Покажи системните файлове</string>
+  <string name="operation_show_sys">Покажи скритите файлове</string>
   <string name="operation_unfavorite">Премахни от любими</string>
   <string name="original_user_desc">Качвайте оригинални видеоклипове редовно, за да се сдобиете със статус Създател</string>
   <string name="original_user_qq_group">Присъединете се към Отбор талант и QQ групата</string>
@@ -447,7 +447,7 @@
   <string name="phone_send_code_again">Изпрати код отново</string>
   <string name="phone_send_code_tip">Повторно изпращане след %1$ds</string>
   <string name="phone_storage">Хранилище</string>
-  <string name="phone_storage_apk_title">Прил-я: </string>
+  <string name="phone_storage_apk_title">Приложения: </string>
   <string name="phone_storage_audio_title">Музика: </string>
   <string name="phone_storage_cal">Проверка…</string>
   <string name="phone_storage_clean">Почистване</string>
@@ -456,7 +456,7 @@
   <string name="phone_storage_image_title">Изображения: </string>
   <string name="phone_storage_info_str">%1$s от %2$s на разположение</string>
   <string name="phone_storage_other_title">Други: </string>
-  <string name="phone_storage_size_tip">\"Показванато от Файлове може да е различно от това в други прил-я.</string>
+  <string name="phone_storage_size_tip">\"Показванато от Файлове може да е различно от това в други приложения.</string>
   <string name="phone_storage_video_title">Видео: </string>
   <string name="phone_storage_zip_title">Архиви: </string>
   <string name="phone_valid_code_tip">Кодът беше въведен твърде много пъти, опитайте да получите нов</string>
@@ -613,7 +613,7 @@
   <string name="swap_tip_2">за да прегледате още клипове</string>
   <string name="sys_size_enable">Активиране</string>
   <string name="tab_category">Преглед</string>
-  <string name="tab_common_app">Прил-я и папки</string>
+  <string name="tab_common_app">Приложения и папки</string>
   <string name="tab_discover">Откриване</string>
   <string name="tab_explore">Откриване</string>
   <string name="tab_follow">Продължение</string>
@@ -629,7 +629,7 @@
   <string name="terabyteShort">ТБ</string>
   <string name="tip">Предупреждение</string>
   <string name="title_album">Албуми</string>
-  <string name="title_app_tags">Прил-я</string>
+  <string name="title_app_tags">Приложения</string>
   <string name="title_enable_documentsui">Включете DocumentsUI</string>
   <string name="title_expire_video">Почти изтекло</string>
   <string name="title_recent">Скорошни</string>
@@ -810,5 +810,5 @@
   <string name="you_liao_xunlei_desc">Сключете договор с нас, за да получите Хост статус</string>
   <string name="you_liao_xunlei_str">Xunlei хост</string>
   <string name="youliao_master_rank">Youliao Топ класация</string>
-  <string name="operation_show_privacy_policy">Показване на правилата за поверителност</string>
+  <string name="operation_show_privacy_policy">Политика за поверителност</string>
 </resources>
