@@ -166,13 +166,13 @@
         <item>Никога не показвай името на оператора</item>
     </string-array>
     <string-array name="check_importance_entries">
-        <item>Препоръчвани</item>
-        <item>Важно</item>
-        <item>Маловажно</item>
+        <item>Препоръчани</item>
+        <item>Важни</item>
+        <item>Маловажни</item>
     </string-array>
     <string-array name="check_importance_summary">
         <item>MIUI ще реши кои известия трябва да се появят директно</item>
-        <item>Известията ще бъдат показвани директно в Лентата с известия</item>
+        <item>Известията ще се покажат директно в Лентата с известия</item>
         <item>Всички известия ще се покажат в отделна папка</item>
     </string-array>
     <string-array name="timezone_filters">

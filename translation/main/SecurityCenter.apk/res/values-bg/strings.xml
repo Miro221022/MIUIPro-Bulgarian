@@ -1450,7 +1450,7 @@
     <string name="activity_title_apps_manager">Приложения</string>
     <string name="activity_title_permissions_manager">Разрешения</string>
     <string name="dialog_title_auto_start_declare">За авто-стартирането</string>
-    <string name="dialog_msg_auto_start_declare">Някои защитни приложения може погрешно да показват, че MIUI не им разрешава да стартират. За да проверите разрешенията на всяко приложение поотделно, отидете на Настройки > Приложения.</string>
+    <string name="dialog_msg_auto_start_declare">Някои приложения може неправилно да показват, че MIUI не им позволява да стартират. Проверете разрешенията, предоставени на отделните приложения в Настройки > Приложения.</string>
     <string name="button_text_known">OK</string>
     <string name="empty_title_perm_apps">Празно</string>
     <string name="reject_all">Ограничи всички</string>

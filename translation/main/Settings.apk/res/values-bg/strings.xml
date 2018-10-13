@@ -1331,7 +1331,7 @@
     <string name="device_info_settings">Състояние на телефона</string>
     <string name="system_update_settings_list_item_title">Magisk Manager</string>
     <string name="firmware_version">Версия на Андроид</string>
-    <string name="security_patch">Ниво на корекцията за сигурност на Андроид</string>
+    <string name="security_patch">Актуализация на системата за безопасност</string>
     <string name="model_number">Модел</string>
     <string name="fcc_equipment_id">Идент. № на оборудването</string>
     <string name="baseband_version">Версия на радиомодула</string>
@@ -1881,12 +1881,12 @@
     <string name="app_disable_notifications_dlg_title">Да се изключат ли известията?</string>
     <string name="app_disable_notifications_dlg_text">Ако изключите известията за това приложение, може да пропуснете важни сигнали и актуализации.</string>
     <string name="app_install_details_group_title">App Store</string>
-    <string name="app_install_details_title">Подробности за прилож.</string>
+    <string name="app_install_details_title">Подробности за приложението</string>
     <string name="app_install_details_summary">Приложението е инсталирано от %1$s</string>
     <string name="app_ops_settings">Операции на приложението</string>
     <string name="app_ops_running">Изпълнява се</string>
     <string name="app_ops_never_used">(Никога не е използвано)</string>
-    <string name="no_default_apps">Няма стандартни прилож.</string>
+    <string name="no_default_apps">Няма стандартни приложеня</string>
     <string name="storageuse_settings_title">Употреба на хранилището</string>
     <string name="storageuse_settings_summary">Преглед на хранилището, използвано от приложения</string>
     <string name="service_restarting">Рестартиране</string>
@@ -4935,7 +4935,7 @@ Stable"</string>
     <string name="permission_settings_title">Разрешения на прил.</string>
     <string name="permission_settings_summary">Управление на разрешенията, свързани с местоположение, хранилище, телефон, съобщения и контакти.</string>
     <string name="permission_manage_global_build_title">Други разрешения</string>
-    <string name="application_permissions">Разрешения за приложения</string>
+    <string name="application_permissions">Разрешения за приложението</string>
     <string name="managed_profile_location_category">Служебен потр. профил</string>
     <string name="managed_profile_location_switch_lockdown">Изключено от фирмата ви</string>
     <string name="search_empty">Няма резултати от търсенето</string>
@@ -5730,7 +5730,7 @@ Stable"</string>
     <string name="unmute_sound_title">Активиране на звука</string>
 	<string name="structure_face_enroll_not_able_low_electric_itle">"Тази функция не може да се използва поради слаб заряд на батерията"</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">Батерията трябва да бъде заредена до поне 5%, за да започне записването.</string>
-	<string name="status_bar_settings_notification_shade_shortcut">Функция не прекия път в панела за известия</string>
+	<string name="status_bar_settings_notification_shade_shortcut">Функция на прекия път в панела за известия</string>
 	<string name="total_info_no_vibrator">Заглушаване на звуците с изключение на алармите</string>
 	<string name="miui_lab_install_drive_mode_error">"Неуспешно инсталиране,опитайте отново."</string>
     <string name="miui_lab_install_drive_mode_summary">"Автомобилният режим е системно приложение. Инсталирането не изисква интернет връзка."</string>
@@ -5782,7 +5782,7 @@ Stable"</string>
     <string name="to_close">Изключване</string>
 	<string name="security_status">Състояние на сигурността</string>
     <string name="security_status_title">Състояние на сигурността</string>
-    <string name="security_update">Актуализиране на защитата</string>
+    <string name="security_update">Актуализация на защитата</string>
     <string name="find_my_device">Намери устройството</string>
     <string name="find_my_device_disable">Изкл.</string>
     <string name="find_my_device_enable">Вкл.</string>
@@ -5891,7 +5891,7 @@ Stable"</string>
 	<string name="accessibility_screen_magnification_navbar_title">Увеличение с бутон</string>
 	<string name="accessibility_screen_magnification_navbar_summary">"Когато увеличението е включено, използвайте бутона за достъпност в долната част на екрана, за да увеличите бързо.
 
-"<b>To zoom</b>", докоснете бутона "Достъпност", след това докоснете където и да било на екрана.
+"<b>За да увеличите</b>", докоснете бутона "Достъпност", след това докоснете където и да било на екрана.
 "<ul> <li>Плъзнете 2 или повече пръста, за да превъртите</li>"
 "<li>Разтегнете с 2 или повече пръста, за да регулирате увеличението</li> </ul>"
 
@@ -5934,4 +5934,5 @@ Stable"</string>
 	<string name="dangerous_option">Настройки за разработчици с висок риск</string>
     <string name="dangerous_option_hint">%1$s е активиран. Докоснете, за да промените настройките.</string>
     <string name="dangerous_option_hint_title">Активирана е функция с висок риск</string>
+	<string name="input_assistance">Помощ за въвеждане</string>
 </resources>
