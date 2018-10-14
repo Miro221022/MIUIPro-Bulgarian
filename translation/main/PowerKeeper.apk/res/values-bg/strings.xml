@@ -45,10 +45,10 @@
     <string name="config_restrict_function_title">Ограничаване на процесите на заден план</string>
     <string name="config_restrict_running_title">Ограничаване на активността на заден план</string>
     <string name="config_restrict_running_warning">Приложенията ще се затварят във фонов режим. Това може да ги направи негодни.</string>
-    <string name="config_description">MIUI може да открие приложения, работещи на заден план (напр. чатове и навигации, медия плеъри), и да приложи Икономия на батерия в случай на вредна за батерията активност на заден план.</string>
+    <string name="config_description">MIUI може да идентифицира приложения, работещи на заден план (например чатове, навигации, медия плеъри) и да приложи Икономия на батерия в случай на вредна за батерията активност на заден план.</string>
     <string name="config_suggest_description">Използване на различни настройки за икономия за всяко приложение</string>
     <string name="config_no_restrict_description">Икономия на батерия няма да влияе на работата на приложенито</string>
-    <string name="config_restrict_function_description">Някои услуги (e.g., push уведомления) може да бъдат засегнати, но приложенията няма се затворят</string>
+    <string name="config_restrict_function_description">Някои функции (като например изкачащи известия) може да бъдат засегнати, но приложенията няма да бъдат затворени</string>
     <string name="config_restrict_running_description">Приложенията ще бъдат затворени за да се спести батерия</string>
     <string name="power_checker_partial_wakelock_title">%1$s пречи на MIUI да влезе в спящ режим</string>
     <string name="power_checker_wifi_scan_title">%1$s сканира твърде често за Wi-Fi</string>

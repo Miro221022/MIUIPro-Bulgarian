@@ -17,7 +17,7 @@
   <string name="miui_not_uninstall_system_app">Не може да се деинсталират системни приложения</string>
   <string name="no_application">Нищо</string>
   <string name="unlike">Не благодаря</string>
-  <string name="untrusted_external_source_warning">За вашата сигурност телефонът ви не може да инсталира неизвестни приложения от този източник.</string>
+  <string name="untrusted_external_source_warning">За вашата сигурност телефонът ви не може да инсталира приложения от неизвестни източници.</string>
   <string name="user_is_not_allowed_dlg_text">Настоящият потребител няма право да изпълнява тази деинсталация.</string>
   <string name="user_is_not_allowed_dlg_title">Не е разрешено</string>
   <string name="wear_app_channel">Инсталиране/Деинсталиране на Android Wear приложения</string>

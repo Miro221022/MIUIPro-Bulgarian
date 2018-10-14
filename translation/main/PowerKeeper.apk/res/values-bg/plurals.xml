@@ -20,4 +20,8 @@
         <item quantity="other">Завършена %1$d стъпки за отлючване на всички менюта</item>
         <item quantity="one">Завършена %1$d стъпка за отлючване на всички менюта</item>
     </plurals>
+	    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Търесене на %d приложения</item>
+        <item quantity="one">Търсене на %d приложение</item>
+    </plurals>
 </resources>
