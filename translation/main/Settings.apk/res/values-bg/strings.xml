@@ -310,7 +310,7 @@
     <string name="suw_next_button_label">Напред</string>
     <string name="suw_back_button_label">Назад</string>
     <string name="suw_more_button_label">Още</string>
-    <string name="privacy_authorize_revoke_title">Оторизация и отмяна</string>
+    <string name="privacy_authorize_revoke_title">Оторизация</string>
     <string name="enabled_authorised_apps_title">Дадено разрешение</string>
     <string name="enabled_authorised_apps_summary">Вашето разрешение ще бъде отменено, след като зададете превключване за отделни приложения.</string>
     <string name="disabled_authorised_apps_title">Отменено разрешение</string>
@@ -327,7 +327,7 @@
     <string name="privacy_authorize_revoke_failed">Разрешението не може да бъде отменено</string>
     <string name="privacy_authorize_success">Успешно е дадено разрешение</string>
     <string name="privacy_authorize_revoking">Отмяна на разрешението…</string>
-    <string name="privacy_authorize_cloud_msg">За да гарантирате сигурността на профила си, влезте в системата на i.mi.com, ако искате да отмените разрешението на услуги Mi Cloud (включително синхронизация и архивиране).</string>
+    <string name="privacy_authorize_cloud_msg">За да гарантирате сигурността на профила си, влезте в системата на i.mi.com, ако искате да отмените разрешението на Mi Cloud услугите (включително синхронизация и архивиране).</string>
     <string name="status_bar_and_notification_bar">Лента с известия и статус лента</string>
     <string name="status_bar_settings_manage_notification">Управление на известията</string>
     <string name="status_bar_settings_all_app_display_loading">Един момент…</string>
@@ -1266,7 +1266,7 @@
     <string name="search_settings">Търсене</string>
     <string name="search_settings_summary">Управление на настройки и история на търсене</string>
     <string name="display_settings">Дисплей</string>
-    <string name="accelerometer_title">Авт. завъртане на екрана</string>
+    <string name="accelerometer_title">Автоматочно завъртане на екрана</string>
     <string name="accelerometer_summary_on">Автоматично превключване на ориентацията при завъртане на телефона</string>
     <string name="accelerometer_summary_off">Автоматично превключване на ориентацията при завъртане на телефона</string>
     <string name="brightness">Ниво на яркостта</string>
@@ -2863,7 +2863,7 @@
     <string name="ringtone_title">Мелодия на телефон</string>
     <string name="notification_ringtone_title">Стандартна мелодия за известията</string>
     <string name="alarm_ringtone_title">Станд. мелодия на будилника</string>
-    <string name="vibrate_when_ringing_title">Вибриране и при обаждания</string>
+    <string name="vibrate_when_ringing_title">Вибриране при повикване</string>
     <string name="other_sound_settings">Други звуци</string>
     <string name="dial_pad_tones_title">Тонове при набиране</string>
     <string name="screen_locking_sounds_title">При заключване на екрана</string>
@@ -5113,9 +5113,9 @@ Stable"</string>
     <string name="manage_facerecoginition_text">Настройка на лицеви данни</string>
     <string name="face_unlock_enable">Отключването с лице е вкл</string>
     <string name="face_unlock_disable">Отключването с лице е изкл</string>
-    <string name="lockpattern_pattern_same_with_owner">Паролата трябва да е различна от тази за Основното работно място</string>
-    <string name="lockpattern_pattern_same_with_security_space">Трябва да се различава от паролата за Второ работно място</string>
-    <string name="lockpattern_pattern_same_with_others">Паролата трябва да е различна от тази за Второ работно място</string>
+    <string name="lockpattern_pattern_same_with_owner">Паролата трябва да е различна от тази за Основното пространство</string>
+    <string name="lockpattern_pattern_same_with_security_space">Трябва да се различава от паролата за Второ пространство</string>
+    <string name="lockpattern_pattern_same_with_others">Паролата трябва да е различна от тази за Второ пространство</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Потвърдете вашата фигура</string>
     <string name="lockpassword_confirm_your_private_pattern_header">Потвърдете вашата фигура</string>
     <string name="lockpassword_confirm_your_lock_password_header">Потвърдете вашата парола</string>

@@ -114,7 +114,7 @@
     <string name="tts_install_data_summary">Инсталирайте гласовите данни, необходими за синтез на речта</string>
     <string name="tts_engine_security_warning">Този двигател за синтез на реч може да е в състояние да събере целия текст, който ще бъде изречен, включително лични данни като пароли и номера на кредитни карти. Тя идва от %s двигател. Активирайте използването на този двигател за синтез на реч?</string>
     <string name="tts_engine_network_required">Този език изисква работеща мрежова връзка за изход от текст към говор.</string>
-    <string name="tts_default_sample_string">This is an example of speech synthesis</string>
+    <string name="tts_default_sample_string">Това е пример за синтез на речта</string>
     <string name="tts_status_title">Състояние на езика по подразбиране</string>
     <string name="tts_status_ok">%1$s се поддържа напълно</string>
     <string name="tts_status_requires_network">%1$s изисква връзка с мрежата</string>
@@ -122,9 +122,9 @@
     <string name="tts_status_checking">Проверка…</string>
     <string name="tts_engine_settings_title">Настройване за %s</string>
     <string name="tts_engine_settings_button">Стартиране на настройки за двигателя</string>
-    <string name="tts_engine_preference_section_title">Preferred engine</string>
-    <string name="tts_general_section_title">General</string>
-    <string name="tts_reset_speech_pitch_title">Reset speech pitch</string>
+    <string name="tts_engine_preference_section_title">Предпочитан двигател</string>
+    <string name="tts_general_section_title">Основни</string>
+    <string name="tts_reset_speech_pitch_title">Нулирайте тона на говора</string>
     <string name="tts_reset_speech_pitch_summary">Reset the pitch at which the text is spoken to default.</string>
     <string name="choose_profile">Choose Profile</string>
     <string name="category_personal">Personal</string>
