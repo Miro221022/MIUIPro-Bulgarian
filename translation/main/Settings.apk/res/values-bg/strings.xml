@@ -212,7 +212,7 @@
     <string name="enable_opengl_traces_title">Вкл на OpenGL трасиране</string>
     <string name="usb_audio_disable_routing">Изключване на USB аудио предаване</string>
     <string name="usb_audio_disable_routing_summary">Изключване на автоматично предаване чрез USB аудио периферия</string>
-    <string name="debug_layout">Покажи границите на оформл</string>
+    <string name="debug_layout">Покажи границите на оформление</string>
     <string name="debug_layout_summary">Показване на границите на клипа, полетата и др.</string>
     <string name="force_rtl_layout_all_locales">Задаване на посоката на оформлението на RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Задаване на посоката на оформление на екрана до RTL за всички локали</string>

@@ -1532,7 +1532,7 @@
         <item>AVRCP 1.6</item>
     </string-array>
 	    <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Използване на предпочитаният от системата (По подразбиране)</item>
+        <item>Системен избор (По подразбиране)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
@@ -1542,38 +1542,38 @@
         <item>Деактивиране на опционалните кодеци</item>
     </string-array>
 	    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Използване на предпочитаният от системата (по подразбиране)</item>
+        <item>Системен избор (по подразбиране)</item>
         <item>44.1 КХц</item>
         <item>48.0 КХц</item>
         <item>88.2 КХц</item>
         <item>96.0 КХц</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Използване на предпочитаният от системата (по подразбиране)</item>
+        <item>Системен избор (по подразбиране)</item>
         <item>44.1 КХц</item>
         <item>48.0 КХц</item>
         <item>88.2 КХц</item>
         <item>96.0 КХц</item>
     </string-array>
 	<string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Използване на предпочитаният от системата (по подразбиране)</item>
-        <item>16 бита/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Системен избор (по подразбиране)</item>
+        <item>16 бита/образец</item>
+        <item>24 бита/образец</item>
+        <item>32 бита/образец</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Използване на предпочитаният от системата (по подразбиране)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Системен избор (по подразбиране)</item>
+        <item>16 бита/образец</item>
+        <item>24 бита/образец</item>
+        <item>32 бита/образец</item>
     </string-array>
 	<string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Използване на предпочитаният от системата (по подразбиране)</item>
+        <item>Системен избор (по подразбиране)</item>
         <item>Моно</item>
         <item>Стерео</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Използване на предпочитаният от системата (по подразбиране)</item>
+        <item>Системен избор (по подразбиране)</item>
         <item>Моно</item>
         <item>Стерео</item>
     </string-array>
