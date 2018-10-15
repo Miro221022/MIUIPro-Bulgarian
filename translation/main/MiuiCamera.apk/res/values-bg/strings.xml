@@ -374,7 +374,7 @@
     <string name="confirm_install_scanner_title">Инсталирай скенер</string>
     <string name="confirm_install_scanner_message">Скенерът ще ви даде възможност да сканирате QR кодове, баркодове и други. Не се налага да се свързвате с интернет, за да го инсталирате.</string>
     <string name="photos_portrait_type_name">Портрет</string>
-    <string name="photos_portrait_type_description">Ефектът Портрет при заснемане запазва обекта на фокус и размива останалата част от фона.</string>
+    <string name="photos_portrait_type_description">Ефектът Портрет при заснемане запазва обекта на фокус и придава размазан ефект на фона.</string>
     <string name="color_effect_entry_vivid">Живо</string>
     <string name="color_effect_entry_film">Филм</string>
     <string name="color_effect_entry_koizora">Любов</string>
@@ -427,7 +427,7 @@
     <string name="config_name_timer">Таймер</string>
     <string name="config_name_sound">Звуково акт</string>
     <string name="config_name_straighten">Изправяне</string>
-    <string name="config_name_hht">HHT</string>
+    <string name="config_name_hht">Нощен режим</string>
     <string name="config_name_group">Групово селфи</string>
     <string name="config_name_tilt">Замъгляване</string>
     <string name="config_name_scene">Сцена</string>
@@ -513,7 +513,7 @@
     <string name="capture_back_pressed_hint">Докоснете отново, за да излезете</string>
     <string name="edit_eyebrow_dye">Подчертаване на вежди</string>
     <string name="edit_jelly_lips">Желирани устни</string>
-    <string name="eye_light">Eye light</string>
+    <string name="eye_light">Светлината на очите</string>
     <string name="eye_light_angel">Ангелска светлина</string>
     <string name="eye_light_comic">Комична светлина</string>
     <string name="eye_light_crescent">Светлина от полумесец</string>
@@ -525,9 +525,14 @@
     <string name="hint_eye_light">Осветлението ще бъде по-добро, когато светкавицата е включена</string>
     <string name="makeup_reset_toast">Премахнати са ефектите за грим</string>
     <string name="module_name_new_slow_motion">Забавен кадър</string>
-    <string name="pref_new_slow_motion_video_quality_240_720only">Можете да записвате само видеоклипове със 720P с 240FPS</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">Можете да записвате само видеоклипове със 720П с 240кад/сек</string>
 	<string name="portrait_mode_use_hint_for_bokeh">"Опитайте режим Портрет.
-Поддържайте обекта ясен, докато замъглявате фона."</string>
+Поддържайте обекта ясен, докато фона замъглен."</string>
    <string name="close_back_flash_toast">"Устройството ви е прегряло. В момента не може да се използва светкавица."</string>
    <string name="close_front_flash_toast">"Устройството ви е прегряло. В момента не може да се използва светкавица."</string>
+   <string name="accessibility_camera_lighting_close_panel">Затварено меню за осветление</string>
+   <string name="accessibility_camera_lighting_open_panel">Отворено меню за осветление</string>
+   <string name="lighting_pattern_null">Нула</string>
+   <string name="pref_camera_front_ai_scene_entry_on">Интелигентна камера е включена</string>
+   <string name="pref_camera_front_ai_scene_entry_off">Интелигентна камера е изключена</string>
 </resources>

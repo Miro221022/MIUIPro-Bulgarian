@@ -972,7 +972,7 @@
     <string name="power_consume_rank_software">Приложения</string>
     <string name="power_consume_rank_hardware">Система</string>
     <string name="power_consume_software_total_format">Приложения: %s</string>
-    <string name="power_consume_hardware_total_format">Хардуер: %s</string>
+    <string name="power_consume_hardware_total_format">Устройство: %s</string>
     <string name="power_consume_other">Други</string>
     <string name="battery_desc_other_apps">Разход на батерия от други приложения</string>
     <string name="power_settings_title">Задаване</string>
@@ -987,8 +987,8 @@
     <string name="details_subtitle">Подробности за употреба</string>
     <string name="packages_subtitle">Включени пакети</string>
     <string name="battery_desc_standby">Използвана при неактивно устройство батерия</string>
-    <string name="battery_desc_radio">Батерия, използване от клетъчно радио</string>
-    <string name="battery_desc_voice">Батерия, използвана от гласови обаждания</string>
+    <string name="battery_desc_radio">Батерия, използвана от клетъчно радио</string>
+    <string name="battery_desc_voice">Батерия, използвана за гласови обаждания</string>
     <string name="battery_desc_wifi">Батерия, използвана от Wi-Fi</string>
     <string name="battery_desc_bluetooth">Батерия, използвана от Bluetooth</string>
     <string name="battery_desc_display">Батерия, използвана от дисплея и подсветката</string>
@@ -1012,7 +1012,7 @@
     <string name="usage_type_wifi_running">Работещ Wi-Fi</string>
     <string name="usage_type_audio">Аудио</string>
     <string name="usage_type_video">Видео</string>
-    <string name="usage_type_on_time">Продължителност на включване</string>
+    <string name="usage_type_on_time">Активно състояние</string>
     <string name="battery_history_days">%1$dд %2$dч %3$dм %4$dс</string>
     <string name="battery_history_hours">%1$dч %2$dм %3$dс</string>
     <string name="battery_history_minutes">%1$dм %2$dс</string>
@@ -1026,13 +1026,13 @@
     <string name="shutdown_cancel_reminder">Предупреждение</string>
     <string name="shutdown_cancel_reminder_detail">Устройството не беше изключено в зададеното време, защото тогава провеждахте обаждане</string>
     <string name="shutdown_cancel_reminder_detail2">В момента изглежда играете игра. Планираното изключване ще бъде отменено.</string>
-    <string name="legal_workday_invalidate">Data expired(Currently ringing Moday to Friday)</string>
+    <string name="legal_workday_invalidate">Данните са невалидни(В момента текат от понеделник до петък)</string>
     <string name="legal_workday_invalidate_message">Натиснете за обновяване на списъка с официални празници.</string>
-    <string name="legal_workday_message">(Skip holidays smartly)</string>
+    <string name="legal_workday_message">(Прекарайте уютно празниците)</string>
     <string name="boot_time_day">Устройството ще се включи след %1$dд в %2$s</string>
     <string name="boot_time_day_tomorrow">Включване утре в/ъв %1$s</string>
     <string name="boot_time">Устройството ще се включи в %1$s</string>
-    <string name="battery_stats_on_battery">%1$s на батерия</string>
+    <string name="battery_stats_on_battery">Използва се от %1$s</string>
     <string name="battery_stats_charging_label">Зареждане</string>
     <string name="battery_stats_screen_on_label">Включен екран</string>
     <string name="battery_stats_gps_on_label">Включен GPS</string>
@@ -2402,7 +2402,7 @@
     <string name="handle_title_abnormal">Изтощаване на батерията</string>
     <string name="handle_title_app">Приложения</string>
     <string name="handle_title_details">Данни за използването на батерията</string>
-    <string name="handle_title_system">Използване на батерия от системата</string>
+    <string name="handle_title_system">Използване на батерията от системата</string>
     <string name="hide_mode_result_summary_text">Персонализирайте настройките на Пестене на батерията за отделни приложения</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="pc_settings_title">Настройки за използване на батерията</string>
@@ -2434,5 +2434,5 @@
     <string name="device_manager_apply_step_3">Уверете се, че разбирате всички възможни рискове, преди да продължите. Активиране като администратор на устройството на това приложение сега?</string>
 	<string name="first_aid_result_summary_not_finished">"Сканирането не е завършило. Някои рискове може да не са открити."</string>
     <string name="card_main_deepclean_whatsapp_title">WhatsApp почистване</string>
-    <string name="card_main_hwtest_title">Тест на хардуера</string>
+    <string name="card_main_hwtest_title">Тест на устройството</string>
 </resources>
