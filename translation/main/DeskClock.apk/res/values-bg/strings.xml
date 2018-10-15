@@ -208,7 +208,7 @@
   <string name="timer_pause_timer">Таймер на пауза</string>
   <string name="timer_running">Таймерът работи</string>
   <string name="timer_start_timer">Стартиране на таймер</string>
-  <string name="worldclock_input_hint_text">Въведете град</string>
+  <string name="worldclock_input_hint_text">Търсене на град или държава</string>
   <string name="worldclock_search_city">Изберете град</string>
   <string name="worldclock_world_time">Часови зони</string>
   <string name="worldcolock_timezone_current">Текуща: %1$s</string>
@@ -231,4 +231,8 @@
   <string name="other_category_title">Други</string>
   <string name="privacy_policy">Политика за поверителност</string>
   <string name="timer_created">Таймерът е зададен</string>
+  <string name="timer_alert_mute_off">Алармата ще звучи,когато таймера спре</string>
+  <string name="timer_alert_mute_on">"Аалармата няма да звучи,когато таймера спре"</string>
+  <string name="timer_alert_mute_remind">Докоснете, за да заглушите алармата</string>
+  <string name="timer_alert_mute_switch">Превключете за заглушаване на алармите на таймера</string>
 </resources>

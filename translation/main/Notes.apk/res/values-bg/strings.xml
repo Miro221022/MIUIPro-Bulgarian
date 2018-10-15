@@ -235,4 +235,8 @@
   <string name="setting_privacy">Политика за поверителност</string>
   <string name="toast_notes_hidden_edit">Тази бележка бе скрита успешно. Издърпайте надолу, за да видите скритите бележки.</string>
   <string name="toast_notes_hidden_home">Тази бележка бе скрита успешно. Издърпайте надолу, за да видите скритите бележки.</string>
+  <string name="cta_confirm_cancel">"Не разрешавай"</string>
+  <string name="cta_confirm_ok">Разреши</string>
+  <string name="cta_dialog_message">Бележки се нуждае от разрешения за свързване с интернет, запис на звук и достъп до контактите ви да работи нормално. Разрешавате ли?</string>
+  <string name="cta_dialog_title">Необходими са разрешения</string>
 </resources>

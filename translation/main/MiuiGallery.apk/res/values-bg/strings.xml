@@ -1316,4 +1316,12 @@
     <string name="story_remove_confirm_title">Премахване на снимки</string>
     <string name="story_rename_invalid_char">"Не може да се използва \"%s\" в заглавието на историята. Използвайте букви, цифри и китайски символи."</string>
     <string name="story_rename_invalid_prefix">"Заглавието на историята не може да започва с \".\" или \"_\""</string>
+	<string name="collage_select_image_range">Колажите могат да съдържат 1-4 снимки</string>
+    <string name="frame_not_support_image_ratio">"Това съотношение не се поддържа"</string>
+    <string name="operation_produce">Творчество</string>
+    <string name="photo_editor_crop_auto_tips">Изрязани автоматично</string>
+    <string name="photo_editor_frame">Рамка</string>
+    <string name="photo_movie_select_image_range">Клиповете могат да съдържат 3-6 снимки</string>
+    <string name="select_image_operation">Добавяне на снимки</string>
+    <string name="unsupport_video">"%s не работи с видеоклипове"</string>
 </resources>
