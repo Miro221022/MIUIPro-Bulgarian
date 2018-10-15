@@ -5935,4 +5935,5 @@ Stable"</string>
     <string name="dangerous_option_hint">%1$s е активиран. Докоснете, за да промените настройките.</string>
     <string name="dangerous_option_hint_title">Активирана е функция с висок риск</string>
 	<string name="input_assistance">Помощ за въвеждане</string>
+	<string name="no_channels">Това приложение не е публикувало никакви известия</string>
 </resources>
