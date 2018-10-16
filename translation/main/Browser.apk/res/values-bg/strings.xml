@@ -1342,4 +1342,6 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="suggestion_sliding_ads_info_mark_text">РЕКЛАМИ</string>
 	<string name="guide_know_type_main_title">Браузърът, който ви разбира</string>
 	<string name="guide_know_type_subtitle">Получете невероятни препоръки</string>
+	<string name="guide_slide_down">Моля,плъзнете надолу</string>
+    <string name="guide_slide_up">Моля,плъзнете нагоре</string>
 </resources>

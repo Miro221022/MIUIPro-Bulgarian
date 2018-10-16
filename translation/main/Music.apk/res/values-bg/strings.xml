@@ -1059,7 +1059,7 @@
    <string name="enjoy_hungama_pro">Насладете се на Hungama PRO</string>
    <string name="hd_quality_audio">HD аудио качество</string>
    <string name="hungama_batch_download_alert_summary">Само PRO членове могат да изтеглят няколко песни. Получете PRO членство сега?</string>
-   <string name="hungama_free_download_out_summary">"Не можете да изтегляте повече безплатни песни. Получаване на PRO членство за изтегляне на неограничен брой песни?"</string>
+   <string name="hungama_free_download_out_summary">"Не можете да изтегляте повече безплатни песни. Искате ли да получите PRO членство, за изтегляне на неограничен брой песни?"</string>
    <string name="individuation_card_login_button">Вписване</string>
    <string name="individuation_card_login_message">"Впишете се, за да намерите повече песни, които ще харесате"</string>
    <string name="individuation_card_title">За вас</string>
@@ -1072,4 +1072,6 @@
    <string name="unlimited_downloads">Неограничени изтегляния</string>
    <string name="unlimited_offline_songs">Неограничени офлайн песни</string>
    <string name="expand_button_title">Напреднал</string>
+   <string name="toast_is_pro">"Вече сте PRO член."</string>
+   <string name="toast_not_pro">Тази функция е достъпна само за PRO членове.</string>
 </resources>

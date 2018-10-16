@@ -2435,4 +2435,6 @@
 	<string name="first_aid_result_summary_not_finished">"Сканирането не е завършило. Някои рискове може да не са открити."</string>
     <string name="card_main_deepclean_whatsapp_title">WhatsApp почистване</string>
     <string name="card_main_hwtest_title">Тест на устройството</string>
+	<string name="summary_rcs_switch">Изпратете SMS до потребители на China Mobile без да плащате допълнителни такси</string>
+	<string name="title_rcs_switch">Включване на China Mobile Messaging</string>
 </resources>
