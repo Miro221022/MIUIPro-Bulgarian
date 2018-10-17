@@ -49,7 +49,7 @@
     <string name="calibrate_rotate_again">Опитайте отново</string>
     <string name="error_camera_unavailable_title">Камерата е недостъпна</string>
     <string name="error_camera_unavailable">Проверете дали в момента друго приложение на използва Камера.</string>
-    <string name="altitude_uncalibrate_tip">Не може да се калибрира височината</string>
+    <string name="altitude_uncalibrate_tip">Некалибрирани данни</string>
     <string name="altitude_uncalibrate_msg">Не може точно да се калибрира височината без GPS или връзка с мобилни данни.</string>
     <string name="altitude_uncalibrate_refresh">Нов опит</string>
     <string name="altitude_uncalibrate_cancel">Отказ</string>
