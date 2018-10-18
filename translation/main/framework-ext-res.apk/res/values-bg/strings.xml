@@ -189,4 +189,5 @@
 	<string name="talk_back_water_mark_string1">TalkBack е включен</string>
     <string name="talk_back_water_mark_string2">Натиснете и задръжте \"Volume+\" и \"Volume-\" за 3 секунди за изключване</string>
 	<string name="security_permission_network_failed_text">"Не може да се свърже с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
+	<string name="security_permission_open_wifi_settings">Отвори WLAN настройки</string>
 </resources>
