@@ -506,10 +506,10 @@
     <string name="micloud_find_device_close_alert_negtive">Изключи въпреки това</string>
     <string name="activate_finddevice">Свържете се с мрежата, за да активирате устройството</string>
     <string name="account_related">Устройството е свързано към съществуващ Mi профил(%s). Свържете се с мрежата, за да потвърдите устройството.</string>
-    <string name="connect_network">Connect to WLAN or insert a SIM card</string>
-    <string name="trying_to_connect_to_network">Connecting to the network…</string>
-    <string name="detect_sim_card">Search for SIM card again</string>
-    <string name="connect_wlan">Connect to WLAN</string>
+    <string name="connect_network">Свържете се с WLAN или поставете SIM карта</string>
+    <string name="trying_to_connect_to_network">Свързване към мрежата…</string>
+    <string name="detect_sim_card">Търси SIM картата отново</string>
+    <string name="connect_wlan">Свържете се с WLAN</string>
     <string name="soundrecorder_sync_records">Синхр. с Mi Cloud</string>
     <string name="soundrecorder_sync_only_in_wifi">Синхр. само чрез Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Звукозапис няма да използва мобилни данни за изтегляне и качване на записи</string>
@@ -517,7 +517,7 @@
     <string name="micloud_wipe_data_retain">Запази</string>
     <string name="micloud_wipe_data_remove">Премахване</string>
     <string name="wipe_data_dialog_title">Елементите не са синхронизирани</string>
-    <string name="wipe_data_dialog_button_check_sync">Маркирай, ако е синхронизирано</string>
+    <string name="wipe_data_dialog_button_check_sync">Проверка на синхр.</string>
     <string name="wipe_data_dialog_msg_and_on">, и някои други елементи</string>
     <string name="wipe_secret_photo_dialog_title">Скритите снимки не са синхронизирани</string>
     <string name="confirm_delete">Изтрий</string>

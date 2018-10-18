@@ -68,4 +68,8 @@
         <item quantity="other">Продължи синхронизирането след %d минути</item>
         <item quantity="one">Продължи синхронизирането след %d минута</item>
     </plurals>
+	<plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d записа в Личен асистент</item>
+        <item quantity="one">%d App запис в Личен асистент</item>
+    </plurals>
 </resources>
