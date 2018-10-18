@@ -45,8 +45,8 @@
         <item quantity="one">%d песен</item>
     </plurals>
     <plurals name="dirty_browser_count">
-        <item quantity="other">%d елементи на браузър</item>
-        <item quantity="one">%d елемент на браузър</item>
+        <item quantity="other">%d елементи на браузъра</item>
+        <item quantity="one">%d елемент на браузъра</item>
     </plurals>
     <plurals name="dirty_calendar_count">
         <item quantity="other">%d записи на календара</item>
