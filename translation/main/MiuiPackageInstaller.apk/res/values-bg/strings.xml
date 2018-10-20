@@ -546,7 +546,7 @@
     <string name="app_permissions_group_summary">%1$d от %2$d прилож. разрешени</string>
     <string name="menu_show_system">Покажи системни</string>
     <string name="menu_hide_system">Скрий системни</string>
-    <string name="permission_title">%1$s разрепения</string>
+    <string name="permission_title">%1$s разрешения</string>
     <string name="no_apps">Няма приложения</string>
     <string name="location_settings">Настройки за местоположение</string>
     <string name="location_warning">%1$s е доставчик на услуги за местоположение за това устройство. Достъпът до местоположението може да се промени от настройките за местоположение.</string>

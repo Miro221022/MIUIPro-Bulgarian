@@ -5969,4 +5969,5 @@ Stable"</string>
     <string name="slider_title_keji">Технология</string>
     <string name="slider_title_lingdong">Интелект</string>
     <string name="slider_title_zippo">ZIPPO</string>
+	<string name="notification_channels_other">Други</string>
 </resources>
