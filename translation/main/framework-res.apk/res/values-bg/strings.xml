@@ -1411,7 +1411,7 @@
     <string name="status_communication_speaker_summary">Извършва се обаждане чрез "свободни ръце". Звукът ще продължи да се възпроизвежда през високоговорителя, когато се свържат слушалки.</string>
     <string name="status_communication_summary">Провежда се обаждане. В момента можете да коригирате звука на обажданията.</string>
 	<string name="alert_windows_notification_channel_group_name">Изобразяване върху други приложения</string>
-    <string name="alert_windows_notification_channel_name">%s изобразяване върху други приложения</string>
+    <string name="alert_windows_notification_channel_name">%s се изобразява върху други приложения</string>
     <string name="alert_windows_notification_message">Ако не искате %s да използва тази функция, докоснете, за да отворите настройките и я изключете.</string>
     <string name="alert_windows_notification_title">%s се изобразява върху други приложения</string>
     <string name="alert_windows_notification_turn_off_action">ИЗКЛЮЧВАНЕ</string>
@@ -1438,4 +1438,5 @@
     <string name="notification_channel_voice_mail">Гласови съобщения</string>
     <string name="notification_channel_vpn">VPN статус</string>
     <string name="notification_channel_wfc">WLAN повиквания</string>
+	<string name="default_notification_channel_label">Без категория</string>
 </resources>

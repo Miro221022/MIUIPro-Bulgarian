@@ -3239,7 +3239,7 @@
     <string name="allow_overlay_description">Разрешението позволява на дадено приложение да се показва върху други използвани от вас приложения. Това може да възпрепятства работата ви с интерфейса им или да промени елементите, които мислите, че виждате в тях.</string>
     <string name="keywords_vr_listener">vr виртуална реалност приемател стерео помощна услуга</string>
     <string name="keywords_system_alert_window">системен сигнал прозорец диалогов прозорец изобразяване върху други приложения</string>
-    <string name="overlay_settings">Изобр. върху други приложения</string>
+    <string name="overlay_settings">Изобразяване върху други приложения</string>
     <string name="system_alert_window_summary" formatted="false">%d от %d прилож. има/т разрешение за изобр. върху др. приложения</string>
     <string name="filter_overlay_apps">Приложения с разрешение</string>
     <string name="system_alert_window_on">Да</string>
