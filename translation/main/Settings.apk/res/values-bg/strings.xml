@@ -4050,7 +4050,7 @@
     <string name="attempt_other_network">Избиране на друга мрежа</string>
     <string name="use_this_wlan">Използване на това Wi-Fi</string>
     <string name="search_label">Параметри</string>
-    <string name="search_hint">Търси в настройките</string>
+    <string name="search_hint">Търсене в настройките</string>
     <string name="search_description">Търсене на настройки</string>
     <string name="remove_from_frequently_fragment">Ще премахнете ли \"%s\" от бързите настройки?</string>
     <string name="frequently_fragment_tempty">Често използваните елементи ще бъдат показани тук</string>
@@ -5041,7 +5041,7 @@ Stable"</string>
     <string name="miui_enable_service_title">Услугата ще предприеме следните действия:</string>
     <string name="bluetooth_device_misc_title">Рядко използвани Bluetooth устройства</string>
     <string name="bt_rarely_used_device_title">Рядко използвани устройства (%d)</string>
-    <string name="search_input_hint">Търси в настройките</string>
+    <string name="search_input_hint">Търсене в настройките</string>
     <string name="back_button">Назад</string>
     <string name="launcher_title">Начален екран и последни</string>
     <string name="wifi_scan_notify_text_location_on">За да подобри точността на местоположението и за други цели, Google и други приложения могат да сканират за мрежи в района, дори когато WLAN е изключена. Ако не искате това да се случи, отидете на Разширени > Сканирането винаги е налице.</string>
