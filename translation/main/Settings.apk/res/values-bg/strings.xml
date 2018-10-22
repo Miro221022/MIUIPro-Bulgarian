@@ -1331,7 +1331,7 @@
     <string name="device_info_settings">Състояние на телефона</string>
     <string name="system_update_settings_list_item_title">Magisk Manager</string>
     <string name="firmware_version">Версия на Андроид</string>
-    <string name="security_patch">Актуализация на системата за безопасност</string>
+    <string name="security_patch">Актуализация на системата за сигурност</string>
     <string name="model_number">Модел</string>
     <string name="fcc_equipment_id">Идент. № на оборудването</string>
     <string name="baseband_version">Версия на радиомодула</string>
@@ -5814,7 +5814,7 @@ Stable"</string>
     <string name="miui_sos_call_log_summary">Изпращане историята на обажданията за последния час до вашия спешен контакт</string>
     <string name="miui_sos_call_log_title">Изпращане на историята на обажданията</string>
     <string name="miui_sos_call_warning_sim_unable">"Няма сигнал. Не може да се изпрати SMS."</string>
-    <string name="miui_sos_calling_summary">Устройството ви ще извърши автоматично обаждане до спешните контакти, като възпроизведе SOS гласово съобщение, което сте записали. The call will be ended after your message is finished playing. Auto call will stop after the first successful attempt.</string>
+    <string name="miui_sos_calling_summary">Устройството ви ще извърши автоматично обаждане до спешните контакти, като възпроизведе SOS гласово съобщение, което сте записали. Обаждането ще приключи, след като съобщението ви спре да се изпълнява. Автоматичното повикване ще спре след първия успешен опит.</string>
     <string name="miui_sos_calling_title">Автоматично повикване</string>
     <string name="miui_sos_contacts_add">Спешни контакти</string>
     <string name="miui_sos_contacts_category">Спешни контакти</string>
