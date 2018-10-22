@@ -574,4 +574,9 @@
     <string name="extreme_mode_dialog_message">"Тази функция не е налице в Екстремен режим. Изключете екстремния режим, за да можете да я използвате."</string>
     <string name="extreme_mode_dialog_ok">Разбрах</string>
     <string name="extreme_mode_dialog_title">Предупреждение</string>
+	<string name="component_title_settings_video_wallpaper">Тапети със специални ефекти</string>
+    <string name="theme_detail_tab_comment">Коментари</string>
+    <string name="theme_detail_tab_recommend">Препоръчани</string>
+    <string name="theme_detail_tab_theme">Теми</string>
+	<string name="title_my_miwallpaper_video_file_resource">Моите тапети филми</string>
 </resources>

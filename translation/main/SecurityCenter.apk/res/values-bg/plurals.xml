@@ -374,5 +374,11 @@
    <plurals name="first_aid_card_float_window_summary">
         <item quantity="other">%d приложения може би се показват неправилно. Ограничете плаващите известия.</item>
         <item quantity="one">%d приложение може би се показва неправилно. Ограничете плаващите известия.</item>
-  </plurals> 
+   </plurals> 
+   <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$с:</item>
+   </plurals>
+   <plurals name="game_booster_incoming_call_duration_p2">
+       <item quantity="other">%1$с</item>
+    </plurals>
 </resources>

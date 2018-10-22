@@ -5940,7 +5940,6 @@ Stable"</string>
     <string name="camera_rear">Задна %s</string>
     <string name="device_camera">Камера</string>
 	<string name="slider_app_open">Отвори приложението</string>
-    <string name="slider_app_open_name">Отвори</string>
     <string name="slider_app_open_none">Нищо</string>
     <string name="slider_button_title">Промяна</string>
     <string name="slider_choose_app">Изберете приложение</string>
@@ -5970,4 +5969,10 @@ Stable"</string>
     <string name="slider_title_lingdong">Интелект</string>
     <string name="slider_title_zippo">ZIPPO</string>
 	<string name="notification_channels_other">Други</string>
+	<string name="slider_global_summary_app">Бутнете екрана надолу, за да стартирате приложение</string>
+    <string name="slider_global_summary_drawer">Бутнете екрана надолу, за да отворите инструменти</string>
+    <string name="slider_global_summary_selfie">Бутнете екрана надолу, за направите селфи</string>
+    <string name="slider_tool_none_summary">Бутнете екрана надолу, за функцията няма отговор</string>
+    <string name="direct_boot_unaware_dialog_message">"Забележка: След рестартиране, това приложение не може да стартира, докато не отключите телефона си"</string>
+    <string name="slider_app_open_name">Отвори %1$s</string>
 </resources>

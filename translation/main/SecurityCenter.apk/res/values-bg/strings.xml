@@ -2439,4 +2439,5 @@
 	<string name="title_rcs_switch">Включване на China Mobile Messaging</string>
 	<string name="gamebox_app_not_find">Първо инсталирайте приложението.</string>
     <string name="gs_gamebox_slip">Бутнете екрана надолу,за да отворите</string>
+	<string name="ad_split_screen_title">Моля, преминете към режим на цял екран, за да отключите</string>
 </resources>

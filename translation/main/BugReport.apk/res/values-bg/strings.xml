@@ -344,14 +344,14 @@
 3. Върнете се на тази страница и докоснете \"Завършване и качване\"."</string>
   <string name="catch_full_log_item_title_audio">Аудио, звукозапис и звук при обаждания</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
-  <string name="catch_full_log_item_title_dump_heap">Lagging</string>
+  <string name="catch_full_log_item_title_dump_heap">Пълен отчет</string>
   <string name="catch_full_log_item_title_gps">Услуги за местоположение</string>
   <string name="catch_full_log_item_title_sensor">Сензори</string>
   <string name="catch_full_log_item_title_signal">Телефон, сигнал и мобилни мрежи</string>
   <string name="catch_full_log_item_title_wifi">WLAN и Mi Drop</string>
   <string name="catch_full_log_notification_content">Докоснете, за да се върнете в отчетите</string>
   <string name="catch_full_log_notification_title">Генериране на отчет…</string>
-  <string name="catch_full_log_start_dump_hprof">Generate lagging log</string>
+  <string name="catch_full_log_start_dump_hprof">Генериране на пълен отчет</string>
   <string name="catch_full_log_submit_directly">Изпращане</string>
   <string name="title_catch_full_log">Отчети</string>
   <string name="toast_catch_full_log_catching">Можете да генерирате само един отчет в даден момент.</string>

@@ -1045,7 +1045,7 @@
     <string name="answer_state_setting_title">Настройки на входящите обаждания</string>
     <string name="answer_state_setting_summary">Настройки за заглушаване, сензор за близост и др.</string>
     <string name="turnover_mute_title">Обръщане за заглушаване</string>
-    <string name="turnover_mute_summary">Обърнете за изключване на звука, докато телефона е в хоризонтално положение. Тази функция не работи, когато вибрацията при входящи повиквания е включена.</string>
+    <string name="turnover_mute_summary">Когато телефонът е на хоризонтална повърхност с екрана нагоре, преобърнете го, за да заглушите звъненето, да изключите вибрацията и да спрете мигащата светлина за известяване.</string>
     <string name="handon_ringer_summary">Телефонът няма да вибрира при входящо позвъняване</string>
     <string name="handon_ringer_title">Не вибрирай</string>
     <string name="crescendo_ringer_title">Увеличаващ се тон на звънене</string>

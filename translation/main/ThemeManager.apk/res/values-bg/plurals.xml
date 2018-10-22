@@ -12,4 +12,8 @@
         <item quantity="other">%d коментара</item>
         <item quantity="one">%d коментар</item>
     </plurals>
+	<plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s works</item>
+        <item quantity="one">%1$s work</item>
+    </plurals>
 </resources>
