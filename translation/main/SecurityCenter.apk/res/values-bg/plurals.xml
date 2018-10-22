@@ -25,12 +25,12 @@
         <item quantity="one">%d номер</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
-        <item quantity="other">Без следене на изп. данни за %d прил.</item>
-        <item quantity="one">Без следене на изп. данни за %d прил.</item>
+        <item quantity="other">Без следене на използвани данни за %d приложения</item>
+        <item quantity="one">Без следене на използвани данни за %d приложение</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
-        <item quantity="other">Следене на изп. данни за %d прил.</item>
-        <item quantity="one">Следене на изп. данни за %d прил.</item>
+        <item quantity="other">Следене на използвани данни за %d приложения</item>
+        <item quantity="one">Следене на използвани данни за %d приложение</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d приложения</item>
@@ -61,8 +61,8 @@
         <item quantity="one">Търсене на %d приложение</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d прил. могат да използват роуминг на данни</item>
-        <item quantity="one">%d прил. може да използва роуминг на данни</item>
+        <item quantity="other">%d приложения могат да използват роуминг на данни</item>
+        <item quantity="one">%d приложение може да използва роуминг на данни</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
         <item quantity="other">%d приложения не могат да използват роуминг на данни</item>
@@ -203,8 +203,8 @@
         <item quantity="one">Не сте синхронизирали информацията за използвани мобилни данни от оператора за %d ден</item>
     </plurals>
     <plurals name="summary_app_update">
-        <item quantity="other">Налични са актуализации за %d прил.</item>
-        <item quantity="one">Налична е актуализация за %d прил.</item>
+        <item quantity="other">Налични са актуализации за %d приложения</item>
+        <item quantity="one">Налична е актуализация за %d приложение</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d дни от последната проверка</item>

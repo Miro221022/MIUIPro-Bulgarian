@@ -52,9 +52,9 @@
     <item>час на актуализиране</item>
   </string-array>
   <string-array name="lock_mode">
-    <item>При заключено устройство</item>
-    <item>След изход от приложението</item>
-    <item>1 мин. след изход от прил.</item>
+    <item>Когато устройството е заключено</item>
+    <item>Когато устройството е заключено или след излизане от приложението</item>
+    <item>Когато устройството е заключено или 1 минута след излизането от приложението.</item>
   </string-array>
   <string-array name="mi_service_traffic_type">
     <item>"Мобилни данни "</item>

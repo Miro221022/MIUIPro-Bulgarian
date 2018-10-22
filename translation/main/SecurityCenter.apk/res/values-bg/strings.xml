@@ -406,7 +406,7 @@
     <string name="usage_sorted_empty_text">Празно</string>
     <string name="person_hotpot">Мобилни т.достъп</string>
     <string name="system_app">Системни приложения</string>
-    <string name="deleted_apps">Изтрити прил.</string>
+    <string name="deleted_apps">Изтрити приложения</string>
     <string name="root">ROOT достъп</string>
     <string name="app_detail">Детайли</string>
     <string name="app_version">Версия</string>
@@ -430,7 +430,7 @@
     <string name="pref_title_diagnostics_show_float_notification">Изскачащи известия</string>
     <string name="pref_title_traffic_speed_state">Показване на скороста на мрежата</string>
     <string name="pref_title_declaration">Отказ от отговорност</string>
-    <string name="pref_new_installed_preconfig_title">Стандартни настройки за нови прил.</string>
+    <string name="pref_new_installed_preconfig_title">Стандартни настройки за нови приложения</string>
     <string name="pref_bg_network_title">Връзка на заден план</string>
     <string name="pref_mi_sim_settings">%s настройки на пакета</string>
     <string name="pref_title_upload_data_usage">Докладвайте информация за използването на данни</string>
@@ -752,7 +752,7 @@
     <string name="local_ip_exception_summary">Неуспешно получаване на IP адрес. За да докладвате този проблем до MIUI, отидете в приложението Отзиви и изпратете лог от устройството ви.</string>
     <string name="renew_ip">Нов опит</string>
     <string name="network_permission_exception_tips">Не е възможно да използвате мобилни данни.</string>
-    <string name="open_now">Позволи на прил. използването на мобилни данни</string>
+    <string name="open_now">Позволи на приложението да използва мобилни данни</string>
     <string name="network_roaming_exception_tips">Не е възможно да използвате мобилни данни в роуминг.</string>
     <string name="network_mobile_exception_detail">"Вашето устройство не може да се свърже с интернет:\u000d
 \u000d
@@ -793,9 +793,9 @@
     <string name="network_changed_noti_summary">Използване на мобилни данни</string>
     <string name="network_speed_for_apps_title">Детайли за скоростта на връзката</string>
     <string name="network_speed_for_apps_total">Скорост на връзката</string>
-    <string name="network_speed_for_apps_close_app_dlg_msg">Да спре ли принуд. това прил.?</string>
-    <string name="network_speed_for_apps_close_system_app_dlg_msg">Не могат да се спират принуд. системни прил.</string>
-    <string name="network_speed_for_apps_close">Принуд. спиране</string>
+    <string name="network_speed_for_apps_close_app_dlg_msg">Принудително спиране на това приложение?</string>
+    <string name="network_speed_for_apps_close_system_app_dlg_msg">Не могат да се спират принудително системни приложения</string>
+    <string name="network_speed_for_apps_close">Принудително спиране</string>
     <string name="network_speed_for_apps_others">Други</string>
     <string name="tc_diagnostic_title">Диагностика на оператора</string>
     <string name="start_diagnostic_botton">Старт</string>
@@ -1049,9 +1049,9 @@
     <string name="power_analysis_consume_title">Употреба на батерия</string>
     <string name="power_analysis_suggestion_need_optimize">Открит е проблем при консумиране на батерия.</string>
     <string name="power_optimize_save_on_lockscreen">Икономия на енергия при закл. екран</string>
-    <string name="power_optimize_close_app">Спрете прил. с висока консумация</string>
-    <string name="power_optimize_disable_app_autostart">Забранете автостарт на прил.</string>
-    <string name="power_optimize_disable_start_other_app">Забранете прил. да отварят други прил.</string>
+    <string name="power_optimize_close_app">Спрете приложения с висока консумация</string>
+    <string name="power_optimize_disable_app_autostart">Забранете автостарт на приложения</string>
+    <string name="power_optimize_disable_start_other_app">Забранете приложенията да отварят други приложения</string>
     <string name="power_optimize_brightness">Яркост на екрана</string>
     <string name="power_optimize_open_hide_mode">Включване Икономия на батерията</string>
     <string name="power_optimize_auto_catagory_title">Проблеми с батерията</string>
@@ -1492,10 +1492,10 @@
     <string name="auto_handle_title">Оптимизирай автоматично</string>
     <string name="manual_item_white_list_title">Изключения</string>
     <string name="manual_item_white_list_summary">Ръчно упр. на изключенията</string>
-    <string name="pm_auto_start_by_system">Стартиращи прил.</string>
-    <string name="pm_auto_start_by_system_event">Разрешава прил. да стартират автоматично</string>
+    <string name="pm_auto_start_by_system">Стартиращи приложения</string>
+    <string name="pm_auto_start_by_system_event">Разрешава приложенията да стартират автоматично</string>
     <string name="pm_auto_start_by_other">Автоматичен старт</string>
-    <string name="pm_auto_start_by_other_app">Разрешава прил. да се стартират от други прил.</string>
+    <string name="pm_auto_start_by_other_app">Разрешава приложенията да се стартират от други приложения</string>
     <string name="pm_auto_start_proc_is_running">Изпълняващи се</string>
     <string name="empty_app">Няма приложения</string>
     <string name="pm_remember_choice">Не показвай отново</string>
@@ -1518,7 +1518,7 @@
     <string name="app_install_intercept">Блокирай инсталирането</string>
     <string name="pc_to_phone_install">Блокирано инсталиране на %s през USB</string>
     <string name="recently_reject_message_one">Отхвърлени %1$s заявки за инсталиране</string>
-    <string name="recently_reject_message">Отхвърлени инсталации на %1$s и %2$d други прил.</string>
+    <string name="recently_reject_message">Отхвърлени инсталации на %1$s и %2$d други приложения</string>
     <string name="delete_from_manual_item_white_list">Да се премахне ли от изключенията?</string>
     <string name="button_text_ignore">Игнорирай</string>
     <string name="button_text_ignore_alert_title">Да се игнорира ли предупреждението?</string>
@@ -1535,7 +1535,7 @@
     <string name="title_data_flow">Използване на мобилни данни</string>
     <string name="summary_data_flow">Контрол на използването на мобилни данни</string>
     <string name="title_telecom_operator">Автоматични настройки</string>
-    <string name="summary_telecom_operator">Използваните от вас данни, които виждате в прил. Данни са засечени на устройството ви, възможно е оператора да ги засича по различен начин. За да получавате инф-я директно от вашия оператор, включете тази функция.</string>
+    <string name="summary_telecom_operator">Получете месечните статистически данни за използването на данни от вашия оператор.</string>
     <string name="title_flow_verify">Инф. за използваните данни от оператора</string>
     <string name="summary_never_flow_verify">Не фиксирай обем на използвани данни</string>
     <string name="title_flow_verify_failed">Не може да се настрои за 5 дни на ред</string>
@@ -1568,7 +1568,7 @@
     <string name="title_miui_update">Налична е актуализация</string>
     <string name="summary_miui_update">Налична е актуализ. за %s.</string>
     <string name="title_virus_cloudscan">Сканирай за вируси облачното хранилище</string>
-    <string name="summary_virus_cloudscan">Изпращане име и детайли на прил. и сканиране с помощта на онлайн вирусни дефиниции</string>
+    <string name="summary_virus_cloudscan">Изпращане на име и детайли за приложенията и сканиране с помощта на онлайн вирусни дефиниции</string>
     <string name="title_cleaner_cloudscan">Сканирай кошчето на облачното хранилище</string>
     <string name="summary_cleaner_cloudscan">Изпращане и сравнение на папки с непознати имена с онлайн дефинициите</string>
     <string name="title_xiaomi_roaming">Виртуална SIM</string>
@@ -1579,7 +1579,7 @@
     <string name="toast_show_notification">Показвай в лентата с известия</string>
     <string name="toast_cleaner_cloudscan">Почистване ще използва онлайн дефинициите</string>
     <string name="toast_garbage_lib">Авт. актуализация за Почистване е включена</string>
-    <string name="title_app_lock_disable">Заключване на прил.</string>
+    <string name="title_app_lock_disable">Заключване на приложения</string>
     <string name="summary_app_lock_disable">Защитете данните си с App lock</string>
     <string name="info_and_call">Обаждания и съобщения</string>
     <string name="SMS_and_MMS">SMS и MMS</string>
@@ -1595,7 +1595,7 @@
     <string name="title_garbage_clean">Размерът на кеша на приложението достигна %s</string>
     <string name="summary_garbage_clean">Изтрийте кеша, за да освободите място</string>
     <string name="summary_consume_power">Открит е риск от прегряване на устройството, може да се отрази на батерията</string>
-    <string name="summary_default_app">\"%s не е зададено като стандартно системно прил.</string>
+    <string name="summary_default_app">\"%s не е зададено като стандартно системно приложение</string>
     <string name="notification_summary_cmcc_app_check">Докоснете за подробности.</string>
     <string name="title_cmcc_app_check">Проверката не е завършила</string>
     <string name="summary_cmcc_app_check">Някой приложения не бяха проверени</string>
@@ -1613,7 +1613,7 @@
     <string name="antivirus_privacy_dialog_title">Политика на поверителност</string>
     <string name="antivirus_privacy_dialog_summary">Тази функция криптира и изпраща идентификатора на устройството Ви на сървърите на Avast, AVL и Tencent (%s).</string>
     <string name="antivirus_privacy_dialog_summary_link">виж Политиката на поверителност</string>
-    <string name="antivirus_privacy_dialog_cloudscan">Качване на имена и детайли за прил.</string>
+    <string name="antivirus_privacy_dialog_cloudscan">Качване на имена и детайли за приложенията</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Качване и сканиране на имената и детайлите с помощта на онлайн вирусни дефиниции.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="pref_title_manual_check_virus_db_update">Проверка за актуализации</string>
@@ -1634,10 +1634,10 @@
     <string name="handle_title_network">Защита на Wi-Fi</string>
     <string name="handle_title_pay_env">Среда за плащане</string>
     <string name="handle_title_privacy">Поверителност и сигурност</string>
-    <string name="virus_auto_update_engine">Автом. актуализиране: %s</string>
+    <string name="virus_auto_update_engine">Автоматично актуализиране: %s</string>
     <string name="hints_scan_danger_result">Открит е риск, поправете сега</string>
     <string name="ss_activity_main_support_text">С подкрепата на %s</string>
-    <string name="hints_virus_app_summary">%s (прил.)</string>
+    <string name="hints_virus_app_summary">%s (приложения)</string>
     <string name="hints_virus_apk_summary">%s (apk)</string>
     <string name="hints_risk_name_title">Риск:</string>
     <string name="hints_risk_descx_title">Описание:</string>
@@ -1723,12 +1723,12 @@
     <string name="card_main_overscroll_tips">Оптимизация</string>
     <string name="card_main_gamebooster_title">Ускорител за игри</string>
     <string name="skin_change_close_toast">Промените ще бъдат приложени следващия път, когато стартирате приложението</string>
-    <string name="password_type">Променете паролата</string>
-    <string name="password_type_underline"><u>Смяна на парола</u></string>
+    <string name="password_type">Промяна на паролата</string>
+    <string name="password_type_underline"><u>Промяна на паролата</u></string>
     <string name="Setting_lock">Настройки</string>
     <string name="more_lock">Още</string>
     <string name="app_name">Заключване на приложения</string>
-    <string name="back_app_name">Върнете се в Закл. приложения</string>
+    <string name="back_app_name">Върнете се в Заключени приложения</string>
     <string name="ac_notification_contentTitle">Защитете приложенията чрез Заключване на приложения</string>
     <string name="ac_pre_notification_contentTitle">Опитайте Заключване на приложения</string>
     <string name="ac_post_notification_contentTitle">Включете Заключване на приложения</string>
@@ -1742,7 +1742,7 @@
     <string name="ac_pre_notification_contentText">Защитете вашата лична информация</string>
     <string name="ac_post_notification_contentText">Получете защита на ниво система</string>
     <string name="notification_masked_subtitle">Скрий известията от приложенията, защитени от Закл. приложения</string>
-    <string name="ac_enter_applock">Вход в закл. на прил.</string>
+    <string name="ac_enter_applock">Вход в Заключени на приложения</string>
     <string name="ac_mask_all_apps">Скрий за всички приложения</string>
     <string name="ac_unmask_all_apps">Покажи за всички приложения</string>
     <string name="ac_summaryOn">Включено, изисква се парола за вход в приложенията</string>
@@ -1819,7 +1819,7 @@
     <string name="fingerprint_verify_try_agin">Не може да се сканира, опитайте отново</string>
     <string name="cancal_to_setting_fingerprint">Отказ</string>
     <string name="go_to_setting_fingerprint">Настройки</string>
-    <string name="fingerprint_remind_dialog_title">Отключване с пръст</string>
+    <string name="fingerprint_remind_dialog_title">Отключване с пръстов отпечатък</string>
     <string name="confirm_fingerprint_msg">Потвърдете вашия пръстов отпечатък</string>
     <string name="fingerprint_identify_msg">Включете отключване с пръстов отпечатък</string>
     <string name="fingerprint_not_identified_msg">За да отключите устройството, въведете паролата си.</string>
@@ -1836,7 +1836,7 @@
     <string name="applock_not_login_account">Не сте вписан</string>
     <string name="applock_bind_account_title">Забравена парола</string>
     <string name="applock_close_dialog_title">Изкл. на Заключване на приложения?</string>
-    <string name="applock_close_dialog_summary">Всички скрити приложения вече няма да бъдат скрити, техните преки пътища ще бъдат възстановени и вашата парола за Закл. прил. ще бъде изтрита. Изключване на Закл. на прил.?</string>
+    <string name="applock_close_dialog_summary">Всички скрити приложения вече няма да бъдат скрити, техните преки пътища ще бъдат възстановени и вашата парола за Заключени приложения ще бъде изтрита. Изключване на Заключени на приложения?</string>
     <string name="applock_header_text_less_than_half">Прекалено малко. Начертайте още.</string>
     <string name="quite_all_string">Отказ</string>
     <string name="delete_input">Изтрий</string>

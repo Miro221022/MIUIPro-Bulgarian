@@ -3832,7 +3832,7 @@
     <string name="apn_general">Интернет</string>
     <string name="touch_title">Докосване</string>
     <string name="touch_sensitive_title">Режим \"С ръкавици\"</string>
-    <string name="touch_sensitive_summary">Повишава чувствителността на екрана, за да работите с телефона в ръкавици</string>
+    <string name="touch_sensitive_summary">Прави екрана по-чувствителен на натиск</string>
     <string name="touch_sensitive_turn_off_title">Изключване на режим \"С ръкавици\"</string>
     <string name="touch_sensitive_turn_off_summary">Включване на режим случайна употреба?</string>
     <string name="touch_sensitive_turn_off_confirm">Потвърди</string>
@@ -5789,7 +5789,7 @@ Stable"</string>
 	<string name="status_bar_settings_customer_feedback">отзиви</string>
     <string name="status_bar_settings_function_description">Оносно тази функция</string>
     <string name="status_bar_settings_user_fold_description1">Папката за известия бе въведена в MIUI 9. Тази функция филтрира маловажни известия и ги поставя в отделна папка.</string>
-    <string name="status_bar_settings_user_fold_description2">MIUI ще запомни кои известия докосвате и след това използвайте няколко критерия, за да определите дали те са важни.</string>
+    <string name="status_bar_settings_user_fold_description2">MIUI ще запомни кои известия докосвате и след това да използвате няколко критерия, за да определите дали те са важни.</string>
     <string name="status_bar_settings_user_fold_description3">"Ако известията, които смятате за важни, продължават да се показват в папката за известия, уверено ни съобщете за тези проблеми. Бихме оценили вашите отзиви."</string>
     <string name="status_bar_settings_user_fold_disable">Изкл.</string>
     <string name="status_bar_settings_user_fold_enable">Вкл.</string>
