@@ -1383,7 +1383,7 @@
     <string name="sd_insert_summary">Вмъкнете USB за свързване</string>
     <string name="sd_mount">Свързване на USB</string>
     <string name="sd_format">Изтриване на USB</string>
-    <string name="sd_format_summary">Изтрива всички данни във вътрешното USB хранилище, като музика и снимки</string>
+    <string name="sd_format_summary">Изтрива всички данни във вътрешното SD картата, като музика и снимки</string>
     <string name="memory_clear_cache_title">Да се изчистят ли кешираните данни?</string>
     <string name="memory_clear_cache_message">Това ще изчисти кешираните данни за всички приложения</string>
     <string name="mtp_ptp_mode_summary">Активна е функция за MTP или PTP</string>
@@ -3874,8 +3874,8 @@
     <string name="screenshot_three_gesture">Плъзнете три пръста надолу по дисплея за снимка на екрана</string>
     <string name="screenshot_three_gesture_summary">Другите жестове с три пръста ще бъдат изключени</string>
     <string name="has_screenshot_sound">Звук за снимка на екрана</string>
-    <string name="key_settings_title">Преки пътища за клавиши и жестове</string>
-    <string name="key_settings">Преки пътища за клавиши и жестове</string>
+    <string name="key_settings_title">Бутони и жестове за бърз достъп</string>
+    <string name="key_settings">Бутони и жестове за бърз достъп</string>
     <string name="key_position_cat">Позиции на бутоните</string>
     <string name="screen_key_position">Бутони за навигация</string>
     <string name="screen_key_press">Натискане на бутоните</string>
@@ -5976,4 +5976,5 @@ Stable"</string>
     <string name="direct_boot_unaware_dialog_message">"Забележка: След рестартиране, това приложение не може да стартира, докато не отключите телефона си"</string>
     <string name="slider_app_open_name">Отвори %1$s</string>
 	<string name="status_bar_settings_notification_style">Стил на известията</string>
+	<string name="miui_master_clear_summary">Изтрива всички данни от телефона</string>
 </resources>
