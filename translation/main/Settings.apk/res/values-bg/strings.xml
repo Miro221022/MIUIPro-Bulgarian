@@ -5977,4 +5977,6 @@ Stable"</string>
     <string name="slider_app_open_name">Отвори %1$s</string>
 	<string name="status_bar_settings_notification_style">Стил на известията</string>
 	<string name="miui_master_clear_summary">Изтрива всички данни от телефона</string>
+	<string name="enable_atrace">Включи ATrace</string>
+    <string name="enable_atrace_summary">Улавяне на събития в ядрото чрез ATrace</string>
 </resources>

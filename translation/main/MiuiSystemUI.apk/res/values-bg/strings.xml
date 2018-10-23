@@ -1735,4 +1735,6 @@
    <string name="notch_sos_status_bar_title">SOS</string>
    <string name="sos_status_bar_summary">кликнете, за изход</string>
    <string name="sos_status_bar_title">SOS</string>
+   <string name="enable_atrace">Включи ATrace</string>
+   <string name="enable_atrace_summary">Улавяне на събития в ядрото чрез ATrace</string>
 </resources>
