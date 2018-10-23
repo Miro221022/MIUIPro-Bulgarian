@@ -3772,7 +3772,7 @@
     <string name="device_cpu10_info">"Десетядрен "</string>
     <string name="max_cpu10_info">"Десетядрен Макс.Честота "</string>
     <string name="instruction_title">Важна информация за безопасността</string>
-    <string name="my_device_disclaimer">Бележка: Информацията за хардуера, включително CPU, капацитет на батерията, размер на екрана и неговата резолюция, са предоставени от Xiaomi.</string>
+    <string name="my_device_disclaimer">Забележка: Информацията за устройството, включително процесор, капацитет на батерията, размер на екрана и неговата резолюция, са предоставени от Xiaomi.</string>
     <string name="approve_title">Сертифициране</string>
     <string name="update_new_version">Налична е актуализация</string>
     <string name="notification_update_new_version">Налична е актуализация</string>
