@@ -403,15 +403,15 @@
     <string name="theme_component_title_framework">Система</string>
     <string name="theme_component_title_icon">Икони</string>
     <string name="theme_component_title_launcher">Начален екран</string>
-    <string name="theme_component_title_lockstyle">Заключване</string>
-    <string name="theme_component_title_lockwallpaper">Тапет на закл.</string>
+    <string name="theme_component_title_lockstyle">Заключен екран</string>
+    <string name="theme_component_title_lockwallpaper">Тапет на заключен екран</string>
     <string name="theme_component_title_miwallpaper">MIUI тапет</string>
     <string name="theme_component_title_mms">Съобщения</string>
     <string name="theme_component_title_notification">Известия</string>
     <string name="theme_component_title_others">Други</string>
     <string name="theme_component_title_photo_frame">Фоторамка</string>
     <string name="theme_component_title_ringtone">Мелодия</string>
-    <string name="theme_component_title_statusbar">Статус лента</string>
+    <string name="theme_component_title_statusbar">Лента за състоянието</string>
     <string name="theme_component_title_wallpaper">Тапет</string>
     <string name="theme_current_using_has_update">Текущата тема беше обновена, натиснете тук за да я приложите</string>
     <string name="theme_description_title_customized">По избор</string>
@@ -468,7 +468,7 @@
     <string name="wallpaper_crop">Подрежи</string>
     <string name="wallpaper_decoded_error">Тапетът не може да се зареди</string>
     <string name="wallpaper_scroll_type_tips">Сменящи се тапети</string>
-    <string name="wallpaper_set_as_both">Начало и закл. екран</string>
+    <string name="wallpaper_set_as_both">Начален и заключен екран</string>
     <string name="wallpaper_set_as_destop">Начален екран</string>
     <string name="wallpaper_set_as_lockscreen">Задай за заключен екран</string>
     <string name="wallpaper_settings">Настройки на тапетите</string>
@@ -579,4 +579,6 @@
     <string name="theme_detail_tab_recommend">Препоръчани</string>
     <string name="theme_detail_tab_theme">Теми</string>
 	<string name="title_my_miwallpaper_video_file_resource">Моите тапети филми</string>
+	<string name="wallpaper_set_as_desktop">Задай за начален екран</string>
+	<string name="set_color_ring_back_tone">Задайте персонализиран тон на позвъняване</string>
 </resources>
