@@ -1378,12 +1378,12 @@
     <string name="memory_music_usage">Аудио (музика, мелодии, подкаст емисии и др.)</string>
     <string name="memory_media_misc_usage">Други файлове</string>
     <string name="memory_media_cache_usage">Кеширани данни</string>
-    <string name="sd_eject">Спиране на сподел. хран.</string>
-    <string name="sd_eject_summary">Спиране на вътрешното USB</string>
-    <string name="sd_insert_summary">Вмъкнете USB за свързване</string>
-    <string name="sd_mount">Свързване на USB</string>
-    <string name="sd_format">Изтриване на USB</string>
-    <string name="sd_format_summary">Изтрива всички данни във вътрешното SD картата, като музика и снимки</string>
+    <string name="sd_eject">Демонтиране на SD картата</string>
+    <string name="sd_eject_summary">Демонтирайте SD картата, за да можете безопасно да я премахнете</string>
+    <string name="sd_insert_summary">Поставете SD карта за монтиране</string>
+    <string name="sd_mount">Монтиране на SD картата</string>
+    <string name="sd_format">Изтриване на SD картата</string>
+    <string name="sd_format_summary">Изтрива всички данни на SD картата, като например музика и снимки</string>
     <string name="memory_clear_cache_title">Да се изчистят ли кешираните данни?</string>
     <string name="memory_clear_cache_message">Това ще изчисти кешираните данни за всички приложения</string>
     <string name="mtp_ptp_mode_summary">Активна е функция за MTP или PTP</string>
@@ -1594,8 +1594,8 @@
     <string name="master_clear_desc_erase_external_storage">"\"
 
 За да изчистите музиката, снимките и другите потребителски данни, трябва да се изтрие \"&lt;b>USB хранилището&lt;/b>."</string>
-    <string name="erase_external_storage">Изтриване на USB хранилището</string>
-    <string name="erase_external_storage_description">Изтриване на всички данни във вътрешното USB хранилище, като музика или снимки</string>
+    <string name="erase_external_storage">Изтриване на SD картата</string>
+    <string name="erase_external_storage_description">Изтриване на всички данни на SD картата, като например музика или снимки</string>
     <string name="master_clear_button_text">Нулиране на телефона</string>
     <string name="master_clear_final_desc">Да се изтрият ли цялата ви лична информация и всички изтеглени приложения? Не можете да отмените това действие!</string>
     <string name="master_clear_final_button_text">Изтриване на всичко</string>

@@ -89,8 +89,8 @@
         <item quantity="one">"%d час "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d мин. "</item>
-        <item quantity="one">"%d мин. "</item>
+        <item quantity="other">"%d минути "</item>
+        <item quantity="one">"%d минута "</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">След %1$d минути</item>
@@ -227,8 +227,8 @@
         <item quantity="one">Троянски кон: %d</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">"Изчакайте %d секунди и опитайте пак. "</item>
-        <item quantity="one">"Изчакайте %d секунда и опитайте пак. "</item>
+        <item quantity="other">"Изчакайте %d секунди и опитайте отново. "</item>
+        <item quantity="one">"Изчакайте %d секунда и опитайте отново. "</item>
     </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d приложения</item>
