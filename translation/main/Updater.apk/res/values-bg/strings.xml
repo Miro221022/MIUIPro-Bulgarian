@@ -140,10 +140,10 @@
   <string name="miui_summary_updating">"  Актуализиране…  "</string>
   <string name="mobile_download">Изтегляне чрез мобилни данни</string>
   <string name="mobile_download_end_time">Изключване на автоматично изтегляне</string>
-  <string name="mobile_download_msg">Ако имате абонаментен план с неограничен мобилен интернет, вие можете да включите автоматичното изтегляне с използване на мобилни данни. След като направите това, актуализациите ще бъдат изтегляни през определен период от време, според вашата настройка.</string>
+  <string name="mobile_download_msg">Ако имате абонаментен план с неограничен мобилен интернет, вие можете да включите автоматичното чрез използване на мобилни данни. След като направите това, актуализациите ще бъдат изтегляни през определен период от време, според вашата настройка.</string>
   <string name="mobile_download_start_time">Включване на автоматично изтегляне</string>
   <string name="mobile_download_sum">Изтегляне на актуализации автоматично през определен период от време с използване на мобилни данни</string>
-  <string name="mobile_download_title">Актуализиране с използване на мобилни данни?</string>
+  <string name="mobile_download_title">Актуализиране чрез мобилни данни?</string>
   <string name="monthly_build">Месечна</string>
   <string name="my_best_update">Най-добра актуализация</string>
   <string name="my_expect_update">Очаквания</string>
