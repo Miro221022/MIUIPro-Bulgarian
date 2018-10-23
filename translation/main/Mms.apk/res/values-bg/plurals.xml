@@ -68,4 +68,8 @@
      <item quantity="other">Маркирано като %2$s от %1$d потребители</item>
      <item quantity="one">Маркирано като %2$s от %1$d потребител</item>
   </plurals>
+      <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Съобщение, получено от %1$s от %2$d други хора</item>
+        <item quantity="one">Съобщение, получено от %1$s и %2$d друг човек</item>
+    </plurals>
 </resources>

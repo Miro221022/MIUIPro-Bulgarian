@@ -381,4 +381,8 @@
     <plurals name="game_booster_incoming_call_duration_p2">
         <item quantity="other">%1$s</item>
     </plurals>
+	<plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Изтощени са %2$d%% от батерията през последните %1$d минути</item>
+        <item quantity="one">Изтощен е %2$d%% от батерията през последната %1$d минута</item>
+    </plurals>
 </resources>

@@ -5,7 +5,7 @@
   <string name="activity_not_found_uri">Не е открита програма за това действие</string>
   <string name="add_attachment">Добави прик. файлове</string>
   <string name="add_contact">Добави контакт</string>
-  <string name="add_miui_contact">Mi Карта</string>
+  <string name="add_miui_contact">Контакт</string>
   <string name="add_music">Добави музика</string>
   <string name="add_number_to_sender">Добави номер към %s</string>
   <string name="add_picture">Добави снимка</string>
@@ -736,7 +736,7 @@
   <string name="rcs_send_rms_remind_title">Изпращане на съобщения чрез China Mobile Messaging</string>
   <string name="rcs_setting">Настройки за China Mobile Messaging</string>
   <string name="rcs_silence_message">Заглушаване на известията за съобщения</string>
-  <string name="rcs_summary_auto_resend_mms">"Конвертиране на China Mobile мултимедийните съобщения в SMS след като оригиналното съобщение не може да бъде изпратено. Вашият оператор ще ви таксува за това съобщение."</string>
+  <string name="rcs_summary_auto_resend_mms">"Конвертиране на China Mobile мултимедийните съобщения в MMS след като оригиналното съобщение не може да бъде изпратено. Вашият оператор ще ви таксува за това съобщение."</string>
   <string name="rcs_summary_auto_resend_sms">"Конвертиране на China Mobile текстови съобщения в SMS след като оригиналното съобщение не може да бъде изпратено. Вашият оператор ще ви таксува за това съобщение."</string>
   <string name="rcs_summary_silence_message">Заглушаване на известията когато клиента за компютър работи</string>
   <string name="rcs_wait_for_retry_text">Изчакване</string>
@@ -772,4 +772,5 @@
   <string name="mark_number_by_own_dialog_subtitle">Маркирано като %1$s</string>
   <string name="rcs_dspt_unavailable">"Тази функция не може да се използва в момента. China Mobile SIM картата не е вашата стандартна карта за данни."</string>
   <string name="rcs_service_agreement">Споразумение за обслужване</string>
+  <string name="rcs_unavailable">"Не може да се използва China Mobile Messaging в момента. China Mobile SIM карта не е вашата карта по подразбиране."</string>
 </resources>

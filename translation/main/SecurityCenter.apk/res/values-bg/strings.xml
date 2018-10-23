@@ -2440,4 +2440,7 @@
 	<string name="gamebox_app_not_find">Първо инсталирайте приложението.</string>
     <string name="gs_gamebox_slip">Бутнете екрана надолу,за да отворите</string>
 	<string name="ad_split_screen_title">Моля, преминете към режим на цял екран, за да отключите</string>
+	<string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s мАч</string>
 </resources>

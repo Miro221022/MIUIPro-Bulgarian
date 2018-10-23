@@ -1592,4 +1592,8 @@
         <item>Включване на режим за четене</item>
         <item>Няма</item>
     </string-array>
+	    <string-array name="status_bar_settings_notification_style_entries">
+        <item>MIUI</item>
+        <item>Андроид</item>
+    </string-array>
 </resources>
