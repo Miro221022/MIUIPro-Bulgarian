@@ -5979,4 +5979,12 @@ Stable"</string>
 	<string name="miui_master_clear_summary">Изтрива всички данни от телефона</string>
 	<string name="enable_atrace">Включи ATrace</string>
     <string name="enable_atrace_summary">Улавяне на събития в ядрото чрез ATrace</string>
+	<string name="allow_device_id_access">Приложения с идентификация на устройството</string>
+    <string name="device_id">Идентификация на устройството</string>
+    <string name="pref_show_lunar_calendar_title">Показване на традиционния китайски календар на заключен екран</string>
+    <string name="restore_device_id_content">Нулиране на персонализирана препоръка</string>
+    <string name="restore_device_id_title">Възстановяване на идентификацията на устройството</string>
+    <string name="restore_dialog_content">Възстановяването на идентификацията на устройството ще нулира вашите персонализирани препоръки.</string>
+    <string name="restore_dialog_positive">Възстанови</string>
+    <string name="restore_dialog_title">Напомняне</string>
 </resources>

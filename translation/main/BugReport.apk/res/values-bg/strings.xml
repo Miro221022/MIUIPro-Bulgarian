@@ -322,7 +322,7 @@
   <string name="feedback_status_upload_log_failed">"Прикачените файлове не можаха да бъдат качени"</string>
   <string name="toast_loading_app_id">Получаване на информация…</string>
   <string name="reply_option_log_hint">По избор</string>
-  <string name="reply_select_log_hint">Изберете регистрационен файл</string>
+  <string name="reply_select_log_hint">Изберете отчет</string>
   <string name="privacy_policy_title">Политика за поверителност</string>
   <string name="tab_title_preferences">Настройки</string>
   <string name="privacy_category_title">Поверителност</string>

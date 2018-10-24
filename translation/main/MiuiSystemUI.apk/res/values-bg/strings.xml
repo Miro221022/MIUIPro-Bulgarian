@@ -1680,8 +1680,8 @@
   <string name="structure_face_data_input_timeout_title">Опитай отново</string>
   <string name="structure_face_data_manage_delete_msg">Изтриване на 3D лицеви данни</string>
   <string name="structure_face_hardware_abnormal_btn">Разбрах</string>
-   <string name="structure_face_hardware_abnormal_msg">"Не може да се запишат лицеви данни поради грешка в лазера. Свържете се с отдела за обслужване на клиенти, за да получите помощ."</string>
-   <string name="structure_face_hardware_abnormal_title">Лазерна грешка</string>
+   <string name="structure_face_hardware_abnormal_msg">"Възникна грешка в хардуера. Рестартирайте устройството си. Ако това не помогне, наберете 400–100–5678, за да получите помощ."</string>
+   <string name="structure_face_hardware_abnormal_title">Грешка в хардуера</string>
    <string name="structure_face_modules_abnormal_btn">Рестарт</string>
    <string name="structure_face_modules_abnormal_msg">"Не може да се запишат лицеви данни поради грешка в оптичния модул. Рестартирайте устройството си и опитайте отново."</string>
    <string name="structure_face_modules_abnormal_title">Грешка в оптичния модул</string>
