@@ -26,11 +26,11 @@
   <string name="auto_update_sum">MIUI ще избере най-подходящото време за да инсталира актуализациите</string>
   <string name="autosetmode">Настройки</string>
   <string name="best_update">Най-добра актуализация</string>
-  <string name="boot_recovery">Рестартиране в режим \"Recovery\"</string>
+  <string name="boot_recovery">Рестартиране в режим \"Възстановяване\"</string>
   <string name="button_delay_update_reboot">Рестартирай и обнови</string>
   <string name="button_text_check">Проверка</string>
-  <string name="button_text_reboot">Рестарт сега</string>
-  <string name="button_text_reboot_hm">След рестарт</string>
+  <string name="button_text_reboot">Рестартиране сега</string>
+  <string name="button_text_reboot_hm">Актуализиране</string>
   <string name="button_text_update">Актуализирай</string>
   <string name="cancel">Отказ</string>
   <string name="cancel_download">Да спре ли изтеглянето на актуализацията?</string>
@@ -131,7 +131,7 @@
   <string name="menu_title_download_current_rom">Изтегляне на актуализацията</string>
   <string name="menu_title_feedback">Обратна връзка</string>
   <string name="menu_title_pick_rom_file">Избор на инсталационен пакет</string>
-  <string name="menu_title_recovery">Рестартиране в режим \"Recovery\"</string>
+  <string name="menu_title_recovery">Рестартиране в режим \"Възстановяване\"</string>
   <string name="miui_BBS">" \"&lt;a href=\"http://bbs.miui.com\"&gt;Посетете MIUI форум&lt;/a&gt;\" "</string>
   <string name="miui_summary_has_new_version">"  Налична е нова версия  "</string>
   <string name="miui_summary_no_new_version">Няма нови версии.</string>
@@ -191,7 +191,7 @@
   <string name="pm_root_acquired_button">ROOT достъп</string>
   <string name="pm_root_acquired_notification_title">Получаване на ROOT достъп</string>
   <string name="pm_root_acquired_rooting">Получаване на ROOT достъп %s</string>
-  <string name="pm_root_checking">Checking system info…</string>
+  <string name="pm_root_checking">Проверка на информацията за системата…</string>
   <string name="pm_root_fail_button_retry">Нов опит</string>
   <string name="pm_root_fail_msg">Това приложение не е получило ROOT достъп. Опитайте отново.</string>
   <string name="pm_root_fail_service_busy">Изчакайте докато устройството завърши актуализацията и опитайте отново.</string>
