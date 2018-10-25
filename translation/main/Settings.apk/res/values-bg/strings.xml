@@ -5987,4 +5987,16 @@ Stable"</string>
     <string name="restore_dialog_content">Възстановяването на идентификацията на устройството ще нулира вашите персонализирани препоръки.</string>
     <string name="restore_dialog_positive">Възстанови</string>
     <string name="restore_dialog_title">Напомняне</string>
+    <string name="call_records_name_1">Деби Смит</string>
+    <string name="call_records_name_2">Джейсън Лий</string>
+    <string name="call_records_name_3">Том Фоулес</string>
+    <string name="call_records_summary_1">9:35 | 26 секунди | China Unicom</string>
+    <string name="call_records_summary_2">16 Август | 1м 16с | China Mobile</string>
+    <string name="call_records_summary_3">16 Август | 2м 24с | China Unicom</string>
+    <string name="launcher_icon">Икони</string>
+    <string name="miui_optimization_disabled">Изключи MIUI оптимизация</string>
+    <string name="page_layout_34">Телефон</string>
+    <string name="page_layout_35">Бележки</string>
+    <string name="switch_access_service_on">Превключване на достъп</string>
+    <string name="words_title">Текст</string>
 </resources>
