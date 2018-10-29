@@ -578,4 +578,17 @@
    <string name="toast_updater_close_4g_text">"Приложенията няма да се актуализират чрез мобилни данни (4G)"</string>
    <string name="toast_updater_open_4g_text">Приложенията ще се актуализират чрез мобилни данни (4G)</string>
    <string name="cd_scanning">сканиране</string>
+   <string name="app_clean_group_document_recv">Получени файлове</string>
+   <string name="app_clean_group_document_send">Изпратени файлове</string>
+   <string name="app_clean_group_image_recv">Получени изображения</string>
+   <string name="app_clean_group_image_send">Изпратени изображения</string>
+   <string name="facebook_clean_exit_confirm_cancel">Продължи сканирането</string>
+   <string name="facebook_clean_exit_confirm_msg">"Сканирането на Facebook не е приключило. Ще спрете ли сканирането сега?"</string>
+   <string name="facebook_clean_exit_confirm_ok">Спри</string>
+   <string name="facebook_clean_exit_confirm_title">Спиране на сканирането?</string>
+   <string name="facebook_cleaner">Facebook почистване</string>
+   <string name="facebook_group_cache">Кеш файлове</string>
+   <string name="facebook_group_gif">GIF-ове</string>
+   <string name="facebook_group_image">Изображения</string>
+   <string name="facebook_group_video">Видеоклипове</string>
 </resources>

@@ -23,7 +23,7 @@
     <string name="wifi_disabled_wifi_failure">Не може да се свърже с Wi-Fi мрежа</string>
     <string name="wifi_disabled_password_failure">Проблем при удостоверяването</string>
     <string name="wifi_not_in_range">Извън обхват</string>
-    <string name="wifi_no_internet">Няма интернет достъп, без автоматично повторно свързване.</string>
+    <string name="wifi_no_internet">"Не може да се свърже с интернет"</string>
     <string name="saved_network">Запазено от %1$s</string>
     <string name="connected_via_wfa">Свързано чрез Wi‑Fi асистент</string>
     <string name="connected_via_passpoint">Свързан чрез %1$s</string>
@@ -1101,7 +1101,7 @@
     <string name="wifi_ap_choose_5G">Честота при 5 ГХц</string>
     <string name="wifi_ip_settings">Настройки за IP</string>
     <string name="wifi_shared">Споделяне с другите потребители на устройството</string>
-    <string name="wifi_unchanged">(непроменени)</string>
+    <string name="wifi_unchanged">(непроменен)</string>
     <string name="wifi_unspecified">Моля, изберете</string>
     <string name="wifi_multiple_cert_added">(Добавени са няколко сертификата)</string>
     <string name="wifi_use_system_certs">Използване на системни сертификати</string>
@@ -4630,7 +4630,7 @@
     <string name="status_sim_1">SIM 1</string>
     <string name="status_sim_2">SIM 2</string>
     <string name="status_summary">Чукнете за подробности</string>
-    <string name="wifi_subnet_mask">Subnet mask</string>
+    <string name="wifi_subnet_mask">Защита на подмрежата</string>
     <string name="wireless_on">Вкл.</string>
     <string name="wireless_off">Изкл.</string>
     <string name="whetstone_level_title">Оптимизиране на системната памет</string>
@@ -5999,4 +5999,8 @@ Stable"</string>
     <string name="page_layout_35">Бележки</string>
     <string name="switch_access_service_on">Превключване на достъп</string>
     <string name="words_title">Текст</string>
+	<string name="bootloader_tips">"След като добавите вашият Mi профил, не се отписвайте от него, не правете фабрично нулиране или почистване на данните на приложенията. Ако извършите някое от тези действия, добавете отново профила си или няма да можете да отключите устройството си."</string>
+    <string name="bootloader_tips_ok">Разбрах</string>
+	<string name="wifi_details_subnet_mask">Защита на подмрежата</string>
+	<string name="wifi_no_internet_no_reconnect">"Не може да се свърже с интернет"</string>
 </resources>

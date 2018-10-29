@@ -210,4 +210,9 @@
         <item>Google асистент</item> 
         <item>Yandex асистент</item> 
     </string-array>
+	<string-array name="aod_style_clock_entries"> 
+        <item>Хоризонтален</item> 
+        <item>Вертикален</item> 
+        <item>Една линия</item> 
+</string-array>
 </resources>
