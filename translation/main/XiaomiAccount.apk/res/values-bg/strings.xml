@@ -466,4 +466,7 @@
   <string name="passport_register_using_other_ways">Други начини за вписване</string>
   <string name="passport_wrong_voice">Кодът който въведохте е неправилен</string>
   <string name="account_invalid_user_avatar">Снимката е невалидна</string>
+  <string name="passport_input_phone_password">Моля, въведете паролата за мобилен номер %s</string>
+  <string name="passport_international_register_by_email">Създайте профил с имейл адрес</string>
+  <string name="passport_sms_verification_code_login_or_register">Впишете се или се регистрирайте чрез SMS</string>
 </resources>
