@@ -6003,4 +6003,5 @@ Stable"</string>
     <string name="bootloader_tips_ok">Разбрах</string>
 	<string name="wifi_details_subnet_mask">Защита на подмрежата</string>
 	<string name="wifi_no_internet_no_reconnect">"Не може да се свърже с интернет"</string>
+	<string name="keyguard_notification_status_title">Известия</string>	
 </resources>

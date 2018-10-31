@@ -1205,4 +1205,8 @@
   <string name="preference_privacy_policy_title">Политика за поверителност</string>
   <string name="rcs_app_name">Мини приложение</string>
   <string name="conference_call_disable_tip">"Не може да се правят повиквания. Уверете се, че устройството ви е свързано към 4G мрежа с VoLTE поддръжка."</string>
+  <string name="scan_business_card">Сканирайте визитната картичка</string>
+  <string name="scan_bussiness_card_merge_tip">Конфликтните данни са заменени</string>
+  <string name="description_image_button_sim1_named_dial">Набиране със SIM1 %s</string>
+  <string name="description_image_button_sim2_named_dial">Набиране със SIM2 %s</string>  
 </resources>

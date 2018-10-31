@@ -144,4 +144,12 @@
     <item quantity="other">Остават %1$d ч %2$d м</item>
     <item quantity="one">Остава %1$d ч %2$d м</item>
    </plurals>
+   <plurals name="input_password_after_timeout_msg">
+    <item quantity="other">Необходимо е въвеждане на парола след %d часа неактивност</item>
+    <item quantity="one">Необходимо е въвеждане на парола след %d час неактивност</item>
+   </plurals>
+   <plurals name="input_pattern_after_timeout_msg">
+    <item quantity="other">Необходимо е изчертаване на шаблон след %d часа неактивност</item>
+    <item quantity="one">Необходимо е изчертаване на шаблон след %d час неактивност</item>
+    </plurals>
 </resources>

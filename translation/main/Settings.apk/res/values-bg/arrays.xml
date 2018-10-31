@@ -1596,4 +1596,9 @@
         <item>MIUI</item>
         <item>Андроид</item>
     </string-array>
+	    <string-array name="keyguard_notification_status_entries">
+        <item>Събуждане на екрана</item>
+        <item>Показване на анимация</item>
+        <item>"Без пробуждане на екрана"</item>
+    </string-array>
 </resources>
