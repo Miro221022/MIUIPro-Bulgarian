@@ -1337,11 +1337,13 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="page_hang_message">Текущата страница е забила и трябва да рестартирате браузъра си.</string>
     <string name="page_hang_title">Страницата заби</string>
     <string name="permission_alert_window">За да използвате функцията, моля отворете системната опция Показване на изскачащ прозорец.</string>
-    <string name="permission_unknown">Неизвестен опция</string>
+    <string name="permission_unknown">Неизвестенa опция</string>
     <string name="pref_download_setting">Настройки за изтегляне</string>
     <string name="suggestion_sliding_ads_info_mark_text">РЕКЛАМИ</string>
 	<string name="guide_know_type_main_title">Браузърът, който ви разбира</string>
 	<string name="guide_know_type_subtitle">Получете невероятни препоръки</string>
 	<string name="guide_slide_down">Моля,плъзнете надолу</string>
     <string name="guide_slide_up">Моля,плъзнете нагоре</string>
+	<string name="guide_chosen_type_main_title_behind">какво ви харева</string>
+    <string name="guide_chosen_type_main_title_front">Кажете ни</string>
 </resources>
