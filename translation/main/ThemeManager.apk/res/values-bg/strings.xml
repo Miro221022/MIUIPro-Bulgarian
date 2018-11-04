@@ -581,4 +581,17 @@
 	<string name="title_my_miwallpaper_video_file_resource">Моите тапети филми</string>
 	<string name="wallpaper_set_as_desktop">Задай за начален екран</string>
 	<string name="set_color_ring_back_tone">Задайте персонализиран тон на позвъняване</string>
+	<string name="app_ad_title">Ежедневни препоръки</string>
+	<string name="hide_pull_down_message">Скриване на дрънкулката?</string>
+    <string name="hide_pull_down_negative">"Не скривай"</string>
+    <string name="hide_pull_down_positive">Скрий</string>
+	<string name="no_net_work_connection">Проверете мрежовите настройки и опитайте отново.</string>
+	<string name="pull_down_view_error_message">Опа! Няма намерена интернет връзка. Проверете връзката си или опитайте отново.</string>
+    <string name="pull_down_view_refresh">Обнови</string>
+    <string name="pull_down_view_title">"Какво ново"</string>
+	<string name="request_time_out">Заявката изтече. Опитайте отново.</string>
+	<string name="server_internal_error">Възникна грешка в сървъра. Изчакайте минута или две и опитайте отново.</string>
+	<string name="swipe_find_more">плъзнете нагоре</string>
+	<string name="vip_level_dialog_positive">Знам</string>
+    <string name="vip_level_dialog_title">Съвети</string>
 </resources>
