@@ -3765,12 +3765,12 @@
     <string name="device_cpu6_info">"Шестядрен "</string>
     <string name="device_cpu4_info">"Четириядрен "</string>
     <string name="max_cpu2_info">Двуядрен процесор</string>
-    <string name="max_cpu4_info">"Четириядрен Макс.Честота "</string>
-    <string name="max_cpu6_info">"Шестядрен Макс.Честота "</string>
+    <string name="max_cpu4_info">"Четириядрен Макс. честота "</string>
+    <string name="max_cpu6_info">"Шестядрен Макс. честота "</string>
     <string name="device_cpu8_info">"Осемядрен "</string>
-    <string name="max_cpu8_info">"Осемядрен Макс.Честота "</string>
+    <string name="max_cpu8_info">"Осемядрен Макс. честота "</string>
     <string name="device_cpu10_info">"Десетядрен "</string>
-    <string name="max_cpu10_info">"Десетядрен Макс.Честота "</string>
+    <string name="max_cpu10_info">"Десетядрен Макс. честота "</string>
     <string name="instruction_title">Важна информация за безопасността</string>
     <string name="my_device_disclaimer">Забележка: Информацията за устройството, включително процесор, капацитет на батерията, размер на екрана и неговата резолюция, са предоставени от Xiaomi.</string>
     <string name="approve_title">Сертифициране</string>
@@ -3781,7 +3781,7 @@
     <string name="notification_reboot_title_hm">Рестарт за прилагане на актуализацията</string>
     <string name="notification_reboot_summary_hm">Докоснете, за да рестартирате устройството.</string>
     <string name="notification_reboot_btn">Рестарт</string>
-    <string name="miui_updater">Magisk Manager</string>
+    <string name="miui_updater">Актуализация</string>
     <string name="giga_hertz">ГХц</string>
     <string name="reading_data">Заявка за информация…</string>
     <string name="available_size">Свободни %s</string>
