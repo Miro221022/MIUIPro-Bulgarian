@@ -3730,7 +3730,7 @@
     <string name="model_name">Име на модел</string>
     <string name="my_device">Моето устройство</string>
     <string name="device_miui_version">Версия на MIUI</string>
-    <string name="device_miui_version_update">Налично е обновление</string>
+    <string name="device_miui_version_update">Наличнa е актуализация</string>
     <string name="rank_title">Предпочитани</string>
     <string name="device_miui_more">Виж повече</string>
     <string name="device_share_loading">Създаване на изображение</string>
@@ -3781,7 +3781,7 @@
     <string name="notification_reboot_title_hm">Рестарт за прилагане на актуализацията</string>
     <string name="notification_reboot_summary_hm">Докоснете, за да рестартирате устройството.</string>
     <string name="notification_reboot_btn">Рестарт</string>
-    <string name="miui_updater">Актуализация</string>
+    <string name="miui_updater">Актуализация на системата</string>
     <string name="giga_hertz">ГХц</string>
     <string name="reading_data">Заявка за информация…</string>
     <string name="available_size">Свободни %s</string>
