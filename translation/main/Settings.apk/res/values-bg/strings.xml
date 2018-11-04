@@ -4962,7 +4962,7 @@ Stable"</string>
     <string name="radio_info_asdiv_switch_label">ASDiv Статус:</string>
     <string name="app_factory_reset_dlg_title">Деинсталиране на актуализациите?</string>
     <string name="app_factory_reset_dlg_text">Всички актуализации на системните приложения ще бъдат деинсталирани.</string>
-    <string name="privacy_password">парола за сигурност</string>
+    <string name="privacy_password">Парола за сигурност</string>
     <string name="msim_sim_radio_off">Изкл</string>
     <string name="forbidden_switch_apn_string">Избраните APN настройки не съответстват на текущия тип мрежа</string>
     <string name="resetting_second_space_passwd">Сменете вашата парола за Второ работно място</string>
@@ -5109,7 +5109,7 @@ Stable"</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">Разбрах (%dс)</string>
     <string name="turn_on_keyguard_password_alert">Запомнете вашата парола. Ако я забравите, няма да можете да я възстановите.</string>
     <string name="turn_on_keyguard_password_alert_choose">Запомнете вашата парола. Ако я забравите, ще трябва да изтриете всички данни от вашето устройство, преди да зададете нова.</string>
-    <string name="add_facerecoginition_text">Добави данни за лице</string>
+    <string name="add_facerecoginition_text">Добавяне на лицеви данни</string>
     <string name="manage_facerecoginition_text">Настройка на лицеви данни</string>
     <string name="face_unlock_enable">Отключването с лице е вкл</string>
     <string name="face_unlock_disable">Отключването с лице е изкл</string>
@@ -5150,7 +5150,7 @@ Stable"</string>
     <string name="privacy_password_visible_pattern">Покажи шаблона</string>
     <string name="use_privacy_password_immediate">Използвай</string>
     <string name="modify_instruction_password_settings">Задайте парола</string>
-    <string name="privacy_password_settings_titles">Паролата за защита на личните данни защитава Вашите съобщения, снимки, файлове, бележки и приложения.</string>
+    <string name="privacy_password_settings_titles">Паролата за защита на личните данни защитава вашите съобщения, снимки, файлове, бележки и приложения.</string>
     <string name="privacy_password_settings_titles_elder_mode">Паролата за защита на личните данни защитава Вашите снимки, файлове, и бележки.</string>
     <string name="privacy_password_settings_titles_second_space">Паролата за защита на личните данни защитава Вашите съобщения, снимки и бележки.</string>
     <string name="bind_xiaomi_account_success">Mi профилът е добавен успешно</string>
@@ -5259,7 +5259,7 @@ Stable"</string>
     <string name="add_fingerprint_finished_button_text">Готово</string>
     <string name="add_fingerprint_instruction_msg">Използване на пръстов отпечатък за отключване на устройството и завършване на плащанията.</string>
     <string name="wakeup_for_keyguard_notification_title">Събуждане на екрана при известия</string>
-    <string name="secure_keyguard_business_title">Настройване заключен екран</string>
+    <string name="secure_keyguard_business_title">Задайте заключване на екрана</string>
     <string name="fingerprint_and_password_entrance_title">Заключване на екрана и пръстов отпечатък</string>
     <string name="password_entrance_title">Заключване на екрана</string>
     <string name="apply_fingerprint_to_category_title">Прилагане на пръстов отпечатък за…</string>
@@ -6003,5 +6003,6 @@ Stable"</string>
     <string name="bootloader_tips_ok">Разбрах</string>
 	<string name="wifi_details_subnet_mask">Защита на подмрежата</string>
 	<string name="wifi_no_internet_no_reconnect">"Не може да се свърже с интернет"</string>
-	<string name="keyguard_notification_status_title">Известия</string>	
+	<string name="keyguard_notification_status_title">Известия</string>
+	<string name="wifi_hotspot_off_subtext">Интернет връзката на този телефон не се споделя</string>
 </resources>
