@@ -1086,10 +1086,10 @@
   <string name="t9_search_empty_edit_contact">Добави към контакти</string>
   <string name="t9_search_empty_send_sms">Изпрати съобщение</string>
   <string name="t9_search_empty_video_call">Видео разговор</string>
-  <string name="t9_search_guide_pinyin_title1">Бързо търсене на контакти по букви</string>
-  <string name="t9_search_guide_pinyin_title2">Въведете \"8\" и \"8\" за търсене на \"&lt;font fgcolor=\"\"&gt;Д&lt;/font&gt;имо &lt;font fgcolor=\"\"&gt;Г&lt;/font&gt;юдженов\"</string>
-  <string name="t9_search_guide_zhuyin_title1">Бързо търсене на контакти по букви</string>
-  <string name="t9_search_guide_zhuyin_title2">Въведете \"5\" и \"6\" за търсене на \"&lt;font fgcolor=\"\"&gt;Т&lt;/font&gt;одор &lt;font fgcolor=\"\"&gt;М&lt;/font&gt;ладенов\"</string>
+  <string name="t9_search_guide_pinyin_title1">Въведете цифри, за да намерите контакти</string>
+  <string name="t9_search_guide_pinyin_title2">Въведете 5 и 6 за търсене на <font fgcolor="">М</font>ирослав <font fgcolor="">Т</font>одоров</string>
+  <string name="t9_search_guide_zhuyin_title1">Въведете цифри, за да намерите контакти</string>
+  <string name="t9_search_guide_zhuyin_title2">Въведете 5 и 6 за търсене на <font fgcolor="">М</font>ирослав <font fgcolor="">Т</font>одоров</string>
   <string name="take_new_photo">Направи нова снимка</string>
   <string name="take_photo">Направи снимка</string>
   <string name="title_other_devices">Други налични устройства</string>
