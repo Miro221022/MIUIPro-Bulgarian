@@ -811,4 +811,5 @@
   <string name="you_liao_xunlei_str">Xunlei хост</string>
   <string name="youliao_master_rank">Youliao Топ класация</string>
   <string name="operation_show_privacy_policy">Политика за поверителност</string>
+  <string name="rename_input_null">Въведете ново име на файла</string>
 </resources>

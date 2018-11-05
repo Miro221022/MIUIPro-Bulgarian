@@ -2155,7 +2155,7 @@
     <string name="thermal_tips_title">Внимание</string>
     <string name="thermal_tips_message">Играенето в режим Производителност може да предизвика проблеми с прегряване на устройството.</string>
     <string name="forbid_autobright_title">Поправка на яркостта на екрана</string>
-    <string name="forbid_autobright_summary">Яркостта на екрана ще остане непроменена когато играете игри</string>
+    <string name="forbid_autobright_summary">"Автоматичната яркост ще бъде изключена, докато играете и възстановена след като приключите"</string>
     <string name="gamebooster_lowbattery_notification_title">Зарядът на батерията е по-нисък от 5%%</string>
     <string name="gamebooster_lowbattery_notification_summary">Заредете вашето устройство, преди да го изключите.</string>
     <string name="game_ad_recommendation">Всички играят</string>
@@ -2443,4 +2443,11 @@
 	<string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
     <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
     <string name="power_center_list_item_battery_health_model_volume">%s мАч</string>
+	<string name="gs_slip_gamebox_detail">Използвайте плъзгача, за да се покаже панелът за бърз достъп. Бързите отговори и запис на екрана са налични.</string>
+    <string name="om_locked_apps_summary">Заключените приложения ще бъдат игнорирани от ускоряването на скоростта.</string>
+    <string name="om_not_finish_speedboost">Необходимо е ускоряване на скоростта</string>
+    <string name="om_promotion">Реклама</string>
+    <string name="om_running_locked_apps">Заключени работещи приложения</string>
+    <string name="om_running_system_apps">Работещи системни приложения</string>
+    <string name="om_running_third_apps">Работещи приложения от трети страни</string>
 </resources>

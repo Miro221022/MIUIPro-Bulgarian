@@ -36,7 +36,10 @@
     <string name="vip_feedback_enable">Вкл ВИП Отзив</string>
     <string name="extreme_power_config_mode_category">Максимален режим</string>
     <string name="extreme_power_config_mode_title">Максимален режим</string>
-    <string name="extreme_power_config_mode_desc">Превключете в екстремен режим, за да изключите синхронизирането, Bluetooth, GPS, NFC, двойното почукване, осветлението на бутоните, събуждането при заключен екран за известия, както и светлинната индикация. MIUI ще се фокусира върху спестяване на батерията.</string>
+    <string name="extreme_power_config_mode_desc">&lt;li&gt;"Екстремното пестене на батерия спира цялата активност на заден план на дадено приложение, след като излезете от него и се върнете на начален екран. Това приложение няма да изпраща известия или да получава актуализации."&lt;/li&gt;"
+"&lt;li&gt;Ако вие искате приложение да работи на заден план, заключете го в Последни или го добавете към изключенията на заден план. До 4 приложения могат да работят на заден план, когато е включено Екстремно пестене на батерия.&lt;/li&gt;"
+"&lt;li&gt;Екстремното пестене на батерия изключва NFC по подразбиране. Можете да промените това в Настройки.&lt;/li&gt;"
+"&lt;li&gt;За да сте сигурни, че можете да използвате всички функции на устройството си нормално, Екстремното пестене на батерия ще бъде изключено автоматично, когато батерията е на 30% заредена.&lt;/li&gt;</string>
     <string name="empty_title_apps_container_list">Няма приложения</string>
     <string name="hints_loading_text">Един момент…</string>
     <string name="config_mode_title">Настройки за работа на заден план</string>
@@ -96,4 +99,14 @@
     <string name="message_i_know">Знам</string>
     <string name="high_temp_state">Висока температура</string>
     <string name="high_temp_state_message">Защитата срещу висока температура,данни,преносима точка за достъп,gps,камера и т.н. ще бъдат ограничени</string>
+	<string name="atrace_saved">Запазено успешно</string>
+    <string name="atrace_saving">Запазване на atrace отчет</string>
+    <string name="atrace_start">Записване на atrace отчет</string>
+    <string name="extreme_add_white_list_summary">Добавете до 4 приложения</string>
+    <string name="extreme_add_white_list_title">Изключения на заден план</string>
+    <string name="extreme_power_config_mode_summary">Екстремното пестене на батерията ограничава активността на заден план и спира синхронизирането.</string>
+    <string name="extreme_power_settings_title">Настройки</string>
+    <string name="notification_exit_extreme_mode_text">Батерията е заредена над %s</string>
+    <string name="notification_exit_extreme_mode_title">Изключено Екстремно пестене на батерия</string>
+    <string name="notification_open_extreme_mode_text">Включено Екстремно пестене на батерия</string>
 </resources>

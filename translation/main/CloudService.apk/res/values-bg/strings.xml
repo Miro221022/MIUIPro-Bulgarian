@@ -302,17 +302,17 @@
     <string name="micloud_detail_need_charge_or_sleep">Свържете зарядното устр. и изключете екрана за да синхронизирате</string>
     <string name="micloud_detail_battery_low">Слаба батерия</string>
     <string name="micloud_privacy_cloud_off">Синхронизиране изключено</string>
-    <string name="micloud_privacy_licence_agreed">Съгласете се с политиката за поверителност на Mi Cloud.</string>
-    <string name="micloud_privacy_explanation">Активиране на Mi Cloud след активиране на разрешение</string>
-    <string name="micloud_privacy_cloud_sync">Активиране на Ми Cloud</string>
+    <string name="micloud_privacy_licence_agreed">Съгласете се с &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;Политиката за поверителност&lt;/u&gt;&lt;/a&gt; на Mi Облак.</string>
+    <string name="micloud_privacy_explanation">Активиране на Mi Облак след активиране на разрешение</string>
+    <string name="micloud_privacy_cloud_sync">Активиране на Ми Облак</string>
     <string name="micloud_privacy_warning_title">Съвет</string>
-    <string name="micloud_privacy_warning_content">Не може да се активира Mi Cloud. Опитайте по-късно.</string>
+    <string name="micloud_privacy_warning_content">Не може да се активира Mi Облак. Опитайте по-късно.</string>
     <string name="micloud_privacy_warning_button">Назад</string>
     <string name="micloud_check_sim_title">"\"Изглежда сте сменили SIM картите. Влезте с
 вашия Mi профил за повторно активиране на Mi Cloud.\""</string>
-    <string name="micloud_check_sim_notify_title">Повт. активиране на Mi Cloud</string>
+    <string name="micloud_check_sim_notify_title">Повт. активиране на Mi Облак</string>
     <string name="micloud_check_sim_notify_text">"\"Изглежда сте сменили SIM картите. Влезте с
-вашия Mi профил за повторно активиране на Mi Cloud.\""</string>
+вашия Mi профил за повторно активиране на Mi Облак.\""</string>
     <string name="micloud_setting_contact_summary">Данни и профилни снимки на контактите</string>
     <string name="micloud_setting_sms_summary">SMS и MMS съобщения</string>
     <string name="micloud_setting_gallery_summary">Снимки и видеоклипове</string>

@@ -385,4 +385,8 @@
         <item quantity="other">Изтощени са %2$d%% от батерията през последните %1$d минути</item>
         <item quantity="one">Изтощен е %2$d%% от батерията през последната %1$d минута</item>
     </plurals>
+	    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d заключени приложения</item>
+        <item quantity="one">%d заключено приложение</item>
+    </plurals>
 </resources>

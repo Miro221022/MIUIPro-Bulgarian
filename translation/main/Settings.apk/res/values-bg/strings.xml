@@ -6005,4 +6005,8 @@ Stable"</string>
 	<string name="wifi_no_internet_no_reconnect">"Не може да се свърже с интернет"</string>
 	<string name="keyguard_notification_status_title">Известия</string>
 	<string name="wifi_hotspot_off_subtext">Интернет връзката на този телефон не се споделя</string>
+	<string name="others">Друго</string>
+    <string name="slider_vocie_online_theme">Онлайн звук при плъзгане</string>
+    <string name="sound_stereo_mode_summary">Налице е само когато се възпроизвежда звук с високоговорител</string>
+    <string name="sound_stereo_mode_title">Стерео звук</string>
 </resources>
