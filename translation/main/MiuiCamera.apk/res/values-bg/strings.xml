@@ -542,4 +542,6 @@
    <string name="beauty_body_legged">Дълги крака</string>
    <string name="beauty_body_reset_tip">Ефектът за тяло е премахнат</string>
    <string name="beauty_body_shoulder">Тънко рамо</string>
+   <string name="ultra_wide_close_tip">Свръхширокоъгълен режим е изключен</string>
+   <string name="ultra_wide_open_tip">Свръхширокоъгълен режим</string>
 </resources>

@@ -1737,4 +1737,5 @@
    <string name="sos_status_bar_title">SOS</string>
    <string name="enable_atrace">Включи ATrace</string>
    <string name="enable_atrace_summary">Улавяне на събития в ядрото чрез ATrace</string>
+   <string name="download_lock_wallpaper">Докоснете два пъти, за да изтеглите Музика</string>
 </resources>

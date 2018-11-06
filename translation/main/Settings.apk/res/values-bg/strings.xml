@@ -6007,4 +6007,6 @@ Stable"</string>
 	<string name="others">Друго</string>
     <string name="slider_vocie_online_theme">Онлайн звук при плъзгане</string>
     <string name="sound_stereo_mode_summary">Налице е само когато се възпроизвежда звук с високоговорител</string>
+	<string name="input_pattern_hint_text">Изчертайте модела си за отключване</string>
+    <string name="slider_voice_online_theme">Онлайн звуци</string>
 </resources>
