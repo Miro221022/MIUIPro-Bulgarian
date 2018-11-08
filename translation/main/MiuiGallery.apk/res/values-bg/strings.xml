@@ -1328,4 +1328,21 @@
     <string name="picker_origin_request_progress_fail">"Оригиналното изображение не може да се изтегли поради грешка в мрежата."</string>
     <string name="set_as_slide_wallpaper_description">Това изображение е миниатюра, ще изтеглите ли оригинала?</string>
     <string name="set_as_slide_wallpaper_title">Задавне като плъзгащ тапет</string>
+	<string name="document_provider_guide_step_1">1. Докоснете бутона \"Още\".</string>
+    <string name="document_provider_guide_step_2">2. Докоснете \"Показване на вътрешното хранилище\".</string>
+    <string name="document_provider_guide_step_3">3. Докоснете бутона за страничното меню.</string>
+    <string name="document_provider_guide_step_4">4. Изберете \"SD карта\".</string>
+    <string name="document_provider_guide_step_5">5. Докоснете \"Избор\".</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">Галерия вместо това ще запази елементите във вътрешното хранилище. Можете да промените това в Настройки &gt; Хранилище &gt; Избор на хранилище.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_title">"Не може да даде разрешения."</string>
+    <string name="ext_sdcard_guide_first_page_button_text">Следващ</string>
+    <string name="ext_sdcard_guide_last_page_button_text">Даване на разрешения</string>
+    <string name="ext_sdcard_guide_text">"Галерия се нуждае от вашето разрешение за достъп до SD карта. Ето какво можете да направите:"</string>
+    <string name="ext_sdcard_operation_failed_text">Галерия се нуждае от разрешение за достъп до SD карта.</string>
+    <string name="ext_sdcard_operation_failed_title">"Това действие не може да бъде завършено"</string>
+    <string name="ext_sdcard_permission_request_button_text">Разбрах</string>
+    <string name="ext_sdcard_permission_request_reason">Галерия се нуждае от вашето разрешение за достъп до SD карта. Това ще ви позволи да изтриете и редактирате снимки и видеоклипове, които се съхраняват на вашата SD карта.</string>
+    <string name="ext_sdcard_permission_request_title">Разрешаване на Галерия достъп до SD карта</string>
+    <string name="ext_sdcard_request_failed_button_text">OK</string>
+    <string name="ext_sdcard_request_succeed_toast_text">"Готови сте да се забавлявате!"</string>
 </resources>

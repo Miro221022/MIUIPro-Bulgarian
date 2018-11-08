@@ -1585,6 +1585,7 @@
     </string-array>
       <string-array name="ai_key_item_name">
         <item>Говорете на Google асистент</item>
+		<item>Отвори Google търсене</item>
         <item>Стартиране на задна камера </item>
         <item>Стартиране на предна камера</item>
         <item>Отваряне на предишното приложение</item>

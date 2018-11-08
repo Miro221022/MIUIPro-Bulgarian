@@ -97,8 +97,8 @@
     <string name="about_extreme_mode">Екстремен режим</string>
     <string name="extreme_mode_max_item_alert">Можете да изберете до 4 приложения, които да работят на заден план в Екстремен режим</string>
     <string name="message_i_know">Знам</string>
-    <string name="high_temp_state">Висока температура</string>
-    <string name="high_temp_state_message">Защитата срещу висока температура,данни,преносима точка за достъп,gps,камера и т.н. ще бъдат ограничени</string>
+    <string name="high_temp_state">Прегряване</string>
+    <string name="high_temp_state_message">Устройството ви прегрява. Мобилните данни, WLAN горещите точки, GPS и камерата ще бъдат ограничени.</string>
 	<string name="atrace_saved">Запазено успешно</string>
     <string name="atrace_saving">Запазване на atrace отчет</string>
     <string name="atrace_start">Записване на atrace отчет</string>

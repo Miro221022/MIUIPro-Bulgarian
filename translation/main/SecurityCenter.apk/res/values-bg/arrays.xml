@@ -101,4 +101,9 @@
     <item>Сортиране по използване на памет</item>
     <item>Сортиране по час (дата) на инсталиране</item>
    </string-array>
+      <string-array name="traffic_package_type">
+        <item>Месечен план за данни</item>
+        <item>Дневен план за данни</item>
+        <item>Неограничен план за данни</item>
+    </string-array>
 </resources>
