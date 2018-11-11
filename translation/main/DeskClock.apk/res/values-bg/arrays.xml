@@ -1,5 +1,293 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="countries_names_miui">
+        <item>"Кот д'Ивоар"</item>
+        <item>Гана</item>
+        <item>Етиопия</item>
+        <item>Алжир</item>
+        <item>Малави</item>
+        <item>Република Конго</item>
+        <item>Египет</item>
+        <item>Мароко</item>
+        <item>Гвинея</item>
+        <item>Сенегал</item>
+        <item>Танзания</item>
+        <item>Джибути</item>
+        <item>Сиера Леоне</item>
+        <item>Ботсуана</item>
+        <item>Зимбабве</item>
+        <item>Южна Африка</item>
+        <item>Уганда</item>
+        <item>Руанда</item>
+        <item>Демократична република Конго</item>
+        <item>Нигерия</item>
+        <item>Лесото</item>
+        <item>Сомалия</item>
+        <item>Кения</item>
+        <item>Сао Томе и Принсипи</item>
+        <item>Мали</item>
+        <item>Либия</item>
+        <item>Тунис</item>
+        <item>САЩ</item>
+        <item>Аржентина</item>
+        <item>Парагвай</item>
+        <item>Барбадос</item>
+        <item>Белиз</item>
+        <item>Колумбия</item>
+        <item>Аржентина</item>
+        <item>Мексико</item>
+        <item>Венецуела</item>
+        <item>Кайманови острови</item>
+        <item>САЩ</item>
+        <item>Коста Рика</item>
+        <item>Кюрасао</item>
+        <item>Канада</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>Доминиканска република</item>
+        <item>Канада</item>
+        <item>Ел Салвадор</item>
+        <item>Бразилия</item>
+        <item>Гренада</item>
+        <item>Гватемала</item>
+        <item>Гвиана</item>
+        <item>Канада</item>
+        <item>Куба</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>Ямайка</item>
+        <item>Боливия</item>
+        <item>Перу</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>Никарагуа</item>
+        <item>Мартиника</item>
+        <item>САЩ</item>
+        <item>Мексико</item>
+        <item>САЩ</item>
+        <item>Уругвай</item>
+        <item>Канада</item>
+        <item>Бахамите</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>Панама</item>
+        <item>САЩ</item>
+        <item>Тринидад и Тобаго</item>
+        <item>Хаити</item>
+        <item>Бразилия</item>
+        <item>Канада</item>
+        <item>Сейнт Китс и Невис</item>
+        <item>Сейнт Лусия</item>
+        <item>Вирджински острови на САЩ</item>
+        <item>Мексико</item>
+        <item>Канада</item>
+        <item>Канада</item>
+        <item>Канада</item>
+        <item>Свалбард и Ян Майен</item>
+        <item>Казахстан</item>
+        <item>Йордания</item>
+        <item>Русия</item>
+        <item>Казахстан</item>
+        <item>Ирак</item>
+        <item>Бахрейн</item>
+        <item>Азербайджан</item>
+        <item>Тайланд</item>
+        <item>Ливан</item>
+        <item>Индия</item>
+        <item>Сирия</item>
+        <item>Бангладеш</item>
+        <item>Обединени арабски емирства</item>
+        <item>Палестина</item>
+        <item>Палестина</item>
+        <item>Виетнам</item>
+        <item>Китай</item>
+        <item>Индонезия</item>
+        <item></item>
+        <item>Афганистан</item>
+        <item>Пакистан</item>
+        <item>Непал</item>
+        <item>Малайзия</item>
+        <item>Кувейт</item>
+        <item>Китай</item>
+        <item>Филипини</item>
+        <item>Оман</item>
+        <item>Камбоджа</item>
+        <item>Северна Корея</item>
+        <item>Катар</item>
+        <item>Мианмар</item>
+        <item>Саудитска Арабия</item>
+        <item>Южна Корея</item>
+        <item>Китай</item>
+        <item>Сингапур</item>
+        <item>Китай</item>
+        <item>Иран</item>
+        <item>Израел</item>
+        <item>Япония</item>
+        <item>Монголия</item>
+        <item>Бермуда</item>
+        <item>Испания</item>
+        <item>Кабо Верде</item>
+        <item>Исландия</item>
+        <item>Фолкландски острови</item>
+        <item>Австралия</item>
+		<item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Australia</item>
+        <item>Канада</item>
+        <item>Канада</item>
+        <item>Канада</item>
+        <item>Чили</item>
+        <item>Холандия</item>
+        <item>Андора</item>
+        <item>Гърция</item>
+        <item>Великобритания</item>
+        <item>Сърбия</item>
+        <item>Германия</item>
+        <item>Словакия</item>
+        <item>Белгия</item>
+        <item>Ромъния</item>
+        <item>Унгария</item>
+        <item>Молдова</item>
+        <item>Дания</item>
+        <item>Ирландия</item>
+        <item>Гибралтар</item>
+        <item>Финландия</item>
+        <item>Остров Ман</item>
+        <item>Турция</item>
+        <item>Португалия</item>
+        <item>Великобритания</item>
+        <item>Люксембург</item>
+        <item>Испания</item>
+        <item>Малта</item>
+        <item>Беларус</item>
+        <item>Монако</item>
+        <item>Русия</item>
+        <item>Норвегия</item>
+        <item>Франция</item>
+        <item>Чехия</item>
+        <item>Латвия</item>
+        <item>Италия</item>
+        <item></item>
+        <item>Босна и Херцеговина</item>
+        <item></item>
+        <item>Македония</item>
+        <item>България</item>
+        <item>Швеция</item>
+        <item>Естония</item>
+        <item></item>
+        <item>Австрия</item>
+        <item>Литва</item>
+        <item>Полша</item>
+        <item>Хърватия</item>
+        <item>Швейцария</item>
+        <item>Мадагаскар</item>
+        <item>Малдиви</item>
+        <item>Мавриций</item>
+        <item>Нова Зеландия</item>
+        <item>Фиджи</item>
+        <item>Гуам</item>
+        <item>САЩ</item>
+        <item>Нова Каледония</item>
+        <item>Френска Полинезия</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>Канада</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>Канада</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>Ел Салвадор</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>Катар</item>
+        <item>Китай</item>
+        <item>Индия</item>
+        <item>Индия</item>
+        <item>Индия</item>
+        <item>Япония</item>
+        <item>Пакистан</item>
+        <item>Индия</item>
+        <item>Испания</item>
+        <item>Германия</item>
+        <item>Италия</item>
+        <item>Германия</item>
+        <item>Виетнам</item>
+        <item>Турция</item>
+        <item>Индия</item>
+        <item>Бразилия</item>
+        <item>Южна Африка</item>
+        <item>Пакистан</item>
+        <item>Бразилия</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>САЩ</item>
+        <item>Китай</item>
+        <item>Индия</item>
+        <item>САЩ</item>
+        <item>Бразилия</item>
+        <item>Чили</item>
+        <item>Либерия</item>
+        <item>Шри Ланка</item>
+        <item>Мексико</item>
+        <item>Индия</item>
+        <item>Великобритания</item>
+        <item>Украйна</item>
+        <item>Русия</item>
+        <item>Полша</item>
+        <item>Полша</item>
+        <item>Германия</item>
+        <item>Финландия</item>
+        <item>Израел</item>
+        <item>Пуерто Рико</item>
+        <item>Хондурас</item>
+        <item>Суринам</item>
+        <item>Еквадор</item>
+    </string-array>
     <string-array name="alarm_in_furture">
         <item>Будилник след по-малко от минута</item>
         <item>Будилник след %1$s</item>
