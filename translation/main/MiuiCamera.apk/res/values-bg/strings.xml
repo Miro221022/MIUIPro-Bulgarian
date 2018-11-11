@@ -527,7 +527,7 @@
     <string name="module_name_new_slow_motion">Забавен кадър</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Можете да записвате само видеоклипове със 720П с 240кад/сек</string>
 	<string name="portrait_mode_use_hint_for_bokeh">"Опитайте режим Портрет.
-Поддържайте обекта ясен, докато фона замъглен."</string>
+Поддържайте обекта ясен, докато фона е замъглен."</string>
    <string name="close_back_flash_toast">"Устройството ви е прегряло. В момента не може да се използва светкавица."</string>
    <string name="close_front_flash_toast">"Устройството ви е прегряло. В момента не може да се използва светкавица."</string>
    <string name="accessibility_camera_lighting_close_panel">Затварено меню за осветление</string>
@@ -544,4 +544,5 @@
    <string name="beauty_body_shoulder">Тънко рамо</string>
    <string name="ultra_wide_close_tip">Свръхширокоъгълен режим е изключен</string>
    <string name="ultra_wide_open_tip">Свръхширокоъгълен режим</string>
+   <string name="super_night_toast">Заснемане, моля дръжте телефона си</string>
 </resources>
