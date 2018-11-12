@@ -536,12 +536,12 @@
    <string name="pref_camera_front_ai_scene_entry_on">Интелигентна камера е включена</string>
    <string name="pref_camera_front_ai_scene_entry_off">Интелигентна камера е изключена</string>
    <string name="ultra_wide_mode">Супер широк ъгъл</string>
-   <string name="beauty_body">Тяло</string>
+   <string name="beauty_body">Оформяне</string>
    <string name="beauty_body_body">Отслабване</string>
-   <string name="beauty_body_head">Тънка глава</string>
+   <string name="beauty_body_head">Глава</string>
    <string name="beauty_body_legged">Дълги крака</string>
    <string name="beauty_body_reset_tip">Ефектът за тяло е премахнат</string>
-   <string name="beauty_body_shoulder">Тънко рамо</string>
+   <string name="beauty_body_shoulder">Рамо</string>
    <string name="ultra_wide_close_tip">Свръхширокоъгълен режим е изключен</string>
    <string name="ultra_wide_open_tip">Свръхширокоъгълен режим</string>
    <string name="super_night_toast">Заснемане, моля дръжте телефона си</string>

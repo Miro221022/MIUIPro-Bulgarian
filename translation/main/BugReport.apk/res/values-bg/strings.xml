@@ -81,7 +81,7 @@
   <string name="feedback_report_remind_login_desc">Влезте с вашия Mi профил, за да може нашите инженери да се свържат с Вас.</string>
   <string name="feedback_report_remind_login_desc2">Може да прегледате прогреса на доклада в раздела \"Моите доклади\".</string>
   <string name="feedback_retest_label">Стъпки</string>
-  <string name="feedback_select_images">Добави снимка</string>
+  <string name="feedback_select_images">Добавете изображение или кратко видео</string>
   <string name="feedback_select_modem_log">Добави логове от модем</string>
   <string name="feedback_select_problem">Проблеми</string>
   <string name="feedback_select_suggestion">Предложения</string>
@@ -296,7 +296,7 @@
   <string name="toast_feedbackservice_in_submit">Изпраща се предишния отзив…</string>
   <string name="toast_fill_brackets">Моля, попълнете</string>
   <string name="toast_log_not_exists">Исканите данни са били изтрити или не съществуват</string>
-  <string name="toast_log_too_large">Не може да се качи. Файлът е прекалено голям.</string>
+  <string name="toast_log_too_large">"Не може да се качи. Отчетът е твърде голям."</string>
   <string name="toast_module_required">Избери елемент</string>
   <string name="toast_network_unavailable">Неуспешно изпращане. Няма връзка с мрежата.</string>
   <string name="toast_pending_log_collection">Все още се събира информация…</string>
@@ -306,7 +306,7 @@
   <string name="toast_report_copied_to_clipboard">Отзивът е копиран в клипборда</string>
   <string name="toast_report_sent_failed">Не може да се изпрати отзив</string>
   <string name="toast_report_sent_succeed">Отзивът беше изпратен</string>
-  <string name="toast_screenshot_too_large">Не може да се качи файл по-голям от 10МБ.</string>
+  <string name="toast_screenshot_too_large">"Не може да се качват изображения или видеоклипове, по-големи от 10Мб."</string>
   <string name="toast_third_packagename_required">Въведете име на приложението</string>
   <string name="toast_title_required">Опишете вашия проблем</string>
   <string name="topic_author">1#</string>
@@ -329,7 +329,7 @@
   <string name="catch_full_log_action_cancel">Отказ</string>
   <string name="catch_full_log_action_complete">Завършване и качване</string>
   <string name="catch_full_log_action_start">Генериране на отчет</string>
-  <string name="catch_full_log_add_original_photo">Добавяне на снимка</string>
+  <string name="catch_full_log_add_original_photo">Добавете оригинално изображение или кратко видео</string>
   <string name="catch_full_log_add_photo">Добавяне на снимка</string>
   <string name="catch_full_log_add_photo_dialog_content">"Ако проблемът, който отчитате, е свързан с качеството на изображението на камерата, добавете оригинална примерна снимка (неорязана) за да ни помогне да намерим проблема. Добавяне на снимка сега?"</string>
   <string name="catch_full_log_dialog_confirm_text">Отиди на Начален екран</string>

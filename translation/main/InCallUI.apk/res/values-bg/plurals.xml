@@ -20,4 +20,16 @@
         <item quantity="other">%d часа</item>
         <item quantity="one">1 час</item>
     </plurals>
+	    <plurals name="conference_call_number">
+        <item quantity="other">%s хора</item>
+        <item quantity="one">%s човек</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">Повторно избран %d пъти</item>
+        <item quantity="one">Повторно избран %d път</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">Докладван от %d MIUI потребители</item>
+        <item quantity="one">Докладван от %d MIUI потребител</item>
+    </plurals>
 </resources>

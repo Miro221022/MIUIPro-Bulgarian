@@ -161,7 +161,7 @@
     <string name="done_remove">Успешно премахнато</string>
     <string name="doing_restore_home">Възстановяване на Начален екран и настройки…</string>
 	<string name="get_device_id_error">Идентифицирането на устройството е неуспешно</string>
-    <string name="home_hint_global_launcher">Desktop Poco</string>
+    <string name="home_hint_global_launcher">POCO стартов мениджър</string>
     <string name="home_restore_error">Възстановяването на Началния екран е неуспешно</string>
     <string name="self_phone_home">Този телефон: %s</string>
 	<string name="btn_restore_abort">Отказ</string>
@@ -172,12 +172,12 @@
     <string name="msg_alert_restore_error">"Не може да се възстановят елементи от Mi Облак. Опитайте отново."</string>
     <string name="title_alert_cancel_restore">Спиране на възстановяването</string>
     <string name="title_alert_restore_error">Не може да се възстанови</string>
-	<string name="error_retry_later">Неуспешно, опитайте по-късно.</string>
-    <string name="home_hint_other_launcher">Друг Начален екран</string>
-    <string name="unsupported_home">Моля, актуализирайте до най-новата ОС.</string>
-    <string name="load_backup_failed">Зареждането на резервни копия е неуспешно</string>
+	<string name="error_retry_later">"Действието не може да бъде завършено. Изчакайте минута или две и опитайте отново.."</string>
+    <string name="home_hint_other_launcher">Друг стартов мениджър</string>
+    <string name="unsupported_home">Актуализирайте MIUI до последна версия.</string>
+    <string name="load_backup_failed">"Архивите не можаха да се заредят"</string>
     <string name="loading_user_backup">Зареждане на резервни копия на потребителя…</string>
-    <string name="main_space">Основно пространство</string>
+    <string name="main_space">Първо пространство</string>
     <string name="try_continue">Докоснете, за да продължите</string>
 	<string name="second_space">Второ просранство</string>
     <string name="self_device">"Този телефон "</string>
