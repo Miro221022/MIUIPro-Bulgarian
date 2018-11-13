@@ -1499,7 +1499,7 @@
   <string name="unimportant_desc">Всички маловажни известия ще бъдат показвани в отделна папка.</string>
   <string name="unimportant_title">Маловажно</string>
   <string name="unknown">Непознат</string>
-  <string name="unlock_camera_steady">Моля, дръжте стабилно</string>
+  <string name="unlock_camera_steady">"Не движете телефона си"</string>
   <string name="unlock_failed">Вътрешна грешка</string>
   <string name="unlock_failed_face_not_found">Откриване</string>
   <string name="unlock_label">Отключи</string>
@@ -1508,7 +1508,7 @@
   <string name="unlockscreen_low_battery">Свържете зарядното устройство</string>
   <string name="unlockscreen_recharge_completed">Батерията е заредена</string>
   <string name="unlockscreen_recharging_message">Зареждане %d%%</string>
-  <string name="usb_accessory_confirm_prompt">Отваряне на %1$sкогато е свързан този USB аксесоар?</string>
+  <string name="usb_accessory_confirm_prompt">Отваряне на %1$s, когато е свързан този USB аксесоар?</string>
   <string name="usb_accessory_permission_prompt">Разрешавате ли на приложението %1$s достъп до USB аксесоари?</string>
   <string name="usb_accessory_uri_prompt">Няма инсталирани програми, работещи с този USB аксесоар. Прочетете повече за това на %1$s</string>
   <string name="usb_audio_disable_routing">Изключване на USB аудио предаване</string>
@@ -1733,9 +1733,10 @@
    <string name="torch_high_temperature_warning">"Устройството ви е прегряло. В момента не може да се използва фенерче."</string>
    <string name="status_bar_network_name_separator">-</string>
    <string name="notch_sos_status_bar_title">SOS</string>
-   <string name="sos_status_bar_summary">кликнете, за изход</string>
+   <string name="sos_status_bar_summary">Докоснете за изход</string>
    <string name="sos_status_bar_title">SOS</string>
    <string name="enable_atrace">Включи ATrace</string>
    <string name="enable_atrace_summary">Улавяне на събития в ядрото чрез ATrace</string>
    <string name="download_lock_wallpaper">Докоснете два пъти, за да изтеглите Музика</string>
+   <string name="status_bar_clock_date_time_format_12">h:mm aa, MMM d</string>
 </resources>
