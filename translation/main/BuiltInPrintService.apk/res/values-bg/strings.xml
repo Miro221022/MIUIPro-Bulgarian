@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add">Добави</string>
+  <string name="add_named">Добави %1$s</string>
+  <string name="add_printer_by_ip">Добавяне на принтер чрез IP адрес</string>
+  <string name="app_name">Услуга за печатане по подразбиране</string>
+  <string name="connect_hint_text">"Може да се наложи да одобрите тази връзка на предния панел на принтера"</string>
+  <string name="connecting_to">Свързване към %1$s</string>
+  <string name="connects_via_network">Свързва се чрез текущата мрежа на %1$s</string>
+  <string name="connects_via_wifi_direct">Свързва се чрез WLAN Direct</string>
+  <string name="failed_connection">Не може да се свърже с %1$s</string>
+  <string name="failed_printer_connection">Не може да се свърже с принтера</string>
+  <string name="find_wifi_direct">Намерете принтери WLAN Direct</string>
+  <string name="forget">Забрави</string>
+  <string name="hostname_or_ip">Име на хост или IP адрес</string>
+  <string name="ip_hint">192.168.0.4</string>
+  <string name="media_size_4x6in">4x6 инча</string>
+  <string name="media_size_54x86mm">54x86 мм</string>
+  <string name="media_size_5x7in">5x7 инча</string>
+  <string name="media_size_89x119mm">89x119 мм</string>
+  <string name="media_size_8x10in">8x10 инча</string>
+  <string name="media_size_l">L</string>
+  <string name="no_printer_found">На този адрес не е намерен принтер</string>
+  <string name="printer_busy">Зает</string>
+  <string name="printer_check">Проверете принтера</string>
+  <string name="printer_description">%1$s – %2$s</string>
+  <string name="printer_door_open">Отворена врата</string>
+  <string name="printer_jammed">Заседнал</string>
+  <string name="printer_low_on_ink">Намалява мастилото</string>
+  <string name="printer_low_on_toner">Изтощен тонер</string>
+  <string name="printer_not_supported">Принтерът не се поддържа</string>
+  <string name="printer_offline">Офлайн</string>
+  <string name="printer_out_of_ink">Няма мастило</string>
+  <string name="printer_out_of_paper">Няма хартия</string>
+  <string name="printer_out_of_toner">Няма тонер</string>
+  <string name="resolution_300_dpi">300 dpi</string>
+  <string name="saved_printers">Запазени принтери</string>
+  <string name="searching">Търсене</string>
+  <string name="title_activity_add_printer">Добави принтер</string>
+  <string name="unreadable_input">Документа не може да се прочете</string>
+  <string name="waiting_to_send">Изчаква се да се изпрати</string>
+  <string name="wifi_direct">WLAN Direct</string>
+  <string name="wifi_direct_printers">WLAN Direct принтери</string>
+</resources>
