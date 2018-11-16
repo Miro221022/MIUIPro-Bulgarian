@@ -111,4 +111,5 @@
   <string name="ai_button_single_press_desc">Задействане на Mi AI</string>
   <string name="ai_button_title">Относно AI бутона</string>
   <string name="poco_agree_terms_other">(Включително Политика за поверителност на POCO Launcher и Потребителско споразумение)</string>
+  <string name="zone_picker_title">Изберете часова зона</string>
 </resources>
