@@ -1336,7 +1336,7 @@
   <string name="snooze_undo">ОТМЯНА</string>
   <string name="snoozed_for_time">Отложено с %1$s</string>
   <string name="speed_bump_explanation">По-малко спешни известия по-долу</string>
-  <string name="ssl_ca_cert_warning">Мрежата можеби се наблюдава</string>
+  <string name="ssl_ca_cert_warning">Мрежата може би се наблюдава</string>
   <string name="start_dreams">Скрийнсейвър</string>
   <string name="status_bar">Лента за състоянието</string>
   <string name="status_bar_accessibility_dismiss_recents">Отхвърли последните приложения</string>
