@@ -1738,5 +1738,5 @@
    <string name="enable_atrace">Включи ATrace</string>
    <string name="enable_atrace_summary">Улавяне на събития в ядрото чрез ATrace</string>
    <string name="download_lock_wallpaper">Докоснете два пъти, за да изтеглите Музика</string>
-   <string name="status_bar_clock_date_time_format_12">h:mm aa, MMM d</string>
+   <string name="status_bar_clock_date_time_format_12">h:mm aa, d MMM</string>
 </resources>
