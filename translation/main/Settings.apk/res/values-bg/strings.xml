@@ -3765,12 +3765,12 @@
     <string name="device_cpu6_info">"Шестядрен "</string>
     <string name="device_cpu4_info">"Четириядрен "</string>
     <string name="max_cpu2_info">Двуядрен процесор</string>
-    <string name="max_cpu4_info">"Четириядрен Макс. честота "</string>
-    <string name="max_cpu6_info">"Шестядрен Макс. честота "</string>
+    <string name="max_cpu4_info">"Четириядрен, максимална честота "</string>
+    <string name="max_cpu6_info">"Шестядрен, максимална честота "</string>
     <string name="device_cpu8_info">"Осемядрен "</string>
-    <string name="max_cpu8_info">"Осемядрен Макс. честота "</string>
+    <string name="max_cpu8_info">"Осемядрен, максимална честота "</string>
     <string name="device_cpu10_info">"Десетядрен "</string>
-    <string name="max_cpu10_info">"Десетядрен Макс. честота "</string>
+    <string name="max_cpu10_info">"Десетядрен, максимална честота "</string>
     <string name="instruction_title">Важна информация за безопасността</string>
     <string name="my_device_disclaimer">Забележка: Информацията за устройството, включително процесор, капацитет на батерията, размер на екрана и неговата резолюция, са предоставени от Xiaomi.</string>
     <string name="approve_title">Сертифициране</string>
