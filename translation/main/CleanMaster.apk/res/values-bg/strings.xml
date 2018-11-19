@@ -195,7 +195,7 @@
   <string name="go_to">Продължи</string>
   <string name="goto_set">Настройка</string>
   <string name="grabage_rank_title">Почистено днес</string>
-  <string name="header_optimizer">Използвайки функцията, вие приемате %s.</string>
+  <string name="header_optimizer">Използвайки тази функция, вие се съгласявате с %s.</string>
   <string name="hint_clean_select_items">Изтриване на дубликати…</string>
   <string name="hints_ad_header_left">Непотребни файлове</string>
   <string name="hints_apk_header_left">Инсталационни файлове</string>
@@ -292,7 +292,7 @@
   <string name="msg_update_error_code_success">Обновено</string>
   <string name="msg_update_error_code_unknown_error">Неизвестна грешка</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
-  <string name="name_optimizer">Политика на поверителност на Cheetah Mobile</string>
+  <string name="name_optimizer">Политиката за поверителност</string>
   <string name="nb_clear_set">Почистване на кеша, данните за батерията и списъка с информация в лентата с известия</string>
   <string name="network_not_available">Няма връзка с мрежата</string>
   <string name="news_change">Промяна</string>
@@ -396,7 +396,7 @@
   <string name="summary_delete_cache">Някой приложения може да имат нужда от тези данни, за да работят нормално.</string>
   <string name="summary_delete_large_file">Някой от големите файлове са полезни когато нямате връзка с интернет (напр. карти, графици и т.н.).Уверете се, че не се нуждаете от този файл.</string>
   <string name="summary_delete_video">Да се изтрият ли избраните видео файлове за постоянно?</string>
-  <string name="summary_optimizer">Функцията качва имената на папките в онлайн базата с данни на Cheetah Mobile (изисква се ID на вашето устройство).</string>
+  <string name="summary_optimizer">"Тази функция качва имената на папките, за да обнови онлайн базата данни на Cheetah Mobile и изисква идентификацията на устройството ви."</string>
   <string name="terabyteShort">ТБ</string>
   <string name="text_optimizer">Качване на имената на папките</string>
   <string name="there_is_no">Всичко изглежда наред, проверете по-късно</string>

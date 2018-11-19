@@ -315,7 +315,7 @@
     <string name="cta_dialog_title">Известие за свързване</string>
     <string name="cta_dialog_msg">Оптимизацията се нуждае от интернет връзка за получаване на актуализации, както и достъп до местоположение за да работи нормално.</string>
     <string name="cta_settings">Разреши достъп до интернет</string>
-    <string name="gdpr_msg">За да използвате основните характеристики на Оптимизация, трябва да се съгласите, че Xiaomi ще събира, обработва и използва личните Ви данни, включително информация за начините, по които използвате функциите на Оптимизация (напр. Статистически данни за използването на мобилни данни, информация за злонамерен софтуер, както и като основна информация за вашето устройство) и други видове информация, посочени в нашата<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Правила за поверителност</a>.\"</string>
+    <string name="gdpr_msg"><Data>"За да използвате основните функции на Оптимизация, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни, включително информация за начините, по които използвате функциите на Оптимизация (например, статистика за използване на мобилни данни, информация за злонамерен софтуер, както и основна информация за вашето устройство) и други видове информация, посочени в нашата &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a>."</Data></string>
     <string name="app_name_na">Монитор за данни</string>
     <string name="list_empty_text">Празно</string>
     <string name="dialog_title_attention">Внимание</string>
@@ -1611,10 +1611,10 @@
     <string name="antivirus_monitor_clean_tips">Изтрити елементи: %s</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_title">Политика на поверителност</string>
-    <string name="antivirus_privacy_dialog_summary">Тази функция криптира и изпраща идентификатора на устройството Ви на сървърите на Avast, AVL и Tencent (%s).</string>
-    <string name="antivirus_privacy_dialog_summary_link">виж Политиката на поверителност</string>
+    <string name="antivirus_privacy_dialog_summary">"Тази функция шифрова и качва идентификацията на устройството ви в сървърите на Avast, AVL и Tencent's (%s)."</string>
+    <string name="antivirus_privacy_dialog_summary_link">Вижте Политика за поверителност</string>
     <string name="antivirus_privacy_dialog_cloudscan">Качване на имена и детайли за приложенията</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">Качване и сканиране на имената и детайлите с помощта на онлайн вирусни дефиниции.</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">Качване и сканиране на имената на приложенията и подробности чрез онлайн вирусни дефиниции.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="pref_title_manual_check_virus_db_update">Проверка за актуализации</string>
     <string name="virus_update_tips_title">Внимание</string>
