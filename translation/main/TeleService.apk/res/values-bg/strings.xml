@@ -1310,7 +1310,7 @@
     <string name="enhanced_4g_lte_mode_on_failed">Не може да се включи VoLTE.</string>
     <string name="enhanced_4g_lte_mode_off_failed">Не може да се изключи VoLTE.</string>
     <string name="cmcc_ut_data_enable_prompt">Не можете да се свържете, използвайки VoLTE мрежа. Включете използването на мобилни данни.</string>
-    <string name="volte_switch_title">VoLTE активирано</string>
+    <string name="volte_switch_title">VoLTE</string>
     <string name="volte_switch_summary">Използвайте VoLTE за подобряване на качеството на гласа и видеото.</string>
     <string name="volte_switch_not_support_summary">VoLTE обажданията не се поддържат за SIM карти, които са само за мобилни данни.</string>
     <string name="volte_switch_not_support_summary2">VoLTE обажданията не се поддържат от оператора.</string>
@@ -1722,7 +1722,7 @@
 
 Ако виждате _ в лентата за състоянието, VoLTE повикванията не са налични. Ако не можете да осъществявате или да получавате повиквания или вашите разговори са прекъснати, уверете се, че вашата мрежа е съвместима с VoLTE.
 
-Тази таблетка няма слушалка. Можете да превключите в режим "свободни ръце" или да използвате слушалки, за да осъществявате повиквания."</string>
+Този таблет няма слушалка. Можете да превключите в режим "свободни ръце" или да използвате слушалки, за да осъществявате повиквания."</string>
     <string name="voice_service_warning_dialog_cancel">Отказ</string>
     <string name="voice_service_warning_dialog_ok">Разбрах</string>
     <string name="voice_service_warning_dialog_ok_timer">Разбрах (%d)</string>
@@ -1744,4 +1744,6 @@
 	<string name="dds_switch_warning_message_data_off">"Не може да намери SIM %1$s. SIM %2$s е зададена като карта по подразбиране за мобилни данни в момента. Мобилните данни в момента са изключени."</string>
     <string name="dds_switch_warning_message_data_on">"Не може да намери SIM %1$s. SIM %2$s е зададена като карта по подразбиране за мобилни данни в момента. Мобилните данни в момента са изключени за да се избегнат ненужните такси от оператора."</string>
 	<string name="privacy_policy_title">Политика за поверителност</string>
+	<string name="sip_account_disable">"Профилът не е активен. Не може да приема повиквания."</string>
+    <string name="sip_receive_call_disable">"Не може да приема повиквания. Първо позволете да приема повиквания."</string>
 </resources>

@@ -425,4 +425,8 @@
   <string name="confirm_close_password_desc">"Няма да можете да влезете в Второ пространство от заключен екран, след като изключите паролата. Изключване въпреки това?"</string>
   <string name="confirm_close_password_title">Изключване на паролата</string>
   <string name="xspace_remove">"Изтрийте профилите за клонираните приложения"</string>
+  <string name="greenguard_child_des">Използвайте нашето приложение, за да останете свързани</string>
+  <string name="greenguard_child_des_title">Нуждая се от помощ от приятелите и семейството ми</string>
+  <string name="greenguard_parent_des">"Изтеглете нашето приложение и добавете устройствата на други хора"</string>
+  <string name="greenguard_parent_des_title">Трябва да помогна на приятелите и семейството си</string>
 </resources>

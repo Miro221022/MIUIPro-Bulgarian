@@ -6020,4 +6020,14 @@ Stable"</string>
 	<string name="show_notification_channel_warnings">Показване на предупрежденията на канала за известия</string>
 	<string name="show_notification_channel_warnings_summary">Показва предупреждение на екрана, когато дадено приложение публикува известия без валиден канал</string>
 	<string name="debug_hw_renderer">Задайте оразмеряване на GPU</string>
+	<string name="long_press_power_key_half_of_second">Натиснете и задръжте бутона за захранване за 0.5 секунди, за да включите Google асистента</string>
+    <string name="power_key_how_power_force_off">Как да рестартирате устройството си принудително</string>
+    <string name="power_key_how_power_force_off_detail">Натиснете и задръжте бутона за захранване, докато устройството ви се рестартира</string>
+    <string name="power_key_how_power_off">Как да отворите страницата за изключване</string>
+    <string name="power_key_how_power_off_detail">Натиснете и задръжте бутона за захранване за 3 секунди</string>
+    <string name="power_key_how_start">Как да събудя Google асистента</string>
+    <string name="power_key_how_start_detail">Натиснете и задръжте бутона за захранване за 0.5 секунди. Освободете, за да говорите.</string>
+    <string name="power_key_start_enjoy">Рабрах, Научете повече за Google асистента</string>
+    <string name="power_key_start_guide">Събуждане на Google асистента чрез бутона за захранване на устройства без рамки около екрана</string>
+    <string name="the_way_of_wakeup_voice_assistant_summary">Събудете гласовия асистент в режим на цял екран (без виртуални бутони)</string>
 </resources>
