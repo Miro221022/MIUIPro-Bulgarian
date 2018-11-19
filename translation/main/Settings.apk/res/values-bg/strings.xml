@@ -95,8 +95,8 @@
     <string name="running_process_item_user_label">Потребител %1$s</string>
     <string name="launch_defaults_some">Задаване на определени настройки</string>
     <string name="launch_defaults_none">Няма настройки по подразбиране</string>
-    <string name="tts_settings">Настройки на Текст за произнасяне</string>
-    <string name="tts_settings_title">Текст към реч-синтетична реч</string>
+    <string name="tts_settings">Настройки на синтетичен говор</string>
+    <string name="tts_settings_title">Синтетичен говор</string>
     <string name="tts_default_rate_title">Ниво на гласа</string>
     <string name="tts_default_rate_summary">Скорост на произнасяне на текста</string>
     <string name="tts_default_pitch_title">Стъпка</string>
@@ -104,9 +104,9 @@
     <string name="tts_default_lang_title">Език</string>
     <string name="tts_lang_use_system">Използване на системния език</string>
     <string name="tts_lang_not_selected">Не е избран език</string>
-    <string name="tts_default_lang_summary">Задайте език по подразбиране за изходна реч на гласовата машина</string>
-    <string name="tts_play_example_title">Прослушване на примерен текст</string>
-    <string name="tts_play_example_summary">Демонстративно прослушване на синтезираната реч</string>
+    <string name="tts_default_lang_summary">Задава специфичния за езика глас за изговаряне на текст</string>
+    <string name="tts_play_example_title">Прослушване на пример</string>
+    <string name="tts_play_example_summary">Възпроизвеждане на кратка демонстрация на синтетична реч</string>
     <string name="tts_install_data_title">Инсталиране на гласови данни</string>
     <string name="tts_install_data_summary">Инсталиране на гласови данни за синтезираната реч</string>
     <string name="tts_engine_security_warning">Гласовата машина може да записва всичко, което изговаряте, включително лична информация, като пароли и номера на кредитни карти. Тази гласова машина е предоставена от %s. Искате ли да включа гласовата машина?</string>
@@ -2285,7 +2285,7 @@
     <string name="voice_recognizer_preference_summary">Обикновено разпознаване на говор</string>
     <string name="voice_interaction_security_warning">Тази услуга за гласово въвеждане ще може да извършва постоянно наблюдение на говора и да контролира от ваше име всички поддържащи говор приложения. Източникът й е %s. Да се активира ли използването на услугата?</string>
     <string name="tts_reset_speech_rate_title">Нулиране на скоростта на речта</string>
-    <string name="tts_reset_speech_rate_summary">Възстановяване на нормалната скорост, с която се изговаря текстът.</string>
+    <string name="tts_reset_speech_rate_summary">Възстановете нормалната скорост, с която се изговаря текстът.</string>
     <string name="gadget_title">Контрол на захранването</string>
     <string name="gadget_toggle_wifi">Актуализиране на настройките за Wi-Fi</string>
     <string name="gadget_toggle_bluetooth">Актуализиране на настройките за Bluetooth</string>
@@ -6016,4 +6016,8 @@ Stable"</string>
     <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
     <string name="single_press_AI_button">Натиснете AI бутона</string>
 	<string name="miui_input_method_settings">Настройки на методи за въвеждане</string>
+	<string name="dangerous_option_switch_title">Известяване за функции с висок риск</string>
+	<string name="show_notification_channel_warnings">Показване на предупрежденията на канала за известия</string>
+	<string name="show_notification_channel_warnings_summary">Показва предупреждение на екрана, когато дадено приложение публикува известия без валиден канал</string>
+	<string name="debug_hw_renderer">Задайте оразмеряване на GPU</string>
 </resources>

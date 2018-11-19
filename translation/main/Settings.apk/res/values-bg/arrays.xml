@@ -1583,6 +1583,12 @@
         <item>Оптимизиран за качество на връзката (330кбс/303кбс)</item>
         <item>Най-добър ефект (Адаптивна скорост на битовете)</item>
     </string-array>
+	    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Оптимизиран за качество на звука</item>
+        <item>Балансирано качество на звука и връзката</item>
+        <item>Оптимизиран за качество на връзката</item>
+        <item>Най-добър ефект (Адаптивна скорост на битовете)</item>
+    </string-array>
       <string-array name="ai_key_item_name">
         <item>Говорете на Google асистент</item>
 		<item>Отвори Google търсене</item>
