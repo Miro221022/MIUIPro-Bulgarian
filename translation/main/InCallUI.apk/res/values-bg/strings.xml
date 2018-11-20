@@ -233,4 +233,5 @@
 	<string name="conference_call_recorder_title">Конферентен разговор</string>
 	<string name="description_message_list_title">Списък на бързи отговори</string>
 	<string name="volume_boost_text">Успешно е увеличен звука</string>
+	<string name="supp_service_notification_call_waiting">Избраният от вас номер е зает. Моля, изчакайте…</string>
 </resources>

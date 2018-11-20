@@ -1345,4 +1345,5 @@
     <string name="ext_sdcard_permission_request_title">Разрешаване на Галерия достъп до SD карта</string>
     <string name="ext_sdcard_request_failed_button_text">OK</string>
     <string name="ext_sdcard_request_succeed_toast_text">"Готови сте да се забавлявате!"</string>
+	<string name="photo_editor_talkback_crop_screen">Съотношение на цял екран</string>
 </resources>

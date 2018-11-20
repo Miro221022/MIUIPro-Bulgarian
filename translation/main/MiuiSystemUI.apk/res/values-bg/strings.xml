@@ -1739,4 +1739,13 @@
    <string name="enable_atrace_summary">Улавяне на събития в ядрото чрез ATrace</string>
    <string name="download_lock_wallpaper">Докоснете два пъти, за да изтеглите Музика</string>
    <string name="status_bar_clock_date_time_format_12">h:mm aa, d MMM</string>
+   <string name="wapi_auto_sel_cert">Изберете автоматично</string>
+   <string name="wapi_cert_select">WAPI сертификат</string>
+   <string name="wapi_password_empty">Моля, въведете паролата</string>
+   <string name="wapi_password_hex_format_invalid">Невалидни шестнадесетични знаци</string>
+   <string name="wapi_password_hex_length_invalid">Броят на шестнадесетичните символи трябва да е четен</string>
+   <string name="wapi_password_length_invalid">Паролата трябва да е: 8-64 символа</string>
+   <string name="wapi_psk_type">Тип парола</string>
+   <string name="wapi_psk_type_ascii">ASCII</string>
+   <string name="wapi_psk_type_hex">Шестнадесетична</string>
 </resources>

@@ -66,4 +66,11 @@
     <item>Приемане само</item>
     <item>Отхвърляне</item>
     </string-array>
+  <string-array name="reason_type">
+    <item>Измама</item>
+    <item>Излишно или незаконно съдържание</item>
+    <item>Спам</item>
+    <item>Друго</item>
+    <item>Отказ</item>
+    </string-array>
 </resources>

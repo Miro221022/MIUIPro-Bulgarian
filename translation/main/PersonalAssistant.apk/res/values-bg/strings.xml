@@ -285,7 +285,6 @@
   <string name="express_inqiury_select_logistics">Куриерска служба</string>
   <string name="express_inquiry">Проследяване</string>
   <string name="express_inquiry_and_send">Проследяване и изпращане</string>
-  <string name="express_inquiry_button_text">Път</string>
   <string name="express_inquiry_clipboard_number_message">Проследяване на копирания номер?</string>
   <string name="express_inquiry_data_owner_prefix">Информацията за проследяване, предоставена от</string>
   <string name="express_inquiry_delete_warning_multiple">Изтрий %d записи?</string>
@@ -999,4 +998,6 @@
   <string name="card_banner_close_never">Не напомняй отново</string>
   <string name="card_banner_close_tomorrow">Напомни ми утре</string>
   <string name="cta_dialog_miot_text_all">За да сте сигурни, че може да функционира нормално, Mi Home може да се наложи да придобие вашата мрежа, местоположение, разрешение за включване на Bluetooth, да използва клетъчна мрежа, микрофон и да прочете контактите ви. Потвърждавате ли?</string>
+  <string name="express_query">Следене</string>
+  <string name="express_query_more">Проследете още</string>
 </resources>

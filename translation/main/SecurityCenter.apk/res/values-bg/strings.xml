@@ -1757,7 +1757,7 @@
     <string name="lockpattern_continue_button_text">Напред</string>
     <string name="lockpattern_confirm_button_text">ОК</string>
     <string name="modifypassword">Промяна на паролата</string>
-    <string name="back_modifypassword">Върнете се към промяна на паролата</string>
+    <string name="back_modifypassword">Върнете се към промяна на типа на парола</string>
     <string name="showpattern">Показване на фигурата</string>
     <string name="notification_mask_title">Скрий съдържанието</string>
     <string name="notification_mask_summary">Скрий съдържанието на известията на заключен екран и в панела за известия</string>
@@ -1785,8 +1785,8 @@
     <string name="numeric_settings_help_how_to_record">Как да зададете PIN</string>
     <string name="mixed_settings_help_how_to_record">Как да зададете парола</string>
     <string name="lockpattern_recording_incorrect_too_short">Свържете поне %d точки</string>
-    <string name="numeric_recording_incorrect_too_short">Въведете поне %d цифра.</string>
-    <string name="mixed_recording_incorrect_too_short">Въведете поне %d знаци.</string>
+    <string name="numeric_recording_incorrect_too_short">Въведете поне %d цифри.</string>
+    <string name="mixed_recording_incorrect_too_short">Въведете поне %d знака.</string>
     <string name="lockpattern_recording_intro_header">Свържете поне 4 точки, за да създадете фигура</string>
     <string name="numeric_recording_intro_header">Въведете парола</string>
     <string name="mixed_recording_intro_header">Въведете поне 4 знака</string>
@@ -2439,7 +2439,7 @@
 	<string name="title_rcs_switch">Включване на China Mobile Messaging</string>
 	<string name="gamebox_app_not_find">Първо инсталирайте приложението.</string>
     <string name="gs_gamebox_slip">Бутнете екрана надолу,за да отворите</string>
-	<string name="ad_split_screen_title">Моля, преминете към режим на цял екран, за да отключите</string>
+	<string name="ad_split_screen_title">Излезте от разделен екран, за да отключите</string>
 	<string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
     <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
     <string name="power_center_list_item_battery_health_model_volume">%s мАч</string>

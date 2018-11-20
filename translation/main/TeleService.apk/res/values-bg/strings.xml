@@ -1050,7 +1050,7 @@
     <string name="handon_ringer_title">Не вибрирай</string>
     <string name="crescendo_ringer_title">Увеличаващ се тон на звънене</string>
     <string name="crescendo_ringer_summary">Силата на звънене ще нарастне постепенно до нивото, което сте задали</string>
-    <string name="flash_when_ring_summary">Примигаща светкавица при входящи обаждания</string>
+    <string name="flash_when_ring_summary">Използвайте светкавицата за известяване при входящо повикване</string>
     <string name="flash_when_ring_title">Светкавица при звънене</string>
     <string name="enable_proximity_summary">Изключване на екрана по време на разговори</string>
     <string name="enable_proximity_title">Датчик за близост</string>
@@ -1061,7 +1061,7 @@
     <string name="reject_via_sms_summary">Редактиране на съдържанието на съобщението, за да се отхвърли повикването</string>
     <string name="reject_via_sms_title">Бързи отговори</string>
     <string name="missed_call_notify_times_title">Напомняне при пропуснати обаждания</string>
-    <string name="missed_call_notify_times_summary">Напомняне на всеки 5 минути при пропуснати обаждания (избор на техния брой)</string>
+    <string name="missed_call_notify_times_summary">Напомнянията са разделени на интервали от 5 минути</string>
     <string name="missed_call_notify_none">Без напомняне</string>
     <string name="missed_call_notify_once">1 път</string>
     <string name="missed_call_notify_twice">2 пъти</string>
@@ -1219,7 +1219,7 @@
     <string name="respond_via_sms_canned_response_2">Ще ви се обадя веднага обратно.</string>
     <string name="respond_via_sms_canned_response_3">Ще ви се обадя по-късно.</string>
     <string name="respond_via_sms_canned_response_4">Сега не мога да говоря. По-късно?</string>
-    <string name="respond_via_sms_cannot_empty">Съобщението не може да бъде празно</string>
+    <string name="respond_via_sms_cannot_empty">"Съобщението не може да е празно"</string>
     <string name="respond_via_sms_setting_title">Бързи отговори</string>
     <string name="respond_via_sms_setting_summary">Редактиране на съдържанието на съобщението, за да се отхвърли повикването</string>
     <string name="respond_via_sms_edittext_dialog_title">Бърз отговор</string>

@@ -5709,11 +5709,11 @@ Stable"</string>
 	<string name="status_bar_settings_show_keyguard_notification_summary">Разрешаване на важни известия на заключен екран</string>
     <string name="flash_drive_backup_restore">Архивиране или възстановяване чрез USB</string>
     <string name="flash_drive_backup_restore_summary">Свържете USB памет</string>
-    <string name="bt_ldac_declaration">Когато Bluetooth устройство поддържа LDAC, то ще бъде свързано по подразбиране. LDAC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. По време на възпроизвеждане могат да възникнат проблеми, дължащи се на ограниченията на Bluetooth хардуера.</string>
+    <string name="bt_ldac_declaration">Когато Bluetooth устройство поддържа LDAC, то ще бъде свързано по подразбиране. LDAC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. По време на възпроизвеждане могат да възникнат проблеми, дължащи се на ограниченията в хардуера на Bluetooth.</string>
     <string name="bt_ldac_dialog_summary">"LDAC осигурява висококачествено аудио изживяване и също така води до по-висока консумация на енергия.
 Тази функция може да бъде изключена в [Настройки]"</string>
     <string name="bt_ldac_dialog_title">Текущото устройство поддържа LDAC, което беше свързано по подразбиране:</string>
-    <string name="bt_ldac_open_dialog_summary">LDAC осигурява висококачествено аудио изживяване и също така води до по-висока консумация на енергия. По време на възпроизвеждане могат да възникнат проблеми, дължащи се на ограниченията на Bluetooth хардуера.</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. По време на възпроизвеждане могат да възникнат проблеми, дължащи се на ограниченията в хардуера на Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Включване на LDAC?</string>
     <string name="bt_ldac_pre_summary">Осигурява висококачествено аудио изживяване</string>
     <string name="bt_ldac_pre_title">LDAC</string>
@@ -5748,8 +5748,8 @@ Stable"</string>
     <string name="play_pause_description">Бутон Изпълни/Пауза</string>
 	<string name="bootloader_locked_answer_2_no_sim">"1. Чукнете \"Добавяне на профил\" по-долу, за да свържете вашият Mi профил с това устройство.
 2. Изтеглете инструмента за отключване от нашия уебсайт. Имайте предвид, че трябва да отключите устройството с помощта на компютър. Изтеглете от тук:"</string>
-    <string name="security_input">Защитено въвеждане</string>
-    <string name="security_input_hint">Въведете парола чрез защитената клавиатура</string>
+    <string name="security_input">Защитена клавиатура</string>
+    <string name="security_input_hint">Използвайте защитена клавиатура, когато въвеждате пароли</string>
 	<string name="forget_password_dialog_button_text">Назад</string>
     <string name="forget_password_dialog_content_four"><Data>2. Изберете &lt;font color=#e6e6e6>[Изтриване на данните]&lt;/font> и изчакайте, докато устройството ви се рестартира.</Data></string>
     <string name="forget_password_dialog_content_one"><Data>"Ако забравите паролата си, няма да можете да я възстановите. Можете обаче да зададете нова парола след като &lt;font color=#ec2700>изтриете всички данни на устройството си&lt;/font> (включително снимки, контакти и др.). Архивирайте всички важни данни преди това."</Data></string>
@@ -5819,10 +5819,10 @@ Stable"</string>
     <string name="miui_sos_contacts_category">Спешни контакти</string>
     <string name="miui_sos_emergency_contacts">Спешни контакти</string>
     <string name="miui_sos_emergency_contacts_quantity">%d добавен</string>
-    <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s) е вече приет</string>
-    <string name="miui_sos_emergency_delivered_sms_noname">%1s е вече приет</string>
-    <string name="miui_sos_emergency_failed_sms" formatted="false">%1s(%2s) изпращането на SOS съобщение е неуспешно.</string>
-    <string name="miui_sos_emergency_failed_sms_noname">%1s изпращането на SOS съобщение е неуспешно.</string>
+    <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) вече е приет.</string>
+    <string name="miui_sos_emergency_delivered_sms_noname">%1s вече е приет</string>
+    <string name="miui_sos_emergency_failed_sms" formatted="false">"Не може да се изпрати съобщение до %1s (%2s)."</string>
+    <string name="miui_sos_emergency_failed_sms_noname">"Не може да се изпрати съобщение до %1s."</string>
     <string name="miui_sos_enable_switch_summary">Натискайте бързо бутона за захранване 5 пъти, за да изпратите SOS текстово съобщение с местоположението си до вашите спешни контакти</string>
     <string name="miui_sos_enable_switch_title">Спешни съобщения</string>
     <string name="miui_sos_exit_dialog_cancel">Отказ</string>
@@ -5853,9 +5853,9 @@ Stable"</string>
     <string name="miui_sos_statusbar_title">Спешни съобщения са активирани</string>
     <string name="sos_privacy_and_content_policy">Потребителско споразумение и Политика за поверителност</string>
     <string name="sos_privacy_dialog_button_cancel">Отказ</string>
-    <string name="sos_privacy_dialog_button_ok">Продължи</string>
-    <string name="sos_privacy_dialog_message">"Активирайте функцията за Спешни съобщения, моля потвърдете и прочетете %s. 
-За да се гарантира нормалното използване на функцията за Спешни съощения, може да е необходимо да се установи местоположението ви, да се използва мобилната мрежа и да се прочетете адресната ви книга, потвърждавате ли?"</string>
+    <string name="sos_privacy_dialog_button_ok">Съгласявам се</string>
+    <string name="sos_privacy_dialog_message">"Прочетете и се съгласете с нашите %s преди да използвате тази функция.
+Тази функция се нуждае от разрешения за достъп до вашето местоположение, използване на мобилни мрежи и четене на вашите контакти. Съгласни ли сте?"</string>
     <string name="sos_privacy_dialog_title">Правила и условия</string>
     <string name="talkback_watermark_enable">TalkBack воден знак</string>
 	<string name="fingerprint_others_title">Друго</string>
@@ -5978,14 +5978,14 @@ Stable"</string>
 	<string name="miui_master_clear_summary">Изтрива всички данни от телефона</string>
 	<string name="enable_atrace">Включи ATrace</string>
     <string name="enable_atrace_summary">Улавяне на събития в ядрото чрез ATrace</string>
-	<string name="allow_device_id_access">Приложения с идентификация на устройството</string>
+	<string name="allow_device_id_access">Приложения с достъп до идентификацията на устройството</string>
     <string name="device_id">Идентификация на устройството</string>
     <string name="pref_show_lunar_calendar_title">Показване на традиционния китайски календар на заключен екран</string>
-    <string name="restore_device_id_content">Нулиране на персонализирана препоръка</string>
+    <string name="restore_device_id_content">Нулиране на персоналните препоръки</string>
     <string name="restore_device_id_title">Възстановяване на идентификацията на устройството</string>
-    <string name="restore_dialog_content">Възстановяването на идентификацията на устройството ще нулира вашите персонализирани препоръки.</string>
+    <string name="restore_dialog_content">Възстановяването на идентификацията на устройството ще нулира вашите персонални препоръки.</string>
     <string name="restore_dialog_positive">Възстанови</string>
-    <string name="restore_dialog_title">Напомняне</string>
+    <string name="restore_dialog_title">Внимание</string>
     <string name="call_records_name_1">Деби Смит</string>
     <string name="call_records_name_2">Джейсън Лий</string>
     <string name="call_records_name_3">Том Фоулес</string>
@@ -6027,7 +6027,7 @@ Stable"</string>
     <string name="power_key_how_power_off_detail">Натиснете и задръжте бутона за захранване за 3 секунди</string>
     <string name="power_key_how_start">Как да събудя Google асистента</string>
     <string name="power_key_how_start_detail">Натиснете и задръжте бутона за захранване за 0.5 секунди. Освободете, за да говорите.</string>
-    <string name="power_key_start_enjoy">Рабрах, Научете повече за Google асистента</string>
+    <string name="power_key_start_enjoy">Научете повече за Google асистента</string>
     <string name="power_key_start_guide">Събуждане на Google асистента чрез бутона за захранване на устройства без рамки около екрана</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Събудете гласовия асистент в режим на цял екран (без виртуални бутони)</string>
 </resources>
