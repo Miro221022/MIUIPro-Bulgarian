@@ -2860,7 +2860,7 @@
     <string name="alarm_volume_option_title">Сила на звука на будилника</string>
     <string name="ring_volume_option_title">Сила на звука при звънене</string>
     <string name="notification_volume_option_title">Сила на звука при известие</string>
-    <string name="ringtone_title">Мелодия на телефон</string>
+    <string name="ringtone_title">Тон за звънене</string>
     <string name="notification_ringtone_title">Стандартна мелодия за известията</string>
     <string name="alarm_ringtone_title">Станд. мелодия на будилника</string>
     <string name="vibrate_when_ringing_title">Вибриране при повикване</string>

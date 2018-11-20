@@ -198,7 +198,7 @@
         <item>Напред</item> 
     </string-array> 
 	<string-array name="def_audio_entries"> 
-        <item>Мелодия на телефон</item> 
+        <item>Тон на звънене</item> 
         <item>Мултимедия</item> 
         <item>Известия</item> 
     </string-array> 
