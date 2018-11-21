@@ -211,9 +211,9 @@
   <string name="auto_login_fail_to_retry">Не можах да вляза автоматично, опитайте отново.</string>
   <string name="auto_mail_disable_txt">Деактивиран</string>
   <string name="auto_mail_enable_txt">Стартирайте настройките</string>
-  <string name="auto_mail_title_note">Намерете опцията \'\'139 Mailbox Automatical Configuring\'\', щракнете върху нея, за да започнете.</string>
-  <string name="auto_mail_window_description">139 Email Service Автоматично конфигуриране</string>
-  <string name="auto_mail_window_label">139 Mailbox Автоматична конфигурация</string>
+  <string name="auto_mail_title_note">Намерете опцията \'\'139 Автоматично конфигуриране на пощенската кутия\'\', щракнете върху нея, за да започнете.</string>
+  <string name="auto_mail_window_description">139 Иемейл услуга Автоматично конфигуриране</string>
+  <string name="auto_mail_window_label">139 Пощенска кутия Автоматична конфигурация</string>
   <string name="auto_remind_bind">Добави</string>
   <string name="auto_remind_discribe_text">Включване на Автоматични известия</string>
   <string name="auto_remind_text">Автоматични известия</string>
@@ -232,9 +232,9 @@
   <string name="bill_remind">Известие за задължения</string>
   <string name="bill_remind_due">Изплащане на задължения на %s, докоснете за преглед</string>
   <string name="blank_feedback_toast">Вие трябва да напишете отзив</string>
-  <string name="body_forward_email_text">[Forward]</string>
+  <string name="body_forward_email_text">[Напред]</string>
   <string name="body_hint">Съставяне на имейл</string>
-  <string name="body_inline_pic_text">[Picture]</string>
+  <string name="body_inline_pic_text">[Снимка]</string>
   <string name="bottom_bar_more_quickreply">Бърз отговор</string>
   <string name="bottom_bar_more_share">Споделяне</string>
   <string name="bottom_bar_no_quickreply_toast">Няма бързи отговори</string>

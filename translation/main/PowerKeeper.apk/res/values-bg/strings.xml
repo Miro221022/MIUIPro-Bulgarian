@@ -28,7 +28,7 @@
     <string name="power_mode">Режим на производителност</string>
     <string name="performance_category">Производителност</string>
     <string name="scenario_policies_warmcontrol">Контрол на температурата</string>
-    <string name="warm_configure">Настройки за Контрол на температурата</string>
+    <string name="warm_configure">Настройки за контрол на температурата</string>
     <string name="important_warning">Предупреждение</string>
     <string name="confirm">OK</string>
     <string name="warm_performance_tip">Вашето устройство ще се затопли когато има повече работещи процеси.</string>

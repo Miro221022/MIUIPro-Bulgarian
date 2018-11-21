@@ -145,8 +145,8 @@
     <string name="auto_backup_setting">Настройки на автоматично архивиране</string>
     <string name="auto_backup_open">Автоматично архивиране</string>
     <string name="auto_backup_only_wifi">Само когато сте свързани с Wi-Fi</string>
-    <string name="auto_backup_date">Честота на авт. архивиране</string>
-    <string name="auto_backup_time">Време за авт. архивиране</string>
+    <string name="auto_backup_date">Честота на автоматично архивиране</string>
+    <string name="auto_backup_time">Час за автоматично архивиране</string>
     <string name="auto_backup_choose_title">Избери елементи за архивиране</string>
     <string name="auto_backup_choose">Избрани елементи</string>
     <string name="auto_backup_choose_empty">Няма резервни копия</string>
@@ -218,7 +218,7 @@
     <string name="see_backup_files_on_router">Преглед на архивите на Mi Router %s</string>
     <string name="page_loading">Един момент…</string>
     <string name="file_uploading">Качва се…</string>
-    <string name="new_backup">Рез. копие</string>
+    <string name="new_backup">Резервно копие</string>
     <string name="restore_backup">Възстанови</string>
     <string name="enable_encrypt_description">Кодиране</string>
     <string name="disable_encrypt_description">Не кодирай</string>

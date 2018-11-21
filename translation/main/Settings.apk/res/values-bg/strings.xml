@@ -807,7 +807,7 @@
 
 Шифроването отнема поне един час. Трябва да стартирате със заредена батерия и да оставите телефона си включен в захранването по време на процедурата. Ако я прекъснете, ще изгубите някои или всичките си данни."</string>
     <string name="crypt_keeper_button_text">Шифроване на телефона</string>
-    <string name="crypt_keeper_low_charge_text">Заредете батерията си и опитайте отново.</string>
+    <string name="crypt_keeper_low_charge_text">Заредете батерията и опитайте отново.</string>
     <string name="crypt_keeper_unplugged_text">Включете зарядното си устройство и опитайте отново.</string>
     <string name="crypt_keeper_dialog_need_password_title">Няма PIN код или парола за заключване на екрана</string>
     <string name="crypt_keeper_dialog_need_password_message">Трябва да зададете ПИН код или парола за заключване на екрана, преди да можете да започнете шифроването.</string>
@@ -1063,7 +1063,7 @@
     <string name="wifi_empty_list_user_restricted">Нямате разрешение да променяте Wi-Fi мрежата.</string>
     <string name="wifi_other_network">Добавяне на друга мрежа</string>
     <string name="wifi_more">Още</string>
-    <string name="wifi_setup_wps">Авт. настройка (WPS)</string>
+    <string name="wifi_setup_wps">Автоматична настройка (WPS)</string>
     <string name="wifi_show_advanced">Разширени опции</string>
     <string name="wifi_wps_setup_title">Защитена настройка на Wi-Fi</string>
     <string name="wifi_wps_setup_msg">WPS се стартира…</string>
@@ -1222,7 +1222,7 @@
     <string name="all_volume_title">Сила на звука</string>
     <string name="musicfx_title">Музикални ефекти</string>
     <string name="ring_volume_title">Сила на звука при звънене</string>
-    <string name="vibrate_in_silent_title">Вибрира при тих режим</string>
+    <string name="vibrate_in_silent_title">Вибриране при тих режим</string>
     <string name="notification_sound_title">Стандартен звук за известяване</string>
     <string name="incoming_call_volume_title">Мелодия</string>
     <string name="notification_volume_title">Известие</string>
@@ -1639,20 +1639,20 @@
     <string name="mobile_insert_sim_card">Моля, поставете SIM карта и рестартирайте</string>
     <string name="mobile_connect_to_internet">Моля, свържете се с интернет</string>
     <string name="location_title">Моето местоположение</string>
-    <string name="managed_profile_location_switch_title">Местоп. за служ. потр. профил</string>
+    <string name="managed_profile_location_switch_title">Местоположение за служебен потребителски профил</string>
     <string name="location_mode_title">Режим</string>
     <string name="location_mode_high_accuracy_title">Висока точност</string>
     <string name="location_mode_battery_saving_title">Запазване на батерията</string>
     <string name="location_mode_sensors_only_title">Само чрез устройството</string>
     <string name="location_mode_location_off_title">Местоположението е изключено</string>
-    <string name="location_category_recent_location_requests">Скорошни заявки за местопол.</string>
+    <string name="location_category_recent_location_requests">Скорошни заявки за местоположение</string>
     <string name="location_no_recent_apps">Нито едно приложение не е заявило достъп до местоположението наскоро</string>
     <string name="location_category_location_services">Услуги за местоположение</string>
     <string name="location_high_battery_use">Висок разход на батерията</string>
     <string name="location_low_battery_use">Нисък разход на батерията</string>
     <string name="location_mode_screen_title">Режим</string>
     <string name="location_mode_high_accuracy_description">Използвай GPS, Wi-Fi и мобилни мрежи за определяне на местоположението</string>
-    <string name="location_mode_battery_saving_description">Прибл. устан. на местопол. чрез Wi-Fi и моб. мрежи</string>
+    <string name="location_mode_battery_saving_description">Приблизително установяване на местопололението чрез Wi-Fi и мобилни мрежи</string>
     <string name="location_mode_sensors_only_description">Използване на GPS за определяне на местоположението</string>
     <string name="location_menu_scanning">Сканиране</string>
     <string name="location_scanning_screen_title">Сканиране</string>
@@ -1660,7 +1660,7 @@
     <string name="location_scanning_wifi_always_scanning_description">Подобряване на местоположението чрез разрешаване на системните приложения и услуги да откриват Wi‑Fi мрежи по всяко време.</string>
     <string name="location_scanning_bluetooth_always_scanning_title">Сканиране за устройства с Bluetooth</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Подобряване на местоположението чрез разрешаване на системните приложения и услуги да откриват устройства с Bluetooth по всяко време.</string>
-    <string name="location_network_based">Mестоп. от Wi-Fi и моб. мрежа</string>
+    <string name="location_network_based">Mестоположение от Wi-Fi и мобилна мрежа</string>
     <string name="location_neighborhood_level">Приложенията да ползват услугата ни за местоположение, за да прогнозират по-бързо вашето. Анонимни данни за местоположението ще се събират и изпращат на Google.</string>
     <string name="location_neighborhood_level_wifi">Местоположението се определя чрез Wi-Fi</string>
     <string name="location_gps">Спътници на GPS</string>
@@ -1668,7 +1668,7 @@
     <string name="assisted_gps">Използване на помощ за GPS</string>
     <string name="assisted_gps_enabled">Използване на сървър за помощ с GPS (премахнете отметката за намаляване на употребата на мрежа)</string>
     <string name="assisted_gps_disabled">Използване на сървър за помощ с GPS (премахнете отметката за подобряване на качеството нa услугата)</string>
-    <string name="use_location_title">Местопол. и търсене с Google</string>
+    <string name="use_location_title">Местоположение и търсене с Google</string>
     <string name="use_location_summary">Разрешавам на Google да използва местоположението ми за подобряване на резултатите от търсенето и др. услуги</string>
     <string name="location_access_title">Достъп до местоположението ми</string>
     <string name="location_access_summary">Приложенията, които са поискали от вас разрешение, да използват информацията за местоположението ви</string>
@@ -2057,7 +2057,7 @@
     <string name="accessibility_toggle_speak_password_preference_title">Изговаряне на паролите</string>
     <string name="accessibility_toggle_large_pointer_icon_title">Голям курсор на мишката</string>
     <string name="accessibility_toggle_master_mono_title">Монозвук</string>
-    <string name="accessibility_toggle_master_mono_summary">Комбиниране на каналите при възпроизв. на звук</string>
+    <string name="accessibility_toggle_master_mono_summary">Комбиниране на каналите при възпроизвеждане на звук</string>
     <string name="accessibility_long_press_timeout_preference_title">Забавяне при докосване/задържане</string>
     <string name="accessibility_display_inversion_preference_title">Инвертиране на цветовете</string>
     <string name="accessibility_display_inversion_preference_subtitle">(Експериментално) Може да се отрази на ефективността</string>
@@ -2420,9 +2420,9 @@
     <string name="background_data_summary">Приложенията да синхр., пращат и получават данни винаги</string>
     <string name="background_data_dialog_title">Да се деактивират ли данните на заден план?</string>
     <string name="background_data_dialog_message">Деактивирането на данните на заден план удължава живота на батерията и намалява употребата на данни. Някои приложения могат пак да ползват връзката за данни на заден план.</string>
-    <string name="sync_automatically">Данни от приложенията: Авт. синхрон</string>
-    <string name="sync_enabled">Синхр. е ВКЛЮЧЕНО</string>
-    <string name="sync_disabled">Синхр. е ИЗКЛЮЧЕНО</string>
+    <string name="sync_automatically">Данни от приложенията: Автомачна синхронизация</string>
+    <string name="sync_enabled">Синхронизирането е ВКЛЮЧЕНО</string>
+    <string name="sync_disabled">Синхронизирането е ИЗКЛЮЧЕНО</string>
     <string name="sync_error">Грешка при синхр.</string>
     <string name="last_synced">Последно синхронизиране: %1$s</string>
     <string name="sync_in_progress">Синхронизира се сега…</string>
@@ -2487,23 +2487,23 @@
     <string name="data_usage_menu_sim_cards">SIM карти</string>
     <string name="data_usage_menu_cellular_networks">Клетъчни мрежи</string>
     <string name="data_usage_cellular_data_summary">На пауза след лимита</string>
-    <string name="account_settings_menu_auto_sync">Авт. синхронизиране на данните</string>
-    <string name="account_settings_menu_auto_sync_personal">Лични данни: Авт. синхрон.</string>
-    <string name="account_settings_menu_auto_sync_work">Служебни данни: Авт. синхрон.</string>
+    <string name="account_settings_menu_auto_sync">Автоматично синхронизиране на данните</string>
+    <string name="account_settings_menu_auto_sync_personal">Лични данни: Автоматична синхронизация</string>
+    <string name="account_settings_menu_auto_sync_work">Служебни данни: Автоматична синхронизация</string>
     <string name="data_usage_change_cycle">Промяна на цикъла…</string>
-    <string name="data_usage_pick_cycle_day">Ден от месец за възстанов. на цикъла за използване на данни:</string>
+    <string name="data_usage_pick_cycle_day">Ден от месец за възстановяване на цикъла за използване на данни:</string>
     <string name="data_usage_empty">Приложенията не са ползвали данни в този период.</string>
     <string name="data_usage_label_foreground">На преден план</string>
     <string name="data_usage_label_background">На заден план</string>
     <string name="data_usage_app_restricted">ограничено</string>
     <string name="data_usage_disable_mobile">Да се изключат ли мобилните данни?</string>
-    <string name="data_usage_disable_mobile_limit">Ограничаване на моб. данни</string>
+    <string name="data_usage_disable_mobile_limit">Ограничаване на мобилни данни</string>
     <string name="data_usage_disable_4g_limit">Задаване на лимит на 4G данните</string>
     <string name="data_usage_disable_3g_limit">Лимит на 2G–3G данни: Задаване</string>
     <string name="data_usage_disable_wifi_limit">Лимит за данни през Wi-Fi: Задаване</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
-    <string name="data_usage_tab_mobile">Моб. данни</string>
+    <string name="data_usage_tab_mobile">Мобилни данни</string>
     <string name="data_usage_tab_4g">4G</string>
     <string name="data_usage_tab_3g">2G-3G</string>
     <string name="data_usage_list_mobile">Кл. мрежи</string>
@@ -2994,7 +2994,7 @@
     <string name="zen_mode_selected_callers">Избрани обаждащи се</string>
     <string name="zen_mode_repeat_callers">Повторно обаждащи се</string>
     <string name="zen_mode_repeat_callers_summary">Ако един и същ човек се обади втори път в рамките на период от %d мин, това да се разреши</string>
-    <string name="zen_mode_when">Авт. включване</string>
+    <string name="zen_mode_when">Автоматично включване</string>
     <string name="zen_mode_when_never">Никога</string>
     <string name="zen_mode_when_every_night">Всяка вечер</string>
     <string name="zen_mode_when_weeknights">Делничните вечери</string>
@@ -3425,7 +3425,7 @@
     <string name="wifi_set_priority_settings_title">AP настройките за приоритет</string>
     <string name="wifi_set_priority_settings_summary">Кликнете, за да зададете приоритет на всяка точка за достъп</string>
     <string name="cellular_to_wlan_title">Клетъчна->WLAN</string>
-    <string name="wifi_auto_connect_type_title">Тип авт. връъзка</string>
+    <string name="wifi_auto_connect_type_title">Тип автоматична връзка</string>
     <string name="wifi_auto_connect_type_summary">Посочете типа на мрежовата връзка</string>
     <string name="wifi_menu_disconnect">Откачен от мрежата</string>
     <string name="cellular_to_wlan_hint_title">Клетъчен->WLAN съвет</string>
@@ -3721,9 +3721,9 @@
     <string name="networks_title">Клетъчни мрежи</string>
     <string name="user_experience_program">Потребителски отзиви</string>
     <string name="user_experience_program_title">Потребителски отзиви</string>
-    <string name="user_experience_program_summary">Изпращане на списък с отстр. на грешки в помощ на разработчиците, за създаване на по-стабилен и по-добър MIUI ROM. Благодарим ви</string>
-    <string name="upload_debug_log_title">Изпращай диагностични данни автоматично</string>
-    <string name="upload_debug_log_summary">Диагностичните данни могат да включват информация за използването на хардуера, операционната система и приложенията. Информацията ще се използва за откриване и анализиране на проблеми в системата, но никога за да бъдете идентифицирани лично.</string>
+    <string name="user_experience_program_summary">Помогнете ни да подобрим нашите продукти и услуги, като споделите с нас статистическите данни за използването.</string>
+    <string name="upload_debug_log_title">Автоматично изпращане на диагностични данни</string>
+    <string name="upload_debug_log_summary">Статистическите данни за употреба, които ни помагат да открием и разрешим проблеми, може да съдържат вашата лична информация.</string>
     <string name="sound_vibrate_settings">Звук и вибрация</string>
     <string name="settings_notify_phone_recycled">Вашият телефонен номер е невалиден. Чукнете, за да добавите друг номер.</string>
     <string name="settings_notify_need_backup">Направете резервно копие на вашите настройки в Mi Облак за да имате достъп до тях, след като смените телефоните.</string>
@@ -4050,7 +4050,7 @@
     <string name="attempt_other_network">Избиране на друга мрежа</string>
     <string name="use_this_wlan">Използване на това Wi-Fi</string>
     <string name="search_label">Параметри</string>
-    <string name="search_hint">Търсене в настройките</string>
+    <string name="search_hint">Търсене на настройки</string>
     <string name="search_description">Търсене на настройки</string>
     <string name="remove_from_frequently_fragment">Ще премахнете ли \"%s\" от бързите настройки?</string>
     <string name="frequently_fragment_tempty">Често използваните елементи ще бъдат показани тук</string>
@@ -4068,7 +4068,7 @@
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="shut_down_find_device_failure_confirm">OK</string>
     <string name="factory_reset_summary">Изтриване на всички ваши данни от вътрешното хранилище на устройството</string>
-    <string name="erase_sure">Потвърдете изтриването</string>
+    <string name="erase_sure">Потвърждаване на изтриването</string>
     <string name="erase_personal_data">Лични данни</string>
     <string name="erase_personal_data_description">Включително профили, контакти, списък с повиквания, както и други данни.</string>
     <string name="erase_sd_data">Форматиране на SD картата</string>
@@ -4090,7 +4090,7 @@
     <string name="master_clear_apply_step_2">Проверете дали имате резервно копие на всички елементи във вашия компютър. Всички данни ще бъдат изтрити, след връщане на заводските настройки. &lt;b>Вие няма да може да възстановите данните, които нямат резервно копие.&lt;/b></string>
     <string name="master_clear_erase_application_progress">Изтриване на приложения...</string>
     <string name="erase_internal_storage">Изчисти вътрешната памет</string>
-    <string name="erase_internal_storage_description">Форматирането ще изтрие всички файлове във вътрешното хранилище, като напр. снимки и музика</string>
+    <string name="erase_internal_storage_description">Форматирането ще изтрие всички файлове във вътрешното хранилище, като например снимки и музика</string>
     <string name="storage_format">Форматиране</string>
     <string name="system_storage">Системно хранилище</string>
     <string name="usage_log">Статистика на използването от при-я</string>
@@ -4298,7 +4298,7 @@
     <string name="add_auto_startup_application">Добави приложение</string>
     <string name="power_autorun_apps_empty">Няма приложения с автостарт</string>
     <string name="power_autorun_empty">Няма приложения</string>
-    <string name="man_add_application">Добави приложения за авт. стартиране</string>
+    <string name="man_add_application">Добави приложения за автоматично стартиране</string>
     <string name="application_item_disable">-</string>
     <string name="application_item_permission">+</string>
     <string name="application_item_already_permission">Разрешено</string>
@@ -5041,7 +5041,7 @@ Stable"</string>
     <string name="miui_enable_service_title">Услугата ще предприеме следните действия:</string>
     <string name="bluetooth_device_misc_title">Рядко използвани Bluetooth устройства</string>
     <string name="bt_rarely_used_device_title">Рядко използвани устройства (%d)</string>
-    <string name="search_input_hint">Търсене в настройките</string>
+    <string name="search_input_hint">Търсене на настройки</string>
     <string name="back_button">Назад</string>
     <string name="launcher_title">Начален екран и последни</string>
     <string name="wifi_scan_notify_text_location_on">За да подобри точността на местоположението и за други цели, Google и други приложения могат да сканират за мрежи в района, дори когато WLAN е изключена. Ако не искате това да се случи, отидете на Разширени > Сканирането винаги е налице.</string>
@@ -5511,7 +5511,7 @@ Stable"</string>
     <string name="main_toolbar_statistic">Статистика за използването на данни</string>
     <string name="megabyte_per_second">М/с</string>
     <string name="megabyteShort">МБ</string>
-    <string name="mi_service_app_detail">Детайли за използването на моб. данни</string>
+    <string name="mi_service_app_detail">Детайли за използването на мобилни данни</string>
     <string name="mi_upi_settings">Mi Pay Профил</string>
     <string name="network_changed_noti_summary">Използване на мобилни данни</string>
     <string name="network_changed_noti_title">Прекъсната връзка с WLAN</string>
@@ -6030,4 +6030,5 @@ Stable"</string>
     <string name="power_key_start_enjoy">Научете повече за Google асистента</string>
     <string name="power_key_start_guide">Събуждане на Google асистента чрез бутона за захранване на устройства без рамки около екрана</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Събудете гласовия асистент в режим на цял екран (без виртуални бутони)</string>
+	<string name="accessibility_no_service_selected">Няма избрана услуга</string>
 </resources>
