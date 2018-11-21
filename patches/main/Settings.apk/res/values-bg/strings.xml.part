@@ -188,7 +188,7 @@
   <string name="not_allowed_set">не е разрешен</string>
   <string name="no_neighboring_cells">няма съседни клетки</string>
   <string name="app_assistant_title">Бутон за гласова помощ</string>
-  <string name="finger_on_title">Отключване след рестарт</string>
+  <string name="finger_on_title">Отключване с отпечатък след рестарт</string>
   <string name="aod_style_clock_title">AOD стил на часа</string>
   <string name="support_density_font_title">Зависимост на шрифта от dpi</string>
 </resources>
