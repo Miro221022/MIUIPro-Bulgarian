@@ -112,4 +112,7 @@
   <string name="ai_button_title">Относно AI бутона</string>
   <string name="poco_agree_terms_other">(Включително Политика за поверителност на POCO Launcher и Потребителско споразумение)</string>
   <string name="zone_picker_title">Изберете часова зона</string>
+  <string name="other_settings_enhanced_lockscreen">Получете подобрено изживяване на заключен екран</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Получавайте снимки и истории на заключен екран. T&amp;C</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">T&amp;C</string>
 </resources>

@@ -32,12 +32,12 @@
     <string name="bluetooth_disconnected">Не е свързан</string>
     <string name="bluetooth_disconnecting">Прекъсване…</string>
     <string name="bluetooth_connecting">Свързване…</string>
-    <string name="bluetooth_connected">Свързан</string>
+    <string name="bluetooth_connected">Свързан %1$s</string>
     <string name="bluetooth_pairing">Сдвояване…</string>
     <string name="bluetooth_connected_no_headset">Свързан (без телефон)</string>
-    <string name="bluetooth_connected_no_a2dp">Свързан (без медия)</string>
-    <string name="bluetooth_connected_no_map">Свързан (без достъп до съобщения)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (без телефон или медия)</string>
+    <string name="bluetooth_connected_no_a2dp">Свързан (няма медия) %1$s</string>
+    <string name="bluetooth_connected_no_map">Свързан (няма достъп до съобщения) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (няма телефон или медия) %1$s</string>
     <string name="bluetooth_profile_a2dp">Аудио медия</string>
     <string name="bluetooth_profile_headset">Аудио от телефон</string>
     <string name="bluetooth_profile_opp">Прехвърляне на файлове</string>
@@ -46,8 +46,8 @@
     <string name="bluetooth_profile_pbap">Споделяне на контакти</string>
     <string name="bluetooth_profile_pbap_summary">Използвано за споделяне на контакти</string>
     <string name="bluetooth_profile_pan_nap">Използвано за споделяне на интернет</string>
-    <string name="bluetooth_profile_map">Използвано за достъп до съобщенията</string>
-    <string name="bluetooth_profile_sap">Използвано за достъп до SIM</string>
+    <string name="bluetooth_profile_map">Текстови съобщения</string>
+    <string name="bluetooth_profile_sap">SIM достъп</string>
     <string name="bluetooth_profile_dun">Използвано за достъп до dial-up мрежи</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Свързан като аудио за медия</string>
     <string name="bluetooth_headset_profile_summary_connected">Свързан като аудио от телефон</string>
@@ -150,19 +150,19 @@
     <string name="mock_location_app_set">Няма избрано приложение за мнимо местоположение: %1$s</string>
     <string name="debug_networking_category">Мрежа</string>
     <string name="wifi_display_certification">Сертификат за безжичен дисплей</string>
-    <string name="wifi_verbose_logging">Активирай Wi‑Fi разширено регистр</string>
-    <string name="wifi_aggressive_handover">Автом. Wi‑Fi към моб. предаване на данни</string>
-    <string name="wifi_allow_scan_with_traffic">Винаги позволявай сканиране в роуминг за Wi‑Fi</string>
+    <string name="wifi_verbose_logging">Активирай WLAN  разширено регистр</string>
+    <string name="wifi_aggressive_handover">Автом. WLAN  към моб. предаване на данни</string>
+    <string name="wifi_allow_scan_with_traffic">Винаги позволявай сканиране в роуминг за WLAN </string>
     <string name="mobile_data_always_on">Мобилни данни винаги са разрешени</string>
     <string name="bluetooth_disable_absolute_volume">Изключване на максималния звук</string>
     <string name="wifi_display_certification_summary">Показване на опции за Wi-Fi дисплей</string>
-    <string name="wifi_verbose_logging_summary">Увеличете нивото на записване в Wi‑Fi, покажете RSSI за всеки SSID в списъка с Wi‑Fi мрежи.</string>
+    <string name="wifi_verbose_logging_summary">Увеличете нивото на записване в WLAN , покажете RSSI за всеки SSID в списъка с Wi‑Fi мрежи.</string>
     <string name="wifi_aggressive_handover_summary">Когато е активирано, връзката ще превключи на мобилни данни по-активно, когато сигналът на Wi‑Fi е слаб.</string>
     <string name="wifi_allow_scan_with_traffic_summary">Разрешаване/Забраняване на сканирането в роуминг чрез Wi‑Fi, базирано на реализирания трафик.</string>
     <string name="select_logd_size_title">Размер на буфериране на лога</string>
     <string name="select_logd_size_dialog_title">Изберете размер на буфериране за логове</string>
     <string name="select_usb_configuration_title">Избор на USB конфигурация</string>
-    <string name="select_usb_configuration_dialog_title">Избор на USB конфигурация</string>
+    <string name="select_usb_configuration_dialog_title">Изберете USB конфигурация</string>
     <string name="allow_mock_location">Разрешаване на привидни местоположения</string>
     <string name="allow_mock_location_summary">Разрешаване на привидни местоположения</string>
     <string name="debug_view_attributes">Включете проверката на атрибути</string>
@@ -6031,4 +6031,21 @@ Stable"</string>
     <string name="power_key_start_guide">Събуждане на Google асистента чрез бутона за захранване на устройства без рамки около екрана</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Събудете гласовия асистент в режим на цял екран (без виртуални бутони)</string>
 	<string name="accessibility_no_service_selected">Няма избрана услуга</string>
+	<string name="bluetooth_hearing_aid_profile_summary_connected">Свързан със слухов апарат</string>
+    <string name="bluetooth_hearing_aid_profile_summary_use_for">Използвайте слухов апарат</string>
+	<string name="wapi_all_sel_mode">Избери</string>
+	<string name="wapi_cert_is_not_exist">Няма налични сертификати. Добавете първо.</string>
+	<string name="wapi_cert_manage_error">"Не може да се зададе WAPI сертификат."</string>
+	<string name="wapi_password_hex_format_add">Трябва да използвате четен брой шестнадесетични знаци</string>
+	<string name="wapi_password_is_empty">"Паролата не може да бъде празна"</string>
+	<string name="wapi_password_length_is_max">Паролата може да е с дължина до 64 знака</string>
+    <string name="wapi_password_length_is_min">Паролата трябва да е с дължина най-малко 8 знака</string>
+    <string name="wapi_password_length_is_min_to_max">Паролата трябва да съдържа 8-64 знака</string>
+	<string name="wifi_coverage_extend">Включете WLAN разширение на покритието</string>
+    <string name="wifi_coverage_extend_summary">Разширяване на покритието на WLAN чрез точка за достъп</string>
+	<string name="wifi_wapi_cert_mode_hand_text">Избери ръчно</string>
+	<string name="wifi_wapi_fail_to_auth">"Удостоверяването на WAPI не можа да бъде завършено.
+Уверете се, че вашите сертификати са валидни."</string>
+    <string name="wifi_wapi_fail_to_init">"Не може да се отворят WAPI сертификати.
+Изглежда, че хранилището за авторски права не е активирано."</string>
 </resources>

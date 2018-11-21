@@ -69,11 +69,11 @@
   <string name="account_setup_address_label">Електронна поща</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Потвърдете потребителското име, паролата и настройките на профила.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Не може да се настрои профила</string>
-  <string name="account_setup_basics_email_label">Въведете адрес на ел. поща</string>
+  <string name="account_setup_basics_email_label">Имейл адрес</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Влезте с текущата мрежа</string>
   <string name="account_setup_basics_manual_setup_action">Ръчна настройка</string>
   <string name="account_setup_basics_mi_mail_login_help">Може да се наложи да потвърдите профила си чрез SMS, за да получавате имейли</string>
-  <string name="account_setup_basics_password_label">Въведете парола</string>
+  <string name="account_setup_basics_password_label">Парола</string>
   <string name="account_setup_basics_title">Добавяне на профил</string>
   <string name="account_setup_check_settings_check_incoming_msg">Проверка на настройките на сървъра…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Потвърждаване на SMTP настройки…</string>
@@ -665,7 +665,7 @@
   <string name="notification_action_reply_all">Отговор до всички</string>
   <string name="notification_action_undo_archive">Архивирани</string>
   <string name="notification_action_undo_delete">Изтрити</string>
-  <string name="notification_action_undo_remove_label">Етикетите са премахнати</string>
+  <string name="notification_action_undo_remove_label">Етикета е премахнат</string>
   <string name="notification_exchange_calendar_added">Добавен е календар на Exchange</string>
   <string name="oauth_error_description">Не можа да се удостовери</string>
   <string name="oauth_gmail_login_notify">Въведете име и парола на вашия Google профил на следната страница.</string>
@@ -891,7 +891,7 @@
   <string name="saved">"Записано %s "</string>
   <string name="saving">Записване…</string>
   <string name="sdcard_cannot_use">Не може да използвате SD картата</string>
-  <string name="search_bar_text">Търсете подател или търсете контакт</string>
+  <string name="search_bar_text">Търсете подател или контакт</string>
   <string name="search_hint">Търсене на поща</string>
   <string name="search_result">"Резултати "</string>
   <string name="search_tabs_name_all">Всички</string>
@@ -1018,7 +1018,7 @@
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="update_to_wps_mail">Насладете се на повече функции с WPS поща</string>
   <string name="updated_at">Обновено в %1$s</string>
-  <string name="upload_log">Изпратете регистрационните файлове</string>
+  <string name="upload_log">Изпрати</string>
   <string name="upload_log_failed">Не може да се изпрати писмото с хронологията</string>
   <string name="upload_log_no">Отказ</string>
   <string name="upload_log_success">Успешно изпратено, ние ще се свържем с вас скоро.</string>
@@ -1080,10 +1080,15 @@
   <string name="wps_title">WPS Поща</string>
   <string name="privacy_policy">Политика за поверителност</string>
   <string name="chinese">Китайски</string>
-  <string name="notify_channel_new_mail">известяване за нови съобщения</string>
+  <string name="notify_channel_new_mail">Напомняне за нови имейли</string>
   <string name="notify_channel_permission_notice">Бележка за известието за разрешение</string>
-  <string name="notify_channel_send_fail">Известяване за неуспешната доставка</string>
+  <string name="notify_channel_send_fail">Няпомняне за неуспешно изпращане</string>
   <string name="show_more_attachment">Още прикачени файлове</string>
   <string name="overlays_tip_23">Отворете плаващи прозорци за разрешения в мениджъра на разрешенията и веднага се насладете на 139 mailbox за автоматично конфигуриране на екстремното преживяване.</string>
   <string name="add_file_exception">Добавете изключение. Моля, опитайте да добавите от други пътища.</string>
+  <string name="dialog_agree">Съгласявам се</string>
+  <string name="dialog_disagree">Не се съгласявам</string>
+  <string name="list_empty_to_fresh">Няма поща, моля, опитайте да плъзнете надолу за обновяване.</string>
+  <string name="notify_channel_no_disterb">Няма режим на обезпокояване</string>
+  <string name="privacy_des">Информацията в отчета съдържа информация за отстраняване на грешки, отпечатана от приложението за електронна поща и информацията за устройството ви, за да намерите проблема, който съобщавате. Изберете %1$s отдолу, за да покажете, че сте прочели и сте се съгласили с %2$s на Xiaomi</string>
 </resources>

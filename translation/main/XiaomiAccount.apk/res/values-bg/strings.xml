@@ -466,18 +466,18 @@
   <string name="passport_register_using_other_ways">Други начини за вписване</string>
   <string name="passport_wrong_voice">Кодът който въведохте е неправилен</string>
   <string name="account_invalid_user_avatar">Снимката е невалидна</string>
-  <string name="passport_input_phone_password">Моля, въведете паролата за мобилен номер %s</string>
+  <string name="passport_input_phone_password">Въведете паролата за %s</string>
   <string name="passport_international_register_by_email">Създайте профил с имейл адрес</string>
-  <string name="passport_sms_verification_code_login_or_register">Впишете се или се регистрирайте чрез SMS</string>
+  <string name="passport_sms_verification_code_login_or_register">Впишете се или създайте профил чрез SMS</string>
   <string name="passport_extra_gdpr_license">Създаването на вашия Mi профил означава, че сте съгласни с това, че Xiaomi ще събира, обработва и използва вашите лични данни, включително данни за потвърждение (например кодове за потвърждение), данни за второто пространство (като например информация за начините, по които използвате второто пространство, ID-та използвани в първо и второ пространство) и други данни, посочени в нашата Декларация за поверителност. Прочетете нашата Политика за поверителност, за да научите как обработваме и използваме личните данни.</string>
-  <string name="collect_diagnosis_log">Събиране на диагностичен отчет</string>
-  <string name="diagnosis_log_send_failed">Изпращането на диагностичен отчет е неуспешно.</string>
-  <string name="diagnosis_log_sent_format">"Отчетът за диагностика е изпратен.
+  <string name="collect_diagnosis_log">Генериране на диагностичен отчет</string>
+  <string name="diagnosis_log_send_failed">"Отчета не може да се изпрати."</string>
+  <string name="diagnosis_log_sent_format">"Отчета е изпратен успешно.
 ID:%s
-Моля, изпратете този код на техник."</string>
-  <string name="for_diagnosis_usage_only">Използвайте тази информация само за диагностика.</string>
+Изпратете този код на ръководител."</string>
+  <string name="for_diagnosis_usage_only">Използва се само за откриване на проблеми.</string>
   <string name="ok">OK</string>
   <string name="send_diagnosis_log">Изпращане на отчет за диагностика</string>
-  <string name="sending">Изпращане...</string>
-  <string name="temporary_not_available">временно не е налице</string>
+  <string name="sending">Изпращане…</string>
+  <string name="temporary_not_available">"Тази функция все още не е налице."</string>
 </resources>
