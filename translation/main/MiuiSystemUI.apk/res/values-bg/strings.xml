@@ -1780,4 +1780,10 @@
    <string name="wifi_wapi_certification_dont_exist">Въведената от вас мрежова парола е неправилна.</string>
    <string name="wifi_wapi_fail_to_auth">"Удостоверяването на WAPI не можа да бъде завършено.
 Уверете се, че вашите сертификати са валидни."</string>
+   <string name="recents_title_app_manager">Управление на приложения</string>
+   <string name="recents_title_game">Игри</string>
+   <string name="recents_title_garbage_cleanup">Почистване</string>
+   <string name="recents_title_garbage_deepclean">Дълбоко почистване</string>
+   <string name="recents_title_market">Намерете приложения</string>
+   <string name="recents_title_security_scan">Сканиране за сигурност</string>
 </resources>

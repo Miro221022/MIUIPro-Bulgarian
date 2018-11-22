@@ -354,4 +354,5 @@
     <string name="recommend_apps_no_data_toast">Засега няма препоръки.</string>
     <string name="recommend_refresh">Обнови</string>
     <string name="recommend_xout">"Не показвай"</string>
+	<string name="show_recents_recommend_title">Показване на препоръки</string>
 </resources>
