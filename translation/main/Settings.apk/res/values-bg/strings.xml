@@ -2031,18 +2031,18 @@
     <string name="accessibility_captioning_title">Надписи</string>
     <string name="accessibility_screen_magnification_title">Жест за увеличение</string>
     <string name="accessibility_screen_magnification_short_summary">Трикратно докосване за промяна на мащаба</string>
-    <string name="accessibility_screen_magnification_summary">" "<b>За да увеличите мащаба</b>", докоснете бързо екрана три пъти с един пръст.
-"<li> <ul>"За да превъртите, плъзнете два или повече пръсти
-"<li>За да коригирате мащаба, съберете заедно или разгънете два или повече пръсти</li> </ul> </li>"
+    <string name="accessibility_screen_magnification_summary">" "<b>За увеличение</b>", чукнете бързо по екрана 3 пъти.
+"<ul> <li>Плъзнете 2 или повече пръста, за да превъртите</li>"
+"<li>За да регулирате увеличението съберете или разделете 2 или повече пръста с плъзгане по екрана</li> </ul>"
 
-"<b>За да увеличите временно мащаба</b>", докоснете бързо екрана три пъти и задръжте пръста си при последното докосване.
-"<li> <ul>"За да се придвижите по екрана, плъзнете пръста си
-"<li>За да намалите мащаба, вдигнете пръста си</li> </ul> </li>"
+"<b>За временно увеличаване</b>", бързо чукнете 3 пъти по екрана и задръжте пръста си на третото докосване.
+"<ul> <li>Плъзгайте, за да придвижите екрана</li>"
+"<li>Вдигнете пръста, за да намалите мащаба</li> </ul>"
 
-Не можете да променяте мащаба на клавиатурата и лентата за навигация."</string>
+Не можете да увеличите мащаба на клавиатурата и навигационната лента."</string>
     <string name="accessibility_global_gesture_preference_title">Пряк път за достъпност</string>
     <string name="accessibility_global_gesture_preference_summary_on">Включено</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Изкл.</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Изключено</string>
     <string name="accessibility_global_gesture_preference_description">"Когато тази функция е включена, можете в две бързи стъпки да активирате функциите за достъпност:
 
 Стъпка 1: Натиснете бутона за захранване и го задръжте, докато чуете звук или усетите вибриране.
@@ -5888,17 +5888,17 @@ Stable"</string>
     <string name="tts_engine_preference_title">Предпочитана машина</string>
 	<string name="accessibility_screen_magnification_gestures_title">Увеличение с трикратно докосване</string>
 	<string name="accessibility_screen_magnification_navbar_title">Увеличение с бутон</string>
-	<string name="accessibility_screen_magnification_navbar_summary">"Когато увеличението е включено, използвайте бутона за достъпност в долната част на екрана, за да увеличите бързо.
+	<string name="accessibility_screen_magnification_navbar_summary">"Когато увеличаването е включено, използвайте бутона за Достъпност в долната част на екрана, за да увеличите бързо.
 
-"<b>За да увеличите</b>", докоснете бутона "Достъпност", след това докоснете където и да било на екрана.
+"<b>За да увеличите</b>", докоснете бутона Достъпност, след това докоснете където и да било на екрана.
 "<ul> <li>Плъзнете 2 или повече пръста, за да превъртите</li>"
-"<li>Разтегнете с 2 или повече пръста, за да регулирате увеличението</li> </ul>"
+"<li>Съберете с плъзгане по екрана 2 или повече пръста, за да регулирате увеличението</li> </ul>"
 
-"<b>За временно увеличаване</b>", докоснете бутона за достъпност, след което докоснете и задръжте някъде по екрана.
-"<ul> <li>Плъзнете, за да придвижите екрана</li>"
+"<b>За временно увеличаване</b>", докоснете бутона за Достъпност, след което докоснете и задръжте накъде на екрана.
+"<ul> <li>Плъзнете, за да се придвижите екрана</li>"
 "<li>Вдигнете пръста, за да намалите мащаба</li> </ul>"
 
-Не можете да увеличите мащаба на клавиатурата или навигационната лента."</string>
+You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="accessibility_shortcut_service_title">Услуга за бърз достъп</string>
 	<string name="accessibility_shortcut_service_on_lock_screen_title">Разрешаване от заключен екран</string>
 	<string name="accessibility_shortcut_description">Когато командата за бърз достъп е включена, можете да натиснете двата бутона за сила на звука за 3 секунди, за да стартирате функция за достъпност.</string>
