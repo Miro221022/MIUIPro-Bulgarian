@@ -812,4 +812,9 @@
   <string name="youliao_master_rank">Youliao Топ класация</string>
   <string name="operation_show_privacy_policy">Политика за поверителност</string>
   <string name="rename_input_null">Въведете ново име на файла</string>
+  <string name="failed_not_access_sd_card">Разрешете достъп до SD картата първо</string>
+  <string name="failed_obtain_permissions">"Не може да се да получат разрешения"</string>
+  <string name="not_support_documentui">"DocumentUI не се поддържа на това устройство"</string>
+  <string name="request_document_permission">За управление на файлове на вашата SD карта, дайте на Файлове необходимите разрешения.</string>
+  <string name="request_document_permission_title">Необходими са разрешения</string>
 </resources>

@@ -6048,4 +6048,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
 Уверете се, че вашите сертификати са валидни."</string>
     <string name="wifi_wapi_fail_to_init">"Не може да се отворят WAPI сертификати.
 Изглежда, че хранилището за авторски права не е активирано."</string>
+    <string name="summary_font_size_v2">Регулиране размера на текста, изображенията и иконите</string>
+    <string name="title_font_v2">Текст и елементи на интерфейса</string>
+    <string name="title_layout_v2">Размер на текста и мащабиране</string>
 </resources>
