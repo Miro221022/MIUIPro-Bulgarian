@@ -1236,7 +1236,7 @@
     <string name="dtmf_tone_enable_title">Тонове при набиране</string>
     <string name="sound_effects_enable_title">Звуци при докосване</string>
     <string name="lock_sounds_enable_title">Звук за заключване на екрана</string>
-    <string name="haptic_feedback_enable_title">Вибриране при докосване</string>
+    <string name="haptic_feedback_enable_title">Вибрация при докосване</string>
     <string name="audio_record_proc_title">Потискане на шум</string>
     <string name="volume_media_description">Музика, видеоклипове, игри и други медии</string>
     <string name="volume_ring_description">Тон за звънене</string>
@@ -1741,7 +1741,7 @@
     <string name="lockpattern_settings_enable_summary">Трябва да се начертае фигурата, за да се отключи екрана</string>
     <string name="lockpattern_settings_enable_visible_pattern_title">Нека фигурата да е видима</string>
     <string name="lockpattern_settings_enable_visible_pattern_title_profile">Фигурата за потребителския профил да е видима</string>
-    <string name="lockpattern_settings_enable_tactile_feedback_title">Вибриране при докосване</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Вибрация при докосване</string>
     <string name="lockpattern_settings_enable_power_button_instantly_locks">Бутонът за захранв. се заключва веднага</string>
     <string name="lockpattern_settings_power_button_instantly_locks_summary">Освен когато екранът се поддържа отключен от %1$s</string>
     <string name="lockpattern_settings_choose_lock_pattern">Задаване на фигура за отключване</string>
@@ -2870,7 +2870,7 @@
     <string name="charging_sounds_title">Звуци при зареждане</string>
     <string name="docking_sounds_title">Звуци за докинг станция</string>
     <string name="touch_sounds_title">Звуци при докосване</string>
-    <string name="vibrate_on_touch_title">Вибриране при докосване</string>
+    <string name="vibrate_on_touch_title">Вибрация при докосване</string>
     <string name="dock_audio_media_title">Док. станц.: Пуск. на високог.</string>
     <string name="dock_audio_media_disabled">Цялото аудио</string>
     <string name="dock_audio_media_enabled">Само мултимедийното аудио</string>

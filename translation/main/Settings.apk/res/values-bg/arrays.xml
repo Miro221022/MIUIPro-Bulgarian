@@ -603,9 +603,9 @@
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Изключено</item>
-        <item>Слаб</item>
-        <item>Среден</item>
-        <item>Силен</item>
+        <item>Слаба</item>
+        <item>Средна</item>
+        <item>Силна</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Силен</item>

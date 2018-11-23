@@ -56,8 +56,8 @@
     <string name="pref_camera_jpegquality_entry_high">Високо</string>
     <string name="pref_camera_jpegquality_entry_normal">Нормално</string>
     <string name="pref_camera_jpegquality_entry_low">Ниско</string>
-    <string name="pref_camera_histogram_entry_enable">Вкл.</string>
-    <string name="pref_camera_histogram_entry_disable">Изкл.</string>
+    <string name="pref_camera_histogram_entry_enable">Включено</string>
+    <string name="pref_camera_histogram_entry_disable">Изключено</string>
     <string name="pref_camera_focusmode_title">Режим на фокуса</string>
     <string name="pref_camera_focusmode_entry_auto">Авто</string>
     <string name="pref_camera_focusmode_entry_normal">Нормален</string>
@@ -69,8 +69,8 @@
     <string name="pref_video_focusmode_entry_auto">Докосване</string>
     <string name="pref_camera_flashmode_title">Режим на светкавицата</string>
     <string name="pref_camera_flashmode_entry_auto">Авто</string>
-    <string name="pref_camera_flashmode_entry_on">Вкл.</string>
-    <string name="pref_camera_flashmode_entry_off">Изкл.</string>
+    <string name="pref_camera_flashmode_entry_on">Включено</string>
+    <string name="pref_camera_flashmode_entry_off">Изключено</string>
     <string name="pref_camera_flashmode_entry_torch">Фенерче</string>
     <string name="pref_camera_whitebalance_title">Баланс на бялото</string>
     <string name="pref_camera_whitebalance_entry_auto">Aвто</string>
@@ -112,7 +112,7 @@
     <string name="pref_camera_multilevel_entry_high">Високо</string>
     <string name="pref_camera_multilevel_entry_higher">По-високо</string>
     <string name="pref_camera_multilevel_entry_highest">Най-високо</string>
-    <string name="pref_camera_multilevel_entry_middle">Средно (по подр.)</string>
+    <string name="pref_camera_multilevel_entry_middle">Средно (по подрaзбиране)</string>
     <string name="pref_camera_contrast_title">Контраст</string>
     <string name="pref_camera_saturation_title">Наситеност</string>
     <string name="pref_camera_sharpness_title">Острота</string>
@@ -263,7 +263,7 @@
     <string name="ubifocus_capture_warning_message">За по-добри резултати, смимката ви трябва да съдържа както близки (на по-малко от метър до обектива), така и далечни обекти</string>
     <string name="ubi_focus_capture_fail">Кадърът е неуспешен</string>
     <string name="object_track_enable_toast">Пипнете и задръжте обекта на екрана за начало на следене на обекта.</string>
-    <string name="pref_camera_auto_capture_when_stable_title">Авто-заснемане след стабилизиране</string>
+    <string name="pref_camera_auto_capture_when_stable_title">Автоматично заснемане след стабилизиране</string>
     <string name="pref_camera_auto_capture_when_stable_summary">За избор на обект, чукнете два пъти по диагоналните точки близо до очертанията му. Когато обектът застане неподвижно, камерата ще го заснеме автоматично.</string>
     <string name="simple_mode_button_text_manual">Спри ръчен режим</string>
     <string name="pref_qc_focus_position_title">Фокусиране</string>
@@ -314,7 +314,7 @@
     <string name="pref_camera_snap_entry_take_movie">Режим бързо заснемане (видео)</string>
     <string name="pref_camera_snap_label_take_picture">Снимка</string>
     <string name="pref_camera_snap_label_take_movie">Видеозапис</string>
-    <string name="pref_camera_snap_entry_off">Изкл</string>
+    <string name="pref_camera_snap_entry_off">Изключено</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Не може да се използват бутони за бързо стартиране \"Събуждане със странични бутони\" е вкл.\"</string>
     <string name="pref_camera_tilt_shift_title">Замъгляване</string>
     <string name="simple_mode_button_text_tilt_shift">Изключи замъгляване</string>
