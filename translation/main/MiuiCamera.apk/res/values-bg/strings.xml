@@ -549,4 +549,23 @@
    <string name="accessibility_camera_liveshot_on">Режимът динамична снимка е включен</string>
    <string name="pref_camera_zoom_mode_entry_ultra">УЛТРА</string>
    <string name="ultra_wide_recommend_tip_hint">Препоръчва се да включите супер широк ъгъл</string>
+   <string name="accessibility_camera_ultra_wide_bokeh_off">全身模式,关闭状态</string>
+   <string name="accessibility_camera_ultra_wide_bokeh_on">全身模式,开启状态</string>
+   <string name="accessibility_ultra_wide_off">超广角,关闭状态</string>
+   <string name="accessibility_ultra_wide_on">超广角,开启状态</string>
+   <string name="ai_scene_top_tip">月亮模式</string>
+   <string name="beauty_tab_name_live_beauty">美颜</string>
+   <string name="beauty_tab_name_live_filter">滤镜</string>
+   <string name="custom_watermark_contains_senstive_words">Моля, променете чувствителния текст %1$s</string>
+   <string name="custom_watermark_tips">Горният текст ще бъде на вторият ред от водния знак. Моля, ограничете до 15 китайски знака или 15 английски букви.</string>
+   <string name="custom_watermark_too_many_words">Преминахте лимита на буквите</string>
+   <string name="custom_watermark_words">Потребителски думи за воден знак</string>
+   <string name="custom_watermark_words_input_hint">Въведете думи</string>
+   <string name="custom_watermark_words_save_success">Запазено</string>
+   <string name="dualcamera_watermark_default">AI ДВОЙНА КАМЕРА</string>
+   <string name="pref_camera_normal_wide_ldc_title">人脸修正</string>
+   <string name="pref_camera_ultra_wide_ldc_title">超广角畸变矫正</string>
+   <string name="pref_userdefine_watermark_title">Потребителски думи за воден знак</string>
+   <string name="ultra_wide_bokeh_close_tip">全身模式已关闭</string>
+   <string name="ultra_wide_bokeh_open_tip">全身模式</string>
 </resources>

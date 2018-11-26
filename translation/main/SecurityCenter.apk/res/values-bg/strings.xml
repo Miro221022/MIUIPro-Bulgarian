@@ -2479,4 +2479,10 @@
     <string name="traffic_setting_fragment_not_limited_summary">Настройки за неограничени мобилни данни</string>
     <string name="traffic_setting_fragment_not_limited_title">Неограничен план за данни</string>
     <string name="traffic_setting_fragment_packege_type">Настройки на план за данни</string>
+	<string name="deep_power_save_item_summary_auto_brightness">Настройте яркостта на екрана автоматично, за да спестите батерията</string>
+    <string name="deep_power_save_item_summary_bluetooth">Изключете Bluetooth, за да пестите батерията</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">Задайте заспиване на екрана след 30 секунди  неактивност, за да спестите батерията</string>
+    <string name="deep_power_save_item_title_auto_brightness">Включи автоматичната яркост</string>
+    <string name="deep_power_save_item_title_bluetooth">Изключи Bluetooth</string>
+    <string name="deep_power_save_item_title_lock_screen_time">Заспиване на екрана</string>
 </resources>

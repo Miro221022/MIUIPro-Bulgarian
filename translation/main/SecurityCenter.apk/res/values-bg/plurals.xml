@@ -389,4 +389,16 @@
         <item quantity="other">%d заключени приложения</item>
         <item quantity="one">%d заключено приложение</item>
     </plurals>
+	   <plurals name="lockpattern_recording_incorrect_too_short">
+      <item quantity="other">Свържете поне %d точки</item>
+      <item quantity="one">Свържете поне %d точка</item>
+  </plurals>
+  <plurals name="numeric_recording_incorrect_too_short">
+      <item quantity="other">Въведете поне %d цифри</item>
+      <item quantity="one">Въведете поне %d цуфра</item>
+  </plurals>
+  <plurals name="mixed_recording_incorrect_too_short">
+     <item quantity="other">Въведете поне %d знака</item>
+     <item quantity="one">Въведете поне %d знак</item>
+  </plurals>
 </resources>

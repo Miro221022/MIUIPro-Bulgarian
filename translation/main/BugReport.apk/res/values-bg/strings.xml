@@ -355,4 +355,5 @@
   <string name="catch_full_log_submit_directly">Изпращане</string>
   <string name="title_catch_full_log">Отчети</string>
   <string name="toast_catch_full_log_catching">Можете да генерирате само един отчет в даден момент.</string>
+  <string name="feedback_status_commit_in_queue_title">Очакваме обратна връзкаedback</string>
 </resources>

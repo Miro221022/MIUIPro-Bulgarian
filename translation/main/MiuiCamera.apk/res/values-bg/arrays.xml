@@ -40,5 +40,8 @@
         <item>Храм</item>
         <item>Плаж</item>
         <item>Под вода</item>
+		<item>Кула</item>
+        <item>Луна</item>
+        <item>Групова снимка</item>
     </string-array>
 </resources>
