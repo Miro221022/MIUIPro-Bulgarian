@@ -227,4 +227,10 @@
     <string name="translate_try_again">Докоснете ,за да оитате отново</string>
     <string name="translate_type_take_pic">Снимка</string>
     <string name="wifi_exist_fail">Wi-Fi точката за достъп \"%1$s\" вече съществува. Изтрийте я и опитайте отново.</string>
+	<string name="module_title_plant">Растение</string>
+    <string name="plant_fail">"Не е разпознато"</string>
+    <string name="plant_loading">Идентифициране…</string>
+    <string name="plant_reg_fail_2">"Този обект не може да бъде разпознат. Скенерът може да идентифицира само растения."</string>
+    <string name="plant_support">" (Техническа поддръжка)"</string>
+    <string name="plant_title">Сканирайте растението, което искате да идентифицирате</string>
 </resources>

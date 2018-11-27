@@ -8,4 +8,5 @@
   <string name="error_title">"Не може да се синхронизира"</string>
   <string name="error_unauthorized">Синхронизирането беше деактивирано поради твърде много опити за вписване.</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="micloud_send_message_desc">Изпращане на Mi съобщение</string>
 </resources>

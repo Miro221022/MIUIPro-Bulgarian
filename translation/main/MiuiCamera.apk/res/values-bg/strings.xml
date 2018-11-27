@@ -568,4 +568,9 @@
    <string name="pref_userdefine_watermark_title">Потребителски думи за воден знак</string>
    <string name="ultra_wide_bokeh_close_tip">全身模式已关闭</string>
    <string name="ultra_wide_bokeh_open_tip">全身模式</string>
+   <string name="accessibility_bokeh_adjust">Регулиране на нивото на размазване</string>
+   <string name="accessibility_bokeh_level">F%1$s боке ниво</string>
+   <string name="change_bgm">Променете саундтрака</string>
+   <string name="hot_music">Горещи песни</string>
+   <string name="local_music">Локална музика</string>
 </resources>

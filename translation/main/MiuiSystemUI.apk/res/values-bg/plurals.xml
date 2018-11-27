@@ -145,11 +145,11 @@
     <item quantity="one">Остава %1$d ч %2$d м</item>
    </plurals>
    <plurals name="input_password_after_timeout_msg">
-    <item quantity="other">Необходимо е въвеждане на парола след %d часа неактивност</item>
-    <item quantity="one">Необходимо е въвеждане на парола след %d час неактивност</item>
+    <item quantity="other">"Не сте използвали паролата си поне %d часа. Въведете паролата си."</item>
+    <item quantity="one">"Не сте използвали паролата си поне %d час. Въведете паролата си."</item>
    </plurals>
    <plurals name="input_pattern_after_timeout_msg">
-    <item quantity="other">Необходимо е изчертаване на шаблон след %d часа неактивност</item>
-    <item quantity="one">Необходимо е изчертаване на шаблон след %d час неактивност</item>
+    <item quantity="other">"Не сте използвали фигурата си за отключване поне %d часа. Начертайте фигурата."</item>
+    <item quantity="one">"Не сте използвали фигурата си за отключване поне %d час. Начертайте фигурата."</item>
     </plurals>
 </resources>
