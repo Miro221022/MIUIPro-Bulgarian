@@ -125,7 +125,6 @@
   <string name="skip_alarm_once_hint">Изключи еднократно на %s</string>
   <string name="slider_text">Плъзнете нагоре за да изключите</string>
   <string name="snooze_confirm_cancel">Спри аларма</string>
-  <string name="snooze_duration_title">Отложи за</string>
   <string name="start">Старт</string>
   <string name="start_up">Старт</string>
   <string name="stat_repeat_everyday">всеки ден</string>
@@ -212,7 +211,7 @@
   <string name="worldclock_search_city">Изберете град</string>
   <string name="worldclock_world_time">Часови зони</string>
   <string name="worldcolock_timezone_current">Текуща: %1$s</string>
-  <string name="worldcolock_timezone_date">MMM dd</string>
+  <string name="worldcolock_timezone_date">dd MMM</string>
   <string name="worldcolock_timezone_gap">Час</string>
   <string name="worldcolock_timezone_local">Същото като местното време</string>
   <string name="open_keep_screen">Екранът ще бъде запазен</string>
@@ -222,7 +221,7 @@
   <string name="content_desc_keep_screen">Бутон \"Винаги вкл. екран\"</string>
   <string name="timer_cancel_hint">Спиране</string>
   <string name="timer_end_time">Таймерът ще спре в %s</string>
-  <string name="timer_end_time_format">HH:mm MMM dd</string>
+  <string name="timer_end_time_format">HH:mm dd MMM</string>
   <string name="timer_end_time_format_today">HH:mm</string>
   <string name="timer_can_continue_in_timer">Отваряне на таймера за възобновяване</string>
   <string name="timer_is_paused">Таймерът е на пауза</string>

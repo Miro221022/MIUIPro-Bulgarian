@@ -157,4 +157,124 @@
 	<string name="record_format_preference_title">Формат на запис</string>
 	<string name="privacy_policy_title">Правила за поверителност</string>
 	<string name="alert_message_delete_local_record">Изтриване на този запис?</string>
+	<string name="download">Изтегляне</string>
+  <string name="err_msg_abandon">поръчката е изоставена</string>
+  <string name="err_msg_complete">завършено</string>
+  <string name="err_msg_convert_fail">конвертирането е неуспешно</string>
+  <string name="err_msg_convert_processing">конвертиране</string>
+  <string name="err_msg_convert_queue">на опашка за конвертиране</string>
+  <string name="err_msg_convert_success">конвертирането успешно</string>
+  <string name="err_msg_create">поръчката е създадена</string>
+  <string name="err_msg_delete">поръчката е изтрита</string>
+  <string name="err_msg_expired">поръчката е изтекла</string>
+  <string name="err_msg_pending_value">предстояща оценка</string>
+  <string name="err_msg_pengding_pay">предстоящо плащане</string>
+  <string name="err_msg_processing">обработка</string>
+  <string name="err_msg_refuse">неуспешно</string>
+  <string name="err_msg_transcript_fail">преписът е неуспешен</string>
+  <string name="err_msg_transcript_processing">транскрипция</string>
+  <string name="err_msg_transcript_queue">опашката за препис</string>
+  <string name="err_msg_transcript_success">успех на преписването</string>
+  <string name="faq">"Често задавани въпроси:
+  1.Какво състояние съдържа поръчката?
+Редът включва три състояния: отказ за прехвърляне, завършване и прехвърляне. След презаписване на поръчката прехвърленият текст ще се покаже в съответния записващ файл и файлът за запис може да бъде отворен.
+  2.Кога прехвърлянето е неуспешно?
+Ако поръчката бъде прехвърлена, възстановяването ще бъде автоматично върнато, а възстановяването ще бъде върнато в оригиналната ви платежна сметка в рамките на 5 работни дни, за да потвърдите плащането. Гореща телефонна линия за обслужване на клиенти (400-100-5678) свържете се с нас.
+  3.Как мога да направя текста на записа по-точен?
+Записването на текст в момента само поддържа трансфера на мандарина, точността на резултата от трансфера ще бъде повлияна от разстоянието, околната среда, гласа на населението и т.н. Степента на точност може да е съвсем различна: ако искате да промените текста по-точно, можете да изберете да оставите телефона. По-близко, начинът да говорите мандарин."</string>
+   <string name="loading_order_list">Зареждане на поръчки</string>
+  <string name="loading_order_list_empty">празно</string>
+  <string name="lyric_item_point_count">%1$d към %2$d</string>
+  <string name="mi_account_msg">Влезте в Mi профила си, за да използвате точното разпознаване онлайн, с 30 минути безплатно за нов потребител</string>
+  <string name="mi_account_ok">Към вписване</string>
+  <string name="mi_account_title">Вход Mi профил</string>
+  <string name="network_unavailable_tip">Моля, свържете се с мрежата.</string>
+  <string name="offline_recognize_progress">Локално разпознаване %s...</string>
+  <string name="offline_recognize_transfer_format">Транскодиране</string>
+  <string name="online_recognize_btn">Точно разпознаване онлайн</string>
+  <string name="online_recognize_desp">Аудиофайлът ще бъде качен на сървъра, докато се разпознава онлайн</string>
+  <string name="online_recognize_duration_limite">(10 минути ограничение)</string>
+  <string name="online_recognize_fail">Разпознаването не е успешно</string>
+  <string name="online_recognize_login_fail">Не можете да влезете</string>
+  <string name="online_recognize_order_audio_price">￥%s</string>
+  <string name="online_recognize_order_create">вписване</string>
+  <string name="online_recognize_order_duration_key">Платена продължителност</string>
+  <string name="online_recognize_order_pay">Плати и получи резултати</string>
+  <string name="online_recognize_order_progress_done">разпознай</string>
+  <string name="online_recognize_order_progress_pay">плати</string>
+  <string name="online_recognize_order_progress_upload">Качи</string>
+  <string name="online_recognize_order_service_type_key">тип на услуга</string>
+  <string name="online_recognize_order_service_type_value">Точно разпознаване онлайн</string>
+  <string name="online_recognize_order_title">Потвърди поръчката</string>
+  <string name="online_recognize_order_total_price_key">Обща цена</string>
+  <string name="online_recognize_order_unit_price_key">Единична цена</string>
+  <string name="online_recognize_order_unit_price_value">RMB %s на час</string>
+  <string name="online_recognize_order_upload">Качи</string>
+  <string name="online_recognize_order_uploading">качване...%s</string>
+  <string name="online_recognize_other_order_upload">Има качване на звук</string>
+  <string name="online_recognize_running">Точно разпознаване...</string>
+  <string name="online_recognize_service_unavailable">Понастоящем услугата не е налице. Моля опитайте по-късно</string>
+  <string name="order_item_duration">продължителност %s</string>
+  <string name="order_item_number">Поръчка номер.:$s</string>
+  <string name="order_item_price">￥%s</string>
+  <string name="pay_error_cancel">Плащането е анулирано</string>
+  <string name="pay_error_null">Грешка при плащане, проверете профила</string>
+  <string name="pay_error_unknown">Неизвестна грешка</string>
+  <string name="preference_online_orders">Онлайн поръчки</string>
+  <string name="preference_recog_faqs">Онлайн разпознаване ЧЗВ</string>
+  <string name="preference_recog_terms">Онлайн разпознаване условия</string>
+  <string name="recognition_error_code">код за грешка:%d</string>
+  <string name="recognition_error_download_data_msg">Изтеглете двигателя за разпознаване, за да направите тази услуга достъпна, който ще консумира около 20MB в настоящата мобилна връзка за данни.</string>
+  <string name="recognition_error_unknown">Неизвестна грешка</string>
+  <string name="recognition_process_dialog_body">Понастоящем има друг звук(%s)При прехвърлянето започва ли текущият аудио трансфер края на текущия аудио трансфер?</string>
+  <string name="recognition_process_dialog_cancel">Опашка</string>
+  <string name="recognition_process_dialog_confirm">Принудително стартиране</string>
+  <string name="recognition_process_dialog_title">Съвет за разпознаване</string>
+  <string name="recognition_status_downloaded">Двигателя за разпознаване е изтеглен</string>
+  <string name="recognition_status_init">подготвяне</string>
+  <string name="recognition_terms">"Уважаеми потребители, Здравейте!
+  Добре дошли да използвате услугата "глас-към-текст" в Xiaomi Recorder.Тази услуга се предоставя от Anhui Hearing Technology Co., Ltd., която бързо може да сортира записа в текст, да решава проблема глас-текст в различни сцени като ежедневни срещи, образование и обучение, медийна комуникация и подобряване на работата. ефективност.
+  Услугата "глас-към-текст" е платена услуга. Стратегията за таксуване е, както следва:
+  Продължителност на звука\u0009\u0009\u0009\u0009\u0009Таксата (първоначалната цена)
+ По-малко от 10 минути\u0009\u0009\u00093.3 юана
+ 10 минути или повече\u0009Аудио продължителност / 1 час * 19.8 юана
+  За да използвате по-добре услугата "глас-към-текст", трябва да знаете и следното:
+ 1.Без ваше разрешение чувам, че Технологията няма да разкрива или разпространява вашата информация, аудио и текстово съдържание на трети лица.
+ 2.Ако не чувате техническите причини, като природни бедствия, кражби, грабежи, хакерство и други форсмажорни обстоятелства, причинени от изтичане на информация, чух, че технологията не носи правна отговорност. Чувам, че технологията вече не поема задължения за поверителност при следните обстоятелства, включително, но не само:
+ (1) Съдържанието на ръкописа се обявява за несмисленост на науката и технологиите.
+ (2) Изисквания на закони и разпоредби, изисквания на административни съдебни органи или други органи, които изискват оповестяване
+ 3.Горепосочените условия са валидни три години след изслушване на приключването на услугата "глас-към-текст".
+ 4.Потребителят гарантира, че записваното съдържание, прехвърлено от услугата "глас-към-текст", предоставена от технологията, няма да нарушава съответните местни закони, разпоредби и политики, не включва информация, която е в ущърб на националната сигурност и интереси на Китайската народна република, Еротична, суеверна, хазартна, клеветническа и друга незаконна информация и няма да нарушава легитимните права и интереси на никого, включително, но не само, права на интелектуална собственост, права на репутация, портретни права, търговски тайни и др. Потребителят носи спорове и компенсационни задължения, причинени от нарушаването на горепосочените разпоредби, и потребителят носи отговорност за обезщетение, ако загубата, причинена от технологията, бъде изслушана.
+"</string>
+  <string name="recognize_choose_dialog_offline">Офлайн разпознаване</string>
+  <string name="recognize_choose_dialog_offline_desp">Локално разпознаване, офлайн</string>
+  <string name="recognize_choose_dialog_online">Онлайн разпознаване</string>
+  <string name="recognize_choose_dialog_online_desp">Бързо и евтино</string>
+  <string name="recognize_choose_dialog_online_free_duration">Първите 60 минути безплатно</string>
+  <string name="recognize_choose_dialog_online_price">￥%s на час</string>
+  <string name="recognize_choose_dialog_service_desp">Поддържа се от ifly</string>
+  <string name="recognize_choose_dialog_service_intruction">Описание на услугата</string>
+  <string name="recognize_choose_dialog_title">Изберете начин за разпознаване</string>
+  <string name="recognize_extra_price_desp">(Просто за Mi)</string>
+  <string name="record_list_item_recognize_text">字</string>
+  <string name="reg_error_audio_exist">аудио съществува</string>
+  <string name="reg_error_audio_large">аудиото не трябва да е по-голямо от 500 МБ</string>
+  <string name="reg_error_audio_short">звукът е твърде малък</string>
+  <string name="reg_error_business">не може да се разпознае, моля, свържете се с нас и опитайте по-късно</string>
+  <string name="reg_error_client">неточни данни за програмата, моля, свържете се с нас и опитайте по-късно</string>
+  <string name="reg_error_create_order">неуспешно създаване напоръчка, моля, опитайте по-късно</string>
+  <string name="reg_error_ifly_account">текущият профил е неправилен, моля, опитайте по-късно</string>
+  <string name="reg_error_price">неточна цена, моля свържете се с нас и опитайте по-късно</string>
+  <string name="reg_error_server">Вътрешна грешка в сървъра, моля свържете се с нас и опитайте по-късно</string>
+  <string name="reg_error_upload_audio">не можете да качите звук, моля, опитайте по-късно</string>
+  <string name="reg_error_upload_order">не може да се качи за поръчка. Моля, опитайте по-късно</string>
+  <string name="service_instructions">Условия на услугата Ifly</string>
+  <string name="text_btn_recognize_pending">в очакване</string>
+  <string name="webview_check_network">Мрежови настройки</string>
+  <string name="webview_data_error">Възникна грешка</string>
+  <string name="webview_locating_fail">"Не може да се намери местоположението ви"</string>
+  <string name="webview_network_access_denied">Достъпът до мрежата е отказан</string>
+  <string name="webview_network_unavaliable">"Не може да се свърже с мрежата"</string>
+  <string name="webview_service_unavailiable">Услугата не е достъпна</string>
+  <string name="webview_try_again">Опитайте отново</string>
 </resources>
