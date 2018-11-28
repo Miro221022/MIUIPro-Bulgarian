@@ -163,8 +163,8 @@
     <string name="cloud_no_backup">Няма резервни копия</string>
     <string name="current_account">Здравейте %s</string>
     <string name="current_sim">Текуща SIM карта</string>
-    <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
-    <string name="dir_date_format">yyyyMMdd_HHmmss</string>
+    <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="no_network">Не може да се свърже с мрежата</string>
     <string name="retry">Опитайте отново</string>
     <string name="select_all">Избери всички</string>

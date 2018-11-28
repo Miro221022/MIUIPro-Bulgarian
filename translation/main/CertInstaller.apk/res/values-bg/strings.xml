@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Инсталираща програма за сертификати</string>
+  <string name="app_name">Инсталиране на сертификати</string>
   <string name="cert_is_added">%s е инсталиран.</string>
   <string name="cert_missing_error">Не можа да се инсталира, защото файлът със сертификата не можа да бъде намерен.</string>
   <string name="cert_not_saved">Сертификатът не е инсталиран.</string>

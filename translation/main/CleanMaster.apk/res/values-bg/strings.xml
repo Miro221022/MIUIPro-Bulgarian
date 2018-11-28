@@ -262,7 +262,7 @@
   <string name="label_image_list_none">Няма</string>
   <string name="label_preserve_the_best_image">Запазете най-качествените снимки</string>
   <string name="last_check_canceled">Предишното сканиране бе отменено</string>
-  <string name="load_only_under_wlan">Заредете използвайки само Wi-Fi</string>
+  <string name="load_only_under_wlan">Зреждане само чрез Wi-Fi</string>
   <string name="location_not_found">Файлът не е открит</string>
   <string name="login_immediately">Вписване</string>
   <string name="long_click_dialog_summary">Дълго натискане за добавяне на изключения.</string>

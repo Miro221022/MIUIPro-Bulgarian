@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">MiCloudSync</string>
+  <string name="app_name">Mi Облачна синхронизация</string>
   <string name="error_data_in_transfer">Синхронизирането ще приключи след %s часа.</string>
   <string name="error_data_in_transfer_title">Mi Cloud е недостъпен</string>
   <string name="error_forbidden">Синхронизирането беше деактивирано поради проблеми с вашият Mi профил.</string>

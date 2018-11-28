@@ -20,7 +20,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_capital_on">ВКЛ.</string>
     <string name="abc_capital_off">ИЗКЛ.</string>
-    <string name="app_label">Документи</string>
+    <string name="app_label">Файлове</string>
     <string name="downloads_label">Изтегляния</string>
     <string name="title_open">Отваряне от</string>
     <string name="title_save">Запазване във:</string>
