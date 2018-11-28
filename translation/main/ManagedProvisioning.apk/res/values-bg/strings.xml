@@ -3,7 +3,7 @@
     <string name="suw_next_button_label">Напред</string>
     <string name="suw_back_button_label">Назад</string>
     <string name="suw_more_button_label">Още</string>
-    <string name="app_label">Служебен потребителски профил: Настройване</string>
+    <string name="app_label">Настройка на работен профил</string>
     <string name="provisioning_error_title">Ами сега!</string>
     <string name="setup_work_profile">Настройване на служебен потребителски профил</string>
     <string name="company_controls_workspace">Организацията ви контролира този потребителски профил и се грижи за сигурността му. Вие управлявате всичко останало на устройството си.</string>

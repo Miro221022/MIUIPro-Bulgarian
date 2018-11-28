@@ -25,5 +25,5 @@
     <string name="settings_ad_loading_unavailable">Информацията не можа да се зареди.</string>
     <string name="autoconnect">Автоматично свързване</string>
     <string name="open_wifi_connect_and_use_data_summary">Използвате мобилни данни. Докоснете, за да превключите към WLAN.</string>
-	<string name="poco_privacy_policy">POCO Launcher Политика за поверителност &amp; POCO Launcher Потребителско споразумение</string>
+	<string name="poco_privacy_policy">POCO Launcher Политика за поверителност и POCO Launcher Потребителско споразумение</string>
 </resources>

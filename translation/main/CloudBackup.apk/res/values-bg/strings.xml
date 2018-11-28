@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Рез. копие в Mi Cloud</string>
+    <string name="app_name">Архивиране в Mi Cloud</string>
     <string name="settings_backup">Системни настройки</string>
     <string name="deskclock_backup">Будилник</string>
     <string name="button_cancel">Отказ</string>
     <string name="button_next">Напред</string>
-    <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
-    <string name="dir_date_format">HHmmss_MMddyyyy</string>
+    <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+    <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="retry">Нов опит</string>
     <string name="cloud_app_current_device">Текущо устройство</string>
     <string name="cloud_app_other_devices">Други устройства</string>
@@ -21,7 +21,7 @@
     <string name="cloud_backup_detail_time">Последен архив на: %1$s</string>
     <string name="cloud_backup_detail_manage">Управление на рез. копия</string>
     <string name="cloud_backup_derail_size_summary">Размер: %s</string>
-    <string name="cloud_back_up_opening">Just a sec…</string>
+    <string name="cloud_back_up_opening">Една секунда…</string>
     <string name="cloud_back_up_no_network_warn">Не мога да се свържа с Wi-Fi мрежа</string>
     <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_frequence_choice_title">Резервно копие по график</string>
@@ -52,9 +52,9 @@
     <string name="recovering">Възстановява се %s</string>
     <string name="start_recover">Възстанови %s</string>
     <string name="latest_backup_time_loading">Зарежда се…</string>
-    <string name="start_backup_to_micloud">Архив на прил. в Mi Cloud</string>
+    <string name="start_backup_to_micloud">Архивиране на приложения в Mi Cloud</string>
     <string name="backing_up_to_micloud">Архивира се…</string>
-    <string name="restore_from_cloud">Възстановяване от рез. копие в Mi Cloud</string>
+    <string name="restore_from_cloud">Възстановяване от резервно копие в Mi Cloud</string>
     <string name="backup_to_cloud">Архив на прил.</string>
     <string name="menu_item_sort">Сортиране по</string>
     <string name="menu_item_sort_name">Име</string>
@@ -64,13 +64,13 @@
     <string name="managespace_delete_backup">Изтриване</string>
     <string name="error_unknown">Нещо се обърка</string>
     <string name="backup_size">Размер: %s</string>
-    <string name="device_delete_prompt">Да се изтрие ли рез. копие на %s?</string>
+    <string name="device_delete_prompt">Да се изтрие ли резервно копие на %s?</string>
     <string name="desktop_waiting">Изчаква</string>
     <string name="desktop_downloading">Изтегля се</string>
     <string name="desktop_installing">Инсталира се</string>
     <string name="desktop_wait_wifi">Изчаква</string>
     <string name="desktop_failed">Неуспешно</string>
-    <string name="recover_from_micloud">Възстановяване от рез. копие в Mi Cloud</string>
+    <string name="recover_from_micloud">Възстановяване от резервно копие в Mi Cloud</string>
     <string name="click_try_to_restore_again">Чукнете за нов опит</string>
     <string name="open_wifi">Включване на Wi-Fi</string>
     <string name="open_wifi_description">Свързване към Wi-Fi мрежа за възстановяване на прил.</string>
@@ -181,4 +181,9 @@
     <string name="try_continue">Докоснете, за да продължите</string>
 	<string name="second_space">Второ просранство</string>
     <string name="self_device">"Този телефон "</string>
+	<string name="backup_stopped_msg">Продължаването на резервното копие ще замени съществуващото копие в облака, кликнете за преглед.</string>
+    <string name="backup_stopped_title">Резервното архивиране в облака е спряно</string>
+    <string name="dialog_btn_cancel_backup">Отказ</string>
+    <string name="dialog_btn_overwrite_backup">Презаписване</string>
+    <string name="dialog_msg_overwrite_backup">Разликата между локалното и облачното архивиране е голяма, продължаването на резервното копиране ще замени съществуващия.</string>
 </resources>

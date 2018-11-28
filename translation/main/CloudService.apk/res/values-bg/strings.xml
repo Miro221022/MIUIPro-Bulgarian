@@ -14,7 +14,7 @@
     <string name="search_cloudbackup_pref_key_words">рез. копие в Mi Облак, създай резервно копие</string>
     <string name="search_cloudbackup_pref_desc">Включване/Изключване на Резервно копие</string>
     <string name="search_cloudbackup_pref_path">Mi Профил/Mi Облак/Създаване на резервно копие</string>
-    <string name="app_name">Mi Cloud</string>
+    <string name="app_name">Mi Облак</string>
     <string name="sync_item_sms_title">Синхр. на съобщения</string>
     <string name="sync_item_sms_summary">Синхронизиране на получените и изпратени текстови съобщения на този телефон</string>
     <string name="sub_sync_item_sms_title_wifi_only">Синхр. на MMS само по Wi-Fi</string>

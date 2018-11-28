@@ -5,7 +5,7 @@
   <string name="announcement">Внимание</string>
   <string name="app_empty">Не може да се открият приложения.</string>
   <string name="app_label">Отзиви</string>
-  <string name="app_name">Обратна връзка</string>
+  <string name="app_name">Отзиви</string>
   <string name="app_search">Търсене на приложения</string>
   <string name="btn_send">Изпрати</string>
   <string name="bugreport_dialog_not_show_again">Не показвай отново</string>
@@ -355,5 +355,5 @@
   <string name="catch_full_log_submit_directly">Изпращане</string>
   <string name="title_catch_full_log">Отчети</string>
   <string name="toast_catch_full_log_catching">Можете да генерирате само един отчет в даден момент.</string>
-  <string name="feedback_status_commit_in_queue_title">Очакваме обратна връзкаedback</string>
+  <string name="feedback_status_commit_in_queue_title">Очакваме обратна връзка</string>
 </resources>
