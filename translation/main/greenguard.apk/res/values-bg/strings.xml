@@ -28,7 +28,7 @@
     <string name="agree">Съгласен съм</string>
     <string name="alpha_build">Алфа</string>
     <string name="amap_policy">Amap Политика за поверителност</string>
-    <string name="app_name">Служба за охрана</string>
+    <string name="app_name">Услуга за сигурност и охрана</string>
     <string name="app_restrict_notice_forbidden">"Не можете да използвате %s сега.
 Върнете се отново, когато ограничението се премахне."</string>
     <string name="app_restrict_notice_now">"Не можете да използвате %1$s днес.

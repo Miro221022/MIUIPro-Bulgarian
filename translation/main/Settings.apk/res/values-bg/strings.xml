@@ -1375,7 +1375,7 @@
     <string name="memory_media_usage">Носители</string>
     <string name="memory_downloads_usage">Изтегляния</string>
     <string name="memory_dcim_usage">Снимки, видеоклипове</string>
-    <string name="memory_music_usage">Аудио (музика, мелодии, подкаст емисии и др.)</string>
+    <string name="memory_music_usage">Аудио (музика, мелодии, подкасти и т.н.)</string>
     <string name="memory_media_misc_usage">Други файлове</string>
     <string name="memory_media_cache_usage">Кеширани данни</string>
     <string name="sd_eject">Демонтиране на SD картата</string>
@@ -1464,9 +1464,9 @@
     <string name="storage_detail_cached">Кеширани данни</string>
     <string name="storage_detail_other">Други</string>
     <string name="storage_detail_explore">^1: Разглеждане</string>
-    <string name="storage_detail_dialog_other">"Категорията „Други“ включва споделените файлове, запазени от приложенията, файловете, изтеглени от интернет или през Bluetooth, тези на Андроид и др.
+    <string name="storage_detail_dialog_other">"Други включва споделени файлове, запазени от приложенията, файлове, изтеглени от интернет или Bluetooth, Андроид файлове и т.н. 
 
-За да видите цялото съдържание на това хранилище (^1), докоснете „Разглеждане“."</string>
+За да видите видимото съдържание на това ^1, докоснете Изследване."</string>
     <string name="storage_detail_dialog_user">"Потребителят ^1 може да е запазил снимки, музика, филми, приложения или други данни, които заемат ^2 от хранилището. 
 
 За да прегледате подробностите, превключете към ^1."</string>
@@ -1475,33 +1475,33 @@
     <string name="storage_wizard_init_external_summary">За преместване на снимки и друга мултимедия между устройствата.</string>
     <string name="storage_wizard_init_internal_title">Използване като вътрешно хранилище</string>
     <string name="storage_wizard_init_internal_summary">За съхраняване на каквото и да е само на това устройство, включително приложения и снимки. Хранилището трябва да се форматира, за да не може да работи на други устройства.</string>
-    <string name="storage_wizard_format_confirm_title">Форматиране като вътр. хранилище</string>
-    <string name="storage_wizard_format_confirm_body">"\"Необходимо е да форматирате хранилището (^1), за да го защитите. 
+    <string name="storage_wizard_format_confirm_title">Форматиране като вътрешно хранилище</string>
+    <string name="storage_wizard_format_confirm_body">"Това изисква ^1 да бъде форматирана, за да бъде защитена. 
 
-След като форматирате хранилището (^1), то ще работи само на това устройство. 
+След форматирането, тази ^1 ще работи само в това устройство. 
 
-\"&lt;b>При форматирането се изтриват всички данни, които понастоящем се съхраняват в това хранилище (^1).&lt;/b> За да не ги загубите, е добре да създадете резервно копие."</string>
-    <string name="storage_wizard_format_confirm_public_title">Формат. като преносимо хранилище</string>
-    <string name="storage_wizard_format_confirm_public_body">"Това изисква ^1 форматиране. 
-\"&lt;b>Форматирането ще изтрие всички данни намиращи се в ^1. &lt;/b>\"Архивирайте, за да предотвратите загубата им. "</string>
+"<b>Форматирането изтрива всички данни, които понастоящем се съхраняват на ^1.</b> За да избегнете загубата на данни, обмислете тяхното архивиране.</string>
+    <string name="storage_wizard_format_confirm_public_title">Форматиране като преносимо хранилище</string>
+    <string name="storage_wizard_format_confirm_public_body">"Това изисква ^1 да бъде форматирана. 
+"<b>Форматирането изтрива всички данни, които понастоящем се съхраняват на ^1.</b> За да избегнете загубата на данни, обмислете тяхното архивиране.</string>
     <string name="storage_wizard_format_confirm_next">Изтриване и форматиране</string>
     <string name="storage_wizard_format_progress_title">^1: Форматира се…</string>
     <string name="storage_wizard_format_progress_body">Не премахвайте хранилището (^1), докато се форматира.</string>
-    <string name="storage_wizard_migrate_title">Премест. данните в новото хран.</string>
+    <string name="storage_wizard_migrate_title">Преместване на данните в новото хранилище</string>
     <string name="storage_wizard_migrate_body">"Може да преместите снимките, файловете и приложенията на новата ^1. 
 Преместването ще отнеме ^2 и ще освободи ^3 на вътрешното хранилище. Някой приложения може да не работят."</string>
     <string name="storage_wizard_migrate_now">Преместване сега</string>
     <string name="storage_wizard_migrate_later">Преместване по-късно</string>
     <string name="storage_wizard_migrate_confirm_title">Преместете данните сега</string>
-    <string name="storage_wizard_migrate_confirm_body">&lt;b>Преместването отнема около ^1 и ще освободи ^2 в/ъв ^3.&lt;/b></string>
+    <string name="storage_wizard_migrate_confirm_body">&lt;b>Преместването отнема около ^1 и ще освободи ^2 във ^3.&lt;/b></string>
     <string name="storage_wizard_migrate_confirm_next">Преместване</string>
     <string name="storage_wizard_migrate_progress_title">Данните се преместват…</string>
     <string name="storage_wizard_migrate_details">"По време на преместването: 
 • Не премахвайте хранилището (^1). 
 • Някои приложения няма да работят правилно. 
 • Устройството трябва да е заредено."</string>
-    <string name="storage_wizard_ready_title">^1 е готово</string>
-    <string name="storage_wizard_ready_external_body">Вашата ^1 е настроена да работи с медията и снимките ви.</string>
+    <string name="storage_wizard_ready_title">^1 е готова</string>
+    <string name="storage_wizard_ready_external_body">Вашата ^1 е напълно настроена да се използва за снимки и други медиини данни.</string>
     <string name="storage_wizard_ready_internal_body">"Новото хранилище (^1) работи. 
 
 За да преместите снимки, файлове и данни на приложения към това устройство, отворете „Настройки“ > „Хранилище“."</string>
@@ -1562,11 +1562,11 @@
     <string name="menu_restore">Стандартни настройки</string>
     <string name="restore_default_apn_completed">Възстановяването на стандартните настройките за името на точката за достъп (APN) завърши.</string>
     <string name="reset_network_title">Нулиране на настройките на мрежата</string>
-    <string name="reset_network_desc">"\"Така ще се нулират всички мрежови настройки, включително тези за:
+    <string name="reset_network_desc">"Това ще нулира всички мрежови настройки, включително:
 
-\"&lt;li>Wi‑Fi&lt;/li>\"
-\"&lt;li>клетъчни данни&lt;/li>\"
-\"&lt;li>Bluetooth&lt;/li>"</string>
+"<li>WLAN</li>"
+"<li>Мобилни данни</li>"
+"<li>Bluetooth</li>" "</string>
     <string name="reset_network_button_text">Нулиране на настройките</string>
     <string name="reset_network_final_desc">Да се нулират ли всички мрежови настройки? Не можете да отмените това действие!</string>
     <string name="reset_network_final_button_text">Нулиране на настройките</string>
@@ -1575,25 +1575,25 @@
     <string name="reset_network_complete_toast">Мрежовите настройки са нулирани</string>
     <string name="device_reset_title">Нулиране на устройството</string>
     <string name="master_clear_title">Възстановяване на фабрични настройки</string>
-    <string name="master_clear_desc">"Това ще изтрие всички данни от &lt;b>вътрешното хранилище&lt;/b>\" на телефона ви, включително:
+    <string name="master_clear_desc">Това ще изтрие всичката информация от <b>вътрешното хранилище</b>" на телефона ви, включително:
 
-\"&lt;li>профила ви в Google;&lt;/li>\"
-\"&lt;li>данни и настройки от системата и приложенията;&lt;/li>\"
-\"&lt;li>изтеглени приложения.&lt;/li>"</string>
+"<li>Вашият Google профил</li>"
+"<li>Данни и настройки на системата и приложенията</li>"
+"<li>Изтеглени приложения</li>" "</string>
     <string name="master_clear_accounts">"
 
-Понастоящем сте влезли в следните профил
+Понастоящем сте влезли в следните профили:
 "</string>
     <string name="master_clear_other_users_present">"
 
-На това устройство има други потребител
+На това устройство има други потребители.
 "</string>
-    <string name="master_clear_desc_also_erases_external">"&lt;li>Музика&lt;/li>\"
-\"&lt;li>Снимки&lt;/li>\"
-\"&lt;li>Други потребителски данни&lt;/li>"</string>
-    <string name="master_clear_desc_erase_external_storage">"\"
+    <string name="master_clear_desc_also_erases_external">" "<li>Музика</li>"
+"<li>Снимки</li>"
+"<li>Други потребителски данни</li>" "</string>
+    <string name="master_clear_desc_erase_external_storage">"
 
-За да изчистите музиката, снимките и другите потребителски данни, трябва да се изтрие \"&lt;b>USB хранилището&lt;/b>."</string>
+За да премахнете музика, снимки и други потребителски данни, "<b>SD картата</b> трябва да бъде форматирана.</string>
     <string name="erase_external_storage">Изтриване на SD картата</string>
     <string name="erase_external_storage_description">Изтриване на всички данни на SD картата, като например музика или снимки</string>
     <string name="master_clear_button_text">Нулиране на телефона</string>
@@ -4984,7 +4984,7 @@ Stable"</string>
     <string name="keywords_sync">Синхронизирай;Синхронизация;Облачни услуги</string>
     <string name="keywords_paper_mode">Постоянно движение;Четене;Режим четене;Синя светлина;защита на очите</string>
     <string name="keywords_quick_ball">Тъч асистент;пряк път;преки пътища;превключватели;превключвател</string>
-    <string name="storage_wizard_format_confirm_third_body">^1 ще се форматира</string>
+    <string name="storage_wizard_format_confirm_third_body">^1 се форматира</string>
     <string name="http_invoke_app">Уеб приложения</string>
     <string name="http_invoke_app_summary">Отворете бързо приложения, без да ги инсталирате</string>
     <string name="pre_installed_application">Вградени приложения</string>
