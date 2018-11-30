@@ -5443,7 +5443,7 @@ Stable"</string>
     <string name="runapp_notifications_title">Известия за стартирани приложения</string>
     <string name="defalut_launcher_title">Начален екран по подразбиране</string>
     <string name="launcher_auto_fill_empty_title">Запълване на празните клетки</string>
-    <string name="lock_screen_cells_title">Схема на Заключен екран</string>
+    <string name="lock_screen_cells_title">Заключване на оформлението на началния екран</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Изисква се незабавно парола.</string>
     <string name="lock_screen_secure_after_timeout_summary">Изисква се парола: %1$s</string>
     <string name="lock_screen_secure_after_timeout_title">Изисква се парола</string>
