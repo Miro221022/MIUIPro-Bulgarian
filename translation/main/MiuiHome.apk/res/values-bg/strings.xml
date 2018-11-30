@@ -195,7 +195,7 @@
     <string name="menu_add">Добави</string>
     <string name="menu_auto_fill">Запълване на празните клетки</string>
     <string name="menu_back_desktop">Обратно към началния екран</string>
-    <string name="menu_cell_setting">Заключване на начален екран</string>
+    <string name="menu_cell_setting">Оформление на начален екран</string>
     <string name="menu_customize">Настройки</string>
     <string name="menu_default_screen_preview">Задай екран по подразбиране</string>
     <string name="menu_edit">Редактирай джаджи</string>
@@ -318,7 +318,7 @@
     <string name="defalut_launcher_title">Стартер по подразбиране</string>
     <string name="launcher_auto_fill_empty_title">Запълване на празните клетки</string>
     <string name="launcher_title">Начален екран и последни</string>
-    <string name="lock_screen_cells_title">Схема на Заключен екран</string>
+    <string name="lock_screen_cells_title">Заключване на оформлението на начален екран</string>
     <string name="miui_screen_config_title">Настройки на Начален екран</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Отмени</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Изключи</string>
