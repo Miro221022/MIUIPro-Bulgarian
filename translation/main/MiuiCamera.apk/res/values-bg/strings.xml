@@ -179,6 +179,7 @@
     <string name="pref_camera_referenceline_title">Базова линия</string>
     <string name="pref_camera_volumekey_function_entry_volume">Звук</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Затвор</string>
+	<string name="pref_camera_volumekey_function_entry_timer">Таймер за снимане</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Мащабиране</string>
     <string name="pref_camera_volumekey_function_entry_exposure">Експониране</string>
     <string name="pref_camera_volumekey_function_title">Функция на бутоните за звук</string>
