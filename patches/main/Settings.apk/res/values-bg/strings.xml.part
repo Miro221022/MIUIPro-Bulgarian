@@ -191,4 +191,5 @@
   <string name="finger_on_title">Отключване с отпечатък след рестарт</string>
   <string name="aod_style_clock_title">AOD стил на часа</string>
   <string name="support_density_font_title">Зависимост на шрифта от dpi</string>
+  <string name="icon_app_color_title">Цветни икони за известията</string>
 </resources>
