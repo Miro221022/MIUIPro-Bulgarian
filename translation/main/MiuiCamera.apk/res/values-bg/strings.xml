@@ -117,7 +117,7 @@
     <string name="pref_camera_saturation_title">Наситеност</string>
     <string name="pref_camera_sharpness_title">Острота</string>
     <string name="pref_camera_scenemode_title">Сцени</string>
-    <string name="pref_camera_scenemode_entry_off">Изкл.</string>
+    <string name="pref_camera_scenemode_entry_off">Изключено</string>
     <string name="pref_camera_scenemode_entry_auto">Авто</string>
     <string name="pref_camera_scenemode_entry_portrait">Портрет</string>
     <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
@@ -128,12 +128,12 @@
     <string name="pref_camera_scenemode_entry_sunset">Залез</string>
     <string name="pref_camera_scenemode_entry_fireworks">Фойерверки</string>
     <string name="pref_camera_scenemode_entry_sports">Спорт</string>
-    <string name="pref_camera_scenemode_entry_backlight">Срещу светлина</string>
+    <string name="pref_camera_scenemode_entry_backlight">Фоново осветление</string>
     <string name="pref_camera_scenemode_entry_flowers">Цветя</string>
     <string name="pref_camera_iso_title">Изберете ISO</string>
     <string name="pref_camera_iso_entry_auto">Авто</string>
     <string name="pref_camera_antibanding_title">Намаляване лентите на екрана</string>
-    <string name="pref_camera_antibanding_entry_0">Изкл.</string>
+    <string name="pref_camera_antibanding_entry_0">Изключено</string>
     <string name="pref_camera_antibanding_entry_1">50 Хц</string>
     <string name="pref_camera_antibanding_entry_2">60 Хц</string>
     <string name="pref_camera_antibanding_entry_3">Авто</string>
@@ -379,7 +379,7 @@
     <string name="color_effect_entry_vivid">Живо</string>
     <string name="color_effect_entry_film">Филм</string>
     <string name="color_effect_entry_koizora">Любов</string>
-    <string name="color_effect_entry_latte">Мляко</string>
+    <string name="color_effect_entry_latte">Латте</string>
     <string name="color_effect_entry_warm">Слънце</string>
     <string name="color_effect_entry_cookie">Бисквитки</string>
     <string name="color_effect_entry_quiet">Покой</string>
@@ -393,7 +393,7 @@
     <string name="video_effect_entry_holiday">Отражения</string>
     <string name="video_effect_entry_polaroid">Полароид</string>
     <string name="video_effect_entry_forest">Горичка</string>
-    <string name="video_effect_entry_blackwhite">Ч/Б</string>
+    <string name="video_effect_entry_blackwhite">Черно-бяло</string>
     <string name="portait_effect_entry_nature">Природа</string>
     <string name="portait_effect_entry_fairytale">Детство</string>
     <string name="portait_effect_entry_pink">Руменина</string>
@@ -402,7 +402,7 @@
     <string name="portait_effect_entry_romance">Романтика</string>
     <string name="portait_effect_entry_maze">Бъркотия</string>
     <string name="portait_effect_entry_cool">Мента</string>
-    <string name="portait_effect_entry_blackwhite">Ч/Б</string>
+    <string name="portait_effect_entry_blackwhite">Черно-бяло</string>
     <string name="pano_how_to_use_prompt_start">Чукнете стрелката за да превключите посоката на заснемане и започнете панорамата бавно.</string>
     <string name="pref_scan_qrcode_summary">Само задната камера поддържа режим Скенер на баркод</string>
     <string name="face_age_info">Възраст: %d</string>

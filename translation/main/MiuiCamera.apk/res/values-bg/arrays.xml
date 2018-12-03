@@ -7,10 +7,10 @@
     </string-array>
 	     <string-array name="ai_scene_names">
         <item>Без</item>
-        <item>Досие</item>
+        <item>Документ</item>
         <item>Цвете</item>
         <item>Храна</item>
-        <item>ppt</item>
+        <item>PPT</item>
         <item>Небе</item>
         <item>Изгрев и залез</item>
         <item>Котка</item>
