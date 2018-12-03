@@ -177,13 +177,18 @@
     <string name="unsupported_home">Актуализирайте MIUI до последна версия.</string>
     <string name="load_backup_failed">"Архивите не можаха да се заредят"</string>
     <string name="loading_user_backup">Зареждане на резервни копия на потребителя…</string>
-    <string name="main_space">Първо пространство</string>
     <string name="try_continue">Докоснете, за да продължите</string>
 	<string name="second_space">Второ просранство</string>
     <string name="self_device">"Този телефон "</string>
-	<string name="backup_stopped_msg">Продължаването на резервното копие ще замени съществуващото копие в облака, кликнете за преглед.</string>
-    <string name="backup_stopped_title">Резервното архивиране в облака е спряно</string>
+	<string name="backup_stopped_msg">Текущото резервно копие ще презапише предишното. Докоснете за преглед.</string>
+    <string name="backup_stopped_title">Архивирането бе поставено на пауза</string>
     <string name="dialog_btn_cancel_backup">Отказ</string>
     <string name="dialog_btn_overwrite_backup">Презаписване</string>
-    <string name="dialog_msg_overwrite_backup">Разликата между локалното и облачното архивиране е голяма, продължаването на резервното копиране ще замени съществуващия.</string>
+    <string name="dialog_msg_overwrite_backup">Локалното архивиране е различно от това в Mi Облака. Ако продължите, текущият архив ще презапише предишния.</string>
+	<string name="other_device_main_space">Първо пространство</string>
+	<string name="other_device_second_space">Второ пространство</string>
+	<string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+	<string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
+	<string name="self_device_main_space">"Първото пространство в телефона"</string>
+	<string name="self_device_second_space">"Второ пространство в телефона"</string>
 </resources>

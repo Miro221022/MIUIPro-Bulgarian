@@ -336,8 +336,8 @@
     <string name="pref_camera_portrait_mode_entry_off">Режим Портрет е изключен</string>
     <string name="pref_camera_portrait_mode_entry_on">Режим Портрет е включен</string>
     <string name="portrait_mode_lowlight_hint">Прекалено е тъмно</string>
-    <string name="portrait_mode_too_close_hint">Отдалечете малко обекта</string>
-    <string name="portrait_mode_too_far_hint">Поставете обекта на разстояние до 2 метра</string>
+    <string name="portrait_mode_too_close_hint">Отдалечете се малко от обекта</string>
+    <string name="portrait_mode_too_far_hint">Поставете предмета в рамките на 2 метра</string>
     <string name="portrait_mode_depth_effect_success_hint">Ефект дълбочина</string>
     <string name="portrait_with_facebeauty_hint">Опцията Разкрасяване е налична в режим Портрет</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Разкрасяване в Портретен режим</string>
@@ -487,7 +487,7 @@
     <string name="portrait_bokeh_first_tips">"Използвайте режим Портрет за замъгляване на
 фона на вашите снимки"</string>
     <string name="portrait_bokeh_tips">Поставете предмета в рамките на 1,5 метра</string>
-	<string name="lighting_hint_needed">Поставете обекта в осветенето място</string>
+	<string name="lighting_hint_needed">Поставете обекта си в светлината на прожекторите</string>
     <string name="lighting_hint_title">Студийно осветление</string>
     <string name="lighting_hint_too_close">Преместете камерата по-надалеч</string>
     <string name="lighting_hint_too_far">Приближете камерата</string>
@@ -567,11 +567,32 @@
    <string name="pref_camera_normal_wide_ldc_title">Корекция на лицето</string>
    <string name="pref_camera_ultra_wide_ldc_title">Корекция на изкривяването с ултра широк ъгъл</string>
    <string name="pref_userdefine_watermark_title">Потребителски думи за воден знак</string>
-   <string name="ultra_wide_bokeh_close_tip">Режимът цялото тяло е изключен</string>
-   <string name="ultra_wide_bokeh_open_tip">Режим цялото тяло</string>
+   <string name="ultra_wide_bokeh_close_tip">Режимът цяло тяло е изключен</string>
+   <string name="ultra_wide_bokeh_open_tip">Режим цяло тяло</string>
    <string name="accessibility_bokeh_adjust">Регулиране на нивото на размазване</string>
    <string name="accessibility_bokeh_level">F%1$s боке ниво</string>
    <string name="change_bgm">Променете саундтрака</string>
    <string name="hot_music">Горещи песни</string>
    <string name="local_music">Локална музика</string>
+   <string name="accessibility_camera_record_start">стартирай запис</string>
+   <string name="accessibility_camera_record_stop">спри запис</string>
+   <string name="accessibility_record_button">Бутон за запис</string>
+   <string name="accessibility_ultra_pixel_photography_off">4800万超清,关闭状态</string>
+   <string name="accessibility_ultra_pixel_photography_on">4800万超清,开启状态</string>
+   <string name="accessibility_video_capture_button">Бутон за видеозапис</string>
+   <string name="accessibility_video_pause_button">спри записа на пауза</string>
+   <string name="accessibility_video_resume_button">продължи записа</string>
+   <string name="ai_scene_top_moon_off">Режим на нощна сцена</string>
+   <string name="live_speed_extreme_fast">Най-бързо</string>
+   <string name="live_speed_extreme_slow">Май-бавно</string>
+   <string name="live_speed_fast">Бързо</string>
+   <string name="live_speed_fragment_tab_name">Скорост</string>
+   <string name="live_speed_normal">Нормално</string>
+   <string name="live_speed_slow">Бавно</string>
+   <string name="module_name_professional">Професионално</string>
+   <string name="pref_camera_normal_wide_ldc_description">修正在照片边缘的人脸畸变</string>
+   <string name="pref_camera_normal_wide_ldc_title">合影人脸修正</string>
+   <string name="pref_camera_ultra_wide_ldc_description">在超广角模式下对畸变的画面进行矫正</string>
+   <string name="ultra_pixel_photography_close_tip">4800万超清已关闭</string>
+   <string name="ultra_pixel_photography_open_tip">4800万超清</string>
 </resources>

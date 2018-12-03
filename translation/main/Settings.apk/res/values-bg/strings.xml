@@ -1761,7 +1761,7 @@
     <string name="lock_settings_profile_unification_dialog_confirm">Промяна на опцията за заключване на устройството</string>
     <string name="lock_settings_profile_unification_dialog_uncompliant_confirm">Промяна на опцията за заключване</string>
     <string name="lock_settings_profile_unified_summary">Като опцията за заключване на екрана на устройството</string>
-    <string name="manageapplications_settings_title">Управление на приложенията</string>
+    <string name="manageapplications_settings_title">Управление на приложения</string>
     <string name="manageapplications_settings_summary">Управление и премахване на инсталирани приложения</string>
     <string name="applications_settings">Приложения</string>
     <string name="applications_settings_summary">Управление на приложения, задаване на преки пътища за бързо стартиране</string>
@@ -3703,7 +3703,7 @@
     <string name="search_xiaomi_account">Mi профил</string>
     <string name="search_account_list">Други профили;Профил;Профили</string>
     <string name="search_sync_settings">Синх.;Авто;WLAN само</string>
-    <string name="search_system_app_settings">Системни приложения</string>
+    <string name="search_system_app_settings">Настройки на системни приложения</string>
     <string name="search_applications_settings">Инсталирани приложения</string>
     <string name="search_permission_manager">Разрешения;Root достъп</string>
     <string name="search_permission_settings_title">Разрешения на приложение</string>
@@ -4572,7 +4572,7 @@
     <string name="permission_manager">Разрешения</string>
     <string name="personal_section_title">Лични</string>
     <string name="system_and_device_section_title">Система и устройство</string>
-    <string name="application_manager_section_title">Настройки за приложения</string>
+    <string name="application_manager_section_title">Приложения</string>
     <string name="bluetooth_unlock_title">Отключване чрез Bluetooth устройство</string>
     <string name="bluetooth_unlock_turned_off">Изключено</string>
     <string name="bluetooth_unlock_turned_on">Включено</string>

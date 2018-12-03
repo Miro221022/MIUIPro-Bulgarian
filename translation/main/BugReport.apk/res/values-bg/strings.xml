@@ -244,7 +244,7 @@
   <string name="packaging_dialog_content">Създава се доклад…</string>
   <string name="permission_granted">%1$s разрешение дадено</string>
   <string name="pic_not_exist">Това изобр. не съществува</string>
-  <string name="submit_dialog_content">&lt;Data&gt;"Отзивите ви, заедно с прикачените файлове и регистрационните файлове, ще бъдат изпратени на сървърите на MIUI. Той може да съдържа лична информация и данни за местоположението ви. Избирането на \"Съгласен съм\" означава, че сте прочели и сте се съгласили с нашите &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Политика за поверителност&amp;lt;/a&amp;gt; и &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Потребителско споразумение&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"Трябва да се съгласите с нашите &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Политика за поверителност&amp;lt;/a&amp;gt; и &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Потребителско споразумение&amp;lt;/a&amp;gt; за да можете да използвате Отзиви. Проблемите, които докладвате, заедно с елементите, които прикачвате (може да съдържат лична информация, както и информацията за вашето устройство и мрежа) ще бъдат качени на сървърите на MIUI. Това ще ни помогне да намерим и да решим проблемите, които докладвате."&lt;/Data&gt;</string>
   <string name="plus_one_submit_dialog_not_show_again">Запомни настройката</string>
   <string name="post_miui_bbs_failed">Неуспешно публикуване във форума</string>
   <string name="pull_to_refresh_pull_label">Изтеглете за опресняване</string>
