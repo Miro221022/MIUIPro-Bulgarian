@@ -188,7 +188,7 @@
     <string name="record_back_pressed_hint">Натиснете отново, за спиране на записа</string>
     <string name="toast_burst_snap_finished_summary">Бързото заснемане приключи, %1$s снимки са направени</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийното снимане не се поддържа, когато е включен запис на звук.</string>
-    <string name="time_lapse_error">Невалидна резолюция за записване на \"Time lapse\" видео.</string>
+    <string name="time_lapse_error">Невалидна резолюция за записване на \"Ускорено\" видео.</string>
     <string name="pref_camera_movie_solid_title">Стабилизация на изображението</string>
     <string name="simple_mode_button_text_hand_night">Спри нощен режим</string>
     <string name="simple_mode_button_text_panorama">Спри панорама</string>
