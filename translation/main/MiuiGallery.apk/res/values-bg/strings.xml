@@ -99,9 +99,9 @@
     <string name="auto_update_face_summary">Автоматично сравняване и добавяне на снимките в бебе албума</string>
     <string name="auto_update_off">Изкл.</string>
     <string name="auto_update_on">Вкл.</string>
-    <string name="auto_upload_before_share_message">Архивирайте този албум в Mi Cloud преди споделяне</string>
+    <string name="auto_upload_before_share_message">Архивирайте този албум в Mi Облак преди споделяне</string>
     <string name="auto_upload_before_share_title">Съвет</string>
-    <string name="auto_upload_disable_tip">AutoBackup е деактивирано</string>
+    <string name="auto_upload_disable_tip">Автоматичното архивиране е деактивирано</string>
     <string name="auto_upload_disable_toast_long_press_menu">Синхр с Ми Облак е изключено</string>
     <string name="auto_upload_enable_toast_long_press_menu">Синхр с Ми Облак е включено</string>
     <string name="baby_album">Бебе албум</string>
