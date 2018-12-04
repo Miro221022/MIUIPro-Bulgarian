@@ -191,4 +191,5 @@
 	<string name="security_permission_network_failed_text">"Не може да се свърже с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
 	<string name="security_permission_open_wifi_settings">Отвори WLAN настройки</string>
 	<string name="xspace_head">Клонирано приложение</string>
+	<string name="start_dump_log">Стартиране на получаване на отчети свързани с проблеми</string>
 </resources>
