@@ -3833,12 +3833,12 @@
     <string name="touch_title">Докосване</string>
     <string name="touch_sensitive_title">Режим \"С ръкавици\"</string>
     <string name="touch_sensitive_summary">Прави екрана по-чувствителен на натиск</string>
-    <string name="touch_sensitive_turn_off_title">Изключване на режим \"С ръкавици\"</string>
-    <string name="touch_sensitive_turn_off_summary">Включване на режим случайна употреба?</string>
+    <string name="touch_sensitive_turn_off_title">Режим \"С ръкавици\" е изключен</string>
+    <string name="touch_sensitive_turn_off_summary">Изключване на джобен режим?</string>
     <string name="touch_sensitive_turn_off_confirm">Потвърди</string>
     <string name="touch_sensitive_turn_off_cancel">Отказ</string>
     <string name="screen_never_timeout_title">Никога</string>
-    <string name="screen_on_proximity_sensor_title">Режим случайна употреба</string>
+    <string name="screen_on_proximity_sensor_title">Джобен режим</string>
     <string name="screen_on_proximity_sensor_summary">Изключване на жестовете при поставяне в джоба</string>
     <string name="preferred_application_title">Предпочитан %s</string>
     <string name="preferred_application_warning_title">Замяна на стандартното %s приложение</string>

@@ -167,7 +167,7 @@
   <string name="clear_copy_number_description">Изчисти копираните номера</string>
   <string name="clear_default">Изтрий настройки по подразбиране</string>
   <string name="clear_digits">Изтрий телефонен номер</string>
-  <string name="clearCallLogConfirmation">Списъкът с всички Ваши повиквания ще бъде изтрит.</string>
+  <string name="clearCallLogConfirmation">Списъкът с всички ваши повиквания ще бъде изтрит.</string>
   <string name="clearCallLogConfirmation_title">Изчистване на списъка с повиквания</string>
   <string name="clearCallLogProgress_title">Изчистване на списъка с повиквания...</string>
   <string name="clearFrequentsConfirmation">Вие ще изчистите всички често използвани контакти от Контакти и Телефон. Вашето приложение за Имейл ще събира информация от нулата.</string>

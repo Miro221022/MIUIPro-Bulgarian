@@ -30,8 +30,8 @@
 	<string name="show_group_title">Скриване на групи</string>
 	<string name="flash_time">Настройване на скоростта на мигане</string> 
     <string name="flash_time_title">Закъснение при превключване</string> 
-    <string name="flash_time_on_title">Активиран</string> 
-    <string name="flash_time_off_title">Деактивиран</string> 
+    <string name="flash_time_on_title">Активирано</string> 
+    <string name="flash_time_off_title">Деактивирано</string> 
     <string name="ring_time_summary">Време: %s мс</string>
 	<string name="sim_time_title">Време за избор SIM карта</string> 
     <string name="sim_time_summary">Време: %s сек</string>
