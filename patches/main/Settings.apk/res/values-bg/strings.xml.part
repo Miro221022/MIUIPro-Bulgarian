@@ -27,7 +27,7 @@
   <string name="dim_advanced_title_seek">Време за изчакване</string>
   <string name="double_tap_app_title">Приложение при двойно почукване</string>
   <string name="doubletap_home">Двойно почукване</string>
-  <string name="enable_vertical_clock">Вертикални часовници</string>
+  <string name="enable_vertical_clock">Вертикален часовник</string>
   <string name="enable_vertical_clock_summary">Показване на вертикален часовник на заключения екран</string>
   <string name="endless_desktop_title">Безкрайно превъртане на началния екран</string>
   <string name="fade_animation_title">Стил на анимация</string>

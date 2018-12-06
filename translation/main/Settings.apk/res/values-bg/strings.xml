@@ -729,12 +729,12 @@
     <string name="lock_after_timeout_summary">%1$s след спящ режим</string>
     <string name="lock_immediately_summary_with_exception">Веднага след спящ режим, освен когато екранът се поддържа отключен от %1$s</string>
     <string name="lock_after_timeout_summary_with_exception">%1$s след спящ режим, освен когато екранът се поддържа отключен от %2$s</string>
-    <string name="show_owner_info_on_lockscreen_label">Покажи подпис на заключен екран</string>
+    <string name="show_owner_info_on_lockscreen_label">Показване на подпис на заключен екран</string>
     <string name="owner_info_settings_title">Подпис на заключен екран</string>
     <string name="security_enable_widgets_title">Приспособления: Акт.</string>
     <string name="security_enable_widgets_disabled_summary">Деактивирано от администратора</string>
     <string name="owner_info_settings_summary">Няма</string>
-    <string name="owner_info_settings_edit_text_hint">Напр. „Устройството с Андроид на Иван“.</string>
+    <string name="owner_info_settings_edit_text_hint">Например „Устройство с Андроид на Иван“.</string>
     <string name="user_info_settings_title">Данни за потребителя</string>
     <string name="show_profile_info_on_lockscreen_label">Показв. на инф. за потр. профил върху закл. екран</string>
     <string name="profile_info_settings_title">Инф. за потр. профил</string>
@@ -2890,7 +2890,7 @@
     <string name="advanced_section_header">Разширени</string>
     <string name="profile_section_header">Служебни известия</string>
     <string name="notification_pulse_title">Пулсираща светлина</string>
-    <string name="lock_screen_notifications_title">Върху заключения екран</string>
+    <string name="lock_screen_notifications_title">На заключен екран</string>
     <string name="lock_screen_notifications_summary_show">Покажи всички известия и тяхното съдържание</string>
     <string name="lock_screen_notifications_summary_hide">Покажи всички известия, но скрий тяхното съдържание</string>
     <string name="lock_screen_notifications_summary_disable">Да не се показват известията</string>
@@ -2938,7 +2938,7 @@
     <string name="app_notification_block_summary">Известията от това приложение никога не се показват</string>
     <string name="app_notification_override_dnd_title">Отмяна на „Не безпокойте“</string>
     <string name="app_notification_override_dnd_summary">Разрешаване на тези известия да продължат да ви прекъсват, когато за режим „Не безпокойте“ е зададено „Само с приоритет“.</string>
-    <string name="app_notification_visibility_override_title">Върху заключения екран</string>
+    <string name="app_notification_visibility_override_title">На заключен екан</string>
     <string name="app_notification_row_banned">Блокирано</string>
     <string name="app_notification_row_priority">Приоритет</string>
     <string name="app_notification_row_sensitive">Деликатно</string>
@@ -3920,10 +3920,10 @@
     <string name="enable_snapshot_screenlock">Снимане с дълго натискане на Назад</string>
     <string name="disable_power_key_long_press_under_keyguard">Изключи менюто за бутон Захранване</string>
     <string name="trackball_wake_title">Събуждане от Trackball</string>
-    <string name="pref_volume_wake_title">Събуждане с бутони за сила на звука</string>
+    <string name="pref_volume_wake_title">Събуждане с бутоните за сила на звука</string>
     <string name="pref_volume_wake_summary">Натискането на бутоните за сила на звука ще събужда устройството</string>
-    <string name="pref_volume_launch_camera_title">Стартирай камерата</string>
-    <string name="pref_volume_launch_camera_summary">Натиснете бутона за намаляване на звука два пъти, за да стартирате камерата</string>
+    <string name="pref_volume_launch_camera_title">Стартиране на камерата</string>
+    <string name="pref_volume_launch_camera_summary">Стартиране на камерата чрез двукратно натискане на бутона за намаляване на звука</string>
     <string name="media_button">Медиен бутон</string>
     <string name="preferred_media_app_summary">Избери музикален плейър</string>
     <string name="no_media_button_receiver">Не</string>
@@ -5162,7 +5162,7 @@ Stable"</string>
     <string name="privacy_password_fingerprint_confirm_failed">Отпечатъкът не можа да се потвърди</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Потвърдете паролата за Второ работно място</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Режим умен калъф</string>
-    <string name="smartcover_sensitive_summary">Автоматично заключване и отключване на телефона с режим Smartcover</string>
+    <string name="smartcover_sensitive_summary">Автоматично заключване и отключване на устройството с режим умен калъф</string>
     <string name="privacy_password_bind_account">Добавяне на Mi профил</string>
     <string name="privacy_password_remind_bind_notlogin_account">Добавете своя Mi профил, за да можете да си смените паролата, ако я забравите.</string>
     <string name="privacy_password_bind_account_immediate">Добавяне</string>
@@ -5195,7 +5195,7 @@ Stable"</string>
     <string name="password_turned_on_text">Паролата е зададена</string>
     <string name="password_turned_off_text">Паролата е отменена</string>
     <string name="keyguard_advance_setting_title">Разширени настройки</string>
-    <string name="lock_screen_signature_title">Подпис на заключен екран</string>
+    <string name="lock_screen_signature_title">Информация за собственика на заключен екран</string>
     <string name="lock_screen_signature_summary">Този надпис ще бъде показан на заключен екран</string>
     <string name="fingerprint_manage_tittle">Пръстов отпечатък</string>
     <string name="fingerprint_apply_to_privacy_password">Парола за защита на личните данни</string>
