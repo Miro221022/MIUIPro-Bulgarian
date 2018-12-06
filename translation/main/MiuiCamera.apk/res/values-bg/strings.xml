@@ -507,7 +507,7 @@
 	<string name="beauty_fragment_tab_name_3d_makeup">Грим</string>
     <string name="edit_blusher">Руж</string>
     <string name="edit_pupil_line">Очна линия</string>
-	<string name="accessibility_intent_done_retry">Повторно</string>
+	<string name="accessibility_intent_done_retry">Повторен опит</string>
     <string name="view_privacy_policy">Вижте Политиката за поверителност</string>
     <string name="beauty_mode_reset_toast">Премахнати са ефектите за ремоделиране</string>
     <string name="beauty_reset">Нулиране</string>
