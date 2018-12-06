@@ -999,7 +999,7 @@
   <string name="share_over_limit">Над лимита, не може да се сподели</string>
   <string name="share_via">Споделяне чрез</string>
   <string name="share_visible_contacts">Сподели контакти</string>
-  <string name="shortcutActivityTitle">Функция пряк път на десктопа</string>
+  <string name="shortcutActivityTitle">Функция на пряк път</string>
   <string name="shortcutContact">Контакт</string>
   <string name="shortcutDialContact">Бързо набиране</string>
   <string name="shortcutMessageContact">Бърз SMS</string>
