@@ -457,4 +457,27 @@
     <string name="abc_shareactionprovider_share_with_application">Сподели с %s</string>
     <string name="abc_toolbar_collapse_description">Свиване</string>
 	<string name="edit_event_dislike_title">Защо отказвате?</string>
+	  <string name="event_action_arrive_station">Станция пристигащи</string>
+  <string name="event_info_title_anniversary">Юбилей</string>
+  <string name="event_info_title_birthday">Рожден ден</string>
+  <string name="event_info_title_countdown">Обратно броене</string>
+  <string name="ticket_activity_card_date_day">ден</string>
+  <string name="ticket_activity_card_date_month">месец</string>
+  <string name="train_event_add_arrive_station">Кликнете, за да добавите дестинация</string>
+  <string name="train_event_arrive">%1$s пристига</string>
+  <string name="train_event_arrive_station_saved">Станцията за пристигане е запазена</string>
+  <string name="train_event_choose_arrive_station">Изберете станция за пристигане</string>
+  <string name="train_event_depart">%1$s заминал</string>
+  <string name="train_event_disclaimer">Отказ от отговорност: информацията и услугата се предоставят от GaoTieGuanJia. Ако възникне проблем, обърнете се към отдела за обслужване на клиенти на компанията. Информацията за влака е само за справка, моля, направете справка с официалната информация.</string>
+  <string name="train_event_error_toast">За съжаление зареждането не бе успешено!</string>
+  <string name="train_event_error_train_info">Билета за влака е грешен.</string>
+  <string name="train_event_more_info">Точност на влака или закъснение，Wi-Fi връзка и други</string>
+  <string name="train_event_reminder">%1$s</string>
+  <string name="train_event_service">Обслужване във влака</string>
+  <string name="train_event_station_date_format">dd-MM</string>
+  <string name="train_event_station_header_arrive_time">Пристигане</string>
+  <string name="train_event_station_header_depart_time">Тръгване</string>
+  <string name="train_event_station_header_name">Име на спирката</string>
+  <string name="train_event_station_header_stay_time">Престой</string>
+  <string name="train_event_station_stay_time">%1$s минути</string>
 </resources>

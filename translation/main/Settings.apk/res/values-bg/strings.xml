@@ -6057,4 +6057,6 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="dump_log_summary">"Тази функция е предназначена за генериране на 284 отчети в алфа и бета версии на MIUI. Използвайте я внимателно.
 Можете да преглеждате генерираните отчети във файловия мениджър."</string>
     <string name="dump_log_title">Относно тази функция</string>
+	<string name="miui_ime_xiaoai_voice_hint">По-бърз и по-удобен начин за въвеждане на текст</string>
+    <string name="miui_ime_xiaoai_voice_title">Mi AI гласово въвеждане</string>
 </resources>
