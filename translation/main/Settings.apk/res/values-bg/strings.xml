@@ -6059,4 +6059,11 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="dump_log_title">Относно тази функция</string>
 	<string name="miui_ime_xiaoai_voice_hint">По-бърз и по-удобен начин за въвеждане на текст</string>
     <string name="miui_ime_xiaoai_voice_title">Mi AI гласово въвеждане</string>
+	<string name="device_description_battery">Капацитет на батерията</string>
+    <string name="device_description_camera">Задна камера</string>
+    <string name="device_description_cpu">Процесор</string>
+    <string name="device_description_ram">RAM Памет</string>
+    <string name="device_description_resolution">Резолюция</string>
+    <string name="device_description_screen">Размер на дисплея</string>
+    <string name="network_name_input_error">"SSID не можа да бъде запазен. Опитай отново."</string>
 </resources>

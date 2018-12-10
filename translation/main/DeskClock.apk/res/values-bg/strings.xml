@@ -66,12 +66,12 @@
   <string name="label_pref_summary">Етикет</string>
   <string name="lap">Обиколка</string>
   <string name="lap_num">Обиколка</string>
-  <string name="legal_off_day">Почивен ден</string>
-  <string name="legal_off_day_message">" (Изкл. будилник в работни дни)"</string>
-  <string name="legal_workday">Работни дни</string>
-  <string name="legal_workday_invalidate">Списъкът на празниците не е актуален (Сега часа за събуждане е настроен от пон. до пет.)</string>
-  <string name="legal_workday_invalidate_message">(Списъкът на празниците не е актуален, обновете го в Настройки)</string>
-  <string name="legal_workday_message">(Будилникът е изключен по време на празници)</string>
+  <string name="legal_off_day">Официален празник</string>
+  <string name="legal_off_day_message">" (Алармата няма да се изключва през работните дни)"</string>
+  <string name="legal_workday">Допълнителен работен ден</string>
+  <string name="legal_workday_invalidate">Данните са невалидни (алармата ще изгасне от понеделник до петък)</string>
+  <string name="legal_workday_invalidate_message">(Данните са невалидни. Актуализирайте в Настройки.)</string>
+  <string name="legal_workday_message">" (Алармата няма да се изключи по време на празниците)"</string>
   <string name="life_post_setting">Сутрешно докладване</string>
   <string name="life_post_setting_close_title">Затвори сутришните доклади</string>
   <string name="life_post_setting_FBE_remind">Поради ограничения на системата, информацията за времето в сутрешната емисия може да не се покаже правилно след рестартиране</string>
@@ -89,7 +89,7 @@
   <string name="life_post_weather_degree_invalid">--</string>
   <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
   <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
-  <string name="life_post_weather_invalid">Не може да се зареди информацията, чукнете за повторен опит</string>
+  <string name="life_post_weather_invalid">Докоснете, за да получите информация за времето</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
   <string name="loading_ringtone">Зареждане на мелодии...</string>
   <string name="menu_add_worldclock">Часова зона</string>
@@ -117,7 +117,7 @@
   <string name="setting_alarm_arriving_summary">Изпращане на известие преди аларма</string>
   <string name="setting_alarm_arriving_title">Известие преди аларма</string>
   <string name="settings">Настройки</string>
-  <string name="shutdown_alarm_disable_summary">Телефонът не се включва, дори и да е настроен будилник</string>
+  <string name="shutdown_alarm_disable_summary">"Алармата няма да се изключи след изключването на устройството"</string>
   <string name="shutdown_alarm_enable_summary">"Алармата ще се изключи, ако е настроена за поне 5 минути след изключване на устройството"</string>
   <string name="shutdown_alarm_title">Включване на телефона</string>
   <string name="silent_alarm_summary">Без звук</string>

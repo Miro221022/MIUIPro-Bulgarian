@@ -23,7 +23,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Винаги когато MIUI установи, че Вие не използвате устройството си, ще затвори приложенията на заден план.Също така ще ограничи Bluetooth, GPS, мобилни данни и Wi-Fi и няма да активира екрана при получаване на известия.</string>
     <string name="nonui_mode_config_title">Не интерактивен режим</string>
     <string name="nonui_mode_config_description">Винаги, когато MIUI разбере, че не използвате устройството си, MIUI ще изключи светодиодният индикатор, сензора за пръстови отпечатъци и сензорните елементи за управление.Също така няма да активира екрана при получаване на известия.</string>
-    <string name="power_center">Захранване</string>
+    <string name="power_center">Използване на батерия</string>
     <string name="power_usage">Консумация на енергия</string>
     <string name="power_mode">Режим на производителност</string>
     <string name="performance_category">Производителност</string>

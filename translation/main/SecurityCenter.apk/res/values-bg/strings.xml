@@ -332,7 +332,7 @@
     <string name="main_button_usage_adjust">Задаване на лимит на трафика</string>
     <string name="main_button_usage_adjusting">Настройка…</string>
     <string name="main_button_usage_adjusting_bill">Настройка…</string>
-    <string name="main_button_usage_adjust_manual">Задаване на лимит на трафика</string>
+    <string name="main_button_usage_adjust_manual">Задаване на използване на данни</string>
     <string name="main_button_usage_package_setting">Задаване на лимит</string>
     <string name="main_alert_message_no_imsi">SIM картата не е открита</string>
     <string name="main_primary_message_traffic_remain">Мобилни данни</string>

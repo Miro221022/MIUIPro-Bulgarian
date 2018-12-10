@@ -100,7 +100,7 @@
   <string name="function_not_support">Не се поддържа на това устройство</string>
   <string name="gms_message">Клонирането на приложения изисква работа с Услуги за Google. Да ги клонирам ли?</string>
   <string name="gms_open_button">Включи</string>
-  <string name="gms_title">Включете услугите за Google</string>
+  <string name="gms_title">Клониране на услугите на Google</string>
   <string name="go_on_import">Продължи импортирането</string>
   <string name="goToSecondSpacce">Към Второ пространство</string>
   <string name="gpg_message">Създаването на клонирани игри изисква работа с Google Play Игри. Да клонирам ли приложението Google Play Игри?</string>
