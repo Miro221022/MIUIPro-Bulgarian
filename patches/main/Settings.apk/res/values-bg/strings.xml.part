@@ -48,8 +48,8 @@
   <string name="launch_camera">Стартиране на ваше приложение</string>
   <string name="launch_count_label">Последно използвани</string>
   <string name="launch_my_app_title">Приложение за стартиране</string>
-  <string name="listview_animation_title">Списък с анимации</string>
-  <string name="listview_interpolator_title">Допълнителен списък</string>
+  <string name="listview_animation_title">Анимация при плъзгане</string>
+  <string name="listview_interpolator_title">Допълнителен ефект(интерполация)</string>
   <string name="low_battery_percent_summary">Когато е: %s %</string>
   <string name="low_battery_percent_title">Цвят при пълно зареждане</string>
   <string name="low_battery_title">Ниско ниво</string>

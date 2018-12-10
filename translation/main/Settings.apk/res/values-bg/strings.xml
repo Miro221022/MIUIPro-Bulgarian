@@ -3858,7 +3858,7 @@
     <string name="title_font_current">Ползва се</string>
     <string name="title_layout_current">Избор на размер на шрифта</string>
     <string name="title_font2">Шрифт</string>
-    <string name="title_font_current2">Изберете системен шрифт</string>
+    <string name="title_font_current2">Системен шрифт</string>
     <string name="title_layout_current2">Изберете размер на шрифта</string>
     <string name="handy_mode">Ползване с една ръка</string>
     <string name="handy_mode_enable">Режим с една ръка</string>
@@ -4763,7 +4763,7 @@ Stable"</string>
     <string name="performance_category">Производителност</string>
     <string name="fluency_mode">Системни анимации</string>
     <string name="fluency_mode_confirm_and_reboot">Рестарт сега</string>
-    <string name="gesture_wakeup_title">Чукнете два пъти екрана за активиране</string>
+    <string name="gesture_wakeup_title">Събуждане чрез двукратно почукване</string>
     <string name="pick_up_gesture_wakeup_title">Събуждане на устройството, чрез повдигане</string>
     <string name="aod_mode_title">Режим Винаги включен</string>
     <string name="aod_mode_summary">Винаги показвай час, дата и съобщения, когато екранът е изключен.</string>
@@ -5382,8 +5382,8 @@ Stable"</string>
     <string name="trigger_bottom_title">Височина на зоната за жеста</string>
     <string name="trigger_summary">Стойност: %s</string>
     <string name="system_animation_title">Системни анимации</string>
-    <string name="listview_animation_title">Списък с анимации</string>
-    <string name="listview_interpolator_title">Допълнителен списък</string>
+    <string name="listview_animation_title">Анимация при плъзгане</string>
+    <string name="listview_interpolator_title">Допълнителен ефект(интерполация)</string>
     <string name="fade_animation_title">Стил на анимация</string>
     <string name="crt_animation_title">Анимация при изкл. на екрана</string>
     <string name="animation_framing_title">Честота на кадрите</string>

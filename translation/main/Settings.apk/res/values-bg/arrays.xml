@@ -1407,7 +1407,7 @@
         <item>Съобщение и звук</item>
         <item>Само съобщение</item>
         <item>Само звук</item>
-        <item>Изкл.</item>
+        <item>Изключено</item>
     </string-array>
     <string-array name="battery_off_entries">
         <item>Деактивирай LED</item>
