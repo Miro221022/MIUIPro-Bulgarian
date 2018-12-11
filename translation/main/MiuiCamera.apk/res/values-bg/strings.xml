@@ -594,8 +594,8 @@
    <string name="pref_camera_ultra_wide_ldc_description">Коригиране на изкривената картина в режим супер широк ъгъл</string>
    <string name="ultra_pixel_photography_close_tip">4800万超清已关闭</string>
    <string name="ultra_pixel_photography_open_tip">4800万超清</string>
-   <string name="camera_liveshot_off_tip">Динамичната снимка е изключен</string>
-   <string name="camera_liveshot_on_tip">Динамичната снимка е включен</string>
+   <string name="camera_liveshot_off_tip">Динамична снимка е изключен</string>
+   <string name="camera_liveshot_on_tip">Динамична снимка е включен</string>
    <string name="network_exception">Мрежово изключение</string>
    <string name="live_edit_exit_confirm">Изход</string>
    <string name="live_edit_exit_message">Отхвърляне на снимката?</string>
