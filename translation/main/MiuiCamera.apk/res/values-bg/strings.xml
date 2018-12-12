@@ -197,8 +197,8 @@
     <string name="simple_mode_button_text_fast_video">Спри slow-motion камерата</string>
     <string name="pref_video_captrue_ability_title">Снимка по време на запис</string>
     <string name="see_qrcode_detals">Покажи подробности за QR кода</string>
-    <string name="pref_camera_watermark_title">Добави щампа с час към снимките</string>
-    <string name="pref_dualcamera_watermark_title">Воден знак на Двойна камера</string>
+    <string name="pref_camera_watermark_title">Добавяне на щампа с час към снимките</string>
+    <string name="pref_dualcamera_watermark_title">Воден знак на двойна камера</string>
     <string name="pref_camera_device_watermark_title">Воден знак на устройството</string>
     <string name="pref_camera_face_info_watermark_title">Добави щампа с възраст към снимките</string>
     <string name="pref_scan_qrcode_title">Сканиране на QR код</string>
@@ -297,7 +297,7 @@
     <string name="pref_camera_delay_capture_entry_3s">Забавяне 3сек</string>
     <string name="pref_camera_delay_capture_entry_5s">Забавяне 5сек</string>
     <string name="pref_camera_delay_capture_entry_10s">Забавяне 10сек</string>
-    <string name="pref_camera_asd_night_title">Авт. подобряване на нощни снимки</string>
+    <string name="pref_camera_asd_night_title">Автоматично подобряване на нощни снимки</string>
     <string name="pref_camera_asd_popup_title">Извести когато е необходима светкавица</string>
     <string name="simple_mode_button_text_scene">Спри сценичен режим</string>
     <string name="pref_camera_peak_title">Пиков фокус</string>
@@ -462,7 +462,7 @@
 	<string name="pref_camera_ai_scene_title">Интелигентна Камера</string>
 	<string name="accessibility_ai_scene_off">Интелигентна камера е изключена</string>
     <string name="accessibility_ai_scene_on">Интелигентна камера е включена</string>
-    <string name="hint_ae_af_lock">Авто фокус/автоматичната експозиция е заключена</string>
+    <string name="hint_ae_af_lock">Автофокус/автоматичната експозиция е заключена</string>
 	<string name="edit_chin">Брадичка</string>
     <string name="edit_lips">Устни</string>
     <string name="edit_neck">Врат</string>
