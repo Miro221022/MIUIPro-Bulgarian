@@ -200,7 +200,7 @@
     <string name="pref_camera_watermark_title">Добави щампа с час към снимките</string>
     <string name="pref_dualcamera_watermark_title">Воден знак на Двойна камера</string>
     <string name="pref_camera_device_watermark_title">Воден знак на устройството</string>
-    <string name="pref_camera_face_info_watermark_title">Добави щампа с възрастта към снимките</string>
+    <string name="pref_camera_face_info_watermark_title">Добави щампа с възраст към снимките</string>
     <string name="pref_scan_qrcode_title">Сканиране на QR код</string>
     <string name="pref_manual_exposure_title">Ръчно експониране</string>
     <string name="pref_camera_exposuretime_entry_auto">Авто</string>
@@ -446,12 +446,12 @@
     <string name="user_agreement4">Правила за поверителност</string>
     <string name="user_agree">Приемам</string>
     <string name="do_not_remind_me">Не показвай отново</string>
-    <string name="user_notice_identify_summary_format">Използвайки тази услуга, вие се съгласявате с %1$s и %2$s.</string>
-    <string name="user_notice_title">Правила и условия</string>
+    <string name="user_notice_identify_summary_format">"Използвайки тази услуга, вие се съгласявате със %1$s и %2$s на Xiaomi. Съгласни ли сте да се свържете с интернет?"</string>
+    <string name="user_notice_title">Споразумение за мрежова връзка</string>
     <string name="pref_camera_focus_shoot_title">Фокус и заснемане</string>
     <string name="pref_camera_focus_shoot_summary">Докоснете екрана за фокусиране и още един път за заснемане.</string>
-    <string name="pref_retain_camera_mode_title">Запази предишния режим</string>
-    <string name="pref_retain_camera_mode_summary">Превключи камерата на предишния използван режим, когато приложението стартира.</string>
+    <string name="pref_retain_camera_mode_title">Запазване на предишния режим</string>
+    <string name="pref_retain_camera_mode_summary">Превключване към последно използваният режим, когато приложението стартира.</string>
     <string name="pref_fingerprint_capture_title">Заснемане на пръстов отпечатък</string>
     <string name="multi_window_mode_not_supported">Камерата не работи в режим Разделен екран</string>
     <string name="pref_camera_denoise_title">Намаляване на шума</string>
@@ -599,4 +599,15 @@
    <string name="network_exception">Мрежово изключение</string>
    <string name="live_edit_exit_confirm">Изход</string>
    <string name="live_edit_exit_message">Отхвърляне на снимката?</string>
+   <string name="beauty_reset_toast">Разкрасяващият ефект е премахнат</string>
+   <string name="color_effect_live_blue">Орхидея</string>
+   <string name="color_effect_live_contrast">Xpro</string>
+   <string name="color_effect_live_deepblack">Черно-бяло</string>
+   <string name="color_effect_live_fair">Бледо</string>
+   <string name="color_effect_live_hongkong">Bauhinia</string>
+   <string name="color_effect_live_mousse">Мус</string>
+   <string name="color_effect_live_none">Нормално</string>
+   <string name="color_effect_live_solar">Небесно синьо</string>
+   <string name="color_effect_live_years">Сепия</string>
+   <string name="live_sticker_updating">Обновяване...</string>
 </resources>
