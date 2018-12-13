@@ -610,4 +610,5 @@
    <string name="color_effect_live_solar">Небесно синьо</string>
    <string name="color_effect_live_years">Сепия</string>
    <string name="live_sticker_updating">Обновяване...</string>
+   <string name="live_edit_share_title">Споделяне</string>
 </resources>
