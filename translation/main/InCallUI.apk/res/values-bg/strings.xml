@@ -53,7 +53,7 @@
     <string name="contacts_icon_label">Контакти</string>
     <string name="conference_call_number">%s човека</string>
     <string name="conference_call_description" formatted="false">%s,%s и т.н. общо %s</string>
-    <string name="conference_call_single_description" formatted="false">%s etc. Всичко %s</string>
+    <string name="conference_call_single_description" formatted="false">%s и т.н. Общо %s</string>
     <string name="separate_from_conference">Отдели обаждането</string>
     <string name="caller_manage_header">Конферентно обаждане %s</string>
     <string name="incall_call_type_label_sip">Интернет обаждане</string>
@@ -65,11 +65,11 @@
     <string name="card_title_threeway_call">Тристранно повикване</string>
     <string name="card_title_answering">Отговор на повикване</string>
     <string name="card_title_answering_time_out">Не можа да се отговори на повикването, опитайте отново.</string>
-    <string name="card_title_call_ended">Обаждането завърши</string>
+    <string name="card_title_call_ended">"Обаждането завърши "</string>
     <string name="card_title_on_hold">Задържане на обаждането</string>
     <string name="card_title_hanging_up">Приключване на разговора</string>
     <string name="card_title_hanging_up_fail">Не можа да се приключи обаждането, опитайте отново.</string>
-    <string name="card_title_hanging_up_weak_signal">Сигналът на мобилната мрежа е слаб. Приключване на обаждане…</string>
+    <string name="card_title_hanging_up_weak_signal">Сигналът на мобилната мрежа е слаб. Преключване на обаждане…</string>
     <string name="card_title_hanging_up_restart">Не може да се прекрати обаждането. Рестартирайте устройството.</string>
     <string name="card_title_in_call">Вх. обаждане</string>
     <string name="card_title_in_call_short">В разговор</string>
@@ -178,7 +178,7 @@
     <string name="call_button_dialer_text">Клавиатура</string>
     <string name="call_button_mute_text">Заглуши</string>
     <string name="call_button_conference_manager_text">Регулиране на конф. обаждане</string>
-    <string name="select_audio_dialog_title">Please select answering mode</string>
+    <string name="select_audio_dialog_title">Моля, изберете режим на отговор</string>
     <string name="incoming_circle_text_reject_p">Плъзнете за отхвърляне</string>
     <string name="incoming_circle_text_reject">Отпуснете за отхвърляне</string>
     <string name="incoming_circle_text_answer_p">Плъзнете за приемане</string>

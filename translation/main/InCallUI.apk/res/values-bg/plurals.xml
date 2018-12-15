@@ -21,7 +21,7 @@
         <item quantity="one">1 час</item>
     </plurals>
 	    <plurals name="conference_call_number">
-        <item quantity="other">%s хора</item>
+        <item quantity="other">%s човека</item>
         <item quantity="one">%s човек</item>
     </plurals>
     <plurals name="call_title_redialing_with_times">

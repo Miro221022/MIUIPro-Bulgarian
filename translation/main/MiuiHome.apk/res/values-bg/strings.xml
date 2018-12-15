@@ -300,7 +300,7 @@
     <string name="uninstall_with_xspace_dialog_message">Съответните клонирани приложения ще бъдат премахнати заедно с данните за приложенията.</string>
     <string name="uninstall_xspace_dialog_message">Деинсталирането на клонирано приложение ще премахне всички данни за приложението.</string>
     <string name="uninstall_xspace_dialog_title_format">Деинсталиране на клонирано \"%s\"?</string>
-    <string name="unknown_artist_name">Неизвестен артист</string>
+    <string name="unknown_artist_name">Неизвестен изпълнител</string>
     <string name="unnamed_folder_name">Папка</string>
     <string name="wallpaper">Тапет</string>
     <string name="wallpaper_auto_change_title">Закл. екран</string>
