@@ -1702,7 +1702,7 @@
     <string name="card_main_netcheck_summary">Диагностика на мрежата за проблеми при свързването</string>
     <string name="card_main_netcheck_action">Тест</string>
     <string name="card_main_hbassistant_title">Защита</string>
-    <string name="card_main_hbassistant_summary">Увеличаване на скоростта &amp; при игри</string>
+    <string name="card_main_hbassistant_summary">Увеличаване на скоростта при игри</string>
     <string name="card_main_deepclean_qq_title">QQ почистване</string>
     <string name="action_button_text_100">Оптимизиране</string>
     <string name="action_button_text_80_100">Оптимизиране</string>
