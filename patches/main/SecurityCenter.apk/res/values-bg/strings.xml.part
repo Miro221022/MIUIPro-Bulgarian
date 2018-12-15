@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="card_main_hbassistant_title">Защита</string>
-    <string name="card_main_hbassistant_summary">Увеличаване на скоростта &amp; при игри</string>
+    <string name="card_main_hbassistant_summary">Увеличаване на скоростта при игри</string>
 	<string name="power_settings_number">Проценти и графика</string>
     <string name="xunyou_pay_webview">Само проценти</string> 
     <string name="xunyou_server_expired">Изкл.</string>
     <string name="card_main_deepclean_wechat_title">Защита</string>
     <string name="card_main_deepclean_qq_title">Тест на мрежата</string>
+	<string name="card_main_hbassistant_title">Задачи</string>
+	<string name="card_main_deepclean_qq_title">Таймер</string>
 </resources>
