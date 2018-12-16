@@ -475,8 +475,8 @@
     <string name="header_category_system">Системни</string>
     <string name="radio_info_data_connection_enable">Активиране на връзката за данни</string>
     <string name="radio_info_data_connection_disable">Деактивиране на връзката за данни</string>
-    <string name="volte_provisioned_switch_string">Обезпечено за VoLTE</string>
-    <string name="radio_info_radio_power">Мощност на клетъчното радио</string>
+    <string name="volte_provisioned_switch_string">VoLTE услуга</string>
+    <string name="radio_info_radio_power">Клетъчна връзка</string>
     <string name="radioInfo_menu_viewADN">Преглед на указателя на SIM картата</string>
     <string name="radioInfo_menu_viewFDN">Преглед на фиксирани номера за набиране</string>
     <string name="radioInfo_menu_viewSDN">Преглед на номера за набиране на услуги</string>
@@ -484,16 +484,16 @@
     <string name="radioInfo_service_in">В употреба</string>
     <string name="radioInfo_service_out">Не работи</string>
     <string name="radioInfo_service_emergency">Само спешни обаждания</string>
-    <string name="radioInfo_service_off">Радиото е изключено</string>
+    <string name="radioInfo_service_off">Не се използва</string>
     <string name="radioInfo_roaming_in">Роуминг</string>
     <string name="radioInfo_roaming_not">Не се използва роуминг</string>
     <string name="radioInfo_phone_idle">Не се използва</string>
     <string name="radioInfo_phone_ringing">Звънене</string>
     <string name="radioInfo_phone_offhook">Извършва се обаждане</string>
-    <string name="radioInfo_data_disconnected">Изкл.</string>
+    <string name="radioInfo_data_disconnected">Не е установена връзка</string>
     <string name="radioInfo_data_connecting">Установява се връзка</string>
-    <string name="radioInfo_data_connected">Установена е връзка</string>
-    <string name="radioInfo_data_suspended">Прекъсната</string>
+    <string name="radioInfo_data_connected">Установена връзка</string>
+    <string name="radioInfo_data_suspended">Прекратено</string>
     <string name="radioInfo_unknown">Неизвестно</string>
     <string name="radioInfo_display_packets">pkts</string>
     <string name="radioInfo_display_bytes">байта</string>
@@ -604,37 +604,37 @@
     <string name="proxy_error_invalid_port">Въведеният от вас порт е невалиден.</string>
     <string name="proxy_warning_limited_support">HTTP прокси сървърът се използва от браузъра, но не и от други приложения.</string>
     <string name="proxy_url_title">"URL адрес на PAC файла: "</string>
-    <string name="radio_info_signal_location_label">Информация за местоположението на клетките (оттеглено):</string>
-    <string name="radio_info_neighboring_location_label">Информация за съседните клетки (оттеглено):</string>
+    <string name="radio_info_signal_location_label">Информация за местоположението на клетката (отхвърлена):</string>
+    <string name="radio_info_neighboring_location_label">Информация за съседните клетки (отхвърлена):</string>
     <string name="radio_info_cell_info_refresh_rate">Честота на опресняване на информацията за клетките:</string>
     <string name="radio_info_cellinfo_label">Цялата измервателна информация за клетките:</string>
-    <string name="radio_info_dcrtinfo_label">Информация в реално време за връзката за данни:</string>
+    <string name="radio_info_dcrtinfo_label">Информация за връзката за данни в реално време:</string>
     <string name="radio_info_gprs_service_label">Услуга за данни:</string>
     <string name="radio_info_roaming_label">Роуминг:</string>
     <string name="radio_info_imei_label">IMEI:</string>
-    <string name="radio_info_call_redirect_label">Пренасочване на обаждането:</string>
+    <string name="radio_info_call_redirect_label">Пренасочване на обажданията:</string>
     <string name="radio_info_ppp_resets_label">Брой PPP възстановявания от зареждането:</string>
     <string name="radio_info_current_network_label">Текуща мрежа:</string>
     <string name="radio_info_ppp_received_label">Получени данни:</string>
     <string name="radio_info_gsm_service_label">Гласова услуга:</string>
     <string name="radio_info_signal_strength_label">Сила на сигнала:</string>
-    <string name="radio_info_call_status_label">Състояние на гласовото обаждане:</string>
+    <string name="radio_info_call_status_label">Състояние на гласово повикване:</string>
     <string name="radio_info_ppp_sent_label">Изпратени данни:</string>
-    <string name="radio_info_message_waiting_label">Изчакващо съобщение:</string>
+    <string name="radio_info_message_waiting_label">Чакащо съобщение:</string>
     <string name="radio_info_phone_number_label">Телефонен номер:</string>
     <string name="radio_info_band_mode_label">Избиране на радиодиапазон</string>
     <string name="radio_info_voice_network_type_label">Тип на гласовата мрежа:</string>
     <string name="radio_info_data_network_type_label">Тип на мрежата за данни:</string>
     <string name="radio_info_set_perferred_label">Задаване на предпочитан тип мрежа:</string>
-    <string name="radio_info_ping_hostname_v4">Име на хост за позив (www.google.com) IPv4:</string>
-    <string name="radio_info_ping_hostname_v6">Име на хост за позив (www.google.com) IPv6:</string>
-    <string name="radio_info_http_client_test">HTTP тест на клиентската програма:</string>
+    <string name="radio_info_ping_hostname_v4">PING име на хоста (www.google.com) IPv4:</string>
+    <string name="radio_info_ping_hostname_v6">PING име на хоста (www.google.com) IPv6:</string>
+    <string name="radio_info_http_client_test">Тест на HTTP клиент:</string>
     <string name="ping_test_label">Изпълняване на тест „ping“</string>
     <string name="radio_info_smsc_label">SMS център:</string>
     <string name="radio_info_smsc_update_label">Актуализиране</string>
     <string name="radio_info_smsc_refresh_label">Опресняване</string>
-    <string name="radio_info_toggle_dns_check_label">Превключване на проверката на DNS</string>
-    <string name="oem_radio_info_label">Информация/Настройки специфични за ОЕМ</string>
+    <string name="radio_info_toggle_dns_check_label">Задаване на DNS проверка</string>
+    <string name="oem_radio_info_label">OEM специфични Инфо/Настройки</string>
     <string name="band_mode_title">Задаване на режим за радиодиапазон</string>
     <string name="band_mode_loading">Списъкът с диапазони се зарежда…</string>
     <string name="band_mode_set">Задаване</string>
@@ -1112,9 +1112,9 @@
     <string name="wifi_wps_available_first_item">Налице е WPS</string>
     <string name="wifi_wps_available_second_item">" (Налице е WPS)"</string>
     <string name="wifi_wps_nfc_enter_password">Въведете паролата за мрежата</string>
-    <string name="wifi_scan_always_turnon_message">"За да подобри точността на местоположението и за други цели, %1$s иска да включи сканирането за мрежи дори когато Wi-Fi е изключен.
+    <string name="wifi_scan_always_turnon_message">"За да подобри точността на местоположението и за други цели, %1$s иска да включи мрежовото сканиране дори когато WLAN е изключен.
 
-Искате ли да разрешите това за всички приложения, които искат да сканират?"</string>
+Да се разреши ли това за всички приложения, които искат да сканират?"</string>
     <string name="wifi_scan_always_turnoff_message">За да изключите тази настройка, отворете „Разширени“ от менюто при препълване.</string>
     <string name="wifi_scan_always_confirm_allow">Разрешаване</string>
     <string name="wifi_scan_always_confirm_deny">Отказ</string>
@@ -1188,20 +1188,20 @@
     <string name="wifi_tether_configure_subtext">%1$s %2$s преносима точка за достъп</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="testing_wifi_info">WLAN информация</string>
-    <string name="disableNetwork">Деактивиране на мрежата</string>
-    <string name="enableNetwork">Активиране на мрежата</string>
+    <string name="disableNetwork">Деактивиране на мрежа</string>
+    <string name="enableNetwork">Активиране на мрежа</string>
     <string name="disconnect">деактивиране</string>
     <string name="wifi_api_test">WLAN API</string>
     <string name="wifi_status_test">WLAN състояние</string>
-    <string name="wifi_update">Refresh stats</string>
+    <string name="wifi_update">Опресняване</string>
     <string name="wifi_state_label">WLAN състояние:</string>
     <string name="network_state_label">Състояние на мрежата:</string>
     <string name="supplicant_state_label">Състояние на жалбоподателя:</string>
-    <string name="hidden_ssid_label">Hidden SSID:</string>
-    <string name="ipaddr_label">IPaddr:</string>
+    <string name="hidden_ssid_label">Скрит SSID:</string>
+    <string name="ipaddr_label">IP адрес:</string>
     <string name="macaddr_label">MAC адрес:</string>
     <string name="networkid_label">Мрежови ID:</string>
-    <string name="link_speed_label">Link speed:</string>
+    <string name="link_speed_label">Скорост на връзката:</string>
     <string name="scan_list_label">Резултати от сканирането:</string>
     <string name="wifi_state_disabling">Деактивиране</string>
     <string name="wifi_state_disabled">Деактивирано</string>
@@ -1209,7 +1209,7 @@
     <string name="wifi_state_enabled">Активиран</string>
     <string name="wifi_state_unknown">Неизвестно</string>
     <string name="wifi_config_info">WLAN конфиг.</string>
-    <string name="config_list_label">Configured networks</string>
+    <string name="config_list_label">Конфигурирани мрежи</string>
     <string name="wifi_calling_settings_title">Обаждания през Wi-Fi</string>
     <string name="wifi_calling_suggestion_title">Обаждания през Wi-Fi: Включв.</string>
     <string name="wifi_calling_suggestion_summary">Използване на Wi-Fi вместо мобилна мрежа</string>
@@ -1352,9 +1352,9 @@
     <string name="status_prl_version">Версия на списъка с предпочитания за роуминг</string>
     <string name="status_meid_number">MEID</string>
     <string name="status_icc_id">Идентификатор на карта с ИС</string>
-    <string name="status_network_type">Тип на клетъчната мрежа</string>
+    <string name="status_network_type">Тип мобилна мрежа</string>
     <string name="status_latest_area_info">Информация за оператора</string>
-    <string name="status_data_state">Състояние на клетъчната мрежа</string>
+    <string name="status_data_state">Състояние на мобилната мрежа</string>
     <string name="status_service_state">Състояние на услуга</string>
     <string name="status_signal_strength">Сила на сигнала</string>
     <string name="status_roaming">Роуминг</string>
@@ -1651,8 +1651,8 @@
     <string name="location_high_battery_use">Висок разход на батерията</string>
     <string name="location_low_battery_use">Нисък разход на батерията</string>
     <string name="location_mode_screen_title">Режим</string>
-    <string name="location_mode_high_accuracy_description">Използвай GPS, Wi-Fi и мобилни мрежи за определяне на местоположението</string>
-    <string name="location_mode_battery_saving_description">Приблизително установяване на местопололението чрез Wi-Fi и мобилни мрежи</string>
+    <string name="location_mode_high_accuracy_description">Използване на GPS, Wi-Fi и мобилни мрежи за определяне на местоположението</string>
+    <string name="location_mode_battery_saving_description">Използване на WLAN и мобилни мрежи, за да определяне на местоположението</string>
     <string name="location_mode_sensors_only_description">Използване на GPS за определяне на местоположението</string>
     <string name="location_menu_scanning">Сканиране</string>
     <string name="location_scanning_screen_title">Сканиране</string>
@@ -1665,13 +1665,13 @@
     <string name="location_neighborhood_level_wifi">Местоположението се определя чрез Wi-Fi</string>
     <string name="location_gps">Спътници на GPS</string>
     <string name="location_street_level">Приложенията да използват GPS на телефона ви, за да посочат местоположението ви</string>
-    <string name="assisted_gps">Използване на помощ за GPS</string>
-    <string name="assisted_gps_enabled">Използване на сървър за помощ с GPS (премахнете отметката за намаляване на употребата на мрежа)</string>
-    <string name="assisted_gps_disabled">Използване на сървър за помощ с GPS (премахнете отметката за подобряване на качеството нa услугата)</string>
+    <string name="assisted_gps">Използване GPS подпомагане</string>
+    <string name="assisted_gps_enabled">Използване на сървър за подпомагане на GPS (изключете, за да намалите използването на мрежата)</string>
+    <string name="assisted_gps_disabled">Използване на сървър за подпомагане на GPS (включете, за да подобрите производителността на GPS)</string>
     <string name="use_location_title">Местоположение и търсене с Google</string>
     <string name="use_location_summary">Разрешавам на Google да използва местоположението ми за подобряване на резултатите от търсенето и др. услуги</string>
-    <string name="location_access_title">Достъп до местоположението ми</string>
-    <string name="location_access_summary">Приложенията, които са поискали от вас разрешение, да използват информацията за местоположението ви</string>
+    <string name="location_access_title">Достъп до местоположение</string>
+    <string name="location_access_summary">Приложенията могат да получат информация за местоположението ви</string>
     <string name="location_sources_heading">Източници на местоположение</string>
     <string name="about_settings">Всичко за телефона</string>
     <string name="about_settings_summary">Преглед на състоянието, правната информация и версията на софтуера</string>
@@ -4352,7 +4352,7 @@
     <string name="wifi_priority_type_summary">Позволява ръчно задаване на приоритет за всяка точка за достъп</string>
     <string name="wifi_priority_settings_title">Настройки на AP приоритет</string>
     <string name="wifi_priority_settings_summary">Натиснете, за задаване на приоритет за всяка точка за достъп</string>
-    <string name="wifi_priority_changed" formatted="false">Стара стойност на приоритета= %s,нова стойност= %s</string>
+    <string name="wifi_priority_changed" formatted="false">Стара стойност %s | Нова стойност %s</string>
     <string name="wifi_configured_ap_list">Списък със запаметени AP</string>
     <string name="wifi_priority_label">Приоритет</string>
     <string name="wifi_available_title">Свързване към Wi-Fi</string>
@@ -4626,7 +4626,7 @@
     <string name="translation_contributors_title">Преводачи</string>
     <string name="wifi_type_approval_title">За MiuiPro</string>
     <string name="wifi_type_approval_dialog_title">За MiuiPro</string>
-    <string name="status_sim">Състояние на SIM</string>
+    <string name="status_sim">Състояние на SIM картата</string>
     <string name="status_sim_1">SIM 1</string>
     <string name="status_sim_2">SIM 2</string>
     <string name="status_summary">Чукнете за подробности</string>
@@ -4657,9 +4657,9 @@ Stable"</string>
     <string name="location_agps_pref_reset_type_title">Предпочитан тип нулиране</string>
     <string name="location_agps_reset_type">Нулиране на типовете</string>
     <string name="location_agps_reset_type_summary">Изберете предпочитания тип нулиране</string>
-    <string name="location_agps_reset_type_choose_dialog_title">Всички типове стартиране</string>
+    <string name="location_agps_reset_type_choose_dialog_title">Нулиране на типовете</string>
     <string name="location_agps_pref_network_title">Предпочитана мрежа</string>
-    <string name="location_agps_register_network_type">Тип достъп до мрежа</string>
+    <string name="location_agps_register_network_type">Тип на мрежата за достъп</string>
     <string name="location_agps_register_network_type_summary">Избор на мрежа</string>
     <string name="location_agps_register_network_type_dialog_title">Използване на A-GPS</string>
     <string name="location_agps_roaming_help">Предупреждение: Избирането на ВСИЧКИ МРЕЖИ при активиране на AGPS може да доведе до телефонни такси в режим на роуминг!</string>
@@ -6066,4 +6066,16 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="device_description_resolution">Резолюция</string>
     <string name="device_description_screen">Размер на дисплея</string>
     <string name="network_name_input_error">"SSID не можа да бъде запазен. Опитай отново."</string>
+	<string name="radio_info_ims_feature_status_available">На разположение</string>
+    <string name="radio_info_ims_feature_status_unavailable">Не се предлага</string>
+    <string name="radio_info_ims_reg_status">"IMS Регистрация: %1$s
+VoLTE услуга: %2$s
+WLAN повикване: %3$s
+Видеообаждане: %4$s
+UT интерфейс: %5$s"</string>
+    <string name="radio_info_ims_reg_status_not_registered">Не е регистриран</string>
+    <string name="radio_info_ims_reg_status_registered">Регистриран</string>
+	<string name="radio_info_ims_reg_status_title">IMS състояние</string>
+	<string name="vt_provisioned_switch_string">Видеоповикване</string>
+	<string name="wfc_provisioned_switch_string">Wifi повикване</string>
 </resources>
