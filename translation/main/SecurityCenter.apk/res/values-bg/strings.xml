@@ -314,7 +314,7 @@
     <string name="st_confirm_dialog_summary_oversea_call">Включете, за да блокирате входящи повиквания от чуждестранни телефонни номера.</string>
     <string name="cta_dialog_title">Известие за свързване</string>
     <string name="cta_dialog_msg">Оптимизацията се нуждае от интернет връзка за получаване на актуализации, както и достъп до местоположение за да работи нормално.</string>
-    <string name="cta_settings">Разреши достъп до интернет</string>
+    <string name="cta_settings">Разрешаване на интернет връзка</string>
     <string name="gdpr_msg"><Data>"За да използвате основните функции на Оптимизация, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни, включително информация за начините, по които използвате функциите на Оптимизация (например, статистика за използване на мобилни данни, информация за злонамерен софтуер, както и основна информация за вашето устройство) и други видове информация, посочени в нашата &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a>."</Data></string>
     <string name="app_name_na">Монитор за данни</string>
     <string name="list_empty_text">Празно</string>
@@ -876,7 +876,7 @@
     <string name="tether_over_limit_dialog_title">Предупреждение за използв. на данни</string>
     <string name="tether_over_limit_dialog_message">Вие достигнахте лимита за данни на преносимата точка за достъп.</string>
     <string name="tether_over_limit_dialog_cancle_btn">Нулиране точка за достъп</string>
-    <string name="optimize_manage_title">Подобрете скоростта</string>
+    <string name="optimize_manage_title">Подобравяне на скоростта</string>
     <string name="cpu_usage_android_system">Система Андроид</string>
     <string name="cpu_usage_process_run_time_little_time">По-малко от минута</string>
     <string name="cpu_usage_view_action_btn_text">Чукнете за преглед</string>
@@ -890,7 +890,7 @@
     <string name="cpu_usage_app_tip_can_not_restrict_system_app">Не може да се ограничават системни процеси</string>
     <string name="cpu_usage_app_uninstalled_toast">Това приложение е деинсталирано</string>
     <string name="memory_clean_memory_size_tip">Кеш</string>
-    <string name="memory_clean_click_tip">Подобрете скоростта</string>
+    <string name="memory_clean_click_tip">Подобряване на скоростта</string>
     <string name="memory_clean_running_process_title">Наблюдавани приложения (%d)</string>
     <string name="memory_clean_cleaning_title">Изчистване на кеш</string>
     <string name="memory_clean_no_need_clean">Изглежда всичко е наред</string>
@@ -904,7 +904,7 @@
     <string name="om_settings_title">Настройки за оптимизация</string>
     <string name="om_settings_lock_app_manage">Заключване на приложения</string>
     <string name="om_settings_lock_app">Заключване на приложения</string>
-    <string name="om_settings_speed_up_auto">Автом. подобряване на скоростта</string>
+    <string name="om_settings_speed_up_auto">Автоматично подобряване на скоростта</string>
     <string name="om_settings_memory_clean_lock_screen">Изчистване на кеша, когато устройството е заключено</string>
     <string name="om_settings_notify_manage">Известия</string>
     <string name="om_settings_memory_occupy_notify">Голям размер на кеша</string>
@@ -1412,7 +1412,7 @@
     <string name="menu_item_shortcut_title">Управление на преките пътища</string>
     <string name="menu_item_shortcut_summary">Добавяне на често използвани функции на началния екран</string>
     <string name="activity_title_create_shortcut">Управление на преките пътища</string>
-    <string name="menu_item_notification_title">Покажи в лентата с известия</string>
+    <string name="menu_item_notification_title">Показване в лентата с известия</string>
     <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_power_text">Енергия</string>
     <string name="menu_item_notification_antispam_text_normal">Спам</string>
@@ -1488,7 +1488,7 @@
     <string name="hints_scanning_text">Сканира се…</string>
     <string name="auto_handle_title">Оптимизирай автоматично</string>
     <string name="manual_item_white_list_title">Изключения</string>
-    <string name="manual_item_white_list_summary">Ръчно упр. на изключенията</string>
+    <string name="manual_item_white_list_summary">Ръчно управление на изключенията</string>
     <string name="pm_auto_start_by_system">Стартиращи приложения</string>
     <string name="pm_auto_start_by_system_event">Разрешава приложенията да стартират автоматично</string>
     <string name="pm_auto_start_by_other">Автоматичен старт</string>
@@ -1898,7 +1898,7 @@
     <string name="optimize_result_ads_close_text">Реклама</string>
     <string name="information_setting">Препоръки</string>
     <string name="load_only_under_wlan">Зареждане само чрез Wi-Fi</string>
-    <string name="recommend_news">Получавайте препоръки</string>
+    <string name="recommend_news">Получаване на препоръки</string>
     <string name="setting_privacy_password">Добавете шаблон</string>
     <string name="bind_xiaomi_account_title">Добавете Mi профил</string>
     <string name="bind_xiaomi_account_summary">Използвайте Mi профил, за да смените паролата си</string>
@@ -2057,7 +2057,7 @@
     <string name="gs_game_net_priority_detail">Ограничете скоростта на сваляне за да осигурите достатъчно лимит за игри</string>
     <string name="gs_performance_mode">Режим \"Производителност\"</string>
     <string name="gs_performance_mode_detail">Увеличете скоростта на процесора за по-добра производителност</string>
-    <string name="gs_open_game_booster">Подобрете скоростта</string>
+    <string name="gs_open_game_booster">Подобряване на скоростта</string>
     <string name="gs_dialog_confirm_close_title">Изключи</string>
     <string name="gs_dialog_confirm_close_msg">Прекия път ще бъде премахнат от Началния екран. Отидете до Оптимизация > Настройки за да го възстановите.</string>
     <string name="gs_game_performance">Производителност</string>

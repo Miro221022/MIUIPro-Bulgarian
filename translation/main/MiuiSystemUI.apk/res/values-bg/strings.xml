@@ -1015,7 +1015,7 @@
   <string name="notification_header_title">Известия</string>
   <string name="notification_hidden_by_policy_text">Съдържанието е скрито от политика</string>
   <string name="notification_hidden_text">Получено е ново съобщение</string>
-  <string name="notification_info_channel_disabled_text">Вие няма да получите %2$s известия от %1$s.</string>
+  <string name="notification_info_channel_disabled_text">Вие няма да получите известия за %2$s от %1$s.</string>
   <string name="notification_info_channel_enabled_text">Ще получвате известия за %2$s от %1$s.</string>
   <string name="notification_low_battery_action_btn">Включи</string>
   <string name="notification_low_battery_need_charge">Батерията е слаба. Заредете устройството си.</string>
