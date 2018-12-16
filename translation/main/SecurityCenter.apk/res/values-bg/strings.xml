@@ -1045,12 +1045,12 @@
     <string name="deep_clean_disconnect_data_title">Изключване на моб. данни, когато устройството е заключено</string>
     <string name="power_analysis_consume_title">Употреба на батерия</string>
     <string name="power_analysis_suggestion_need_optimize">Открит е проблем при консумиране на батерия.</string>
-    <string name="power_optimize_save_on_lockscreen">Икономия на енергия при закл. екран</string>
-    <string name="power_optimize_close_app">Спрете приложения с висока консумация</string>
-    <string name="power_optimize_disable_app_autostart">Забранете автостарт на приложения</string>
-    <string name="power_optimize_disable_start_other_app">Забранете приложенията да отварят други приложения</string>
+    <string name="power_optimize_save_on_lockscreen">Икономия на енергия, когато устройството е заключено</string>
+    <string name="power_optimize_close_app">Затваряне на приложения, които използват прекомерно енергия</string>
+    <string name="power_optimize_disable_app_autostart">Предотвратяване на автоматичното стартиране на приложения</string>
+    <string name="power_optimize_disable_start_other_app">Предотвратяване на приложенията да стартират други приложения</string>
     <string name="power_optimize_brightness">Яркост на екрана</string>
-    <string name="power_optimize_open_hide_mode">Включване Икономия на батерията</string>
+    <string name="power_optimize_open_hide_mode">Включено пестене на батерията</string>
     <string name="power_optimize_auto_catagory_title">Проблеми с батерията</string>
     <string name="power_optimize_catagory_fixed_title">Оптимизирано</string>
     <string name="power_optimize_btn_text_fixed">Оптимизирано</string>
@@ -1066,7 +1066,7 @@
     <string name="quick_optimize_checking">Проверка...</string>
     <string name="quick_optimize_suggest_battery_over_heat">Телефона прегрява, оптимизирайте настройките</string>
     <string name="quick_optimize_suggest_battery_consume_too_fast">Източване на батерията, оптимизирайте настройките</string>
-    <string name="btn_text_optimize_extend_battery_time">Добавяне %s</string>
+    <string name="btn_text_optimize_extend_battery_time">Добавяне на %s</string>
     <string name="btn_text_optimize_now">Оптимизирай</string>
     <string name="btn_text_optimize_manually">Ръчно оптимизиране</string>
     <string name="battery_history_activity_title">История</string>
@@ -1093,7 +1093,7 @@
     <string name="app_check_no_issue">Супер! Изглежда, че няма проблеми с батерията.</string>
     <string name="power_save_mode_enable">Икономия на батерия</string>
     <string name="power_save_mode_summary">Наблюдение на процесите на заден план и изключване на синхронизацията.</string>
-    <string name="power_optimize_save_mode_not_opened">Икономия на батерия е икл.</string>
+    <string name="power_optimize_save_mode_not_opened">Пестенето на батерия е изключено</string>
     <string name="notification_exit_power_save_mode">Икономия на батерия: изключено</string>
     <string name="notification_exit_power_save_mode_subtitle">Батерията е заредена на %s.</string>
     <string name="power_save_mode_auto_exit_title">Изключване когато е заредено устройството</string>
@@ -1105,7 +1105,7 @@
     <string name="battery_health_voltage_text">Волтаж</string>
     <string name="battery_health_temperature_text">Температура</string>
     <string name="battery_health_left_battery_text">Оставаща батерия</string>
-    <string name="power_optimize_disable_gps">Изключете GPS</string>
+    <string name="power_optimize_disable_gps">Изключване на GPS</string>
     <string name="power_optimize_battery_save_idea">Оптимизирайте батерията</string>
     <string name="power_optimize_battery_save_more">Още</string>
     <string name="settings_battery_consume_abnormal_title">Известия при бързо изтощаване</string>
@@ -1230,7 +1230,7 @@
     <string name="toast_set_success">Успешно настроено</string>
     <string name="toast_reject_sms_read_permission_success">Настроено успешно</string>
     <string name="sp_settings_title_input_method">Сигурна клавиатура</string>
-    <string name="sp_settings_info_input_method">Използване на системната клавиатура в платежните прил</string>
+    <string name="sp_settings_info_input_method">Използване на системната клавиатура в платежните приложения</string>
     <string name="sp_settings_info_monitor">Наблюдение на системната среда при работещи приложения за плащане</string>
     <string name="scan_status_safe">Безопасно</string>
     <string name="scan_status_risk">Рисково</string>
@@ -1256,7 +1256,7 @@
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_check_item_title_root">Рут достъп</string>
     <string name="sp_settings_check_item_title_update">Системни актуализации</string>
-    <string name="sp_settings_check_item_title_virus_exception">Вирус изключения</string>
+    <string name="sp_settings_check_item_title_virus_exception">Вирусни изключения</string>
     <string name="sp_settings_check_item_title_sign_exception">Потвърдете изключенията</string>
     <string name="sp_settings_check_item_summary_virus_exception">Управление на изключенията</string>
     <string name="sp_settings_check_item_summary_sign_exception">Управление на изключенията</string>

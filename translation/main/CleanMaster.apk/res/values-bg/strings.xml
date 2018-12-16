@@ -79,7 +79,7 @@
   <string name="button_text_select_all_photos">Избери всички</string>
   <string name="button_text_select_pic">Избери</string>
   <string name="button_text_uninstall">Деинсталиране</string>
-  <string name="button_text_uninstall_only">Деинстал. на %s</string>
+  <string name="button_text_uninstall_only">Деинсталиране на %s</string>
   <string name="button_text_unselect_all">Размаркирай</string>
   <string name="button_text_unselect_pic">Размаркирай</string>
   <string name="button_text_view_detail">Детайли</string>
@@ -166,7 +166,7 @@
   <string name="dialog_title_esc_cleanmaster">Затвори cleanmaster</string>
   <string name="dialog_title_load_cleanup_engine_error">Нещо се обърка</string>
   <string name="dialog_title_stop_scan">Спиране на сканирането</string>
-  <string name="dialog_title_uninstall_apps">Деинстал.</string>
+  <string name="dialog_title_uninstall_apps">Деинсталиране</string>
   <string name="download">Изтегляне</string>
   <string name="downloading">Изтегля се</string>
   <string name="empty">" "</string>
