@@ -109,4 +109,6 @@
     <string name="notification_exit_extreme_mode_text">Батерията е заредена над %s</string>
     <string name="notification_exit_extreme_mode_title">Изключено Екстремно пестене на батерия</string>
     <string name="notification_open_extreme_mode_text">Включено Екстремно пестене на батерия</string>
+	<string name="adaptive_battery_summary">"Ограничаване консумацията на батерията за приложения, които не използвате често"</string>
+    <string name="adaptive_battery_title">Използване на Адаптивна батерия</string>
 </resources>

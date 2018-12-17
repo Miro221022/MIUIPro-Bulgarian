@@ -2482,4 +2482,6 @@
     <string name="deep_power_save_item_title_auto_brightness">Включи автоматичната яркост</string>
     <string name="deep_power_save_item_title_bluetooth">Изключи Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Заспиване на екрана</string>
+	<string name="notify_channel_mipush">Изскачаши съобщения</string>
+    <string name="notify_channel_optimize">Известия</string>
 </resources>

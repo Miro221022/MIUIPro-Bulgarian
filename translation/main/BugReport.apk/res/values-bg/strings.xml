@@ -335,11 +335,9 @@
   <string name="catch_full_log_dialog_confirm_text">Отиди на Начален екран</string>
   <string name="catch_full_log_dialog_content">"MIUI генерира отчет. Това може да повлияе на цялостната производителност на устройството ви. Ако не можете да възпроизведете проблема, който искате да съобщите, върнете се към отчетите и докоснете \"Отказ\"."</string>
   <string name="catch_full_log_dump_hprof_failed">"Не може да се генерира отчет"</string>
-  <string name="catch_full_log_item_content_catch_direct">"Стъпки:
-1. Върнете се към функцията, която искате да докладвате и я използвайте.
+  <string name="catch_full_log_item_content_catch_direct">"1. Върнете се към функцията, която искате да докладвате и я използвайте.
 2. Върнете се на тази страница и докоснете \"Завършване и качване\"."</string>
-  <string name="catch_full_log_item_content_need_open">"Стъпки:
-1. Докоснете \"Генериране на отчет\".
+  <string name="catch_full_log_item_content_need_open">"1. Докоснете \"Генериране на отчет\".
 2. Върнете се към функцията, която искате да докладвате и я използвайте.
 3. Върнете се на тази страница и докоснете \"Завършване и качване\"."</string>
   <string name="catch_full_log_item_title_audio">Аудио, звукозапис и звук при обаждания</string>
@@ -356,4 +354,8 @@
   <string name="title_catch_full_log">Отчети</string>
   <string name="toast_catch_full_log_catching">Можете да генерирате само един отчет в даден момент.</string>
   <string name="feedback_status_commit_in_queue_title">Очакваме обратна връзка</string>
+  <string name="catch_full_log_item_content_title">Стъпки:</string>
+  <string name="feedback_choose_app_tag">Изберете проблем</string>
+  <string name="title_user_guide">Упътване</string>
+  <string name="toast_app_tag_required">Изберете проблем</string>
 </resources>

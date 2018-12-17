@@ -541,7 +541,7 @@
    <string name="beauty_body_body">Отслабване</string>
    <string name="beauty_body_head">Глава</string>
    <string name="beauty_body_legged">Дълги крака</string>
-   <string name="beauty_body_reset_tip">Ефектът за тяло е премахнат</string>
+   <string name="beauty_body_reset_tip">Ефектът бе премахнат</string>
    <string name="beauty_body_shoulder">Рамо</string>
    <string name="ultra_wide_close_tip">Свръхширокоъгълен режим е изключен</string>
    <string name="ultra_wide_open_tip">Свръхширокоъгълен режим</string>
@@ -611,4 +611,17 @@
    <string name="color_effect_live_years">Сепия</string>
    <string name="live_sticker_updating">Обновяване...</string>
    <string name="live_edit_share_title">Споделяне</string>
+   <string name="live_error_confirm">Коригиране</string>
+   <string name="live_error_message">Грешка във функцията</string>
+   <string name="live_error_title">Грешка във функцията</string>
+   <string name="live_reverse_confirm">Изтрий</string>
+   <string name="live_reverse_message">Изтриване на последния сегмент?</string>
+   <string name="live_sticker_network_error_hint">Грешка в мрежата</string>
+   <string name="portait_effect_entry_dusk">Здрач</string>
+   <string name="portait_effect_entry_lilt">Ритъм</string>
+   <string name="portait_effect_entry_sepia">Сепия</string>
+   <string name="portait_effect_entry_tea">Чай</string>
+   <string name="pref_camera_ultra_wide_mode_title">Свръхширокоъгълен режим</string>
+   <string name="ultra_widem_mode_use_hint_text">"Включете свръхширокоъгълен режим, за да запишете по-широк изглед за вас.
+Разгледайте повече вълнуваща красота."</string>
 </resources>

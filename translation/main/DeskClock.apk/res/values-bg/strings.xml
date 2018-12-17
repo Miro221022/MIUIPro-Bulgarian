@@ -238,4 +238,5 @@
   <string name="snooze_duration">Отлагане</string>
   <string name="snooze_duration_title">Отлагане</string>
   <string name="snooze_duration_value">Интервал (минути)</string>
+  <string name="check_theme_app_install">Уверете се, че приложението Теми е инсталирано на устройството ви.</string>
 </resources>

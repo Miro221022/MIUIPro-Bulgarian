@@ -447,4 +447,8 @@
   <string name="undo_grant_dialog_message">Xiaomi ще спре да събира информацията, необходима за тази функция (IMEI, ID на устройството, системна версия, регион и т.н.) след като анулирате разрешението. Отмяна сега?</string>
   <string name="undo_privacy_menu">Отмяна на разрешението</string>
   <string name="undo_success">Отменен успешно</string>
+  <string name="button_input_password">Въведете парола</string>
+  <string name="button_touch">Поставете пръста си върху сензора</string>
+  <string name="dialog_verify">Потвърдете отпечатъка си</string>
+  <string name="dialog_verify_fingerprint_retry">"Не може да се потвърди отпечатъка. Опитайте отново."</string>
 </resources>
