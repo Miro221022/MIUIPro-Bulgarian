@@ -167,4 +167,10 @@
       <item>Ноември</item>
       <item>Декември</item>
   </string-array>
+    <string-array name="weekend_title">
+    <item>Минали уикенди</item>
+    <item>Дни за запомняне</item>
+    <item>Ежедневни събития</item>
+    <item>Обикновени и необикновени</item>
+  </string-array>
 </resources>

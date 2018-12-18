@@ -1316,7 +1316,7 @@
     <string name="story_remove_confirm_title">Премахване на снимки</string>
     <string name="story_rename_invalid_char">"Не може да се използва \"%s\" в заглавието на историята. Използвайте букви, цифри и китайски символи."</string>
     <string name="story_rename_invalid_prefix">"Заглавието на историята не може да започва с \".\" или \"_\""</string>
-	<string name="collage_select_image_range">Колажите могат да съдържат 1-4 снимки</string>
+	<string name="collage_select_image_range">Колажите могат да съдържат 1-6 снимки</string>
     <string name="frame_not_support_image_ratio">"Това съотношение не се поддържа"</string>
     <string name="operation_produce">Творчество</string>
     <string name="photo_editor_crop_auto_tips">Изрязани автоматично</string>
@@ -1420,4 +1420,13 @@
   <string name="story_download_without_wifi_title">Предупреждение за използването на данни</string>
   <string name="story_option_menu_delete">Изтриване на историята</string>
   <string name="story_photo_downloading">Изтегля се</string>
+  <string name="alert_selection_description">AI маркира най-добрата снимка сред подобни изображения със звезда.</string>
+  <string name="alert_selection_title">Избрани от AI</string>
+  <string name="backup_file_over_size_desc">"Снимки, по-големи от %1$s и видеоклипове, по-големи от %2$s не може да се архивират."</string>  
+  <string name="collage_ratio_text">Съотношение</string> 
+  <string name="collage_title_stitching">Филм</string>
+  <string name="filter_people_bw">Черно-бяло</string>
+  <string name="filter_people_lilt">Ритъм</string>
+  <string name="filter_people_sepia">Сепия</string>
+  <string name="filter_people_tea">Чай</string>
 </resources>

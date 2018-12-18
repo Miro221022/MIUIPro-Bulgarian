@@ -5211,7 +5211,7 @@ Stable"</string>
     <string name="fingerprint_manage">Управление на пръстовите отпечатъци</string>
     <string name="turn_off_keyguard_password_confirm_msg">Някои функции за сигурност няма да работят без вашата парола.</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Няма да можете да отключвате вашето устройство с пръстов отпечатък, след като изключите паролата.</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">След като изключите паролата за Заключен екран, записаните пръстови отпечатъци ще бъдат изтрити. Вие няма да можете да отключвате вашето устройство, използвайки пръстов отпечатък.</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"След като изключите паролата за заключване на екрана, записаните пръстови отпечатъци и данните за лице ще бъдат изтрити. Няма да можете да отключите устройството, като използвате лице или пръстови отпечатъци."</string>
     <string name="work_space_delete">Изтрий Работното място</string>
     <string name="work_space_delete_description">Няма да може да влезете в Работно място, след като го изтриете. Всички данни ще бъдат премахнати.</string>
     <string name="work_space_delete_confirm">Изтрий сега</string>
@@ -6079,4 +6079,5 @@ UT интерфейс: %5$s"</string>
 	<string name="vt_provisioned_switch_string">Видеоповикване</string>
 	<string name="wfc_provisioned_switch_string">Wifi повикване</string>
 	<string name="gxzw_anim_star">Звездна светлина</string>
+	<string name="turn_off_keyguard_password_with_face_confirm_msg">"След като изключите паролата за заключване на екрана, записаните данни за лице ще бъдат изтрити. Няма да можете да отключите устройството, като използвате лицето си."</string>
 </resources>

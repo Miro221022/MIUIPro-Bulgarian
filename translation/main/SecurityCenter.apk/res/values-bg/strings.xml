@@ -2484,4 +2484,25 @@
     <string name="deep_power_save_item_title_lock_screen_time">Заспиване на екрана</string>
 	<string name="notify_channel_mipush">Изскачаши съобщения</string>
     <string name="notify_channel_optimize">Известия</string>
+	<string name="applock_face_unlock_summary">Отключване на приложения, чрез лицеви данни</string>
+    <string name="applock_face_unlock_title">Отключване с лице</string>
+    <string name="applock_function_base_settings">Заключване на приложения</string>
+    <string name="applock_function_pwd_settings">Парола</string>
+    <string name="face_unlock_be_on_the_screen">Задръжте устройството пред лицето си</string>
+    <string name="face_unlock_check_failed">"Неуспешно разпознаване"</string>
+    <string name="face_unlock_face_auth_failed_title">"Данните за лицето не можаха да бъдат потвърдени. Преминаване към други методи за отключване…"</string>
+    <string name="face_unlock_face_start_title">Потвърждаване на лицеви данни…</string>
+    <string name="face_unlock_finger_or_password_switch">Използвайте отпечатъка си или въведете парола, за да отключите.</string>
+    <string name="face_unlock_guide_confirm">Използване на отключване на лице</string>
+    <string name="face_unlock_guide_dialog_summary">Можете да използвате данните за лице, за да отключите устройството си. Включване на Отключване с лице?</string>
+    <string name="face_unlock_not_found">"Неуспешно разпознаване"</string>
+    <string name="face_unlock_open_eye">Отворете очите си малко по-широко</string>
+    <string name="face_unlock_reveal_eye">Направете очите си видими</string>
+    <string name="face_unlock_reveal_mouth">Направете устните си видими</string>
+    <string name="face_unlock_toast_verity_failed">"Данните за лице не можаха да бъдат потвърдени. Отворете настройките за заключване на приложения и опитайте отново да потвърдите данните за лицето си."</string>
+    <string name="face_unlock_verity_dialog_summary">Потвърждаване на лицеви данни</string>
+    <string name="face_unlock_verity_dialog_title_failed">"Неуспешно разпознаване"</string>
+    <string name="face_unlock_verity_dialog_title_succeed">Потвърдено успешно</string>
+    <string name="fingerprint_to_lock_summary">Отключване на приложения, чрез пръстов отпечатък</string>
+    <string name="unlock_failed">Вътрешна грешка</string>
 </resources>
