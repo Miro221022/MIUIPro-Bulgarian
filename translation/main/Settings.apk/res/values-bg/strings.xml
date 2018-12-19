@@ -6079,5 +6079,5 @@ UT интерфейс: %5$s"</string>
 	<string name="vt_provisioned_switch_string">Видеоповикване</string>
 	<string name="wfc_provisioned_switch_string">Wifi повикване</string>
 	<string name="gxzw_anim_star">Звездна светлина</string>
-	 <string name="turn_off_keyguard_password_with_face_confirm_msg">"След като изключите паролата за заключване на екрана, записаните данни за лице ще бъдат изтрити. Няма да можете да отключите устройството, като използвате лицето си."</string>
+	<string name="turn_off_keyguard_password_with_face_confirm_msg">"След като изключите паролата за заключване на екрана, записаните данни за лице ще бъдат изтрити. Няма да можете да отключите устройството, като използвате лицето си."</string>
 </resources>
