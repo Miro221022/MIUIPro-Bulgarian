@@ -3,8 +3,8 @@
   <string name="defalut_launcher_title">Стартер по подразбиране</string>
   <string name="launcher_auto_fill_empty_title">Запълване на празните клетки</string>
   <string name="launcher_title">Начален екран и последни</string>
-  <string name="lock_screen_cells_title">Заключване на оформлението на начален екран</string>
-  <string name="miui_screen_config_title">Настройки на Начален екран</string>
+  <string name="lock_screen_cells_title">Заключване на начален екран</string>
+  <string name="miui_screen_config_title">Настройки на начален екран</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Отмени</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Изключи</string>
   <string name="open_personal_assistant_dialog_desc">Няма да можете да използвате Личен асистент и да получавате неговите актуализации. Да се изключи ли сега?</string>
