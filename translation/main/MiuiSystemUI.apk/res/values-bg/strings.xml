@@ -1791,5 +1791,6 @@
    <string name="aspect_cancel">Отказ</string>
    <string name="aspect_message">Това приложение ще бъде стартирано отново в режим на цял екран. Ако срещнете някакви проблеми, можете да изключите режима на цял екран за това приложение в Настройки &gt; Показване на цял екран &gt; Режим на цял екран.</string>
    <string name="aspect_ok">OK</string>
-   <string name="aspect_title">Режим на цял екран</string>
+   <string name="aspect_title">Режим на цял екран
+   </string>
 </resources>

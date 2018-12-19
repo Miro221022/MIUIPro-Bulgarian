@@ -10,7 +10,7 @@
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%d съобщения не са синхронизирани</item>
-        <item quantity="one">%d съобщение не е синхронизирано</item>
+        <item quantity="one">%d съобщение не е синхронизирано </item>
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Изтриване на &lt;g example="15" id="number">%1$s&lt;/g> избрани разговора?</item>
