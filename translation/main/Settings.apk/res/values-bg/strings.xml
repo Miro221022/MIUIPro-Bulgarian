@@ -6002,7 +6002,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="bootloader_tips_ok">Разбрах</string>
 	<string name="wifi_details_subnet_mask">Защита на подмрежата</string>
 	<string name="wifi_no_internet_no_reconnect">"Не може да се свърже с интернет"</string>
-	<string name="keyguard_notification_status_title">Известия</string>
+	<string name="keyguard_notification_status_title">Когато се получват известия и екранът е изключен</string>
 	<string name="wifi_hotspot_off_subtext">Интернет връзката на този телефон не се споделя</string>
 	<string name="others">Друго</string>
     <string name="slider_vocie_online_theme">Онлайн звук при плъзгане</string>
