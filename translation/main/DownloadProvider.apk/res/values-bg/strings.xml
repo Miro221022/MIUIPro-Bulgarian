@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_label">Изтеглени</string>
+  <string name="app_label">Изтегляния</string>
   <string name="auto_restart_under_wifi">WLAN автоматично ще изтегли този файл</string>
   <string name="button_cancel_download">Отмяна</string>
   <string name="button_download_now">Изтегли сега</string>
@@ -30,7 +30,7 @@
   <string name="download_remaining">%s остават</string>
   <string name="download_running">Изтегля се</string>
   <string name="download_running_percent">Изтегля се %s</string>
-  <string name="download_unknown_title">&lt;Без име&gt;</string>
+  <string name="download_unknown_title">&lt;Без име></string>
   <string name="enter_garbage_clean">Почистване на вътрешното хранилище.</string>
   <string name="insufficient_space">Няма достатъчно място във вътрешното хранилище на устройството Ви</string>
   <string name="mobile_recommended_title">Разход на мобилни данни</string>
