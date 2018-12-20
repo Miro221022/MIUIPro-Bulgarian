@@ -160,7 +160,7 @@
     <string name="accessibility_stereo_button">Регулиране на фокуса</string>
     <string name="accessibility_zoom_button">Режим Приближаване</string>
     <string name="accessibility_portrait_button">Режим Портрет</string>
-    <string name="pref_camera_autoexposure_title">Изберете режим на експониране</string>
+    <string name="pref_camera_autoexposure_title">Режим на експониране</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Средно по кадри</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Центрирано</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Точка</string>
@@ -268,7 +268,7 @@
     <string name="pref_camera_auto_capture_when_stable_summary">За избор на обект, чукнете два пъти по диагоналните точки близо до очертанията му. Когато обектът застане неподвижно, камерата ще го заснеме автоматично.</string>
     <string name="simple_mode_button_text_manual">Спри ръчен режим</string>
     <string name="pref_qc_focus_position_title">Фокусиране</string>
-    <string name="pref_front_mirror_entry_auto">Авт.</string>
+    <string name="pref_front_mirror_entry_auto">Авто</string>
     <string name="pref_front_mirror_label_auto">Автоматично</string>
     <string name="pref_front_mirror_entry_on">Включено</string>
     <string name="pref_front_mirror_entry_off">Изключено</string>
@@ -282,7 +282,7 @@
     <string name="pref_audio_focus_entry_front">Преден</string>
     <string name="pref_audio_focus_entry_rear">Заден</string>
     <string name="audio_focus_exit_button_text">Спри аудио фокуса</string>
-    <string name="pref_camera_long_press_shutter_feature_title">Натиснете и задръжте бутона на затвора</string>
+    <string name="pref_camera_long_press_shutter_feature_title">Натискане и задържане на бутона за затвора</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Фокусиране</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Серия от снимки</string>
     <string name="pref_camera_hdr_entry_auto">Авто</string>
