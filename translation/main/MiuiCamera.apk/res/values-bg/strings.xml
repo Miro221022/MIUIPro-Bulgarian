@@ -443,7 +443,7 @@
     <string name="sticker_tab1">Сладък</string>
     <string name="sticker_tab2">Забавен</string>
     <string name="user_agreement2">Условия за използване</string>
-    <string name="user_agreement4">Правила за поверителност</string>
+    <string name="user_agreement4">Политика за поверителност</string>
     <string name="user_agree">Приемам</string>
     <string name="do_not_remind_me">Не показвай отново</string>
     <string name="user_notice_identify_summary_format">"Използвайки тази услуга, вие се съгласявате със %1$s и %2$s на Xiaomi. Съгласни ли сте да се свържете с интернет?"</string>
@@ -624,4 +624,5 @@
    <string name="pref_camera_ultra_wide_mode_title">Свръхширокоъгълен режим</string>
    <string name="ultra_widem_mode_use_hint_text">"Включете свръхширокоъгълен режим, за да запишете по-широк изглед за вас.
 Разгледайте повече вълнуваща красота."</string>
+   <string name="pref_privacy_title">Политика за поверителност</string>
 </resources>
