@@ -1274,8 +1274,8 @@
     <string name="brightness_summary">Наглася яркостта на екрана</string>
     <string name="auto_brightness_title">Адаптивна яркост</string>
     <string name="auto_brightness_summary">Оптимизиране на нивото на яркостта спрямо наличната светлина</string>
-    <string name="screen_timeout">Спящ режим</string>
-    <string name="screen_timeout_title">Спящ режим</string>
+    <string name="screen_timeout">Заспиване</string>
+    <string name="screen_timeout_title">Заспиване</string>
     <string name="screen_timeout_summary">След %1$s неактивност</string>
     <string name="wallpaper_settings_title">Тапет</string>
     <string name="wallpaper_suggestion_title">Промяна на тапета</string>
