@@ -272,12 +272,12 @@
     <string name="confirm_hidden_recommend_group_message">Когато препоръките са изключени, вие все още може да използвате опцията \"Още хора, които харесват това\"</string>
     <string name="confirm_hidden_recommend_group_title">Не показвай препоръки</string>
     <string name="confirm_merge_face_albums">" "<Data> Обединяване на този албум с %s? </Data>" "</string>
-    <string name="confirm_merge_many_face_albums">" "<Data> Обединяване на този албум с %s? </Data>" "</string>
+    <string name="confirm_merge_many_face_albums">" "<Data> Обединяване на тези албуми с %s? </Data>" "</string>
     <string name="confirm_not_face">Не този човек</string>
-    <string name="confirm_recommandation_face_is">" "<Data> Сигурни ли сте, че това е &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? TТова лице ще бъде преместено в албума \"%2$s\". </Data>" "</string>
-    <string name="confirm_recommandation_face_not">" "<Data> SСигурни ли сте, че това не е &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Сигурни ли сте, че това са &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Тези лица ще бъдат преместени в албума \"%2$s\". </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Сигурни ли сте, че това не са &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Сигурни ли сте,че това е &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Този човек ще бъде преместен в албума \"%2$s\". </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data>" Сигурни ли сте,че това не е &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Сигурни ли сте,че това са &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Тези хора ще бъдат преместени в албума \"%2$s\". </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data>" Сигутни ли сте,че това не са &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data>" "</string>
     <string name="contact_tip">Контакти</string>
     <string name="context_menu_add_contact">Добави към контакти</string>
     <string name="context_menu_copy">Копирай</string>
