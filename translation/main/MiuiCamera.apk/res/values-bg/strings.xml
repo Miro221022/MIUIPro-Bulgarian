@@ -625,4 +625,7 @@
    <string name="ultra_widem_mode_use_hint_text">"Включете свръхширокоъгълен режим, за да запишете по-широк изглед за вас.
 Разгледайте повече вълнуваща красота."</string>
    <string name="pref_privacy_title">Политика за поверителност</string>
+   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
+   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
+   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
 </resources>
