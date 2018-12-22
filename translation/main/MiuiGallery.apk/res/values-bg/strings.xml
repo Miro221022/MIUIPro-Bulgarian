@@ -1429,4 +1429,6 @@
   <string name="filter_people_lilt">Ритъм</string>
   <string name="filter_people_sepia">Сепия</string>
   <string name="filter_people_tea">Чай</string>
+  <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+  <string name="collage_drawable_rect_date_month_day">dd MMM</string>
 </resources>

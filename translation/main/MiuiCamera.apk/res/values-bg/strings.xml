@@ -584,7 +584,7 @@
    <string name="accessibility_video_resume_button">продължи записа</string>
    <string name="ai_scene_top_moon_off">Режим на нощна сцена</string>
    <string name="live_speed_extreme_fast">Най-бързо</string>
-   <string name="live_speed_extreme_slow">Май-бавно</string>
+   <string name="live_speed_extreme_slow">Най-бавно</string>
    <string name="live_speed_fast">Бързо</string>
    <string name="live_speed_fragment_tab_name">Скорост</string>
    <string name="live_speed_normal">Нормално</string>
