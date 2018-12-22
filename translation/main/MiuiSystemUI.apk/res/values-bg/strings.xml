@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
-  <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
+  <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
+  <string name="abbrev_wday_month_day_no_year_alarm">dMMMEEE</string>
   <string name="abc_action_bar_home_description">Отиване в към Начало</string>
   <string name="abc_action_bar_up_description">Придвижване нагоре</string>
   <string name="abc_action_menu_overflow_description">Още опции</string>
