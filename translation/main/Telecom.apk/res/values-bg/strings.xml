@@ -283,7 +283,7 @@
   <string name="simulate_color_space">Цвет. простр.: Симулиране</string>
   <string name="strict_mode">Строг режим: Активиран</string>
   <string name="strict_mode_summary">Примигване на екрана при дълги операции в главната нишка</string>
-  <string name="telecommAppLabel">Управление на обажданията</string>
+  <string name="telecommAppLabel">Управление на повикванията</string>
   <string name="test_account_0_label">Q Mobile</string>
   <string name="test_account_0_short_description">Account with Q Mobile</string>
   <string name="test_account_1_label">Market Wireless</string>
@@ -366,5 +366,5 @@
   <string name="wifi_verbose_logging">„Многословно“ регистр. на Wi‑Fi: Актив.</string>
   <string name="wifi_verbose_logging_summary">По-подробно регистр. на Wi‑Fi – данни за RSSI на SSID в инстр. за избор на Wi‑Fi</string>
   <string name="window_animation_scale_title">Скала на аним.: Прозорец</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Изключване на TTY режима за осъществяване на видеообаждания.</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Изключване на TTY режима за осъществяване на видеоповиквания.</string>
 </resources>

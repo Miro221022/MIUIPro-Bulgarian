@@ -45,8 +45,8 @@
 	<string-array name="ios_toggle_entries"> 
         <item>По подразбиране</item> 
         <item>IOS стил</item> 
-		<item>MIUI Pro Стил</item>
-        <item>AOSP Стил</item>
+		<item>MiuiPro стил</item>
+        <item>AOSP стил</item>
     </string-array> 
     <string-array name="text_bat_color_entries">
         <item>По подразбиране</item>
