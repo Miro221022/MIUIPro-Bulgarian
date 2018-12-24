@@ -629,7 +629,7 @@
     <string name="radio_info_ping_hostname_v4">PING име на хоста (www.google.com) IPv4:</string>
     <string name="radio_info_ping_hostname_v6">PING име на хоста (www.google.com) IPv6:</string>
     <string name="radio_info_http_client_test">Тест на HTTP клиент:</string>
-    <string name="ping_test_label">Изпълняване на тест „ping“</string>
+    <string name="ping_test_label">Стартиране на Ping тест</string>
     <string name="radio_info_smsc_label">SMS център:</string>
     <string name="radio_info_smsc_update_label">Актуализиране</string>
     <string name="radio_info_smsc_refresh_label">Опресняване</string>
@@ -6085,4 +6085,27 @@ UT интерфейс: %5$s"</string>
     <string name="work_sound_permission_dialog_button_text_known">Разбрах</string>
     <string name="work_sound_permission_dialog_message">"Не можете да използвате Теми в режим Инициатива. Свържете се с вашия ръководител, за да получите достъп."</string>
     <string name="work_sound_permission_dialog_title">Ограничения в режим Инициатива</string>
+	<string name="radioInfo_menu_getIMS">Състояние на IMS услугата</string>
+	<string name="GSM_only">Само GSM</string>
+    <string name="WCDMA_only">Само WCDMA</string>
+    <string name="GSM_auto">GSM авто (ПРС)</string>
+    <string name="CDMA_auto">CDMA авто (ПРС)</string>
+    <string name="CDMA_only">Само CDMA</string>
+    <string name="EvDo_only">Само EvDo</string>
+    <string name="Global_auto">Global авто (ПРС)</string>
+    <string name="LTE_CDMA_auto">LTE/CDMA авто (ПРС)</string>
+    <string name="LTE_UMTS_auto">LTE/UMTS авто (ПРС)</string>
+    <string name="LTE_CDMA_UMTS_auto">LTE/CDMA/UMTS авто (ПРС)</string>
+    <string name="LTE_only">Само LTE</string>
+    <string name="TD_SCDMA_only">Само TD/SCDMA</string>
+    <string name="Unknown_set">Неизвестно</string>
+    <string name="Disabled_set">Деактивиран</string>
+    <string name="Immediate_set">Незабавно</string>
+    <string name="Min_5s">Мин 5с</string>
+    <string name="Min_10s">Мин 10с</string>
+    <string name="Min_60s">Мин 60с</string>
+    <string name="allowed_set">0.0.0.0 разрешено</string>
+    <string name="not_allowed_set">0.0.0.0 неразрешено</string>
+    <string name="no_neighboring_cells">няма съседни клетки</string>
+	<string name="WCDMA_preferred">Предпочита се WCDMA</string>
 </resources>
