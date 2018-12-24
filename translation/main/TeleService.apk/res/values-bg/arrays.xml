@@ -228,7 +228,7 @@
     </string-array>
     <string-array name="call_backlight_entries">
         <item>Само входящи повиквания</item>
-        <item>След отговаряне на обаждане</item>
+        <item>След отговаряне на повикване</item>
         <item>Винаги с входящите</item>
         <item>Винаги с изходящите</item>
     </string-array>
