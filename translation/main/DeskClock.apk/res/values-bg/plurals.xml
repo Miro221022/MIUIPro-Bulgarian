@@ -48,4 +48,20 @@
       <item quantity="other">Алармата ще се изключи %2$s пъти (%1$s мин.)</item>
       <item quantity="one">Алармата ще се изключи %2$s път (%1$s мин.)</item>
    </plurals>
+       <plurals name="day">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+	<plurals name="hour">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d дни</item>
+        <item quantity="one">%1$d ден</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
 </resources>

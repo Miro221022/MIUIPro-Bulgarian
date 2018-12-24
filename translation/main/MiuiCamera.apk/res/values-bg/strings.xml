@@ -512,9 +512,9 @@
     <string name="beauty_mode_reset_toast">Премахнати са ефектите за ремоделиране</string>
     <string name="beauty_reset">Нулиране</string>
     <string name="capture_back_pressed_hint">Докоснете отново, за да излезете</string>
-    <string name="edit_eyebrow_dye">Подчертаване на вежди</string>
-    <string name="edit_jelly_lips">Желирани устни</string>
-    <string name="eye_light">Светлината на очите</string>
+    <string name="edit_eyebrow_dye">Вежди</string>
+    <string name="edit_jelly_lips">Гланц за устни</string>
+    <string name="eye_light">Светлина на очите</string>
     <string name="eye_light_angel">Ангелска светлина</string>
     <string name="eye_light_comic">Комична светлина</string>
     <string name="eye_light_crescent">Светлина от полумесец</string>
@@ -628,4 +628,10 @@
    <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
    <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
    <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
+   <string name="live_music_change_bgm">Замяна на музика</string>
+   <string name="live_music_downloading_tips">Изтегляне...</string>
+   <string name="live_music_hot_title">Популярна музика</string>
+   <string name="live_music_local_title">Локална музика</string>
+   <string name="live_music_network_exception">Аномалия в мрежата</string>
+   <string name="live_music_network_exception_tips">Аномалии в мрежата, моля, опитайте отново</string>
 </resources>

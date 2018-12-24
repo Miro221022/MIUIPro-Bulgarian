@@ -2,7 +2,7 @@
 <resources>
   <string name="add_alarm">Добавяне</string>
   <string name="add_timezone_title">Добави часова зона</string>
-  <string name="alarm_alert_alert_silenced">Будилника спира след %d минути.</string>
+  <string name="alarm_alert_alert_silenced">Заглушаване на алармата след %1$s.</string>
   <string name="alarm_alert_snooze_set">Повтори сигнала след %d минути.</string>
   <string name="alarm_ascending_mode_summary">Звукът на будилника се увеличава до максималния зададен.</string>
   <string name="alarm_ascending_mode_title">Повишаване на звука</string>
@@ -144,7 +144,7 @@
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Чукнете екрана, за да спре звъненето</string>
   <string name="timer_alarm_dot_matrix_label">Таймер</string>
-  <string name="timer_alert_alert_silenced">Будилника ще спре след %d минути.</string>
+  <string name="timer_alert_alert_silenced">Заглушаване на таймера след %1$s.</string>
   <string name="timer_clock_alert_text">Моля, задайте таймер</string>
   <string name="timer_continue">Продължи</string>
   <string name="timer_got_it">ОК</string>
@@ -180,11 +180,11 @@
   <string name="dynamic_alarm_speech">Интелигентна аларма</string>
   <string name="edit_alarm">Редактиране на аларма</string>
   <string name="module_download_cancel">Не благодаря</string>
-  <string name="module_download_data_msg">"Часовникът трябва да се свърже с интернет, за да изтегли (20МБ) допълнителни аудиофайлове за звуци от околкната среда и интелигентни аларми.В момента използвате мобилни данни.Ще разрешите ли?"</string>
-  <string name="module_download_data_msg_golbal">Часовникът трябва да изтегли (20МБ) допълнителни аудиофайлове за звуци от околната среда и интелигентни аларми.В момента използвате мобилни данни.Ще разрешите ли?</string>
+  <string name="module_download_data_msg">Часовник трябва да се свърже с интернет, за да изтегли аудио файлове за MIUI 10 метеорологични аларми и таймери със звуци от околната среда. За това изтегляне ще са необходими 20MB от мобилните ви данни. Съгласни ли сте?</string>
+  <string name="module_download_data_msg_golbal">Часовник трябва да изтегли аудио файлове за MIUI 10 метеорологични аларми и таймери със звуци от околната среда. За това изтегляне ще са необходими 20MB от мобилните ви данни. Съгласни ли сте?</string>
   <string name="module_download_fail">"Не могат да се изтеглят допълнителни аудиофайлове"</string>
-  <string name="module_download_msg">"Часовникът трябва да се свърже с интернет, за да изтегли допълнителни аудиофайлове за звуци от околната среда и интелигентни аларми.Разрешаване?"</string>
-  <string name="module_download_msg_golbal">Часовникът трябва да изтегли допълнителни аудиофайлове за звуци от околната среда и интелигентни аларми. Разрешаване?</string>
+  <string name="module_download_msg">Часовник трябва да се свърже с интернет, за да изтегли аудио файлове за MIUI 10 метеорологични аларми и таймери със звуци от околната среда. Съгласни ли сте?</string>
+  <string name="module_download_msg_golbal">Часовник трябва да изтегли аудио файлове за MIUI 10 метеорологични аларми и таймери със звуци от околната среда. Съгласни ли сте?</string>
   <string name="module_download_no_network">"Неуспешно свързване с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
   <string name="module_download_ok">Разрешаване</string>
   <string name="module_download_success">Успешно изтегляне на допълнителни звуци</string>
@@ -212,7 +212,7 @@
   <string name="worldclock_world_time">Часови зони</string>
   <string name="worldcolock_timezone_current">Текуща: %1$s</string>
   <string name="worldcolock_timezone_date">dd MMM</string>
-  <string name="worldcolock_timezone_gap">Час</string>
+  <string name="worldcolock_timezone_gap">%s Ч</string>
   <string name="worldcolock_timezone_local">Същото като местното време</string>
   <string name="open_keep_screen">Екранът ще бъде запазен</string>
   <string name="shut_down_keep_screen">"Екранът няма да бъде запазен"</string>
@@ -239,4 +239,5 @@
   <string name="snooze_duration_title">Отлагане</string>
   <string name="snooze_duration_value">Интервал (минути)</string>
   <string name="check_theme_app_install">Уверете се, че приложението Теми е инсталирано на устройството ви.</string>
+  <string name="check_voice_assist_app_version">Актуализирайте Mi AI до последната му версия.</string>
 </resources>
