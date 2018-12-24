@@ -3,7 +3,7 @@
   <string name="4G_LTE_title">Покажи LTE вместо 4G</string>
   <string name="airplane_icon_title">Скриване на иконата на самолетен режим</string>
   <string name="alarm_icon_title">Скриване на икона за аларма</string>
-  <string name="alpha_build">\nAlpha</string>
+  <string name="alpha_build">\nАлфа</string>
   <string name="animation_framing_title">Честота на кадрите</string>
   <string name="bar_name_title">Скриване на етикетите на иконите в дока</string>
   <string name="bar_shadow_title">Скриване на отражението на иконата</string>
@@ -95,7 +95,7 @@
   <string name="smartscreen_on">Таймера е активен само когато екрана е изключен</string>
   <string name="smarttimer">Таймер за свързване</string>
   <string name="sound_icon_title">Скриване на иконата за звук</string>
-  <string name="stable_build">\nStable</string>
+  <string name="stable_build">\nСтабилна</string>
   <string name="status_bar_network_speed_title">Интервал на обновяване</string>
   <string name="status_bar_screen_button_key">Екранни бутони</string>
   <string name="status_bar_settings_show_network_speed_zero_hide">Скриване на индикатора за скорост на връзката при нулеви стойности</string>
