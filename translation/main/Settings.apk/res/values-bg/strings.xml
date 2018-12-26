@@ -4304,10 +4304,10 @@
     <string name="application_item_already_permission">Разрешено</string>
     <string name="application_forbid_auto_startup">Забранете на %s стартиране във фонов режим</string>
     <string name="application_permission_manager">Разрешения на приложенията</string>
-    <string name="floating_window_switch_label">Показвай изскачащи прозорци</string>
-    <string name="floating_window_switch_label_disable">Скрий изскачащите прозорци</string>
-    <string name="app_floating_window_dlg_enable">За включването на настройката за изскачащи прозорци от %1$s е необходим рестарт на приложението. Ще ги включите ли.</string>
-    <string name="app_floating_window_dlg_disable">За включването на настройката за изскачащи прозорци от %1$s е необходим рестарт на приложението. Ще ги включите ли.</string>
+    <string name="floating_window_switch_label">Показвай плаващи прозорци</string>
+    <string name="floating_window_switch_label_disable">Изключи плаващите прозорци</string>
+    <string name="app_floating_window_dlg_enable">За включването на настройката за плаващи прозорци от %1$s е необходим рестарт на приложението. Ще ги включите ли.</string>
+    <string name="app_floating_window_dlg_disable">За включването на настройката за плаващи прозорци от %1$s е необходим рестарт на приложението. Ще ги включите ли.</string>
     <string name="wps_category">WPS Сигурност</string>
     <string name="wps_connect_title">Свързване чрез WPS</string>
     <string name="wps_connect_summary">Уверете се, че рутера поддържа WPS режим</string>

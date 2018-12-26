@@ -342,7 +342,7 @@
     <string name="main_primary_message_leisure_alert">Предупреждение за слаб трафик</string>
     <string name="main_primary_message_leisure_overlimit">Достигнат лимит при слаб трафик</string>
     <string name="main_alert_message_open_traffic_ctrl">Препоръчваме да ограничите използването на мобилни данни</string>
-    <string name="main_open_traffic_ctrl_button">Ограничаване на използваните данни</string>
+    <string name="main_open_traffic_ctrl_button">Ограничаване използването на данни</string>
     <string name="main_today_used">Използвани днес</string>
     <string name="main_month_used">План за данни</string>
     <string name="main_leisure_remained">Оставаш лимит на слаб трафик</string>
@@ -427,7 +427,7 @@
     <string name="pref_adjust_traffic_data">Задаване на изп. на данни</string>
     <string name="pref_category_title_other">Допълнитени настройки</string>
     <string name="pref_title_update_notification">Показване на известия за трафика</string>
-    <string name="pref_title_diagnostics_show_float_notification">Изскачащи известия</string>
+    <string name="pref_title_diagnostics_show_float_notification">Плаващи известия</string>
     <string name="pref_title_traffic_speed_state">Показване на скороста на мрежата</string>
     <string name="pref_title_declaration">Отказ от отговорност</string>
     <string name="pref_new_installed_preconfig_title">Стандартни настройки за нови приложения</string>
@@ -536,7 +536,7 @@
     <string name="data_usage_protected_dialog_message">"MIUI изключи мобилните данни, за да предотврати генерирането на допълнителни такси от оператора.
 
 Вашият оператор може да ви таксува за допълнително, ако отново включите мобилните данни."</string>
-    <string name="lock_screen_traffic_warn_title">Известия на закл. екран</string>
+    <string name="lock_screen_traffic_warn_title">Известия на заключен екран</string>
     <string name="lock_screen_traffic_notify_body">Заключен за %2$s на %1$s, изп. данни %3$s</string>
     <string name="timeshow_s">%dс</string>
     <string name="timeshow_m">%dм</string>
@@ -679,9 +679,9 @@
     <string name="five_percent_total_pkg">%s (5%% от месечния ви план за данни)</string>
     <string name="ten_percent_total_pkg">%s (10%% от месечния ви план за данни)</string>
     <string name="customize_limit_pkg">%s(Потребителско)</string>
-    <string name="lock_screen_warning_category">Известия на закл. екран</string>
-    <string name="lock_screen_warning_switch_title">Показвай известия на закл. екран</string>
-    <string name="lock_screen_warning_switch_summary">Показвай предупреждения на закл. екран когато използваните данни надвишат дадена стойност</string>
+    <string name="lock_screen_warning_category">Известия на заключен екран</string>
+    <string name="lock_screen_warning_switch_title">Показвай известия на заключен екран</string>
+    <string name="lock_screen_warning_switch_summary">Показвай предупреждения на заключен екран когато използваните данни надвишат дадена стойност</string>
     <string name="lock_screen_warning_value">Предупреждение за данни</string>
     <string name="pref_normal_traffic_limit">Когато планът за данни е изразходван</string>
     <string name="pref_over_traffic_limit">Когато сте надвишили вашия лимит за данни</string>
@@ -1571,7 +1571,7 @@
     <string name="title_xiaomi_roaming">Виртуална SIM</string>
     <string name="summary_xiaomi_roaming">Само за Китай.</string>
     <string name="toast_network_switch">Разрешено</string>
-    <string name="toast_flow_notification">Известията за използване на данни са вкл.</string>
+    <string name="toast_flow_notification">Известията за използване на данни са включени</string>
     <string name="toast_auto_traffic_correct">Използването на данни е автоматично настроено</string>
     <string name="toast_show_notification">Показвай в лентата с известия</string>
     <string name="toast_cleaner_cloudscan">Почистване ще използва онлайн дефинициите</string>
@@ -1738,7 +1738,7 @@
     <string name="ac_notification_contentText">Докоснете, за да включите</string>
     <string name="ac_pre_notification_contentText">Защитете вашата лична информация</string>
     <string name="ac_post_notification_contentText">Получете защита на ниво система</string>
-    <string name="notification_masked_subtitle">Скрий известията от приложенията, защитени от Закл. приложения</string>
+    <string name="notification_masked_subtitle">Скрий известията от приложенията, защитени от Заключване на приложения</string>
     <string name="ac_enter_applock">Вход в Заключени на приложения</string>
     <string name="ac_mask_all_apps">Скрий за всички приложения</string>
     <string name="ac_unmask_all_apps">Покажи за всички приложения</string>
@@ -1933,7 +1933,7 @@
     <string name="app_manager_permission_manager_title">Разрешения</string>
     <string name="app_manager_permission_notify_title">Известия</string>
     <string name="app_manager_permission_power_saving_title">Икономия на батерия</string>
-    <string name="app_manager_default_open_title">Почисти по подразбиране</string>
+    <string name="app_manager_default_open_title">Изчистване на настройките по подразбиране</string>
     <string name="app_manager_default_close_summary">Няма настройки по подразбиране.</string>
     <string name="app_manager_default_open_summary">Вие избрахте това приложение да стартира по подразбиране за някои действия.</string>
     <string name="app_manager_app_version_name">Версия:</string>
@@ -1971,12 +1971,12 @@
     <string name="app_manger_des_separator">", "</string>
     <string name="app_manager_disable">Не е разрешено</string>
     <string name="app_manager_notify_bar">Значки</string>
-    <string name="app_manager_notify_floating">Изскачащи известия</string>
+    <string name="app_manager_notify_floating">Плаващи известия</string>
     <string name="app_manager_notify_keyguard">Заключен екран</string>
     <string name="app_manager_factory_reset">Деинсталиране на актуализациите</string>
     <string name="app_manager_factory_reset_dlg_title">Деинсталиране на актуализациите?</string>
     <string name="app_manager_factory_reset_dlg_msg">Всички актуализации на системните приложения ще бъдат деинсталирани.</string>
-    <string name="app_manager_system_mobile_disable">Изкл на мобилни данни</string>
+    <string name="app_manager_system_mobile_disable">Изключи мобилни данни</string>
     <string name="app_managere_not_have_app">Празно</string>
     <string name="app_manager_pref_ads">Препоръчани</string>
     <string name="install">Инсталирайте</string>
@@ -2001,7 +2001,7 @@
     <string name="app_manager_disable_dlg_text">Ако изключите това приложение, други приложения може да не работят правилно.</string>
     <string name="app_manager_disabled">Деактивирано</string>
     <string name="app_manager_enabled">Активирано</string>
-    <string name="app_manager_globel_perm_title">Разрешения за приложения</string>
+    <string name="app_manager_globel_perm_title">Разрешения за приложението</string>
     <string name="app_manager_globel_perm_summary">Управление на разрешенията, свързани с местоположение, хранилище, телефон, съобщения и контакти.</string>
     <string name="app_manager_globel_other_perm_title">Други разрешения</string>
     <string name="app_manager_uninstall_protected_dlg_title">Деинстл. на системни приложения</string>
@@ -2483,7 +2483,7 @@
     <string name="deep_power_save_item_title_bluetooth">Изключи Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Заспиване на екрана</string>
 	<string name="notify_channel_mipush">Изскачаши съобщения</string>
-    <string name="notify_channel_optimize">Известия</string>
+    <string name="notify_channel_optimize">Известия за сигурност</string>
 	<string name="applock_face_unlock_summary">Отключване на приложения, чрез лицеви данни</string>
     <string name="applock_face_unlock_title">Отключване с лице</string>
     <string name="applock_function_base_settings">Заключване на приложения</string>
