@@ -33,8 +33,8 @@
         <item quantity="one">Заглушаване след %d минута</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
-        <item quantity="other">Да се изтрият ли избраните будилници?</item>
-        <item quantity="one">Да се изтрие ли този будилник?</item>
+        <item quantity="other">Да се изтрият ли избраните аларми?</item>
+        <item quantity="one">Да се изтрие ли тази аларма?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
         <item quantity="other">Да се изтрият ли избраните часови зони?</item>
