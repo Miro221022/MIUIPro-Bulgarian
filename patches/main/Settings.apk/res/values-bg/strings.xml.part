@@ -170,4 +170,5 @@
   <string name="aod_style_clock_title">AOD стил на часа</string>
   <string name="support_density_font_title">Зависимост на шрифта от dpi</string>
   <string name="icon_app_color_title">Цветни икони за известията</string>
+  <string name="volume_gravity_title">Разположение на лентата за звука</string>
 </resources>

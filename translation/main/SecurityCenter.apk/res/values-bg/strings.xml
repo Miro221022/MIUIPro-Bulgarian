@@ -2505,4 +2505,6 @@
     <string name="face_unlock_verity_dialog_title_succeed">Потвърдено успешно</string>
     <string name="fingerprint_to_lock_summary">Отключване на приложения, чрез пръстов отпечатък</string>
     <string name="unlock_failed">Вътрешна грешка</string>
+	<string name="app_manager_full_screen_summary">Разрешаване на избраните приложения да работят в режим на цял екран</string>
+	<string name="app_manager_full_screen_title">Режим на цял екран</string>
 </resources>
