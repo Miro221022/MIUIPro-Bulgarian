@@ -6108,4 +6108,5 @@ UT интерфейс: %5$s"</string>
     <string name="not_allowed_set">0.0.0.0 неразрешено</string>
     <string name="no_neighboring_cells">няма съседни клетки</string>
 	<string name="WCDMA_preferred">Предпочита се WCDMA</string>
+	<string name="set_peeking_duration_title">Показване на икони</string>
 </resources>

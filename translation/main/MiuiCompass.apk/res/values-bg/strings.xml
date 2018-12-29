@@ -63,4 +63,5 @@
     <string name="open_perm_title">Необходими са разрешения</string>
 	<string name="preference_other">Други</string>
     <string name="preference_privacy_title">Политика за поверителност</string>
+	<string name="compass_settings">Настройки</string>
 </resources>
