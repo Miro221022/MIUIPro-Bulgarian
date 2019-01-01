@@ -4211,7 +4211,7 @@
     <string name="vpn_enable">VPN</string>
     <string name="vpn_dns_servers_hint">Например 8.8.8.8</string>
     <string name="vpn_routes_hint">напр. 10.0.0.0/8</string>
-    <string name="sync_wifi_label">Настройки на Wi-Fi синхр.</string>
+    <string name="sync_wifi_label">WLAN настройки</string>
     <string name="wifi_enable">Wi-Fi</string>
     <string name="bluetooth_enable">Включи Bluetooth</string>
     <string name="sync_enable">Включи синхронизацията</string>
