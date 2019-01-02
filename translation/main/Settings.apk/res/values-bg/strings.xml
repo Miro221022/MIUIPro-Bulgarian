@@ -32,12 +32,12 @@
     <string name="bluetooth_disconnected">Не е свързан</string>
     <string name="bluetooth_disconnecting">Прекъсване…</string>
     <string name="bluetooth_connecting">Свързване…</string>
-    <string name="bluetooth_connected">Свързан %1$s</string>
+    <string name="bluetooth_connected">Свързан</string>
     <string name="bluetooth_pairing">Сдвояване…</string>
     <string name="bluetooth_connected_no_headset">Свързан (без телефон)</string>
-    <string name="bluetooth_connected_no_a2dp">Свързан (няма медия) %1$s</string>
-    <string name="bluetooth_connected_no_map">Свързан (няма достъп до съобщения) %1$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (няма телефон или медия) %1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Свързан (няма медия)</string>
+    <string name="bluetooth_connected_no_map">Свързан (няма достъп до съобщения)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (няма телефон или медия)</string>
     <string name="bluetooth_profile_a2dp">Аудио медия</string>
     <string name="bluetooth_profile_headset">Аудио от телефон</string>
     <string name="bluetooth_profile_opp">Прехвърляне на файлове</string>
@@ -85,7 +85,7 @@
     <string name="data_usage_uninstalled_apps">Деинсталирани приложения</string>
     <string name="data_usage_uninstalled_apps_users">Деинсталирани приложения и изтрити потребители</string>
     <string name="tether_settings_title_usb">USB споделяне на връзката</string>
-    <string name="tether_settings_title_wifi">Преносима точка за достъп до Wi-Fi</string>
+    <string name="tether_settings_title_wifi">Преносима точка за достъп</string>
     <string name="tether_settings_title_bluetooth">Bluetooth споделяне на връзката</string>
     <string name="tether_settings_title_usb_bluetooth">Споделяне на връзката</string>
     <string name="tether_settings_title_all">Тетъринг и пренос. точка за достъп</string>
@@ -537,8 +537,8 @@
     <string name="bluetooth_scan_for_devices">Сканиране за устройства</string>
     <string name="bluetooth_rename_device">Преименуване на устройството</string>
     <string name="bluetooth_rename_button">Преименуване</string>
-    <string name="bluetooth_disconnect_title">Да се изключи ли?</string>
-    <string name="bluetooth_disconnect_all_profiles">Това ще прекрати връзката ви със:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_disconnect_title">Прекъсване на връзката?</string>
+    <string name="bluetooth_disconnect_all_profiles">Това ще прекрати връзката с:&lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="bluetooth_empty_list_user_restricted">Нямате разрешение да променяте настройките за Bluetooth.</string>
     <string name="bluetooth_is_visible_message">При отворени настройки за Bluetooth устройствата в района ще виждат „%1$s“.</string>
     <string name="bluetooth_is_disconnect_question">Да се прекрати ли връзката с/ъс %1$s?</string>
@@ -1096,9 +1096,9 @@
     <string name="wifi_eap_anonymous">Анонимна самоличност</string>
     <string name="wifi_password">Парола</string>
     <string name="wifi_show_password">Показване на паролата</string>
-    <string name="wifi_ap_band_config">Избиране на честота на точката за достъп</string>
-    <string name="wifi_ap_choose_2G">Честота при 2,4 ГХц</string>
-    <string name="wifi_ap_choose_5G">Честота при 5 ГХц</string>
+    <string name="wifi_ap_band_config">Честота на точката за достъп</string>
+    <string name="wifi_ap_choose_2G">Честота 2,4 ГХц</string>
+    <string name="wifi_ap_choose_5G">Честота 5 ГХц</string>
     <string name="wifi_ip_settings">Настройки за IP</string>
     <string name="wifi_shared">Споделяне с другите потребители на устройството</string>
     <string name="wifi_unchanged">(непроменен)</string>
@@ -1169,7 +1169,7 @@
     <string name="wifi_p2p_remembered_groups">Запомнени групи</string>
     <string name="wifi_p2p_failed_connect_message">Не можа да се свърже.</string>
     <string name="wifi_p2p_failed_rename_message">Преименуването на устройството не бе успешно.</string>
-    <string name="wifi_p2p_disconnect_title">Да се изключи ли?</string>
+    <string name="wifi_p2p_disconnect_title">Прекъсване на връзката?</string>
     <string name="wifi_p2p_disconnect_message">Ако прекъснете връзката, ще се прекрати и установената със: %1$s.</string>
     <string name="wifi_p2p_disconnect_multiple_message">Ако прекъснете връзката, ще се прекрати и установената със: %1$s и още %2$s устройства.</string>
     <string name="wifi_p2p_cancel_connect_title">Да се анулира ли поканата?</string>
@@ -1182,7 +1182,7 @@
     <string name="wifi_tether_stopping">Точката за достъп се изключва…</string>
     <string name="wifi_tether_enabled_subtext">Активна преносима точка за достъп до %1$s</string>
     <string name="wifi_tether_failed_subtext">Грешка на преносимата точка за достъп до Wi-Fi</string>
-    <string name="wifi_tether_configure_ap_text">Настройка на точката за достъп до Wi-Fi</string>
+    <string name="wifi_tether_configure_ap_text">Настройка на преносимата точка за достъп</string>
     <string name="wifi_hotspot_configure_ap_text">Точка за достъп до Wi‑Fi: Настр.</string>
     <string name="wifi_hotspot_configure_ap_text_summary">Пренос. точка за достъп AndroidAP с WPA2 PSK</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s преносима точка за достъп</string>
@@ -4213,7 +4213,7 @@
     <string name="vpn_routes_hint">напр. 10.0.0.0/8</string>
     <string name="sync_wifi_label">WLAN настройки</string>
     <string name="wifi_enable">Wi-Fi</string>
-    <string name="bluetooth_enable">Включи Bluetooth</string>
+    <string name="bluetooth_enable">Bluetooth</string>
     <string name="sync_enable">Включи синхронизацията</string>
     <string name="accessibility_enable">Позволи достъп</string>
     <string name="development_enable">Опции на програмиста</string>
