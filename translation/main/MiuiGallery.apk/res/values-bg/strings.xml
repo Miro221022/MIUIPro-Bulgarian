@@ -1431,4 +1431,17 @@
   <string name="filter_people_tea">Чай</string>
   <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
   <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+  <string name="channel_default_name">Нови функции</string>
+  <string name="channel_low_name">Нови съобщения</string>
+  <string name="channel_min_name">Известия за приложения</string>
+  <string name="filter_bi_bw">Б/Ч</string>
+  <string name="filter_bi_dusk">Здрач</string>
+  <string name="filter_bi_lilt">Ритъм</string>
+  <string name="filter_bi_sepia">Сепия</string>
+  <string name="filter_bi_tea">Чай</string>
+  <string name="motion_photo_play">Изпълни</string>
+  <string name="movie_content_describe_add">Добавяне на снимки</string>
+  <string name="movie_content_describe_delete">Изтриване на снимки</string>
+  <string name="movie_content_describe_pause">Пауза</string>
+  <string name="movie_content_describe_play">Изпълни</string>
 </resources>

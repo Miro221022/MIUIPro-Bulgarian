@@ -480,4 +480,6 @@
   <string name="train_event_station_header_name">Име на спирката</string>
   <string name="train_event_station_header_stay_time">Престой</string>
   <string name="train_event_station_stay_time">%1$s минути</string>
+  <string name="notification_channel_name">Напомняния за календара</string>
+  <string name="search_menu_title">Търсене</string>
 </resources>

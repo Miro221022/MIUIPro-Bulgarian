@@ -1538,6 +1538,7 @@
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
+		<item>Qualcomm® aptX™ Адаптивно аудио</item>
         <item>Активиране на опционални кодеци</item>
         <item>Деактивиране на опционалните кодеци</item>
     </string-array>
@@ -1607,5 +1608,16 @@
         <item>Събуждане на екрана</item>
         <item>Показване на анимация</item>
         <item>"Без пробуждане на екрана"</item>
+    </string-array>
+	    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Системен избор (По подразбиране)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+		<item>Qualcomm® aptX™ Адаптивно аудио</item>
+        <item>Активиране на опционални кодеци</item>
+        <item>Деактивиране на опционалните кодеци</item>
     </string-array>
 </resources>

@@ -6109,4 +6109,5 @@ UT интерфейс: %5$s"</string>
     <string name="no_neighboring_cells">няма съседни клетки</string>
 	<string name="WCDMA_preferred">Предпочита се WCDMA</string>
 	<string name="set_peeking_duration_title">Показване на икони</string>
+	<string name="switch_select_to_speak_on">Изберете, за да говорите</string>
 </resources>

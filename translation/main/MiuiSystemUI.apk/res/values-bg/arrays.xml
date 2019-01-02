@@ -243,4 +243,26 @@
     <item>Скала на анимации 5x</item>
     <item>Скала на анимации 10x</item>
   </string-array>
+      <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Системен избор (по подазбиране)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Адаптивно аудио</item>
+        <item>Активиране на допълнителни кодеци</item>
+        <item>Деактивиране на допълнителни кодеци</item>
+    </string-array>
+		  <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Системен избор (по подазбиране)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Адаптивно аудио</item>
+        <item>Активиране на допълнителни кодеци</item>
+        <item>Деактивиране на допълнителни кодеци</item>
+    </string-array>
 </resources>

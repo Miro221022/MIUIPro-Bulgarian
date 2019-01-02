@@ -191,4 +191,8 @@
 	<string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
 	<string name="self_device_main_space">"Първото пространство в телефона"</string>
 	<string name="self_device_second_space">"Второ пространство в телефона"</string>
+	<string name="restore_finish_description">Възстановяването приключи</string>
+    <string name="restore_init_description">Старт на възстановяването</string>
+    <string name="restoring_file_title_no_progress">Възстановяване на файлове…</string>
+    <string name="restoring_settings">Възстановяване на настройките…</string>
 </resources>
