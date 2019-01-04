@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="act_find_city_hint">Въведете място</string>
-    <string name="act_find_city_hot_attractions_title">Популярни места</string>
+    <string name="act_find_city_hot_attractions_title">Популярни градове</string>
     <string name="act_find_city_hot_city_title">Популярни градове</string>
     <string name="act_location_error_to_find_city">Неуспешно получаване на информация за местоположението. Можете да добавите град ръчно.</string>
     <string name="act_set_city_find_side">Локализиране</string>
@@ -22,7 +22,7 @@
     <string name="activity_main_pub_time">Публикувано на %1$s</string>
     <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Обновено %1$s</string>
-    <string name="activity_main_update_time_expire">Инф. не е актуална</string>
+    <string name="activity_main_update_time_expire">Информацията не е актуална</string>
     <string name="activity_main_update_time_right_now">Току-що</string>
     <string name="activity_minute_rain_location_fail_msg">Местоположението не е налично. Ще се показва Пекин по подразбиране.</string>
     <string name="add_city">Добавяне</string>
@@ -59,7 +59,7 @@
     <string name="aqi_top_pollution">Главни замърсители</string>
     <string name="button_abandon">Отмяна на промените</string>
     <string name="button_add_city">Добавяне на място</string>
-    <string name="button_allow">Позволи</string>
+    <string name="button_allow">OK</string>
     <string name="button_confirm">Приемам</string>
     <string name="button_exit">Не приемам</string>
     <string name="button_not_allow">Забрани</string>
@@ -93,8 +93,8 @@
     <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Не можа да се получи информация за времето
 Издърпайте надолу, за да обновите или проверете мрежовите настройки"</string>
-    <string name="data_provided_by">Информацията е предоставена отчасти от</string>
-    <string name="edit_city">Manage cities</string>
+    <string name="data_provided_by">Данните са предоставени частично от</string>
+    <string name="edit_city">Управление на градове</string>
     <string name="empty">" "</string>
     <string name="empty_view_net_loading">Актуализиране…</string>
     <string name="empty_view_net_unavailable">Няма връзка с мрежата</string>
@@ -102,14 +102,14 @@
     <string name="eu_region_version_first_start_network_msg">С използването на този продукт, Вие се съгласявате с това, че този продукт ще се свързва с мрежата, ще събира, обработва и използва Вашите лични данни, включително и координатите на търсените от Вас градове, както и други видове данни, описани в нашата Политика на поверителност. Запознайте се с нашата Политика на поверителност, за да разберете как събираме и обработваме информация. С натискане на \"Съгласявам се\" Вие приемате %1$s и %2$s на Xiaomi.</string>
     <string name="feedback_cloudy">Облачно</string>
     <string name="feedback_foggy">Мъгливо</string>
-    <string name="feedback_haze">Замъгленост</string>
+    <string name="feedback_haze">Мараня</string>
     <string name="feedback_moderate_rain">Преваляване</string>
     <string name="feedback_moderate_snow">Сняг</string>
     <string name="feedback_overcast">Облачно</string>
     <string name="feedback_report_privacy_msg">Отчетът ще съдържа информация за Вашето местоположение</string>
     <string name="feedback_result_fail_no_choice">Изберете текущата прогноза за време</string>
     <string name="feedback_result_success">Успешно изпратен доклад за грешки, благодарим Ви.</string>
-    <string name="feedback_sandy">Слънчево</string>
+    <string name="feedback_sandy">Прашно</string>
     <string name="feedback_sunny">Ясно</string>
     <string name="first_start_network_title">Известие за свързване</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
@@ -149,7 +149,7 @@
     <string name="minute_rain_after_two_hour">В рамките на 2 часа</string>
     <string name="minute_rain_feedback_subtitle">Кажете ни какво е времето сега.</string>
     <string name="minute_rain_feedback_text">Доклад за грешки</string>
-    <string name="minute_rain_feedback_title">Информацията за времето е неправилна.</string>
+    <string name="minute_rain_feedback_title">Информацията за времето е неправилна?</string>
     <string name="minute_rain_let_go_refresh">Пуснете за да се опресни</string>
     <string name="minute_rain_no_data">Няма данни</string>
     <string name="minute_rain_now">Сега</string>
@@ -172,7 +172,7 @@
     <string name="particulate_matter_not_exceeded">Нормално</string>
     <string name="particulate_matter_serious_exceeded">Прекалено високо</string>
     <string name="policy_settings">Условия за ползване</string>
-    <string name="precipitation_degree_five">Мн. силно</string>
+    <string name="precipitation_degree_five">Много силно</string>
     <string name="precipitation_degree_four">Силно</string>
     <string name="precipitation_degree_one">Няма</string>
     <string name="precipitation_degree_three">Средно</string>
@@ -241,9 +241,9 @@
     <string name="unit">Мерни еденици</string>
     <string name="unit_temperature">Температура</string>
     <string name="unit_wind">Сила на вятъра</string>
-    <string name="update_night_setting_summary_text">Актуализирай инф. за времето между 23:00ч и 07:00ч</string>
-    <string name="update_night_setting_title_text">Актуализирай автом. през нощта</string>
-    <string name="update_setting_title_text">Актуализиране на инф. за времето</string>
+    <string name="update_night_setting_summary_text">Актуализирай информацията за времето между 23:00ч и 07:00ч</string>
+    <string name="update_night_setting_title_text">Актуализирай автоматично през нощта</string>
+    <string name="update_setting_title_text">Актуализиране на информацията за времето</string>
     <string name="updated_a_moment_ago">Обновено преди малко</string>
     <string name="updating">Актуализиране…</string>
     <string name="user_agreement">Потребителско споразумение</string>
@@ -264,4 +264,5 @@
     <string name="update_notification_info">Актуализиране на данните на заден план…</string>
     <string name="weather_alert_channel_name">Сигнали</string>
     <string name="weather_service_channel_name">Услуги на заден план</string>
+	<string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
 </resources>

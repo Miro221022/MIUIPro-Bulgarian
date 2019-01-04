@@ -49,14 +49,14 @@
         <item>&lt;3.2кн</item>
     </string-array>
     <string-array name="hot_city">
-        <item>Beijing</item>
-        <item>Shanghai</item>
-        <item>Hong Kong</item>
-        <item>Taipei City</item>
-        <item>Jakarta</item>
-        <item>Delhi</item>
-        <item>Mumbai</item>
-        <item>Moscow</item>
+        <item>Пекин</item>
+        <item>Шанхай</item>
+        <item>Хонг Конг</item>
+        <item>Тайпе Сити</item>
+        <item>Джакарта</item>
+        <item>Делхи</item>
+        <item>Мумбай</item>
+        <item>Москва</item>
         <item>Ченай</item>
         <item>Истанбул</item>
         <item>Рио де Жанейро</item>
