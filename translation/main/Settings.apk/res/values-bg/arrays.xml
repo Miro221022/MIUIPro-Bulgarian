@@ -1620,4 +1620,12 @@
         <item>Активиране на опционални кодеци</item>
         <item>Деактивиране на опционалните кодеци</item>
     </string-array>
+	    <string-array name="usb_configuration_titles">
+        <item>Зареждане</item>
+        <item>MTP (Протокол за прехвърляне на файлове)</item>
+        <item>PTP (Протокол за прехвърляне на снимки)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Източник на звук</item>
+        <item>MIDI</item>
+    </string-array>
 </resources>

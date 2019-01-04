@@ -138,7 +138,7 @@
     <string name="bugreport_in_power">Връзка към Доклада за грешки</string>
     <string name="bugreport_in_power_summary">Добавете пряк път в меню Енергия за докладване на грешки</string>
     <string name="keep_screen_on">Постоянно включен</string>
-    <string name="keep_screen_on_summary">Екрана няма да заспива в режим на зареждане</string>
+    <string name="keep_screen_on_summary">Екранът никога няма да заспи по време на зареждане</string>
     <string name="bt_hci_snoop_log">Активиране на регистрационния файл за анализ на пакетите в команден ред за Bluetooth с протокола HCI</string>
     <string name="bt_hci_snoop_log_summary">Заснемане на всички пакети за Bluetooth с протокола HCI във файла</string>
     <string name="oem_unlock_enable">Отключване чрез оборудването на производителя</string>
@@ -240,8 +240,8 @@
     <string name="force_resizable_activities_summary">Задайте преоразмеряване на всичи дейности за многоекранен режим.</string>
     <string name="enable_freeform_support">Активиране на прозорци със свободна форма</string>
     <string name="enable_freeform_support_summary">Активиране на поддръжка на експериментални прозорци със свободна форма.</string>
-    <string name="local_backup_password_title">Резервно копие на парола за работен плот</string>
-    <string name="local_backup_password_summary_none">Архивите на работен плот’ не са защитени</string>
+    <string name="local_backup_password_title">Парола за резервно копие на начален екран</string>
+    <string name="local_backup_password_summary_none">Пълните архиви на началния екран понастоящем не са защитени</string>
     <string name="local_backup_password_summary_change">Чукнете за да промените или премахнете паролата за архивите на работния плот</string>
     <string name="local_backup_password_toast_success">Нова парола за архиви</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Паролите не си съответстват</string>
@@ -3969,7 +3969,7 @@
     <string name="delete_saved_network">Изтрий запазените мрежи</string>
     <string name="batch_delete_saved_network">Изтриване на запазените мрежи %s?</string>
     <string name="batch_delete_saved_networks">Изтриване на избраните мрежи</string>
-    <string name="unlock_set_enter_system">Директен достъп</string>
+    <string name="unlock_set_enter_system">Прескочи заключен екран</string>
     <string name="unlock_set_enter_system_summary">Заключването на екрана няма да се използва след включване на тази функция</string>
     <string name="forget_wifi_message">Вашето устройство ще спре да се свързва автоматично към тази мрежа.</string>
     <string name="button_disconnect_network">Изключване от мрежата</string>
