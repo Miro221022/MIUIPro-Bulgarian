@@ -132,9 +132,9 @@
     <string name="vpn_settings_not_available">Настройките за ВЧМ не са налице за този потребител</string>
     <string name="tethering_settings_not_available">Настройките за тетъринг не са налице за този потребител</string>
     <string name="apn_settings_not_available">Настройките за промяна на името на точката за достъп не са налице за този потребител</string>
-    <string name="enable_adb">Отстр. USB грешки</string>
-    <string name="enable_adb_summary">Режим за Отстр. USB грешки е включен</string>
-    <string name="clear_adb_keys">Отмяна на достъпа до Отстр. USB грешки</string>
+    <string name="enable_adb">USB отстраняване на грешки</string>
+    <string name="enable_adb_summary">Режим за USB отстраняване на грешки е включен</string>
+    <string name="clear_adb_keys">Отмяна на достъпа до USB отстраняване на грешки</string>
     <string name="bugreport_in_power">Връзка към Доклада за грешки</string>
     <string name="bugreport_in_power_summary">Добавете пряк път в меню Енергия за докладване на грешки</string>
     <string name="keep_screen_on">Постоянно включен</string>
@@ -168,9 +168,9 @@
     <string name="debug_view_attributes">Включете проверката на атрибути</string>
     <string name="legacy_dhcp_client_summary">Използване на DHCP клиент от Lollipop вместо от нова версия на Андроид.</string>
     <string name="mobile_data_always_on_summary">Винаги да бъдат включени мобилни данни, дори когато Wi‑Fi е активна(за по-бърза връзка).</string>
-    <string name="adb_warning_title">Разрешавате ли отстр. USB грешки?</string>
-    <string name="adb_warning_message">Отстр. USB грешки се използва само за програмиране. Използва се да копира данни между компютъра и устройството, за инсталиране на приложения без предупреждение и четене на хронологията.</string>
-    <string name="adb_keys_warning_message">Прекъсване на достъпа до Отстр. USB грешки с всички компютри, които ’ преди това са имали достъп?</string>
+    <string name="adb_warning_title">Разрешавате ли USB отстраняване на грешки?</string>
+    <string name="adb_warning_message">USB отстраняване на грешки се използва само за програмиране. Използва се да копира данни между компютъра и устройството, за инсталиране на приложения без предупреждение и четене на хронологията.</string>
+    <string name="adb_keys_warning_message">Прекъсване на достъпа до USB отстраняване на грешки с всички компютри, които ’ преди това са имали достъп?</string>
     <string name="dev_settings_warning_title">Разрешаване на настройките за програмиране?</string>
     <string name="dev_settings_warning_message">Само за програмисти. Промяната в тези настройки може да предизвика срив в работата на устройството ви и инсталираните приложения.</string>
     <string name="verify_apps_over_usb_title">Потвърждаване на приложение през usb</string>
@@ -3690,7 +3690,7 @@
     <string name="search_cloud_backup_settings_section_title">Настройки за рез. копие</string>
     <string name="search_master_clear_title">Възстановяване на заводските настройки</string>
     <string name="search_development_settings_title">Опции на програмиста;Подпомагане</string>
-    <string name="search_enable_adb">Отстр. USB грешки</string>
+    <string name="search_enable_adb">USB отстраняване на грешки</string>
     <string name="search_screenshot">Екранна снимка</string>
     <string name="search_onekey_migrate">Прехвърляне на данни;Прехвърляне с едно докосване</string>
     <string name="search_gps">GPS;Достъп до местоположение;Услуга за местоположение</string>
@@ -5554,7 +5554,7 @@ Stable"</string>
     <string name="oldman_uninstalled_btn">Инсталиране</string>
     <string name="oldman_uninstalled_des">Опростеният режим се отървава от визуалната бъркотия и подържа вашият Начален екран опростен и минималистичен.</string>
 	<string name="voice_assist">Mi AI</string>
-	<string name="select_logd_level">Изберете ниво на лога</string>
+	<string name="select_logd_level">Изберете ниво на отчета</string>
 	<string name="eq_auto">Персонализиранo</string>
     <string name="eq_blues">Блус</string>
     <string name="eq_cancel">Отказ</string>
