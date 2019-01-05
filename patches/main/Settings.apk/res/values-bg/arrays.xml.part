@@ -35,13 +35,6 @@
         <item>След 30 минути</item> 
         <item>След час</item> 
     </string-array> 
-	<string-array name="battery_indicator_style_entries"> 
-        <item>Графика</item> 
-        <item>Проценти и графика</item> 
-        <item>Линия над лентата за състоянието</item> 
-        <item>Само проценти</item> 
-        <item>Изкл.</item> 
-    </string-array> 
 	<string-array name="ios_toggle_entries"> 
         <item>По подразбиране</item> 
         <item>IOS стил</item> 
@@ -206,13 +199,13 @@
         <item>3 колони</item> 
         <item>4 колони</item> 
     </string-array>
-	<string-array name="app_assistant_entries"> 
-        <item>Google асистент</item> 
-        <item>Yandex асистент</item> 
-    </string-array>
 	<string-array name="aod_style_clock_entries"> 
         <item>Хоризонтален</item> 
         <item>Вертикален</item> 
         <item>Една линия</item> 
-</string-array>
+    </string-array>
+    <string-array name="gesture_anywhere_position_entries"> 
+        <item>Ляво</item> 
+        <item>Дясно</item> 
+    </string-array> 
 </resources>
