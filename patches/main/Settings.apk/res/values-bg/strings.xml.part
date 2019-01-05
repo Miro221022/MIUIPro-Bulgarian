@@ -171,4 +171,6 @@
   <string name="support_density_font_title">Зависимост на шрифта от dpi</string>
   <string name="icon_app_color_title">Цветни икони за известията</string>
   <string name="volume_gravity_title">Разположение на лентата за звука</string>
+  <string name="toast_appname_title">Име на приложението в изскачащите прозорци</string>
+  <string name="toast_appname_summary">Показване на името на приложението при известия за предупреждение</string>
 </resources>
