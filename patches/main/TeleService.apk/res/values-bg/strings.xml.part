@@ -50,5 +50,5 @@
 	<string name="call_windows_title">Прозорец при повикване</string>
 	<string name="background_color_title">Фон при повикване</string>
     <string name="background_color_on">По подразбиране</string>
-    <string name="background_color_off">Изп. тапет за закл. екран</string>
+    <string name="background_color_off">Изпoлзване на тапет за заключен екран</string>
 </resources>
