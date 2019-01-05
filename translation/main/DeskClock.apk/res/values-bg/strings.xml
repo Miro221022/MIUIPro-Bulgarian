@@ -117,9 +117,9 @@
   <string name="setting_alarm_arriving_summary">Изпращане на известие преди аларма</string>
   <string name="setting_alarm_arriving_title">Известие преди аларма</string>
   <string name="settings">Настройки</string>
-  <string name="shutdown_alarm_disable_summary">"Алармата няма да се изключи след изключването на устройството"</string>
-  <string name="shutdown_alarm_enable_summary">"Алармата ще се изключи, ако е настроена за поне 5 минути след изключване на устройството"</string>
-  <string name="shutdown_alarm_title">Изключване на алармата</string>
+  <string name="shutdown_alarm_disable_summary">"Алармата няма да се изпълни след изключване на устройството"</string>
+  <string name="shutdown_alarm_enable_summary">"Устройството ще се включи и алармата ще се изпълни"</string>
+  <string name="shutdown_alarm_title">Алармата при изключване на устройството</string>
   <string name="silent_alarm_summary">Без звук</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Изключи еднократно на %s</string>
@@ -163,7 +163,7 @@
   <string name="turn_off_a_repeat_alarm">Изключване на повторението</string>
   <string name="turn_off_this_repeat_alarm">Изключване на тази повтаряща се аларма</string>
   <string name="upcoming_alarm">%s Предстояща аларма</string>
-  <string name="upcoming_alarm_hint">Може да изкл алармата предварително</string>
+  <string name="upcoming_alarm_hint">Можете да изключите алармата предарително</string>
   <string name="vibrate_pref_summary">Вибрация при аларма</string>
   <string name="vibrate_when_ringing">Вибрация при звънене</string>
   <string name="volume_button_setting_summary">"Функция на бутоните за звука по време на аларма"</string>
