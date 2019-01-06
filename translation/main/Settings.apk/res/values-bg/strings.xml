@@ -1763,7 +1763,7 @@
     <string name="lock_settings_profile_unified_summary">Като опцията за заключване на екрана на устройството</string>
     <string name="manageapplications_settings_title">Управление на приложения</string>
     <string name="manageapplications_settings_summary">Управление и премахване на инсталирани приложения</string>
-    <string name="applications_settings">Приложения</string>
+    <string name="applications_settings">Управление на приложения</string>
     <string name="applications_settings_summary">Управление на приложения, задаване на преки пътища за бързо стартиране</string>
     <string name="applications_settings_header">Настройки за приложения</string>
     <string name="install_applications">Неизвестни източници</string>
@@ -4503,7 +4503,7 @@
     <string name="preferred_app_settings_reset">Възстанови по подразбиране</string>
     <string name="preferred_app_settings_reset_message">Искате ли да възстановите настройките на приложението по подразбиране?</string>
     <string name="preferred_app_settings_reset_button">Нулиране</string>
-    <string name="system_app_settings">Системни приложения</string>
+    <string name="system_app_settings">Настройки на системни приложения</string>
     <string name="connect_to_internet">Свързване с интернет</string>
     <string name="wifi_setting_category">За да активирате устройството, свържете се с Интернет</string>
     <string name="account_autostar_label">Автоматично стартирани</string>
