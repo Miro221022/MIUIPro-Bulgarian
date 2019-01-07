@@ -171,8 +171,8 @@
   </string-array>
   <string-array name="usb_configuration_titles">
     <item>Зареждане</item>
-    <item>MTP (Media Transfer Protocol)</item>
-    <item>PTP (Picture Transfer Protocol)</item>
+    <item>MTP (Протокол за прехвърляне на файлове)</item>
+    <item>PTP (Протокол за прехвърляне на снимки)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Аудио източник</item>
     <item>MIDI</item>
@@ -264,5 +264,17 @@
         <item>Qualcomm® aptX™ Адаптивно аудио</item>
         <item>Активиране на допълнителни кодеци</item>
         <item>Деактивиране на допълнителни кодеци</item>
+    </string-array>
+	<string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Активно"</item>
+        <item>" | Активно (медиа)"</item>
+        <item>" | Активно (телефон)"</item>
+    </string-array>
+	name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (По подразбиране)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
     </string-array>
 </resources>

@@ -1625,7 +1625,13 @@
         <item>MTP (Протокол за прехвърляне на файлове)</item>
         <item>PTP (Протокол за прехвърляне на снимки)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Източник на звук</item>
+        <item>Аудио източник</item>
         <item>MIDI</item>
+    </string-array>
+	<string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Активно"</item>
+        <item>" | Активно (медиа)"</item>
+        <item>" | Активно (телефон)"</item>
     </string-array>
 </resources>

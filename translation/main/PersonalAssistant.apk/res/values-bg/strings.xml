@@ -1000,4 +1000,6 @@
   <string name="cta_dialog_miot_text_all">За да сте сигурни, че може да функционира нормално, Mi Home може да се наложи да придобие вашата мрежа, местоположение, разрешение за включване на Bluetooth, да използва клетъчна мрежа, микрофон и да прочете контактите ви. Потвърждавате ли?</string>
   <string name="express_query">Следене</string>
   <string name="express_query_more">Проследете още</string>
+  <string name="notification_channel_card">Карти</string>
+  <string name="notification_channel_default">По подразбиране</string>
 </resources>

@@ -32,12 +32,12 @@
     <string name="bluetooth_disconnected">Не е свързан</string>
     <string name="bluetooth_disconnecting">Прекъсване…</string>
     <string name="bluetooth_connecting">Свързване…</string>
-    <string name="bluetooth_connected">Свързан</string>
+    <string name="bluetooth_connected">Свързан%1$s</string>
     <string name="bluetooth_pairing">Сдвояване…</string>
     <string name="bluetooth_connected_no_headset">Свързан (без телефон)</string>
-    <string name="bluetooth_connected_no_a2dp">Свързан (няма медия)</string>
-    <string name="bluetooth_connected_no_map">Свързан (няма достъп до съобщения)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (няма телефон или медия)</string>
+    <string name="bluetooth_connected_no_a2dp">Свързан (без медия)</string>
+    <string name="bluetooth_connected_no_map">Свързан (без достъп до съобщения)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (без телефон или медия)</string>
     <string name="bluetooth_profile_a2dp">Аудио медия</string>
     <string name="bluetooth_profile_headset">Аудио от телефон</string>
     <string name="bluetooth_profile_opp">Прехвърляне на файлове</string>
@@ -3882,7 +3882,7 @@
     <string name="screen_key_press_action">Стартиране на действие</string>
     <string name="screen_key_long_press">Дълго натискане на екранните бутони</string>
     <string name="screen_key_long_press_action">Функция на бутоните</string>
-    <string name="app_switch_key">Скорошни</string>
+    <string name="app_switch_key">Последни</string>
     <string name="menu_key">Бутон Меню</string>
     <string name="home_key">Бутон Начало</string>
     <string name="back_key">Бутон Назад</string>
@@ -3898,7 +3898,7 @@
     <string name="close_app">Затвори текущото приложение</string>
     <string name="split_screen">Отвори Разделен екран</string>
     <string name="show_menu">Покажи меню</string>
-    <string name="launch_recents">Стартирай Скорошни</string>
+    <string name="launch_recents">Стартирай Последни</string>
     <string name="long_press_menu_key_when_lock">Дълго натискане на бутон Меню на Заключен екран</string>
     <string name="double_click_power_key">Двойно натискане на бутон Захранване</string>
     <string name="three_gesture_down">Плъзнете надолу три пръста</string>
@@ -4692,7 +4692,7 @@ Stable"</string>
     <string name="page_layout_11">Времето</string>
     <string name="page_layout_12">Оптимизация</string>
     <string name="page_layout_13">Инструменти</string>
-    <string name="page_layout_18">Скорошни</string>
+    <string name="page_layout_18">Последни</string>
     <string name="page_layout_19">Контакти</string>
     <string name="page_layout_20">Указател</string>
     <string name="page_layout_21">182 контакти</string>
@@ -5453,7 +5453,7 @@ Stable"</string>
     <string name="open_personal_assistant_dialog_desc">Няма да можете да използвате Личен асистент и да получавате неговите актуализации. Да се изключи ли сега?</string>
     <string name="open_personal_assistant_dialog_title">Изключи Личен асистент</string>
     <string name="open_personal_assistant_title">Включи Личен асистент</string>
-    <string name="recents_config_title">Скорошни</string>
+    <string name="recents_config_title">Последни</string>
     <string name="screen_cells_config_title">Схема на Начален екран</string>
     <string name="show_mem_info_title">Покажи състоянието на рам паметта</string>
     <string name="lock_screen_secure_after_timeout_immediately_never">Никога не изисквай парола</string>
@@ -6110,4 +6110,14 @@ UT интерфейс: %5$s"</string>
 	<string name="WCDMA_preferred">Предпочита се WCDMA</string>
 	<string name="set_peeking_duration_title">Показване на икони</string>
 	<string name="switch_select_to_speak_on">Изберете, за да говорите</string>
+	<string name="eq_return">Връщане</string>
+    <string name="page_layout_confirm_message_enlarge">Текст, изображения и икони ще бъдат увеличени. Някои икони може да променят местата си.</string>
+    <string name="page_layout_confirm_message_narrow">Текст, изображения и икони ще станат по-малки. Някои икони може да променят местата си.</string>
+    <string name="page_layout_confirm_title_enlarge">По-големи елементи</string>
+    <string name="page_layout_confirm_title_narrow">По-малки елементи</string>
+    <string name="screen_optimize_disabled">"Не може да се регулира контраста, когато е включен режимът за четене"</string>
+	<string name="bluetooth_connected_battery_level">Свързан | Батерия %1$s%2$s</string>
+	<string name="bluetooth_connected_no_a2dp_battery_level">Свързан (без медия) | Батерия %1$s%2$s</string>
+	<string name="bluetooth_connected_no_headset_battery_level">Свързан (без телефон) | Батерия %1$s%2$s</string>
+	<string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Свързан (без телефон или медия) | Батерия %1$s%2$s</string>
 </resources>

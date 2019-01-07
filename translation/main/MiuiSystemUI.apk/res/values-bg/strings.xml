@@ -304,10 +304,10 @@
   <string name="block_record_notification_title">Скрити известия</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Свързан като аудио за медия</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Използва се за аудио медия</string>
-  <string name="bluetooth_connected">Свързан  %1$s</string>
-  <string name="bluetooth_connected_no_a2dp">Свързан (няма медия) %1$s</string>
-  <string name="bluetooth_connected_no_headset">Свързан (няма телефон) %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (няма телефон или медия) %1$s</string>
+  <string name="bluetooth_connected">Свързан%1$s</string>
+  <string name="bluetooth_connected_no_a2dp">Свързан (без медия) %1$s</string>
+  <string name="bluetooth_connected_no_headset">Свързан (без телефон) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (без телефон или медия) %1$s</string>
   <string name="bluetooth_connected_no_map">Свързан (няма достъп до съобщения) %1$s</string>
   <string name="bluetooth_connecting">Свързване…</string>
   <string name="bluetooth_disable_absolute_volume">Изключване на максималния звук</string>
@@ -1797,4 +1797,8 @@
    <string name="usb_port_overheated_dialog_content">Портът за зареждане е прегрял. Изключете зарядното устройство от вашето устройство и проверете дали портът за зареждане е чист. Свържете се с екипа за поддръжка, ако имате някакви въпроси.</string>
    <string name="usb_port_overheated_notification_content">Изключете зарядното устройство от вашето устройство и проверете дали портът за зареждане е чист.</string>
    <string name="usb_port_overheated_title">Портът за зареждане е прегрял. Изключете зарядното устройство.</string>
+   <string name="bluetooth_connected_battery_level">Свързан | Батерия %1$s%2$s</string>
+   <string name="bluetooth_connected_no_a2dp_battery_level">Свързан (без медия) | Батерия %1$s%2$s</string>
+   <string name="bluetooth_connected_no_headset_battery_level">Свъзан (без телефон) | Батерия %1$s%2$s</string>
+   <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Свързан (без телефон или медия) | Батерия %1$s%2$s</string>
 </resources>

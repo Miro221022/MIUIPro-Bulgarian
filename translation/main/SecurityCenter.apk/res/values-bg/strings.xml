@@ -2507,4 +2507,8 @@
     <string name="unlock_failed">Вътрешна грешка</string>
 	<string name="app_manager_full_screen_summary">Разрешаване на избраните приложения да работят в режим на цял екран</string>
 	<string name="app_manager_full_screen_title">Режим на цял екран</string>
+	<string name="traffic_setting_fragment_title_guide">Оператори и планове за данни</string>
+    <string name="traffic_usage_warning_body">"Вече сте използвали %s мобилни данни този месец."</string>
+    <string name="traffic_usage_warning_limit">Лимит за предупреждение при използване на данни</string>
+    <string name="traffic_usage_warning_title">Предупреждение за използване на данни</string>
 </resources>

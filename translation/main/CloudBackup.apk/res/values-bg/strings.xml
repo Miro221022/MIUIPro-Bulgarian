@@ -27,9 +27,9 @@
     <string name="cloud_back_up_frequence_choice_title">Резервно копие по график</string>
     <string name="cloud_back_up_frequence_long">На всеки 7 дни</string>
     <string name="cloud_back_up_frequence_short">Всеки ден</string>
-    <string name="cloud_back_up_share_activity_title">Надграждане на Mi профил</string>
-    <string name="cloud_back_up_share_activity_discription">Get more storage space, daily backups, and more.</string>
-    <string name="cloud_back_up_share_activity_confirm">Надстройка</string>
+    <string name="cloud_back_up_subscribe_vip_title">Надграждане на Mi профил</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Получете повече място за съхранение, ежедневно архивиране и още.</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Надстройка</string>
     <string name="cloud_back_up_detail_discription">"Тези елементи ще бъдат съхранени на Mi Cloud, когато устройството ви се свърже с Wi-Fi: 
 *Приложения, Начален екран и Тапети 
 *Аларма, Часовник и Настройки на часа 
