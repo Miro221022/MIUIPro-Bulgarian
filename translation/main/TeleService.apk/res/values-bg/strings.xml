@@ -1738,12 +1738,15 @@
     <string name="dc_alert_dialog_message">Някои приложения изискват мобилна връзка за данни. Можете да се свържете с оператора си, за да научите какви %s са на ваше разположение.</string>
     <string name="dc_alert_dialog_title">Предупреждение за използването на данни</string>
     <string name="do_not_show_again">"Не покзавай отново"</string>
-	<string name="opened_dual_4g_confirm_prompt_with_sim">Само SIM %1$s поддържа 4G. За да сте сигурни, че SIM картата ви работи нормално, беше включен двоен 4G режим.</string>
+	<string name="opened_dual_4g_confirm_prompt_with_sim">Само SIM %1$s поддържа 4G. За да е сигурно, че SIM картата ви работи нормално, беше включен двоен 4G режим.</string>
     <string name="change_data_sim_4g_only_prompt">"Само SIM %1$s поддържа 4G. Когато SIM %2$s не е вашата SIM по подразбиране за мобилни данни, SIM картата може да не работи нормално. Превключване сега?"</string>
     <string name="opened_dual_4g_confirm_prompt">Изглежда, че имате 4G SIM карта. Двойният 4G режим беше включен автоматично.</string>
-	<string name="dds_switch_warning_message_data_off">"Не може да намери SIM %1$s. SIM %2$s е зададена като карта по подразбиране за мобилни данни в момента. Мобилните данни в момента са изключени."</string>
-    <string name="dds_switch_warning_message_data_on">"Не може да намери SIM %1$s. SIM %2$s е зададена като карта по подразбиране за мобилни данни в момента. Мобилните данни в момента са изключени за да се избегнат ненужните такси от оператора."</string>
+	<string name="dds_switch_warning_message_data_off">"Не е намерена SIM карта %1$s. В момента SIM карта %2$s е зададена като карта за мобилни данни по подразбиране. Мобилните данни в момента са изключени."</string>
+    <string name="dds_switch_warning_message_data_on">"Не е намерена SIM карта %1$s. В момента SIM карта %2$s е зададена като карта за мобилни данни по подразбиране. Мобилните данни са изключени, за да се избегнат ненужни такси от оператора."</string>
 	<string name="privacy_policy_title">Политика за поверителност</string>
 	<string name="sip_account_disable">"Профилът не е активен. Не може да приема повиквания."</string>
     <string name="sip_receive_call_disable">"Не може да приема повиквания. Първо позволете да приема повиквания."</string>
+	<string name="vice_slot_volte_data_switch_title">Използване на мобилни данни на втората SIM карта по време на VoLTE повиквания</string>
+	<string name="vice_slot_volte_data_switch_summary">По време на VoLTE повиквания устройството ще се свърже с мобилна мрежа за данни, чрез втората SIM карта</string>
+	<string name="vice_slot_volte_data_switch_prompt">Устройството ви ще се свърже с мобилна мрежа за данни, чрез втората SIM карта по време на изходящи VoLTE повиквания. Това може да генерира допълнителни такси за данни. Свържете се с вашият оператор за подробности относно плана ви за данни.</string>
 </resources>

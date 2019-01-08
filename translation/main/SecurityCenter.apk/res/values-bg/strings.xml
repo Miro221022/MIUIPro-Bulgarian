@@ -1679,7 +1679,7 @@
     <string name="antivirus_monitor_risk_advice">Това приложение не е сигурно, изтрийте го</string>
     <string name="antivirus_monitor_virus_advice">Това приложение съдържа вирус, изтрийте го</string>
     <string name="security_scan_optimizing">Оптимизира се…</string>
-    <string name="preferred_app_entries_launcher">Лаунчер</string>
+    <string name="preferred_app_entries_launcher">Стартер</string>
     <string name="preferred_app_entries_dial">Телефон</string>
     <string name="preferred_app_entries_messaging">Съобщения</string>
     <string name="preferred_app_entries_browser">Браузър</string>

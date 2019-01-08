@@ -4543,7 +4543,7 @@
     <string name="launching_rep">Докладване на грешка, моля изчакайте.</string>
     <string name="status_serialno">сериен номер</string>
     <string name="privacy_mode_dialog_title">Режим Гост</string>
-    <string name="privacy_mode_dialog_message">Обаждания, бележки, снимки, съобщения и настройки на лаунчера ще бъдат скрити от потребителя</string>
+    <string name="privacy_mode_dialog_message">Обаждания, бележки, снимки, съобщения и настройки на стартера ще бъдат скрити от потребителя</string>
     <string name="lockscreen_glogin_submit_button">Вход</string>
     <string name="lockscreen_glogin_password_hint">Парола</string>
     <string name="toast_lockscreen_glogin_empty_password">Въведете парола</string>
