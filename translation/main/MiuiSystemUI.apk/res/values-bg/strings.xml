@@ -1263,8 +1263,8 @@
   <string name="saved_network">Запазено от %1$s</string>
   <string name="screen_button_notification_text">Натиснете \'Начало\'+\'Захранване\' за включване.</string>
   <string name="screen_button_notification_title">Бутоните на дисплея са деактивирани</string>
-  <string name="screen_pinning_description">Това ще продължи, докато не го откачите. Натиснете и задръжте едновременно бутоните Начало и Включване, за да го премахнете.</string>
-  <string name="screen_pinning_description_accessible">Това ще продължи, докато не го откачите. Натиснете и задръжте едновременно бутоните Начало и Включване, за да го премахнете.</string>
+  <string name="screen_pinning_description">Това го поддържа видимо, докато не го откачите. Натиснете и задръжте бутона Начало и бутона за захранване едновременно, за да го откачите.</string>
+  <string name="screen_pinning_description_accessible">Това го поддържа видимо, докато не го откачите. Натиснете и задръжте бутона Начало и бутона за захранване едновременно, за да го откачите.</string>
   <string name="screen_pinning_negative">Не, благодаря</string>
   <string name="screen_pinning_positive">Разбрах това</string>
   <string name="screen_pinning_title">Екранът е закачен</string>

@@ -233,4 +233,17 @@
     <string name="plant_reg_fail_2">"Този обект не може да бъде разпознат. Скенерът може да идентифицира само растения."</string>
     <string name="plant_support">" (Техническа поддръжка)"</string>
     <string name="plant_title">Сканирайте растението, което искате да идентифицирате</string>
+	<string name="about_title">Относно</string>
+    <string name="business_card_result_title">Визитка</string>
+    <string name="choose_pay_title">Изберете начин на плащане</string>
+    <string name="no_support_to_translate_type">"Този език не се поддържа"</string>
+    <string name="scan_support_type">WeChat, Alipay, QR кодове, баркодове</string>
+    <string name="setting_alipay">Alipay</string>
+    <string name="setting_choose_every_time">Винаги питай</string>
+    <string name="setting_default_function">Функция по подразбиране</string>
+    <string name="setting_preference_pay">Предпочитан начин на плащане</string>
+    <string name="setting_title">Настройки</string>
+    <string name="setting_use_last_choose">Запомни предишния избор</string>
+    <string name="setting_wechat">WeChat</string>
+    <string name="to_pay">Извърши плащане</string>
 </resources>
