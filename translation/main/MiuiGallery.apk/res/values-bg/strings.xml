@@ -37,7 +37,7 @@
     <string name="album_creative">Моите редактирани снимки</string>
     <string name="album_detail_page_empty">Няма снимки или видео</string>
     <string name="album_download">Изтегляния</string>
-    <string name="album_faces_name">Лице</string>
+    <string name="album_faces_name">Хора</string>
     <string name="album_favorites_name">Любими</string>
     <string name="album_from_format">От %s</string>
     <string name="album_jump_failed">Изчакайте, докато албумите се синхронизират с Mi Облак и опитайте отново</string>
@@ -46,9 +46,9 @@
     <string name="album_name">Име на албума</string>
     <string name="album_name_locations">Местоположения</string>
     <string name="album_name_people">Хора</string>
-    <string name="album_name_recent_discovery">Скорошни</string>
+    <string name="album_name_recent_discovery">Последни</string>
     <string name="album_name_tags">Тагове</string>
-    <string name="album_others_share_baby_info_format">Бебе албум от %s</string>
+    <string name="album_others_share_baby_info_format">Бебешки албум от %s</string>
     <string name="album_others_share_info_format">От %s</string>
     <string name="album_owner_share">Мои споделени</string>
     <string name="album_page_empty">Празно</string>
@@ -57,7 +57,7 @@
     <string name="album_quota_fulfiled">Албумът не може да бъде създаден. Лимитът за албуми е надвишен.</string>
     <string name="album_scanner">Скенер</string>
     <string name="album_screen_recorder">Запис на екрана</string>
-    <string name="album_screenshot_name">Екр. снимка</string>
+    <string name="album_screenshot_name">Екранни снимки</string>
     <string name="album_share_exit_confirm">Ще излезете ли от този албум?</string>
     <string name="album_share_kicked">%1$s е затворен</string>
     <string name="album_share_stat_content">Покани</string>
@@ -72,9 +72,9 @@
     <string name="album_show_local_only">Показване само на локални албуми</string>
     <string name="album_show_local_only_summary">Включете, за да виждате или изтривате снимките само на вашето устройство</string>
     <string name="album_type_baby">Сподели албум</string>
-    <string name="album_type_share">Бебе албум</string>
+    <string name="album_type_share">Бебешки албум</string>
     <string name="album_type_system">Системен албум</string>
-    <string name="album_videos_name">Видео</string>
+    <string name="album_videos_name">Видеоклипове</string>
     <string name="album_wallpaper">Тапети</string>
     <string name="alert_secret_album_enter">Разбрах</string>
     <string name="alert_secret_album_message">Плъзнете надолу, докато сте в Албуми, за да видите скрит албум.</string>
@@ -96,7 +96,7 @@
     <string name="auto_backup_introduce">Архивирайте снимки и видео автоматично(Изисква се Mi профил)</string>
     <string name="auto_download_media_title">Автоматично изтегляне на снимки от Mi Облак</string>
     <string name="auto_update_face">Автоматично добавяне на снимки</string>
-    <string name="auto_update_face_summary">Автоматично сравняване и добавяне на снимките в бебе албума</string>
+    <string name="auto_update_face_summary">Автоматично сравняване и добавяне на снимките в бебешкия албум</string>
     <string name="auto_update_off">Изкл.</string>
     <string name="auto_update_on">Вкл.</string>
     <string name="auto_upload_before_share_message">Архивирайте този албум в Mi Облак преди споделяне</string>
@@ -114,7 +114,7 @@
     <string name="baby_album_sharer_recommand_face">Добавяне на съществуващи снимки на %1$s?</string>
     <string name="baby_album_sharers_page_title">Сподели с роднини</string>
     <string name="baby_birthday">Рожден ден</string>
-    <string name="baby_lock_wallpaper">Тапет на закл. екран</string>
+    <string name="baby_lock_wallpaper">Тапет на заключен екран</string>
     <string name="baby_lock_wallpaper_cancelled">Променено към стандартния тапет на закл. екран</string>
     <string name="baby_lock_wallpaper_save_settings_msg">Приложи текущите настройки?</string>
     <string name="baby_lock_wallpaper_title">Използване на снимките на бебето за тапет на закл. екран</string>
