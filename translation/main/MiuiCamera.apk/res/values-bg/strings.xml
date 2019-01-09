@@ -560,7 +560,7 @@
    <string name="accessibility_video_pause_button">спри записа на пауза</string>
    <string name="accessibility_video_resume_button">продължи записа</string>
    <string name="live_speed_fast">Бързо</string>
-   <string name="live_speed_fragment_tab_name">Скорост</string>
+   <string name="live_speed_fragment_tab_name">Скорост на запис</string>
    <string name="live_speed_normal">Нормално</string>
    <string name="live_speed_slow">Бавно</string>
    <string name="module_name_professional">Професионално</string>
@@ -668,4 +668,5 @@
 	<string name="ultra_pixel_photography_48mp_close_tip">48MP е изключено</string>
     <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
 	<string name="zoom_no_support_tip_48M">Приближаването не се поддържа в режим 48 мегапиксела</string>
+	<string name="accessibility_pull_down_to_open_camera">Плъзнете надолу, за да отворите камерата</string>
 </resources>

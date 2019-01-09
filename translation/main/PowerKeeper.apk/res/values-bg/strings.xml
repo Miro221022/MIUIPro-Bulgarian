@@ -23,7 +23,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Винаги когато MIUI установи, че Вие не използвате устройството си, ще затвори приложенията на заден план.Също така ще ограничи Bluetooth, GPS, мобилни данни и Wi-Fi и няма да активира екрана при получаване на известия.</string>
     <string name="nonui_mode_config_title">Не интерактивен режим</string>
     <string name="nonui_mode_config_description">Винаги, когато MIUI разбере, че не използвате устройството си, MIUI ще изключи светодиодният индикатор, сензора за пръстови отпечатъци и сензорните елементи за управление.Също така няма да активира екрана при получаване на известия.</string>
-    <string name="power_center">Използване на батерия</string>
+    <string name="power_center">Пестене на батерия</string>
     <string name="power_usage">Консумация на енергия</string>
     <string name="power_mode">Режим на производителност</string>
     <string name="performance_category">Производителност</string>
@@ -111,4 +111,8 @@
     <string name="notification_open_extreme_mode_text">Включено Екстремно пестене на батерия</string>
 	<string name="adaptive_battery_summary">"Ограничаване консумацията на батерията за приложения, които не използвате често"</string>
     <string name="adaptive_battery_title">Използване на Адаптивна батерия</string>
+	<string name="dark_mode">Тъмен режим</string>
+    <string name="dark_mode_summary">Превключете към тъмна цветова палитра, за да спестите заряд на батерията</string>
+    <string name="open_dark_mode">Превключи към Тъмен режим</string>
+    <string name="open_dark_mode_tip">Качеството на показване на някои функции може да намалее в Тъмен режим. То ще бъде възстановено до нормалното, когато излезете от Тъмен режим. Превключване към Тъмен режим сега?</string>
 </resources>
