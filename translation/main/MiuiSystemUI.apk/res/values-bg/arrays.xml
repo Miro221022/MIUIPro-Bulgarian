@@ -271,7 +271,7 @@
         <item>" | Активно (медиа)"</item>
         <item>" | Активно (телефон)"</item>
     </string-array>
-	name="bluetooth_avrcp_versions">
+	<string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (По подразбиране)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
