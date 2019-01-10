@@ -667,6 +667,6 @@
     <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
 	<string name="ultra_pixel_photography_48mp_close_tip">48MP е изключено</string>
     <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
-	<string name="zoom_no_support_tip_48M">Приближаването не се поддържа в режим 48 мегапиксела</string>
+	<string name="zoom_no_support_tip_48M">"Приближението не работи в режим 48MP"</string>
 	<string name="accessibility_pull_down_to_open_camera">Плъзнете надолу, за да отворите камерата</string>
 </resources>

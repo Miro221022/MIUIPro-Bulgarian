@@ -1388,4 +1388,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="small_video_net_error">Грешка при свързването</string>
     <string name="small_video_no_more_date">Няма данни</string>
     <string name="topic_content_default">тема</string>
+	<string name="home_hybrid_application_tips">Мини програми включени тук</string>
+    <string name="hybrid_application_no_data_text">Няма мини програми</string>
+    <string name="hybrid_popup_window_delete_button">Изтриване</string>
+    <string name="window_manager_hybrid_application_list_title_text">Последно използвани</string>
 </resources>
