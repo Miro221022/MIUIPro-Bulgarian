@@ -27,7 +27,7 @@
     <string name="adjust_brightness">Яркост</string>
     <string name="adjust_contrast">Контраст</string>
     <string name="adjust_saturation">Насищане</string>
-    <string name="adjust_sharpen">Изостряне</string>
+    <string name="adjust_sharpen">Острота</string>
     <string name="adjust_vignette">Скица</string>
     <string name="album_already_exists_check">Преглед</string>
     <string name="album_already_exists_msg">Албумът \"%s\" вече съществува</string>
@@ -298,7 +298,7 @@
     <string name="debugging_tip">Генериране на данни за отстр. на грешки</string>
     <string name="default_relation_name">Нова група</string>
     <string name="define_by_user">Потр. настройка</string>
-    <string name="delete">Изтрий</string>
+    <string name="delete">Изтриване</string>
     <string name="delete_album_failed">Албумът не може да се изтрие</string>
     <string name="delete_album_msg_format">Изтриване на \"%2$s\" албум %1$s%3$s?</string>
     <string name="delete_album_success">Албумът е изтрит.</string>
@@ -437,7 +437,7 @@
     <string name="face_choose_tip">Избери от съществуващ албум</string>
     <string name="face_confirm">Това същия човек ли е</string>
     <string name="face_move_dialog_title">Изберете албум</string>
-    <string name="face_name_edit">Промени</string>
+    <string name="face_name_edit">Редакция</string>
     <string name="face_name_input">Въведете име</string>
     <string name="face_recommend">Препоръки</string>
     <string name="fail_hint">Операцията е неуспешна</string>
@@ -477,7 +477,7 @@
     <string name="filter_food_latte">Латте</string>
     <string name="filter_food_softdrink">Сода</string>
     <string name="filter_food_wholemeal">Ядки</string>
-    <string name="filter_original">Няма</string>
+    <string name="filter_original">Без</string>
     <string name="filter_people_fairytale">Деца</string>
     <string name="filter_people_heart">Емоции</string>
     <string name="filter_people_japanese">Свежо</string>
@@ -633,11 +633,11 @@
     <string name="no_map_app">Няма приложение за карти</string>
     <string name="no_network_connected">Няма връзка с мрежата</string>
     <string name="not_ask_any_more">Не питай повече за \"%s\"</string>
-    <string name="not_is">не е</string>
+    <string name="not_is">Не</string>
     <string name="not_remind_again">Не питай отново</string>
     <string name="not_remind_any_more">Не питай повече</string>
     <string name="ok">OК</string>
-    <string name="onekey_auto">Автомат</string>
+    <string name="onekey_auto">Авто</string>
     <string name="onekey_food">Храна</string>
     <string name="onekey_none">Оригинално</string>
     <string name="onekey_portrait">Портрет</string>
@@ -656,8 +656,8 @@
     <string name="operation_detail">Детайли</string>
     <string name="operation_disable_auto_upload">Изключване на Синхр. с Mi Cloud</string>
     <string name="operation_download">Изтегляне на снимка (%s)</string>
-    <string name="operation_edit">Промени</string>
-    <string name="operation_edit_video">Промени</string>
+    <string name="operation_edit">Редакция</string>
+    <string name="operation_edit_video">Редакция</string>
     <string name="operation_enable_auto_upload">Включване на Синхр. с Mi Cloud</string>
     <string name="operation_failed">Операцията е неуспешна</string>
     <string name="operation_force_top">Закачи</string>
@@ -672,7 +672,7 @@
     <string name="operation_remove_secret">Премахни от скрит албум</string>
     <string name="operation_rename">Преименуване</string>
     <string name="operation_save">Запиши</string>
-    <string name="operation_send">Изпрати</string>
+    <string name="operation_send">Изпращане</string>
     <string name="operation_set_contact_photo">Задай като снимка на контакт</string>
     <string name="operation_set_wallpaper">Задай като тапет</string>
     <string name="operation_share">Сподели</string>
@@ -701,17 +701,17 @@
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Снимка</string>
     <string name="photo_edit_file_not_exits_tip">Изтеглете снимката, преди да я запишете</string>
-    <string name="photo_editor_adjust">Коригиране</string>
+    <string name="photo_editor_adjust">Корекция</string>
     <string name="photo_editor_beautify">Разкрасяване</string>
-    <string name="photo_editor_beautify_auto">Автом</string>
+    <string name="photo_editor_beautify_auto">Авто</string>
     <string name="photo_editor_beauty_compare">Оригинално</string>
-    <string name="photo_editor_crop_and_rotate">Изрежи</string>
+    <string name="photo_editor_crop_and_rotate">Изрязване</string>
     <string name="photo_editor_crop_reset">Нулирай</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Драскулка</string>
     <string name="photo_editor_filter">Филтър</string>
     <string name="photo_editor_label">Промени</string>
-    <string name="photo_editor_long_crop">Изрежи</string>
+    <string name="photo_editor_long_crop">Изрязване</string>
     <string name="photo_editor_miui_beauty">Разкраси</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish">Дефекти</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish_title">Премахни дефектите</string>
@@ -738,7 +738,7 @@
     <string name="photo_editor_navigator_module_download_wait_wlan">Изчакване за Wi-Fi връзка</string>
     <string name="photo_editor_navigator_module_downloading">Изтегляне %s…</string>
     <string name="photo_editor_navigator_need_download">Свържете се към интернет за да изтеглите %s.</string>
-    <string name="photo_editor_remover">Изтрий</string>
+    <string name="photo_editor_remover">Заличаване</string>
     <string name="photo_editor_rotate">Завъртане</string>
     <string name="photo_editor_saving">Запазване</string>
     <string name="photo_editor_sticker">Стикери</string>
@@ -805,7 +805,7 @@
     <string name="photo_print_package_installing">Зареждане на приставка…</string>
     <string name="photo_save_to_msg">Запазени в %s</string>
     <string name="photomovie_audio_custom">Локално</string>
-    <string name="photomovie_audio_none">Няма</string>
+    <string name="photomovie_audio_none">Без</string>
     <string name="photomovie_cancel_download">Отказ</string>
     <string name="photomovie_delete_disable">Трябват поне три снимки за създаване на клип.</string>
     <string name="photomovie_download">Изтегляне</string>
@@ -1099,7 +1099,7 @@
     <string name="to_enable_gallery_sync_dialog_message">Първо включете синхр. на Галерия</string>
     <string name="to_enable_sync_dialog_message">Първо включете синхрониазацията</string>
     <string name="to_enable_sync_dialog_positive_button_text">Към Настройки</string>
-    <string name="to_enable_sync_dialog_title">Синхр.</string>
+    <string name="to_enable_sync_dialog_title">Синхронизиране</string>
     <string name="today">Днес</string>
     <string name="too_many_recipients">Съобщението има прекалено много получатели (%1$s), позволени са %2$s.</string>
     <string name="trash_bin">Кошче</string>
@@ -1229,7 +1229,7 @@
     <string name="video_editor_smart_effect_halo">Ореол</string>
     <string name="video_editor_smart_effect_high_iframes_text">Този ефект работи най-добре за видеоклипове с 120 кадъра в секунда.</string>
     <string name="video_editor_smart_effect_movie">Филм</string>
-    <string name="video_editor_smart_effect_none">Няма</string>
+    <string name="video_editor_smart_effect_none">Без</string>
     <string name="video_editor_smart_effect_radical">Оптимистичен</string>
     <string name="video_editor_smart_effect_rhythm">Пулс</string>
     <string name="video_editor_smart_effect_street">Метрополис</string>
@@ -1255,7 +1255,7 @@
     <string name="video_with_time">Видеото е заснето на %s</string>
     <string name="video_with_time_and_location">Видеото е заснето на %1$s. Местоположение: %2$s.</string>
 	<string name="album_notes">Бележки</string>
-    <string name="feature_guidance_video_editor_smart_effects">New effects are available</string>
+    <string name="feature_guidance_video_editor_smart_effects">Налични са нови ефекти</string>
     <string name="photomovie_audio_default">Памет</string>
     <string name="photomovie_audio_kawaii">Романтика</string>
     <string name="photomovie_audio_light">Балада</string>
@@ -1373,7 +1373,7 @@
   <string name="movie_audio_kawaii">Романтика</string>
   <string name="movie_audio_light">Балада</string>
   <string name="movie_audio_linear">Рок</string>
-  <string name="movie_audio_none">Няма</string>
+  <string name="movie_audio_none">Без</string>
   <string name="movie_audio_soft">Ukulele</string>
   <string name="movie_audio_sport">Техно</string>
   <string name="movie_cancel_download">Отказ</string>
