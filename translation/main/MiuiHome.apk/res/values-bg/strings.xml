@@ -63,7 +63,7 @@
     <string name="buffering">Буфериране...</string>
     <string name="cancel_action">Отмяна</string>
     <string name="cancel_btn_label">Отмени</string>
-    <string name="cant_edit_lock_screen">Не може да се промени типа на закл. на екрана.</string>
+    <string name="cant_edit_lock_screen">"Стилът на заключения екран не може да се редактира"</string>
     <string name="cant_remove_folder">Не можете да изтривате папки, които не са празни</string>
     <string name="cant_remove_retained_app">Не може да деинсталирате персонализирани прилoжения</string>
     <string name="cant_remove_system_app">Системни приложения не може да се деинсталират</string>
@@ -303,7 +303,7 @@
     <string name="unknown_artist_name">Неизвестен изпълнител</string>
     <string name="unnamed_folder_name">Папка</string>
     <string name="wallpaper">Тапет</string>
-    <string name="wallpaper_auto_change_title">Закл. екран</string>
+    <string name="wallpaper_auto_change_title">Заключен екран</string>
     <string name="wallpaper_failed_message">Тапетът не може да се приложи</string>
     <string name="wallpaper_scaling_message">Мащабиране до фиксиран размер</string>
     <string name="wallpaper_scroll_type_tips">Превъртане на тапета</string>
@@ -326,7 +326,7 @@
     <string name="open_personal_assistant_dialog_title">Изключи Личен асистент</string>
     <string name="open_personal_assistant_title">Личен асистент</string>
     <string name="preferred_app_settings_not_selected">Не е избрано</string>
-    <string name="recents_config_title">Скорошни</string>
+    <string name="recents_config_title">Последни</string>
     <string name="screen_cells_config_title">Схема на Начален екран</string>
     <string name="show_mem_info_title">Покажи състояние на рам памет</string>
     <string name="title_jeejen">Jeejen Начален екран</string>

@@ -189,14 +189,14 @@
   <string name="accessibility_quick_settings_work_mode_changed_on">Работният режим е включен.</string>
   <string name="accessibility_quick_settings_work_mode_off">Работният режим е изключен.</string>
   <string name="accessibility_quick_settings_work_mode_on">Работният режим е включен.</string>
-  <string name="accessibility_recent">Скорошни приложения</string>
+  <string name="accessibility_recent">Последни приложения</string>
   <string name="accessibility_recent_task_exit">Последно затворени</string>
   <string name="accessibility_recent_task_locked">Заключен, плъзнете надолу за отключване.</string>
   <string name="accessibility_recent_task_locked_state">Заключено</string>
   <string name="accessibility_recent_task_memory_info">Общо РАМ: %2$s | Достъпна РАМ: %1$s. Двойно почукване за изчистване.</string>
   <string name="accessibility_recent_task_unlocked">Отключено</string>
   <string name="accessibility_recent_task_unlocked_state">Отключено</string>
-  <string name="accessibility_recents_all_items_dismissed">Всички скорошни приложения бяха премахнати</string>
+  <string name="accessibility_recents_all_items_dismissed">Всички последни приложения бяха премахнати</string>
   <string name="accessibility_recents_item_dismissed">%s беше премахнат</string>
   <string name="accessibility_recents_item_launched">Стартиране на %s…</string>
   <string name="accessibility_recents_item_open_app_info">Вижте %s инф за приложение.</string>
@@ -676,7 +676,7 @@
   <string name="high_temp_title">Телефонът се затопля</string>
   <string name="home">Настройки на Начален екран</string>
   <string name="how_to_back_home">Отиди на Начален екран</string>
-  <string name="how_to_switch_recents">Отвори Скорошни</string>
+  <string name="how_to_switch_recents">Отвори Последни</string>
   <string name="how_to_use_drawer">Как да отворите плъзгащото меню</string>
   <string name="how_to_use_drawer_summary">Прекарайте пръст надясно в горната част на екрана</string>
   <string name="how_to_use_fsg">Вие можете да извършите тези действия с използване на жестове:</string>
@@ -755,7 +755,7 @@
   <string name="keyboard_shortcut_group_system_back">Назад</string>
   <string name="keyboard_shortcut_group_system_home">Начало</string>
   <string name="keyboard_shortcut_group_system_notifications">Известия</string>
-  <string name="keyboard_shortcut_group_system_recents">Скорошни</string>
+  <string name="keyboard_shortcut_group_system_recents">Последни</string>
   <string name="keyboard_shortcut_group_system_shortcuts_helper">Комбинация от клавиши</string>
   <string name="keyboard_shortcut_group_system_switch_input">Смяна на метода за въвеждане</string>
   <string name="keyboardview_keycode_delete">Изтриване</string>
@@ -1225,7 +1225,7 @@
   <string name="recents_app_info_button_label">Информация за приложение</string>
   <string name="recents_caption_resize">Избор на ново име за задачата</string>
   <string name="recents_drag_hint_message">Натиснете и задръжте приложение, след което го плъзнете тук</string>
-  <string name="recents_empty_message">Няма скорошни елементи</string>
+  <string name="recents_empty_message">Няма последн елементи</string>
   <string name="recents_empty_message_dismissed_all">Вие премахнахте всички елементи</string>
   <string name="recents_empty_message_multi_window">Отваряне на приложения от Начален екран</string>
   <string name="recents_exit_multi_window_mode">Изход</string>

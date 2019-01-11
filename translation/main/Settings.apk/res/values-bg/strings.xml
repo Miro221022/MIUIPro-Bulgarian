@@ -1645,7 +1645,7 @@
     <string name="location_mode_battery_saving_title">Запазване на батерията</string>
     <string name="location_mode_sensors_only_title">Само чрез устройството</string>
     <string name="location_mode_location_off_title">Местоположението е изключено</string>
-    <string name="location_category_recent_location_requests">Скорошни заявки за местоположение</string>
+    <string name="location_category_recent_location_requests">Последни заявки за местоположение</string>
     <string name="location_no_recent_apps">Нито едно приложение не е заявило достъп до местоположението наскоро</string>
     <string name="location_category_location_services">Услуги за местоположение</string>
     <string name="location_high_battery_use">Висок разход на батерията</string>
@@ -2804,7 +2804,7 @@
     <string name="search_results_title">Настройки</string>
     <string name="search_menu">Търсете в настройките</string>
     <string name="query_hint_text">Настройки за търсене</string>
-    <string name="search_recents_queries_label">Скорошни търсения</string>
+    <string name="search_recents_queries_label">Последни търсения</string>
     <string name="search_results_label">Резултати</string>
     <string name="keywords_wifi">wifi;wi-fi;Wi-Fi;WiFi;wlan;WLAN</string>
     <string name="keywords_more_default_sms_app">текстово съобщение, изпращане на текстово съобщение, съобщения, изпращане на съобщения</string>
@@ -3671,7 +3671,7 @@
     <string name="search_touch_assistant">Бързи контроли;Пряк достъп до приложенията чрез докосване</string>
     <string name="search_force_touch">3D докосване</string>
     <string name="search_key_settings_title">Бутони;Ключове</string>
-    <string name="search_app_switch_key">Скорошни;Последни;Меню;Меню бутони;Управление на задачите</string>
+    <string name="search_app_switch_key">Последни;Последни;Меню;Меню бутони;Управление на задачите</string>
     <string name="search_home_key">Начало;Бутон Начало;Меню за бутон Начало</string>
     <string name="search_back_key">Назад;Бутон Назад; Меню за бутон Назад</string>
     <string name="search_screen_key_long_press_timeout">Настрой време за натискане на бутоните;Дълго задържане;Задържане;Докосни и задръж</string>
