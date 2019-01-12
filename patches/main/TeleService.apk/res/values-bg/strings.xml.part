@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="end_call_title">Действие след край на разговор</string> 
-    <string name="incommingcall_title">След входящо</string> 
-    <string name="outgoingcall_title">След изходящо</string>
+    <string name="incommingcall_title">След входящо повикване</string> 
+    <string name="outgoingcall_title">След изходящо повикване</string>
     <string name="call_backlight_title">Максимална яркост</string> 
     <string name="call_backlight_night_title">Нощен режим</string> 
     <string name="call_backlight_mode">Яркост при повикване</string> 
-    <string name="call_backlight_condition_title">Промени условията</string> 
+    <string name="call_backlight_condition_title">Промяна на условията</string> 
     <string name="call_backlight_start_time">Начален час</string> 
     <string name="call_backlight_stop_time">Крайно време</string> 
 	<string name="call_backlight_new_title">Тип настройка на яркостта</string>
