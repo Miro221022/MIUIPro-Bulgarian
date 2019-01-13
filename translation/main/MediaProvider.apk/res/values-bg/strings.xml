@@ -9,4 +9,9 @@
     <string name="root_images">Изображения</string>
     <string name="root_videos">Видеоклипове</string>
     <string name="root_audio">Аудио</string>
+    <string name="storage_description">Локално хранилище</string>
+	<string name="add_ringtone_text">Добави тон за звънене</string>
+    <string name="delete_ringtone_text">Изтрий</string>
+    <string name="unable_to_add_ringtone">Не може да се добави персонализиран тон на звънене</string>
+    <string name="unable_to_delete_ringtone">Не може да се изтрие персонализирания тон на звънене</string>
 </resources>
