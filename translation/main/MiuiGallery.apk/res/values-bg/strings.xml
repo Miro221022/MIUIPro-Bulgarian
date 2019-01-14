@@ -6,7 +6,7 @@
     <string name="add_automatically_alert_title">Авто-добавяне на снимките</string>
     <string name="add_secret_ensure_title">Скриване</string>
     <string name="add_sharer">Добави член</string>
-    <string name="add_to_album">Добави в албум</string>
+    <string name="add_to_album">Добавяне в албум</string>
     <string name="add_to_album_bulk_result">Грешка (%d)</string>
     <string name="add_to_album_exist">Тази снимка вече съществува</string>
     <string name="add_to_album_failed">Не може да се добави в албума</string>
@@ -646,7 +646,7 @@
     <string name="open_public_message">Създай връзка за споделяне с приятели</string>
     <string name="open_public_title">Сподели</string>
     <string name="operate_processing_file_error">Изчакайте докато всички снимки се обработят.</string>
-    <string name="operation_add_album">Добави в албум</string>
+    <string name="operation_add_album">Добавяне в албум</string>
     <string name="operation_add_picture">Добавяне на снимки</string>
     <string name="operation_add_secret">Скрит албум</string>
     <string name="operation_back">Назад</string>
@@ -673,12 +673,12 @@
     <string name="operation_rename">Преименуване</string>
     <string name="operation_save">Запиши</string>
     <string name="operation_send">Изпращане</string>
-    <string name="operation_set_contact_photo">Задай като снимка на контакт</string>
-    <string name="operation_set_wallpaper">Задай като тапет</string>
+    <string name="operation_set_contact_photo">Задаване като снимка на контакт</string>
+    <string name="operation_set_wallpaper">Задаване като тапет</string>
     <string name="operation_share">Сподели</string>
     <string name="operation_show_in_photos_tab">Покажи на началната страница</string>
     <string name="operation_show_on_map">Покажи на картата</string>
-    <string name="operation_slide_show">Старт на слайдшоуто</string>
+    <string name="operation_slide_show">Стартиране на слайдшоу</string>
     <string name="operation_successful">Готово</string>
     <string name="operation_too_often">Прекалено много заявки от вашия IP адрес. Моля, опитайте отново след 1-2 минути.</string>
     <string name="operation_unforce_top">Откачи</string>
@@ -710,9 +710,9 @@
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Драскулка</string>
     <string name="photo_editor_filter">Филтър</string>
-    <string name="photo_editor_label">Промени</string>
+    <string name="photo_editor_label">Редакция</string>
     <string name="photo_editor_long_crop">Изрязване</string>
-    <string name="photo_editor_miui_beauty">Разкраси</string>
+    <string name="photo_editor_miui_beauty">Разкрасяване</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish">Дефекти</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish_title">Премахни дефектите</string>
     <string name="photo_editor_miui_beauty_menu_eraser_pouch">Тъмни кръгове</string>
@@ -987,9 +987,9 @@
     <string name="send_multiple_files_hint_format">Изпращане (%s)</string>
     <string name="send_public_url">Изпрати връзка към албума</string>
     <string name="send_too_many_files_error">Не може да изпращате толкова много елементи (максимум %d елементи).</string>
-    <string name="set_as_baby_lock_wallpaper">Задай за тапет на закл. екран</string>
+    <string name="set_as_baby_lock_wallpaper">Задаване като тапет на заключен екран</string>
     <string name="set_as_wallpaper_description">Това изображение е връзка, изтеглете оригинала?</string>
-    <string name="set_as_wallpaper_title">Задай като тапет</string>
+    <string name="set_as_wallpaper_title">Задаване като тапет</string>
     <string name="set_face_group_toast_msg_new_user">Задръжте лицето, за да обедините или игнорирате този човек.</string>
     <string name="set_face_group_toast_msg_old_user">Задръжте снимката на човека, за да създадете групи (напр. Семейство, Приятели, Съученици и т.н.)</string>
     <string name="set_face_group_toast_title_new_user">Препоръка</string>
