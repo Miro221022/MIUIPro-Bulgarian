@@ -1081,7 +1081,7 @@
     <string name="battery_temperature_title">Температура</string>
     <string name="battery_capacity_title">Капацитет</string>
     <string name="battery_charge_full">Заредена</string>
-    <string name="battery_charge_estimating">Изчислява се…</string>
+    <string name="battery_charge_estimating">Изчисляване</string>
     <string name="battery_charging_prompt">Зареждане</string>
     <string name="deep_save_memory_clean_summary">Изчиства кеша, когато заключите устройството, за да попречи на приложенията да използват батерия</string>
     <string name="btn_text_open_now">Включване</string>
@@ -1711,7 +1711,7 @@
     <string name="card_main_optimize_manage_title">Подобри скоростта</string>
     <string name="card_main_optimize_manage_summary">Изчистване на кеша за повишаване производителността на устройството ви</string>
     <string name="card_main_optimize_manage_action">Ускори сега</string>
-    <string name="card_main_private_space_title">Второ място</string>
+    <string name="card_main_private_space_title">Пространства</string>
     <string name="card_main_private_space_summary">Използвайте Второ пространство все едно имате две устройства</string>
     <string name="card_main_private_space_action">Създаване</string>
     <string name="card_main_xspace_title">Клониране</string>
@@ -2325,8 +2325,8 @@
     <string name="exo_track_surround_5_point_1">5.1 съраунд звук</string>
     <string name="exo_track_surround_7_point_1">7.1 съраунд звук</string>
     <string name="exo_track_unknown">Неизвестен</string>
-    <string name="title_first_aid_kit">Първа помощ</string>
-    <string name="summary_first_aid_kit">Поправяне на проблеми чрез използване на нашият комплект за първа помощ</string>
+    <string name="title_first_aid_kit">Разрешаване на проблеми</string>
+    <string name="summary_first_aid_kit">Разрешаване на проблеми с устройството ви сега</string>
     <string name="button_first_aid_kit">Поправи сега</string>
     <string name="button_restrict_data_usage">Разреши</string>
     <string name="button_background_connection">Разреши</string>
@@ -2347,7 +2347,7 @@
     <string name="first_aid_scanning_item3">Проверка за неправилни настройки…</string>
     <string name="first_aid_scanning_item4">Проверка за проблеми с батерията…</string>
     <string name="first_aid_scanning_item5">Проверка за други проблеми…</string>
-    <string name="first_aid_activity_title">Първа помощ</string>
+    <string name="first_aid_activity_title">Проблеми</string>
     <string name="first_aid_item1_content">Производителност</string>
     <string name="first_aid_item2_content">Мрежа</string>
     <string name="first_aid_item3_content">Настройки</string>
@@ -2382,7 +2382,7 @@
     <string name="first_aid_card_unable_install_button">Освобождаване на място</string>
     <string name="first_aid_result_summary_normal">Всичко изглежда добре!</string>
     <string name="first_aid_result_feedback_title">Обратна връзка</string>
-    <string name="first_aid_result_feedback_summary">"Сканирането за първа помощ не можа да намери никакви проблеми. Но въпреки това,аз забелязах някои."</string>
+    <string name="first_aid_result_feedback_summary">"Не бяха намерени никакви проблеми. Въпреки това, аз забелязах някои."</string>
     <string name="first_aid_result_feedback_button">Изпращане</string>
     <string name="first_aid_card_kadun_title">Устройството се забавя</string>
     <string name="first_aid_card_kadun_summary1">Освободете място за съхранение, за да може устройството ви да работи нормално.</string>

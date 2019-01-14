@@ -482,4 +482,10 @@
   <string name="train_event_station_stay_time">%1$s минути</string>
   <string name="notification_channel_name">Напомняния за календара</string>
   <string name="search_menu_title">Търсене</string>
+  <string name="city_limit_back_icon_tip">Връщане към началната страница на календара</string>
+  <string name="city_limit_set_icon_tip">Напомняне</string>
+  <string name="lottery_blue_ball_tip">Синя топка</string>
+  <string name="lottery_red_ball_tip">Червена топка</string>
+  <string name="select_today_tip">Днес</string>
+  <string name="today_icon_voice_contentdescription">Обратно към днес</string>
 </resources>
