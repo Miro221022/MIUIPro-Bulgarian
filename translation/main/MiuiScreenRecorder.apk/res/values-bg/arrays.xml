@@ -83,4 +83,9 @@
         <item>Вътрешно хранилище</item>
         <item>Външно хранилище</item>
     </string-array>
+	<string-array name="screenrecorder_utils_support_high_frames_cpu">
+        <item>Qualcomm Technologies, Inc SDM845</item>
+        <item>Qualcomm Technologies, Inc MSM8998</item>
+        <item>Qualcomm Technologies, Inc SM8150</item>
+    </string-array>
 </resources>

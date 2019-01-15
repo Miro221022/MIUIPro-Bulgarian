@@ -1801,5 +1801,5 @@
    <string name="bluetooth_connected_no_a2dp_battery_level">Свързан (без медия) | Батерия %1$s%2$s</string>
    <string name="bluetooth_connected_no_headset_battery_level">Свъзан (без телефон) | Батерия %1$s%2$s</string>
    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Свързан (без телефон или медия) | Батерия %1$s%2$s</string>
-   <string name="gxzw_long_press_tip">Натиснете и задръжте, за да проверите новите функции</string>
+   <string name="gxzw_long_press_tip"/>
 </resources>
