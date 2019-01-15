@@ -6083,8 +6083,8 @@ UT интерфейс: %5$s"</string>
 	<string name="set_jeejen_prompt_message">Jeejen ще бъде зададен като основен стартер. Можете да промените стартера по подразбиране в Настройки &gt; Начален екран и последни &gt; Стандартни настройки &gt; Стартер по подразбиране.</string>
     <string name="set_jeejen_prompt_title">Потвърдете промените</string>
     <string name="work_sound_permission_dialog_button_text_known">Разбрах</string>
-    <string name="work_sound_permission_dialog_message">"Не можете да използвате Теми в режим Инициатива. Свържете се с вашия ръководител, за да получите достъп."</string>
-    <string name="work_sound_permission_dialog_title">Ограничения в режим Инициатива</string>
+    <string name="work_sound_permission_dialog_message">"Не можете да използвате Теми в Корпоративен режим. Свържете се с вашия ръководител, за да получите достъп."</string>
+    <string name="work_sound_permission_dialog_title">Ограничения в Корпоративен режим</string>
 	<string name="radioInfo_menu_getIMS">Състояние на IMS услугата</string>
 	<string name="GSM_only">Само GSM</string>
     <string name="WCDMA_only">Само WCDMA</string>
