@@ -950,7 +950,7 @@
     <string name="sim_card_num">SIM%s</string>
     <string name="delete">Изтриване</string>
     <string name="always_enable_mms">Винаги получавай MMS</string>
-    <string name="always_enable_mms_summary">Получавай MMS винаги, дори когато данните са изключени</string>
+    <string name="always_enable_mms_summary">Получаване на MMS винаги, дори когато данните са изключени</string>
     <string name="networks_title">Мрежови оператори</string>
     <string name="network_settings_warn_message">Използване само на мрежата, която сте избрали ръчно.</string>
     <string name="network_settings_auto_select_title">Изключване на авт. избор на мрежа</string>
@@ -1316,7 +1316,7 @@
     <string name="volte_switch_not_support_summary2">VoLTE повикванията не се поддържат от оператора.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE изисква 4G връзка и за двете SIM карти. Да превключа ли на Двоен 4G режим?</string>
     <string name="dual_4g_switch_title">Двоен 4G режим</string>
-    <string name="dual_4g_switch_summary">Разреши 4G връзка и на двете SIM карти.</string>
+    <string name="dual_4g_switch_summary">Разрешаване на 4G връзка и на двете SIM карти.</string>
     <string name="turn_on_dual_4g_failed">Не може да се включи Двоен 4G режим.</string>
     <string name="turn_off_dual_4g_failed">Не може да се изключи Двоен 4G режим.</string>
     <string name="call_settings_primary_user_only">Само основният потребител може да променя настройките за повикване.</string>
@@ -1333,7 +1333,7 @@
     <string name="call_background_lock_wallpaper">Тапет на заключен екран</string>
     <string name="antispam_setting">Списък с блокирани номера</string>
     <string name="call_advanced_setting_title">Допълнителни настройки</string>
-    <string name="preference_data_usage_title">Настройте план за мобилни данни</string>
+    <string name="preference_data_usage_title">Настройте на план за мобилни данни</string>
     <string name="preference_data_usage_summary">Настройте вашия план за мобилни данни, за да контролирате разходите си</string>
     <string name="sim_service_setting">Mi SIM и Mi роуминг</string>
     <string name="mi_sim_settings_title">Mi SIM</string>

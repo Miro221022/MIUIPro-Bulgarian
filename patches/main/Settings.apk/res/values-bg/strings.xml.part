@@ -75,7 +75,7 @@
   <string name="icon_setnet_on">Вертикална</string>
   <string name="icon_setnet_title">Икона на мрежата</string>
   <string name="icon_shadow_title">Сенки на иконите на началния екран</string>
-  <string name="Immediate_set">Незабавен</string>
+  <string name="Immediate_set">Незабавно</string>
   <string name="ios_toggle_title">Разположение на иконите</string>
   <string name="launch_camera">Стартиране на ваше приложение</string>
   <string name="launch_count_label">Последно използвани</string>
