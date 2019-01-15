@@ -246,6 +246,6 @@
         <item quantity="one">Активиран е 1 доверен посредник</item>
     </plurals>
 		<plurals name="miui_sos_emergency_contacts_quantity">
-        <item quantity="other">%d е добавен</item>
+        <item quantity="other">%d добавени</item>
     </plurals>
 </resources>
