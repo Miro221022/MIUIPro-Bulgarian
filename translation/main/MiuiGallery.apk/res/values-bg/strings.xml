@@ -52,7 +52,7 @@
     <string name="album_others_share_info_format">От %s</string>
     <string name="album_owner_share">Мои споделени</string>
     <string name="album_page_empty">Празно</string>
-    <string name="album_page_label">Албум</string>
+    <string name="album_page_label">Албуми</string>
     <string name="album_pano_name">Панорами</string>
     <string name="album_quota_fulfiled">Албумът не може да бъде създаден. Лимитът за албуми е надвишен.</string>
     <string name="album_scanner">Скенер</string>
