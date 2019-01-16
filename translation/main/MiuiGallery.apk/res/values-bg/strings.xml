@@ -101,9 +101,9 @@
     <string name="auto_update_on">Вкл.</string>
     <string name="auto_upload_before_share_message">Архивирайте този албум в Mi Облак преди споделяне</string>
     <string name="auto_upload_before_share_title">Съвет</string>
-    <string name="auto_upload_disable_tip">Автоматичното архивиране е деактивирано</string>
-    <string name="auto_upload_disable_toast_long_press_menu">Синхр с Ми Облак е изключено</string>
-    <string name="auto_upload_enable_toast_long_press_menu">Синхр с Ми Облак е включено</string>
+    <string name="auto_upload_disable_tip">Синхронизирането с Mi Облак е изключено</string>
+    <string name="auto_upload_disable_toast_long_press_menu">Синхронизирането с Mi Облак е изключено</string>
+    <string name="auto_upload_enable_toast_long_press_menu">Синхронизирането с Mi Облак е включено</string>
     <string name="baby_album">Бебе албум</string>
     <string name="baby_album_change_background">Промяна на снимката за фон</string>
     <string name="baby_album_needs_auto_backup_tip">Не може да изключите резервните копия за Бебе албуми</string>
@@ -115,9 +115,9 @@
     <string name="baby_album_sharers_page_title">Сподели с роднини</string>
     <string name="baby_birthday">Рожден ден</string>
     <string name="baby_lock_wallpaper">Тапет на заключен екран</string>
-    <string name="baby_lock_wallpaper_cancelled">Променено към стандартния тапет на закл. екран</string>
+    <string name="baby_lock_wallpaper_cancelled">Променено към стандартния тапет на заключен екран</string>
     <string name="baby_lock_wallpaper_save_settings_msg">Приложи текущите настройки?</string>
-    <string name="baby_lock_wallpaper_title">Използване на снимките на бебето за тапет на закл. екран</string>
+    <string name="baby_lock_wallpaper_title">Използване на снимките на бебето за тапет на заключен екран</string>
     <string name="baby_name_cannot_empty">Въведете име</string>
     <string name="baby_name_cannot_start_with">"Името не може да започва с/ъс '%s'"</string>
     <string name="baby_name_contain_invalidate_char">"Името не може да съдържа '%s'"</string>
@@ -502,7 +502,7 @@
     <string name="gallery_sync_disable_toast">Синхронизацията на Галерия е изключена</string>
     <string name="get_album_info_in_process">Получаване на информация за споделен албум…</string>
     <string name="gif_tip">GIF</string>
-    <string name="gigabyteShort">ГБ</string>
+    <string name="gigabyteShort">Гб</string>
     <string name="grant_permission_go_and_set">Задай</string>
     <string name="grant_permission_text">"Галерия се нуждае от достъп до 
 %s
@@ -561,7 +561,7 @@
     <string name="kick_sharer">Премахване на член</string>
     <string name="kick_sharer_failed">Потребителят не може да се премахне</string>
     <string name="kick_sharer_successfully">Потребителят е премахнат успешно</string>
-    <string name="kilobyteShort">КБ</string>
+    <string name="kilobyteShort">Кб</string>
     <string name="limit_height">Височината трябва да бъде > 0</string>
     <string name="limit_width">Ширината трябва да бъде > 0</string>
     <string name="load_complete">Няма повече обекти тук</string>
@@ -600,7 +600,7 @@
     <string name="mark_operation_processing">Обработка…</string>
     <string name="mark_operation_succeeded">Успешно добавено</string>
     <string name="mark_people_ignore_info_message">Натиснете и задръжте върху снимките на хора за да ги добавите в групи</string>
-    <string name="megabyteShort">МБ</string>
+    <string name="megabyteShort">Мб</string>
     <string name="menu_album_new_album">Нов албум</string>
     <string name="menu_item_sort_date">Дата</string>
     <string name="menu_item_sort_name">Име</string>
@@ -698,7 +698,7 @@
     <string name="people_page_label">Лице</string>
     <string name="people_page_unname">Неизвестно</string>
     <string name="pet_album_display_name">Домашни любимци</string>
-    <string name="petabyteShort">ПБ</string>
+    <string name="petabyteShort">Пб</string>
     <string name="photo">Снимки</string>
     <string name="photo_edit_file_not_exits_tip">Изтеглете снимката, преди да я запишете</string>
     <string name="photo_editor_adjust">Корекция</string>
@@ -1064,7 +1064,7 @@
     <string name="syncing_metadata_title">Синхронизиране на Mi Облак</string>
     <string name="syncing_normal_title">Снимките и клиповете се архивират</string>
     <string name="system_album">Системен албум</string>
-    <string name="terabyteShort">ТБ</string>
+    <string name="terabyteShort">Тб</string>
     <string name="text_append_color">Цвят</string>
     <string name="text_append_font">Шрифт</string>
     <string name="text_append_font_example">Aa</string>
