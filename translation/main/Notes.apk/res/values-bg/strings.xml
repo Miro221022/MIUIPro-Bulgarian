@@ -162,7 +162,7 @@
   <string name="theme_title_antique">Есенна</string>
   <string name="theme_title_arty">Флорална</string>
   <string name="theme_title_blue">Синя</string>
-  <string name="theme_title_candy">Бонбобена</string>
+  <string name="theme_title_candy">Бонбонена</string>
   <string name="theme_title_dark">Тъмна</string>
   <string name="theme_title_default">Стандартно</string>
   <string name="theme_title_green">Зелена</string>
@@ -239,4 +239,5 @@
   <string name="cta_confirm_ok">Разреши</string>
   <string name="cta_dialog_message">Бележки се нуждае от разрешения за свързване с интернет, запис на звук и достъп до контактите ви да работи нормално. Разрешавате ли?</string>
   <string name="cta_dialog_title">Необходими са разрешения</string>
+  <string name="unclassfied_folder_name">Некатегоризирани</string>
 </resources>
