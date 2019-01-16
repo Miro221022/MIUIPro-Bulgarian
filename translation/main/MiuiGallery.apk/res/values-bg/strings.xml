@@ -183,7 +183,7 @@
     <string name="by_email">Имейл</string>
     <string name="by_others">Други</string>
     <string name="by_sms">SMS</string>
-    <string name="byteShort">Б</string>
+    <string name="byteShort">б</string>
     <string name="camera_needs_auto_backup_tip">Снимки от камерата трябва да бъдат архивирани</string>
     <string name="cancel">Отказ</string>
     <string name="cancel_baby_lock_wallpaper_confirm_msg">Да се отмени ли бебе тапета и да се нулира до стандартния тапет на закл. екран?</string>
@@ -251,7 +251,7 @@
     <string name="collage_poster_global_cat_text">ЛАПИ</string>
     <string name="collage_poster_global_city_text">МЕТРОПОЛИС</string>
     <string name="collage_poster_global_dream_text">МЕЧТИ</string>
-    <string name="collage_poster_global_foodie_text">ВКУСЕН</string>
+    <string name="collage_poster_global_foodie_text">ВКУСНО</string>
     <string name="collage_poster_global_green_plant_text">ПЪТУВАНЕ</string>
     <string name="collage_poster_global_summer_flower_text">ЛЯТО</string>
     <string name="collage_poster_global_tea_text">ПОЧИВКА ЗА ЧАЙ</string>
@@ -295,9 +295,9 @@
     <string name="custom_select_title_quickly_share">Сподели</string>
     <string name="custom_select_title_select_all">Избери всички</string>
     <string name="custom_select_title_select_item">Избери елементи</string>
-    <string name="debugging_tip">Генериране на данни за отстр. на грешки</string>
+    <string name="debugging_tip">Генериране на данни за отстраняване на грешки</string>
     <string name="default_relation_name">Нова група</string>
-    <string name="define_by_user">Потр. настройка</string>
+    <string name="define_by_user">Потребителска настройка</string>
     <string name="delete">Изтриване</string>
     <string name="delete_album_failed">Албумът не може да се изтрие</string>
     <string name="delete_album_msg_format">Изтриване на \"%2$s\" албум %1$s%3$s?</string>
@@ -415,8 +415,8 @@
     <string name="error_unauthorized">Синхронизацията е изключена, поради твърде много опити за влизане.</string>
     <string name="error_unknown_action">Отзив</string>
     <string name="error_unknown_host">Няма връзка с мрежата. Проверете връзката си за данни и опитайте отново.</string>
-    <string name="error_unknown_msg">Настъпи грешка. Изпратете ни отзив за нея.</string>
-    <string name="error_unknown_tip">Настъпи грешка.</string>
+    <string name="error_unknown_msg">Възникна грешка. Изпратете ни вашите отзиви.</string>
+    <string name="error_unknown_tip">Възникна грешка.</string>
     <string name="exit">Изход</string>
     <string name="exit_share">Изход от албума</string>
     <string name="exit_share_failed">Излизането от албума %1$s е неуспешно</string>
@@ -425,7 +425,7 @@
     <string name="exit_video_play">Изход</string>
     <string name="expand_people">Повече лица</string>
     <string name="face_album_empty">Празно</string>
-    <string name="face_album_empty_syncing">Синхр. на данни</string>
+    <string name="face_album_empty_syncing">Синхронизиране на данни</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Свържете се с интернет, за да синхронизирате информацията</string>
     <string name="face_album_long_tap_tip">За избиране на много хора или промяна на групови настройки, натиснете и задръжте профилната снимка</string>
     <string name="face_album_new_name_hint">Ново име</string>
@@ -481,7 +481,7 @@
     <string name="filter_people_fairytale">Деца</string>
     <string name="filter_people_heart">Емоции</string>
     <string name="filter_people_japanese">Свежо</string>
-    <string name="filter_people_maze">Бъркотия</string>
+    <string name="filter_people_maze">Хаос</string>
     <string name="filter_people_mint">Минт</string>
     <string name="filter_people_nature">Естествен</string>
     <string name="filter_people_pink">Руменина</string>
