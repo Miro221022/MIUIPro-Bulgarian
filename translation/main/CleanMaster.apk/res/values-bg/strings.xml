@@ -593,6 +593,4 @@
    <string name="facebook_group_video">Видеоклипове</string>
    <string name="facebook_function_summery">Изчистете елементите, кеширани от Facebook</string>
    <string name="facebook_function_title">Facebook почистване</string>
-   <string name="one_tap_clean_M">%dМб</string>
-   <string name="one_tap_clean_GB">%sГб</string>
 </resources>
