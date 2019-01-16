@@ -699,7 +699,7 @@
     <string name="people_page_unname">Неизвестно</string>
     <string name="pet_album_display_name">Домашни любимци</string>
     <string name="petabyteShort">ПБ</string>
-    <string name="photo">Снимка</string>
+    <string name="photo">Снимки</string>
     <string name="photo_edit_file_not_exits_tip">Изтеглете снимката, преди да я запишете</string>
     <string name="photo_editor_adjust">Корекция</string>
     <string name="photo_editor_beautify">Разкрасяване</string>
