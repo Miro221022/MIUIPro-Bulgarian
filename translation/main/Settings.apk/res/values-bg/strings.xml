@@ -3103,7 +3103,7 @@
     <string name="runtime_permissions_summary_no_permissions_granted">Няма предоставени разрешения</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Няма заявени разрешения</string>
     <string name="filter_all_apps">Всички приложения</string>
-    <string name="filter_enabled_apps">Активирани</string>
+    <string name="filter_enabled_apps">Инсталирани приложения</string>
     <string name="filter_personal_apps">Лични</string>
     <string name="filter_work_apps">Служебни</string>
     <string name="filter_notif_blocked_apps">Блокирани</string>
@@ -3123,7 +3123,7 @@
     <string name="domain_urls_title">Отваряне на връзки</string>
     <string name="domain_urls_summary_none">Без отваряне на поддържани връзки</string>
     <string name="domain_urls_summary_one">Отваряне на %s</string>
-    <string name="domain_urls_summary_some">Възможност за отваряне на %s и други URL адреси</string>
+    <string name="domain_urls_summary_some">Отваряне на %s и други уеб адреси</string>
     <string name="app_link_open_always">Отваряне в това приложение</string>
     <string name="app_link_open_ask">Извеждане на запитване всеки път</string>
     <string name="app_link_open_never">Без отваряне в това приложение</string>
@@ -6123,4 +6123,10 @@ UT интерфейс: %5$s"</string>
 	<string name="app_and_notification_dashboard_summary">Разрешения, приложения по подразбиране</string>
     <string name="app_and_notification_dashboard_title">Приложения и известия</string>
 	<string name="app_default_dashboard_title">Приложения по подразбиране</string>
+	<string name="domain_url_section_title">Инсталирани приложения</string>
+	<string name="filter_instant_apps">Мигновени приложения</string>
+	<string name="instant_apps_account">Профил за мигновени приложения</string>
+	<string name="web_action_enable_title">Мигновени приложения</string>
+    <string name="web_action_section_title">Мигновени приложения</string>
+	<string name="web_action_enable_summary">Отваряне на връзки в приложения, дори и те да не са инсталирани</string>
 </resources>
