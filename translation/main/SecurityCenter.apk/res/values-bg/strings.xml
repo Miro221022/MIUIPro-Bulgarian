@@ -1443,7 +1443,7 @@
     <string name="pm_root_success_notification_title">Имате ROOT достъп</string>
     <string name="pm_root_success_notification_infomation">Уверете се, че разбирате рисковете, свързани с ROOT достъпа</string>
     <string name="empty_title_auto_start_list">Няма приложения</string>
-    <string name="virus_ad_icon_text">Рекл</string>
+    <string name="virus_ad_icon_text">Реклама</string>
     <string name="activity_title_apps_manager">Приложения</string>
     <string name="activity_title_permissions_manager">Разрешения</string>
     <string name="dialog_title_auto_start_declare">За авто-стартирането</string>
