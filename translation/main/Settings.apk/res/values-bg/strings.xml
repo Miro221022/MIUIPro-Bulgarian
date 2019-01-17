@@ -6129,4 +6129,7 @@ UT интерфейс: %5$s"</string>
 	<string name="web_action_enable_title">Мигновени приложения</string>
     <string name="web_action_section_title">Мигновени приложения</string>
 	<string name="web_action_enable_summary">Отваряне на връзки в приложения, дори и те да не са инсталирани</string>
+	<string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Адаптивен Bluetooth Audio aptX режим</string>
+    <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Задаване на Bluetooth Audio
+aptX-Adaptive: Режим на кодек"</string>
 </resources>
