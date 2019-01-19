@@ -29,12 +29,12 @@
     <string name="time_of_day" formatted="false">%H:%M:%S</string>
     <string name="date_and_time" formatted="false">%H:%M:%S %d.%m.%Y</string>
     <string name="date_time">%2$s %1$s</string>
-    <string name="byteShort">Б</string>
-    <string name="kilobyteShort">КБ</string>
-    <string name="megabyteShort">МБ</string>
-    <string name="gigabyteShort">ГБ</string>
-    <string name="terabyteShort">ТБ</string>
-    <string name="petabyteShort">ПБ</string>
+    <string name="byteShort">б</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="terabyteShort">Тб</string>
+    <string name="petabyteShort">Пб</string>
     <string name="durationDays">%1$d дни</string>
     <string name="durationDayHours">%1$d ден и %2$d часа</string>
     <string name="durationDayHour">%1$d ден и %2$d час</string>
