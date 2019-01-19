@@ -1055,7 +1055,7 @@
   <string name="oem_unlock_enable_summary">Разрешаване на отключването на програмата за зареждане на системата (bootloader)</string>
   <string name="oldman_airplane_mode_text">Самолет</string>
   <string name="oldman_incall_text">Обратно към обаждането</string>
-  <string name="open_camera_hint_text">Плъзнете наляво, за да отворите камерата</string>
+  <string name="open_camera_hint_text">Плъзнете наляво, за да стартирате камерата</string>
   <string name="open_remote_center_hint_text">Плъзнете надясно, за да стартирате допълнителни програми</string>
   <string name="other">Друго</string>
   <string name="overlay_display_devices_title">Симулиране на втори дисплей</string>
@@ -1705,7 +1705,7 @@
    <string name="data_saver_enable_title">Ще включите ли пестенето на данни?</string>
    <string name="accessibility_quick_settings_alarm_on">Алармата е настроена.</string>
    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Заряд на bluetooth устройството %d процента.</string>
-   <string name="keyguard_left_mi_wallet">Mi портвейл</string>
+   <string name="keyguard_left_mi_wallet">Калкулатор</string>
    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Не можете да превключвате между пространствата, когато е включен родителски контрол"</string>
    <string name="accessibility_fingerprint_dialog_app_icon">Икона на приложението</string>
    <string name="accessibility_fingerprint_dialog_fingerprint_icon">Икона на пръстовия отпечатък</string>

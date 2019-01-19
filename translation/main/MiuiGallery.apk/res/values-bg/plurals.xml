@@ -37,11 +37,11 @@
         <item quantity="one">%d снимка</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d елементи | %2$s</item>
+        <item quantity="other">%1$d елемента | %2$s</item>
         <item quantity="one">%1$d елемент | %2$s</item>
     </plurals>
     <plurals name="album_item_msg_format">
-        <item quantity="other">(общо %d елементи)</item>
+        <item quantity="other">(общо %d елемента)</item>
         <item quantity="one">(общо %d елемент)</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
@@ -77,7 +77,7 @@
         <item quantity="one">%d клип</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">Избрани %d елементи</item>
+        <item quantity="other">Избрани %d елемента</item>
         <item quantity="one">Избран %d елемент</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
@@ -85,11 +85,11 @@
         <item quantity="one">Изтрий %d елемент от всички устройства и Mi Облак?</item>
     </plurals>
     <plurals name="delete_media_from_local">
-        <item quantity="other">Изтрий %d елементи?</item>
+        <item quantity="other">Изтрий %d елемента?</item>
         <item quantity="one">Изтрий %d елемент?</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Изтрий %d елементи от този албум и Mi Облак?</item>
+        <item quantity="other">Изтрий %d елемента от този албум и Mi Облак?</item>
         <item quantity="one">Изтрий %d елемент от този албум и Mi Облак?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">

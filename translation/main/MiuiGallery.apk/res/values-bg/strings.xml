@@ -97,8 +97,8 @@
     <string name="auto_download_media_title">Автоматично изтегляне на снимки от Mi Облак</string>
     <string name="auto_update_face">Автоматично добавяне на снимки</string>
     <string name="auto_update_face_summary">Автоматично сравняване и добавяне на снимките в бебешкия албум</string>
-    <string name="auto_update_off">Изкл.</string>
-    <string name="auto_update_on">Вкл.</string>
+    <string name="auto_update_off">Изключено</string>
+    <string name="auto_update_on">Включено</string>
     <string name="auto_upload_before_share_message">Архивирайте този албум в Mi Облак преди споделяне</string>
     <string name="auto_upload_before_share_title">Съвет</string>
     <string name="auto_upload_disable_tip">Синхронизирането с Mi Облак е изключено</string>
@@ -142,7 +142,7 @@
     <string name="backup_device_space_low_desc">Освободете място, за да продължите архивирането</string>
     <string name="backup_device_space_low_title">Няма достатъчно място в хранилището</string>
     <string name="backup_dirty_num">Общо %s</string>
-    <string name="backup_dirty_tip">Снимките и клиповете не са архивирани</string>
+    <string name="backup_dirty_tip">Неархивирани снимки и клипове</string>
     <string name="backup_immediately">Архивиране</string>
     <string name="backup_need_sync_desc">Докоснете за да продължи архивирането</string>
     <string name="backup_need_sync_title">Архивирането е спряно</string>
@@ -151,7 +151,7 @@
     <string name="backup_no_network_title">Свързването с Mi Облак беше неуспешно</string>
     <string name="backup_no_wifi_btn_text">Използване на мобилни данни</string>
     <string name="backup_no_wifi_desc">Може да архивирате елементите използвайки мобилни данни</string>
-    <string name="backup_no_wifi_title">Чукнете за свързване с Wi-Fi мрежа</string>
+    <string name="backup_no_wifi_title">Синхронизирането ще продължи след като се свържете с Wi-Fi</string>
     <string name="backup_only_in_wifi">Да се архивира само чрез Wi‑Fi</string>
     <string name="backup_only_in_wifi_summary">При архивиране никога да не се използват мобилни данни</string>
     <string name="backup_only_wifi_dialog_message">Да се използват ли мобилни данни за архивиране на снимки и видеоклипове?</string>
@@ -1163,7 +1163,7 @@
     <string name="video_editor_ok">OK</string>
     <string name="video_editor_res_download_failed_tips">Не може да се изтегли, проверете мрежовите си настройки и опитайте отново</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Изтегляне на мелодиите с използване на мобилни данни?</string>
-    <string name="video_editor_res_download_mobil_network_confirm_title">Използване на мобилни данни</string>
+    <string name="video_editor_res_download_mobil_network_confirm_title">Чрез мобилни данни</string>
     <string name="video_editor_res_not_load_dialog_msg">За да се използва това е необходимо да се изтеглят пакети от източника</string>
     <string name="video_editor_template_family">Подобни</string>
     <string name="video_editor_template_forbidden_tips">Не може да се използва, докато има шаблон</string>

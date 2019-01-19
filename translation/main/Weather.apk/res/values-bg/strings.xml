@@ -105,8 +105,8 @@
     <string name="feedback_haze">Мараня</string>
     <string name="feedback_moderate_rain">Преваляване</string>
     <string name="feedback_moderate_snow">Сняг</string>
-    <string name="feedback_overcast">Облачно</string>
-    <string name="feedback_report_privacy_msg">Отчетът ще съдържа информация за Вашето местоположение</string>
+    <string name="feedback_overcast">Заоблачаване</string>
+    <string name="feedback_report_privacy_msg">Отчетът ще съдържа информация за вашето местоположение</string>
     <string name="feedback_result_fail_no_choice">Изберете текущата прогноза за време</string>
     <string name="feedback_result_success">Успешно изпратен доклад за грешки, благодарим Ви.</string>
     <string name="feedback_sandy">Прашно</string>
@@ -256,8 +256,8 @@
     <string name="view_indexes_item_tommorrow">Утре</string>
     <string name="wind_direction_no_data">Вятър</string>
     <string name="wind_unit">%1$sкм/ч</string>
-    <string name="xiaomi_weather_description_content">Прогноза за Времето ви показва информация за метеорологичната обстановка. Без него лентата с известия, приложението за времето на начален екран и джаджите няма да работят правилно. Уверете се, че можете да използвате телефона си без тези неща, преди да деинсталирате приложението.</string>
-    <string name="xiaomi_weather_description_title">За Прогноза за Времето</string>
+    <string name="xiaomi_weather_description_content">"Времето ви предоставя точна информация за метеорологичната обстановка. Без това приложение, лентата за известия и приспособлението за време на началния екран няма да работят правилно. Уверете се, че можете да използвате устройството си без тези функции, преди да деинсталирате приложението."</string>
+    <string name="xiaomi_weather_description_title">Относно Времето</string>
     <string name="yes_vote_ratio">За %1$s%%</string>
     <string name="your_location">Вашето местоположение</string>
 	<string name="translate_notification_info">Превеждане на заден план…</string>
