@@ -119,7 +119,7 @@
   <string name="settings">Настройки</string>
   <string name="shutdown_alarm_disable_summary">"Алармата няма да се изпълни след изключване на устройството"</string>
   <string name="shutdown_alarm_enable_summary">"Устройството ще се включи и алармата ще се изпълни"</string>
-  <string name="shutdown_alarm_title">Алармата при изключване на устройството</string>
+  <string name="shutdown_alarm_title">Аларма при изключено устройство</string>
   <string name="silent_alarm_summary">Без звук</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Изключи еднократно на %s</string>
@@ -240,4 +240,5 @@
   <string name="snooze_duration_value">Интервал (минути)</string>
   <string name="check_theme_app_install">Уверете се, че приложението Теми е инсталирано на устройството ви.</string>
   <string name="check_voice_assist_app_version">Актуализирайте Mi AI до последната му версия.</string>
+  <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
 </resources>
