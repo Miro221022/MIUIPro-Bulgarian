@@ -57,7 +57,7 @@
   <string name="gesture_anywhere_gestures_summary">Добавяне, премахване и редактиране на жестове</string>
   <string name="gesture_anywhere_gestures_title">Жестове</string>
   <string name="gesture_anywhere_title">Жестове навсякъде</string>
-  <string name="gesture_home">Жестове на началният екран</string>
+  <string name="gesture_home">Жестове на начален екран</string>
   <string name="Global_auto">Глобален авто (PRL)</string>
   <string name="gps_icon_title">Скриване на GPS иконата</string>
   <string name="GSM_auto">GSM авто (PRL)</string>

@@ -81,12 +81,12 @@
         <item quantity="one">%d приложение не работи правилно и изразходва много енергия</item>
     </plurals>
     <plurals name="power_center_battery_day">
-        <item quantity="other">"%d дни и "</item>
-        <item quantity="one">"%d ден и "</item>
+        <item quantity="other">"%d дни "</item>
+        <item quantity="one">"%d ден "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d часа и "</item>
-        <item quantity="one">"%d час и "</item>
+        <item quantity="other">"%d часа "</item>
+        <item quantity="one">"%d час "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d минути "</item>
@@ -304,12 +304,12 @@
         <item quantity="one">Добавена %d игра</item>
     </plurals>
     <plurals name="uninstall_game_count_title">
-        <item quantity="other">Не могат да се добавят %d игри</item>
-        <item quantity="one">Не може да се добави %d игра</item>
+        <item quantity="other">"Не са добавени %d игри"</item>
+        <item quantity="one">"Не е добавена %d игра"</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d дни остават, преди мрежов ускорител да приключи своята сесия. Подновете я сега, за да се предпазите от проблеми със скоростта.</item>
-        <item quantity="one">%d ден остава, преди Мрежов ускорител да приключи своята сесия. Подновете я сега, за да се предпазите от проблеми със скоростта.</item>
+        <item quantity="other">%d дни остават, преди мрежовият ускорител да приключи своята сесия. Подновете я сега, за да се предпазите от проблеми със скоростта.</item>
+        <item quantity="one">%d ден остава, преди мрежовият ускорител да приключи своята сесия. Подновете я сега, за да се предпазите от проблеми със скоростта.</item>
     </plurals>
 	     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d °C</item>

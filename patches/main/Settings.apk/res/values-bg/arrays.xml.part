@@ -5,7 +5,7 @@
         <item>Меню за рестартиране</item> 
         <item>Последни приложения</item> 
         <item>Телефон</item> 
-        <item>Режим на звук: Звук / Вибрация</item> 
+        <item>Режим на звука: Звук/Вибрация</item> 
         <item>Панел за известия</item> 
         <item>Превключване Wi-Fi</item> 
         <item>Превключване Bluetooth</item> 
@@ -67,7 +67,7 @@
 	<string-array name="toast_animation_entries"> 
         <item>Няма</item> 
         <item>По подразбиране</item> 
-        <item>Гладко появяване / смекчаване</item> 
+        <item>Гладко появяване/смекчаване</item> 
         <item>Отстъпване отдясно и отзад</item> 
         <item>Отстъпване отляво и отзад</item> 
         <item>Отстъпване от дясно на ляво</item> 
