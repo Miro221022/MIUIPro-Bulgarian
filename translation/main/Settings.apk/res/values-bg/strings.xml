@@ -5069,8 +5069,8 @@
     <string name="music_hifi_title">Hi-Fi аудио</string>
     <string name="music_hd_title">HD качество на звука</string>
     <string name="music_hifi_summary">Намаляване на шума и изкривяването, за да се подобри качеството на звука</string>
-    <string name="music_mi_effect_title">Използване на MiSound enhancer</string>
-    <string name="music_mi_effect_summary">Винаги използвай MiSound enhancer когато използвате високоговорители</string>
+    <string name="music_mi_effect_title">Mi Звуков подобрител</string>
+    <string name="music_mi_effect_summary">Използване на Mi Звуков подобрител, когато използвате високоговорители</string>
     <string name="music_headphone_settings">Вид слушалки</string>
     <string name="music_dirac_control">Оптимизиране качеството на звука</string>
     <string name="music_dirac_mode_off">Изключено</string>
@@ -5407,10 +5407,10 @@
     <string name="mtp_default_title">Режим на USB по подразбиране</string>
     <string name="volbtn_title">Mузикален плеър</string>
     <string name="volbtn_toggle_title">Управление на музика</string>
-    <string name="volbtn_timeout_title">Времево закъснение</string>
-    <string name="volbtn_vol_up_title">Увеличаване на звука</string>
-    <string name="volbtn_vol_down_title">Намаляване на звука</string>
-    <string name="volbtn_timeout_summary">Текущ: %s мс</string>
+    <string name="volbtn_timeout_title">Закъснение</string>
+    <string name="volbtn_vol_up_title"> Бутон за увеличаване на звука</string>
+    <string name="volbtn_vol_down_title">Бутон за намаляване на звука</string>
+    <string name="volbtn_timeout_summary">Текущо: %s мс</string>
     <string name="status_bar_network_speed_title">Скорост на обновяване</string>
     <string name="policy_title">Режими на екрана</string>
     <string name="policy_control_title">Режим на цял екран</string>

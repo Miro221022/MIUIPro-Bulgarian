@@ -1424,11 +1424,11 @@
         <item>MTP, ако екрана не е заключен с парола</item>
     </string-array>
     <string-array name="volbtn_action_entries">
-        <item>Напред</item>
+        <item>Следващо</item>
         <item>Пауза</item>
-        <item>Изпълни</item>
-        <item>Изпълни / Пауза</item>
-        <item>Предишен</item>
+        <item>Изпълнение</item>
+        <item>Изпълнение / Пауза</item>
+        <item>Предишно</item>
     </string-array>
     <string-array name="policy_control_entries">
         <item>Потапяне (по подразбиране)</item>
