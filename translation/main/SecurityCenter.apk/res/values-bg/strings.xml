@@ -321,10 +321,10 @@
     <string name="dialog_title_attention">Внимание</string>
     <string name="kilobyte_per_second">K/с</string>
     <string name="megabyte_per_second">M/с</string>
-    <string name="gigabyteShort">ГБ</string>
-    <string name="megabyteShort">МБ</string>
-    <string name="kilobyteShort">КБ</string>
-    <string name="byteShort">Б</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="byteShort">б</string>
     <string name="percent_text_formatted">%s%%</string>
     <string name="main_toolbar_firewall">Ограничения</string>
     <string name="main_toolbar_statistic">Статистика</string>
@@ -1340,10 +1340,10 @@
     <string name="menu_text_networkassistants">Монитор за данни</string>
     <string name="menu_text_networkassistants_remain">%s остават</string>
     <string name="menu_text_networkassistants_danger">%s над лимита</string>
-    <string name="menu_text_networkassistants_unit_gb">ГБ</string>
-    <string name="menu_text_networkassistants_unit_mb">МБ</string>
-    <string name="menu_text_networkassistants_unit_kb">КБ</string>
-    <string name="menu_text_networkassistants_unit_b">Б</string>
+    <string name="menu_text_networkassistants_unit_gb">Гб</string>
+    <string name="menu_text_networkassistants_unit_mb">Мб</string>
+    <string name="menu_text_networkassistants_unit_kb">Кб</string>
+    <string name="menu_text_networkassistants_unit_b">б</string>
     <string name="menu_text_antispam">Антиспам</string>
     <string name="menu_text_license_manager">Разрешения</string>
     <string name="menu_text_garbage_cleanup">Почистване</string>
@@ -2126,7 +2126,7 @@
     <string name="wlan_booster">Wi-Fi оптимизиране</string>
     <string name="tab_gift">Подаръци</string>
     <string name="tab_guide">Упътване</string>
-    <string name="release_meminfo">Освободени %dМБ</string>
+    <string name="release_meminfo">Освободени %dМб</string>
     <string name="best_booster_status">Скоростта за игри е възможно най-добрата сега.</string>
     <string name="do_clean">Почистване…</string>
     <string name="auto_clean_close">Автоматичното почистване е изкл</string>
@@ -2167,7 +2167,7 @@
     <string name="gs_autobooster_dialog_message">Ако използвате Xunyou ускорител, отворете игрите на обозначеното място.</string>
     <string name="accessibility_gameboosterservice_description">Включване на тих режим за входящи обаждания от WeChat, когато играете игри</string>
     <string name="gb_cutoff">|</string>
-    <string name="gb_ad_game_size">МБ</string>
+    <string name="gb_ad_game_size">Мб</string>
     <string name="gb_new_feature">Нова услуга</string>
     <string name="summary_background_connection">Ограничихте връзката на заден планза за това приложение.</string>
     <string name="summary_block_calls_from_cantacts">"Обажданията от контактите са блокирани."</string>

@@ -732,12 +732,12 @@
     <string name="editTextMenuTitle">Действия с текста</string>
     <string name="low_internal_storage_view_title">Мястото в хранилището е на изчерпване</string>
     <string name="low_internal_storage_view_text">Възможно е някои функции на системата да не работят</string>
-    <string name="low_internal_storage_view_text_no_boot">За системата няма достатъчно място в хранилището. Уверете се, че имате свободни 250 МБ, и рестартирайте.</string>
+    <string name="low_internal_storage_view_text_no_boot">За системата няма достатъчно място в хранилището. Уверете се, че имате свободни 250 Мб, и рестартирайте.</string>
     <string name="app_running_notification_title">%1$s се изпълнява</string>
     <string name="app_running_notification_text">Докоснете за още информация или за да спрете приложението.</string>
     <string name="loading">Зарежда се...</string>
-    <string name="capital_on">ВКЛ</string>
-    <string name="capital_off">ИЗКЛ</string>
+    <string name="capital_on">ВКЛЮЧЕНО</string>
+    <string name="capital_off">ИЗКЛЮЧЕНО</string>
     <string name="whichApplication">Изпълняване на действието чрез</string>
     <string name="whichApplicationNamed">Завършване на действието посредством %1$s</string>
     <string name="whichApplicationLabel">Изпълняване на действието</string>

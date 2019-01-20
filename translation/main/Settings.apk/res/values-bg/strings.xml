@@ -438,10 +438,10 @@
     <string name="abc_shareactionprovider_share_with_application">Споделяне със: %s</string>
     <string name="abc_shareactionprovider_share_with">Споделяне със:</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="abc_capital_on">ВКЛ.</string>
-    <string name="abc_capital_off">ИЗКЛ.</string>
-    <string name="v7_preference_on">Вкл.</string>
-    <string name="v7_preference_off">Изкл.</string>
+    <string name="abc_capital_on">ВКЛЮЧЕНО</string>
+    <string name="abc_capital_off">ИЗКЛЮЧЕНО</string>
+    <string name="v7_preference_on">Включено</string>
+    <string name="v7_preference_off">Изключено</string>
     <string name="menu_item_show_more">Повече</string>
     <string name="ringtone_mute">Няма</string>
     <string name="title_system_resource">Системни ресурси</string>
@@ -1286,7 +1286,7 @@
     <string name="screensaver_settings_summary_either_short">И в двата случая</string>
     <string name="screensaver_settings_summary_sleep">При зареждане</string>
     <string name="screensaver_settings_summary_dock">При свързване с докинг станция</string>
-    <string name="screensaver_settings_summary_off">Изкл.</string>
+    <string name="screensaver_settings_summary_off">Изключено</string>
     <string name="screensaver_settings_disabled_prompt">За да контролирате какво се случва, когато телефонът е свързан с докинг станция и/или е в спящ режим, включете скрийнсейвъра.</string>
     <string name="screensaver_settings_when_to_dream">Кога да стартира скрийнсейвърът</string>
     <string name="screensaver_settings_dream_start">Стартиране сега</string>
@@ -2066,8 +2066,8 @@
     <string name="enable_quick_setting">Показване в „Бързи настройки“</string>
     <string name="daltonizer_type">Режим на коригиране</string>
     <string name="accessibility_menu_item_settings">Настройки</string>
-    <string name="accessibility_feature_state_on">Вкл.</string>
-    <string name="accessibility_feature_state_off">Изкл.</string>
+    <string name="accessibility_feature_state_on">Включено</string>
+    <string name="accessibility_feature_state_off">Изключено</string>
     <string name="captioning_preview_title">Визуализация</string>
     <string name="captioning_standard_options_title">Стандартни опции</string>
     <string name="captioning_locale">Език</string>
@@ -4257,8 +4257,8 @@
     <string name="paper_mode_get_location_dlg_msg">Достъпът до вашето местоположение е необходим за определяне на времето за залез и изгрев слънце</string>
     <string name="paper_mode_get_location_dlg_positive_btn_text">Отидете в Настройки</string>
     <string name="paper_mode_get_location_dlg_negative_btn_text">Отказ</string>
-    <string name="screen_paper_mode_turn_on">Вкл.</string>
-    <string name="screen_paper_mode_turn_off">Изкл.</string>
+    <string name="screen_paper_mode_turn_on">Включен</string>
+    <string name="screen_paper_mode_turn_off">Изключен</string>
     <string name="screen_paper_mode_apps_title">Използвай режим четене за тези прил-я</string>
     <string name="screen_paper_mode_off_apps_title">Не използвай режим четене за следните прил-я</string>
     <string name="screen_monochrome_mode_apps_title">Използване на режим Черно-бяло</string>
@@ -4631,17 +4631,17 @@
     <string name="status_sim_2">SIM 2</string>
     <string name="status_summary">Чукнете за подробности</string>
     <string name="wifi_subnet_mask">Защита на подмрежата</string>
-    <string name="wireless_on">Вкл.</string>
-    <string name="wireless_off">Изкл.</string>
+    <string name="wireless_on">Включено</string>
+    <string name="wireless_off">Изключено</string>
     <string name="whetstone_level_title">Оптимизиране на системната памет</string>
     <string name="whetstone_level_reboot">Настройката ще се приложи след рестарт на устойството ви</string>
     <string name="whetstone_level_reboot_OK">Рестарт</string>
     <string name="alpha_build">"
-Alpha"</string>
+Алфа"</string>
     <string name="developer_build">"
-Beta"</string>
+Седмичен"</string>
     <string name="stable_build">"
-Stable"</string>
+Стабилен"</string>
     <string name="location_agps_params_settings_title">A-GPS настройки</string>
     <string name="location_agps_supl_settings">SUPL настройки</string>
     <string name="location_agps_supl_server_addr">Адрес на сървъра</string>
@@ -4820,7 +4820,7 @@ Stable"</string>
     <string name="battery_info_awake_battery">Време на активност с батерия:</string>
     <string name="battery_info_awake_plugged">Време на активност при зареждане:</string>
     <string name="battery_info_screen_on">Време с включен екран:</string>
-    <string name="battery_info_power_unplugged">Изкл.</string>
+    <string name="battery_info_power_unplugged">Изключено</string>
     <string name="battery_info_power_ac">AC</string>
     <string name="battery_info_power_usb">USB</string>
     <string name="battery_info_power_wireless">безжично</string>
@@ -4894,12 +4894,12 @@ Stable"</string>
     <string name="bootloader_device_bind_no_network">Свържете се с интернет и опитайте отново</string>
     <string name="bootloader_device_bind_fail">Неуспешно влизане. Изчакайте малко и опитайте отново</string>
     <string name="bootloader_device_bind_msg">Добавя се профил и устройство…</string>
-    <string name="miui_experience_optimization">Вкл. на MIUI оптимизация</string>
-    <string name="open_miui_optimization_title">Вкл. на MIUI оптимизация</string>
-    <string name="close_miui_optimization_title">Изкл. на MIUI оптимизация</string>
+    <string name="miui_experience_optimization">Включване на MIUI оптимизация</string>
+    <string name="open_miui_optimization_title">Включване на MIUI оптимизация</string>
+    <string name="close_miui_optimization_title">Изключване на MIUI оптимизация</string>
     <string name="open_miui_optimization_warning_message">Рестартирайте устройството,за да се приложи промяната.</string>
     <string name="close_miui_optimization_warning_message">Рестартирайте устройството,за да се приложи промяната.</string>
-    <string name="optimization_close">Изкл. и рестарт</string>
+    <string name="optimization_close">Изключване и рестарт</string>
     <string name="optimization_open">Включване</string>
     <string name="optimization_cancel">Отказ</string>
     <string name="sdcard_optimization">Оптимизиране на SD картата</string>
@@ -4953,12 +4953,12 @@ Stable"</string>
     <string name="uninstall_protected_dlg_title">Деинстл. на системни приложения</string>
     <string name="uninstall_protected_dlg_msg">Деинсталирането на системни приложения може да предизвика грешки в работата на MIUI. Да се деинсталира въпреки това?</string>
     <string name="apn_ppp_number">APN PPP телефонен номер</string>
-    <string name="size_byte">Б</string>
-    <string name="size_kilo_byte">КБ</string>
-    <string name="size_mega_byte">МБ</string>
-    <string name="size_giga_byte">ГБ</string>
-    <string name="size_tera_byte">ТБ</string>
-    <string name="size_peta_byte">ПБ</string>
+    <string name="size_byte">б</string>
+    <string name="size_kilo_byte">Кб</string>
+    <string name="size_mega_byte">Мб</string>
+    <string name="size_giga_byte">Гб</string>
+    <string name="size_tera_byte">Тб</string>
+    <string name="size_peta_byte">Пб</string>
     <string name="radio_info_asdiv_switch_label">ASDiv Статус:</string>
     <string name="app_factory_reset_dlg_title">Деинсталиране на актуализациите?</string>
     <string name="app_factory_reset_dlg_text">Всички актуализации на системните приложения ще бъдат деинсталирани.</string>
@@ -5097,7 +5097,7 @@ Stable"</string>
     <string name="music_equalizer_summary">Настройване на индивидуални нива за различните видове музика</string>
     <string name="music_unsupport_effect_summary">USB слушалките не се поддържат</string>
     <string name="music_title_dolby_control">Dobly digital plus</string>
-    <string name="music_dolby_mode_off">Изкл.</string>
+    <string name="music_dolby_mode_off">Изключено</string>
     <string name="music_dolby_mode_music">Музика</string>
     <string name="music_dolby_mode_movie">Филм</string>
     <string name="music_app_unavailable">Зависи от приложението Музика, уверете се, че е налично</string>
@@ -5783,8 +5783,8 @@ Stable"</string>
     <string name="security_status_title">Състояние на сигурността</string>
     <string name="security_update">Актуализация на защитата</string>
     <string name="find_my_device">Намери устройството</string>
-    <string name="find_my_device_disable">Изкл.</string>
-    <string name="find_my_device_enable">Вкл.</string>
+    <string name="find_my_device_disable">Изключване</string>
+    <string name="find_my_device_enable">Включване</string>
 	<string name="status_bar_settings_customer_feedback">отзиви</string>
     <string name="status_bar_settings_function_description">Оносно тази функция</string>
     <string name="status_bar_settings_user_fold_description1">Папката за известия бе въведена в MIUI 9. Тази функция филтрира маловажни известия и ги поставя в отделна папка.</string>

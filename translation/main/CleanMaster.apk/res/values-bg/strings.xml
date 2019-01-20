@@ -87,7 +87,7 @@
   <string name="buy_a_new_phone">Получи повече място в хранилището</string>
   <string name="buy_immediately">Купи</string>
   <string name="buy_traffic_pack">Купи още данни</string>
-  <string name="byteShort">Б</string>
+  <string name="byteShort">б</string>
   <string name="cache_title_empty_folder">Празна папка (%d)</string>
   <string name="cache_title_empty_folder2">Празна папка</string>
   <string name="cache_title_system_cache">Кеширани данни</string>
@@ -122,7 +122,7 @@
   <string name="deepclean_cache_summary_empty">Изглежда всичко е наред, няма данни за почистване</string>
   <string name="deepclean_empty">Всичко изглежда добре</string>
   <string name="deepclean_install_info_desc2">Изтрийте приложенията, за да освободите място</string>
-  <string name="deepclean_large_content">Изтриване на файлове по-големи от 10 МБ</string>
+  <string name="deepclean_large_content">Изтриване на файлове по-големи от 10 Мб</string>
   <string name="deepclean_large_summary_empty">Изглежда всичко е наред, няма файлове за изтриване</string>
   <string name="deepclean_list_item_from_app">App Store</string>
   <string name="deepclean_list_item_from_dcim_thumbnails">Миниатюри</string>
@@ -191,7 +191,7 @@
   <string name="function_app_lock_title">%d прил. съдържат риск за поверителността​</string>
   <string name="garbage_clean_detail">Детайли</string>
   <string name="garbage_month">Почистено този месец: %s</string>
-  <string name="gigabyteShort">ГБ</string>
+  <string name="gigabyteShort">Гб</string>
   <string name="go_to">Продължи</string>
   <string name="goto_set">Настройка</string>
   <string name="grabage_rank_title">Почистено днес</string>
@@ -258,7 +258,7 @@
   <string name="installing">Инсталира се</string>
   <string name="item_title_process_mode">Изберете действие</string>
   <string name="just_now">Току-що</string>
-  <string name="kilobyteShort">КБ</string>
+  <string name="kilobyteShort">Кб</string>
   <string name="label_image_list_none">Няма</string>
   <string name="label_preserve_the_best_image">Запазете най-качествените снимки</string>
   <string name="last_check_canceled">Предишното сканиране бе отменено</string>
@@ -267,7 +267,7 @@
   <string name="login_immediately">Вписване</string>
   <string name="long_click_dialog_summary">Дълго натискане за добавяне на изключения.</string>
   <string name="long_click_dialog_title">Известие</string>
-  <string name="low_memory_clean_dialog_msg">Най-напред освободете поне 100МБ</string>
+  <string name="low_memory_clean_dialog_msg">Най-напред освободете поне 100Мб</string>
   <string name="low_memory_clean_dialog_ok_button">OK</string>
   <string name="low_memory_clean_dialog_title">Няма достатъчно място в хранилището</string>
   <string name="low_memory_warning_dialog_cancel_button">Отмяна</string>
@@ -277,7 +277,7 @@
   <string name="main_title_filesize">%1$s отпадъци</string>
   <string name="mainbtn_text_quick_cleanup">Почисти %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Почисти</string>
-  <string name="megabyteShort">МБ</string>
+  <string name="megabyteShort">Мб</string>
   <string name="memeory_check_content">%1$d прил., памет %2$s</string>
   <string name="menu_add_to_white_list">Добави към изключения</string>
   <string name="menu_clear">Почисти</string>
@@ -301,7 +301,7 @@
   <string name="notification_summary_after_auto_cleanup">Почистихте %s.</string>
   <string name="notification_summary_of_garbage_cleanup">Чукнете, за да освободите място.</string>
   <string name="notification_title_of_garbage_cleanup">%s от файловете за изтриване</string>
-  <string name="notify_when">Получаване на известие, когато размера на отпадъците достигне 100 МБ</string>
+  <string name="notify_when">Получаване на известие, когато размера на отпадъците достигне 100 Мб</string>
   <string name="ok">ОК</string>
   <string name="open">Включване</string>
   <string name="open_app">Отваряне</string>
@@ -310,7 +310,7 @@
   <string name="optimizecenter_data_support_cm">С подкрепата на Clean Master</string>
   <string name="optimizecenter_data_support_tc">С подкрепата на Tencent</string>
   <string name="output_videos">Експортиране на видео</string>
-  <string name="petabyteShort">ПБ</string>
+  <string name="petabyteShort">Пб</string>
   <string name="phone_search">Търсене в Google</string>
   <string name="positive_confirm">ОК</string>
   <string name="pref_category_title_auto_clean_settings">Напомняне за почистване</string>
@@ -397,7 +397,7 @@
   <string name="summary_delete_large_file">Някой от големите файлове са полезни когато нямате връзка с интернет (напр. карти, графици и т.н.).Уверете се, че не се нуждаете от този файл.</string>
   <string name="summary_delete_video">Да се изтрият ли избраните видео файлове за постоянно?</string>
   <string name="summary_optimizer">"Тази функция качва имената на папките, за да обнови онлайн базата данни на Cheetah Mobile и изисква идентификацията на устройството ви."</string>
-  <string name="terabyteShort">ТБ</string>
+  <string name="terabyteShort">Тб</string>
   <string name="text_optimizer">Качване на имената на папките</string>
   <string name="there_is_no">Всичко изглежда наред, проверете по-късно</string>
   <string name="tips_of_app_manage">Изтриване на рядко използвани приложения за спестяване на място</string>
