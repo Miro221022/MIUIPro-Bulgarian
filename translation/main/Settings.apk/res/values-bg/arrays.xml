@@ -658,8 +658,8 @@
         <item>Бутон Назад отляво, бутон Меню отдясно</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Покажи последни приложения</item>
-        <item>Покажи меню</item>
+        <item>Показване на последни приложения</item>
+        <item>Показване на меню</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 секунди</item>
