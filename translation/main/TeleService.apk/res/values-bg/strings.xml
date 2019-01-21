@@ -1750,4 +1750,16 @@
 	<string name="vice_slot_volte_data_switch_summary">По време на VoLTE повиквания устройството ще се свърже с мобилна мрежа за данни, чрез втората SIM карта</string>
 	<string name="vice_slot_volte_data_switch_prompt">Устройството ви ще се свърже с мобилна мрежа за данни, чрез втората SIM карта по време на изходящи VoLTE повиквания. Това може да генерира допълнителни такси за данни. Свържете се с вашият оператор за подробности относно плана ви за данни.</string>
 	<string name="preferred_wificall_title">Мрежови предпочитания</string>
+	<string name="vowifi_emergency_notification_channel">Спешни предупреждения при WLAN повиквания</string>
+    <string name="vowifi_emergency_notification_content">Спешните повиквания са налични само в клетъчно покритие.</string>
+    <string name="vowifi_emergency_notification_title">Vodafone Wifi повикване</string>
+    <string name="vowifi_emergency_warning_check">"Не показвай отново."</string>
+    <string name="vowifi_emergency_warning_message">"Спешните повиквания не са възможни чрез WLAN повиквания.
+
+Устройството автоматично превключва към клетъчна (2G/3G) мрежа, за да извърши спешно повикване.
+
+Спешните повиквания са възможни само в райони с клетъчно покритие."</string>
+    <string name="vowifi_emergency_warning_title">ECC повиквания чрез WLAN повикване</string>
+    <string name="wifi_call_setting_vodafone_de">WLAN повикване</string>
+    <string name="wifi_call_setting_vodafone_uk">WLAN повикване</string>
 </resources>

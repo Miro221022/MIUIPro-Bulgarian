@@ -111,8 +111,4 @@
     <string name="notification_open_extreme_mode_text">Включено Екстремно пестене на батерия</string>
 	<string name="adaptive_battery_summary">"Ограничаване консумацията на батерията за приложения, които не използвате често"</string>
     <string name="adaptive_battery_title">Използване на Адаптивна батерия</string>
-	<string name="dark_mode">Тъмен режим</string>
-    <string name="dark_mode_summary">Превключете към тъмна цветова палитра, за да спестите заряд на батерията</string>
-    <string name="open_dark_mode">Превключи към Тъмен режим</string>
-    <string name="open_dark_mode_tip">Качеството на показване на някои функции може да намалее в Тъмен режим. То ще бъде възстановено до нормалното, когато излезете от Тъмен режим. Превключване към Тъмен режим сега?</string>
 </resources>

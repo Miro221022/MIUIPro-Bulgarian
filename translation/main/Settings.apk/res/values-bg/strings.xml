@@ -6132,4 +6132,15 @@ UT интерфейс: %5$s"</string>
 	<string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Адаптивен Bluetooth Audio aptX режим</string>
     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Задаване на Bluetooth Audio
 aptX-Adaptive: Режим на кодек"</string>
+    <string name="aod_mode_bg">Фон</string>
+    <string name="aod_mode_clock">Часовник</string>
+    <string name="aod_mode_style">Стил на часа и фона</string>
+    <string name="aod_mode_summary">Показване на часа, датата и съобщенията, когато екранът е изключен.</string>
+    <string name="aod_sample_date">Вторник 10 Май</string>
+    <string name="dark_color_mode">Тъмен режим</string>
+    <string name="dark_color_summary">Използвайте по-тъмна цветова палитра за системни фонове и съвместими приложения</string>
+    <string name="open_dark_mode_dialog_summary">"Някои настройки на дисплея не са съвместими с Тъмен режим. Те обаче ще бъдат възстановени, след като изключите Тъмен режим. Включване на Тъмен режим?"</string>
+    <string name="open_dark_mode_dialog_title">Съвместимост с тъмен режим</string>
+    <string name="screen_cancel">Отказ</string>
+    <string name="screen_confirm">Включи</string>
 </resources>

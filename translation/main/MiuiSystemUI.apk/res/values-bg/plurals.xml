@@ -152,4 +152,7 @@
     <item quantity="other">"Не сте използвали фигурата си за отключване поне %d часа. Начертайте фигурата."</item>
     <item quantity="one">"Не сте използвали фигурата си за отключване поне %d час. Начертайте фигурата."</item>
     </plurals>
+	    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Час %2$s"</item>
+    </plurals>
 </resources>

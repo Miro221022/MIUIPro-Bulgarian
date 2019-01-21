@@ -815,4 +815,8 @@
   <string name="summary_pref_cm_smart_sms">Шаблони за карти, номера на SMS услуги и други</string>
   <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
   <string name="updating">Актуализиране…</string>
+  <string name="auto_identify_btn_text_only_smart_messaging">Включване на Интелигентни съобщения</string>
+  <string name="auto_identify_btn_text_when_all_disabled">Автоматично идентифициране на подателя</string>
+  <string name="auto_identify_btn_title">Това съобщение е изпратено от неизвестен номер.</string>
+  <string name="auto_identify_confirmation">Може да отнеме няколко минути, за да се активира тази функция.</string>
 </resources>

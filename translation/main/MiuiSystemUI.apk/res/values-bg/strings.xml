@@ -1724,7 +1724,7 @@
    <string name="quick_settings_extreme_batterysaver_label">Екстремно пестене</string>
    <string name="keyguard_charging_back_to_lockscreen">Назад към заключен екран</string>
    <string name="keyguard_left_torch">Фенерче</string>
-   <string name="switch_system_user">Отваряне на Първо пространство</string>
+   <string name="switch_system_user">Връщане към Първо пространство</string>
    <string name="miui_screen_rotation_freeze_message">Автоматичното завъртане е деактивирано.</string>
    <string name="face_unlock_sc_status">Натиснете екрана надолу, за да отворите камерата</string>
    <string name="quick_settings_toast_drag_to_enable_custom_tile">За да добавите елемент, натиснете и го задръжте, след което го плъзнете в горната част на панела.</string>
@@ -1802,4 +1802,5 @@
    <string name="bluetooth_connected_no_headset_battery_level">Свъзан (без телефон) | Батерия %1$s%2$s</string>
    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Свързан (без телефон или медия) | Батерия %1$s%2$s</string>
    <string name="gxzw_long_press_tip"/>
+   <string name="face_unlock_not_roi">Дръжте лицето си вътре в рамката</string>
 </resources>
