@@ -535,7 +535,7 @@
     <string name="registration_done">Регистрация в мрежа.</string>
     <string name="sum_carrier_select">Избиране на мрежов оператор</string>
     <string name="sum_search_networks">Търсене на всички налични мрежи</string>
-    <string name="select_automatically">Да се избира автоматично</string>
+    <string name="select_automatically">Автоматичен избор на мрежа</string>
     <string name="sum_select_automatically">Автоматичен избор на предпочитана мрежа</string>
     <string name="register_automatically">Извършва се автоматична регистрация...</string>
     <string name="preferred_network_mode_title">Режим на мрежата</string>
@@ -570,9 +570,9 @@
     <string name="callFailed_incoming_cb_enabled">Отсрещната страна е забранила всички входящи повиквания.</string>
     <string name="callUnanswered_forwarded">Повикването не е прието и е пренасочено</string>
     <string name="enhanced_4g_lte_mode_title">Подобрен режим с 4G LTE</string>
-    <string name="enhanced_4g_lte_mode_summary">Ползване на LTE услуги за подобряване на гласовите и др. комуникации (препоръч.)</string>
+    <string name="enhanced_4g_lte_mode_summary">Ползване на LTE услуги за подобряване на гласовите и други комуникации (препоръчително)</string>
     <string name="data_enabled">Данни</string>
-    <string name="data_enable_summary">Разрешете на това устройство да използва мобилни данни</string>
+    <string name="data_enable_summary">Разрешаване на това устройство да използва мобилни данни</string>
     <string name="dialog_alert_title">Предупреждение</string>
     <string name="roaming">Роуминг на данни</string>
     <string name="roaming_enable">Свързване с услуги за данни при роуминг</string>
@@ -1155,7 +1155,7 @@
     <string name="msim_default_setting">Стандартни настройки</string>
     <string name="msim_setting_no_sim_indicator">Няма SIM карта</string>
     <string name="msim_setting_sim_info_editor_title">Промяна на данните за картата</string>
-    <string name="msim_setting_operator_network_title">Операторска мрежа</string>
+    <string name="msim_setting_operator_network_title">Мобилна мрежа</string>
     <string name="msim_sim_lock">Заключена</string>
     <string name="msim_sim_radio_off">Деактивирано</string>
     <string name="msim_enable_sim">Активиране</string>
@@ -1333,8 +1333,8 @@
     <string name="call_background_lock_wallpaper">Тапет на заключен екран</string>
     <string name="antispam_setting">Списък с блокирани номера</string>
     <string name="call_advanced_setting_title">Допълнителни настройки</string>
-    <string name="preference_data_usage_title">Настройте на план за мобилни данни</string>
-    <string name="preference_data_usage_summary">Настройте вашия план за мобилни данни, за да контролирате разходите си</string>
+    <string name="preference_data_usage_title">Задаване на план за мобилни данни</string>
+    <string name="preference_data_usage_summary">Задайте свой план за данни, за да контролирате използването на мобилни данни</string>
     <string name="sim_service_setting">Mi SIM и Mi роуминг</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="mi_sim_settings_summary">Използване на мобилни данни без СИМ карта</string>
@@ -1356,7 +1356,7 @@
     <string name="volte_provision_title">Активиране на VoLTE повиквания</string>
     <string name="volte_provision_text">VoLTE повикванията предлагат по-добро качество от нормалните. Да се изпрати ли SMS за активиране?</string>
     <string name="no_checked_network">Не може да се свържете с мрежата и да извършвате повиквания. Да се избере ли друга мрежа?</string>
-    <string name="carrier_info">Инф за Оператор</string>
+    <string name="carrier_info">Информация за оператор</string>
     <string name="modem_dialog_title">Връзката през мобилни данни не е стабилна</string>
     <string name="modem_dialog_body">Мобилната връзка не е стабилна поради мрежови или други проблеми. Да се изпрати ли доклад за грешка до Mi за анализ? Този доклад може да съдържа лична информация. Вашият доклад ще се използва за премахване на грешката и никога няма да се споделя с комерсиална цел.</string>
     <string name="dialog_cancel">Отказ</string>
@@ -1674,7 +1674,7 @@
     <string name="tty_mode_entries_off">TTY е изкл.</string>
     <string name="tty_mode_entries_vco">TTY VCO</string>
     <string name="tty_mode_not_allowed_vt_call">Промяната на режима на TTY не е разрешена по време на VT повикване</string>
-    <string name="wifi_call_setting">Настройки за Wi-Fi повиквания</string>
+    <string name="wifi_call_setting">WLAN повиквания</string>
     <string name="wifi_calling_call_assistant">Асистент за повиквания</string>
     <string name="wifi_calling_call_assistant_configure">Настройка</string>
     <string name="wifi_calling_call_assistant_configure_no_selection">Асистентът за повиквания е изключен</string>
@@ -1727,10 +1727,10 @@
     <string name="voice_service_warning_dialog_ok">Разбрах</string>
     <string name="voice_service_warning_dialog_ok_timer">Разбрах (%d)</string>
     <string name="voice_service_warning_dialog_title">VoLTE повиквания</string>
-	<string name="wfcmode_mobile_preferred">Предпочитания за мрежа</string>
-    <string name="wfcmode_wifi_only">WLAN само</string>
+	<string name="wfcmode_mobile_preferred">Предпочитат се мобилни мрежи</string>
+    <string name="wfcmode_wifi_only">Само WLAN</string>
     <string name="wfcmode_wifi_preferred">Предпочита се WLAN</string>
-    <string name="wificall_switch_summary">Устройството ви може да превключва между WLAN и VoLTE, когато връзката е лоша</string>
+    <string name="wificall_switch_summary">Устройството ви ще превключва между WLAN и VoLTE, когато връзката е лоша</string>
     <string name="wificall_switch_title">Осъществяване на повиквания чрез WLAN</string>
 	<string name="cloud_sim_enabled_dual_4g_summary">"Не може да се изключи Двоен 4G когато се ползва Mi Роуминг"</string>
     <string name="cloud_sim_enabled_preferred_network_summary">"Не можете да променяте предпочитанията за мрежата, докато използвате услугата Mi Роуминг"</string>
@@ -1749,4 +1749,5 @@
 	<string name="vice_slot_volte_data_switch_title">Използване на мобилни данни на втората SIM карта по време на VoLTE повиквания</string>
 	<string name="vice_slot_volte_data_switch_summary">По време на VoLTE повиквания устройството ще се свърже с мобилна мрежа за данни, чрез втората SIM карта</string>
 	<string name="vice_slot_volte_data_switch_prompt">Устройството ви ще се свърже с мобилна мрежа за данни, чрез втората SIM карта по време на изходящи VoLTE повиквания. Това може да генерира допълнителни такси за данни. Свържете се с вашият оператор за подробности относно плана ви за данни.</string>
+	<string name="preferred_wificall_title">Мрежови предпочитания</string>
 </resources>

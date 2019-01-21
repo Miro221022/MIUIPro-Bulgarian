@@ -38,9 +38,9 @@
     <string name="alert_invalid_frequency">Невалидна честота</string>
     <string name="alert_frequency_duplicate">Тази честота вече съществува</string>
     <string name="hint_frequency">Честота: %1$s ~ %2$s</string>
-    <string name="hint_label">Заглавие</string>
-    <string name="frequency_mhz_fomart">%sМХЦ</string>
-    <string name="context_menu_title">%sМХЦ</string>
+    <string name="hint_label">Име</string>
+    <string name="frequency_mhz_fomart">%sМХц</string>
+    <string name="context_menu_title">%sМХц</string>
     <string name="context_menu_item_edit">Редакция</string>
     <string name="context_menu_item_delete">Изтриване</string>
     <string name="context_menu_item_favorite">Добавяне към списък</string>

@@ -2063,7 +2063,7 @@
     <string name="gs_game_performance">Производителност</string>
     <string name="gs_game_duration">Време</string>
     <string name="gs_game_disturb_msg">Тих режим</string>
-    <string name="add_game">Добави игра</string>
+    <string name="add_game">Добавяне на игра</string>
     <string name="add_whitelist">Добавяне към изключения</string>
     <string name="sys_cpu_title">Използване на CPU</string>
     <string name="sys_freememory_title">Достъпни</string>

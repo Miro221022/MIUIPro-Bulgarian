@@ -334,9 +334,9 @@
     <string name="announce_for_move">Преместване в ред %1$d колона %2$d</string>
     <string name="announce_for_move_hotseat">Преместване в основна позиция %1$d</string>
     <string name="announce_for_unchecked">%1$s, непроверен</string>
-    <string name="backup_fail">Неуспешно архивиране на лънчъра.</string>
+    <string name="backup_fail">Неуспешно архивиране на стартера.</string>
     <string name="icon_reorganize_channel">Подреждане на иконите</string>
-    <string name="notification_reset_description">%1$s%1$s Може да нулира лънчъра до %2$s</string>
+    <string name="notification_reset_description">%1$s%1$s Може да нулира стартера до %2$s</string>
     <string name="notification_reset_duration">След 2 часа,</string>
     <string name="notification_reset_title">Иконите са подредени успешно</string>
     <string name="quick_app">Бързо приложение</string>

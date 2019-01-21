@@ -5,7 +5,7 @@
     <string name="app_notification_title">Запис на екрана</string>
     <string name="auto_stop_title">Видеото е успешно запазено</string>
     <string name="battery_not_allowed" formatted="false">Не може да се прави запис при батерия по-ниска от 3%. Бъдете сигурни, че сте заредили батерията си поне на 20%.</string>
-    <string name="bit_rate">Видео резолюция</string>
+    <string name="bit_rate">Видео качество</string>
     <string name="bit_rate_summary">По-високо качество означава и по-голям размер на файла</string>
     <string name="bubble_text">Докоснете за начало на запис</string>
     <string name="button_back">Обратно</string>
@@ -22,8 +22,8 @@
     <string name="description_title">Относно Запис на екрана</string>
     <string name="deselect_all">Отмаркирай всичко</string>
     <string name="error_open_file_failed_no_app_found">Няма приложение, което да отвори този файл</string>
-    <string name="frames">Скорост на кадър</string>
-    <string name="frames_summary">По-високата скорост на кадрите редуцира замазването при движение</string>
+    <string name="frames">Скорост на кадрите</string>
+    <string name="frames_summary">По-високата скорост на кадрите редуцира размазването при движение</string>
     <string name="frequently_click_toast">Един момент…</string>
     <string name="gleam_led_while_recording">Мигащ индикатор по време на запис</string>
     <string name="hint_back">Обратно</string>
@@ -58,10 +58,10 @@
     <string name="screen_record_option">Опции на запис</string>
     <string name="screen_record_params">Параметри на запис</string>
     <string name="select_all">Избиране на всички</string>
-    <string name="show_hard_key">Покажи бутони за навигация</string>
-    <string name="show_hard_key_summary">Покажи запитване, преди натискане на бутоните Начало, Меню и Назад</string>
-    <string name="show_screen_touch">Покажи жестове на докосване</string>
-    <string name="show_screen_touch_summary">Визуализация на жестове с използването на бяла точка</string>
+    <string name="show_hard_key">Показване на бутоните за навигация</string>
+    <string name="show_hard_key_summary">Показане на запитване, при натискане на бутоните Начало, Меню и Назад</string>
+    <string name="show_screen_touch">Показване на жестове с докосване</string>
+    <string name="show_screen_touch_summary">Визуализация на жестове чрез бяла точка</string>
     <string name="sound_source">Източник на звук</string>
     <string name="sound_source_summary">Системни звуци или микрофон</string>
     <string name="start">Старт</string>
@@ -76,11 +76,11 @@
     <string name="fixed_frame_rate">Фиксирана скорост на кадрите</string>
     <string name="fixed_frame_rate_summary">Записването на видеоклипове с фиксирана скорост на кадрите подобрява възпроизвеждането на социалните медийни платформи и намалява живота на батерията.</string>
     <string name="is_checked">Избрани</string>
-    <string name="is_go_home">Върнете се отново в екранното записващо приложение</string>
-    <string name="is_go_home_summary">"Отваряне на началната страница на екранното записващо приложение след като завършите записа"</string>
+    <string name="is_go_home">Връщане към Запис на екрана</string>
+    <string name="is_go_home_summary">"Отваряне на началната страница на Запис на екрана, след като завършите записа"</string>
     <string name="settings">Настройки</string>
     <string name="storage_location">Хранилище</string>
-    <string name="storage_location_summary">Изберете предпочитаната от вас опция за съхранение</string>
+    <string name="storage_location_summary">Избор на предпочитана от вас опция за съхранение</string>
     <string name="unchecked">Не е избрано</string>
 	<string name="first_using_mic_dialog_message">Запис на екрана се нуждае от достъп до микрофона за да записва звук. Разрешаване?</string>
     <string name="first_using_mic_dialog_title">Необходими разрешения</string>
