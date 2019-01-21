@@ -199,11 +199,6 @@
         <item>3 колони</item> 
         <item>4 колони</item> 
     </string-array>
-	<string-array name="aod_style_clock_entries"> 
-        <item>Хоризонтален</item> 
-        <item>Вертикален</item> 
-        <item>Една линия</item> 
-    </string-array>
     <string-array name="gesture_anywhere_position_entries"> 
         <item>Ляво</item> 
         <item>Дясно</item> 

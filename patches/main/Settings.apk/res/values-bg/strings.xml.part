@@ -6,7 +6,6 @@
   <string name="allowed_set">разрешен</string>
   <string name="alpha_build">\nАлфа</string>
   <string name="animation_framing_title">Честота на кадрите</string>
-  <string name="aod_style_clock_title">AOD стил на часа</string>
   <string name="app_assistant_title">Бутон за гласова помощ</string>
   <string name="bar_name_title">Скриване на етикетите на иконите в дока</string>
   <string name="bar_shadow_title">Скриване на отражението на иконата</string>
