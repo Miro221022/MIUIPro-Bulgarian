@@ -3860,9 +3860,9 @@
     <string name="title_font2">Шрифт</string>
     <string name="title_font_current2">Системен шрифт</string>
     <string name="title_layout_current2">Изберете размер на шрифта</string>
-    <string name="handy_mode">Ползване с една ръка</string>
+    <string name="handy_mode">Режим с една ръка</string>
     <string name="handy_mode_enable">Режим с една ръка</string>
-    <string name="handy_mode_tips">Плъзнете наляво или надясно от бутон Начало, за да приближите екрана към съответната посока.</string>
+    <string name="handy_mode_tips">Плъзнете наляво или надясно от бутона Начало, за да издърпате екрана по-близо до едната страна.</string>
     <string name="handy_mode_size">Размер на екрана</string>
     <string name="touch_assistant">Тъч асистент</string>
     <string name="force_touch">3D докосване</string>

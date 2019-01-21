@@ -12,9 +12,9 @@
     <string name="function_settings">Настройка на преки пътища</string>
     <string name="handy_mode_default_to_close_whether_open">Режим Ползване с една ръка е изключен по подразбиране. Да го включа ли сега?</string>
     <string name="hide_touch_assistant">Автоматично скриване</string>
-    <string name="hide_touch_assistant_intro">Скриване на Тъч асистент в избрани приложения.</string>
+    <string name="hide_touch_assistant_intro">Скриване на Тъч асистент в избраните приложения.</string>
     <string name="hide_when_fullscreen">Скриване при цял екран</string>
-    <string name="hide_when_fullscreen_intro">Скриване, когато сте в пълноекранен режим.</string>
+    <string name="hide_when_fullscreen_intro">Скриване, когато сте в режим на цял екран.</string>
     <string name="motion_behavior">Предпочитан жест</string>
     <string name="name_alipay_payment_code">Плащане в Аliexpress</string>
     <string name="name_alipay_scan">Alipay скенер</string>
@@ -50,7 +50,7 @@
     <string name="pref_category_system">Системни настройки</string>
     <string name="restore_default">Възстанови по подразбиране</string>
     <string name="restore_intro">Връщане към настройки по подразбиране, включително различни функции и други. Това няма да изтрие информация от вашия телефон.</string>
-    <string name="show_on_keyguard">Показване на закл. екран</string>
+    <string name="show_on_keyguard">Показване на заключен екран</string>
     <string name="theme_manager_not_supported">Мениджъра на теми не е поддържан.</string>
-    <string name="three_seconds_auto_hide">Ще се скрие след 3 секунди бездействие</string>
+    <string name="three_seconds_auto_hide">Скриване след 3 секунди бездействие</string>
 </resources>
