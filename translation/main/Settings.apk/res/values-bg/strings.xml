@@ -4766,7 +4766,6 @@
     <string name="gesture_wakeup_title">Събуждане чрез двукратно почукване</string>
     <string name="pick_up_gesture_wakeup_title">Събуждане на устройството, чрез повдигане</string>
     <string name="aod_mode_title">Режим Винаги включен</string>
-    <string name="aod_mode_summary">Винаги показвай час, дата и съобщения, когато екранът е изключен.</string>
     <string name="install_no_market_app_title">Неизвестни източници</string>
     <string name="install_no_market_app_summary">Разрешаване на инсталация на приложения от източници,различни от Play Store</string>
     <string name="theme_settings_title">Теми</string>
