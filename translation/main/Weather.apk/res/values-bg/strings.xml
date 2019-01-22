@@ -264,5 +264,4 @@
     <string name="update_notification_info">Актуализиране на данните на заден план…</string>
     <string name="weather_alert_channel_name">Сигнали</string>
     <string name="weather_service_channel_name">Услуги на заден план</string>
-	<string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
 </resources>
