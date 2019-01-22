@@ -217,4 +217,5 @@
   <string name="2G_E_off_title">Тип 2G/E</string>
   <string name="2G_E_title">Показване на 2G вместо E</string>
   <string name="4G_LTE_off_title">Тип 4G/LTE</string>
+  <string name="set_in_aod_title">Превключване в режим Винаги включен</string>
 </resources>

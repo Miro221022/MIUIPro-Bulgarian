@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_find_city_hint">Въведете място</string>
+    <string name="act_find_city_hint">Въведете местоположение</string>
     <string name="act_find_city_hot_attractions_title">Популярни градове</string>
     <string name="act_find_city_hot_city_title">Популярни градове</string>
     <string name="act_location_error_to_find_city">Неуспешно получаване на информация за местоположението. Можете да добавите град ръчно.</string>
