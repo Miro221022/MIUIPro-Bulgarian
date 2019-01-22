@@ -12,8 +12,8 @@
   <string name="act_weather_find_city_no_result">Няма резултати</string>
   <string name="act_weather_find_city_searching">Търси се……</string>
   <string name="activity_find_city_dialog_cancel">Отказ</string>
-  <string name="activity_find_city_dialog_message">Позволете достъпа на Времето до Вашето местоположение, за да получи точна информация за местоположението.</string>
-  <string name="activity_find_city_dialog_message_global">Включете местоположението и разрешете на устройството си да определя местоположението чрез безжични мрежи.</string>
+  <string name="activity_find_city_dialog_message">Разрешаване на Времето достъп до местоположението ви, за да получите точна информация за местоположението.</string>
+  <string name="activity_find_city_dialog_message_global">Включете услугите за местоположение и разрешете на устройството си да определя местоположението чрез безжични мрежи.</string>
   <string name="activity_find_city_dialog_set">Настройка</string>
   <string name="activity_find_city_dialog_title">Услуга за местоположение</string>
   <string name="activity_main_clickable">&gt;</string>
@@ -56,7 +56,7 @@
   <string name="aqi_station_min_distance_station">Близка станция</string>
   <string name="aqi_top_pollution">Главни замърсители</string>
   <string name="button_abandon">Отмяна на промените</string>
-  <string name="button_add_city">Добавяне на място</string>
+  <string name="button_add_city">Добавяне на местоположение</string>
   <string name="button_allow">OK</string>
   <string name="button_confirm">Приемам</string>
   <string name="button_exit">Не приемам</string>
@@ -68,7 +68,7 @@
   <string name="button_sure_abandon">Отмени промените?</string>
   <string name="card_vote_item_vs">За/Пр</string>
   <string name="change_alert">Проверете мрежовата връзка и опитайте отново</string>
-  <string name="china_version_first_start_network_msg">Вие трябва да се съгласите с %1$s и %2$s на Xiaomi, за да можете да използвате Време. Време има нужда от достъп до Вашето местоположение и връзка с интернет, заа да работи нормално. Съгласявате ли се?</string>
+  <string name="china_version_first_start_network_msg">Вие трябва да се съгласите с %1$s и %2$s на Xiaomi, за да можете да използвате Времето. Времето се ниждаеот достъп до местоположението ви и връзка с интернет, за да работи нормално. Съгласни ли сте?</string>
   <string name="city_exceeded_warning">Можете да добавите до 10 града</string>
   <string name="common_loading_text">Един момент…</string>
   <string name="connect_fail">Не може да се свърже с мрежа, опитайте отново</string>
@@ -77,7 +77,7 @@
   <string name="content_desc_activity_main_more_settings">Още настройки</string>
   <string name="content_desc_back_button">Назад</string>
   <string name="content_desc_city_manage_del">Премахване</string>
-  <string name="content_desc_city_manage_edit">Редактирай</string>
+  <string name="content_desc_city_manage_edit">Редактиране</string>
   <string name="content_desc_close_button">Затвори</string>
   <string name="daily_forcast_no_stable_direction">Бриз</string>
   <string name="daily_forcast_no_wind">Спокоен</string>
@@ -136,14 +136,14 @@
   <string name="locate_fail_detail_err">Не може да се локализира устройството\nЧукнете екрана за ръчно въвеждане или промяна на град</string>
   <string name="location_provider_btn_text">Включване на услугите за местоположение</string>
   <string name="location_tag">Локализиране</string>
-  <string name="menu_location">Места</string>
+  <string name="menu_location">Местоположения</string>
   <string name="menu_speaker">Предаване на глас</string>
   <string name="minute_rain">Прогноза за валежите</string>
   <string name="minute_rain_after_an_hour">В рамките на 1 час</string>
   <string name="minute_rain_after_two_hour">В рамките на 2 часа</string>
   <string name="minute_rain_feedback_subtitle">Кажете ни какво е времето сега.</string>
   <string name="minute_rain_feedback_text">Доклад за грешки</string>
-  <string name="minute_rain_feedback_title">Информацията за времето е неправилна?</string>
+  <string name="minute_rain_feedback_title">Информацията за времето е неточна?</string>
   <string name="minute_rain_let_go_refresh">Пуснете за да се опресни</string>
   <string name="minute_rain_no_data">Няма данни</string>
   <string name="minute_rain_now">Сега</string>
@@ -154,7 +154,7 @@
   <string name="more_details">Подробности</string>
   <string name="network_not_available">Няма връзка с мрежата</string>
   <string name="network_unavailable">Няма връзка с мрежата.</string>
-  <string name="night_not_disturb_settings_summary">Заглуши предупрежденията между 23:00ч и 07:00ч</string>
+  <string name="night_not_disturb_settings_summary">Заглушаване на предупрежденията в периода между 23:00ч и 07:00ч</string>
   <string name="night_not_disturb_settings_title">Не ме безпокой през нощта</string>
   <string name="no_data">Няма данни</string>
   <string name="no_network_btn">Нов опит</string>
@@ -208,7 +208,7 @@
   <string name="share_weather_desc">\#MIUI Времето#Днес %1$s %2$s</string>
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
-  <string name="share_weather_save_pic_fail">Не може да се направи екр. снимка</string>
+  <string name="share_weather_save_pic_fail">Не може да се направи екранна снимка</string>
   <string name="some_where_on_earth">Някъде по Земята</string>
   <string name="sunrise">Изгрев</string>
   <string name="sunset">Залез</string>
@@ -229,8 +229,8 @@
   <string name="unit">Мерни еденици</string>
   <string name="unit_temperature">Температура</string>
   <string name="unit_wind">Сила на вятъра</string>
-  <string name="update_night_setting_summary_text">Актуализирай информацията за времето между 23:00ч и 07:00ч</string>
-  <string name="update_night_setting_title_text">Актуализирай автоматично през нощта</string>
+  <string name="update_night_setting_summary_text">Актуализиране на информацията за времето между 23:00ч и 07:00ч</string>
+  <string name="update_night_setting_title_text">Автоматично актуализиране през нощта</string>
   <string name="update_notification_info">Актуализиране на данните на заден план…</string>
   <string name="update_setting_title_text">Актуализиране на информацията за времето</string>
   <string name="updated_a_moment_ago">Обновено преди малко</string>
