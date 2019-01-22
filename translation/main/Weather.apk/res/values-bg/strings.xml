@@ -89,7 +89,7 @@
     <string name="daily_forecast_add_city_add">Следвай</string>
     <string name="daily_forecast_add_city_message">Следвайте времето в %1$s за по-подробна прогноза.</string>
     <string name="daily_forecast_add_city_title">Следвайте времето в %1$s</string>
-    <string name="daily_forecast_detail_date">d.M</string>
+    <string name="daily_forecast_detail_date">d/M</string>
     <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Не можа да се получи информация за времето
 Издърпайте надолу, за да обновите или проверете мрежовите настройки"</string>
