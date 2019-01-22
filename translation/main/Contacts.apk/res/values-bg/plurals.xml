@@ -71,8 +71,8 @@
     <item quantity="one">%1$d контакт е добавен</item>
   </plurals>
   <plurals name="group_list_num_contacts_in_group">
-    <item quantity="other">%1$d човека</item>
-    <item quantity="one">%1$d човек</item>
+    <item quantity="other">%1$d контакта</item>
+    <item quantity="one">%1$d контакт</item>
   </plurals>
   <plurals name="group_list_num_numbers_in_group">
     <item quantity="other">%1$d номера</item>
@@ -156,7 +156,7 @@
     <item quantity="one">1 контакт</item>
   </plurals>
   <plurals name="smart_group_member_count">
-    <item quantity="other">%1$d души</item>
+    <item quantity="other">%1$d човека</item>
     <item quantity="one">%1$d човек</item>
   </plurals>
   <plurals name="device_import_progress_toast_plurals">

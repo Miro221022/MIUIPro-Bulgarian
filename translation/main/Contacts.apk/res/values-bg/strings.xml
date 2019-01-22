@@ -387,8 +387,8 @@
   <string name="dialerKeyboardHintText">За набиране използвайте клавиатурата</string>
   <string name="dialog_import">Импортиране на контакти</string>
   <string name="dialog_import_export">Импорт/експорт на контакти</string>
-  <string name="dialog_new_contact_account">Създай контакт в профила</string>
-  <string name="dialog_new_group_account">Създаване на група в профила</string>
+  <string name="dialog_new_contact_account">Създаване на контакт в профил</string>
+  <string name="dialog_new_group_account">Създаване на група в профил</string>
   <string name="dialog_phone_call_prohibited_message">Повикването не е отправено</string>
   <string name="dialog_sync_add">Добави група за синхронизация</string>
   <string name="dialog_voicemail_airplane_mode_message">За обаждане до гласова поща, изключете самолетен режим.</string>
@@ -529,11 +529,11 @@
   <string name="import_sim_contacts_hint_title">Импортиране на контактите от SIM</string>
   <string name="import_sim_entries_finish">Контактите са успешно импортирани от SIM картата</string>
   <string name="import_sim_entry_miui">Импортиране</string>
-  <string name="import_to_xiaomi_account_confirm">Трансфер</string>
+  <string name="import_to_xiaomi_account_confirm">Импортиране</string>
   <string name="import_to_xiaomi_account_progress_finish">Успешно прехвърляне!</string>
   <string name="import_to_xiaomi_account_progress_message">Прехвърляне…</string>
   <string name="import_to_xiaomi_account_progress_title">Прехвърляне на контакти в Mi профил</string>
-  <string name="import_to_xiaomi_account_title">Искате ли да прехвърлите контактите към профила си в Mi?</string>
+  <string name="import_to_xiaomi_account_title">Импортиране в Mi профил?</string>
   <string name="import_vcard_description">Импортиране на контакти от паметта на телефона</string>
   <string name="import_vcard_dialog_message">Импортиране на vCard?</string>
   <string name="importing_sim_contacts_miui">Импортиране на контакти от SIM карта...</string>
@@ -646,7 +646,7 @@
   <string name="miprofile_alertdialog_title">Въведете име</string>
   <string name="miprofile_bind_account_alertdialog_message">Трябва да добавите номера на това устройство във вашия Mi профил, за да използвате тази функция.</string>
   <string name="miprofile_bind_account_alertdialog_positive">Добави номер</string>
-  <string name="miprofile_bind_account_alertdialog_title">Добавяне на тел. номер</string>
+  <string name="miprofile_bind_account_alertdialog_title">Добавяне на телефонен номер</string>
   <string name="miprofile_contact_add">Добави</string>
   <string name="miprofile_contact_added">Добавено</string>
   <string name="miprofile_contact_header">Контакти с контактни карти</string>
@@ -835,9 +835,9 @@
   <string name="pref_key_sim_manage">Управление на SIM карта</string>
   <string name="pref_key_sim_manage1">Управление на SIM карта 1</string>
   <string name="pref_key_sim_manage2">Управление на SIM карта 2</string>
-  <string name="pref_summary_import_from_account">Импортиране на контактите от профилите в Google и Exchange към профила ми в Mi</string>
-  <string name="pref_title_account_import">Импортиране от профил</string>
-  <string name="pref_title_import_from_account">Импортиране от Mi профилa</string>
+  <string name="pref_summary_import_from_account">Прехвърляне на контактите от профилите в Google и Exchange към Mi профила</string>
+  <string name="pref_title_account_import">Импортиране на контакти</string>
+  <string name="pref_title_import_from_account">Импортиране в Mi профилa</string>
   <string name="preference_auto_ip_summary_disable">Не е разрешено</string>
   <string name="preference_auto_ip_summary_on">IP на оператора: %s</string>
   <string name="preference_auto_ip_title">Автоматично IP</string>
@@ -1043,8 +1043,8 @@
   <string name="smart_group_frequency_3">3 до 6 месеца</string>
   <string name="smart_group_frequency_4">Повече от 6 месеца</string>
   <string name="smart_group_frequency_label">По последни повиквания</string>
-  <string name="smart_group_label">Смарт групиране</string>
-  <string name="smart_group_loading">Зареждане на смарт групи…</string>
+  <string name="smart_group_label">Интелигентни групи</string>
+  <string name="smart_group_loading">Една секунда…</string>
   <string name="smart_group_location_label">По местоположение</string>
   <string name="smart_group_location_unavailable">Без адрес</string>
   <string name="sms">Текстово съобщение</string>
