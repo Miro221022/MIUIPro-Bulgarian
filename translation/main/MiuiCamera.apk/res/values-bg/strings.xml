@@ -592,8 +592,8 @@
     <string name="accessibility_lighting_panel_off">Лентата за студийно освтление е скрита</string>
     <string name="accessibility_ultra_pixel_photography_on">48MP е включено</string>
     <string name="accessibility_ultra_pixel_photography_off">48MP е изключено</string>
-    <string name="accessibility_ultra_wide_on">Включен е широкоъгълен режим</string>
-    <string name="accessibility_ultra_wide_off">Широкоъгълен режим е изключен</string>
+    <string name="accessibility_ultra_wide_on">Ултра широкоъгълен режим е включен</string>
+    <string name="accessibility_ultra_wide_off">Ултра широкоъгълен режим е изключен</string>
     <string name="ai_scene_top_moon_off">Режим на слаба светлина</string>
     <string name="autozoom_hint">Следене на движещ се обект</string>
     <string name="autozoom_disabled_hint">Следене на движещ се обект е спряно</string>
@@ -637,20 +637,20 @@
     <string name="network_access_user_notice_title">Свързване към интернет</string>
     <string name="pref_camera_normal_wide_ldc_title">Коригиране на изкривяванията на лицата при групови снимки</string>
     <string name="pref_camera_normal_wide_ldc_description">Коригиране на изкривените лица на хората, които са близо до ръба на рамката</string>
-    <string name="pref_camera_ultra_wide_ldc_title">Корекция на изкривяването при широкоъгълни снимки</string>
+    <string name="pref_camera_ultra_wide_ldc_title">Корекция на изкривяването при ултра широкоъгълни снимки</string>
     <string name="pref_camera_ultra_wide_ldc_description">Коригиране на изкривените обекти автоматично</string>
-    <string name="pref_camera_ultra_wide_mode_title">Широкоъгълен режим</string>
-    <string name="pref_camera_zoom_mode_entry_ultra">Широк ъгъл</string>
+    <string name="pref_camera_ultra_wide_mode_title">Ултра широкоъгълен режим</string>
+    <string name="pref_camera_zoom_mode_entry_ultra">УЛТРА ШИРОКО</string>
     <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
     <string name="pref_userdefine_watermark_title">Потребителски воден знак</string>
     <string name="ultra_pixel_photography_open_tip">48MP</string>
     <string name="ultra_pixel_photography_close_tip">48MP е изключено</string>
-    <string name="ultra_wide_close_tip">Широкоъгълен режим е изключен</string>
-    <string name="ultra_wide_mode">Широк ъгъл</string>
+    <string name="ultra_wide_close_tip">Ултра широкоъгълен режим е изключен</string>
+    <string name="ultra_wide_mode">Ултра широк ъгъл</string>
     <string name="ultra_wide_mode_use_hint_text">"Използвайте този режим, за да включите повече от сцената на вашата снимка.
- Широкоъгълният режим ви помага, когато не можете да се отдалечите от сцената."</string>
-    <string name="ultra_wide_open_tip">Широкоъгълен режим</string>
-    <string name="ultra_wide_recommend_tip_hint">Опитайте широкоъгълен режим</string>
+Ултра широкоъгълният режим идва, за да ви помогне, когато не можете да се отдалечите от сцената."</string>
+    <string name="ultra_wide_open_tip">Ултра широкоъгълен режим</string>
+    <string name="ultra_wide_recommend_tip_hint">Опитайте ултра широкоъгълен режим</string>
 	<string name="pref_camera_zoom_mode_entry_standard">СТАНДАРТНО</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">СЛАБА СВЕТЛИНА</string>
 	<string name="pref_video_hfr_title">Видео с висока честота на кадрите</string>
@@ -658,8 +658,8 @@
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP е включено</string>
 	<string name="accessibility_ultra_pixel_photography_48mp_off">48MP е изключено</string>
     <string name="accessibility_ultra_pixel_photography_48mp_on">48MP е включено</string>
-	<string name="hand_gesture_open_tip">Разгънете дланта си и започнете да отброявате</string>
-	<string name="hand_gesture_tip">Снимане с жест</string>
+	<string name="hand_gesture_open_tip">Покажете дланта си на камерата, за да стартирате таймера</string>
+	<string name="hand_gesture_tip">Заснемате с длан</string>
 	<string name="live_share_moments">Моменти</string>
 	<string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
 	<string name="pref_new_slow_motion_video_quality_960_720only">Можете да записвате само 720p видеоклипове с 960 кадъра в секунда</string>

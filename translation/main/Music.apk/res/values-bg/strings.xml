@@ -1074,4 +1074,7 @@
    <string name="expand_button_title">Напреднал</string>
    <string name="toast_is_pro">"Вече сте PRO член."</string>
    <string name="toast_not_pro">Тази функция е достъпна само за PRO членове.</string>
+   <string name="fcm_fallback_notification_channel_label">Разни</string>
+   <string name="gcm_fallback_notification_channel_label">Разни</string>
+   <string name="ready_to_play">Следва</string>
 </resources>

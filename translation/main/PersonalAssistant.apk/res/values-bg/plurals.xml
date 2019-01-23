@@ -38,16 +38,16 @@
     <item quantity="one">Избран %s елемент</item>
   </plurals>
   <plurals name="sms_day_suffix">
-    <item quantity="other">След %d дни</item>
-    <item quantity="one">След %d ден</item>
+    <item quantity="other">Изпращане след %d дни</item>
+    <item quantity="one">Изпращане след %d ден</item>
   </plurals>
   <plurals name="sms_hour_suffix">
-    <item quantity="other">На %d часа</item>
-    <item quantity="one">На %d час</item>
+    <item quantity="other">Изшращане след %d часа</item>
+    <item quantity="one">Изшращане след %d час</item>
   </plurals>
   <plurals name="sms_minute_suffix">
-    <item quantity="other">На %d минути</item>
-    <item quantity="one">На %d минута</item>
+    <item quantity="other">Изшращане след %d минути</item>
+    <item quantity="one">Изшращане след %d минута</item>
   </plurals>
   <plurals name="sms_title_hours">
     <item quantity="other">%d часа</item>
@@ -70,4 +70,8 @@
     <item quantity="other">Преди %d минути</item>
     <item quantity="one">Преди %d минута</item>
   </plurals>
+  <plurals name="book_start_interval">
+    <item quantity="other">Изпращане след %d дни</item>
+    <item quantity="one">Изпращане след %d ден</item>
+   </plurals>
 </resources>
