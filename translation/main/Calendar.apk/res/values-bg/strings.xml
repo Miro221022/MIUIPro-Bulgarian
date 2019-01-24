@@ -406,7 +406,7 @@
     <string name="user_notice_button_exit">Изход</string>
     <string name="user_notice_button_ok">ОК</string>
     <string name="user_notice_declaration_ignore">Не показвай отново</string>
-    <string name="user_notice_message">Използвайки този продукт, вие се съгласявате с %1$s и %2$s на Xiaomi. Някой функции изискват връзка с интернет, достъп до местоположение и контактите ви, за да работят нормално.</string>
+    <string name="user_notice_message">Трябва да се съгласите с нашите %1$s и %2$s преди да използвате Календар. За да предоставите точни данни за местните официални празници, рождени дни, плащания с кредитни карти и планирани пътувания, Календар трябва да има достъп до местоположението ви, контактите и съобщенията, както и да се свързва с интернет. Съгласни ли сте?</string>
     <string name="user_notice_title">Предупреждение</string>
     <string name="user_notification">Предупреждение</string>
     <string name="user_notification_descrip">Показване на предупреждение при всяко отваряне на Календар</string>
@@ -488,4 +488,5 @@
   <string name="lottery_red_ball_tip">Червена топка</string>
   <string name="select_today_tip">Днес</string>
   <string name="today_icon_voice_contentdescription">Обратно към днес</string>
+  <string name="setting_title_limit_card_desc">Лимитирана карта, разположена на началната страница на календара, услугата изисква работа в мрежа</string>
 </resources>
