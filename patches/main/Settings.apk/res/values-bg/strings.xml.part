@@ -219,4 +219,6 @@
   <string name="4G_LTE_off_title">Тип 4G/LTE</string>
   <string name="set_in_aod_title">Превключване в режим Винаги включен</string>
   <string name="type_name_connected_title">Само при активен интернет</string>
+  <string name="3G_title">Показване на 3G</string>
+  <string name="H_title">Показване на H/H+</string>
 </resources>

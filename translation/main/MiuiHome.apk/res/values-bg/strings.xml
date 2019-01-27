@@ -214,7 +214,7 @@
     <string name="menu_workspace_preview">Преглед на начален екран</string>
     <string name="mi_wallpaper">MIUI тапет</string>
     <string name="mtzgadget_missing_text">Вече не се поддържа, добавете отново</string>
-    <string name="multi_selecting_tips">За да преместите някое приложение задръжте пръст върху иконата му и го завлачете до местоназначението</string>
+    <string name="multi_selecting_tips">За да преместите някое приложение задръжте пръст върху иконата му и го плъзнете до местоназначението</string>
     <string name="no_detail_page">Няма страница с подробности</string>
     <string name="no_space_toast">Няма достатъчно място</string>
     <string name="normal_wallpaper">Тапет</string>
