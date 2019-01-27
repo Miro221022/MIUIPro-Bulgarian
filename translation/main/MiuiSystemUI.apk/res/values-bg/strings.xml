@@ -1225,7 +1225,7 @@
   <string name="recents_app_info_button_label">Информация за приложение</string>
   <string name="recents_caption_resize">Избор на ново име за задачата</string>
   <string name="recents_drag_hint_message">Натиснете и задръжте приложение, след което го плъзнете тук</string>
-  <string name="recents_empty_message">Няма последн елементи</string>
+  <string name="recents_empty_message">Няма последни елементи</string>
   <string name="recents_empty_message_dismissed_all">Вие премахнахте всички елементи</string>
   <string name="recents_empty_message_multi_window">Отваряне на приложения от Начален екран</string>
   <string name="recents_exit_multi_window_mode">Изход</string>

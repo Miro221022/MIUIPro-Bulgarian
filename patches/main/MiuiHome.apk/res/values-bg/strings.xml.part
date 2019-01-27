@@ -11,7 +11,7 @@
   <string name="open_personal_assistant_dialog_title">Изключи Личен асистент</string>
   <string name="open_personal_assistant_title">Личен асистент</string>
   <string name="preferred_app_settings_not_selected">Не е избрано</string>
-  <string name="recents_config_title">Скорошни</string>
+  <string name="recents_config_title">Последни</string>
   <string name="screen_cells_config_title">Схема на Начален екран</string>
   <string name="show_mem_info_title">Покажи състояние на рам паметта</string>
   <string name="title_jeejen">Jeejen Начален екран</string>
