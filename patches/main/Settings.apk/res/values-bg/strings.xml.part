@@ -221,4 +221,5 @@
   <string name="type_name_connected_title">Само при активен интернет</string>
   <string name="3G_title">Показване на 3G</string>
   <string name="H_title">Показване на H/H+</string>
+  <string name="double_tap_lock_keyguard_title">Заключване чрез двойно почукване</string>
 </resources>

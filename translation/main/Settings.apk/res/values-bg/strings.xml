@@ -3016,8 +3016,8 @@
     <string name="notification_app_settings_button">Настройки за известяване</string>
     <string name="device_feedback">Отзиви за устройството</string>
     <string name="restr_pin_enter_admin_pin">Въведете администраторския ПИН код</string>
-    <string name="switch_on_text">Включване</string>
-    <string name="switch_off_text">Изключване</string>
+    <string name="switch_on_text">Включено</string>
+    <string name="switch_off_text">Изключено</string>
     <string name="screen_pinning_title">Фикс. на екрани</string>
     <string name="screen_pinning_description">"Когато настройката е включена, можете да фиксирате текущия екран да се показва, докато не го освободите.
 
@@ -4759,7 +4759,7 @@
     <string name="wifi_switch_to_gsm_title">Използване на GSM?</string>
     <string name="wifi_switch_to_gsm_message">Няма връзка с Wi-Fi. Да се използват ли вместо това мобилни данни?</string>
     <string name="wifi_datanetwork_switch_not_remind">Не показвай отново</string>
-    <string name="skip_lock_screen_confirm_msg">Известията, управлението на музикалния плеър и преките пътища няма да се показват на Закл. екран.</string>
+    <string name="skip_lock_screen_confirm_msg">Известията, управлението на музикалния плеър и преките пътища няма да се показват на заключен екран.</string>
     <string name="performance_category">Производителност</string>
     <string name="fluency_mode">Системни анимации</string>
     <string name="fluency_mode_confirm_and_reboot">Рестарт сега</string>
@@ -6135,11 +6135,13 @@ aptX-Adaptive: Режим на кодек"</string>
     <string name="aod_mode_clock">Часовник</string>
     <string name="aod_mode_style">Стил на часа и фона</string>
     <string name="aod_mode_summary">Показване на часа, датата и съобщенията, когато екранът е изключен.</string>
-    <string name="aod_sample_date">Вторник 10 Май</string>
+    <string name="aod_sample_date">Вторник, 10 Май</string>
     <string name="dark_color_mode">Тъмен режим</string>
     <string name="dark_color_summary">Използвайте по-тъмна цветова палитра за системни фонове и съвместими приложения</string>
     <string name="open_dark_mode_dialog_summary">"Някои настройки на дисплея не са съвместими с Тъмен режим. Те обаче ще бъдат възстановени, след като изключите Тъмен режим. Включване на Тъмен режим?"</string>
     <string name="open_dark_mode_dialog_title">Съвместимост с тъмен режим</string>
     <string name="screen_cancel">Отказ</string>
     <string name="screen_confirm">Включи</string>
+	<string name="aod_lock_screen_date">EEEE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
 </resources>

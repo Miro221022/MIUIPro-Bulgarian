@@ -483,7 +483,7 @@
   <string name="vpn_always_on_invalid_reason_server">Винаги включените виртуални частни мрежи (VPN) поддържат само адреси на сървър, съставени от цифри</string>
   <string name="vpn_always_on_invalid_reason_type">Не можете да поддържате постоянна връзка с виртуални частни мрежи (VPN) от този тип</string>
   <string name="vpn_always_on_summary">Поддържайте постоянна връзка с VPN</string>
-  <string name="vpn_always_on_summary_active">Режимът „Винаги включено“ е активен</string>
+  <string name="vpn_always_on_summary_active">Режимът „Винаги включен“ е активен</string>
   <string name="vpn_always_on_summary_not_supported">Не се поддържа от това приложение</string>
   <string name="vpn_disconnected">Връзката с виртуалната частна мрежа (VPN) е прекратена</string>
   <string name="vpn_disconnected_summary">Няма</string>
