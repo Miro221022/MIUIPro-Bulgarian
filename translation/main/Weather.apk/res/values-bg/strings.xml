@@ -247,4 +247,5 @@
   <string name="xiaomi_weather_description_title">Относно Времето</string>
   <string name="yes_vote_ratio">За %1$s%%</string>
   <string name="your_location">Вашето местоположение</string>
+  <string name="activity_find_city_dialog_message_location_service">За да получите сответната информация за времето, разрешете на Времето да получи достъп до вашето местоположение.</string>
 </resources>
