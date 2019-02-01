@@ -2372,7 +2372,7 @@
     <string name="untitled_apn">Без заглавие</string>
     <string name="sound_category_sound_title">Общи</string>
     <string name="notification_log_title">Регистрационен файл за известията</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Мелодия на обаждане и вибриране</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Тон при повикване и звуци за известяване</string>
     <string name="sound_category_system_title">Система</string>
     <string name="wifi_setup_title">Настройка на Wi-Fi</string>
     <string name="wifi_setup_title_editing_network">Свържете се с Wi-Fi мрежата %s</string>
@@ -4570,7 +4570,7 @@
     <string name="recent_location_requests_title">Достъп до местоположение</string>
     <string name="recent_location_requests_summary">Приложенията по-долу искат да преглеждат информация за местоположението ви</string>
     <string name="permission_manager">Разрешения</string>
-    <string name="personal_section_title">Лични</string>
+    <string name="personal_section_title">Персонални</string>
     <string name="system_and_device_section_title">Система и устройство</string>
     <string name="application_manager_section_title">Приложения</string>
     <string name="bluetooth_unlock_title">Отключване чрез Bluetooth устройство</string>
