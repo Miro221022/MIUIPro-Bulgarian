@@ -21,7 +21,7 @@
 	<string name="full_avatar_title">Снимка на цял екран</string>
 	<string name="incall_background_title">На цял екран без снимки</string>
 	<string name="incall_small_background_title">Стандартно без снимки</string>
-	<string name="default_image_pick">Избери снимка от галерията</string>
+	<string name="default_image_pick">Избор снимка от галерията</string>
 	<string name="call_record_setrate">Настройки за качеството на записите</string>
     <string name="set_samplingrate_title">Честота</string>
     <string name="set_bitrate_title">Скорост на запис</string>

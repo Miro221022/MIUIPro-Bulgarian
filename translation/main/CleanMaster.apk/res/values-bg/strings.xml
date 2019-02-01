@@ -25,7 +25,7 @@
   <string name="activity_title_video">Изтриване на видео</string>
   <string name="activity_title_white_list">Изключения</string>
   <string name="ad_install_success_dialog_lunch">Отваряне</string>
-  <string name="ad_install_success_dialog_title">Инсталирани сауспешно %1$s. Да ги отворя ли?</string>
+  <string name="ad_install_success_dialog_title">%1$s са инсталирани успешно. Отваряне сега?</string>
   <string name="analying">Анализиране…</string>
   <string name="apk_status_damage">Повредено</string>
   <string name="apk_status_duplicate">Дубликат</string>
@@ -262,7 +262,7 @@
   <string name="label_image_list_none">Няма</string>
   <string name="label_preserve_the_best_image">Запазете най-качествените снимки</string>
   <string name="last_check_canceled">Предишното сканиране бе отменено</string>
-  <string name="load_only_under_wlan">Зреждане само чрез Wi-Fi</string>
+  <string name="load_only_under_wlan">Зареждане само чрез WLAN</string>
   <string name="location_not_found">Файлът не е открит</string>
   <string name="login_immediately">Вписване</string>
   <string name="long_click_dialog_summary">Дълго натискане за добавяне на изключения.</string>
@@ -285,8 +285,8 @@
   <string name="menu_view">Преглед в папката</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">Проверка за актуализации...</string>
-  <string name="msg_cleanup_db_update_time_unknown">Обновяване: неизвестно</string>
-  <string name="msg_update_error_code_already_running">Обновяване</string>
+  <string name="msg_cleanup_db_update_time_unknown">Последна актуализация: неизвестно</string>
+  <string name="msg_update_error_code_already_running">Актуализиране…</string>
   <string name="msg_update_error_code_network_error">Грешка на мрежата</string>
   <string name="msg_update_error_code_no_newer_db">Почистване е актуално</string>
   <string name="msg_update_error_code_success">Обновено</string>
@@ -321,7 +321,7 @@
   <string name="pref_category_title_other_clean_settings">Допълнителни настройки</string>
   <string name="pref_content_cleanup_white_list_none">Няма</string>
   <string name="pref_summary_auto_clean_and_alert">Автоматично почистване на отпадъците</string>
-  <string name="pref_summary_auto_update_cleanup_db">Обновяване: %s</string>
+  <string name="pref_summary_auto_update_cleanup_db">Последна актуализация %s</string>
   <string name="pref_summary_cleanup_white_list">Предотвратява почистването на избраните приложения</string>
   <string name="pref_summary_expand_cache_group">Автоматично разширяване на елементите в списъка с кеша</string>
   <string name="pref_summary_garbage_auto_clean_content">Изберете какво да се почиства автоматично</string>
@@ -339,7 +339,7 @@
   <string name="pref_title_garbage_cleanup_check_size">Лимит на отпадъците</string>
   <string name="pref_title_garbage_cleanup_check_time">Почистване по график</string>
   <string name="pref_title_garbage_cleanup_size">Лимит на отпадъците</string>
-  <string name="pref_title_manual_check_cleanup_db_update">Обнови сега</string>
+  <string name="pref_title_manual_check_cleanup_db_update">Проверка за актуализации</string>
   <string name="pref_title_open_optimizer_cloud_scan">Качване</string>
   <string name="pref_title_open_optimizer_memory_scan">Почистване на паметта</string>
   <string name="privacy_app_desc">Профил и парола</string>
@@ -370,7 +370,7 @@
   <string name="qq_data_type_normal_desc">Изтриването им няма да повлияе на използването на устройството.</string>
   <string name="qq_data_type_other">Други</string>
   <string name="qq_data_type_other_desc">Бъдете внимателни, може да не успеете да възстановите файловете след тяхното изтриване.</string>
-  <string name="recommend_news">Получавайте препоръки</string>
+  <string name="recommend_news">Получаване на препоръки</string>
   <string name="recommend_the_following">Направете следните действия, за да получите повече от вашето устройство</string>
   <string name="recommended">Препоръчани</string>
   <string name="resutl_function_deep_clean_summary">" \"\"\"&lt;font color=\"#ff0000\"&gt;%1$s&lt;/font&gt;\"\" още файлове могат да бъдат почистени. Освободете повече място.;\" "</string>

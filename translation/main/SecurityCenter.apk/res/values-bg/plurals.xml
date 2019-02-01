@@ -211,12 +211,12 @@
         <item quantity="one">%d ден от последната проверка</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">Подозрителни елементи: %d</item>
-        <item quantity="one">Подозрителни елементи: %d</item>
+        <item quantity="other">%d риска,</item>
+        <item quantity="one">%d риск,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d троянски коне,</item>
-        <item quantity="one">%d троянски кон,</item>
+        <item quantity="other">%d троянски коне</item>
+        <item quantity="one">%d троянски кон</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Опасни приложения: %d</item>
