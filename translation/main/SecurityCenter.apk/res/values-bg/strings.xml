@@ -313,9 +313,9 @@
     <string name="st_confirm_dialog_summary_contact_call">Всички обаждания от контакти ще бъдат блокирани.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Включете, за да блокирате входящи повиквания от чуждестранни телефонни номера.</string>
     <string name="cta_dialog_title">Известие за свързване</string>
-    <string name="cta_dialog_msg">Оптимизацията се нуждае от интернет връзка за получаване на актуализации, както и достъп до местоположение за да работи нормално.</string>
+    <string name="cta_dialog_msg">Сигурност се нуждае от интернет връзка за получаване на актуализации, както и достъп до местоположение за да работи нормално.</string>
     <string name="cta_settings">Разрешаване на интернет връзка</string>
-    <string name="gdpr_msg"><Data>"За да използвате основните функции на Оптимизация, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни, включително информация за начините, по които използвате функциите на Оптимизация (например, статистика за използване на мобилни данни, информация за злонамерен софтуер, както и основна информация за вашето устройство) и други видове информация, посочени в нашата &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a>."</Data></string>
+    <string name="gdpr_msg"><Data>"За да използвате основните функции на Сигурност, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни, включително информация за начините, по които използвате функциите на Сигурност (например, статистика за използване на мобилни данни, информация за злонамерен софтуер, както и основна информация за вашето устройство) и други видове информация, посочени в нашата &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a>."</Data></string>
     <string name="app_name_na">Монитор за данни</string>
     <string name="list_empty_text">Празно</string>
     <string name="dialog_title_attention">Внимание</string>
@@ -622,7 +622,7 @@
     <string name="tc_sms_report_notify_get_timeout_body">Времето за изчакване изтече. Уверете се, че кодът на заявката е точен.</string>
     <string name="tc_sms_report_notify_get_failure_title">Не може да се получи SMS с данни за трафика</string>
     <string name="tc_sms_report_notify_correction_failure_title">Не може да се актуализира информацията за трафика</string>
-    <string name="tc_sms_report_notify_correction_body">Отидете в приложението Монитор за данни в Оптимизация и опитайте отново ръчно.</string>
+    <string name="tc_sms_report_notify_correction_body">Отидете в приложението Монитор за данни в Сигурност и опитайте отново ръчно.</string>
     <string name="tc_sms_report_notify_get_failure_body">Неуспешно изпращане на доклад. Проверете параметрите на мрежата.</string>
     <string name="tc_sms_report_tips_dialog_title">SMS доклад за трафика</string>
     <string name="tc_sms_report_tips_dialog_message">Ще бъде изпратен SMS за да се получи актуална информация за изразходваните мобилни данни от вашия оператор. Ако смятате, че информацията не е правилна, оставете ни обратна връзка.</string>
@@ -818,7 +818,7 @@
     <string name="tc_diagnostic_operator_result"><font color="'#CC0000'">&lt;<font color="'#CC0000'">"font color=\"'#CC0000'\">\"&lt;font color=\"'#CC0000'\">&lt;&lt;font color=\"'#CC0000'\">\"font color=\"'#CC0000'\">\"&lt;font color='#CC0000'>Резултат:грешен доставчик&lt;br/>&lt;br/>Избери доставчик: &lt;xliff:g id=operator example=CMC"</font></font>C>%1$s&lt;/xliff:g>&lt;br/>Ак\"&lt;/font>туален доставчик: &lt;xlif\"&lt;/font>&lt;/font>f:g id=location example\"&lt;/font>=UNICOM>%2$s&lt;/xliff:g>&lt;/font></string>
     <string name="tc_diagnostic_brand_result"><font color="'#CC0000'">&lt;<font color="'#CC0000'">"font color=\"'#CC0000'\">\"&lt;font color=\"'#CC0000'\">&lt;&lt;font color=\"'#CC0000'\">\"font color=\"'#CC0000'\">\"&lt;font color='#CC0000'>Резултат:Грешно име на доставчика&lt;br/>&lt;br/>Избери име: &lt;xliff:g id=brand example=UNICO"</font></font>M 3G>%1$s&lt;/xliff:g>&lt;br/\"&lt;/font>Актуално име: &lt;xliff:g\"&lt;/font>&lt;/font> id=location example=UN\"&lt;/font>ICOM 4G>%2$s&lt;/xliff:g>&lt;/font></string>
     <string name="tc_diagnostic_result"><font color="'#CC0000'">&lt;<font color="'#CC0000'">"font color=\"'#CC0000'\">\"&lt;font color=\"'#CC0000'\">&lt;&lt;font color=\"'#CC0000'\">\"font color=\"'#CC0000'\">\"&lt;font color='#CC0000'>Резултат: Не може да се завърши ди"</font></font>агностиката&lt;br/>&lt;br/>До\"&lt;/font>кладвай проблема на MIU\"&lt;/font>&lt;/font>I за да подобрите прило\"&lt;/font>жението за диагностика&lt;/font></string>
-    <string name="tc_diagnostic_success_result"><font color="'#CC0000'">&lt;<font color="'#CC0000'">"font color=\"'#CC0000'\">\"&lt;font color=\"'#CC0000'\">&lt;&lt;font color=\"'#CC0000'\">\"font color=\"'#CC0000'\">\"&lt;font color='#CC0000'>Резултат: Настройките за доставчика са коректни &lt;br/>&lt;br/>Не мога да настроя корекциите:&lt;br/>1. Статуса на доставчика може да е нереален в началото и края на месеца.&lt;br/>2. Услугите на приложението Оптимизация не бяха"</font></font> обновени&lt;br/>&lt;br/>Докл\"&lt;/font>адвайте проблема на MIU\"&lt;/font>&lt;/font>I за да подобрите прило\"&lt;/font>жението за диагностика&lt;/font></string>
+    <string name="tc_diagnostic_success_result"><font color="'#CC0000'">&lt;<font color="'#CC0000'">"font color=\"'#CC0000'\">\"&lt;font color=\"'#CC0000'\">&lt;&lt;font color=\"'#CC0000'\">\"font color=\"'#CC0000'\">\"&lt;font color='#CC0000'>Резултат: Настройките за доставчика са коректни &lt;br/>&lt;br/>Не мога да настроя корекциите:&lt;br/>1. Статуса на доставчика може да е нереален в началото и края на месеца.&lt;br/>2. Услугите на приложението Сигурност не бяха"</font></font> обновени&lt;br/>&lt;br/>Докл\"&lt;/font>адвайте проблема на MIU\"&lt;/font>&lt;/font>I за да подобрите прило\"&lt;/font>жението за диагностика&lt;/font></string>
     <string name="tc_diagnostic_notification_title">Диагностика на оператора</string>
     <string name="tc_diagnostic_notification_summary">Неуспешно настройване 5 пъти подред. Чукнете, за да започне диагностика.</string>
     <string name="tc_diagnostic_upload_success">Благодарим ви за отзива!</string>
@@ -851,7 +851,7 @@
     <string name="firewall_partial">Разреши на някои приложения да се свързват, използвайки следния начин</string>
     <string name="exception_titile">Настъпи грешка</string>
     <string name="exception_notify_message">Не може да се пресметне статистиката на мобилните данни, поради грешка. Рестартирайте за да възстановите.</string>
-    <string name="exception_dialog_message">Употребата на мобилни данни не може да се пресметне, поради грешка. Без правилно изчисляване на изразходваните мобилни данни, Оптимизация няма да може да наблюдава тяхната употреба. Да се рестартира ли устройството, за да се възстанови тази услуга?</string>
+    <string name="exception_dialog_message">Употребата на мобилни данни не може да се пресметне, поради грешка. Без правилно изчисляване на изразходваните мобилни данни, Сигурност няма да може да наблюдава тяхната употреба. Да се рестартира ли устройството, за да се възстанови тази услуга?</string>
     <string name="exception_dialog_ok_button">Рестарт</string>
     <string name="sms_detail_fragment_title_traffic">Оставащи мобилни данни</string>
     <string name="sms_detail_fragment_title_bill">Оставащ кредит</string>
@@ -901,7 +901,7 @@
     <string name="optimize_result_header_view_summary">Ускорение на скоростта</string>
     <string name="optimize_result_available_memory_info">Достъпна памет</string>
     <string name="optimize_result_title_uninstall_apps">Приложения</string>
-    <string name="om_settings_title">Настройки за оптимизация</string>
+    <string name="om_settings_title">Настройки</string>
     <string name="om_settings_lock_app_manage">Заключване на приложения</string>
     <string name="om_settings_lock_app">Заключване на приложения</string>
     <string name="om_settings_speed_up_auto">Автоматично подобряване на скоростта</string>
@@ -1264,7 +1264,7 @@
     <string name="sp_empty_title_sign_exception">Задръжте приложението, за да го добавите към изключения</string>
     <string name="sp_toast_removed_from_sign_white_list">Преместено от Изключенията. Елементът ще бъде сканиран следващият път.</string>
     <string name="sp_network_privacy_dialog_title">Не може да се използва сигурно сканиране</string>
-    <string name="sp_network_privacy_dialog_message">Приложението Оптимизация не може да работи правилно, поради ограничения в интернет връзката. Да разреша ли на Оптимизация да се свърже с интернет?</string>
+    <string name="sp_network_privacy_dialog_message">Приложението Сигурност не може да работи правилно, поради ограничения в интернет връзката. Да разреша ли на Сигурност да се свърже с интернет?</string>
     <string name="sp_settings_exception_count_zero">Няма съдържание</string>
     <string name="sp_monitored_apps_count_zero">Няма приложения за плащане</string>
     <string name="monitor_app_more">Повече</string>
@@ -1284,7 +1284,7 @@
     <string name="resource_securitycenter_settings">Сигурност</string>
     <string name="keywords_securitycenter_settings">Употреба на батерията;Настройки за автостарт;Инсталиране през USB;Права на приложенията;Купуване на мобилен интернет;Списък с блокирани;Употреба на данни;Настройка на план за данни;Тест на мрежата; Икономия на батерията;Прегряване;Включване; Изключване;Батерия;Преразход;Проблеми с батерията;Енергия;Запазване на батерията;Пестене на енергия;Съхранение на енергия;Пестене на батерията; Автостарт;Права;Автостарт;MIUI автостарт; Автостарт на прилож; автостарт на прилож;Ограничен старт;ограничено стартиране;внезапно стартиране; USB инсталиране;инсталиране от компютър;ADB инсталиране; Местоположение;Достъп до контакти; данни;мобилни данни;купуване на данни;увеличаване на данни;план за данни; Блокирайте;Списък с блокирани;Умен списък с блокирани;Измамници;Продавачи;Агенти;Блокирани обаждания;Блокирани съобщения;Блокирани съобщения;SMS списък блокирани;черен списък;черен списък;списък блокирани;списък блокирани;измами;блокиран контакт;блокирани контакти; Трафик; Калибриране; Свързване;Интернет;Тест; Използване на батерията;Игри;ускорител на игри;Режим Производителност;Режим Не ме безпокойте</string>
     <string name="path_securitycenter_settings">Системни приложения/Сигурност</string>
-    <string name="resource_securitycenter">Оптимизация</string>
+    <string name="resource_securitycenter">Сигурност</string>
     <string name="keywords_securitycenter">Сигурност;Проверка;Сканиране</string>
     <string name="path_securitycenter">Системни приложения/Сигурност</string>
     <string name="resource_cleanmaster">Почистване</string>
@@ -1298,16 +1298,16 @@
     <string name="path_powercenter">Системни приложения/Сигурност/Използване на батерията</string>
     <string name="resource_auto_restart">Настройки за автостарт</string>
     <string name="keywords_auto_restart">Автостарт; Права;Автоматично стартиране;Автостарт; Настройки на автостарт; MIUI автостарт; Автостарт на приложения; автостарт на прилож;Ограничено стартиране;ограничен старт;внезапно стартиране</string>
-    <string name="path_auto_restart">Системни приложения/Оптимизация/Разрешения /Автостартиране</string>
+    <string name="path_auto_restart">Системни приложения/Сигурност/Разрешения /Автостартиране</string>
     <string name="resource_usb_install">Инсталирайте през USB</string>
     <string name="keywords_usb_install">USB инсталиране;инсталиране от компютър;ADB инсталиране</string>
-    <string name="path_usb_install">Системни приложения/Оптимизация/Разрешения/Инсталиране през USB</string>
+    <string name="path_usb_install">Системни приложения/Сигурност/Разрешения/Инсталиране през USB</string>
     <string name="resource_app_permissions">Разрешения на приложения</string>
     <string name="keywords_app_permissions">Разрешения;Местоположение;Достъп до контактите;Разрешения;Разрешения на приложения</string>
-    <string name="path_app_permissions">Системни приложения/Оптимизация/Разрешения /Разрешения на приложения</string>
+    <string name="path_app_permissions">Системни приложения/Сигурност/Разрешения /Разрешения на приложения</string>
     <string name="resource_buy_flow">Купете мобилни данни</string>
     <string name="keywords_buy_flow">данни;мобилни данни;купуване на мобилни данни;купете мобилни данни;увеличете плана си;мобилен план за данни</string>
-    <string name="path_buy_flow">Системни приложения/Оптимизация/Използване на мобилни данни/Купуване на мобилни данни</string>
+    <string name="path_buy_flow">Системни приложения/Сигурност/Използване на мобилни данни/Купуване на мобилни данни</string>
     <string name="resource_antispam">Блокирани</string>
     <string name="keywords_antispam">Списък блокирани;Блокиране;Черен списък;Измамници;Продавачи;Агенти;Списък блокирани обаждания;Списък блокирани съобщения;Списък с блокирани съобщения;SMS списък блокирани;списък блокирани;черен списък;списък блокирани;списък блокирани;измами;блокиран контакт;блокирани контакти</string>
     <string name="path_antispam">Системни приложения/Списък с блокирани</string>
@@ -1325,8 +1325,8 @@
     <string name="path_powercenter_powerrank">Батерия и производителност/Използване на батерията</string>
     <string name="resource_gamebooster">Подобряване на бързината при игри</string>
     <string name="keywords_gamebooster">Игра;увеличаване на скоростта;King of Glory;Режим на изпълнение;DND;Игри;Играене;Скорост на игра;ускорение</string>
-    <string name="path_gamebooster">Системни приложения/Оптимизация/Ускорител на игри</string>
-    <string name="app_name_securitycenter">Оптимизация</string>
+    <string name="path_gamebooster">Системни приложения/Сигурност/Ускорител на игри</string>
+    <string name="app_name_securitycenter">Сигурност</string>
     <string name="back_description_securitycenter">Назад</string>
     <string name="ok">ОК</string>
     <string name="exit">Изход</string>
@@ -1417,7 +1417,7 @@
     <string name="menu_item_notification_power_text">Енергия</string>
     <string name="menu_item_notification_antispam_text_normal">Спам</string>
     <string name="menu_item_notification_antispam_text_avail">Спам</string>
-    <string name="pref_category_title_securitycenter_settings">Настройки на Оптимизация</string>
+    <string name="pref_category_title_securitycenter_settings">Настройки на Сигурност</string>
     <string name="pref_category_title_module_settings">Настройки на модулите</string>
     <string name="Settings_title_garbage_cleanup">Настройка на Почистване</string>
     <string name="Settings_title_network_assistants">Настройка на Монитор</string>
@@ -1525,7 +1525,7 @@
     <string name="title_cloud_service">Mi Cloud е изкл.</string>
     <string name="summary_cloud_service">Използвайте Mi Cloud за архивиране на данните си в случай на пореда или загуба на устройството ви.</string>
     <string name="title_network_switch">Мрежа</string>
-    <string name="summary_network_switch">Позволете мобилни данни при използване на Оптимизация</string>
+    <string name="summary_network_switch">Позволете мобилни данни при използване на Сигурност</string>
     <string name="title_power_optimizer">Спест. на батерия е изкл.</string>
     <string name="summary_power_optimizer">За удължаване на живота на батерията, спест. на батерия ще намали производителността когато остава малко заряд.</string>
     <string name="title_data_flow_monitor">Мониторът за данни е вкл</string>
@@ -1617,9 +1617,9 @@
     <string name="virus_update_tips_title">Внимание</string>
     <string name="virus_wait_network_dialog_message">"Вашият телефон в момента не е свързан с WLAN. Да се използват ли мобилни данни?"</string>
     <string name="antivirus_not_wlan">Не сте свързан с Wi-Fi мрежа. Използването на мобилни данни може да е причина за допълнително таксуване. Продължете?</string>
-    <string name="antivirus_longtime_no_update">Базата данни на антивирусната програма е остаряла. Редовните нейни актуализации са гаранция за добри резултати при сканиране. Да разреша ли на Оптимизация да се свърже с интернет и обнови вирусните дефиниции?</string>
+    <string name="antivirus_longtime_no_update">Базата данни на антивирусната програма е остаряла. Редовните нейни актуализации са гаранция за добри резултати при сканиране. Да разреша ли на Сигурност да се свърже с интернет и обнови вирусните дефиниции?</string>
     <string name="antivirus_longtime_no_update1">Базата данни на антивирусната програма е остаряла. Редовните нейни актуализации са гаранция за добри резултати при сканиране. Обновете антивирусните дефиниции и опитайте отново.</string>
-    <string name="antivirus_sec_network_unavailable">Приложението Оптимизация не може да се актуализира, защото сте ограничили интернет връзката. Да се разреши ли на Оптимизация да се свърже с интернет?</string>
+    <string name="antivirus_sec_network_unavailable">Приложението Сигурност не може да се актуализира, защото сте ограничили интернет връзката. Да се разреши ли на Сигурност да се свърже с интернет?</string>
     <string name="antivirus_update_btn_contiue">Продължи</string>
     <string name="antivirus_update_btn_open">Приеми</string>
     <string name="antivirus_update_btn_update">Актуализирай</string>
@@ -1650,7 +1650,7 @@
     <string name="hints_scanning">Сканира се…</string>
     <string name="hints_scan_result_phone_safe">Изглежда всичко е наред</string>
     <string name="virus_scan_process_pre">%</string>
-    <string name="try_recommended_function">Защитете вашето устройство с новите услуги за Оптимизация</string>
+    <string name="try_recommended_function">Защитете вашето устройство с новите услуги за Сигурност</string>
     <string name="activity_title_white_list">Изключения</string>
     <string name="uninstall_danagerous_title">Премахване на вредните приложения</string>
     <string name="uninstall_danagerous_desc">\"%s\" може да повреди вашето устройство</string>
@@ -1717,7 +1717,7 @@
     <string name="card_main_xspace_title">Клониране</string>
     <string name="card_main_xspace_summary">Създайте два профила за всяко приложение</string>
     <string name="card_main_xspace_action">Създаване</string>
-    <string name="card_main_overscroll_tips">Оптимизация</string>
+    <string name="card_main_overscroll_tips">Сигурност в най-добрия си вид</string>
     <string name="card_main_gamebooster_title">Ускорител за игри</string>
     <string name="skin_change_close_toast">Промените ще бъдат приложени следващия път, когато стартирате приложението</string>
     <string name="password_type">Промяна на паролата</string>
@@ -2059,7 +2059,7 @@
     <string name="gs_performance_mode_detail">Увеличете скоростта на процесора за по-добра производителност</string>
     <string name="gs_open_game_booster">Подобряване на скоростта</string>
     <string name="gs_dialog_confirm_close_title">Изключи</string>
-    <string name="gs_dialog_confirm_close_msg">Прекия път ще бъде премахнат от Началния екран. Отидете до Оптимизация > Настройки за да го възстановите.</string>
+    <string name="gs_dialog_confirm_close_msg">Прекия път ще бъде премахнат от Началния екран. Отидете в Сигурност > Настройки за да го възстановите.</string>
     <string name="gs_game_performance">Производителност</string>
     <string name="gs_game_duration">Време</string>
     <string name="gs_game_disturb_msg">Тих режим</string>
@@ -2079,7 +2079,7 @@
     <string name="already_close_gamebooster">Ускорителят на игри е изключен</string>
     <string name="no_game">"Не бяха намерени игри"</string>
     <string name="gamebooster_network_dialog_title">Някои услуги не са достъпни</string>
-    <string name="gamebooster_network_dialog_message">Позволявате ли на Оптимизация да се свърже с мрежата, за да използва всички услуги за ускоряване на игрите?</string>
+    <string name="gamebooster_network_dialog_message">Позволявате ли на Сигурност да се свърже с мрежата, за да използва всички услуги за ускоряване на игрите?</string>
     <string name="create_shortcut">Създайте пряк път за Ускорител на игри на Начален екран</string>
     <string name="i_know">Направено</string>
     <string name="open_game">Отваряне</string>

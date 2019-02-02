@@ -34,7 +34,7 @@
   <string name="cancel">Отказ</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Изход</string>
-  <string name="cta_dialog_msg">Оптимизация изисква достъп до мрежата, също така и до местоположението за да работи нормално.</string>
+  <string name="cta_dialog_msg">Сигурност изисква достъп до мрежата, също така и до местоположението за да работи нормално.</string>
   <string name="cta_dialog_title">Internet connection</string>
   <string name="dlg_app_replacement_statement">Приложението, което инсталирате, ще замени друго приложение.\u000d\n\u000d\nВсички ваши предишни потребителски данни ще бъдат запазени.</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) ще замени инсталираната понастоящем версия (%3$s). Всички съществуващи данни за приложенията ще бъдат запазени.</string>

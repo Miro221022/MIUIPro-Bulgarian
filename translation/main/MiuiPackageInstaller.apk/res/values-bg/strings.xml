@@ -444,7 +444,7 @@
     <string name="miui_failed_parse">"Инсталационният пакет не можe да бъде анализиран"</string>
     <string name="miui_failed_other">Друго</string>
     <string name="cta_dialog_title">Интернет връзка</string>
-    <string name="cta_dialog_msg">Оптимизация се нуждае от интернет връзка за обновяване, също и от достъп до местоположението за да работи норнално.</string>
+    <string name="cta_dialog_msg">Сигурност се нуждае от интернет връзка за обновяване, също и от достъп до местоположението за да работи норнално.</string>
     <string name="cta_button_text_cancel">Изход</string>
     <string name="cta_button_text_agree">OK</string>
     <string name="miui_help_feedback_label">Помощ и обратна връзка</string>

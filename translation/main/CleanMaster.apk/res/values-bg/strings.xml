@@ -106,7 +106,7 @@
   <string name="clipboard">Клипборд</string>
   <string name="close">Затвори</string>
   <string name="confirm_auto_cleaner">ОК</string>
-  <string name="conn_of_function_safe">Връзка с мрежата за Оптимизация</string>
+  <string name="conn_of_function_safe">Връзка с мрежата за Сигурност</string>
   <string name="connecting">Установява се връзка…</string>
   <string name="deep_clean_completed_tips">Успешно почистено</string>
   <string name="deep_clean_data_path_clean_title">Изчисти кеша</string>
@@ -403,7 +403,7 @@
   <string name="tips_of_app_manage">Изтриване на рядко използвани приложения за спестяване на място</string>
   <string name="tips_of_auto_launch_manage">Не допуска рядко използваните приложения да стартират автоматично</string>
   <string name="tips_of_cloud_service">Влезте с вашия Mi профил, за да използвате повече Mi услуги</string>
-  <string name="tips_of_connect">Свържете се с интернет, за да използвате пълния набор от услуги в Оптимизация</string>
+  <string name="tips_of_connect">Свържете се с интернет, за да използвате пълния набор от услуги в Сигурност</string>
   <string name="tips_of_garbage_cloud_scan">Намерете скритите отпадъци чрез сканиране на облака</string>
   <string name="tips_of_garbage_data_set">Актуализирайте базата данни на Почистване, за да откривате повече отпадъци в устройствот ви</string>
   <string name="tips_of_network_speed_set">Вижте скоростта на мрежата в статус лентата</string>

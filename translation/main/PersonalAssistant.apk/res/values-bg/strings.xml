@@ -251,7 +251,7 @@
   <string name="entrance">Пряк път за карти</string>
   <string name="error_share_not_support">Тези елементи не се поддържат в любими.</string>
   <string name="exercise_setting_brief">Измерете разстоянието и бройте стъпките, които правите ежедневно</string>
-  <string name="exercise_setting_misport_detail">Измерете разстоянието и бройте стъпките, които правите ежедневно (Разрешете на Mi Фитнес) автоматично стартиране в Оптимизация-Разрешения).</string>
+  <string name="exercise_setting_misport_detail">Измерете разстоянието и бройте стъпките, които правите ежедневно (Разрешете на Mi Фитнес) автоматично стартиране в Сигурност-Разрешения).</string>
   <string name="express">Експресна доставка</string>
   <string name="express_add_new_address">Добавяне на адрес</string>
   <string name="express_address_delete_warning">Да се ​​изтрие ли този адрес?</string>
@@ -436,7 +436,7 @@
   <string name="favorite_title_modify">Промяна</string>
   <string name="favorite_title_modify_success">Променено успешно</string>
   <string name="flow_open">Покажи карта за мобилни данни</string>
-  <string name="flow_setting_brief">Вижте информация за вашите мобилни данни (добавете вашия план за мобилни данни в Оптимизация &gt; Употреба на данни).</string>
+  <string name="flow_setting_brief">Вижте информация за вашите мобилни данни (добавете вашия план за мобилни данни в Сигурност &gt; Употреба на данни).</string>
   <string name="focus">Следвайте статуса</string>
   <string name="focus_stocks">Моите фирми</string>
   <string name="function_aiqiyi_record">Последни видеоклипове</string>
@@ -726,7 +726,7 @@
   <string name="search_label">Търсене…</string>
   <string name="search_setting_description">Заглавия в любими</string>
   <string name="search_tip">Търсене…</string>
-  <string name="security">Оптимизация</string>
+  <string name="security">Сигурност</string>
   <string name="send_action_title">Добави в любими</string>
   <string name="send_shortcut_failed">Не може да се изпрати</string>
   <string name="send_shortcut_success">Разположен на Началния екран</string>
@@ -834,7 +834,7 @@
   <string name="steps_misport_download">Изтегляне</string>
   <string name="steps_misport_go">Разреши</string>
   <string name="steps_misport_ok">Разбрах това</string>
-  <string name="steps_misport_tip">Впишете се в Mi Фитнес, използвайки вашия Mi Профил и разрешете автоматично стартиране в Оптимизация - Разрешения.</string>
+  <string name="steps_misport_tip">Впишете се в Mi Фитнес, използвайки вашия Mi Профил и разрешете автоматично стартиране в Сигурност - Разрешения.</string>
   <string name="steps_sport">Mi Фитнес</string>
   <string name="steps_sport_des">Получаване на точна информация от приложението Mi Фитнес.</string>
   <string name="steps_vip">Стъпки</string>

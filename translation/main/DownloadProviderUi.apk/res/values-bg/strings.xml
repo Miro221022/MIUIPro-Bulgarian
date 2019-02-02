@@ -68,7 +68,7 @@
   <string name="dialog_insufficient_space_on_cache">Изтеглянето не може да бъде завършено. Няма достатъчно място на вътрешната памет.</string>
   <string name="dialog_insufficient_space_on_external">Изтеглянето не може да бъде завършено. Няма достатъчно място на външната памет.</string>
   <string name="dialog_media_not_found">Свържете външното хранилище, за да започнете изтеглянето.</string>
-  <string name="dialog_msg_disabled_net">%1$s ограничено изтегляне за текущата мрежа. Докоснете Мрежови настройки, за да отидете в приложението за Оптимизация.</string>
+  <string name="dialog_msg_disabled_net">%1$s ограничено изтегляне за текущата мрежа. Докоснете Мрежови настройки, за да отидете в приложението Сигурност.</string>
   <string name="dialog_msg_recommend">"Няма да можете да преглеждате препоръчваните източници, след като ги изключите. Можете да изберете" Зареждане на съдържание само с WLAN ", за да спестите мобилните данни..</string>
   <string name="dialog_queued_body">Този файл е в списъка за бъдещо изтегляне.</string>
   <string name="dialog_speed_cancel">Отказ</string>
