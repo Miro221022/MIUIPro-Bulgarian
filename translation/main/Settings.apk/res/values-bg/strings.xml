@@ -2335,19 +2335,19 @@
     <string name="privacy_settings_title">Резервни копия и нулиране</string>
     <string name="backup_section_title">Резервни копия и възстановяване</string>
     <string name="personal_data_section_title">Лични данни</string>
-    <string name="backup_data_title">Резервно копие на данните ми</string>
+    <string name="backup_data_title">Архивиране на данните ми</string>
     <string name="backup_data_summary">Създаване на резервно копие в сървърите на Google на данните за приложенията, паролите за Wi-Fi и другите настройки</string>
-    <string name="backup_configure_account_title">Резервно копие на профила</string>
+    <string name="backup_configure_account_title">Профил за архивиране</string>
     <string name="include_app_data_title">Включване на данните от приложението</string>
     <string name="auto_restore_title">Автоматично възстановяване</string>
-    <string name="auto_restore_summary">При повторно инсталиране на приложение да се възстановят настройките и данните от резервното копие</string>
+    <string name="auto_restore_summary">Когато преинсталирате приложение, възстановете архивираните настройки и данни</string>
     <string name="backup_inactive_title">Услугата за създ. на резервно копие не е активна.</string>
     <string name="backup_configure_account_default_summary">Понастоящем няма профил, който съхранява данните от резервното копие</string>
     <string name="backup_erase_dialog_message">Да се спре ли създаването на резервни копия на вашите пароли за Wi-Fi, отметки, други настройки и данните за приложенията ви и да се изтрият всички копия от сървърите на Google?</string>
-    <string name="fullbackup_erase_dialog_message">Искате ли да спрете създаването на резервно копие на данните на устройството (като пароли за Wi-Fi и история на обажданията) и тези на приложенията (като настройки и съхранявани от приложенията файлове), както и да изтриете всички копия в отдалечените сървъри?</string>
-    <string name="fullbackup_data_summary">"Автоматично създаване на отдалечено резервно копие на данните на устройството (като пароли за Wi-Fi и история на обажданията) и тези на приложенията (като настройки и съхранявани от приложенията файлове).
+    <string name="fullbackup_erase_dialog_message">Спиране на архивирането на данни за устройството (като WLAN пароли и история на повикванията) и данните за приложенията (като настройки и файлове, съхранявани от приложенията) плюс изтриване на всички копия на отдалечени сървъри?</string>
+    <string name="fullbackup_data_summary">"Автоматично архивиране на данните в устройството (като WLAN пароли и история на повикванията) и данни за приложенията (като настройки и файлове, съхранявани от приложения).
 
-Когато включите автоматичното създаване на резервно копие, данните на устройството и на приложенията периодично се запазват отдалечено. Данните на приложенията могат да бъдат всяка запазвана от тях информация (въз основа на настройките за програмисти), включително потенциално поверителната, като например контакти, съобщения и снимки."</string>
+Когато включите автоматичното архивиране, данните за устройството и приложенията ще се съхраняват периодично дистанционно. Данните за приложения могат да бъдат всички данни, които приложенията са запазили (въз основа на настройките на програмиста), включително потенциално чувствителни данни, като контакти, съобщения и снимки."</string>
     <string name="device_admin_settings_title">Административни настройки на устройство</string>
     <string name="active_device_admin_msg">Администратор на устройство</string>
     <string name="remove_device_admin">Деактивиране на този администратор на устройството</string>
@@ -4069,7 +4069,7 @@
     <string name="shut_down_find_device_failure_confirm">OK</string>
     <string name="factory_reset_summary">Изтриване на всички ваши данни от вътрешното хранилище на устройството</string>
     <string name="erase_sure">Потвърждаване на изтриването</string>
-    <string name="erase_personal_data">Лични данни</string>
+    <string name="erase_personal_data">Всички файлове в телефона</string>
     <string name="erase_personal_data_description">Включително профили, контакти, списък с повиквания, както и други данни.</string>
     <string name="erase_sd_data">Форматиране на SD картата</string>
     <string name="erase_sd_data_description">Форматирането ще изтрие всички файлове и данни на вашата SD карта</string>
@@ -4550,7 +4550,7 @@
     <string name="lockscreen_glogin_checking_password">Проверка…</string>
     <string name="passwordIncorrect">Въведената от вас парола е неправилна</string>
     <string name="app_backup">Резервно копие</string>
-    <string name="google_backup_section_title">Google архив и нулиране</string>
+    <string name="google_backup_section_title">Архивиране в Google и нулиране</string>
     <string name="system_backup_section_title">Резервно копие</string>
     <string name="local_backup_section_title">Локални резервни копия</string>
     <string name="local_backup_section_summary">Резервно копие на системните настройки, профил и приложения</string>

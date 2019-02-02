@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Архивиране в Mi Cloud</string>
+    <string name="app_name">Архивиране в Mi Облак</string>
     <string name="settings_backup">Системни настройки</string>
     <string name="deskclock_backup">Будилник</string>
     <string name="button_cancel">Отказ</string>
@@ -15,32 +15,32 @@
     <string name="cloud_app_dont_restore">Задай като ново устройство</string>
     <string name="cloud_app_restore_wifi_prompt">Възстановяване от резервно копие в Mi Облак.</string>
     <string name="cloud_backup_detail_state">Автоматични резервни копия</string>
-    <string name="cloud_backup_detail_title">Начален екран, приложения и настройки.</string>
-    <string name="cloud_backup_detail_state_summary">Създаване на резервни копия в Mi Облак автоматично когато сте свързани с Wi-Fi.</string>
-    <string name="cloud_backup_detail_frequence">Резервно копие по график</string>
+    <string name="cloud_backup_detail_title">Начален екран, приложения и настройки</string>
+    <string name="cloud_backup_detail_state_summary">Създаване на резервни копия в Mi Облак автоматично когато сте свързани с WLAN.</string>
+    <string name="cloud_backup_detail_frequence">График за архивиране</string>
     <string name="cloud_backup_detail_time">Последен архив на: %1$s</string>
-    <string name="cloud_backup_detail_manage">Управление на рез. копия</string>
+    <string name="cloud_backup_detail_manage">Управление на резервните копия</string>
     <string name="cloud_backup_derail_size_summary">Размер: %s</string>
     <string name="cloud_back_up_opening">Една секунда…</string>
     <string name="cloud_back_up_no_network_warn">Не мога да се свържа с Wi-Fi мрежа</string>
     <string name="cloud_back_up_ok_btn">OK</string>
-    <string name="cloud_back_up_frequence_choice_title">Резервно копие по график</string>
+    <string name="cloud_back_up_frequence_choice_title">График за архивиране</string>
     <string name="cloud_back_up_frequence_long">На всеки 7 дни</string>
     <string name="cloud_back_up_frequence_short">Всеки ден</string>
     <string name="cloud_back_up_subscribe_vip_title">Надграждане на Mi профил</string>
     <string name="cloud_back_up_subscribe_vip_discription">Получете повече място за съхранение, ежедневно архивиране и още.</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Надстройка</string>
-    <string name="cloud_back_up_detail_discription">"Тези елементи ще бъдат съхранени на Mi Cloud, когато устройството ви се свърже с Wi-Fi: 
-*Приложения, Начален екран и Тапети 
-*Аларма, Часовник и Настройки на часа 
-*Настройки за известия 
-*MIUI и Системни настройки 
-\"Забележка: Данните от инсталираните приложения няма да бъдат съхранени на Mi Cloud\""</string>
+    <string name="cloud_back_up_detail_discription">"Тези елементи ще бъдат съхранени в Mi Облак, когато устройството ви се свърже с WLAN: 
+*  Приложения, оформление на начален екран и тапети 
+*  Аларма, часовник и настройки на часа 
+*  Настройки за известията 
+*  MIUI и системни настройки 
+\"Забележка: Данните от инсталираните приложения няма да бъдат съхранени на Mi Облак\""</string>
     <string name="cloud_app_no_data">Не са открити инсталирани по-рано приложения</string>
     <string name="cloud_app_restore_error">Не може да се възстанови</string>
     <string name="cloud_app_restore_success">Приложенията са възстановени</string>
     <string name="cloud_app_backup_success">Приложенията са успешно архивирани</string>
-    <string name="cloud_app_check_data">Проверка в Mi Cloud…</string>
+    <string name="cloud_app_check_data">Проверка в Mi Облак</string>
     <string name="cloud_app_no_network">Няма връзка с мрежата</string>
     <string name="button_delete">Изтрий</string>
     <string name="customization"><u>Персонализиране</u></string>
@@ -52,9 +52,9 @@
     <string name="recovering">Възстановява се %s</string>
     <string name="start_recover">Възстанови %s</string>
     <string name="latest_backup_time_loading">Зарежда се…</string>
-    <string name="start_backup_to_micloud">Архивиране на приложения в Mi Cloud</string>
+    <string name="start_backup_to_micloud">Архивиране на приложения в Mi Облак</string>
     <string name="backing_up_to_micloud">Архивира се…</string>
-    <string name="restore_from_cloud">Възстановяване от резервно копие в Mi Cloud</string>
+    <string name="restore_from_cloud">Възстановяване от резервно копие в Mi Облак</string>
     <string name="backup_to_cloud">Архив на прил.</string>
     <string name="menu_item_sort">Сортиране по</string>
     <string name="menu_item_sort_name">Име</string>
@@ -70,7 +70,7 @@
     <string name="desktop_installing">Инсталира се</string>
     <string name="desktop_wait_wifi">Изчаква</string>
     <string name="desktop_failed">Неуспешно</string>
-    <string name="recover_from_micloud">Възстановяване от резервно копие в Mi Cloud</string>
+    <string name="recover_from_micloud">Възстановяване от резервно копие в Mi Облак</string>
     <string name="click_try_to_restore_again">Чукнете за нов опит</string>
     <string name="open_wifi">Включване на Wi-Fi</string>
     <string name="open_wifi_description">Свързване към Wi-Fi мрежа за възстановяване на прил.</string>
@@ -98,24 +98,24 @@
     <string name="back_up_task_unfinished">Незавършено архивиране</string>
     <string name="about_to_recover">Един момент…</string>
     <string name="success_open_cloudbackup">Включено архивиране на прил. на Начален екран</string>
-    <string name="as_new_device">Replace previous Home screen and settings</string>
-    <string name="as_new_device_summary">Изтриване на стари архиви в Mi Cloud</string>
+    <string name="as_new_device">Заменете предишния начален екран и настройките</string>
+    <string name="as_new_device_summary">Изтриване на стари архиви в Mi Облак</string>
     <string name="restore_data_summary">Тази функция се нуждае от връзка с интернет.</string>
-    <string name="query_restore_summary">В Mi Cloud е открито резервно копие за това устройство. Да се възстановят ли приложенията на началния екран и настройките, или да се използва като ново устройство и да се изтрият архивите за него в Mi Cloud?</string>
-    <string name="restore_home_screen_apps">Възстановяване от рез. копие в Mi Cloud</string>
-    <string name="query_restore_description">Възстановяване на приложенията на начален екран и настройките чрез това резервно копие. Това ще презапише всички данни на дублиращите се приложения. Приложенията, които не са включени в резервното копие ще бъдат преместени на последния начален екран.</string>
+    <string name="query_restore_summary">В Mi Облак е открито резервно копие за това устройство. Да се възстановят ли приложенията на началния екран и настройките, или да се използва като ново устройство и да се изтрият архивите за него в Mi Cloud?</string>
+    <string name="restore_home_screen_apps">Възстановяване от резервно копие в Mi Облак</string>
+    <string name="query_restore_description">Възстановете приложенията и настройките на началния екран, като използвате този архив. Това ще презапише данните за приложения за дублираните приложения, които вече са инсталирани на това устройство. Приложенията, които не са включени в архива, ще бъдат преместени в последния начален екран.</string>
     <string name="restore_from_this_device">Възстановяване чрез това резервно копие</string>
     <string name="confirm_cancel_restore_title">Да отменя ли възстановяването?</string>
     <string name="confirm_cancel_restore_positive">Продължи</string>
     <string name="confirm_cancel_restore_negative">Отказ</string>
     <string name="confirm_restore_title">Възстанови</string>
-    <string name="confirm_restore_summary">Home screen will restart and apps will be downloaded automatically when connected to WLAN</string>
+    <string name="confirm_restore_summary">Началният екран ще се рестартира и приложенията ще се изтеглят автоматично, когато са свързани с WLAN</string>
     <string name="confirm_restore">Възстанови</string>
-    <string name="cloud_backup_have_data">Открито Резервно копие в Mi Cloud</string>
-    <string name="cloud_backup_select_recover">Изберете резервно копие от Mi Cloud</string>
+    <string name="cloud_backup_have_data">Открито Резервно копие в Mi Облак</string>
+    <string name="cloud_backup_select_recover">Изберете резервно копие от Mi Облак</string>
     <string name="backup_finished_notification_content">Архивирани бяха приложения на начален екран, системни настройки и т.н.</string>
     <string name="restore_finished_notification_content">Възстановени приложения на Начален екран, системни настройки и др.</string>
-    <string name="backup_now">Архивирай</string>
+    <string name="backup_now">Архивиране</string>
     <string name="restore_unfinished">Възстановяване, опитайте по-късно</string>
     <string name="remove_unfinished">Преместване, опитайте по-късно</string>
     <string name="backup_successfully">Успешно архивиране</string>
@@ -176,7 +176,7 @@
     <string name="home_hint_other_launcher">Друг стартов мениджър</string>
     <string name="unsupported_home">Актуализирайте MIUI до последна версия.</string>
     <string name="load_backup_failed">"Архивите не можаха да се заредят"</string>
-    <string name="loading_user_backup">Зареждане на резервни копия на потребителя…</string>
+    <string name="loading_user_backup">Зареждане на потребителските резервни копия…</string>
     <string name="try_continue">Докоснете, за да продължите</string>
 	<string name="second_space">Второ просранство</string>
     <string name="self_device">"Този телефон "</string>
