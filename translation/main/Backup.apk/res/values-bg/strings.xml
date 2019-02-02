@@ -19,12 +19,12 @@
     <string name="comma_seperator">", "</string>
     <string name="backup_failed">Неуспешно архивиране</string>
     <string name="sdcard_unmounted">Не е открита SD карта</string>
-    <string name="backup_progress">Архивиране…;</string>
+    <string name="backup_progress">Архивиране…</string>
     <string name="button_ok">ОК</string>
     <string name="button_continue">Продължи</string>
     <string name="backup_finished">Архивирането завърши</string>
     <string name="backup_report">Вижте детайли за архива</string>
-    <string name="backup_hint">Не изключвайте вашият телефон</string>
+    <string name="backup_hint">Не изключвайте устройството си</string>
     <string name="backup_hint_onpad">Не изключвайте устройството си</string>
     <string name="delete_backup_title">Изтриване на архив</string>
     <string name="delete">Изтрий</string>
@@ -32,7 +32,7 @@
     <string name="reconnect">Повторно свързване</string>
     <string name="pause">Пауза</string>
     <string name="delete_backup_process">Изтрива се…</string>
-    <string name="backup_error">Архивирането се провали</string>
+    <string name="backup_error">"Не може да се архивира"</string>
     <string name="delete_failed_backup_confirm">Резервното копие е повредено, не може да се възстанови</string>
     <string name="batch_delete_backup_confirm">Да се изтрият ли избраните резервни копия?</string>
     <string name="start_restore">Възстановяване</string>
@@ -119,7 +119,7 @@
     <string name="sc_precondition_failed">Необходимо е да обвържете Mi профила си с валиден имейл адрес</string>
     <string name="sc_internal_server_error">Вътрешна грешка на сървъра</string>
     <string name="sc_others">Възникна грешка</string>
-    <string name="succeed">Готово</string>
+    <string name="succeed">Архивирането завърши</string>
     <string name="fail">Неуспех</string>
     <string name="button_return">Назад</string>
     <string name="button_next">Напред</string>
@@ -133,14 +133,14 @@
     <string name="restore_failed">Неуспешно възстановяване</string>
     <string name="local_select_sysdata">Система</string>
     <string name="local_select_userapp">Приложения</string>
-    <string name="local_select_account_contact">Профили и Контакти</string>
+    <string name="local_select_account_contact">Профили и контакти</string>
     <string name="local_select_files">SD карта</string>
     <string name="local_select_image">Снимки</string>
     <string name="local_select_audio">Аудио файлове</string>
     <string name="local_select_video">Видео</string>
     <string name="local_select_doc">Документи</string>
     <string name="data_item_desc">Данни</string>
-    <string name="apps_and_data_item_desc">Прил. и данни</string>
+    <string name="apps_and_data_item_desc">Приложения и данни</string>
     <string name="local_no_backup">Няма локални резервни копия</string>
     <string name="auto_backup_setting">Настройки на автоматично архивиране</string>
     <string name="auto_backup_open">Автоматично архивиране</string>
@@ -168,13 +168,16 @@
     <string name="no_network">Не може да се свърже с мрежата</string>
     <string name="retry">Опитайте отново</string>
     <string name="select_all">Избери всички</string>
-    <string name="deselect_all">Размаркирай всички</string>
+    <string name="deselect_all">Откажи всички</string>
     <string name="reverse_all">Изчисти всички</string>
     <string name="refresh">Опресни</string>
     <string name="cloud_item_info_summary">" (Локално: %1$s | Mi Облак: %2$s)"</string>
     <string name="cloud_restore_guide">За да възстановите потребителските данни за %s, натиснете Възстановяване</string>
-    <string name="import_from_xiaomi_account_hint1">\"1.\u0009Изтеглете приложението MiTalk и се впишете. \u0009http://www.miliao.com 2.\u0009Отидете на MiTalk Settings и изберете ”Back up contacts to Mi Account”\"</string>
-    <string name="import_from_xiaomi_account_hint2">Ако вече имате резервно копие, натиснете Next.</string>
+    <string name="import_from_xiaomi_account_hint1">"1.\u0009Изтеглете приложението Mi Talk е се впишете.
+\u0009http://www.miliao.com
+
+2.\u0009Отидете в настройките на Mi Talk и изберете ”Архивиране на контактите в Mi профила"</string>
+    <string name="import_from_xiaomi_account_hint2">Ако вече имате резервно копие, натиснете Следващо.</string>
     <string name="import_from_xiaomi_account_hint_title">За да архивирате контактите, използвайте MiTalk</string>
     <string name="guarded_mode_dialog_title">Вие сте в режим Гост</string>
     <string name="guarded_mode_dialog_backup_message">Архивирането не е позволено в режим Гост.</string>
@@ -183,14 +186,14 @@
     <string name="multi_user_mode_dialog_message">Не може да използвате Mi Mover в режим Multi-user. Изключете режима, за да продължите.</string>
     <string name="multi_user_mode_backup_message">Не може да архивирате, когато използвате режим за двама потребители. Изключете го, за да продължите.</string>
     <string name="multi_select_title">Избрани: %1$s</string>
-    <string name="enable_encrypt_title">Включване на шифроването</string>
+    <string name="enable_encrypt_title">Шифроване на резервни копия</string>
     <string name="disable_encrypt_title">Изключване на шифроването</string>
     <string name="enable_encrypt_indicator">Докоснете, за да шифровате</string>
-    <string name="enable_encrypt">Включване</string>
+    <string name="enable_encrypt">Включване на шифроването</string>
     <string name="already_enable_encrypt">Шифроването е включено</string>
-    <string name="enable_encrypt_summery1">Трябва да се впишете в Mi профила си, за да получите достъп до шифровани резервни копия.</string>
-    <string name="enable_encrypt_summery2">Вашите резервни копия ще се шифроват автоматично. Необходимо е да влезете в Mi профила си, за да получите достъп до шифровани резервни копия.</string>
-    <string name="enable_encrypt_xiaomi_account">Това резервно копие е създадено от %1$s. За да го възстановите, изтрийте текущия профил и се впишете като %2$s.</string>
+    <string name="enable_encrypt_summery1">Впишете се в Mi профила си, за да получите достъп до шифровани резервни копия.</string>
+    <string name="enable_encrypt_summery2">"Резервните ви копия ще бъдат шифровани автоматично. За да имате достъп до тях, трябва да се впишете в Mi профила си."</string>
+    <string name="enable_encrypt_xiaomi_account">Този архив бе създаден от %1$s. За да възстановите, изтрийте текущия профил и се впишете като %2$s.</string>
     <string name="enable_encrypt_ok">ОК</string>
     <string name="no_encrypt_password">Няма парола</string>
     <string name="enable_encrypt_fail">Грешка в криптирането</string>
@@ -199,7 +202,7 @@
     <string name="system_backup">Резервно копие</string>
     <string name="backup_empty_info">" Архивиране на вашите данни, настройки и приложения"</string>
     <string name="backup_empty_info_onpad">" Архивиране на вашите данни, настройки и приложения"</string>
-    <string name="system_backup_info">Системни настройки и начални екрани</string>
+    <string name="system_backup_info">Системни настройки и оформление на началния екран</string>
     <string name="software_backup_info">Данни на приложения</string>
     <string name="account_contact_backup_info">Google профил, Mi профил и данни от Контакти</string>
     <string name="files_backup_info">Всички файлове на SD картата (вкл. снимки, песни, видео, данни на прил. и т.н.)</string>
@@ -248,7 +251,7 @@
     <string name="notif_backup_title">Архив на данни</string>
     <string name="notif_backup_content">Архив на потр. данни</string>
     <string name="notif_restore_title">Възстановяване на данни</string>
-    <string name="notif_restore_content">Възст. на потр. данни</string>
+    <string name="notif_restore_content">Възстановяване на потребителски данни</string>
     <string name="notif_backup_complete_title">Успешно архивирано</string>
     <string name="notif_restore_complete_title">Успешно възстановено</string>
     <string name="notif_trans_sending_completed">Данните са изпратени успешно</string>
@@ -314,8 +317,8 @@
     <string name="trans_progress_subdescript_transingsd_receiver">Получаване на файлове, %s завършени</string>
     <string name="trans_progress_subdescript_transingsddata_sender">Изпращане на %1$s файла на SD картата, %2$s завършени</string>
     <string name="trans_progress_subdescript_transingsddata_receiver">Получаване на %1$s файла на SD картата, %2$s завършени</string>
-    <string name="trans_progress_subdescript_br_sender">Архивира се %1$s, %2$s завършени</string>
-    <string name="trans_progress_subdescript_br_receiver">Възстановяване %1$s, %2$s завършени</string>
+    <string name="trans_progress_subdescript_br_sender">Архивира се %1$s, %2$s архивирани</string>
+    <string name="trans_progress_subdescript_br_receiver">Възстановяване %1$s, %2$s възстановени</string>
     <string name="trans_progress_subdescript_waiting">Изчаква за получаване %s</string>
     <string name="trans_progress_subdescript_br_sender_finish">Архивирани %s, очакват изпращане…</string>
     <string name="trans_progress_subdescript_transing_receiver_finish">Получени %s, очакват възстановяване…</string>
@@ -361,10 +364,10 @@
 Освободете място или прехвърлете само важни елементи."</string>
     <string name="trans_calculating_app_sd_size">Изчислен размер: %s</string>
     <string name="trans_please_waiting">Един момент…</string>
-    <string name="size_byte">Б</string>
-    <string name="size_kilo_byte">КБ</string>
-    <string name="size_mega_byte">МБ</string>
-    <string name="size_giga_byte">ГБ</string>
+    <string name="size_byte">б</string>
+    <string name="size_kilo_byte">Кб</string>
+    <string name="size_mega_byte">Мб</string>
+    <string name="size_giga_byte">Гб</string>
     <string name="trans_connect_failed_title">Неуспешно свързване</string>
     <string name="trans_connect_failed_message">Неуспешно свързване, опитайте отново или рестартирайте устройството. На другото устройство отидете в Настройки > Допълнителни настройки > Експорт към ново устройство и чукнете [Аз съм изпращач], или стартирайте Mi Mover отново след рестарта.</string>
     <string name="trans_retry">Опитайте отново</string>
@@ -405,9 +408,9 @@
     <string name="trans_intro_desc_multiuser">Mi трансфер няма достъп до елементите във Второ работно място. Преместете ги в Основно работно място и започнете прехвърляне.</string>
     <string name="trans_intro_title_multiapp">Клонирани приложения:</string>
     <string name="trans_intro_desc_multiapp">Mi трансфер не може да прехвърля данни от клонирани приложения поради конфликт между файловете.</string>
-    <string name="btn_got_it">Направено</string>
+    <string name="btn_got_it">Разбрах</string>
     <string name="backup_security_tips_title">Архивирането може да не работи</string>
-    <string name="backup_security_tips_message">Някои приложения може да не могат да бъдат архивирани и възстановявани.</string>
+    <string name="backup_security_tips_message">Някои приложения може да не могат да бъдат архивирани и възстановени.</string>
     <string name="trans_security_tips_title">Mi Трансфер съвместимост</string>
     <string name="trans_security_tips_message">Някои приложения може да не поддържат Mi Трансфер.</string>
     <string name="trans_wlan_tips_title">Не изключвайте Wi-Fi</string>
