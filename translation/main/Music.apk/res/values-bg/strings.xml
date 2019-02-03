@@ -1079,7 +1079,7 @@
    <string name="ready_to_play">Следва</string>
    <string name="headset_and_audio_effect_category">Слушалки и аудио ефекти</string>
    <string name="headset_and_audio_effect_summary">Слушалки и еквалайзер</string>
-   <string name="terms_of_service">Условия на ползване</string>
+   <string name="terms_of_service">Условия за ползване</string>
    <string name="headset_and_audio_effect_title">Слушалки и аудио ефекти</string>
    <string name="select_local_cover">Изберете локална обложка</string>
    <string name="long_press_to_select_lyric">Натиснете и задръжте, за да изберете файл с текст</string>
