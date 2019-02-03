@@ -12,7 +12,7 @@
     <string name="apply_font_btn_exclude">Не сега</string>
     <string name="apply_font_btn_reboot">Приложи и рестартирай</string>
     <string name="apply_font_tip">Тази тема съдържа шрифт, необходимо е рестартиране на телефона за прилагането му.</string>
-    <string name="apply_theme_with_ringtones">Използвай мелодиите на темата</string>
+    <string name="apply_theme_with_ringtones">Използване на мелодиите от темата</string>
     <string name="audio_duration_minutes_format">%1$d минути</string>
     <string name="audio_duration_seconds_format">%1$d секунди</string>
     <string name="backup_theme_dialog_message">Да се архивира ли текущата ви тема?</string>
@@ -136,7 +136,7 @@
     <string name="online_precust_abstract">Абстрактно</string>
     <string name="online_precust_animal">Животно</string>
     <string name="online_precust_asphalt">Асфалт</string>
-    <string name="online_precust_building">Сграда</string>
+    <string name="online_precust_building">Сгради</string>
     <string name="online_precust_chubby_dreamer">Сладкият мечтател</string>
     <string name="online_precust_creative">Творчество</string>
     <string name="online_precust_forest_stories">Горски истории</string>
@@ -428,7 +428,7 @@
     <string name="theme_immediately_apply_tip">Да се приложи ли актуализацията сега?</string>
     <string name="theme_import_from_sdcard">Импортиране от SD карта</string>
     <string name="theme_is_external_priority_storage">Запази на картата с памет</string>
-    <string name="theme_is_external_priority_storage_summary">Приложението Теми ще се рестартира за да се приложат промените</string>
+    <string name="theme_is_external_priority_storage_summary">Приложението Теми ще се рестартира веднага, за да приложи тази настройка.</string>
     <string name="theme_multiple_button_title_customize">Редактиране</string>
     <string name="theme_name">%1$s</string>
     <string name="theme_no">Не</string>
@@ -447,15 +447,15 @@
     <string name="theme_user_agreement_content4">Политика на поверителност</string>
     <string name="theme_user_agreement_content5">.</string>
     <string name="theme_user_agreement_exit">Отхвърли</string>
-    <string name="theme_user_agreement_remind_again">Показване на известие за усл. на ползване</string>
+    <string name="theme_user_agreement_remind_again">Показване на Условията за ползване</string>
     <string name="theme_user_agreement_remind_never">Не показвай отново</string>
-    <string name="theme_user_agreement_remind_summary">Показване на известие за условията на ползване. Настройката се активира след рестартиране на устройството.</string>
+    <string name="theme_user_agreement_remind_summary">Показване на изскачащ прозорец с условията на ползване при всяко отваряне на приложението Теми. Тази настройка ще влезе в сила след рестартиране на устройството.</string>
     <string name="theme_user_agreement_title">Декларация</string>
     <string name="theme_yes">Да</string>
     <string name="third_party_pickers_activity_title">Добави %1$s</string>
     <string name="title_component">Редактиране на темата</string>
     <string name="title_my_audio_resource">Моите мелодии</string>
-    <string name="title_my_miwallpaper_resource">Моите динамични тапети</string>
+    <string name="title_my_miwallpaper_resource">Моите живи тапети</string>
     <string name="title_my_wallpaper_resource">Моите тапети</string>
     <string name="title_system_audio_notification_resource">Системни известия</string>
     <string name="title_system_audio_resource">Системни мелодии</string>
@@ -477,7 +477,7 @@
     <string name="wallpaper_settings_pad_more_page_title">Още тапети</string>
     <string name="wallpaper_settings_page_title">Тапети</string>
 	<string name="using_theme_next_automatic_update">Автоматични актуализации</string>
-    <string name="using_theme_next_automatic_update_summary">Актуализиране на инстлираните теми чрез Wi-Fi автоматично, когато екранът е заключен</string>
+    <string name="using_theme_next_automatic_update_summary">Актуализиране на изтеглените теми чрез Wi-Fi автоматично, когато екранът е заключен</string>
 	<string name="component_title_video_wallpaper">Видео тапети</string>
 	<string name="exo_controls_fastforward_description">Бързо превъртане напред</string>
     <string name="exo_controls_fullscreen_description">Режим на цял екран</string>

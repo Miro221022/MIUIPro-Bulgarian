@@ -144,7 +144,7 @@
   <string name="decrypting">Дешифрира се…</string>
   <string name="default_prize_text">Това заминава директно в моята съкровищница!</string>
   <string name="default_user_desc">Този човек не е добавил описание</string>
-  <string name="delete_dialog_button">Изтрий</string>
+  <string name="delete_dialog_button">Изтриване</string>
   <string name="delete_error">Файловете не могат да се изтрият, опитайте отново</string>
   <string name="delete_file">Изтриване на този файл?</string>
   <string name="delete_file_error">Неуспешно изтриване на файл</string>
