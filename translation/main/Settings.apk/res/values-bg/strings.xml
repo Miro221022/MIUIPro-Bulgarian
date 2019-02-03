@@ -5049,7 +5049,7 @@
     <string name="music_audio_effect_optimize_summary">Dirac, слушалки и други аудио настройки</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, слушалки и други аудио настройки</string>
     <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, слушалки и други аудио настройки</string>
-    <string name="music_headset_settings">Слушалки</string>
+    <string name="music_headset_settings">Слушалки и аудио ефекти</string>
     <string name="music_headset_button_settings">Функции на бутоните</string>
     <string name="music_headset_mode_settings">Бутони на слушалките</string>
     <string name="music_headset_mode_volume">Контрол на силата на звука</string>
@@ -5069,7 +5069,7 @@
     <string name="music_hd_title">HD качество на звука</string>
     <string name="music_hifi_summary">Намаляване на шума и изкривяването, за да се подобри качеството на звука</string>
     <string name="music_mi_effect_title">Mi Звуков подобрител</string>
-    <string name="music_mi_effect_summary">Използване на Mi Звуков подобрител, когато използвате високоговорители</string>
+    <string name="music_mi_effect_summary">Използване на Mi Звуков подобрител, когато използвате слушалки</string>
     <string name="music_headphone_settings">Вид слушалки</string>
     <string name="music_dirac_control">Оптимизиране качеството на звука</string>
     <string name="music_dirac_mode_off">Изключено</string>

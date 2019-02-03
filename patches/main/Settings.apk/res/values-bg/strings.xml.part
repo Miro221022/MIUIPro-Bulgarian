@@ -222,4 +222,6 @@
   <string name="3G_title">Показване на 3G</string>
   <string name="H_title">Показване на H/H+</string>
   <string name="double_tap_lock_keyguard_title">Заключване чрез двойно почукване</string>
+  <string name="dnd_icon_title">Скриване на иконата за \"Не ме безпокойте\"</string>
+  <string name="other_icon_title">Икони при отворен панел</string>
 </resources>
