@@ -31,8 +31,8 @@
     <string name="ad_data_exception">Грешка в данни</string>
     <string name="ad_extension">Промоции</string>
     <string name="ad_mark">РЕКЛАМА</string>
-    <string name="ad_recommend">Препоръки</string>
-    <string name="ad_setting">Настройки за реклама</string>
+    <string name="ad_recommend">Получаване на препоръки</string>
+    <string name="ad_setting">Допълнителни настройки</string>
     <string name="add_music">Добавяне на песни</string>
     <string name="add_to_last_of_playlist">Добавете в края на списък за слушане.</string>
     <string name="add_to_playlist_successful">Успешно добавено</string>
@@ -356,11 +356,11 @@
     <string name="filter_by_folder">По папка</string>
     <string name="filter_by_folder_summary">Изберете папки за показване</string>
     <string name="filter_by_size">Филтриране по размер</string>
-    <string name="filter_by_size_max">%dМБ</string>
-    <string name="filter_by_size_min">%dКБ</string>
-    <string name="filter_by_size_prefix">"Мин. размер: "</string>
-    <string name="filter_by_size_summary">Не показвай малките аудио файлове</string>
-    <string name="filter_size_unit">%dКБ</string>
+    <string name="filter_by_size_max">%dМб</string>
+    <string name="filter_by_size_min">%dКб</string>
+    <string name="filter_by_size_prefix">"Минимален размер: "</string>
+    <string name="filter_by_size_summary">Скриване на малки аудио файлове</string>
+    <string name="filter_size_unit">%dКб</string>
     <string name="find_music">Открийте песни</string>
     <string name="follow">Следвай</string>
     <string name="followed">Продължение</string>
@@ -419,7 +419,7 @@
     <string name="impunity_declaration_negative_text">Изход</string>
     <string name="impunity_declaration_positive_text">Приемам</string>
     <string name="impunity_declaration_settings">Показване на Условията за ползване</string>
-    <string name="impunity_declaration_summary">Покажи Условията за ползване на услугата всеки път, когато стартира мобилното приложение Музика</string>
+    <string name="impunity_declaration_summary">Показване на условията за ползване всеки път когато приложението Музика бъде стартирано.</string>
     <string name="impunity_declaration_title">Правила и условия</string>
     <string name="in_searching_please_wait">Търсене...Моля, изчакайте</string>
     <string name="individuation_recommend_message">Включете препоръки да получавате персонализирани предложения на базата на вашите предпочитания.</string>
@@ -516,7 +516,7 @@
     <string name="modify_lyric">Промяна на текста</string>
     <string name="modify_progress">Промяна на скоростта на текста</string>
     <string name="modify_progress_helper">Плъзнете нагоре или надолу, за да регулирате скоростта на текстовете</string>
-    <string name="modify_song_info">Промяна на данните за песента</string>
+    <string name="modify_song_info">Редактиране на информацията за песента</string>
     <string name="modify_song_info_success">Информацията за песента е обновена</string>
     <string name="monthly_price">Mi Кредити</string>
     <string name="more">Още</string>
@@ -534,7 +534,7 @@
     <string name="more_share">Споделяне</string>
     <string name="multichoice">Изберете</string>
     <string name="music_browser_label">Музика</string>
-    <string name="music_filter">Филтриране на файловете</string>
+    <string name="music_filter">Филтриране на аудиофайловете</string>
     <string name="music_service">Услуги за музика</string>
     <string name="music_settings">Музика</string>
     <string name="my_account">Моят профил</string>
@@ -651,7 +651,7 @@
     <string name="playlist_type_artist">Изпълнител</string>
     <string name="playlist_type_billboard">Класации</string>
     <string name="playlist_type_fm">FM</string>
-    <string name="playlist_type_my">Моите списъци с песни</string>
+    <string name="playlist_type_my">Моите списъци за изпълнение</string>
     <string name="playlist_type_recommend">Любими списъци с песни</string>
     <string name="playlist_unavailable">Съжаляваме, списъкът не е достъпен. За да го изтриете, докоснете и задръжте, после изберете \"Изтрий\".</string>
     <string name="please_download_first">Моля, първо изтеглете.</string>
@@ -754,9 +754,9 @@
     <string name="send_to">Споделяне</string>
     <string name="send_to_title">Изпращане до (%1$s)</string>
     <string name="server_error">Неочаквана грешка. Моля, изчакайте минута-две и опитайте отново.</string>
-    <string name="service_and_settings">Обслужване и настройки</string>
+    <string name="service_and_settings">Услуги и настройки</string>
     <string name="service_stop">Услугата е прекратена</string>
-    <string name="set_as_ring">Задай като мелодия</string>
+    <string name="set_as_ring">Задаване като тон за звънене</string>
     <string name="set_id3_failed">Неуспешно задаване на данните за песента</string>
     <string name="set_id3_not_have_read_or_write_permission">Нямате права за промяна на този файл</string>
     <string name="set_id3_not_support_format">Този файлов формат не може да се редактира</string>
@@ -796,8 +796,8 @@
     <string name="similar_songs">Подобни песни</string>
     <string name="sleep_mode">Таймер за заспиване</string>
     <string name="sleep_mode_canceled">Таймерът за заспиване е отменен</string>
-    <string name="sleep_mode_summary">Използвайте плъзгача по-долу, за да зададете време</string>
-    <string name="sleep_mode_title">Спри плеъра след изтичане на времето</string>
+    <string name="sleep_mode_summary">Спиране на изпълнението след определено време</string>
+    <string name="sleep_mode_title">Таймер за заспиване</string>
     <string name="song_exist_in_playlist">Неуспешно. Песента вече е добавена в плейлист.</string>
     <string name="song_is_empty">Името на песента не може да е празно.</string>
     <string name="song_name">Песен</string>
@@ -831,7 +831,7 @@
     <string name="tab_local_folder_list">Папки</string>
     <string name="tab_local_track_list">Песни</string>
     <string name="tab_track">Песни</string>
-    <string name="tab_track_list">Песен</string>
+    <string name="tab_track_list">Песни</string>
     <string name="take_effect_afater_restart">Приложението Музика трябва да бъде рестартирано, за активиране на настройката.</string>
     <string name="talkback_back">Назад</string>
     <string name="talkback_cloud_setting">Настройки</string>
@@ -1077,4 +1077,10 @@
    <string name="fcm_fallback_notification_channel_label">Разни</string>
    <string name="gcm_fallback_notification_channel_label">Разни</string>
    <string name="ready_to_play">Следва</string>
+   <string name="headset_and_audio_effect_category">Слушалки и аудио ефекти</string>
+   <string name="headset_and_audio_effect_summary">Слушалки и еквалайзер</string>
+   <string name="terms_of_service">Условия на ползване</string>
+   <string name="headset_and_audio_effect_title">Слушалки и аудио ефекти</string>
+   <string name="select_local_cover">Изберете локална обложка</string>
+   <string name="long_press_to_select_lyric">Натиснете и задръжте, за да изберете файл с текст</string>
 </resources>
