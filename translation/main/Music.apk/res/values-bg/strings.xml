@@ -637,9 +637,9 @@
     <string name="payment_fail">Плащането не може да се извърши</string>
     <string name="payment_success">Успешно плащане</string>
     <string name="pending_apk">Изчакване…</string>
-    <string name="permission_declaration_message">Дайте достъп до хранилището от Оптимизация > Разрешения > Разрешения > Хранилище > Музика, за да може Музика да работи нормално.</string>
+    <string name="permission_declaration_message">Дайте достъп до хранилището от Сигурност > Разрешения > Разрешения > Хранилище > Музика, за да може Музика да работи нормално.</string>
     <string name="permission_declaration_negative_text">По-късно</string>
-    <string name="permission_declaration_positive_text">Към Оптимизация</string>
+    <string name="permission_declaration_positive_text">Към Сигурност</string>
     <string name="permission_declaration_title">Даване на достъп</string>
     <string name="play_all_song">Пусни всички</string>
     <string name="play_next">Пусни следваща</string>
