@@ -256,24 +256,24 @@
     <string name="menu_reminder_preferences">Напомняния</string>
     <string name="missing_name">(без име)</string>
     <string name="missing_required_permission">Отказали сте разрешение, което се изисква.</string>
-    <string name="month_medium_april">апр.</string>
-    <string name="month_medium_august">авг.</string>
-    <string name="month_medium_december">дек.</string>
-    <string name="month_medium_february">февр.</string>
-    <string name="month_medium_january">ян.</string>
-    <string name="month_medium_july">юли</string>
-    <string name="month_medium_june">юни</string>
-    <string name="month_medium_march">март</string>
-    <string name="month_medium_may">май</string>
-    <string name="month_medium_november">ноем.</string>
-    <string name="month_medium_october">окт.</string>
-    <string name="month_medium_september">септ.</string>
+    <string name="month_medium_april">Април</string>
+    <string name="month_medium_august">Август</string>
+    <string name="month_medium_december">Декември</string>
+    <string name="month_medium_february">Февруари</string>
+    <string name="month_medium_january">Януари</string>
+    <string name="month_medium_july">Юли</string>
+    <string name="month_medium_june">Юни</string>
+    <string name="month_medium_march">Март</string>
+    <string name="month_medium_may">Май</string>
+    <string name="month_medium_november">Ноември</string>
+    <string name="month_medium_october">Октомври</string>
+    <string name="month_medium_september">Септември</string>
     <string name="network_not_available">Няма връзка с мрежата</string>
     <string name="new_event_description">Ново</string>
     <string name="no_contact_birthday_hint">Няма рождени дни за вмъкване</string>
     <string name="no_events_hint">Няма събития</string>
     <string name="no_network">"Не мога да се свържа с мрежата. 
-Проверете настройките и опитайте пак."</string>
+Проверете настройките и опитайте отново."</string>
     <string name="no_network_btn">Опитай отново</string>
     <string name="no_visiable_calendar_message">Трябва да добавите профил в календара. Натиснете добавяне на профил, за да продължите.</string>
     <string name="no_visiable_calendar_select_account">Добавяне на профил</string>
