@@ -117,7 +117,7 @@
     <item quantity="many">преди %1$d дни</item>
   </plurals>
   	 <plurals name="event_reminders_to_max">
-        <item quantity="other">Може да настроят до %d напомняния</item>
-        <item quantity="one">Може да настрои до %d напомняне</item>
+        <item quantity="other">Може да се настроят до %d напомняния</item>
+        <item quantity="one">Може да се настрои до %d напомняне</item>
     </plurals>
 </resources>

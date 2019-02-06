@@ -144,19 +144,19 @@
         <item>22/12 - 19/1</item>
     </string-array>
     <string-array name="date_calculate_spinner">
-        <item>Препращане</item>
-        <item>Препращане обратно</item>
+        <item>Преди днешна дата</item>
+        <item>След днешна дата</item>
     </string-array>
     <string-array name="default_reminder_labels">
-        <item>0 мин</item>
-        <item>5 мин преди</item>
-        <item>10 мин преди</item>
-        <item>15 мин преди</item>
-        <item>30 мин преди</item>
-        <item>1 час преди</item>
-        <item>1 ден преди</item>
-        <item>2 дни преди</item>
-        <item>1 седмица преди</item>
+        <item>По време на събитието</item>
+        <item>5 минути преди събитието</item>
+        <item>10 минути преди събитието</item>
+        <item>15 минути преди събитието</item>
+        <item>30 минути преди събитието</item>
+        <item>1 час преди събитието</item>
+        <item>1 ден преди събитието</item>
+        <item>2 дни преди събитието</item>
+        <item>1 седмица преди събитието</item>
     </string-array>
     <string-array name="gemini_info">
         <item>близнаци</item>
@@ -221,22 +221,22 @@
     </string-array>
     <string-array name="repeat_choose_end">
         <item>Никога</item>
-        <item>След опр. време</item>
-        <item>След опр. повторения</item>
+        <item>След определено време</item>
+        <item>След определен брой повторения</item>
     </string-array>
     <string-array name="repeat_choose_month">
-        <item>Яну</item>
-        <item>Фев</item>
-        <item>Мар</item>
-        <item>Апр</item>
+        <item>Януари</item>
+        <item>Февруари</item>
+        <item>Март</item>
+        <item>Април</item>
         <item>Май</item>
         <item>Юни</item>
         <item>Юли</item>
-        <item>Авг</item>
-        <item>Сеп</item>
-        <item>Окт</item>
-        <item>Ное</item>
-        <item>Дек</item>
+        <item>Август</item>
+        <item>Септември</item>
+        <item>Октомври</item>
+        <item>Ноември</item>
+        <item>Декември</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
         <item>Първи(а)</item>
@@ -246,18 +246,18 @@
         <item>Последен(на)</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
-        <item>Пон - Пет</item>
+        <item>Понеделник - Петък</item>
         <item>Уикенд</item>
         <item>Цяла седмица</item>
     </string-array>
     <string-array name="repeat_choose_weekday">
-        <item>Пон</item>
-        <item>Вто</item>
-        <item>Сря</item>
-        <item>Чет</item>
-        <item>Пет</item>
-        <item>Съб</item>
-        <item>Нед</item>
+        <item>Понеделник</item>
+        <item>Вторник</item>
+        <item>Сряда</item>
+        <item>Четвъртък</item>
+        <item>Петък</item>
+        <item>Събота</item>
+        <item>Неделя</item>
     </string-array>
     <string-array name="repeat_countdown">
         <item>Никога</item>
