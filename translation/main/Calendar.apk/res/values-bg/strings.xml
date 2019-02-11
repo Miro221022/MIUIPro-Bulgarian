@@ -489,4 +489,6 @@
   <string name="select_today_tip">Днес</string>
   <string name="today_icon_voice_contentdescription">Обратно към днес</string>
   <string name="setting_title_limit_card_desc">Лимитирана карта, разположена на началната страница на календара, услугата изисква работа в мрежа</string>
+  <string name="talkback_festival_and">和</string>
+  <string name="talkback_festival_is">节日是</string>
 </resources>
