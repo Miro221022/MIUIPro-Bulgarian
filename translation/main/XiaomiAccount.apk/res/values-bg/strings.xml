@@ -480,4 +480,12 @@ ID:%s
   <string name="send_diagnosis_log">Изпращане на отчет за диагностика</string>
   <string name="sending">Изпращане…</string>
   <string name="temporary_not_available">"Тази функция все още не е налице."</string>
+  <string name="confirm_new_pwd">Потвърждение на новата парола</string>
+  <string name="inconsistent_pwd">"Паролите не съвпадат"</string>
+  <string name="input_new_pwd">Въведете нова парола</string>
+  <string name="mi_finance">Моите финанси</string>
+  <string name="mi_finance_info">Бонуси за нови потребители</string>
+  <string name="same_new_and_old_pwd">"Не може да бъде същата като текущата парола"</string>
+  <string name="sim_card">SIM карта</string>
+  <string name="used_cloud_storage_info">%s използвано пространство за съхранение</string>
 </resources>

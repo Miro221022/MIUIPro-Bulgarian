@@ -88,4 +88,8 @@
     <string name="using_record_confirm_ok">Разреши</string>
 	<string name="sound_source_summary_without_system_sounds">Използвайте микрофон или заглушаване на звука</string>
 	<string name="warning_recording_when_a2dp_connect">"Устройството ви не поддържа запис на системни звуци, докато се използват Bluetooth слушалки."</string>
+	<string name="size_byte">б</string>
+    <string name="size_gigabyte">Гб</string>
+    <string name="size_kilobyte">Кб</string>
+    <string name="size_megabyte">Мб</string>
 </resources>

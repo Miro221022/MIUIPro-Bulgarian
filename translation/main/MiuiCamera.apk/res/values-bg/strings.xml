@@ -596,8 +596,8 @@
     <string name="accessibility_ultra_wide_off">Ултра широкоъгълен режим е изключен</string>
     <string name="ai_scene_top_moon_off">Режим на слаба светлина</string>
     <string name="autozoom_hint">Следене на движещ се обект</string>
-    <string name="autozoom_disabled_hint">Следене на движещ се обект е спряно</string>
-    <string name="autozoom_click_hint">Докоснете обект, за да започнете проследяване. Останете на най-малко 3 метра за най-добър ефект.</string>
+    <string name="autozoom_disabled_hint">Следенето на движещ се обект е спряно</string>
+    <string name="autozoom_click_hint">Докоснете обект, за да започнете проследяване. Останете на най-малко 3 метра разстояние за най-добър ефект.</string>
     <string name="beauty_body">Фигура</string>
      <string name="beauty_body_head">Глава</string>
      <string name="beauty_body_body">Строен</string>
@@ -669,4 +669,8 @@
     <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
 	<string name="zoom_no_support_tip_48M">"Приближението не работи в режим 48MP"</string>
 	<string name="accessibility_pull_down_to_open_camera">Плъзнете надолу, за да отворите камерата</string>
+    <string name="autozoom_landscape_hint">Препоръчва се да снимате пейзажно</string>
+    <string name="lighting_pattern_holi">Холи</string>
+    <string name="pref_camera_quick_shot_anim_enable_title">Включване на анимацията за бързо снимане</string>
+    <string name="pref_camera_quick_shot_enable_title">Включване на бързо снимане</string>
 </resources>

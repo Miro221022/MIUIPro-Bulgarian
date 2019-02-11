@@ -241,4 +241,13 @@
   <string name="check_theme_app_install">Уверете се, че приложението Теми е инсталирано на устройството ви.</string>
   <string name="check_voice_assist_app_version">Актуализирайте Mi AI до последната му версия.</string>
   <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+  <string name="korea_permission_calendar">Календар</string>
+  <string name="korea_permission_calendar_desc">За достъп до информация за събития и изпращане на напомняния</string>
+  <string name="korea_permission_phone">Телефон</string>
+  <string name="korea_permission_phone_desc">За достъп до състоянието на устройството и заглушаване на напомнянията по време на разговори</string>
+  <string name="korea_permission_storage">Хранилище</string>
+  <string name="korea_permission_storage_desc">За запазване на аларми</string>
+  <string name="module_download_data_msg_replace">(≈20MB) актуализирани звуци за интелигентни аларми са налични. Свързване към мрежата и изтегляне чрез мобилни данни?</string>
+  <string name="module_download_msg_replace">Налице са актуализирани звуци за интелигентни аларми. Свързване към мрежата и изтегляне сега?</string>
+  <string name="search_menu_title">Търсене</string>
 </resources>

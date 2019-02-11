@@ -240,4 +240,8 @@
   <string name="cta_dialog_message">Бележки се нуждае от разрешения за свързване с интернет, запис на звук и достъп до контактите ви да работи нормално. Разрешавате ли?</string>
   <string name="cta_dialog_title">Необходими са разрешения</string>
   <string name="unclassfied_folder_name">Некатегоризирани</string>
+  <string name="permission_intro_contact">За маркиране на бележки, направени по време на разговори</string>
+  <string name="permission_intro_microphone">За запис на гласови бележки</string>
+  <string name="permission_intro_phone">За маркиране на бележки, направени по време на разговори</string>
+  <string name="permission_intro_storage">За запазване на бележки и прикачени файлове</string>
 </resources>
