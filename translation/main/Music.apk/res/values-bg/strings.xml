@@ -1083,4 +1083,17 @@
    <string name="headset_and_audio_effect_title">Слушалки и аудио ефекти</string>
    <string name="select_local_cover">Изберете локална обложка</string>
    <string name="long_press_to_select_lyric">Натиснете и задръжте, за да изберете файл с текст</string>
+   <string name="agreement_desc">Потребителско споразумение (задължително)</string>
+   <string name="app_permission_confirm">Разбрах</string>
+   <string name="app_permission_optional">Незадължителни разрешения</string>
+   <string name="app_permission_require">Задължителни разрешения</string>
+   <string name="app_permission_use_desc">Разрешения</string>
+   <string name="app_permission_use_group_account">Профили</string>
+   <string name="app_permission_use_group_account_desc">За получаване на информация относно Mi профил</string>
+   <string name="app_permission_use_group_phone">Телефон</string>
+   <string name="app_permission_use_group_phone_desc">За Google Push услуги</string>
+   <string name="app_permission_use_group_storage">Хранилище</string>
+   <string name="app_permission_use_group_storage_desc">За намиране и възпроизвеждане на песни, запазени в устройството</string>
+   <string name="data_use_desc">Правни документи</string>
+   <string name="privacy_desc">Политика за поверителност (задължително)</string>
 </resources>

@@ -1730,7 +1730,7 @@
 	<string name="wfcmode_mobile_preferred">Предпочитат се мобилни мрежи</string>
     <string name="wfcmode_wifi_only">Само WLAN</string>
     <string name="wfcmode_wifi_preferred">Предпочита се WLAN</string>
-    <string name="wificall_switch_summary">Устройството ви ще превключва между WLAN и VoLTE, когато връзката е лоша</string>
+    <string name="wificall_switch_summary">Използване на WLAN за осъществяване и получаване на повиквания, когато е възможно</string>
     <string name="wificall_switch_title">Осъществяване на повиквания чрез WLAN</string>
 	<string name="cloud_sim_enabled_dual_4g_summary">"Не може да се изключи Двоен 4G когато се ползва Mi Роуминг"</string>
     <string name="cloud_sim_enabled_preferred_network_summary">"Не можете да променяте предпочитанията за мрежата, докато използвате услугата Mi Роуминг"</string>
