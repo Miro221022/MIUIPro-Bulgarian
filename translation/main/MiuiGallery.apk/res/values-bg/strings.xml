@@ -1460,4 +1460,19 @@
   <string name="photo_font_download_without_wifi_title">Предупреждение за използване на данни</string>
   <string name="text_tab_bubble">Балончета</string>
   <string name="text_tab_watermark">Водни знаци</string>
+  <string name="agreement_agree">Приеми</string>
+  <string name="agreement_optional_tip">(По избор)</string>
+  <string name="agreement_quit">Изход</string>
+  <string name="agreement_required_tip">(Задължително)</string>
+  <string name="agreement_summary">Правни документи</string>
+  <string name="permissin_contract_desc">За именуване на хора на снимки</string>
+  <string name="permission_contract_name">Контакти</string>
+  <string name="permission_optional_category">Незадължителни разрешения</string>
+  <string name="permission_phone_desc">За мрежови заявки въз основа на идентификатор на устройство</string>
+  <string name="permission_phone_name">Телефон</string>
+  <string name="permission_require_category">Задължителни разрешения</string>
+  <string name="permission_storage_desc">За показване, редактиране и запазване на снимки</string>
+  <string name="permission_storage_name">Хранилище</string>
+  <string name="permission_use_desc">Разрешения</string>
+  <string name="select_all">Избери всички</string>
 </resources>
