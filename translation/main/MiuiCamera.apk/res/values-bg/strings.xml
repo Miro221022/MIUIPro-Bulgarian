@@ -186,7 +186,7 @@
     <string name="pref_camera_volumekey_function_title">Функция на бутоните за звук</string>
     <string name="error_fail_to_start_audio_capture">Няма възможност за звукозапис.</string>
     <string name="toast_start_audio_capture">Издайте звук, за да сработи затвора</string>
-    <string name="record_back_pressed_hint">Натиснете отново, за спиране на записа</string>
+    <string name="record_back_pressed_hint">Докоснете отново, за спиране на записа</string>
     <string name="toast_burst_snap_finished_summary">Бързото заснемане приключи, %1$s снимки са направени</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийното снимане не се поддържа, когато е включен запис на звук.</string>
     <string name="time_lapse_error">Невалидна резолюция за запис на \"Ускорено\" видео.</string>
@@ -537,7 +537,7 @@
    <string name="lighting_pattern_null">Нула</string>
    <string name="pref_camera_front_ai_scene_entry_on">Интелигентна камера е включена</string>
    <string name="pref_camera_front_ai_scene_entry_off">Интелигентна камера е изключена</string>
-   <string name="super_night_toast">Заснемане, моля дръжте телефона си</string>
+   <string name="super_night_toast">Дръжте телефона стабилен, докато снимате</string>
    <string name="accessibility_camera_liveshot_off">Динамична снимка е изключено</string>
    <string name="accessibility_camera_liveshot_on">Динамична снимка е включено</string>
    <string name="accessibility_camera_ultra_wide_bokeh_off">Режим цяло тяло е изключен</string>
