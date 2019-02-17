@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="pref_fling_gesture_entries">
-        <item>Обратно към начална страница</item>
+        <item>Пелистване напред / назад</item>
         <item>Превключване между разделите</item>
-        <item>Няма</item>
+        <item>Без</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>По подразбиране</item>
@@ -97,7 +97,7 @@
     </string-array>
 	    <string-array name="pref_tab_restore_array">
         <item>Винаги питай</item>
-        <item>Отвори</item>
-        <item>Затвори</item>
+        <item>Отваряне</item>
+        <item>Затваряне</item>
     </string-array>
 </resources>
