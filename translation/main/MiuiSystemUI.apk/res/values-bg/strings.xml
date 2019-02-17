@@ -778,11 +778,11 @@
   <string name="keyguard_charging_info_last_charge_yesterday_time">Вчера %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Последно зареждане</string>
   <string name="keyguard_charging_info_tip_text1">Поддържайте вашето устройство винаги с поне 10% заряд, за да удължите живота на батерията.</string>
-  <string name="keyguard_charging_info_tip_text2">Не презареждайте вашето устройство. Многократните къси зареждания са по-добър вариант от едно продължително през цялата нощ.</string>
-  <string name="keyguard_charging_info_tip_text3">Избягвайте да зареждате вашето устройство, когато температурата наоколо е под 0℃.</string>
-  <string name="keyguard_charging_info_tip_text4">Не използвайте вашето устройство активно по време на зареждане, за да избегнете прегряване.</string>
-  <string name="keyguard_charging_info_tip_text5">Зареждането на батерията може да отнеме повече време от обичайното, ако е по-топла от нормалното.</string>
-  <string name="keyguard_charging_info_tip_text6">Изключете екрана и оставете вашето устройство да се охлади за известно време.</string>
+  <string name="keyguard_charging_info_tip_text2">"Не презареждайте вашето устройство. Многократните къси зареждания са по-добър вариант от едно продължително през цялата нощ."</string>
+  <string name="keyguard_charging_info_tip_text3">Избягвайте зареждането на устройството, когато околната температура е по-ниска от 0℃.</string>
+  <string name="keyguard_charging_info_tip_text4">"Не използвайте устройството активно, докато се зарежда, за да избегнете прегряване."</string>
+  <string name="keyguard_charging_info_tip_text5">Зареждането на батериите отнема повече време когато станат по-горещи от обикновено.</string>
+  <string name="keyguard_charging_info_tip_text6">Изключете екрана и оставете устройството на разстояние, за да се охлади.</string>
   <string name="keyguard_fancy_colon"></string>
   <string name="keyguard_indication_charging_time">Зарежда се (%s до пълно зареждане)</string>
   <string name="keyguard_indication_charging_time_fast">Зарежда се бързо (%s до пълно зареждане)</string>
@@ -805,7 +805,7 @@
   <string name="keyguard_password_enter_pin_prompt">Нов PIN код</string>
   <string name="keyguard_password_enter_puk_code">Въведете PUK и нов PIN код</string>
   <string name="keyguard_password_enter_puk_prompt">PUK код</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size=\"17\"&gt;Докоснете за въвеждане на парола&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">" "<font size="17">Докоснете, за да въведете парола</font>" "</string>
   <string name="keyguard_password_wrong_pin_code">Неправилен PIN код.</string>
   <string name="keyguard_permanent_disabled_sim_instructions">Вашата СИМ-карта е била напълно деактивирана.\n Свържете се с вашия доставчик на безжични услуги за друга SIM карта.</string>
   <string name="keyguard_permanent_disabled_sim_message_short">Неизползваема SIM карта.</string>
@@ -1065,7 +1065,7 @@
   <string name="phone_locked_foget_password">Забравена парола?</string>
   <string name="phone_locked_foget_password_mehod_back">Назад</string>
   <string name="phone_locked_foget_password_method">Забравена парола?</string>
-  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Вие трябва да &lt;font color=#a5220e&gt;изтриете всички данни &lt;/font&gt; на вашето устройство, включително снимки и контакти, след което да зададете нова парола за Заключен екран.;&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_content">" "<Data>Вие трябва да &lt;font color=#a5220e>изтриете всички данни &lt;/font> в устройството си, включително снимки и контакти и след това да зададете нова парола за заключване на екрана.</Data>" "</string>
   <string name="phone_locked_foget_password_method_next">Следващ</string>
   <string name="phone_locked_foget_password_ok">Разбрах</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Изключете устройството, натиснете и задръжте &lt;font color=#a5220e&gt;бутон Захранване &lt;/font&gt; и бутон &lt;font color=#a5220e&gt;Усилване на звука &lt;/font&gt;едновременно, докато не видите логото на Mi.;&lt;/Data&gt;</string>
@@ -1274,12 +1274,12 @@
   <string name="screen_zoom_summary_large">Голям</string>
   <string name="screen_zoom_summary_small">Малък</string>
   <string name="screen_zoom_summary_very_large">По-голям</string>
-  <string name="screenshot_delete">Изтрий</string>
+  <string name="screenshot_delete">Изтриване</string>
   <string name="screenshot_delete_dlg_msg">Да се изтрие ли екранната снимка?</string>
-  <string name="screenshot_delete_dlg_title">Изтрий</string>
+  <string name="screenshot_delete_dlg_title">Изтриване</string>
   <string name="screenshot_dlg_cancel">Отказ</string>
   <string name="screenshot_dlg_delete_button">Изтрий</string>
-  <string name="screenshot_edit">Редактирай</string>
+  <string name="screenshot_edit">Редакция</string>
   <string name="screenshot_failed_title">Не може да се направи екранна снимка.</string>
   <string name="screenshot_failed_to_capture_text">Заснемането на екранни снимки не се допуска от приложението или от вашата организация</string>
   <string name="screenshot_failed_to_save_text">Не може да се запази екранната снимка поради ограничено място в хранилището.</string>
@@ -1290,9 +1290,9 @@
   <string name="screenshot_saved_text">Докоснете, за да видите екранната снимка.</string>
   <string name="screenshot_saved_title">Екранната снимка е запазена</string>
   <string name="screenshot_saving_text">Екранната снимка е запазена</string>
-  <string name="screenshot_saving_ticker">Запазване на екр. снимка…</string>
-  <string name="screenshot_saving_title">Запазване на екр. снимка…</string>
-  <string name="screenshot_send">Изпрати</string>
+  <string name="screenshot_saving_ticker">Запазване на екранната снимка…</string>
+  <string name="screenshot_saving_title">Запазване на екранната снимка…</string>
+  <string name="screenshot_send">Изпращане</string>
   <string name="search_hint">Търсене на уеб сайтове, приложения, контакти, видеоклипове</string>
   <string name="search_menu_title">Търсене</string>
   <string name="select_application">Изберете приложение</string>
