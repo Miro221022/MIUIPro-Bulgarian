@@ -244,4 +244,12 @@
   <string name="permission_intro_microphone">За запис на гласови бележки</string>
   <string name="permission_intro_phone">За маркиране на бележки, направени по време на разговори</string>
   <string name="permission_intro_storage">За запазване на бележки и прикачени файлове</string>
+  <string name="toast_refuse_to_use_contact">"Разрешенията за контакти са ограничени.
+Разрешаване на Бележки да чете контактите ви и да намира профили в устройството."</string>
+  <string name="toast_refuse_to_use_external_storage">"Разрешенията за хранилището са ограничени.
+Разрешаване на Бележки да чете съдържанието на вашата SD карта."</string>
+  <string name="toast_refuse_to_use_phone_state">"Разрешенията за телефон са ограничени.
+Разрешаване на Бележки да чете състоянието и идентичността на телефона."</string>
+  <string name="toast_refuse_to_use_record_audio">"Разрешенията за микрофона са ограничени.
+Разрешаване на Бележки да записва звук."</string>
 </resources>

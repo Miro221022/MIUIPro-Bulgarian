@@ -393,4 +393,8 @@
      <item quantity="other">Въведете поне %d знака</item>
      <item quantity="one">Въведете поне %d знак</item>
   </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+      <item quantity="other">%d риска са намерени, поправяне сега</item>
+      <item quantity="one">%d риск е намерен, поправяне сега</item>
+  </plurals>
 </resources>

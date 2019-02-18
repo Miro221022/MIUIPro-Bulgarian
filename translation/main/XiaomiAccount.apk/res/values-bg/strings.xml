@@ -488,4 +488,21 @@ ID:%s
   <string name="same_new_and_old_pwd">"Не може да бъде същата като текущата парола"</string>
   <string name="sim_card">SIM карта</string>
   <string name="used_cloud_storage_info">%s използвано пространство за съхранение</string>
+  <string name="exit">Изход</string>
+  <string name="i_agree">OK</string>
+  <string name="i_agree_continue">Продължаване</string>
+  <string name="kr_license_desc">Mi профила и Mi Облак услугата изискват да се съгласите с потребителското споразумение и политиката за поверителност.</string>
+  <string name="kr_permission_contacts_desc">Използва се за четене на информация за контактите</string>
+  <string name="kr_permission_desc">Моля, прочетете необходимите разрешения по-долу</string>
+  <string name="kr_permission_phone_desc">Използва се за безопасност на профила</string>
+  <string name="kr_permission_sms_desc">Използва се за автоматично попълване на кода за потвърждение</string>
+  <string name="kr_permission_storage_desc">Използва се за информация за диагностика в хранилището</string>
+  <string name="optional_permissions">Незадължителни разрешения</string>
+  <string name="passport_privacy_policy_required">Политика за поверителност (задължително)</string>
+  <string name="passport_user_agreement_required">Потребителско споразумение (задължително)</string>
+  <string name="permission_group_contacts">Контакти</string>
+  <string name="permission_group_phone">Телефон</string>
+  <string name="permission_group_sms">Съобщения</string>
+  <string name="permission_group_storage">Хранилище</string>
+  <string name="select_all">Избери всичко</string>
 </resources>

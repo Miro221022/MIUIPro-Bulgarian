@@ -92,4 +92,6 @@
     <string name="size_gigabyte">Гб</string>
     <string name="size_kilobyte">Кб</string>
     <string name="size_megabyte">Мб</string>
+	<string name="permission_intro_microphone">За запис на звук, когато източникът на звук е настроен на микрофон</string>
+    <string name="permission_intro_storage">За запазване на екранни записи</string>
 </resources>

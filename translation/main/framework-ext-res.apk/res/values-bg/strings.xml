@@ -192,4 +192,10 @@
 	<string name="security_permission_open_wifi_settings">Отвори WLAN настройки</string>
 	<string name="xspace_head">Клонирано приложение</string>
 	<string name="start_dump_log">Стартиране на получаване на отчети свързани с проблеми</string>
+	<string name="resolver_checkbox_always">Винаги</string>
+    <string name="resolver_checkbox_once">Веднъж</string>
+    <string name="resolver_mi_browser">Mi Браузър</string>
+    <string name="resolver_offical_recommend">Официално</string>
+    <string name="resolver_other_method">Други опции</string>
+    <string name="resolver_recommend_options_tag">Препоръчани опции</string>
 </resources>

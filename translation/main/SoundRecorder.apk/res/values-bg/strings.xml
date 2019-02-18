@@ -257,7 +257,7 @@
   <string name="recognize_extra_price_desp">(Просто за Mi)</string>
   <string name="record_list_item_recognize_text">字</string>
   <string name="reg_error_audio_exist">аудио съществува</string>
-  <string name="reg_error_audio_large">аудиото не трябва да е по-голямо от 500 МБ</string>
+  <string name="reg_error_audio_large">аудиото не трябва да е по-голямо от 500 Мб</string>
   <string name="reg_error_audio_short">звукът е твърде малък</string>
   <string name="reg_error_business">не може да се разпознае, моля, свържете се с нас и опитайте по-късно</string>
   <string name="reg_error_client">неточни данни за програмата, моля, свържете се с нас и опитайте по-късно</string>
@@ -276,4 +276,10 @@
   <string name="webview_network_unavaliable">"Не може да се свърже с мрежата"</string>
   <string name="webview_service_unavailiable">Услугата не е достъпна</string>
   <string name="webview_try_again">Опитайте отново</string>
+  <string name="korea_permission_phone">Телефон</string>
+  <string name="korea_permission_phone_resc">За достъп до състоянието на устройството и работа с записи по време на разговори</string>
+  <string name="korea_permission_record">Микрофон</string>
+  <string name="korea_permission_record_resc">За запис на звук</string>
+  <string name="korea_permission_storage">Хранилище</string>
+  <string name="korea_permission_storage_desc">За запазване на записи</string>
 </resources>

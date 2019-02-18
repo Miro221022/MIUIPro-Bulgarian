@@ -12,4 +12,18 @@
         <item>Резервно копие на важни настройки, включително Wi-Fi и дисплей</item>
         <item>Заключете вашето устройство отдалечено, ако е изгубено</item>
     </string-array>
+	<string-array name="korea_permission_groups_descriptions">
+        <item>За идентифициране на синхронизирани елементи</item>
+        <item>За синхронизиране на съобщения</item>
+        <item>За синхронизиране на контактите</item>
+        <item>За синхронизиране на събития в календара</item>
+        <item>За синхронизиране на елементи с услуги, които използват хранилището</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Телефон</item>
+        <item>Съобщения</item>
+        <item>Контакти</item>
+        <item>Календар</item>
+        <item>Хранилище</item>
+    </string-array>
 </resources>
