@@ -348,12 +348,12 @@
   <string name="xspace_chocie">Други прил.</string>
   <string name="xspace_creating">Клониране на прил.…</string>
   <string name="xspace_default_app_summary">Задайте приложение по подразбиране за плащания, споделяне, любими неща и други.</string>
-  <string name="xspace_default_app_title">Прилож по подразбиране</string>
+  <string name="xspace_default_app_title">Приложения по подразбиране</string>
   <string name="xspace_default_guide_notification_content">Чукнете за промяна</string>
   <string name="xspace_default_guide_notification_main_title">Използване приложение по подразбиране</string>
   <string name="xspace_default_guide_notification_xspace_title">Използване на клонирано приложение</string>
   <string name="xspace_default_setting_dialog_title"> подразбиране</string>
-  <string name="xspace_default_setting_label">Прилож по подразбиране</string>
+  <string name="xspace_default_setting_label">Приложения по подразбиране</string>
   <string name="xspace_description">Клонираните приложения са копия, които могат да се използват отделно с различен профил.\u000d\n\u000d\nНякои клонирани приложения изискват наличието на Google Services Framework. В тези случаи е необходимо да се клонира и Google Services Framework.</string>
   <string name="xspace_guide_des">Използване на два профила без превключване</string>
   <string name="xspace_guide_title">Създайте клонирано приложение</string>

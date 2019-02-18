@@ -1627,7 +1627,7 @@
     <string name="tethering_help_button_text">Помощ</string>
     <string name="network_settings_title">Мобилни мрежи</string>
     <string name="manage_mobile_plan_title">Мобилен план</string>
-    <string name="sms_application_title">Приложение за SMS</string>
+    <string name="sms_application_title">Съобщения</string>
     <string name="sms_change_default_dialog_title">Да се промени ли приложението за SMS?</string>
     <string name="sms_change_default_dialog_text">Да се използва ли %1$s вместо %2$s като приложение за SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Да се използва ли %s като приложение за SMS?</string>
@@ -3130,7 +3130,7 @@
     <string name="fingerprint_not_recognized">Не е разпознато</string>
     <string name="default_apps_title">По подразбиране</string>
     <string name="default_for_work">По подразбиране за работа</string>
-    <string name="assist_and_voice_input_title">Помощник и гласово въвеждане</string>
+    <string name="assist_and_voice_input_title">Асистент и гласово въвеждане</string>
     <string name="default_assist_title">Помощно приложение</string>
     <string name="default_assist_none">Няма</string>
     <string name="choose_assist_title">Избиране на помощно приложение</string>
@@ -3140,8 +3140,8 @@
     <string name="assistant_security_warning_disagree">Не приемам</string>
     <string name="choose_voice_input_title">Избиране на гласово въвеждане</string>
     <string name="default_browser_title">Браузър</string>
-    <string name="default_browser_title_none">Няма браузър по подразбиране</string>
-    <string name="default_phone_title">Приложение Телефон</string>
+    <string name="default_browser_title_none">Не е избрано</string>
+    <string name="default_phone_title">Повикване</string>
     <string name="default_app">(По подразбиране)</string>
     <string name="system_app">(Системно)</string>
     <string name="system_default_app">(Стандартно за системата)</string>
