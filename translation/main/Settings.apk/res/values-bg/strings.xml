@@ -6148,4 +6148,6 @@ aptX-Adaptive: Режим на кодек"</string>
     <string name="more_dangerous_option_hint">Фунскциии с висок риск,включително \"%1$s\" са активирани. Докоснете, за да промените настройките.</string>
     <string name="mute_voiceassist_stream">Заглушаване на гласовата помощ</string>
 	<string name="settings_notify_new_version">Налична е актуализация. Докоснете, за да видите подробности.</string>
+	<string name="crypt_keeper_switch_to_pattern">Използвай фигура</string>
+    <string name="crypt_keeper_switch_to_pin">Използвай PIN</string>
 </resources>

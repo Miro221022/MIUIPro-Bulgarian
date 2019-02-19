@@ -1759,7 +1759,7 @@
 Устройството автоматично превключва към клетъчна (2G/3G) мрежа, за да извърши спешно повикване.
 
 Спешните повиквания са възможни само в райони с клетъчно покритие."</string>
-    <string name="vowifi_emergency_warning_title">ECC повиквания чрез WLAN повикване</string>
+    <string name="vowifi_emergency_warning_title">Спешни повиквания чрез WLAN повикване</string>
     <string name="wifi_call_setting_vodafone_de">WLAN повикване</string>
     <string name="wifi_call_setting_vodafone_uk">WLAN повикване</string>
 </resources>
