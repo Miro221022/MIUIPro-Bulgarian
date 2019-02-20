@@ -2511,4 +2511,25 @@
     <string name="traffic_usage_warning_body">"Вече сте използвали %s мобилни данни този месец."</string>
     <string name="traffic_usage_warning_limit">Лимит за предупреждение при използване на данни</string>
     <string name="traffic_usage_warning_title">Предупреждение за използване на данни</string>
+	<string name="app_permission_use_group_calendar">Календар</string>
+    <string name="app_permission_use_group_calendar_des">Четене и добавяне на информация в календара</string>
+    <string name="app_permission_use_group_camera">Камера</string>
+    <string name="app_permission_use_group_camera_des">Използвай камера</string>
+    <string name="app_permission_use_group_contact">Контакти</string>
+    <string name="app_permission_use_group_contact_des">Четене и добавяне на онформация за контактите</string>
+    <string name="app_permission_use_group_location">Информация за местоположението</string>
+    <string name="app_permission_use_group_location_des">Точно и приблизително местоположение</string>
+    <string name="app_permission_use_group_mic">Микрофон</string>
+    <string name="app_permission_use_group_mic_des">Запис на звук</string>
+    <string name="app_permission_use_group_phone">Телефон</string>
+    <string name="app_permission_use_group_phone_des">Четене и добавяне на елементи към историята на повикванията, осъществяване на повиквания и достъп до състоянието на обажданията</string>
+    <string name="app_permission_use_group_sensor">Сензори</string>
+    <string name="app_permission_use_group_sensor_des">Четене на данните генерирани от сензорите</string>
+    <string name="app_permission_use_group_sms">Съобщения</string>
+    <string name="app_permission_use_group_sms_des">Изпращане, получаване и четене на съобщенията</string>
+    <string name="app_permission_use_group_storage">Хранилище</string>
+    <string name="app_permission_use_group_storage_des">Достъп и запазване на елементи в хранилището</string>
+    <string name="app_permission_use_neccesary">Необходими разрешения</string>
+    <string name="app_permission_use_no_neccesary">Незадължителни разрешения</string>
+    <string name="app_permission_use_title">Разрешения</string>
 </resources>
