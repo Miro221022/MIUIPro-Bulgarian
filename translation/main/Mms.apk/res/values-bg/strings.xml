@@ -26,7 +26,7 @@
   <string name="alert_dlg_ok_button">OK</string>
   <string name="app_label">Съобщения</string>
   <string name="app_name">Device Management</string>
-  <string name="attach_image">Картинки</string>
+  <string name="attach_image">Изображение</string>
   <string name="attach_record_sound">Запис на звук</string>
   <string name="attach_record_video">Заснемане на видео</string>
   <string name="attach_slideshow">Слайдшоу</string>
