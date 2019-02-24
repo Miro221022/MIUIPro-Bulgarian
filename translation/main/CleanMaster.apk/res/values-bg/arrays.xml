@@ -13,10 +13,10 @@
         <item>Размер</item>
     </string-array>
     <string-array name="auto_clean_size">
-        <item>100МБ</item>
-        <item>300МБ</item>
-        <item>500МБ</item>
-        <item>1ГБ</item>
+        <item>100Мб</item>
+        <item>300Мб</item>
+        <item>500Мб</item>
+        <item>1Гб</item>
     </string-array>
     <string-array name="auto_process_mode">
         <item>Запитване</item>
