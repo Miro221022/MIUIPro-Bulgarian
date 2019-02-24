@@ -97,9 +97,9 @@
     <string name="home_apply_failured">Тапетът не може да се приложи</string>
     <string name="home_apply_success">Тапетът на начален екран е приложен</string>
     <string name="in_the_end">Няма повече елементи за показване</string>
-    <string name="incompatible_dialog_message">Тази тема не е напълно съвместима с MIUI 9. Някои елементи може да не се показват правилно.</string>
+    <string name="incompatible_dialog_message">"Тази тема не е съвместима с версията на MIUI, която е инсталирана на вашето устройство. Някои части на MIUI може да не работят правилно, ако приложите тази тема."</string>
     <string name="incompatible_dialog_ok">Разбрах</string>
-    <string name="incompatible_dialog_title">Грешка при съвместимостта</string>
+    <string name="incompatible_dialog_title">Проблеми със съвместимостта</string>
     <string name="is_setting_wallpaper_message">Тапетът се задава…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будилници</string>
@@ -127,7 +127,7 @@
     <string name="multi_sim_ringtone_settings_dialog_message">Тонът на звънене е приложен за двете SIM карти.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Получаване</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Не показвай повече</string>
-    <string name="multi_sim_ringtone_settings_dialog_title">Грешка при съвместимостта</string>
+    <string name="multi_sim_ringtone_settings_dialog_title">Проблеми със съвместимостта</string>
     <string name="my_gifts">Подаръци</string>
     <string name="my_gifts_purchased">Закупени</string>
     <string name="my_gifts_received">Получени</string>
@@ -427,7 +427,7 @@
     <string name="theme_fresh_man_notifaction">Пробвайте някои нови теми.</string>
     <string name="theme_immediately_apply_tip">Да се приложи ли актуализацията сега?</string>
     <string name="theme_import_from_sdcard">Импортиране от SD карта</string>
-    <string name="theme_is_external_priority_storage">Запази на картата с памет</string>
+    <string name="theme_is_external_priority_storage">Запазване на SD картата</string>
     <string name="theme_is_external_priority_storage_summary">Приложението Теми ще се рестартира веднага, за да приложи тази настройка.</string>
     <string name="theme_multiple_button_title_customize">Редактиране</string>
     <string name="theme_name">%1$s</string>
@@ -644,4 +644,5 @@
    <string name="mix_lockscreen_option_des">Тапет и часовник. Премахнете отметката, за да използвате опциите по подразбиране.</string>
    <string name="mix_tip">Компоненти на темата</string>
    <string name="float_wallpaper_is_here">Прозрачен тапет</string>
+   <string name="incompatible_dialog_cancel">"Не прилагай"</string>
 </resources>
