@@ -115,7 +115,7 @@
     <string name="payment_zhifubao">AliPay</string>
     <string name="phone">Телефон:</string>
     <string name="picker_lable">Снимка</string>
-    <string name="place_barcode_into_rectangle">Нагласете кода вътре в рамката</string>
+    <string name="place_barcode_into_rectangle">Поставете кода в рамката</string>
     <string name="preparing_sd">Подготовка на карта с памет…</string>
     <string name="previous">Обратно</string>
     <string name="qr_code_details">Детайли за QR код:</string>
@@ -246,7 +246,7 @@
     <string name="setting_use_last_choose">Запомни предишния избор</string>
     <string name="setting_wechat">WeChat</string>
     <string name="to_pay">Извърши плащане</string>
-	<string name="abc_action_bar_home_description">Кум Началеен екран</string>
+	<string name="abc_action_bar_home_description">Към Начален екран</string>
     <string name="abc_action_bar_up_description">Придвижване нагоре</string>
     <string name="abc_action_menu_overflow_description">Още опции</string>
     <string name="abc_action_mode_done">Готово</string>
