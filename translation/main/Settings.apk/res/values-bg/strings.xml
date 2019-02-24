@@ -405,9 +405,9 @@
     <string name="navigation_type_radio_text_virtual_key">Бутони</string>
     <string name="navigation_type_radio_text_full_screen">Жестове на цял екран</string>
     <string name="navigation_guide_dialog_title">Научете жестове</string>
-    <string name="navigation_guide_dialog_summary">Научете какви жестове можете да използвате за придвижване в менютата.</string>
+    <string name="navigation_guide_dialog_summary">Научете какви жестове можете да използвате за придвижване в системата.</string>
     <string name="navigation_guide_dialog_ok">Обучение</string>
-    <string name="navigation_guide_dialog_skip">По-късно</string>
+    <string name="navigation_guide_dialog_skip">Не сега</string>
     <string name="navigation_guide_dialog_dont_show_again">Не показвай отново</string>
     <string name="fsg_mistake_touch_title">Двойна проверка на жестовете</string>
     <string name="fsg_mistake_touch_summary">В някои случаи, като например игри и видеоклипове на цял екран, жестовете трябва да бъдат с двукратно плъзгане, за да влязат в сила</string>
