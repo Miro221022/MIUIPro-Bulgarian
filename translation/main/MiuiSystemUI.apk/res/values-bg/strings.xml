@@ -1209,7 +1209,7 @@
   <string name="quick_settings_wifi_off_label">WLAN е изключена</string>
   <string name="quick_settings_wifi_on_label">WLAN е включена</string>
   <string name="quick_settings_work_mode_label">Работен режим</string>
-  <string name="recent_cannot_dock">не може да влезе в режим Много прозорци във Второ Пространство</string>
+  <string name="recent_cannot_dock">"Не може да се използва разделен екран във Второ пространство"</string>
   <string name="recent_dock_tip">Чукнете за избор на приложения</string>
   <string name="recent_menu_item_info">Информация</string>
   <string name="recent_menu_item_lock">Заключи</string>
