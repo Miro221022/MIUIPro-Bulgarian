@@ -633,8 +633,8 @@
    <string name="transparent_wallpaper_guide_tip">Можете да изберете прозрачен тапет в Теми сега.</string>
    <string name="transparent_wallpaper_white_wallpaper">Бял фон</string>
    <string name="transparent_wallpaper_white_wallpaper_failed">"Фона не може да бъде направен бял"</string>
-   <string name="transparent_wallpaper_white_wallpaper_success">Сега цветът на фона е бял</string>
    <string name="transparent_wallpaper_white_wallpaper_tip">Прозрачният тапет изглежда най-добре на бял фон</string>
+   <string name="transparent_wallpaper_white_wallpaper_success">Цветът на фона сега е бял</string>
    <string name="wallpaper_set_as_float_wallpaper">Прозрачен тапет (бета)</string>
    <string name="lab">Бета функции</string>
    <string name="mix_global_option">Основни</string>
@@ -645,4 +645,26 @@
    <string name="mix_tip">Компоненти на темата</string>
    <string name="float_wallpaper_is_here">Прозрачен тапет</string>
    <string name="incompatible_dialog_cancel">"Не прилагай"</string>
+   <string name="video_wallpaper_import">Докоснете, за да добавите елементи</string>
+   <string name="ad_begin_to_install_tip">Инсталиране…</string>
+   <string name="ad_download_download_now">Изтегли</string>
+   <string name="dynamic_video_wallpaper">24H тапет</string>
+   <string name="find_more_font">Намерете още</string>
+   <string name="incall_show_apply">Профилно видео за изходящи повиквания</string>
+   <string name="incall_show_apply_fail">"Не може да се зададе"</string>
+   <string name="incall_show_apply_success">Зададено успешно</string>
+   <string name="incall_show_apply_success_without_ringtone">"Задайте профилно видео за изходящи повиквания.
+Това видео няма звук. Другият човек ще чуе неговият тон на звънене, докато се изпълнява."</string>
+   <string name="incall_show_find_more">Намерете още</string>
+   <string name="incall_show_not_set">Няма профилни клипове</string>
+   <string name="incall_show_remove">Премахване на профилно видео</string>
+   <string name="incall_show_remove_dialog_message">"Вече сте задали профилно видео за изходящи повиквания. Премахване на това видео сега?"</string>
+   <string name="incall_show_remove_success">Профилното видео е премахнато успешно</string>
+   <string name="present_local_fonts">Моите шрифтове</string>
+   <string name="resource_trial_end_checkbox_hint">Първо получете Mi кредити</string>
+   <string name="resource_trial_end_get_mibi">Получаване на Mi кредити</string>
+   <string name="resource_trial_end_jump_hint">Пренасочване…</string>
+   <string name="theme_comment_dialog_message">Оценете това приложение и ни кажете какво мислите.</string>
+   <string name="theme_comment_dialog_ok">Оцени</string>
+   <string name="theme_staggered_item_text">Получаване на Mi кредити</string>
 </resources>
