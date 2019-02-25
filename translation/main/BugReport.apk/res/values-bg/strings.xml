@@ -511,4 +511,22 @@
   <string name="passport_wrong_captcha">Въведеният от вас код е неправилен</string>
   <string name="passport_wrong_phone_number_format">Форматът на въведения от вас телефонен номер е невалиден</string>
   <string name="passport_wrong_vcode">Въведеният от вас код е неправилен</string>
+  <string name="feedback_reproductivity_everytime">Всеки път</string>
+  <string name="feedback_reproductivity_occasionally">Понякога</string>
+  <string name="feedback_reproductivity_often">Често</string>
+  <string name="feedback_reproductivity_once">Веднъж</string>
+  <string name="kr_authorization_agree">Accept</string>
+  <string name="kr_authorization_contact">Профили</string>
+  <string name="kr_authorization_contact_desc">За получаване на информация за Mi профила и проверка на профила ви</string>
+  <string name="kr_authorization_exit">Изход</string>
+  <string name="kr_authorization_log_protocol">Отчетен протокол (незадължително)</string>
+  <string name="kr_authorization_log_protocol_desc">"За да подобрим услугите, които ви предлагаме, ще качим статистически данни за използването и системните отчети на нашите сървъри. Тези елементи могат да включват вашата лична информация, както и информацията за вашето устройство и мрежи. Ще използваме качените елементи, за да намерим и анализираме проблемите в системата."</string>
+  <string name="kr_authorization_phone">Телефон</string>
+  <string name="kr_authorization_phone_desc">За идентифициране на устройство чрез IMEI и номер на модел, а също така за намиране и анализиране на проблеми</string>
+  <string name="kr_authorization_privacy_policy">Политика за поверителност (задължително)</string>
+  <string name="kr_authorization_select_all">Избери всичко</string>
+  <string name="kr_authorization_storage">Хранилище</string>
+  <string name="kr_authorization_storage_desc">За достъп до хранилището и запис на елементи, включително отчети, изображения и видеоклипове</string>
+  <string name="kr_authorization_summary">Правни документи</string>
+  <string name="kr_authorization_user_protocol">Потребителско споразумение (задължително)</string>
 </resources>

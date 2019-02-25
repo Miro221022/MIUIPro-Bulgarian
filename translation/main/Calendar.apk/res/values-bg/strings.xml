@@ -491,4 +491,8 @@
   <string name="setting_title_limit_card_desc">Лимитирана карта, разположена на началната страница на календара, услугата изисква работа в мрежа</string>
   <string name="talkback_festival_and">和</string>
   <string name="talkback_festival_is">节日是</string>
+  <string name="notification_open_setting_button_exit">Не благодаря</string>
+  <string name="notification_open_setting_button_ok">Разреши</string>
+  <string name="notification_open_setting_message">"Няма да можете да получавате известия за събития, освен ако не разрешите на Календар да ви изпраща известия."</string>
+  <string name="notification_open_setting_title">Разрешаване на известията от Календар?</string>
 </resources>

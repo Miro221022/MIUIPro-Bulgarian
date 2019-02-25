@@ -1803,4 +1803,20 @@
    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Свързан (без телефон или медия) | Батерия %1$s%2$s</string>
    <string name="gxzw_long_press_tip"/>
    <string name="face_unlock_not_roi">Дръжте лицето си вътре в рамката</string>
+   <string name="gxzw_quick_open_add_event">Добавяне на събитие</string>
+   <string name="gxzw_quick_open_add_event_sub">Календар</string>
+   <string name="gxzw_quick_open_alipay_pay">Код за плащане</string>
+   <string name="gxzw_quick_open_alipay_scan">Скенер</string>
+   <string name="gxzw_quick_open_qr_code">QR Код</string>
+   <string name="gxzw_quick_open_qr_code_sub">Скенер</string>
+   <string name="gxzw_quick_open_search">Търсене</string>
+   <string name="gxzw_quick_open_search_sub">Браузър</string>
+   <string name="gxzw_quick_open_skip_teach">Прпускане</string>
+   <string name="gxzw_quick_open_wechat_pay">Код за плащане</string>
+   <string name="gxzw_quick_open_wechat_scan">Скенер</string>
+   <string name="gxzw_quick_open_xiaoai_title1">Кажете името на приложението, което искате да отворите</string>
+   <string name="gxzw_quick_open_xiaoai_title2">Кажете името на функцията, която искате да използвате</string>
+   <string name="gxzw_quick_tip_press">Продължете да натискате…</string>
+   <string name="gxzw_quick_tip_slide">"Не повдигайте пръста си. Плъзнете, за да изберете."</string>
+   <string name="rapid_charge_mode_tip">Бързо зареждане</string>
 </resources>

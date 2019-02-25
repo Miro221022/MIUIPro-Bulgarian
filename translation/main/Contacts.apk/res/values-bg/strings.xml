@@ -1212,4 +1212,5 @@
   <string name="description_image_button_sim1_named_dial">Набиране със SIM1 %s</string>
   <string name="description_image_button_sim2_named_dial">Набиране със SIM2 %s</string>
   <string name="contacts_default_notification_channel">Известия</string>
+  <string name="account_dual_sim">SIM карта %s</string>
 </resources>

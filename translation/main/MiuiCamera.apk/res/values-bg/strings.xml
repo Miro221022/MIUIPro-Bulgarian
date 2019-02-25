@@ -630,7 +630,7 @@
     <string name="live_music_network_exception_tips">Възникна грешка в мрежата. Натиснете, за да опитате отново.</string>
     <string name="live_reverse_message">Да се изтрие ли вече записан елемент?</string>
     <string name="live_reverse_confirm">Изтрий</string>
-    <string name="live_sticker_fragment_tab_name">Стикери</string>
+    <string name="live_sticker_fragment_tab_name">TikTok Магически стикер</string>
     <string name="live_speed_extreme_slow">Супер бавно</string>
     <string name="live_speed_extreme_fast">Супер бързо</string>
     <string name="live_sticker_updating">Обновяване…</string>

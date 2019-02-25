@@ -248,4 +248,14 @@
   <string name="yes_vote_ratio">За %1$s%%</string>
   <string name="your_location">Вашето местоположение</string>
   <string name="activity_find_city_dialog_message_location_service">За да получите сответната информация за времето, разрешете на Времето да получи достъп до вашето местоположение.</string>
+  <string name="permission_device_info">Информация за устройството</string>
+  <string name="permission_device_introduce">ЗА идентифициране на устройството на база модел на устройството и IMEI, а също така и за предоставяне на локализирани услуги въз основа на езикови предпочитания</string>
+  <string name="permission_exit">Изход</string>
+  <string name="permission_privacy">Политика за поверителност (задължително)</string>
+  <string name="permission_select_all">Избери всички</string>
+  <string name="permission_storage">Хранилище</string>
+  <string name="permission_storage_introduce">За достъп до елементи в устройството и записване на файлове</string>
+  <string name="permission_user_protocol">Потребителско споразумение (задължително)</string>
+  <string name="weather_introduce">Винаги с теб, когато вали или е слънчево.</string>
+  <string name="weather_permission_agree">Приеми</string>
 </resources>
