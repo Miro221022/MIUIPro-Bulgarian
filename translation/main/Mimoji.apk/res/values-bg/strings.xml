@@ -22,7 +22,7 @@
   <string name="app_name">MiMoji</string>
   <string name="AR_IMG_SHARE">Mimoji</string>
   <string name="BLOG_APP_NO_INSTALL">Приложението не е инсталирано</string>
-  <string name="cta_message">Разрешаване на достъп до мрежата, запис и камерата？</string>
+  <string name="cta_message">Трябва да приемете нашата <a href="http://www.miui.com/res/doc/privacy/en.html">《Политика за поверителност》</a> и да разрешите достъп до мрежата, запис и камерата. Разрешаване？</string>
   <string name="cta_privacy_url">http://www.miui.com/res/doc/privacy/en.html</string>
   <string name="error_tip_out_range">Дръжте устройството пред лицето</string>
   <string name="error_tip_sleep">Натиснете за продължаване</string>
@@ -48,4 +48,5 @@
   <string name="text_12">Отказ</string>
   <string name="webo_version_too_low">Трябва да актуализирате приложението</string>
   <string name="WICHART_APP_NO_INSTALL">Приложението не е инсталирано</string>
+  <string name="text_13">Разрешаване на достъп до камерата?</string>
 </resources>
