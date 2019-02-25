@@ -6150,4 +6150,11 @@ aptX-Adaptive: Режим на кодек"</string>
 	<string name="settings_notify_new_version">Налична е актуализация. Докоснете, за да видите подробности.</string>
 	<string name="crypt_keeper_switch_to_pattern">Използвай фигура</string>
     <string name="crypt_keeper_switch_to_pin">Използвай PIN</string>
+	<string name="gxzw_quick_open_enable_summary">Използвайте преки пътища, за да отваряте приложения или да използвате функции на приложения, когато устройството ви е отключено</string>
+    <string name="gxzw_quick_open_enable_title">Преки пътища за пръстови отпечатъци</string>
+    <string name="gxzw_quick_open_fast_summary">Плъзнете с пръст, за да използвате пряк път, когато устройството ви бъде отключено.</string>
+    <string name="gxzw_quick_open_fast_title">Бързо плъзгане</string>
+    <string name="gxzw_quick_open_slow_summary">Натиснете и задръжте иконата за пръстови отпечатъци, за да отворите контекстното меню. Плъзнете, за да използвате пряк път.</string>
+    <string name="gxzw_quick_open_slow_title">Натиснете и задръжте</string>
+    <string name="gxzw_quick_open_title">Преки пътища</string>
 </resources>

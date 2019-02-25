@@ -115,4 +115,6 @@
   <string name="other_settings_enhanced_lockscreen">Получете подобрено изживяване на заключен екран</string>
   <string name="other_settings_enhanced_lockscreen_summary">Получавайте снимки и истории доставени на вашия заключен екран ежедневно. Правила и условия ще се прилагат.</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Правила и условия</string>
+  <string name="congratulation_label_night">Вижте нашият изцяло нов Тъмен режим!</string>
+  <string name="start_up_slogan_night">Вижте нашият изцяло нов Тъмен режим!</string>
 </resources>
