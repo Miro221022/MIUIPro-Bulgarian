@@ -1422,4 +1422,10 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="small_video_ad_app_text_open">Отвори</string>
     <string name="small_video_ad_app_text_resume">Възобнови</string>
     <string name="small_video_ad_web_text">Отвори</string>
+	<string name="ad_app_download_notification_content">След като инсталацията приключи, отворете демото сега~</string>
+    <string name="ad_app_download_site_new">НОВО</string>
+    <string name="ad_exit_dialog_exit_btn_name">Изход</string>
+    <string name="ad_exit_dialog_message">Инсталацията е завършена! Искате ли да го отворите сега?</string>
+    <string name="ad_exit_dialog_open_btn_name">Отвори</string>
+    <string name="ad_exit_dialog_title_name">Ново потвърждение на приложението</string>
 </resources>
