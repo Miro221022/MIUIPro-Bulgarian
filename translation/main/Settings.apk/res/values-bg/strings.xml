@@ -1688,7 +1688,7 @@
 ©2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_manual_activity_title">Ръководство</string>
     <string name="settings_manual_activity_unavailable">Възникна проблем при зареждане на ръководството.</string>
-    <string name="settings_license_activity_title">Лицензи с отворен код</string>
+    <string name="settings_license_activity_title">Лицензи от трети страни</string>
     <string name="settings_license_activity_unavailable">Възникна проблем при зареждането на лицензите.</string>
     <string name="settings_license_activity_loading">Зарежда се…</string>
     <string name="settings_safetylegal_title">Информация за безопасност</string>
@@ -3773,7 +3773,7 @@
     <string name="max_cpu10_info">"Десетядрен, максимална честота "</string>
     <string name="instruction_title">Важна информация за безопасността</string>
     <string name="my_device_disclaimer">Забележка: Информацията за устройството, включително процесор, капацитет на батерията, размер на екрана и неговата резолюция, са предоставени от Xiaomi.</string>
-    <string name="approve_title">Сертифициране</string>
+    <string name="approve_title">Сертификация</string>
     <string name="update_new_version">Налична е актуализация</string>
     <string name="notification_update_new_version">Налична е актуализация</string>
     <string name="notification_update_now">Актуализиране сега</string>

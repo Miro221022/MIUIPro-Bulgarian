@@ -22,8 +22,8 @@
   <string name="app_name">MiMoji</string>
   <string name="AR_IMG_SHARE">Mimoji</string>
   <string name="BLOG_APP_NO_INSTALL">Приложението не е инсталирано</string>
-  <string name="cta_message">Трябва да приемете нашата <a href="http://www.miui.com/res/doc/privacy/en.html">《Политика за поверителност》</a> и да разрешите достъп до мрежата, запис и камерата. Разрешаване？</string>
-  <string name="cta_privacy_url">http://www.miui.com/res/doc/privacy/en.html</string>
+  <string name="cta_message">Трябва да приемете нашата <a href="http://www.miui.com/res/doc/privacy/bg.html">《Политика за поверителност》</a> и да разрешите достъп до мрежата, запис и камерата. Разрешаване？</string>
+  <string name="cta_privacy_url">http://www.miui.com/res/doc/privacy/bg.html</string>
   <string name="error_tip_out_range">Дръжте устройството пред лицето</string>
   <string name="error_tip_sleep">Натиснете за продължаване</string>
   <string name="MILIAO_APP_NO_INSTALL">Приложението не е инсталирано</string>
