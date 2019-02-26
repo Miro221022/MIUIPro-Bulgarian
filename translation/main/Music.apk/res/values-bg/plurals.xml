@@ -77,7 +77,7 @@
         <item quantity="one">%d коментар</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Изтриване на %d елементи?</item>
+        <item quantity="other">Изтриване на %d елемента?</item>
         <item quantity="one">Изтриване на %d елемент?</item>
     </plurals>
     <plurals name="dialog_delete_descript">
@@ -109,8 +109,8 @@
         <item quantity="one">%d песен</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">Избрани: %d елементи</item>
-        <item quantity="one">Избран %d елемент</item>
+        <item quantity="other">%d елемента са избрани</item>
+        <item quantity="one">%d елемент е избран</item>
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d последователи</item>

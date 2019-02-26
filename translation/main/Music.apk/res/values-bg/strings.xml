@@ -36,7 +36,7 @@
     <string name="add_music">Добавяне на песни</string>
     <string name="add_to_last_of_playlist">Добавете в края на списък за слушане.</string>
     <string name="add_to_playlist_successful">Успешно добавено</string>
-    <string name="added_next_play">Добавено към следващо изпълнение</string>
+    <string name="added_next_play">Добавено за следващо изпълнение</string>
     <string name="alaka_required">Трябва да платите, за да чуете тази песен</string>
     <string name="album_label">Обложки на албуми</string>
     <string name="album_name">Албум</string>
@@ -341,7 +341,7 @@
     <string name="favorite_canceled">Премахнато от любими</string>
     <string name="favorite_playlist">Моите любими</string>
     <string name="favorite_singer">Любими певци</string>
-    <string name="favorite_succeed">Вече е в любими</string>
+    <string name="favorite_succeed">Добавено към любими</string>
     <string name="favorite_tracks">Любими</string>
     <string name="favorites">Любими</string>
     <string name="favourite_music_left_half">За добавяне на песни към плейлиста, докоснете</string>
@@ -1096,4 +1096,5 @@
    <string name="app_permission_use_group_storage_desc">За намиране и възпроизвеждане на песни, запазени в устройството</string>
    <string name="data_use_desc">Правни документи</string>
    <string name="privacy_desc">Политика за поверителност (задължително)</string>
+   <string name="pick_recent_song">Последно изпълнени</string>
 </resources>
