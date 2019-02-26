@@ -11,7 +11,7 @@
     <string-array name="thermal_summaries">
         <item>Приоритет на температурния контрол</item>
         <item>Приоритет на ефективността</item>
-		<item>Конфигурацията е деактивирана в екстремен режим за пестене</item>
+		<item>Не се поддържа от Екстремното пестене на батерия</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Производителност</item>
@@ -98,7 +98,7 @@
      </string-array>
      <string-array name="hmode_app_classify1">
         <item>По избор</item>
-        <item>Пестене на батерия</item>
+        <item>MIUI пестене на батерия</item>
      </string-array>
      <string-array name="hmode_app_classify2">
         <item>Активни приложения</item>

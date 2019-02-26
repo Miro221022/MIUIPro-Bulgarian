@@ -1475,4 +1475,13 @@
   <string name="permission_storage_name">Хранилище</string>
   <string name="permission_use_desc">Разрешения</string>
   <string name="select_all">Избери всички</string>
+  <string name="generate_story_summary">MIUI ще анализира вашите снимки и ще създава албуми с истории. Изключете тази функция, за да спрете създаването на албуми с истории.</string>
+  <string name="generate_story_title">Албуми с истории</string>
+  <string name="image_selection_summary">MIUI ще анализира подобните снимки и ще маркира най-добрите снимки за вас. Изключете тази функция, за да премахнете маркировките от снимките.</string>
+  <string name="image_selection_title">Избор на най-добрата снимка</string>
+  <string name="operation_set_video_wallpaper">Задаване на видео тапет</string>
+  <string name="recommend_category_title">"Снимки от галерията"</string>
+  <string name="set_as_video_wallpaper_description">Изтегляне на този елемент и задаване като видеотапет?</string>
+  <string name="set_as_video_wallpaper_title">Задаване на видео тапет</string>
+  <string name="set_video_wallpaper_failed">"Този елемент не може да се използва като видеотапет "</string>
 </resources>

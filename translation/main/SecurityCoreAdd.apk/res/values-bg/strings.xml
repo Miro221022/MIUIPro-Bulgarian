@@ -451,4 +451,5 @@
   <string name="button_touch">Поставете пръста си върху сензора</string>
   <string name="dialog_verify">Потвърдете отпечатъка си</string>
   <string name="dialog_verify_fingerprint_retry">"Не може да се потвърди отпечатъка. Опитайте отново."</string>
+  <string name="master_clear_not_available">Нулирането до фабрични настройки е ограничено от вашата компания.</string>
 </resources>

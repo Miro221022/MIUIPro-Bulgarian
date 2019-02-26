@@ -487,7 +487,7 @@ ID:%s
   <string name="mi_finance_info">Бонуси за нови потребители</string>
   <string name="same_new_and_old_pwd">"Не може да бъде същата като текущата парола"</string>
   <string name="sim_card">SIM карта</string>
-  <string name="used_cloud_storage_info">%s използвано пространство за съхранение</string>
+  <string name="used_cloud_storage_info">Използвано пространство за съхранение %s</string>
   <string name="exit">Изход</string>
   <string name="i_agree">OK</string>
   <string name="i_agree_continue">Продължаване</string>

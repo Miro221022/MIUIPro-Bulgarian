@@ -952,7 +952,7 @@
     <string name="om_ill_proc_type_radio_title">Това приложение търси връзка с мрежата прекалено често и изразходва много батерия</string>
     <string name="om_ill_proc_type_radio_detail">Поправка на проблеми със свързване към мрежата</string>
     <string name="om_ill_proc_activity_title">Проблеми</string>
-    <string name="power_center_title">Употреба на батерия</string>
+    <string name="power_center_title">Оптимизация на батерията</string>
     <string name="power_center_back">Назад</string>
     <string name="power_center_auto_shutdown">Превключвател</string>
     <string name="power_center_ontime_boot">Включване по график</string>
@@ -965,7 +965,7 @@
     <string name="power_center_charge_time">Ще се зареди след %1$s</string>
     <string name="power_dialog_cancel">Отказ</string>
     <string name="power_dialog_ok">OK</string>
-    <string name="power_consume_rank_title">Използване на батерията</string>
+    <string name="power_consume_rank_title">Употреба на енергия</string>
     <string name="power_consume_rank_software">Приложения</string>
     <string name="power_consume_rank_hardware">Система</string>
     <string name="power_consume_software_total_format">Приложения: %s</string>
@@ -1282,7 +1282,7 @@
     <string name="sp_background_risk_type_sign">Стартирано е неофициално приложение</string>
     <string name="sp_background_risk_type_root">Системата е с дадени административни права</string>
     <string name="resource_securitycenter_settings">Сигурност</string>
-    <string name="keywords_securitycenter_settings">Употреба на батерията;Настройки за автостарт;Инсталиране през USB;Права на приложенията;Купуване на мобилен интернет;Списък с блокирани;Употреба на данни;Настройка на план за данни;Тест на мрежата; Икономия на батерията;Прегряване;Включване; Изключване;Батерия;Преразход;Проблеми с батерията;Енергия;Запазване на батерията;Пестене на енергия;Съхранение на енергия;Пестене на батерията; Автостарт;Права;Автостарт;MIUI автостарт; Автостарт на прилож; автостарт на прилож;Ограничен старт;ограничено стартиране;внезапно стартиране; USB инсталиране;инсталиране от компютър;ADB инсталиране; Местоположение;Достъп до контакти; данни;мобилни данни;купуване на данни;увеличаване на данни;план за данни; Блокирайте;Списък с блокирани;Умен списък с блокирани;Измамници;Продавачи;Агенти;Блокирани обаждания;Блокирани съобщения;Блокирани съобщения;SMS списък блокирани;черен списък;черен списък;списък блокирани;списък блокирани;измами;блокиран контакт;блокирани контакти; Трафик; Калибриране; Свързване;Интернет;Тест; Използване на батерията;Игри;ускорител на игри;Режим Производителност;Режим Не ме безпокойте</string>
+    <string name="keywords_securitycenter_settings">Употреба на батерията;Настройки за автостарт;Инсталиране през USB;Права на приложенията;Купуване на мобилен интернет;Списък с блокирани;Употреба на данни;Настройка на план за данни;Тест на мрежата; Икономия на батерията;Прегряване;Включване; Изключване;Батерия;Преразход;Проблеми с батерията;Енергия;Запазване на батерията;Пестене на енергия;Съхранение на енергия;Пестене на батерията; Автостарт;Права;Автостарт;MIUI автостарт; Автостарт на прилож; автостарт на прилож;Ограничен старт;ограничено стартиране;внезапно стартиране; USB инсталиране;инсталиране от компютър;ADB инсталиране; Местоположение;Достъп до контакти; данни;мобилни данни;купуване на данни;увеличаване на данни;план за данни; Блокирайте;Списък с блокирани;Умен списък с блокирани;Измамници;Продавачи;Агенти;Блокирани обаждания;Блокирани съобщения;Блокирани съобщения;SMS списък блокирани;черен списък;черен списък;списък блокирани;списък блокирани;измами;блокиран контакт;блокирани контакти; Трафик; Калибриране; Свързване;Интернет;Тест;Използване на батерията;Оптимизация на батерията;Употреба на енергия; Игра;ускорител на скоростта;Славата на царя;Режим на производителност;Не ме безпокойте</string>
     <string name="path_securitycenter_settings">Системни приложения/Сигурност</string>
     <string name="resource_securitycenter">Сигурност</string>
     <string name="keywords_securitycenter">Сигурност;Проверка;Сканиране</string>
@@ -1293,9 +1293,9 @@
     <string name="resource_antivirus">Антивирус</string>
     <string name="keywords_antivirus">Вирус;Риск;Антивирус;Сканиране;Проверка на сигурността при плащане;сигурност при плащане;сигурно плащане;сигурно плащане;защита при плащане;защита при плащане;защитени плащания;защитена зона;зона за плащания</string>
     <string name="path_antivirus">Системни приложения/Сигурност/Сканиране за вируси</string>
-    <string name="resource_powercenter">Икономия на батерия</string>
+    <string name="resource_powercenter">Оптимизация на батерията</string>
     <string name="keywords_powercenter">Икономия на батерията;Прегряване;Включване;Изключване;Батерия;Преразход;Батерия;Проблеми с батерията;Енергия;Изтощаване;Прегряване;Икономия на батерията;Икономия на енергия;Пестене на енергия;Пестене на батерия</string>
-    <string name="path_powercenter">Системни приложения/Сигурност/Използване на батерията</string>
+    <string name="path_powercenter">Системни приложения/Сигурност/Оптимизация на батерията</string>
     <string name="resource_auto_restart">Настройки за автостарт</string>
     <string name="keywords_auto_restart">Автостарт; Права;Автоматично стартиране;Автостарт; Настройки на автостарт; MIUI автостарт; Автостарт на приложения; автостарт на прилож;Ограничено стартиране;ограничен старт;внезапно стартиране</string>
     <string name="path_auto_restart">Системни приложения/Сигурност/Разрешения /Автостартиране</string>
@@ -1321,7 +1321,7 @@
     <string name="keywords_networkassistant_4">Връзка;Интернет;Тест</string>
     <string name="path_networkassistant_4">Системни приложения/Сигурност/Използване на мобилни данни/тест на мрежата</string>
     <string name="resource_powercenter_powerrank">Батерия и производителност</string>
-    <string name="keywords_powercenter_powerrank">Използване на батерията</string>
+    <string name="keywords_powercenter_powerrank">Употреба на енергия</string>
     <string name="path_powercenter_powerrank">Батерия и производителност/Използване на батерията</string>
     <string name="resource_gamebooster">Подобряване на бързината при игри</string>
     <string name="keywords_gamebooster">Игра;увеличаване на скоростта;King of Glory;Режим на изпълнение;DND;Игри;Играене;Скорост на игра;ускорение</string>
@@ -1348,7 +1348,7 @@
     <string name="menu_text_license_manager">Разрешения</string>
     <string name="menu_text_garbage_cleanup">Почистване</string>
     <string name="menu_text_garbage_cleanup_danger">%s</string>
-    <string name="menu_text_power_manager">Батерия</string>
+    <string name="menu_text_power_manager">Оптимизация на батерията</string>
     <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Предишното сканиране е прекъснато преди да завърши</string>
     <string name="examination_score_100">Изглежда всичко работи добре!</string>
@@ -1361,7 +1361,7 @@
     <string name="activity_title_networkassistants">Монитор за данни</string>
     <string name="activity_title_antispam">Антиспам</string>
     <string name="activity_title_license_manager">Разрешения</string>
-    <string name="activity_title_power_manager">Батерия</string>
+    <string name="activity_title_power_manager">Оптимизация на батерията</string>
     <string name="activity_title_garbage_cleanup">Почистване</string>
     <string name="memory_check_content">Освободени %s</string>
     <string name="memory_clear_unused">Изчисти кеша (%s)</string>
@@ -1414,7 +1414,7 @@
     <string name="activity_title_create_shortcut">Управление на преките пътища</string>
     <string name="menu_item_notification_title">Показване в лентата с известия</string>
     <string name="menu_item_notification_garbage_text">%s</string>
-    <string name="menu_item_notification_power_text">Енергия</string>
+    <string name="menu_item_notification_power_text">Оптимизация на батерията</string>
     <string name="menu_item_notification_antispam_text_normal">Спам</string>
     <string name="menu_item_notification_antispam_text_avail">Спам</string>
     <string name="pref_category_title_securitycenter_settings">Настройки на Сигурност</string>
@@ -1422,7 +1422,7 @@
     <string name="Settings_title_garbage_cleanup">Настройка на Почистване</string>
     <string name="Settings_title_network_assistants">Настройка на Монитор</string>
     <string name="Settings_title_anti_spam">Настройка на Антиспам</string>
-    <string name="Settings_title_power_center">Настройка на Батерия</string>
+    <string name="Settings_title_power_center">Настройки за оптимизиране на батерията</string>
     <string name="Settings_title_anti_virus">Настройки на сканирането</string>
     <string name="menu_item_virus_cloud_scan_title">Онлайн вирусни дефиниции</string>
     <string name="menu_item_virus_cloud_scan_summary">Използвай онлайн база данни за вируси</string>
@@ -1584,7 +1584,7 @@
     <string name="call_and_contact">Обаждания и Контакти</string>
     <string name="permission_with_call_and_contact">Разрешения, свързани с телефонни обаждания, данни на контакти и списъци с повиквания.</string>
     <string name="title_flow_rank">Използване на мобилен план за данни</string>
-    <string name="title_consume_power_rank">Употреба на батерия</string>
+    <string name="title_consume_power_rank">Използване на енергия от приложенията</string>
     <string name="title_payment_protection">Плащанията са защитени</string>
     <string name="title_payment_risk">Открити са рискове при плащане</string>
     <string name="summary_payment_risk">Плащането с устройството не е сигурно</string>
@@ -2395,14 +2395,14 @@
     <string name="first_aid_dialog_msg_stop_scan">Спиране на сканирането сега?</string>
 	<string name="see_more_content">Актуализирайте Игри, за да видите повече акценти</string>
 	<string name="auto_task_result_summary_text">Задайте автоматизирани задачи за пестене на батерия</string>
-    <string name="extreme_power_save_mode_card_summary">Включете екстремен режим, за да спестите енергия, когато батерията е слаба.</string>
+    <string name="extreme_power_save_mode_card_summary">Включете Екстремно пестене на батерия, за да спестите енергия, когато батерията е изтощена.</string>
     <string name="handle_title_abnormal">Изтощаване на батерията</string>
     <string name="handle_title_app">Приложения</string>
     <string name="handle_title_details">Данни за използването на батерията</string>
     <string name="handle_title_system">Използване на батерията от системата</string>
     <string name="hide_mode_result_summary_text">Персонализиране на настройките за пестене на батерията за отделни приложения</string>
     <string name="pc_main_activity_back">Назад</string>
-    <string name="pc_settings_title">Настройки за използване на батерията</string>
+    <string name="pc_settings_title">Настройки за оптимизация на батерията</string>
     <string name="power_center_hints_scan_danger_result">Можте да поправите проблеми с батерията сега</string>
     <string name="power_center_list_item_auto_brightness">Настройте автоматична яркост на екрана</string>
     <string name="power_center_list_item_battery_status_capacity">мАч</string>

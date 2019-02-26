@@ -6,12 +6,12 @@
     <string name="power_config_event_delete">Изтрий</string>
     <string name="hide_mode_desc">Когато дадено приложение работи във фонов режим, неговите дейности ще се наблюдават, за да се намали разхода на батерията. Тази функция ще получи и използва потребителски данни според %s</string>
     <string name="power_hide_mode_title">Батерия и производителност</string>
-    <string name="power_config_apps">Икономия на батерия</string>
+    <string name="power_config_apps">Пестене на батерия по приложения</string>
     <string name="app_list_title">Избор на приложения</string>
     <string name="power_hide_mode_app_list_summary">Икономия на енергия на заден план</string>
     <string name="enable_hide_mode">Включване Икономия на батерията</string>
     <string name="disable_hide_mode">Изключване на Икономия на батерията</string>
-    <string name="about_hide_mode">За Икономия на батерия</string>
+    <string name="about_hide_mode">Относно Пестенето на батерия по приложения</string>
     <string name="disable_hide_mode_warning">Изключването на Икономия на батерия може да повиши употребата на енергия.</string>
     <string name="show_system_app">Покажи системните приложения</string>
     <string name="hide_system_app">Скрий системните приложения</string>
@@ -23,7 +23,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Винаги когато MIUI установи, че Вие не използвате устройството си, ще затвори приложенията на заден план.Също така ще ограничи Bluetooth, GPS, мобилни данни и Wi-Fi и няма да активира екрана при получаване на известия.</string>
     <string name="nonui_mode_config_title">Не интерактивен режим</string>
     <string name="nonui_mode_config_description">Винаги, когато MIUI разбере, че не използвате устройството си, MIUI ще изключи светодиодният индикатор, сензора за пръстови отпечатъци и сензорните елементи за управление.Също така няма да активира екрана при получаване на известия.</string>
-    <string name="power_center">Пестене на батерия</string>
+    <string name="power_center">Оптимизация на батерията</string>
     <string name="power_usage">Консумация на енергия</string>
     <string name="power_mode">Режим на производителност</string>
     <string name="performance_category">Производителност</string>
@@ -34,8 +34,8 @@
     <string name="warm_performance_tip">Вашето устройство ще се затопли когато има повече работещи процеси.</string>
     <string name="vip_feedback">VIP Отзив</string>
     <string name="vip_feedback_enable">Вкл ВИП Отзив</string>
-    <string name="extreme_power_config_mode_category">Максимален режим</string>
-    <string name="extreme_power_config_mode_title">Максимален режим</string>
+    <string name="extreme_power_config_mode_category">Екстремно пестене на батерия</string>
+    <string name="extreme_power_config_mode_title">Екстремно пестене на батерия</string>
     <string name="extreme_power_config_mode_desc">&lt;li&gt;"Екстремното пестене на батерия спира цялата активност на заден план на дадено приложение, след като излезете от него и се върнете на начален екран. Това приложение няма да изпраща известия или да получава актуализации."&lt;/li&gt;"
 "&lt;li&gt;Ако вие искате приложение да работи на заден план, заключете го в Последни или го добавете към изключенията на заден план. До 4 приложения могат да работят на заден план, когато е включено Екстремно пестене на батерия.&lt;/li&gt;"
 "&lt;li&gt;Екстремното пестене на батерия изключва NFC по подразбиране. Можете да промените това в Настройки.&lt;/li&gt;"
@@ -94,8 +94,8 @@
     <string name="appconfig_active_app_dialog_title">Управление на активни приложения</string>
     <string name="config_classify">Сортирайте по настройка на приложението</string>
 	<string name="privacy">Политика за поверителност</string>
-    <string name="about_extreme_mode">Екстремен режим</string>
-    <string name="extreme_mode_max_item_alert">Можете да изберете до 4 приложения, които да работят на заден план в Екстремен режим</string>
+    <string name="about_extreme_mode">Екстремно пестене на батерия</string>
+    <string name="extreme_mode_max_item_alert">Можете да изберете до 4 приложения, които да работят на заден план когато е активирано Екстремно пестене на батерия</string>
     <string name="message_i_know">Знам</string>
     <string name="high_temp_state">Прегряване</string>
     <string name="high_temp_state_message">Устройството ви прегрява. Мобилните данни, WLAN горещите точки, GPS и камерата ще бъдат ограничени.</string>

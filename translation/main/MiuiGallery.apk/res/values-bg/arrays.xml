@@ -167,10 +167,29 @@
       <item>Ноември</item>
       <item>Декември</item>
   </string-array>
-    <string-array name="weekend_title">
-    <item>Минали уикенди</item>
-    <item>Дни за запомняне</item>
-    <item>Ежедневни събития</item>
-    <item>Обикновени и необикновени</item>
+  <string-array name="weekend_title">
+      <item>Минали уикенди</item>
+      <item>Дни за запомняне</item>
+      <item>Ежедневни събития</item>
+      <item>Обикновени и необикновени</item>
   </string-array>
+  <string-array name="activities_title">
+      <item>Специален ден</item>
+      <item>Ден за запомняне</item>
+      <item>Специални моменти</item>
+  </string-array>
+  <string-array name="last_weekend_title">
+      <item>Моите уикенди</item>
+      <item>Части от живота</item>
+      <item>Спомени от уикендите</item>
+  </string-array>
+  <string-array name="parties_title">
+      <item>Заедно</item>
+      <item>Добри времена</item>
+      <item>В унисон</item>
+  </string-array>
+  <string-array name="sports_title">
+      <item>Преместване напред</item>
+      <item>Пълен с енергия</item>
+    </string-array>
 </resources>

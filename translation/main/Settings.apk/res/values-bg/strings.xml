@@ -3947,7 +3947,7 @@
     <string name="common_settings">Бързи настройки</string>
     <string name="battery_settings">Батерия</string>
     <string name="battery_settings_title">Батерия</string>
-    <string name="power_center">Енергия</string>
+    <string name="power_center">Оптимизация на батерията</string>
     <string name="power_hide_mode_title">Управление на изп. батерия</string>
     <string name="power_hide_mode_summary">Контрол на поведението на приложенията на заден план, значителна икономия на енергия</string>
     <string name="battery_indicator_style">Стил на иконата за батерия</string>
@@ -4611,7 +4611,7 @@
     <string name="anti_spam">Антиспам</string>
     <string name="permission_mgr">Разрешения</string>
     <string name="cleaner">Почистване</string>
-    <string name="power_mgr">Батерия</string>
+    <string name="power_mgr">Оптимизация на батерията</string>
     <string name="symbols_not_allowed_for_password">Паролата не може да съдържа символи</string>
     <string name="reset_legacy_password_settings_preface_text">Трябва да нулирате вашата парола.</string>
     <string name="priority_storage_title">Избор на хранилище</string>
