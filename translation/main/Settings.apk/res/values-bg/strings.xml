@@ -317,10 +317,10 @@
     <string name="privacy_authorize_revoke_dialog_title">Отмяна на разрешението</string>
     <string name="privacy_authorize_revoke_dialog_msg">След като анулирате разрешението, приложението ще спре събирането на данни и всички свързани с него данни ще бъдат изтрити от сървърите. Това може да направи приложението практически неизползваемо. Да се ​​отмени ли разрешението?</string>
     <string name="privacy_authorize_revoke">Отмяна</string>
-    <string name="privacy_authorize_revoke_time">Отмяна (%1$ds)</string>
+    <string name="privacy_authorize_revoke_time">Отмяна (%1$dс)</string>
     <string name="privacy_authorize_title">Предоставяне на разрешение</string>
     <string name="privacy_authorize_privacy_policy">Правила за поверителност</string>
-    <string name="privacy_authorize_dialog_message">" "<Data>За да се използват основните функции на тази услуга трябва да се съгласите, че Xiaomi ще събира, обработва и използва личната Ви информация. Прочете нашите Правила за Поверителност за да разберете как събираме и обработваме личните Ви данни. С избирането на \"Съгласен съм\" това означава,че Вие сте прочели и сте се съгласили с нашите &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Правила за Поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско Споразумение&lt;/a>.​</Data>" "</string>
+    <string name="privacy_authorize_dialog_message">" "<Data>За да се използват основните функции на тази услуга трябва да се съгласите, че Xiaomi ще събира, обработва и използва личната ви информация. Прочете нашите Правила за Поверителност за да разберете как събираме и обработваме личните ви данни. С избирането на \"Съгласен съм\" това означава,че вие сте прочели и сте се съгласили с нашите &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско Споразумение&lt;/a>.​</Data>" "</string>
     <string name="privacy_authorize_dialog_agree">Съгласен съм</string>
     <string name="privacy_authorize_network_error">Свържете се с мрежата и опитайте отново.</string>
     <string name="privacy_authorize_revoke_success">Разрешението е отменено успешно</string>
@@ -2053,17 +2053,17 @@
     <string name="accessibility_toggle_high_text_contrast_preference_title">Текст с висок контраст</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Ниво на мащаба на екрана: Автоакт.</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Ниво на мащаба на екрана при преходи на приложения: Актуал.</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Край на обажд.: Бутон за захранване</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Прекратяване на повикване чрез бутона за зхранване</string>
     <string name="accessibility_toggle_speak_password_preference_title">Изговаряне на паролите</string>
     <string name="accessibility_toggle_large_pointer_icon_title">Голям курсор на мишката</string>
     <string name="accessibility_toggle_master_mono_title">Монозвук</string>
     <string name="accessibility_toggle_master_mono_summary">Комбиниране на каналите при възпроизвеждане на звук</string>
-    <string name="accessibility_long_press_timeout_preference_title">Забавяне при докосване/задържане</string>
-    <string name="accessibility_display_inversion_preference_title">Инвертиране на цветовете</string>
-    <string name="accessibility_display_inversion_preference_subtitle">(Експериментално) Може да се отрази на ефективността</string>
-    <string name="accessibility_autoclick_preference_title">Кликване след спиране на курсора</string>
+    <string name="accessibility_long_press_timeout_preference_title">Закъснение при докосване и задържане</string>
+    <string name="accessibility_display_inversion_preference_title">Инверсия на цветовете</string>
+    <string name="accessibility_display_inversion_preference_subtitle">Може да се отрази на ефективността</string>
+    <string name="accessibility_autoclick_preference_title">Кликване след като курсора спре да се движи</string>
     <string name="accessibility_autoclick_delay_preference_title">Забавяне преди кликване</string>
-    <string name="enable_quick_setting">Показване в „Бързи настройки“</string>
+    <string name="enable_quick_setting">Показване в Бързи настройки</string>
     <string name="daltonizer_type">Режим на коригиране</string>
     <string name="accessibility_menu_item_settings">Настройки</string>
     <string name="accessibility_feature_state_on">Включено</string>
@@ -3018,7 +3018,7 @@
     <string name="restr_pin_enter_admin_pin">Въведете администраторския ПИН код</string>
     <string name="switch_on_text">Включено</string>
     <string name="switch_off_text">Изключено</string>
-    <string name="screen_pinning_title">Фикс. на екрани</string>
+    <string name="screen_pinning_title">Фиксиране на екрана</string>
     <string name="screen_pinning_description">"Когато настройката е включена, можете да фиксирате текущия екран да се показва, докато не го освободите.
 
 За да използвате тази функция:
@@ -3029,7 +3029,7 @@
 
 3. Докоснете „Общ преглед“.
 
-4. Прекарайте пръст нагоре и докоснете иконата за фиксиране."</string>
+4. Плъзнете нагоре и докоснете иконата за фиксиране."</string>
     <string name="screen_pinning_unlock_pattern">Запитване за фигура за отключване преди освобождаване</string>
     <string name="screen_pinning_unlock_pin">ПИН код преди освобождаване</string>
     <string name="screen_pinning_unlock_password">Запитване за парола преди освобождаване</string>
@@ -3037,12 +3037,12 @@
     <string name="opening_paragraph_delete_profile_unknown_company">Този служебен потребителски профил се управлява от:</string>
     <string name="managing_admin">Управлява се от %s</string>
     <string name="experimental_preference">(Експериментално)</string>
-    <string name="display_auto_rotate_title">При завъртане на устройството</string>
-    <string name="display_auto_rotate_rotate">Завъртане на съдържанието на екрана</string>
-    <string name="display_auto_rotate_stay_in_portrait">Оставане във вертикален изглед</string>
-    <string name="display_auto_rotate_stay_in_landscape">Оставане в хоризонтален изглед</string>
-    <string name="display_auto_rotate_stay_in_current">Оставане в текущата ориентация</string>
-    <string name="encryption_interstitial_header">Надеждно стартиране</string>
+    <string name="display_auto_rotate_title">Завъртане на съдържанието на екрана</string>
+    <string name="display_auto_rotate_rotate">Включено</string>
+    <string name="display_auto_rotate_stay_in_portrait">Заключване портретно</string>
+    <string name="display_auto_rotate_stay_in_landscape">Заключване пейзажно</string>
+    <string name="display_auto_rotate_stay_in_current">Изключено</string>
+    <string name="encryption_interstitial_header">Безопасно стартиране</string>
     <string name="encryption_continue_button">Напред</string>
     <string name="encryption_interstitial_message_pin">"Можете да осигурите допълнителен защитен слой за това устройство, като зададете ПИН кодът ви да се изисква при стартиране. Преди въвеждането му няма да могат да се получават обаждания, съобщения или известия. Будилниците също няма да работят. 
 
@@ -3096,7 +3096,7 @@
     <string name="notifications_disabled">Блокирани</string>
     <string name="notifications_silenced">Без звуков сигнал</string>
     <string name="notifications_redacted">Не се показва деликатно съдържание на заключения екран</string>
-    <string name="notifications_hidden">Известията не се показват на закл. екран</string>
+    <string name="notifications_hidden">Известията не се показват на заключен екран</string>
     <string name="notifications_priority">Настройката „Не ме безпокойте“ е отменен</string>
     <string name="notifications_summary_divider"> / </string>
     <string name="notification_summary_level">Ниво %d</string>
@@ -3109,8 +3109,8 @@
     <string name="filter_notif_blocked_apps">Блокирани</string>
     <string name="filter_with_domain_urls_apps">С URL адреси в домейните</string>
     <string name="filter_notif_priority_apps">Отменя „Не ме безпокойте“</string>
-    <string name="filter_notif_sensitive_apps">Без делик. съдърж. на закл. екран</string>
-    <string name="filter_notif_hide_notifications_apps">Без показване на закл. екран</string>
+    <string name="filter_notif_sensitive_apps">Без деликикатно съдържание на заключен екран</string>
+    <string name="filter_notif_hide_notifications_apps">Без показване на заключен екран</string>
     <string name="filter_notif_silent">Показване без звуков сигнал</string>
     <string name="advanced_apps">Разширени</string>
     <string name="configure_apps">Конфигуриране на приложенията</string>
@@ -3259,7 +3259,7 @@
     <string name="camera_gesture_desc">Отворете приложението Камера с двукратно завъртане на китката си</string>
     <string name="camera_double_tap_power_gesture_title">За камерата натиснете бутона за захранване 2 пъти</string>
     <string name="camera_double_tap_power_gesture_desc">Бързо отваряйте камерата, без да отключвате екрана си</string>
-    <string name="screen_zoom_title">Екранен размер</string>
+    <string name="screen_zoom_title">Размер на екрана</string>
     <string name="screen_zoom_short_summary">Уголемяване или намаляване на елементите на екрана</string>
     <string name="screen_zoom_keywords">плътност на дисплея, промяна на мащаба на екрана, мащаб, мащабиране</string>
     <string name="screen_zoom_summary">Намаляване или уголемяване на елементите на екрана. Позицията на някои приложения може да се промени.</string>
@@ -3765,12 +3765,12 @@
     <string name="device_cpu6_info">"Шестядрен "</string>
     <string name="device_cpu4_info">"Четириядрен "</string>
     <string name="max_cpu2_info">Двуядрен процесор</string>
-    <string name="max_cpu4_info">"Четириядрен, максимална честота "</string>
-    <string name="max_cpu6_info">"Шестядрен, максимална честота "</string>
+    <string name="max_cpu4_info">"Четириядрен "</string>
+    <string name="max_cpu6_info">"Шестядрен "</string>
     <string name="device_cpu8_info">"Осемядрен "</string>
-    <string name="max_cpu8_info">"Осемядрен, максимална честота "</string>
+    <string name="max_cpu8_info">"Осемядрен "</string>
     <string name="device_cpu10_info">"Десетядрен "</string>
-    <string name="max_cpu10_info">"Десетядрен, максимална честота "</string>
+    <string name="max_cpu10_info">"Десетядрен "</string>
     <string name="instruction_title">Важна информация за безопасността</string>
     <string name="my_device_disclaimer">Забележка: Информацията за устройството, включително процесор, капацитет на батерията, размер на екрана и неговата резолюция, са предоставени от Xiaomi.</string>
     <string name="approve_title">Сертификация</string>
@@ -3783,10 +3783,10 @@
     <string name="notification_reboot_btn">Рестарт</string>
     <string name="miui_updater">Актуализация на системата</string>
     <string name="giga_hertz">ГХц</string>
-    <string name="reading_data">Заявка за информация…</string>
+    <string name="reading_data">Получаване на информация…</string>
     <string name="available_size">Свободни %s</string>
     <string name="total_size">Общо %s</string>
-    <string name="memory_title">Свободни: %1$s\u0009\u0009 от %2$s</string>
+    <string name="memory_title">Свободни: %1$s\u0009\u0009Общо: %2$s</string>
     <string name="memory_rightvalue">Общо:%s</string>
     <string name="memory_system_space">Системна памет</string>
     <string name="memory_system_rom">Системна памет</string>
@@ -3800,8 +3800,8 @@
     <string name="xiaomi_cloud_service_disabled">Изкл</string>
     <string name="xiaomi_cloud_service_unknown">Непознат</string>
     <string name="xiaomi_cloud_service_description">Mi Облак синхронизира контакти, снимки и други елементи между устройствата ви. \"Намери устройството\" също се нуждае от Mi Облак за да работи нормално.</string>
-    <string name="sure_sync_now">Синхр на елементите сега?</string>
-    <string name="sync_now">Синхр</string>
+    <string name="sure_sync_now">Синхронизиране на елементите сега?</string>
+    <string name="sync_now">Синхронизиране</string>
     <string name="suggestion_for_phone_recycled">Добавете друг телефонен номер</string>
     <string name="sms_received_sound_title">Звук при получен SMS</string>
     <string name="sms_delivered_sound_title">Отчет за доставка</string>
@@ -5699,7 +5699,7 @@
     <string name="lockpassword_choose_your_pin_title" formatted="false">Въведете %d-%d цифри</string>
 	<string name="miui_lab_pic_in_pic_desc">Разрешаване на плаващи видеоклипове за избрани приложения</string>
     <string name="miui_lab_pic_in_pic_title">Картина в картината</string>
-	<string name="sim_management_title_singlesim">SIM карта &amp; мобилни мрежи</string>
+	<string name="sim_management_title_singlesim">SIM карти и мобилни мрежи</string>
 	<string name="video_pip_access_title">Достъпни приложения</string>
     <string name="video_pip_enable_title">Активиране на видео режим Картина в картина</string>
     <string name="video_pip_tips">Кликнете върху плаващия прозорец, за да влезете в режим на Картина в картина</string>
@@ -5787,10 +5787,10 @@
 	<string name="status_bar_settings_customer_feedback">отзиви</string>
     <string name="status_bar_settings_function_description">Оносно тази функция</string>
     <string name="status_bar_settings_user_fold_description1">Папката за известия бе въведена в MIUI 9. Тази функция филтрира маловажни известия и ги поставя в отделна папка.</string>
-    <string name="status_bar_settings_user_fold_description2">MIUI ще запомни кои известия докосвате и след това да използвате няколко критерия, за да определите дали те са важни.</string>
+    <string name="status_bar_settings_user_fold_description2">MIUI ще запомни кои известия сте докоснали и след това ще използва няколко критерия, за да определи дали те са важни.</string>
     <string name="status_bar_settings_user_fold_description3">"Ако известията, които смятате за важни, продължават да се показват в папката за известия, уверено ни съобщете за тези проблеми. Бихме оценили вашите отзиви."</string>
-    <string name="status_bar_settings_user_fold_disable">Изкл.</string>
-    <string name="status_bar_settings_user_fold_enable">Вкл.</string>
+    <string name="status_bar_settings_user_fold_disable">Изключено</string>
+    <string name="status_bar_settings_user_fold_enable">Включено</string>
 	<string name="aod_close_color_inversion">"Тази функция не може да се комбинира с инверсия на цветовете. Първо изключете цветовата инверсия."</string>
     <string name="aod_got_it">Разбрах</string>
     <string name="aod_to_close">Изключи</string>
