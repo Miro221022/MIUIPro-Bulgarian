@@ -280,8 +280,8 @@
   <string name="data_already_used">Използвани мобилни данни</string>
   <string name="data_charge">Предплатен пакет за мобилни данни</string>
   <string name="data_left">Оставащи мобилни данни</string>
-  <string name="data_unit_gb">ГБ</string>
-  <string name="data_unit_mb">МБ</string>
+  <string name="data_unit_gb">Гб</string>
+  <string name="data_unit_mb">Мб</string>
   <string name="date_time_set">Настрой</string>
   <string name="date_year_toggle">Добави година</string>
   <string name="default_ringtone">Мелодия по подразбиране</string>

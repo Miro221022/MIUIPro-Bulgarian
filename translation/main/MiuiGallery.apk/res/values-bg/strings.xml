@@ -298,7 +298,7 @@
     <string name="debugging_tip">Генериране на данни за отстраняване на грешки</string>
     <string name="default_relation_name">Нова група</string>
     <string name="define_by_user">Потребителска настройка</string>
-    <string name="delete">Изтриване</string>
+    <string name="delete">Изтрий</string>
     <string name="delete_album_failed">Албумът не може да се изтрие</string>
     <string name="delete_album_msg_format">Изтриване на \"%2$s\" албум %1$s%3$s?</string>
     <string name="delete_album_success">Албумът е изтрит.</string>
@@ -653,7 +653,7 @@
     <string name="operation_back">Назад</string>
     <string name="operation_cast_connected_format">Излъчване - %s</string>
     <string name="operation_cast_connecting_format">Свързване към %s</string>
-    <string name="operation_delete">Изтрий</string>
+    <string name="operation_delete">Изтриване</string>
     <string name="operation_detail">Детайли</string>
     <string name="operation_disable_auto_upload">Изключване на синхронизирането с Mi Облак</string>
     <string name="operation_download">Изтегляне на снимка (%s)</string>
