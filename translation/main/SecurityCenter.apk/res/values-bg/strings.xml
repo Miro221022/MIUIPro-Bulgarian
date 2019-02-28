@@ -433,8 +433,8 @@
     <string name="pref_new_installed_preconfig_title">Стандартни настройки за нови приложения</string>
     <string name="pref_bg_network_title">Връзка на заден план</string>
     <string name="pref_mi_sim_settings">%s настройки на пакета</string>
-    <string name="pref_title_upload_data_usage">Докладвайте информация за използването на данни</string>
-    <string name="pref_summary_upload_data_usage">Докладвайте информацията за използването на данни, за да ни помогнете да подобрим услугите на MIUI. Процесът на отчитане ще се извърши в съответствие с нашата Декларация за поверителност.</string>
+    <string name="pref_title_upload_data_usage">Докладване на информацията за използването на данни</string>
+    <string name="pref_summary_upload_data_usage">Докладвайте информацията си за използване на данни, за да ни помогнете да подобрим MIUI услугите. Процесът на докладване ще бъде извършен в съответствие с нашата Политика за поверителност.</string>
     <string name="pref_manual_adjust">Ръчна настройка на трафика</string>
     <string name="pref_daily_adjust">Задайте лимит на данни при слаб трафик</string>
     <string name="pref_free_adjust">Задайте лимит на мобилни данни при слаб трафик</string>
@@ -479,7 +479,7 @@
     <string name="power_save_on_time_end_time_summary_na">До</string>
     <string name="manual_input_traffic">Задайте лимит за трафика</string>
     <string name="manual_input_free_traffic">Задайте лимит на мобилни данни</string>
-    <string name="declaration_dialog_msg">Тази функция ви помага да следите използваните мобилни данни. Възможно е показанията да се различават от отчетените при оператора.</string>
+    <string name="declaration_dialog_msg">Тази функция може да ви помогне да следите потреблението си, но не гарантира предотвратяване на допълнителни разходи. За най-добри резултати задайте консервативен лимит.</string>
     <string name="input_used_hint">Въведете трафик на данни</string>
     <string name="input_used_max_hint">Въведете изп. данни (по-малко от %s)</string>
     <string name="text_cycle_day">%s</string>
@@ -832,7 +832,7 @@
     <string name="tc_diagnostic_all_error_notification_title">Неуспешно завършване на диагностиката</string>
     <string name="tc_diagnostic_all_error_notification_summary">Чукнете, за да докладвате грешка</string>
     <string name="tc_diagnostic_success_notification_title">Името и мрежата на оператора са правилни</string>
-    <string name="tc_diagnostic_success_notification_summary">Докладвайте тази грешка, за да подобрите инструментите за диагностика в MIUI</string>
+    <string name="tc_diagnostic_success_notification_summary">Докладвайте този проблем, за да помогнете на MIUI да подобри диагностичните инструменти</string>
     <string name="tc_diagnostic_repair_success_toast">Промяната е успешна</string>
     <string name="tc_diagnostic_complete">Готово</string>
     <string name="tc_diagnostic_notification_sumarry">Чукнете за резултатите</string>
@@ -2493,8 +2493,8 @@
     <string name="face_unlock_face_auth_failed_title">"Данните за лицето не можаха да бъдат потвърдени. Преминаване към други методи за отключване…"</string>
     <string name="face_unlock_face_start_title">Потвърждаване на лицеви данни…</string>
     <string name="face_unlock_finger_or_password_switch">Използвайте отпечатъка си или въведете парола, за да отключите.</string>
-    <string name="face_unlock_guide_confirm">Използване на отключване на лице</string>
-    <string name="face_unlock_guide_dialog_summary">Можете да използвате данните за лице, за да отключите устройството си. Включване на Отключване с лице?</string>
+    <string name="face_unlock_guide_confirm">Включване</string>
+    <string name="face_unlock_guide_dialog_summary">Можете да използвате лицеви данни, за да отключите устройството си. Включване на Отключване с лице?</string>
     <string name="face_unlock_not_found">"Неуспешно разпознаване"</string>
     <string name="face_unlock_open_eye">Отворете очите си малко по-широко</string>
     <string name="face_unlock_reveal_eye">Направете очите си видими</string>
