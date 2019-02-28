@@ -115,7 +115,7 @@
   <string name="deepclean_apk_content">Изтрива APK файлове или ненужни приложения</string>
   <string name="deepclean_apk_summary_empty">Всичко изглежда добре, няма APK за изтриване</string>
   <string name="deepclean_apk_version_error">Неизвестно</string>
-  <string name="deepclean_app_content">Деинсталиране на приложения, които не са използвани от 30 дни</string>
+  <string name="deepclean_app_content">Деинсталирайте приложенията които не сте използвали последните 30 дни</string>
   <string name="deepclean_app_summary_empty">Изглежда всичко е наред, няма приложения за изтриване​</string>
   <string name="deepclean_cache_content">Изчистване на данни, създадени от приложенията</string>
   <string name="deepclean_cache_header_left">Кеш: %d</string>
