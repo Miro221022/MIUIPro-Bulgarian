@@ -203,8 +203,8 @@
     <string name="show_screen_updates_summary">Присветване на цялата повърхност на прозореца при обновяване</string>
     <string name="show_hw_screen_updates">Показв на CPU рендериране</string>
     <string name="show_hw_screen_updates_summary">Примигв на прозорци, в които видеото е рендерирано от CPU</string>
-    <string name="show_hw_layers_updates">Показв актуал сл. на хардуера</string>
-    <string name="show_hw_layers_updates_summary">Примигв. на слоевете на хардуера в зелено при актуал</string>
+    <string name="show_hw_layers_updates">Показване на актуализации на ниво хардуер</string>
+    <string name="show_hw_layers_updates_summary">Хардуерните елементи, които се актуализират, ще светят в зелено</string>
     <string name="debug_hw_overdraw">Отстраняване на грешки при превишено използване на видеокартата</string>
     <string name="disable_overlays">Изкл на хардуерно преизчертаване</string>
     <string name="disable_overlays_summary">Винаги използвай CPU за рендериране на екрана</string>
@@ -218,8 +218,8 @@
     <string name="force_rtl_layout_all_locales_summary">Задаване на посоката на оформление на екрана до RTL за всички местополения</string>
     <string name="show_cpu_usage">Покажи употребата на процесора</string>
     <string name="show_cpu_usage_summary">Покажи употребата на CPU при наслагване на екрана</string>
-    <string name="force_hw_ui">Задаване на видео рендериране</string>
-    <string name="force_hw_ui_summary">Принудително използване на CPU за 2D начертаване</string>
+    <string name="force_hw_ui">Принудително GPU рендериране</string>
+    <string name="force_hw_ui_summary">Принудително използване на GPU за 2D изчертаване</string>
     <string name="force_msaa">Задаване на 4x MSAA</string>
     <string name="force_msaa_summary">Активиране на 4x MSAA в OpenGL ES 2.0 за приложенията</string>
     <string name="show_non_rect_clip">Отстраняване на грешки при неправоъг. изрязване на полета</string>
@@ -227,7 +227,7 @@
     <string name="window_animation_scale_title">Скала за анимация на прозорец</string>
     <string name="transition_animation_scale_title">Скала на анимацията при преход</string>
     <string name="animator_duration_scale_title">Скала на времетраене на анимацията</string>
-    <string name="overlay_display_devices_title">Симулиране на втори дисплей</string>
+    <string name="overlay_display_devices_title">Симулиране на вторични дисплеи</string>
     <string name="debug_applications_category">Приложения</string>
     <string name="immediately_destroy_activities">Не запазвайте активността</string>
     <string name="immediately_destroy_activities_summary">Унищож. на всяка дейност при напускането от потребител</string>
@@ -4872,7 +4872,7 @@
     <string name="bootloader_apply_step_5">Уверете се, че знаете как да използвате режим Fastboot, преди да го включите.</string>
     <string name="usb_install_app">Инсталиране чрез USB</string>
     <string name="usb_install_app_desc">Разрешаване на инсталирането на приложения чрез USB</string>
-    <string name="usb_adb_input">USB отсраняване на грешки (Настройки за сигурност)</string>
+    <string name="usb_adb_input">USB отстраняване на грешки (Настройки за сигурност)</string>
     <string name="usb_adb_input_desc">Разрешаване даването на разрешения и симулиране на въвеждане чрез USB остраняване на грешки</string>
     <string name="bootloader_status">Mi Unlock статус</string>
     <string name="bootloader_status_summary">Проверка дали устройството е заключено</string>
