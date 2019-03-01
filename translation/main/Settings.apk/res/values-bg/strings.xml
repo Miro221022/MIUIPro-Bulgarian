@@ -1813,14 +1813,14 @@
     <string name="reset_app_preferences_title">Нулиране на предпочитанията?</string>
     <string name="reset_app_preferences_desc">"Това ще нулира всички предпочитания за:
 
- \"&lt;li>деактивираните приложения;&lt;/li>\"
- \"&lt;li>известията за деактивирани приложения;&lt;/li>\"
- \"&lt;li>стандартните приложения за действия;&lt;/li>\"
- \"&lt;li>ограниченията за данни на заден план за приложенията;&lt;/li>\"
- \"&lt;li>ограниченията за всички разрешения.&lt;/li>\"
+"<li> Деактивирани приложения</li>"
+"<li> Деактивирани известия от приложения</li>"
+"<li> Приложения по подразбиране</li>"
+"<li> Ограничения за ползване на данни на заден план за приложенията</li>"
+"<li> Всички ограничения за разрешения</li>"
 
- Няма да загубите данни от приложенията."</string>
-    <string name="reset_app_preferences_button">Нулиране на приложенията</string>
+ Няма да загубите никакви данни за приложенията."</string>
+    <string name="reset_app_preferences_button">Нулирай</string>
     <string name="manage_space_text">Управление на място</string>
     <string name="filter">Филтриране</string>
     <string name="filter_dlg_title">Избор на филтриращи опции</string>
@@ -2265,8 +2265,8 @@
     <string name="menu_duration_6h">6 часа</string>
     <string name="menu_duration_12h">12 часа</string>
     <string name="menu_duration_1d">1 ден</string>
-    <string name="menu_show_system">Показване на системните процеси</string>
-    <string name="menu_hide_system">Скриване на системните процеси</string>
+    <string name="menu_show_system">Показване на системните приложения</string>
+    <string name="menu_hide_system">Скриване на системните приложения</string>
     <string name="menu_show_percentage">Показване на процентите</string>
     <string name="menu_use_uss">Използване на USS</string>
     <string name="menu_proc_stats_type">Тип статистически данни</string>
@@ -5772,7 +5772,7 @@
     <string name="navigation_guide_appswitch_anim_summary">Плъзнете през екрана, като започнете от ръба, за да се върнете към предишното приложение</string>
     <string name="navigation_guide_appswitch_anim_title">Връщане към предишно приложение</string>
     <string name="navigation_guide_appswitch_click">Първо включете \"Връщане към предишно приложение\"</string>
-	<string name="picture_in_picture_app_detail_summary">"Разрешете на това приложение да създава прозорец за картина в картина, докато приложението е отворено или след като го излезете от него (например, да продължите да гледате видеоклип). Този прозорец се показва върху другите приложения, които използвате."</string>
+	<string name="picture_in_picture_app_detail_summary">"Разрешаване на това приложение да създава прозорец \"картина в картината\", докато приложението е отворено или след като излезете от него (например, за да продължите да гледате видеоклип). Този прозорец се показва върху другите приложения, които използвате."</string>
 	<string name="check_importance_dialog_cancel">Отказ</string>
     <string name="handy_mode_tips_full_screen">"Когато използвате жестове на цял екран, можете да включите режима с една ръка, като използвате Тъч асистент. Можете също така да превключите към използване на бутони, вместо жестове на цял екран."</string>
 	<string name="close_aod">"Тази функция не може да се комбинира с \"Режим Винаги включен\". Първо изключете \"Режим Винаги включен\"."</string>
