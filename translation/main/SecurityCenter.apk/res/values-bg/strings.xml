@@ -1897,7 +1897,7 @@
     <string name="optimize_result_summary_sucurity_risk">Някой от функциите по сигурността не са включени. Включете ги за да сте по-защитени:</string>
     <string name="optimize_result_ads_close_text">Реклама</string>
     <string name="information_setting">Препоръки</string>
-    <string name="load_only_under_wlan">Зареждане само чрез Wi-Fi</string>
+    <string name="load_only_under_wlan">Зареждане само чрез WLAN</string>
     <string name="recommend_news">Получаване на препоръки</string>
     <string name="setting_privacy_password">Добавете шаблон</string>
     <string name="bind_xiaomi_account_title">Добавете Mi профил</string>
@@ -1929,7 +1929,7 @@
     <string name="app_manager_details_traffic_title">Използвани данни</string>
     <string name="app_manager_details_electric_title">Батерия</string>
     <string name="app_manager_card_permission_title">Разрешения</string>
-    <string name="app_manager_permission_startself_title">Автостартиране</string>
+    <string name="app_manager_permission_startself_title">Автостартирт</string>
     <string name="app_manager_permission_manager_title">Разрешения</string>
     <string name="app_manager_permission_notify_title">Известия</string>
     <string name="app_manager_permission_power_saving_title">Икономия на батерия</string>
@@ -1965,11 +1965,11 @@
     <string name="app_manager_app_storage">"Хранилище: "</string>
     <string name="app_manager_app_traffic">"Употреба на данни: "</string>
     <string name="app_manager_app_power">"Употреба на батерия: "</string>
-    <string name="app_manager_net_control_title">Ограничаване на използваните данни</string>
+    <string name="app_manager_net_control_title">Ограничаване използването на данни</string>
     <string name="app_manager_net_mobile">Мобилни данни</string>
-    <string name="app_manager_net_wifi">Wi-Fi</string>
+    <string name="app_manager_net_wifi">WLAN</string>
     <string name="app_manger_des_separator">", "</string>
-    <string name="app_manager_disable">Не е разрешено</string>
+    <string name="app_manager_disable">"Не разрешавай"</string>
     <string name="app_manager_notify_bar">Значки</string>
     <string name="app_manager_notify_floating">Плаващи известия</string>
     <string name="app_manager_notify_keyguard">Заключен екран</string>
@@ -2004,7 +2004,7 @@
     <string name="app_manager_globel_perm_title">Разрешения за приложението</string>
     <string name="app_manager_globel_perm_summary">Управление на разрешенията, свързани с местоположение, хранилище, телефон, съобщения и контакти.</string>
     <string name="app_manager_globel_other_perm_title">Други разрешения</string>
-    <string name="app_manager_uninstall_protected_dlg_title">Деинстл. на системни приложения</string>
+    <string name="app_manager_uninstall_protected_dlg_title">Деинстлиране на на системни приложения</string>
     <string name="app_manager_uninstall_protected_dlg_msg">Деинсталирането на системни приложения може да предизвика грешки в работата на MIUI. Да се деинсталира въпреки това?</string>
     <string name="app_manager_has_not_data">Няма данни</string>
     <string name="app_manager_memory">RAM</string>
@@ -2013,8 +2013,8 @@
     <string name="app_manager_default_cleared">Почистено</string>
     <string name="app_manager_not_allow">Не</string>
     <string name="app_manager_allow">Да</string>
-    <string name="app_manager_install_other_app">Инсталиране на прилож от непознати източници</string>
-    <string name="app_manager_disabled_by_admin">Изкл от администратора</string>
+    <string name="app_manager_install_other_app">Инсталиране на приложения от неизвестни източници</string>
+    <string name="app_manager_disabled_by_admin">Деактивиран от администратора</string>
     <string name="app_manager_advanced_setting">Разширени настройки</string>
     <string name="app_manager_total_size">Общо</string>
     <string name="app_manager_code_size">Размер на приложението</string>
