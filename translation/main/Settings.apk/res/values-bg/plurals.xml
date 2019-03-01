@@ -241,14 +241,15 @@
         <item quantity="other">Остават %1$d стъпки преди да можете да получите отчет за модема</item>
         <item quantity="one">Остава %1$d стъпка преди да можете да получите отчет за модема</item>
     </plurals>
-	    <plurals name="manage_trust_agents_summary_on">
+	<plurals name="manage_trust_agents_summary_on">
         <item quantity="other">Активирани са %d доверени посредници</item>
         <item quantity="one">Активиран е 1 доверен посредник</item>
     </plurals>
-		<plurals name="miui_sos_emergency_contacts_quantity">
+	<plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d добавени</item>
     </plurals>
-	    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$s Час %2$s"</item>
+	<plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$sчаса %2$s"</item>
+        <item quantity="one">" %1$sчас %2$s"</item>
     </plurals>
 </resources>

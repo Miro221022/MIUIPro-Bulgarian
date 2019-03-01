@@ -820,6 +820,6 @@
   <string name="auto_identify_btn_title">Това съобщение е изпратено от неизвестен номер.</string>
   <string name="auto_identify_confirmation">Може да отнеме няколко минути, за да се активира тази функция.</string>
   <string name="menu_traffic_destination">Дестинация</string>
-  <string name="number_recognition_partner">Партньори за разпознаване на номера</string>
+  <string name="number_recognition_partner">Доставчици на услуги за разпознаване идентификацията на подателя</string>
   <string name="train_edit_destination">Добави</string>
 </resources>

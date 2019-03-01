@@ -356,4 +356,5 @@
 	<string name="gadget_dual_clock_label">Двоен часовник</string>
     <string name="recommend_refresh">Обновяване</string>
     <string name="recommend_xout">"Не показвай"</string>
+	<string name="dual_app">Клонирани приложения</string>
 </resources>

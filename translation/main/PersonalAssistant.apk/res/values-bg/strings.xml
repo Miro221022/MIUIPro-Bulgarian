@@ -1013,4 +1013,5 @@
   <string name="notification_channel_payment_description">Известия за плащания</string>
   <string name="notification_channel_shopping_description">Известия за продукти, добавени към любими или кошницата за пазаруване</string>
   <string name="card_expand_note_add_checkbox">Добавяне на отметка</string>
+  <string name="shopping_source">От %s</string>
 </resources>
