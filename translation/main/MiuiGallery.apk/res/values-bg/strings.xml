@@ -203,12 +203,12 @@
     <string name="choose_some_people">Изберете албум с %s</string>
     <string name="cleaner_empty_value_description">Всичко изглежда добре</string>
     <string name="cleaner_photo_pick_delete_selected">Изтрий избраните снимки</string>
-    <string name="cleaner_scan_description">Оптимизиране на елементи за увеличаване на мястото за съхранение във вашето устройство</string>
-    <string name="cleaner_scan_exit_dialog_message">Ще трябва да започнете следващия път. Спиране сега?</string>
+    <string name="cleaner_scan_description">Оптимизирането на елементи освобождава място за съхранение във вашето устройство</string>
+    <string name="cleaner_scan_exit_dialog_message">"Ще трябва да започнете отново следващия път. Спиране на сканирането сега?"</string>
     <string name="cleaner_scan_exit_dialog_positive">Спри</string>
-    <string name="cleaner_scan_exit_dialog_title">Спири сканирането</string>
+    <string name="cleaner_scan_exit_dialog_title">Спри сканирането</string>
     <string name="cleaner_scan_finish">Сканирането е успешно</string>
-    <string name="cleaner_scan_no_result">Не може да освободи още място в хранилището сега</string>
+    <string name="cleaner_scan_no_result">"Не може да се освободи още място в хранилището сега"</string>
     <string name="cleaner_scan_ok">Разбрах</string>
     <string name="cleaner_scan_title">Сканиране на албумите…</string>
     <string name="cleaner_screen_shot_action">Почисти</string>
@@ -220,7 +220,7 @@
     <string name="cleaner_slim_title">Оптимизиране на снимки</string>
     <string name="cleaner_space_description">може да се освободи</string>
     <string name="cleaner_space_detail_description">Почистете снимки в Галерия, за да освободите място за съхранение</string>
-    <string name="cleaner_stop_scan">Спири сканирането</string>
+    <string name="cleaner_stop_scan">Спри сканирането</string>
     <string name="click_download_gif">Чукнете, за да изтеглите GIF</string>
     <string name="click_top_right">Чукнете тази икона</string>
     <string name="cloud_camera_display_name">Снимки от камерата</string>
@@ -730,8 +730,8 @@
     <string name="photo_editor_miui_beauty_no_face">Не може да се разпознае лицето</string>
     <string name="photo_editor_mosaic">Мозайка</string>
     <string name="photo_editor_navigator_cancel">Отказ</string>
-    <string name="photo_editor_navigator_download_network_metered_msg">Изтеглянето на %s ще изхаби около 4МБ мобилни данни. Да изтегля ли?</string>
-    <string name="photo_editor_navigator_download_network_metered_title">Предупреждение за използв. на данни</string>
+    <string name="photo_editor_navigator_download_network_metered_msg">Изтеглянето на %s изисква около 4MB мобилни данни. Изтегляне сега?</string>
+    <string name="photo_editor_navigator_download_network_metered_title">Предупреждение за използване на данни</string>
     <string name="photo_editor_navigator_export">Запази</string>
     <string name="photo_editor_navigator_module_download_failed">Неуспешно изтегляне %s</string>
     <string name="photo_editor_navigator_module_download_now">Изтегли</string>
@@ -839,7 +839,7 @@
     <string name="picker_image_need_download">%d от избраните снимки не са в устройството, изтегляне чрез мобилни данни?</string>
     <string name="picker_image_will_download">%d от избраните снимки не са в устройството, изтегляне</string>
     <string name="picker_no_network_message">Свържете се към мрежата за да теглите файлове</string>
-    <string name="picker_origin_need_download">%1$d от избраните снимки не са в устройството (%2$dMB), изтегляне чрез мобилни данни?</string>
+    <string name="picker_origin_need_download">%1$d от избраните снимки не са в устройството (%2$dМб), изтегляне чрез мобилни данни?</string>
     <string name="picker_title_format">Изберете %1$d до %2$d снимки</string>
     <string name="picker_title_selection_format">%d избрани</string>
     <string name="picker_title_selection_format_multiple">Изберете от %1$d до %2$d снимки (%3$d)</string>
