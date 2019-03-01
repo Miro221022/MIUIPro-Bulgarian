@@ -1765,7 +1765,7 @@
     <string name="suggest_app_tolock_unmasked">Видими известия</string>
     <string name="forget_password_button_text"><u>Забравена парола</u></string>
     <string name="forget_password_button_text_normal">Забравена парола</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Твърде много грешни опити!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Твърде много неуспешни опити!</string>
     <string name="lockscreen_glogin_password_hint">парола</string>
     <string name="lockscreen_glogin_submit_button">Вход</string>
     <string name="toast_lockscreen_glogin_empty_password">Изисква се парола</string>
