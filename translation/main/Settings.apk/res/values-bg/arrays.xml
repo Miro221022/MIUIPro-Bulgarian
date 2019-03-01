@@ -114,8 +114,8 @@
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Изключено</item>
-        <item>Покажи екрана на блокчета</item>
-        <item>Следене на използването на батерията от системата</item>
+        <item>На екрана като ленти</item>
+        <item>В adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Изключено</item>
@@ -124,11 +124,11 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Стандартно ограничение</item>
-        <item>Изключване на процесите на заден план</item>
-        <item>Не повече от 1 процес</item>
-        <item>Не повече от 2 процеса</item>
-        <item>Не повече от 3 процеса</item>
-        <item>Не повече от 4 процеса</item>
+        <item>Без процеси на заден план</item>
+        <item>Най-много 1 процес</item>
+        <item>Най-много 2 процеса</item>
+        <item>Най-много 3 процеса</item>
+        <item>Най-много 4 процеса</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Много бавна</item>
@@ -1641,5 +1641,9 @@
     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
         <item>Режим високо качество (по подразбиране)</item>
         <item>Режим на ниска латентност</item>
+    </string-array>
+	<string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (По подразбиране)</item>
+        <item>OpenGL (Skia)</item>
     </string-array>
 </resources>
