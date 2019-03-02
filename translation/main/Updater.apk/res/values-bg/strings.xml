@@ -10,7 +10,7 @@
   <string name="alpha_cancel_ok">ОК</string>
   <string name="alpha_no_network">Свържете се към интернет за присъединяване</string>
   <string name="app_name">Актуализация</string>
-  <string name="apply_title">Актуализира се (%s)</string>
+  <string name="apply_title">Актуализиране (%s)</string>
   <string name="auto_agree_clause">"Нашата обновена Политика на поверителност е вече в сила. "</string>
   <string name="auto_button_examine">Преглед</string>
   <string name="auto_button_examine_immediately">Преглед</string>
@@ -130,7 +130,7 @@
   <string name="menu_title_current_version_log">"Какво ново"</string>
   <string name="menu_title_download_current_rom">Изтегляне на последен пакет</string>
   <string name="menu_title_feedback">Обратна връзка</string>
-  <string name="menu_title_pick_rom_file">Избор на пакет за актуализация</string>
+  <string name="menu_title_pick_rom_file">Изберете пакет за актуализация</string>
   <string name="menu_title_recovery">Рестартиране в режим Възстановяване</string>
   <string name="miui_BBS">" "<a href="http://bbs.miui.com">Отидете в MIUI форума</a>" "</string>
   <string name="miui_summary_has_new_version">"  Налична е актуализация  "</string>
@@ -155,7 +155,7 @@
   <string name="no_wifi_msg">"В момента използвате мобилна мрежа. Изтеглянето на актуализации може да генерира допълнителни такси за данни. Можете да изтеглите актуализациите сега или да изчакате, докато устройството се свърже с WLAN."</string>
   <string name="no_wifi_title">Свържете се към WLAN</string>
   <string name="not_open">Изключване</string>
-  <string name="notification_auto_reboot_seccess_title">Автоматично актуализирано</string>
+  <string name="notification_auto_reboot_seccess_title">Устройството е актуализирано автоматично</string>
   <string name="notification_delay_update_low_power">Изглежда през нощта батерията се е изтощила</string>
   <string name="notification_delay_update_no_update">Обновленията не са приложени</string>
   <string name="notification_delay_update_shutdown">Изглежда през нощта устройството се е изключило</string>
@@ -170,8 +170,8 @@
   <string name="notification_load_title_alpha">Впишете се в Mi профила си</string>
   <string name="notification_load_title_dev">Впишете се в Mi профила си</string>
   <string name="notification_reboot_btn">Рестарт</string>
-  <string name="notification_reboot_seccess_des">Споделяне на информация за актуализацията.</string>
-  <string name="notification_reboot_seccess_title">Успешно актуализиране на MIUI</string>
+  <string name="notification_reboot_seccess_des">Докоснете, за да видите информация за актуализацията.</string>
+  <string name="notification_reboot_seccess_title">MIUI е успешно актуализирана</string>
   <string name="notification_reboot_summary_hm">Докоснете, за да рестартирате устройството.</string>
   <string name="notification_reboot_title">Актуализацията завърши</string>
   <string name="notification_reboot_title_hm">Актуализациите са готови за инсталиране</string>
@@ -238,7 +238,7 @@
   <string name="set_auto_update_msg">MIUI ще инсталира актуализациите, когато не използвате вашето устройство.</string>
   <string name="set_auto_update_title">Да се инсталира ли автоматично?</string>
   <string name="set_installfail_full_msg">Нещо се обърка. Натиснете OK, за да подадете сигнал за тази грешка.</string>
-  <string name="set_installfail_msg">Изтеглянето на актуализацията чрез мобилната мрежа ще увеличи значително използваните от вас данни.</string>
+  <string name="set_installfail_msg">"Не сте свързани към WLAN мрежа. Използването на мобилната връзка за данни за изтегляне на актуализацията ще увеличи използването на данните. Ако превишите лимита на вашият план, операторът ви може да ви таксува допълнително."</string>
   <string name="set_installfail_title">Нов опит за изтегляне на актуализацията?</string>
   <string name="set_installfail_title_full">Неуспешна актуализация</string>
   <string name="set_network_msg">За да изтеглите тази актуализация се свържете към WLAN мрежа</string>
@@ -288,7 +288,7 @@
   <string name="update_happy">Щастлив</string>
   <string name="update_sad">Тъжен</string>
   <string name="update_setting">Актуализации</string>
-  <string name="update_success">Актуализацията завърши</string>
+  <string name="update_success">Устройството е актуализирано</string>
   <string name="update_success_reboot_immediately">Устройството е актуализирано</string>
   <string name="update_success_title">Актуализацията завърши!</string>
   <string name="updater_nonetwork">Свържете се с мрежата, за да получите регистър</string>
@@ -335,4 +335,5 @@
   <string name="create_shortcut_sum">Показване на икона за \\\"Актуализиране\\\" на началния екран</string>
   <string name="join_preview_plan_title">Получавайте актуализации по-рано</string>
   <string name="join_preview_plan_sum">Използвайте тази функция, за да получавате актуализации по-рано от други потребители</string>
+  <string name="set_connect_error_msg">"Проверете мрежовите настройки и опитайте отново. Ако след това все още не можете да изтегляте актуализации, докладвайте този проблем в приложението \"Отзиви\"."</string>
 </resources>
