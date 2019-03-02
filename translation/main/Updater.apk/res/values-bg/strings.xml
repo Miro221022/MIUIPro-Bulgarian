@@ -40,9 +40,9 @@
   <string name="check_local_package_update_msg_ab">Вашето устройство ще се актуализира до версия %s на MIUI.</string>
   <string name="check_local_package_update_title">Актуализирай</string>
   <string name="check_local_package_validate_error_button">OK</string>
-  <string name="check_local_package_validate_error_msg">Неуспешна проверка на файла за актуализация.</string>
+  <string name="check_local_package_validate_error_msg">"Пакетът за актуализация не може да бъде проверен."</string>
   <string name="check_local_package_wipe_btn">Изтрий и актуализирай</string>
-  <string name="check_local_package_wipe_msg">Ще се върнете към MIUI версия %s. Личните Ви данни ще бъдат изтрити. Уверете се, че сте направили резервни копия на всичко, което искате да запазите, преди да стартирате процеса.</string>
+  <string name="check_local_package_wipe_msg">Ще се върнете към MIUI версия %s. Личните ви данни ще бъдат изтрити. Уверете се, че сте направили резервни копия на всичко, което искате да запазите, преди да стартирате процеса.</string>
   <string name="check_local_package_wipe_title">Изтриване на данните</string>
   <string name="check_network">Не мога да се свържа с мрежа</string>
   <string name="check_new_version">Проверка</string>
@@ -72,8 +72,8 @@
   <string name="download_setting">Изтегляния</string>
   <string name="download_success_reboot_immediately">Рестартиране, за прилагане на актуализацията</string>
   <string name="download_title">Изтегля се (%s)</string>
-  <string name="download_title_first">Получава се информация…</string>
-  <string name="download_title_full_download">Получава се информация…</string>
+  <string name="download_title_first">Получаване на информация…</string>
+  <string name="download_title_full_download">Получаване на информация…</string>
   <string name="edit_text_default">Напишете коментар</string>
   <string name="emegency_build">Версия:</string>
   <string name="enable">Включи</string>
@@ -116,7 +116,7 @@
   <string name="home_dialog_title">MIUI 9. Бърз като светкавица.</string>
   <string name="important_suggestion">Политиката за поверителност е променена</string>
   <string name="install">Инсталиране</string>
-  <string name="install_failed">Не може да се актуализира MIUI</string>
+  <string name="install_failed">"MIUI не може да се актуализира"</string>
   <string name="install_file_explorer">Първо инсталирайте Файлов мениджър</string>
   <string name="install_local">Изберете инсталационен пакет</string>
   <string name="internal_build">Вътрешна</string>
@@ -132,7 +132,7 @@
   <string name="menu_title_feedback">Обратна връзка</string>
   <string name="menu_title_pick_rom_file">Избор на пакет за актуализация</string>
   <string name="menu_title_recovery">Рестартиране в режим Възстановяване</string>
-  <string name="miui_BBS">" \"&lt;a href=\"http://bbs.miui.com\"&gt;Посетете MIUI форум&lt;/a&gt;\" "</string>
+  <string name="miui_BBS">" "<a href="http://bbs.miui.com">Отидете в MIUI форума</a>" "</string>
   <string name="miui_summary_has_new_version">"  Налична е актуализация  "</string>
   <string name="miui_summary_no_new_version">Няма налични актуализации</string>
   <string name="miui_summary_now_version">"Не може да се свърже с мрежата"</string>
@@ -140,7 +140,7 @@
   <string name="miui_summary_updating">"  Актуализиране…  "</string>
   <string name="mobile_download">Изтегляне чрез мобилни данни</string>
   <string name="mobile_download_end_time">Изключване на автоматично изтегляне</string>
-  <string name="mobile_download_msg">Ако имате абонаментен план с неограничен мобилен интернет, вие можете да включите автоматичното чрез използване на мобилни данни. След като направите това, актуализациите ще бъдат изтегляни през определен период от време, според вашата настройка.</string>
+  <string name="mobile_download_msg">Ако имате план с неограничени данни, можете да изтегляте актуализациите автоматично чрез мобилни данни. След като включите тази функция, актуализациите ще бъдат изтегляни през определения период от време.</string>
   <string name="mobile_download_start_time">Включване на автоматично изтегляне</string>
   <string name="mobile_download_sum">Автоматично изтегляне на актуализации през определен период от време, чрез мобилни данни</string>
   <string name="mobile_download_title">Актуализиране чрез мобилни данни?</string>
@@ -152,8 +152,8 @@
   <string name="my_worst_update">Най-лоша актуализация</string>
   <string name="next">Напред</string>
   <string name="no_log">Няма налична информация</string>
-  <string name="no_wifi_msg">"В момента използвате мобилна мрежа. Изтеглянето на актуализации може да генерира допълнителни такси. Можете да изтеглите актуализации сега или да изчакате, докато устройството ви се свърже с WLAN."</string>
-  <string name="no_wifi_title">Свържете се към Wi-Fi</string>
+  <string name="no_wifi_msg">"В момента използвате мобилна мрежа. Изтеглянето на актуализации може да генерира допълнителни такси за данни. Можете да изтеглите актуализациите сега или да изчакате, докато устройството се свърже с WLAN."</string>
+  <string name="no_wifi_title">Свържете се към WLAN</string>
   <string name="not_open">Изключване</string>
   <string name="notification_auto_reboot_seccess_title">Автоматично актуализирано</string>
   <string name="notification_delay_update_low_power">Изглежда през нощта батерията се е изтощила</string>
@@ -180,7 +180,7 @@
   <string name="notification_tab_to_view">Докоснете за преглед</string>
   <string name="notification_uncrypt_summary_hm">Докоснете, за да рестартирате устройството</string>
   <string name="notification_uncrypt_title_hm">Рестарт за прилагане на актуализацията</string>
-  <string name="notification_uncrypting">Актуализация на декриптиращата програма…</string>
+  <string name="notification_uncrypting">Декриптиране на актуализацията…</string>
   <string name="notification_update_new_version">Налични са актуализации</string>
   <string name="notification_update_now">Актуализирай сега</string>
   <string name="notification_updating">Актуализира се…</string>
@@ -204,7 +204,7 @@
   <string name="privacy_revoke_msg">Актуализатор ви дава възможност да поддържате MIUI и всички негови услуги обновени. Ако отмените оторизацията си, приложението ще спре да събира информация и цялата такава налична досега, (включително и тази за параметрите на вашето устройство и необходимите актуализации) ще бъде изтрита от това устройство и от нашите сървъри. Това би довело до излагане на вашето устройство на риск и пробив в сигурността. Да се отмени ли вашата оторизация все пак?</string>
   <string name="provision_activate_device">Активиране на устройство…</string>
   <string name="provision_check_sim">Провери за SIM карта отново</string>
-  <string name="provision_connect_wifi">Свържете се към Wi-Fi</string>
+  <string name="provision_connect_wifi">Свържете се към WLAN</string>
   <string name="provision_have_sim">Сложена е SIM карта</string>
   <string name="provision_no_network_extra">Изглежда, че не сте свързани с мрежа. Свържете се с Wi-Fi или поставете SIM карта, за да активирате устройството. Активацията ще направи вашето устройство достъпно за гаранционните услуги. Вие няма да може да използвате това устройство, докато не го активирате.</string>
   <string name="provision_no_network_title">Свържете се с мрежа</string>
@@ -237,12 +237,12 @@
   <string name="set_auto_msg">Автоматично изтегляне на актуализациите чрез Wi-Fi</string>
   <string name="set_auto_update_msg">MIUI ще инсталира актуализациите, когато не използвате вашето устройство.</string>
   <string name="set_auto_update_title">Да се инсталира ли автоматично?</string>
-  <string name="set_installfail_full_msg">Не може да се актуализира. Посетете http://miui.bg/community/forums/160 за повече информация.</string>
+  <string name="set_installfail_full_msg">Нещо се обърка. Натиснете OK, за да подадете сигнал за тази грешка.</string>
   <string name="set_installfail_msg">Изтеглянето на актуализацията чрез мобилната мрежа ще увеличи значително използваните от вас данни.</string>
   <string name="set_installfail_title">Нов опит за изтегляне на актуализацията?</string>
   <string name="set_installfail_title_full">Неуспешна актуализация</string>
-  <string name="set_network_msg">Свържете се към Wi-Fi мрежа преди да изтеглите актуализацията.</string>
-  <string name="set_network_root_msg">To get root access, connect to a WLAN network.</string>
+  <string name="set_network_msg">За да изтеглите тази актуализация се свържете към WLAN мрежа</string>
+  <string name="set_network_root_msg">За да получите root достъп се свържете към WLAN мрежа.</string>
   <string name="set_network_title">Свързване с мрежата</string>
   <string name="set_only_wifi">Използване само на Wi-Fi</string>
   <string name="share_sina">Сподели чрез Sina Weibo</string>
@@ -269,7 +269,7 @@
   <string name="title_toast_auto_download">Актуализациите ще се изтеглят автоматично</string>
   <string name="title_toast_auto_update">Актуализациите ще се инсталират автоматично</string>
   <string name="toast_delay_update_tonight">Вашето устройство ще се обнови между 2:00 и 5:00 ч.</string>
-  <string name="top_secret_build">Секретна</string>
+  <string name="top_secret_build">Строго секретна</string>
   <string name="uncrypt_title">Декриптиране (%s)</string>
   <string name="unkown_error_title">Нещо се обърка…</string>
   <string name="unstable_build">Нестабилна</string>
@@ -303,15 +303,17 @@
   <string name="userdata_alert_ok">Пусни</string>
   <string name="userdata_alert_title">Предупреждение за използв. на данни</string>
   <string name="validate_pkg_failed_msg">Изтеглената актуализация не съвпада с нашите данни. Опитайте да я изтеглите отново.</string>
-  <string name="validate_pkg_failed_title">Не може да се актуализира</string>
+  <string name="validate_pkg_failed_title">"Не може да се потвърди"</string>
   <string name="VideoView_error_button">OК</string>
   <string name="VideoView_error_text_invalid_progressive_playback">Не може да стриймвате видео на това устройство.</string>
   <string name="VideoView_error_text_unknown">Видеото не може да се възпроизведе.</string>
   <string name="VideoView_error_title">Проблем с видеото</string>
   <string name="vote_beta">Отзиви (Бета)</string>
   <string name="vote_error_nonetwork">Няма връзка с мрежата</string>
-  <string name="vote_error1">\"Изглежда, че не сте член на\nBeta Feedback Program\"</string>
-  <string name="vote_error2">\"Не можете да изпратите отзив. Актуализирайте устройството си и опитайте отново\"</string>
+  <string name="vote_error1">"Изглежда, че не сте член на 
+Бета тест програмата"</string>
+  <string name="vote_error2">"Отзивите не можаха да се изпратят.
+Актуализирайте устройството си и опитайте отново"</string>
   <string name="vote_error3">\"Не можете да влезете. Опитайте да се впишете отново с вашия Mi профил.\"</string>
   <string name="vote_error4">Вече сте изпратили отзив</string>
   <string name="vote_error5">\"Нещо се обърка Отзивът не може да се изпрати\"</string>
@@ -327,10 +329,10 @@
   <string name="later_download">Изтегли по-късно</string>
   <string name="open_auto_download">Автоматично изтегляне</string>
   <string name="menu_title_more">Още</string>
-  <string name="menu_title_privacy">Оносно MiuiPro OTA</string>
+  <string name="menu_title_privacy">Относно MiuiPro OTA</string>
   <string name="other_setting">Други</string>
   <string name="create_shortcut_title">Добавяне на пряк път на началния екран</string>
   <string name="create_shortcut_sum">Показване на икона за \\\"Актуализиране\\\" на началния екран</string>
   <string name="join_preview_plan_title">Получавайте актуализации по-рано</string>
-  <string name="join_preview_plan_sum">Използвайте тази функция, за да получавате актуализации по-рано от други хора</string>
+  <string name="join_preview_plan_sum">Използвайте тази функция, за да получавате актуализации по-рано от други потребители</string>
 </resources>
