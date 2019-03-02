@@ -56,7 +56,7 @@
     <string name="album_pano_name">Панорами</string>
     <string name="album_quota_fulfiled">Албумът не може да бъде създаден. Лимитът за албуми е надвишен.</string>
     <string name="album_scanner">Скенер</string>
-    <string name="album_screen_recorder">Запис на екрана</string>
+    <string name="album_screen_recorder">Записи на екрана</string>
     <string name="album_screenshot_name">Екранни снимки</string>
     <string name="album_share_exit_confirm">Ще излезете ли от този албум?</string>
     <string name="album_share_kicked">%1$s е затворен</string>
@@ -83,7 +83,7 @@
     <string name="all_faces">Снимки с този човек</string>
     <string name="all_items_synced">Всички албуми са архивирани в Mi Облак</string>
     <string name="all_video_album_display_name">Всички клипове</string>
-    <string name="already_create_baby_album">Вече съществува бебе албум в Mi Облак.</string>
+    <string name="already_create_baby_album">Бебешкият албум вече съществува в Mi Облак.</string>
     <string name="and">и</string>
     <string name="app_is_launching">%s се стартира…</string>
     <string name="app_is_launching_common">Стартиране на приложение…</string>
