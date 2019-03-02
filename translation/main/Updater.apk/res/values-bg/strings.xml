@@ -121,7 +121,7 @@
   <string name="install_local">Изберете инсталационен пакет</string>
   <string name="internal_build">Вътрешна</string>
   <string name="later">По-късно</string>
-  <string name="loading">Свързване с MIUI сървъра...</string>
+  <string name="loading">Заявяване…</string>
   <string name="log_share">Сподели</string>
   <string name="log_status_locked_info">"Нямате разрешения за достъп до списъка с актуализациите."</string>
   <string name="log_status_locked_summary">Уверете се, че профилът, с който сте се вписали има необходимите разрешения.</string>
@@ -332,8 +332,9 @@
   <string name="menu_title_privacy">Относно MiuiPro OTA</string>
   <string name="other_setting">Други</string>
   <string name="create_shortcut_title">Добавяне на пряк път на началния екран</string>
-  <string name="create_shortcut_sum">Показване на икона за \\\"Актуализиране\\\" на началния екран</string>
+  <string name="create_shortcut_sum">Показване на икона за \\\"Актуализация\\\" на началния екран</string>
   <string name="join_preview_plan_title">Получавайте актуализации по-рано</string>
   <string name="join_preview_plan_sum">Използвайте тази функция, за да получавате актуализации по-рано от други потребители</string>
   <string name="set_connect_error_msg">"Проверете мрежовите настройки и опитайте отново. Ако след това все още не можете да изтегляте актуализации, докладвайте този проблем в приложението \"Отзиви\"."</string>
+  <string name="tip_drag_last_toast">"Вижте какво е новото в MIUI 10"</string>
 </resources>
