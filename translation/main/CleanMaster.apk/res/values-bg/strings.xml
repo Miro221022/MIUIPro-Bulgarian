@@ -163,7 +163,7 @@
   <string name="dialog_title_backup_and_uninstall_apps">Архивиране и деинсталиране</string>
   <string name="dialog_title_check_all">Всички</string>
   <string name="dialog_title_delete_image">Изтриване на избраните снимки</string>
-  <string name="dialog_title_esc_cleanmaster">Затвори cleanmaster</string>
+  <string name="dialog_title_esc_cleanmaster">Отказ от почистване</string>
   <string name="dialog_title_load_cleanup_engine_error">Нещо се обърка</string>
   <string name="dialog_title_stop_scan">Спиране на сканирането</string>
   <string name="dialog_title_uninstall_apps">Деинсталиране</string>
