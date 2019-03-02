@@ -47,7 +47,7 @@
     <string name="album_name_locations">Местоположения</string>
     <string name="album_name_people">Хора</string>
     <string name="album_name_recent_discovery">Последни</string>
-    <string name="album_name_tags">Тагове</string>
+    <string name="album_name_tags">Отбелязвания</string>
     <string name="album_others_share_baby_info_format">Бебешки албум от %s</string>
     <string name="album_others_share_info_format">От %s</string>
     <string name="album_owner_share">Мои споделени</string>
@@ -653,7 +653,7 @@
     <string name="operation_back">Назад</string>
     <string name="operation_cast_connected_format">Излъчване - %s</string>
     <string name="operation_cast_connecting_format">Свързване към %s</string>
-    <string name="operation_delete">Изтриване</string>
+    <string name="operation_delete">Изтрий</string>
     <string name="operation_detail">Детайли</string>
     <string name="operation_disable_auto_upload">Изключване на синхронизирането с Mi Облак</string>
     <string name="operation_download">Изтегляне на снимка (%s)</string>
@@ -692,7 +692,7 @@
     <string name="other_album">Други албуми</string>
     <string name="other_settings">Допълнителни настройки</string>
     <string name="owner_album_subtitle">Споделено с %1$s потребители</string>
-    <string name="people_album_empty_title">Снимките могат да бъдат сортирани по хората, които са на тях</string>
+    <string name="people_album_empty_title">Снимките могат да бъдат сортирани по хората в тях</string>
     <string name="people_jump_failed">Изчакайте, докато снимките с хора се синхронизират с Mi Облак и опитайте отново</string>
     <string name="people_mark_mode_title">Изберете \"%s\"</string>
     <string name="people_mark_mode_title_no_mark_name">Изберете човек</string>
@@ -846,7 +846,7 @@
     <string name="picker_title_specify_format">Избор на %d снимки</string>
     <string name="picker_title_specify_format_one">Избор на %d снимка</string>
     <string name="picker_title_unlimit">Изберете снимка</string>
-    <string name="places_album_empty_title">Снимките могат да бъдат сортирани по място на заснемане</string>
+    <string name="places_album_empty_title">Снимките могат да се сортират по местоположение</string>
     <string name="preparing_data">Момент…</string>
     <string name="projection_cancel">Отказ</string>
     <string name="projection_checkbox_text">Запомняне на този дисплей</string>
@@ -1084,7 +1084,7 @@
     <string name="text_edit_dialog_style_shadow">Сянка</string>
     <string name="text_edit_dialog_style_transparent">Непрозрачност</string>
     <string name="text_edit_sub_menu_text">Балон</string>
-    <string name="things_album_empty_title">Снимките могат да бъдат сортирани по обектите, които са на тях</string>
+    <string name="things_album_empty_title">Снимките могат да бъдат сортирани по обекти в тях</string>
     <string name="thumbnail_name">миниатюри</string>
     <string name="tip_capture_location">Локация:</string>
     <string name="tip_capture_params">EXIF данни:</string>
@@ -1287,7 +1287,7 @@
 	<string name="added_to_favorites_desc">Добавено към любими</string>
     <string name="card_delete_description">"Тази история няма да се появи отново. Изтриване въпреки това?"</string>
     <string name="card_delete_negative_text">Отказ</string>
-    <string name="card_delete_positive_text">Изтрий</string>
+    <string name="card_delete_positive_text">Изтриване</string>
     <string name="card_delete_title">Изтрий историята</string>
     <string name="card_title_annual_selection">Годишно обобщение</string>
     <string name="card_title_from_to">%1$s - %2$s</string>
