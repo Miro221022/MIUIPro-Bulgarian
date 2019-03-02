@@ -3230,23 +3230,23 @@
     <string name="work_profile_usage_access_warning">Изключването на достъпа до информацията за преноса за това приложение не пречи на администратора да проследява преноса на данни за приложенията в служебния ви потребителски профил.</string>
     <string name="accessibility_lock_screen_progress">Използвахте %1$d от %2$d знака</string>
     <string name="draw_overlay_title">Приложения, които могат да изобразяват върху други</string>
-    <string name="draw_overlay">Изобр. върху други приложения</string>
+    <string name="draw_overlay">Изобразяване върху други приложения</string>
     <string name="system_alert_window_settings">Изобразяване върху други приложения</string>
     <string name="system_alert_window_apps_title">Приложения</string>
     <string name="system_alert_window_access_title">Изобразяване върху други приложения</string>
-    <string name="permit_draw_overlay">Разрешаване на изобр. върху други приложения</string>
+    <string name="permit_draw_overlay">Разрешаване на изобразяване върху други приложения</string>
     <string name="app_overlay_permission_preference">Изобразяване на приложения на преден план</string>
-    <string name="allow_overlay_description">Разрешението позволява на дадено приложение да се показва върху други използвани от вас приложения. Това може да възпрепятства работата ви с интерфейса им или да промени елементите, които мислите, че виждате в тях.</string>
+    <string name="allow_overlay_description">Разрешаване на това приложение да се показва върху другите приложения, които използвате. Това може да ви попречи при използването на тези приложения или да промени начина, по който изглеждат или се държат.</string>
     <string name="keywords_vr_listener">vr виртуална реалност приемател стерео помощна услуга</string>
     <string name="keywords_system_alert_window">системен сигнал прозорец диалогов прозорец изобразяване върху други приложения</string>
     <string name="overlay_settings">Изобразяване върху други приложения</string>
-    <string name="system_alert_window_summary" formatted="false">%d от %d приложения имат разрешение за изобразяване върху други приложения</string>
+    <string name="system_alert_window_summary">%1$d от %2$d приложения имат разрешение за изобразяване върху други приложения</string>
     <string name="filter_overlay_apps">Приложения с разрешение</string>
     <string name="system_alert_window_on">Да</string>
     <string name="system_alert_window_off">Не</string>
     <string name="write_settings">Промяна на системните настройки</string>
     <string name="keywords_write_settings">запис промяна системни настройки</string>
-    <string name="write_settings_summary" formatted="false">%d от %d приложения имаат разрешение за промяна на системните настройки</string>
+    <string name="write_settings_summary">%d от %d приложения имат разрешение за промяна на системните настройки</string>
     <string name="filter_write_settings_apps">Възможност за промяна на системните настройки</string>
     <string name="write_settings_title">Възможност за промяна на системните настройки</string>
     <string name="write_system_settings">Промяна на системни настройки</string>
@@ -4226,8 +4226,8 @@
     <string name="device_name_input_overlength">Надвишили сте лимита за знаци</string>
     <string name="clear_activities_summary">Задайте тази програма по подразбиране за някои действия</string>
     <string name="permission_detail_info">Преглед на информация за правата</string>
-    <string name="permission_detail_info_summary">Всички разрешения: Сигурност %1$d，Поверителност %2$d，Други %3$d</string>
-    <string name="permission_manage">Управление на правата</string>
+    <string name="permission_detail_info_summary">%1$d сигурност | %2$d поверителност | %3$d друго</string>
+    <string name="permission_manage">Мениджър за разрешения</string>
     <string name="permission_manage_summary">Автоматичен старт, поверителност и сигурност</string>
     <string name="security_relative">Безопасност</string>
     <string name="privacy_relative">Безопасност</string>
