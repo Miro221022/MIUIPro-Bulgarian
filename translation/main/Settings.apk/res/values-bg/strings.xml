@@ -5111,9 +5111,9 @@
     <string name="turn_on_keyguard_password_alert_choose">"Запомнете вашата парола. Ако я забравите, ще трябва да изтриете всички данни от вашето устройство, за да зададете нова."</string>
     <string name="add_facerecoginition_text">Добавяне на лицеви данни</string>
     <string name="manage_facerecoginition_text">Настройка на лицеви данни</string>
-    <string name="face_unlock_enable">Отключването с лице е вкл</string>
-    <string name="face_unlock_disable">Отключването с лице е изкл</string>
-    <string name="lockpattern_pattern_same_with_owner">Паролата трябва да е различна от тази за Основното пространство</string>
+    <string name="face_unlock_enable">Отключването с лице е включено</string>
+    <string name="face_unlock_disable">Отключването с лице е изключено</string>
+    <string name="lockpattern_pattern_same_with_owner">Паролата трябва да е различна от тази за Първо пространство</string>
     <string name="lockpattern_pattern_same_with_security_space">Трябва да се различава от паролата за Второ пространство</string>
     <string name="lockpattern_pattern_same_with_others">Паролата трябва да е различна от тази за Второ пространство</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Потвърдете вашата фигура</string>
