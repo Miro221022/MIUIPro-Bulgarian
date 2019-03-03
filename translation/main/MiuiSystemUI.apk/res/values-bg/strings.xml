@@ -304,7 +304,7 @@
   <string name="block_record_notification_title">Скрити известия</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Свързан като аудио за медия</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Използва се за аудио медия</string>
-  <string name="bluetooth_connected">Свързан%1$s</string>
+  <string name="bluetooth_connected">Свързано</string>
   <string name="bluetooth_connected_no_a2dp">Свързан (без медия) %1$s</string>
   <string name="bluetooth_connected_no_headset">Свързан (без телефон) %1$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (без телефон или медия) %1$s</string>
@@ -354,17 +354,17 @@
   <string name="bluetooth_profile_sap">SIM достъп</string>
   <string name="bluetooth_sap_profile_summary_connected">Свързан със SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Използва се за достъп до SIM картата</string>
-  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth audio bits per sample</string>
-  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">Select Bluetooth audio codec:\nBits per sample</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth аудио битове по образец</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">Изберете Bluetooth аудио кодек:\nБитове по образец</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">Режим на Bluetooth аудио канала</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">Select Bluetooth audio codec:\nChannel mode</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth audio LDAC codec: Playback quality</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">Изберете Bluetooth аудио кодек:\nРежим на канала</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth аудио LDAC кодек: Качество на ипълнение</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Изберете Bluetooth аудио LDAC кодек:
 Качество на възпроизвеждане"</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth audio sample rate</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">Select Bluetooth audio codec:\nSample rate</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate">Честота на Bluetooth звука</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">Изберете Bluetooth аудио кодек:\nСкорост</string>
   <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
-  <string name="bluetooth_select_a2dp_codec_type">Bluetooth audio codec</string>
+  <string name="bluetooth_select_a2dp_codec_type">Bluetooth аудио кодек</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Избор на Bluetooth аудио кодек</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Избор на Bluetooth AVRCP версия</string>
   <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP version</string>

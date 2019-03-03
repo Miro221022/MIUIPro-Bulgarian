@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ads_install_button_isDownloading">Итегляне</string>
+  <string name="anonymous_source_continue">Продължаване</string>
+  <string name="anonymous_source_warning">Вашият телефон и лични данни са по-уязвими за атаки от неизвестни приложения. С инсталирането на това приложение приемате, че сте отговорни за всякакви повреди в телефона Ви или загуба на данни, които могат да се получат от неговата употреба.</string>
+  <string name="disabled">Деактивиран</string>
+  <string name="disabled_by_admin">Деактивиран от администратор</string>
+  <string name="disabled_by_admin_summary_text">Контролиран от администратор</string>
+  <string name="dlg_msg_unoffical_ok">OK</string>
+  <string name="enabled_by_admin">Активиран от администратор</string>
+  <string name="external_source_trusted">Разрешено</string>
+  <string name="external_source_untrusted">Не е разрешено</string>
+  <string name="external_sources_settings">Настройки</string>
+  <string name="failed_to_open_app_settings_toast">Отваряне на настройките за %1$s</string>
+  <string name="install_other_apps">Инсталиране на неизвестни приложения</string>
+  <string name="miui_compatibility_desc">Това приложение не е оптимизирано за вашето устройство. Ако го инсталирате, може да не работи правилно. Изчакайте разработчиците да решат съществуващите проблеми със съвместимостта и след известно време да инсталирайте нова версия на приложението.</string>
+  <string name="miui_not_uninstall_system_app">Не може да се деинсталират системни приложения</string>
+  <string name="no_application">Нищо</string>
+  <string name="unlike">Не благодаря</string>
+  <string name="untrusted_external_source_warning">За вашата сигурност телефонът ви не може да инсталира неизвестни приложения от този източник.</string>
+  <string name="user_is_not_allowed_dlg_text">Настоящият потребител няма право да изпълнява тази деинсталация.</string>
+  <string name="user_is_not_allowed_dlg_title">Не е разрешено</string>
+  <string name="wear_app_channel">Инсталиране/Деинсталиране на Android Wear приложения</string>
+</resources>
