@@ -2085,8 +2085,8 @@
     <string name="open_game">Отваряне</string>
     <string name="try_game">Опитай</string>
     <string name="more_game">Още игри</string>
-    <string name="sys_title_gamebooster_unit_gb">Г</string>
-    <string name="sys_title_gamebooster_unit_mb">M</string>
+    <string name="sys_title_gamebooster_unit_gb">Гб</string>
+    <string name="sys_title_gamebooster_unit_mb">Mб</string>
     <string name="gmscore_support_service">Услуги на Google</string>
     <string name="gmscore_support_remind">Включете тази услуга, ако имате проблеми с използването на Gmail, Google Карти и други услуги на Google. Ще се съкрати малко животът на батерията.</string>
     <string name="google_base_app_install_choice">Приложението изисква услугата Google Service Framework, за да работи нормално, да се изтегли ли и инсталира сега?</string>
