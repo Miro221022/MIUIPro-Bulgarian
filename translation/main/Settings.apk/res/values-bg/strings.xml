@@ -5624,8 +5624,8 @@
     <string name="notch_force_black_title">Скриване на прореза на екрана</string>
     <string name="aod_mode_time_summary">Планиране на времето, когато устройството ви трябва да превключи на режим Винаги включен</string>
     <string name="aod_mode_time_title">График</string>
-    <string name="aod_mode_turn_off">Изключен</string>
-    <string name="aod_mode_turn_on">Включен</string>
+    <string name="aod_mode_turn_off">Изключване</string>
+    <string name="aod_mode_turn_on">Включване</string>
     <string name="miui_lab_drive_mode_desc">Използвайте гласови контроли &amp; слушате WeChat съобщения</string>
     <string name="miui_lab_drive_mode_title">Автомобилен режим</string>
     <string name="miui_lab_super_resolution_desc">Направете отчетливи изображения</string>

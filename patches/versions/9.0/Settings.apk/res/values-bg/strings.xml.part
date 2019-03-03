@@ -52,7 +52,7 @@
   <string name="ambient_display_category_triggers">Кога да се показва</string>
   <string name="ambient_display_screen_summary_always_on">Винаги вкл./по-интензивно използване на батерията</string>
   <string name="ambient_display_screen_summary_notifications">Нови известия</string>
-  <string name="ambient_display_screen_title">Дисплей, открояващ важни неща</string>
+  <string name="ambient_display_screen_title">Режим Винаги включен</string>
   <string name="android_version_pending_update_summary">Налице е актуализация</string>
   <string name="android_version_summary">Извършена е актуализация до Android %1$s</string>
   <string name="app_cellular_data_usage">Пренос на данни от приложенията</string>
@@ -246,7 +246,7 @@
   <string name="do_disclosure_learn_more_separator">" "</string>
   <string name="double_tap_power_for_camera_suggestion_title">Бързо отваряне на камерата</string>
   <string name="double_twist_for_camera_suggestion_title">По-бързо правене на селфи</string>
-  <string name="doze_always_on_summary">Показване на часа, иконите за известия и друга информация. По-интензивно използване на батерията.</string>
+  <string name="doze_always_on_summary">Показване на часа, иконите за известия и друга информация. Повишава се разхода на батерия.</string>
   <string name="doze_always_on_title">Винаги включен</string>
   <string name="doze_summary">Включване на екрана при получаване на известия</string>
   <string name="doze_title">Нови известия</string>
@@ -279,7 +279,7 @@
   <string name="ims_reg_title">Състояние на регистрацията за незабавни съобщения</string>
   <string name="instant_apps_settings">Предпочитания за мигновените приложения</string>
   <string name="keywords_ambient_display">входящо известие</string>
-  <string name="keywords_ambient_display_screen">Дисплей, открояващ важни неща, дисплей на заключения екран</string>
+  <string name="keywords_ambient_display_screen">Режим Винаги включен, Показване на заключен екран</string>
   <string name="keywords_android_version">ниво на корекцията на сигурността под Android, версия на радиомодула, версия на ядрото</string>
   <string name="keywords_assist_gesture_launch">жест</string>
   <string name="keywords_assist_input">по подразбиране, Асистент</string>
