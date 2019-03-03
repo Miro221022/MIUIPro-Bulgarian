@@ -32,7 +32,7 @@
     <string name="bluetooth_disconnected">Не е свързан</string>
     <string name="bluetooth_disconnecting">Прекъсване…</string>
     <string name="bluetooth_connecting">Свързване…</string>
-    <string name="bluetooth_connected">Свързан%1$s</string>
+    <string name="bluetooth_connected">Свързано</string>
     <string name="bluetooth_pairing">Сдвояване…</string>
     <string name="bluetooth_connected_no_headset">Свързан (без телефон)</string>
     <string name="bluetooth_connected_no_a2dp">Свързан (без медия)</string>
