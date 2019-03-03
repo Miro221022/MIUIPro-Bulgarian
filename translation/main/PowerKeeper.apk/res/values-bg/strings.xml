@@ -9,8 +9,8 @@
     <string name="power_config_apps">Пестене на батерия по приложения</string>
     <string name="app_list_title">Избор на приложения</string>
     <string name="power_hide_mode_app_list_summary">Икономия на енергия на заден план</string>
-    <string name="enable_hide_mode">Включване Икономия на батерията</string>
-    <string name="disable_hide_mode">Изключване на Икономия на батерията</string>
+    <string name="enable_hide_mode">Включи Икономия</string>
+    <string name="disable_hide_mode">Изключи на Икономия</string>
     <string name="about_hide_mode">Относно Пестенето на батерия по приложения</string>
     <string name="disable_hide_mode_warning">Изключването на Икономия на батерия може да повиши употребата на енергия.</string>
     <string name="show_system_app">Покажи системните приложения</string>
