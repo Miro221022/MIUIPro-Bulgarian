@@ -46,7 +46,7 @@
     <string name="error_network">Грешка в мрежата</string>
     <string name="error_server">Грешка на сървъра</string>
     <string name="error_unknown">Неуспешно вписване</string>
-    <string name="sync_dspt">Включи синхронизиране</string>
+    <string name="sync_dspt">Синхронизация</string>
     <string name="sync_sub_dspt">За активирането на услугата трябва да изпратите sms. Може да бъдете таксувани за изходящо съобщение от доставчика ви.</string>
     <string name="sync_sub_int_dspt">За активирането на услугата трябва да изпратите международен sms. Може да бъдете таксувани за изходящо съобщение от доставчика ви.</string>
     <string name="access_denied">Достъпът е отказан</string>
@@ -62,22 +62,22 @@
     <string name="phone_number_may_required_dspt_provision">"Тази услуга може да изисква вашия телефонен номер. "</string>
     <string name="phone_number_required_dspt_provision">"Тази услуга изисква вашия телефонен номер. "</string>
     <string name="sync_resend_sms_dspt_provision">" Ако смените SIM картите си, вашият оператор може да ви таксува за едно SMS съобщение, използвано за реактивиране на услугата."</string>
-    <string name="sync_dspt_provision_title">Mi Cloud</string>
+    <string name="sync_dspt_provision_title">Mi Облак</string>
     <string name="sync_dspt_provision_header">Синхронизиране</string>
     <string name="sync_dspt_provision">"Mi Cloud синхронизира снимките, SMS, бележки и др. между всичките ваши Mi устройства. Също така те са достъпни за вас от всеки браузър на "</string>
     <string name="sync_dspt_provision3">"\".
 
 По всяко време можете да включите или изключите услугата от Настройки.
 \""</string>
-    <string name="sync_dspt_entrance_provision">"Синхронизиране на вашите снимки, контакти и съобщения, както и локализиране на устройството ви от всеки браузър на %s. "</string>
+    <string name="sync_dspt_entrance_provision">"Синхронизирайте снимките, контактите, историята на обажданията и съобщенията на всичките си устройства. Осъществявайте достъп до нещата, които синхронизирате, от всеки браузър в %s. "</string>
     <string name="sync_dspt_entrance_provision_2">Научете повече</string>
-    <string name="sync_dspt_entrance_provision_confirm_close">Не използвай</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">"Не изолзвай"</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Използвай Mi Cloud</string>
-    <string name="sync_dspt_entrance_provision_confirm_title">Да не се ли използва Mi Cloud?</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">Вградените MIUI приложения се нуждаят от Mi Cloud за архивиране на вашите снимки, контакти, бележки и др. Mi Cloud е безплатен и готов за употреба.</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">"Да не се използва Mi Cloud?"</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">"Вградените приложения на MIUI изискват Mi Облак за архивиране на вашите снимки, контакти, бележки и други. Mi Облак е свободен и готов за използване."</string>
     <string name="sync_dspt_entrance_provision_skip">Прескочи тази стъпка</string>
-    <string name="sync_dspt_entrance_provision_network">Това приложение се нуждае от достъп до интернет, за да работи нормално. Синхронизирането може да ви свърже с мобилни данни и да включи Wi-Fi.</string>
-    <string name="find_device_dspt_provision">Ако загубите устройството си, можете да отидете на %s, за да го локализирате, заключите или нулирате. Функцията се управлява от Настройки.</string>
+    <string name="sync_dspt_entrance_provision_network">Това приложение трябва да се свърже с интернет, за да работи нормално. Синхронизиране на данни може да изисква мобилна връзка за данни и включване на WLAN.</string>
+    <string name="find_device_dspt_provision">Ако загубите устройството си, можете да посетите %s за да го намерите, заключите или нулирате. Можете да включите или изключите тази функция по всяко време в Настройки.</string>
     <string name="find_device_dspt_provision_3">"\" за да го намерите, заключите или нулирате.
 
 По всяко време можете да включите или изключите услугата от Настройки.\""</string>
@@ -102,7 +102,7 @@
     <string name="user_agreement_p6">"Използването на тази функция е предмет на "</string>
     <string name="user_agreement_p7">Условията за ползване на Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
-    <string name="user_agreement_title">Условия за ползване на Mi Cloud</string>
+    <string name="user_agreement_title">"Условия за ползване на Mi Облак"</string>
     <string name="privacy_policy">Правила за поверителност</string>
     <string name="loading">Зарежда се…</string>
     <string name="license_host_unreachable">Не можа да се свърже с мрежата. За да видите информацията, отидете на %s.</string>
@@ -136,7 +136,7 @@
     <string name="button_cancel">Отказ</string>
     <string name="enable_micloud">Впишете се, за да използвате Mi Облак</string>
     <string name="micloud_more">Научете повече</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xiaomi_cloud_service">Mi Облак</string>
     <string name="xiaomi_cloud_service_subtitle">Всички важни раздели на едно място</string>
     <string name="micloud_dspt">Използвайте Mi Cloud за синхронизиране на данни, локализиране на устройство ви</string>
     <string name="cmcc_micloud_dspt">Използвайте Mi Cloud за синхронизиране на данни, локализиране на устройството ви,</string>
@@ -388,7 +388,7 @@
 , когато сте свържан към Wi-Fi Последен архив: %2$s"</string>
     <string name="cloud_back_up_summary">Архивиране ако сте свързани с Wi-Fi</string>
     <string name="cloud_back_up_close_info">Чукнете за архивиране.</string>
-    <string name="cloud_backup_dialog_title">Архивиране с Mi Cloud</string>
+    <string name="cloud_backup_dialog_title">Архивиране с Mi Облак</string>
     <string name="cloud_back_up_dialog_content">Спирате архивиране в ход? Ако го спрете сега, няма да може да използвате този архив за възстановяване на приложения.</string>
     <string name="cloud_back_up_button_ok">Спиране</string>
     <string name="cloud_back_up_network_unavailable">Не може да се премахне. Свържете се към Wi-Fi и опитайте отново.</string>
@@ -412,7 +412,7 @@
     <string name="micloud_confusion_yes">Да</string>
     <string name="micloud_confusion_cancel">Отказ</string>
     <string name="micloud_confusion_ok">ОК</string>
-    <string name="micloud_confusion_entrance_title">Съдържанието в Mi Cloud беше модифицирано</string>
+    <string name="micloud_confusion_entrance_title">Съдържанието в Mi Облак беше модифицирано</string>
     <string name="micloud_confusion_entrance_question">Вписвали ли сте се и променяли данните в Mi Cloud чрез %s?</string>
     <string name="micloud_confusion_entrance_hint">За да запазите вашия облак защитен, не давайте достъп до данните, които съхранявате в Mi Cloud на споделени устройства.</string>
     <string name="micloud_confusion_account_title">Mi ID</string>
@@ -557,7 +557,7 @@
     <string name="micloud_main_head_menu_state_unavailable">Не се поддържа</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Намерете устройството не е налице във Второ пространство, можете да го използвате в Първо пространство.</string>
     <string name="micloud_main_see_unsynced_data">Проверка на данните, които ще бъдат синхронизирани</string>
-    <string name="micloud_find_device_sms_alert">Възможно е да бъде изпратено СМС съобщение за да се активира тази услуга. Вашият оператор ще ви таксува за това съобщение. Когато превключите SIM картата си, може автоматично да бъде изпратено съобщение, за да се активира отново тази функция.</string>
+    <string name="micloud_find_device_sms_alert">Може да е необходимо изпращане на SMS съобщение, за да активирате тази услуга. Вашият оператор ще ви таксува за това съобщение. Когато смените SIM картата си, може да се изпрати автоматично съобщение за повторно активиране на тази функция.</string>
     <string name="ks_fingerprint_payment">Плащане с Пръстов отпечатък</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>
@@ -590,7 +590,7 @@
     <string name="micloud_wipe_data_confirm_title">Премахване на елементи, синхронизирани с Mi Облак от телефона, след като излезете?</string>
     <string name="wipe_data_dialog_msg">Някои елементи %s не са синхронизирани. Те ще бъдат запазени на вашето устройство и няма да бъдат изтрити.</string>
 	<string name="user_agreement_content">"Използвайки тази услуга, вие се съгласявате с %s."</string>
-    <string name="user_agreement_link">"Условия за Ползване на Mi Cloud"</string>
+    <string name="user_agreement_link">"Условия за ползване на Mi Облак"</string>
 	<string name="member_menu_vipname_free">Безплатно</string>
     <string name="member_menu_vipname_mega">Мега</string>
     <string name="member_menu_vipname_premium">Премиум</string>

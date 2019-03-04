@@ -17,9 +17,9 @@
     <string name="access_sd_fail">Няма достъп до USB хранилището.</string>
     <string name="confirm_restore_title">Възстановяване на настройките по подразбиране</string>
     <string name="confirm_restore_message">Да се възстановят ли стандартните настройки на камерата?</string>
-    <string name="confirm_location_title">Запазване на данни за мястото</string>
-    <string name="confirm_location_message">Да се маркират ли вашите снимки и видеа с мястото, където са снимани?</string>
-    <string name="confirm_location_alert">Запомняне на мястото на снимката</string>
+    <string name="confirm_location_title">Запазване на местоположението?</string>
+    <string name="confirm_location_message">Маркирайте вашите снимки и видеоклипове с местоположенията, където са заснети. Други приложения може имат достъп до тази информация заедно със запазените ви изображения.</string>
+    <string name="confirm_location_alert">Запомняне на местоположението на заснемане</string>
     <string name="start_capture">ОК</string>
     <string name="pref_camera_recordlocation_title">GPS етикет</string>
     <string name="pref_camera_recordlocation_entry_off">Изключено</string>

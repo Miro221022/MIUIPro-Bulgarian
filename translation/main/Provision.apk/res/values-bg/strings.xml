@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_enabled">Услугата Достъпност е включена.</string>
   <string name="agree">Приемам</string>
-  <string name="agree_terms">Прочетох споразумението и съм съгласен с него.</string>
+  <string name="agree_terms">"Прочетох и приемам условията за ползване и политиката за поверителност."</string>
   <string name="app_name">Осигуряване</string>
   <string name="application_permissions">Разрешения за приложения</string>
   <string name="back">Назад</string>
@@ -22,7 +22,7 @@
   <string name="enable_accessibility_dialog_message">Включихте TalkBack, като натиснахте с два пръста екрана за повече от 10 секунди. TalkBack е разработен за слепи хора. Ако сте включили по случайност тази програма, натиснете бутона Отказ и после докоснете два пъти екрана.</string>
   <string name="enable_accessibility_dialog_negative_btn">Отказ</string>
   <string name="enable_accessibility_dialog_positive_btn">OК</string>
-  <string name="ime_privacy_policy">Правила за поверителност за избраната клавиатура</string>
+  <string name="ime_privacy_policy">Политика за поверителност за избраната клавиатура</string>
   <string name="ime_privacy_policy_no_network">Вашият телефон не е свързан с интернет. Вижте информацията на адрес: %s</string>
   <string name="input_method_category">Избиране на метод за въвеждане по подразбиране, който ще използвате при въвеждане на текст в имейли, бележки и др. Запомнете, че можете да си инсталирате клавиатури от трети страни по-късно.</string>
   <string name="input_method_setting">Метод на въвеждане</string>
@@ -39,8 +39,8 @@
   <string name="navigation_picker_gesture_guide">Упътване за жестове</string>
   <string name="navigation_picker_radio_text_full_screen">Режим цял екран</string>
   <string name="navigation_picker_radio_text_virtual_key">Режим виртуален клавиш</string>
-  <string name="next">Напред</string>
-  <string name="next_fingerprint">Следващ</string>
+  <string name="next">Следващо</string>
+  <string name="next_fingerprint">Следващо</string>
   <string name="other_settings">Допълнителни настройки</string>
   <string name="other_settings_ad_enable">Персонализирани рекламни препоръки</string>
   <string name="other_settings_ad_enable_summary">Получавайте персонализирани реклами въз основа на данните за поведението ви</string>
@@ -50,13 +50,13 @@
   <string name="other_settings_location_summary">Разрешаване на приложенията да получават достъп до местоположението ви</string>
   <string name="other_settings_upload_debug_log_summary">Статистически данни за употребата, които ни помагат да намерим и разрешим проблеми, могат да съдържат личната ви информация</string>
   <string name="other_settings_upload_debug_log_title">Автоматично изпращане на диагностични данни</string>
-  <string name="other_settings_user_experience">Потребителски отзиви</string>
-  <string name="other_settings_user_experience_summary">Помогнете ни да подобрим нашите продукти и услуги, като споделите ваште статистическите данни. Вижте подробности</string>
+  <string name="other_settings_user_experience">Програма за потребителски отзиви</string>
+  <string name="other_settings_user_experience_summary">Помогнете ни да подобрим нашите продукти и услуги, като споделите статистическите данни за използването с нас. Прегледайте подробностите</string>
   <string name="pref_title_data_slot">Предпочитана SIM карта за данни</string>
   <string name="pref_title_voice_slot">Предпочитана SIM карта за глас</string>
-  <string name="privacy_policy">Правила за поверителност</string>
-  <string name="provision_inputmethod_policy_description">\nВижте Политиката за сигурност на избраната клавиатура.</string>
-  <string name="provision_inputmethod_policy_description1">Правила за поверителност</string>
+  <string name="privacy_policy">Политика за поверителност</string>
+  <string name="provision_inputmethod_policy_description">\nВижте Политиката за поверителност на избраната клавиатура.</string>
+  <string name="provision_inputmethod_policy_description1">Политика за поверителност</string>
   <string name="setting_locale">Задаване на регион…</string>
   <string name="shut_down">Изключване</string>
   <string name="sim_card_detecting">Проверява се за SIM карта…</string>
@@ -69,15 +69,15 @@
   <string name="skip_underline">Пропусни тази стъпка</string>
   <string name="summary_not_set">Не е настроено</string>
   <string name="system_navigation_mode">Режим за навигиране в системата</string>
-  <string name="terms_of_use">Условия за ползване</string>
-  <string name="terms_of_use_label">"Вашата поверителност е много важна за нас. Прочетете нашите Общи условия и Декларацията за поверителност, за да разберете каква информация събираме, как я използваме и какви възможности са налични за вас.
+  <string name="terms_of_use">Правила и условия</string>
+  <string name="terms_of_use_label">"Вашата поверителност е много важна за нас. Прочетете нашите Условия за ползване и Политика за поверителност, за да разберете каква информация събираме, как я използваме и какви възможности са налични за вас.
 
-Трябва да приемете нашите Общи условия и Декларацията за поверителност, преди да можете да използвате MIUI. %s и компонентите на Mi профила  ще се свързват с интернет и ще придобият местоположението ви."</string>
-  <string name="title_fingerprint">Задай парола</string>
-  <string name="user_agreement">Потребителско споразумение</string>
+Трябва да приемете нашите Условия за ползване и Политика за поверителност, преди да можете да използвате MIUI. Компонентите на %s и Mi профила ще се свържат с интернет и ще получат достъп до местоположението."</string>
+  <string name="title_fingerprint">Задаване на парола</string>
+  <string name="user_agreement">Условия за ползване</string>
   <string name="voice_assist_desp">Кажете \"Mi AI\" на смартфона си. Mi Асистент ще разпознае вашият глас и ще може да контролира вашето устройство.</string>
   <string name="voice_assist_title">Събуждане с глас</string>
-  <string name="welcome">Добре дошли в</string>
+  <string name="welcome">Добре дошли</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Разрешаване на свързването към мобилни мрежи? Ако го направите, поставената от вас СИМ-карта ще се използва за свързване към мобилни мрежи за данни.</string>
   <string name="sim_card_detection_mobile_not_available">"SIM картата не може да се свърже с мрежата"</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"SIM картата ви не може да се свърже към валидна операторска мрежа. Уверете се,че имате достатъчно кредит в картата и опитайте отново."</string>

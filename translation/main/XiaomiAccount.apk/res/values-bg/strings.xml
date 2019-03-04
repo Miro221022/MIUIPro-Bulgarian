@@ -50,7 +50,7 @@
   <string name="account_user_name">Име</string>
   <string name="account_user_name_dialog_title">Въведете потр. име</string>
   <string name="account_user_other_info">Други източници</string>
-  <string name="account_user_phone">Телефонен номер</string>
+  <string name="account_user_phone">Телефон</string>
   <string name="account_user_recovery_phone">Телефон за възстановяване</string>
   <string name="account_user_region">Регион</string>
   <string name="account_user_using_facebook_avatar">Използване на профилната снимка от Facebook</string>
@@ -245,7 +245,7 @@
   <string name="passport_error_verify_activator_phone_title">Телефонният номер не беше потвърден</string>
   <string name="passport_failed_to_send_activate_email">Не може да се изпрати имейл за активиране</string>
   <string name="passport_find_password_on_web_msg">Посетете account.mi.com за възстановяване на вашата парола.</string>
-  <string name="passport_forget_password">&lt;u&gt;Забравена парола&lt;/u&gt;</string>
+  <string name="passport_forget_password"><u>Забравена парола</u></string>
   <string name="passport_forget_password_no_underline">Забравена парола</string>
   <string name="passport_get_back_pwd">Възстанови паролата</string>
   <string name="passport_get_innetdate_agree">Проверка</string>
@@ -274,8 +274,8 @@
   <string name="passport_login_prompt">Един Mi профил. Всички Mi услуги.</string>
   <string name="passport_login_recycle_account_no">Не</string>
   <string name="passport_login_recycle_account_yes">Да</string>
-  <string name="passport_login_title">Вписване във вашия Mi профил</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;Други начини за вписване&lt;/u&gt;</string>
+  <string name="passport_login_title">Впишете се в Mi профила си</string>
+  <string name="passport_login_using_other_ways">Други начини за вписване</string>
   <string name="passport_message_dialog_title">SMS с кодове за потвърждаване</string>
   <string name="passport_next">Напред</string>
   <string name="passport_no">Не</string>
@@ -293,7 +293,7 @@
   <string name="passport_quick_login_dialog_step2_title">Потвърждаване в 2 стъпки</string>
   <string name="passport_quick_login_dialog_title">Проверка на паролата</string>
   <string name="passport_quick_login_step2_title">Потвърждаване в 2 стъпки</string>
-  <string name="passport_quick_login_title">Въведете парола</string>
+  <string name="passport_quick_login_title">Въведете вашата парола</string>
   <string name="passport_quick_register">Регистриране</string>
   <string name="passport_quick_register_notice">&lt;u&gt;Нямате Mi профил? Направете си сега.&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Изискай нов код</string>
@@ -317,7 +317,7 @@
   <string name="passport_register">Създаване на профил</string>
   <string name="passport_register_account_goto_email">Посетете вашата поща</string>
   <string name="passport_register_account_verified_confirm">Профилът е потвърден</string>
-  <string name="passport_register_by_email">&lt;u&gt;Създаване на профил чрез имейл адрес&lt;/u&gt;</string>
+  <string name="passport_register_by_email"><u>Създаване на профил чрез имейл адрес<u></string>
   <string name="passport_register_restricted">Твърде много профили са свързани към този номер, опитайте с друг</string>
   <string name="passport_register_restricted_title">Този телефонен номер не може да се използва</string>
   <string name="passport_registered_phone_num">Телефон: %s</string>

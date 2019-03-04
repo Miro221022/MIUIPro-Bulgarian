@@ -154,8 +154,8 @@
     <string name="present_online_themes">Получете още теми онлайн</string>
     <string name="provision_default_theme_title">По подразбиране</string>
     <string name="provision_loading_tips">Един момент…</string>
-    <string name="provision_second_title">Избор на една от темите по подразбиране</string>
-    <string name="provision_title">Избор на тема</string>
+    <string name="provision_second_title">Изберете една от няколкоте теми по подразбиране</string>
+    <string name="provision_title">Изберете тема</string>
     <string name="purchased_list">Закупени теми</string>
     <string name="purchased_list_current">Оптимизиране на теми</string>
     <string name="purchased_list_legacy">Изтеглени теми</string>
@@ -172,7 +172,7 @@
     <string name="resource_app_name">Покажи източници</string>
     <string name="resource_apply">Приложи</string>
     <string name="resource_apply_trial">Пробвай сега</string>
-    <string name="resource_back">Обратно</string>
+    <string name="resource_back">Назад</string>
     <string name="resource_buy">Купи</string>
     <string name="resource_can_not_selected">%1$s не може да бъде избрано!</string>
     <string name="resource_category">Категория</string>
@@ -212,7 +212,7 @@
     <string name="resource_comment_upload_not_bought">Трябва първо да използвате темата, ако искате да добавите коментар.</string>
     <string name="resource_comment_upload_not_logined">Първо трябва да влезете</string>
     <string name="resource_comment_upload_success">Коментарът ви ще бъде показан след неговото одобрение.</string>
-    <string name="resource_continue">Следващ</string>
+    <string name="resource_continue">Следващо</string>
     <string name="resource_current_using_title">Текущи източници</string>
     <string name="resource_data_empty">Няма елементи тук.</string>
     <string name="resource_default">Мелодия по подразбиране</string>
