@@ -295,9 +295,9 @@
     <string name="pref_camera_delay_capture_title">Таймер</string>
     <string name="simple_mode_button_text_delay_capture">Спри таймера</string>
     <string name="pref_camera_delay_capture_entry_audio">Звук</string>
-    <string name="pref_camera_delay_capture_entry_3s">Забавяне 3сек</string>
-    <string name="pref_camera_delay_capture_entry_5s">Забавяне 5сек</string>
-    <string name="pref_camera_delay_capture_entry_10s">Забавяне 10сек</string>
+    <string name="pref_camera_delay_capture_entry_3s">3с закъснение</string>
+    <string name="pref_camera_delay_capture_entry_5s">5с закъснение</string>
+    <string name="pref_camera_delay_capture_entry_10s">10с закъснение</string>
     <string name="pref_camera_asd_night_title">Автоматично подобряване на нощни снимки</string>
     <string name="pref_camera_asd_popup_title">Извести когато е необходима светкавица</string>
     <string name="simple_mode_button_text_scene">Спри сценичен режим</string>
@@ -336,7 +336,7 @@
     <string name="pref_camera_portrait_mode_title">Режим Портрет</string>
     <string name="pref_camera_portrait_mode_entry_off">Режим Портрет е изключен</string>
     <string name="pref_camera_portrait_mode_entry_on">Режим Портрет е включен</string>
-    <string name="portrait_mode_lowlight_hint">"Твърде тъмно е"</string>
+    <string name="portrait_mode_lowlight_hint">"Твърде е тъмно в момента"</string>
     <string name="portrait_mode_too_close_hint">Отдалечете се малко от обекта</string>
     <string name="portrait_mode_too_far_hint">Поставете предмета в рамките на 2 метра</string>
     <string name="portrait_mode_depth_effect_success_hint">Ефект дълбочина</string>
