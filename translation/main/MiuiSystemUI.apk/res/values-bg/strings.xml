@@ -304,11 +304,11 @@
   <string name="block_record_notification_title">Скрити известия</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Свързан като аудио за медия</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Използва се за аудио медия</string>
-  <string name="bluetooth_connected">Свързано</string>
-  <string name="bluetooth_connected_no_a2dp">Свързан (без медия) %1$s</string>
-  <string name="bluetooth_connected_no_headset">Свързан (без телефон) %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (без телефон или медия) %1$s</string>
-  <string name="bluetooth_connected_no_map">Свързан (няма достъп до съобщения) %1$s</string>
+  <string name="bluetooth_connected">Свързан</string>
+  <string name="bluetooth_connected_no_a2dp">Свързан (без мултимедия)</string>
+  <string name="bluetooth_connected_no_headset">Свързан (без телефон)</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (без телефон или мултимедия)</string>
+  <string name="bluetooth_connected_no_map">Свързан (без достъп до съобщения)</string>
   <string name="bluetooth_connecting">Свързване…</string>
   <string name="bluetooth_disable_absolute_volume">Изключване на максималния звук</string>
   <string name="bluetooth_disable_absolute_volume_summary">Забраняване на Bluetooth максимална сила на звука, за да предотвратите проблеми с дистанционно управлявани устройства.</string>

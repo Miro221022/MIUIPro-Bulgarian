@@ -32,12 +32,12 @@
     <string name="bluetooth_disconnected">Не е свързан</string>
     <string name="bluetooth_disconnecting">Прекъсване…</string>
     <string name="bluetooth_connecting">Свързване…</string>
-    <string name="bluetooth_connected">Свързано</string>
+    <string name="bluetooth_connected">Свързан</string>
     <string name="bluetooth_pairing">Сдвояване…</string>
     <string name="bluetooth_connected_no_headset">Свързан (без телефон)</string>
-    <string name="bluetooth_connected_no_a2dp">Свързан (без медия)</string>
+    <string name="bluetooth_connected_no_a2dp">Свързан (без мултимедия)</string>
     <string name="bluetooth_connected_no_map">Свързан (без достъп до съобщения)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (без телефон или медия)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (без телефон или мултимедия)</string>
     <string name="bluetooth_profile_a2dp">Аудио медия</string>
     <string name="bluetooth_profile_headset">Аудио от телефон</string>
     <string name="bluetooth_profile_opp">Прехвърляне на файлове</string>
@@ -49,7 +49,7 @@
     <string name="bluetooth_profile_map">Текстови съобщения</string>
     <string name="bluetooth_profile_sap">SIM достъп</string>
     <string name="bluetooth_profile_dun">Използвано за достъп до dial-up мрежи</string>
-    <string name="bluetooth_a2dp_profile_summary_connected">Свързан като аудио за медия</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Свързан към мултимедия</string>
     <string name="bluetooth_headset_profile_summary_connected">Свързан като аудио от телефон</string>
     <string name="bluetooth_opp_profile_summary_connected">Свързан за прехвърляне на файлове</string>
     <string name="bluetooth_map_profile_summary_connected">Свързан с MAP</string>
@@ -6117,9 +6117,9 @@ UT интерфейс: %5$s"</string>
     <string name="page_layout_confirm_title_narrow">По-малки елементи</string>
     <string name="screen_optimize_disabled">"Не може да се регулира контраста, когато е включен режимът за четене"</string>
 	<string name="bluetooth_connected_battery_level">Свързан | Батерия %1$s%2$s</string>
-	<string name="bluetooth_connected_no_a2dp_battery_level">Свързан (без медия) | Батерия %1$s%2$s</string>
+	<string name="bluetooth_connected_no_a2dp_battery_level">Свързан (без мултимедия) | Батерия %1$s%2$s</string>
 	<string name="bluetooth_connected_no_headset_battery_level">Свързан (без телефон) | Батерия %1$s%2$s</string>
-	<string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Свързан (без телефон или медия) | Батерия %1$s%2$s</string>
+	<string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Свързан (без телефон или мултимедия) | Батерия %1$s%2$s</string>
 	<string name="app_and_notification_dashboard_summary">Разрешения, приложения по подразбиране</string>
     <string name="app_and_notification_dashboard_title">Приложения и известия</string>
 	<string name="app_default_dashboard_title">Приложения по подразбиране</string>
