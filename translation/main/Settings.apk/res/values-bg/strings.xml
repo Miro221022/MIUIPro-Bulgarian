@@ -1332,7 +1332,7 @@
     <string name="system_update_settings_list_item_title">Magisk Manager</string>
     <string name="firmware_version">Версия на Андроид</string>
     <string name="security_patch">Актуализация на системата за сигурност</string>
-    <string name="model_number">Модел</string>
+    <string name="model_number">Модел на устройството</string>
     <string name="fcc_equipment_id">Идент. № на оборудването</string>
     <string name="baseband_version">Версия на радиомодула</string>
     <string name="kernel_version">Версия на ядрото</string>
@@ -3728,7 +3728,7 @@
     <string name="sound_vibrate_settings">Звук и вибрация</string>
     <string name="settings_notify_phone_recycled">Вашият телефонен номер е невалиден. Чукнете, за да добавите друг номер.</string>
     <string name="settings_notify_need_backup">Направете резервно копие на вашите настройки в Mi Облак за да имате достъп до тях, след като смените телефоните.</string>
-    <string name="model_name">Име на модел</string>
+    <string name="model_name">Модел</string>
     <string name="my_device">Моето устройство</string>
     <string name="device_miui_version">Версия на MIUI</string>
     <string name="device_miui_version_update">Наличнa е актуализация</string>
