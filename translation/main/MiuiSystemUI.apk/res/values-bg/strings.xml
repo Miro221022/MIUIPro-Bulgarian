@@ -110,7 +110,7 @@
   <string name="accessibility_no_signal">Няма сигнал.</string>
   <string name="accessibility_no_sim">Няма СИМ карта.</string>
   <string name="accessibility_no_sims">Няма СИМ карти.</string>
-  <string name="accessibility_no_wifi">Няма Wi-Fi.</string>
+  <string name="accessibility_no_wifi">Без връзка с WLAN.</string>
   <string name="accessibility_no_wimax">Няма WiMAX.</string>
   <string name="accessibility_not_connected">Не е свързан.</string>
   <string name="accessibility_notification_dismissed">Известието е отхвърлено.</string>
@@ -909,7 +909,7 @@
   <string name="long_screenshot_out_of_memory_error">Неуспешно, снимката е твърде голяма</string>
   <string name="long_screenshot_processing">Обработка…</string>
   <string name="long_screenshot_stop">Готово</string>
-  <string name="long_screenshot_top_msg">Заснема се дълга екранна снимка…</string>
+  <string name="long_screenshot_top_msg">Създаване на екранна снимка…</string>
   <string name="long_screenshot_top_msg_manual">Изрежете снимката на екрана и натиснете бутона за да завършите</string>
   <string name="low_temperature_button_ok">Разбрах</string>
   <string name="low_temperature_warning_message">Температурата е твърде ниска. Вашият телефон може да се изключи по всяко време. Уверете се, че сте запазили всички важни промени.</string>
@@ -1176,7 +1176,7 @@
   <string name="quick_settings_nfc_label">КБП</string>
   <string name="quick_settings_nfc_off">КБП е деактивиран</string>
   <string name="quick_settings_nfc_on">КБП е актовиран</string>
-  <string name="quick_settings_night_display_label">Нощно осветяване</string>
+  <string name="quick_settings_night_display_label">Нощна светлина</string>
   <string name="quick_settings_notifications_label">Известия</string>
   <string name="quick_settings_papermode_label">Режим за четене</string>
   <string name="quick_settings_powermode_label">Режим производителност</string>
@@ -1201,8 +1201,8 @@
   <string name="quick_settings_user_new_user">Нов потребител</string>
   <string name="quick_settings_user_title">Потребител</string>
   <string name="quick_settings_vibrate_label">Вибрация</string>
-  <string name="quick_settings_wifi_detail_empty_text">Няма налични Wi-Fi мрежи</string>
-  <string name="quick_settings_wifi_label">Wi-Fi</string>
+  <string name="quick_settings_wifi_detail_empty_text">Няма налични WLAN мрежи</string>
+  <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Изберете мрежа</string>
   <string name="quick_settings_wifi_no_network">Няма мрежа</string>
   <string name="quick_settings_wifi_not_connected">Не е свързан</string>
@@ -1376,7 +1376,7 @@
   <string name="status_bar_settings_notifications">Известия</string>
   <string name="status_bar_settings_settings_button">Настройки</string>
   <string name="status_bar_settings_signal_meter_disconnected">Няма интернет връзка</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi свързан</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN е свързан</string>
   <string name="status_bar_settings_wifi_button">WLAN</string>
   <string name="status_bar_style_settings">Известия</string>
   <string name="status_bar_use_physical_keyboard">Физическа клавиатура</string>
@@ -1433,7 +1433,7 @@
   <string name="tether_settings_title_bluetooth">Bluetooth споделяне на връзката</string>
   <string name="tether_settings_title_usb">USB споделяне на връзката</string>
   <string name="tether_settings_title_usb_bluetooth">Споделяне на връзката</string>
-  <string name="tether_settings_title_wifi">Преносима точка за достъп до Wi-Fi</string>
+  <string name="tether_settings_title_wifi">Преносима точка за достъп</string>
   <string name="tethering_settings_not_available">Настройките за споделяне на връзката не са налице за този потребител</string>
   <string name="theme">Тема</string>
   <string name="thermal_shutdown_dialog_message">Телефонът ви беше много горещ и се изключи за да се охлади. Сега той работи нормално.\n\nВашият телефон може да стане твърде горещ, ако сте:\n\u0009• Ако сте използвали тежки приложения (като игри, видео, или навигационни приложения)\n\u0009• Изтегляне или качване на големи файлове\n\u0009• Използвайте телефона си при високи температури</string>
@@ -1603,9 +1603,9 @@
   <string name="wifi_disabled_generic">Изключено</string>
   <string name="wifi_disabled_network_failure">Не може да се конфигурира IP</string>
   <string name="wifi_disabled_password_failure">Проблем при удостоверяването</string>
-  <string name="wifi_disabled_wifi_failure">Не може да се свърже с Wi-Fi мрежа</string>
+  <string name="wifi_disabled_wifi_failure">"Не може да се свърже към WLAN"</string>
   <string name="wifi_display_certification">Сертификат за безжичен дисплей</string>
-  <string name="wifi_display_certification_summary">Показване на опции за Wi-Fi дисплей</string>
+  <string name="wifi_display_certification_summary">Показване на опциите за сертифициране на безжичен дисплей</string>
   <string name="wifi_fail_to_scan">Не може да се сканира за мрежи</string>
   <string name="wifi_is_off">WLAN е изключена</string>
   <string name="wifi_no_internet">Няма интернет достъп, без автоматично повторно свързване.</string>
