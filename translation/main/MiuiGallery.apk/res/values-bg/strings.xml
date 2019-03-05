@@ -152,7 +152,7 @@
     <string name="backup_no_wifi_btn_text">Използване на мобилни данни</string>
     <string name="backup_no_wifi_desc">Може да архивирате елементите използвайки мобилни данни</string>
     <string name="backup_no_wifi_title">Синхронизирането ще продължи след като се свържете с Wi-Fi</string>
-    <string name="backup_only_in_wifi">Да се архивира само чрез Wi‑Fi</string>
+    <string name="backup_only_in_wifi">Архивиране на снимки и видео само чрез Wi‑Fi</string>
     <string name="backup_only_in_wifi_summary">При архивиране никога да не се използват мобилни данни</string>
     <string name="backup_only_wifi_dialog_message">Да се използват ли мобилни данни за архивиране на снимки и видеоклипове?</string>
     <string name="backup_pause">Пауза</string>
@@ -178,7 +178,7 @@
     <string name="begin_share">Бебе албумът \"%s\" е създаден, може да го споделите сега</string>
     <string name="begin_share_toast">Да се създаде ли отделен албум за това дете преди споделяне?</string>
     <string name="blank_app_name" />
-    <string name="browse_category_title">Преглеждане</string>
+    <string name="browse_category_title">Показване</string>
     <string name="buy_member_tip">стана член.</string>
     <string name="by_email">Имейл</string>
     <string name="by_others">Други</string>
@@ -208,7 +208,7 @@
     <string name="cleaner_scan_exit_dialog_positive">Спри</string>
     <string name="cleaner_scan_exit_dialog_title">Спри сканирането</string>
     <string name="cleaner_scan_finish">Сканирането е успешно</string>
-    <string name="cleaner_scan_no_result">"Не може да се освободи още място в хранилището сега"</string>
+    <string name="cleaner_scan_no_result">"В момента не може да се освободи още място в хранилището"</string>
     <string name="cleaner_scan_ok">Разбрах</string>
     <string name="cleaner_scan_title">Сканиране на албумите…</string>
     <string name="cleaner_screen_shot_action">Почисти</string>
@@ -1205,8 +1205,8 @@
     <string name="refocus_type_video">Посока на светлината</string>
 	<string name="ai_album_open_switch_button_title">Стартиране на анализ на снимките</string>
 	<string name="ai_album_requesting_title">Интелигентният алгоритъм все още обработва вашите снимки. Върнете се след известно време.</string>
-    <string name="ai_album_setting_sub_title">Разрешете интелигентният алгоритъм за идентифициране на хора, места и обекти на вашите снимки, за да ги намерите по-бързо.</string>
-    <string name="ai_album_setting_title">Идентифицирайте обектите на снимките</string>
+    <string name="ai_album_setting_sub_title">Позволете на интелигентния алгоритъм да идентифицира хора, места и обектите на снимките, за да можете да ги намерите по-бързо.</string>
+    <string name="ai_album_setting_title">Идентификация на обектите на снимките</string>
     <string name="search_empty_title">Намерете снимки с конкретни хора, места и обекти в галерията си</string>
     <string name="video_editor_adjust">Подобряване</string>
     <string name="video_editor_filter_and_regulator">Филтри</string>
@@ -1475,7 +1475,7 @@
   <string name="permission_storage_name">Хранилище</string>
   <string name="permission_use_desc">Разрешения</string>
   <string name="select_all">Избери всички</string>
-  <string name="generate_story_summary">MIUI ще анализира вашите снимки и ще създава албуми с истории. Изключете тази функция, за да спрете създаването на албуми с истории.</string>
+  <string name="generate_story_summary">MIUI ще анализира вашите снимки и ще създаде албуми с истории. Изключете тази функция, за да спрете създаването на албуми с истории.</string>
   <string name="generate_story_title">Албуми с истории</string>
   <string name="image_selection_summary">MIUI ще анализира подобните снимки и ще маркира най-добрите снимки за вас. Изключете тази функция, за да премахнете маркировките от снимките.</string>
   <string name="image_selection_title">Избор на най-добрата снимка</string>
