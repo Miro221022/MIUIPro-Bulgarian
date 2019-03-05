@@ -188,7 +188,7 @@
   <string name="incall_error_call_failed">Обаждането не е изпратено.</string>
   <string name="incall_error_power_off">Първо изключете самолетния режим, за да може да се обадите.</string>
   <string name="incall_error_supp_service_unknown">Неподдържана услуга.</string>
-  <string name="incoming_call_failed_low_battery">Входящото повикване е неуспешно поради слаба батерия.</string>
+  <string name="incoming_call_failed_low_battery">Входящото повикване е неуспешно поради изтощена батерия.</string>
   <string name="keep_screen_on">Да остане активен</string>
   <string name="keep_screen_on_summary">Екранът никога няма да е в спящ режим при зареждане</string>
   <string name="launch_defaults_none">Няма зададени стандартни настройки</string>

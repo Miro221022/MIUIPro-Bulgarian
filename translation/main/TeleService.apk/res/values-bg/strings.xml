@@ -1078,7 +1078,7 @@
     <string name="cfnry_title">Пренасочване,когато няма отговор</string>
     <string name="disable_all_cf">Изключи всички пренасочвания</string>
     <string name="connect_disconnect_vibrate_title">Вибрация при начало/край на разговор</string>
-    <string name="connect_disconnect_vibrate_summary">Вибриране, когато човека на когото звъните отговори на вашето обаждане</string>
+    <string name="connect_disconnect_vibrate_summary">"Вибриране, когато лицето на когото звъните отговори на вашето обаждане"</string>
     <string name="connect_disconnect_vibrate_none">Изключена</string>
     <string name="connect_disconnect_vibrate_normal">Включена</string>
     <string name="connect_disconnect_vibrate_weak">Слаба</string>

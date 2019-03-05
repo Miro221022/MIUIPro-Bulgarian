@@ -78,7 +78,7 @@
     <string name="asset_sync_network_unavailable_alert_message">Свържете се с интернет, за да архивирате песни</string>
     <string name="asset_sync_network_unavailable_alert_title">Не може да се свърже с мрежата</string>
     <string name="asset_sync_power_alert_message">Свържете зарядното устройство за да архивирате песни.</string>
-    <string name="asset_sync_power_alert_title">Слаба батерия</string>
+    <string name="asset_sync_power_alert_title">Изтощена батерия</string>
     <string name="atmd_music">Максимално</string>
     <string name="audio_picker_title">Изберете песен</string>
     <string name="audio_recognition_setting_summary">Търси обложки на албуми и текстове на песни автоматично</string>

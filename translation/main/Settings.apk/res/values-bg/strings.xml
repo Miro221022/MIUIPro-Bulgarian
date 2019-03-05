@@ -5391,7 +5391,7 @@
     <string name="volume_full_title">Разширен панел</string>
     <string name="volume_one_title">Единичен панел</string>
     <string name="volume_panel_summary">Време: %s сек</string>
-    <string name="low_battery_warning_title">Предупреждение за слаба батерия</string>
+    <string name="low_battery_warning_title">Предупреждение за изтощена батерия</string>
     <string name="dim_advanced_title">Ръчно настройване на времето до затъмняване на екрана</string>
     <string name="dim_advanced_summary">%s процента от времето преди заспиване</string>
     <string name="dim_advanced_title_seek">Време за изчакване</string>

@@ -35,7 +35,7 @@
     <string name="home_title_none">Изберете елементи</string>
     <string name="loopback_sound">Говорител</string>
     <string name="low_battery">Заредете батерията си, преди да започнете да записвате</string>
-    <string name="low_battery_title">Слаба батерия</string>
+    <string name="low_battery_title">Изтощена батерия</string>
     <string name="low_battery_warning">Батерията е изтощена. Спрете записа и го съхранете.</string>
     <string name="low_memory">Имате по-малко от 1ГБ свободна памет. Можте да записвате максимум 20 минути.</string>
     <string name="low_memory_title">Няма достатъчно място в хранилището</string>

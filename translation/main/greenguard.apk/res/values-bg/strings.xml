@@ -73,7 +73,7 @@
     <string name="event_fence_in">Вие сте въвели %s</string>
     <string name="event_fence_out">Вие сте пропуснали %s</string>
     <string name="event_location">%s провери местоположението ви</string>
-    <string name="event_low_battery">Слаба батерия</string>
+    <string name="event_low_battery">Изтощена батерия</string>
     <string name="event_offline">Вашето устройство е извън линия сега</string>
     <string name="event_offline_detail">По време на офлайн периода, услугата Семейна охрана ще се провали. Моля, проверете мрежовата връзка.</string>
     <string name="event_online">Вашето устройство вече е онлайн</string>

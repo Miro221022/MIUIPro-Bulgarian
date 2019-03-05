@@ -602,7 +602,7 @@
         <item>Предпочита се клетъчна мрежа</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
-        <item>Изключено</item>
+        <item>Изключена</item>
         <item>Слаба</item>
         <item>Средна</item>
         <item>Силна</item>

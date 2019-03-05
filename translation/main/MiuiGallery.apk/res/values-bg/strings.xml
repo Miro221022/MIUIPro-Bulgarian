@@ -1052,7 +1052,7 @@
     <string name="sub_discard_positive_btn">Запази</string>
     <string name="success_create_quick_icon_on_desk">Успешно създадено</string>
     <string name="sync_album_in_proecess">Синхонизиране на албума…</string>
-    <string name="sync_battery_low">Слаба батерия</string>
+    <string name="sync_battery_low">Изтощена батерия</string>
     <string name="sync_cloud_space_full">Облачното хранилище е пълно</string>
     <string name="sync_diabled_toast">Синхронизацията на Галерия е изключена</string>
     <string name="sync_metatata_wait_title">Изчакване за синхронизация с Mi Облак</string>

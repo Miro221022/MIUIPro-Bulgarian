@@ -294,13 +294,13 @@
     <string name="micloud_detail_ok">ОК</string>
     <string name="micloud_detail_do_not_sync">Не е синхронизирано</string>
     <string name="micloud_detail_sync_now">Синхронизация сега</string>
-    <string name="micloud_detail_battery_low_title">Слаба батерия</string>
-    <string name="micloud_detail_battery_low_message">Слаба батерия. Заредете телефона си, за да синхронизирате.</string>
+    <string name="micloud_detail_battery_low_title">Изтощена батерия</string>
+    <string name="micloud_detail_battery_low_message">Батерията е изтощена. Заредете телефона си, за да синхронизирате.</string>
     <string name="micloud_detail_depend_wifi_title">Свържете се към Wi-Fi</string>
     <string name="micloud_detail_depend_wifi_message">Свържете се към Wi-Fi или проверете настройките за синхронизация.</string>
     <string name="micloud_detail_pause">Синхронизиране на пауза</string>
     <string name="micloud_detail_need_charge_or_sleep">Свържете зарядното устр. и изключете екрана за да синхронизирате</string>
-    <string name="micloud_detail_battery_low">Слаба батерия</string>
+    <string name="micloud_detail_battery_low">Изтощена батерия</string>
     <string name="micloud_privacy_cloud_off">Синхронизиране изключено</string>
     <string name="micloud_privacy_licence_agreed">Съгласете се с &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;Политиката за поверителност&lt;/u&gt;&lt;/a&gt; на Mi Облак.</string>
     <string name="micloud_privacy_explanation">Активиране на Mi Облак след активиране на разрешение</string>
@@ -444,7 +444,7 @@
     <string name="micloud_sync_alert_dialog_message">Синхронизиране на снимки, контакти, бележки и др. между устройствата ви.</string>
     <string name="micloud_sync_alert_dialog_negative">Отказ</string>
     <string name="micloud_sync_alert_dialog_positive">ОК</string>
-    <string name="micloud_battery_low_notification_title">Слаба батерия</string>
+    <string name="micloud_battery_low_notification_title">Изтощена батерия</string>
     <string name="micloud_battery_low_notification_message">Включете зарядното за синхронизиране</string>
     <string name="micloud_upgrade_member">Добави място за съхр</string>
     <string name="micloud_notif_content_depend_wifi">Свържете се към Wi-Fi за синхронизиране</string>

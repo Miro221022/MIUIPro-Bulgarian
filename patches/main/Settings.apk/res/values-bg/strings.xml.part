@@ -84,7 +84,7 @@
   <string name="low_battery_percent_summary">Когато е: %s %</string>
   <string name="low_battery_percent_title">Цвят при пълно зареждане</string>
   <string name="low_battery_title">Ниско ниво</string>
-  <string name="low_battery_warning_title">Предупреждение за слаба батерия</string>
+  <string name="low_battery_warning_title">Предупреждение за изтощена батерия</string>
   <string name="LTE_CDMA_auto">LTE/CDMA авто (PRL)</string>
   <string name="LTE_CDMA_UMTS_auto">LTE/CDMA/UMTS авто (PRL)</string>
   <string name="LTE_only">Само LTE</string>
