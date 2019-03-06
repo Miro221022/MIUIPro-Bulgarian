@@ -40,7 +40,7 @@
   </plurals>
   <plurals name="cloud_state_unsynced_count">
     <item quantity="other">%1$d контакта или снимки не са били синхронизирани</item>
-    <item quantity="one">%1$d контакт или снимка не са били синхронизирани</item>
+    <item quantity="one">%1$d контакт или снимка не са синхронизирани</item>
   </plurals>
   <plurals name="confirm_delete_sim_entry_miui">
     <item quantity="other">Изтриване на %1$d контакта от SIM картата?</item>

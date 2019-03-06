@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="accessibility_calllog_detail">Подробности</string>
+  <string name="accessibility_calllog_detail">Подробности за историята на повикванията</string>
   <string name="accessibility_contact_detail">Детайли за контакт</string>
   <string name="account_container_title">От профила</string>
   <string name="account_default">Телефон</string>
@@ -15,9 +15,9 @@
   <string name="activity_title_settings">Настройки</string>
   <string name="add_2sec_pause">Добави 2сек. пауза</string>
   <string name="add_account">Добави профил</string>
-  <string name="add_blacklist">Блокирай</string>
+  <string name="add_blacklist">Блокиране</string>
   <string name="add_blacklist_dialog_message">Блокиране на този номер?</string>
-  <string name="add_blacklist_dialog_title">Добавяне към блокирани</string>
+  <string name="add_blacklist_dialog_title">Блокиране на този телефонен номер?</string>
   <string name="add_connection_button">Добави връзка</string>
   <string name="add_contact_dlg_message_fmt">Ще добавите ли \"%s\" към контакти?</string>
   <string name="add_display_photo_entry">Добави профилна снимка</string>
@@ -46,7 +46,7 @@
   <string name="back_description">Назад</string>
   <string name="back_view_description">Чукнете, за да се върнете</string>
   <string name="batch_delete">Пакетно изтриване</string>
-  <string name="blacklist">Блокирай</string>
+  <string name="blacklist">Блокиране</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth връзката е прекъсната</string>
   <string name="blurbJoinContactDataWith">Изберете контакта, който искате да обедините с %s:</string>
   <string name="btn_rotation">Ротация</string>
@@ -102,7 +102,7 @@
   <string name="callDetailsDurationFormat" formatted="false">%s мин %s сек</string>
   <string name="callDetailTitle">Детайли за повикване</string>
   <string name="calllog_call_note_menu">Бележки за обаждане</string>
-  <string name="calllog_call_record_menu">Записи на обаждания</string>
+  <string name="calllog_call_record_menu">Записани обаждания</string>
   <string name="calllog_menu_blacklist">Добави към черния списък</string>
   <string name="calllog_menu_edit_before_call">Редактиране</string>
   <string name="calllog_menu_send_sms">Изпрати съобщение</string>
@@ -119,7 +119,7 @@
   <string name="callrecordview_menu_batch_delete">Пакетно изтриване</string>
   <string name="callrecordview_menu_blocklist">Блокирани</string>
   <string name="callrecordview_menu_conference">Конферентно обаждане</string>
-  <string name="callrecordview_menu_delete">Изтрий списъка с обажданията</string>
+  <string name="callrecordview_menu_delete">Изчистване на историята</string>
   <string name="callrecordview_menu_delete_accepted">Изтрий списъка с входящи повиквания</string>
   <string name="callrecordview_menu_delete_all">Изтрий целия списък с повиквания</string>
   <string name="callrecordview_menu_delete_called">Изтрий списъка с изходящи повиквания</string>
@@ -189,19 +189,19 @@
   <string name="composer_failed_to_get_database_infomation">Базата данни е недостъпна.</string>
   <string name="composer_has_no_exportable_contact">Не са намерени контакти за експортиране. Възможно е експортирането на контакти от телефона да не се поддържа от доставчика ви на данни.</string>
   <string name="composer_not_initialized">Редактора на визитки не стартира правилно.</string>
-  <string name="confirm_delete_contact_all_call_logs">Да се изтрият ли списъците с повиквания?</string>
-  <string name="confirm_delete_selected_all_call_logs">Сигурни ли сте, че искате да изтриете всички записи на избраните контакти?</string>
+  <string name="confirm_delete_contact_all_call_logs">"Изчистване на цялата история за %s?"</string>
+  <string name="confirm_delete_selected_all_call_logs">Изчистване на историята на повикванията?</string>
   <string name="confirm_delete_sim_entry_miui_title">Изтрий</string>
   <string name="confirm_export_message">Вашият списък с контакти ще бъде експортиран във файла: %s.</string>
   <string name="confirm_export_title">Ще експортирате ли контактите?</string>
   <string name="connections">Връзки</string>
-  <string name="contact_clear_search_history">Изчистване на хронологията</string>
+  <string name="contact_clear_search_history">Изчистване на историята</string>
   <string name="contact_delete_toast">Контактът е успешно изтрит</string>
-  <string name="contact_detail_action_item_calllog">Хронология</string>
-  <string name="contact_detail_action_item_nocalllog">Няма хронология</string>
+  <string name="contact_detail_action_item_calllog">История на повикванията</string>
+  <string name="contact_detail_action_item_nocalllog">Няма история</string>
   <string name="contact_detail_calllog_call_note_tips">Бележка към повикване</string>
   <string name="contact_detail_calllog_call_record_tips">Записани обаждания</string>
-  <string name="contact_detail_calllog_empty">Няма хронология</string>
+  <string name="contact_detail_calllog_empty">Няма история</string>
   <string name="contact_detail_entry_pay">Плащане</string>
   <string name="contact_detail_entry_pay_dialog_title">Изберете телефонен номер</string>
   <string name="contact_detail_menu_delete_miprofile">Изтрий картата</string>
@@ -231,7 +231,7 @@
   <string name="contact_detail_profile_switch_on_success_toast">Контактните карти вече са включени</string>
   <string name="contact_directory_description">Директория %1$s</string>
   <string name="contact_edit_save_error_empty">Контактът е празен</string>
-  <string name="contact_edit_title_edit">Редактирай контакт</string>
+  <string name="contact_edit_title_edit">Редакция на контакта</string>
   <string name="contact_edit_title_insert">Запазване в %s</string>
   <string name="contact_edit_title_readonly">Контакт само за четене</string>
   <string name="contact_editor_prompt_multiple_accounts">Изберете профил, в който да запазите контакта</string>
@@ -244,7 +244,7 @@
   <string name="contact_list_loading">Зареждане...</string>
   <string name="contact_pick_photo">Снимка</string>
   <string name="contact_read_only">Достъпно само за четене.</string>
-  <string name="contact_search_history">Хронология</string>
+  <string name="contact_search_history">История</string>
   <string name="contact_status_update_attribution">чрез %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s чрез %2$s</string>
   <string name="contact_unfavorite_toast">Този контакт е премехнат от любими</string>
@@ -284,10 +284,10 @@
   <string name="data_unit_mb">Мб</string>
   <string name="date_time_set">Настрой</string>
   <string name="date_year_toggle">Добави година</string>
-  <string name="default_ringtone">Мелодия по подразбиране</string>
+  <string name="default_ringtone">Тон за звънене по подразбиране</string>
   <string name="delete_call_log_message">Изтриване на списък с повиквания?</string>
   <string name="delete_call_log_selected_title">Ще премахнете ли избраните списъци с повиквания?</string>
-  <string name="delete_call_log_title">Почистване на историята на повикванията</string>
+  <string name="delete_call_log_title">Почистване на историята</string>
   <string name="delete_contact_calllog_title">Ще изтриете ли списъка с повиквания за този котакт?</string>
   <string name="delete_dial_input">Изтрий</string>
   <string name="delete_duplicate">Обедини</string>
@@ -299,8 +299,8 @@
   <string name="delete_sim_entry_miui">Изтрий</string>
   <string name="delete_unknown_contact_calllog_title">Ще изтриете ли списъка с повиквания от непознати номера?</string>
   <string name="deleteConfirmation">Този контакт ще бъде изтрит.</string>
-  <string name="deleteConfirmation_title">Изтрий</string>
-  <string name="deleteConfirmationDetail">\"%s\" ще бъде изтрит.</string>
+  <string name="deleteConfirmation_title">Изтриване на този контакт?</string>
+  <string name="deleteConfirmationDetail">Изтриване на \"%s\"?</string>
   <string name="deleting_sim_entry_miui">Изтриване на контакти на SIM карта...</string>
   <string name="deleting_sim_entry_miui_prepare">Подготвка за изтриване…</string>
   <string name="description_add_contact">Добави контакт</string>
@@ -338,7 +338,7 @@
   <string name="description_image_button_zero">нула</string>
   <string name="description_minus_button">минус</string>
   <string name="description_plus_button">плюс</string>
-  <string name="description_quick_contact_for">Бързо набиране за %1$s</string>
+  <string name="description_quick_contact_for">Бърз контакт за %1$s</string>
   <string name="description_quick_dial_button">Бързо набиране</string>
   <string name="description_search_button">търсене</string>
   <string name="description_send_message">Изпрати съобщение до %1$s</string>
@@ -588,7 +588,7 @@
   <string name="menu_accounts">Профили</string>
   <string name="menu_addStar">Добави в любими</string>
   <string name="menu_bar_group_add">Добави</string>
-  <string name="menu_bar_group_delete">Изтрий</string>
+  <string name="menu_bar_group_delete">Изтриване</string>
   <string name="menu_bar_group_rename">Преименувай</string>
   <string name="menu_bar_group_ringtone">Мелодии за звънене</string>
   <string name="menu_bar_group_ringtone_largeui">Мелодия</string>
@@ -600,9 +600,9 @@
   <string name="menu_contacts_filter">Контакти за показване</string>
   <string name="menu_copy">Копирай</string>
   <string name="menu_copyContact">Копирай в \"Моите контакти\"</string>
-  <string name="menu_create_contact_shortcut">Добави на Начален екран</string>
-  <string name="menu_deleteContact">Изтрий</string>
-  <string name="menu_deleteGroup">Изтрий</string>
+  <string name="menu_create_contact_shortcut">Добави на начален екран</string>
+  <string name="menu_deleteContact">Изтриване на контакт</string>
+  <string name="menu_deleteGroup">Изтриване</string>
   <string name="menu_dial_ip_number">IP обаждане</string>
   <string name="menu_dialpad_text">Клавиатура</string>
   <string name="menu_discard">Отхвърли</string>
@@ -621,8 +621,8 @@
   <string name="menu_new_group_action_bar">Нова група</string>
   <string name="menu_newContact">Нов контакт</string>
   <string name="menu_newContactButton">Добави</string>
-  <string name="menu_not_redirect_calls_to_vm">Гласовата поща не се използва</string>
-  <string name="menu_redirect_calls_to_vm">Обажданията се пренасочват към гласовата поща</string>
+  <string name="menu_not_redirect_calls_to_vm">Гласова поща не се използва</string>
+  <string name="menu_redirect_calls_to_vm">Всички повиквания са към гласовата поща</string>
   <string name="menu_removeStar">Премахни от любими</string>
   <string name="menu_search">Търсене</string>
   <string name="menu_select_all">Избери всички</string>
@@ -631,7 +631,7 @@
   <string name="menu_sendTextMessage">Изпрати съобщение</string>
   <string name="menu_set_ring_tone">Задайте мелодия</string>
   <string name="menu_settings">Настройки</string>
-  <string name="menu_share">Сподели</string>
+  <string name="menu_share">Споделяне</string>
   <string name="menu_show_all_calls">Покажи всички повиквания</string>
   <string name="menu_show_voicemails_only">Покажи само гласови съобщения</string>
   <string name="menu_splitAggregate">Раздели</string>
@@ -749,11 +749,11 @@
   <string name="notification_action_voicemail_play">Прослушай</string>
   <string name="notification_new_voicemail_ticker">Ново гл. съобщение от %1$s</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-  <string name="open_contact">Отвори контакт</string>
+  <string name="open_contact">Преглед на контакта</string>
   <string name="open_dial_pad_description">Отваряне на клавиатурата</string>
   <string name="openDialKeyboard">Клавиатура</string>
   <string name="option_delete_batch_contacts">Пакетно изтриване</string>
-  <string name="option_delete_contact">Изтриване</string>
+  <string name="option_delete_contact">Изтрий</string>
   <string name="option_delete_group">Изтрий група</string>
   <string name="option_edit_contact">Редактирай</string>
   <string name="option_not_in_group">Премахни от групата</string>
@@ -802,8 +802,8 @@
   <string name="photo_fragment">Снимка</string>
   <string name="photo_load_failed">Снимката не може да се зареди</string>
   <string name="photoPickerNotFoundText">Няма изображения.</string>
-  <string name="pick_new_photo">Изберете нова снимка от %s</string>
-  <string name="pick_photo">Изберете нова снимка от %s</string>
+  <string name="pick_new_photo">Избор на нова снимка от %s</string>
+  <string name="pick_photo">Избор на снимка от %s</string>
   <string name="picker_all_list_empty">Няма контакти</string>
   <string name="picker_contact_title">Изберете контакт</string>
   <string name="picker_email_title">Изберете контакт</string>
@@ -896,10 +896,10 @@
   <string name="pull_to_refresh_pull_label">Дръпнете за опресняване…</string>
   <string name="pull_to_refresh_refreshing_label">Зарежда се…</string>
   <string name="pull_to_refresh_release_label">Отпуснете за опресняване…</string>
-  <string name="qr_card_card">Моят QR код</string>
-  <string name="qrcode_card_title">QR код карта</string>
+  <string name="qr_card_card">QR код</string>
+  <string name="qrcode_card_title">QR код</string>
   <string name="quick_dial_setting_delete_dialog_message">Да се изтрие ли номерът за бързо набиране?</string>
-  <string name="quick_dial_setting_delete_dialog_option_delete">Изтрий</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Изтриване</string>
   <string name="quick_dial_setting_hint">Чукнете върху някой клавиш за да добавите или премахнете номер за бързо набиране. Натиснете и задръжте клавиш за бързо набиране за да се обадите.</string>
   <string name="quick_dial_setting_set_dialog_message">Ще зададете ли номер за бързо набиране на този бутон?</string>
   <string name="quick_dial_setting_set_dialog_option_set">Да</string>
@@ -926,17 +926,17 @@
   <string name="recentCalls_shareVoicemail">Сподели гласова поща</string>
   <string name="recentCalls_trashVoicemail">Изтрий гласово съобщение</string>
   <string name="recentCallsIconLabel">Списък с обаждания</string>
-  <string name="redirect_calls_to_vm_confirm_message">Ако не сте заявили услугата при оператора, моля не включвайте. В противен случай, може да не могат да получават обаждания от този контакт.</string>
-  <string name="redirect_calls_to_vm_confirm_text">Включи</string>
-  <string name="refresh">Обнови</string>
+  <string name="redirect_calls_to_vm_confirm_message">Преди да настроите пощенската си кутия, проверете условията и условията на договора си с вашия мобилен оператор.</string>
+  <string name="redirect_calls_to_vm_confirm_text">OK</string>
+  <string name="refresh">Опресни</string>
   <string name="relationLabelsGroup">Отношения</string>
-  <string name="remove_blacklist">Премахни от черния списък</string>
+  <string name="remove_blacklist">Деблокиране</string>
   <string name="remove_blacklist_dialog_message">Деблокиране на този номер?</string>
-  <string name="remove_blacklist_dialog_title">Премахване от блокирани</string>
+  <string name="remove_blacklist_dialog_title">Деблокиране на този номер?</string>
   <string name="remove_duplicate">"MIUI ще ви помогне да намерите и обедините дублирани контакти.
 
  За да започнете, докоснете иконата за обединяване в долната част на екрана."</string>
-  <string name="removePhoto">Премахни снимка</string>
+  <string name="removePhoto">Премахване на снимката</string>
   <string name="report_inquiry_mms">Докладване на SMS</string>
   <string name="restore_nickname">Възстанови</string>
   <string name="ret_sign">\n\n</string>
@@ -949,7 +949,7 @@
   <string name="scan_duplicate_message">Контакти с изцяло дублиращи се данни: %1$d</string>
   <string name="scan_merge">Търсене за дублиращи се контакти…</string>
   <string name="scan_qrcode_card_hint1">Сканирайте QR кода</string>
-  <string name="scanning_sdcard_failed_message">Причина: %s.</string>
+  <string name="scanning_sdcard_failed_message">Причина: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Неуспешно сканиране на хранилището</string>
   <string name="search_batch_delete">Подреждане;Контакти</string>
   <string name="search_contacts_display">Контакти;Показване</string>
@@ -987,8 +987,8 @@
   <string name="select_none">Нищо не е избрано, операцията е невалидна</string>
   <string name="select_show_contacts">Показване на контакти</string>
   <string name="select_vcard_title">Избери файл с визитка</string>
-  <string name="send_contact_shortcut_todesktop_success">На началния екран е създаден пряк път за контакта.</string>
-  <string name="send_to_voicemail_checkbox">Прехвърляй повикванията към гласовата поща</string>
+  <string name="send_contact_shortcut_todesktop_success">Добавено на начален екран.</string>
+  <string name="send_to_voicemail_checkbox">Изпращане на повиквания директно към гласова поща</string>
   <string name="separatorJoinAggregateAll">Всички контакти</string>
   <string name="separatorJoinAggregateSuggestions">Предложени контакти</string>
   <string name="service_more">Още</string>
@@ -1001,9 +1001,9 @@
   <string name="share_over_limit">Над лимита, не може да се сподели</string>
   <string name="share_via">Споделяне чрез</string>
   <string name="share_visible_contacts">Споделяне на контакти</string>
-  <string name="shortcutActivityTitle">Функция на пряк път</string>
+  <string name="shortcutActivityTitle">Изберете пряк път</string>
   <string name="shortcutContact">Контакт</string>
-  <string name="shortcutDialContact">Бързо набиране</string>
+  <string name="shortcutDialContact">"Директно набиране "</string>
   <string name="shortcutMessageContact">Бърз SMS</string>
   <string name="showAllContactsJoinItem">Покажи всички контакти</string>
   <string name="sim_account_name">SIM</string>
@@ -1092,7 +1092,7 @@
   <string name="t9_search_guide_pinyin_title2">Въведете 5 и 6 за търсене на <font fgcolor="">М</font>ирослав <font fgcolor="">Т</font>одоров</string>
   <string name="t9_search_guide_zhuyin_title1">Въведете цифри, за да намерите контакти</string>
   <string name="t9_search_guide_zhuyin_title2">Въведете 5 и 6 за търсене на <font fgcolor="">М</font>ирослав <font fgcolor="">Т</font>одоров</string>
-  <string name="take_new_photo">Направи нова снимка</string>
+  <string name="take_new_photo">Заснемане на нова снимка</string>
   <string name="take_photo">Направи снимка</string>
   <string name="title_other_devices">Други налични устройства</string>
   <string name="title_paired_devices">Сдвоени устройства</string>
@@ -1141,7 +1141,7 @@
   <string name="vcard_import_will_start_message">%s ще бъде импортирана скоро.</string>
   <string name="vcard_import_will_start_message_with_default_name">Файлът ще бъде импортиран скоро.</string>
   <string name="vcard_unknown_filename">контакт</string>
-  <string name="video_call">Видео обаждане</string>
+  <string name="video_call">Видео повикване</string>
   <string name="video_chat">Видео чат</string>
   <string name="view_updates_from_group">Покажи обновявания</string>
   <string name="viewContactDesription">Покажи контакт</string>
