@@ -259,7 +259,7 @@
     <string name="download_method">Изтегляне</string>
     <string name="download_no_application_title">Не може да се отвори файла</string>
     <string name="download_paused">Изтеглянето е на пауза.</string>
-    <string name="download_paused_in_power_save_mode">Изтеглянето е спряно когато Икономия на батерията е включено</string>
+    <string name="download_paused_in_power_save_mode">Изтеглянето е спряно когато Пестене на батерията е включено</string>
     <string name="download_pending">Изтеглянето е в очакване</string>
     <string name="download_percent">%d%%</string>
     <string name="download_quality">Качество при изтегляне</string>

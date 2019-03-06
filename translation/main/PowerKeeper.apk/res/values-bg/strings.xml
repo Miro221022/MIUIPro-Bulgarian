@@ -9,10 +9,10 @@
     <string name="power_config_apps">Пестене на батерия по приложения</string>
     <string name="app_list_title">Избор на приложения</string>
     <string name="power_hide_mode_app_list_summary">Икономия на енергия на заден план</string>
-    <string name="enable_hide_mode">Включи Икономия</string>
-    <string name="disable_hide_mode">Изключи Икономия</string>
+    <string name="enable_hide_mode">Включи Пестене</string>
+    <string name="disable_hide_mode">Изключи Пестене</string>
     <string name="about_hide_mode">Относно Пестенето на батерия по приложения</string>
-    <string name="disable_hide_mode_warning">Изключването на Икономия на батерия може да повиши употребата на енергия.</string>
+    <string name="disable_hide_mode_warning">Изключването на Пестене на батерия може да повиши употребата на енергия.</string>
     <string name="show_system_app">Покажи системните приложения</string>
     <string name="hide_system_app">Скрий системните приложения</string>
     <string name="scenario_policies_title">Интелигентни действия</string>
@@ -40,7 +40,7 @@
     <string name="empty_title_apps_container_list">Няма приложения</string>
     <string name="hints_loading_text">Един момент…</string>
     <string name="config_mode_title">Настройки за работа на заден план</string>
-    <string name="config_suggest_suffix_title">Икономия на батерия (препоръчително)</string>
+    <string name="config_suggest_suffix_title">Пестене на батерия (препоръчително)</string>
     <string name="config_no_restrict_title">Без ограничения</string>
     <string name="config_restrict_function_title">Ограничаване на процесите на заден план</string>
     <string name="config_restrict_running_title">Ограничаване на активността на заден план</string>

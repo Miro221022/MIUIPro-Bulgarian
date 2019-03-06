@@ -525,7 +525,7 @@
   <string name="enable_freeform_support">Активиране на прозорци със свободна форма</string>
   <string name="enable_freeform_support_summary">Активиране на поддръжка на експериментални прозорци със свободна форма.</string>
   <string name="enable_opengl_traces_title">Вкл на OpenGL трасиране</string>
-  <string name="enable_power_save_mode">Включване Икономия на батерията</string>
+  <string name="enable_power_save_mode">Включване на Пестене на батерията</string>
   <string name="enable_terminal_summary">Активиране на приложение за контрол на изводите за локален достъп</string>
   <string name="enable_terminal_title">Локален извод</string>
   <string name="enabled_by_admin">Активирано от администратор</string>
@@ -1019,7 +1019,7 @@
   <string name="notification_info_channel_enabled_text">Ще получвате известия за %2$s от %1$s.</string>
   <string name="notification_low_battery_action_btn">Включи</string>
   <string name="notification_low_battery_need_charge">Батерията е изтощена. Заредете устройството си.</string>
-  <string name="notification_low_battery_open_save_mode">Включете Икономия на батерията</string>
+  <string name="notification_low_battery_open_save_mode">Включете Пестене на батерията</string>
   <string name="notification_low_battery_title">Изтощена батерия: %d%%</string>
   <string name="notification_manager">Управление на известията</string>
   <string name="notification_manager_des">Филтриране и управление на известията</string>
@@ -1801,7 +1801,7 @@
    <string name="bluetooth_connected_no_a2dp_battery_level">Свързан (без медия) | Батерия %1$s%2$s</string>
    <string name="bluetooth_connected_no_headset_battery_level">Свъзан (без телефон) | Батерия %1$s%2$s</string>
    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Свързан (без телефон или медия) | Батерия %1$s%2$s</string>
-   <string name="gxzw_long_press_tip"/>
+   <string name="gxzw_long_press_tip">"Не премахвайте пръста си след като устройството се отключи, за да видите наличните преки пътища"</string>
    <string name="face_unlock_not_roi">Дръжте лицето си вътре в рамката</string>
    <string name="gxzw_quick_open_add_event">Добавяне на събитие</string>
    <string name="gxzw_quick_open_add_event_sub">Календар</string>

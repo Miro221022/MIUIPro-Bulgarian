@@ -4940,7 +4940,7 @@
     <string name="managed_profile_location_switch_lockdown">Изключено от фирмата ви</string>
     <string name="search_empty">Няма резултати от търсенето</string>
     <string name="receiver_clean">Освобождаване на място</string>
-    <string name="power_optimize">Икономия на батерията</string>
+    <string name="power_optimize">Пестене на батерията</string>
     <string name="power_checker">Контрол на захранването</string>
     <string name="app_invisible">Невидимо приложение</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Докоснете за промяна</string>

@@ -222,8 +222,8 @@
   <string name="automatic_remind_text">Напомни автоматично</string>
   <string name="back">Назад</string>
   <string name="bank_card_detail">Кредитна карта</string>
-  <string name="battery_saver">Икономия на батерията</string>
-  <string name="battery_saver_keywords">икономия на батерията; енергия използвана от пощата</string>
+  <string name="battery_saver">Пестене на батерията</string>
+  <string name="battery_saver_keywords">пестене на батерията; енергия използвана от пощата</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Препращане на: "</string>
   <string name="bill_center_setting">Настройки на сметките</string>
@@ -405,7 +405,7 @@
   <string name="email_netease">NetEase поща</string>
   <string name="email_qq">QQ поща</string>
   <string name="email_setting">Поща</string>
-  <string name="email_setting_keywords">Профили;Добавяне на профил;профили за ел. поща;Добавяне на профили за ел. поща;Потвърдете преди изтриване;Потвърдете преди изпращане;изтриване на потока от съобщения;изтриване на пренасочените;преглед на разговорите;пощенски разговори;икономия на батерия;енергия ползвана от пощата;изпращане на отзив;качване на хронологията</string>
+  <string name="email_setting_keywords">Профили;Добавяне на профил;профили за ел. поща;Добавяне на профили за ел. поща;Потвърдете преди изтриване;Потвърдете преди изпращане;изтриване на потока от съобщения;изтриване на пренасочените;преглед на разговорите;пощенски разговори;пестене на батерия;енергия ползвана от пощата;изпращане на отзив;качване на хронологията</string>
   <string name="email_sina">Sina поща</string>
   <string name="eml_parse_message">Отваряне на EML файл…</string>
   <string name="empty_account_tip">Не е открит профила</string>
@@ -717,7 +717,7 @@
   <string name="password_expired_ticker">Вашата парола или ПИН за заключване на екрана са изтекли.</string>
   <string name="path_about_account_setting">Поща/Настройки/Профили</string>
   <string name="path_about_add_account">Поща/Настройки/Добавяне на профил</string>
-  <string name="path_about_battery_saver">Поща/Настройки/Икономия на батерия</string>
+  <string name="path_about_battery_saver">Поща/Настройки/Пестене на батерия</string>
   <string name="path_about_confirm_before_delete">Поща/Настройки/Потвърждение преди изтриване</string>
   <string name="path_about_confirm_before_send">Поща/Настройки/Потвърждение преди изпращане</string>
   <string name="path_about_conversation_view">Поща/Настройки/Преглед на кореспонденциите</string>
@@ -886,7 +886,7 @@
   <string name="save_attachment">Запиши</string>
   <string name="save_draft_failed">Записването на проекта е неуспешно</string>
   <string name="save_power_summary">Задайте време за енергоспестяване</string>
-  <string name="save_power_title">Икономия на батерията</string>
+  <string name="save_power_title">Пестене на батерията</string>
   <string name="save_this_new_signature">Запишете новия подпис?</string>
   <string name="saved">"Записано %s "</string>
   <string name="saving">Записване…</string>
