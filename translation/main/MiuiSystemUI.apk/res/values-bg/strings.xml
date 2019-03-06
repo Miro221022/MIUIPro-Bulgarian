@@ -1823,4 +1823,9 @@
    <string name="face_unlock_fail_retry">"Лицето ви не може да се потвърди. Докоснете иконата, за да опитате отново."</string>
    <string name="face_unlock_success_stay_screen_msg">Оставане на заключен екран, след като лицето ви бъде потвърдено. Плъзнете нагоре, за да отворите началния екран.</string>
    <string name="face_unlock_success_stay_screen_title">Оставане на заключен екран след отключване</string>
+   <string name="usb_port_short_circuit_dialog_content">Зареждането на устройството ви е ограничено. Изключете зарядното устройство и подсушете порта за зареждане, като премахнете всички течности, за да възстановите възможността за зареждане.</string>
+   <string name="usb_port_short_circuit_notification_content">Изключете зарядното устройство и подсушете порта за зареждане, като премахнете всички течности.</string>
+   <string name="usb_port_short_circuit_recovered_content">Можете да го използвате за зареждане или свързване с други устройства.</string>
+   <string name="usb_port_short_circuit_recovered_title">Портът за зареждане вече работи нормално</string>
+   <string name="usb_port_short_circuit_title">"Има изпарения в порта за зареждане"</string>
 </resources>
