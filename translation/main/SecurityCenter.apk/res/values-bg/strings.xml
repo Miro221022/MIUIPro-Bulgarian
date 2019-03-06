@@ -392,7 +392,7 @@
     <string name="firewall_network_allow">Позволено е на %1$s да използва %2$s връзка</string>
     <string name="search_result_text">Не може да се открият приложения</string>
     <string name="firewall_mobile_dialog_message">Инсталираното приложение няма да може да се свърже с интернет чрез мобилни данни, когато те са изключени.</string>
-    <string name="firewall_wifi_dialog_message">Инсталираното приложение няма да може да се свърже с интернет чрез Wi-Fi, когато този тип връзка е изключена</string>
+    <string name="firewall_wifi_dialog_message">Инсталираното приложение няма да може да се свърже с интернет чрез WLAN, когато този тип връзка е изключена</string>
     <string name="firewall_system_title">Изразходени данни от системните приложения</string>
     <string name="firewall_temp_rule_reason">%2$s ограничена интернет връзка за%1$s​</string>
     <string name="dialog_restrict_all_wlan_title">Ограничаване на WLAN връзката</string>
@@ -411,7 +411,7 @@
     <string name="app_detail">Детайли</string>
     <string name="app_version">Версия</string>
     <string name="app_mobile">Мобилни данни</string>
-    <string name="app_wifi">Wi-Fi</string>
+    <string name="app_wifi">WLAN</string>
     <string name="traffic_none">Няма</string>
     <string name="sorted_dialog_title">Сортиране</string>
     <string name="cancel_button">Отказ</string>
@@ -695,7 +695,7 @@
     <string name="btn_stop_diagnostic">Спри</string>
     <string name="btn_finish_diagnostic">ОК</string>
     <string name="main_toolbar_internet_by_pc_brige">Интернет чрез USB</string>
-    <string name="main_toolbar_internet_by_wifi">Свързване чрез Wi-Fi</string>
+    <string name="main_toolbar_internet_by_wifi">Свързване чрез WLAN</string>
     <string name="main_toolbar_internet_by_mobiledata">Мобилни данни</string>
     <string name="connect_internet_by_usbshare">Споделен интернет чрез USB</string>
     <string name="connect_internet_by_mobiledata">Връзка чрез мобилни данни</string>
@@ -710,8 +710,8 @@
     <string name="apn_exception_summary">Настройките за APN на оператора не са правилни</string>
     <string name="dns_exception_title">Проверка на DNS настройките</string>
     <string name="dns_exception_summary">Настройкита за DNS на рутера ви са недостъпни.</string>
-    <string name="wifi_exception_title">Тест на Wi-Fi</string>
-    <string name="wifi_exception_summary">Тест на достъпните за свързване Wi-Fi мрежи</string>
+    <string name="wifi_exception_title">Тест на WLAN мрежата</string>
+    <string name="wifi_exception_summary">Тест на достъпните за свързване WLAN мрежи</string>
     <string name="signal_exception_title">Тест на силата на сигнала</string>
     <string name="signal_exception_summary">Не може да се свърже с мрежа на това място.</string>
     <string name="usbsharenet_exception_title">Тест на мрежа чрез USB</string>
@@ -767,7 +767,7 @@
 . Уверете се, че вашата SIM карта и слот на телефона не са повредени. Проверете дали използваната от вас SIM карта е правилно поставена в SIM гнездото на вашето устройство."</string>
     <string name="network_route_exception_detail">"Има проблем с рутера към който сте свързани:\u000d
 \u000d
-\"\"\"\""<b>1. Проблем със споделената Wi-Fi мрежа</b>"\"\"\"\"\u000d
+\"\"\"\""<b>1. Проблем със споделената WLAN мрежа</b>"\"\"\"\"\u000d
 Ако сте свързани към обществена мрежа, може да е надвишен броя на потребителите и да се забави връзката или да не може да се свържете. Свържете се към друга мрежа и опитайте отново.\u000d
 \u000d
 \"\"\"\""<b>2. Проблем с доставчика</b>"\"\"\"\"\u000d
@@ -785,7 +785,7 @@
     <string name="bg_network_exception_title">Ограничена връзка на зден план</string>
     <string name="networkchanged_exception_title">Променена връзка</string>
     <string name="networkchanged_exception_summary">Връзката с мрежата бе променена. Моля, тествайте отново.</string>
-    <string name="network_test_speed">Тест на Wi-Fi скоростта</string>
+    <string name="network_test_speed">Тест на WLAN скоростта</string>
     <string name="network_changed_noti_title">Прекъсната връзка с Wi-Fi</string>
     <string name="network_changed_noti_summary">Използване на мобилни данни</string>
     <string name="network_speed_for_apps_title">Детайли за скоростта на връзката</string>
@@ -844,8 +844,8 @@
     <string name="btn_back">Обратно</string>
     <string name="firewall_allow_data">Разреши мобилните данни</string>
     <string name="firewall_restrict_data">Ограничи мобилните данни</string>
-    <string name="firewall_allow_wlan">Разреши използването на Wi-Fi връзка</string>
-    <string name="firewall_restrict_wlan">Ограничи използването на Wi-Fi връзка</string>
+    <string name="firewall_allow_wlan">Разреши използването на WLAN връзка</string>
+    <string name="firewall_restrict_wlan">Ограничи използването на WLAN връзка</string>
     <string name="firewall_allow_all">Разреши на приложенията да се свързват, използвайки следния начин</string>
     <string name="firewall_restrict_all">Ограничи приложенията да се свързват, използвайки следния начин</string>
     <string name="firewall_partial">Разреши на някои приложения да се свързват, използвайки следния начин</string>
@@ -941,8 +941,8 @@
     <string name="om_ill_proc_handle_uninstall_prompt">Деинсталирайте това приложение, за да поправите проблем с прекален разход на батерията.</string>
     <string name="om_ill_proc_type_wakelock_title">Това приложение блокира режим сън на устройството и изразходва много батерия</string>
     <string name="om_ill_proc_type_wakelock_detail">Поправка на проблеми с режим сън</string>
-    <string name="om_ill_proc_type_wifiscan_title">Приложението търси Wi-Fi мрежи твърде често и изразходва много батерия</string>
-    <string name="om_ill_proc_type_wifiscan_detail">Попр. на проблеми със сканиране за Wi-Fi</string>
+    <string name="om_ill_proc_type_wifiscan_title">Приложението търси WLAN мрежи твърде често и изразходва много батерия</string>
+    <string name="om_ill_proc_type_wifiscan_detail">Попр. на проблеми със сканиране за WLAN</string>
     <string name="om_ill_proc_type_cpu_title">Това приложение натоварва процесора и изтощава много батерията</string>
     <string name="om_ill_proc_type_cpu_detail">Попр. на проблеми с натоварване на процесора</string>
     <string name="om_ill_proc_type_gps_title">Приложението използва GPS твърде често и изразходва много батерия</string>
@@ -986,7 +986,7 @@
     <string name="battery_desc_standby">Използвана при неактивно устройство батерия</string>
     <string name="battery_desc_radio">Батерия, използвана от клетъчно радио</string>
     <string name="battery_desc_voice">Батерия, използвана за гласови обаждания</string>
-    <string name="battery_desc_wifi">Батерия, използвана от Wi-Fi</string>
+    <string name="battery_desc_wifi">Батерия, използвана от WLAN</string>
     <string name="battery_desc_bluetooth">Батерия, използвана от Bluetooth</string>
     <string name="battery_desc_display">Батерия, използвана от дисплея и подсветката</string>
     <string name="battery_desc_apps">Батерия, използвана от приложението</string>
@@ -998,7 +998,7 @@
     <string name="process_kernel_label">Андроид</string>
     <string name="process_mediaserver_label">Медиен сървър</string>
     <string name="power_screen">Екран</string>
-    <string name="power_wifi">Wi-Fi</string>
+    <string name="power_wifi">WLAN</string>
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_cell">В режим на готовност</string>
     <string name="power_phone">Гласови повиквания</string>
@@ -1138,7 +1138,7 @@
     <string name="auto_task_operation_airplane_mode">\n- Самолетен режим</string>
     <string name="auto_task_operation_memory_clean_lockscreen">\n- Изчистване на паметта</string>
     <string name="auto_task_operation_mobile_data">\n- Мобилни данни</string>
-    <string name="auto_task_operation_wifi">\n- Wi-Fi</string>
+    <string name="auto_task_operation_wifi">\n- WLAN</string>
     <string name="auto_task_operation_mute">\n- Тих режим</string>
     <string name="auto_task_operation_vibration">\n- Вибрация</string>
     <string name="auto_task_operation_bluetooth">\n- Bluetooth</string>
@@ -1211,7 +1211,7 @@
     <string name="apps_item_sign_install_button_text">Замяна</string>
     <string name="apps_item_sign_dialog_title">Инсталиране на официална версия</string>
     <string name="apps_item_sign_dialog_content">Цифровият подпис на \"%s\" е различен от този в Google Магазин. Да се изтрие ли приложението и да се инсталира официалната версия? Забележка: инсталирането на приложения с конфликт в цифровото подписване може да предизвика загуба на данни.</string>
-    <string name="wifi_item_title_connection">Wi-Fi връзка</string>
+    <string name="wifi_item_title_connection">WLAN връзка</string>
     <string name="wifi_item_title_encryption">Wi-Fi шифроване</string>
     <string name="wifi_item_title_fake">Засичане на фалшиво Wi-Fi</string>
     <string name="wifi_item_title_dns">Сигурност на DNS сървъра</string>
@@ -1276,7 +1276,7 @@
     <string name="sc_warning_updater_not_found">Не можа да се намери приложението Актуализация.</string>
     <string name="sp_background_risk_dialog_title">Предупреждение</string>
     <string name="sp_background_risk_dialog_summary">, проверка и отстраняване на проблеми с плащането.</string>
-    <string name="sp_background_risk_type_wifi">Тази Wi-Fi мрежа е опасна</string>
+    <string name="sp_background_risk_type_wifi">Тази WLAN мрежа е опасна</string>
     <string name="sp_background_risk_type_messaging">Системното приложение за съобщения е заменено</string>
     <string name="sp_background_risk_type_virus">Изпълнява се вирус на заден план</string>
     <string name="sp_background_risk_type_sign">Стартирано е неофициално приложение</string>
