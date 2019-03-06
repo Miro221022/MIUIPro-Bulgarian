@@ -37,7 +37,7 @@
     <string name="callNoAnswerTimeFormat">Звънял %s пъти</string>
     <string name="callrecordview_item_newcontact">Нов контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dм %2$dс</string>
-    <string name="callrecordview_item_op_time_missed">Не е свързано</string>
+    <string name="callrecordview_item_op_time_missed">Няма отговор</string>
     <string name="callrecordview_item_op_time_only_minutes">%d мин</string>
     <string name="callrecordview_item_op_time_only_seconds">%d сек</string>
     <string name="callrecordview_item_op_time_rejected">Отхвърлено</string>
