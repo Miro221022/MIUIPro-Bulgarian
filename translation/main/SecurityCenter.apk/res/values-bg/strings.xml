@@ -316,7 +316,7 @@
     <string name="cta_dialog_msg">&lt;Data&gt;Трябва да се съгласите с нашата &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Политика за поверителност&amp;lt;/a&amp;gt; преди да използвате Сигурност. Сигурност също се нуждае от връзка с интернет и достъп до местоположението ви, за да работи нормално и да поддържа антивирусните дефиниции актуални. Съгласни ли сте?&lt;/Data&gt;</string>
     <string name="cta_settings">Разрешаване на интернет връзка</string>
     <string name="gdpr_msg"><Data>"За да използвате основните функции на Сигурност, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни, включително информация за начините, по които използвате функциите на Сигурност (например, статистика за използване на мобилни данни, информация за злонамерен софтуер, както и основна информация за вашето устройство) и други видове информация, посочени в нашата &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a>."</Data></string>
-    <string name="app_name_na">Монитор за данни</string>
+    <string name="app_name_na">Използване на данни</string>
     <string name="list_empty_text">Празно</string>
     <string name="dialog_title_attention">Внимание</string>
     <string name="kilobyte_per_second">K/с</string>
@@ -378,7 +378,7 @@
     <string name="firewall_activity_lable">Забрана на данни по приложение</string>
     <string name="firewall_applist">Приложения</string>
     <string name="firewall_mobile">Мобилни данни</string>
-    <string name="firewall_wifi">Wi-Fi</string>
+    <string name="firewall_wifi">WLAN</string>
     <string name="firewall_fragment_sys_listempty">Празно</string>
     <string name="firewall_fragment_nonesys_listempty">Празно</string>
     <string name="firewall_restrict_notify_title">%s не може да използва мрежата</string>
@@ -430,7 +430,7 @@
     <string name="pref_title_diagnostics_show_float_notification">Плаващи известия</string>
     <string name="pref_title_traffic_speed_state">Показване на скороста на мрежата</string>
     <string name="pref_title_declaration">Отказ от отговорност</string>
-    <string name="pref_new_installed_preconfig_title">Стандартни настройки за нови приложения</string>
+    <string name="pref_new_installed_preconfig_title">"Стандартна настройка за новите приложения"</string>
     <string name="pref_bg_network_title">Връзка на заден план</string>
     <string name="pref_mi_sim_settings">%s настройки на пакета</string>
     <string name="pref_title_upload_data_usage">Докладване на информацията за използването на данни</string>
@@ -598,7 +598,7 @@
     <string name="mi_service_traffic_detail">Framework детайли</string>
     <string name="label_mi_stats">Mi анализ</string>
     <string name="show_traffic_dialog_title">Покажи използваните данни в лентата с известията</string>
-    <string name="show_traffic_dialog_message">Използваните от вас данни ще се показват в лентата с известията. Може да включвате и изключвате тази функция от Монитор за данни > Настройки.</string>
+    <string name="show_traffic_dialog_message">Използваните от вас данни ще се показват в лентата с известията. Може да включвате и изключвате тази функция от Използване на данни > Настройки.</string>
     <string name="tc_sms_report_title">Докладване на грешка</string>
     <string name="tc_sms_report_summary">Помогнете ни да подобрим тази функция, като изпратите доклад при неправилни данни за използвания трафик или невъзможност за тяхното актуализиране.</string>
     <string name="tc_sms_report_direction">SMS код на запитването</string>
@@ -622,7 +622,7 @@
     <string name="tc_sms_report_notify_get_timeout_body">Времето за изчакване изтече. Уверете се, че кодът на заявката е точен.</string>
     <string name="tc_sms_report_notify_get_failure_title">Не може да се получи SMS с данни за трафика</string>
     <string name="tc_sms_report_notify_correction_failure_title">Не може да се актуализира информацията за трафика</string>
-    <string name="tc_sms_report_notify_correction_body">Отидете в приложението Монитор за данни в Сигурност и опитайте отново ръчно.</string>
+    <string name="tc_sms_report_notify_correction_body">Отидете в приложението Използване на данни в Сигурност и опитайте отново ръчно.</string>
     <string name="tc_sms_report_notify_get_failure_body">Неуспешно изпращане на доклад. Проверете параметрите на мрежата.</string>
     <string name="tc_sms_report_tips_dialog_title">SMS доклад за трафика</string>
     <string name="tc_sms_report_tips_dialog_message">Ще бъде изпратен SMS за да се получи актуална информация за изразходваните мобилни данни от вашия оператор. Ако смятате, че информацията не е правилна, оставете ни обратна връзка.</string>
@@ -699,20 +699,20 @@
     <string name="main_toolbar_internet_by_mobiledata">Мобилни данни</string>
     <string name="connect_internet_by_usbshare">Споделен интернет чрез USB</string>
     <string name="connect_internet_by_mobiledata">Връзка чрез мобилни данни</string>
-    <string name="connect_internet_by_wifi">Wi-Fi</string>
+    <string name="connect_internet_by_wifi">WLAN</string>
     <string name="unable_connect_internet">Няма връзка с интернет</string>
     <string name="enable_network">Включете мобилните даннни</string>
     <string name="disable_air_mode">Изклчете самолетен режим</string>
     <string name="repair">Поправи</string>
     <string name="check_network_state">Проверка на състоянието на мрежата</string>
     <string name="current_network_state_not_need_diagnose">Всичко е наред</string>
-    <string name="apn_exception_title">Проверете настройките за APN</string>
+    <string name="apn_exception_title">Проверка на APN настройките</string>
     <string name="apn_exception_summary">Настройките за APN на оператора не са правилни</string>
     <string name="dns_exception_title">Проверка на DNS настройките</string>
     <string name="dns_exception_summary">Настройкита за DNS на рутера ви са недостъпни.</string>
     <string name="wifi_exception_title">Тест на Wi-Fi</string>
     <string name="wifi_exception_summary">Тест на достъпните за свързване Wi-Fi мрежи</string>
-    <string name="signal_exception_title">Слаб сигнал на мрежата</string>
+    <string name="signal_exception_title">Тест на силата на сигнала</string>
     <string name="signal_exception_summary">Не може да се свърже с мрежа на това място.</string>
     <string name="usbsharenet_exception_title">Тест на мрежа чрез USB</string>
     <string name="usbsharenet_exception_summary">Не може да се свърже с мрежата чрез споделена USB връзка. Проверете USB връзката с устройството и рестартирайте Mi PC Suite.</string>
@@ -720,7 +720,7 @@
     <string name="gateway_exception_title">Тест на рутера</string>
     <string name="gateway_exception_summary">Проверете рутера си и опитайте отново.</string>
     <string name="gateway_exception_summary2">Не може да се установи връзка със сървъра</string>
-    <string name="other_exception_title">Проверка за други грешки</string>
+    <string name="other_exception_title">Проверка за други проблеми</string>
     <string name="other_exception_summary">Нямате връзка с интернет</string>
     <string name="see_detail">Детайли</string>
     <string name="choose">Изберете</string>
@@ -743,7 +743,7 @@
     <string name="network_operator_exception_summary">Не е възможно да активирате вашата SIM карта. Уверете се, че правилно сте поставили SIM картата и мобилните данни са активирани от вашия оператор.</string>
     <string name="network_blocked_connected_open_wifi">Свързан към публична мрежа</string>
     <string name="network_connected_exception_title">Тест на мрежата</string>
-    <string name="protocol_exception_title">Диагностика на мрежата</string>
+    <string name="protocol_exception_title">Диагностика на мрежовия протокол</string>
     <string name="protocol_loop_back_exception_summary">Неуспешен тест. Препоръчваме ви да изпратите отчет за грешката чрез приложението Отзиви.</string>
     <string name="ip_address_exception_summary">Неуспешно получаване на IP адрес. Ако се повтори тази грешка, опитайте да зададете статичен IP адрес.</string>
     <string name="local_ip_exception_summary">Неуспешно получаване на IP адрес. За да докладвате този проблем до MIUI, отидете в приложението Отзиви и изпратете лог от устройството ви.</string>
@@ -782,7 +782,7 @@
 \"\"\"\""<b>5. Проверете дали рутера има връзка с интернет</b>"\"\"\"\"\u000d
 Проверете кабела дали е свързан към рутера. Свържете се с доставчика на интернет ако нямате връзка."</string>
     <string name="permission_exception_title">Ограничена връзка за приложенията</string>
-    <string name="bg_network_exception_title">Ограничена мрежова връзка</string>
+    <string name="bg_network_exception_title">Ограничена връзка на зден план</string>
     <string name="networkchanged_exception_title">Променена връзка</string>
     <string name="networkchanged_exception_summary">Връзката с мрежата бе променена. Моля, тествайте отново.</string>
     <string name="network_test_speed">Тест на Wi-Fi скоростта</string>
@@ -1337,7 +1337,7 @@
     <string name="btn_text_quick_scan">Сканирай</string>
     <string name="menu_text_antivirus">Антивирус</string>
     <string name="menu_text_optimize_manage">Ускорение</string>
-    <string name="menu_text_networkassistants">Монитор за данни</string>
+    <string name="menu_text_networkassistants">Използване на данни</string>
     <string name="menu_text_networkassistants_remain">%s остават</string>
     <string name="menu_text_networkassistants_danger">%s над лимита</string>
     <string name="menu_text_networkassistants_unit_gb">Гб</string>
@@ -1358,7 +1358,7 @@
     <string name="examination_score_has_virus">Открити са някои съмнителни приложения!</string>
     <string name="activity_title_settings">Настройки</string>
     <string name="activity_title_antivirus">Сканиране на защитата</string>
-    <string name="activity_title_networkassistants">Монитор за данни</string>
+    <string name="activity_title_networkassistants">Използване на данни</string>
     <string name="activity_title_antispam">Антиспам</string>
     <string name="activity_title_license_manager">Разрешения</string>
     <string name="activity_title_power_manager">Оптимизация на батерията</string>

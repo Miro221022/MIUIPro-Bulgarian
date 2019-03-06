@@ -901,7 +901,7 @@
   <string name="quick_dial_setting_delete_dialog_message">Да се изтрие ли номерът за бързо набиране?</string>
   <string name="quick_dial_setting_delete_dialog_option_delete">Изтрий</string>
   <string name="quick_dial_setting_hint">Чукнете върху някой клавиш за да добавите или премахнете номер за бързо набиране. Натиснете и задръжте клавиш за бързо набиране за да се обадите.</string>
-  <string name="quick_dial_setting_set_dialog_message">Присвои този номер за бързо набиране на този клавиш?</string>
+  <string name="quick_dial_setting_set_dialog_message">Ще зададете ли номер за бързо набиране на този бутон?</string>
   <string name="quick_dial_setting_set_dialog_option_set">Да</string>
   <string name="quick_dial_setting_title">Бързо набиране</string>
   <string name="quickcontact_missing_app">Няма приложение, което да изпълни действието.</string>

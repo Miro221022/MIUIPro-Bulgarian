@@ -37,12 +37,12 @@
         <item quantity="one">%d приложение</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">%d приложения могат да се свързват с интернет на заден план</item>
-        <item quantity="one">%d приложение може да се свързва с интернет на заден план</item>
+        <item quantity="other">%d приложения могат да се свързват на заден план</item>
+        <item quantity="one">%d приложение може да се свързва на заден план</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">%d приложения не могат да се свързват с интернет на заден план</item>
-        <item quantity="one">%d приложение не може да се свързва с интернет на заден план</item>
+        <item quantity="other">%d приложения не могат да се свързват на заден план</item>
+        <item quantity="one">%d приложение не може да се свързва на заден план</item>
     </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">Вече сте използвали %s от дневния лимит за данни.</item>
