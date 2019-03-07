@@ -1160,7 +1160,7 @@
   <string name="quick_settings_dnd_none_label">Пълна тишина</string>
   <string name="quick_settings_dnd_priority_label">Само с приоритет</string>
   <string name="quick_settings_done">Готово</string>
-  <string name="quick_settings_drivemode_label">Режим Автомобил</string>
+  <string name="quick_settings_drivemode_label">Автомобилен режим</string>
   <string name="quick_settings_dual_location_label">Двоен GPS</string>
   <string name="quick_settings_edit_label">Редакция</string>
   <string name="quick_settings_flashlight_label">Фенерче</string>
@@ -1168,7 +1168,7 @@
   <string name="quick_settings_ime_label">Метод за въвеждане</string>
   <string name="quick_settings_inversion_label">Цветова инверсия</string>
   <string name="quick_settings_location_label">Местоположение</string>
-  <string name="quick_settings_location_off_label">Местоположение изключено</string>
+  <string name="quick_settings_location_off_label">Местоположениеto e изключено</string>
   <string name="quick_settings_media_device_label">Медийно устройство</string>
   <string name="quick_settings_midrop_label">Mi Drop</string>
   <string name="quick_settings_more_settings">Още настройки</string>
@@ -1178,11 +1178,11 @@
   <string name="quick_settings_nfc_on">КБП е актовиран</string>
   <string name="quick_settings_night_display_label">Нощна светлина</string>
   <string name="quick_settings_notifications_label">Известия</string>
-  <string name="quick_settings_papermode_label">Режим за четене</string>
-  <string name="quick_settings_powermode_label">Режим производителност</string>
+  <string name="quick_settings_papermode_label">Режим Четене</string>
+  <string name="quick_settings_powermode_label">Производителност</string>
   <string name="quick_settings_quietmode_label">Не ме безпокойте</string>
   <string name="quick_settings_reset_confirmation_button">Скриване</string>
-  <string name="quick_settings_reset_confirmation_message">Ще се появи отново при следващото включване в \"Настройки\".</string>
+  <string name="quick_settings_reset_confirmation_message">Ще се появи отново следващият път, след като го включите в Настройки.</string>
   <string name="quick_settings_reset_confirmation_title">Скрий %1$s?</string>
   <string name="quick_settings_rotation_locked_label">Завътането заключено</string>
   <string name="quick_settings_rotation_locked_landscape_label">Хоризонтално</string>
@@ -1191,7 +1191,7 @@
   <string name="quick_settings_rssi_emergency_only">Само спешни повиквания</string>
   <string name="quick_settings_rssi_label">RSSI</string>
   <string name="quick_settings_screenbutton_label">Бутони</string>
-  <string name="quick_settings_screenlock_label">Заключване на екрана</string>
+  <string name="quick_settings_screenlock_label">Заключване</string>
   <string name="quick_settings_screenshot_label">Екранна снимка</string>
   <string name="quick_settings_settings_label">Настройки</string>
   <string name="quick_settings_sync_label">Синхронизация</string>

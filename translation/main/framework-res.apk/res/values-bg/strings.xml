@@ -207,7 +207,7 @@
     <string name="notification_hidden_text">Скрито съдържание</string>
     <string name="notification_hidden_by_policy_text">Съдържанието е скрито чрез правило</string>
     <string name="safeMode">Безопасен режим</string>
-    <string name="android_system_label">Android система</string>
+    <string name="android_system_label">Система Android</string>
     <string name="user_owner_label">Превключване към личния потребителски профил</string>
     <string name="managed_profile_label">Превключване към служебния пoтребителски профил</string>
     <string name="permgrouplab_contacts">Контакти</string>
