@@ -3246,7 +3246,7 @@
     <string name="system_alert_window_off">Не</string>
     <string name="write_settings">Промяна на системните настройки</string>
     <string name="keywords_write_settings">запис промяна системни настройки</string>
-    <string name="write_settings_summary">%d от %d приложения имат разрешение за промяна на системните настройки</string>
+    <string name="write_settings_summary">%1$d от %2$d приложения имат разрешение за промяна на системните настройки</string>
     <string name="filter_write_settings_apps">Възможност за промяна на системните настройки</string>
     <string name="write_settings_title">Възможност за промяна на системните настройки</string>
     <string name="write_system_settings">Промяна на системни настройки</string>
