@@ -572,7 +572,7 @@
     <string name="app_name_unknown">Неизвестено</string>
     <string name="help_app_permissions" />
     <string name="untrusted_external_source_warning">За вашата безопасност, на телефона Ви не му е разрешено да инсталира приложения от неизвестни източници.</string>
-    <string name="anonymous_source_warning">Вашият телефон и лични данни са по-уязвими за атаки от неизвестни приложения. С инсталирането на това приложение приемате, че сте отговорни за всякакви повреди в телефона Ви или загуба на данни, които могат да се получат от неговата употреба.</string>
+    <string name="anonymous_source_warning">Вашият телефон и лични данни са по-уязвими на атаки от неизвестни приложения. С инсталирането на това приложение приемате, че сте отговорни за всякакви повреди в телефона Ви или загуба на данни, които могат да се получат от неговата употреба.</string>
     <string name="anonymous_source_continue">Продължаване</string>
     <string name="external_sources_settings">Настройки</string>
     <string name="wear_app_channel">Инсталиране/деинсталиране на Android Wear приложения</string>
