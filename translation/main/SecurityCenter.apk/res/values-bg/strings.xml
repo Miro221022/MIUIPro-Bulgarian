@@ -1951,7 +1951,7 @@
     <string name="app_usage_never">Не е използвано</string>
     <string name="app_usage_recently">Скоро използвани</string>
     <string name="app_manager_have_not_consume">Няма</string>
-    <string name="app_manager_menu_clear_data">Изчистване на данните</string>
+    <string name="app_manager_menu_clear_data">Изчисти данните</string>
     <string name="app_manager_clear_data_dlg_title">Изтрий всички данни?</string>
     <string name="app_manager_clear_data_dlg_message">Цялата информация, включително файлове, настройки, информация за профили и кеш ще бъдат изтрити завинаги.</string>
     <string name="app_manager_clear_dlg_title">Изчистване на данните</string>
