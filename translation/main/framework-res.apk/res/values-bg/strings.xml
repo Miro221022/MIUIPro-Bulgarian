@@ -741,8 +741,8 @@
     <string name="whichApplication">Изпълняване на действието чрез</string>
     <string name="whichApplicationNamed">Завършване на действието чрез %1$s</string>
     <string name="whichApplicationLabel">Изпълняване на действието</string>
-    <string name="whichViewApplication">Отваряне чрез</string>
-    <string name="whichViewApplicationNamed">Отваряне чрез %1$s</string>
+    <string name="whichViewApplication">Отваряне с</string>
+    <string name="whichViewApplicationNamed">Отваряне с %1$s</string>
     <string name="whichViewApplicationLabel">Отваряне</string>
     <string name="whichEditApplication">Редактиране чрез</string>
     <string name="whichEditApplicationNamed">Редактиране чрез %1$s</string>
