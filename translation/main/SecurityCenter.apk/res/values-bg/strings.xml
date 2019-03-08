@@ -404,7 +404,7 @@
     <string name="usage_sorted_activity_lable">Използване на данни</string>
     <string name="usage_sorted_loading_text">Зарежда се…</string>
     <string name="usage_sorted_empty_text">Празно</string>
-    <string name="person_hotpot">Мобилни т.достъп</string>
+    <string name="person_hotpot">Мобилни точки за достъп</string>
     <string name="system_app">Системни приложения</string>
     <string name="deleted_apps">Изтрити приложения</string>
     <string name="root">ROOT достъп</string>
