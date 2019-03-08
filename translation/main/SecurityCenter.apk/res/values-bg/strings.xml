@@ -1947,7 +1947,7 @@
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Деинсталирането на клонираните приложения ще изтрие и данните им.</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Съответните клонирани приложения ще бъдат премахнати заедно с данните им.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">Деинсталиране на клонирано приложение?</string>
-    <string name="app_manager_appupdate_remind">Уведомяване за актуализации</string>
+    <string name="app_manager_appupdate_remind">Известяване за актуализации</string>
     <string name="app_usage_never">Не е използвано</string>
     <string name="app_usage_recently">Скоро използвани</string>
     <string name="app_manager_have_not_consume">Няма</string>
@@ -1978,7 +1978,7 @@
     <string name="app_manager_factory_reset_dlg_msg">Всички актуализации на системните приложения ще бъдат деинсталирани.</string>
     <string name="app_manager_system_mobile_disable">Изключи мобилни данни</string>
     <string name="app_managere_not_have_app">Празно</string>
-    <string name="app_manager_pref_ads">Препоръчани</string>
+    <string name="app_manager_pref_ads">Препоръки</string>
     <string name="install">Инсталирайте</string>
     <string name="app_manager_app_info_label">Информация за приложение</string>
     <string name="app_manager_app_info_name">Име на приложението</string>
