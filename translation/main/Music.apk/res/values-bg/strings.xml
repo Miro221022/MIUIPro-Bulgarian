@@ -1097,4 +1097,13 @@
    <string name="data_use_desc">Правни документи</string>
    <string name="privacy_desc">Политика за поверителност (задължително)</string>
    <string name="pick_recent_song">Последно изпълнени</string>
+   <string name="all_albums">Всички албуми</string>
+   <string name="all_artists">Всички изпълнители</string>
+   <string name="all_playlists">Всички плейлисти</string>
+   <string name="all_songs">Всички песни</string>
+   <string name="all_videos">Всички видеоклипове</string>
+   <string name="search_hint_local">Търсете песни на устройството</string>
+   <string name="search_hint_online">Търсене на изпълнители, албуми, песни, плейлисти и видеоклипове онлайн</string>
+   <string name="tab_playlist">Плейлисти</string>
+   <string name="tab_video">Видеоклипове</string>
 </resources>
