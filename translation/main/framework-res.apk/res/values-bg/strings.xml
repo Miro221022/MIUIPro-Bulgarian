@@ -901,8 +901,8 @@
     <string name="usb_midi_notification_title">USB за MIDI</string>
     <string name="usb_accessory_notification_title">Установена е връзка с аксесоар за USB</string>
     <string name="usb_notification_message">Докоснете за още опции.</string>
-    <string name="adb_active_notification_title">Отстраняване на грешки през USB</string>
-    <string name="adb_active_notification_message">Докоснете, за да деактивирате отстраняването на грешки през USB.</string>
+    <string name="adb_active_notification_title">USB отстраняване на грешки</string>
+    <string name="adb_active_notification_message">Докоснете, за да деактивирате.</string>
     <string name="taking_remote_bugreport_notification_title">Сигналът за програмна грешка се извлича…</string>
     <string name="share_remote_bugreport_notification_title">Да се сподели ли сигналът за програмна грешка?</string>
     <string name="sharing_remote_bugreport_notification_title">Сигналът за програмна грешка се споделя…</string>
