@@ -319,8 +319,8 @@
     <string name="privacy_authorize_revoke">Отмяна</string>
     <string name="privacy_authorize_revoke_time">Отмяна (%1$dс)</string>
     <string name="privacy_authorize_title">Предоставяне на разрешение</string>
-    <string name="privacy_authorize_privacy_policy">Правила за поверителност</string>
-    <string name="privacy_authorize_dialog_message">" "<Data>За да се използват основните функции на тази услуга трябва да се съгласите, че Xiaomi ще събира, обработва и използва личната ви информация. Прочете нашите Правила за Поверителност за да разберете как събираме и обработваме личните ви данни. С избирането на \"Съгласен съм\" това означава,че вие сте прочели и сте се съгласили с нашите &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско Споразумение&lt;/a>.​</Data>" "</string>
+    <string name="privacy_authorize_privacy_policy">Политика за поверителност</string>
+    <string name="privacy_authorize_dialog_message">" "<Data>За да се използват основните функции на тази услуга трябва да се съгласите, че Xiaomi ще събира, обработва и използва личната ви информация. Прочете нашата Политика за Поверителност за да разберете как събираме и обработваме личните ви данни. С избирането на \"Съгласен съм\" това означава,че вие сте прочели и сте се съгласили с нашите &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско Споразумение&lt;/a>.​</Data>" "</string>
     <string name="privacy_authorize_dialog_agree">Съгласен съм</string>
     <string name="privacy_authorize_network_error">Свържете се с мрежата и опитайте отново.</string>
     <string name="privacy_authorize_revoke_success">Разрешението е отменено успешно</string>
@@ -5685,7 +5685,7 @@
     <string name="bootloader_status_privacy_dialog_message">Mi Unlock се нуждае от Mi профил, CPU ID, IMEI, IMSI за да работи нормално. Ние събираме, използваме и обработваме данните ви в съответствие с нашите %s. Съгласни ли сте?</string>
     <string name="bootloader_status_privacy_dialog_no">Отказ</string>
     <string name="bootloader_status_privacy_dialog_title">Искани разрешения</string>
-    <string name="bootloader_status_privacy_dialog_url_text">Правила за поверителност</string>
+    <string name="bootloader_status_privacy_dialog_url_text">Политика за поверителност</string>
     <string name="bootloader_status_privacy_dialog_yes">Съгласен</string>
     <string name="device_miui_version_for_POCO">MIUI версия (За POCO)</string>
     <string name="taplus_title">Taplus</string>

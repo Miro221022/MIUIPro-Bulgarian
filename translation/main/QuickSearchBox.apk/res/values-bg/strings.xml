@@ -179,7 +179,7 @@
   <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v5/topclick</string>
   <string name="other">Друго</string>
   <string name="page_search_hint">Търсене</string>
-  <string name="setting_privacy_policy">Правила за поверителност</string>
+  <string name="setting_privacy_policy">Политика за поверителност</string>
   <string name="swipe_click_setting">Промяна на настройките</string>
   <string name="swipe_item_down">Плъзнете надолу когато сте в начален екран</string>
   <string name="swipe_item_down_short">Плъзгане надолу</string>

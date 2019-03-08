@@ -132,7 +132,7 @@
     <string name="cancel">Отказ</string>
     <string name="cancle_sync_cloud_tabs">Откажи синхронизация</string>
     <string name="cannot_download">Може да изтегляте само от адреси, които започват с \"http\" и \"https\".</string>
-    <string name="check_security_tip_privacy_policy">Правила за поверителност</string>
+    <string name="check_security_tip_privacy_policy">Политика за поверителност</string>
     <string name="check_security_tip_user_agreement">Потребителско споразумение</string>
     <string name="choosertitle_sharevia">Сподели чрез:</string>
     <string name="clear_history">Изчисти историята</string>

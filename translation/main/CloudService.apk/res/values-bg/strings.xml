@@ -103,7 +103,7 @@
     <string name="user_agreement_p7">Условията за ползване на Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
     <string name="user_agreement_title">"Условия за ползване на Mi Облак"</string>
-    <string name="privacy_policy">Правила за поверителност</string>
+    <string name="privacy_policy">Политика за поверителност</string>
     <string name="loading">Зарежда се…</string>
     <string name="license_host_unreachable">Не можа да се свърже с мрежата. За да видите информацията, отидете на %s.</string>
     <string name="user_agreement">Потребителско споразумение</string>

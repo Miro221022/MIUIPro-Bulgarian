@@ -177,7 +177,7 @@
   <string name="privacy_grant_failed">Не може да се предостави разрешението. Изчакайте минута-две и опитайте отново.</string>
   <string name="privacy_grant_or_revoke_settings">Предоставяне на права и отмяна на разрешението</string>
   <string name="privacy_grant_success">Успешно придобито разрешение</string>
-  <string name="privacy_policy">Правила за поверителност</string>
+  <string name="privacy_policy">Политика за поверителност</string>
   <string name="privacy_revoke_failed">Не може да се отмени разрешението. Изчакайте минута-две и опитайте отново.</string>
   <string name="privacy_revoke_success">Разрешението е успешно отменено</string>
   <string name="privacy_settings">Правилата за поверителност</string>
