@@ -1101,8 +1101,8 @@
   <string name="toast_copy_done">Копирането завърши успешно</string>
   <string name="toast_copying">Копиране, моля изчакайте...</string>
   <string name="toast_displaying_all_contacts">Показване на всички контакти</string>
-  <string name="toast_finish_delete_call_log">Списъкът с повиквания е изтрит</string>
-  <string name="toast_finish_delete_selected_call_log">Списъкът с повиквания е изтрит</string>
+  <string name="toast_finish_delete_call_log">Успешно изтрито</string>
+  <string name="toast_finish_delete_selected_call_log">Успешно изтрито</string>
   <string name="toast_for_failed_saving_nickname">Грешка при запазване на псевдоним!</string>
   <string name="toast_for_saving_nickname">Псевдонимът е запазен</string>
   <string name="toast_join_with_empty_contact">Именувайте контакта, преди обединяването му с друг.</string>
