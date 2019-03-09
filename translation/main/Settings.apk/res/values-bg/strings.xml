@@ -2428,15 +2428,15 @@
     <string name="sync_in_progress">Синхронизира се сега…</string>
     <string name="settings_backup">Създаване на резервно копие на настройките</string>
     <string name="settings_backup_summary">Създаване на резервно копие на настройките ми</string>
-    <string name="sync_menu_sync_now">Синхрон сега</string>
-    <string name="sync_menu_sync_cancel">Анулиране на синхронизирането</string>
+    <string name="sync_menu_sync_now">Синхронизирай сега</string>
+    <string name="sync_menu_sync_cancel">Отказ от синхронизирането</string>
     <string name="sync_one_time_sync">"Докоснете, за да синхронизирате сега (
 %1$s)"</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Календар</string>
     <string name="sync_contacts">Контакти</string>
-    <string name="sync_plug">"&lt;font fgcolor=\"#ffffffff\">Добре дошли в Google Синхронизиране!&lt;/font>\"
-Подходът на Google към синхронизирането на данни, за да ви осигурим достъп до контактите ви, срещите ви и много други неща, където и да сте.\""</string>
+    <string name="sync_plug">" "<font fgcolor="#ffffffff">Добре дошли в Google синхронизация!</font>" 
+Подход на Google за синхронизиране на данни, за да ви се позволи достъп до вашите контакти, срещи и други неща от където и да сте."</string>
     <string name="header_application_sync_settings">Настройки за синхронизиране на приложения</string>
     <string name="header_data_and_synchronization">Данни и синхронизиране</string>
     <string name="preference_change_password_title">Промяна на паролата</string>
@@ -2483,13 +2483,13 @@
     <string name="data_usage_menu_show_ethernet">Да се покаже употр. на Ethernet</string>
     <string name="data_usage_menu_hide_ethernet">Скриване на Ethernet</string>
     <string name="data_usage_menu_metered">Мрежови ограничения</string>
-    <string name="data_usage_menu_auto_sync">Автоматично синхронизиране на данни</string>
+    <string name="data_usage_menu_auto_sync">Автоматично синхронизиране на данните</string>
     <string name="data_usage_menu_sim_cards">SIM карти</string>
     <string name="data_usage_menu_cellular_networks">Клетъчни мрежи</string>
     <string name="data_usage_cellular_data_summary">На пауза след лимита</string>
     <string name="account_settings_menu_auto_sync">Автоматично синхронизиране на данните</string>
-    <string name="account_settings_menu_auto_sync_personal">Лични данни: Автоматична синхронизация</string>
-    <string name="account_settings_menu_auto_sync_work">Служебни данни: Автоматична синхронизация</string>
+    <string name="account_settings_menu_auto_sync_personal">Автоматична синхронизация на личните данни</string>
+    <string name="account_settings_menu_auto_sync_work">Автоматично синхронизиране на работните данни</string>
     <string name="data_usage_change_cycle">Промяна на цикъла…</string>
     <string name="data_usage_pick_cycle_day">Ден от месец за възстановяване на цикъла за използване на данни:</string>
     <string name="data_usage_empty">Приложенията не са ползвали данни в този период.</string>
@@ -2522,12 +2522,12 @@
 
 Можете да намерите по-подходящи контроли за преноса на данни в наличните в приложението настройки."</string>
     <string name="data_usage_restrict_denied_dialog">Ограничаването на данните на заден план е възможно само когато сте задали лимит за мобилните данни.</string>
-    <string name="data_usage_auto_sync_on_dialog_title">Да се вкл. ли авт. синхр. на данни?</string>
-    <string name="data_usage_auto_sync_on_dialog">"Всички промени, които правите в профилите си в мрежата, ще бъдат копирани автоматично в телефона ви.
+    <string name="data_usage_auto_sync_on_dialog_title">Включване на автоматичната синхронизация?</string>
+    <string name="data_usage_auto_sync_on_dialog">"Всички промени, които правите в профилите си в мрежата, автоматично ще бъдат копирани в телефона ви.
 
-Някои профили може също да копират автоматично в мрежата извършените от вас промени в телефона. Профилът в Google работи по този начин."</string>
-    <string name="data_usage_auto_sync_off_dialog_title">Да се изключи ли авт. синхронизиране на данни?</string>
-    <string name="data_usage_auto_sync_off_dialog">Това ще спести използването на данни и батерия, но ще трябва да синхронизирате ръчно всеки профил, за да събирате скорошна информация. Няма да получавате и известия, когато има актуализации.</string>
+Някои профили могат също автоматично да копират в мрежата всички промени които правите на телефона. Google профилът работи по този начин."</string>
+    <string name="data_usage_auto_sync_off_dialog_title">Изключване на автоматичната синхронизация?</string>
+    <string name="data_usage_auto_sync_off_dialog">Това ще спести данни и заряд на батерията, но ще трябва да синхронизирате всеки профил ръчно, за да събирате последната информация. И няма да получавате известия, когато са налични актуализации.</string>
     <string name="data_usage_cycle_editor_title">Дата на възстановяване на цикъла за използване</string>
     <string name="data_usage_cycle_editor_subtitle">Дата от всеки месец:</string>
     <string name="data_usage_cycle_editor_positive">Задаване</string>
@@ -3793,16 +3793,16 @@
     <string name="memory_system_rom">Системна памет</string>
     <string name="account_list">Всички</string>
     <string name="account_add">Добави</string>
-    <string name="xiaomi_account">Xiaomi профил</string>
+    <string name="xiaomi_account">Mi профил</string>
     <string name="sync_settings">Профили и синхронизация</string>
     <string name="google_title">Google</string>
     <string name="account_other">Друг</string>
     <string name="no_account_found">Не може да се намерят приложения, които да добавят профили</string>
     <string name="xiaomi_cloud_service_disabled">Изкл</string>
     <string name="xiaomi_cloud_service_unknown">Непознат</string>
-    <string name="xiaomi_cloud_service_description">Mi Облак синхронизира контакти, снимки и други елементи между устройствата ви. \"Намери устройството\" също се нуждае от Mi Облак за да работи нормално.</string>
+    <string name="xiaomi_cloud_service_description">Mi Облак синхронизира вашите контакти и снимки, архивира вашите приложения и настройки и ви помага да намерите телефона си с помощта на Открий устройството.</string>
     <string name="sure_sync_now">Синхронизиране на елементите сега?</string>
-    <string name="sync_now">Синхронизиране</string>
+    <string name="sync_now">Синхронизирай</string>
     <string name="suggestion_for_phone_recycled">Добавете друг телефонен номер</string>
     <string name="sms_received_sound_title">Звук при получен SMS</string>
     <string name="sms_delivered_sound_title">Отчет за доставка</string>
@@ -4212,7 +4212,7 @@
     <string name="vpn_enable">VPN</string>
     <string name="vpn_dns_servers_hint">Например 8.8.8.8</string>
     <string name="vpn_routes_hint">напр. 10.0.0.0/8</string>
-    <string name="sync_wifi_label">WLAN настройки</string>
+    <string name="sync_wifi_label">WLAN</string>
     <string name="wifi_enable">Wi-Fi</string>
     <string name="bluetooth_enable">Bluetooth</string>
     <string name="sync_enable">Включи синхронизацията</string>
@@ -4342,7 +4342,7 @@
     <string name="wifi_tether_setting_title">Основни настройки</string>
     <string name="audio_profile_settings_title">Аудио профили</string>
     <string name="enable_wifi_display">Включване на безжичен дисплей</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xiaomi_cloud_service">Mi Облак</string>
     <string name="xiaomi_money_service">Mi Credit</string>
     <string name="wifi_auto_connect">Автоматично свързване</string>
     <string name="select_ssid_type_title">Тип на мрежовата връзка</string>
@@ -4453,7 +4453,7 @@
     <string name="turn_off_security_lock">Деактивиране на заключването</string>
     <string name="change_password">Промяна на паролата</string>
     <string name="change_security_lock">Други начини за отключване</string>
-    <string name="sync_wifi_only">Само по Wi-Fi</string>
+    <string name="sync_wifi_only">Само чрез WLAN</string>
     <string name="line_breaking_title">Оптимизиране на текст в абзац</string>
     <string name="line_breaking_summary">Оптимизирай пренасянето на текста</string>
     <string name="nfc_se_route_title">Позиция на защитния елемент</string>
