@@ -57,7 +57,7 @@
     <string name="save_error">Запазването на документа не бе успешно</string>
     <string name="create_error">Създаването на папката не бе успешно</string>
     <string name="query_error">Понастоящем съдържанието не може да се зареди</string>
-    <string name="root_recent">Скорошни</string>
+    <string name="root_recent">Последни</string>
     <string name="root_available_bytes">Свободно: %1$s</string>
     <string name="root_type_service">Услуги за съхранение</string>
     <string name="root_type_shortcut">Преки пътища</string>

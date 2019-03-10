@@ -90,7 +90,7 @@
   <string name="permission_prompt_title">Превенцията</string>
   <string name="pull_to_exit">Дръпнете надолу, за да излезете</string>
   <string name="pull_to_input">Издърпайте надолу, за да въведете заявка</string>
-  <string name="recent_apps">Скорошни приложения</string>
+  <string name="recent_apps">Последни приложения</string>
   <string name="recent_apps_filter">Скриване на последните приложения</string>
   <string name="recent_calls">Последни покани</string>
   <string name="recent_close_content">Да деактивирате ли тази функция?</string>

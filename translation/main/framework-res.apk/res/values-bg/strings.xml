@@ -182,8 +182,8 @@
     <string name="shutdown_confirm_question">Искате ли да изключите?</string>
     <string name="reboot_safemode_title">Рестартиране в безопасен режим</string>
     <string name="reboot_safemode_confirm">Искате ли да рестартирате в безопасен режим? Това ще деактивира всички инсталирани от вас приложения на трети страни. Те ще бъдат възстановени, когато рестартирате отново.</string>
-    <string name="recent_tasks_title">Скорошни</string>
-    <string name="no_recent_tasks">Няма скорошни приложения.</string>
+    <string name="recent_tasks_title">Последни</string>
+    <string name="no_recent_tasks">Няма последни приложения.</string>
     <string name="global_actions">Опции на телефона</string>
     <string name="global_action_lock">Заключване на екрана</string>
     <string name="global_action_power_off">Изключване</string>

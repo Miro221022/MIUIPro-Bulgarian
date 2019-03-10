@@ -74,7 +74,7 @@
   <string name="category_other">Други</string>
   <string name="category_photo">Снимки</string>
   <string name="category_picture">Снимки</string>
-  <string name="category_recent">Скорошни</string>
+  <string name="category_recent">Последни</string>
   <string name="category_theme">Теми</string>
   <string name="category_type_document">Документи</string>
   <string name="category_type_meida">Медия</string>
@@ -250,7 +250,7 @@
   <string name="has_installed">Инсталирано</string>
   <string name="homepage_tab_category">Категории</string>
   <string name="homepage_tab_file_view_phone">Хранилище</string>
-  <string name="homepage_tab_recent">Скорошни</string>
+  <string name="homepage_tab_recent">Последни</string>
   <string name="hot_comments">Коментирани току що</string>
   <string name="hot_sticker">Стикери</string>
   <string name="hot_topic_str">Горещи теми</string>
@@ -357,7 +357,7 @@
   <string name="no_login_str">Не сте вписан</string>
   <string name="no_message">No message</string>
   <string name="no_new_content_tip">Всички елементи са актуални</string>
-  <string name="no_recent_files">Няма скорошни файлове</string>
+  <string name="no_recent_files">Няма последни файлове</string>
   <string name="no_search_content">Няма резултати</string>
   <string name="no_topic">Няма заглавия</string>
   <string name="no_videos">Няма нищо тук. Проверете другите по-долу!</string>
@@ -480,7 +480,7 @@
   <string name="qq_not_installed">\"QQ не е инсталиран</string>
   <string name="qq_platform">QQ</string>
   <string name="qzone_platform">Qzone</string>
-  <string name="recent_show">Скорошни</string>
+  <string name="recent_show">Последни</string>
   <string name="recommend">Препоръчани</string>
   <string name="recommend_popup_title">Препоръки</string>
   <string name="recommend_topic">Препоръчвани теми</string>
@@ -632,7 +632,7 @@
   <string name="title_app_tags">Приложения</string>
   <string name="title_enable_documentsui">Включете Файлове</string>
   <string name="title_expire_video">Почти изтекло</string>
-  <string name="title_recent">Скорошни</string>
+  <string name="title_recent">Последни</string>
   <string name="title_report_video">Докладвай</string>
   <string name="title_select_volume">Изберете папка</string>
   <string name="toast_file_not_can_read">Файлът е повреден.</string>
