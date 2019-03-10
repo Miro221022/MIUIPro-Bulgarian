@@ -424,7 +424,7 @@
     <string name="micloud_confusion_finish_message">Уверете се, че никое от вашите стари или неактивни устройства не се синхронизира с Mi Облак.</string>
     <string name="micloud_confusion_finish_hint">Промените, които правите на това устройство ще се синхронизират с всички ваши устройства. За да защитите вашия профил, препоръчваме ви да изключите синхронизирането на другите устройства, когато не ги използвате.</string>
     <string name="micloud_confusion_entrance_notify_title">Съдържанието в Mi Облак беше модифицирано</string>
-    <string name="micloud_confusion_entrance_notify_text">Чукнете за преглед на детайлите.</string>
+    <string name="micloud_confusion_entrance_notify_text">Чукнете за преглед на подробности.</string>
     <string name="micloud_confusion_account_notify_title">Проверка на профила</string>
     <string name="micloud_confusion_account_notify_text">Вашият Mi профил беше модифициран от друго устройство.</string>
     <string name="micloud_confusion_setting_notify_title">Защитете вашия профил</string>
@@ -454,7 +454,7 @@
     <string name="micloud_notif_title_battery_low">Не може да се синхронизира с Mi Облак</string>
     <string name="micloud_notif_content_battery_low">Изтощена батерия.</string>
     <string name="micloud_notif_title_sync_with_off">Синхронизиране с Mi Облак</string>
-    <string name="micloud_notif_content_sync_with_off">Чукнете за синхронизиране.</string>
+    <string name="micloud_notif_content_sync_with_off">Чукнете, за да синхронизирате сега.</string>
     <string name="micloud_notif_title_sync_progress">Синхронизира се</string>
     <string name="micloud_notif_title_sync_finish">Синхронизирано</string>
     <string name="micloud_notif_content_sync_finish">Профил</string>

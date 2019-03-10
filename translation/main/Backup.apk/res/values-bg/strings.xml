@@ -17,7 +17,7 @@
     <string name="backup_empty">Няма резервни копия</string>
     <string name="data_detail_description">Подробности</string>
     <string name="comma_seperator">", "</string>
-    <string name="backup_failed">Неуспешно архивиране</string>
+    <string name="backup_failed">"Не може да се архивира"</string>
     <string name="sdcard_unmounted">Не е открита SD карта</string>
     <string name="backup_progress">Архивиране…</string>
     <string name="button_ok">ОК</string>
@@ -199,7 +199,7 @@
     <string name="enable_encrypt_fail">Грешка в криптирането</string>
     <string name="read_encrypt_fail">Не може да се разчете шифрованото резервно копие</string>
     <string name="exchange_account">Превключване на профили</string>
-    <string name="system_backup">Резервно копие</string>
+    <string name="system_backup">Архивиране</string>
     <string name="backup_empty_info">" Архивиране на вашите данни, настройки и приложения"</string>
     <string name="backup_empty_info_onpad">" Архивиране на вашите данни, настройки и приложения"</string>
     <string name="system_backup_info">Системни настройки и оформление на началния екран</string>
@@ -221,7 +221,7 @@
     <string name="see_backup_files_on_router">Преглед на архивите на Mi Router %s</string>
     <string name="page_loading">Един момент…</string>
     <string name="file_uploading">Качва се…</string>
-    <string name="new_backup">Резервно копие</string>
+    <string name="new_backup">Архивирай</string>
     <string name="restore_backup">Възстанови</string>
     <string name="enable_encrypt_description">Кодиране</string>
     <string name="disable_encrypt_description">Не кодирай</string>
@@ -248,11 +248,11 @@
     <string name="err_router_files_delete">Файловете с рез. копия на рутера не могат да се изтрият</string>
     <string name="backup_is_running">Рез. копие на устройството</string>
     <string name="restore_is_running">Възстановяване на устройството</string>
-    <string name="notif_backup_title">Архив на данни</string>
-    <string name="notif_backup_content">Архив на потр. данни</string>
+    <string name="notif_backup_title">Архивиране на данни</string>
+    <string name="notif_backup_content">Архив на потребителски данни</string>
     <string name="notif_restore_title">Възстановяване на данни</string>
     <string name="notif_restore_content">Възстановяване на потребителски данни</string>
-    <string name="notif_backup_complete_title">Успешно архивирано</string>
+    <string name="notif_backup_complete_title">Архивирането е успешно</string>
     <string name="notif_restore_complete_title">Успешно възстановено</string>
     <string name="notif_trans_sending_completed">Данните са изпратени успешно</string>
     <string name="notif_trans_receiving_completed">Данните са получени успешно</string>
@@ -414,7 +414,7 @@
     <string name="trans_intro_desc_multiapp">Mi трансфер не може да прехвърля данни от клонирани приложения поради конфликт между файловете.</string>
     <string name="btn_got_it">Разбрах</string>
     <string name="backup_security_tips_title">Архивирането може да не работи</string>
-    <string name="backup_security_tips_message">Някои приложения може да не могат да бъдат архивирани и възстановени.</string>
+    <string name="backup_security_tips_message">Възможно е някои приложения да не могат да бъдат архивирани и възстановени.</string>
     <string name="trans_security_tips_title">Mi Трансфер съвместимост</string>
     <string name="trans_security_tips_message">Някои приложения може да не поддържат Mi Трансфер.</string>
     <string name="trans_wlan_tips_title">Не изключвайте Wi-Fi</string>
@@ -635,4 +635,5 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
    <string name="wait_link">"Свържете старото си устройство към тази точка за достъп.
 Не напускайте тази страница, докато връзката не бъде установена."</string>
    <string name="waiting">Един момент…</string>
+   <string name="err_not_allow">Не се поддържа</string>
 </resources>
