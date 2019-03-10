@@ -10,7 +10,7 @@
     <string name="account_prifix">Профил:</string>
     <string name="action">Впиши ме</string>
     <string name="action_menu_account_not_login">Не сте вписани</string>
-    <string name="action_menu_account_not_login_hint">Впишете се за синхронизиране с Mi Cloud</string>
+    <string name="action_menu_account_not_login_hint">Впишете се за синхронизиране с Mi Облак</string>
     <string name="action_menu_bookshelf">Лавица</string>
     <string name="action_menu_current_version">Текуща версия</string>
     <string name="action_menu_download">Изтегляне</string>
@@ -150,7 +150,7 @@
     <string name="close_cloud_tab_tip">Затвори разделите в облака за %s?</string>
     <string name="cloud_loading_tips">Изтеглете надолу за синхрон</string>
     <string name="cloud_no_new_data_toast">Няма нови данни, опитайте по-късно</string>
-    <string name="cloud_sync_closed_toast">Не може да се обнови защото синхр. е изключена</string>
+    <string name="cloud_sync_closed_toast">Не може да се обнови защото синхронизацията е изключена</string>
     <string name="cloud_sync_failed_toast">Неуспешна актуализация, опитайте отново</string>
     <string name="cloud_tab">Раздел в Облак</string>
     <string name="cloud_tabs_sync_off">Синхронизиране изкл.</string>
@@ -280,9 +280,9 @@
     <string name="enter_the_password">Моля, въведете паролата</string>
     <string name="enter_the_user_name">Моля, въведете потребителско име</string>
     <string name="error_forbidden">Синхронизацията е изключена поради проблеми с вашия Mi профил.</string>
-    <string name="error_not_acceptable">Синхр. е изключена.</string>
+    <string name="error_not_acceptable">Синхронизацията е изключена.</string>
     <string name="error_title">Грешка при синхронизация</string>
-    <string name="error_unauthorized">Синхр. с Mi профила ви бе изключена поради твърде много опити за влизане.</string>
+    <string name="error_unauthorized">Синхронизацията с Mi профила ви бе изключена поради твърде много опити за влизане.</string>
     <string name="exit">Изход</string>
     <string name="exit_browser_warning">Изход от браузъра?</string>
     <string name="file_dir">Променете папката</string>
@@ -421,8 +421,8 @@ Remember that the files you download and the bookmarks you add will still be sav
     <string name="notif_install_successful">Изтеглено</string>
     <string name="ok">ОК</string>
     <string name="open_app_confirm_message">Разрешаване на тази страница да отвори %s?</string>
-    <string name="open_cloud_sync">Включване на синхронизация с Mi Cloud</string>
-    <string name="open_cloud_sync_desc">Успешно добавена отметка. Включване на синхризацията с Mi Cloud за да се синхронизират отметки от други устройства. Вписване и включване?</string>
+    <string name="open_cloud_sync">Включване на синхронизация с Mi Облак</string>
+    <string name="open_cloud_sync_desc">Успешно добавена отметка. Включване на синхризацията с Mi Облак за да се синхронизират отметки от други устройства. Вписване и включване?</string>
     <string name="open_file_explorer_failed">Файлове не може да се отвори</string>
     <string name="open_voice_permission">Позволете на Микрофон да се свърже с интернет</string>
     <string name="page_info">Инф за страницата</string>

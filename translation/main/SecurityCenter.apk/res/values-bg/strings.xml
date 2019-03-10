@@ -438,7 +438,7 @@
     <string name="pref_manual_adjust">Ръчна настройка на трафика</string>
     <string name="pref_daily_adjust">Задайте лимит на данни при слаб трафик</string>
     <string name="pref_free_adjust">Задайте лимит на мобилни данни при слаб трафик</string>
-    <string name="pref_automatic_adjust">Синхр. статистиките за трафика</string>
+    <string name="pref_automatic_adjust">Синхронизиране на статистиките за трафика</string>
     <string name="pref_open_adjust_traffic">Синхронизиране статистиката за трафика с вашия оператор</string>
     <string name="pref_auto_adjust_traffic">Автоматична настройка на статуса за използване на данни</string>
     <string name="pref_adjust_data_usage">Шаблон за съобщение от оператора</string>
@@ -521,7 +521,7 @@
     <string name="data_usage_disabled_dialog_enable">Включване на данните</string>
     <string name="data_usage_leisure_warning_title">Надвишили сте лимита за данни</string>
     <string name="data_usage_leisure_warning_body">Докоснете за преглед на употребата на данни.</string>
-    <string name="data_usage_correction_timeout_title">Грешка при синхр. на данните</string>
+    <string name="data_usage_correction_timeout_title">Грешка при синхронизиране на данните</string>
     <string name="data_usage_no_total_package_title">Употреба на данни</string>
     <string name="data_usage_no_total_package_body">Чукнете, за да настроите лимит</string>
     <string name="data_usage_no_total_package_body_dual">Няма зададен лимит за данни за %s</string>
@@ -1555,7 +1555,7 @@
     <string name="summary_realname_verify">Потвърдете самоличността си, за да извършвате сигурни плащания.</string>
     <string name="title_mifi_insurance">Удължена гаранция</string>
     <string name="summary_mifi_insurance">Вземете едногодишен план за замяна на устройството, в случай на сериозна повреда</string>
-    <string name="title_cloud_space_almost_full">Облачното хранилище е почти пълно, елементите може да не се синхр.</string>
+    <string name="title_cloud_space_almost_full">Облачното хранилище е почти пълно, възможно е елементите да не се синхронизират</string>
     <string name="summary_cloud_space_almost_full">Добави място за съхр</string>
     <string name="title_cloud_space_full">Облачното хранилище е пълно</string>
     <string name="summary_cloud_space_full">Получи повече място в хранилището и достъп до още функции</string>

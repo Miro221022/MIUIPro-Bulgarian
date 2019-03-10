@@ -47,8 +47,8 @@
     <string name="settings_summary">Настройки за телефон и съобщения</string>
     <string name="camera_summary">Настройки на камерата (без снимките)</string>
     <string name="account_summary">Архивиране на профилите в Google, Mi и други данни</string>
-    <string name="cloud_app_name">Рез. копие в Mi Cloud</string>
-    <string name="cloud_home_title">Mi Cloud</string>
+    <string name="cloud_app_name">Резервно копие в Mi Облак</string>
+    <string name="cloud_home_title">Mi Облак</string>
     <string name="prompt_reading">Разчитане на данни…</string>
     <string name="prompt_sending">Изпращане…</string>
     <string name="prompt_writing">Записване……</string>
@@ -56,11 +56,11 @@
     <string name="backup_update">Актуализиране</string>
     <string name="backup_delete">Изтриване:</string>
     <string name="findlost_contact">Възстановяване на контакти</string>
-    <string name="findlost_contact_online">Възстановяване на изтрити контакти от Mi Cloud</string>
+    <string name="findlost_contact_online">Възстановяване на изтрити контакти от Mi Облак</string>
     <string name="cloud_backup_login">Влезте с Mi профила си</string>
     <string name="cloud_backup_hint">За достъп до вашите резервни копия, впишете се сега</string>
-    <string name="cloud_backup_window_title">Рез. копие в Mi Cloud</string>
-    <string name="cloud_restore_window_title">Възстановяване от Mi Cloud</string>
+    <string name="cloud_backup_window_title">Рез. копие в Mi Облак</string>
+    <string name="cloud_restore_window_title">Възстановяване от Mi Облак</string>
     <string name="cloud_restore_title">Възстановяване на данни</string>
     <string name="local_backup_window_title">Локално резервно копие</string>
     <string name="local_restore_window_title">Локално възстановяване</string>
@@ -113,7 +113,7 @@
     <string name="sc_network_unavailable">Грешка при свързване с мрежата</string>
     <string name="sc_bad_request">Невалидна заявка</string>
     <string name="sc_unaccess_password_file">Не съхранявайте пароли за Wi-Fi мрежи</string>
-    <string name="sc_service_unavailable">Mi Cloud е недостъпен</string>
+    <string name="sc_service_unavailable">Mi Облак е недостъпен</string>
     <string name="sc_unauthorized">Моля, впишете се отново</string>
     <string name="sc_request_timeout">Времето на заявката изтече</string>
     <string name="sc_precondition_failed">Необходимо е да обвържете Mi профила си с валиден имейл адрес</string>
@@ -276,7 +276,7 @@
     <string name="trans_sender_connectting">Потвърждение на новото устройство</string>
     <string name="trans_select_device_receive">Изберете устройство за получаване на данните.</string>
     <string name="trans_backingup">Архивира се …</string>
-    <string name="trans_backingup_no_items">Синхр. се…</string>
+    <string name="trans_backingup_no_items">Синхронизира се…</string>
     <string name="trans_restoring">Възстановява се…</string>
     <string name="trans_sender_time_remained">\"Остават %s. Не изключвайте Wi-Fi. Дръжте устройствата на близко разстояние.\"</string>
     <string name="trans_receiver_time_remained">"Остават %s.

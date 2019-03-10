@@ -28,7 +28,7 @@
   <string name="db_downgrade_clear_date_reminder">Преминаването към друга версия на MIUI налага изчистването на информацията от приложението Бележки. Преди да направите това, уверете се, че сте архивирали вашите бележки в Mi Облак.</string>
   <string name="default_folder_name">Бележки</string>
   <string name="delete_folder_dialog_tile">Изтрий папката</string>
-  <string name="dialog_privacy_revoke_tips">След като анулирате разрешението, приложението ще спре събирането на данни и всички свързани с него данни ще бъдат изтрити от сървърите. Това може да направи приложението практически неизползваемо. Анулиране на разрешението въпреки това?За да подсигурите сигурноста на профилите Ви, впишете се в i.mi.com преди анулирането на разрешението за Mi Cloud услугите.</string>
+  <string name="dialog_privacy_revoke_tips">След като анулирате разрешението, приложението ще спре събирането на данни и всички свързани с него данни ще бъдат изтрити от сървърите. Това може да направи приложението практически неизползваемо. Анулиране на разрешението въпреки това?За да подсигурите сигурноста на профилите Ви, впишете се в i.mi.com преди анулирането на разрешението за Mi Облак услугите.</string>
   <string name="dialog_share_as_pic">Сподели бележката като картина</string>
   <string name="dialog_share_as_text">Сподели бележката като текст</string>
   <string name="dialog_share_title">Сподели бележка</string>
@@ -155,7 +155,7 @@
   <string name="sns_title_send">Изпрати съобщение</string>
   <string name="sns_toast_empty">Не може да се изпрати празна публикация</string>
   <string name="sns_toast_over_limit">Изпрати като снимка</string>
-  <string name="sync_tips">Чукнете за синхрон на бележките с Mi Cloud.</string>
+  <string name="sync_tips">Чукнете за синхронизиране на бележките с Mi Облак.</string>
   <string name="theme_blue_description">Синьо</string>
   <string name="theme_green_description">Зелено</string>
   <string name="theme_red_description">Червено</string>

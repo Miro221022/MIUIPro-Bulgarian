@@ -327,7 +327,7 @@
     <string name="privacy_authorize_revoke_failed">Разрешението не може да бъде отменено</string>
     <string name="privacy_authorize_success">Успешно е дадено разрешение</string>
     <string name="privacy_authorize_revoking">Отмяна на разрешението…</string>
-    <string name="privacy_authorize_cloud_msg">За да гарантирате сигурността на профила си, влезте в системата на i.mi.com, ако искате да отмените разрешението на Mi Cloud услугите (включително синхронизация и архивиране).</string>
+    <string name="privacy_authorize_cloud_msg">За да гарантирате сигурността на профила си, влезте в системата на i.mi.com, ако искате да отмените разрешението на Mi Облак услугите (включително синхронизация и архивиране).</string>
     <string name="status_bar_and_notification_bar">Лента с известия и статус лента</string>
     <string name="status_bar_settings_manage_notification">Управление на известията</string>
     <string name="status_bar_settings_all_app_display_loading">Един момент…</string>
@@ -2417,13 +2417,13 @@
     <string name="work_mode_summary">Разрешаване на функционирането на служебния потребителски профил, включително приложенията, синхронизирането на заден план и свързаните функции</string>
     <string name="remove_managed_profile_label">Премахв. на служебния потр. профил</string>
     <string name="background_data">Данни на заден план</string>
-    <string name="background_data_summary">Приложенията да синхр., пращат и получават данни винаги</string>
+    <string name="background_data_summary">Приложенията да синхронизират, пращат и получават данни винаги</string>
     <string name="background_data_dialog_title">Да се деактивират ли данните на заден план?</string>
     <string name="background_data_dialog_message">Деактивирането на данните на заден план удължава живота на батерията и намалява употребата на данни. Някои приложения могат пак да ползват връзката за данни на заден план.</string>
     <string name="sync_automatically">Данни от приложенията: Автомачна синхронизация</string>
     <string name="sync_enabled">Синхронизирането е ВКЛЮЧЕНО</string>
     <string name="sync_disabled">Синхронизирането е ИЗКЛЮЧЕНО</string>
-    <string name="sync_error">Грешка при синхр.</string>
+    <string name="sync_error">Грешка при синхронизиране</string>
     <string name="last_synced">Последно синхронизиране: %1$s</string>
     <string name="sync_in_progress">Синхронизира се сега…</string>
     <string name="settings_backup">Създаване на резервно копие на настройките</string>
@@ -3687,7 +3687,7 @@
     <string name="search_privacy_settings">Резервно копие и нулиране;Резервно копие и нулиране;Резервно копие</string>
     <string name="search_local_backup_section_title">Локални резервни копия</string>
     <string name="search_local_auto_backup_section_title">Автоматично създаване на резервни копия;Автоматични резервни копия;Създай автоматично резервно копие</string>
-    <string name="search_cloud_restore_section_title">Възстановяване от Mi Cloud</string>
+    <string name="search_cloud_restore_section_title">Възстановяване от Mi Облак</string>
     <string name="search_cloud_backup_settings_section_title">Настройки за рез. копие</string>
     <string name="search_master_clear_title">Възстановяване на заводските настройки</string>
     <string name="search_development_settings_title">Опции на програмиста;Подпомагане</string>

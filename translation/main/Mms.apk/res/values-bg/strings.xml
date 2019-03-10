@@ -64,8 +64,8 @@
   <string name="class_0_message_activity">Съобщение клас 0</string>
   <string name="close">Затвори</string>
   <string name="cloud_state_disabled">Включете синхронизирането с Mi Облак за да синхронизирате съобщенията</string>
-  <string name="cloud_state_sync_finished">Синхронизирано с Mi Cloud</string>
-  <string name="cloud_state_syncing">Синхр. се с Mi Cloud…</string>
+  <string name="cloud_state_sync_finished">Синхронизирано с Mi Облак</string>
+  <string name="cloud_state_syncing">Синхронизира се с Mi Облак</string>
   <string name="compressing">Снимката е прекалено голяма. Компресиране…</string>
   <string name="confirm">ОК</string>
   <string name="confirm_add_blacklist_dialog_dspt">Ще добавите ли номера към списъка с блокирани?</string>
@@ -651,7 +651,7 @@
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Изпращане след %d сек.</string>
   <string name="wild_msg_processing">Обработва се...</string>
-  <string name="wild_msg_title">Включи синхр. с облачна услуга</string>
+  <string name="wild_msg_title">Включи синхронизация с облачната услуга</string>
   <string name="yellowpage_recommend_msg">Проверете функциите на MIUI съобщения</string>
   <string name="yes">OК</string>
   <string name="yesterday">Вчера</string>

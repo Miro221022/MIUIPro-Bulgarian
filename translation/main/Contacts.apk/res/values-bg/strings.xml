@@ -179,11 +179,11 @@
   <string name="cloud_antispam_mark">Спам</string>
   <string name="cloud_antispam_marked">Отбелязани</string>
   <string name="cloud_antispam_title">Антиспам (в облак)</string>
-  <string name="cloud_recommend_msg">Чукнете за синхронизиране на контактите с Mi Cloud.</string>
+  <string name="cloud_recommend_msg">Чукнете за синхронизиране на контактите с Mi Облак.</string>
   <string name="cloud_state_disabled">Синхронизиране на контактите с Mi Облак</string>
   <string name="cloud_state_loading">Един момент…</string>
-  <string name="cloud_state_sync_finished">Синхронизирано с Mi Cloud</string>
-  <string name="cloud_state_syncing">Синхр. се с Mi Cloud</string>
+  <string name="cloud_state_sync_finished">Синхронизирано с Mi Облак</string>
+  <string name="cloud_state_syncing">Синхронизира се с Mi Облак</string>
   <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
   <string name="combined_title_and_miprofile_swaped_huge_mode">%1$s\n%2$s</string>
   <string name="composer_failed_to_get_database_infomation">Базата данни е недостъпна.</string>

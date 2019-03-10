@@ -124,7 +124,7 @@
     <string name="cloud_empty_local_empty_button">Няма песни на това устройство</string>
     <string name="cloud_empty_message">Няма песни в Mi Облак</string>
     <string name="cloud_empty_summary">Архивирайте вашите песни, за да имате достъп до тях от други устройства</string>
-    <string name="cloud_enable">Синхр. на музиката с Mi Облак</string>
+    <string name="cloud_enable">Синхронизиране на музиката с Mi Облак</string>
     <string name="cloud_loading_message">Търсене на песни…</string>
     <string name="cloud_music">Песни в Mi Облак</string>
     <string name="cloud_settings">Настройки за синхрон</string>

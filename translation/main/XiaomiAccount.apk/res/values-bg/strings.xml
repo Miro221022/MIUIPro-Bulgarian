@@ -165,8 +165,8 @@
   <string name="mipay_others">Друго</string>
   <string name="mipay_transit_card">Карта за пътуване</string>
   <string name="multi_user_not_show_sync_activity_message_1">Изглежда, че използвате първия си Mi акаунт в първото пространство.</string>
-  <string name="multi_user_not_show_sync_activity_message_2">В такъв случай всички данни ще бъдат синхронизирани с второто Ви пространство. За да избегнете това, не включвайте синхронизирането с Mi Cloud.</string>
-  <string name="multi_user_not_show_sync_activity_title">Не включвайте синхронизация с Mi Cloud</string>
+  <string name="multi_user_not_show_sync_activity_message_2">В такъв случай всички данни ще бъдат синхронизирани с второто Ви пространство. За да избегнете това, не включвайте синхронизирането с Mi Облак.</string>
+  <string name="multi_user_not_show_sync_activity_title">Не включвайте синхронизация с Mi Облак</string>
   <string name="my_device_title">Текущо устройство</string>
   <string name="no_network_btn">Опресни</string>
   <string name="no_network_title">Няма врузка с мрежата.</string>
