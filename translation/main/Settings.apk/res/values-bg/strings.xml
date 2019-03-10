@@ -5782,7 +5782,7 @@
 	<string name="security_status">Състояние на сигурността</string>
     <string name="security_status_title">Състояние на сигурността</string>
     <string name="security_update">Актуализация на защитата</string>
-    <string name="find_my_device">Намери устройството</string>
+    <string name="find_my_device">Открий устройството</string>
     <string name="find_my_device_disable">Изключване</string>
     <string name="find_my_device_enable">Включване</string>
 	<string name="status_bar_settings_customer_feedback">отзиви</string>

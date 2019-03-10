@@ -1549,7 +1549,7 @@
     <string name="title_permission_root">Root достъп</string>
     <string name="summary_permission_root">Използването на Root достъп може да понижи защитата на устройството.</string>
     <string name="title_app_update">Налични са актуализации</string>
-    <string name="title_find_device">Намери устройството</string>
+    <string name="title_find_device">Открий устройството</string>
     <string name="summary_find_device">Локализиране и заключване на устройството ви отвсякъде</string>
     <string name="title_realname_verify">Проверка на самоличността</string>
     <string name="summary_realname_verify">Потвърдете самоличността си, за да извършвате сигурни плащания.</string>
@@ -2187,7 +2187,7 @@
     <string name="exit_dialog_release_storage_message">Повече от 80% от хранилището на вашето устройство е заето. Освобождаване на място, като деинсталирате приложенията, които никога не използвате.</string>
     <string name="exit_dialog_release_storage_positive_button">Освобождаване на място</string>
     <string name="exit_dialog_release_storage_title">Освобождаване на място</string>
-    <string name="exit_dialog_scan_message">"Резултатът за ефективността на устройството Ви е по-малък от 75 точки. Оптимизиране сега?"</string>
+    <string name="exit_dialog_scan_message">"Резултатът за ефективността на устройството ви е по-малък от 75 точки. Оптимизиране сега?"</string>
     <string name="exit_dialog_scan_positive_button">Оптимизиране</string>
     <string name="exit_dialog_scan_title">Оптимизиране на ефективността</string>
 	<string name="exit_dialog_homepage_optimise_message">"Резултатът за ефективността на устройството ви е по-малък от 80 точки. Оптимизиране сега?"</string>

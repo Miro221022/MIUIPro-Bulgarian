@@ -39,8 +39,8 @@
   <string name="apps_sort_type_item_size">По големина</string>
   <string name="apps_sort_type_item_time">По използване</string>
   <string name="apps_sort_type_title">Сортиране</string>
-  <string name="auto_clean_switch_off">Изкл.</string>
-  <string name="auto_clean_switch_on">Вкл.</string>
+  <string name="auto_clean_switch_off">Изключено</string>
+  <string name="auto_clean_switch_on">Включено</string>
   <string name="auto_clean_time_every_day">Всеки ден</string>
   <string name="auto_clean_time_fifteen_day">На всеки 15 дни</string>
   <string name="auto_clean_time_seven_day">На всеки 7 дни</string>
@@ -519,11 +519,11 @@
   <string name="pref_title_auto_clean_operation">Метод на почистване</string>
   <string name="pref_title_auto_clean_trigger">Почистване на хранилището</string>
   <string name="desc_image">изображение</string>
-  <string name="guide_secure_dialog_message">Резултатът за оптимизирането на устройството Ви е по-малък от 80 точки. Оптимизиране сега?</string>
+  <string name="guide_secure_dialog_message">Оценката за оптимизация на устройството ви е по-ниска от 80 точки.. Оптимизиране сега?</string>
   <string name="guide_secure_dialog_negative">Отказ</string>
   <string name="guide_secure_dialog_positive">Оптимизирай</string>
   <string name="guide_secure_dialog_title">Оптимизиране на ефективността</string>
-  <string name="guide_virus_dialog_message">Сканирането на приложения и инсталационни пакети предпазва устройството Ви от вируси и злонамерен софтуер. Сканиране сега?</string>
+  <string name="guide_virus_dialog_message">Сканирането на приложения и инсталационни пакети предпазва устройството ви от вируси и злонамерен софтуер. Сканиране сега?</string>
   <string name="guide_virus_dialog_negative">Отказ</string>
   <string name="guide_virus_dialog_positive">Сканиране</string>
   <string name="guide_virus_dialog_title">Антивирусно сканиране</string>

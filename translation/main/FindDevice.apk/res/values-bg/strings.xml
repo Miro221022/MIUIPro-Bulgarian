@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Намери устройството</string>
+    <string name="app_name">Открий устройството</string>
     <string name="find_device">Открий устройството</string>
     <string name="enable_find_device_success">Открий устройството е вкл.</string>
     <string name="disable_find_device_success">Открий устройството е изкл.</string>
@@ -80,8 +80,8 @@
     <string name="lock_msg_phone">Информация за контакт: %s</string>
     <string name="default_debt_msg_words">"Това устройство е заключено поради просрочени задължения. 
  Свържете се с вашия агент по продажби за повече подробности."</string>
-    <string name="sys_notification_async_verify_title">Активирай повторно Намери устройство</string>
-    <string name="sys_notification_async_verify_content">Вашите обновени правила за сигурност изискват услугата Намери устройство да бъде повторно активирана.</string>
+    <string name="sys_notification_async_verify_title">Активирай повторно Открий устройство</string>
+    <string name="sys_notification_async_verify_content">Вашите обновени правила за сигурност изискват услугата Открий устройство да бъде повторно активирана.</string>
     <string name="sys_notification_async_open_failed_title">Открий устройството не може да се включи</string>
     <string name="sys_notification_async_open_failed_content">Чукнете, за да опитате отново или за отказ.</string>
 	<string name="emergency_call">Спешно повикване</string>
