@@ -53,7 +53,7 @@
     <string name="dev_options">Опции на програмиста</string>
     <string name="dev_options_summary">Уеб източници</string>
     <string name="download_failed">Грешка при изтегляне!</string>
-    <string name="download_preview_failed">Неуспех при зареждане на преглед</string>
+    <string name="download_preview_failed">"Не може да се зареди визуализация"</string>
     <string name="download_success">Изтеглянето завърши</string>
     <string name="fail_to_add_account">Неуспешно добавяне на профил</string>
     <string name="favorite_list">Любими</string>
@@ -107,9 +107,9 @@
     <string name="item_resource_audio_optional_notification_ring">Известия</string>
     <string name="item_resource_audio_optional_phone_ring">Тон на звънене</string>
     <string name="live_wallpaper">Динамични тапети</string>
-    <string name="loading">Зареждане...</string>
-    <string name="loading_resource_detail_fail">Неуспешно зареждане на детайли!</string>
-    <string name="loading_resource_detail_info">Зареждане...</string>
+    <string name="loading">Един момент…</string>
+    <string name="loading_resource_detail_fail">"Ресурсът не може да се зареди"</string>
+    <string name="loading_resource_detail_info">Един момент…</string>
     <string name="local_photos">Локални снимки</string>
     <string name="local_resouce_creator_name">Автор: %1$s</string>
     <string name="lockscreen_apply_failured">Тапетът не може да се приложи</string>
@@ -196,7 +196,7 @@
     <string name="resource_comment_footer">Празните коментари не се показват.</string>
     <string name="resource_comment_good_comments">Позитивни</string>
     <string name="resource_comment_invalid">Изберете броя на звездите</string>
-    <string name="resource_comment_loading_list">Зареждане…</string>
+    <string name="resource_comment_loading_list">Един момент…</string>
     <string name="resource_comment_name_default">Потребителско име</string>
     <string name="resource_comment_no_average_score">-.-</string>
     <string name="resource_comment_no_comment">Все още няма коментари. Можете да бъдете първият, който оставя коментар</string>
@@ -218,9 +218,9 @@
     <string name="resource_default">Мелодия по подразбиране</string>
     <string name="resource_default_name">Ресурс</string>
     <string name="resource_delete">Изтриване</string>
-    <string name="resource_delete_all">Сигурни ли сте, че искате да изтриете избраните ресурси (%1$d)?</string>
-    <string name="resource_delete_confirm">Сигурни ли сте, че искате да изтриете ресурсите?</string>
-    <string name="resource_delta_update_failed">Грешка при обновяване, трябва да изтеглите пълния ресурс</string>
+    <string name="resource_delete_all">Изтриване на %1$d избрани ресурса?</string>
+    <string name="resource_delete_confirm">Да се изтрият ли тези ресурси?</string>
+    <string name="resource_delta_update_failed">Темата се изтегля отново…</string>
     <string name="resource_delta_update_successful">Обновяването завърши успешно.</string>
     <string name="resource_delta_update_total">%1$d актуализации. Общо съхранени: %2$s</string>
     <string name="resource_detail">Детайли</string>
@@ -258,10 +258,10 @@
     <string name="resource_exchange_wrong_format_by_local">Въведен е грешен код</string>
     <string name="resource_exchange_wrong_format_by_server">Кодът не може да бъде потвърден. Моля проверете кода и опитайте отново.</string>
     <string name="resource_expand_full_text">Разшири</string>
-    <string name="resource_failed_to_load_list">Неуспешно зареждане на списъка</string>
+    <string name="resource_failed_to_load_list">"Темите не могат да се заредят."</string>
     <string name="resource_free_trial_15_days">Опитайте безплатно за 15 дни</string>
     <string name="resource_free_use_last_one_day">Вашият пробен период изтича утре.</string>
-    <string name="resource_get_auth_checking">Проверка...</string>
+    <string name="resource_get_auth_checking">Проверка…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на устройството, тъй като сте надвишили лимита за Вашия профил (10). Моля, влезте с друг Mi профил.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Надвишен лимит ауторизации</string>
     <string name="resource_get_auth_has_been_undercarriaged">Тази тема вече не е налична.</string>
