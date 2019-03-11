@@ -147,8 +147,8 @@
     <string name="micloud_proceed">Продължи</string>
     <string name="master_alert_notif_title">Включете Mi Облак</string>
     <string name="master_alert_notif_content">данните не са синхронизирани</string>
-    <string name="sub_alert_notif_title">Не се синхронизира</string>
-    <string name="sub_alert_notif_content">Включете MiCloud</string>
+    <string name="sub_alert_notif_title">Синхронизиране с Mi Облак</string>
+    <string name="sub_alert_notif_content">Включете синхронизирането с Mi Облак, за да архивирате данните си</string>
     <string name="noRemind">Не напомняй</string>
     <string name="restoreSync">Синхронизирай</string>
     <string name="enableAll">Включи всички</string>

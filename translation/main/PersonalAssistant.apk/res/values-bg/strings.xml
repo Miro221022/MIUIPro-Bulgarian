@@ -839,7 +839,7 @@
   <string name="steps_sport">Mi Фитнес</string>
   <string name="steps_sport_des">Получаване на точна информация от приложението Mi Фитнес.</string>
   <string name="steps_vip">Стъпки</string>
-  <string name="steps_vip_des">Преброяване на стъпките, без да инсталирате приложения на трети страни</string>
+  <string name="steps_vip_des">Преброяване на стъпките, без да инсталирате приложения от трети страни</string>
   <string name="stock_card_add">Добави фирми</string>
   <string name="stock_card_title">Стоки</string>
   <string name="stock_color_schema">Цветна тема</string>
