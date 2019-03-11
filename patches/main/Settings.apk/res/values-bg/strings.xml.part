@@ -208,8 +208,8 @@
   <string name="weather_panel_title">Скриване на времето</string>
   <string name="wifi_icon_title">Скриване на иконата за Wi-Fi</string>
   <string name="wifi_type_approval">" "</string>
-  <string name="wifi_type_approval_dialog_title">За MiuiPro</string>
-  <string name="wifi_type_approval_title">За MiuiPro</string>
+  <string name="wifi_type_approval_dialog_title">Относно MiuiPro</string>
+  <string name="wifi_type_approval_title">Относно MiuiPro</string>
   <string name="wifiact_icon_title">Скриване на Wi-Fi стрелките</string>
   <string name="WiFiOn_mobile_title">Когато Wi-Fi е включен</string>
   <string name="type_name_on_title">Тип на мрежата в лентата за известия</string>

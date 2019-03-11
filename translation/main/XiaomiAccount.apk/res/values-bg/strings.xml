@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_device_info">Детайли на устройството</string>
+  <string name="about_device_info">Преглед на подробности за устройството</string>
   <string name="access_token_expired_warning">Weibo профилът е с изтекъл срок: свържете го отново</string>
   <string name="access_token_invalid_warning">Weibo профилът е невалиден: свържете го отново</string>
   <string name="account">Профил</string>
@@ -61,16 +61,16 @@
   <string name="action_update_phone">Промяна на телефонен номер</string>
   <string name="activate_email_notice">Уверете се, че сте активирали профила си в рамките на 24 часа.</string>
   <string name="activity_not_found_notice">Не може да се намери приложението</string>
-  <string name="add_account">Добавяне на профил</string>
+  <string name="add_account">Свързване на профил</string>
   <string name="app_name">Mi профил</string>
   <string name="auth_fail_warning">Сесията е изтекла, опитайте по-късно</string>
   <string name="authorize_title">Оторизация</string>
-  <string name="bind_facebook">Добавяне на Facebook профил</string>
+  <string name="bind_facebook">Свържете Facebook профила си</string>
   <string name="bind_qq">Добавяне на QQ профил</string>
   <string name="bind_safe_phone_msg">Добавете вашия номер за да може да се впишете в Mi Профила си следващия път.</string>
   <string name="bind_settings">Профили</string>
   <string name="bind_sina_weibo">Свързан със Sina Weibo</string>
-  <string name="bind_sns_description">Попълване на профила ви използвайки личната си информация в %s.</string>
+  <string name="bind_sns_description">Вписване чрез %s</string>
   <string name="bind_weibo_description">Намери и синхронизирай приятелите си от Sina Weibo.</string>
   <string name="binded">Свързан</string>
   <string name="binded_description" formatted="false">%s бе добавен успешно към Mi профила ви. Профилът ви бе обновен с информацията от вашия %s профил.</string>
@@ -79,7 +79,7 @@
   <string name="change_email_address">Промяна на имейл адрес</string>
   <string name="change_password">Промени паролата</string>
   <string name="change_phone_number">Промяна на телефонен номер</string>
-  <string name="cloud_service">Облачни услуги</string>
+  <string name="cloud_service">Mi Облак</string>
   <string name="completed">Готово</string>
   <string name="confirm_activate_email">Потвърждавам</string>
   <string name="confirm_bundled_phone_dialog_title">Потвърждаване на асоцииран тел. номер</string>
@@ -104,8 +104,8 @@
   <string name="delete_lock_device_success">Изтриването е успешно</string>
   <string name="device_delete_success_message">Ако не сте се вписвали на това устройство, незабавно променете паролата си.</string>
   <string name="device_delete_success_title">Отписано</string>
-  <string name="device_list__header">Устройства</string>
-  <string name="device_list_title">Списък с устройства</string>
+  <string name="device_list__header">Моите устройства</string>
+  <string name="device_list_title">Моите устройства</string>
   <string name="device_name">Име на устройството</string>
   <string name="device_trust_info">Доверено устройство</string>
   <string name="empty_device_list_notice">Няма устройства</string>
@@ -172,8 +172,8 @@
   <string name="no_network_title">Няма врузка с мрежата.</string>
   <string name="no_phone">Няма телефонен номер</string>
   <string name="no_response_retry">Няма отговор, опитайте отново.</string>
-  <string name="no_sim_card_or_unactivated">SIM картата не е инсталирана или активирана</string>
-  <string name="nobind">Не свързвай</string>
+  <string name="no_sim_card_or_unactivated">"SIM картата не е инсталирана или активирана"</string>
+  <string name="nobind">Не е свързан</string>
   <string name="notify_network_restricted_content_bg_network">Достъпът до интернет на Mi профила е ограничен. Чукнете за разрешаване.</string>
   <string name="notify_network_restricted_content_hidden_state">Дейността на Mi профила на заден план е ограничена. Чукнете за разрешаване.</string>
   <string name="notify_network_restricted_content_mobile_network">Достъпът до интернет на Mi профила е ограничен. Чукнете за разрешаване.</string>
@@ -324,7 +324,7 @@
   <string name="passport_registered_phone_user_ID">ID на потребител:%s</string>
   <string name="passport_registered_phone_user_name">Потребителско име:%s</string>
   <string name="passport_reject_recycle_account">Не</string>
-  <string name="passport_relogin">Ново вписване</string>
+  <string name="passport_relogin">Вписване отново</string>
   <string name="passport_relogin_notice">Необходимо е да влезете отново</string>
   <string name="passport_remove_confirm">Отписване</string>
   <string name="passport_remove_unactivated_account_notice">Вашият профил не беше активиран.</string>
@@ -434,7 +434,7 @@
   <string name="trusted_browsers_prompt">Браузъра няма да бъде разпознат, ако изтриете кукитата.</string>
   <string name="turn_off_find_device_failed_title">Не може да се изключи Открий устройството</string>
   <string name="turning_off_find_device">Изключване на Намиране на устройство…</string>
-  <string name="unbind_sns_description">След като премахнете този профил, няма да можете да влизате в Mi профила си чрез %s</string>
+  <string name="unbind_sns_description">"След като прекъснете връзката с този профил, няма да можете да използвате своята информация от %s профила, за да се впишете във вашият Mi профил."</string>
   <string name="unlock_help_notice">Помощ:\n· Ако си забравите паролата, отидете на id.mi.com, за да я смените.\n· Ако не можете да отключите устройството, отидете на i.mi.com, за да изключите \"Намери устройство\"\n· Кажете следния номер за отключване на оператора: %s</string>
   <string name="update_contacts">Актуализирай контактите</string>
   <string name="update_email_address_dialog_message">Необходимо е да потвърдите самоличността си, преди да обновите имейл.</string>
