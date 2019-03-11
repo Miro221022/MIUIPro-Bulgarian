@@ -120,4 +120,12 @@
         <item quantity="other">Може да се настроят до %d напомняния</item>
         <item quantity="one">Може да се настрои до %d напомняне</item>
     </plurals>
+	    <plurals name="repeat_custom_prompt">
+        <item quantity="other">на всеки %1$s на %2$s</item>
+        <item quantity="one">на всеки %1$s на %2$s</item>
+    </plurals>
+    <plurals name="travel_eta_advice">
+        <item quantity="other">%2$s минути път до %1$s.</item>
+        <item quantity="one">%2$s минута път до %1$s.</item>
+    </plurals>
 </resources>

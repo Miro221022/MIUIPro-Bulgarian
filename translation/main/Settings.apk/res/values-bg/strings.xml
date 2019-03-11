@@ -4571,8 +4571,8 @@
     <string name="recent_location_requests_title">Достъп до местоположение</string>
     <string name="recent_location_requests_summary">Приложенията по-долу искат да преглеждат информация за местоположението ви</string>
     <string name="permission_manager">Разрешения</string>
-    <string name="personal_section_title">Персонални</string>
-    <string name="system_and_device_section_title">Система и устройство</string>
+    <string name="personal_section_title">Персонализация</string>
+    <string name="system_and_device_section_title">Системни настройки</string>
     <string name="application_manager_section_title">Приложения</string>
     <string name="bluetooth_unlock_title">Отключване чрез Bluetooth устройство</string>
     <string name="bluetooth_unlock_turned_off">Изключено</string>
@@ -5624,8 +5624,8 @@
     <string name="notch_force_black_title">Скриване на прореза на екрана</string>
     <string name="aod_mode_time_summary">Планиране на времето, когато устройството ви трябва да превключи на режим Винаги включен</string>
     <string name="aod_mode_time_title">График</string>
-    <string name="aod_mode_turn_off">Изключване</string>
-    <string name="aod_mode_turn_on">Включване</string>
+    <string name="aod_mode_turn_off">Изключен</string>
+    <string name="aod_mode_turn_on">Включен</string>
     <string name="miui_lab_drive_mode_desc">Използвайте гласови контроли &amp; слушате WeChat съобщения</string>
     <string name="miui_lab_drive_mode_title">Автомобилен режим</string>
     <string name="miui_lab_super_resolution_desc">Направете отчетливи изображения</string>
@@ -6159,4 +6159,12 @@ aptX-Adaptive: Режим на кодек"</string>
     <string name="gxzw_quick_open_slow_title">Натиснете и задръжте</string>
     <string name="gxzw_quick_open_title">Преки пътища</string>
 	<string name="following_us_title">Последвайте ни</string>
+	<string name="login_account_summary">Управление на профили, облачни услуги, плащания и други</string>
+    <string name="miui_more_special_feature">Изследвайте нови функции</string>
+    <string name="miui_special_feature">Специални функции</string>
+    <string name="other_settings_sync_settings">Синхронизиране</string>
+    <string name="search_other_settings_sync_settings">Синхронизиране;Авто;Само WLAN</string>
+    <string name="search_unlogin_account_title">Mi профил; Идентификация на Mi профил;Профил;Идентификация на профил</string>
+    <string name="unlogin_account_summary">Всички Mi услуги. Един Mi профил</string>
+    <string name="unlogin_account_title">Впишете се в Mi профил</string>
 </resources>

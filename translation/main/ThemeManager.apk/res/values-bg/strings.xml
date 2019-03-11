@@ -647,7 +647,6 @@
    <string name="incompatible_dialog_cancel">"Не прилагай"</string>
    <string name="video_wallpaper_import">Докоснете, за да добавите елементи</string>
    <string name="ad_begin_to_install_tip">Инсталиране…</string>
-   <string name="ad_download_download_now">Изтегли</string>
    <string name="dynamic_video_wallpaper">24H тапет</string>
    <string name="find_more_font">Намерете още</string>
    <string name="incall_show_apply">Профилно видео за изходящи повиквания</string>
@@ -667,4 +666,14 @@
    <string name="theme_comment_dialog_message">Оценете това приложение и ни кажете какво мислите.</string>
    <string name="theme_comment_dialog_ok">Оцени</string>
    <string name="theme_staggered_item_text">Получаване на Mi кредити</string>
+   <string name="ad_begin_to_download_tip">Стартира се изтегляне…</string>
+   <string name="ad_closed_tip">"Ще видите по-малко реклами от този тип"</string>
+   <string name="ad_download_download">Изтегляне</string>
+   <string name="ad_download_download_now">Изтегляне</string>
+   <string name="ad_download_install">Инсталиране</string>
+   <string name="ad_download_open">Отваряне</string>
+   <string name="ad_download_pause">Пауза</string>
+   <string name="ad_download_pending">Изчакване</string>
+   <string name="ad_download_resume">Възобновяване</string>
+   <string name="ad_downloading_tip">Този елемент се изтегля. Можете да видите напредъка в зоната на известяване.</string>
 </resources>

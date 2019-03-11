@@ -117,4 +117,5 @@
   <string name="other_settings_enhanced_lockscreen_summary_index">Правила и условия</string>
   <string name="congratulation_label_night">Вижте нашият изцяло нов Тъмен режим!</string>
   <string name="start_up_slogan_night">Вижте нашият изцяло нов Тъмен режим!</string>
+  <string name="locale_picker_other_locale_title">Още региони</string>
 </resources>
