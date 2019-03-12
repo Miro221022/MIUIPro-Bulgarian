@@ -40,7 +40,7 @@
   <string name="check_local_package_update_msg_ab">Вашето устройство ще се актуализира до версия %s на MIUI.</string>
   <string name="check_local_package_update_title">Актуализирай</string>
   <string name="check_local_package_validate_error_button">OK</string>
-  <string name="check_local_package_validate_error_msg">"Пакетът за актуализация не може да бъде проверен."</string>
+  <string name="check_local_package_validate_error_msg">"Пакетът за актуализация не може да бъде потвърден."</string>
   <string name="check_local_package_wipe_btn">Изтрий и актуализирай</string>
   <string name="check_local_package_wipe_msg">Ще се върнете към MIUI версия %s. Личните ви данни ще бъдат изтрити. Уверете се, че сте направили резервни копия на всичко, което искате да запазите, преди да стартирате процеса.</string>
   <string name="check_local_package_wipe_title">Изтриване на данните</string>
@@ -123,14 +123,14 @@
   <string name="later">По-късно</string>
   <string name="loading">Заявяване…</string>
   <string name="log_share">Сподели</string>
-  <string name="log_status_locked_info">"Нямате разрешения за достъп до списъка с актуализациите."</string>
-  <string name="log_status_locked_summary">Уверете се, че профилът, с който сте се вписали има необходимите разрешения.</string>
+  <string name="log_status_locked_info">"Нямате разрешения за достъп до списъка с промените."</string>
+  <string name="log_status_locked_summary">Уверете се, че профилът с който сте се вписали има необходимите разрешения.</string>
   <string name="menu_more_button">Меню</string>
   <string name="menu_title_apply_for_alpha">Запишете се в програмата за бета тестери</string>
-  <string name="menu_title_current_version_log">"Какво ново"</string>
+  <string name="menu_title_current_version_log">"Какво ново?"</string>
   <string name="menu_title_download_current_rom">Изтегляне на последен пакет</string>
   <string name="menu_title_feedback">Обратна връзка</string>
-  <string name="menu_title_pick_rom_file">Изберете пакет за актуализация</string>
+  <string name="menu_title_pick_rom_file">Избор на пакет за актуализация</string>
   <string name="menu_title_recovery">Рестартиране в режим Възстановяване</string>
   <string name="miui_BBS">" "<a href="http://bbs.miui.com">Отидете в MIUI форума</a>" "</string>
   <string name="miui_summary_has_new_version">"  Налична е актуализация  "</string>
@@ -169,7 +169,7 @@
   <string name="notification_load_body_dev">Впишете се в Mi профила си, за да сте сигурни че получавате правилните актуализации.</string>
   <string name="notification_load_title_alpha">Впишете се в Mi профила си</string>
   <string name="notification_load_title_dev">Впишете се в Mi профила си</string>
-  <string name="notification_reboot_btn">Рестарт</string>
+  <string name="notification_reboot_btn">Рестартиране</string>
   <string name="notification_reboot_seccess_des">Докоснете, за да видите информация за актуализацията.</string>
   <string name="notification_reboot_seccess_title">MIUI е успешно актуализирана</string>
   <string name="notification_reboot_summary_hm">Докоснете, за да рестартирате устройството.</string>
@@ -212,7 +212,7 @@
   <string name="provision_toast_no_network">Първо се свържете с мрежата</string>
   <string name="provision_toast_server_error">Не може да се свърже със сървъра. Изчакайте минута-две и опитайте отново.</string>
   <string name="provision_toast_timeout">Времето за връзка изтече. Проверете мрежовите настройки.</string>
-  <string name="reboot">Рестарт</string>
+  <string name="reboot">Рестартиране</string>
   <string name="recovery_failed_button">OK</string>
   <string name="recovery_failed_msg">\"Устройството ви няма достатъчно свободно място за инсталиране на актуализацията.\nПосетете http://miui.bg/community/ за повече информация.\"</string>
   <string name="recovery_failed_notification_msg">MiRecovery не можа да стартира</string>
@@ -226,7 +226,7 @@
   <string name="root_acquired">Позволете ROOT достъп</string>
   <string name="root_agree_check_box_title">Разбирам рисковете от ROOT достъпа</string>
   <string name="root_dangerous_msg">Разрешаването на ROOT достъп е изключително рисково и може да подложи устройството и личните данни на атаки от подозрителни приложения. Съгласявате се, че сте лично отговорен за всяка повреда по вашето устройство или загуба на данни в резултат от ROOT достъпа.</string>
-  <string name="security_space_button_neg">Рестартирай сега</string>
+  <string name="security_space_button_neg">Рестартиране сега</string>
   <string name="security_space_button_pos">Не рестартирай</string>
   <string name="security_space_msg">MIUI 9 има нова файлова система. Ако рестартирате устройството си сега, вие няма да можете да използвате Второ работно място. Преместете всички елементи от Второ работно място в Основно работно място, преди да рестартирате.</string>
   <string name="security_space_title">Важна актуализация</string>
@@ -332,7 +332,7 @@
   <string name="menu_title_privacy">Относно MiuiPro OTA</string>
   <string name="other_setting">Други</string>
   <string name="create_shortcut_title">Добавяне на пряк път на началния екран</string>
-  <string name="create_shortcut_sum">Показване на икона за \\\"Актуализация\\\" на началния екран</string>
+  <string name="create_shortcut_sum">Показване на икона за \"Актуализация\" на началния екран</string>
   <string name="join_preview_plan_title">Получавайте актуализации по-рано</string>
   <string name="join_preview_plan_sum">Използвайте тази функция, за да получавате актуализации по-рано от други потребители</string>
   <string name="set_connect_error_msg">"Проверете мрежовите настройки и опитайте отново. Ако след това все още не можете да изтегляте актуализации, докладвайте този проблем в приложението \"Отзиви\"."</string>
