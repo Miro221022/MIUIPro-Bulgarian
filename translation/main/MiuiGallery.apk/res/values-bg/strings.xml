@@ -186,7 +186,7 @@
     <string name="byteShort">б</string>
     <string name="camera_needs_auto_backup_tip">Снимки от камерата трябва да бъдат архивирани</string>
     <string name="cancel">Отказ</string>
-    <string name="cancel_baby_lock_wallpaper_confirm_msg">Да се отмени ли бебе тапета и да се нулира до стандартния тапет на закл. екран?</string>
+    <string name="cancel_baby_lock_wallpaper_confirm_msg">Да се отмени ли бебе тапета и да се нулира до стандартния тапет на заключен екран?</string>
     <string name="cancel_download_btn_text">Спри</string>
     <string name="cancel_hint">Операцията е отменена</string>
     <string name="cannot_remove_creator">Не може да премахнете автора</string>

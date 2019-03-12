@@ -449,13 +449,13 @@
     <string name="policydesc_wipeData_secondaryUser">Изтрива данните на този потребител от телефона без предупреждение.</string>
     <string name="policylab_setGlobalProxy">Задаване на глобален прокси сървър за устройството</string>
     <string name="policydesc_setGlobalProxy">Задава глобалния прокси сървър за устройството, който да се използва, когато правилото е активирано. Само собственикът на устройството може да задава такъв сървър.</string>
-    <string name="policylab_expirePassword">Задав. на валидност на паролата на закл. на екрана</string>
+    <string name="policylab_expirePassword">Задаване на валидност на паролата за заключване на екрана</string>
     <string name="policydesc_expirePassword">Променя колко често трябва да се сменят паролата, ПИН кодът или фигурата за заключване на екрана.</string>
     <string name="policylab_encryptedStorage">Шифроване за хранилището</string>
     <string name="policydesc_encryptedStorage">Изисква съхраняваните данни за приложенията да бъдат шифровани.</string>
     <string name="policylab_disableCamera">Деактивиране на камерите</string>
     <string name="policydesc_disableCamera">Предотвратява употребата на камерите на всички устройства.</string>
-    <string name="policylab_disableKeyguardFeatures">Изкл. на някои функции за закл. на екр.</string>
+    <string name="policylab_disableKeyguardFeatures">Деактивиране на някои функции за заключен на екран</string>
     <string name="policydesc_disableKeyguardFeatures">Предотвратява използването на някои функции за заключване на екрана.</string>
     <string name="phoneTypeCustom">По избор</string>
     <string name="phoneTypeHome">Домашен</string>

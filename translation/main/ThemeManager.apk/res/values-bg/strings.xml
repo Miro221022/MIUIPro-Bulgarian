@@ -120,7 +120,7 @@
     <string name="lockscreen_magazine_summary">Получете всеки ден нови тапети на вашия заключен екран.</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s тапети</string>
     <string name="lockscreen_magazine_system_title">Стандартно</string>
-    <string name="lockscreen_magazine_title">Закл. екрани за деня</string>
+    <string name="lockscreen_magazine_title">Заключени екрани за деня</string>
     <string name="lockscreen_wallpaper">Заключен екран</string>
     <string name="lockstyle_personal_settings">Персонализиране</string>
     <string name="mi_wallpaper">Mi-тапет</string>
@@ -380,7 +380,7 @@
     <string name="theme_apply_audio_dialog_item_notification">Известия</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Тон за повикване</string>
     <string name="theme_apply_failured">Тапетът не може да се приложи</string>
-    <string name="theme_apply_success">Закл. екран е приложен</string>
+    <string name="theme_apply_success">Заключеният екран е приложен</string>
     <string name="theme_applying">Прилага се…</string>
     <string name="theme_batch_update_all">Актуализирай всички</string>
     <string name="theme_batch_update_dlg_content">Да се актуализират ли %1$s и %2$d други теми сега?</string>

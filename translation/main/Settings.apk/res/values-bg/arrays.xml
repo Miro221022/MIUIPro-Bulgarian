@@ -161,7 +161,7 @@
         <item>Разделено</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>Показвай само на закл. екран</item>
+        <item>Показвай само на заключен екран</item>
         <item>Показвай само в лента на състоянието</item>
         <item>Никога не показвай името на оператора</item>
     </string-array>
@@ -921,7 +921,7 @@
         <item>zw</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Закл. на екрана</item>
+        <item>Заключване на екрана</item>
         <item>Парола за защита на личните данни</item>
         <item>Режим за деца</item>
         <item>Файлове</item>

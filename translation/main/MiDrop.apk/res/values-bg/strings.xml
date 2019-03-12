@@ -234,5 +234,5 @@ In Android 6.0 и нагоре трябва да включите услугит
     <string name="wifi_psw">Парола:</string>
     <string name="wifi_state">Състояние на Wi-Fi</string>
 	<string name="HIPS_Perm_SystemAlert">Показване на изкачащ прозорец</string>
-    <string name="HIPS_Perm_show_when_locked">Показване на закл. екран</string>
+    <string name="HIPS_Perm_show_when_locked">Показване на заключен екран</string>
 </resources>

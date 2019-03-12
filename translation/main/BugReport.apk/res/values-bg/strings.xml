@@ -259,7 +259,7 @@
   <string name="save_pic">Запазено</string>
   <string name="save_pic_fail">Не може да се запази изобр. Прегледайте SD-картата си</string>
   <string name="save_pic_success">Запазване на изобр. в %s</string>
-  <string name="screen_lock">Закл. на екрана</string>
+  <string name="screen_lock">Заключване на екрана</string>
   <string name="second_position">3#</string>
   <string name="section_description">Описание</string>
   <string name="section_err_type">Вид грешка</string>

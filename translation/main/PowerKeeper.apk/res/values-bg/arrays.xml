@@ -43,8 +43,8 @@
         <item>Връзка за данни</item>
         <item>Местоположение</item>
         <item>Първо известие</item>
-        <item>Известия на закл. екран</item>
-        <item>Ограничаване на данните на зад. план</item>
+        <item>Известия на заключен екран</item>
+        <item>Ограничаване на данните на заден план</item>
     </string-array>
     <string-array name="action_param_translate">
         <item>Няма</item>
