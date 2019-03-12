@@ -422,7 +422,7 @@
     <string name="background_traffic">На заден план %s</string>
     <string name="detail_app_button">Детайли</string>
     <string name="pref_about_traffic_title">Настройка на трафика</string>
-    <string name="pref_traffic_manage_title">Използвани данни</string>
+    <string name="pref_traffic_manage_title">Използване на данни</string>
     <string name="pref_package_traffic_settings">План за данни</string>
     <string name="pref_adjust_traffic_data">Задаване на изп. на данни</string>
     <string name="pref_category_title_other">Допълнитени настройки</string>
@@ -483,7 +483,7 @@
     <string name="input_used_hint">Въведете трафик на данни</string>
     <string name="input_used_max_hint">Въведете изп. данни (по-малко от %s)</string>
     <string name="text_cycle_day">%s</string>
-    <string name="settings">Настройки на трафика</string>
+    <string name="settings">Настройки за използване на данни</string>
     <string name="adjust_traffic_data">Задаване на изп. на данни</string>
     <string name="per_month_pkg_traffic_settings">Задаване на лимит за данни</string>
     <string name="free_time_traffic_settings">Настройки на лимит при слаб трафик</string>
@@ -515,7 +515,7 @@
     <string name="traffic_setting_fragment_loacation_alert_nomore">Не показвай повече</string>
     <string name="traffic_setting_fragment_find_brand">"&lt;font color=\"'#33b4ff'\">Грешен оператор?"</string>
     <string name="data_usage_warning_body">Докоснете за преглед на данните.</string>
-    <string name="data_usage_mobile_limit_title">Достигнат лимит за данни</string>
+    <string name="data_usage_mobile_limit_title">Достигнат е лимитът за данни</string>
     <string name="data_usage_limit_body">Докоснете за включване на мобилните данни.</string>
     <string name="data_usage_disabled_dialog">Вие достигнахте лимита на данни. Използването на мобилен интернет извън лимита може да доведе до високи такси за данни.</string>
     <string name="data_usage_disabled_dialog_enable">Включване на данните</string>
@@ -525,8 +525,8 @@
     <string name="data_usage_no_total_package_title">Употреба на данни</string>
     <string name="data_usage_no_total_package_body">Чукнете, за да настроите лимит</string>
     <string name="data_usage_no_total_package_body_dual">Няма зададен лимит за данни за %s</string>
-    <string name="data_usage_warning_title_notify">Надвишихте лимита за мобилни данни</string>
-    <string name="data_usage_warning_body_notify">Докоснете за преглед на детайлите</string>
+    <string name="data_usage_warning_title_notify">Надвишихте лимита си за данни</string>
+    <string name="data_usage_warning_body_notify">Докоснете за преглед на детайли</string>
     <string name="leisure_usage_dialog_title">Вие надхвърлихте лимита за слаб трафик на данни, връзката ви е прекъсната</string>
     <string name="leisure_usage_dialog_message">"Достигнахте лимита за слаб трафик на данни\u000d
 \u000d
@@ -668,20 +668,20 @@
     <string name="search_input_txt_na"><font color="'#ff0000'">%s</font></string>
     <string name="roaming_allow_network_dialog_title">Позволяване на роуминг за мобилни данни?</string>
     <string name="title_limit_traffic_per_day">Дневен лимит за данни</string>
-    <string name="daily_limit_and_lock_screen">Предупреждение за използв. на данни</string>
+    <string name="daily_limit_and_lock_screen">Предупреждение за използване на данни</string>
     <string name="pref_title_traffic_limit_number">Размер</string>
     <string name="pref_title_over_traffic_limit_warning">При превишаване</string>
     <string name="reach_daily_limit_value_title">Достигнахте дневният си лимит за данни</string>
     <string name="reach_daily_limit_value_body">Ограничете използването на мобилни данни.</string>
     <string name="daily_limit_network_available_body">Докоснете за преглед на използваните данни.</string>
-    <string name="daily_limit_over_message">Превишихте дневния си лимит за данни.</string>
+    <string name="daily_limit_over_message">"Превишили сте дневния си лимит за данни."</string>
     <string name="three_percent_total_pkg">%s (3%% от месечния ви план за данни)</string>
     <string name="five_percent_total_pkg">%s (5%% от месечния ви план за данни)</string>
     <string name="ten_percent_total_pkg">%s (10%% от месечния ви план за данни)</string>
     <string name="customize_limit_pkg">%s(Потребителско)</string>
     <string name="lock_screen_warning_category">Известия на заключен екран</string>
-    <string name="lock_screen_warning_switch_title">Показвай известия на заключен екран</string>
-    <string name="lock_screen_warning_switch_summary">Показвай предупреждения на заключен екран когато използваните данни надвишат дадена стойност</string>
+    <string name="lock_screen_warning_switch_title">Показване на предупреждения на заключен екран</string>
+    <string name="lock_screen_warning_switch_summary">Показване на предупреждение на заключен екран, когато използваните данни надвишат определеното количество</string>
     <string name="lock_screen_warning_value">Предупреждение за данни</string>
     <string name="pref_normal_traffic_limit">Когато планът за данни е изразходван</string>
     <string name="pref_over_traffic_limit">Когато сте надвишили вашия лимит за данни</string>
@@ -860,11 +860,11 @@
     <string name="menu_charge_bill">Попълване на баланса</string>
     <string name="privacy_dialog_message">Когато се свържете с интернет, това съобщение, заедно с информация за оператора, ще бъде криптирано и качено на Mi сървърите. Тази информация ще ни помогне да подобрим услугата за наблюдение на мобилни данни.</string>
     <string name="status_bar_network_flow_purchase">"   Купете >"</string>
-    <string name="status_bar_network_flow_setup_data_plan">"   Настрой план за данни >"</string>
-    <string name="status_bar_network_flow_phone_balance">"   Баланс телефон:%1$s "</string>
-    <string name="status_bar_network_flow_exceed_content">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;План превишени:<font color="%2$s">%3$s</font></string>
-    <string name="status_bar_network_flow_content">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Остават: %2$s</string>
-    <string name="status_bar_network_flow_content_not_setting">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Този месец: %2$s</string>
+    <string name="status_bar_network_flow_setup_data_plan">"   Настройка на план за данни >"</string>
+    <string name="status_bar_network_flow_phone_balance">"   Баланс на телефона:%1$s "</string>
+    <string name="status_bar_network_flow_exceed_content">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Планът е надвишен: &lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_content">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Остават: %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Този месец: %2$s</string>
     <string name="status_bar_network_flow_today">Днес: %1$s</string>
     <string name="pref_key_tethering_setting">Еднократен лимит за данни</string>
     <string name="pref_key_tethering_title">Еднократен лимит за данни</string>
@@ -873,7 +873,7 @@
     <string name="tether_custom_dialog_title">Лимит за мобилни данни</string>
     <string name="tether_over_limit_warning_notify_title">Достигнат лимит за данни на точка за достъп</string>
     <string name="tether_over_limit_warning_notify_message">Изключи преносимата точка за достъп.</string>
-    <string name="tether_over_limit_dialog_title">Предупреждение за използв. на данни</string>
+    <string name="tether_over_limit_dialog_title">Предупреждение за използване на данни</string>
     <string name="tether_over_limit_dialog_message">Вие достигнахте лимита за данни на преносимата точка за достъп.</string>
     <string name="tether_over_limit_dialog_cancle_btn">Нулиране точка за достъп</string>
     <string name="optimize_manage_title">Подобравяне на скоростта</string>
