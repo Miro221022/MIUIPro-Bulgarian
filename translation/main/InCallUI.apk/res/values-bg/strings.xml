@@ -235,4 +235,5 @@
 	<string name="volume_boost_text">Успешно е увеличен звука</string>
 	<string name="supp_service_notification_call_waiting">Избраният от вас номер е зает. Моля, изчакайте…</string>
 	<string name="call_not_support_high_frequency_click">"Не докосвайте този бутон толкова често"</string>
+	<string name="volte_call">VoLTE повикване</string>
 </resources>

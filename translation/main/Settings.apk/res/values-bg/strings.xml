@@ -3476,12 +3476,12 @@
     <string name="tethering_no_sim_card_text">Моля, инсталирайте SIM картата, за да споделяте връзката си за данни с други устройства, като използвате мобилна точка за достъп или USB тетъринг за достъп до Интернет.</string>
     <string name="tether_settings_launch_title">Мобилна точка за достъп</string>
     <string name="wifi_tether_first_use_message">Настройте мобилната точка за достъп при първото използване</string>
-    <string name="ad_service">Услуга за реклами</string>
-    <string name="use_personalized_ad_service">Използвай идентификатора на реклами</string>
-    <string name="use_personalized_ad_service_summary">Когато функцията за препоръки е изключена, пак ще видите същото количество реклами, както когато е включена, но не въз основа на данните за поведението Ви или личната ви информация.</string>
+    <string name="ad_service">Рекламни услуги</string>
+    <string name="use_personalized_ad_service">Персонализирани рекламни препоръки</string>
+    <string name="use_personalized_ad_service_summary">"Когато препоръките са изключени все още ще виждате същото количество реклами, както когато са включени, но те няма да се основават на данните за поведението ви или на личната ви информация."</string>
     <string name="reset_aaid">Нулирай идентификатора на реклами</string>
     <string name="confirm_reset_aaid">OК</string>
-    <string name="about_ad_service_instructions">Относно рекламите и сигурността</string>
+    <string name="about_ad_service_instructions">Относно рекламните услуги и поверителността</string>
     <string name="settings_ad_loading">Зарежда се…</string>
     <string name="settings_ad_loading_unavailable">Неочакван проблем при зареждане.</string>
     <string name="wifi_type_approval">" "</string>
@@ -6167,4 +6167,8 @@ aptX-Adaptive: Режим на кодек"</string>
     <string name="search_unlogin_account_title">Mi профил; Идентификация на Mi профил;Профил;Идентификация на профил</string>
     <string name="unlogin_account_summary">Всички Mi услуги. Един Mi профил</string>
     <string name="unlogin_account_title">Впишете се в Mi профил</string>
+	<string name="cutout_mode_always">Показване на прореза винаги</string>
+    <string name="cutout_mode_default">Авто</string>
+    <string name="cutout_mode_settings_title">Някои приложения може да се показват неправилно, ако промените начина по който се показва прореза.</string>
+    <string name="cutout_mode_title">Прорез в отделни приложения</string>
 </resources>

@@ -298,9 +298,9 @@
   <string name="news_change">Промяна</string>
   <string name="no_network">Няма връзка с мрежата, опитайте отново по-късно</string>
   <string name="no_network_btn">Нов опит</string>
-  <string name="notification_summary_after_auto_cleanup">Почистихте %s.</string>
+  <string name="notification_summary_after_auto_cleanup">Почистени са %s.</string>
   <string name="notification_summary_of_garbage_cleanup">Чукнете, за да освободите място.</string>
-  <string name="notification_title_of_garbage_cleanup">%s от файловете за изтриване</string>
+  <string name="notification_title_of_garbage_cleanup">%s непотребни файлове</string>
   <string name="notify_when">Получаване на известие, когато размера на отпадъците достигне 100 Мб</string>
   <string name="ok">ОК</string>
   <string name="open">Включване</string>

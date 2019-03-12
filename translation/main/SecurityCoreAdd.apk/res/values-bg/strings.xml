@@ -432,7 +432,7 @@
   <string name="button_text_next_step">Следващо</string>
   <string name="button_text_next_step_timer">Следваща стъпка (%d)</string>
   <string name="cta_declaration_agree_and_continue">Съгласен</string>
-  <string name="cta_declaration_message_format" formatted="false">Трябва да прочетете и да се съгласите с нашите &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; преди да използвате Корпоративен режим. Устройството ви трябва да се свърже с интернет, за да активира Корпоративен режим. Съгласни ли сте?</string>
+  <string name="cta_declaration_message_format" formatted="false">Трябва да прочетете и да се съгласите с нашите &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> преди да използвате Корпоративен режим. Вашето устройство трябва да се свърже с интернет, за да активирате Корпоративен режим. Съгласни ли сте?</string>
   <string name="cta_declaration_title">Правила и условия</string>
   <string name="dialog_message_service_error">"Оторизацията не може да бъде отменена и да се направят фабрични настройки. Опитайте отново.​"</string>
   <string name="dialog_tip_need_network">Устройството ви трябва да се свърже с интернет, за да отмени разрешението.</string>

@@ -1929,13 +1929,13 @@
     <string name="app_manager_details_traffic_title">Използвани данни</string>
     <string name="app_manager_details_electric_title">Батерия</string>
     <string name="app_manager_card_permission_title">Разрешения</string>
-    <string name="app_manager_permission_startself_title">Автостартирт</string>
+    <string name="app_manager_permission_startself_title">Автостарт</string>
     <string name="app_manager_permission_manager_title">Разрешения</string>
     <string name="app_manager_permission_notify_title">Известия</string>
     <string name="app_manager_permission_power_saving_title">Пестене на батерия</string>
     <string name="app_manager_default_open_title">Изчистване на настройките по подразбиране</string>
     <string name="app_manager_default_close_summary">Няма настройки по подразбиране.</string>
-    <string name="app_manager_default_open_summary">Вие избрахте това приложение да стартира по подразбиране за някои действия.</string>
+    <string name="app_manager_default_open_summary">Избрали сте да стартирате това приложение по подразбиране за някои действия.</string>
     <string name="app_manager_app_version_name">Версия:</string>
     <string name="app_manager_unstall_application">Деинсталиране</string>
     <string name="app_manager_force_stop_dlg_title">Принудително спиране?</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="trans_succeed_survey_title">
-        <item>Обща класация</item>
-        <item>Продължителност на прехвърлянето</item>
+        <item>Цялостно изживяване</item>
+        <item>Продължителност на трансфера</item>
         <item>Простота на процеса</item>
         <item>Яснота на инструкциите</item>
   </string-array>
@@ -14,13 +14,10 @@
         <item>Много доволен</item>
   </string-array>
   <string-array name="trans_cancel_survey_title">
-        <item>Прехвърлянето трае твърде дълго време</item>
-        <item>Връзката бе прекъсната</item>
-        <item>Избрах грешни елементи за прехвърляне</item>
-        <item>Твърде много стъпки</item>
-        <item>"Батерията на телефона ми е изтощена"</item>
-        <item>Прехвърлените елементи са повредени</item>
-        <item>Случайно започнах прехвърлянето</item>
-        <item>Друго</item>
+        <item>Цялостно изживяване</item>
+        <item>Продължителност на трансфера</item>
+        <item>Простота на процеса</item>
+        <item>Яснота на инструкциите</item>
+        <item>Тази функция е полезна</item>
   </string-array>
 </resources>

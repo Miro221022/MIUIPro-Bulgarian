@@ -803,4 +803,10 @@
     <string name="semantic_lift_help_screen_header">Неща, които можете да изберете</string>
     <string name="success_image_saved_camera">Изображението е запазено в Камера.</string>
     <string name="text_copied_to_clipboard">Текстът е копиран в клипборда</string>
+	<string name="wideselfie_press_shoot_key_to_start">Натиснете бутона за затвора</string>
+    <string name="wideselfie_rotate_slowly">Бавно завъртете телефона</string>
+    <string name="wideselfie_rotate_to_back">Наклонете устройството назад</string>
+    <string name="wideselfie_rotate_to_front">Наклонете устройството напред</string>
+    <string name="wideselfie_rotate_to_left_slowly">Бавно завъртете телефона наляво</string>
+    <string name="wideselfie_rotate_to_right_slowly">Бавно завъртете телефона надясно</string>
 </resources>
