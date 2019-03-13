@@ -502,7 +502,7 @@
     <string name="lighting_pattern_shutter">Щори</string>
     <string name="lighting_pattern_stage">Сцена</string>
 	<string name="pref_camera_super_resolution_title">Включване на SR</string>
-	<string name="pref_google_lens">Google обектив</string>
+	<string name="pref_google_lens">Google Oбектив</string>
 	<string name="pref_camera_video_bokeh_off">Боке видеото е затворено</string>
     <string name="pref_camera_video_bokeh_on">Боке видео</string>
 	<string name="beauty_fragment_tab_name_3d_makeup">Грим</string>
@@ -677,10 +677,10 @@
 	<string name="config_name_ratio">Съотношение</string>
     <string name="module_name_pixel_48M">48M</string>
 	<string name="pref_camera_long_press_viewfinder_title">Натиснете и задръжте визьора</string>
-    <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google обектив</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Oбектив</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Заключване на автоекспозиция и автофокус</string>
-    <string name="pref_google_lens_summary">Автоматично идентифициране на QR кодове, имейли, номера и текст</string>
-    <string name="pref_google_lens_title">Умно предложение</string>
+    <string name="pref_google_lens_summary">Автоматично идентифициране на QR кодове, имейли, номера и т.н.</string>
+    <string name="pref_google_lens_title">Предложения от Обектив</string>
 	<string name="abc_action_bar_home_description">Придвижване към начален екран</string>
     <string name="abc_action_bar_up_description">Придвижване нагоре</string>
     <string name="abc_action_menu_overflow_description">Още опции</string>
@@ -721,7 +721,7 @@
     <string name="action_translate">Превод</string>
     <string name="action_wifi">Свържете се към WLAN</string>
     <string name="aggregate_add_field">Добавяне на поле</string>
-    <string name="camera_preview_area_long_press_label">Google обектив</string>
+    <string name="camera_preview_area_long_press_label">Google Oбектив</string>
     <string name="contact_result_text">Редактиране на контакт</string>
     <string name="contact_save_button">Запази</string>
     <string name="dismiss_button_content_description">Близо до камерата</string>
@@ -733,7 +733,7 @@
     <string name="error_message_image_failed">Изпращането на изображението е неуспешно.</string>
     <string name="error_network_request_failed">Заявката не бе успешна, проверете връзката с мрежата.</string>
     <string name="error_network_request_timed_out">Времето за изчакване на мрежата изтече, проверете връзката си с мрежата.</string>
-    <string name="error_no_image_found">Google обектив: няма намерено изображение.</string>
+    <string name="error_no_image_found">Google Oбектив: няма намерено изображение.</string>
     <string name="error_save_image_failed">Запазването на изображението е неуспешно.</string>
     <string name="example_screen_address_example">E.g. 1600 Amphitheatre Pkwy, Mountain View, CA</string>
     <string name="example_screen_address_title">Адрес</string>
@@ -773,7 +773,7 @@
     <string name="iris_talkback_label_calendar">Добавяне на събитие в календара</string>
     <string name="iris_talkback_label_contact">Създаване на контакт за %s</string>
     <string name="iris_talkback_label_email">Имейл адрес: %s</string>
-    <string name="iris_talkback_label_lens">Google обектив</string>
+    <string name="iris_talkback_label_lens">Google Oбектив</string>
     <string name="iris_talkback_label_phone">Телефонен номер: %s</string>
     <string name="iris_talkback_label_qrcode">QR код: %s</string>
     <string name="iris_talkback_label_qrcode_non_text">Намерен е QR код</string>
@@ -782,12 +782,12 @@
     <string name="iris_talkback_label_url">Уебсайт: %s</string>
     <string name="lens_generic_error">Нещо се обърка. Опитай отново.</string>
     <string name="lens_insufficient_storage">Освободете място за съхранение.</string>
-    <string name="lens_title">Google обектив</string>
+    <string name="lens_title">Google Oбектив</string>
     <string name="no_item_selected_label">Нищо не е избрано</string>
     <string name="oobe_body">Насочете камерата и натиснете, за да направите телефонно обаждане, да изпратите имейл, да сканирате QR код и други. Можете да го изключите по всяко време в Настройки.</string>
     <string name="oobe_continue">Продължи</string>
-    <string name="oobe_expandable">Google обектив не е всезнаещ и не винаги е прав, когато разпознава определени обекти, текстови селекции или други неща. Обективът ще спре да анализира това, което виждате, когато затворите приложението за камера. Можете да деактивирате или активирате отново обектива в настройките на камерата.</string>
-    <string name="oobe_headline">Действия предлагани от Google обектив</string>
+    <string name="oobe_expandable">Google Oбектив не е всезнаещ и не винаги е прав, когато разпознава определени обекти, текстови селекции или други неща. Обективът ще спре да анализира това, което виждате, когато затворите приложението за камера. Можете да деактивирате или активирате отново обектива в настройките на камерата.</string>
+    <string name="oobe_headline">Действия предлагани от Google Oбектив</string>
     <string name="qr_of_unsupported_text">Съдържание: \"%s\"</string>
     <string name="qr_of_unsupported_type">QR код</string>
     <string name="qr_wifi_error_could_not_connect">Трябва ръчно да се свържете с %s</string>
@@ -809,4 +809,6 @@
     <string name="wideselfie_rotate_to_front">Наклонете устройството напред</string>
     <string name="wideselfie_rotate_to_left_slowly">Бавно завъртете телефона наляво</string>
     <string name="wideselfie_rotate_to_right_slowly">Бавно завъртете телефона надясно</string>
+	<string name="macro_mode">Макро режим</string>
+    <string name="macro_mode_tip">Моля поставете обекта в рамките на 10 см</string>
 </resources>

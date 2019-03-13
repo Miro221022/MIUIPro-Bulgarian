@@ -6171,4 +6171,14 @@ aptX-Adaptive: Режим на кодек"</string>
     <string name="cutout_mode_default">Авто</string>
     <string name="cutout_mode_settings_title">Някои приложения може да се показват неправилно, ако промените начина по който се показва прореза.</string>
     <string name="cutout_mode_title">Прорез в отделни приложения</string>
+	<string name="bt_aac_dialog_summary">"Текущото устройство поддържа AAC кодек. Въпреки това, AAC може да не успее да възпроизведе звук поради проблеми със съвместимостта. Устройството ви е превключено автоматично на SBC кодек.
+Можете да промените това в Настройки."</string>
+    <string name="bt_aac_dialog_title">Bluetooth връзка</string>
+    <string name="bt_aac_open_dialog_summary">"AAC може да не успее да възпроизведе звук поради проблеми със съвместимостта.
+Можете да изключите тази функция в Настройки > Bluetooth > Сдвоени устройства."</string>
+    <string name="bt_aac_open_dialog_title">Превключване към AAC кодек</string>
+    <string name="bt_aac_pre_title">AAC</string>
+    <string name="bt_dialog_remember_choice">Запомняне на избора</string>
+    <string name="bt_dialog_settings">Настройки</string>
+    <string name="bt_pre_summary">Осигуряване на висококачествено аудио изживяване</string>
 </resources>

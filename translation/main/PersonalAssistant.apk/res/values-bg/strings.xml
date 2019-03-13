@@ -1025,4 +1025,6 @@
   <string name="midrop_send">Изпрати</string>
   <string name="whatsapp_parent">WhatsApp</string>
   <string name="whatsapp_photos">Снимки</string>
+  <string name="disclaimer_content">Тази функция се предоставя от %1$s. %1$s носи цялата отговорност, свързана с предоставяните от нея услуги. Можете да се свържете с %1$s ако имате някакви въпроси.</string>
+  <string name="disclaimer_title">Отказ от отговорност</string>
 </resources>
