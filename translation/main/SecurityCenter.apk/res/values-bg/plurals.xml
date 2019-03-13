@@ -143,7 +143,7 @@
         <item quantity="one">Открито е %d неофициално приложение</item>
     </plurals>
     <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d елементи</item>
+        <item quantity="other">%d елемента</item>
         <item quantity="one">%d елемент</item>
     </plurals>
     <plurals name="sp_monitored_apps_count">
@@ -344,8 +344,8 @@
         <item quantity="one">%d приложение е скрито</item>
     </plurals>
 	<plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">Стандартни настройки(%ds)</item>
-        <item quantity="one">Стандартна настройка(%ds)</item>
+        <item quantity="other">Фабрично нулиране(%dс)</item>
+        <item quantity="one">Фабрично нулиране(%dс)</item>
     </plurals>
 	    <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d още символа</item>

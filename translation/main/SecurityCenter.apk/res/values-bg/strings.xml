@@ -332,12 +332,12 @@
     <string name="main_button_usage_adjust">Задаване на лимит на трафика</string>
     <string name="main_button_usage_adjusting">Настройка…</string>
     <string name="main_button_usage_adjusting_bill">Настройка…</string>
-    <string name="main_button_usage_adjust_manual">Задаване на използване на данни</string>
+    <string name="main_button_usage_adjust_manual">Задаване на лимит</string>
     <string name="main_button_usage_package_setting">Задаване на лимит</string>
     <string name="main_alert_message_no_imsi">SIM картата не е открита</string>
     <string name="main_primary_message_traffic_remain">Мобилни данни</string>
     <string name="main_primary_message_traffic_warning">Предупреждение за данни</string>
-    <string name="main_primary_message_traffic_overlimit">Надхвърлен е лимита за данни</string>
+    <string name="main_primary_message_traffic_overlimit">Надвишен лимит за данни</string>
     <string name="main_primary_message_leisure_remain">Слаб трафик на данни</string>
     <string name="main_primary_message_leisure_alert">Предупреждение за слаб трафик</string>
     <string name="main_primary_message_leisure_overlimit">Достигнат лимит при слаб трафик</string>
@@ -388,7 +388,7 @@
     <string name="firewall_restrict_android_dialog_content">За да може устройството ви да работи нормално, няколко системни за Андроид приложения все още ще се свързват с интернет. Тези приложения ще използват мобилни данни и може да генерират малки такси към вашия оператор.</string>
     <string name="background_restrict_app_dialog_message">Ограничаването на мрежовия достъп на заден план за това приложение може да доведе до неправилната работа на приложението, получаване на съобщения, изтегляне на съдържание и т.н. Ограничаване въпреки това?</string>
     <string name="firewall_allow_network">Приеми</string>
-    <string name="app_bg_restrict_dialog_message">Ограничаването на мрежовата връзка на заден план може е причина приложението да не работи нормално. Например да не получавате вече съобщения или актуализации. Да се ограничи ли въпреки това.</string>
+    <string name="app_bg_restrict_dialog_message">Ограничаването на мрежовата връзка на заден план може е причина приложението да не работи нормално. Например е възможно да не може повече да получава съобщения или да актуализира съдържанието.</string>
     <string name="firewall_network_allow">Позволено е на %1$s да използва %2$s връзка</string>
     <string name="search_result_text">Не може да се открият приложения</string>
     <string name="firewall_mobile_dialog_message">Инсталираното приложение няма да може да се свърже с интернет чрез мобилни данни, когато те са изключени.</string>
@@ -429,7 +429,7 @@
     <string name="pref_title_update_notification">Показване на известия за трафика</string>
     <string name="pref_title_diagnostics_show_float_notification">Плаващи известия</string>
     <string name="pref_title_traffic_speed_state">Показване на скороста на мрежата</string>
-    <string name="pref_title_declaration">Отказ от отговорност</string>
+    <string name="pref_title_declaration">Важно предупреждение</string>
     <string name="pref_new_installed_preconfig_title">"Стандартна настройка за новите приложения"</string>
     <string name="pref_bg_network_title">Връзка на заден план</string>
     <string name="pref_mi_sim_settings">%s настройки на пакета</string>

@@ -4,7 +4,7 @@
     <item>Веднъж</item>
     <item>Ежедневно</item>
     <item>Работни дни</item>
-    <item>Понеделник-Петък</item>
+    <item>Делнично</item>
     <item>По избор</item>
   </string-array>
   <string-array name="alarm_repeat_type_no_workdays">
@@ -14,10 +14,10 @@
     <item>По избор</item>
   </string-array>
   <string-array name="date_of_app_all">
-    <item>Вчера (мобилни данни)</item>
-    <item>Днес (мобилни данни)</item>
-    <item>Миналия месец (мобилни данни)</item>
-    <item>Този месец (мобилни данни)</item>
+    <item>Вчера (данни)</item>
+    <item>Днес (данни)</item>
+    <item>Миналия месец (данни)</item>
+    <item>Този месец (данни)</item>
     <item>Вчера WLAN</item>
     <item>Днес WLAN</item>
     <item>Миналия месец WLAN</item>
@@ -27,7 +27,7 @@
     <item>"Вчера "</item>
     <item>"Днес "</item>
     <item>"Миналия месец "</item>
-    <item>Този месец</item>
+    <item>"Този месец "</item>
   </string-array>
   <string-array name="date_of_traffic_cmcc">
     <item>"Тази седмица "</item>
@@ -37,8 +37,8 @@
   <string-array name="date_of_traffic_prefix">
     <item>"Вчера: "</item>
     <item>"Днес: "</item>
+    <item>"Миналия месец: "</item>
     <item>"Този месец: "</item>
-    <item>Този месец:</item>
   </string-array>
   <string-array name="date_of_traffic_prefix_cmcc">
     <item>"Тази седмица: "</item>
@@ -53,8 +53,8 @@
   </string-array>
   <string-array name="lock_mode">
     <item>Когато устройството е заключено</item>
-    <item>Когато устройството е заключено или след излизане от приложението</item>
-    <item>Когато устройството е заключено или 1 минута след излизането от приложението.</item>
+    <item>Когато устройството е заключено или след изход от приложение</item>
+    <item>Когато устройството е заключено или 1 минута след изход от приложение</item>
   </string-array>
   <string-array name="mi_service_traffic_type">
     <item>"Мобилни данни "</item>
@@ -62,7 +62,7 @@
   </string-array>
   <string-array name="over_limit_traffic_waring_style">
     <item>Показване на предупреждение</item>
-    <item>Предупреждение и изкл. на моб. данни</item>
+    <item>Предупреди и изключи мобилните данни</item>
   </string-array>
   <string-array name="roaming_network_type">
     <item>Винаги</item>
@@ -74,17 +74,17 @@
     <item>Оставащ кредит</item>
   </string-array>
   <string-array name="tether_limit_warn_type">
-    <item>Изключи и уведоми</item>
-    <item>Само уведомяване</item>
+    <item>Изключи и извести</item>
+    <item>Само известяване</item>
   </string-array>
   <string-array name="title_app_info">
-    <item>Източник на инсталиране</item>
+    <item>Източник на инсталация</item>
     <item>Час на инсталиране</item>
     <item>Източник на последната актуализация</item>
     <item>Час на последната актуализация</item>
   </string-array>
   <string-array name="traffic_type">
-    <item>"Използване на мобилни данни "</item>
+    <item>"Мобилни данни "</item>
     <item>"Използване на Wi-Fi "</item>
   </string-array>
   <string-array name="sort_type">
