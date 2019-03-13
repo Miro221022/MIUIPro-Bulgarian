@@ -542,9 +542,9 @@
     <string name="timeshow_m">%dм</string>
     <string name="timeshow_h">%.1fч</string>
     <string name="timeshow_h_int">%dч</string>
-    <string name="lock_screen_traffic_guide_notification_title">Чукнете за регулиране на трафика на данни</string>
+    <string name="lock_screen_traffic_guide_notification_title">Докоснете за управлявате на използването на данни.</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s използвани при заключен екран.</string>
-    <string name="lock_screen_traffic_purchase_textview">Купи (за Китай)</string>
+    <string name="lock_screen_traffic_purchase_textview">Купете мобилни данни</string>
     <string name="free_time_traffic_title">Въведете лимит за данни при слаб трафик</string>
     <string name="free_time_traffic_hint">Въведете лимит за данни при слаб трафик</string>
     <string name="traffic_correction_start_correction">Свързване със сървъра на оператора…</string>
