@@ -1016,5 +1016,13 @@
   <string name="card_expand_note_add_checkbox">Добавяне на отметка</string>
   <string name="shopping_source">От %s</string>
   <string name="card_expand_note_sure_clear_all">Изчисти сега</string>
-   <string name="scan_app">Сканиране</string>
+  <string name="scan_app">Сканиране</string>
+  <string name="clock_alarm">Аларма</string>
+  <string name="clock_parent">Часовник</string>
+  <string name="google_assistant">Асистент</string>
+  <string name="google_parent">Google</string>
+  <string name="midrop_parent">Mi Drop</string>
+  <string name="midrop_send">Изпрати</string>
+  <string name="whatsapp_parent">WhatsApp</string>
+  <string name="whatsapp_photos">Снимки</string>
 </resources>

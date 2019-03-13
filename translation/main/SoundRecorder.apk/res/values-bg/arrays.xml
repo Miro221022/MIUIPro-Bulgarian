@@ -5,8 +5,8 @@
         <item>AMR</item>
     </string-array>
     <string-array name="record_scenes_entries">
-        <item>За музика</item>
-        <item>За човешки глас</item>
+        <item>Музика</item>
+        <item>Глас</item>
     </string-array>
     <string-array name="interview_record_scenes_entries">
         <item>Музика</item>
@@ -21,15 +21,15 @@
     </string-array>
     <string-array name="record_scenes_summaries">
         <item>Записване на музика с по-добро качество</item>
-        <item>Доближете микрофона за по-добро качество на звука</item>
-        <item>Сложете телефона между двама души за да бъде записа по-чист</item>
-        <item>Високо динамичната технология позволява на микрофона да записва по-детайлни звуци</item>
+        <item>Преместете микрофона по-близо до източника на звука за по-добро качество</item>
+        <item>Поставете телефона между двама души, за да запишете ясно разговора</item>
+        <item>Технология с висок динамичен диапазон позволява на микрофона да приема по-детайлен звук</item>
     </string-array>
     <string-array name="record_scenes_summaries_stereo">
-        <item>Запис на 2 канала, може да слушате звука в слушалките</item>
-        <item>Доближете микрофона за по-добро качество на звука</item>
-        <item>Сложете телефона между двама души за да бъде записа по-чист</item>
-        <item>Високо динамичната технология позволява на микрофона да записва по-детайлни звуци</item>
+        <item>Записва се през 2 канала, слушайте стерео звук в слушалките</item>
+        <item>Преместете микрофона по-близо до източника на звука за по-добро качество</item>
+        <item>Поставете телефона между двама души, за да запишете ясно разговора</item>
+        <item>Технология с висок динамичен диапазон позволява на микрофона да приема по-детайлен звук</item>
     </string-array>
     <string-array name="record_quality_entries">
         <item>Високо</item>
@@ -37,9 +37,9 @@
         <item>Ниско</item>
     </string-array>
     <string-array name="record_quality_summaries">
-        <item>MP3, ~192кб/с, ~90Мб/ч</item>
-        <item>MP3, ~100кб/с, ~45Мб/ч</item>
-        <item>MP3, ~75кб/с, ~32Мб/ч</item>
+        <item>MP3, ~192кбит/с, ~90Мб/ч</item>
+        <item>MP3, ~100кбит/с, ~45Мб/ч</item>
+        <item>MP3, ~75кбит/с, ~32Мб/ч</item>
     </string-array>
     <string-array name="record_locale_language">
         <item>fa</item>

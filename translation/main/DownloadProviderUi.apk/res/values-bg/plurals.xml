@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="numberOfItemsAvailable">
-        <item quantity="other">Изтриване на %d елементи?</item>
+        <item quantity="other">Изтриване на %d елемента?</item>
         <item quantity="one">Изтриване на този елемент?</item>
     </plurals>
     <plurals name="sniff_find_resource">
-        <item quantity="other">Открити са %d елементи</item>
+        <item quantity="other">Открити са %d елемента</item>
         <item quantity="one">Открит е 1 елемент</item>
     </plurals>
     <plurals name="sniff_find_result">
