@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Информация за устройството</string>
+    <string name="device_info_unknown">Неизвестно</string>
+    <string name="model_number">Номер на модел</string>
+    <string name="hardware_version">Версия на хардуера</string>
+    <string name="baseband_version">Версия на радиомодула</string>
+    <string name="prl_version">PRL версия</string>
+    <string name="android_version">Версия на Андроид</string>
+    <string name="software_version">Версия на софтуера</string>
+    <string name="my_number">Моят телефонен номер</string>
+</resources>

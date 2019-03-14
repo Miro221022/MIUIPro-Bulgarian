@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="incoming_call_failed_low_battery">Входящото повикване не е успешно поради слаба батерия.</string>
+    <string name="device_is_hd_capable">SIM %1$d поддържа HD</string>
+    <string name="hd_icon_header_app_name">" "</string>
+    <string name="device_is_volte_capable">SIM %1$d поддържа VOLTE</string>
+    <string name="call_hold_label">Задържане на повикване :</string>
+    <string name="call_resume_label">Възобновяване :</string>
+    <string name="error_msg_failed">Неуспешно</string>
+    <string name="error_msg_cancelled">Отказано</string>
+    <string name="handover_from_wifi_to_lte">Преминаване към LTE мрежа за по-добро качество</string>
+    <string name="wifi_calling_on">Wifi повикването е включено</string>
+    <string name="wifi_calling_off">Wifi повикването е изключено</string>
+    <string name="wifi_calling_enable_dialog_title">Активиране на WLAN повикване?</string>
+    <string name="wifi_calling_enable_dialog_cancel">Отказ</string>
+    <string name="wifi_calling_enable_dialog_enable">Активиране</string>
+</resources>

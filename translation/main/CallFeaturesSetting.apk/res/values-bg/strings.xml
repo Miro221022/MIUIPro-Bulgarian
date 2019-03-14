@@ -58,17 +58,6 @@
     <string name="CFDeactivate">Деактивиране</string>
     <string name="null_phone_number">Телефонният номер не може да бъде нулев !</string>
     <string name="labelCFDeactAll">Деактивиране на всички</string>
-    <string name="CFU_ACT" />
-    <string name="CFU_DEACT" />
-    <string name="CFB_ACT" />
-    <string name="CFB_DEACT" />
-    <string name="CFNRY_ACT" />
-    <string name="CFNRY_DEACT" />
-    <string name="CFNRC_ACT" />
-    <string name="CFNRC_DEACT" />
-    <string name="CFA_DEACT" />
-    <string name="CW_ACT" />
-    <string name="CW_DEACT" />
     <string name="mobile_data_on">вкл.</string>
     <string name="mobile_data_off">изкл.</string>
     <string name="switch_dds_to_sub_alert">Моля, включете мобилните данни на SIM</string>
