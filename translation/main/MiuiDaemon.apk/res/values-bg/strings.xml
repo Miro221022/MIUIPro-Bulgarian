@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiuiDaemon</string>
+    <string name="action_settings">Настройки</string>
+    <string name="size_byte">Б</string>
+    <string name="size_kilo_byte">КБ</string>
+    <string name="size_mega_byte">МБ</string>
+    <string name="size_giga_byte">ГБ</string>
+    <string name="size_tera_byte">ТБ</string>
+    <string name="size_peta_byte">ПБ</string>
+    <string name="submit_dialog_title">Възникна грешка</string>
+    <string name="submit_dialog_content">Ще качите ли отчети, за да ни помогнете да намерим и разрешим този проблем? Отчетите могат да съдържат личната ви информация, включително информацията за местоположението ви.</string>
+    <string name="not_show_again">Качи автоматично следващия път</string>
+    <string name="submit_dialog_cancel">Отказ</string>
+    <string name="submit_dialog_confirm">Качи</string>
+</resources>
