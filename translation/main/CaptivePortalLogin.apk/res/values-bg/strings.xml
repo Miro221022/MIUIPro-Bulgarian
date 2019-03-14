@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="action_use_network">Използвайте тази мрежа, каквато е</string>
+    <string name="action_do_not_use_network">Не използвайте тази мрежа</string>
+    <string name="action_bar_label">Вписване в мрежата</string>
+    <string name="action_bar_title">Вписване в %1$s</string>
+    <string name="ssl_error_warning">Мрежата, към която се опитвате да се присъедините, има проблеми със сигурността.</string>
+    <string name="ssl_error_example">Например страницата за вход може да не принадлежи на показаната организация.</string>
+    <string name="ssl_error_continue">Продължаване въпреки това чрез браузъра</string>
+</resources>

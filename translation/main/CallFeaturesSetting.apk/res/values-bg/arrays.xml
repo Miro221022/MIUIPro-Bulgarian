@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_barring_outgoing_display_values">
+        <item>Изходящо повикване</item>
+        <item>Международно повикване</item>
+        <item>Международно роуминг повикване</item>
+    </string-array>
+    <string-array name="call_barring_incoming_display_values">
+        <item>Всички</item>
+        <item>Роуминг</item>
+    </string-array>
+</resources>

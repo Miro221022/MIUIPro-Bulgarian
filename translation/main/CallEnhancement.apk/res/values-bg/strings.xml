@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Подобрение на повикванията</string>
+    <string name="message_no_sdcard">Моля, поставете SD карта</string>
+    <string name="message_internal_error">Грешка при запис</string>
+    <string name="message_success">Файлът е запазен в %1$s</string>
+    <string name="message_record_started">Записът е стартиран</string>
+    <string name="message_recording">Записване на повикване</string>
+    <string name="message_not_incall">Активирано само когато сте в повикване</string>
+    <string name="message_sdcard_full">Във външното ви хранилище няма останало място</string>
+    <string name="duration">"Продължителност: "</string>
+    <string name="mins">" мин "</string>
+    <string name="secs">" сек"</string>
+</resources>
