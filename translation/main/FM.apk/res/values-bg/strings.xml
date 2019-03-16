@@ -23,7 +23,7 @@
     <string name="alert_message_delete_station">Тази станция ще бъде изтрита.</string>
     <string name="msg_noantenna_message">Неса намерени слушалки. Някои функции може да не бъдат активни.</string>
     <string name="msg_try_plug_headset">Свържете слушалки и опитайте отново.</string>
-    <string name="msg_do_not_support_fm">"Това устройство не подържа FM Радио"</string>
+    <string name="msg_do_not_support_fm">"Това устройство не поддържа FM Радио"</string>
     <string name="exit_fm">Изход</string>
     <string name="toast_sleep_mode">Радиото ще спре след %s</string>
     <string name="toast_sleep_mode_exit">Таймера за сън ще бъде отменен</string>
