@@ -222,7 +222,7 @@ In Android 6.0 и нагоре трябва да включите услугит
     <string name="user_notice_button_exit">Изход</string>
     <string name="user_notice_button_ok">ОК</string>
     <string name="user_notice_content">С използването на този продукт, вие се съгласявате да %1$s и %2$s .</string>
-    <string name="user_notice_privacy_policy">Декларация за поверителност</string>
+    <string name="user_notice_privacy_policy">Политика за поверителност</string>
     <string name="user_notice_term_of_service">Споразумение с потребителя</string>
     <string name="user_notice_title">Правила и условия</string>
     <string name="utf8_summary">Кодиране на FTP по подразбиране</string>

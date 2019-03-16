@@ -60,7 +60,7 @@
   <string name="activate_popup_desc_register_account_intl">За активирането на Mi профил трябва да изпратите международен SMS. Може да бъдете таксувани за изходящо съобщение от доставчика ви.</string>
   <string name="activate_popup_desc_sim_card">Ще бъде изпратено SMS съобщение за активиране на %s. Таксува се според абонаментния ви план.</string>
   <string name="activate_popup_desc_sim_card_downlink">За активиране на %s, въведете вашият телефонен номер.</string>
-  <string name="activate_popup_desc_voip_privacy">Правилата за поверителност</string>
+  <string name="activate_popup_desc_voip_privacy">Политика за поверителност</string>
   <string name="activate_popup_desc_voip_privacy_prefix">VoIP се поддържа от Weihui. Вижте тяхната</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">Не може да се намери номера</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">Не може да се изпрати съобщение</string>

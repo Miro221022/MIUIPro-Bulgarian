@@ -180,7 +180,7 @@
   <string name="privacy_policy">Политика за поверителност</string>
   <string name="privacy_revoke_failed">Не може да се отмени разрешението. Изчакайте минута-две и опитайте отново.</string>
   <string name="privacy_revoke_success">Разрешението е успешно отменено</string>
-  <string name="privacy_settings">Правилата за поверителност</string>
+  <string name="privacy_settings">Политика за поверителност</string>
   <string name="pull_fresh_updated">Успешно актуализиране</string>
   <string name="pull_fresh_updating">Актуализиране…</string>
   <string name="radar_cloud_image_title">Радарна карта</string>
