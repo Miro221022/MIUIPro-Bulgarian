@@ -205,7 +205,7 @@
     <string name="dialog_song_view_type_song">По песен</string>
     <string name="dialog_title_add_playlist">Добавяне на плейлист</string>
     <string name="dialog_title_delete_tracks">Изтриване</string>
-    <string name="dialog_title_name_playlist">Име на плейлист</string>
+    <string name="dialog_title_name_playlist">Име на плейлиста</string>
     <string name="dialog_title_not_available">Изтеглянето е невъзможно</string>
     <string name="dialog_title_queued_body">Файлът е недостъпен</string>
     <string name="dialog_title_remove_tracks">Премахване на песни</string>
@@ -734,7 +734,7 @@
     <string name="search_empty">Няма резултати</string>
     <string name="search_for_album">Албум</string>
     <string name="search_for_artist">Изпълнител</string>
-    <string name="search_hint">Търсене на изпълнители, песни, албуми и препоръчани</string>
+    <string name="search_hint">Търсене на изпълнители, песни, албуми и препоръки</string>
     <string name="search_hint_not_support_online">Търсене на изпълнители, песни и албуми</string>
     <string name="search_history_clear_all">Изчистване</string>
     <string name="search_instant_online_music">Онлайн</string>
@@ -790,7 +790,7 @@
     <string name="share_text_list">Намерих невероятен списък за слушане в Mi Музика:</string>
     <string name="share_text_song">Намерих невероятна песен в Mi Музика:</string>
     <string name="show_more">Покажи %s повече</string>
-    <string name="shuffle_music">Разбъркано прослушване</string>
+    <string name="shuffle_music">Разбъркано изпълнение</string>
     <string name="shuffle_off_notif">Разбъркването е изключено.</string>
     <string name="shuffle_on_notif">Разбъркването е включено.</string>
     <string name="similar_songs">Подобни песни</string>
@@ -849,9 +849,9 @@
     <string name="talkback_mode_repeat_shuffle">Режим повторение на случайни</string>
     <string name="talkback_more">Още менюта</string>
     <string name="talkback_next">Следваща песен</string>
-    <string name="talkback_nowplaying_bar">Възпроизв. в бар</string>
-    <string name="talkback_nowplaying_circle">Възпроизв. в кръг</string>
-    <string name="talkback_play">Пусни/Пауза</string>
+    <string name="talkback_nowplaying_bar">Лента за възпроизвеждане</string>
+    <string name="talkback_nowplaying_circle">Възпроизвеждане в кръг</string>
+    <string name="talkback_play">Изпълнение / Пауза</string>
     <string name="talkback_pre">Предишна песен</string>
     <string name="talkback_progress">Лентов индикатор</string>
     <string name="talkback_radar">Разпознаване на музика</string>

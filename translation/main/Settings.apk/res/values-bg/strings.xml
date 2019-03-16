@@ -3782,7 +3782,7 @@
     <string name="notification_reboot_title_hm">Рестарт за прилагане на актуализацията</string>
     <string name="notification_reboot_summary_hm">Докоснете, за да рестартирате устройството.</string>
     <string name="notification_reboot_btn">Рестарт</string>
-    <string name="miui_updater">Актуализация на системата</string>
+    <string name="miui_updater">Системна актуализация</string>
     <string name="giga_hertz">ГХц</string>
     <string name="reading_data">Получаване на информация…</string>
     <string name="available_size">Свободни %s</string>
@@ -6146,7 +6146,7 @@ aptX-Adaptive: Режим на кодек"</string>
 	<string name="aod_lock_screen_date">EEEE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
 	<string name="incall_show">Профил за изходящи повиквания</string>
-    <string name="more_dangerous_option_hint">Фунскциии с висок риск,включително \"%1$s\" са активирани. Докоснете, за да промените настройките.</string>
+    <string name="more_dangerous_option_hint">Функции с висок риск,включително \"%1$s\" са активирани. Докоснете, за да промените настройките.</string>
     <string name="mute_voiceassist_stream">Заглушаване на гласовата помощ</string>
 	<string name="settings_notify_new_version">Налична е актуализация. Докоснете, за да видите подробности.</string>
 	<string name="crypt_keeper_switch_to_pattern">Използвай фигура</string>

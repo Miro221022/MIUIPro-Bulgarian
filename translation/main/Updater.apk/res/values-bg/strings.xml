@@ -55,11 +55,11 @@
   <string name="continue_update_positive_btn">Спри</string>
   <string name="current_version">Текуща версия</string>
   <string name="daily_build">Вечерна</string>
-  <string name="delay_update_text">Актуализирай тази вечер</string>
+  <string name="delay_update_text">Актуализирай през нощта</string>
   <string name="dialog_delay_update_cancel">Отмени</string>
   <string name="dialog_delay_update_msg">Актуализациите ще бъдат инсталирани между 02:00ч и 05:00ч, ако батерията е заредена над 30%.</string>
   <string name="dialog_delay_update_msg_ab">Актуализациите ще бъдат инсталирани между 2:00 и 5:00 часа сутринта.</string>
-  <string name="dialog_delay_update_title">Налично е обновление</string>
+  <string name="dialog_delay_update_title">Налична е актуализация</string>
   <string name="dialog_delay_update_tonight">OК</string>
   <string name="disable">Не включвай</string>
   <string name="download_again">Изтегли отново</string>

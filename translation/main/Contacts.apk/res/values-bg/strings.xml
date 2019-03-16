@@ -101,7 +101,7 @@
   <string name="callBack">Обратно повикване</string>
   <string name="callDetailsDurationFormat" formatted="false">%s мин %s сек</string>
   <string name="callDetailTitle">Детайли за повикване</string>
-  <string name="calllog_call_note_menu">Бележки за обаждане</string>
+  <string name="calllog_call_note_menu">Бележки</string>
   <string name="calllog_call_record_menu">Записани обаждания</string>
   <string name="calllog_menu_blacklist">Добави към черния списък</string>
   <string name="calllog_menu_edit_before_call">Редактиране</string>
@@ -195,11 +195,11 @@
   <string name="confirm_export_message">Вашият списък с контакти ще бъде експортиран във файла: %s.</string>
   <string name="confirm_export_title">Ще експортирате ли контактите?</string>
   <string name="connections">Връзки</string>
-  <string name="contact_clear_search_history">Изчистване на историята</string>
+  <string name="contact_clear_search_history">Изтриване</string>
   <string name="contact_delete_toast">Контактът е успешно изтрит</string>
-  <string name="contact_detail_action_item_calllog">История на повикванията</string>
+  <string name="contact_detail_action_item_calllog">История</string>
   <string name="contact_detail_action_item_nocalllog">Няма история</string>
-  <string name="contact_detail_calllog_call_note_tips">Бележка към повикване</string>
+  <string name="contact_detail_calllog_call_note_tips">Бележки</string>
   <string name="contact_detail_calllog_call_record_tips">Записани обаждания</string>
   <string name="contact_detail_calllog_empty">Няма история</string>
   <string name="contact_detail_entry_pay">Плащане</string>

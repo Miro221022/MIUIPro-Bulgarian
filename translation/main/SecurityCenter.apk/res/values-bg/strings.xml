@@ -1563,7 +1563,7 @@
     <string name="summary_auto_update">MIUI ще избере най-подходящото време за изтегляне и ще инсталира обновленията.</string>
     <string name="title_miui_update_latest">MIUI е актуална</string>
     <string name="title_miui_update">Налична е актуализация</string>
-    <string name="summary_miui_update">Налична е актуализ. за %s.</string>
+    <string name="summary_miui_update">Налична е актуализация за %s.</string>
     <string name="title_virus_cloudscan">Сканирай за вируси облачното хранилище</string>
     <string name="summary_virus_cloudscan">Изпращане на име и детайли за приложенията и сканиране с помощта на онлайн вирусни дефиниции</string>
     <string name="title_cleaner_cloudscan">Сканирай кошчето на облачното хранилище</string>
