@@ -9,7 +9,7 @@
     <string name="never_notify">"Не показвай отново"</string>
     <string name="agree">Разреши</string>
     <string name="need_get_accounts_and_storage_permission">Mi Диск трябва да има достъп до профила ви и външното хранилище, за да работи нормално.</string>
-    <string name="account_logout">Exit account “%1$s”</string>
+    <string name="account_logout">Изход от профила “%1$s”</string>
     <string name="quota_info">Mi Диск: %1$s налични, %2$s общо</string>
     <string name="vip_info">VIP: %1$s</string>
     <string name="upload_file_to_midrive">Качване на файл в Mi Диск</string>
@@ -50,9 +50,9 @@
     <string name="move_failed">"Не може да се изреже"</string>
     <string name="move_failed_retry">"Не може да се изреже, изчакайте %1$s и опитайте отново"</string>
     <string name="copy_failed">"Не може да се копира"</string>
-    <string name="copy_failed_retry">"Не може да се копира, изчакайте %1$s and try again"</string>
+    <string name="copy_failed_retry">"Не може да се копира, изчакайте %1$s и опитайте отново"</string>
     <string name="delete_failed">"Не може да се изтрие"</string>
-    <string name="delete_failed_retry">"Не може да се изтрие, изчакайте %1$s and try again"</string>
+    <string name="delete_failed_retry">"Не може да се изтрие, изчакайте %1$s и опитайте отново"</string>
     <string name="delete_success">Файлът е изтрит</string>
     <string name="rename_failed">Вече съществува файл със същото име.</string>
     <string name="create_new_folder_failed">"Не може да се създаде папка."</string>

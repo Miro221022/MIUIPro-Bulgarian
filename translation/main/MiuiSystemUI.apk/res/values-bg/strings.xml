@@ -525,7 +525,7 @@
   <string name="enable_freeform_support">Активиране на прозорци със свободна форма</string>
   <string name="enable_freeform_support_summary">Активиране на поддръжка на експериментални прозорци със свободна форма.</string>
   <string name="enable_opengl_traces_title">Вкл на OpenGL трасиране</string>
-  <string name="enable_power_save_mode">Включване на Пестене на батерията</string>
+  <string name="enable_power_save_mode">Включване на Пестене</string>
   <string name="enable_terminal_summary">Активиране на приложение за контрол на изводите за локален достъп</string>
   <string name="enable_terminal_title">Локален извод</string>
   <string name="enabled_by_admin">Активирано от администратор</string>
