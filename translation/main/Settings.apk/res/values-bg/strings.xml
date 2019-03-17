@@ -1656,13 +1656,13 @@
     <string name="location_mode_sensors_only_description">Използване на GPS за определяне на местоположението</string>
     <string name="location_menu_scanning">Сканиране</string>
     <string name="location_scanning_screen_title">Сканиране</string>
-    <string name="location_scanning_wifi_always_scanning_title">Сканиране за Wi‑Fi</string>
-    <string name="location_scanning_wifi_always_scanning_description">Подобряване на местоположението чрез разрешаване на системните приложения и услуги да откриват Wi‑Fi мрежи по всяко време.</string>
-    <string name="location_scanning_bluetooth_always_scanning_title">Сканиране за устройства с Bluetooth</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN сканиране</string>
+    <string name="location_scanning_wifi_always_scanning_description">Подобряване на местоположението чрез разрешаване на системните приложения и услуги да откриват WLAN мрежи по всяко време.</string>
+    <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth сканиране</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Подобряване на местоположението чрез разрешаване на системните приложения и услуги да откриват устройства с Bluetooth по всяко време.</string>
     <string name="location_network_based">Mестоположение от Wi-Fi и мобилна мрежа</string>
     <string name="location_neighborhood_level">Приложенията да ползват услугата ни за местоположение, за да прогнозират по-бързо вашето. Анонимни данни за местоположението ще се събират и изпращат на Google.</string>
-    <string name="location_neighborhood_level_wifi">Местоположението се определя чрез Wi-Fi</string>
+    <string name="location_neighborhood_level_wifi">Местоположението се определя чрез WLAN</string>
     <string name="location_gps">Спътници на GPS</string>
     <string name="location_street_level">Приложенията да използват GPS на телефона ви, за да посочат местоположението ви</string>
     <string name="assisted_gps">Използване GPS подпомагане</string>
@@ -4609,7 +4609,7 @@
     <string name="miui_lab_gallery_search_desc">Подобрено търсене на изображения</string>
     <string name="virus_scan">Антивирус</string>
     <string name="network_assistant">Монитор за данни</string>
-    <string name="anti_spam">Антиспам</string>
+    <string name="anti_spam">Списък с блокирани</string>
     <string name="permission_mgr">Разрешения</string>
     <string name="cleaner">Почистване</string>
     <string name="power_mgr">Оптимизация на батерията</string>

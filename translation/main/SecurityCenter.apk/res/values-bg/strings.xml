@@ -1224,7 +1224,7 @@
     <string name="result_autoscan_header">Наблюдение на плащанията</string>
     <string name="result_autoscan_info">Автоматично наблюдение на системната среда, когато се стартират приложенията за плащане</string>
     <string name="result_sms_title_antispam">Злонамерени URL адреси в SMS</string>
-    <string name="result_sms_info_antispam">Включете Антиспам за предпазване от злонамерени URL адреси</string>
+    <string name="result_sms_info_antispam">Включете списък с блокирани за предпазване от злонамерени URL адреси</string>
     <string name="result_sms_title_auth">Риск при SMS от банкови институции</string>
     <string name="result_sms_info_auth">Ограничете достъпа на приложения от трети страни до кодове за потвърждение.</string>
     <string name="toast_set_success">Успешно настроено</string>
@@ -1344,7 +1344,7 @@
     <string name="menu_text_networkassistants_unit_mb">Мб</string>
     <string name="menu_text_networkassistants_unit_kb">Кб</string>
     <string name="menu_text_networkassistants_unit_b">б</string>
-    <string name="menu_text_antispam">Антиспам</string>
+    <string name="menu_text_antispam">Блокиране</string>
     <string name="menu_text_license_manager">Разрешения</string>
     <string name="menu_text_garbage_cleanup">Почистване</string>
     <string name="menu_text_garbage_cleanup_danger">%s</string>
@@ -1359,7 +1359,7 @@
     <string name="activity_title_settings">Настройки</string>
     <string name="activity_title_antivirus">Сканиране на защитата</string>
     <string name="activity_title_networkassistants">Използване на данни</string>
-    <string name="activity_title_antispam">Антиспам</string>
+    <string name="activity_title_antispam">Списък с блокирани</string>
     <string name="activity_title_license_manager">Разрешения</string>
     <string name="activity_title_power_manager">Оптимизация на батерията</string>
     <string name="activity_title_garbage_cleanup">Почистване</string>
@@ -1399,9 +1399,9 @@
     <string name="title_dev_yes">Опции на програмиста: изкл.</string>
     <string name="title_dev_no">Опции на програмиста: вкл.</string>
     <string name="summary_dev">Предотвратяване на достъпа на приложенията до потребителските данни</string>
-    <string name="item_usb_debug">Отстр. USB грешки</string>
+    <string name="item_usb_debug">Отстраняване USB грешки</string>
     <string name="item_virus_lib">Автоматично актуализиране на вирусните дефиниции</string>
-    <string name="item_system_auto_download">Авт. изтегляне на актуализации</string>
+    <string name="item_system_auto_download">Автоматично изтегляне на актуализации</string>
     <string name="item_install_monitor">Контрол на инсталиране</string>
     <string name="item_app_permission">Разрешения на приложение</string>
     <string name="item_mms">Филтър за нежелани съобщения</string>
@@ -1421,7 +1421,7 @@
     <string name="pref_category_title_module_settings">Настройки на модулите</string>
     <string name="Settings_title_garbage_cleanup">Настройка на Почистване</string>
     <string name="Settings_title_network_assistants">Настройка на Монитор</string>
-    <string name="Settings_title_anti_spam">Настройка на Антиспам</string>
+    <string name="Settings_title_anti_spam">Настройки на списък с блокирани</string>
     <string name="Settings_title_power_center">Настройки за оптимизиране на батерията</string>
     <string name="Settings_title_anti_virus">Настройки на сканирането</string>
     <string name="menu_item_virus_cloud_scan_title">Онлайн вирусни дефиниции</string>
