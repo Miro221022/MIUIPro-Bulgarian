@@ -1642,7 +1642,7 @@
     <string name="managed_profile_location_switch_title">Местоположение за служебен потребителски профил</string>
     <string name="location_mode_title">Режим</string>
     <string name="location_mode_high_accuracy_title">Висока точност</string>
-    <string name="location_mode_battery_saving_title">Запазване на батерията</string>
+    <string name="location_mode_battery_saving_title">Пестене на батерията</string>
     <string name="location_mode_sensors_only_title">Само чрез устройството</string>
     <string name="location_mode_location_off_title">Местоположението е изключено</string>
     <string name="location_category_recent_location_requests">Последни заявки за местоположение</string>
@@ -1651,7 +1651,7 @@
     <string name="location_high_battery_use">Висок разход на батерията</string>
     <string name="location_low_battery_use">Нисък разход на батерията</string>
     <string name="location_mode_screen_title">Режим</string>
-    <string name="location_mode_high_accuracy_description">Използване на GPS, Wi-Fi и мобилни мрежи за определяне на местоположението</string>
+    <string name="location_mode_high_accuracy_description">Използване на GPS, WLAN и мобилни мрежи за определяне на местоположението</string>
     <string name="location_mode_battery_saving_description">Използване на WLAN и мобилни мрежи, за да определяне на местоположението</string>
     <string name="location_mode_sensors_only_description">Използване на GPS за определяне на местоположението</string>
     <string name="location_menu_scanning">Сканиране</string>

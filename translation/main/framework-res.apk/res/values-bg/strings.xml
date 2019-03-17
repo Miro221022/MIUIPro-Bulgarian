@@ -1006,7 +1006,7 @@
     <string name="submit">Изпращане</string>
     <string name="car_mode_disable_notification_title">Мото режимът е активиран</string>
     <string name="car_mode_disable_notification_message">Докоснете, за да излезете от моторежима.</string>
-    <string name="tethered_notification_title">Има активна споделена връзка или безжична точка за достъп</string>
+    <string name="tethered_notification_title">Активирана преносима точка за достъп</string>
     <string name="tethered_notification_message">Докоснете, за да настроите.</string>
     <string name="back_button_label">Назад</string>
     <string name="next_button_label">Напред</string>
