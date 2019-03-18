@@ -6181,4 +6181,30 @@ aptX-Adaptive: Режим на кодек"</string>
     <string name="bt_dialog_remember_choice">Запомняне на избора</string>
     <string name="bt_dialog_settings">Настройки</string>
     <string name="bt_pre_summary">Осигуряване на висококачествено аудио изживяване</string>
+	<string name="auto_dual_clock_summary">Показване на двоен часовник, когато текущото време е различно от това на втория часовник</string>
+    <string name="auto_dual_clock_title">Двоен часовник</string>
+    <string name="cutout_type_desc">Включете, за да изгладите извивките на прореза</string>
+    <string name="cutout_type_title">Регулиране формата на прореза</string>
+    <string name="dual_clock">Двоен часовник</string>
+    <string name="dual_clock_aod_hint">"\"Двоен часовник\" разчита на следните характеристики: 1. За изключен екран, разрешете показването на елементи в Настройки &gt; Дисплей; 2. За заключен екран се уверете, че използвате стандартната или класическата тема в Настройки &gt; Теми; 3. За Начален екран, уверете се, че използвате джаджа за системен часовник по подразбиране."</string>
+    <string name="dual_clock_hint">"\"Двоен часовник\" разчита на следните характеристики: 1. За заключен екран се уверете, че използвате стандартната или класическата тема в Настройки &gt; Теми; 2. За Начален екран, уверете се, че използвате джаджа за системен часовник по подразбиране."</string>
+    <string name="dual_clock_ok">Разбрах</string>
+    <string name="dual_clock_open_message">Двойният часовник ще се показва на заключен екран, начален екран и изключен екран.</string>
+    <string name="more_installed_services_title">Още изтеглени услуги</string>
+    <string name="otg_button">OTG</string>
+    <string name="otg_closed">Включено</string>
+    <string name="otg_opened">Изключено</string>
+    <string name="otg_settings">OTG</string>
+    <string name="otg_tip">"USB On-The-Go позволява USB устройства и преносими клавиатури да се свързват с вашето мобилно устройство и да обменят данни.
+	
+OTG се изключва автоматично след 10 минути бездействие."</string>
+    <string name="resident_timezone_summary">Втори часовник</string>
+    <string name="toast_sta_ap_works_wifi_display_disable">"Не може да се споделя, когато WLAN връзката е установена и горещата точка е включена."</string>
+    <string name="wapi_auto_sel_cert">Автоматичен избор</string>
+    <string name="wapi_cert_manage_summary">Добавете или изтрийте WAPI сертификат</string>
+    <string name="wapi_cert_manage_title">Управление на WAPI сертификати</string>
+    <string name="wapi_cert_select">WAPI сертификат</string>
+    <string name="wapi_psk_type">Тип на паролата</string>
+    <string name="wapi_psk_type_ascii">ASCII</string>
+    <string name="wapi_psk_type_hex">Шестнадесетично</string>
 </resources>

@@ -2603,4 +2603,8 @@
     <string name="shield_keyboard_summary">Ограничаване на бутоните и жестовете на цял екран по време на игри</string>
     <string name="wlan_optimization_summary">Намаляване на забавянето на WLAN мрежата</string>
     <string name="wlan_optimization_title">WLAN оптимизация</string>
+	<string name="security_center_slogan">Сигурност. Винаги нащрек.</string>
+    <string name="third_desktop_dialog_content">Като приложения за стартиране от трети страни може да се стигне до проблеми като изтичане на данни, необичайно изтощаване на батерията,забавяне и т.н. Само тези, потвърдени от MIUI, могат да бъдат зададени като стартер по подразбиране.</string>
+    <string name="third_desktop_dialog_ok">Разбрах</string>
+    <string name="third_desktop_dialog_title">Грешка</string>
 </resources>

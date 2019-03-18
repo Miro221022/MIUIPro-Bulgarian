@@ -22,7 +22,7 @@
   <string name="activity_main_update_time">Обновено %1$s</string>
   <string name="activity_main_update_time_expire">Информацията не е актуална</string>
   <string name="activity_main_update_time_right_now">Току-що</string>
-  <string name="activity_minute_rain_location_fail_msg">Местоположението не е налично. Ще се показва Пекин по подразбиране.</string>
+  <string name="activity_minute_rain_location_fail_msg">"Не бяха получени точни данни за местоположението. Превключено към текущия град."</string>
   <string name="add_city">Добавяне</string>
   <string name="alert_detail_title">Подробности за алармиране</string>
   <string name="alert_warning">Предупреждения</string>
@@ -190,7 +190,7 @@
   <string name="real_time_sunrise">Изгрев %1$s</string>
   <string name="real_time_sunset">Залез %1$s</string>
   <string name="realtime_aqi_title">Индекс за качество на въздуха</string>
-  <string name="realtime_humidity_title">Относителна влажност</string>
+  <string name="realtime_humidity_title">Влажност</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Вятър</string>
   <string name="refresh_fail">Няма връзка с мрежата</string>
@@ -258,4 +258,6 @@
   <string name="permission_user_protocol">Потребителско споразумение (задължително)</string>
   <string name="weather_introduce">Винаги с теб, когато вали или е слънчево.</string>
   <string name="weather_permission_agree">Приеми</string>
+  <string name="aqi_settings_summary">Предупреждения за ИКВ</string>
+  <string name="aqi_settings_title">ИКВ</string>
 </resources>

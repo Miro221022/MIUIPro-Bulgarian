@@ -264,7 +264,7 @@
   <string name="petabyteShort">Пб</string>
   <string name="pref_download_revert_default">Запазване в мястото по подразбиране</string>
   <string name="pref_download_settings_title">Лимит за изтегляне чрез мобилни данни</string>
-  <string name="pref_download_storage_path">Избор на местоположение за изтегляне</string>
+  <string name="pref_download_storage_path">Местоположение за изтеглянията</string>
   <string name="pref_sniff_shortcut">Добавете пряк път на начален екран за бързо интернет търсене</string>
   <string name="pref_summary_any_bytes_popup">Винаги изчаквай Wi-Fi връзка за изтегляне на файлове</string>
   <string name="pref_summary_enable_max_bytes_popup">Показвай известие при използване на мобилни данни за изтегляне на съдържание</string>
@@ -299,8 +299,8 @@
   <string name="retry_after_network_available">"Не може да се свърже с мрежата. Проверете връзката си за данни и опитайте отново."</string>
   <string name="retry_download">Опитайте отново</string>
   <string name="revert_default">Възстанови началните настройки</string>
-  <string name="revert_download_path">Да се използва ли стандартната папка за изтегляния?</string>
-  <string name="save_path">"Запазвай изтеглянията в:  "</string>
+  <string name="revert_download_path">Използване на стандартната папка?</string>
+  <string name="save_path">"Запазвай изтеглянията в: "</string>
   <string name="save_text">Спестете ￥%1$s</string>
   <string name="search_clear_history_btn">Изчисти историята на търсенията</string>
   <string name="search_clear_history_toast">Хронологията е изчистена</string>

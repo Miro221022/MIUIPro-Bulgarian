@@ -596,14 +596,14 @@
   <string name="monthly_report_entry_text">Преглед на месечния отчет</string>
   <string name="monthly_report_lable">Месечен отчет</string>
   <string name="more_express_numbers">Още куриерски номера</string>
-  <string name="music">Музика &amp; Радио</string>
+  <string name="music">Музика и радио</string>
   <string name="music_card_error_str">Настъпи грешка, отворете приложението Музика, за да слушате</string>
   <string name="music_open">Покажи музика &amp; радио</string>
   <string name="music_setting_brief">Свържете слушалките за да продължите да слушате музика или радио от мястото, където сте били.</string>
   <string name="navigation_network_location_enable">Съгласен</string>
   <string name="navigation_network_location_enable_later">Отказ</string>
   <string name="navigation_network_location_enabled">Услугите за местоположение са включени. Вие можете да промените това в Настройки.</string>
-  <string name="navigation_network_location_not_enabled_summary">Свързване с мрежата и вкл услугите за местоположение. Съгласни ли сте?</string>
+  <string name="navigation_network_location_not_enabled_summary">Свързване с мрежата и включване на услугите за местоположение. Съгласни ли сте?</string>
   <string name="navigation_network_location_not_enabled_title">Включете услугите за местоположение</string>
   <string name="navigation_search_automatically_positioned_city">Текущо местоположение</string>
   <string name="navigation_search_current_city">Настоящо населено място:</string>

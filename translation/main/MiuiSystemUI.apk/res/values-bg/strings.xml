@@ -1077,7 +1077,7 @@
   <string name="pip_close">Затваряне на PIP</string>
   <string name="pip_fullscreen">Цял екран</string>
   <string name="pip_menu_title">Меню за картина в картината</string>
-  <string name="pip_notification_message">Ако не искате %s да използва тази функция, докоснете, за да отворите настройките и да я изключите.</string>
+  <string name="pip_notification_message">Ако не искате %s да използва тази функция, докоснете, за да отворите настройките и я изключете.</string>
   <string name="pip_notification_title">%s е във режим картина в картината</string>
   <string name="pip_notification_unknown_title">(Няма заглавие на програмата)</string>
   <string name="pip_pause">Пауза</string>
