@@ -225,4 +225,5 @@
   <string name="dnd_icon_title">Скриване на иконата за \"Не ме безпокойте\"</string>
   <string name="other_icon_title">Икони при отворен панел</string>
   <string name="dnd_notification_title">Звук за известяване в режим Не ме безпокойте</string>
+  <string name="vpn_icon_title">Скриване на иконата за VPN</string>
 </resources>
