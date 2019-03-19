@@ -2440,7 +2440,7 @@
 	<string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
     <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
     <string name="power_center_list_item_battery_health_model_volume">%s мАч</string>
-	<string name="gs_slip_gamebox_detail">Използвайте плъзгача, за да се покаже панелът за бърз достъп. Бързите отговори и запис на екрана са налични.</string>
+	<string name="gs_slip_gamebox_detail">Използвайте плъзгача или плъзнете от горния ръб на екрана, за да се появи панелът за бърз достъп</string>
     <string name="om_locked_apps_summary">Заключените приложения ще бъдат игнорирани от ускоряването на скоростта.</string>
     <string name="om_not_finish_speedboost">Необходимо е ускоряване на скоростта</string>
     <string name="om_promotion">Реклама</string>

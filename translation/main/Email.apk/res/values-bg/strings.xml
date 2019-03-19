@@ -1101,4 +1101,8 @@
   <string name="open_androidp_warning">Отворено 9.0 Неофициално SDK предупреждение</string>
   <string name="qq_login_notice">Полезен съвет: Ако сте задали независима парола, трябва да въведете независима парола, за да потвърдите влизането си в пощенската кутия.</string>
   <string name="qq_pwd_or_qq_auth_code">QQ код за оторизация или парола за пощенска кутия</string>
+  <string name="folder_empty_to_fresh">"Пощата не е синхронизирана. Дръпнете надолу, за да синхронизирате."</string>
+  <string name="folder_no_mails">Няма имейли в тази папка</string>
+  <string name="toast_bar_sync_failed_mi_authority">Синхронизирането не бе успешно. Моля, опитайте по-късно. За да се впишете в новото устройство, моля, разрешете устройството чрез центъра за профили или SMS.</string>
+  <string name="wipe_account_fail_description_remind">Поради разрешения за данни, след изтриването на профила в календара и контактите може да има остатъчни данни, моля, изтрийте ги ръчно.</string>
 </resources>

@@ -70,7 +70,7 @@
     <string name="feedback_description_save_photo">Не може да се запази снимка или видео</string>
     <string name="flash_lable">Светкавица</string>
     <string name="import_contact">Вмъкване на контакт</string>
-    <string name="impunity_declaration_content">"Скенер трябва да използва камерата и да обработва изображенията, които заснемате, докато използвате приложението. Не използвайте Скенер, за да правите снимки на обекти съдържащи ваша лична информация. Чрез натискането на \"Съгласявам се\", вие се съгласявате с нашата &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Политика за поверителност&lt;/a>&lt;/font> и разрешавате на Скенер достъп до интернет."</string>
+    <string name="impunity_declaration_content">"Скенер трябва да използва камерата и да обработва изображенията, които заснемате, докато използвате приложението. Не използвайте Скенер, за да правите снимки на обекти, съдържащи ваша лична информация. Чрез натискането на \"Съгласявам се\", вие се съгласявате с нашата &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Политика за поверителност&lt;/a>&lt;/font> и разрешавате на Скенер да се свърже с интернет."</string>
     <string name="impunity_declaration_negative_text">Изход</string>
     <string name="impunity_declaration_title">Политика за поверителност</string>
     <string name="label_choose_picture">Изберете изображение</string>

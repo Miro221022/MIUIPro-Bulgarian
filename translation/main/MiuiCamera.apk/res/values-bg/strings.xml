@@ -597,7 +597,7 @@
     <string name="ai_scene_top_moon_off">Режим на слаба светлина</string>
     <string name="autozoom_hint">Следене на движещ се обект</string>
     <string name="autozoom_disabled_hint">Следенето на движещ се обект е спряно</string>
-    <string name="autozoom_click_hint">Докоснете обект, за да започнете проследяване. Останете на най-малко 3 метра разстояние за най-добър ефект.</string>
+    <string name="autozoom_click_hint">"Докоснете обект, за да го задържите на фокус, докато се движи. Останете на поне 3 метра за най-добър ефект."</string>
     <string name="beauty_body">Фигура</string>
      <string name="beauty_body_head">Глава</string>
      <string name="beauty_body_body">Строен</string>
