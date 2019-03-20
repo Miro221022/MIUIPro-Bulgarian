@@ -1484,4 +1484,18 @@
   <string name="set_as_video_wallpaper_description">Изтегляне на този елемент и задаване като видеотапет?</string>
   <string name="set_as_video_wallpaper_title">Задаване на видео тапет</string>
   <string name="set_video_wallpaper_failed">"Този елемент не може да се използва като видеотапет "</string>
+  <string name="cleaner_similar_action">Изтрий сега</string>
+  <string name="cleaner_similar_description">Изтриване на дублирани снимки</string>
+  <string name="cleaner_similar_title">Дублирани снимки</string>
+  <string name="cleaner_video_action">Изтрий сега</string>
+  <string name="cleaner_video_description">Изтриване на видеоклипове, които заемат място</string>
+  <string name="cleaner_video_pick_delete_selected">Изтриване на избраните видеоклипове</string>
+  <string name="cleaner_video_title">Изтриване на видеоклипове</string>
+  <string name="print_log">Печатане на отчет</string>
+  <string name="screen_doodle_talkback_size">Ширина на драскулката</string>
+  <string name="screen_editor_finish">Готово</string>
+  <string name="screen_save_dialog_btn_cancel">Отказ</string>
+  <string name="screen_save_dialog_btn_delete">Изтриване на екранната снимка</string>
+  <string name="screen_save_dialog_btn_save">Запази в Галерия</string>
+  <string name="similar_keep_clear">Запазване на най-добрите снимки</string>
 </resources>

@@ -265,11 +265,19 @@
         <item quantity="one">Изберете %d снимка</item>
     </plurals>
 	  <plurals name="backup_file_over_size_title">
-    <item quantity="other">%d елемента са твърде големи за архивиране</item>
-    <item quantity="one">%d елемент е твърде голям за архивиране</item>
+        <item quantity="other">%d елемента са твърде големи за архивиране</item>
+        <item quantity="one">%d елемент е твърде голям за архивиране</item>
   </plurals> 
   <plurals name="sync_oversized_count">
-    <item quantity="other">%d елемента са твърде големи за архивиране</item>
-    <item quantity="one">%d елемент е твърде голям за архивиране</item>
+        <item quantity="other">%d елемента са твърде големи за архивиране</item>
+        <item quantity="one">%d елемент е твърде голям за архивиране</item>
   </plurals>
+  <plurals name="photo_count_format">
+        <item quantity="other">Общо %1$d елемента</item>
+        <item quantity="one">Общо %1$d елемент</item>
+  </plurals>
+  <plurals name="video_count_format">
+        <item quantity="other">%1$d файла</item>
+        <item quantity="one">%1$d файл</item>
+    </plurals>
 </resources>

@@ -89,7 +89,7 @@
     <string name="default_folder_title_security">Безопасност</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Инструменти</string>
-    <string name="default_screen_preview_title">Докоснете за да зададете като начален екран</string>
+    <string name="default_screen_preview_title">Задаване на начален екран по подразбиране</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Изтрий</string>
     <string name="delete_screen">Изтрий бутон за екрани</string>
@@ -357,4 +357,7 @@
     <string name="recommend_refresh">Обновяване</string>
     <string name="recommend_xout">"Не показвай"</string>
 	<string name="dual_app">Клонирани приложения</string>
+	<string name="edit_mode_top_menu_finish">Готово</string>
+    <string name="menu_finish">Готово</string>
+    <string name="widgets_preview_title">Добави джаджа</string>
 </resources>

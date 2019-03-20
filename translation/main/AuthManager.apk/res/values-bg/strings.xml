@@ -102,4 +102,6 @@
     <string name="grant_dialog_button_deny">Забрани</string>
     <string name="current_permission_template">%1$s от %2$s</string>
     <string name="never_ask_again">Не питай повече</string>
+	<string name="HIPS_Perm_UDevice_ID">Споделяне на части от информацията за устройството с разработчиците на игри, за да им помогнете да подобрят вашето изживяване в игрите. Съгласни ли сте?</string>
+    <string name="HIPS_Perm_UDevice_ID_DESC">Споделяне на части от информацията за устройството с разработчиците на игри, за да им помогнете да подобрят вашето изживяване в игрите. Съгласни ли сте?</string>
 </resources>
