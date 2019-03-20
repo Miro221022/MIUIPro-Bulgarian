@@ -178,7 +178,7 @@
   <string name="close_dial_pad_description">Затваряне на клавиатурата</string>
   <string name="cloud_antispam_mark">Спам</string>
   <string name="cloud_antispam_marked">Отбелязани</string>
-  <string name="cloud_antispam_title">Антиспам (в облак)</string>
+  <string name="cloud_antispam_title">Идентификация на повикващия</string>
   <string name="cloud_recommend_msg">Чукнете за синхронизиране на контактите с Mi Облак.</string>
   <string name="cloud_state_disabled">Синхронизиране на контактите с Mi Облак</string>
   <string name="cloud_state_loading">Един момент…</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="action_firewall_setting">Антиспам</string>
+  <string name="action_firewall_setting">Списък с блокирани</string>
   <string name="activity_not_found">Не е открита програма за показване на прикачения файл</string>
   <string name="activity_not_found_uri">Не е открита програма за това действие</string>
   <string name="add_attachment">Добави прик. файлове</string>

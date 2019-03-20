@@ -159,7 +159,7 @@
     <string name="cloudservice_new_sync">Синхронизиране на %s с Mi Облак</string>
     <string name="click_to_enabled">Докоснете за синхронизиране</string>
     <string name="calendar_sync">Календар</string>
-    <string name="antispam_sync">Антиспам настройки</string>
+    <string name="antispam_sync">Настройки на Не ме безпокойте</string>
     <string name="deskclock_backup">Архив на часовници</string>
     <string name="secret_photo">Скрити снимки</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
