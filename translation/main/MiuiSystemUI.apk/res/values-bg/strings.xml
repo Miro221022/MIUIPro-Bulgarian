@@ -1811,7 +1811,7 @@
    <string name="gxzw_quick_open_qr_code_sub">Скенер</string>
    <string name="gxzw_quick_open_search">Търсене</string>
    <string name="gxzw_quick_open_search_sub">Браузър</string>
-   <string name="gxzw_quick_open_skip_teach">Прпускане</string>
+   <string name="gxzw_quick_open_skip_teach">Пропускане</string>
    <string name="gxzw_quick_open_wechat_pay">Код за плащане</string>
    <string name="gxzw_quick_open_wechat_scan">Скенер</string>
    <string name="gxzw_quick_open_xiaoai_title1">Кажете името на приложението, което искате да отворите</string>
