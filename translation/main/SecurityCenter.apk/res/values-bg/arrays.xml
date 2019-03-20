@@ -14,10 +14,10 @@
     <item>По избор</item>
   </string-array>
   <string-array name="date_of_app_all">
-    <item>Вчера (данни)</item>
-    <item>Днес (данни)</item>
-    <item>Миналия месец (данни)</item>
-    <item>Този месец (данни)</item>
+    <item>Вчера (мобилни данни)</item>
+    <item>Днес (мобилни данни)</item>
+    <item>Миналия месец (мобилни данни)</item>
+    <item>Този месец (мобилни данни)</item>
     <item>Вчера WLAN</item>
     <item>Днес WLAN</item>
     <item>Миналия месец WLAN</item>
