@@ -133,7 +133,7 @@
     <string name="auto_disable_screenbuttons_prompts_not_show_again">\"Не показвай отново</string>
     <string name="start_security_permission_verify_text">Потвърди разрешението с твоя Ми акаунт</string>
     <string name="security_permission_denied_text">Достъп отказан</string>
-    <string name="security_permission_failed_text">Internal error, retry later</string>
+    <string name="security_permission_failed_text">Вътрешна грешка, опитайте по-късно</string>
     <string name="security_permission_xiaomi_account_missed_text">Въведете вашия Ми ID</string>
     <string name="security_permission_validate_warning">Благодарим ви за помощта в подобряването на MIUI!</string>
     <string name="security_permission_wifi_and_data_opened_text">WLAN и мобилни данни са включени</string>
