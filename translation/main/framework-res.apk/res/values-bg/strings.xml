@@ -761,7 +761,7 @@
     <string name="whichImageCaptureApplicationLabel">Заснемане на изображение</string>
     <string name="alwaysUse">Използване по подразбиране за това действие.</string>
     <string name="use_a_different_app">Използване на друго приложение</string>
-    <string name="clearDefaultHintMsg">Изчистване на стандартната настройка в „Системни настройки“ > „Приложения“ > „Изтеглени“.</string>
+    <string name="clearDefaultHintMsg">Изчистване на настройките по подразбиране в Настройки> Управление на приложения> Изтеглени.</string>
     <string name="chooseActivity">Избиране на действие</string>
     <string name="chooseUsbActivity">Избор на приложение за USB устройството</string>
     <string name="noApplications">Това действие не може да се изпълни от нито едно приложение.</string>
@@ -776,10 +776,10 @@
     <string name="aerr_wait">Изчакване</string>
     <string name="aerr_close_app">Затваряне на приложението</string>
     <string name="anr_title" />
-    <string name="anr_activity_application">%2$s не реагира</string>
-    <string name="anr_activity_process">%1$s не реагира</string>
-    <string name="anr_application_process">%1$s не реагира</string>
-    <string name="anr_process">Процесът %1$s не реагира</string>
+    <string name="anr_activity_application">"%2$s не отговаря"</string>
+    <string name="anr_activity_process">"%1$s не отговаря"</string>
+    <string name="anr_application_process">"%1$s не отговаря"</string>
+    <string name="anr_process">"Процесът %1$s не отговаря"</string>
     <string name="force_close">OK</string>
     <string name="report">Подаване на сигнал</string>
     <string name="wait">Изчакване</string>
