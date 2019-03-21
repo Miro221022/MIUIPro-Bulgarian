@@ -2177,7 +2177,7 @@
     <string name="power_overcounted">Отчетено в повече</string>
     <string name="usage_type_cpu">Процесор общо</string>
     <string name="usage_type_cpu_foreground">Процесор на преден план</string>
-    <string name="usage_type_wake_lock">Оставяне в будно състояние</string>
+    <string name="usage_type_wake_lock">Оставане в будно състояние</string>
     <string name="usage_type_gps">GPS</string>
     <string name="usage_type_wifi_running">Работещ Wi-Fi</string>
     <string name="usage_type_phone">Телефон</string>

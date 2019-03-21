@@ -1005,7 +1005,7 @@
     <string name="power_idle">Устройството е неактивно</string>
     <string name="usage_type_cpu">Процесор общо</string>
     <string name="usage_type_cpu_foreground">Процесор на преден план</string>
-    <string name="usage_type_wake_lock">Оставяне в будно състояние</string>
+    <string name="usage_type_wake_lock">Оставане в будно състояние</string>
     <string name="usage_type_wifi_running">Работещ WLAN</string>
     <string name="usage_type_audio">Аудио</string>
     <string name="usage_type_video">Видео</string>
