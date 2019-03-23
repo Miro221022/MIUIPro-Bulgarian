@@ -2917,11 +2917,11 @@
     <string name="manage_notification_access_title">Достъп до известията</string>
     <string name="manage_notification_access_summary_zero">Приложенията не могат да четат известията</string>
     <string name="no_notification_listeners">Няма инсталирани приложения, които са заявили достъп до известията.</string>
-    <string name="notification_listener_security_warning_title">Да се разреши ли достъпът до известията за %1$s?</string>
-    <string name="notification_listener_security_warning_summary">"„%1$s“ ще може да чете всички известия, включително личната информация, като например имената на контактите и текстовете на съобщенията, които получавате. Ще е в състояние и да отхвърля известия или да задейства бутоните за действие в тях. 
+    <string name="notification_listener_security_warning_title">Разрешаване на достъп за %1$s?</string>
+    <string name="notification_listener_security_warning_summary">"%1$s ще може да чете всички известия, включително лична информация, като имена на контакти и текста на съобщенията, които получавате. Също така ще може да отхвърля съобщенията или  да задейства бутоните за действие в тях. 
 
-Това ще предостави на приложението и възможността да включва или изключва „Не безпокойте“, както и да променя сродните настройки."</string>
-    <string name="notification_listener_disable_warning_summary">Ако изключите достъпа до известията за „%1$s“, този до „Не безпокойте“ също може да се изключи.</string>
+Това също ще даде възможност на приложението да включва или изключва функцията Не ме безпокойте и да променя съответните настройки."</string>
+    <string name="notification_listener_disable_warning_summary">Ако изключите достъпът до известия за %1$s, достъпът до Не ме безпокойте може също да бъде изключен.</string>
     <string name="notification_listener_disable_warning_confirm">Изключване</string>
     <string name="notification_listener_disable_warning_cancel">Отказ</string>
     <string name="vr_listeners_title">Помощни услуги за виртуална реалност</string>
