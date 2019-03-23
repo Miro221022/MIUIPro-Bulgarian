@@ -810,5 +810,6 @@
     <string name="wideselfie_rotate_to_left_slowly">Бавно завъртете телефона наляво</string>
     <string name="wideselfie_rotate_to_right_slowly">Бавно завъртете телефона надясно</string>
 	<string name="macro_mode">Макро режим</string>
-    <string name="macro_mode_tip">Моля поставете обекта в рамките на 10 см</string>
+    <string name="macro_mode_tip">"Разстоянието между обектива и обекта не трябва да надвишава 10см"</string>
+	<string name="pref_camera_long_press_viewfinder_default">Google Обектив</string>
 </resources>

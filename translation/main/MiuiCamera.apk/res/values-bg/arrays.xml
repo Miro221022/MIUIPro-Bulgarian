@@ -45,4 +45,8 @@
         <item>Групова снимка</item>
 		<item>Статуя</item>
     </string-array>
+	    <string-array name="pref_camera_long_press_viewfinder_entryvalues">
+        <item>Google Обектив</item>
+        <item>AE и AФ Заключване</item>
+	</string-array>
 </resources>
