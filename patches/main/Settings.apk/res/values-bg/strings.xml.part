@@ -226,4 +226,8 @@
   <string name="other_icon_title">Икони при отворен панел</string>
   <string name="dnd_notification_title">Звук за известяване в режим Не ме безпокойте</string>
   <string name="vpn_icon_title">Скриване на иконата за VPN</string>
+  <string name="other_weather_title">Настройки за показване на времето</string>
+  <string name="show_weather_title">Показване на времето</string>
+  <string name="show_weather_city_title">Показване на града</string>
+  <string name="show_weather_description_title">Показване на описанието</string>
 </resources>
