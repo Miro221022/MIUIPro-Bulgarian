@@ -822,4 +822,19 @@
   <string name="menu_traffic_destination">Дестинация</string>
   <string name="number_recognition_partner">Доставчици на услуги за разпознаване идентификацията на подателя</string>
   <string name="train_edit_destination">Добави</string>
+  <string name="application_list_title">Мини приложения</string>
+  <string name="attach_group_chat">Групов чат</string>
+  <string name="attach_video_call">Видео повикване</string>
+  <string name="can_not_view_group_chat_stranger">"Не мога да видя подробностите на непознати."</string>
+  <string name="contact_not_exists">"Този човек не е в контактите ви."</string>
+  <string name="groupchat_list_title">Групови чатове</string>
+  <string name="menu_make_call">Повикване</string>
+  <string name="menu_view_group_info">Информация за групата</string>
+  <string name="no_network_description">"Не може да се свърже с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
+  <string name="rcs_auto_resend_as_sms_remind_change">Промяна на настройките</string>
+  <string name="rcs_auto_resend_as_sms_remind_desp">"Съобщенията до 900B могат да бъдат преобразувани и изпращани като SMS, когато мрежовият сигнал е лош. Докоснете \"Промяна на настройките\", ако не искате да конвертирате съобщенията си в SMS."</string>
+  <string name="rcs_auto_resend_as_sms_remind_title">Конвертиране в SMS</string>
+  <string name="rcs_hello_from_pc">Влезте в Fetion на компютъра си, за да прехвърлите файлове.</string>
+  <string name="rcs_offline">Не сте влезли в UC. Изчакайте минута или две и опитайте отново.</string>
+  <string name="select_copy_text">Изберете текст за копиране</string>
 </resources>

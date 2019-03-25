@@ -26,4 +26,104 @@
         <item>Календар</item>
         <item>Хранилище</item>
     </string-array>
+	  <string-array name="settings_search_contacts">
+        <item>Синхронизиране на контактите с Mi Облак</item>
+        <item>Включване/настройка на синхронизация</item>
+        <item>Контакти;История на повикванията;Облак;Синхронизация;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Синхронизиране на съобщения с Mi Облак</item>
+        <item>Включване/настройка на синхронизация</item>
+        <item>Съобщения;SMS;MMS;Облак;Синхронизация;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Синхронизиране на Галерия с Mi Облак</item>
+        <item>Включване/настройка на синхронизация</item>
+        <item>Галерия;Снимки;Облак;Синхронизация;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Синхронизирайте историята на обажданията с Mi Облак</item>
+        <item>Включване/настройка на синхронизация</item>
+        <item>История на повикванията;Облак;Синхронизация;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Синхронизиране на записи с Mi Облак</item>
+        <item>Включване/настройка на синхронизация</item>
+        <item>Звукозапис;Облак;Синхронизация;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Синхронизиране на музика с Mi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Музика;Облак;Синхронизация;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Синхронизиране на бележки с Mi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Бележки;Облак;Синхронизация;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Синхронизиране на настройките за WLAN с Mi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>WLAN;wifi;WLAN;Облак;Синхронизиране;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Синхронизиране на Календар с Mi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Календар;Облак;Синхронизиране;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Синхронизиране на Браузър с Mi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Браузър;Облак;Синхронизиране;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Синхронизиране на Сигурност с Mi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Сигурност;Облак;Синхронизиране;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Синхронизиране на Личен асистент с Mi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Личен асистент;Карти;Облак;Синхронизиране;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Mi Облак. Всички Mi услуги на едно място.</item>
+        <item>Осъществявайте достъп до вашите снимки, контакти, съобщения и устройства от всяко място</item>
+        <item>Недостатъчно място за съхранение;Членство;Хранилище;Място за съхранение;Облак;Синхронизиране;Облачни услуги;Mi Облак;Кошче;Изтрити елементи;Сигурност</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Открий устройството</item>
+        <item>"Изтрийте данните и заключете вашето устройство, ако го изгубите"</item>
+        <item>Открий устройството;Изгубено;Облак;Синхронизиране;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Открий устройството</item>
+        <item>"Изтрийте данните и заключете вашето устройство, ако го изгубите"</item>
+        <item>Открий устройството;Изгубено;Облак;Синхронизиране;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Изтрити елементи в Mi Облак</item>
+        <item>Възстановете контакти, снимки, съобщения и други</item>
+        <item>Кошче;Изтрити елементи;Кошче;Възстановяване;Облачни услуги;Mi Облак</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Членството в Mi Облак</item>
+        <item>Надстройте членството си, получете повече място за съхранение и защитете данните си</item>
+        <item>Недостатъчно място за съхранение;Членство;Хранилище;Място за съхранение;Облак;Синхронизиране;Облачни услуги;Mi Облак;Mega;Ultra;VIP;Архивиране;Архивиране;Възстановяване;Кошче;Изтрити елементи;Кошче</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Архивиране на начален екран Mi Облак</item>
+        <item>Архивирайте оформлението на началния екран, списък с инсталирани приложения и системни настройки</item>
+        <item>Облак;Архивиране;Архивиране;Облачни услуги;Mi Облак;Начален екран;Оформление;Приложения;Настройки;Честота на архивиране;Управление на архивите;Възстановяване</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Backups</item>
+        <item>Backed up items</item>
+        <item>Облак;Архивиране;Архивиране;Облачни услуги;Mi Облак;Начален екран;Оформление;Приложения;Управление на архивите;Възстановяване</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Restore items from Mi Cloud</item>
+        <item>Download backed up items to your device</item>
+        <item>Облак;Архивиране;Архивиране;Възстановяване;Облачни услуги;Mi Облак</item>
+    </string-array>
 </resources>

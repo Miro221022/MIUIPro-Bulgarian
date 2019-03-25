@@ -52,7 +52,7 @@
     <string name="event_info_title">Преглед на събития</string>
     <string name="event_info_title_invite">Покана за среща</string>
     <string name="event_view">Преглед на събитие</string>
-    <string name="every_weekday">Всеки работен ден (Понеделник-Петък)</string>
+    <string name="every_weekday">От Понеделник до Петък</string>
     <string name="gadget_no_events">Няма предстоящи събития в календара</string>
     <string name="gadget_title">Календар</string>
     <string name="hint_attendees">Гости</string>
@@ -526,4 +526,12 @@
   <string name="reminder_overdue">Изтекъл</string>
   <string name="train_detail_title">Маршрут на влака</string>
   <string name="train_event_delete_successfully">Успешно е изтрит маршрутът на влака</string>
+  <string name="feed_tips_got_it">Знам</string>
+  <string name="feed_tips_primary_text">Канал за абонамент подновена версия</string>
+  <string name="feed_tips_secondary_text">Пълна интеграция на богата информация и ефективни услуги</string>
+  <string name="feed_tips_see_details">Преглед на подробности</string>
+  <string name="feed_tips_subscribe_more">Абонирайте се за повече канали</string>
+  <string name="weather_huangli_card_no_data_hint">Кликнете, за да получите информация за времето</string>
+  <string name="yiji_app_download_card_lebal">Необходимо</string>
+  <string name="setting_title_weather_card_desc">Информация за времето от дясната страна на лунната карта</string>
 </resources>
