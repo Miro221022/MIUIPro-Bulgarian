@@ -165,12 +165,12 @@
         <item>Показвай само в лента на състоянието</item>
         <item>Никога не показвай името на оператора</item>
     </string-array>
-    <string-array name="check_importance_entries">
+    <string-array name="fold_entries">
         <item>Препоръчани</item>
         <item>Важни</item>
         <item>Маловажни</item>
     </string-array>
-    <string-array name="check_importance_summary">
+    <string-array name="fold_summaries">
         <item>MIUI ще реши кои известия трябва да се появят директно</item>
         <item>Известията ще се покажат директно в лентата с известия</item>
         <item>Всички известия ще се покажат в отделна папка</item>
@@ -618,8 +618,9 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Графика</item>
-        <item>Проценти и графика</item>
-        <item>Линия над лентата за състояние</item>
+        <item>Проценти(в иконата)</item>
+        <item>Проценти(до иконата)</item>
+		<item>Линия над лентата за състояние</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Запитване при включване</item>
@@ -1522,7 +1523,7 @@
         <item>Графика</item>
         <item>Проценти</item>
     </string-array>
-	<string-array name="status_bar_settings_notification_shade_shortcut_entries">
+	<string-array name="notification_shade_shortcut_entries">
         <item>Търсене</item>
         <item>Настройки</item>
     </string-array>
@@ -1600,7 +1601,7 @@
         <item>Включване на режим за четене</item>
         <item>Няма</item>
     </string-array>
-	    <string-array name="status_bar_settings_notification_style_entries">
+	    <string-array name="notification_style_entries">
         <item>MIUI</item>
         <item>Андроид</item>
     </string-array>
@@ -1645,5 +1646,10 @@
 	<string-array name="debug_hw_renderer_entries">
         <item>OpenGL (По подразбиране)</item>
         <item>OpenGL (Skia)</item>
+    </string-array>
+	    <string-array name="time_format_entries">
+        <item>12-часов 1:00 PM</item>
+        <item>24-часов 13:00</item>
+        <item>Автоматично (на база системен език)</item>
     </string-array>
 </resources>
