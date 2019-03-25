@@ -814,7 +814,7 @@
 	<string name="pref_camera_long_press_viewfinder_default">Google Обектив</string>
 	<string name="accessibility_bokeh_normal">Замъгляването на фона на предната камера е изключено</string>
     <string name="accessibility_bokeh_on">Замъгляването на фона на предната камера е включено</string>
-    <string name="bokeh_use_hint">Ефект на дълбочина</string>
+    <string name="bokeh_use_hint">Ефект дълбочина</string>
     <string name="mimoji_back">назад</string>
     <string name="mimoji_cancle">отказ</string>
     <string name="mimoji_confirm">потвърди</string>
