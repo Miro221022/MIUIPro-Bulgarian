@@ -2357,7 +2357,7 @@
     <string name="no_device_admins">Няма налични администратори на устройство</string>
     <string name="personal_device_admin_title">Лично</string>
     <string name="managed_device_admin_title">Служебно</string>
-    <string name="no_trust_agents">Няма налични trust agents</string>
+    <string name="no_trust_agents">Няма налични доверени посредници</string>
     <string name="add_device_admin_msg">Да се активира ли администраторът?</string>
     <string name="add_device_admin">Активиране на този администратор на устройството</string>
     <string name="device_admin_add_title">Администратор на устройство</string>

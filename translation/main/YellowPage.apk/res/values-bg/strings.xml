@@ -117,7 +117,7 @@
     <string name="mark_number_custom_mark_deleted">Информацията за отбелязването е изтрита</string>
     <string name="mark_number_delete_confirm_message">Преместване на информацията за отбелязване %s?</string>
     <string name="mark_number_delete_confirm_title">Преместване на информацията за отбелязване</string>
-    <string name="mark_number_dialog_maintitle">Отбележете този номер</string>
+    <string name="mark_number_dialog_maintitle">Маркиране на този телефонен номер</string>
     <string name="mark_number_dialog_subtitle">%1$s (отбелязани от %2$d хора)</string>
     <string name="mark_number_feedback">Отбелязване</string>
     <string name="mark_number_feedback_hint">Въведете Отзив</string>
