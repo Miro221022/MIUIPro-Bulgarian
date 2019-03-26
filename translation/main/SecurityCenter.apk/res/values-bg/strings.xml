@@ -1809,7 +1809,7 @@
     <string name="system_application">Системни приложения</string>
     <string name="third_application">Инсталирани приложения</string>
     <string name="finger_remind_message">Добавете първо вашия пръстов отпечатък. Чукнете за да отворите Настройки.</string>
-    <string name="fingerprint_not_remind">Не питай повече</string>
+    <string name="fingerprint_not_remind">"Не питай отново"</string>
     <string name="fingerprint_verify_succeed">Потвърден успешно</string>
     <string name="fingerprint_verify_failed">Не може да се потвърди</string>
     <string name="fingerprint_verify_try_agin">Не може да се сканира, опитайте отново</string>

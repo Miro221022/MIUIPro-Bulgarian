@@ -5167,7 +5167,7 @@
     <string name="privacy_password_remind_bind_notlogin_account">Добавете своят Mi профил, за да можете да нулирате паролата си в случай,че я забравите.</string>
     <string name="privacy_password_bind_account_immediate">Добавяне</string>
     <string name="privacy_password_remind_bindaccount_title">Добавяне на Mi профил</string>
-    <string name="privacy_password_never_remind">Не питай повече</string>
+    <string name="privacy_password_never_remind">"Не питай отново"</string>
     <string name="privacy_password_enter_privacy">Въведете паролата за защита на личните данни</string>
     <string name="privacy_password_add_account_setting">Профил и сигурност</string>
     <string name="privacy_password_add_account_info">Добавете своя Mi профил, за да можете да нулирате паролата, ако я забравите</string>

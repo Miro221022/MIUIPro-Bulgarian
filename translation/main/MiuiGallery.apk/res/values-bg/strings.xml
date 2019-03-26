@@ -636,7 +636,7 @@
     <string name="not_ask_any_more">Не питай повече за \"%s\"</string>
     <string name="not_is">Не</string>
     <string name="not_remind_again">Не питай отново</string>
-    <string name="not_remind_any_more">Не питай повече</string>
+    <string name="not_remind_any_more">Не питай отново</string>
     <string name="ok">OК</string>
     <string name="onekey_auto">Авто</string>
     <string name="onekey_food">Храна</string>
