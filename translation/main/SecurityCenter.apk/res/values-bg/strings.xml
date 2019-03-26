@@ -94,8 +94,7 @@
     <string name="st_settings_name">Настройки за блокиране</string>
     <string name="st_filter_keywords_setting_summary1">Съобщенията от непознати номера, които съдържат думите от този списък ще бъдат блокирани.</string>
     <string name="st_filter_keywords_setting_summary3">Съобщения от непознати номера, които съдържат думите в този списък, ще бъдат разрешени.</string>
-    <string name="st_filter_keywords_setting_summary2">"\u000d
-(Използвайте запетая, за да разделите думите)"</string>
+    <string name="st_filter_keywords_setting_summary2">(Използвайте запетая, за да разделите думите)</string>
     <string name="label_callwait">Известие за изчакване на повикване</string>
     <string name="open_callwait">Включено</string>
     <string name="close_callwait">Изключено</string>
@@ -2607,4 +2606,6 @@
     <string name="third_desktop_dialog_content">Като приложения за стартиране от трети страни може да се стигне до проблеми като изтичане на данни, необичайно изтощаване на батерията,забавяне и т.н. Само тези, потвърдени от MIUI, могат да бъдат зададени като стартер по подразбиране.</string>
     <string name="third_desktop_dialog_ok">Разбрах</string>
     <string name="third_desktop_dialog_title">Грешка</string>
+	<string name="gamecenter_install_fail">"Не може да се инсталира"</string>
+    <string name="gamecenter_install_sucessfull">Инсталирано успешно</string>
 </resources>
