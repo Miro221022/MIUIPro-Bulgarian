@@ -203,4 +203,12 @@
         <item>Ляво</item> 
         <item>Дясно</item> 
     </string-array> 
+	<string-array name="battery_indicator_style_entries">
+        <item>Графика</item>
+        <item>Проценти (в иконата)</item>
+        <item>Проценти (до иконата)</item>
+        <item>Само проценти</item>
+        <item>Линия над лентата за състояние</item>
+        <item>Не показвай</item>
+    </string-array>
 </resources>

@@ -2608,4 +2608,5 @@
     <string name="third_desktop_dialog_title">Грешка</string>
 	<string name="gamecenter_install_fail">"Не може да се инсталира"</string>
     <string name="gamecenter_install_sucessfull">Инсталирано успешно</string>
+	<string name="gb_shortcut_pref_title">Пряк път на началния екран</string>
 </resources>

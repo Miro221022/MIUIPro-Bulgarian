@@ -676,9 +676,9 @@
 	<string name="hint_ae_lock">Автоматичната експозиция е заключена</string>
 	<string name="config_name_ratio">Съотношение</string>
     <string name="module_name_pixel_48M">48M</string>
-	<string name="pref_camera_long_press_viewfinder_title">Натиснете и задръжте визьора</string>
+	<string name="pref_camera_long_press_viewfinder_title">Настройки на визьора</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Oбектив</string>
-    <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Заключване на автоекспозиция и автофокус</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Заключване на АЕ/АФ</string>
     <string name="pref_google_lens_summary">Автоматично идентифициране на QR кодове, имейли, номера и т.н.</string>
     <string name="pref_google_lens_title">Предложения от Обектив</string>
 	<string name="abc_action_bar_home_description">Придвижване към начален екран</string>
@@ -841,4 +841,7 @@
     <string name="wideselfie_result_image_lossless">Неуспешно запаметяване на панорамни снимки</string>
     <string name="pref_camera_front_bokeh_entry_off">Включено</string>
     <string name="pref_camera_front_bokeh_entry_on">Изключено</string>
+	<string name="dialog_google_lens_option_0">Google Обектив(Препоръчва се)</string>
+    <string name="pref_camera_long_press_viewfinder_google_lens">Google Обектив</string>
+    <string name="pref_camera_long_press_viewfinder_lock_ae_af">Заключване на АЕ/АФ</string>
 </resources>

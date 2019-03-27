@@ -369,7 +369,7 @@
         <item>Отлагане</item>
         <item>Изключване</item>
     </string-array>
-	    <string-array name="timer_duration">
+	<string-array name="timer_duration">
         <item>Общо време %1$s</item>
         <item>Общо време %2$s</item>
         <item>Общо време %1$s %2$s</item>
@@ -378,4 +378,9 @@
         <item>Общо време %2$s %3$s</item>
         <item>Общо време %1$s %2$s %3$s</item>
      </string-array>
+	 <string-array name="clock_bg_setting_entries">
+        <item>Бял</item>
+        <item>Черен</item>
+        <item>Автоматично</item>
+    </string-array>
 </resources>
