@@ -125,10 +125,10 @@
     </string-array> 
 	<string-array name="crt_animation_framing_entries"> 
         <item>Постоянна</item> 
-        <item>50 кадри/с</item> 
-        <item>25 кадри/с</item> 
-        <item>10 кадри/с</item> 
-        <item>5 кадри/с</item> 
+        <item>50 кад/с</item> 
+        <item>25 кад/с</item> 
+        <item>10 кад/с</item> 
+        <item>5 кад/с</item> 
     </string-array> 
 	<string-array name="crt_fade_entries"> 
         <item>По подразбиране</item> 
@@ -171,8 +171,8 @@
 	<string-array name="policy_control_entries"> 
         <item>Потапяне (по подразбиране)</item> 
         <item>Потапяне (на цял екран)</item> 
-        <item>Скрий лентата на състоянието</item> 
-        <item>Скрий навигационната лента</item> 
+        <item>Скриване на лентата на състояние</item> 
+        <item>Скриване на навигационната лента</item> 
     </string-array> 
 	<string-array name="ts_keycode_entries"> 
         <item>Начален екран</item> 
