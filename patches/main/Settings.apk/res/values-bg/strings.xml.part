@@ -230,4 +230,7 @@
   <string name="show_weather_title">Показване на времето</string>
   <string name="show_weather_city_title">Показване на града</string>
   <string name="show_weather_description_title">Показване на описанието</string>
+  <string name="other_size_title">Настройки за размер на шрифта</string>
+  <string name="set_clock_size_title">Размер на часовника</string>
+  <string name="set_battery_size_title">Процентa на батерията</string>
 </resources>

@@ -345,8 +345,8 @@
     <string name="status_bar_settings_app_notification_preferences">Настройки на приложенията</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Свиване след докосване</string>
     <string name="status_bar_settings_status_bar">Лента за състоянието</string>
-    <string name="status_bar_settings_show_notification_icon">Покажи икона на известието</string>
-    <string name="status_bar_settings_show_network_speed">Покажи скоростта на връзката</string>
+    <string name="status_bar_settings_show_notification_icon">Показване на иконите за известията</string>
+    <string name="status_bar_settings_show_network_speed">Показване на скоростта на връзката</string>
     <string name="status_bar_settings_expandable_under_keyguard">Показване на заключен екран</string>
     <string name="status_bar_settings_basic_settings">Основни настройки</string>
     <string name="status_bar_settings_advanced">Други настройки</string>
