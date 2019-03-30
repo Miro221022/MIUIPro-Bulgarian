@@ -108,8 +108,8 @@
   <string name="feedback_result_success">Успешно изпратен доклад за грешки, благодарим Ви.</string>
   <string name="feedback_sandy">Прашно</string>
   <string name="feedback_sunny">Ясно</string>
-  <string name="first_start_network_title">Известие за свързване</string>
-  <string name="global_aqi">AQI: %1$s %2$s</string>
+  <string name="first_start_network_title">Интернет връзка и достъп до местоположение</string>
+  <string name="global_aqi">ИКВ: %1$s %2$s</string>
   <string name="hourly_forcast_now">Сега</string>
   <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
   <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
@@ -258,6 +258,9 @@
   <string name="permission_user_protocol">Потребителско споразумение (задължително)</string>
   <string name="weather_introduce">Винаги с теб, когато вали или е слънчево.</string>
   <string name="weather_permission_agree">Приеми</string>
-  <string name="aqi_settings_summary">Предупреждения за ИКВ</string>
-  <string name="aqi_settings_title">ИКВ</string>
+  <string name="aqi_settings_summary">Предупреждения за качеството на въздуха</string>
+  <string name="aqi_settings_title">Индекс за качеството на въздуха</string>
+  <string name="abrupt_weather_settings_summary_type_a">Предупреждения за необичайни промени във времето</string>
+  <string name="abrupt_weather_settings_summary_type_b">Предупреждения за необичайни промени във времето</string>
+  <string name="abrupt_weather_settings_title">Предупреждения за необичайно време</string>
 </resources>

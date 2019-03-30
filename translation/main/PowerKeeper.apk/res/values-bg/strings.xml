@@ -36,7 +36,10 @@
     <string name="vip_feedback_enable">Включи VIP Отзив</string>
     <string name="extreme_power_config_mode_category">Екстремно пестене на батерия</string>
     <string name="extreme_power_config_mode_title">Екстремно пестене на батерия</string>
-    <string name="extreme_power_config_mode_desc">Превключете към Екстремно пестене, за да изключите синхронизацията, Bluetooth, GPS, NFC, двойното почукване, подсветката на бутоните, събуждащнето на екрана при известия, както и светлините за известяване. MIUI ще се съсредоточи върху пестенето на батерия.</string>
+    <string name="extreme_power_config_mode_desc"><li>"Екстремното пестене на батерия спира цялата активност на заден план за дадено приложение, след като излезете от него и се върнете към началния екран. Това приложение няма да ви изпраща известия или да получавате актуализации."</li>"
+"<li>Ако искате приложението да работи във фонов режим, заключете го в Последни или го добавете към изключения по-долу. До 4 приложения могат да се изпълняват във фонов режим, когато е включено Екстремно пестене на батерия.</li>"
+"<li>Екстремното пестене на батерия изключва NFC по подразбиране. Можете да промените това в Настройки.</li>"
+"<li>За да сте сигурни, че можете да използвате всички функции на устройството си нормално, Екстремното пестене на батерия ще се изключи автоматично, когато батерията е заредена на 30%.</li></string>
     <string name="empty_title_apps_container_list">Няма приложения</string>
     <string name="hints_loading_text">Един момент…</string>
     <string name="config_mode_title">Настройки за работа на заден план</string>
@@ -85,8 +88,8 @@
     <string name="sleepmode_privacy_content">"Тази функция ще използва информацията за вашата система и устройство. Тя няма да бъде качена на нашите сървъри."</string>
     <string name="sleepmode_privacy_link">Научете повече за поверителността и сигурността</string>
     <string name="sleepmode_privacy_title">Спящ режим</string>
-	<string name="app_preload_policies_summary">Използвайте машинно обучение, за да предскажете приложенията, които най-вероятно ще използвате и заредете ресурсите предварително</string>
-    <string name="app_preload_policies_title">Предварително зареждане</string>
+	<string name="app_preload_policies_summary">"Използвайте машинно обучение за предвиждане на приложенията, които най-вероятно ще използвате и за предварително зареждане на ресурсите."</string>
+    <string name="app_preload_policies_title">Интелигентно предварително зареждане</string>
     <string name="pref_config_title">Оптимизация на ефективността</string>
 	<string name="active_classify">Сортиране по състояние на активността</string>
     <string name="appconfig_active_app_dialog_title">Управление на активни приложения</string>
@@ -107,6 +110,6 @@
     <string name="notification_exit_extreme_mode_text">Батерията е заредена над %s</string>
     <string name="notification_exit_extreme_mode_title">Изключено Екстремно пестене на батерия</string>
     <string name="notification_open_extreme_mode_text">Включено Екстремно пестене на батерия</string>
-	<string name="adaptive_battery_summary">"Ограничаване консумацията на батерията за приложения, които не използвате често"</string>
+	<string name="adaptive_battery_summary">"Ограничаване консумацията на енергия за приложения, които не използвате често"</string>
     <string name="adaptive_battery_title">Използване на Адаптивна батерия</string>
 </resources>

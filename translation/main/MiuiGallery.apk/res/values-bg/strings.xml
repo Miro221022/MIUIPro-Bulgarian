@@ -1343,7 +1343,7 @@
     <string name="ext_sdcard_operation_failed_title">"Това действие не може да бъде завършено"</string>
     <string name="ext_sdcard_permission_request_button_text">Разбрах</string>
     <string name="ext_sdcard_permission_request_reason">Галерия се нуждае от вашето разрешение за достъп до SD карта. Това ще ви позволи да изтриете и редактирате снимки и видеоклипове, които се съхраняват на вашата SD карта.</string>
-    <string name="ext_sdcard_permission_request_title">Разрешаване на Галерия достъп до SD карта</string>
+    <string name="ext_sdcard_permission_request_title">Достъп до SD карта</string>
     <string name="ext_sdcard_request_failed_button_text">OK</string>
     <string name="ext_sdcard_request_succeed_toast_text">"Готови сте да се забавлявате!"</string>
 	<string name="photo_editor_talkback_crop_screen">Съотношение на цял екран</string>

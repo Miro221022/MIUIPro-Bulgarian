@@ -6253,8 +6253,8 @@ OTG се изключва автоматично след 10 минути без
     <string name="notification_fold_summary">Всички маловашни известия ще се появят в отделна папка</string>
     <string name="notification_fold_title">Папка за известия</string>
     <string name="notification_shade_shortcut_title">Пряк път за зоната за известия</string>
-    <string name="off">Изкл.</string>
-    <string name="on">Вкл.</string>
+    <string name="off">Изключена</string>
+    <string name="on">Включена</string>
     <string name="peek_notification_icon_title">Показване на икони за входящи известия</string>
     <string name="power_menu_under_keyguard_summary">Позволяване на достъп до менюто за рестартиране, когато устройството е заключено</string>
     <string name="power_menu_under_keyguard_title">Достъп до менюто за рестартиране</string>
@@ -6275,4 +6275,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="vibrate_title">Вибрация</string>
     <string name="visibility_override_title">На заключен екран</string>
 	<string name="notification_style_title">Стил на известията</string>
+	<string name="show_password_summary">Показване на символите за кратко докато пишете</string>
 </resources>
