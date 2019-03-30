@@ -273,7 +273,7 @@
   <string name="gesture_prevent_ringing_sound_title">Пряк път към настройката за предотвратяване на звъненето</string>
   <string name="gesture_prevent_ringing_title">Натиснете заедно бутоните за захранване и увеличаване на силата на звука</string>
   <string name="header_data_and_synchronization">Данни и синхронизиране</string>
-  <string name="imei_multi_sim">IMEI (слот %1$d за SIM карта)</string>
+  <string name="imei_multi_sim">IMEI (SIM карта %1$d)</string>
   <string name="ims_reg_status_not_registered">Не е регистрирано</string>
   <string name="ims_reg_status_registered">Регистрирано</string>
   <string name="ims_reg_title">Състояние на регистрацията за незабавни съобщения</string>
@@ -457,7 +457,7 @@
   <string name="sim_pin_disable_failed">PIN-а не може да се деактивира.</string>
   <string name="sim_pin_enable_failed">PIN-а не може да се активира.</string>
   <string name="sim_selection_channel_title">Избиране на SIM карта</string>
-  <string name="sim_status_title_sim_slot">Съст. на SIM картата (слот %1$d за SIM)</string>
+  <string name="sim_status_title_sim_slot">Състояние на SIM (SIM %1$d)</string>
   <string name="smart_battery_footer">Когато мениджърът на батерията установи, че приложенията я изразходват, ще имате опцията да ги ограничите. Ограничените приложения може да не работят правилно и е възможно да има забавяне на известията.</string>
   <string name="smart_battery_manager_title">Мениджър на батерията</string>
   <string name="smart_battery_summary">Ограничение за батерията за приложения, които не използвате често</string>
@@ -474,7 +474,7 @@
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_data_network_type">Тип на мобилната мрежа за пренос на данни</string>
   <string name="status_min_number">MIN</string>
-  <string name="status_number_sim_slot">Тел. номер (слот %1$d за SIM)</string>
+  <string name="status_number_sim_slot">Телефонен номер (SIM карта %1$d)</string>
   <string name="status_number_sim_status">Телефонен номер на SIM картата</string>
   <string name="status_voice_network_type">Тип на мобилната мрежа за гласова комуникация</string>
   <string name="storage_wizard_format_confirm_v2_action">Форматиране на ^1</string>

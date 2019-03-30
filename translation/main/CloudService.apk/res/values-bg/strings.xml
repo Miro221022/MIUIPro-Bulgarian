@@ -674,7 +674,7 @@
   <string name="warning_bar_action_add_short_cut">Добавяне</string>
   <string name="warning_bar_action_close">Затвори</string>
   <string name="warning_bar_action_turn_on_master_sync">Включи</string>
-  <string name="warning_bar_action_turn_on_sync">Вкключи</string>
+  <string name="warning_bar_action_turn_on_sync">Включи</string>
   <string name="warning_bar_action_upgrade_vip">Надстройка на плана за Mi Облак</string>
   <string name="warning_bar_add_short_cut_success">Добавено успешно</string>
   <string name="warning_bar_title_cloud_space_already_full">Пространството в Mi Облак намалява. Снимките ви може да не се синхронизират.</string>
