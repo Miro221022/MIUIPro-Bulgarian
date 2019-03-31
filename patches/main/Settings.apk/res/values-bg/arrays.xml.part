@@ -171,7 +171,7 @@
 	<string-array name="policy_control_entries"> 
         <item>Потапяне (по подразбиране)</item> 
         <item>Потапяне (на цял екран)</item> 
-        <item>Скриване на лентата на състояние</item> 
+        <item>Скриване на лентата за състояние</item> 
         <item>Скриване на навигационната лента</item> 
     </string-array> 
 	<string-array name="ts_keycode_entries"> 
