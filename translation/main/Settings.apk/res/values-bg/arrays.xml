@@ -671,7 +671,7 @@
     <string-array name="long_press_volume_down_action">
         <item>Без ефекти</item>
         <item>Режим Бързо заснемане(снимка)</item>
-        <item>Режим бързо заснемане (направи клип)</item>
+        <item>Режим бързо заснемане (клип)</item>
         <item>Преки пътища за обществен транспорт</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -740,9 +740,9 @@
         <item>Стандартно</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Променя контраста според светлината</item>
-        <item>Повишава контраста на екрана</item>
-        <item>Контрастът няма да се промени</item>
+        <item>Оптимизира контраста според налична светлина</item>
+        <item>"Повишава контраста на дисплея"</item>
+        <item>Контрастът ще остане непроменен</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Разрешаване</item>
@@ -754,8 +754,8 @@
         <item>Забрани</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Деактивирано шумоподтискане</item>
-        <item>Активирано шумоподтискане</item>
+        <item>Деактивирано шумопотискане</item>
+        <item>Активирано шумопотискане</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Откл. с лице</item>

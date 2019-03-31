@@ -2842,7 +2842,7 @@
     <string name="keywords_default_apps">приложения, по подразбиране</string>
     <string name="keywords_ignore_optimizations">пренебрегване на оптимизациите, режим на дрямка, режим на готовност за приложенията</string>
     <string name="keywords_color_mode">ярко, RGB, sRGB, цвят, естествено, стандартно</string>
-    <string name="keywords_color_temperature">цветна температура D65 D73 бяло жълто синьо топло студено</string>
+    <string name="keywords_color_temperature">цветна, температура, D65, D73, бяло, жълто, синьо, топло, студено</string>
     <string name="keywords_lockscreen">отключване чрез плъзгане, парола, фигура, ПИН код</string>
     <string name="keywords_profile_challenge">служебно предизвикателство, работа, потребителски профил</string>
     <string name="keywords_unification">служебен потребителски профил, управляван потребителски профил, обединение, обединяване, работа, потребителски профил</string>
@@ -3318,7 +3318,7 @@
     <string name="condition_work_summary">Приложенията, синхронизирането на заден план и другите функции, свързани със служебния ви потребителски профил, са изключени.</string>
     <string name="suggestions_title">Предложения (%1$d)</string>
     <string name="suggestion_remove">Премахване</string>
-    <string name="color_temperature">Студена цветова гама</string>
+    <string name="color_temperature">Студена цветова температура</string>
     <string name="color_temperature_desc">Използване на по-студени цветове за дисплея</string>
     <string name="color_temperature_toast">За да приложите промяната на цветовете, изключете екрана</string>
     <string name="ota_disable_automatic_update">Автоматични системни актуализации</string>
@@ -3598,7 +3598,7 @@
     <string name="search_accelerometer_title">Автоматично завъртане на екрана;Завъртане на екрана;Посока;По ширина;По дължина</string>
     <string name="search_brightness">Яркост;Яркост на екрана;Яркост на дисплея</string>
     <string name="search_touch_sensitive_title">Режим с ръкавици;ръкавици;ръкавица</string>
-    <string name="search_screen_effect">Насищане на цветовете;Цветове;контраст;цвят;насищане на цветовете;контраст</string>
+    <string name="search_screen_effect">Цветове и насищане;Цветове и контраст;цвят;насищане на цвета;контраст</string>
     <string name="search_screen_saver_settings">Скрийнсейвър</string>
     <string name="search_screen_paper_mode_title">Режим за четене;режим четене;четене;синя светлина;жълта светлина;нощен режим</string>
     <string name="search_gesture_wakeup_title">Двойно почукване на екрана за събуждане; двойно почукване;събуждане на екрана; двойно почукване на екрана;чукни два пъти</string>
@@ -4237,13 +4237,13 @@
     <string name="filter_apps_cached">Кеширани</string>
     <string name="screen">Екран</string>
     <string name="system">Система</string>
-    <string name="screen_color_temperature">Цветова температура</string>
-    <string name="screen_saturation">Наситеност на цветовете</string>
-    <string name="screen_color_temperature_and_saturation">Температура и наситеност на цветовете</string>
+    <string name="screen_color_temperature">Цветове</string>
+    <string name="screen_saturation">Насищане</string>
+    <string name="screen_color_temperature_and_saturation">Цветове и насищане</string>
     <string name="screen_effect">Контраст и цветове</string>
     <string name="screen_optimize">Контраст</string>
     <string name="screen_color_and_optimize">Цветове и контраст</string>
-    <string name="screen_color_and_optimize_disabled">В режим за четене не може да се настройва цветова температура</string>
+    <string name="screen_color_and_optimize_disabled">"Цветната температура не може да се настройва в режим за четене"</string>
     <string name="screen_paper_mode_title">Режим четене</string>
     <string name="screen_paper_mode_summary">Режимът за четене прави цветовете на дисплея по-топли, позволявайки на очите ви да отпочинат</string>
     <string name="screen_paper_mode_time_title">Планиране</string>
@@ -6278,4 +6278,9 @@ OTG се изключва автоматично след 10 минути без
 	<string name="show_password_summary">Показване на символите за кратко докато пишете</string>
 	<string name="hardware_info">Модел и устройство</string>
 	<string name="model_info">Модел</string>
+	<string name="cool_color">Студени</string>
+	<string name="warm_color">Топли</string>
+	<string name="nature_color">Нормално</string>
+	<string name="auto_brightness_default_title">По подразбиране</string>
+	
 </resources>
