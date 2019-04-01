@@ -3759,8 +3759,8 @@
     <string name="device_build_id">Номер на версията</string>
     <string name="device_memory">RAM памет</string>
     <string name="device_internal_memory">Вътрешно хранилище</string>
-    <string name="device_available_memory">Достъпно място</string>
-    <string name="device_total_memory">Общо място</string>
+    <string name="device_available_memory">Налично хранилище</string>
+    <string name="device_total_memory">Общо място за съхранение</string>
     <string name="device_sd_memory">SD карта</string>
     <string name="device_cpu2_info">"Двуядрен "</string>
     <string name="device_cpu6_info">"Шестядрен "</string>
