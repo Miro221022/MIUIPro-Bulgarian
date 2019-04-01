@@ -844,4 +844,5 @@
 	<string name="dialog_google_lens_option_0">Google Обектив(Препоръчва се)</string>
     <string name="pref_camera_long_press_viewfinder_google_lens">Google Обектив</string>
     <string name="pref_camera_long_press_viewfinder_lock_ae_af">Заключване на АЕ/АФ</string>
+	<string name="hint_ae_af_lock_extra">Автофокуса/автоекспозицията са заключени. Превключване към Google Обектив в настройките на камерата</string>
 </resources>

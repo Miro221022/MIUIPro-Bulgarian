@@ -503,4 +503,6 @@
   <string name="channel_waiting">Изтегляне на изчакване</string>
   <string name="privacy_policy">Политика за поверителност</string>
   <string name="ad">Реклама</string>
+  <string name="close">Затваряне</string>
+  <string name="close_ad">Затвори рекламата</string>
 </resources>

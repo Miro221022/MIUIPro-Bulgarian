@@ -1762,4 +1762,5 @@
     <string name="vowifi_emergency_warning_title">Спешни повиквания чрез WLAN повикване</string>
     <string name="wifi_call_setting_vodafone_de">WLAN повикване</string>
     <string name="wifi_call_setting_vodafone_uk">WLAN повикване</string>
+	<string name="fiveg_switch_title">5G мрежа</string>
 </resources>

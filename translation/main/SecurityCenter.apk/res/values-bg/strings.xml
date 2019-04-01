@@ -2609,4 +2609,10 @@
 	<string name="gamecenter_install_fail">"Не може да се инсталира"</string>
     <string name="gamecenter_install_sucessfull">Инсталирано успешно</string>
 	<string name="gb_shortcut_pref_title">Пряк път на началния екран</string>
+	<string name="app_manager_find_apps">Намерете приложения</string>
+    <string name="securityadd_install_fail">"Приставката не може да се актуализира. Опитайте отново."</string>
+    <string name="securityadd_update_tips_cancle">Не сега</string>
+    <string name="securityadd_update_tips_message">Актуализирайте приставката за услуги на Сигурност, за да получите достъп до най-новите функции за игри. %1$dМб ще бъдат необходими.</string>
+    <string name="securityadd_update_tips_now">Актуализирай</string>
+    <string name="securityadd_update_tips_title">Актуализирай</string>
 </resources>

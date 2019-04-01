@@ -57,7 +57,7 @@
     <string name="item_title_calculator">Калкулатор</string>
     <string name="item_title_scientific_calculator">Сметки</string>
     <string name="item_title_currency">Валута</string>
-    <string name="item_title_mortgage">Ипотека</string>
+    <string name="item_title_mortgage">Жилищен кредит</string>
     <string name="item_title_tax">Такси</string>
     <string name="item_title_tip">Бакшиш</string>
     <string name="item_title_length_conversion">Разстояние</string>
@@ -100,7 +100,7 @@
     <string name="mortgage_descript_commercial">Лихва в проценти: %s (ГПР)</string>
     <string name="mortgage_descript_accumulation">Лихва в проценти: %s (такси)</string>
     <string name="mortgage_item_repayment">Метод на изплащане</string>
-    <string name="mortgage_item_years">Период на ипотеката</string>
+    <string name="mortgage_item_years">Срок за погасяване</string>
     <string name="mortgage_item_start_time">Начална дата</string>
     <string name="mortgage_input_error">Въведете стойност</string>
     <string name="mortgage_result">Крайна сума</string>

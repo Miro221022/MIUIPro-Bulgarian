@@ -1829,4 +1829,5 @@
    <string name="usb_port_short_circuit_recovered_title">Портът за зареждане вече работи нормално</string>
    <string name="usb_port_short_circuit_title">"Има изпарения в порта за зареждане"</string>
    <string name="face_unlock_success">Успешно потвърдени лицеви данни</string>
+   <string name="gxzw_area">Скенер за пръстови отпечатъци</string>
 </resources>

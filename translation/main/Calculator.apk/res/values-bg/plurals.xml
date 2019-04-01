@@ -4,4 +4,12 @@
         <item quantity="other">%1$d годишно (%2$d месечно)</item>
         <item quantity="one">%1$d годишно (%2$d месечно)</item>
     </plurals>
+	    <plurals name="loan_repayment_detail">
+        <item quantity="other">Подробно погасяване (%d години)</item>
+        <item quantity="one">Подробно погасяване (%d година)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Подробно погасяване (%d години), CNY</item>
+        <item quantity="one">Подробно погасяване (%d година), CNY</item>
+    </plurals>
 </resources>

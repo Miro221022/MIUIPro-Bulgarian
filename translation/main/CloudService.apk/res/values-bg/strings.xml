@@ -683,4 +683,6 @@
   <string name="warning_bar_title_network_unconnected">"Не може да се свърже с мрежата"</string>
   <string name="warning_bar_title_short_cut">Добавяне на пряк път за Mi Облак на началния екран?</string>
   <string name="warning_bar_title_sync_off">Синхронизирането с Mi Облак е изключено</string>
+  <string name="enable_sync_setting_title">Конфигуриране на облачните услуги…</string>
+  <string name="provision_sync_items_loading">Подготовка за синхронизиране на елементи</string>
 </resources>

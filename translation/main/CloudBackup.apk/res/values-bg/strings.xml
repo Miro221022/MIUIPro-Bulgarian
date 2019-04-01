@@ -109,7 +109,7 @@
     <string name="confirm_cancel_restore_positive">Продължи</string>
     <string name="confirm_cancel_restore_negative">Отказ</string>
     <string name="confirm_restore_title">Възстанови</string>
-    <string name="confirm_restore_summary">Началният екран ще се рестартира и приложенията ще се изтеглят автоматично, когато са свързани с WLAN</string>
+    <string name="confirm_restore_summary">Началният ви екран ще бъде възобновен. Архивираните приложения ще се изтеглят автоматично.</string>
     <string name="confirm_restore">Възстанови</string>
     <string name="cloud_backup_have_data">Открито Резервно копие в Mi Облак</string>
     <string name="cloud_backup_select_recover">Изберете резервно копие от Mi Облак</string>
@@ -195,4 +195,28 @@
     <string name="restore_init_description">Старт на възстановяването</string>
     <string name="restoring_file_title_no_progress">Възстановяване на файлове…</string>
     <string name="restoring_settings">Възстановяване на настройките…</string>
+	<string name="desktop_wait_network">Изчакване…</string>
+	<string name="doing_calc_backup_data_size">Изчисляване на размера…</string>
+    <string name="btn_restore_wait">Изчаква се за Wi-Fi</string>
+    <string name="btn_restore_continue">Възстановяване въпреки това</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> файла ще бъдат изтеглени."</string>
+    <string name="msg_restore_with_metered_network_hint">Ако продължите възстановяването на тези елементи, ще се използват мобилни данни за изтегляне.</string>
+    <string name="msg_restore_start_with_metered_network">"Началният ви екран ще бъде възобновен. Архивираните приложения ще се изтеглят автоматично. &lt;br />&lt;b>&lt;font color='red'>%s файла ще бъдат изтеглени.&lt;/font>&lt;/b>"</string>
+    <string name="title_restore_with_current_network">Използване на текущата връзка за изтегляне на файлове</string>
+    <string name="restore_network_unconnect">%s (Изчаква се връзка)</string>
+    <string name="restore_network_pause">%s (Докоснете за възобновяване)</string>
+    <string name="restore_detail_title">Изберете елементи за възстановяване</string>
+    <string name="restore_detail_category_settings">Настройки</string>
+    <string name="restore_detail_category_apps">Оформление на начален екран и приложения</string>
+    <string name="restore_detail_more">Още</string>
+    <string name="restore_app_order_title">Приоритет за възстановените елементи</string>
+    <string name="restore_app_order_search_hint">Търсене на елементи за задаване на приоритет</string>
+    <string name="restore_app_order_search_prior">Приложения с висок приоритет</string>
+    <string name="restore_app_order_search_normal">Приложения с нормален приоритет</string>
+    <string name="restore_app_order_search_installed">Приложения на това устройство</string>
+    <string name="restore_app_order_retry">Опитайте отново</string>
+    <string name="restore_app_order_retry_desc">"Не може да се свърже с мрежата.
+Проверете мрежовите настройки и опитайте отново."</string>
+    <string name="restore_app_order_loading">Една секунда…</string>
+    <string name="restore_app_order_finish">Готово</string>
 </resources>

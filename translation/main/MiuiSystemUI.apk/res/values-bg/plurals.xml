@@ -145,12 +145,12 @@
     <item quantity="one">Остава %1$d ч %2$d м</item>
    </plurals>
    <plurals name="input_password_after_timeout_msg">
-    <item quantity="other">"Не сте използвали паролата си поне %d часа. Въведете паролата си."</item>
-    <item quantity="one">"Не сте използвали паролата си поне %d час. Въведете паролата си."</item>
+      <item quantity="other">Въвеждайте паролата си поне веднъж на всеки %d часа, за да я запомните</item>
+      <item quantity="one">Въвеждайте паролата си поне веднъж на всеки %d час, за да я запомните</item>
    </plurals>
    <plurals name="input_pattern_after_timeout_msg">
-    <item quantity="other">"Не сте използвали фигурата си за отключване поне %d часа. Начертайте фигурата."</item>
-    <item quantity="one">"Не сте използвали фигурата си за отключване поне %d час. Начертайте фигурата."</item>
+       <item quantity="other">Въвеждайте паролата си поне веднъж на всеки %d часа, за да я запомните</item>
+       <item quantity="one">Въвеждайте паролата си поне веднъж на всеки %d час, за да я запомните</item>
     </plurals>
 	    <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$sчаса %2$s"</item>

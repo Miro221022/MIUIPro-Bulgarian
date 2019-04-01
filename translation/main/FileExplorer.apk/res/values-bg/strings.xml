@@ -819,4 +819,7 @@
   <string name="request_document_permission_title">Необходими са разрешения</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="menu_set_wallpaper">Задване като тапет</string>
+  <string name="ftp_anonymous_warning_msg">Функциите за анонимност могат да представляват риск за сигурността. Използване на функцията въпреки това?</string>
+  <string name="ftp_anonymous_warning_title">Внимание</string>
+  <string name="home_action_up">Назад</string>
 </resources>
