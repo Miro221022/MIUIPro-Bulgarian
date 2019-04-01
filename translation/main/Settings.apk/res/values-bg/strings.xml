@@ -5986,9 +5986,9 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="restore_dialog_content">Възстановяването на идентификацията на устройството ще нулира вашите персонални препоръки.</string>
     <string name="restore_dialog_positive">Възстанови</string>
     <string name="restore_dialog_title">Внимание</string>
-    <string name="call_records_name_1">Деби Смит</string>
-    <string name="call_records_name_2">Джейсън Лий</string>
-    <string name="call_records_name_3">Мирослав Тодоров</string>
+    <string name="call_records_name_1">Мирослав Тодоров</string>
+    <string name="call_records_name_2">Тодор Младенов</string>
+    <string name="call_records_name_3">Иван Иванов</string>
     <string name="call_records_summary_1">9:35 | 26 секунди | China Unicom</string>
     <string name="call_records_summary_2">16 Август | 1м 16с | China Mobile</string>
     <string name="call_records_summary_3">16 Август | 2м 24с | China Unicom</string>
@@ -6247,9 +6247,9 @@ OTG се изключва автоматично след 10 минути без
     <string name="notifi_importance_none">Изключено</string>
     <string name="notifi_importance_unspecified">Нека приложението да прецени</string>
     <string name="notifi_no_channels">Това приложение не е публикувало никакви известия</string>
-    <string name="notification_fold_description1">Папката за известия беше въведена в MIUI 9. Тази функция филтрира маловажните известия и ги поставя в отделна папка.</string>
-    <string name="notification_fold_description2">MIUI ще запомни кои известия докосвате и след това използвайте няколко критерия, за да определите дали те са важни.</string>
-    <string name="notification_fold_description3">"Ако известията, които смятате за важни, продължават да влизат в папката с известия, уверено ни съобщете за тези проблеми. Ще оценим вашите отзиви."</string>
+    <string name="notification_fold_description1">Папката за известия бе въведена в MIUI 9. Тази функция филтрира маловажни известия и ги поставя в отделна папка.</string>
+    <string name="notification_fold_description2">MIUI ще запомни кои известия сте докоснали и след това ще използва няколко критерия, за да определи дали те са важни.</string>
+    <string name="notification_fold_description3">"Ако известията, които смятате за важни, продължават да се показват в папката за известия, уверено ни съобщете за тези проблеми. Бихме оценили вашите отзиви."</string>
     <string name="notification_fold_summary">Всички маловашни известия ще се появят в отделна папка</string>
     <string name="notification_fold_title">Папка за известия</string>
     <string name="notification_shade_shortcut_title">Функция на прекия път в панела за известия</string>
