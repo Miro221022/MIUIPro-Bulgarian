@@ -53,8 +53,8 @@
         <item quantity="one">%1$d снимка на %2$s ще бъде добавена</item>
     </plurals>
     <plurals name="backup_after_hours">
-        <item quantity="other">Продължи архивирането след %d часа</item>
-        <item quantity="one">Продължи архивирането след %d час</item>
+        <item quantity="other">Продължаване на архивирането след %d часа</item>
+        <item quantity="one">Продължаване на архивирането след %d час</item>
     </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d снимки или видео | На пауза</item>
@@ -62,7 +62,7 @@
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d снимки и клипове | %2$s</item>
-        <item quantity="one">%1$d снимка или клип| %2$s</item>
+        <item quantity="one">%1$d снимка или клип | %2$s</item>
     </plurals>
     <plurals name="backuping_desc_normal">
         <item quantity="other">%1$d снимки и клипове</item>
@@ -81,16 +81,16 @@
         <item quantity="one">Избран %d елемент</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">Изтрий %d елементи от всички устройства и Mi Облак?</item>
-        <item quantity="one">Изтрий %d елемент от всички устройства и Mi Облак?</item>
+        <item quantity="other">Изтриване на %d елемента от всички устройства и Mi Облак?</item>
+        <item quantity="one">Изтриване %d елемент от всички устройства и Mi Облак?</item>
     </plurals>
     <plurals name="delete_media_from_local">
-        <item quantity="other">Изтрий %d елемента?</item>
-        <item quantity="one">Изтрий %d елемент?</item>
+        <item quantity="other">Изтриване на %d елемента?</item>
+        <item quantity="one">Изтриване на %d елемент?</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Изтрий %d елемента от този албум и Mi Облак?</item>
-        <item quantity="one">Изтрий %d елемент от този албум и Mi Облак?</item>
+        <item quantity="other">Изтриване на %d елемента от този албум и Mi Облак?</item>
+        <item quantity="one">Изтриване на %d елемент от този албум и Mi Облак?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Изтриване на %d снимки от всички устройства и Mi Облак?</item>
@@ -133,8 +133,8 @@
         <item quantity="one">Обработване на снимка…</item>
     </plurals>
     <plurals name="fast_share_auto_render_failed">
-        <item quantity="other">Пропуснахме %1$d снимки, които не могат да бъдат разкрасени.</item>
-        <item quantity="one">Пропуснахме 1 снимка, която не може да бъде разкрасена.</item>
+        <item quantity="other">"Пропуснахте %1$d снимки които не могат да бъдат разкрасени."</item>
+        <item quantity="one">"Пропуснахте снимка, която не може да бъде разкрасена."</item>
     </plurals>
     <plurals name="file_count_format">
         <item quantity="other">Общо %1$d елемента</item>
@@ -149,8 +149,8 @@
         <item quantity="one">1 снимка</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d снимки чакат за синхронизация</item>
-        <item quantity="one">1 снимка за качване</item>
+        <item quantity="other">%1$d снимки чакат за архивиране</item>
+        <item quantity="one">1 снимка чака за архивиране</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Синхронизират се %1$d снимки…</item>
@@ -165,12 +165,12 @@
         <item quantity="one">Синхронизира се 1 видеоклип…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
-        <item quantity="other">%1$d клипа</item>
-        <item quantity="one">1 клип</item>
+        <item quantity="other">%1$d видеоклипа</item>
+        <item quantity="one">1 видеоклип</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d видеоклипа чакат за синхронизация</item>
-        <item quantity="one">1 видеоклип за качване</item>
+        <item quantity="other">%1$d видеоклипа чакат за архивиране</item>
+        <item quantity="one">1 видеоклип чака за архивиране</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Избраните снимки не са в устройството.Да се изтеглят ли чрез използване на мобилни данни?</item>
@@ -181,32 +181,32 @@
         <item quantity="one">Избраната снимка не е в устройството, изтегляне</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">Избраните снимки не са в устройството (%dМБ), да се изтеглят ли чрез използване на мобилни данни?</item>
-        <item quantity="one">Избраната снимка не е в устройството (%dМБ), да се изтегли ли чрез използване на мобилни данни?</item>
+        <item quantity="other">"Избраните снимки (%dМб) не са в устройството. Изтегляне чрез мобилни данни?"</item>
+        <item quantity="one">"Избраната снимка (%dМб) не е в устройството. Изтегляне чрез мобилни данни?"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Отмяна да изтеглянето, оставащи %d снимки?</item>
         <item quantity="one">Отмяна на изтеглянето на последната снимка?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">Не мога да изтегля %1$d снимки, свържете се с мрежата и опитайте отново</item>
-        <item quantity="one">Не мога да изтегля снимката, свържете се с мрежата и опитайте отново</item>
+        <item quantity="other">"Не могат да се изтеглят %1$d снимки, свържете се към мрежата и опитайте отново"</item>
+        <item quantity="one">"Снимката не може да се изтегли, свържете се към мрежата и опитайте отново"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">Не мога да изтегля %1$d снимки (%2$dMБ), свържете се с мрежата и опитайте отново</item>
-        <item quantity="one">Не мога да изтегля снимката (%2$dMБ), свържете се с мрежата и опитайте отново</item>
+        <item quantity="other">"Не могат да се изтеглят %1$d снимки (%2$dМб), свържете се към мрежата и опитайте отново"</item>
+        <item quantity="one">"Не може да се изтегли снимка (%2$dМб), свържете се към мрежата и опитайте отново"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">%1$d изтегляне на снимки е неуспешно, повторен опит?</item>
-        <item quantity="one">Изтеглянето на една снимка е неуспешно, повторен опит?</item>
+        <item quantity="other">"Не могат да се изтеглят %1$d снимки, повторен опит?"</item>
+        <item quantity="one">"Не може да се изтегли снимка, повторен опит?"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">Изтеглянето на %1$d снимки (%2$dМБ) е неуспешно, повторен опит?</item>
-        <item quantity="one">Изтеглянето на една снимка (%2$dМБ) е неуспешно, повторен опит?</item>
+        <item quantity="other">"Не могат да се изтеглят %1$d снимки (%2$dМб), повторен опит?"</item>
+        <item quantity="one">"Не може да се изтегли снимка (%2$dМб), повторен опит?"</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
-        <item quantity="other">Пропуснахме %d снимки, които не са в устройството.</item>
-        <item quantity="one">Пропуснахме 1 снимка, която не е в устройството.</item>
+        <item quantity="other">"Пропуснати са %d снимки които не са в устройството."</item>
+        <item quantity="one">"Пропусната е снимка която не е в устройството."</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Открити са %1$d нови снимки</item>

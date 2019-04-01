@@ -1002,7 +1002,7 @@
     <string name="wifi_display_operating_channel">Работен канал</string>
     <string name="wifi_band_24ghz">2,4 ГХц</string>
     <string name="wifi_band_5ghz">5 ГХц</string>
-    <string name="link_speed">%1$d Mbps</string>
+    <string name="link_speed">%1$d Мбс</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Разрешаване на обмен на данни, когато телефонът докосва друго устройство</string>
     <string name="android_beam_settings_title">Android Beam</string>
@@ -1010,11 +1010,11 @@
     <string name="android_beam_off_summary">Изключено</string>
     <string name="android_beam_disabled_summary">Не е налице, защото КБП е изключена</string>
     <string name="android_beam_label">Android Beam</string>
-    <string name="android_beam_explained">\"Когато тази функция е включена, можете да излъчвате съдържание от приложенията до друго устройство с поддръжка за КБП, като държите устройствата близо едно до друго. Например можете да излъчвате страници от Браузър, видеоклипове от YouTube, контакти от Хора и др. Трябва само да поставите устройствата едно до друго (обикновено задните им страни), след което да докоснете екрана си. Приложението определя какво се излъчва.\"</string>
-    <string name="wifi_quick_toggle_title">Wi-Fi</string>
+    <string name="android_beam_explained">Можете да излучвате уеб страница, видеоклип или друго съдържание от екрана си към друго устройство, като допрете устройствата (обикновено гръб в гръб).</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
     <string name="wifi_quick_toggle_summary">Включване на Wi-Fi</string>
     <string name="wifi_settings">WLAN</string>
-    <string name="wifi_settings_category">Настройки за Wi-Fi</string>
+    <string name="wifi_settings_category">WLAN настройки</string>
     <string name="wifi_settings_title">WLAN</string>
     <string name="wifi_settings_summary">Задаване и управление на безжични точки за достъп</string>
     <string name="wifi_setup_wizard_title">Избиране на Wi-Fi</string>
@@ -1035,7 +1035,7 @@
     <string name="wifi_select_assistant_dialog_title">Избиране на помощник</string>
     <string name="wifi_install_credentials">Инсталиране на сертификати</string>
     <string name="wifi_scan_notify_text">С цел подобряване на точността на местоположението системните приложения и услуги пак ще могат да сканират за Wi‑Fi мрежи. Можете да промените това от LINK_BEGINнастройките за сканиранеLINK_END.</string>
-    <string name="wifi_scan_notify_remember_choice">Да не се показва отново</string>
+    <string name="wifi_scan_notify_remember_choice">Не показвай отново</string>
     <string name="wifi_setting_sleep_policy_title">С включен Wi-Fi при спящ режим</string>
     <string name="wifi_setting_on_during_sleep_title">Включен Wi‑Fi при спящ режим</string>
     <string name="wifi_setting_sleep_policy_error">Възникна проблем при промяна на настройката</string>
@@ -1058,9 +1058,9 @@
     <string name="wifi_menu_forget">Забравяне на мрежа</string>
     <string name="wifi_menu_modify">Промяна на мрежа</string>
     <string name="wifi_menu_write_to_nfc">Записване в маркера за КБП</string>
-    <string name="wifi_empty_list_wifi_off">Включете Wi-Fi, за да видите наличните мрежи.</string>
-    <string name="wifi_empty_list_wifi_on">Търсят се Wi-Fi мрежи…</string>
-    <string name="wifi_empty_list_user_restricted">Нямате разрешение да променяте Wi-Fi мрежата.</string>
+    <string name="wifi_empty_list_wifi_off">Включете WLAN, за да видите наличните мрежи.</string>
+    <string name="wifi_empty_list_wifi_on">Търсят се WLAN мрежи…</string>
+    <string name="wifi_empty_list_user_restricted">Нямате разрешение да променяте WLAN мрежата.</string>
     <string name="wifi_other_network">Добавяне на друга мрежа</string>
     <string name="wifi_more">Още</string>
     <string name="wifi_setup_wps">Автоматична настройка (WPS)</string>
@@ -1121,7 +1121,7 @@
     <string name="wifi_hotspot_title">Ще влезете ли в профила си, за да се свържете?</string>
     <string name="wifi_hotspot_message">%1$s изисква да влезете в профила си, за да се свържете с мрежата.</string>
     <string name="wifi_hotspot_connect">СВЪРЗВАНЕ</string>
-    <string name="no_internet_access_text">Тази Wi-Fi мрежа %1$s няма достъп до интернет. Искате ли да останете свързани с нея?</string>
+    <string name="no_internet_access_text">WLAN мрежата %1$s няма достъп до интернет. Ще останете ли свързани?</string>
     <string name="no_internet_access_remember">Без повторно запитване за тази мрежа</string>
     <string name="wifi_connect">Свързване</string>
     <string name="wifi_failed_connect_message">Свързването с мрежата не бе успешно</string>
@@ -2199,7 +2199,7 @@
     <string name="battery_action_app_details">Информация</string>
     <string name="battery_action_app_settings">Настройки за приложения</string>
     <string name="battery_action_display">Настройки на екрана</string>
-    <string name="battery_action_wifi">Настройки за Wi-Fi</string>
+    <string name="battery_action_wifi">WLAN настройки</string>
     <string name="battery_action_bluetooth">Настройки за Bluetooth</string>
     <string name="battery_desc_voice">Батерия, използвана от гласови обаждания</string>
     <string name="battery_desc_standby">Батерия, използвана когато телефонът не се използва</string>
@@ -2293,7 +2293,7 @@
     <string name="gadget_state_off">изключено</string>
     <string name="gadget_state_turning_on">включва се</string>
     <string name="gadget_state_turning_off">изключва сe</string>
-    <string name="gadget_wifi">Wi-Fi</string>
+    <string name="gadget_wifi">WLAN</string>
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_location">Местоположение</string>
     <string name="gadget_sync">Синхронизиране</string>
@@ -2501,7 +2501,7 @@
     <string name="data_usage_disable_4g_limit">Задаване на лимит на 4G данните</string>
     <string name="data_usage_disable_3g_limit">Лимит на 2G–3G данни: Задаване</string>
     <string name="data_usage_disable_wifi_limit">Лимит за данни през Wi-Fi: Задаване</string>
-    <string name="data_usage_tab_wifi">Wi-Fi</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
     <string name="data_usage_tab_mobile">Мобилни данни</string>
     <string name="data_usage_tab_4g">4G</string>
@@ -3326,7 +3326,7 @@
     <string name="cellular_data_usage">Пренос на мобилни данни</string>
     <string name="wifi_data_usage">Пренос на данни през Wi-Fi</string>
     <string name="ethernet_data_usage">Пренос на данни през Ethernet</string>
-    <string name="wifi">Wi-Fi</string>
+    <string name="wifi">WLAN</string>
     <string name="ethernet">Ethernet</string>
     <string name="cell_data_template">Мобилни данни (%1$s)</string>
     <string name="wifi_data_template">%1$s данни през Wi-Fi</string>
@@ -3974,10 +3974,10 @@
     <string name="unlock_set_enter_system_summary">Заключването на екрана няма да се използва след включване на тази функция</string>
     <string name="forget_wifi_message">Вашето устройство ще спре да се свързва автоматично към тази мрежа.</string>
     <string name="button_disconnect_network">Изключване от мрежата</string>
-    <string name="no_nearby_wifi">Няма засечени мрежи.</string>
+    <string name="no_nearby_wifi">Няма намерени мрежи</string>
     <string name="manually_add_network">Ръчно добавяне на мрежа</string>
     <string name="network_detail">Детайли за мрежа %s</string>
-    <string name="connected_wifi">Свързан с Wi-Fi</string>
+    <string name="connected_wifi">Свързан</string>
     <string name="incoming_call_breathing_light_color_title">Цвят на LED за обаждания</string>
     <string name="notification_breathing_light_color_title">Цвят на LED за известия</string>
     <string name="mms_breathing_light_color_title">Цвят на LED за съобщения</string>
@@ -4213,7 +4213,7 @@
     <string name="vpn_dns_servers_hint">Например 8.8.8.8</string>
     <string name="vpn_routes_hint">напр. 10.0.0.0/8</string>
     <string name="sync_wifi_label">WLAN</string>
-    <string name="wifi_enable">Wi-Fi</string>
+    <string name="wifi_enable">WLAN</string>
     <string name="bluetooth_enable">Bluetooth</string>
     <string name="sync_enable">Включи синхронизацията</string>
     <string name="accessibility_enable">Позволи достъп</string>
@@ -4369,7 +4369,7 @@
     <string name="saved_wifi_delete">Изтрий</string>
     <string name="wifi_enable_data_and_wifi_roam">Wi-Fi асистент</string>
     <string name="wifi_enable_data_and_wifi_roam_summary">Запазване на вкл. данни и Wi-Fi за превключване към данни при слаба вкъзка през Wi-Fi.</string>
-    <string name="nfc_category_title">NFC</string>
+    <string name="nfc_category_title">КБП</string>
     <string name="android_beam_tips">Уверете се, че устройствата се докосват и изберете съдържанието, което искате да прехвърлите.</string>
     <string name="bt_trace_log">Отчет за Bluetooth проследяване</string>
     <string name="bt_trace_log_summary">Отчет за Bluetooth проследяване</string>
@@ -5643,18 +5643,18 @@
     <string name="super_resolution_reboot_tips">Тази функция позволява да направите размазани изображения в WeChat и Toutiao crisper. Стартирайте отново приложенията, след като включите тази функция.</string>
     <string name="super_resolution_title">Супер резолюция</string>
     <string name="wifi_assistant">WLAN асистент</string>
-    <string name="wifi_assistant_auto_confirm_data_message">Тази безжична мрежа няма достъп до интернет. Вместо това вашето устройство ще използва мобилни данни. Можете да изключите WLAN асистента в настройките.</string>
-    <string name="wifi_assistant_confirm_always">"Да не се показва отново"</string>
-    <string name="wifi_assistant_confirm_connection_title">Потвърждавам</string>
+    <string name="wifi_assistant_auto_confirm_data_message">Текущата WLAN няма достъп до интернет, вместо това ще използват мобилни данни. Можете да изключите WLAN асистента в настройките</string>
+    <string name="wifi_assistant_confirm_always">Без повече съвети следващия път</string>
+    <string name="wifi_assistant_confirm_connection_title">Потвърждаване на връзката</string>
     <string name="wifi_assistant_data_prompt">Показване на предупреждение за използването на данни</string>
     <string name="wifi_assistant_data_prompt_summary">Показване на предупреждение за използването на данни, когато WLAN асистента превключи на мобилни данни</string>
-    <string name="wifi_assistant_description">"Ето как работи WLAN асистента:
-1. Когато връзката с WLAN е лоша, WLAN асистентът ще се опита да свърже устройството ви с други налични WLAN мрежи.
-2. Ако всички налични WLAN връзки се окажат слаби и мобилните данни са включени, WLAN асистентът ще превключи на мобилни данни."</string>
+    <string name="wifi_assistant_description">"След включване на тази функция:
+1.Когато WLAN връзката е лоша, системата ще провери автоматично за друга налична WLAN мрежа.
+2.Когато всички съществуващи WLAN мрежи са лоши и мобилните данни са активирани, системата ще избере най-добрата мрежова връзка"</string>
     <string name="wifi_assistant_disconnect">Прекъсване на връзката</string>
-    <string name="wifi_assistant_explicitly_confirm_data_message">Тази Wi-Fi мрежа няма достъп до интернет. Вместо това ще използвате ли мобилни данни?</string>
-    <string name="wifi_assistant_explicitly_confirm_disconnect">Тази WLAN мрежа няма достъп до интернет. Прекъсване на връзката?</string>
-    <string name="wifi_assistant_explicitly_confirm_wifi_message">Тази WLAN мрежа няма достъп до интернет. Но са налични и други WLAN мрежи. Превключване на друга мрежа?</string>
+    <string name="wifi_assistant_explicitly_confirm_data_message">Текущата WLAN няма достъп до интернет, искате ли да превключите към мобилни данни?</string>
+    <string name="wifi_assistant_explicitly_confirm_disconnect">Текущата WLAN няма достъп до интернет, искате ли да прекъснете връзката?</string>
+    <string name="wifi_assistant_explicitly_confirm_wifi_message">Текущата WLAN няма достъп до интернет но има други WLAN мрежи, към които може да се свържете. Искате ли да превключите?</string>
     <string name="wifi_assistant_keep_connection">Останете свързани</string>
     <string name="wifi_assistant_off">Изключен</string>
     <string name="wifi_assistant_ok">OK</string>
@@ -5670,14 +5670,14 @@
     <string name="wifi_other_connection_mode">Други възможности за свързване</string>
     <string name="wifi_property">WLAN свойства</string>
     <string name="wifi_remembered_disabled_auto_connect">Запазено. Автоматичното свързване е изключено.</string>
-    <string name="wifi_traffic_priority">WLAN Режим на скорост</string>
+    <string name="wifi_traffic_priority">Режим на трафика</string>
     <string name="wifi_traffic_priority_extreme">Екстремен режим</string>
-    <string name="wifi_traffic_priority_extreme_summary">Дайте по-голямата част от честотната лента на приложението на преден план. Възможно е фоновите процеси да не могат да се свържат с мрежата.</string>
+    <string name="wifi_traffic_priority_extreme_summary">Текущото приложение има приоритет да използва мрежовия ресурс и да осигурява екстремно изживяване. Това може да попречи на приложението на заден план да използва мрежата</string>
     <string name="wifi_traffic_priority_off">Изключено</string>
     <string name="wifi_traffic_priority_on">Включено</string>
     <string name="wifi_traffic_priority_regular">Редовен режим</string>
-    <string name="wifi_traffic_priority_regular_summary">Споделяне на честотната лента между фоновите процеси и приложението на преден план</string>
-    <string name="wifi_traffic_priority_summary">Определяне на скоростта на връзката автоматично</string>
+    <string name="wifi_traffic_priority_regular_summary">Изтеглянето на заден план споделя мрежовите ресурси с текущото приложение</string>
+    <string name="wifi_traffic_priority_summary">Интелигентно регулиране на текущия приоритет на мрежовия трафик</string>
 	<string name="bootloader_device_bind_exceed_sim_limit">"Не може да се добавят повече акаунти към тази СИМ-карта."</string>
     <string name="bootloader_device_bind_no_sim">Поставете SIM картата и опитайте отново.</string>
     <string name="bootloader_device_bind_server_code">"Не може да се добави. Код на грешка:"</string>
