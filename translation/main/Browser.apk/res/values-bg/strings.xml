@@ -57,7 +57,7 @@
     <string name="add_bookshelf_popup_text">Добавено в библиотеката</string>
     <string name="add_favorites_to">Добави в любими</string>
     <string name="add_new_bookmark">Добави отметка</string>
-    <string name="add_new_quicklink">Добави бърза връзка</string>
+    <string name="add_new_quicklink">Добавяне към началната страница</string>
     <string name="add_pwa_to_homescreen">Добави Пряк път в начален екран?</string>
     <string name="add_ql_bm_title">Добави</string>
     <string name="add_quicklink_to_popular">Добави към началната страница</string>
@@ -183,9 +183,9 @@
     <string name="contextmenu_share_image">Сподели изображението</string>
     <string name="contextmenu_sharelink">Сподели връзка</string>
     <string name="contextmenu_view_image">Преглед на изображение</string>
-    <string name="contextmenu_webpage_capture">Запиши като екр. снимка</string>
+    <string name="contextmenu_webpage_capture">Екранна снимка</string>
     <string name="contextmenu_webpage_html">Запис като HTML файл</string>
-    <string name="contextmenu_webpage_snapshot">Запиши страницата</string>
+    <string name="contextmenu_webpage_snapshot">Запази страницата</string>
     <string name="copy_url">Копирай URL</string>
     <string name="create_qr_code">QR код</string>
     <string name="current_version_pad">Таблет</string>
@@ -525,7 +525,7 @@ Remember that the files you download and the bookmarks you add will still be sav
     <string name="pref_privacy_enable_geolocation">Местоположение</string>
     <string name="pref_privacy_enable_geolocation_summary">Разрешаване на страниците да искат достъп до вашето местоположение</string>
     <string name="pref_privacy_formdata_title">Автоматично попълване на форми</string>
-    <string name="pref_privacy_location_title">Достъп до местоположения</string>
+    <string name="pref_privacy_location_title">Достъп до местоположение</string>
     <string name="pref_privacy_security_title">Лични данни</string>
     <string name="pref_save_bandwidth_mode_title">Ограничаване на използваните данни</string>
     <string name="pref_security_accept_cookies">Приемане на бисквитки</string>
@@ -556,7 +556,7 @@ Remember that the files you download and the bookmarks you add will still be sav
     <string name="quicklink_saved">Добавено към нач. страница</string>
     <string name="quicklink_saved_before">Сайтът е добавен</string>
     <string name="quicklink_user_define_webpage_title">Име</string>
-    <string name="quicklink_user_define_webpage_url">URL</string>
+    <string name="quicklink_user_define_webpage_url">Адрес</string>
     <string name="quicklinks_group_default_subtitle">Празно</string>
     <string name="quicklinks_management">Полезни връзки</string>
     <string name="quicklinks_most_visited">Добави на стартовата страница</string>
@@ -756,8 +756,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="url_suggest_indicator_mostvisited">Най-посещавани</string>
     <string name="use_cellular_network_alert_message">Не е достъпна Wi-Fi мрежа, да се използват ли мобилни данни?</string>
     <string name="use_cellular_network_alert_title">Предупреждение</string>
-    <string name="user_defined_webpage">Добави URL адрес</string>
-    <string name="user_defined_webpage_title">Добави URL към началната страница</string>
+    <string name="user_defined_webpage">Добави уеб адрес</string>
+    <string name="user_defined_webpage_title">Добави уеб към началната страница</string>
     <string name="username">Име</string>
     <string name="v5_deselect_all">Размаркирай всички</string>
     <string name="v5_edit_mode_title_empty">0 избрани</string>
