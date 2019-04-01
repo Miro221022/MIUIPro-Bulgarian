@@ -804,9 +804,9 @@
     <string name="success_image_saved_camera">Изображението е запазено в Камера.</string>
     <string name="text_copied_to_clipboard">Текстът е копиран в клипборда</string>
 	<string name="wideselfie_press_shoot_key_to_start">Натиснете бутона за затвора</string>
-    <string name="wideselfie_rotate_slowly">Бавно завъртете телефона</string>
-    <string name="wideselfie_rotate_to_back">Наклонете устройството назад</string>
-    <string name="wideselfie_rotate_to_front">Наклонете устройството напред</string>
+    <string name="wideselfie_rotate_slowly">Завъртете бавно телефона настрани</string>
+    <string name="wideselfie_rotate_to_back">Наклонете телефона назад</string>
+    <string name="wideselfie_rotate_to_front">Наклонете телефона напред</string>
     <string name="wideselfie_rotate_to_left_slowly">Бавно завъртете телефона наляво</string>
     <string name="wideselfie_rotate_to_right_slowly">Бавно завъртете телефона надясно</string>
 	<string name="macro_mode">Макро режим</string>
@@ -838,11 +838,20 @@
     <string name="out_line_right_eyes_occlusion">Дясното око е затворено</string>
     <string name="recapture_dialog_message">Потвърждаване на повторението？</string>
     <string name="recapture_dialog_title">Повторното снимане ще изчисти текущото изображение</string>
-    <string name="wideselfie_result_image_lossless">Неуспешно запаметяване на панорамни снимки</string>
+    <string name="wideselfie_result_image_lossless">Неуспешно запазване на панорамата</string>
     <string name="pref_camera_front_bokeh_entry_off">Включено</string>
     <string name="pref_camera_front_bokeh_entry_on">Изключено</string>
 	<string name="dialog_google_lens_option_0">Google Обектив(Препоръчва се)</string>
     <string name="pref_camera_long_press_viewfinder_google_lens">Google Обектив</string>
     <string name="pref_camera_long_press_viewfinder_lock_ae_af">Заключване на АЕ/АФ</string>
 	<string name="hint_ae_af_lock_extra">Автофокуса/автоекспозицията са заключени. Превключване към Google Обектив в настройките на камерата</string>
+    <string name="mimoji_on_create">创建拟我表情</string>
+    <string name="mimoji_check_normal">请按下拍照键</string>
+    <string name="mimoji_check_no_face">未识别到面部</string>
+    <string name="mimoji_check_low_light">请移至明亮处，便于识别面部</string>
+    <string name="mimoji_check_face_occlusion">请整理面部遮挡物，以便识别面部特征</string>
+    <string name="mimoji_check_face_too_far">检测面部过小，请将手机移近</string>
+    <string name="mimoji_check_face_too_close">检测面部过大，请将手机移远</string>
+    <string name="mimoji_check_multi_face">请保持一人在取景圈内</string>
+    <string name="mimoji_check_beyond_20_degrees">请正对屏幕，以便识别面部特征</string>
 </resources>

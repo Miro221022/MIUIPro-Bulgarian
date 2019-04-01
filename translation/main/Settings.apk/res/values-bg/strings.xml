@@ -6111,8 +6111,8 @@ UT интерфейс: %5$s"</string>
 	<string name="set_peeking_duration_title">Показване на икони</string>
 	<string name="switch_select_to_speak_on">Изберете, за да говорите</string>
 	<string name="eq_return">Връщане</string>
-    <string name="page_layout_confirm_message_enlarge">Текст, изображения и икони ще бъдат увеличени. Някои икони може да променят местата си.</string>
-    <string name="page_layout_confirm_message_narrow">Текст, изображения и икони ще станат по-малки. Някои икони може да променят местата си.</string>
+    <string name="page_layout_confirm_message_enlarge">Текстът, изображенията и иконите ще бъдат увеличени. Някои икони може да променят местата си.</string>
+    <string name="page_layout_confirm_message_narrow">Текстът, изображенията и иконите ще станат по-малки. Някои икони може да променят местата си.</string>
     <string name="page_layout_confirm_title_enlarge">По-големи елементи</string>
     <string name="page_layout_confirm_title_narrow">По-малки елементи</string>
     <string name="screen_optimize_disabled">"Не може да се регулира контраста, когато е включен режимът за четене"</string>
@@ -6135,7 +6135,8 @@ aptX-Adaptive: Режим на кодек"</string>
     <string name="aod_mode_bg">Фон</string>
     <string name="aod_mode_clock">Часовник</string>
     <string name="aod_mode_style">Стил на часа и фона</string>
-    <string name="aod_mode_summary">Показване на часа, датата и съобщенията, когато екранът е изключен.</string>
+    <string name="aod_mode_summary">Тази функция повишава консумацията на енергия. Тя ще бъде изключена, когато устройството ви остане на тъмно за дълго време или когато се прилагат ограничения при пестене на батерия.</string>
+	<string name="doze_always_on_summary">Тази функция повишава консумацията на енергия. Тя ще бъде изключена, когато устройството ви остане на тъмно за дълго време или когато се прилагат ограничения при пестене на батерия.</string>
     <string name="aod_sample_date">Вторник, 10 Май</string>
     <string name="dark_color_mode">Тъмен режим</string>
     <string name="dark_color_summary">Използвайте по-тъмна цветова палитра за системни фонове и съвместими приложения</string>
@@ -6189,7 +6190,7 @@ aptX-Adaptive: Режим на кодек"</string>
     <string name="dual_clock_aod_hint">"\"Двоен часовник\" разчита на следните характеристики: 1. За изключен екран, разрешете показването на елементи в Настройки &gt; Дисплей; 2. За заключен екран се уверете, че използвате стандартната или класическата тема в Настройки &gt; Теми; 3. За Начален екран, уверете се, че използвате джаджа за системен часовник по подразбиране."</string>
     <string name="dual_clock_hint">"\"Двоен часовник\" разчита на следните характеристики: 1. За заключен екран се уверете, че използвате стандартната или класическата тема в Настройки &gt; Теми; 2. За Начален екран, уверете се, че използвате джаджа за системен часовник по подразбиране."</string>
     <string name="dual_clock_ok">Разбрах</string>
-    <string name="dual_clock_open_message">Двойният часовник ще се показва на заключен екран, начален екран и изключен екран.</string>
+    <string name="dual_clock_open_message">Двойният часовник ще се показва на заключен екран и началния екран.</string>
     <string name="more_installed_services_title">Още изтеглени услуги</string>
     <string name="otg_button">OTG</string>
     <string name="otg_closed">Включено</string>
@@ -6227,7 +6228,6 @@ OTG се изключва автоматично след 10 минути без
     <string name="fold_title">Правила за групирани известия</string>
     <string name="function_description">Относно тази функция</string>
     <string name="game_booster">Игра;Игри;Турбо;Игра;Режим на игра</string>
-    <string name="gxzw_aod_show_summary">Иконата за пръстов отпечатък ще се появи, когато екранът е изключен. Тази функция увеличава консумацията на енергия.</string>
     <string name="gxzw_aod_show_tittle">Показване на иконата за пръстови отпечатъци, когато екранът е изключен</string>
     <string name="importance_default">По подразбиране</string>
     <string name="importance_high">Висока</string>
@@ -6252,7 +6252,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="notification_fold_description3">"Ако известията, които смятате за важни, продължават да влизат в папката с известия, уверено ни съобщете за тези проблеми. Ще оценим вашите отзиви."</string>
     <string name="notification_fold_summary">Всички маловашни известия ще се появят в отделна папка</string>
     <string name="notification_fold_title">Папка за известия</string>
-    <string name="notification_shade_shortcut_title">Пряк път за зоната за известия</string>
+    <string name="notification_shade_shortcut_title">Функция на прекия път в панела за известия</string>
     <string name="off">Изключена</string>
     <string name="on">Включена</string>
     <string name="peek_notification_icon_title">Показване на икони за входящи известия</string>
@@ -6282,5 +6282,11 @@ OTG се изключва автоматично след 10 минути без
 	<string name="warm_color">Топли</string>
 	<string name="nature_color">Нормално</string>
 	<string name="auto_brightness_default_title">По подразбиране</string>
-	
+	<string name="auto_dual_clock_aod_summary">Показване на Двоен часовник, когато текущото време е различно от това на втория часовник</string>
+    <string name="dual_clock_aod_open_message">Двойният часовник ще се показва на заключен екран, начален екран и изключен екран.</string>
+    <string name="gxzw_aod_show_summary">Иконата за пръстов отпечатък ще се показва, когато екранът е изключен. Тази функция повишава консумацията на енергия.</string>
+    <string name="gxzw_enroll_again">Повдигнете пръста си и натиснете отново скенера за пръстови отпечатъци</string>
+    <string name="layout_exhuge_font_take_effect_tips">XXL размер на текста работи само в Телефон, Съобщения и Контакти</string>
+    <string name="layout_exhuge_font_tips">Още опции са налични в %1$s</string>
+    <string name="layout_exhuge_font_tips_reg">Достъпност > Размер на екрана</string>
 </resources>
