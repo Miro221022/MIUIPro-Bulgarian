@@ -197,10 +197,10 @@
     <string name="simple_mode_button_text_fast_video">Спри slow-motion камерата</string>
     <string name="pref_video_captrue_ability_title">Снимка по време на запис</string>
     <string name="see_qrcode_detals">Покажи подробности за QR кода</string>
-    <string name="pref_camera_watermark_title">Щампа с дата и час към снимките</string>
+    <string name="pref_camera_watermark_title">Добавяне на щампа с дата и час</string>
     <string name="pref_dualcamera_watermark_title">Воден знак на двойна камера</string>
     <string name="pref_camera_device_watermark_title">Воден знак на устройството</string>
-    <string name="pref_camera_face_info_watermark_title">Добави щампа с възраст към снимките</string>
+    <string name="pref_camera_face_info_watermark_title">Добавяне на щампа с възраст към снимките</string>
     <string name="pref_scan_qrcode_title">Сканиране на QR кодове</string>
     <string name="pref_manual_exposure_title">Експозиция</string>
     <string name="pref_camera_exposuretime_entry_auto">Авто</string>
@@ -308,11 +308,11 @@
     <string name="confirm_recording_fail_title">Не може да се записва</string>
     <string name="confirm_recording_fail_calling_alert">Не може да се записва по време на разговор.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">Вероятно друго приложение вече използва микрофона на устройството, за да записва.</string>
-    <string name="camera_snap_mode_title">Бързо снимане</string>
+    <string name="camera_snap_mode_title">Режим Бързо заснемане</string>
     <string name="camera_snap_mode_title_detail">Чукнете за подробности</string>
-    <string name="pref_camera_snap_enable_title">Бързо снимане</string>
+    <string name="pref_camera_snap_enable_title">Режим Бързо заснемане</string>
     <string name="pref_camera_snap_entry_take_picture">Режим Бързо заснемане(снимка)</string>
-    <string name="pref_camera_snap_entry_take_movie">Режим бързо заснемане (видео)</string>
+    <string name="pref_camera_snap_entry_take_movie">Режим Бързо заснемане (видео)</string>
     <string name="pref_camera_snap_label_take_picture">Снимка</string>
     <string name="pref_camera_snap_label_take_movie">Видео</string>
     <string name="pref_camera_snap_entry_off">Изключено</string>
@@ -325,13 +325,13 @@
     <string name="pano_how_to_use_prompt_slow_down">Забавяне…</string>
     <string name="pref_camera_stereo_mode_title">Регулиране на фокуса</string>
     <string name="simple_mode_button_text_stereo_mode">Изключи регулирането на фокуса</string>
-    <string name="dual_camera_too_close_toast">Обектът е прекалено близо за режим Двойна камера.</string>
-    <string name="dual_camera_lowlight_toast">Слабата осветеност може да навреди на ефектите на режим Двойна камера.</string>
+    <string name="dual_camera_too_close_toast">Камерата е твърде близо до обекта.</string>
+    <string name="dual_camera_lowlight_toast">"Изглежда, че е твърде тъмно."</string>
     <string name="dual_camera_lens_covered_toast">Обективът е закрит.</string>
     <string name="dual_camera_use_hint">Уверете се, че обектът на заснемане не е по-далеч от 2 метра.</string>
-    <string name="pref_camera_zoom_mode_title">Лещи</string>
+    <string name="pref_camera_zoom_mode_title">Обектив</string>
     <string name="pref_camera_zoom_mode_entry_wide">Широко</string>
-    <string name="pref_camera_zoom_mode_entry_tele">Пълно</string>
+    <string name="pref_camera_zoom_mode_entry_tele">Tелеобектив</string>
     <string name="pref_camera_portrait_mode_title">Режим Портрет</string>
     <string name="pref_camera_portrait_mode_entry_off">Режим Портрет е изключен</string>
     <string name="pref_camera_portrait_mode_entry_on">Режим Портрет е включен</string>
@@ -347,7 +347,7 @@
     <string name="simple_mode_button_text_square">Изключи Квадрат</string>
     <string name="face_beauty_smart">Интелигентно</string>
     <string name="face_beauty_advanced">Професионално</string>
-    <string name="face_beauty_close">Изкл</string>
+    <string name="face_beauty_close">Изключено</string>
     <string name="pref_skin_beautify_intelligent_title">Интелигентно</string>
     <string name="pref_skin_beautify_slim_title">Изтъняване</string>
     <string name="pref_skin_beautify_eye_title">Очи</string>
@@ -650,8 +650,8 @@
 Ултра широкоъгълният режим идва, за да ви помогне, когато не можете да се отдалечите от сцената."</string>
     <string name="ultra_wide_open_tip">Ултра широкоъгълен режим</string>
     <string name="ultra_wide_recommend_tip_hint">Опитайте ултра широкоъгълен режим</string>
-	<string name="pref_camera_zoom_mode_entry_standard">СТАНДАРТНО</string>
-    <string name="pref_camera_zoom_mode_entry_high_pixel">СЛАБА СВЕТЛИНА</string>
+	<string name="pref_camera_zoom_mode_entry_standard">Стандартно</string>
+    <string name="pref_camera_zoom_mode_entry_high_pixel">Слаба светлина</string>
 	<string name="pref_video_hfr_title">Видео с висока честота на кадрите</string>
 	<string name="accessibility_ultra_pixel_photography_32mp_off">32MP е изключено</string>
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP е включено</string>
