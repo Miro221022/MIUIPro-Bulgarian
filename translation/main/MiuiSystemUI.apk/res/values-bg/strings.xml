@@ -1663,7 +1663,7 @@
   <string name="accessibility_splite_screen_secondary">Добавено като второ приложение към Разделен екран</string>
   <string name="miui_guide_dialog_button_negative_text">Настройки</string>
   <string name="miui_guide_dialog_button_positive_text">Разбрах</string>
-  <string name="miui_guide_dialog_message">Медиините звуци (музика, видео, и т.н.) ще продължат да се възпроизвеждат в режим Без звук. Можете да промените това в "Настройки".</string>
+  <string name="miui_guide_dialog_message">Медийните звуци (музика, видеоклипове и др.) ще продължат да се възпроизвеждат в Тих режим. Можете да промените това в "Настройки".</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Тоновете за звънене, както и звуците за известия и медия, ще се възпроизвеждат.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Тоновете за звънене, както и звуците за известия и медия, ще бъдат заглушени.</string>
   <string name="lockscreen_storage_locked">Отключване за всички функции и данни</string>
