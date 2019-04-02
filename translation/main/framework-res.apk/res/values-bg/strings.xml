@@ -1438,5 +1438,25 @@
     <string name="notification_channel_voice_mail">Гласови съобщения</string>
     <string name="notification_channel_vpn">VPN статус</string>
     <string name="notification_channel_wfc">WLAN повиквания</string>
+	<string name="auto_app_launch">Приложение за стартиране</string>
 	<string name="default_notification_channel_label">Без категория</string>
+	<string name="mcat_1">Споделяне</string> 
+    <string name="mcat_2">Споделяне:</string>
+    <string name="mcat_3">Запазено</string>
+    <string name="mcat_4">Запази</string>
+    <string name="mcat_5">Обработка на видео...</string>
+    <string name="mcat_6">Обработка на звук...</string>
+    <string name="mcat_7">Натиснете отново, за изход</string>
+    <string name="mcat_8">Политика за поверителност</string>
+    <string name="mcat_9">Изискват се разрешения</string>
+	<string name="cat_1">Почистването е в ход...</string>
+    <string name="cat_2">Bluetooth деактивиран</string>
+    <string name="cat_3">Bluetooth активиран</string>
+    <string name="cat_4">Мобилните данни са деактивирани</string>
+    <string name="cat_5">Мобилните данни са активирани</string>
+    <string name="cat_6">Wi-Fi деактивиран</string>
+    <string name="cat_7">Wi-Fi активиран</string>
+    <string name="hide_app_icon">Преки пътища на работния плот</string>
+    <string name="not_setup_app">Приложението за гласов асистент не е конфигурирано</string>
+	<string name="press_color_to_apply">Кликнете върху цвета, който искате да изберете</string>
 </resources>
