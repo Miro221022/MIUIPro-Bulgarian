@@ -50,7 +50,6 @@
     <string name="pref_camcorder_settings_category">Видео</string>
     <string name="pref_camera_picturesize_title_simple_mode">Съотношение на снимката</string>
     <string name="pref_camera_picturesize_entry_standard">Стандартен 4:3</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">Широкоекранен 16:9</string>
     <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
     <string name="pref_camera_picture_format_entry_raw">Raw</string>
     <string name="pref_camera_jpegquality_title">Качество на снимка</string>
@@ -854,4 +853,5 @@
     <string name="mimoji_check_face_too_close">检测面部过大，请将手机移远</string>
     <string name="mimoji_check_multi_face">请保持一人在取景圈内</string>
     <string name="mimoji_check_beyond_20_degrees">请正对屏幕，以便识别面部特征</string>
+	<string name="pref_camera_picturesize_entry_fullscreen">Цял екран</string>
 </resources>
