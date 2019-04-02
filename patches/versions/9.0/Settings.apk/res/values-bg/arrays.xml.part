@@ -22,8 +22,8 @@
   </string-array>
   <string-array name="dark_ui_mode_entries">
     <item>Автоматично (въз основа на часа от денонощието)</item>
-    <item>Винаги включено</item>
-    <item>Винаги изключено</item>
+    <item>Винаги включен</item>
+    <item>Винаги изключен</item>
   </string-array>
   <string-array name="select_logpersist_summaries">
     <item>Изкл.</item>
