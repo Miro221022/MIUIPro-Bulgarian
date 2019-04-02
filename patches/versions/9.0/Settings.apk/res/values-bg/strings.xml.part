@@ -240,8 +240,8 @@
   <string name="disabled_by_policy_title_turn_off_backups">Функцията за резервни копия не може да се изключи</string>
   <string name="disabled_dependent_setting_summary">Зависи от друга настройка</string>
   <string name="disabled_for_user_setting_summary">Настройката не може да бъде променена от текущия потребител</string>
-  <string name="display_cutout_emulation">Възпроизвеждане на екран с прорез</string>
-  <string name="display_cutout_emulation_keywords">прорез на екрана, изрез</string>
+  <string name="display_cutout_emulation">Симулиране на екран с прорез</string>
+  <string name="display_cutout_emulation_keywords">прорез на екрана, прорез</string>
   <string name="display_cutout_emulation_none">Без</string>
   <string name="do_disclosure_learn_more_separator">" "</string>
   <string name="double_tap_power_for_camera_suggestion_title">Бързо отваряне на камерата</string>
@@ -263,7 +263,7 @@
   <string name="erase_esim_storage_description">Изтрийте всички електронни SIM карти на телефона. Това действие няма да анулира плана ви за мобилна услуга.</string>
   <string name="error_adding_apn_type">Операторът не позволява добавянето на имена на точки за достъп (APN) от типа „%s“.</string>
   <string name="expand_button_title">Разширени</string>
-  <string name="feature_flags_dashboard_title">Feature flags</string>
+  <string name="feature_flags_dashboard_title">Флагове с функции</string>
   <string name="fingerprint_delete_message">Искате ли да изтриете този отпечатък?</string>
   <string name="fingerprint_delete_title">Премахване на „%1$s“</string>
   <string name="fingerprint_gesture_screen_title">Плъзгане през сензора за отпечат.</string>
