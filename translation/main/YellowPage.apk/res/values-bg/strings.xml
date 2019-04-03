@@ -21,7 +21,7 @@
     <string name="antispam_data_downloading">Изтегля се информация за обаждащия се. Това може да отнеме от 3 до 5 секунди.</string>
     <string name="antispam_data_downloading_error">Не може да се свърже с мрежата</string>
     <string name="antispam_local_newest">Текущата версия е актуална.</string>
-    <string name="antispam_network_remind_summary">Да се изтеглят актуализациите чрез използване на мобилни данни?</string>
+    <string name="antispam_network_remind_summary">Да се изтеглят актуализациите чрез мобилни данни?</string>
     <string name="antispam_network_remind_title">Предупреждение за използв. на данни</string>
     <string name="antispam_pull_newest">Актуализирано успешно до версия %d</string>
     <string name="antispam_update_version">Проверка за актуализации</string>

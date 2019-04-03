@@ -173,8 +173,8 @@
         <item quantity="one">1 видеоклип чака за архивиране</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">Избраните снимки не са в устройството.Да се изтеглят ли чрез използване на мобилни данни?</item>
-        <item quantity="one">Избраната снимка на е в устройството.Да се изтегли ли чрез използване на мобилни данни?</item>
+        <item quantity="other">Избраните снимки не са в устройството.Да се изтеглят ли чрез мобилни данни?</item>
+        <item quantity="one">Избраната снимка на е в устройството.Да се изтегли ли чрез мобилни данни?</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
         <item quantity="other">Избраните снимки не са в устройството, изтегляне</item>
