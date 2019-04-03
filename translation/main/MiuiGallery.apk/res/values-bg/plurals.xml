@@ -57,24 +57,24 @@
         <item quantity="one">Продължаване на архивирането след %d час</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d снимки или видео | На пауза</item>
-        <item quantity="one">%d снимка или видео | На пауза</item>
+        <item quantity="other">%d снимки или видеоклипове | На пауза</item>
+        <item quantity="one">%d снимка или видеоклип | На пауза</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
-        <item quantity="other">%1$d снимки и клипове | %2$s</item>
-        <item quantity="one">%1$d снимка или клип | %2$s</item>
+        <item quantity="other">%1$d снимки и видеоклипове | %2$s</item>
+        <item quantity="one">%1$d снимка или видеоклип | %2$s</item>
     </plurals>
     <plurals name="backuping_desc_normal">
-        <item quantity="other">%1$d снимки и клипове</item>
-        <item quantity="one">%1$d снимка или клип</item>
+        <item quantity="other">%1$d снимки и видеоклипове</item>
+        <item quantity="one">%1$d снимка или видеоклип</item>
     </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d снимки</item>
         <item quantity="one">%d снимка</item>
     </plurals>
     <plurals name="cloud_storage_video_num">
-        <item quantity="other">%d клипа</item>
-        <item quantity="one">%d клип</item>
+        <item quantity="other">%d видеоклипа</item>
+        <item quantity="one">%d видеоклип</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">Избрани %d елемента</item>
