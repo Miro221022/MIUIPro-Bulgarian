@@ -11,7 +11,7 @@
   <string name="agenda">Напомняне</string>
   <string name="agenda_assistant">Събития в календара</string>
   <string name="agenda_assistant_account_num">Профил</string>
-  <string name="agenda_assistant_add">Добави събитие</string>
+  <string name="agenda_assistant_add">Събитие</string>
   <string name="agenda_assistant_allday">Цял ден</string>
   <string name="agenda_assistant_credit_payment">Сметки с кредитни карти</string>
   <string name="agenda_assistant_electricity">Сметката за ток е готова</string>
