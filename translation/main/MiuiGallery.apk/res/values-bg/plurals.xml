@@ -9,11 +9,11 @@
         <item quantity="one">Добавена %d снимка в облака, изключете \"Показване само на локалните албуми\" за преглед.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">%2$d елементи не можаха да се добавят към албума. %1$s.</item>
+        <item quantity="other">%2$d елемента не можаха да се добавят към албума. %1$s.</item>
         <item quantity="one">%2$d елемент не можа да се добави към албума. %1$s.</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d елементи не можаха да се добавят в скрит албум. %1$s.</item>
+        <item quantity="other">%2$d елемента не можаха да се добавят в скрит албум. %1$s.</item>
         <item quantity="one">%2$d елемент не можа да се добави в скрит албум. %1$s.</item>
     </plurals>
     <plurals name="age_day">
@@ -77,8 +77,8 @@
         <item quantity="one">%d видеоклип</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">Избрани %d елемента</item>
-        <item quantity="one">Избран %d елемент</item>
+        <item quantity="other">%d избрани елемента</item>
+        <item quantity="one">%d избран елемент</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">Изтриване на %d елемента от всички устройства и Mi Облак?</item>
@@ -217,7 +217,7 @@
         <item quantity="one">Общо %d снимка</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d елементи не можаха да се премахнат от скрития албум. %1$s.</item>
+        <item quantity="other">%2$d елемента не можаха да се премахнат от скрития албум. %1$s.</item>
         <item quantity="one">%2$d елемент не можа да се премахне от скрития албум. %1$s.</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
