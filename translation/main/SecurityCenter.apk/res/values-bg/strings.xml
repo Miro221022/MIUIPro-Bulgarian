@@ -2022,9 +2022,9 @@
     <string name="app_manager_clear_all_data">Изчисти всички данни</string>
     <string name="app_manager_dlg_clear_cache_title">Изчисти кеша?</string>
     <string name="app_manager_comuting_size">Изчислява се…</string>
-    <string name="app_manager_show_all_apps_opened">Покажи резултатите от всички приложения…</string>
-    <string name="app_manager_search_prompt">Не може да намерите резултати? Опитайте показване на резултати от всички приложения.</string>
-    <string name="app_manager_open_show_all_apps_immediate">Покажи всички резултати</string>
+    <string name="app_manager_show_all_apps_opened">Показване на резултатите от всички приложения…</string>
+    <string name="app_manager_search_prompt">Не са намерени резултати? Опитайте показване на резултати от всички приложения.</string>
+    <string name="app_manager_open_show_all_apps_immediate">Показване на всички резултати</string>
     <string name="app_manager_mobile_slot1">Мобилни данни (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Мобилни данни (SIM 2)</string>
     <string name="ad_btn_default_text">Научете повече</string>

@@ -11,7 +11,7 @@
     <string name="HIPS_Perm_Call_Desc">Директно набиране на телефонни номера</string>
     <string name="HIPS_Perm_Location">Достъп до местоположението</string>
     <string name="HIPS_Perm_Location_Desc">Получаване на точно местоположение (чрез GPS и мрежата)</string>
-    <string name="HIPS_Perm_PhoneID">Дстъп до информация за устройството</string>
+    <string name="HIPS_Perm_PhoneID">Достъп до информация за устройството</string>
     <string name="HIPS_Perm_PhoneID_Desc">Достъп до телефонен номер, IMEI и IMSI</string>
     <string name="HIPS_Perm_SMS">Писане и изтриване на SMS съобщения</string>
     <string name="HIPS_Perm_SMS_Desc">Писане и изтриване на SMS съобщения</string>
