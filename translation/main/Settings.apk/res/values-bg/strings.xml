@@ -6240,10 +6240,10 @@ OTG се изключва автоматично след 10 минути без
     <string name="none">Няма</string>
     <string name="notifi_channels">Категории на известията</string>
     <string name="notifi_channels_other">Други</string>
-    <string name="notifi_importance_default">Показва навсякъде, издава звук, но не е визуално.</string>
-    <string name="notifi_importance_high">Показва навсякъде, издава звук и преглед. Може да използва цял екран.</string>
-    <string name="notifi_importance_low">Показва навсякъде, но не е натрапчиво.</string>
-    <string name="notifi_importance_min">Показва само в зоната</string>
+    <string name="notifi_importance_default">Със звук и вибрация</string>
+    <string name="notifi_importance_high">Със звук и вибрация (максимален приоритет)</string>
+    <string name="notifi_importance_low">Без звук и вибрация</string>
+    <string name="notifi_importance_min">Само в панела за известия</string>
     <string name="notifi_importance_none">Изключено</string>
     <string name="notifi_importance_unspecified">Нека приложението да прецени</string>
     <string name="notifi_no_channels">Това приложение не е публикувало никакви известия</string>
@@ -6291,4 +6291,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="layout_exhuge_font_tips_reg">Достъпност > Размер на екрана</string>
 	<string name="notification_fold_footer_icon_summary">Всички икони за маловажни известия ще се появяват от дясната страна на лентата за състояние</string>
     <string name="notification_fold_footer_icon_title">Покажи икони</string>
+	<string name="user_credential_none_installed">Няма инсталирани потребителски идентификационни данни</string>
 </resources>
