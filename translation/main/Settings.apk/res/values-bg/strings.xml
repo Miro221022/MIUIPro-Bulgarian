@@ -6240,9 +6240,9 @@ OTG се изключва автоматично след 10 минути без
     <string name="none">Няма</string>
     <string name="notifi_channels">Категории на известията</string>
     <string name="notifi_channels_other">Други</string>
-    <string name="notifi_importance_default">Със звук и вибрация</string>
-    <string name="notifi_importance_high">Със звук и вибрация (максимален приоритет)</string>
-    <string name="notifi_importance_low">Без звук и вибрация</string>
+    <string name="notifi_importance_default">Показва навсякъде, издава звук, но не визуално.</string>
+    <string name="notifi_importance_high">Показва навсякъде, издава звук и се появява.Може да се използва на цял екран.</string>
+    <string name="notifi_importance_low">Показва навсякъде, но не е натрапчиво.</string>
     <string name="notifi_importance_min">Само в панела за известия</string>
     <string name="notifi_importance_none">Изключено</string>
     <string name="notifi_importance_unspecified">Нека приложението да прецени</string>
