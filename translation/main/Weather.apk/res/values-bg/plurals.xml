@@ -40,4 +40,12 @@
         <item quantity="other"> | %1$s души</item>
         <item quantity="one"> | %1$s човек</item>
     </plurals>
+		 <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Можете отново да изпратите отзиви след %1$s минути</item>
+        <item quantity="one">Можете отново да изпратите отзиви след %1$s минута</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Можете отново да изпратите отзиви след %1$s секунди</item>
+        <item quantity="one">Можете отново да изпратите отзиви след %1$s секунда</item>
+    </plurals>
 </resources>

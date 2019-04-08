@@ -685,4 +685,6 @@
   <string name="warning_bar_title_sync_off">Синхронизирането с Mi Облак е изключено</string>
   <string name="enable_sync_setting_title">Конфигуриране на облачните услуги…</string>
   <string name="provision_sync_items_loading">Подготовка за синхронизиране на елементи</string>
+  <string name="user_detail_agreement">Потребителско споразумение</string>
+  <string name="user_detail_privacy_policy">Политика за поверителност</string>
 </resources>

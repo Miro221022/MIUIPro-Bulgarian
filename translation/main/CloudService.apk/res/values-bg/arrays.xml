@@ -126,4 +126,8 @@
         <item>Download backed up items to your device</item>
         <item>Облак;Архивиране;Архивиране;Възстановяване;Облачни услуги;Mi Облак</item>
     </string-array>
+	<string-array name="user_detail_fixed_items">
+        <item>Преглед на синхронизираните елементи</item>
+        <item>Подробности за хранилището</item>
+    </string-array>
 </resources>

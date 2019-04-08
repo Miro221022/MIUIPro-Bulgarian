@@ -1498,4 +1498,6 @@
   <string name="screen_save_dialog_btn_delete">Изтриване на екранната снимка</string>
   <string name="screen_save_dialog_btn_save">Запази в Галерия</string>
   <string name="similar_keep_clear">Запазване на най-добрите снимки</string>
+  <string name="photo_editor_compare_tip">Натиснете и задръжте, за да видите оригиналното изображение</string>
+  <string name="photo_editor_remove_watermark">Премахване на воден знак</string>
 </resources>

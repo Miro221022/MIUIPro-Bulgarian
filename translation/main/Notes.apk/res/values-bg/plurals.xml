@@ -20,4 +20,24 @@
         <item quantity="other">%d символа</item>
         <item quantity="one">%d символ</item>
      </plurals>
+	    <plurals name="alert_message_delete">
+        <item quantity="other">Изтриване на %1$s елемента?</item>
+        <item quantity="one">Изтриване на %1$s елемент?</item>
+    </plurals>
+	<plurals name="format_move_notes_out_folder">
+        <item quantity="other">Премахнати са %1$s бележки от папаката</item>
+        <item quantity="one">Премахната е %1$s бележка от папаката</item>
+    </plurals>
+	 <plurals name="format_move_notes_to_folder">
+        <item quantity="other">Преместени са %1$s бележки в %2$s</item>
+        <item quantity="one">Преместена е %1$s бележка в %2$s</item>
+    </plurals>
+	<plurals name="toast_notes_hidden_count">
+        <item quantity="other">Успешно са скрити %1$s бележки</item>
+        <item quantity="one">Успешно е скрита %1$s бележка</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">Успешно са показани %1$s бележки</item>
+        <item quantity="one">Успешно е показана %1$s бележка</item>
+    </plurals>
 </resources>

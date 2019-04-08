@@ -534,4 +534,7 @@
   <string name="weather_huangli_card_no_data_hint">Кликнете, за да получите информация за времето</string>
   <string name="yiji_app_download_card_lebal">Необходимо</string>
   <string name="setting_title_weather_card_desc">Информация за времето от дясната страна на лунната карта</string>
+  <string name="no_visiable_calendar_message_only_for_xiaomi_account">Трябва да добавите профил в календара. Докоснете \"Добавяне на профил\", за да продължите.</string>
+  <string name="share_not_install_wechat">Моля, инсталирайте wechat.</string>
+  <string name="share_not_install_weibo">Моля, инсталирайте weibo.</string>
 </resources>
