@@ -400,8 +400,8 @@
     <string name="vp_datastream_alert_title">Data usage warning</string>
     <string name="vp_declaration">Terms of Service</string>
     <string name="vp_declaration_content_td_custom">This app needs to connect to the internet to work normally.</string>
-    <string name="vp_device_list">Devices</string>
-    <string name="vp_device_list_seaching">&lt;No device to cast></string>
+    <string name="vp_device_list">Устройства</string>
+    <string name="vp_device_list_seaching">&lt;Няма устройство за споделяне></string>
     <string name="vp_download_apk_from_video_ad">Install app</string>
     <string name="vp_download_connect_fail">"Couldn't get URL"</string>
     <string name="vp_download_file_fail">"Couldn't read or write file. Make sure you have enough storage space on your device."</string>
@@ -642,14 +642,14 @@ To activate your account, follow the
     <string name="passport_wrong_captcha">The code you entered is incorrect</string>
     <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
     <string name="passport_wrong_vcode">The code you entered is incorrect</string>
-    <string name="screen_shot_failure">shot failure!</string>
+    <string name="screen_shot_failure">Неуспено заснемане!</string>
     <string name="screen_shot_failure_tips">your os system version it too low,unable to shot screen</string>
-    <string name="screen_shot_success">shot finish!</string>
-    <string name="share_tips">ScreenShot successfully,share the image now</string>
+    <string name="screen_shot_success">Успешно заснето!</string>
+    <string name="share_tips">Екранната снимка е успешна, споделете изображението сега</string>
     <string name="storage_external_sdcard">Външно хранилище</string>
     <string name="storage_internal_sdcard">Вътрешно хранилище</string>
     <string name="storage_root_dir">"Вече сте в главната папка"</string>
-    <string name="subtitle_add_subtitle_failed">"Couldn't add subtitles. Make sure the file isn't corrupted."</string>
+    <string name="subtitle_add_subtitle_failed">"Субтитрите не можаха да се добавят. Уверете се, че файлът не е повреден."</string>
     <string name="subtitle_changed">Нови субтитри</string>
     <string name="subtitle_current_dir">Текуща папка</string>
     <string name="subtitle_folder_up">Предишна папка</string>
@@ -660,18 +660,18 @@ To activate your account, follow the
     <string name="subtitle_non_subtitle_file">Няма файлове със субтитри</string>
     <string name="subtitle_offset_add_1s">+1s</string>
     <string name="subtitle_offset_add_dot5s">+0.5s</string>
-    <string name="subtitle_offset_normal">"Не премествайте субтитриte"</string>
+    <string name="subtitle_offset_normal">"Не премествайте субтитри"</string>
     <string name="subtitle_offset_sub_1s">-1s</string>
     <string name="subtitle_offset_sub_dot5s">-0.5s</string>
     <string name="subtitle_onlinesub_language">Език: %s</string>
     <string name="subtitle_onlinesub_loading">Зареждане на субтитри…</string>
     <string name="subtitle_onlinesub_loading_wait">Зареждане на субтитри…</string>
-    <string name="subtitle_onlinesub_right_declare">Disclaimer</string>
+    <string name="subtitle_onlinesub_right_declare">Отказ от отговорност</string>
     <string name="subtitle_onlinesub_right_declare_content">Получете субтитри &lt;br/>&lt;br/>от &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>. &lt;br/>&lt;br/>Всички онлайн субтитри се предоставят от &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
     <string name="subtitle_onlinesub_save_failed">"Субтитрите не можаха да се добавят"</string>
     <string name="subtitle_onlinesub_save_success">Добавени са успешно субтитри</string>
-    <string name="subtitle_onlinesub_search_keyword">请输入要搜索字幕的关键字</string>
-    <string name="subtitle_onlinesub_search_notfound">"Субтитрите не можаха да бъдат намерени"</string>
+    <string name="subtitle_onlinesub_search_keyword">Търсене на субтитри</string>
+    <string name="subtitle_onlinesub_search_notfound">"Не са намерени субтитри"</string>
     <string name="subtitle_onlinesub_size_string_b">Размер %sб</string>
     <string name="subtitle_onlinesub_title">Онлайн субтитри</string>
     <string name="subtitle_open_subtitle_file_title">Намиране на файл със субтитри</string>
@@ -774,4 +774,8 @@ To activate your account, follow the
 	<string name="offline_download_setting">Изтегляния</string>
 	<string name="v_version_alpha">Бета</string>
     <string name="v_version_release">Стабилна</string>
+	<string name="lp_speed_title">Скорост на възпроизвеждане</string>
+	<string name="portrait_speed_title">Скорост на възпроизвеждане</string>
+	<string name="switch_ratio_pause">Скоростта на възпроизвеждане е нестабилна. Връща се обратно към стандартната скорост…</string>
+	<string name="cannot_support_speed">"Скоростта на възпроизвеждане за този видеоклип не може да се промени, опитайте другo"</string>
 </resources>
