@@ -21,7 +21,7 @@
     <string name="mi_band_vibrate_sms">Вибриране при получаване на SMS съобщение</string>
     <string name="mi_band_vibrate_sms_in_contacts">Вибриране при получаване на SMS съобщение от ваши контакти</string>
     <string name="mi_band_vibrate_sms_no_contacts">Вибриране при получаване на SMS съобщение от неизвестен номер</string>
-    <string name="mi_band_vibrate_alarm">Вибриране при будилник</string>
+    <string name="mi_band_vibrate_alarm">Вибриране при аларма</string>
     <string name="mi_key_open_camera">Отвори Камера</string>
     <string name="mi_key_take_photo">Снимане на снимка</string>
     <string name="mi_key_find_phone">Търсене на телефон</string>
@@ -30,7 +30,7 @@
     <string name="mi_key_summary_take_photo">Натискане на Mi-Key за снимане</string>
     <string name="mi_key_summary_find_phone">Натискане и задържане на Mi-Key за прозвъняване</string>
     <string name="bluetooth_connected">Сдвоено</string>
-    <string name="bluetooth_disconnected">Несдвоено</string>
+    <string name="bluetooth_disconnected">Не е сдвоено</string>
     <string name="bluetooth_disconnecting">Връзката се прекратява…</string>
     <string name="bluetooth_connecting">Сдвоява се…</string>
     <string name="goto_package">Отвори %1$s</string>
