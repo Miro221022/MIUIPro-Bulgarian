@@ -6289,7 +6289,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="layout_exhuge_font_take_effect_tips">XXL размер на текста работи само в Телефон, Съобщения и Контакти</string>
     <string name="layout_exhuge_font_tips">Още опции са налични в %1$s</string>
     <string name="layout_exhuge_font_tips_reg">Достъпност > Размер на екрана</string>
-	<string name="notification_fold_footer_icon_summary">Всички икони за маловажни известия ще се появяват от дясната страна на лентата за състояние</string>
-    <string name="notification_fold_footer_icon_title">Покажи икони</string>
+	<string name="notification_fold_footer_icon_summary">Показване на иконите на приложенията, когато маловажните известия са групирани</string>
+    <string name="notification_fold_footer_icon_title">Показване на иконите на приложенията</string>
 	<string name="user_credential_none_installed">Няма инсталирани потребителски идентификационни данни</string>
 </resources>
