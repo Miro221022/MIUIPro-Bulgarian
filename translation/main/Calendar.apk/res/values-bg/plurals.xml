@@ -128,4 +128,8 @@
         <item quantity="other">%2$s минути път до %1$s.</item>
         <item quantity="one">%2$s минута път до %1$s.</item>
     </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Следващо напомняне след %1$d минути</item>
+        <item quantity="one">Следващо напомняне след %1$d минута</item>
+    </plurals>
 </resources>

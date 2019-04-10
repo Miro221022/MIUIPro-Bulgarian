@@ -314,11 +314,17 @@
         <item>Черно прозрачно</item>
         <item>Бял фон</item>
     </string-array>
-	    <string-array name="edit_event_dislike">
+	<string-array name="edit_event_dislike">
         <item>Няма тип събитие, което искам да създам</item>
         <item>Още настройки</item>
         <item>Някои настройки не могат да бъдат определени</item>
         <item>Просто погледни наоколо</item>
         <item>"Не казвам на теб"</item>
+    </string-array>
+	<string-array name="default_reminder_later_time_labels">
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+        <item>30 минути</item>
     </string-array>
 </resources>

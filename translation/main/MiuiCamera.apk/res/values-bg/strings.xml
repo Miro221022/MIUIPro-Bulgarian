@@ -856,4 +856,6 @@
 	<string name="pref_camera_picturesize_entry_fullscreen">Цял екран</string>
 	<string name="ultra_wide_mode_use_hint_text_sat">"Включете 0.6X супер широк ъгъл, за да запишете по-широк изглед за вас
 Насладете се на още вълнуващата красота"</string>
+    <string name="accessibility_video_btn_play">Изпълни видеоклип</string>
+    <string name="beauty_body_whole">Тяло</string>
 </resources>

@@ -158,4 +158,12 @@
         <item quantity="other">Можете да изтеглите %1$d безплатни песни. Изтегляне %2$s сега?</item>
         <item quantity="one">Можете да изтеглите %1$d безплатна песен. Изтегляне %2$s сега?</item>
    </plurals>
+       <plurals name="free_downloads_num_hint">
+        <item quantity="other">Остават %d безплатни изтегляния</item>
+        <item quantity="one">Остава %d безплатно изтегляне</item>
+    </plurals>
+	<plurals name="vip_remain_days_hint">
+        <item quantity="other">%d оставащи дни</item>
+        <item quantity="one">%d оставащ ден</item>
+    </plurals>
 </resources>

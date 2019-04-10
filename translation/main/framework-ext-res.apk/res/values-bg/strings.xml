@@ -198,4 +198,16 @@
     <string name="resolver_offical_recommend">Официално</string>
     <string name="resolver_other_method">Други опции</string>
     <string name="resolver_recommend_options_tag">Препоръчани опции</string>
+    <string name="popup_camera_calibrate_now">Калобрирай</string>
+    <string name="popup_camera_calibrate_success">Калибрирано успешно. Сега можете да отворите предната камера.</string>
+    <string name="popup_camera_front_failed">"Предната камера не можа да се отвори. Опитайте отново."</string>
+    <string name="popup_camera_front_when_use">Предната камера е заета. Отваряне въпреки това?</string>
+    <string name="popup_camera_popup_falied_times_calibrate">"Предната камера не можа да се отвори няколко пъти. Опитайте да калибрирате камерата."</string>
+    <string name="popup_camera_sure">Разбрах</string>
+    <string name="popup_camera_sure_wait">Разбрах (%ds)</string>
+    <string name="popup_camera_takeback_falied_times_calibrate">"Предната камера не можа да се затвори няколко пъти. Опитайте да калибрирате камерата."</string>
+    <string name="popup_camera_tip">Внимание</string>
+    <string name="popup_camera_using_camera_background">%s използва предната камера</string>
+    <string name="stop_operate_camera_frequently">"Изглежда, че превключвате между камерите твърде често."</string>
+    <string name="takeback_camera_front_failed">"Предната камера не можа да се затвори. Опитайте отново."</string>
 </resources>
