@@ -447,7 +447,7 @@
     <string name="loadercontainer_loading">Един момент…</string>
     <string name="loading_hint">Зарежда се...</string>
     <string name="local_header_title">Локална музика</string>
-    <string name="local_music">Свалени песни</string>
+    <string name="local_music">Изтеглени песни</string>
     <string name="local_music_empty">Тук няма локални песни за слушане.</string>
     <string name="local_music_empty_goto_online">Не можах да намеря песни. Изтеглете няколко първо.</string>
     <string name="local_music_is_not_available">Вие нямате песни на вашето устройство.</string>
@@ -458,10 +458,10 @@
     <string name="local_page_custom_title">За теб</string>
     <string name="local_page_playlist">Моите списъци</string>
     <string name="local_page_song_all">Всички песни</string>
-    <string name="local_page_song_download">Свалени песни</string>
+    <string name="local_page_song_download">Изтеглени песни</string>
     <string name="local_page_song_download_history">Изтегляния</string>
     <string name="local_page_song_favorite">Предпочитани песни</string>
-    <string name="local_tracks_short">Свалени песни</string>
+    <string name="local_tracks_short">Изтеглени песни</string>
     <string name="lrc_search_failed">Текстът на песента не е намерен</string>
     <string name="lrc_searching">Търсене на текст…</string>
     <string name="lyric">Текст</string>
@@ -516,12 +516,12 @@
     <string name="modify_lyric">Промяна на текста</string>
     <string name="modify_progress">Промяна на скоростта на текста</string>
     <string name="modify_progress_helper">Плъзнете нагоре или надолу, за да регулирате скоростта на текстовете</string>
-    <string name="modify_song_info">Редактиране на информацията за песента</string>
+    <string name="modify_song_info">Редактиране на информацията</string>
     <string name="modify_song_info_success">Информацията за песента е обновена</string>
     <string name="monthly_price">Mi Кредити</string>
     <string name="more">Още</string>
     <string name="more_about_artist">Още за %s</string>
-    <string name="more_add_song_list">Добави към текущия списък</string>
+    <string name="more_add_song_list">Добавете песни към опашката</string>
     <string name="more_online_artist">Още</string>
     <string name="more_online_billboard">Още</string>
     <string name="more_online_fm">Още</string>
@@ -1107,4 +1107,10 @@
    <string name="tab_playlist">Плейлисти</string>
    <string name="tab_video">Видеоклипове</string>
    <string name="voice_search_first_hint">Опитайте гласово търсене!</string>
+   <string name="play_mode_one_loop">Повторение на песента</string>
+   <string name="play_mode_shuffle_all">Разбъркано</string>
+   <string name="play_mode_all_loop">Повтаряне на всички</string>
+   <string name="play_mode_play_all">Изпълни всички</string>
+   <string name="dialog_title_clearlist_tracks">Премахни от опашката</string>
+   <string name="pick_local_song">Локални песни</string>
 </resources>
