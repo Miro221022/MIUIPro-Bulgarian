@@ -591,11 +591,11 @@
     <string name="notification_recommend_title">Важни известия</string>
     <string name="notification_setting">Настройка на известия</string>
     <string name="notification_title_no_song">Изберете какво да слушат всички.</string>
-    <string name="nowplaying_circle_style">Стил на бутон Пусни</string>
+    <string name="nowplaying_circle_style">Стил на бутона за изпълнение</string>
     <string name="nowplaying_circle_style_rainbow">Дъга</string>
     <string name="nowplaying_circle_style_wave">Вълна</string>
-    <string name="nowplaying_dialog_title_delete_tracks">Изчистване на текущия списък?</string>
-    <string name="nowplaying_menu_item_delete">Изчистване</string>
+    <string name="nowplaying_dialog_title_delete_tracks">Премахване от опашката?</string>
+    <string name="nowplaying_menu_item_delete">Премахване от опашката</string>
     <string name="ok">OK</string>
     <string name="one_month">1 месец</string>
     <string name="online_bill">Класации</string>
