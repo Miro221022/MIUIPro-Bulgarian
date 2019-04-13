@@ -55,7 +55,7 @@
   <string name="button_join_service_number">Добави сервизен номер</string>
   <string name="button_my_center">Профил</string>
   <string name="button_scan">Сканирай</string>
-  <string name="caching_vcard_message">Кешира се визитка(и) във временно хранилище на телефона. Импортирането ще започне скоро...</string>
+  <string name="caching_vcard_message">Кеширане на vCard на устройство…</string>
   <string name="caching_vcard_title">Кеширане</string>
   <string name="call_assistant">Набери номера %s</string>
   <string name="call_callback">Набери за обратно повикване</string>
@@ -169,10 +169,10 @@
   <string name="clear_digits">Изтрий телефонен номер</string>
   <string name="clearCallLogConfirmation">Списъкът с всички ваши повиквания ще бъде изтрит.</string>
   <string name="clearCallLogConfirmation_title">Изчистване на списъка с повиквания</string>
-  <string name="clearCallLogProgress_title">Изчистване на списъка с повиквания...</string>
+  <string name="clearCallLogProgress_title">Изчистване на списъка с повиквания…</string>
   <string name="clearFrequentsConfirmation">Вие ще изчистите всички често използвани контакти от Контакти и Телефон. Вашето приложение за Имейл ще събира информация от нулата.</string>
   <string name="clearFrequentsConfirmation_title">Да изчистя ли често използвани контакти?</string>
-  <string name="clearFrequentsProgress_title">Изчистване на често използваните контакти...</string>
+  <string name="clearFrequentsProgress_title">Изчистване на често използваните…</string>
   <string name="click_close">Натиснете, за да затворите</string>
   <string name="clip_dialog_title">Набиране на копираният номер?</string>
   <string name="close_dial_pad_description">Затваряне на клавиатурата</string>
@@ -241,7 +241,7 @@
   <string name="contact_import_methods_dialog_mi_mover">Mi Трансфер</string>
   <string name="contact_import_methods_dialog_title">Изберете метод на импортиране</string>
   <string name="contact_is_readOnly">Контакт само за четене не може да се редактира</string>
-  <string name="contact_list_loading">Зареждане...</string>
+  <string name="contact_list_loading">Зареждане…</string>
   <string name="contact_pick_photo">Снимка</string>
   <string name="contact_read_only">Достъпно само за четене.</string>
   <string name="contact_search_history">История</string>
@@ -291,8 +291,8 @@
   <string name="delete_contact_calllog_title">Изчистване на историята на повикванията?</string>
   <string name="delete_dial_input">Изтрий</string>
   <string name="delete_duplicate">Обедини</string>
-  <string name="delete_duplicate_message">Обединяване на контакти...</string>
-  <string name="delete_group_dialog_message">Ще изтриете ли групата \"%1$s\", Контактите в нея ще се запазят.</string>
+  <string name="delete_duplicate_message">"Обединяване на контакти… "</string>
+  <string name="delete_group_dialog_message">Итриване на групата \"%1$s\", самите контакти няма да бъдат изтрити.</string>
   <string name="delete_group_dialog_title">Изтрий група</string>
   <string name="delete_selected_sim_entry_miui">Изтриване на избраните контакти</string>
   <string name="delete_sim_entries_finish">Контактите са изтрити от SIM картата</string>
@@ -357,17 +357,27 @@
   <string name="device_import_message">Импортиране</string>
   <string name="device_import_progress_begin_message">Подготовка за импортиране…</string>
   <string name="device_import_progress_end_message">Импортирането завърши!</string>
-  <string name="device_import_progress_message">Импортиране...</string>
+  <string name="device_import_progress_message">Импортиране…</string>
   <string name="device_import_title">Импортиране</string>
   <string name="device_list_title">изберете телефон</string>
   <string name="device_other_guide">Поддържа ли другият телефон bluetooth?</string>
   <string name="device_other_title">Импортиране от друг телефон</string>
-  <string name="device_paired_dialog_message">Устройствата са свързани (вероятно ще се наложи да потвърдите на другия телефон)...</string>
-  <string name="device_paired_dialog_title">Устройствата са свързани</string>
-  <string name="device_pairing_dialog_message">Устройствата се свързват (вероятно ще се наложи да потвърдите на другия телефон)...</string>
+  <string name="device_paired_dialog_message">Извличане на контакти…</string>
+  <string name="device_paired_dialog_title">Извличане на контакти…</string>
+  <string name="device_pairing_dialog_message">Сдвояване…</string>
   <string name="device_pairing_dialog_title">Устройствата се свързват</string>
-  <string name="device_transfer_by_bluetooth_message">1. Включете Bluetooth на другото устройство. \n\n- Bluetooth може да намерите в мрежовите настройки на всяко Андроид устройство. \n- При iOS устройствата, Bluetooth се намира в Настройки. \n\n2. Режим Видим също трябва да е включен в Андроид устройствата. \n\n3. Чукнете върху \"Следващ\" и дайте на Контакти необходимите разрешения.</string>
-  <string name="device_transfer_by_sim_message">\"1. Запазете контактите от другото устройство на вашата SIM карта; \n\n2 Отворете настройките на приложението Контакти и отидете на \"Импортиране/Експортиране на контакти\" -- \"Импортирай от SIM картата\", задръжте, за да изберете контакт, изберете всички желани контакти и натиснете \"Импортиране\".\"</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Включете Bluetooth на другото устройство. 
+
+- Bluetooth може да бъде намерен в мрежовите настройки на устройства с Android. 
+- На устройства с iOS Bluetooth е в Настройки. 
+
+2. Режимът на откриваемост също трябва да се включи на устройства с Android. 
+
+3. Докоснете \"Следващ\" и дайте на Контакти необходимите разрешения."</string>
+  <string name="device_transfer_by_sim_message">"1. Запаметяване на контактите от другото устройство на SIM картата;
+        
+
+2. Отворете настройките в приложението Контакти  и след това отидете в \"Импортиране/Експортиране на контакти\" -- \"Импортиране от SIM картата\", задръжте някой контакт на SIM картата, за да го изберете, изберете всички необходими контакти и докоснете \"Импортиране\"."</string>
   <string name="device_version_header_bluetooth">Импортиране чрез Bluetooth</string>
   <string name="device_version_header_no_bluetooth">Импортиране чрез SIM картата</string>
   <string name="dial">Набери</string>
@@ -1099,7 +1109,7 @@
   <string name="titleJoinContactDataWith">Обедини контакти</string>
   <string name="toast_call_detail_error">Не можете да прочетете подробности за повикването.</string>
   <string name="toast_copy_done">Копирането завърши успешно</string>
-  <string name="toast_copying">Копиране, моля изчакайте...</string>
+  <string name="toast_copying">Копиране, моля изчакайте…</string>
   <string name="toast_displaying_all_contacts">Показване на всички контакти</string>
   <string name="toast_finish_delete_call_log">Успешно изтрито</string>
   <string name="toast_finish_delete_selected_call_log">Успешно изтрито</string>
@@ -1126,8 +1136,12 @@
   <string name="unknown_details_add_to_contact">Съществуващ</string>
   <string name="unknown_details_new_contact">Нов</string>
   <string name="update_sim_contact_photo_toast">Не може да се задават профилни снимки на контакти от SIM-картата</string>
-  <string name="upgrade_in_progress">Списъкът с контакти се обновява...</string>
-  <string name="upgrade_out_of_memory">Контактите са в процес на обновяване. \n\nЗа процеса са необходими приблизително %s MB памет.\n\nИзберете един от следните варианти:</string>
+  <string name="upgrade_in_progress">Списъкът с контакти се актуализира.</string>
+  <string name="upgrade_out_of_memory">"Контактите са в процес на обновяване. 
+
+Процесът по надстройка изисква приблизително %s Мб на вътрешното хранилище.
+
+Изберете една от следните опции:"</string>
   <string name="upgrade_out_of_memory_retry">Опитайте да обновите отново</string>
   <string name="upgrade_out_of_memory_uninstall">Деинсталирате някои от приложенията</string>
   <string name="use_photo_as_primary">Използвайте тази снимка</string>
