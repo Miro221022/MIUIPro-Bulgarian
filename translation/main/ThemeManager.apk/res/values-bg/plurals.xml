@@ -20,4 +20,12 @@
         <item quantity="other">%1$s | %2$d снимки</item>
         <item quantity="one">%1$s | %2$d снимка</item>
     </plurals>
+	    <plurals name="transparent_wallpaper_filter_hint">
+        <item quantity="other">Търсете сред %1$d приложения</item>
+        <item quantity="one">Търсете сред %1$d приложение</item>
+    </plurals>
+	    <plurals name="transparent_wallpaper_filter_result">
+        <item quantity="other">%1$d приложения са намерени</item>
+        <item quantity="one">%1$d приложение е намерено</item>
+    </plurals>
 </resources>
