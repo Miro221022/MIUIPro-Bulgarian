@@ -1053,7 +1053,7 @@
     <string name="power_optimize_auto_catagory_title">Проблеми с батерията</string>
     <string name="power_optimize_catagory_fixed_title">Оптимизирано</string>
     <string name="power_optimize_btn_text_fixed">Оптимизирано</string>
-    <string name="power_optimize_loading">Зарежда се...</string>
+    <string name="power_optimize_loading">Зареждане</string>
     <string name="prompt_input_time_illegal">Не може да се зададе това време, променете го и опитайте отново</string>
     <string name="power_settings_saver_title">Пестене на батерия</string>
     <string name="quick_optimize_no_fix_issue_title">Не може да се поправят проблемите с батерията</string>
@@ -1062,7 +1062,7 @@
     <string name="quick_optimize_no_issue_subtitle">Изглежда, че всичко е наред</string>
     <string name="quick_optimize_no_issue">Няма проблеми с батерията</string>
     <string name="quick_optimize_sub_summary_text">Добавени %s към живота на батерията</string>
-    <string name="quick_optimize_checking">Проверка...</string>
+    <string name="quick_optimize_checking">Сканиране</string>
     <string name="quick_optimize_suggest_battery_over_heat">Телефона прегрява, оптимизирайте настройките</string>
     <string name="quick_optimize_suggest_battery_consume_too_fast">Източване на батерията, оптимизирайте настройките</string>
     <string name="btn_text_optimize_extend_battery_time">Добавяне на %s</string>
@@ -1432,7 +1432,7 @@
     <string name="menu_item_virus_lib_auto_update_summary">Последна актуализация: %s</string>
     <string name="hints_virus_app_list_item_summary">приложение</string>
     <string name="hints_virus_apk_list_item_summary">apk</string>
-    <string name="hints_loading_text">Зареждане...</string>
+    <string name="hints_loading_text">Зареждане…</string>
     <string name="activity_title_auto_start_manager">Автостарт</string>
     <string name="activity_title_permission_manager">Разрешения</string>
     <string name="activity_title_other_permission_manager">Други разрешения</string>
@@ -1871,7 +1871,7 @@
     <string name="optmizingbar_title_system">Сигурност на системата</string>
     <string name="optmizingbar_title_clear">Изчисти кеша</string>
     <string name="optmizingbar_title_security">Сигурност</string>
-    <string name="optmizingbar_title_acceleration">Оптимизиране...</string>
+    <string name="optmizingbar_title_acceleration">Оптимизиране…</string>
     <string name="optimize_result_button_see_detaills">Преглед на детайлите</string>
     <string name="optimize_result_button_open_now">Включване</string>
     <string name="optimize_result_button_realname_now">Потвърждаване</string>

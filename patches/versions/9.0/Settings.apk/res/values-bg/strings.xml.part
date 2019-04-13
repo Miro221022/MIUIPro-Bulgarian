@@ -558,7 +558,7 @@
   <string name="wifi_ap_band_select_one">Изберете поне една честота за точката за достъп до Wi‑Fi:</string>
   <string name="wifi_ap_choose_auto">Автоматично</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Точката за достъп временно е пълна</string>
-  <string name="wifi_auto_sel_wapi_cert">Select automatically</string>
+  <string name="wifi_auto_sel_wapi_cert">Избиране ръчно</string>
   <string name="wifi_calling_not_supported">Функцията за обаждания през Wi-Fi не се поддържа за %1$s</string>
   <string name="wifi_calling_pref_managed_by_carrier">Настройката се управлява от оператора</string>
   <string name="wifi_calling_settings_activation_instructions">Активиране на функцията за обаждания през Wi-Fi</string>

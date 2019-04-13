@@ -564,7 +564,7 @@
 Излъчването използва сигнали с ниска мощност по стандарта Bluetooth."</string>
     <string name="bluetooth_ask_enablement_and_discovery">Приложение иска да включи Bluetooth и да направи телефона ви видим за други устройства за %1$d секунди.</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">Приложение иска да включи Bluetooth и да направи телефона ви видим за други устройства. Можете да промените това по-късно от настройките за функцията.</string>
-    <string name="bluetooth_turning_on">Bluetooth се включва...</string>
+    <string name="bluetooth_turning_on">Bluetooth се включва…</string>
     <string name="bluetooth_turning_off">Bluetooth се изключва…</string>
     <string name="bluetooth_auto_connect">Автоматично свързване</string>
     <string name="bluetooth_connection_permission_request">Заявка за свързване чрез Bluetooth</string>
@@ -649,7 +649,7 @@
     <string name="sdcard_settings_unmounted_status">Извадете USB хранилището сега.</string>
     <string name="sdcard_settings_bad_removal_status">USB е премахнато, докато се ползва!</string>
     <string name="sdcard_settings_used_bytes_label">Използвани байтове:</string>
-    <string name="sdcard_settings_scanning_status">USB се сканира за носители...</string>
+    <string name="sdcard_settings_scanning_status">Сканиране на SD картата за медия…</string>
     <string name="sdcard_settings_read_only_status">USB хран. е свърз. само за четене.</string>
     <string name="skip_label">Пропускане</string>
     <string name="next_label">Напред</string>
@@ -937,7 +937,7 @@
     <string name="bluetooth_connecting_error_message">Не можа да се установи връзка със: %1$s.</string>
     <string name="bluetooth_preference_scan_title">Сканиране за устройства</string>
     <string name="bluetooth_search_for_devices">Опресняване</string>
-    <string name="bluetooth_searching_for_devices">Търси се...</string>
+    <string name="bluetooth_searching_for_devices">Търсене…</string>
     <string name="bluetooth_preference_device_settings">Настройки на устройството</string>
     <string name="bluetooth_preference_paired_dialog_title">Сдвоено устройство</string>
     <string name="bluetooth_preference_paired_dialog_name_label">Име</string>
@@ -961,7 +961,7 @@
     <string name="bluetooth_advanced_titlebar">Разширени настр. за Bluetooth</string>
     <string name="bluetooth_empty_list_bluetooth_off">При включен Bluetooth устройството ви може да се свързва с други устройства с Bluetooth в района.</string>
     <string name="ble_scan_notify_text">С цел подобряване на точността на местоположението системните приложения и услуги пак ще могат да откриват устройства с Bluetooth. Можете да промените това от LINK_BEGINнастройките за сканиранеLINK_END.</string>
-    <string name="bluetooth_connect_specific_profiles_title">Свързване с/ъс...</string>
+    <string name="bluetooth_connect_specific_profiles_title">Свързване със…</string>
     <string name="bluetooth_disconnect_a2dp_profile">Връзката между %1$s и мултимедийното аудио ще бъде прекъсната.</string>
     <string name="bluetooth_disconnect_headset_profile">Връзката между %1$s и аудиото от „свободни ръце“ ще бъде прекъсната.</string>
     <string name="bluetooth_disconnect_hid_profile">Връзката между %1$s и устройството за въвеждане ще бъде прекъсната.</string>
@@ -1370,7 +1370,7 @@
     <string name="memory_available">На разположение</string>
     <string name="memory_available_read_only">Налице (само за четене)</string>
     <string name="memory_size">Общо място</string>
-    <string name="memory_calculating_size">Изчислява се...</string>
+    <string name="memory_calculating_size">Изчисляване…</string>
     <string name="memory_apps_usage">Приложения и данните им</string>
     <string name="memory_media_usage">Носители</string>
     <string name="memory_downloads_usage">Изтегляния</string>
@@ -1835,7 +1835,7 @@
     <string name="internal_storage">Вътр. хранилище</string>
     <string name="internal_storage_sentence">вътрешно хранилище</string>
     <string name="sd_card_storage">USB хранилище</string>
-    <string name="recompute_size">Размерът се преизчислява...</string>
+    <string name="recompute_size">Преизчисляване на размера…</string>
     <string name="clear_data_dlg_title">Да се изтрият ли данните от приложенията?</string>
     <string name="clear_data_dlg_text">Всички данни на това приложение ще бъдат изтрити за постоянно. Това включва всички файлове, настройки, профили и т.н.</string>
     <string name="dlg_ok">OK</string>
@@ -1853,7 +1853,7 @@
     <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="security_settings_billing_desc">Това приложение може да ви таксува пари:</string>
     <string name="security_settings_premium_sms_desc">Изпращане на импулсен SMS</string>
-    <string name="computing_size">Изчислява се...</string>
+    <string name="computing_size">Изчисляване…</string>
     <string name="invalid_size_value">Размерът на пакета не можа да бъде изчислен.</string>
     <string name="empty_list_msg">Нямате никакви инсталирани приложения на трети страни.</string>
     <string name="version_text">версия %1$s</string>
@@ -1980,7 +1980,7 @@
     <string name="user_dict_settings_empty_text">"Няма предложения в речника
  Чукнете + за да добавите думи."</string>
     <string name="user_dict_settings_all_languages">За всички езици</string>
-    <string name="user_dict_settings_more_languages">Още езици...</string>
+    <string name="user_dict_settings_more_languages">Още езици…</string>
     <string name="testing">Тестване</string>
     <string name="testing_phone_info">Информация за телефон</string>
     <string name="testing_sim_toolkit">SIM инструменти</string>
@@ -2390,17 +2390,17 @@
     <string name="wifi_setup_forget">Забравяне</string>
     <string name="wifi_setup_save">Запазване</string>
     <string name="wifi_setup_cancel">Отказ</string>
-    <string name="wifi_setup_status_scanning">Мрежите се сканират...</string>
+    <string name="wifi_setup_status_scanning">Сканиране на мрежите…</string>
     <string name="wifi_setup_status_select_network">Докоснете мрежа, за да се свържете с нея</string>
     <string name="wifi_setup_status_existing_network">Свързване със съществуващата мрежа</string>
     <string name="wifi_setup_status_unsecured_network">Свързване с незащитена мрежа</string>
     <string name="wifi_setup_status_edit_network">Въведете мрежова конфигурация</string>
     <string name="wifi_setup_status_new_network">Свързване с нова мрежа</string>
-    <string name="wifi_setup_status_connecting">Свързва се...</string>
+    <string name="wifi_setup_status_connecting">Свързване…</string>
     <string name="wifi_setup_status_proceed_to_next">Към следващата стъпка</string>
     <string name="wifi_setup_status_eap_not_supported">Не се поддържа EAP.</string>
     <string name="wifi_setup_eap_not_supported">Не можете да конфигурирате Wi-Fi връзка с редактиране на точката за достъп (EAP) по време на настройката. След това можете да го направите от „Настройки“ > „Кабелни и безжични мрежи“.</string>
-    <string name="wifi_setup_description_connecting">Свързването може да отнеме няколко минути...</string>
+    <string name="wifi_setup_description_connecting">Свързването може да отнеме няколко минути…</string>
     <string name="wifi_setup_description_connected">Докоснете &lt;b>Напред&lt;/b>\", за да продължите с настройката. Докоснете \"&lt;b>Назад&lt;/b>, за да се свържете с друга Wi-Fi мрежа.</string>
     <string name="time_zone_auto_stub">Изберете часова зона</string>
     <string name="accessibility_sync_enabled">Синхронизирането е активирано</string>
@@ -2771,7 +2771,7 @@
     <string name="sim_cellular_data_unavailable_summary">Докоснете, за да изберете SIM карта за данни</string>
     <string name="sim_calls_always_use">Използване винаги за обаждания</string>
     <string name="select_sim_for_data">Изберете SIM карта за данни</string>
-    <string name="data_switch_started">SIM картата за данни се превключва. Това може да отнеме до една минута...</string>
+    <string name="data_switch_started">Превключване на SIM картата за данни,това може да отнеме до минута...</string>
     <string name="select_sim_for_calls">Обаждане чрез</string>
     <string name="sim_select_card">Изберете SIM карта</string>
     <string name="sim_card_number_title">SIM карта %1$d</string>
@@ -2848,7 +2848,7 @@
     <string name="keywords_unification">служебен потребителски профил, управляван потребителски профил, обединение, обединяване, работа, потребителски профил</string>
     <string name="setup_wifi_nfc_tag">Маркер за КБП за Wi-Fi: Настр.</string>
     <string name="write_tag">Записване</string>
-    <string name="status_awaiting_tap">За записване докоснете маркер...</string>
+    <string name="status_awaiting_tap">Докоснете маркер, за да напишете ...</string>
     <string name="status_invalid_password">Невалидна парола. Опитайте отново.</string>
     <string name="status_write_success">Успех!</string>
     <string name="status_failed_to_write">Записването на данни в маркера за КБП не е възможно. Ако проблемът не се отстрани, опитайте с друг маркер</string>
@@ -2933,7 +2933,7 @@
     <string name="display_vr_pref_off">Да не се прави нищо</string>
     <string name="manage_zen_access_title">Достъп до „Не безпокойте“</string>
     <string name="zen_access_empty_text">Никое инсталирано приложение не е заявило достъп до „Не безпокойте“</string>
-    <string name="loading_notification_apps">Приложенията се зареждат...</string>
+    <string name="loading_notification_apps">Зареждане на приложения...</string>
     <string name="app_notification_block_title">Блокиране на всички</string>
     <string name="app_notification_block_summary">Известията от това приложение никога не се показват</string>
     <string name="app_notification_override_dnd_title">Отмяна на „Не безпокойте“</string>
@@ -4005,7 +4005,7 @@
     <string name="apn_new">Нова точка за достъп</string>
     <string name="apn_save">Ще запазите ли точката за достъп?</string>
     <string name="apn_save_msg">APN беше променена. Да запазя ли промените?</string>
-    <string name="activating">Активиране...</string>
+    <string name="activating">Активиране…</string>
     <string name="wifi_enable_watchdog_service_summary">Да се избягват лоши връзки</string>
     <string name="wifi_disabled_help">Мрежата беше разкачена поради лоша връзка. За да регулирате тази настройка, отидете в Настройки > Wi-Fi > Бутон меню > Разширени.</string>
     <string name="wifi_wps_overlap_error">Открита е друга защитена WPS сесия. Опитайте отново след няколко минути.</string>
@@ -4089,7 +4089,7 @@
     <string name="master_clear_apply_title">Предупреждение</string>
     <string name="master_clear_apply_step_1">&lt;b>Връщане на заводските настройки ще изтрие цялата информация на вашия телефон&lt;/b>, включително снимки, песни, бележки и други лични данни. Преди да изпълните действието направете резервно копие на вашия компютър.</string>
     <string name="master_clear_apply_step_2">Проверете дали имате резервно копие на всички елементи във вашия компютър. Всички данни ще бъдат изтрити, след връщане на заводските настройки. &lt;b>Вие няма да може да възстановите данните, които нямат резервно копие.&lt;/b></string>
-    <string name="master_clear_erase_application_progress">Изтриване на приложения...</string>
+    <string name="master_clear_erase_application_progress">Изтриване на приложения…</string>
     <string name="erase_internal_storage">Изчисти вътрешната памет</string>
     <string name="erase_internal_storage_description">Форматирането ще изтрие всички файлове във вътрешното хранилище, като например снимки и музика</string>
     <string name="storage_format">Форматиране</string>
@@ -4380,7 +4380,7 @@
     <string name="wifi_share_turn_on">Включено</string>
     <string name="wifi_share_turn_off">Изключено</string>
     <string name="wifi_share_upload">Сподели</string>
-    <string name="wifi_share_uploading">Споделяне на Wi-Fi мрежа...</string>
+    <string name="wifi_share_uploading">Споделяне…</string>
     <string name="wifi_share_upload_finish">Споделянето е успешно!</string>
     <string name="wifi_share_show_network">Покажи мрежите</string>
     <string name="wifi_share_current_network">Настояща мрежа</string>
@@ -4523,7 +4523,7 @@
     <string name="no_updates_warning2">Ще ви уведомим, когато има налични актуализации.</string>
     <string name="network_error">Грешка на мрежата.</string>
     <string name="checking_for_updates">Проверка за актуализации…</string>
-    <string name="rebootiing_for_updates">Рестартира се...</string>
+    <string name="rebootiing_for_updates">Рестартиране…</string>
     <string name="update_progress_for_updates">Актуализиране（%s）</string>
     <string name="toast_need_login">Влезте с вашия Mi профил</string>
     <string name="button_text_reboot_now">Рестарт</string>
@@ -4539,7 +4539,7 @@
     <string name="welcome">Добре дошли</string>
     <string name="resolver_settings_label">Сортиране</string>
     <string name="infinity_display_title">Показване на цял екран</string>
-    <string name="launching_pho">Зареждане на информация за устройството...</string>
+    <string name="launching_pho">Получаване на информация за устройството…</string>
     <string name="launching_cit">Стартиране на cit, моля изчакайте.</string>
     <string name="launching_rep">Докладване на грешка, моля изчакайте.</string>
     <string name="status_serialno">сериен номер</string>
