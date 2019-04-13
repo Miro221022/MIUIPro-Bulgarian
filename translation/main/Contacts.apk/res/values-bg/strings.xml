@@ -579,7 +579,7 @@
   <string name="loading_accounts">Една секунда…</string>
   <string name="loading_group_members">Една секунда…</string>
   <string name="loading_groups">Зареждане на групи…</string>
-  <string name="loading_recent">Зареждане на последни контакти…</string>
+  <string name="loading_recent">Една секунда…</string>
   <string name="local_invisible_directory">Други</string>
   <string name="local_profile_title">Моят локален профил</string>
   <string name="local_search_label">Всички контакти</string>
@@ -919,7 +919,7 @@
   <string name="quit_dialog_confirm_title">Отмяна на обединяването на контакти</string>
   <string name="reading_vcard_canceled_title">Разчитането на данни от визитка е отменено</string>
   <string name="reading_vcard_failed_title">Разчитането на данни от визитка е неуспешно</string>
-  <string name="readingSimContacts">Изтегляне на информация от SIM карта...</string>
+  <string name="readingSimContacts">Четене на SIM картата…</string>
   <string name="readOnlyContactDeleteConfirmation">Този контакт съдържа информация от няколко профила. Информацията от профилите, които са само за четене ще бъде скрита от списъка с контакти, но няма да е изтрита.</string>
   <string name="readOnlyContactWarning">Не можете да изтривате контакти, достъпни само за четене от профила си, но можете да ги скриете в списъка с контакти.</string>
   <string name="rebuild_t9_index_dialog_message">Възстановяване…</string>
