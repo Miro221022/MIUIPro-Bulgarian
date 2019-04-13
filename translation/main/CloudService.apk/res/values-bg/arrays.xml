@@ -122,8 +122,8 @@
         <item>Облак;Архивиране;Архивиране;Облачни услуги;Mi Облак;Начален екран;Оформление;Приложения;Управление на архивите;Възстановяване</item>
     </string-array>
     <string-array name="settings_search_restore_device">
-        <item>Restore items from Mi Cloud</item>
-        <item>Download backed up items to your device</item>
+        <item>Възстановяване на елементи от Mi Облак</item>
+        <item>Изтегляне на архивирани елементи в устройството ви</item>
         <item>Облак;Архивиране;Архивиране;Възстановяване;Облачни услуги;Mi Облак</item>
     </string-array>
 	<string-array name="user_detail_fixed_items">

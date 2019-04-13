@@ -445,7 +445,7 @@
   <string name="export_sim_contact_finish_msg">%1$d прехвърлени | %2$d дублирани | %3$d остават %4$s</string>
   <string name="export_to_sdcard">Експортиране в хранилището</string>
   <string name="export_to_sim">Експортиране в SIM карта</string>
-  <string name="export_to_sim_prepare_title">Preparing…</string>
+  <string name="export_to_sim_prepare_title">Подготовка…</string>
   <string name="export_to_sim_title">Експортиране…</string>
   <string name="export_to_sim1">Експорт към SIM карта 1</string>
   <string name="export_to_sim2">Експортиране в SIM карта 2</string>
@@ -524,7 +524,7 @@
   <string name="import_all_vcard_string">Импортиране на всички файлове с визитки</string>
   <string name="import_contact_card_aggregate_suggestion_button">Обедини контакти</string>
   <string name="import_contact_card_button">Импортиране</string>
-  <string name="import_failure_no_vcard_file">Не са открити файлове с визитки в хранилището.</string>
+  <string name="import_failure_no_vcard_file">Не са намерени vCard файлове.</string>
   <string name="import_from_onekey_migrate">Импортиране с Трансфер</string>
   <string name="import_from_other_phone">Импортиране от друг телефон</string>
   <string name="import_from_sdcard">Импортиране от хранилището</string>
@@ -537,7 +537,7 @@
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Импортиране на избраните контакти</string>
   <string name="import_sim_contacts_hint_title">Импортиране на контактите от SIM</string>
-  <string name="import_sim_entries_finish">Контактите са успешно импортирани от SIM картата</string>
+  <string name="import_sim_entries_finish">Контактите са импортирани от SIM картата</string>
   <string name="import_sim_entry_miui">Импортиране</string>
   <string name="import_to_xiaomi_account_confirm">Импортиране</string>
   <string name="import_to_xiaomi_account_progress_finish">Успешно прехвърляне!</string>
@@ -547,7 +547,7 @@
   <string name="import_vcard_description">Импортиране на контакти от паметта на телефона</string>
   <string name="import_vcard_dialog_message">Импортиране на vCard?</string>
   <string name="importing_sim_contacts_miui">Импортиране на контакти от SIM карта…</string>
-  <string name="importing_sim_contacts_miui_prepare">Подготовка за импот…</string>
+  <string name="importing_sim_contacts_miui_prepare">Подготовка на контактите…</string>
   <string name="importing_vcard_canceled_title">Импортирането на %s беше отменено</string>
   <string name="importing_vcard_description">Импортиране на %s</string>
   <string name="importing_vcard_finished_title">Импортирането на визитката %s завърши</string>
@@ -916,7 +916,7 @@
   <string name="quick_dial_setting_title">Бързо набиране</string>
   <string name="quickcontact_missing_app">Няма приложение, което да изпълни действието.</string>
   <string name="quit_dialog_confirm_message">"Не обединихте контакти"</string>
-  <string name="quit_dialog_confirm_title">Отмяна на обединяването на контакти</string>
+  <string name="quit_dialog_confirm_title">Отмяна на обединяването</string>
   <string name="reading_vcard_canceled_title">Разчитането на данни от визитка е отменено</string>
   <string name="reading_vcard_failed_title">Разчитането на данни от визитка е неуспешно</string>
   <string name="readingSimContacts">Четене на SIM картата…</string>
@@ -989,7 +989,7 @@
   <string name="search_smart_group_title">Контакти;Показване</string>
   <string name="search_wipe_data">Подреждане;Контакти</string>
   <string name="searchHint">Търсене на контакти</string>
-  <string name="searching_vcard_message">Търсене на визитки в паметта…</string>
+  <string name="searching_vcard_message">Търсене на vCard данни от устройство…</string>
   <string name="select_all">Избери всички</string>
   <string name="select_all_exceed">Не избирайте повече от %1$d, не може да изберете всички</string>
   <string name="select_exceed">Не избирайте повече от %1$d</string>

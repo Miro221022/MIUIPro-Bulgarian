@@ -396,7 +396,7 @@
     <string name="micloud_storage">Хранилище</string>
     <string name="micloud_member">Членство в Mi Облак</string>
     <string name="micloud_buy_member">Станете член на Mi Облак</string>
-    <string name="micloud_buy_member_safe">Вземи още място в Mi Облак</string>
+    <string name="micloud_buy_member_safe">Получаване на още място в Mi Облак</string>
     <string name="micloud_website">Елементи в Mi Облак</string>
     <string name="micloud_member_advantage">Вземете повече място в хранилището.</string>
     <string name="micloud_main_title_sync_fail">Неуспешно</string>
@@ -407,7 +407,7 @@
     <string name="micloud_main_error_network_disallowed">Уверете се, че сте разрешили достъп до интернет.</string>
     <string name="micloud_main_error_activated_fail">Активирайте вашата SIM карта.</string>
     <string name="micloud_main_error_permission_limit">Разрешете достъп на Mi Облак до хранилището.</string>
-    <string name="micloud_manage_space_data">Управление на хранилището в Mi Облак</string>
+    <string name="micloud_manage_space_data">Управление на данните в Mi Облак</string>
     <string name="micloud_confusion_no">Не</string>
     <string name="micloud_confusion_yes">Да</string>
     <string name="micloud_confusion_cancel">Отказ</string>
@@ -687,4 +687,6 @@
   <string name="provision_sync_items_loading">Подготовка за синхронизиране на елементи</string>
   <string name="user_detail_agreement">Потребителско споразумение</string>
   <string name="user_detail_privacy_policy">Политика за поверителност</string>
+  <string name="micloud_storage_unit_mb">%sМб</string>
+  <string name="micloud_storage_unit_gb">%sГб</string>
 </resources>
