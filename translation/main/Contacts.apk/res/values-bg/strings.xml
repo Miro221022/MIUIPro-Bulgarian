@@ -294,14 +294,14 @@
   <string name="delete_duplicate_message">Обединяване на контакти...</string>
   <string name="delete_group_dialog_message">Ще изтриете ли групата \"%1$s\", Контактите в нея ще се запазят.</string>
   <string name="delete_group_dialog_title">Изтрий група</string>
-  <string name="delete_selected_sim_entry_miui">Ще изтриете ли избраните контакти?</string>
+  <string name="delete_selected_sim_entry_miui">Изтриване на избраните контакти</string>
   <string name="delete_sim_entries_finish">Контактите са изтрити от SIM картата</string>
   <string name="delete_sim_entry_miui">Изтрий</string>
   <string name="delete_unknown_contact_calllog_title">Изчистване на историята на повикванията?</string>
   <string name="deleteConfirmation">Този контакт ще бъде изтрит.</string>
   <string name="deleteConfirmation_title">Изтриване на този контакт?</string>
   <string name="deleteConfirmationDetail">Изтриване на \"%s\"?</string>
-  <string name="deleting_sim_entry_miui">Изтриване на контакти на SIM карта...</string>
+  <string name="deleting_sim_entry_miui">Изтриване на контакти на SIM картата…</string>
   <string name="deleting_sim_entry_miui_prepare">Подготвка за изтриване…</string>
   <string name="description_add_contact">Добави контакт</string>
   <string name="description_call">Набери %1$s</string>
@@ -431,8 +431,8 @@
   <string name="eventTypeCustom">По избор</string>
   <string name="expandCloseViewDescription">Скрий</string>
   <string name="expandOpenViewDescription">Покажи</string>
-  <string name="export_sim_contact_finish">Експортирането към SIM картата завърши</string>
-  <string name="export_sim_contact_finish_msg">Прехвърлени %1$d | Пропуснати %2$d | %3$d остават %4$s</string>
+  <string name="export_sim_contact_finish">Контактите са експортирани</string>
+  <string name="export_sim_contact_finish_msg">%1$d прехвърлени | %2$d дублирани | %3$d остават %4$s</string>
   <string name="export_to_sdcard">Експортиране в хранилището</string>
   <string name="export_to_sim">Експортиране в SIM карта</string>
   <string name="export_to_sim_prepare_title">Preparing…</string>
@@ -1008,7 +1008,7 @@
   <string name="showAllContactsJoinItem">Покажи всички контакти</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Преглед на капацитета на SIM картата</string>
-  <string name="sim_capacity_content" formatted="false">Общо%d използвано | %d used</string>
+  <string name="sim_capacity_content" formatted="false">%d общо | %d заети</string>
   <string name="sim_card_no_free_space_message">Няма достатъчно свободна памет</string>
   <string name="sim_card_no_free_space_title">SIM картата е пълна!</string>
   <string name="sim_contact_existing">Вече съществува такъв SIM контакт.</string>
