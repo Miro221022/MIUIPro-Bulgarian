@@ -676,4 +676,27 @@
    <string name="ad_download_pending">Изчакване</string>
    <string name="ad_download_resume">Възобновяване</string>
    <string name="ad_downloading_tip">Този елемент се изтегля. Можете да видите напредъка в зоната на известяване.</string>
+   <string name="wallpaper_loop_add_success">Добавено успешно</string>
+   <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Добавяне към слайдшоу за начален екран</string>
+   <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Добавяне към слайдшоу за заключен екран</string>
+   <string name="wallpaper_loop_desc_all_walpaper">Създаване на потребителски слайдшоута за тапети</string>
+   <string name="wallpaper_loop_desc_desk_walpaper">Създаване на персонализирано слайдшоу за начален екран</string>
+   <string name="wallpaper_loop_desc_lock_walpaper">Създаване на персонализирано слайдшоу за заключен екран</string>
+   <string name="wallpaper_loop_interval_15min">На всеки 15 минути</string>
+   <string name="wallpaper_loop_interval_1d">Всеки ден</string>
+   <string name="wallpaper_loop_interval_1h">Всеки час</string>
+   <string name="wallpaper_loop_interval_desc">Задаване на интервал от време за вашето слайдшоу</string>
+   <string name="wallpaper_loop_interval_title">Промяна на тапета</string>
+   <string name="wallpaper_loop_manage">Управление</string>
+   <string name="wallpaper_loop_more_options">Допълнителни настройки</string>
+   <string name="wallpaper_loop_my_desk_wallpaper">Моите тапети за начален екран</string>
+   <string name="wallpaper_loop_my_lock_wallpaper">Моите тапети за заключен екран</string>
+   <string name="wallpaper_loop_order_desc">Изберете реда, в който се появяват слайдовете</string>
+   <string name="wallpaper_loop_order_loop">Оригинално</string>
+   <string name="wallpaper_loop_order_shuffle">Произволно</string>
+   <string name="wallpaper_loop_order_title">Ред на слайдовете</string>
+   <string name="wallpaper_loop_title">Слайдшоу за тапети</string>
+   <string name="wallpaper_loop_title_desk_wallpaper">Слайдшоу за тапети на начален екран</string>
+   <string name="wallpaper_loop_title_lock_walpaper">Слайдшоу за тапети на заключен екран</string>
+   <string name="loop_wallpaper_is_here">Слайдшоуто за тапети е налично</string>
 </resources>
