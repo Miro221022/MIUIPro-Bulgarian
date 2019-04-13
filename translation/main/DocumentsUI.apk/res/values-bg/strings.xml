@@ -8,7 +8,7 @@
     <string name="abc_action_bar_home_description_format">„%1$s“ – %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">„%1$s“, „%2$s“ – %3$s</string>
     <string name="abc_searchview_description_search">Търсене</string>
-    <string name="abc_search_hint">Търсете…</string>
+    <string name="abc_search_hint">Търсене…</string>
     <string name="abc_searchview_description_query">Заявка за търсене</string>
     <string name="abc_searchview_description_clear">Изчистване на заявката</string>
     <string name="abc_searchview_description_submit">Изпращане на заявката</string>
@@ -23,7 +23,7 @@
     <string name="app_label">Файлове</string>
     <string name="downloads_label">Изтегляния</string>
     <string name="title_open">Отваряне от</string>
-    <string name="title_save">Запазване във:</string>
+    <string name="title_save">Запазване във</string>
     <string name="menu_create_dir">Нова папка</string>
     <string name="menu_grid">Изглед в мрежа</string>
     <string name="menu_list">Списъчен изглед</string>
@@ -40,8 +40,8 @@
     <string name="menu_new_window">Нов прозорец</string>
     <string name="menu_copy_to_clipboard">Копиране</string>
     <string name="menu_paste_from_clipboard">Поставяне</string>
-    <string name="menu_advanced_show">Вътр. хранилище: Показв.</string>
-    <string name="menu_advanced_hide">Вътр. хранилище: Скрив.</string>
+    <string name="menu_advanced_show">Покажи вътрешно хранилище</string>
+	<string name="menu_advanced_hide">Скрий вътрешната памет</string>
     <string name="menu_file_size_show">Размер на файла: Показв.</string>
     <string name="menu_file_size_hide">Размер на файла: Скрив.</string>
     <string name="button_select">Избиране</string>
@@ -96,4 +96,11 @@
     <string name="delete_foldername_confirmation_message">Искате ли да изтриете папката „%1$s“ и съдържанието в нея?</string>
     <string name="too_many_selected">За съжаление, можете да изберете до 1000 елемента наведнъж</string>
     <string name="too_many_in_select_all">Бяха избрани само 1000 елемента</string>
+	<string name="sort_dimension_date">Промяна</string>
+    <string name="sort_dimension_file_type">Тип</string>
+    <string name="sort_dimension_name">Име</string>
+    <string name="sort_dimension_size">Размер</string>
+    <string name="sort_dimension_summary">Обобщение</string>
+    <string name="sort_direction_ascending">Възходящ</string>
+    <string name="sort_direction_descending">Низходящо</string>
 </resources>
