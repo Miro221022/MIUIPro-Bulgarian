@@ -384,7 +384,7 @@
   <string name="dialer_addAnotherCall">Добави повикване</string>
   <string name="dialer_copy_view_delete_description">Премахни копирания номер</string>
   <string name="dialer_digits_copy_number_label">Копиран номер</string>
-  <string name="dialer_empty_text_loading">Зареждане...</string>
+  <string name="dialer_empty_text_loading">Една секунда…</string>
   <string name="dialer_empty_text_no_call_log">Списъкът с повиквания е празен</string>
   <string name="dialer_empty_text_no_search_result">Не са намерени контакти</string>
   <string name="dialer_firewall_entry_name">Списък на блокирани обаждания</string>
@@ -407,7 +407,7 @@
   <string name="disclaimer_text">Жълти страници ще ви информира за вашия баланс чрез SMS. Вашият оператор може обнови тази информация със закъснение и тя може да е неточна. Ако виждате грешка, моля да ни съобщите за информационния SMS, за да го коригираме. \n\nЗа да се предпазим от прекалени запитвания, ние обновяваме информацията за баланса веднъж на ден.</string>
   <string name="disclaimer_title">Отказване</string>
   <string name="display_all_contacts">Всички контакти</string>
-  <string name="display_more_groups">Други групи...</string>
+  <string name="display_more_groups">Още групи…</string>
   <string name="display_only_phones">Скриване на непълни номера</string>
   <string name="display_options_sort_by_family_name">По фамилия</string>
   <string name="display_options_sort_by_given_name">По име</string>
@@ -546,7 +546,7 @@
   <string name="import_to_xiaomi_account_title">Импортиране в Mi профил?</string>
   <string name="import_vcard_description">Импортиране на контакти от паметта на телефона</string>
   <string name="import_vcard_dialog_message">Импортиране на vCard?</string>
-  <string name="importing_sim_contacts_miui">Импортиране на контакти от SIM карта...</string>
+  <string name="importing_sim_contacts_miui">Импортиране на контакти от SIM карта…</string>
   <string name="importing_sim_contacts_miui_prepare">Подготовка за импот…</string>
   <string name="importing_vcard_canceled_title">Импортирането на %s беше отменено</string>
   <string name="importing_vcard_description">Импортиране на %s</string>
@@ -565,7 +565,7 @@
   <string name="list_filter_all_accounts">Всички контакти</string>
   <string name="list_filter_all_starred">Любими</string>
   <string name="list_filter_custom">Потребителски</string>
-  <string name="list_filter_customize">Персонализиране...</string>
+  <string name="list_filter_customize">Персонализиране</string>
   <string name="list_filter_phones">Всички контакти с телефонни номера</string>
   <string name="list_filter_single">Контакт</string>
   <string name="listCustomView">Контакти в потребителски изглед</string>
@@ -576,8 +576,8 @@
   <string name="listTotalAllContactsZeroGroup">Няма контакти в %s</string>
   <string name="listTotalAllContactsZeroStarred">Няма любими контакти</string>
   <string name="listTotalPhoneContactsZero">Няма контакти с телефонни номера</string>
-  <string name="loading_accounts">Зареждат се данни от SIM картата...</string>
-  <string name="loading_group_members">Зареждане на контакти…</string>
+  <string name="loading_accounts">Една секунда…</string>
+  <string name="loading_group_members">Една секунда…</string>
   <string name="loading_groups">Зареждане на групи…</string>
   <string name="loading_recent">Зареждане на последни контакти…</string>
   <string name="local_invisible_directory">Други</string>
