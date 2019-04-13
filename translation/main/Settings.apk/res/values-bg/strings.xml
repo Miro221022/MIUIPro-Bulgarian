@@ -2160,7 +2160,7 @@
     <string name="awake">Активно време на устройство</string>
     <string name="wifi_on_time">Време на включен WLAN</string>
     <string name="bluetooth_on_time">Време на включен WLAN</string>
-    <string name="history_details_title">История</string>
+    <string name="history_details_title">Подробности за историята</string>
     <string name="details_title">Подробности</string>
     <string name="details_subtitle">Подробности</string>
     <string name="controls_subtitle">Настройване на захранването</string>
