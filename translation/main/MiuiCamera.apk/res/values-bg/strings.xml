@@ -21,10 +21,10 @@
     <string name="confirm_location_message">Маркирайте вашите снимки и видеоклипове с местоположенията, където са заснети. Други приложения може имат достъп до тази информация заедно със запазените ви изображения.</string>
     <string name="confirm_location_alert">Запомняне на местоположението на заснемане</string>
     <string name="start_capture">ОК</string>
-    <string name="pref_camera_recordlocation_title">GPS етикет</string>
+    <string name="pref_camera_recordlocation_title">Запазване на информация за местоположението</string>
     <string name="pref_camera_recordlocation_entry_off">Изключено</string>
     <string name="pref_camera_recordlocation_entry_on">Включено</string>
-    <string name="pref_camera_sound_title">Звук на камерата</string>
+    <string name="pref_camera_sound_title">Звуци от камерата</string>
     <string name="pref_camera_proximity_lock_title">Джобен режим</string>
     <string name="pref_camera_proximity_lock_summary">Изключване на жестовете при поставяне в джоба</string>
     <string name="screen_on_proximity_sensor_summary">Не покривайте областта на говорителя</string>
@@ -247,7 +247,7 @@
     <string name="face_beauty_age_alias_female_60_m">Жена 60+</string>
     <string name="simple_mode_button_text_face_beauty">Спри разкрасяване на лица</string>
     <string name="pref_face_beauty_title">Разкрасяване</string>
-    <string name="pref_priority_storage_title">Съхраняване на външната SD карта</string>
+    <string name="pref_priority_storage_title">Запазване на SD картата</string>
     <string name="pref_camera_tilt_shift_entry_circle">Кръг</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Паралелно</string>
     <string name="pref_video_speed_fast_title">Ускорено видео</string>
