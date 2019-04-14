@@ -3,7 +3,7 @@
   <string-array name="bluetooth_audio_active_device_summaries">
     <item></item>
     <item>" | Активно"</item>
-    <item>" | Активно (мултимедиа)"</item>
+    <item>" | Активно (мултимедия)"</item>
     <item>" | Активно (телефон)"</item>
   </string-array>
   <string-array name="bluetooth_avrcp_versions">
@@ -32,9 +32,9 @@
     <item>Само регистрационния буфер на ядрото</item>
   </string-array>
   <string-array name="select_logpersist_titles">
-    <item>Изкл.</item>
+    <item>Изключено</item>
     <item>Всички</item>
-    <item>Вс. без радио</item>
+    <item>Всичко без радио</item>
     <item>Само ядрото</item>
   </string-array>
   <string-array name="wifi_hidden_entries">

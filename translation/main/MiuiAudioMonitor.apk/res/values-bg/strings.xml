@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">караоке</string>
+    <string name="audio_volume">сила на звука</string>
+    <string name="enable_effect">активирай ефект</string>
+    <string name="reverb">реверберация</string>
+    <string name="equalizer">еквалайзер</string>
+    <string name="confirm">потвърди</string>
+    <string name="original">оригинално</string>
+    <string name="room">стая</string>
+    <string name="hall">зала</string>
+    <string name="theatre">театър</string>
+    <string name="boy">момче</string>
+    <string name="girl">момиче</string>
+    <string name="cancel">отказ</string>
+</resources>
