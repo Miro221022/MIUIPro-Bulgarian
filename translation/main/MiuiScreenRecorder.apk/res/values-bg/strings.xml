@@ -4,10 +4,10 @@
     <string name="app_notification_info">Запис на екрана работи във фонов режим</string>
     <string name="app_notification_title">Запис на екрана</string>
     <string name="auto_stop_title">Видеото е успешно запазено</string>
-    <string name="battery_not_allowed" formatted="false">Не може да се прави запис при батерия по-ниска от 3%. Бъдете сигурни, че сте заредили батерията си поне на 20%.</string>
+    <string name="battery_not_allowed" formatted="false">"Не може да се записва, когато нивото батерията е по-ниско от 3%. Уверете се, че батерията е заредена поне на 20%."</string>
     <string name="bit_rate">Видео качество</string>
     <string name="bit_rate_summary">По-високо качество означава и по-голям размер на файла</string>
-    <string name="bubble_text">Докоснете за начало на запис</string>
+    <string name="bubble_text">Докоснете за стартиране на запис</string>
     <string name="button_back">Обратно</string>
     <string name="button_clear_storage">Освобождаване на място</string>
     <string name="button_confirm">OК</string>
@@ -42,12 +42,12 @@
     <string name="low_momery_warning">Няма достатъчно място в хранилището. Спрете записа и го съхранете.</string>
     <string name="memory_not_allowed">Няма достатъчно място в хранилището. Освободете място за нов запис.</string>
     <string name="mic_sound">Микрофон</string>
-    <string name="no_recorder_info">Няма записи</string>
+    <string name="no_recorder_info">Тук няма видеоклипове</string>
     <string name="no_recorder_info2">Докоснете бутона за стартиране на запис</string>
     <string name="no_sound">Заглуши</string>
     <string name="operation_delete">Изтриване</string>
     <string name="operation_send">Изпрати</string>
-    <string name="quit_recording">Изход от Записване на екран</string>
+    <string name="quit_recording">Изход от Запис на екрана</string>
     <string name="recording_failure">Не може да се запише, започни отначало</string>
     <string name="recording_max_size">Записът бе спрян и запазен, защото видеофайлът достигна своя максимален размер. Започнете записването, откъдето сте спрели, ако все още не сте готови.</string>
     <string name="recording_without_mic">Микрофонът е зает и звука от него не може да бъде записан</string>
@@ -60,15 +60,15 @@
     <string name="select_all">Избиране на всички</string>
     <string name="show_hard_key">Показване на бутоните за навигация</string>
     <string name="show_hard_key_summary">Показане на запитване, при натискане на бутоните Начало, Меню и Назад</string>
-    <string name="show_screen_touch">Показване на жестове с докосване</string>
+    <string name="show_screen_touch">Показване на докосванията</string>
     <string name="show_screen_touch_summary">Визуализация на жестове чрез бяла точка</string>
     <string name="sound_source">Източник на звук</string>
     <string name="sound_source_summary">Системни звуци или микрофон</string>
     <string name="start">Старт</string>
     <string name="start_recording">Започни запис</string>
     <string name="stop_by_second_space">Превключването между отделните работни места ще спре записа</string>
-    <string name="stop_record_while_locking">Заключи екрана за край</string>
-    <string name="stop_record_while_locking_summary">Спиране на записа и запазване на видеото, когато екранът е заключен</string>
+    <string name="stop_record_while_locking">Спиране на записа чрез заключване на екрана</string>
+    <string name="stop_record_while_locking_summary">Спиране на записа и запазване на видеото при заключване на екрана</string>
     <string name="stop_recording">Спри записа</string>
     <string name="timer_format">%s</string>
 	<string name="cannot_change_frames">Скоростта на кадрите може да бъде персонализирана само за записи с фиксирана скорост на кадрите.</string>
@@ -86,7 +86,7 @@
     <string name="first_using_mic_dialog_title">Необходими разрешения</string>
     <string name="using_record_confirm_cancel">Забрани</string>
     <string name="using_record_confirm_ok">Разреши</string>
-	<string name="sound_source_summary_without_system_sounds">Използвайте микрофон или заглушаване на звука</string>
+	<string name="sound_source_summary_without_system_sounds">Използване микрофон или заглушаване на звука</string>
 	<string name="warning_recording_when_a2dp_connect">"Устройството ви не поддържа запис на системни звуци, докато се използват Bluetooth слушалки."</string>
 	<string name="size_byte">б</string>
     <string name="size_gigabyte">Гб</string>
