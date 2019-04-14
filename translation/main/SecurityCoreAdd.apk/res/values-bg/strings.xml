@@ -98,8 +98,8 @@
   <string name="fingerprint_number_upper_limit">Твърде много неуспешни опити за отключване</string>
   <string name="fingerprint_removal_failed">Не мога да изтрия пръстовия отпечатък</string>
   <string name="function_not_support">Не се поддържа на това устройство</string>
-  <string name="gms_message">Клонирането на приложения изисква работа с Услуги за Google. Да ги клонирам ли?</string>
-  <string name="gms_open_button">Включи</string>
+  <string name="gms_message">Създаването на клонирани приложения изисква работа с услугите на Google. Да се клонират ли Google услугите?</string>
+  <string name="gms_open_button">Включване</string>
   <string name="gms_title">Клониране на услугите на Google</string>
   <string name="go_on_import">Продължи импортирането</string>
   <string name="goToSecondSpacce">Към Второ пространство</string>
@@ -345,8 +345,8 @@
   <string name="weixin_share_sign">Впишете се и споделете</string>
   <string name="xpsace_guide_button">Създай</string>
   <string name="xspace_account">Профили за клонирани приложения</string>
-  <string name="xspace_chocie">Други прил.</string>
-  <string name="xspace_creating">Клониране на прил.…</string>
+  <string name="xspace_chocie">Поддръжка на клонирано приложение</string>
+  <string name="xspace_creating">Клониране на приложението…</string>
   <string name="xspace_default_app_summary">Задайте приложение по подразбиране за плащания, споделяне, любими неща и други.</string>
   <string name="xspace_default_app_title">Приложения по подразбиране</string>
   <string name="xspace_default_guide_notification_content">Чукнете за промяна</string>
@@ -354,7 +354,9 @@
   <string name="xspace_default_guide_notification_xspace_title">Използване на клонирано приложение</string>
   <string name="xspace_default_setting_dialog_title"> подразбиране</string>
   <string name="xspace_default_setting_label">Приложения по подразбиране</string>
-  <string name="xspace_description">Клонираните приложения са копия, които могат да се използват отделно с различен профил.\u000d\n\u000d\nНякои клонирани приложения изискват наличието на Google Services Framework. В тези случаи е необходимо да се клонира и Google Services Framework.</string>
+    <string name="xspace_description">"Клонираните приложения са копия на приложения, които могат да се използват отделно с друг профил.
+
+Някои клонирани приложения изискват поддръжка на Google Services Framework. В такива случаи се създава клонинг и на Google Services Framework."</string>
   <string name="xspace_guide_des">Използване на два профила без превключване</string>
   <string name="xspace_guide_title">Създайте клонирано приложение</string>
   <string name="xspace_header">Клонирани приложения</string>
