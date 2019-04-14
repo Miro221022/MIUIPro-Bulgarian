@@ -1235,10 +1235,10 @@
         <item>От всички</item>
         <item>Само от контакти</item>
         <item>Само от контакти със звезда</item>
-        <item>Няма</item>
+        <item>Без</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Всеки ден</item>
+        <item>Ежедневно</item>
         <item>Делнични вечери</item>
         <item>Уикенд</item>
         <item>По избор</item>

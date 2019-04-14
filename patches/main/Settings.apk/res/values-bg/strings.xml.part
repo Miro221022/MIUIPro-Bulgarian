@@ -17,8 +17,8 @@
   <string name="CDMA_only">Само CDMA</string>
   <string name="charging_display">Включване на екрана при зареждане</string>
   <string name="charging_sounds_full_title">Звук, когато е напълно зареден</string>
-  <string name="charging_sounds_off">Звук, когато е прекъснато зареждането</string>
-  <string name="charging_sounds_on">Звук, когато е свързано зареждането</string>
+  <string name="charging_sounds_off">Звук при изключване на зарадното устройство</string>
+  <string name="charging_sounds_on">Звук при свързване със зарядно устройство</string>
   <string name="close_battery_title">Нормално ниво</string>
   <string name="close_folder_title">Автоматично затваряне на папките</string>
   <string name="critical_battery_title">Критично ниво</string>
@@ -102,7 +102,7 @@
   <string name="notif_view_title">Стил на известията</string>
   <string name="notification_icon_title">Аватар в известията</string>
   <string name="numberpicker_change_summary">Календар, аларма и други</string>
-  <string name="numberpicker_change_title">Звуци при задаване на време</string>
+  <string name="numberpicker_change_title">Звук при задаване на време</string>
   <string name="picker_activities">Действия</string>
   <string name="policy_control_title">Режим на цял екран</string>
   <string name="policy_title">Режими на екрана</string>
@@ -224,7 +224,7 @@
   <string name="double_tap_lock_keyguard_title">Заключване чрез двойно почукване</string>
   <string name="dnd_icon_title">Скриване на иконата за \"Не ме безпокойте\"</string>
   <string name="other_icon_title">Икони при отворен панел</string>
-  <string name="dnd_notification_title">Звук за известяване в режим Не ме безпокойте</string>
+  <string name="dnd_notification_title">Звук за известяване в режим \"Не ме безпокойте\"</string>
   <string name="vpn_icon_title">Скриване на иконата за VPN</string>
   <string name="other_weather_title">Настройки за показване на времето</string>
   <string name="show_weather_title">Показване на времето</string>

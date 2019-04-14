@@ -65,7 +65,7 @@
         <item>3 часа</item>
     </string-array>
 	<string-array name="toast_animation_entries"> 
-        <item>Няма</item> 
+        <item>Без</item> 
         <item>По подразбиране</item> 
         <item>Гладко появяване/смекчаване</item> 
         <item>Отстъпване отдясно и отзад</item> 
