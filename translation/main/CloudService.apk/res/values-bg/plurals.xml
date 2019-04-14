@@ -33,11 +33,11 @@
         <item quantity="one">%d записана история на обаждане</item>
     </plurals>
     <plurals name="dirty_wlan_count">
-        <item quantity="other">%d Wi-Fi мрежи</item>
-        <item quantity="one">%d Wi-Fi мрежа</item>
+        <item quantity="other">%d WLAN мрежи</item>
+        <item quantity="one">%d WLAN мрежа</item>
     </plurals>
     <plurals name="dirty_recorder_count">
-        <item quantity="other">%d записи</item>
+        <item quantity="other">%d записа</item>
         <item quantity="one">%d запис</item>
     </plurals>
     <plurals name="dirty_music_count">
@@ -49,8 +49,8 @@
         <item quantity="one">%d елемент на браузъра</item>
     </plurals>
     <plurals name="dirty_calendar_count">
-        <item quantity="other">%d записи на календара</item>
-        <item quantity="one">%d запис на календара</item>
+        <item quantity="other">%d елементи в календара</item>
+        <item quantity="one">%d елемент в календара</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d записи в списък блокирани</item>
