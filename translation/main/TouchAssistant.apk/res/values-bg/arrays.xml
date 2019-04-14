@@ -6,7 +6,7 @@
         <item>Временно показване в пейзажен режим</item>
     </string-array>
     <string-array name="motion_behavior_entries">
-        <item>Плъзване</item>
+        <item>Плъзгане</item>
         <item>Чукване</item>
     </string-array>
 </resources>
