@@ -61,6 +61,6 @@
     </string-array> 
 	<string-array name="call_windows_entries">  
         <item>На цял екран</item>  
-        <item>Изкачащ прозорец</item>  
+        <item>Изскачащ прозорец</item>  
     </string-array>
  </resources>

@@ -1244,7 +1244,7 @@
         <item>По избор</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Всеки ден</item>
+        <item>Ежедневно</item>
         <item>Делнични вечери</item>
         <item>Уикенд</item>
         <item>По избор</item>
