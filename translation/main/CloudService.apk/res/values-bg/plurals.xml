@@ -13,7 +13,7 @@
         <item quantity="one">%d елементи чакат за синхронизиране</item>
     </plurals>
     <plurals name="dirty_contacts_count">
-        <item quantity="other">%d контакти</item>
+        <item quantity="other">%d контакта</item>
         <item quantity="one">%d контакт</item>
     </plurals>
     <plurals name="dirty_mms_count">
@@ -29,8 +29,8 @@
         <item quantity="one">%d снимка</item>
     </plurals>
     <plurals name="dirty_callog_count">
-        <item quantity="other">%d записани хронологии на обаждания</item>
-        <item quantity="one">%d записана история на обаждане</item>
+        <item quantity="other">%d записа на историята на обажданията</item>
+        <item quantity="one">%d запис на историята на обажданията</item>
     </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d WLAN мрежи</item>
@@ -57,8 +57,8 @@
         <item quantity="one">%d запис в списък блокирани</item>
     </plurals>
     <plurals name="dirty_secretphoto_count">
-        <item quantity="other">%d скрити снимки не са синхронизирани. Излезте от профила си, след като всички елементи се синхронизират, в противен случай ще бъдат изтрити.</item>
-        <item quantity="one">%d скрита снимка не е синхронизирана. Излезте от профила си, след като всички елементи се синхронизират, в противен случай ще бъдат изтрити.</item>
+        <item quantity="other">"%d скрити снимки не са синхронизирани. Отпишете се след като всички елементи се синхронизират, за да ги запазите; в противен случай елементите ще бъдат изтрити."</item>
+        <item quantity="one">"%d скрита снимка не е синхронизирана. Отпишете се след като всички елементи се синхронизират, за да ги запазите; в противен случай елементите ще бъдат изтрити."</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">Синхронизирането е на пауза. Продължаване след %d минути…</item>
