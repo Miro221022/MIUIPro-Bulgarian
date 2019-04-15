@@ -41,7 +41,7 @@
   <string name="account_user_birthday">Рожден ден</string>
   <string name="account_user_details">Потребителски данни</string>
   <string name="account_user_education">Образование</string>
-  <string name="account_user_email">Имейл</string>
+  <string name="account_user_email">Имейл за възстановяване</string>
   <string name="account_user_gender">Пол</string>
   <string name="account_user_id">Mi профил ID</string>
   <string name="account_user_income">Месечен доход</string>
@@ -50,7 +50,7 @@
   <string name="account_user_name">Име</string>
   <string name="account_user_name_dialog_title">Въведете потребителско име</string>
   <string name="account_user_other_info">Други източници</string>
-  <string name="account_user_phone">Телефон</string>
+  <string name="account_user_phone">Телефон за възстановяване</string>
   <string name="account_user_recovery_phone">Телефон за възстановяване</string>
   <string name="account_user_region">Регион</string>
   <string name="account_user_using_facebook_avatar">Използване на профилната снимка от Facebook</string>
@@ -505,4 +505,7 @@ ID:%s
   <string name="permission_group_sms">Съобщения</string>
   <string name="permission_group_storage">Хранилище</string>
   <string name="select_all">Избери всичко</string>
+  <string name="agreement_and_privacy">Потребителско споразумение и Политика за поверителност</string>
+  <string name="passport_first_login_prompt">Mi профилът ще бъде създаден автоматично, когато се впишете за първи път.</string>
+  <string name="scan_barcode">Сканиране на QR код</string>
 </resources>

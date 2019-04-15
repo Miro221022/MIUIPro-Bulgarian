@@ -252,4 +252,72 @@
         <item quantity="other">" %1$sчаса %2$s"</item>
         <item quantity="one">" %1$sчас %2$s"</item>
     </plurals>
+	    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">Отключен %d пъти днес</item>
+        <item quantity="one">Отключен %d път днес</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">Отключен %d пъти през последните 7 дни</item>
+        <item quantity="one">Отключен %d път през последните 7 дни</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">Получени са %d известия днес</item>
+        <item quantity="one">Получено е %d известия днес</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">Получени са %d известия през последните 7 дни</item>
+        <item quantity="one">Получено е %d известие през последните 7 дни</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" часа"</item>
+        <item quantity="one">" час"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" мин"</item>
+        <item quantity="one">" мин"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d известия</item>
+        <item quantity="one">%d известие</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d пъти</item>
+        <item quantity="one">%d път</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">Уикенди: %d часа</item>
+        <item quantity="one">Уикенди: %d час</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">Уикенди: %d минути</item>
+        <item quantity="one">Уикенди: %d минута</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">Делници: %d часа</item>
+        <item quantity="one">Делници: %d час</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">Делници: %d минути</item>
+        <item quantity="one">Делници: %d минута</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" часа"</item>
+        <item quantity="one">" час"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" мин"</item>
+        <item quantity="one">" мин"</item>
+    </plurals>
 </resources>

@@ -436,4 +436,12 @@
 	<string name="tax_thershold_native_new">%s (нов)</string>
     <string name="tax_thershold_native_new_description">Данъците ще се изчисляват съгласно новия данъчен закон, започващ от 1 октомври 2018г.</string>
 	<string name="not_supported_due_to_language">Тази функция е достъпна само за китайски език</string>
+	<string name="app_notification_info">Калкулатор работи на заден план</string>
+    <string name="btn_float_window_alpha">Регулиране на прозрачността</string>
+    <string name="btn_float_window_back_to_app">Увеличаване на калкулатора</string>
+    <string name="btn_float_window_close">Затваряне на умаления Калкулатор</string>
+    <string name="btn_float_window_resize">Преоразмеряване на калкулатора</string>
+    <string name="float_window_guide_text">Докоснете тук, за да смалите калкулатора</string>
+    <string name="hint_floatwindow_alpha_guide_text">Докоснете, за да коригирате прозрачността</string>
+    <string name="view_float_window_move">Преместване на умаления Калкулатор</string>
 </resources>

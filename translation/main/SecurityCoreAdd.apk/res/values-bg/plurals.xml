@@ -5,15 +5,15 @@
         <item quantity="one">%d елемент</item>
     </plurals>
     <plurals name="first_space_notification_format">
-        <item quantity="other">Първо пространство: %d известия</item>
-        <item quantity="one">Първо пространство: %d известие</item>
+        <item quantity="other">%d известия в Първо пространство</item>
+        <item quantity="one">%d известие в Първо пространство</item>
     </plurals>
     <plurals name="second_space_notification_format">
-        <item quantity="other">Второ пространство: %d известия</item>
-        <item quantity="one">Второ пространство: %d известие</item>
+        <item quantity="other">%d известия във Второ пространство</item>
+        <item quantity="one">%d известие във Второ пространство</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Търсене на %d приложения</item>
-        <item quantity="one">Търсене на %d приложение</item>
+        <item quantity="one">Търсене на %d приложения</item>
     </plurals>
 </resources>

@@ -6214,15 +6214,15 @@ OTG се изключва автоматично след 10 минути без
     <string name="wapi_psk_type_hex">Шестнадесетично</string>
 	<string name="activity_title_power_manager">Пестене на батерия;Спестете батерия</string>
     <string name="ai_settings_click_title">Натисни</string>
-    <string name="allow_float_summary">Изскачащи известия в горната част на екрана</string>
+    <string name="allow_float_summary">Разрешаване на плаващи известия</string>
     <string name="allow_float_title">Плаващи известия</string>
-    <string name="allow_keyguard_summary">Показване на известия на заключения екран</string>
+    <string name="allow_keyguard_summary">Разрешаване на известия на заключения екран</string>
     <string name="allow_keyguard_title">Известия на заключен екран</string>
-    <string name="allow_lights_title">Разрешаване на пулсираща светлина</string>
-    <string name="allow_sound_title">Разрешаване на звук</string>
-    <string name="allow_vibrate_title">Разрешаване на вибрация</string>
+    <string name="allow_lights_title">Използване на LED светлина</string>
+    <string name="allow_sound_title">Звук</string>
+    <string name="allow_vibrate_title">Вибрация</string>
     <string name="app_link_title">Допълнителни настройки в приложението</string>
-    <string name="badge_title">Показване на значка върху иконата на приложението</string>
+    <string name="badge_title">Значка върху иконата</string>
     <string name="battery_indicator_title">Индикатор за батерията</string>
     <string name="block_title">Показване на известия</string>
     <string name="custom_carrier_title">Редактиране на името на оператора</string>
@@ -6297,4 +6297,72 @@ OTG се изключва автоматично след 10 минути без
     <string name="notification_fold_footer_icon_title">Показване на иконите на приложенията</string>
 	<string name="user_credential_none_installed">Няма инсталирани потребителски идентификационни данни</string>
 	<string name="auto_brightness_disclaimer">Оптимизирайте нивото на яркост според наличната светлина. Когато тази функция е включена, все още можете временно да регулирате яркостта.</string>
+	<string name="notification_channel_summary_default">Висока важност</string>
+    <string name="notification_channel_summary_high">Неотложна важност</string>
+    <string name="notification_channel_summary_low">Средна важност</string>
+    <string name="notification_channel_summary_min">Ниска важност</string>
+    <string name="notification_channel_title">Категория за известията</string>
+	<string name="usage_state_app_timer">Време на екрана</string>
+  <string name="usage_state_app_usage_detail_title">Подробности за използването на приложението</string>
+  <string name="usage_state_app_usage_list_title">"Време на включен екран в приложенията днес"</string>
+  <string name="usage_state_app_usage_list_week_title">"Време на включен екран в приложенията (последните 7 дни)"</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">Време на екрана между %d:00 и %d:00</string>
+  <string name="usage_state_app_use_time">Екранно време на приложението</string>
+  <string name="usage_state_channel_mouth">Последните 30 дни</string>
+  <string name="usage_state_channel_week">Последните 7 дни</string>
+  <string name="usage_state_device_noti_today_tip_title" formatted="false">Известия между %d:00 и %d:00</string>
+  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Отключвания между %d:00 и %d:00</string>
+  <string name="usage_state_friday">Пет</string>
+  <string name="usage_state_go_more">Още приложения</string>
+  <string name="usage_state_hour_minute" formatted="false">%dч %dм</string>
+  <string name="usage_state_less_one_minute">По-малко от 1 минута</string>
+  <string name="usage_state_monday">Пон</string>
+  <string name="usage_state_mourth_day">"'Времето на екрана е на' d MMM"</string>
+  <string name="usage_state_noti_mourth_day">"'Известия на' d MMM"</string>
+  <string name="usage_state_notification">Управление на известията</string>
+  <string name="usage_state_notification_manager">Управление на известията на приложенията</string>
+  <string name="usage_state_remind_summary">Включете, за да получавате предупреждения за времето на екрана. Можете да зададете различни срокове за делнични и почивни дни.</string>
+  <string name="usage_state_remind_title">Предупреждения за време на екрана</string>
+  <string name="usage_state_rest_day">Уикенди</string>
+  <string name="usage_state_saturday">Съб</string>
+  <string name="usage_state_set_invalid_time_toast">"Не може да се задават срокове по-малки от 1 минута"</string>
+  <string name="usage_state_sunday">Нед</string>
+  <string name="usage_state_thursday">Чет</string>
+  <string name="usage_state_today">Днес</string>
+  <string name="usage_state_today_total_text">Време на екрана днес</string>
+  <string name="usage_state_tuesday">Вто</string>
+  <string name="usage_state_unlock_mourth_day">"'Отключен на' d MMM"</string>
+  <string name="usage_state_usage_time">Време на екрана</string>
+  <string name="usage_state_usage_time_remind">Предупреждение за време на екрана</string>
+  <string name="usage_state_use_time_remind_title">Предупреждение за време на екрана</string>
+  <string name="usage_state_wednesday">Сря</string>
+  <string name="usage_state_week_day_hour_minute" formatted="false">Уикенди: %dч %dм</string>
+  <string name="usage_state_week_total_text">Време на екрана (последните 7 дни)</string>
+  <string name="usage_state_which_mouth">MMM</string>
+  <string name="usage_state_work_day">Делници</string>
+  <string name="usage_state_work_day_hour_minute" formatted="false">Делници: %dч %dм</string>
+  <string name="usage_stats_normal_day">Делници</string>
+  <string name="usage_stats_week_day">Делници</string>
+  <string name="usagestats_app_category_miui_financial">Финанси</string>
+  <string name="usagestats_app_category_miui_game">Игри</string>
+  <string name="usagestats_app_category_miui_life">Начин на живот</string>
+  <string name="usagestats_app_category_miui_productivity">Продуктивност</string>
+  <string name="usagestats_app_category_miui_reading">Четиво</string>
+  <string name="usagestats_app_category_miui_shopping">Пазаруване</string>
+  <string name="usagestats_app_category_miui_social">Социални мрежи</string>
+  <string name="usagestats_app_category_miui_system">Системни приложения</string>
+  <string name="usagestats_app_category_miui_tools">Инструменти</string>
+  <string name="usagestats_app_category_miui_undefined">Друго</string>
+  <string name="usagestats_app_category_miui_video_etc">Музика и видео</string>
+  <string name="usagestats_device_notification_des">Лимит за време на екрана за днес: %s</string>
+  <string name="usagestats_device_notification_des_over">"Достигнахте лимита за екранно време за днес."</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Лимит за време на екрана за днес: %s | %s остават</string>
+  <string name="usagestats_device_notification_title">Предупреждение за време на екрана</string>
+  <string name="usagestats_device_timeout_des" formatted="false">"Днес сте използвали устройството си %dч %dм. Вземе си почивка!"</string>
+  <string name="usagestats_device_timeout_negative">Напомняне след 1 час</string>
+  <string name="usagestats_device_timeout_positive">Разбрах</string>
+  <string name="usagestats_device_timeout_title">Предупреждение за време на екрана</string>
+  <string name="wifi_protection_on">Вкл.</string>
+  <string name="wifi_protection_settings_title">WIFI защита</string>
+  <string name="wifi_protection_tip">MIUI автоматично включва функцията за защита на WIFI. Когато мобилният телефон сканира WLAN, той ще адресира произволно MAC адреса, за да попречи на WIFI кутията да открадне поверителността на потребителя и да защити мобилния телефон.</string>
 </resources>
