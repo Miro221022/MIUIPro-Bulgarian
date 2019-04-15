@@ -380,10 +380,11 @@
   <string name="night_display_suggestion_title">Задаване на график за Нощно осветление</string>
   <string name="no_carrier_update_now_text">Актуализирано току-що</string>
   <string name="no_carrier_update_text">Актуализирано преди ^2</string>
-  <string name="notification_channel_summary_default">Голяма важност</string>
+  <string name="notification_channel_summary_default">Висока важност</string>
   <string name="notification_channel_summary_high">Неотложна важност</string>
   <string name="notification_channel_summary_low">Средна важност</string>
-  <string name="notification_channel_summary_min">Малка важност</string>
+  <string name="notification_channel_summary_min">Ниска важност</string>
+  <string name="notification_channel_title">Категория за известията</string>
   <string name="notification_group_title">Група на категорията с известия</string>
   <string name="notification_importance_high_silent">Показване на изскачащ прозорец на екрана</string>
   <string name="notification_switch_label">Показване на известията</string>
