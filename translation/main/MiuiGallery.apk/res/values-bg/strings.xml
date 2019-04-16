@@ -1452,7 +1452,7 @@
   <string name="month_view_tip_button_text">Разбрах</string>
   <string name="month_view_tip_sub_title">Стиснете екрана, за да преминете към месечен изглед</string>
   <string name="month_view_tip_title">Month view</string>
-  <string name="photo_editor_font_default">&gt;Mi Lanting (Regular)</string>
+  <string name="photo_editor_font_default">&gt;Mi Lanting (Обикновен)</string>
   <string name="photo_font_cancel_download">Отказ</string>
   <string name="photo_font_download">Изтегляне</string>
   <string name="photo_font_download_failed_for_notwork">"Не може да се изтегли. Свържете се с мрежата и опитайте отново."</string>
