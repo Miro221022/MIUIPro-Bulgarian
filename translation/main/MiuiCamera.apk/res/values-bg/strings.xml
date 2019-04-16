@@ -803,11 +803,11 @@
     <string name="success_image_saved_camera">Изображението е запазено в Камера.</string>
     <string name="text_copied_to_clipboard">Текстът е копиран в клипборда</string>
 	<string name="wideselfie_press_shoot_key_to_start">Натиснете бутона за затвора</string>
-    <string name="wideselfie_rotate_slowly">Завъртете бавно телефона настрани</string>
+    <string name="wideselfie_rotate_slowly">Завъртете телефона настрани</string>
     <string name="wideselfie_rotate_to_back">Наклонете телефона назад</string>
     <string name="wideselfie_rotate_to_front">Наклонете телефона напред</string>
-    <string name="wideselfie_rotate_to_left_slowly">Бавно завъртете телефона наляво</string>
-    <string name="wideselfie_rotate_to_right_slowly">Бавно завъртете телефона надясно</string>
+    <string name="wideselfie_rotate_to_left_slowly">Завъртете телефона наляво</string>
+    <string name="wideselfie_rotate_to_right_slowly">Завъртете телефона надясно</string>
 	<string name="macro_mode">Макро режим</string>
     <string name="macro_mode_tip">"Разстоянието между обектива и обекта не трябва да надвишава 10см"</string>
 	<string name="pref_camera_long_press_viewfinder_default">Google Обектив</string>
@@ -837,7 +837,7 @@
     <string name="out_line_right_eyes_occlusion">Дясното око е затворено</string>
     <string name="recapture_dialog_message">Потвърждаване на повторението？</string>
     <string name="recapture_dialog_title">Повторното снимане ще изчисти текущото изображение</string>
-    <string name="wideselfie_result_image_lossless">Неуспешно запазване на панорамата</string>
+    <string name="wideselfie_result_image_lossless">"Не може да се направи панорамна снимка"</string>
     <string name="pref_camera_front_bokeh_entry_off">Включено</string>
     <string name="pref_camera_front_bokeh_entry_on">Изключено</string>
 	<string name="dialog_google_lens_option_0">Google Обектив(Препоръчва се)</string>
