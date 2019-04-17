@@ -858,4 +858,25 @@
 Ултра широкоъгълният режим ви помага, когато не можете да се отдалечите от сцената."</string>
     <string name="accessibility_video_btn_play">Изпълни видеоклип</string>
     <string name="beauty_body_whole">Тяло</string>
+	<string name="ultra_wide_open_tip_sat">0.6X Ултра широк ъгъл</string>
+    <string name="video_beauty_tip">Разкрасяване за видеоклипове</string>
+	<string name="mimoji_hairstyle">Прическа</string>
+    <string name="mimoji_featured_face">Тип на лицето</string>
+    <string name="mimoji_eye">Око</string>
+    <string name="mimoji_eyebrow">Вежда</string>
+    <string name="mimoji_nose_lisps">Нос и устни</string>
+    <string name="mimoji_mustache">Брада</string>
+    <string name="mimoji_mole_freckle">Бенка и лунички</string>
+    <string name="mimoji_mole">Бенка</string>
+    <string name="mimoji_freckle">Лунички</string>
+    <string name="mimoji_eyeglass">Очила</string>
+    <string name="mimoji_ornament">Аксесоари</string>
+    <string name="mimoji_headwear">Украшение за глава</string>
+    <string name="mimoji_ear">Ухо</string>
+    <string name="mimoji_eye_shape">Форма на очите</string>
+    <string name="mimoji_eyelash">Мигли</string>
+    <string name="mimoji_eyebrow_shape">Вежда</string>
+    <string name="mimoji_mouth_type">Тип на устата</string>
+    <string name="mimoji_nose">Нос</string>
+    <string name="mimoji_earring">Обеци</string>
 </resources>
