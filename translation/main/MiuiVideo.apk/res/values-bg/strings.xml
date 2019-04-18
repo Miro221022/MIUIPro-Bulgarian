@@ -220,7 +220,6 @@
     <string name="tag_object">Маркирани обекти</string>
     <string name="temp_play_history_button_label">История</string>
     <string name="tencent_shortcut_name">Tencent</string>
-    <string name="theme_id">com.miui.video.theme.01</string>
     <string name="this_source_none_ad">Без реклами</string>
     <string name="to_be_play_label_v5">"Следващ: "</string>
     <string name="toast_back_key_pressed_notice">За да излезете, докоснете Назад отново.</string>
@@ -358,7 +357,6 @@
     <string name="vip_rights">VIP привилегии</string>
     <string name="vip_setup">Активирайте VIP членството</string>
     <string name="vip_tequan_desc_fastzj">Ранен достъп до телевизионни предавания</string>
-    <string name="vip_tequan_desc_freevideos">iQiyi video library</string>
     <string name="vip_tequan_desc_newvideo">Ранен достъп до нови филми</string>
     <string name="vip_tequan_desc_skipad">Платено съдържание без реклами</string>
     <string name="vip_tequan_desc_speedchannel">Високоскоростно буфериране</string>
@@ -478,7 +476,6 @@
     <string name="vp_video_invalid_cp_info">Content provider info is invalid, restart the app.</string>
     <string name="vp_video_loading"><CDATA>Една секунда…</CDATA></string>
     <string name="vp_video_plugin_installation">Installing %1$s…</string>
-    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="audio_changed">Нова аудио запис</string>
     <string name="audio_title">Аудио запис</string>
     <string name="audio_track">Аудио запис</string>
@@ -713,9 +710,7 @@ To activate your account, follow the
     <string name="v_send_title">Изпрати</string>
     <string name="v_set_password">Задайте парола, за да видите скритите видеоклипове</string>
     <string name="v_video_null">Няма клипове</string>
-    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
-    <string name="font_family">miui</string>
     <string name="vp_time_separator">/</string>
 	<string name="offline_setting_mobile_net_limit_size1">1Гб</string>
     <string name="offline_setting_mobile_net_limit_size2">500Мб</string>
