@@ -1,55 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="comment_count">
-        <item quantity="other">%d comments</item>
-        <item quantity="one">%d comment</item>
+        <item quantity="other">%d коментара</item>
+        <item quantity="one">%d коментар</item>
     </plurals>
     <plurals name="comment_sub_count">
-        <item quantity="other">%d replies</item>
-        <item quantity="one">%d reply</item>
+        <item quantity="other">%d отговора</item>
+        <item quantity="one">%d отговор</item>
     </plurals>
     <plurals name="comment_view_all_comment">
-        <item quantity="other">View all %d comments</item>
-        <item quantity="one">View %d comment</item>
+        <item quantity="other">Преглед на всички %d коментари</item>
+        <item quantity="one">Преглед на %d коментара</item>
     </plurals>
     <plurals name="downloading_task_num">
-        <item quantity="other">%d files</item>
-        <item quantity="one">%d file</item>
+        <item quantity="other">%d файла</item>
+        <item quantity="one">%d файл</item>
     </plurals>
     <plurals name="notification_sub_title">
-        <item quantity="other">Downloaded %d files successfully</item>
-        <item quantity="one">Downloaded %d file successfully</item>
+        <item quantity="other">Успешно са изтеглени %d файла</item>
+        <item quantity="one">Успешно е изтеглен %d файл</item>
     </plurals>
     <plurals name="offline_num">
-        <item quantity="other">%d files</item>
-        <item quantity="one">%d file</item>
+        <item quantity="other">%d файла</item>
+        <item quantity="one">%d файл</item>
     </plurals>
     <plurals name="offline_num_title">
-        <item quantity="other">(%d episodes)</item>
-        <item quantity="one">(%d episode)</item>
+        <item quantity="other">(%d епизода)</item>
+        <item quantity="one">(%d епизод)</item>
     </plurals>
     <plurals name="updated_already">
-        <item quantity="other">Updated %d items</item>
-        <item quantity="one">Updated %d item</item>
+        <item quantity="other">Актуализирани са %d елемента</item>
+        <item quantity="one">Актуализиран е %d елемент</item>
     </plurals>
     <plurals name="v_video_count">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
+        <item quantity="other">%d видеоклипа</item>
+        <item quantity="one">%d видеоклип</item>
     </plurals>
     <plurals name="video_pre_play_tip">
-        <item quantity="other">%1$d-minute preview is available. To watch the full video, &lt;Data>&lt;font color=#ffa201>buy it now&lt;/font>&lt;/Data>.</item>
-        <item quantity="one">%1$d-minute preview is available. To watch the full video, &lt;Data>&lt;font color=#ffa201>buy it now&lt;/font>&lt;/Data>.</item>
+        <item quantity="other">%1$d-минутен предварителен преглед е налице. За да гледате пълния видеоклип, &lt;Data>&lt;font color=#ffa201>купете го сега&lt;/font>&lt;/Data>.</item>
+        <item quantity="one">%1$d-минутен предварителен преглед е налице. За да гледате пълния видеоклип, &lt;Data>&lt;font color=#ffa201>купете го сега&lt;/font>&lt;/Data>.</item>
     </plurals>
     <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">Subtitles are moved %.1f seconds forward</item>
-        <item quantity="one">Subtitles are moved %.1f second forward</item>
+        <item quantity="other">Субтитрите са преместени с %.1f секунди напред</item>
+        <item quantity="one">Субтитрите са преместени с %.1f секунда напред</item>
     </plurals>
     <plurals name="subtitle_offset_delay_times">
-        <item quantity="other">Subtitles are delayed for %.1f seconds</item>
-        <item quantity="one">Subtitles are delayed for %.1f second</item>
+        <item quantity="other">Субтитрите закъсняват с %.1f секунди</item>
+        <item quantity="one">Субтитрите закъсняват с %.1f секунда</item>
     </plurals>
     <plurals name="subtitle_onlinesub_size_float_kb">
-        <item quantity="other">Size: %.2fKB</item>
-        <item quantity="one">Size: %.2fKB</item>
+        <item quantity="other">Размер: %.2fКб</item>
+        <item quantity="one">Размер: %.2fКб</item>
     </plurals>
+	    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s резултата за \"%1$s\"</item>
+        <item quantity="one">%2$s резултата за \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d изображения</item>
+        <item quantity="one">%d изображение</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d видеоклипа</item>
+        <item quantity="one">%d видеоклип</item>
+    </plurals>
+	    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">Изтриване на %s елемента?</item>
+        <item quantity="one">Изтриване на %s елемент?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">Избрани са %s елемента</item>
+        <item quantity="one">Избран е %s елемент</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Размер на файла: %.2fКб</item>
+        <item quantity="one">Размер на файла: %.2fКб</item>
 </resources>
