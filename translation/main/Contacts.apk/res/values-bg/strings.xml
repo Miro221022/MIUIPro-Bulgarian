@@ -1149,10 +1149,10 @@
   <string name="useful_numbers">Полезни номера</string>
   <string name="user_profile_contacts_list_header">Аз</string>
   <string name="vcard_export_request_rejected_message">Експортирането на визитка се провали, моля опитайте по-късно.</string>
-  <string name="vcard_export_will_start_message">%s ще бъде експортирана скоро.</string>
-  <string name="vcard_import_failed">Неуспешно импортиране на визитка %s.</string>
+  <string name="vcard_export_will_start_message">%s ще бъде експортиран скоро.</string>
+  <string name="vcard_import_failed">"VCard не може да се импортира %s."</string>
   <string name="vcard_import_request_rejected_message">Импортирането на визитка се провали, моля опитайте по-късно.</string>
-  <string name="vcard_import_will_start_message">%s ще бъде импортирана скоро.</string>
+  <string name="vcard_import_will_start_message">%s ще бъде импортиран скоро.</string>
   <string name="vcard_import_will_start_message_with_default_name">Файлът ще бъде импортиран скоро.</string>
   <string name="vcard_unknown_filename">контакт</string>
   <string name="video_call">Видео повикване</string>
