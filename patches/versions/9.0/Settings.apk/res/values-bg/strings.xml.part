@@ -458,7 +458,7 @@
   <string name="sim_pin_disable_failed">"PIN кода не може да се деактивира."</string>
   <string name="sim_pin_enable_failed">"PIN кода не може да се активира."</string>
   <string name="sim_selection_channel_title">Избиране на SIM карта</string>
-  <string name="sim_status_title_sim_slot">Състояние на SIM (SIM %1$d)</string>
+  <string name="sim_status_title_sim_slot">Състояние на SIM карта %1$d</string>
   <string name="smart_battery_footer">Когато мениджърът на батерията установи, че приложенията я изразходват, ще имате опцията да ги ограничите. Ограничените приложения може да не работят правилно и е възможно да има забавяне на известията.</string>
   <string name="smart_battery_manager_title">Мениджър на батерията</string>
   <string name="smart_battery_summary">Ограничение за батерията за приложения, които не използвате често</string>
