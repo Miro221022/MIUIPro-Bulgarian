@@ -198,7 +198,7 @@
   <string name="mobile_data_note_dialog_cancel">Изчакване за Wi-Fi връзка</string>
   <string name="mobile_data_note_dialog_confirm">Качване</string>
   <string name="mobile_data_note_dialog_content">"Изглежда, че сте свързани с платена мрежа. Качването на отчети може да генерира допълнителни такси."</string>
-  <string name="mobile_data_note_dialog_content_with_file_size">"Изглежда, че сте свързани към платена мрежа. Качването на отчети изисква %sMB мобилни данни."</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">"Изглежда, че сте свързани към платена мрежа. Качването на отчети изисква %sМБ мобилни данни."</string>
   <string name="mobile_data_note_dialog_title">Предупреждение за използване на данни</string>
   <string name="modem_tool_log_dumping_desc">Чукнете иконата за стоп</string>
   <string name="modem_tool_log_dumping_title">Заснемане на лог от модема</string>
@@ -529,4 +529,6 @@
   <string name="kr_authorization_storage_desc">За достъп до хранилището и запис на елементи, включително отчети, изображения и видеоклипове</string>
   <string name="kr_authorization_summary">Правни документи</string>
   <string name="kr_authorization_user_protocol">Потребителско споразумение (задължително)</string>
+  <string name="feedback_description_hint_suggestion">"Кажете ни как искате да се подобри MIUI."</string>
+  <string name="feedback_jira_key_place_holder">Създаване на Jira…</string>
 </resources>
