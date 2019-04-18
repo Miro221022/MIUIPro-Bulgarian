@@ -134,7 +134,7 @@
     <string name="my_offline">Локални</string>
     <string name="my_offline_unfinish">Моите местни видеоклипове</string>
     <string name="notification_ticker_text">Изтеглени успешно всички файлове</string>
-    <string name="notification_title">Изтеглени \"%1$s\" Успешно</string>
+    <string name="notification_title">Изтеглени \"%1$s\" успешно</string>
     <string name="nowifi_alert_dialog_continue">OK</string>
     <string name="nowifi_alert_dialog_exit">Отказ</string>
     <string name="nowifi_alert_dialog_message">"Използването на връзката за мобилни данни за поточно видео ще увеличи използването на данни. Ако превишите ограничението за използване на данните за вашия план, вашият оператор може да ви таксува с допълнителни такси."</string>
@@ -245,7 +245,7 @@
     <string name="use_cellular_offlinedownload_summary">Включете, за да получавате известия за нови видеоклипове, когато сте свързани с мобилни данни</string>
     <string name="use_cellular_offlinedownload_title">Уведомявайте за нови видеоклипове, когато сте свързани с мобилни данни</string>
     <string name="use_cellular_play_summary">Изключете, за да спестите мобилни данни</string>
-    <string name="use_cellular_play_title">Изпълнение на видео чрез мобилни данни</string>
+    <string name="use_cellular_play_title">Изпълнение на чрез мобилни данни</string>
     <string name="v_addon">Популярни</string>
     <string name="v_agree">Съгласие</string>
     <string name="v_all_episode">Всички епизоди</string>
@@ -720,7 +720,7 @@ To activate your account, follow the
 	<string name="offline_setting_mobile_net_limit_size1">1Гб</string>
     <string name="offline_setting_mobile_net_limit_size2">500Мб</string>
     <string name="offline_setting_mobile_net_limit_summary">Ограничаване използването на мобилни данни, след като размерът на изтеглените видеоклипове достигне определения лимит</string>
-    <string name="offline_setting_mobile_net_limit_title">Ограничение за ползване на мобилни данни</string>
+    <string name="offline_setting_mobile_net_limit_title">Ограничения за мобилни данни</string>
     <string name="offline_setting_mobile_net_unlimited">Без ограничение</string>
 	<string name="v_coin_task">Мисии</string>
     <string name="v_get_cash">Кеш</string>
@@ -778,4 +778,7 @@ To activate your account, follow the
 	<string name="portrait_speed_title">Скорост на възпроизвеждане</string>
 	<string name="switch_ratio_pause">Скоростта на възпроизвеждане е нестабилна. Връща се обратно към стандартната скорост…</string>
 	<string name="cannot_support_speed">"Скоростта на възпроизвеждане за този видеоклип не може да се промени, опитайте другo"</string>
+	<string name="notification_offline_to_online_setting">Панел за известия</string>
+    <string name="notification_offline_to_online_summary">Преглед на информация за времето и прчк път за Mi Видео</string>
+    <string name="notification_offline_to_online_title">Преки пътища в панела за известия</string>
 </resources>
