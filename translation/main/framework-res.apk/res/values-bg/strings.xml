@@ -885,7 +885,7 @@
     <string name="carrier_app_dialog_not_now">НЕ СЕГА</string>
     <string name="carrier_app_notification_title">Поставена е нова SIM карта</string>
     <string name="carrier_app_notification_text">Докоснете, за да я настроите</string>
-    <string name="time_picker_dialog_title">Задаване на часа</string>
+    <string name="time_picker_dialog_title">Задаване на време</string>
     <string name="date_picker_dialog_title">Задаване на дата</string>
     <string name="date_time_set">Задаване</string>
     <string name="date_time_done">Готово</string>

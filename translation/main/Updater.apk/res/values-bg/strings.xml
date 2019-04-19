@@ -162,7 +162,7 @@
   <string name="notification_downloading">Изтегля се актуализация…</string>
   <string name="notification_express_available">Вашата актуализация (%1$s) е готова за изтегляне</string>
   <string name="notification_express_ready">Вашата актуализация (%1$s) е готова за инсталиране</string>
-  <string name="notification_fail_msg">Изтеглете РОМАа и опитайте отново да актуализирате</string>
+  <string name="notification_fail_msg">Изтеглете пакета и опитайте да актуализирате отново</string>
   <string name="notification_has_express">Можете да приложите актуализацията (%s)</string>
   <string name="notification_has_express_more">Можете да приложите актуализацията</string>
   <string name="notification_load_body_alpha">Впишете се в Mi профила си, за да актуализирате устройството.</string>

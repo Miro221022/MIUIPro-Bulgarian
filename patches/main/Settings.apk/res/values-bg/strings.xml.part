@@ -17,7 +17,7 @@
   <string name="CDMA_only">Само CDMA</string>
   <string name="charging_display">Включване на екрана при зареждане</string>
   <string name="charging_sounds_full_title">Звук, когато е напълно зареден</string>
-  <string name="charging_sounds_off">Звук при изключване на зарадното устройство</string>
+  <string name="charging_sounds_off">Звук при изключване на зарядното устройство</string>
   <string name="charging_sounds_on">Звук при свързване със зарядно устройство</string>
   <string name="close_battery_title">Нормално ниво</string>
   <string name="close_folder_title">Автоматично затваряне на папките</string>
@@ -33,7 +33,7 @@
   <string name="double_tap_app_title">Приложение при двойно почукване</string>
   <string name="doubletap_home">Двойно почукване</string>
   <string name="enable_vertical_clock">Вертикален часовник</string>
-  <string name="enable_vertical_clock_summary">Показване на вертикален часовник на заключения екран</string>
+  <string name="enable_vertical_clock_summary">Показване на вертикален часовник на заключен екран</string>
   <string name="endless_desktop_title">Безкрайно превъртане на началния екран</string>
   <string name="EvDo_only">Само EvDo</string>
   <string name="fade_animation_title">Стил на анимация</string>
