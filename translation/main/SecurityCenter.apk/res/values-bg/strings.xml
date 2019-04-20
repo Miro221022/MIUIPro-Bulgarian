@@ -1756,7 +1756,7 @@
     <string name="back_modifypassword">Върнете се към промяна на типа на парола</string>
     <string name="showpattern">Показване на фигурата</string>
     <string name="notification_mask_title">Скрий съдържанието</string>
-    <string name="notification_mask_summary">Скрий съдържанието на известията на заключен екран и в панела за известия</string>
+    <string name="notification_mask_summary">Скриване на съдържанието на известията на заключен екран и в панела за известия</string>
     <string name="convenient_mode">Еднократно отключване</string>
     <string name="convenient_summary">Въвеждане на паролата веднъж за отключване на всички приложения</string>
     <string name="suggest_app_tolock">Предложения</string>

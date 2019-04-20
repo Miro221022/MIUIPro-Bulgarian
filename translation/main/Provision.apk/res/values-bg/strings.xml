@@ -38,7 +38,7 @@
   <string name="multisim_settings_title">Открити са 2 SIM карти</string>
   <string name="navigation_picker_gesture_guide">Упътване за жестове</string>
   <string name="navigation_picker_radio_text_full_screen">Режим цял екран</string>
-  <string name="navigation_picker_radio_text_virtual_key">Режим виртуален клавиш</string>
+  <string name="navigation_picker_radio_text_virtual_key">Бутони</string>
   <string name="next">Следващо</string>
   <string name="next_fingerprint">Следващо</string>
   <string name="other_settings">Допълнителни настройки</string>
@@ -68,7 +68,7 @@
   <string name="sim_redetection">Провери отново за SIM карта</string>
   <string name="skip_underline">Пропусни тази стъпка</string>
   <string name="summary_not_set">Не е настроено</string>
-  <string name="system_navigation_mode">Режим за навигиране в системата</string>
+  <string name="system_navigation_mode">Режим за придвижване в системата</string>
   <string name="terms_of_use">Правила и условия</string>
   <string name="terms_of_use_label">"Вашата поверителност е много важна за нас. Прочетете нашите Условия за ползване и Политика за поверителност, за да разберете каква информация събираме, как я използваме и какви възможности са налични за вас.
 
@@ -118,8 +118,8 @@
   <string name="congratulation_label_night">Вижте нашият изцяло нов Тъмен режим!</string>
   <string name="start_up_slogan_night">Вижте нашият изцяло нов Тъмен режим!</string>
   <string name="locale_picker_other_locale_title">Още региони</string>
-  <string name="font_hint_large">Размер на текста по подразбиране</string>
-  <string name="font_hint_normal">Увеличаване размера на текста</string>
+  <string name="font_hint_large">Нормален размер на текста</string>
+  <string name="font_hint_normal">Увеличен размер на текста</string>
   <string name="skip_gesture_guide_dialog_message">Уверете се, че знаете как да използвате жестове на цял екран, преди да изберете тази опция.</string>
   <string name="skip_gesture_guide_dialog_negative_btn">Отказ</string>
   <string name="skip_gesture_guide_dialog_positive_btn">OK</string>

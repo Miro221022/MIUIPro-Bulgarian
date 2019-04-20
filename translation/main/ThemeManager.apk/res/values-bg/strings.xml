@@ -698,5 +698,7 @@
    <string name="wallpaper_loop_title">Слайдшоу за тапети</string>
    <string name="wallpaper_loop_title_desk_wallpaper">Слайдшоу за тапети на начален екран</string>
    <string name="wallpaper_loop_title_lock_walpaper">Слайдшоу за тапети на заключен екран</string>
-   <string name="loop_wallpaper_is_here">Слайдшоуто за тапети е налично</string>
+   <string name="loop_wallpaper_is_here">Налично е слайдшоу за тапети</string>
+   <string name="transparent_wallpaper_disable">Изключено</string>
+   <string name="transparent_wallpaper_enable">Включено</string>
 </resources>
