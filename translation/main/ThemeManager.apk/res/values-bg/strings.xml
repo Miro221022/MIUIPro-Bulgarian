@@ -19,7 +19,7 @@
     <string name="backup_theme_dialog_ok">Архивиране</string>
     <string name="backup_theme_fail_trial_rights_message">Не може да се архивират пробни елементи</string>
     <string name="backup_theme_name">Архив на тема</string>
-    <string name="backup_theme_progress_message">Архивиране на темата...</string>
+    <string name="backup_theme_progress_message">Архивиране…</string>
     <string name="backup_theme_success_message">Архивирането на темата завърши.</string>
     <string name="both_all_apply_failured">Тапетът не може да се приложи</string>
     <string name="both_all_apply_success">Тапетът е приложен успешно</string>
@@ -40,7 +40,7 @@
     <string name="current_using_desktop_wallpaper_text">Начален екран</string>
     <string name="current_using_lockscreen_wallpaper_text">Заключен екран</string>
     <string name="current_version_incompatible">Несъвместима</string>
-    <string name="deleting">Изтриване...</string>
+    <string name="deleting">Изтриване…</string>
     <string name="description_author">Автор:</string>
     <string name="description_designer">Дизайнер:</string>
     <string name="description_download">Изтеглено:</string>
@@ -204,7 +204,7 @@
     <string name="resource_comment_rate">Рейтинг:</string>
     <string name="resource_comment_rating_star_tips">Вашият рейтинг</string>
     <string name="resource_comment_score_count">%1$s потребители</string>
-    <string name="resource_comment_sending">Изпращане на коментар...</string>
+    <string name="resource_comment_sending">Изпращане на коментар…</string>
     <string name="resource_comment_title">Коментари: %1$s</string>
     <string name="resource_comment_upload_data_invalid">Невалиден коментар!</string>
     <string name="resource_comment_upload_failed">Неуспешно изпращане на коментара!</string>
@@ -238,7 +238,7 @@
     <string name="resource_download_notification_title_one">Темата е изтеглена</string>
     <string name="resource_download_trial">Безплатен тест</string>
     <string name="resource_downloaded_title">Изтеглени ресурси</string>
-    <string name="resource_downloading">Изтегляне...</string>
+    <string name="resource_downloading">Изтегляне</string>
     <string name="resource_exchange">Активиране на код</string>
     <string name="resource_exchange_confirm">ОК</string>
     <string name="resource_exchange_empty_format">Въведете кода!</string>
@@ -266,7 +266,7 @@
     <string name="resource_get_auth_exceed_max_limit_title">Надвишен лимит ауторизации</string>
     <string name="resource_get_auth_has_been_undercarriaged">Тази тема вече не е налична.</string>
     <string name="resource_get_auth_not_official">Теми от други източници не се поддържат</string>
-    <string name="resource_get_auth_retrieving">Получаване на разрешение...</string>
+    <string name="resource_get_auth_retrieving">Получаване на информация…</string>
     <string name="resource_has_been_downloaded">Вече изтеглихте тази тема.</string>
     <string name="resource_hint">Предупреждение</string>
     <string name="resource_import_failed">Импортирането се провали</string>
@@ -365,7 +365,7 @@
     <string name="resource_unknow_error">Възникна неизвестна грешка.</string>
     <string name="resource_update">Обнови</string>
     <string name="resource_user_know">OK</string>
-    <string name="resource_waiting_download">Изчакване...</string>
+    <string name="resource_waiting_download">Изчакване</string>
     <string name="resource_waiting_pause">Пауза</string>
     <string name="ringtone_set_success">Успешно настроено</string>
     <string name="sdcard_not_mounted_dialog_message">\"Поставете SD карта. \"</string>
@@ -390,7 +390,7 @@
     <string name="theme_bug_report">Доклад за грешки</string>
     <string name="theme_changed_failed_message">Неуспешно прилагане на темата.</string>
     <string name="theme_changed_message">Темата е успешно приложена.</string>
-    <string name="theme_changing_dialog_title">Прилагане на нова тема, моля изчакайте...</string>
+    <string name="theme_changing_dialog_title">"Прилагане на "</string>
     <string name="theme_component_title_alarm">Будилник</string>
     <string name="theme_component_title_alarmstyle">Стил на будилника</string>
     <string name="theme_component_title_all">Теми</string>
