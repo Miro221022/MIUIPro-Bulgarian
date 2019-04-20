@@ -39,7 +39,7 @@
     <string name="component_title_wallpaper">Тапети</string>
     <string name="current_using_desktop_wallpaper_text">Начален екран</string>
     <string name="current_using_lockscreen_wallpaper_text">Заключен екран</string>
-    <string name="current_version_incompatible">Тази Тема не е съвместима</string>
+    <string name="current_version_incompatible">Несъвместима</string>
     <string name="deleting">Изтриване...</string>
     <string name="description_author">Автор:</string>
     <string name="description_designer">Дизайнер:</string>
@@ -106,7 +106,7 @@
     <string name="item_resource_audio_optional_color_ring">Тон на обратно позвъняване</string>
     <string name="item_resource_audio_optional_notification_ring">Известия</string>
     <string name="item_resource_audio_optional_phone_ring">Тон на звънене</string>
-    <string name="live_wallpaper">Динамични тапети</string>
+    <string name="live_wallpaper">Жив тапет</string>
     <string name="loading">Един момент…</string>
     <string name="loading_resource_detail_fail">"Ресурсът не може да се зареди"</string>
     <string name="loading_resource_detail_info">Един момент…</string>
@@ -271,7 +271,7 @@
     <string name="resource_hint">Предупреждение</string>
     <string name="resource_import_failed">Импортирането се провали</string>
     <string name="resource_import_successful">Успешно изтегляне.</string>
-    <string name="resource_importing">Импортиране...</string>
+    <string name="resource_importing">Импортиране…</string>
     <string name="resource_list_title">Последно избрани</string>
     <string name="resource_local_picker">Изберете от локалните тонове за звънене</string>
     <string name="resource_menu_refresh">Обнови</string>
@@ -426,7 +426,7 @@
     <string name="theme_favorite_waiting">Момент…</string>
     <string name="theme_fresh_man_notifaction">Пробвайте някои нови теми.</string>
     <string name="theme_immediately_apply_tip">Да се приложи ли актуализацията сега?</string>
-    <string name="theme_import_from_sdcard">Импортиране от SD карта</string>
+    <string name="theme_import_from_sdcard">Импортиране</string>
     <string name="theme_is_external_priority_storage">Запазване на SD картата</string>
     <string name="theme_is_external_priority_storage_summary">Приложението Теми ще се рестартира веднага, за да приложи тази настройка.</string>
     <string name="theme_multiple_button_title_customize">Редактиране</string>
@@ -635,7 +635,7 @@
    <string name="transparent_wallpaper_white_wallpaper_failed">"Фона не може да бъде направен бял"</string>
    <string name="transparent_wallpaper_white_wallpaper_tip">Прозрачният тапет изглежда най-добре на бял фон</string>
    <string name="transparent_wallpaper_white_wallpaper_success">Цветът на фона сега е бял</string>
-   <string name="wallpaper_set_as_float_wallpaper">Прозрачен тапет (бета)</string>
+   <string name="wallpaper_set_as_float_wallpaper">Задаване като прозрачен тапет</string>
    <string name="lab">Бета функции</string>
    <string name="mix_global_option">Основни</string>
    <string name="mix_global_option_des">Известия, телефон, съобщения и други системни елементи. Премахнете отметката, за да използвате опциите по подразбиране.</string>
@@ -691,7 +691,7 @@
    <string name="wallpaper_loop_more_options">Допълнителни настройки</string>
    <string name="wallpaper_loop_my_desk_wallpaper">Моите тапети за начален екран</string>
    <string name="wallpaper_loop_my_lock_wallpaper">Моите тапети за заключен екран</string>
-   <string name="wallpaper_loop_order_desc">Изберете реда, в който се появяват слайдовете</string>
+   <string name="wallpaper_loop_order_desc">Изберете реда, в който да се появяват слайдовете</string>
    <string name="wallpaper_loop_order_loop">Оригинално</string>
    <string name="wallpaper_loop_order_shuffle">Произволно</string>
    <string name="wallpaper_loop_order_title">Ред на слайдовете</string>
@@ -701,4 +701,13 @@
    <string name="loop_wallpaper_is_here">Налично е слайдшоу за тапети</string>
    <string name="transparent_wallpaper_disable">Изключено</string>
    <string name="transparent_wallpaper_enable">Включено</string>
+   <string name="enable_transparent_wallpaper">Прозрачен тапет</string>
+   <string name="transparency_pref_summary">Изберете колко прозрачен желаете да бъде вашият тапет</string>
+   <string name="transparency_pref_title">Ниво на прозрачност</string>
+   <string name="app_disable_transparent_wallpaper">Без прозрачен тапет</string>
+   <string name="app_enable_transparent_wallpaper">С прозрачен тапет</string>
+   <string name="title_my_miwallpaper_desktop_effects">Ефекти за начален екран</string>
+   <string name="xiaoai_speech_not_installed_download">Изтегляне</string>
+   <string name="xiaoai_speech_not_installed_message">Изтеглете и инсталирайте Mi AI Гласов асистент за да продължите.</string>
+   <string name="xiaoai_speech_not_installed_title">Не е инсталиран Mi AI Гласов асистент.</string>
 </resources>

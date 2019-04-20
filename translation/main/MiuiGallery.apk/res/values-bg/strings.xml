@@ -1060,7 +1060,7 @@
     <string name="sync_off_title">Включете Mi Облак синхронизацията за да архивирате снимките и клиповете автоматично</string>
     <string name="sync_pending_title">Ще се синхронизира автоматично</string>
     <string name="sync_state_unknow">Инициализация</string>
-    <string name="synced_title">Успешно архивиране на снимките и клиповете</string>
+    <string name="synced_title">Снимките и видеоклиповете са архивирани успешно</string>
     <string name="syncing_gprs_title">Използване на мобилни данни за архивиране на елементите</string>
     <string name="syncing_metadata_title">Синхронизиране на Mi Облак</string>
     <string name="syncing_normal_title">Снимките и клиповете се архивират</string>
@@ -1070,8 +1070,8 @@
     <string name="text_append_font">Шрифт</string>
     <string name="text_append_font_example">Aa</string>
     <string name="text_append_hint">Въведете текст</string>
-    <string name="text_append_style">Балони</string>
-    <string name="text_append_transparent">Непрозрачност</string>
+    <string name="text_append_style">Балонче</string>
+    <string name="text_append_transparent">Прозрачност</string>
     <string name="text_edit_dialog_font">Шрифт</string>
     <string name="text_edit_dialog_font_default">Подразбиране</string>
     <string name="text_edit_dialog_keyboard">клавиатура</string>
