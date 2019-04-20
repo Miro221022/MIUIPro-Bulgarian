@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="announce_for_drag">
-        <item quantity="other">Плъзгане %1$d елементи</item>
-        <item quantity="one">Плъзгане %1$d елемент</item>
+        <item quantity="other">Плъзгане на %1$d елемента</item>
+        <item quantity="one">Плъзгане на %1$d елемент</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">Да се изтрият ли избраните %1$d тапети?</item>

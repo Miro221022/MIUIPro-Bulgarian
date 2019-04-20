@@ -45,11 +45,11 @@
         <item quantity="one">Прехвърлен и възстановен е %d елемент</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"Прехвърлени са %d елементи. "</item>
+        <item quantity="other">"Прехвърлени са %d елемента. "</item>
         <item quantity="one">"Прехвърлен е %d елемент. "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">%d елементи са прехвърлени отново.</item>
+        <item quantity="other">%d елемента са прехвърлени отново.</item>
         <item quantity="one">%d елемент е прехвърлен отново.</item>
     </plurals>
 	<plurals name="trans_failed_summary">

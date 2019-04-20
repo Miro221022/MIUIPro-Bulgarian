@@ -9,8 +9,8 @@
         <item quantity="one">Изчакващи синхронизиране: %d</item>
     </plurals>
     <plurals name="items_waiting_to_sync">
-        <item quantity="other">%d елементи чакат за синхронизиране</item>
-        <item quantity="one">%d елементи чакат за синхронизиране</item>
+        <item quantity="other">%d елемента чакат за синхронизиране</item>
+        <item quantity="one">%d елемент чака за синхронизиране</item>
     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d контакта</item>
@@ -45,11 +45,11 @@
         <item quantity="one">%d песен</item>
     </plurals>
     <plurals name="dirty_browser_count">
-        <item quantity="other">%d елементи на браузъра</item>
+        <item quantity="other">%d елемента на браузъра</item>
         <item quantity="one">%d елемент на браузъра</item>
     </plurals>
     <plurals name="dirty_calendar_count">
-        <item quantity="other">%d елементи в календара</item>
+        <item quantity="other">%d елемента в календара</item>
         <item quantity="one">%d елемент в календара</item>
     </plurals>
     <plurals name="dirty_blocklist_count">

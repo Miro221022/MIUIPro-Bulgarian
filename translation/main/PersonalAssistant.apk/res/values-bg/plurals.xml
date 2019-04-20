@@ -19,7 +19,7 @@
     <item quantity="one">Да се премахне ли %s елемент от любими?</item>
   </plurals>
   <plurals name="main_mark_fav_num">
-    <item quantity="other">%s елементи са маркирани като важни</item>
+    <item quantity="other">%s елемента са маркирани като важни</item>
     <item quantity="one">%s елемент е маркиран като важен</item>
   </plurals>
   <plurals name="main_mark_select_num">
@@ -30,11 +30,11 @@
     <item quantity="other">преди %1$d мин</item>
   </plurals>
   <plurals name="payment_record_dialog_delete_message">
-    <item quantity="other">Изтрий %s елементи от плащане?</item>
+    <item quantity="other">Изтрий %s елемента от плащане?</item>
     <item quantity="one">Изтрий %s елемент от плащане?</item>
   </plurals>
   <plurals name="payment_record_menu_select_num">
-    <item quantity="other">Избрани %s елементи</item>
+    <item quantity="other">Избрани %s елемента</item>
     <item quantity="one">Избран %s елемент</item>
   </plurals>
   <plurals name="sms_day_suffix">

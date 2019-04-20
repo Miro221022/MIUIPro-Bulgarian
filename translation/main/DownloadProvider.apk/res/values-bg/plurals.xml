@@ -9,7 +9,7 @@
         <item quantity="one">Изтегляне на %1$d файл</item>
     </plurals>
     <plurals name="notification_download_failed_more">
-        <item quantity="other">%1$d елементи не могат да се изтеглят</item>
+        <item quantity="other">%1$d елемента не могат да се изтеглят</item>
         <item quantity="one">%1$d елемент не може да се изтегли</item>
     </plurals>
     <plurals name="notif_summary_active">

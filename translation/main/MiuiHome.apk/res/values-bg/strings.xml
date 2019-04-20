@@ -360,5 +360,5 @@
 	<string name="edit_mode_top_menu_finish">Готово</string>
     <string name="menu_finish">Готово</string>
     <string name="widgets_preview_title">Добави джаджа</string>
-	<string name="launcher_sliding_up_gesture">Плъзгане нагоре в начален екран, за стартиране на търсене</string>
+	<string name="launcher_sliding_up_gesture">Стартиране на търсе чрез плъзгане нагоре в начален екран</string>
 </resources>
