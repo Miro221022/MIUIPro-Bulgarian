@@ -1044,7 +1044,7 @@
     <string name="wifi_suspend_efficiency_title">Подобряване на ефективността</string>
     <string name="wifi_suspend_optimizations">Wi-Fi да се оптимизира</string>
     <string name="wifi_suspend_optimizations_summary">Намаляване на използването на батерията, когато Wi-Fi е включен</string>
-    <string name="wifi_limit_optimizations_summary">Разход на бат. от Wi‑Fi: Лимит</string>
+    <string name="wifi_limit_optimizations_summary">Лимит на батерията, използвана от WLAN</string>
     <string name="wifi_switch_away_when_unvalidated">Превключете към клетъчни данни, ако Wi‑Fi мрежата изгуби достъп до интернет.</string>
     <string name="wifi_add_network">Добавяне на мрежа</string>
     <string name="wifi_access_points">WLAN мрежи</string>
@@ -2883,7 +2883,7 @@
     <string name="zen_mode_settings_title">Прекъсвания</string>
     <string name="zen_mode_priority_settings_title">Само приоритетни прекъсвания</string>
     <string name="zen_mode_automation_settings_title">Автомат. правила</string>
-    <string name="zen_mode_automation_suggestion_title">График за „Не безпокойте“</string>
+    <string name="zen_mode_automation_suggestion_title">График за „Не ме безпокойте“</string>
     <string name="zen_mode_automation_suggestion_summary">Заглушаване на у-вото в опр. часове</string>
     <string name="zen_mode_option_important_interruptions">Само с приоритет</string>
     <string name="zen_mode_option_alarms">Само будилници</string>
@@ -2934,13 +2934,13 @@
     <string name="display_vr_pref_title">Когато устройството е в режим за виртуална реалност</string>
     <string name="display_vr_pref_low_persistence">Да се използват настройките за ниско ниво на замъгляване при движение</string>
     <string name="display_vr_pref_off">Да не се прави нищо</string>
-    <string name="manage_zen_access_title">Достъп до „Не безпокойте“</string>
-    <string name="zen_access_empty_text">Никое инсталирано приложение не е заявило достъп до „Не безпокойте“</string>
+    <string name="manage_zen_access_title">Достъп до „Не ме безпокойте“</string>
+    <string name="zen_access_empty_text">Никое инсталирано приложение не е заявило достъп до „Не ме безпокойте“</string>
     <string name="loading_notification_apps">Зареждане на приложения...</string>
     <string name="app_notification_block_title">Блокиране на всички</string>
     <string name="app_notification_block_summary">Известията от това приложение никога не се показват</string>
-    <string name="app_notification_override_dnd_title">Отмяна на „Не безпокойте“</string>
-    <string name="app_notification_override_dnd_summary">Разрешаване на тези известия да продължат да ви прекъсват, когато за режим „Не безпокойте“ е зададено „Само с приоритет“.</string>
+    <string name="app_notification_override_dnd_title">Отмяна на „Не ме безпокойте“</string>
+    <string name="app_notification_override_dnd_summary">Разрешаване на тези известия да продължат да ви прекъсват, когато за режим „Не ме безпокойте“ е зададено „Само с приоритет“.</string>
     <string name="app_notification_visibility_override_title">На заключен екан</string>
     <string name="app_notification_row_banned">Блокирано</string>
     <string name="app_notification_row_priority">Приоритет</string>
@@ -2959,9 +2959,9 @@
     <string name="zen_mode_rule_type_unknown">Неизвестно</string>
     <string name="zen_mode_configure_rule">Конфигуриране на правило</string>
     <string name="zen_schedule_rule_type_name">Правило за часове</string>
-    <string name="zen_schedule_rule_enabled_toast">За автоматичното правило е зададено включване на „Не безпокойте“ в определени часове</string>
+    <string name="zen_schedule_rule_enabled_toast">За автоматичното правило е зададено включване на „Не ме безпокойте“ в определени часове</string>
     <string name="zen_event_rule_type_name">Правило за събития</string>
-    <string name="zen_event_rule_enabled_toast">За автоматичното правило е зададено включване на „Не безпокойте“ по време на определени събития</string>
+    <string name="zen_event_rule_enabled_toast">За автоматичното правило е зададено включване на „Не ме безпокойте“ по време на определени събития</string>
     <string name="zen_mode_event_rule_calendar">По време на събития за</string>
     <string name="zen_mode_event_rule_summary_calendar_template">По време на събития за %1$s</string>
     <string name="zen_mode_event_rule_summary_any_calendar">всички календари</string>
@@ -3219,11 +3219,11 @@
     <string name="running_frequency">Честота</string>
     <string name="memory_maximum_usage">Максимално използвана</string>
     <string name="no_data_usage">Не са използвани данни</string>
-    <string name="zen_access_warning_dialog_title">Да се разреши ли достъпът до „Не безпокойте“ за %1$s?</string>
-    <string name="zen_access_warning_dialog_summary">Това приложение ще може да включва/изключва „Не безпокойте“ и да извършва промени в свързаните настройки.</string>
+    <string name="zen_access_warning_dialog_title">Да се разреши ли достъпът до „Не ме безпокойте“ за %1$s?</string>
+    <string name="zen_access_warning_dialog_summary">Това приложение ще може да включва/изключва „Не ме безпокойте“ и да извършва промени в свързаните настройки.</string>
     <string name="zen_access_disabled_package_warning">Трябва да остане включено, защото достъпът до известията е включен</string>
-    <string name="zen_access_revoke_warning_dialog_title">Да се отмени ли достъпът до режима „Не безпокойте“ за %1$s?</string>
-    <string name="zen_access_revoke_warning_dialog_summary">Всички правила за режима „Не безпокойте“, създадени от това приложение, ще бъдат премахнати.</string>
+    <string name="zen_access_revoke_warning_dialog_title">Да се отмени ли достъпът до режима „Не ме безпокойте“ за %1$s?</string>
+    <string name="zen_access_revoke_warning_dialog_summary">Всички правила за режима „Не ме безпокойте“, създадени от това приложение, ще бъдат премахнати.</string>
     <string name="ignore_optimizations_on">Без оптимизиране</string>
     <string name="ignore_optimizations_off">Оптимизиране</string>
     <string name="ignore_optimizations_on_desc">Батерията може да се изразходва по-бързо</string>
@@ -3310,8 +3310,8 @@
     <string name="condition_hotspot_summary">Преносимата точка за достъп през Wi-Fi „%1$s“ е активна. Функцията за Wi-Fi на това устройство е изключена.</string>
     <string name="condition_airplane_title">Самолетният режим е включен</string>
     <string name="condition_airplane_summary">Wi-Fi, Bluetooth и клетъчната мрежа са изключени. Не можете да извършвате телефонни обаждания, нито да се свържете с интернет.</string>
-    <string name="condition_zen_title">Включихте „Не безпокойте“ (%1$s)</string>
-    <string name="condition_battery_title">Запазването на бат. е включено</string>
+    <string name="condition_zen_title">Включихте „Не ме безпокойте“ (%1$s)</string>
+    <string name="condition_battery_title">Пестенето на батерия е включено</string>
     <string name="condition_battery_summary">Ефективността е понижена. Услугите за местоположение и данните на заден план са изключени.</string>
     <string name="condition_cellular_title">Мобилните данни са изключени</string>
     <string name="condition_cellular_summary">Достъпът до интернет е възможен само през Wi-Fi</string>
@@ -6299,8 +6299,8 @@ OTG се изключва автоматично след 10 минути без
 	<string name="auto_brightness_disclaimer">Оптимизирайте нивото на яркост според наличната светлина. Когато тази функция е включена, все още можете временно да регулирате яркостта.</string>
 	<string name="usage_state_app_timer">Екранно време</string>
     <string name="usage_state_app_usage_detail_title">Подробности за използване в приложението</string>
-    <string name="usage_state_app_usage_list_title">"Включен екран в приложенията днес"</string>
-    <string name="usage_state_app_usage_list_week_title">"Включен екран в приложенията (последните 7 дни)"</string>
+    <string name="usage_state_app_usage_list_title">"Екранно време в приложенията днес"</string>
+    <string name="usage_state_app_usage_list_week_title">"Екранно време в приложенията (последните 7 дни)"</string>
     <string name="usage_state_app_usage_tip_title" formatted="false">Време на ползване между %d:00 и %d:00</string>
     <string name="usage_state_app_use_time">Екранно време в приложенията</string>
     <string name="usage_state_channel_mouth">Последните 30 дни</string>
@@ -6359,5 +6359,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="usagestats_device_timeout_title">Предупреждение за ползване</string>
     <string name="wifi_protection_on">Включено</string>
     <string name="wifi_protection_settings_title">WIFI защита</string>
-    <string name="wifi_protection_tip">MIUI автоматично включва функцията за защита на WIFI. Когато мобилният телефон сканира WLAN, той ще зададе произволен MAC адрес, за да попречи на WIFI кутията да открадне поверителността на потребителя и да защити мобилния телефон.</string>
+    <string name="wifi_protection_tip">MIUI автоматично включва функцията за защита на WIFI. Когато мобилният телефон сканира WLAN, той ще зададе произволен MAC адрес, за да попречи на WIFI кутията за пробиви да открадне поверителността на потребителя и да защити мобилния телефон.</string>
 </resources>
