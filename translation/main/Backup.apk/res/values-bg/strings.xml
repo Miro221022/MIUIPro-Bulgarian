@@ -368,10 +368,10 @@
 Освободете място или прехвърлете само важни елементи."</string>
     <string name="trans_calculating_app_sd_size">Изчислен размер: %s</string>
     <string name="trans_please_waiting">Един момент…</string>
-    <string name="size_byte">б</string>
-    <string name="size_kilo_byte">Кб</string>
-    <string name="size_mega_byte">Мб</string>
-    <string name="size_giga_byte">Гб</string>
+    <string name="size_byte">Б</string>
+    <string name="size_kilo_byte">КБ</string>
+    <string name="size_mega_byte">МБ</string>
+    <string name="size_giga_byte">ГБ</string>
     <string name="trans_connect_failed_title">Неуспешно свързване</string>
     <string name="trans_connect_failed_message">Неуспешно свързване, опитайте отново или рестартирайте устройството. На другото устройство отидете в Настройки > Допълнителни настройки > Експорт към ново устройство и чукнете [Аз съм изпращач], или стартирайте Mi Mover отново след рестарта.</string>
     <string name="trans_retry">Опитайте отново</string>

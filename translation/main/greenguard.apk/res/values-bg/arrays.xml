@@ -7,10 +7,10 @@
     </string-array>
     <string-array name="freerun_byteUnits">
         <item>Б</item>
-        <item>Кб</item>
-        <item>Мб</item>
-        <item>Гб</item>
-        <item>Тб</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
+        <item>ТБ</item>
     </string-array>
     <string-array name="freerun_counterTypes">
         <item>Ежемесечно</item>

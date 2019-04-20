@@ -687,6 +687,6 @@
   <string name="provision_sync_items_loading">Подготовка за синхронизиране на елементи</string>
   <string name="user_detail_agreement">Потребителско споразумение</string>
   <string name="user_detail_privacy_policy">Политика за поверителност</string>
-  <string name="micloud_storage_unit_mb">%sМб</string>
-  <string name="micloud_storage_unit_gb">%sГб</string>
+  <string name="micloud_storage_unit_mb">%sМБ</string>
+  <string name="micloud_storage_unit_gb">%sГБ</string>
 </resources>
