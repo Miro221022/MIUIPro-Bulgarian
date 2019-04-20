@@ -11,7 +11,7 @@
   <string name="alert_message_delete_note">Искате ли да изтриете тази бележка?</string>
   <string name="alert_message_edit_anyway">Тази бележка съдържа неподдържани данни. Тяхната редакция може да доведе до загуба на данни.</string>
   <string name="alert_message_restore">Не може да се отвори бележката. Възстановете я, за да редактирате съдържание.</string>
-  <string name="alert_title_delete">Изтрий бележка</string>
+  <string name="alert_title_delete">Изтриване на бележката</string>
   <string name="alert_title_edit_anyway">Сигурни ли сте че искате да редактирате, дори при риск от загуба на данни?</string>
   <string name="alert_title_hidden_note">Напомняне за Получаване на скрита бележка</string>
   <string name="alert_title_restore">Възстановяване на бележка</string>
@@ -29,9 +29,9 @@
   <string name="default_folder_name">Бележки</string>
   <string name="delete_folder_dialog_tile">Изтрий папката</string>
   <string name="dialog_privacy_revoke_tips">След като анулирате разрешението, приложението ще спре събирането на данни и всички свързани с него данни ще бъдат изтрити от сървърите. Това може да направи приложението практически неизползваемо. Анулиране на разрешението въпреки това?За да подсигурите сигурноста на профилите Ви, впишете се в i.mi.com преди анулирането на разрешението за Mi Облак услугите.</string>
-  <string name="dialog_share_as_pic">Сподели бележката като картина</string>
-  <string name="dialog_share_as_text">Сподели бележката като текст</string>
-  <string name="dialog_share_title">Сподели бележка</string>
+  <string name="dialog_share_as_pic">Споделяне на бележката като изображение</string>
+  <string name="dialog_share_as_text">Споделяне на бележката като текст</string>
+  <string name="dialog_share_title">Споделяне на бележка</string>
   <string name="dlg_btn_set_password">Задайте парола</string>
   <string name="dlg_check_reminder">Не показвай отново</string>
   <string name="dlg_delete_message">Изтрива се…</string>
@@ -83,7 +83,7 @@
   <string name="menu_folders">Папки</string>
   <string name="menu_hide">Скриване</string>
   <string name="menu_move_parent_folder">Основна папка</string>
-  <string name="menu_move_to">Премести в</string>
+  <string name="menu_move_to">Преместване</string>
   <string name="menu_new_folder">Нова папка</string>
   <string name="menu_restore">Възстановяване</string>
   <string name="menu_send_as_image">Изпрати като снимка</string>
@@ -92,7 +92,7 @@
   <string name="menu_send_weibo">Изпрати с Weibo</string>
   <string name="menu_source">От: %1$s</string>
   <string name="menu_stick">Закачи</string>
-  <string name="menu_title_select_folder">Избери папка</string>
+  <string name="menu_title_select_folder">Избор на папка</string>
   <string name="menu_unhide">Покажи</string>
   <string name="menu_unstick">Откачи</string>
   <string name="not_now">Не сега</string>
@@ -160,9 +160,9 @@
   <string name="theme_green_description">Зелено</string>
   <string name="theme_red_description">Червено</string>
   <string name="theme_title_antique">Есенна</string>
-  <string name="theme_title_arty">Флорална</string>
+  <string name="theme_title_arty">Цветя</string>
   <string name="theme_title_blue">Синя</string>
-  <string name="theme_title_candy">Бонбонена</string>
+  <string name="theme_title_candy">Бонбон</string>
   <string name="theme_title_dark">Тъмна</string>
   <string name="theme_title_default">Стандартно</string>
   <string name="theme_title_green">Зелена</string>
@@ -228,7 +228,7 @@
   <string name="menu_more_description">Още</string>
   <string name="toast_refuse_to_record_when_in_multi_window">"Тази функция не може да се използва в режим разделен екран"</string>
   <string name="date_time_picker_alarm_reminder">Аларма</string>
-  <string name="date_time_picker_dialog_title">Настройване на дата и час</string>
+  <string name="date_time_picker_dialog_title">Задаване на дата и час</string>
   <string name="date_time_picker_has_not_set_alarm">"Алармата не е настроена"</string>
   <string name="date_time_picker_has_set_alarm">Алармата е настроена успешно</string>
   <string name="setting_other">ДРУГИ</string>
