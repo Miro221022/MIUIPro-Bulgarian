@@ -19,6 +19,7 @@
     <string name="bt_enable_ok">Включване</string>
     <string name="incoming_file_confirm_title">Прехвърляне на файл</string>
     <string name="incoming_file_confirm_content">Приемане на входящият файл?</string>
+	<string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="incoming_file_confirm_cancel">Отхвърляне</string>
     <string name="incoming_file_confirm_ok">Приемане</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
@@ -111,7 +112,6 @@
     <string name="bluetooth_connected">Установена е аудиовръзка през Bluetooth</string>
     <string name="bluetooth_disconnected">Аудиовръзката през Bluetooth е прекратена</string>
     <string name="incoming_file_confirm_Notification_caption">Искате ли да получите този файл?</string>
-    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="bluetooth_sap_notif_title">Достъп до SIM карти през Bluetooth</string>
     <string name="bluetooth_sap_notif_ticker">Достъп до SIM карти през Bluetooth</string>
     <string name="bluetooth_sap_notif_message">Искате ли да заявите клиентската програма да прекрати връзката?</string>

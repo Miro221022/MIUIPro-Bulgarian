@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="noti_caption_unsuccessful">
-        <item quantity="other">Неуспешно: %1$d.</item>
-        <item quantity="one">Неуспешно: %1$d.</item>
-    </plurals>
     <plurals name="noti_caption_success">
-        <item quantity="other">Успешно: %1$d – %2$s</item>
-        <item quantity="one">Успешно: %1$d – %2$s</item>
+        <item quantity="other">%1$d успешно, %2$s</item>
+        <item quantity="one">%1$d успешно, %2$s</item>
+    </plurals>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">%1$d неуспешно.</item>
+        <item quantity="one">%1$d неуспешно.</item>
     </plurals>
 </resources>

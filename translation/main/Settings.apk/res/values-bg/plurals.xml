@@ -4,6 +4,10 @@
         <item quantity="other">%d приложения не могат да показват известия</item>
         <item quantity="one">%d приложение не може да показва известия</item>
     </plurals>
+	    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Ограничаване на %1$d приложения?</item>
+        <item quantity="one">Ограничаване на приложението?</item>
+    </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d приложения могат да показват известия</item>
         <item quantity="one">%d приложение може да показва известия</item>

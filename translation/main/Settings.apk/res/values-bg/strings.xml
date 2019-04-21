@@ -3170,7 +3170,7 @@
     <string name="high_power_desc">Батерията не се оптимизира и може да се изразходва по-бързо.</string>
     <string name="high_power_prompt_title">Да се пренебрегнат ли оптимизациите на батерията?</string>
     <string name="high_power_prompt_body">Искате ли да разрешите на приложението %1$s да остане свързано на заден план? Разходът на батерията може да е по-голям.</string>
-    <string name="battery_summary">Изразходване на %1$d%% от последното пълно зареждане</string>
+    <string name="battery_summary">%1$s използване от последното пълно зареждане</string>
     <string name="no_battery_summary">Батерията не е изразходвана от последното пълно зареждане</string>
     <string name="app_notification_preferences">Настройки за приложения</string>
     <string name="system_ui_settings">Показване на тунера на системния ПИ</string>
@@ -3700,7 +3700,7 @@
     <string name="search_gps">GPS;Достъп до местоположение;Услуга за местоположение</string>
     <string name="search_power_usage_summary_title">Батерия и производителност;Батерия и производителност;Батерия;производителност;Съхранение на батерията;Съхрани батерията</string>
     <string name="search_battery_indicator">Индикатор за батерия</string>
-    <string name="search_power_hide_mode_title">Управление на използването на батерията;Приложение за използване на батерията;Използване на батерията;Състояние на батерията</string>
+    <string name="search_power_hide_mode_title">Управление на използването на батерията от приложенията;Приложение за използване на батерията;Използване на батерията;Статистика на батерията</string>
     <string name="search_fluency_mode">Системни анимации</string>
     <string name="search_power_mode">Енергиен режим</string>
     <string name="search_storage_settings">Хранилище;Памет</string>
@@ -6254,7 +6254,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="notification_fold_description1">Папката за известия бе въведена в MIUI 9. Тази функция филтрира маловажни известия и ги поставя в отделна папка.</string>
     <string name="notification_fold_description2">MIUI ще запомни кои известия сте докоснали и след това ще използва няколко критерия, за да определи дали те са важни.</string>
     <string name="notification_fold_description3">"Ако известията, които смятате за важни, продължават да се показват в папката за известия, уверено ни съобщете за тези проблеми. Бихме оценили вашите отзиви."</string>
-    <string name="notification_fold_summary">Всички маловашни известия ще се появят в отделна папка</string>
+    <string name="notification_fold_summary">Всички маловажни известия ще се появят в отделна папка</string>
     <string name="notification_fold_title">Папка за известия</string>
     <string name="notification_shade_shortcut_title">Функция на прекия път в панела за известия</string>
     <string name="off">Изключена</string>
@@ -6360,4 +6360,21 @@ OTG се изключва автоматично след 10 минути без
     <string name="wifi_protection_on">Включено</string>
     <string name="wifi_protection_settings_title">WIFI защита</string>
     <string name="wifi_protection_tip">MIUI автоматично включва функцията за защита на WIFI. Когато мобилният телефон сканира WLAN, той ще зададе произволен MAC адрес, за да попречи на WIFI кутията за пробиви да открадне поверителността на потребителя и да защити мобилния телефон.</string>
+	<string name="battery_details_title">Използване на батерията</string>
+	<string name="battery_footer_summary">Данните за използването на батерията са приблизителни и могат да се променят въз основа на използването</string>
+	<string name="advanced_battery_title">Използване на батерията</string>
+	<string name="battery_detail_power_usage">Използване на батерията</string>
+	<string name="battery_percentage">Процент на батерията</string>
+	<string name="battery_percentage_description">Показване на процента на батерията в лентата за състоянието</string>
+	<string name="set_battery_size_title">Процент на батерията</string>
+	<string name="battery_last_full_charge">Последно пълно зареждане</string>
+	<string name="device_screen_usage">Използване на екрана след пълно зареждане</string>
+	<string name="battery_used_for">Използвано ^1</string>
+	<string name="show_all_apps">Показване на пълното използване на устройството</string>
+	<string name="installed">Инсталирано</string>
+	<string name="battery_detail_background">Във фонов режим</string>
+    <string name="battery_detail_foreground">При активно използване</string>
+    <string name="battery_detail_info_title">От пълно зареждане</string>
+    <string name="battery_detail_manage_title">Управление на използването на батерията</string>
+	<string name="background_activity_title">Ограничаване на заден план</string>
 </resources>
