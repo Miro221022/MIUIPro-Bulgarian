@@ -115,7 +115,7 @@
   <string name="select_custom_app_title">Списък на наличните действия</string>
   <string name="set_peeking_duration_title">Показване на икони</string>
   <string name="show_search_title">Скриване на лентата за търсене</string>
-  <string name="sim_select_title">Настройване на образец за:</string>
+  <string name="sim_select_title">Задаване на образец за:</string>
   <string name="smart_mobile_data_transfer">Деактивиране на мобилни данни при повикване</string>
   <string name="smart_mobile_network_settings_title">Състояние прехвърлени данни и мрежови режим</string>
   <string name="smart_mobile_network_title">Интелигентна мобилна мрежа</string>
@@ -124,7 +124,7 @@
   <string name="smart_mobiledata_on">Мобилните данни са активирани</string>
   <string name="smart_timer">Таймер за мрежови трансвер в 2G</string>
   <string name="smart_timer_sleepon">Стартиране на таймера когато мрежата премине в 2G</string>
-  <string name="smart_wifi_data_transfer">Изключи Wi-Fi при повикване</string>
+  <string name="smart_wifi_data_transfer">Изключване на Wi-Fi при повикване</string>
   <string name="smartpower">Извън линия</string>
   <string name="smartpower_off">Таймерът е активен само когато телефонът се захранва от батерия или се зарежда</string>
   <string name="smartpower_on">Таймерът е активен само когато телефонът се захранва от батерия</string>
