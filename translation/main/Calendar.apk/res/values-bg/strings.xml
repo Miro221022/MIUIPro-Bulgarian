@@ -68,7 +68,7 @@
     <string name="month_view">Месец</string>
     <string name="monthly">Ежемесечно</string>
     <string name="monthly_on_day">Ежемесечно (в същия ден всеки месец)</string>
-    <string name="monthly_on_day_count">Ежемесечно (%1$s %2$s всеки месец)</string>
+    <string name="monthly_on_day_count">Ежемесечно (в %1$s от месеца)</string>
     <string name="more_string">+ %1$s</string>
     <string name="new_event_dialog_label">Ново събитие</string>
     <string name="new_event_dialog_option">Ново събитие</string>
@@ -541,4 +541,6 @@
   <string name="default_reminder_later_time">Интервал по подразбиране за \"Напомни по-късно\"</string>
   <string name="next_alarm_time">Следващо напомняне в %1$s</string>
   <string name="reminder_later">Напомни по-късно</string>
+  <string name="free_day_default_banner_title">Приятна почивка!</string>
+  <string name="work_day_default_banner_title">Успешен ден в работата!</string>
 </resources>

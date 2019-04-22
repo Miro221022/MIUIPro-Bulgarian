@@ -327,4 +327,41 @@
         <item>15 минути</item>
         <item>30 минути</item>
     </string-array>
+	    <string-array name="repeat_monthly_on_day_count_values">
+        <item>първия понеделник</item>
+        <item>първия вторник</item>
+        <item>първата сряда</item>
+        <item>първия четвъртък</item>
+        <item>първия петък</item>
+        <item>първата събота</item>
+        <item>първата неделя</item>
+        <item>втори понеделник</item>
+        <item>втория вторник</item>
+        <item>втората сряда</item>
+        <item>втория четвътък</item>
+        <item>втория петък</item>
+        <item>втората събота</item>
+        <item>втората неделя</item>
+        <item>третия понеделник</item>
+        <item>третия вторник</item>
+        <item>третата сряда</item>
+        <item>третия четвъртък</item>
+        <item>тертия петък</item>
+        <item>третата събота</item>
+        <item>третата неделя</item>
+        <item>четвъртия понеделник</item>
+        <item>четвъртия вторник</item>
+        <item>четвъртата сряда</item>
+        <item>четвъртия четвъртък</item>
+        <item>четвъртия петък</item>
+        <item>четвъртата събота</item>
+        <item>четвъртата неделя</item>
+        <item>миналия понеделник</item>
+        <item>послдения вторник</item>
+        <item>последната сряда</item>
+        <item>последния четвъртък</item>
+        <item>последния петък</item>
+        <item>последната събота</item>
+        <item>последната неделя</item>
+    </string-array>
 </resources>

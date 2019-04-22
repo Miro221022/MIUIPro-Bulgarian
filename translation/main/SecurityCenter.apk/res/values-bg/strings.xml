@@ -2615,4 +2615,8 @@
     <string name="securityadd_update_tips_message">Актуализирайте приставката за услуги на Сигурност, за да получите достъп до най-новите функции за игри. %1$dМБ ще бъдат необходими.</string>
     <string name="securityadd_update_tips_now">Актуализирай</string>
     <string name="securityadd_update_tips_title">Актуализирай</string>
+	<string name="power_save_ps_clean">Изчистване на кеша, когато устройството е заключено</string>
+    <string name="power_save_ps_close_setting">Изключване на фоновите услуги (синхронизация, GPS), за да се пести батерия</string>
+    <string name="power_save_ps_freeze">Замразяване на приложения на заден план</string>
+    <string name="power_save_ps_limit">Ограночаване дейността на системните приложения</string>
 </resources>

@@ -1571,7 +1571,7 @@
 "<li>Мобилни данни</li>"
 "<li>Bluetooth</li>" "</string>
     <string name="reset_network_button_text">Нулиране на настройките</string>
-    <string name="reset_network_final_desc">Да се нулират ли всички мрежови настройки? Не можете да отмените това действие!</string>
+    <string name="reset_network_final_desc">"Нулиране на всички мрежови настройки сега? Това може да отнеме няколко секунди. Няма да можете да отмените това действие."</string>
     <string name="reset_network_final_button_text">Нулиране на настройките</string>
     <string name="reset_network_confirm_title">Нулиране?</string>
     <string name="network_reset_not_available">Този потребител не може да нулира мрежовите настройки</string>
@@ -6358,8 +6358,8 @@ OTG се изключва автоматично след 10 минути без
     <string name="usagestats_device_timeout_positive">Разбрах</string>
     <string name="usagestats_device_timeout_title">Предупреждение за ползване</string>
     <string name="wifi_protection_on">Включено</string>
-    <string name="wifi_protection_settings_title">WIFI защита</string>
-    <string name="wifi_protection_tip">MIUI автоматично включва функцията за защита на WIFI. Когато мобилният телефон сканира WLAN, той ще зададе произволен MAC адрес, за да попречи на WIFI кутията за пробиви да открадне поверителността на потребителя и да защити мобилния телефон.</string>
+    <string name="wifi_protection_settings_title">Защита от заявки за WLAN пробиви</string>
+    <string name="wifi_protection_tip">MIUI ще защити личните ви данни от заявките за WLAN пробиви, идващи от случайни MAC адреси и WLAN устройства за проникване, когато устройството ви търси WLAN мрежи.</string>
 	<string name="battery_details_title">Използване на батерията</string>
 	<string name="battery_footer_summary">Данните за използването на батерията са приблизителни и могат да се променят въз основа на използването</string>
 	<string name="advanced_battery_title">Използване на батерията</string>
