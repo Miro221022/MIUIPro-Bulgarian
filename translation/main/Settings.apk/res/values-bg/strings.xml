@@ -6377,4 +6377,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="battery_detail_info_title">От пълно зареждане</string>
     <string name="battery_detail_manage_title">Управление на използването на батерията</string>
 	<string name="background_activity_title">Ограничаване на заден план</string>
+	<string name="dc_light_title">Режим против трептене</string>
+    <string name="dc_light_summary">Прилагане на затъмняване, за да се намали напрежението в очите</string>
+    <string name="dc_light_dialog_summary">Качеството на изображението може да бъде повлияно, когато е включен режимът против трептене. Включване въпреки това?</string>
 </resources>

@@ -454,4 +454,8 @@
   <string name="dialog_verify">Потвърдете отпечатъка си</string>
   <string name="dialog_verify_fingerprint_retry">"Не може да се потвърди отпечатъка. Опитайте отново."</string>
   <string name="master_clear_not_available">Нулирането до фабрични настройки е ограничено от вашата компания.</string>
+  <string name="dual_animation">Анимация при стартиране</string> 
+  <string name="dual_animation_description">Показване на анимация, когато се стартират клонирани приложения</string>
+  <string name="dual_app_title">Клонирани приложения</string>
+  <string name="dual_app_words">Всеки профил заслужава собствено приложение</string>
 </resources>
