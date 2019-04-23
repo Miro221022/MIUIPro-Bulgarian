@@ -456,6 +456,4 @@
   <string name="master_clear_not_available">Нулирането до фабрични настройки е ограничено от вашата компания.</string>
   <string name="dual_animation">Анимация при стартиране</string> 
   <string name="dual_animation_description">Показване на анимация, когато се стартират клонирани приложения</string>
-  <string name="dual_app_title">Клонирани приложения</string>
-  <string name="dual_app_words">Всеки профил заслужава собствено приложение</string>
 </resources>
