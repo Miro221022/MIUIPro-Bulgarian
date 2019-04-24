@@ -3,4 +3,6 @@
    <string name="nonui_mode_config_description">Всеки път, когато MIUI установи, че не използвате устройството си, MIUI ще изключи светодиодният индикатор, сензора за пръстови отпечатъци и сензорните елементи за управление, и няма да включва екрана при известия.</string>
    <string name="nonui_mode_config_title">Неинтерактивен режим</string>
    <string name="search_result_text">Няма намерени програми</string>
+   <string name="set_gsmcore_title">Деактивиране на услугите за Google Play</string>
+   <string name="set_gsmcore_summary">Деактивиране на услугите за Google Play в режим на екстремно пестене на батерия</string>
 </resources>
