@@ -1082,7 +1082,7 @@
     <string name="text_edit_dialog_style_bold">Удебелен</string>
     <string name="text_edit_dialog_style_color">"Цвят  "</string>
     <string name="text_edit_dialog_style_shadow">Сянка</string>
-    <string name="text_edit_dialog_style_transparent">Непрозрачност</string>
+    <string name="text_edit_dialog_style_transparent">Прозрачност</string>
     <string name="text_edit_sub_menu_text">Балон</string>
     <string name="things_album_empty_title">Снимките могат да бъдат сортирани по обекти в тях</string>
     <string name="thumbnail_name">миниатюри</string>
