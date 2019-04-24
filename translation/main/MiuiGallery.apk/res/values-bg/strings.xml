@@ -125,7 +125,7 @@
     <string name="baby_nick_name">Псевдоним</string>
     <string name="baby_sexy">Пол</string>
     <string name="baby_suffix">бебе</string>
-    <string name="backup_automatically_summary">Архивиране на снимки и видео от всички устройства в Mi Облак. Така можете удобно да преглеждате, сортирате, редактирате и споделяте снимки и видео на всички ваши устройства.</string>
+    <string name="backup_automatically_summary">Архивиране на снимки и видеоклипове от всички устройства в Mi Облак. Така можете удобно да преглеждате, сортирате, редактирате и споделяте снимки и видео на всички ваши устройства.</string>
     <string name="backup_automatically_title">Автоматично архивиране</string>
     <string name="backup_battery_low_desc">Може да продължите архивирането въпреки това</string>
     <string name="backup_battery_low_title">Архивирането е на пауза, поради изтощена батерия</string>
@@ -228,7 +228,7 @@
     <string name="cloud_guide_login_title">Архивирайте снимки и видео автоматично.</string>
     <string name="cloud_guide_welcome_title">Mi Облак</string>
     <string name="cloud_screenshots_display_name">Екранни снимки</string>
-    <string name="cloud_settings">Резервно копие на Галерия</string>
+    <string name="cloud_settings">Резервни копия на Галерия</string>
     <string name="cloud_storage_extend">Разширяване на облачното пространство</string>
     <string name="cloud_storage_ok_append_desc">Достъпни: %s</string>
     <string name="cloud_storage_ok_desc">Мястото в облака е %s</string>
@@ -1007,12 +1007,12 @@
     <string name="share_public_url_text">Споделих албумът %1$s с вас. Разгледайте го на %2$s</string>
     <string name="share_with_family">Сподели със семейството</string>
     <string name="sharer_quota_fulfiled">Вече споделихте този албум с максималния брой потребители.</string>
-    <string name="show_hidden_album_title">Покажи невидимите албуми</string>
+    <string name="show_hidden_album_title">Показване на невидимите албуми</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Преместено успешно, отидете в Други албуми, за преглед</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Преместено успешно, отидете в Албуми, за за преглед</string>
     <string name="slideshow_interval_dialog_title">Интервалът от време трябва да бъде по-голям от 0 секунди</string>
     <string name="slideshow_interval_invalid">Интервалът трябва да бъде между 1 и 3600 секунди</string>
-    <string name="slideshow_interval_title">Показвай всяка снимка за</string>
+    <string name="slideshow_interval_title">Показване на всяка снимка за</string>
     <string name="slideshow_interval_value">%1$d секунди</string>
     <string name="slim_complete">Готово</string>
     <string name="slim_complete_action_title">Оптимизирането е успешно</string>
@@ -1480,7 +1480,7 @@
   <string name="image_selection_summary">MIUI ще анализира подобните снимки и ще маркира най-добрите снимки за вас. Изключете тази функция, за да премахнете маркировките от снимките.</string>
   <string name="image_selection_title">Избор на най-добрата снимка</string>
   <string name="operation_set_video_wallpaper">Задаване на видео тапет</string>
-  <string name="recommend_category_title">"Снимки от галерията"</string>
+  <string name="recommend_category_title">"Снимки в галерията"</string>
   <string name="set_as_video_wallpaper_description">Изтегляне на този елемент и задаване като видеотапет?</string>
   <string name="set_as_video_wallpaper_title">Задаване на видео тапет</string>
   <string name="set_video_wallpaper_failed">"Този елемент не може да се използва като видеотапет "</string>
