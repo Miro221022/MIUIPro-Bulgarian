@@ -346,7 +346,7 @@
   <string name="passport_set">Задай</string>
   <string name="passport_set_password_no_phone_msg">Добавете вашия телефонен номер за да защитите профила си.</string>
   <string name="passport_setting">Настройва се…</string>
-  <string name="passport_skip_login">Пропусни</string>
+  <string name="passport_skip_login">Пропускане</string>
   <string name="passport_skip_register">Пропусни вписването</string>
   <string name="passport_skip_setup_account_msg">Може да настроите вашият Mi профил по-късно от Настройки.</string>
   <string name="passport_skip_setup_account_title">"Да не се използва Mi Облак?"</string>
