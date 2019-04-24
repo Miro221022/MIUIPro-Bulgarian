@@ -1974,7 +1974,7 @@
     <string name="app_manager_notify_keyguard">Заключен екран</string>
     <string name="app_manager_factory_reset">Деинсталиране на актуализациите</string>
     <string name="app_manager_factory_reset_dlg_title">Деинсталиране на актуализациите?</string>
-    <string name="app_manager_factory_reset_dlg_msg">Всички актуализации на системните приложения ще бъдат деинсталирани.</string>
+    <string name="app_manager_factory_reset_dlg_msg">Всички актуализации на това системно приложение ще бъдат деинсталирани.</string>
     <string name="app_manager_system_mobile_disable">Изключи мобилни данни</string>
     <string name="app_managere_not_have_app">Празно</string>
     <string name="app_manager_pref_ads">Препоръки</string>

@@ -4964,7 +4964,7 @@
     <string name="size_peta_byte">ПБ</string>
     <string name="radio_info_asdiv_switch_label">ASDiv Статус:</string>
     <string name="app_factory_reset_dlg_title">Деинсталиране на актуализациите?</string>
-    <string name="app_factory_reset_dlg_text">Всички актуализации на системните приложения ще бъдат деинсталирани.</string>
+    <string name="app_factory_reset_dlg_text">Всички актуализации на това системно приложение ще бъдат деинсталирани.</string>
     <string name="privacy_password">Парола за сигурност</string>
     <string name="msim_sim_radio_off">Изключено</string>
     <string name="forbidden_switch_apn_string">Избраните APN настройки не съответстват на текущия тип мрежа</string>
