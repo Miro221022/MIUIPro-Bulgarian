@@ -281,7 +281,7 @@
 	<string name="global_user_notice_yp_detail_summary_format">Част от информацията ви за идентификация на обаждащия се е остаряла. Искате ли да я обновите? Използвайки тази услуга, вие се съгласявате с нашите %1$s и %2$s.</string>
     <string name="view_orders">Преглед на поръчките</string>
     <string name="voicemail">Гласова поща</string>
-    <string name="web_permission_message">%1$s изисква %2$s за да работи нормално.</string>
+    <string name="web_permission_message">%1$s трябва да види вашите %2$s да работи по предназначение.</string>
     <string name="yellow_page_details">Корпоративни данни</string>
     <string name="yellow_page_website">Официална страница</string>
     <string name="yellowpage_navigation_network_location_enable">Позволи</string>
