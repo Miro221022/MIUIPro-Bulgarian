@@ -5,13 +5,13 @@
   <string name="accessibility_video">Видеозапис</string>
   <string name="active_xiaomi_account">Активен</string>
   <string name="active_xiaomi_account_title">Активиране на Mi профил</string>
-  <string name="alpha_cancel">Отпишете се от програмата за Бета тестери</string>
+  <string name="alpha_cancel">Отпишете се от програмата за бета тестване</string>
   <string name="alpha_cancel_cancel">Отмяна</string>
   <string name="alpha_cancel_ok">ОК</string>
   <string name="alpha_no_network">Свържете се към интернет за присъединяване</string>
-  <string name="app_name">Актуализация</string>
+  <string name="app_name">Актуализатор</string>
   <string name="apply_title">Актуализиране (%s)</string>
-  <string name="auto_agree_clause">"Нашата обновена Политика на поверителност е вече в сила. "</string>
+  <string name="auto_agree_clause">Политиката за поверителност е актуализирана</string>
   <string name="auto_button_examine">Преглед</string>
   <string name="auto_button_examine_immediately">Преглед</string>
   <string name="auto_button_sure_cancel">Отказ</string>
