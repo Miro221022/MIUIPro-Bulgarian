@@ -23,7 +23,7 @@
     <string name="ok_button">OК</string>
     <string name="cancel_button">Отказ</string>
     <string name="privacy_declare_dialog_title">Обезпечаване</string>
-    <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
+    <string name="privacy_prompt_traffic_purchase_message">"Вашият телефонен номер и данните на оператора ще бъдат криптирани и качени на сървърите на Mi, за да получите повече информация за опциите за закупуване на данни."</string>
     <string name="miuishare_title_more">Още</string>
     <string name="miuishare_title_share">Споделяне</string>
     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
