@@ -37,14 +37,17 @@
   <string name="check_local_package_update_btn">Рестартирай и актуализирай</string>
   <string name="check_local_package_update_btn_ab">Актуализация</string>
   <string name="check_local_package_update_msg">Вашето устройство ще се рестартира автоматично, за да се актуализира до MIUI версия %s.</string>
-  <string name="check_local_package_update_msg_ab">Вашето устройство ще се актуализира до версия %s на MIUI.</string>
+  <string name="check_local_package_update_msg_ab">Вашето устройство ще се актуализира до MIUI версия %s.</string>
   <string name="check_local_package_update_title">Актуализирай</string>
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">"Пакетът за актуализация не може да бъде потвърден."</string>
   <string name="check_local_package_wipe_btn">Изтрий и актуализирай</string>
   <string name="check_local_package_wipe_msg">Ще се върнете към MIUI версия %s. Личните ви данни ще бъдат изтрити. Уверете се, че сте направили резервни копия на всичко, което искате да запазите, преди да стартирате процеса.</string>
   <string name="check_local_package_wipe_title">Изтриване на данните</string>
-  <string name="check_network">Не мога да се свържа с мрежа</string>
+  <string name="check_network">"Не може да се свърже с мрежа"</string>
+  <string name="check_local_package_suggest_wipe_checkbox">Изтриване на данните</string>
+  <string name="check_local_package_nonsupport_exfat_title">"Не може да се инсталира пакет от тази SD карта"</string>
+  <string name="check_local_package_nonsupport_exfat_msg">"Android устройствата не могат да инсталират пакети от exFAT SD карти. Copy the ROM package to internal storage and try again."</string>
   <string name="check_new_version">Проверка</string>
   <string name="clean_up_button">Почистване</string>
   <string name="comment_publish">Изпрати</string>
@@ -65,7 +68,7 @@
   <string name="download_again">Изтегли отново</string>
   <string name="download_cancel">Отказ</string>
   <string name="download_current_rom">Прилагане на актуализации</string>
-  <string name="download_diff">Изтегли само разликите</string>
+  <string name="download_diff">Изтегли разликите</string>
   <string name="download_error">Грешка при изтегляне. Опитайте отново по-късно.</string>
   <string name="download_failed">Не може да се изтегли</string>
   <string name="download_full">Изтегли пълната версия</string>
@@ -154,7 +157,7 @@
   <string name="no_log">Няма налична информация</string>
   <string name="no_wifi_msg">"В момента използвате мобилна мрежа. Изтеглянето на актуализации може да генерира допълнителни такси за данни. Можете да изтеглите актуализациите сега или да изчакате, докато устройството се свърже с WLAN."</string>
   <string name="no_wifi_title">Свържете се към WLAN</string>
-  <string name="not_open">Изключване</string>
+  <string name="not_open">Не</string>
   <string name="notification_auto_reboot_seccess_title">Устройството е актуализирано автоматично</string>
   <string name="notification_delay_update_low_power">Изглежда през нощта батерията се е изтощила</string>
   <string name="notification_delay_update_no_update">Обновленията не са приложени</string>
@@ -185,7 +188,7 @@
   <string name="notification_update_now">Актуализирай сега</string>
   <string name="notification_updating">Актуализира се…</string>
   <string name="on_checking">Проверява се…</string>
-  <string name="open_now">Включване</string>
+  <string name="open_now">Да</string>
   <string name="particular_build">Специална</string>
   <string name="pause">Пауза</string>
   <string name="pm_root_acquired_button">ROOT достъп</string>
@@ -255,7 +258,7 @@
   <string name="sina_share_success">Изпратено</string>
   <string name="sina_token_expired_warning">Акаунтът Ви във Weibo е изтекъл. Добавете го отново.</string>
   <string name="sina_token_invalid_warning">Акаунтът Ви във Weibo е невалиден, добавете го отново.</string>
-  <string name="space_not_enough_msg">Няма достатъчно свободно място в хранилището на вашето устройство за изтегляне на новата версия на MIUI.</string>
+  <string name="space_not_enough_msg">"Паметта на устройството ви е пълна, за изтегляне на тази актуализация. Почистете паметта на устройството си и опитайте отново."</string>
   <string name="space_not_enough_title">Недостатъчно място</string>
   <string name="stable_build">Стабилна</string>
   <string name="submit_fail">Неуспешно изпращане</string>
@@ -332,9 +335,20 @@
   <string name="menu_title_privacy">Относно MiuiPro OTA</string>
   <string name="other_setting">Други</string>
   <string name="create_shortcut_title">Добавяне на пряк път на началния екран</string>
-  <string name="create_shortcut_sum">Показване на икона за \"Актуализация\" на началния екран</string>
+  <string name="create_shortcut_sum">Показване на икона за \"Актуализатор\" на началния екран</string>
   <string name="join_preview_plan_title">Получавайте актуализации по-рано</string>
   <string name="join_preview_plan_sum">Използвайте тази функция, за да получавате актуализации по-рано от други потребители</string>
   <string name="set_connect_error_msg">"Проверете мрежовите настройки и опитайте отново. Ако след това все още не можете да изтегляте актуализации, докладвайте този проблем в приложението \"Отзиви\"."</string>
   <string name="tip_drag_last_toast">"Вижте какво е новото в MIUI 10"</string>
+  <string name="check_local_package_wipe_title">Изтриване на данните</string>
+  <string name="check_local_package_wipe_btn">Изтриване и актуализиране</string>
+  <string name="check_local_package_wipe_msg">"Ще се върнете към MIUI версия %s. Вашите лични данни ще бъдат изтрити. Уверете се, че сте архивирали всичко, което искате да запазите, преди да започнете процеса."</string>
+  <string name="check_local_package_suggest_wipe_title">Изтриване на данните за актуализиране</string>
+  <string name="check_local_package_suggest_wipe_msg">"Избраният пакет за актуализация (%s) е по-стар от текущата версия. Директното използване на този пакет може да доведе до грешки. Най-добре е да изтриете данните, преди да преминете към следващата стъпка."</string>
+  <string name="resource_updater">MIUI актуализация</string>
+  <string name="keywords_updater">"MIUI актуализация;системна актуализация;софтуерна актуализация;РОМ;РОМ актуализация;актуализация;актуализации;проверка на актуализациите; проверка за актуализации;намери актуализации;изтегли актуализации;актуализирай;надстройки;софтуерна надстройка;нова версия;софтурна версия; тестване;какво ново;какво ново;отчет;списък с промени;apk;пакет за актуализация;ROM пакет;автоактуализации;авто-актуализации; автоматични актуализации;MIUI версия;версия;актуализатор"</string>
+  <string name="keywords_auto_setting">Автоматични актуализации;Автоматично изтегляне;Инсталирайте автоматично;автоактуализации;авто-актуализации; авто актуализации</string>
+  <string name="resource_updater_settings">Актуализатор</string>
+  <string name="keywords_updater_settings">"Актуализатор;MIUI актуализация;актуализация на системата;софтуерна актуализация;ROM;ROM актуализация;актуализация;актуализации;провери актуализациите; провери за актуализации;намери актуализации;изтегли актуализации;надстройка;надстройки;софтуерна надстройка;нова версия;софтуерна версия; тестване;какво ново;какво ново;отчет;списък с промени;apk;пакет за актуализация;ROM пакет;автоактуализации;авто-актуализации; автоматични актуализации;MIUI врсия;версия;актуализатор;Updater;изтегли автоматично;инсталирай автоматично; Програма за бета-обратна връзка;ром"</string>
+  <string name="path_updater_settings">Настройки/Моето устройство/MIUI версия</string>
 </resources>
