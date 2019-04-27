@@ -948,8 +948,8 @@
     <string name="search_mark_feedback_false_positive_title">Поправи</string>
     <string name="search_net_error">Грешка в мрежата. Свържете се с друга мрежа и опитайте отново.</string>
     <string name="search_request_applied">Приложено</string>
-    <string name="search_request_open">Станете член на Бета-тийма</string>
-    <string name="search_result_empty">Не може да се открие нищо</string>
+    <string name="search_request_open">Присъединете се към екипа за тестване</string>
+    <string name="search_result_empty">"Не е намерено нищо"</string>
     <string name="search_retry">Опитайте отново</string>
     <string name="search_select_network">Избор на мрежа</string>
     <string name="search_set_network_connection">Настройки на мрежата</string>
