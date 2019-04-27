@@ -134,7 +134,7 @@
     <string name="free_style_edit_tab_widget">Джаджи</string>
     <string name="free_style_enter_tip">Плъзнете надолу с два пръста за да преминете към MiSpace</string>
     <string name="free_style_exit_tip">Плъзнете нагоре с два пръста за изход от MiSpace</string>
-    <string name="free_style_londing_text">Зареждане, изчакайте...</string>
+    <string name="free_style_londing_text">Само секунда…</string>
     <string name="gadget_calculator_label">Калкулатор</string>
     <string name="gadget_calendar_label">Календар</string>
     <string name="gadget_clear_button_label">RAM Мениджър</string>
@@ -359,6 +359,6 @@
 	<string name="dual_app">Клонирани приложения</string>
 	<string name="edit_mode_top_menu_finish">Готово</string>
     <string name="menu_finish">Готово</string>
-    <string name="widgets_preview_title">Добави джаджа</string>
+    <string name="widgets_preview_title">Добавяне на джаджа</string>
 	<string name="launcher_sliding_up_gesture">Стартиране на търсе чрез плъзгане нагоре в начален екран</string>
 </resources>

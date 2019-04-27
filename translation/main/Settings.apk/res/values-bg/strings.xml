@@ -276,13 +276,14 @@
     <string name="accessibility_display_daltonizer_preference_subtitle">Тази функция е експериментална и може да окаже влияние на производителността.</string>
     <string name="daltonizer_type_overridden">Надхвърлено от %1$s</string>
     <string name="power_remaining_duration_only">Приблизително %1$s е изминало</string>
-    <string name="power_remaining_duration_only_short">%1$s е изминало</string>
+    <string name="power_remaining_duration_only_short">%1$s остава</string>
     <string name="power_discharging_duration">%1$s - приблизително. %2$s остават</string>
     <string name="power_discharging_duration_short">%1$s - %2$s остават</string>
     <string name="power_charging_duration">%1$s - %2$s до пълно зареждане</string>
     <string name="power_charging_duration_ac">%1$s - %2$s до пълно зареждане през AC</string>
     <string name="power_charging_duration_usb">%1$s - %2$s до пълно зареждане през USB</string>
     <string name="power_charging_duration_wireless">%1$s - %2$s до пълно безжично зареждане</string>
+	<string name="power_remaining_duration_only_enhanced">Остават около %1$s въз основа на използването ви</string>
     <string name="battery_info_status_unknown">Неизвестно</string>
     <string name="battery_info_status_charging">Зарежда се</string>
     <string name="battery_info_status_charging_ac">Зарежда се на AC</string>
@@ -2232,7 +2233,7 @@
     <string name="menu_stats_refresh">Опресняване</string>
     <string name="process_mediaserver_label">Медиен сървър</string>
     <string name="process_dex2oat_label">Оптимизиране на приложенията</string>
-    <string name="battery_saver">Режим за запазване на батерията</string>
+    <string name="battery_saver">Пестене на батерия</string>
     <string name="battery_saver_turn_on_automatically_title">Автоматично включване</string>
     <string name="battery_saver_turn_on_automatically_never">Никога</string>
     <string name="battery_saver_turn_on_automatically_pct">при %1$s заряд</string>
@@ -6380,4 +6381,5 @@ OTG се изключва автоматично след 10 минути без
 	<string name="dc_light_title">Режим против трептене</string>
     <string name="dc_light_summary">Прилагане на затъмняване, за да се намали напрежението в очите</string>
     <string name="dc_light_dialog_summary">Качеството на изображението може да бъде повлияно, когато е включен режимът против трептене. Включване въпреки това?</string>
+	<string name="power_remaining_charging_duration_only">%1$s остава до пълното зареждане</string>
 </resources>

@@ -104,7 +104,7 @@
   <string name="battery_tip_restrict_apps_more_than_5_dialog_message">За да не изразходвате батерията, спрете използването й на заден план от тези приложения. Ограничените приложения може да не работят правилно и е възможно да има забавяне на известията.\n\nПриложения:\n%1$s.</string>
   <string name="battery_tip_smart_battery_summary">Включете мениджъра на батерията</string>
   <string name="battery_tip_smart_battery_title">Удължете живота на батерията на телефона си</string>
-  <string name="battery_tip_summary_summary">Използването на батерията на заден план е в обичайните норми за телефона</string>
+  <string name="battery_tip_summary_summary">Телефонът е с типично използване на батерията на заден план</string>
   <string name="battery_tip_summary_title">Приложенията работят нормално</string>
   <string name="battery_tip_unrestrict_app_dialog_cancel">Отказ</string>
   <string name="battery_tip_unrestrict_app_dialog_message">Това приложение ще може да използва батерията на заден план. Тя може да се изтощи по-рано от очакваното.</string>
