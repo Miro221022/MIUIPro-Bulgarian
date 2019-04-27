@@ -89,13 +89,13 @@
   <string-array name="weather_type">
     <item>Ясно</item>
     <item>Облачно</item>
-    <item>Облачно</item>
+    <item>Заоблачаване</item>
     <item>Мъгливо</item>
     <item>Силна дъждовна буря</item>
     <item>Порой</item>
     <item>Дъждовна буря</item>
     <item>Гръмотевична буря</item>
-    <item>Преваляване</item>
+    <item>Дъжд</item>
     <item>Силни валежи</item>
     <item>Умерен дъжд</item>
     <item>Слаб дъжд</item>
