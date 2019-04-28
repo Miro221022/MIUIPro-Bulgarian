@@ -7,7 +7,7 @@
         <item>Винаги с изходящите</item> 
     </string-array> 
     <string-array name="call_entries"> 
-        <item>Нищо</item> 
+        <item>Без</item> 
         <item>Отвори телефон</item> 
         <item>Изход към начален екран</item> 
         <item>Изход и заключване на телефона</item> 
