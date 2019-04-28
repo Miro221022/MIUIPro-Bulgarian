@@ -2,7 +2,7 @@
 <resources>
   <string name="ads_install_button_isDownloading">Итегляне</string>
   <string name="anonymous_source_continue">Продължаване</string>
-  <string name="anonymous_source_warning">Вашият телефон и лични данни са по-уязвими за атаки от неизвестни приложения. С инсталирането на това приложение приемате, че сте отговорни за всякакви повреди в телефона Ви или загуба на данни, които могат да се получат от неговата употреба.</string>
+  <string name="anonymous_source_warning">Вашият телефон и лични данни са по-уязвими за атаки от неизвестни приложения. С инсталирането на това приложение приемате, че сте отговорни за всякакви повреди в телефона ви или загуба на данни, които могат да се получат от неговата употреба.</string>
   <string name="disabled">Деактивиран</string>
   <string name="disabled_by_admin">Деактивиран от администратор</string>
   <string name="disabled_by_admin_summary_text">Контролиран от администратор</string>

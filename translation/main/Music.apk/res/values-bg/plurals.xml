@@ -13,8 +13,8 @@
         <item quantity="one">Търсене на обложки и текстове на песни (%1$d/%2$d)</item>
     </plurals>
     <plurals name="Nbackup_songs">
-        <item quantity="other">Архивиране на песни, %1$d песни остават (%2$.1fMB)</item>
-        <item quantity="one">Архивиране на песни, %1$d песен остава (%2$.1fMB)</item>
+        <item quantity="other">Архивиране на песни, %1$d песни остават (%2$.1fМБ)</item>
+        <item quantity="one">Архивиране на песни, %1$d песен остава (%2$.1fМБ)</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">остават %d дни</item>
@@ -65,12 +65,12 @@
         <item quantity="one">%d подобна песен</item>
     </plurals>
     <plurals name="Nunbackup_audios">
-        <item quantity="other">%1$d песни не са архивирани (%2$.1fMB)</item>
-        <item quantity="one">%1$d песен не е архивирана (%2$.1fMB)</item>
+        <item quantity="other">%1$d песни не са архивирани (%2$.1fМБ)</item>
+        <item quantity="one">%1$d песен не е архивирана (%2$.1fМБ)</item>
     </plurals>
     <plurals name="Nupload_song_button">
-        <item quantity="other">Архивиране %1$d песни (%2$.1fMB)</item>
-        <item quantity="one">Архивиране %1$d песен (%2$.1fMB)</item>
+        <item quantity="other">Архивиране %1$d песни (%2$.1fМБ)</item>
+        <item quantity="one">Архивиране %1$d песен (%2$.1fМБ)</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d коментари</item>

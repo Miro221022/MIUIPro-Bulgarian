@@ -424,9 +424,9 @@
   <string name="private_dns_mode_provider">Име на хоста на доставчика на частния DNS</string>
   <string name="private_dns_mode_provider_failure">Не можа да се установи връзка</string>
   <string name="private_dns_mode_provider_hostname_hint">Въведете името на хоста на DNS доставчика</string>
-  <string name="radio_info_dl_kbps">Скорост на връзката за изтегляне (кб/с):</string>
+  <string name="radio_info_dl_kbps">Честотна лента за изтегляне (кб/с):</string>
   <string name="radio_info_phy_chan_config">Конфигурация на физическия канал на LTE:</string>
-  <string name="radio_info_ul_kbps">Скорост на връзката за качване (кб/с):</string>
+  <string name="radio_info_ul_kbps">Честотна лента за качване (кб/с):</string>
   <string name="recent_app_category_title">Наскоро отворени приложения</string>
   <string name="recent_notifications">Наскоро изпратили известия</string>
   <string name="recent_notifications_see_all_title">Преглед на всички от последните 7 дни</string>

@@ -1603,7 +1603,7 @@
     <string name="antivirus_choose_engine_settings">Настройки на вирусните дефиниции</string>
     <string name="antivirus_choose_engine_title">Дефиниции</string>
     <string name="antivirus_choose_engine_dialog_title">Избор на дефиниции</string>
-    <string name="antivirus_choose_engine">Използвай дефинициите от %s</string>
+    <string name="antivirus_choose_engine">%s</string>
     <string name="antivirus_monitor_clean_tips">Изтрити елементи: %s</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_title">Политика на поверителност</string>

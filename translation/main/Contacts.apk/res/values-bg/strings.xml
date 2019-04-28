@@ -558,7 +558,7 @@
   <string name="keep_local_btn">Съхрани само на телефона</string>
   <string name="label_custom_type">Потребителски</string>
   <string name="label_duplicate_count">(%1$d)</string>
-  <string name="label_no_duplicate_contacts">Отлично! Няма дублиращи се контакти за момента!</string>
+  <string name="label_no_duplicate_contacts">Не са намерени дубликати</string>
   <string name="label_notes">Бележка</string>
   <string name="label_sip_address">Интернет телефон (SIP)</string>
   <string name="launcherDialer">Телефон</string>
@@ -840,11 +840,11 @@
   <string name="pref_key_photo">Снимка</string>
   <string name="pref_key_photo_word_summary">Автоматично присвояване на снимка за контакт без снимка</string>
   <string name="pref_key_photo_word_title">Присвояване на снимки за контакти</string>
-  <string name="pref_key_rebuild_t9_index_message">Актуализиране на търсенето на контакти</string>
-  <string name="pref_key_rebuild_t9_index_title">Обновяване на Т9 индекса</string>
-  <string name="pref_key_sim_manage">Управление на SIM карта</string>
-  <string name="pref_key_sim_manage1">Управление на SIM карта 1</string>
-  <string name="pref_key_sim_manage2">Управление на SIM карта 2</string>
+  <string name="pref_key_rebuild_t9_index_message">Реконструиране на индекса</string>
+  <string name="pref_key_rebuild_t9_index_title">Реконструиране на Т9 индекса</string>
+  <string name="pref_key_sim_manage">SIM карти</string>
+  <string name="pref_key_sim_manage1">Настройка на SIM карта 1</string>
+  <string name="pref_key_sim_manage2">Настройка на SIM карта 2</string>
   <string name="pref_summary_import_from_account">Прехвърляне на контактите от профилите в Google и Exchange към Mi профила</string>
   <string name="pref_title_account_import">Импортиране на контакти</string>
   <string name="pref_title_import_from_account">Импортиране в Mi профилa</string>
@@ -852,7 +852,7 @@
   <string name="preference_auto_ip_summary_on">IP на оператора: %s</string>
   <string name="preference_auto_ip_title">Автоматично IP</string>
   <string name="preference_contacts">Контакт</string>
-  <string name="preference_contacts_display">Преглед на контакти</string>
+  <string name="preference_contacts_display">Предпочитания за показване</string>
   <string name="preference_contacts_filter">Контакти за показване</string>
   <string name="preference_contacts_more">Други настройки</string>
   <string name="preference_contacts_moresetting">Още</string>
@@ -922,7 +922,7 @@
   <string name="readingSimContacts">Четене на SIM картата…</string>
   <string name="readOnlyContactDeleteConfirmation">Този контакт съдържа информация от няколко профила. Информацията от профилите, които са само за четене ще бъде скрита от списъка с контакти, но няма да е изтрита.</string>
   <string name="readOnlyContactWarning">Не можете да изтривате контакти, достъпни само за четене от профила си, но можете да ги скриете в списъка с контакти.</string>
-  <string name="rebuild_t9_index_dialog_message">Възстановяване…</string>
+  <string name="rebuild_t9_index_dialog_message">Реконструиране…</string>
   <string name="recent">Последни</string>
   <string name="recent_contacts_label">Последни</string>
   <string name="recent_number">Последен</string>
@@ -1035,7 +1035,7 @@
   <string name="sim_error_storage_full">Паметта на SIM картата е пълна!</string>
   <string name="sim_error_text_too_long">Името е прекалено дълго!</string>
   <string name="sim_export_error">SIM картата не е готова, опитайте отново по-късно</string>
-  <string name="sim_export_loading">Изтегляне на контакти от SIM картата, моля изчакайте…</string>
+  <string name="sim_export_loading">Четене на SIM картата…</string>
   <string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM картата не е валидна. Позицията трябва да бъде между %2$d и %3$d</string>
   <string name="sim_no_contact">Няма контакти на SIM картата</string>
   <string name="sim_unloaded">SIM-картата не е инсталирана</string>
@@ -1180,7 +1180,7 @@
   <string name="voip_video_description">Провеждане на VoIP видео обаждане</string>
   <string name="websiteLabelsGroup">Уеб сайт</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
-  <string name="wipe_data">Изчисти данни</string>
+  <string name="wipe_data">Изчистване на данните</string>
   <string name="yellowpage_fc_toast">Не може да се използва услугата, защото Жълти страници не работи правилно.</string>
   <string name="yellowpage_navigation_ad_hint">Реклама</string>
   <string name="yellowpage_navigation_balance_refresh_failed">Балансът и данните не бяха потвърдени, опитайте отново по-късно.</string>
@@ -1207,9 +1207,9 @@
   <string name="yellowPageNavigationLabel">Директория</string>
   <string name="yesterday">Вчера</string>
   <string name="zero_items_selected">Нищо не е избрано</string>
-  <string name="pref_key_sdn_manage">Преглед на Сервизни номера</string>
-  <string name="pref_key_sdn_manage1">Преглед на Сервизни номера за карта 1</string>
-  <string name="pref_key_sdn_manage2">Преглед Сервизни номера за карта 2</string>
+  <string name="pref_key_sdn_manage">Преглед на номерата за услуги</string>
+  <string name="pref_key_sdn_manage1">Номера за услуги карта 1</string>
+  <string name="pref_key_sdn_manage2">Номера за услуги карта 2</string>
   <string name="sdnContacts_empty">Няма Сервизни номера</string>
   <string name="sdnContacts_emptyLoading">Зареждане на Сервизни номера…</string>
   <string name="special_code_security_exception">Не може да се извърши действието. Това не е стандартната ви клавиатура за набиране</string>
