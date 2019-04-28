@@ -543,7 +543,7 @@
   <string name="import_to_xiaomi_account_progress_finish">Успешно прехвърляне!</string>
   <string name="import_to_xiaomi_account_progress_message">Прехвърляне…</string>
   <string name="import_to_xiaomi_account_progress_title">Прехвърляне на контакти в Mi профил</string>
-  <string name="import_to_xiaomi_account_title">Импортиране в Mi профил?</string>
+  <string name="import_to_xiaomi_account_title">Импортиране в Mi профила?</string>
   <string name="import_vcard_description">Импортиране на контакти от паметта на телефона</string>
   <string name="import_vcard_dialog_message">Импортиране на vCard?</string>
   <string name="importing_sim_contacts_miui">Импортиране на контакти от SIM карта…</string>

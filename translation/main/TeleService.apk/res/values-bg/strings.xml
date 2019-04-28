@@ -1146,7 +1146,7 @@
     <string name="preference_telocation_summary_countrycode_on">Автоматично набиране на кода на държавата</string>
     <string name="preference_dial_pad_touch_tone_default">По подразбиране</string>
     <string name="preference_dial_pad_touch_tone_piano">Пиано</string>
-    <string name="preference_dial_pad_touch_tone_off">Изкл</string>
+    <string name="preference_dial_pad_touch_tone_off">Изключено</string>
     <string name="preference_telocation_summary_countrycode_off">Без автоматично набиране на кода на държавата</string>
     <string name="telephony_setting">Телефон</string>
     <string name="msim_setting_screen_title">SIM карти и мобилни мрежи</string>
