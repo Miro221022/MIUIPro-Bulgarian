@@ -257,20 +257,20 @@
         <item quantity="one">" %1$sчас %2$s"</item>
     </plurals>
 	    <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Отключен %d пъти днес</item>
-        <item quantity="one">Отключен %d път днес</item>
+        <item quantity="other">Отключен %d пъти</item>
+        <item quantity="one">Отключен %d път</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Отключен %d пъти през последните 7 дни</item>
-        <item quantity="one">Отключен %d път през последните 7 дни</item>
+        <item quantity="other">Отключен %d пъти</item>
+        <item quantity="one">Отключен %d път</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Получени са %d известия днес</item>
-        <item quantity="one">Получено е %d известия днес</item>
+        <item quantity="other">Получени са %d известия</item>
+        <item quantity="one">Получено е %d известия</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Получени са %d известия през последните 7 дни</item>
-        <item quantity="one">Получено е %d известие през последните 7 дни</item>
+        <item quantity="other">Получени са %d известия</item>
+        <item quantity="one">Получено е %d известие</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d часа</item>

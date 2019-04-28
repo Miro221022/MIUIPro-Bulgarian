@@ -5266,7 +5266,7 @@
     <string name="wakeup_for_keyguard_notification_title">Събуждане на екрана при известия</string>
     <string name="secure_keyguard_business_title">Задайте заключване на екрана</string>
     <string name="fingerprint_and_password_entrance_title">Заключване на екрана и пръстов отпечатък</string>
-    <string name="password_entrance_title">Заключване на екрана</string>
+    <string name="password_entrance_title">Задаване на заключване на екрана</string>
     <string name="apply_fingerprint_to_category_title">Прилагане на пръстов отпечатък за…</string>
     <string name="manage_fingerprint_text">Управление на пръстовите отпечатъци</string>
     <string name="fingerprint_identify_msg">Разчитане на отпечатък…</string>
@@ -6300,8 +6300,8 @@ OTG се изключва автоматично след 10 минути без
 	<string name="auto_brightness_disclaimer">Оптимизирайте нивото на яркост според наличната светлина. Когато тази функция е включена, все още можете временно да регулирате яркостта.</string>
 	<string name="usage_state_app_timer">Екранно време</string>
     <string name="usage_state_app_usage_detail_title">Подробности за използване в приложението</string>
-    <string name="usage_state_app_usage_list_title">"Екранно време в приложенията днес"</string>
-    <string name="usage_state_app_usage_list_week_title">"Екранно време в приложенията (последните 7 дни)"</string>
+    <string name="usage_state_app_usage_list_title">"Екранно време в приложенията"</string>
+    <string name="usage_state_app_usage_list_week_title">"Екранно време в приложенията"</string>
     <string name="usage_state_app_usage_tip_title" formatted="false">Време на ползване между %d:00 и %d:00</string>
     <string name="usage_state_app_use_time">Екранно време в приложенията</string>
     <string name="usage_state_channel_mouth">Последните 30 дни</string>
@@ -6313,8 +6313,8 @@ OTG се изключва автоматично след 10 минути без
     <string name="usage_state_hour_minute" formatted="false">%dч %dм</string>
     <string name="usage_state_less_one_minute">По-малко от 1 минута</string>
     <string name="usage_state_monday">Пон</string>
-    <string name="usage_state_mourth_day">"'Времето за ползване е за' d MMM"</string>
-    <string name="usage_state_noti_mourth_day">"'Известия на' d MMM"</string>
+    <string name="usage_state_mourth_day">Екранно време на %s</string>
+    <string name="usage_state_noti_mourth_day">Известия на %s</string>
     <string name="usage_state_notification">Управление на известията</string>
     <string name="usage_state_notification_manager">Управление на известията на приложенията</string>
     <string name="usage_state_remind_summary">Включете, за да получавате предупреждения за ползването на екрана. Можете да зададете различни срокове за делнични и почивни дни.</string>
@@ -6327,7 +6327,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="usage_state_today">Днес</string>
     <string name="usage_state_today_total_text">Екранно време днес</string>
     <string name="usage_state_tuesday">Вто</string>
-    <string name="usage_state_unlock_mourth_day">"'Отключен на' d MMM"</string>
+    <string name="usage_state_unlock_mourth_day">Отключен на %s</string>
     <string name="usage_state_usage_time">Екранно време</string>
     <string name="usage_state_usage_time_remind">Известия за екранно време</string>
     <string name="usage_state_use_time_remind_title">Известия за екранно време</string>
@@ -6352,7 +6352,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="usagestats_app_category_miui_video_etc">Музика и видео</string>
     <string name="usagestats_device_notification_des">Лимит за екранно време за днес: %s</string>
     <string name="usagestats_device_notification_des_over">"Достигнахте лимита за ползване за днес."</string>
-    <string name="usagestats_device_notification_des_reset" formatted="false">Лимит за позлване за днес: %s | %s остават</string>
+    <string name="usagestats_device_notification_des_reset" formatted="false">"Лимит за днес: %s | %s остават"</string>
     <string name="usagestats_device_notification_title">Предупреждение за ползване</string>
     <string name="usagestats_device_timeout_des" formatted="false">"Днес сте използвали устройството си %dч и %dм. Починете си!"</string>
     <string name="usagestats_device_timeout_negative">Напомняне след 1 час</string>
@@ -6382,4 +6382,13 @@ OTG се изключва автоматично след 10 минути без
     <string name="dc_light_summary">Прилагане на затъмняване, за да се намали напрежението в очите</string>
     <string name="dc_light_dialog_summary">Качеството на изображението може да бъде повлияно, когато е включен режимът против трептене. Включване въпреки това?</string>
 	<string name="power_remaining_charging_duration_only">%1$s остава до пълното зареждане</string>
+	<string name="choose_keyguard_clock_style">Формат на часовника на заключен екран</string>
+    <string name="choose_keyguard_clock_summary">"Тази настройка не работи с теми от трети страни"</string>
+    <string name="choose_unlock_face_msg">Задайте заключване на екрана, преди да записване лицеви данни.</string>
+    <string name="choose_unlock_fingerprint_msg">Задайте заключване на екрана преди да добавите пръстовия си отпечатък.</string>
+    <string name="miui_lab_gesture_title">Жестове на цял екран</string>
+    <string name="miui_lab_gesture_desc">Деактивирайте физическите бутони и се наслаждавайте на жестове на цял екран</string>
+    <string name="search_ambient_display_screen_title">Ambient display</string>
+    <string name="search_doze_always_on_title">Винаги включен</string>
+    <string name="usage_state_date">d MMM</string>
 </resources>

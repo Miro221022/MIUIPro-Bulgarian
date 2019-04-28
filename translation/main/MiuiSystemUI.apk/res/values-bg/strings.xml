@@ -1843,5 +1843,8 @@
    <string name="power_save_ps_freeze">Замразяване на приложения на заден план</string>
    <string name="power_save_ps_limit">Ограничаване дейността на системните приложения</string>
    <string name="notification_channel_dnd">Не ме безпокойте</string>
-   <string name="dnd_notification_warnings_title">Повикванията и известията ще бъдат заглушени, докато не изключите Не ме безпокойте</string>
+   <string name="dnd_notification_warnings_title">Не ме безпокойте е включен. Повикванията и известията ще бъдат заглушени</string>
+   <string name="choose_clock_title_left_top">Ляво подравнен</string>
+   <string name="choose_clock_title_middle">Центрирано</string>
+   <string name="choose_clock_title_vertical">Вертикален</string>
 </resources>

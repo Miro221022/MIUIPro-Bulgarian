@@ -221,4 +221,5 @@
     <string name="restore_app_order_finish">Готово</string>
 	<string name="provision_background_restore_more_data">Възстановяване на още елементи на заден план</string>
     <string name="provision_restore_data">Възстановяване на елементи</string>
+	<string name="hint_restore_cross_space">Оформлението на началния екран може да се покаже неправилно, ако прехвърляте елементи между пространставата.</string>
 </resources>

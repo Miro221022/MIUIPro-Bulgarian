@@ -638,4 +638,5 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
    <string name="err_not_allow">Не се поддържа</string>
    <string name="err_no_gms">Несъвместима версия на приложението. Инсталирайте това приложение поотделно</string>
    <string name="trans_detail_item_app_data_skip_data">"Данните за приложението не могат да се прехвърлят"</string>
+   <string name="phone_title">Настройки на телефона</string>
 </resources>

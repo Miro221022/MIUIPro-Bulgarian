@@ -104,4 +104,6 @@
     <string name="never_ask_again">Не питай отново</string>
 	<string name="HIPS_Perm_UDevice_ID">Споделяне на части от информацията за устройството с разработчиците на игри, за да им помогнете да подобрят вашето изживяване в игрите. Съгласни ли сте?</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">Споделяне на части от информацията за устройството с разработчиците на игри, за да им помогнете да подобрят вашето изживяване в игрите. Съгласни ли сте?</string>
+	<string name="HIPS_Perm_deamon_notification">Постоянно известие</string>
+    <string name="HIPS_Perm_deamon_notification_Desc">Показване на постоянно известие</string>
 </resources>
