@@ -604,7 +604,7 @@
      <string name="beauty_body_slim_count_tip">Ефектите за фигура работят само при снимане на един човек</string>
      <string name="beauty_body_legged">Крака</string>
      <string name="beauty_body_reset_tip">Ефектът за фигури е премахнат успешно</string>
-     <string name="beauty_reset_toast">Нулирането на ефектите за фигура е успешно</string>
+     <string name="beauty_reset_toast">Нулирането на ефектите за разкрасяване е успешно</string>
      <string name="camera_liveshot_on_tip">Динамични снимки</string>
      <string name="camera_liveshot_off_tip">Динамични снимки са изключени</string>
      <string name="custom_watermark_contains_senstive_words">"Водните знаци не могат да съдържат определени изрази (%1$s)"</string>
@@ -879,4 +879,7 @@
     <string name="mimoji_mouth_type">Тип на устата</string>
     <string name="mimoji_nose">Нос</string>
     <string name="mimoji_earring">Обеци</string>
+	<string name="beauty_clear">Изчистване</string>
+    <string name="beauty_clear_toast">Ефектите за разкрасяване са премахнати успешно</string>
+    <string name="edit_hairline">Линия за коса</string>
 </resources>

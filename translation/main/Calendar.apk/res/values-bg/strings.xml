@@ -220,10 +220,10 @@
     <string name="event_info_when">Кога</string>
     <string name="event_info_where">Къде</string>
     <string name="event_reminder_allday_day_zero">На самия ден в %2$s</string>
-    <string name="event_reminder_value_zero">Преди събитието</string>
+    <string name="event_reminder_value_zero">Когато събитието започне</string>
     <string name="event_reminders_to_max">Можете да зададете до %d напомняния</string>
     <string name="event_title">Заглавие</string>
-    <string name="festival_detail_title">Festival</string>
+    <string name="festival_detail_title">Фестивал</string>
     <string name="force_touch_title_add_new_event">Ново събитие</string>
     <string name="from_google_group_calendar">Google Календар</string>
     <string name="global_action_text_card_manager">Още Категории</string>
@@ -543,4 +543,7 @@
   <string name="reminder_later">Напомни по-късно</string>
   <string name="free_day_default_banner_title">Приятна почивка!</string>
   <string name="work_day_default_banner_title">Успешен ден в работата!</string>
+  <string name="edit_event_custom_reminder_time_dup">Персонализирано напомняне: %1$s</string>
+  <string name="edit_event_custom_reminder_title">Задаване на персонализирано напомняне</string>
+  <string name="event_reminder_custom">Персонализирано</string>
 </resources>

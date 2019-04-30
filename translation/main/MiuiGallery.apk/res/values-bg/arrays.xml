@@ -192,4 +192,8 @@
       <item>Преместване напред</item>
       <item>Пълен с енергия</item>
     </string-array>
+	    <string-array name="backup_automatically_key_words">
+        <item>Архивиране на снимки</item>
+        <item>Синхронизиране на снимки с Mi Облак</item>
+    </string-array>
 </resources>

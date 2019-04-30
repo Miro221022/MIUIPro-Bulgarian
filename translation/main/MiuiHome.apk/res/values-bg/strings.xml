@@ -361,4 +361,12 @@
     <string name="menu_finish">Готово</string>
     <string name="widgets_preview_title">Добавяне на джаджа</string>
 	<string name="launcher_sliding_up_gesture">Стартиране на търсе чрез плъзгане нагоре в начален екран</string>
+	<string name="home_gesture_content_center">Център за съдържание</string>
+    <string name="home_gesture_global_search">Търсене</string>
+    <string name="home_gesture_no_action">Без</string>
+    <string name="home_gesture_notification_bar">Известия</string>
+    <string name="home_pull_down_action">Плъзгане надолу в начален екран</string>
+    <string name="home_slide_up_action">Плъзгане нагоре в начален екран</string>
+    <string name="launcher_pull_down_title">Плъзгане нагоре в начален екран</string>
+    <string name="launcher_slide_up_title">Плъзгане надолу в начален екран</string>
 </resources>

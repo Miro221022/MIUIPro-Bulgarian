@@ -1500,4 +1500,20 @@
   <string name="similar_keep_clear">Запазване на най-добрите снимки</string>
   <string name="photo_editor_compare_tip">Натиснете и задръжте, за да видите оригиналното изображение</string>
   <string name="photo_editor_remove_watermark">Премахване на воден знак</string>
+  <string name="ai_album_setting_key_word">Търсене на снимки</string>
+  <string name="base_btn_cancel">Отказ</string>
+  <string name="base_btn_download">Изтегляне</string>
+  <string name="filter_category_sky">Небе</string>
+  <string name="filter_sky_cloudy">Облачно</string>
+  <string name="filter_sky_detect_forbidden_tips">"Небето не може да се открие"</string>
+  <string name="filter_sky_download_failed">"Приставката не може да се изтегли. Проверете мрежовите настройки и опитайте отново."</string>
+  <string name="filter_sky_download_finish">Приставката е успешно изтеглена</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">"Ако не сте свързани с Wi-Fi, можете да използвате мобилни данни, за да изтеглите приставката (%1$dМБ) която ви позволява да заменяте небето на снимките."</string>
+  <string name="filter_sky_download_sdk_without_wifi_title">Изтегляне на приставката</string>
+  <string name="filter_sky_dusk">Здрач</string>
+  <string name="filter_sky_glow">Блестящо</string>
+  <string name="filter_sky_rainbow">Дъга</string>
+  <string name="filter_sky_sunny">Слинцево</string>
+  <string name="filter_sky_sunset">Залез</string>
+  <string name="trash_bin_key_word">Изтрити снимки</string>
 </resources>

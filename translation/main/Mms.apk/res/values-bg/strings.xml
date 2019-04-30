@@ -837,4 +837,6 @@
   <string name="rcs_hello_from_pc">Влезте в Fetion на компютъра си, за да прехвърлите файлове.</string>
   <string name="rcs_offline">Не сте влезли в UC. Изчакайте минута или две и опитайте отново.</string>
   <string name="select_copy_text">Изберете текст за копиране</string>
+  <string name="dialog_sim_locked_confirm">OK</string>
+  <string name="dialog_sim_locked_message">"Вашата СИМ-карта не работи напълно добре с този телефон, защото не отговаря на условията на абонамента ви. Ако имате някакви въпроси или се нуждаете от повече информация по този въпрос, моля свържете се със сервизните центрове на Xiaomi или със търговският обект който продава продуктите."</string>
 </resources>
