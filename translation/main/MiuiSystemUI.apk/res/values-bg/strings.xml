@@ -1847,4 +1847,11 @@
    <string name="choose_clock_title_left_top">Ляво подравнен</string>
    <string name="choose_clock_title_middle">Центрирано</string>
    <string name="choose_clock_title_vertical">Вертикален</string>
+   <string name="face_unlock_success_show_message_dialog_msg">Разрешете известия на заключен екран, за да можете да ги виждате на заключен екран.</string>
+   <string name="face_unlock_success_show_message_dialog_negative_btn">Не благодаря</string>
+   <string name="face_unlock_success_show_message_dialog_positive_btn">Разрешаване</string>
+   <string name="face_unlock_success_show_message_dialog_title">Известия на заключен екран</string>
+   <string name="face_unlock_success_show_message_msg">Показване само на източника на известието, когато устройството е заключено и добавяне на подробности за известието след потвърждаване на лицевите данни</string>
+   <string name="face_unlock_success_show_message_title">Показване на подробности за известието след потвърждаване на лицевите данни</string>
+   <string name="face_unlock_success_show_message_toast">Известията ще бъдат показани на заключен екран</string>
 </resources>

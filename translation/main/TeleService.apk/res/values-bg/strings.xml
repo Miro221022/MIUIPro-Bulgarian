@@ -1763,4 +1763,6 @@
     <string name="wifi_call_setting_vodafone_de">WLAN повикване</string>
     <string name="wifi_call_setting_vodafone_uk">WLAN повикване</string>
 	<string name="fiveg_switch_title">5G мрежа</string>
+	<string name="jump_to_mobile_network_setting">Настройки на мобилна мрежа</string>
+    <string name="select_dds_dialog_title">Изберете SIM картата по подразбиране за мобилни данни</string>
 </resources>
