@@ -698,7 +698,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="suggest_access_btn_view">Преглед</string>
     <string name="suggest_access_item_album_songs">%d songs</string>
     <string name="suggest_access_item_app_mark">APP</string>
-    <string name="suggest_access_item_app_size">%.2fМБ</string>
+    <string name="suggest_access_item_app_size">%.2fМб</string>
     <string name="suggest_access_item_app_update">Актуализация: %s</string>
     <string name="suggest_access_item_book_mark">BOOKS</string>
     <string name="suggest_access_item_mina_mark">INSTANT APPS</string>

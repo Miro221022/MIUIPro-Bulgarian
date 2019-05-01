@@ -218,7 +218,7 @@
   <string name="invalid_destination">Въвели сте невалиден адрес</string>
   <string name="invalid_private_contact">Невалиден частен контакт</string>
   <string name="invalid_recipient_message">Коригирайте получателите или съобщението няма да може да се достави.</string>
-  <string name="kilobyte">КБ</string>
+  <string name="kilobyte">Кб</string>
   <string name="layout_selector_title">"Слайдшоу оформление "</string>
   <string name="loading_all_messages">Зареждане на всички съобщения…</string>
   <string name="loading_conversations">Зареждане на разговори…</string>
@@ -706,7 +706,7 @@
   <string name="group_rejoin_failed">"Не можахте да се присъедините към груповия чат"</string>
   <string name="group_view_settings_disolved">"Не може да видите елементи. Този групов разговор бе изтрит."</string>
   <string name="group_view_settings_not_memeber">"Не може да видите елементи. Вие не сте член на този групов чат."</string>
-  <string name="millionbyte">МБ</string>   
+  <string name="millionbyte">Мб</string>   
   <string name="msg_no_member_selected">Изберете поне 1 контакт</string>
   <string name="msg_type_sms_rcs">SMS, MMS и други интернет съощения</string>
   <string name="network_error_description">Възникна грешка в мрежата. Изчакайте минута или две и опитайте отново.</string>

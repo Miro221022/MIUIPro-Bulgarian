@@ -238,7 +238,7 @@
   <string name="bottom_bar_more_quickreply">Бърз отговор</string>
   <string name="bottom_bar_more_share">Споделяне</string>
   <string name="bottom_bar_no_quickreply_toast">Няма бързи отговори</string>
-  <string name="bytes">%s  Б</string>
+  <string name="bytes">%s  б</string>
   <string name="calendar_remind_dialog_title">Напомни ми по-късно</string>
   <string name="calendar_remind_gridview_pick_date">Изберете дата</string>
   <string name="cancel">Отказ</string>
@@ -520,7 +520,7 @@
   <string name="interact_with_server_error">Неуспешен опит за свързване със сървъра</string>
   <string name="invalid_recipient">Адресът %s  е невалиден.</string>
   <string name="invalid_recipient_title">Получателят не съществува</string>
-  <string name="kilobytes">%s  КБ</string>
+  <string name="kilobytes">%s  Кб</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Търсене на пощенска кутия на сървъра</string>
   <string name="load_more">Зареди още</string>
@@ -589,7 +589,7 @@
   <string name="meeting_updated">" Обновени срещи:\n%s "</string>
   <string name="meeting_when">" Кога:\n%s "</string>
   <string name="meeting_where">" Къде:\n%s "</string>
-  <string name="megabytes">%s  МБ</string>
+  <string name="megabytes">%s  Мб</string>
   <string name="menu_att_mgr">Прикачени файлове</string>
   <string name="menu_att_mgr_order_default">Наскоро разглеждани</string>
   <string name="menu_att_mgr_order_mime">Формат</string>
@@ -864,7 +864,7 @@
   <string name="refreshing">Обновяване…</string>
   <string name="refreshing_done">Готово</string>
   <string name="release_to_refresh">Освободете, за да се презареди…</string>
-  <string name="remind_attachment_size_limit">Вашите писма трябва да бъдат по-малко от %sМБ</string>
+  <string name="remind_attachment_size_limit">Вашите писма трябва да бъдат по-малко от %sМб</string>
   <string name="remove_account">Премахване напрофил</string>
   <string name="remove_folder">"Премахване от %1$s "</string>
   <string name="remove_star">Премахване от любими</string>

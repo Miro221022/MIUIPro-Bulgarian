@@ -198,7 +198,7 @@
   <string name="mobile_data_note_dialog_cancel">Изчакване за Wi-Fi връзка</string>
   <string name="mobile_data_note_dialog_confirm">Качване</string>
   <string name="mobile_data_note_dialog_content">"Изглежда, че сте свързани с платена мрежа. Качването на отчети може да генерира допълнителни такси."</string>
-  <string name="mobile_data_note_dialog_content_with_file_size">"Изглежда, че сте свързани към платена мрежа. Качването на отчети изисква %sМБ мобилни данни."</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">"Изглежда, че сте свързани към платена мрежа. Качването на отчети изисква %sМб мобилни данни."</string>
   <string name="mobile_data_note_dialog_title">Предупреждение за използване на данни</string>
   <string name="modem_tool_log_dumping_desc">Чукнете иконата за стоп</string>
   <string name="modem_tool_log_dumping_title">Заснемане на лог от модема</string>
@@ -305,7 +305,7 @@
   <string name="toast_report_copied_to_clipboard">Отзивът е копиран в клипборда</string>
   <string name="toast_report_sent_failed">Не може да се изпрати отзив</string>
   <string name="toast_report_sent_succeed">Отзивът беше изпратен</string>
-  <string name="toast_screenshot_too_large">"Не може да се качват изображения или видеоклипове, по-големи от 100МБ."</string>
+  <string name="toast_screenshot_too_large">"Не може да се качват изображения или видеоклипове, по-големи от 100Мб."</string>
   <string name="toast_third_packagename_required">Въведете име на приложението</string>
   <string name="toast_title_required">Опишете вашия проблем</string>
   <string name="topic_author">1#</string>

@@ -320,10 +320,10 @@
     <string name="dialog_title_attention">Внимание</string>
     <string name="kilobyte_per_second">K/с</string>
     <string name="megabyte_per_second">M/с</string>
-    <string name="gigabyteShort">ГБ</string>
-    <string name="megabyteShort">МБ</string>
-    <string name="kilobyteShort">КБ</string>
-    <string name="byteShort">Б</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="byteShort">б</string>
     <string name="percent_text_formatted">%s%%</string>
     <string name="main_toolbar_firewall">Ограничения</string>
     <string name="main_toolbar_statistic">Статистика</string>
@@ -371,7 +371,7 @@
     <string name="main_month_total_used">Използвани този месец</string>
     <string name="main_daily_package">Дневен план за данни</string>
     <string name="main_indicator_title">Активиране</string>
-    <string name="main_tobe_added_desc">Пакет мобилни данни от 0.03¥/МБ</string>
+    <string name="main_tobe_added_desc">Пакет мобилни данни от 0.03¥/Мб</string>
     <string name="main_button_mi_sim_close">Активирай Mi SIM</string>
     <string name="main_button_mi_sim_open">Покажи подробности</string>
     <string name="firewall_activity_lable">Забрана на данни по приложение</string>
@@ -1339,10 +1339,10 @@
     <string name="menu_text_networkassistants">Използване на данни</string>
     <string name="menu_text_networkassistants_remain">%s остават</string>
     <string name="menu_text_networkassistants_danger">%s над лимита</string>
-    <string name="menu_text_networkassistants_unit_gb">ГБ</string>
-    <string name="menu_text_networkassistants_unit_mb">МБ</string>
-    <string name="menu_text_networkassistants_unit_kb">КБ</string>
-    <string name="menu_text_networkassistants_unit_b">Б</string>
+    <string name="menu_text_networkassistants_unit_gb">Гб</string>
+    <string name="menu_text_networkassistants_unit_mb">Мб</string>
+    <string name="menu_text_networkassistants_unit_kb">Кб</string>
+    <string name="menu_text_networkassistants_unit_b">б</string>
     <string name="menu_text_antispam">Блокиране</string>
     <string name="menu_text_license_manager">Разрешения</string>
     <string name="menu_text_garbage_cleanup">Почистване</string>
@@ -1538,8 +1538,8 @@
     <string name="summary_flow_verify_failed">Използвайте Авто настройка за използването на данни, за да предотвратите допълнителни сметки</string>
     <string name="title_flow_notification">Стат. за изп. данни са скрити</string>
     <string name="summary_flow_notification">Включете функцията за показване в лентата с известия на актуална инф-я за използваните данни.</string>
-    <string name="title_flow_purchase">Купи допълнителни МБ</string>
-    <string name="summary_flow_purchase">Нямате налични МБ. Купете за да сте свързани.</string>
+    <string name="title_flow_purchase">Купи допълнителни Мб</string>
+    <string name="summary_flow_purchase">Нямате налични Мб. Купете за да сте свързани.</string>
     <string name="title_show_notification">Джаджа в лентата с известия</string>
     <string name="summary_show_notification">Почистете кеша, вижде състоянието на батерията и блокирайте елементите в статус бара</string>
     <string name="title_garbage_lib">Актуализирайте дефинициите за ненужни файлове</string>
@@ -2084,8 +2084,8 @@
     <string name="open_game">Отваряне</string>
     <string name="try_game">Опитай</string>
     <string name="more_game">Още игри</string>
-    <string name="sys_title_gamebooster_unit_gb">ГБ</string>
-    <string name="sys_title_gamebooster_unit_mb">MБ</string>
+    <string name="sys_title_gamebooster_unit_gb">Гб</string>
+    <string name="sys_title_gamebooster_unit_mb">Mб</string>
     <string name="gmscore_support_service">Услуги на Google</string>
     <string name="gmscore_support_remind">Включете тази услуга, ако имате проблеми с използването на Gmail, Google Карти и други услуги на Google. Ще се съкрати малко животът на батерията.</string>
     <string name="google_base_app_install_choice">Приложението изисква услугата Google Service Framework, за да работи нормално, да се изтегли ли и инсталира сега?</string>
@@ -2125,7 +2125,7 @@
     <string name="wlan_booster">Wi-Fi оптимизиране</string>
     <string name="tab_gift">Подаръци</string>
     <string name="tab_guide">Упътване</string>
-    <string name="release_meminfo">Освободени %dМБ</string>
+    <string name="release_meminfo">Освободени %dМб</string>
     <string name="best_booster_status">Скоростта за игри е възможно най-добра в момента.</string>
     <string name="do_clean">Почистване…</string>
     <string name="auto_clean_close">Автоматичното почистване е изкл</string>
@@ -2166,7 +2166,7 @@
     <string name="gs_autobooster_dialog_message">Ако използвате Xunyou ускорител, отворете игрите на обозначеното място.</string>
     <string name="accessibility_gameboosterservice_description">Включване на тих режим за входящи обаждания от WeChat, когато играете игри</string>
     <string name="gb_cutoff">|</string>
-    <string name="gb_ad_game_size">МБ</string>
+    <string name="gb_ad_game_size">Мб</string>
     <string name="gb_new_feature">Нова услуга</string>
     <string name="summary_background_connection">Ограничихте връзката на заден планза за това приложение.</string>
     <string name="summary_block_calls_from_cantacts">"Обажданията от контактите са блокирани."</string>
@@ -2311,7 +2311,7 @@
     <string name="exo_download_notification_channel_name">Изтегляния</string>
     <string name="exo_download_removing">Премахване на изтеглянията</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f МБ/с</string>
+    <string name="exo_track_bitrate">%1$.2f Мб/с</string>
     <string name="exo_track_mono">Моно</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Авто</string>
@@ -2612,7 +2612,7 @@
 	<string name="app_manager_find_apps">Намерете приложения</string>
     <string name="securityadd_install_fail">"Приставката не може да се актуализира. Опитайте отново."</string>
     <string name="securityadd_update_tips_cancle">Не сега</string>
-    <string name="securityadd_update_tips_message">Актуализирайте приставката за услуги на Сигурност, за да получите достъп до най-новите функции за игри. %1$dМБ ще бъдат необходими.</string>
+    <string name="securityadd_update_tips_message">Актуализирайте приставката за услуги на Сигурност, за да получите достъп до най-новите функции за игри. %1$dМб ще бъдат необходими.</string>
     <string name="securityadd_update_tips_now">Актуализирай</string>
     <string name="securityadd_update_tips_title">Актуализирай</string>
 	<string name="power_save_ps_clean">Изчистване на кеша, когато устройството е заключено</string>

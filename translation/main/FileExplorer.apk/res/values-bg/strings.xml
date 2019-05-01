@@ -51,7 +51,7 @@
   <string name="bind_phone_success_tip">Телефонният номер е добавен успешно</string>
   <string name="bind_success_tip">Успешно добавено</string>
   <string name="black_list">Достъпът ви е блокиран. Изпратете запитване до форумите на MIUI за да научите защо.</string>
-  <string name="byteShort">Б</string>
+  <string name="byteShort">б</string>
   <string name="can_not_send_with_too_many">Не може да изпращате толкова много елементи</string>
   <string name="cancel">Отказ</string>
   <string name="cancel_error">Не може да се премахне, опитайте отново</string>
@@ -241,7 +241,7 @@
   <string name="gender_choose_tip">Изберете вашия пол</string>
   <string name="get_user_info_err">Не може да се получи информация за потребител</string>
   <string name="get_verification_code_fail">Не може да се получи код за потвърждение</string>
-  <string name="gigabyteShort">ГБ</string>
+  <string name="gigabyteShort">Гб</string>
   <string name="group_title">%2$s от %1$s</string>
   <string name="group_title_extra_backup">Резервни копия</string>
   <string name="group_title_extra_expire">Почти изтекло</string>
@@ -269,7 +269,7 @@
   <string name="interest_recommend">Препоръчани клипове</string>
   <string name="is_playing">Възпроизвеждане…</string>
   <string name="just_now">Току-що</string>
-  <string name="kilobyteShort">КБ</string>
+  <string name="kilobyteShort">Кб</string>
   <string name="kuaipan_label">Kuaipan</string>
   <string name="like_toast_1">Този тип клипове ще се препоръчват по-често.</string>
   <string name="like_toast_2">Преглед на клиповете харесани във вашия профил.</string>
@@ -296,7 +296,7 @@
   <string name="make_private_msg_2">Скриване на тези файлове?</string>
   <string name="make_private_msg_3">Всички файлове в тази папка ще бъдат скрити.</string>
   <string name="male">Мъж</string>
-  <string name="megabyteShort">МБ</string>
+  <string name="megabyteShort">Мб</string>
   <string name="menu_item_cleanup">Почистване</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_midrop">Mi Drop</string>
@@ -429,7 +429,7 @@
   <string name="path_recent_file">Управлявайте файловете на устройството си</string>
   <string name="permission_denial">"Няма достъп до файловете. Рзарешете на Файлов мениджър достъп до файлове в Настройки."</string>
   <string name="permission_required">"Няма достъп до файловете. Рзарешете на Файлов мениджър достъп до файлове в Настройки."</string>
-  <string name="petabyteShort">ПБ</string>
+  <string name="petabyteShort">Пб</string>
   <string name="phone">Телефон</string>
   <string name="phone_bind_skip">Пропускане</string>
   <string name="phone_bind_tip">Добавете тел. номер, за да участвате в класации и да печелите награди</string>
@@ -626,7 +626,7 @@
   <string name="tab_newest_video">Добави</string>
   <string name="tab_ranking_list">Класация</string>
   <string name="tab_source">ПРИЛОЖЕНИЯ</string>
-  <string name="terabyteShort">ТБ</string>
+  <string name="terabyteShort">Тб</string>
   <string name="tip">Внимание</string>
   <string name="title_album">Албуми</string>
   <string name="title_app_tags">Приложения</string>

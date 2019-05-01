@@ -57,12 +57,12 @@
         <item quantity="one">Продължаване на архивирането след %d час</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d снимки или видеоклипове | На пауза</item>
-        <item quantity="one">%d снимка или видеоклип | На пауза</item>
+        <item quantity="other">%d снимки или клипове | На пауза</item>
+        <item quantity="one">%d снимка или клип | На пауза</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
-        <item quantity="other">%1$d снимки и видеоклипове | %2$s</item>
-        <item quantity="one">%1$d снимка или видеоклип | %2$s</item>
+        <item quantity="other">%1$d снимки и клипове | %2$s</item>
+        <item quantity="one">%1$d снимка или клип | %2$s</item>
     </plurals>
     <plurals name="backuping_desc_normal">
         <item quantity="other">%1$d снимки и видеоклипове</item>

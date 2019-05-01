@@ -257,7 +257,7 @@
   <string name="recognize_extra_price_desp">(Просто за Mi)</string>
   <string name="record_list_item_recognize_text">字</string>
   <string name="reg_error_audio_exist">аудио съществува</string>
-  <string name="reg_error_audio_large">аудиото не трябва да е по-голямо от 500 МБ</string>
+  <string name="reg_error_audio_large">аудиото не трябва да е по-голямо от 500 Мб</string>
   <string name="reg_error_audio_short">звукът е твърде малък</string>
   <string name="reg_error_business">не може да се разпознае, моля, свържете се с нас и опитайте по-късно</string>
   <string name="reg_error_client">неточни данни за програмата, моля, свържете се с нас и опитайте по-късно</string>

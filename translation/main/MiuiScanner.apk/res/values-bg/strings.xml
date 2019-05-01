@@ -120,9 +120,9 @@
     <string name="previous">Обратно</string>
     <string name="qr_code_details">Детайли за QR код:</string>
     <string name="recognition_error_download_cancel">По-късно</string>
-    <string name="recognition_error_download_data_msg">Изтеглете услугата за разпознаване, за да сканирате карти. Размерът ѝ е около 15 МБ. Да се използва ли мобилен интернет за изтеглянето?</string>
+    <string name="recognition_error_download_data_msg">Изтеглете услугата за разпознаване, за да сканирате карти. Размерът ѝ е около 15 Мб. Да се използва ли мобилен интернет за изтеглянето?</string>
     <string name="recognition_error_download_fail">Услугата за разпознаване не беше изтеглена</string>
-    <string name="recognition_error_download_msg">Изтеглете услугата за разпознаване, за да сканирате карти. Размерът ѝ е около 15 МБ.</string>
+    <string name="recognition_error_download_msg">Изтеглете услугата за разпознаване, за да сканирате карти. Размерът ѝ е около 15 Мб.</string>
     <string name="recognition_error_download_no_network">Изтеглянето е неуспешно. Уверете се, че имате връзка с интернет.</string>
     <string name="recognition_error_download_ok">Изтегли</string>
     <string name="recognition_error_download_success">Изтеглянето е успешно</string>

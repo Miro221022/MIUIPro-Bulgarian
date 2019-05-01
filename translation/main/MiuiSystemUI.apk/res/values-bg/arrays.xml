@@ -111,25 +111,25 @@
   </string-array>
   <string-array name="select_logd_size_lowram_titles">
     <item>Изключено</item>
-    <item>64КБ</item>
-    <item>256КБ</item>
-    <item>1МБ</item>
+    <item>64Кб</item>
+    <item>256Кб</item>
+    <item>1Мб</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Изключено</item>
-    <item>64КБ за буфер регистър</item>
-    <item>256КБ за буфер регистър</item>
-    <item>1МБ за буфер регистър</item>
-    <item>4МБ за буфер регистър</item>
-    <item>16МБ за буфер регистър</item>
+    <item>64Кб за буфер регистър</item>
+    <item>256Кб за буфер регистър</item>
+    <item>1Мб за буфер регистър</item>
+    <item>4Мб за буфер регистър</item>
+    <item>16Мб за буфер регистър</item>
   </string-array>
   <string-array name="select_logd_size_titles">
     <item>Изключено</item>
-    <item>64КБ</item>
-    <item>256КБ</item>
-    <item>1МБ</item>
-    <item>4МБ</item>
-    <item>16МБ</item>
+    <item>64Кб</item>
+    <item>256Кб</item>
+    <item>1Мб</item>
+    <item>4Мб</item>
+    <item>16Мб</item>
   </string-array>
   <string-array name="select_logd_system_levels">
     <item>Изкл.</item>
