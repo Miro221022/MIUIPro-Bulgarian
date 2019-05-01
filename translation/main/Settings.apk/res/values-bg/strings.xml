@@ -6388,7 +6388,18 @@ OTG се изключва автоматично след 10 минути без
     <string name="choose_unlock_fingerprint_msg">Задайте заключване на екрана преди да добавите пръстовия си отпечатък.</string>
     <string name="miui_lab_gesture_title">Жестове на цял екран</string>
     <string name="miui_lab_gesture_desc">Деактивирайте физическите бутони и се наслаждавайте на жестове на цял екран</string>
-    <string name="search_ambient_display_screen_title">Ambient display</string>
+    <string name="search_ambient_display_screen_title">Винаги включен</string>
     <string name="search_doze_always_on_title">Винаги включен</string>
     <string name="usage_state_date">d MMM</string>
+	<string name="popup_title">Ефекти на предната камера</string>
+    <string name="popup_led_title">Визуални ефекти</string>
+    <string name="popup_led_summary">Показване на анимация, когато предната камера се появява или прибира</string>
+    <string name="popup_voice_title">Звукови ефекти</string>
+    <string name="popup_voice_summary">Озвучаване когато предната камера се почвява или прибира</string>
+    <string name="popup_title_chilun">Зъбно колело</string>
+    <string name="popup_title_yingyan">Кондор</string>
+    <string name="popup_title_muqin">Ксилофон</string>
+    <string name="popup_title_cangmen">Врата на кабина</string>
+    <string name="popup_title_mofa">Магия</string>
+    <string name="popup_title_jijia">Mecha</string>
 </resources>
