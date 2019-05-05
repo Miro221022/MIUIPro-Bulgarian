@@ -58,10 +58,10 @@
   <string name="hour">1 час</string>
   <string name="hour_unit">ч</string>
   <string name="hours">%d часа</string>
-  <string name="install_weather_app_error">Приложението не можа да се зареди</string>
+  <string name="install_weather_app_error">Приложението не може да се зареди</string>
   <string name="install_weather_app_loading">Един момент…</string>
-  <string name="invalid_time">Невалидно име: %3$s %1$d: %2$d</string>
-  <string name="keep_screen_on">Не изключвай екрана</string>
+  <string name="invalid_time">Невалидно време: %3$s %1$d: %2$d</string>
+  <string name="keep_screen_on">Поддържане на екрана включен</string>
   <string name="label">Задайте етикет</string>
   <string name="label_pref_summary">Етикет</string>
   <string name="lap">Обиколка</string>
@@ -77,10 +77,10 @@
   <string name="life_post_setting_FBE_remind">Поради ограничения на системата, информацията за времето в сутрешната емисия може да не се покаже правилно след рестартиране</string>
   <string name="life_post_setting_open_subtitle">Получаване на инф-я за времето, когато сте изключили алармата си, между 4:00ч и 9:30ч</string>
   <string name="life_post_setting_open_title">Получаване на сутрешни доклади</string>
-  <string name="life_post_setting_wake_up_list_title">Хронолг. на събуждания</string>
-  <string name="life_post_wake_up_acumu_day_title">Ден за броене</string>
+  <string name="life_post_setting_wake_up_list_title">История на събуждания</string>
+  <string name="life_post_wake_up_acumu_day_title">Брой дни</string>
   <string name="life_post_wake_up_item_acumu_day">%1$s дни</string>
-  <string name="life_post_wake_up_item_acumu_day_title">Ден за броене</string>
+  <string name="life_post_wake_up_item_acumu_day_title">Брой дни</string>
   <string name="life_post_wake_up_item_percentage_title">Mi феновете са до теб</string>
   <string name="life_post_wake_up_item_time_title">Време на събуждане</string>
   <string name="life_post_wake_up_percentage_sign">%</string>
@@ -91,7 +91,7 @@
   <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
   <string name="life_post_weather_invalid">Докоснете, за да получите информация за времето</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
-  <string name="loading_ringtone">Зареждане на мелодии...</string>
+  <string name="loading_ringtone">Зареждане на мелодията…</string>
   <string name="menu_add_worldclock">Часова зона</string>
   <string name="menu_desk_clock">Часовник</string>
   <string name="menu_edit_timer_item">Редактиране на задачата на таймера</string>
@@ -218,7 +218,7 @@
   <string name="shut_down_keep_screen">"Екранът няма да бъде запазен"</string>
   <string name="dialog_message_not_remind">"Не показвай отново"</string>
   <string name="add_clock">Добавяне на часовник</string>
-  <string name="content_desc_keep_screen">Бутон \"Винаги вкл. екран\"</string>
+  <string name="content_desc_keep_screen">Бутон \"Винаги включен екран\"</string>
   <string name="timer_cancel_hint">Спиране</string>
   <string name="timer_end_time">Таймерът ще спре в %s</string>
   <string name="timer_end_time_format">HH:mm dd MMM</string>
