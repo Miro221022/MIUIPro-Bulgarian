@@ -6402,4 +6402,17 @@ OTG се изключва автоматично след 10 минути без
     <string name="popup_title_cangmen">Врата на кабина</string>
     <string name="popup_title_mofa">Магия</string>
     <string name="popup_title_jijia">Mecha</string>
+	<string name="backup_set_clear_success">Паролата за резервното копие е изключена успешно</string>
+    <string name="backup_set_clear_title">Иаключване на паролата за резервно копие</string>
+    <string name="backup_set_confirm">OK</string>
+    <string name="backup_set_confirm_clear">Изключване</string>
+    <string name="backup_set_enter_new_pw">Въведете нова парола за архивиране</string>
+    <string name="backup_set_enter_new_pw_again">Потвърдете новата парола за архивиране</string>
+    <string name="backup_set_enter_old_pw">Въведете старата парола за архивиране</string>
+    <string name="backup_set_enter_pw_title">Въведете парола за резервно копие</string>
+    <string name="backup_set_error_pw">Паролата която въведохте е неправилна</string>
+    <string name="backup_set_modify_title">Промяна на паролата за архивиране</string>
+    <string name="backup_set_new_pw_title">Въведете нова парола за архивиране</string>
+    <string name="backup_set_null_pw">Първо въведете парола</string>
+    <string name="backup_set_pw_confirm_title">Потвърдете новата парола за архивиране</string>
 </resources>
