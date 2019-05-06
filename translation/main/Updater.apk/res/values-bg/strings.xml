@@ -28,7 +28,7 @@
   <string name="best_update">Най-добра актуализация</string>
   <string name="boot_recovery">Ресдтартиране в режим Възстановяване?</string>
   <string name="button_delay_update_reboot">Рестартирай и актуализирай</string>
-  <string name="button_text_check">Провери за актуализации</string>
+  <string name="button_text_check">Проверка за актуализации</string>
   <string name="button_text_reboot">Рестартиране сега</string>
   <string name="button_text_reboot_hm">Рестартиране сега</string>
   <string name="button_text_update">Изтегляне на актуализацията</string>
