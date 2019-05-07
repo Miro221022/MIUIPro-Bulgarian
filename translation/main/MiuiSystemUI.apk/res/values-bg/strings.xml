@@ -1020,7 +1020,7 @@
   <string name="notification_low_battery_action_btn">Включи</string>
   <string name="notification_low_battery_need_charge">Батерията е изтощена. Заредете устройството си.</string>
   <string name="notification_low_battery_open_save_mode">Включете Пестене на батерията</string>
-  <string name="notification_low_battery_title">Изтощена батерия: %d%%</string>
+  <string name="notification_low_battery_title">Остават по-малко от %d%% батерия</string>
   <string name="notification_manager">Управление на известията</string>
   <string name="notification_manager_des">Филтриране и управление на известията</string>
   <string name="notification_menu_accessibility">%1$s %2$s</string>
