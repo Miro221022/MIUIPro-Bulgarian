@@ -32,8 +32,6 @@
   <string name="Disabled_set">Деактивиран</string>
   <string name="double_tap_app_title">Приложение при двойно почукване</string>
   <string name="doubletap_home">Двойно почукване</string>
-  <string name="enable_vertical_clock">Вертикален часовник</string>
-  <string name="enable_vertical_clock_summary">Показване на вертикален часовник на заключен екран</string>
   <string name="endless_desktop_title">Безкрайно превъртане на началния екран</string>
   <string name="EvDo_only">Само EvDo</string>
   <string name="fade_animation_title">Стил на анимация</string>
@@ -226,6 +224,8 @@
   <string name="other_icon_title">Икони при отворен панел</string>
   <string name="dnd_notification_title">Звук за известяване в режим \"Не ме безпокойте\"</string>
   <string name="vpn_icon_title">Скриване на иконата за VPN</string>
+  <string name="speed_dual_title">Скорост на мрежата в лентата за състояние</string>
+  <string name="speed_dual_summary">Показване като двойна лента</string>
   <string name="other_weather_title">Настройки за показване на времето</string>
   <string name="show_weather_title">Показване на времето</string>
   <string name="show_weather_city_title">Показване на града</string>
@@ -233,4 +233,5 @@
   <string name="other_size_title">Настройки за размер на шрифта</string>
   <string name="set_clock_size_title">Размер на часовника</string>
   <string name="set_battery_size_title">Процентa на батерията</string>
+  <string name="battery_percent_title">Разположение на процентите</string>
 </resources>

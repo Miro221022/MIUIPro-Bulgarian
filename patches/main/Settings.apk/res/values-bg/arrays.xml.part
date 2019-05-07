@@ -11,6 +11,7 @@
         <item>Превключване Bluetooth</item> 
         <item>Превключване на мобилни данни</item> 
         <item>Изчистване на паметта</item> 
+		<item>Режим с една ръка</item>
         <item>Стартиране на приложение</item> 
         <item>Изключено</item>
     </string-array> 
@@ -210,5 +211,9 @@
         <item>Само проценти</item>
         <item>Линия над лентата за състояние</item>
         <item>Не показвай</item>
+    </string-array>
+	<string-array name="battery_percent_style_entries">
+    	<item>Проценти (отдясно на иконата)</item>
+        <item>Проценти (отляво на иконата)</item>
     </string-array>
 </resources>
