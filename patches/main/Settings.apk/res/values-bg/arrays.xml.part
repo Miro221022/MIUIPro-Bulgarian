@@ -213,7 +213,7 @@
         <item>Не показвай</item>
     </string-array>
 	<string-array name="battery_percent_style_entries">
-    	<item>Проценти (отдясно на иконата)</item>
-        <item>Проценти (отляво на иконата)</item>
+    	<item>Отдясно на иконата</item>
+        <item>Отляво на иконата</item>
     </string-array>
 </resources>
