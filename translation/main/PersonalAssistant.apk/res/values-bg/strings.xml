@@ -53,7 +53,7 @@
   <string name="assistant_format_MMdd">dd/MM</string>
   <string name="assistant_place">Разпознаване на чести места</string>
   <string name="assistant_summary">Получавайте полезни предложения за всичко, от което се нуждаете</string>
-  <string name="authorize_button">Позволи</string>
+  <string name="authorize_button">Разрешаване</string>
   <string name="authorize_fav_tip">Добавете любимите неща от други приложения тук.</string>
   <string name="ball_add_fav_team">Добави елементи</string>
   <string name="ball_basket_rank_win_or_lose">Спечелени/Загуби</string>
@@ -179,7 +179,7 @@
   <string name="cta_negative">Затвори</string>
   <string name="cta_positive">Детайли</string>
   <string name="cta_text5">Услугата изисква интернет връзка и достъп до местоположението. Съгласен ли сте с това?</string>
-  <string name="cta_title">Нека Личен асистент ви помогне</string>
+  <string name="cta_title">Добре дошли в Личен асистент</string>
   <string name="daily_greeting">Поздрав за всеки ден</string>
   <string name="data_error">Неочаквана грешка. Моля, изчакайте минута-две и опитайте отново.</string>
   <string name="data_error_show">Поръчката е завършена, не може да се видят подробности</string>
@@ -854,7 +854,7 @@
   <string name="system_favorite_dialog_link">Сигурност &amp; поверителност</string>
   <string name="system_favorite_dialog_message">Любимите от множество приложения и услуги ще бъдат добавени в хранилището на Личен асистент.Съгласни ли сте?</string>
   <string name="system_favorite_dialog_negative">Отказ</string>
-  <string name="system_favorite_dialog_positive">Позволи</string>
+  <string name="system_favorite_dialog_positive">Разрешаване</string>
   <string name="system_favorite_dialog_title_confirm">Любими</string>
   <string name="take_off">Махам го</string>
   <string name="taxi">Такси</string>
@@ -928,12 +928,12 @@
   <string name="miot_device_add_device">Добавяне на устройство</string>
   <string name="miot_device_all_device">Цялото оборудване</string>
   <string name="miot_device_cancel">отменен</string>
-  <string name="miot_device_card_title">mi home</string>
-  <string name="miot_device_cta_and">и</string>
-  <string name="miot_device_cta_message">Добавете умни устройства за бърз контрол. Ако кликнете върху "упълномощаване", вие се съгласявате с Mi Jia APP</string>
-  <string name="miot_device_cta_priv">Споразумение за поверителност</string>
-  <string name="miot_device_cta_use_info">Условия за ползване</string>
-  <string name="miot_device_edit">редактиране</string>
+  <string name="miot_device_card_title">Mi Home</string>
+  <string name="miot_device_cta_and"> и </string>
+  <string name="miot_device_cta_message">Добавете вашите интелигентни устройства, за да ги контролирате когато желаете. Натиснете Оторизиране, за да се съгласите</string>
+  <string name="miot_device_cta_priv">Политика за поверителност.</string>
+  <string name="miot_device_cta_use_info">Mi Home Потребителско споразумение</string>
+  <string name="miot_device_edit">Редактиране</string>
   <string name="miot_device_empty_text">Добавете интелигентни устройства като пречистватели на въздуха, видеокамери и роботи за почистване за бързо управление.</string>
   <string name="miot_device_install_mijia">Изтегляне</string>
   <string name="miot_device_introduction">Активиране на бързи клавиши за интелигентно устройство</string>
@@ -1027,4 +1027,13 @@
   <string name="whatsapp_photos">Снимки</string>
   <string name="disclaimer_content">Тази функция се предоставя от %1$s. %1$s носи цялата отговорност, свързана с предоставяните от нея услуги. Можете да се свържете с %1$s ако имате някакви въпроси.</string>
   <string name="disclaimer_title">Отказ от отговорност</string>
+  <string name="miot_cta_dialog_title">Предоставяне на разрешение</string>
+  <string name="all_function_title">Всички преки пътища</string>
+  <string name="selected_shortcuts_title">Функции</string>
+  <string name="cta_dialog_text_new_user">"Преди да използвате Личен асистент трябва да се съгласите с %1$s\"Потребителското споразумение\"%2$s, %3$s\"Политиката за поверителност\"%4$s на Xiaomi и %5$s\"Политиката за поверителност на Личен асистент\"%6$s. Личен асистент трябва да се свърже с интернет и да получи достъп до информацията за местоположението ви, за да работи нормално. Докоснете \"Начало\", за да се съгласите."</string>
+  <string name="cta_dialog_text_old_user">Преди да използвате Личен асистент трябва да се съгласите с %1$s\"Политиката за поверителност на Личен асистент\"%2$s. Докоснете \"Начало\", за да се съгласите.</string>
+  <string name="cta_not_now">Не сега</string>
+  <string name="cta_old_not_use">Не сега</string>
+  <string name="cta_old_start">Начало</string>
+  <string name="cta_start">Начало</string>
 </resources>

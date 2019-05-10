@@ -446,7 +446,7 @@
     <string name="user_agreement4">Политика за поверителност</string>
     <string name="user_agree">Приемам</string>
     <string name="do_not_remind_me">Не показвай отново</string>
-    <string name="user_notice_identify_summary_format">"Използвайки тази услуга, вие се съгласявате със %1$s и %2$s на Xiaomi. Съгласни ли сте да се свържете с интернет?"</string>
+    <string name="user_notice_identify_summary_format">Преди да използвате Камера, трябва да се съгласите с нашите <a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Потребителско споразумение</a> и <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Политика за поверителност</a>. Камера също трябва да се свърже с интернет, за да работи нормално. Съгласни ли сте?</string>
     <string name="user_notice_title">Правила и условия</string>
     <string name="pref_camera_focus_shoot_title">Фокус и заснемане</string>
     <string name="pref_camera_focus_shoot_summary">Докоснете екрана за фокусиране и още един път за заснемане.</string>
@@ -559,7 +559,7 @@
    <string name="accessibility_video_pause_button">спри записа на пауза</string>
    <string name="accessibility_video_resume_button">продължи записа</string>
    <string name="live_speed_fast">Бързо</string>
-   <string name="live_speed_fragment_tab_name">Скорост на запис</string>
+   <string name="live_speed_fragment_tab_name">Скорост</string>
    <string name="live_speed_normal">Нормална</string>
    <string name="live_speed_slow">Бавна</string>
    <string name="module_name_professional">Професионално</string>
@@ -629,7 +629,7 @@
     <string name="live_music_network_exception_tips">Възникна грешка в мрежата. Натиснете, за да опитате отново.</string>
     <string name="live_reverse_message">Да се изтрие ли вече записан елемент?</string>
     <string name="live_reverse_confirm">Изтрий</string>
-    <string name="live_sticker_fragment_tab_name">TikTok Магически стикер</string>
+    <string name="live_sticker_fragment_tab_name">TikTok ефекти</string>
     <string name="live_speed_extreme_slow">Супер бавно</string>
     <string name="live_speed_extreme_fast">Супер бързо</string>
     <string name="live_sticker_updating">Обновяване…</string>

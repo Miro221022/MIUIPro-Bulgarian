@@ -639,4 +639,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
    <string name="err_no_gms">Несъвместима версия на приложението. Инсталирайте това приложение поотделно</string>
    <string name="trans_detail_item_app_data_skip_data">"Данните за приложението не могат да се прехвърлят"</string>
    <string name="phone_title">Настройки на телефона</string>
+   <string name="dialog_app_upgrade_message">Налице е нова версия на Mi Mover. Актулизиране на Mi Mover сега?</string>
+   <string name="dialog_app_upgrade_exit">Изход</string>
+   <string name="dialog_app_upgrade_download">Актуализиране</string>
 </resources>

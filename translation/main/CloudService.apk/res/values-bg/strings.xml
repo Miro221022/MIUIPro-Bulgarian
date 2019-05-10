@@ -621,8 +621,8 @@
   <string name="member_entrance_title_ultra_low_case_a">Подновяване</string>
   <string name="member_entrance_title_ultra_low_case_b">Подновяване</string>
   <string name="micloud_main_manual_sync">Синхронизирай ръчно</string>
-  <string name="micloud_main_sync_mode_summary">Синхронизиране на повечето елементи, когато е свързано зарядно и екранът е изключен</string>
-  <string name="micloud_main_sync_mode_title">Енергоспестяваща синхронизация</string>
+  <string name="micloud_main_sync_mode_summary">"Горните елементи ще се синхронизират в реално време, когато тази функция е включена. Това може да увеличи консумацията на енергия на вашето устройство."</string>
+  <string name="micloud_main_sync_mode_title">Синхронизация в реално време</string>
   <string name="micloud_manaul_sync_success_button_text">Преглед на подробности</string>
   <string name="micloud_manaul_sync_success_title">Синхронизирано успешно</string>
   <string name="micloud_manual_activating">Активиране…</string>
