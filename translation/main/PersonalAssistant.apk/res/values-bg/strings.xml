@@ -171,7 +171,7 @@
   <string name="corpus_description_apps">Инсталирани приложения</string>
   <string name="corpus_hint_apps">Търсене на приложения</string>
   <string name="corpus_label_apps">Приложения</string>
-  <string name="cta_desc">Събирайте важни преки пътища и информация точно тук.</string>
+  <string name="cta_desc">Всички важни функции на едно място.</string>
   <string name="cta_dialog_negative">Изход</string>
   <string name="cta_dialog_positive">Съгласен</string>
   <string name="cta_dialog_text_all">За да използвате Личен асистент, трябва да прочетете и да се съгласите с нашите %1$s\"Потребителско споразумение\" %2$s и %3$s \"Политика за поверителност\" %4$s. Услугата също изисква интернет връзка и достъп до услугите за местоположение. Улавянето на съдържание, използвано от някои услуги, също изисква интернет връзка. Съгласни ли сте?</string>
@@ -282,7 +282,7 @@
   <string name="express_go_back">Назад</string>
   <string name="express_goods_detail">Подробности за поръчката</string>
   <string name="express_icon_tip">Изтеглете информация за проследяване на експресна поръчка чрез телефонен номер и информация за поръчката.</string>
-  <string name="express_icon_tip_link">Сигурност &amp; поверителност</string>
+  <string name="express_icon_tip_link">Сигурност и поверителност</string>
   <string name="express_inqiury_select_logistics">Куриерска служба</string>
   <string name="express_inquiry">Проследяване</string>
   <string name="express_inquiry_and_send">Проследяване и изпращане</string>
@@ -743,7 +743,7 @@
   <string name="setting_booking_brief_detail">Получаване на информация за вашите отбелязвания като текстови съобщения.</string>
   <string name="setting_btn_add">Добави</string>
   <string name="setting_btn_added">Добавено</string>
-  <string name="setting_btn_remove">Изтрий картата</string>
+  <string name="setting_btn_remove">Изтриване на картата</string>
   <string name="setting_btn_setting">Настройки</string>
   <string name="setting_cards_all_added">Добавяне на всички карти</string>
   <string name="setting_cards_more">Още карти</string>
@@ -934,7 +934,7 @@
   <string name="miot_device_cta_priv">Политика за поверителност.</string>
   <string name="miot_device_cta_use_info">Mi Home Потребителско споразумение</string>
   <string name="miot_device_edit">Редактиране</string>
-  <string name="miot_device_empty_text">Добавете интелигентни устройства като пречистватели на въздуха, видеокамери и роботи за почистване за бързо управление.</string>
+  <string name="miot_device_empty_text">Добавяне на пречиствател за въздух, камера, робот и други интелигентни устройства, за да ги управлявате когато пожелаете.</string>
   <string name="miot_device_install_mijia">Изтегляне</string>
   <string name="miot_device_introduction">Активиране на бързи клавиши за интелигентно устройство</string>
   <string name="miot_device_loading">Зареждане на данни</string>
@@ -995,7 +995,7 @@
   <string name="tb_setting_xiaoai">Xiao AI</string>
   <string name="express_select_send_providers">Изберете доставчик на куриерска услуга</string>
   <string name="express_send_not_available">Услугата е временно недостъпна, моля, опитайте отново по-късно</string>
-  <string name="miot_device_click_show_detail">.(Докоснете, за да узнаете повече за умните домакински устройства)</string>
+  <string name="miot_device_click_show_detail">(Докоснете, за да узнаете повече за умните домакински устройства)</string>
   <string name="card_banner_close_never">"Без повторно напомняне"</string>
   <string name="card_banner_close_tomorrow">Напомни утре</string>
   <string name="cta_dialog_miot_text_all">За да сте сигурни, че може да функционира нормално, Mi Home може да се наложи да придобие вашата мрежа, местоположение, разрешение за включване на Bluetooth, да използва клетъчна мрежа, микрофон и да прочете контактите ви. Потвърждавате ли?</string>
@@ -1036,4 +1036,10 @@
   <string name="cta_old_not_use">Не сега</string>
   <string name="cta_old_start">Начало</string>
   <string name="cta_start">Начало</string>
+  <string name="app_suggest_detail_setting_summary">Предложенията за приложения ще са въз основа на данните ви за използването</string>
+  <string name="app_suggest_detail_setting_title">Разрешаване на достъп до състоянието на приложенията</string>
+  <string name="app_suggest_setting_brief">Показване на последно използваните приложения</string>
+  <string name="app_suggest_setting_brief_detail">Предложенията за приложения ще са въз основа на данните ви за използването</string>
+  <string name="app_suggest_setting_title">Предложения за приложения</string>
+  <string name="setting_title_resident_function">Постоянни функции</string>
 </resources>
