@@ -360,7 +360,7 @@
 	<string name="edit_mode_top_menu_finish">Готово</string>
     <string name="menu_finish">Готово</string>
     <string name="widgets_preview_title">Добавяне на джаджа</string>
-	<string name="launcher_sliding_up_gesture">Стартиране на търсе чрез плъзгане нагоре в начален екран</string>
+	<string name="launcher_sliding_up_gesture">Стартиране на търсене чрез плъзгане нагоре в начален екран</string>
 	<string name="home_gesture_content_center">Център за съдържание</string>
     <string name="home_gesture_global_search">Търсене</string>
     <string name="home_gesture_no_action">Без</string>
