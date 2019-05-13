@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">MusicFX</string>
+  <string name="app_name">Слушалки и аудио ефекти</string>
   <string name="eq_auto">Персонализиранo</string>
   <string name="eq_blues">Блус</string>
   <string name="eq_cancel">Отказ</string>
@@ -25,7 +25,7 @@
   <string name="eq_rock">Рок</string>
   <string name="equalizer">Еквилайзър</string>
   <string name="input_hint_prefix">Въведете %1$s</string>
-  <string name="music_app_unavailable">Зависи от приложението Музика, уверете се, че е налично</string>
+  <string name="music_app_unavailable">Уверете се, че приложението Музика е налично.</string>
   <string name="music_audio_effect_optimize">Аудио настройки</string>
   <string name="music_audio_effect_optimize_summary">Dirac, слушалки и други аудио настройки</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, слушалки и други аудио настройки</string>
@@ -52,7 +52,7 @@
   <string name="music_dirac_mode_piston_standard">Стандартна версия</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
   <string name="music_dirac_mode_reduction_noise">Mi шумопотискане (Тип C)</string>
-  <string name="music_dolby_mode_movie">Филм</string>
+  <string name="music_dolby_mode_movie">Видео</string>
   <string name="music_dolby_mode_music">Музика</string>
   <string name="music_dolby_mode_off">Изключено</string>
   <string name="music_equalizer">Еквалайзер</string>
