@@ -1854,4 +1854,9 @@
    <string name="face_unlock_success_show_message_msg">Показване само на източника на известието, когато устройството е заключено и добавяне на подробности за известието след потвърждаване на лицевите данни</string>
    <string name="face_unlock_success_show_message_title">Показване на подробности за известието след потвърждаване на лицевите данни</string>
    <string name="face_unlock_success_show_message_toast">Известията ще бъдат показани на заключен екран</string>
+   <string name="keyguard_charging_normal_and_level_tip">Зареждане %d%%</string>
+   <string name="keyguard_charging_quick_and_level_tip">Бързо зареждане %d%%</string>
+   <string name="keyguard_charging_super_quick_and_level_tip">Бързо зареждане %d%%</string>
+   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Още</string>
+   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Вход</string>
 </resources>

@@ -2546,7 +2546,7 @@
     <string name="create_gamebooster_destop">Успешно е създаден пряк път на началния екран</string>
     <string name="doze_optimization_summary">Подобряване на реакцията при допир и чувствителността</string>
     <string name="doze_optimization_title">Оптимизирани сензорни контроли</string>
-    <string name="function_shield_summary">Ограничаване на автоматичната яркост, жестовете за заснемане на екрана и режим Четене</string>
+    <string name="function_shield_summary">Ограничаване на избраните функции на системата, когато играете игри</string>
     <string name="function_shield_title">Подобрено изживяване</string>
     <string name="game_else_function">Друго</string>
     <string name="gamebox_browser_not_find">Първо инсталирайте Mi Браузър</string>
@@ -2619,4 +2619,13 @@
     <string name="power_save_ps_close_setting">Изключване на фоновите услуги (синхронизация, GPS), за да се пести батерия</string>
     <string name="power_save_ps_freeze">Замразяване на приложения на заден план</string>
     <string name="power_save_ps_limit">Ограничаване дейността на системните приложения</string>
+	<string name="function_shield_settings_title">Ограничаване на следните функции, когато играете игри</string>
+    <string name="function_shield_auto_bright">Изключване на автоматичната яркост</string>
+    <string name="function_shield_eye_shield">Изключване на режима на четене</string>
+    <string name="function_shield_three_finger">Ограничаване на жестовете за снимка на екрана</string>
+    <string name="function_shield_pull_notification_bar">"Без отваряне на панела за известия"</string>
+    <string name="choose_gs_show_way">Избор на ориентация на началната страница</string>
+    <string name="gs_show_way">Ориентация на началната страница</string>
+    <string name="gs_show_way_horizontal">Хоризонтално</string>
+    <string name="gs_show_way_vertical">Вертикално</string>
 </resources>

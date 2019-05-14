@@ -397,4 +397,8 @@
       <item quantity="other">%d риска са намерени, поправяне сега</item>
       <item quantity="one">%d риск е намерен, поправяне сега</item>
   </plurals>
+      <plurals name="function_shield_num">
+        <item quantity="other">%d функции</item>
+        <item quantity="one">%d функция</item>
+    </plurals>
 </resources>
