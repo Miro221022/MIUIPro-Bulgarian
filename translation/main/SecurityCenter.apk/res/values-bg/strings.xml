@@ -2283,9 +2283,8 @@
     <string name="privacy_apps_enable_summary">Преместете приложенията в скрита папка и премахнете преките им пътища на началния екран</string>
     <string name="privacy_apps_manage">Управление на скрити приложения</string>
     <string name="privacy_apps_tutorial">Инструкция</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">"Когато скриете приложение, то се премества в скрита папка. Неговият пряк път на началния екран се скрива добре.
-Тази функция не се поддържа за системни приложения."</string>
-    <string name="privacy_apps_tutorial_prompt_pagetwo">"Плъзнете с разделяне два пръста по екрана. Ще видите съобщение, в което се иска да въведете паролата за Заключване на приложения."</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">Тази функция ви позволява да скривате иконите на приложенията, така че те повече да не се показват на началния екран.</string>
+    <string name="privacy_apps_tutorial_prompt_pagetwo">"Плъзнете с разделяне два пръста по екрана. Ще видите съобщение, в което се иска да въведете паролата за заключване на приложения."</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">След като въведете паролата си, ще се покаже папката със скрити приложения.</string>
     <string name="privacy_apps_manage_dialog_title">Относно Скрити приложения</string>
     <string name="privacy_apps_manager_dialog_message">Иконата на това приложение няма да се показва на началния екран, след като скриете приложението. Ще скриете ли това приложение сега?</string>

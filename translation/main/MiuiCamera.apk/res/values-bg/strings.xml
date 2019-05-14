@@ -883,4 +883,5 @@
     <string name="beauty_clear_toast">Ефектите за разкрасяване са премахнати успешно</string>
     <string name="edit_hairline">Линия за коса</string>
 	<string name="dialog_ok_time">OK (%dс)</string>
+	<string name="portrait_effect_entry_riddle">Бонбони</string>
 </resources>

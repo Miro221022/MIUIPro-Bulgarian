@@ -211,4 +211,6 @@
     <string name="stop_operate_camera_frequently">"Твърде често отваряте предната камера."</string>
     <string name="takeback_camera_front_failed">"Предната камера не можа да се затвори. Опитайте отново."</string>
 	<string name="popup_camera_calibrate_failed">"Не може да се калибрира"</string>
+	<string name="sim_lock_non_ais_msg">"Вашата СИМ-карта не работи напълно добре с този телефон, защото не отговаря на условията на абонамента ви. Ако имате въпроси или се нуждаете от повече информация по този въпрос, моля свържете се със сервизните центрове на Xiaomi или с магазина в който ви е продал продукта."</string>
+    <string name="sim_lock_now_ais_title">SIM %1$d</string>
 </resources>
