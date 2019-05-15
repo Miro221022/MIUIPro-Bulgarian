@@ -814,7 +814,6 @@
 	<string name="accessibility_bokeh_normal">Замъгляването на фона на предната камера е изключено</string>
     <string name="accessibility_bokeh_on">Замъгляването на фона на предната камера е включено</string>
     <string name="bokeh_use_hint">Ефект дълбочина</string>
-    <string name="module_name_fun_ar">Fun AR</string>
     <string name="out_line_error_prompt">Моля, не закривайте информацията за лицето</string>
     <string name="out_line_face_occlusion">Лицето е закрито</string>
     <string name="out_line_left_eyes_occlusion">Лявото око е затворено</string>
@@ -839,11 +838,9 @@
 	<string name="ultra_wide_open_tip_sat">0.6X Ултра широк ъгъл</string>
     <string name="video_beauty_tip">Разкрасяване за видеоклипове</string>
 	<string name="mimoji_hairstyle">Прическа</string>
-    <string name="mimoji_featured_face">Тип на лицето</string>
     <string name="mimoji_mole_freckle">Бенка и лунички</string>
     <string name="mimoji_mole">Бенка</string>
     <string name="mimoji_ornament">Аксесоари</string>
-    <string name="mimoji_eyebrow_shape">Вежда</string>
     <string name="mimoji_nose">Нос</string>
     <string name="mimoji_earring">Обеци</string>
 	<string name="beauty_clear">Изчистване</string>
@@ -861,7 +858,6 @@
     <string name="mimoji_delete_dialog_title">Изтриване на Mimoji?</string>
     <string name="mimoji_delete"><font fgcolor="#ffff0000">Изтрий</font></string>
     <string name="mimoji_reset">Нулиране</string>
-    <string name="mimoji_hairstyle">Коса</string>
     <string name="mimoji_featured_face">Лице</string>
     <string name="mimoji_eye">Очи</string>
     <string name="mimoji_eyebrow">Вежди</string>
