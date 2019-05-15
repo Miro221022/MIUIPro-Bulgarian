@@ -920,7 +920,7 @@
     <string name="mimoji_check_face_occlusion">"Не закривайте лицето си"</string>
     <string name="mimoji_check_face_too_far">Приближете камерата по-близо до лицето</string>
     <string name="mimoji_check_face_too_close">Отдалечете камерата от лицето</string>
-    <string name="mimoji_check_multi_face">One person at a time!</string>
+    <string name="mimoji_check_multi_face">Един човек в точното време!</string>
     <string name="mimoji_check_beyond_20_degrees">Гледайте в камерата</string>
     <string name="mimoji_start_create">Създава се Mimoji\u2026</string>
     <string name="mimoji_detect_no_face_failed">"Не се вижда лицето"</string>
