@@ -68,4 +68,7 @@
     <string name="runtime_permission_ungranted">"Не може да се стартира запис поради липсващо разрешение"</string>
 	<string name="menu_privacy">Политика за поверителност</string>
 	<string name="txt_divider">" | "</string>
+	<string name="noheadset_dialog_info">FM сигналите може да са лоши, препоръчвайте онлайн съдържание</string>
+    <string name="noheadset_dialog_insert">Включете слушалки</string>
+    <string name="noheadset_dialog_more">Слушайте още радиа</string>
 </resources>
