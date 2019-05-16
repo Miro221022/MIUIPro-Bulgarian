@@ -2627,4 +2627,13 @@
     <string name="gs_show_way">Ориентация на началната страница</string>
     <string name="gs_show_way_horizontal">Хоризонтално</string>
     <string name="gs_show_way_vertical">Вертикално</string>
+	<string name="notification_battery_scan_consume_abnormal_title_set">%s изтощава батерията</string>
+    <string name="notification_battery_scan_consume_abnormal_summary">Докоснете, за да поправите проблем</string>
+    <string name="pc_abnormal_scan_reason_prevent_standby">Предотвратява преминаването на системата в режим на готовност</string>
+    <string name="pc_abnormal_scan_reason_scan_wifi">Твърде често търси Wi-Fi</string>
+    <string name="pc_abnormal_scan_reason_use_GPS">Прекалено често използва услугите за местоположение</string>
+    <string name="pc_abnormal_scan_reason_runtime_exception">Работи необичайно</string>
+    <string name="pc_abnormal_scan_reason_wake_system">Събужда системата твърде често</string>
+    <string name="pc_abnormal_scan_reason_reconnect">Твърде често се опитва да се свърже с мрежата</string>
+    <string name="pc_abnormal_scan_button_text">Затваряне на приложения</string>
 </resources>

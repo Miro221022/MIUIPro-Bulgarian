@@ -401,4 +401,12 @@
         <item quantity="other">%d функции</item>
         <item quantity="one">%d функция</item>
     </plurals>
+	    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d приложения, включително %1$s изтощават батерията</item>
+        <item quantity="one">%2$d приложение, включително %1$s изтощава батерията</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d приложения изтощават батерията</item>
+        <item quantity="one">%d приложение изтощава батерията</item>
+    </plurals>
 </resources>
