@@ -642,4 +642,8 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
    <string name="dialog_app_upgrade_message">Налице е нова версия на Mi Mover. Актулизиране на Mi Mover сега?</string>
    <string name="dialog_app_upgrade_exit">Изход</string>
    <string name="dialog_app_upgrade_download">Актуализиране</string>
+   <string name="dialog_backup_password_change_machine_tips">"Няма да можете да прехвърляте защитени с парола архиви. Изключете паролата при арховоране, преди да използвате Mi Mover."</string>
+   <string name="dialog_backup_password_backup_tips">"Не може да архивирате елементите, когато е включена парола за архивиране. Изключете паролата."</string>
+   <string name="dialog_backup_password_cancel">Отказ</string>
+   <string name="dialog_backup_password_to_settings">Настройки</string>
 </resources>

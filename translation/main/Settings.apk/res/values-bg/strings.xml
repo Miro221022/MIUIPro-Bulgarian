@@ -5044,7 +5044,7 @@
     <string name="popup_window">Ограничаване на плаващите известия</string>
     <string name="mute_music_stream">Заглушаване на музикалния поток</string>
     <string name="miui_enable_service_title">Услугата ще предприеме следните действия:</string>
-    <string name="bluetooth_device_misc_title">Рядко използвани Bluetooth устройства</string>
+    <string name="bluetooth_device_misc_title">Рядко използвани устройства</string>
     <string name="bt_rarely_used_device_title">Рядко използвани устройства (%d)</string>
     <string name="search_input_hint">Търсене на настройки</string>
     <string name="back_button">Назад</string>
@@ -6417,4 +6417,21 @@ OTG се изключва автоматично след 10 минути без
     <string name="backup_set_pw_confirm_title">Потвърдете новата парола за архивиране</string>
 	<string name="search_add_facerecoginition_text">Отключване с лице;Лицево разпознаване</string>
     <string name="search_manage_facerecoginition_text">Отключване с лице;Лицево разпознаване</string>
+	<string name="color_led_applications_title">Изберете приложения</string>
+	<string name="color_led_applications_title_summary">Можете да ограничите използването на LED светлина за отделни приложения</string>
+	<string name="color_led_battery_title">Включена по време на зареждане</string>
+	<string name="color_led_end_time">Крайно време</string>
+	<string name="color_led_game_mode_title">Game Turbo</string>
+	<string name="color_led_hint">Изберете моментите, когато трябва да се използва LED светлина. Светлинният индикатор ще светне, когато екранът е обърнат надолу и Не ме безпокойте е изключен.</string>
+	<string name="color_led_incall_pulse_title">Светкавица при входящи повиквания</string>
+	<string name="color_led_music_mode_title">Музика</string>
+	<string name="color_led_music_mode_summary">Показване на ритмични светлинни ефекти при възпроизвеждане на музика</string>
+	<string name="color_led_notification_pulse_title">Пулсиране при известия</string>
+	<string name="color_led_red_more_feature">Специални ефекти</string>
+	<string name="color_led_start_time">Начално време</string>
+	<string name="color_led_title">LED светлина</string>
+    <string name="long_press_power_key">Продължително натискане на бутона за захранване</string>
+    <string name="long_press_power_key_tips"><Data>Продължително натискане на бутона за захранване &lt;font color=#999999>По-бързо и по-удобно&lt;/font></Data></string>
+	<string name="toggle_auto_speaker_preference_title">Автоматично превключете на говорител</string>
+	<string name="toggle_auto_speaker_preference_summary">Устройството ще превключи на говорител, когато го преместите от ухото си по време на разговори. Тази функция работи само когато е включен TalkBack.</string>
 </resources>
