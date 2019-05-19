@@ -10,7 +10,7 @@
     <string name="announce_for_close_launcher_menu">Затворено меню</string>
     <string name="announce_for_delete_gadget_and_widget">Джаджи</string>
     <string name="announce_for_delete_item">%1$s беше изтрита</string>
-    <string name="announce_for_drag_enter_delete_zone">Провлачени елементи към зоната за деинсталиране</string>
+    <string name="announce_for_drag_enter_delete_zone">Преместете елементи в зоната за деинсталиране</string>
     <string name="announce_for_drag_enter_folder_grid">Вие можете да пуснете елементи в папката</string>
     <string name="announce_for_drag_enter_workspace_thumbnail">Провлачени елементи към миниатюра на екран номер %1$d</string>
     <string name="announce_for_drop">Преместени %1$s</string>
@@ -369,7 +369,7 @@
     <string name="home_slide_up_action">Плъзгане нагоре в начален екран</string>
     <string name="launcher_pull_down_title">Плъзгане надолу в начален екран</string>
     <string name="launcher_slide_up_title">Плъзгане нагоре в начален екран</string>
-	<string name="edit_mode_dual_app">Създаване на клонирано приложение</string>
+	<string name="edit_mode_dual_app">Клониране</string>
     <string name="edit_mode_group_error_cant_delete_system_apps">"Не може да се деинсталират системни приложения"</string>
     <string name="edit_mode_group_error_nothing_be_selected">Първо изберете приложение</string>
     <string name="minus_one_screen">Личен асистент</string>

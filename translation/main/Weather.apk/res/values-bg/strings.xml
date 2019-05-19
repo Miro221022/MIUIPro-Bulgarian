@@ -68,7 +68,7 @@
   <string name="button_sure_abandon">Отмени промените?</string>
   <string name="card_vote_item_vs">За/Пр</string>
   <string name="change_alert">Проверете мрежовата връзка и опитайте отново</string>
-  <string name="china_version_first_start_network_msg">"Вие трябва да се съгласите с %1$s и %2$s на Xiaomi, за да можете да използвате Времето. Времето се ниждаеот достъп до местоположението ви и връзка с интернет, за да работи нормално. Съгласни ли сте?"</string>
+  <string name="china_version_first_start_network_msg">"Вие трябва да се съгласите с %1$s и %2$s на Xiaomi, за да можете да използвате Времето. Времето се нуждае от достъп до местоположението ви и връзка с интернет, за да работи нормално. Съгласни ли сте?"</string>
   <string name="city_exceeded_warning">Можете да добавите до 10 града</string>
   <string name="common_loading_text">Един момент…</string>
   <string name="connect_fail">Не може да се свърже с мрежа, опитайте отново</string>

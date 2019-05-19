@@ -647,7 +647,7 @@
   <string name="payment_clear_records_success">Изчистена история на плащанията</string>
   <string name="payment_date_time_picker_dialog_title">Задайте дата и час</string>
   <string name="payment_guide_hint">Събирайте информация за плащания от Съобщения и други приложения.</string>
-  <string name="payment_guide_hint_link">Сигурност &amp; поверителност</string>
+  <string name="payment_guide_hint_link">\"Политика за поверителност на Личен асистент\"</string>
   <string name="payment_method_bank">Дебитна карта</string>
   <string name="payment_method_cash">Пари в брой</string>
   <string name="payment_method_credit">Кредитна карта</string>
@@ -747,7 +747,7 @@
   <string name="setting_btn_setting">Настройки</string>
   <string name="setting_cards_all_added">Добавяне на всички карти</string>
   <string name="setting_cards_more">Още карти</string>
-  <string name="setting_common_private">Сигурност &amp; поверителност</string>
+  <string name="setting_common_private">Сигурност и поверителност</string>
   <string name="setting_dialog_cancel">Отказ</string>
   <string name="setting_dialog_quit">Изход</string>
   <string name="setting_dialog_title">Всички промени ще бъдат изтрити. Изход сега?</string>
@@ -851,7 +851,7 @@
   <string name="stock_web_bottom_text">Отворете клиента, за да видите повече информация</string>
   <string name="stock_web_lable">Стоки</string>
   <string name="study_parent">Проучване</string>
-  <string name="system_favorite_dialog_link">Сигурност &amp; поверителност</string>
+  <string name="system_favorite_dialog_link">Сигурност и поверителност</string>
   <string name="system_favorite_dialog_message">Любимите от множество приложения и услуги ще бъдат добавени в хранилището на Личен асистент.Съгласни ли сте?</string>
   <string name="system_favorite_dialog_negative">Отказ</string>
   <string name="system_favorite_dialog_positive">Разрешаване</string>
@@ -1042,4 +1042,5 @@
   <string name="app_suggest_setting_brief_detail">Предложенията за приложения ще са въз основа на данните ви за използването</string>
   <string name="app_suggest_setting_title">Предложения за приложения</string>
   <string name="setting_title_resident_function">Постоянни функции</string>
+  <string name="display_weather_default">Докоснете, за да получите информация за времето</string>
 </resources>
