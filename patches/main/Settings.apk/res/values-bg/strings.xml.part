@@ -49,7 +49,7 @@
   <string name="ga_gestures_rename_label">Брой жестове</string>
   <string name="ga_gestures_rename_title">Преименувай жест</string>
   <string name="ga_save_success">Жестът е запазен за  %s</string>
-  <string name="gesture_anywhere_enabled_summary">Настройване на управлението на жестове</string>
+  <string name="gesture_anywhere_enabled_summary">Настройване на управлението с жестове</string>
   <string name="gesture_anywhere_enabled_title">Управление на жестове</string>
   <string name="gesture_anywhere_gestures_summary">Добавяне, премахване и редактиране на жестове</string>
   <string name="gesture_anywhere_gestures_title">Жестове</string>

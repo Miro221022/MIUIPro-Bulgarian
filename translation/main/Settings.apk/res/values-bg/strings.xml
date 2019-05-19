@@ -4769,7 +4769,7 @@
     <string name="fluency_mode">Системни анимации</string>
     <string name="fluency_mode_confirm_and_reboot">Рестарт сега</string>
     <string name="gesture_wakeup_title">Събуждане чрез двукратно почукване</string>
-    <string name="pick_up_gesture_wakeup_title">Събуждане на устройството, чрез повдигане</string>
+    <string name="pick_up_gesture_wakeup_title">Събуждане чрез повдигане</string>
     <string name="aod_mode_title">Режим Винаги включен</string>
     <string name="install_no_market_app_title">Неизвестни източници</string>
     <string name="install_no_market_app_summary">Разрешаване на инсталация на приложения от източници,различни от Play Store</string>
