@@ -595,7 +595,6 @@
     <string name="member_menu_vipname_mega">Мега</string>
     <string name="member_menu_vipname_premium">Премиум</string>
     <string name="member_menu_vipname_ultra">Ултра</string>
-    <string name="find_device_gdpr_prompt">Чрез включването на Намиране на устройството приемате нашата Декларация за поверителност. Ако искате да отмените разрешението, изключете тази функция.</string>
 	<string name="close_shortcut">Затвори</string>
 	<string name="micloud_dspt_provision_xms">Използвайте Mi Облак за синхронизиране на информация.</string>
     <string name="micloud_main_cancel_sync_now">Анулира се ...</string>
@@ -689,4 +688,5 @@
   <string name="user_detail_privacy_policy">Политика за поверителност</string>
   <string name="micloud_storage_unit_mb">%sМб</string>
   <string name="micloud_storage_unit_gb">%sГб</string>
+  <string name="find_device_gdpr_prompt">Чрез включването на Открий устройството, вие се съгласявате с нашата <u><a href="app://com.miui.cloudservice.gdpr.license">Политика за поверителност</a></u>. Ако трябва да отмените оторизацията, изключете тази функция.</string>
 </resources>
