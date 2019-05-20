@@ -1356,8 +1356,8 @@
     <string name="examination_score_60_0">Оптимизирайте устройството си</string>
     <string name="examination_score_has_virus">Открити са някои съмнителни приложения!</string>
     <string name="activity_title_settings">Настройки</string>
-    <string name="activity_title_antivirus">Сканиране на защитата</string>
-    <string name="activity_title_networkassistants">Използване на данни</string>
+    <string name="activity_title_antivirus">Антивирус</string>
+    <string name="activity_title_networkassistants">Данни</string>
     <string name="activity_title_antispam">Списък с блокирани</string>
     <string name="activity_title_license_manager">Разрешения</string>
     <string name="activity_title_power_manager">Оптимизация на батерията</string>
@@ -2073,7 +2073,7 @@
     <string name="get_sys_info">Заявка за информация…</string>
     <string name="function_close">Изкл</string>
     <string name="add_done">Добавено успешно</string>
-    <string name="boost_done">Ускоряването е успешно</string>
+    <string name="boost_done">Успешно ускоряване</string>
     <string name="boost_stop">Изключи подобряването на производителността</string>
     <string name="already_close_gamebooster">Ускорителят на игри е изключен</string>
     <string name="no_game">"Не бяха намерени игри"</string>
@@ -2104,8 +2104,8 @@
     <string name="start_game">Стартиране</string>
     <string name="scan_installed_games">Проверка на инсталираните игри…</string>
     <string name="boostering">Ускоряване на системата…</string>
-    <string name="booster_suc">Ускоряването е успешно</string>
-    <string name="auto_booster_suc">Ускоряването е успешно</string>
+    <string name="booster_suc">Успешно ускоряване</string>
+    <string name="auto_booster_suc">Успешно ускоряване</string>
     <string name="auto_back_booster">Спиране на ускорителя</string>
     <string name="support_game_booster_tips">Ускоряване на скоростта и подобряване на изживяването в игрите</string>
     <string name="setting">Настройки</string>
@@ -2620,8 +2620,8 @@
     <string name="power_save_ps_limit">Ограничаване дейността на системните приложения</string>
 	<string name="function_shield_settings_title">Ограничаване на следните функции, когато играете игри</string>
     <string name="function_shield_auto_bright">Изключване на автоматичната яркост</string>
-    <string name="function_shield_eye_shield">Изключване на режима на четене</string>
-    <string name="function_shield_three_finger">Ограничаване на жестовете за снимка на екрана</string>
+    <string name="function_shield_eye_shield">Изключване на режима за четене</string>
+    <string name="function_shield_three_finger">Ограничаване на жестовете за заснемане на екрана</string>
     <string name="function_shield_pull_notification_bar">"Без отваряне на панела за известия"</string>
     <string name="choose_gs_show_way">Избор на ориентация на началната страница</string>
     <string name="gs_show_way">Ориентация на началната страница</string>

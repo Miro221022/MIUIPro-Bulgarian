@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_max_bytes_limit">
-        <item>Без лимит</item>
+        <item>Без ограничение</item>
         <item>100Мб</item>
         <item>20Мб</item>
         <item>10Мб</item>
         <item>5Мб</item>
         <item>2Мб</item>
         <item>1Мб</item>
-        <item>512Кб</item>
-        <item>Винаги изчаквай за Wi-Fi</item>
+        <item>512Мб</item>
+        <item>Винаги изчаквай за WLAN</item>
     </string-array>
 </resources>

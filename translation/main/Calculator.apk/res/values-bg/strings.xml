@@ -444,7 +444,7 @@
     <string name="float_window_guide_text">Докоснете тук, за да смалите калкулатора</string>
     <string name="hint_floatwindow_alpha_guide_text">Докоснете, за да коригирате прозрачността</string>
     <string name="view_float_window_move">Преместване на умаления Калкулатор</string>
-	<string name="dialog_privacy_content">Освен основните функции на калкулатор, нашето приложение съдържа и научен калкулатор и многоцелеви конвертор. Някои функции изискват връзка с интернет, за да работят нормално. Трябва да прочетете и да се съгласите с нашите %1$s и %2$s преди да използвате Калкулатор.</string>
+	<string name="dialog_privacy_content">Освен основните функции на калкулатор, нашето приложение съдържа научен калкулатор и многоцелеви конвертор. Някои функции изискват връзка с интернет, за да работят нормално. Трябва да прочетете и да се съгласите с нашите %1$s и %2$s преди да използвате Калкулатор.</string>
     <string name="dialog_privacy_title">Правила и условия</string>
 	<string name="dialog_rating_desc_ask">Какво мислите за Калкулатор?</string>
     <string name="dialog_rating_desc_less">Можете ли да ни дадете и отзив?</string>
@@ -452,4 +452,6 @@
     <string name="dialog_rating_title">Оценете приложението ни</string>
 	<string name="allow">Съгласен</string>
 	<string name="exit">Изход</string>
+	<string name="user_agreement">Потребителско споразумение</string>
+	<string name="privacy_policy">Политика за поверителност</string>
 </resources>
