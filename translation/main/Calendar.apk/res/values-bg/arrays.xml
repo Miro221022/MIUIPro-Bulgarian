@@ -326,6 +326,7 @@
         <item>10 минути</item>
         <item>15 минути</item>
         <item>30 минути</item>
+		<item>1 час</item>
     </string-array>
 	    <string-array name="repeat_monthly_on_day_count_values">
         <item>първия понеделник</item>
@@ -363,5 +364,13 @@
         <item>последния петък</item>
         <item>последната събота</item>
         <item>последната неделя</item>
+    </string-array>
+	    <string-array name="close_alarm_repeating_labels">
+        <item>Само за това време</item>
+        <item>Изключване на повтарящото се напомняне</item>
+    </string-array>
+	 <string-array name="open_alarm_repeating_labels">
+        <item>Само за това време</item>
+        <item>Задаване на повтарящо се напомняне</item>
     </string-array>
 </resources>
