@@ -78,7 +78,7 @@
   <string name="account_setup_check_settings_check_incoming_msg">Проверка на настройките на сървъра…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Потвърждаване на SMTP настройки…</string>
   <string name="account_setup_check_settings_retr_info_msg">"    Извличане на информация за профила…"</string>
-  <string name="account_setup_correct_address_tips">Въведете адрес на ел. поща</string>
+  <string name="account_setup_correct_address_tips">Въведеният от вас имейл адрес е невалиден.</string>
   <string name="account_setup_creating_account_msg">"    Създаване на профил…"</string>
   <string name="account_setup_deleting_account_msg">"    Премахване на профил…"</string>
   <string name="account_setup_exchange_certificate_title">Сертификат на клиент</string>
@@ -416,7 +416,11 @@
   <string name="empty_trash_dialog_title">Изпразване на кошчето?</string>
   <string name="enable_sync_in_account_settings">Включете в %1$s .</string>
   <string name="error">Грешка</string>
-  <string name="exception_cancel">"Това събитие е отменено за: %s "</string>
+  <string name="exception_cancel">"
+        Това събитие е анулирано
+        за:
+        %s
+    "</string>
   <string name="exception_updated">"Подробностите на това събитие са били променени за: %s "</string>
   <string name="exchange_name">Име на Exchange сървъра</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -578,17 +582,50 @@
   <string name="mark_unread">Маркирай като непрочетено</string>
   <string name="me_object_pronun">аз</string>
   <string name="me_subject_pronun">аз</string>
-  <string name="meeting_accepted">" Потвърдени срещи:\n%s "</string>
-  <string name="meeting_allday">" Кога:\n%s (цял ден) "</string>
-  <string name="meeting_allday_recurring">" Кога:\n%s (цял ден, повтарящи се) "</string>
-  <string name="meeting_canceled">" Отменени срещи:\n%s "</string>
-  <string name="meeting_declined">" Отказани срещи:\n%s "</string>
-  <string name="meeting_recurring">" Кога:\n%s (повтарящи се) "</string>
+  <string name="meeting_accepted">"
+        Приети:
+        %s
+    "</string>  
+  <string name="meeting_allday">"
+        Кога:
+        %s
+        (цял ден)
+    "</string>  
+  <string name="meeting_allday_recurring">"
+        Кога:
+        %s
+        (цял ден, повтарящо се)
+    "</string>
+  <string name="meeting_canceled">"
+        Отменени:
+        %s
+    "</string>
+    <string name="meeting_declined">"
+        Отказани:
+        %s
+    "</string>
+    <string name="meeting_recurring">"
+        Кога:
+        %s
+        (повтарящо се)
+    "</string>
   <string name="meeting_responded_failed">Няма отговор</string>
-  <string name="meeting_tentative">" Непотвърдени срещи:\n%s "</string>
-  <string name="meeting_updated">" Обновени срещи:\n%s "</string>
-  <string name="meeting_when">" Кога:\n%s "</string>
-  <string name="meeting_where">" Къде:\n%s "</string>
+  <string name="meeting_tentative">"
+        Предварително:
+        %s
+    "</string>
+   <string name="meeting_updated">"
+        Обновени:
+        %s
+    "</string>
+    <string name="meeting_when">"
+        Кога:
+        %s
+    "</string>
+    <string name="meeting_where">"
+        Къде:
+        %s
+    "</string>
   <string name="megabytes">%s  Мб</string>
   <string name="menu_att_mgr">Прикачени файлове</string>
   <string name="menu_att_mgr_order_default">Наскоро разглеждани</string>
@@ -979,7 +1016,7 @@
   <string name="tap_to_enable_sync">Докоснете, за да включите.</string>
   <string name="to">На</string>
   <string name="to_heading">"До: "</string>
-  <string name="toast_bar_fail_synchronization">Не може да се свърже с мрежата</string>
+  <string name="toast_bar_fail_synchronization">"Няма достъп до сървъра. Изчакайте минута или две и опитайте отново."</string>
   <string name="toast_bar_insufficient_memory_space">Не мога да получавам имейли. Няма достатъчно място за съхранение.</string>
   <string name="toast_bar_invalid_account">Информацията за профила е изтекла. Докоснете, за да влезете отново.</string>
   <string name="toast_bar_no_connection_network">Вие нямате връзка с мрежата</string>
@@ -1081,28 +1118,39 @@
   <string name="privacy_policy">Политика за поверителност</string>
   <string name="chinese">Китайски</string>
   <string name="notify_channel_new_mail">Известяване за нови съобщения</string>
-  <string name="notify_channel_permission_notice">Бележка за известието за разрешение</string>
-  <string name="notify_channel_send_fail">Известяване за неуспешно доставяне</string>
+  <string name="notify_channel_permission_notice">Изискват се разрешения</string>
+  <string name="notify_channel_send_fail">Известяване за неуспешни доставки</string>
   <string name="show_more_attachment">Още прикачени файлове</string>
   <string name="overlays_tip_23">Отворете плаващи прозорци за разрешения в мениджъра на разрешенията и веднага се насладете на 139 mailbox за автоматично конфигуриране на екстремното преживяване.</string>
-  <string name="add_file_exception">Добавете изключение. Моля, опитайте да добавите от други пътища.</string>
+  <string name="add_file_exception">"Не може да се добави. Опитайте да добавите този прикачен файл от друго място."</string>
   <string name="dialog_agree">Съгласявам се</string>
-  <string name="dialog_disagree">Не се съгласявам</string>
-  <string name="list_empty_to_fresh">Няма поща, моля, опитайте да плъзнете надолу за обновяване.</string>
-  <string name="notify_channel_no_disterb">Няма режим на обезпокояване</string>
+  <string name="dialog_disagree">"Не се съгласявам"</string>
+  <string name="list_empty_to_fresh">Все още няма имейли.</string>
+  <string name="notify_channel_no_disterb">Не ме безпокойте</string>
   <string name="privacy_des">"Информацията в отчета съдържа информация за отстраняване на грешки, отпечатана от приложението за електронна поща и информация за устройството ви, за да локализираме проблемите, които докладвате.Избирайки следното \"%1$s\" Това означава, че сте прочели и сте се съгласили с 《%2$s》 на Xiaomi"</string>
-  <string name="notify_channel_service">Напомняне за синхронизиране на заден план</string>
-  <string name="appraise_des">Работим много усилено, за да разработим продукти, само за вашето удовлетворение. Моля, подкрепете ни с вашите коментари.</string>
-  <string name="appraise_good">Похвала и насърчение</string>
-  <string name="appraise_ignore">Временна оценка</string>
-  <string name="appraise_negative">Негативен коментар</string>
-  <string name="have_auth_code">Вписване чрез код</string>
-  <string name="help_me_get_qq_auth">Помогнете ми да получа QQ код за авторизация на</string>
-  <string name="open_androidp_warning">Отворено 9.0 Неофициално SDK предупреждение</string>
-  <string name="qq_login_notice">Полезен съвет: Ако сте задали независима парола, трябва да въведете независима парола, за да потвърдите влизането си в пощенската кутия.</string>
-  <string name="qq_pwd_or_qq_auth_code">QQ код за оторизация или парола за пощенска кутия</string>
+  <string name="notify_channel_service">Известяване за синхронизация на заден план</string>
+  <string name="appraise_des">Харесвате ли нашето приложение?</string>
+  <string name="appraise_good">Да</string>
+  <string name="appraise_ignore">"В момента не мога да кажа"</string>
+  <string name="appraise_negative">Не</string>
+  <string name="have_auth_code">Имам код</string>
+  <string name="help_me_get_qq_auth">Получване на QQ код</string>
+  <string name="open_androidp_warning">Предупреждение за 9.0 неофициални SDK</string>
+  <string name="qq_login_notice">"Забележка: Ако вече сте задали парола, трябва да я потвърдите, когато се впишете."</string>
+  <string name="qq_pwd_or_qq_auth_code">Въведете QQ код или парола за имейла</string>
   <string name="folder_empty_to_fresh">"Пощата не е синхронизирана. Дръпнете надолу, за да синхронизирате."</string>
   <string name="folder_no_mails">Няма имейли в тази папка</string>
-  <string name="toast_bar_sync_failed_mi_authority">Синхронизирането не бе успешно. Моля, опитайте по-късно. За да се впишете в новото устройство, моля, разрешете устройството чрез центъра за профили или SMS.</string>
-  <string name="wipe_account_fail_description_remind">Поради разрешения за данни, след изтриването на профила в календара и контактите може да има остатъчни данни, моля, изтрийте ги ръчно.</string>
+  <string name="toast_bar_sync_failed_mi_authority">"Не може да се синхронизира. Изчакайте минута или две и опитайте отново. Ако влизате за първи път, упълномощете устройството си чрез интранет/SMS маркер."</string>
+  <string name="wipe_account_fail_description_remind">Поради ограничения за използване на данни, може да има остатъчни данни в Календар и Контакти, след като изтриете профила. Изтрийте тези елементи ръчно.</string>
+  <string name="account_setup_basics_password_label_authcode">Въведете парола или код за потвърждение</string>
+  <string name="add_account_search">Добавете профил</string>
+  <string name="attachment_opening_mode">Приложения за прикачване</string>
+  <string name="default_opening_attchemnt_mode">Отваряне на прикачените файлове, чрез приложения по подразбиране</string>
+  <string name="delete_contact_content">Изтриване на този контакт сега?</string>
+  <string name="feedback_body_domestic"/>
+  <string name="local_search_result">%s Резултата в синхронизираните съобщения</string>
+  <string name="login_err_message">Въведената от вас парола е неправилна. Може да се нуждаете и от код за потвърждение, за да се впишете. Ако трябва да зададете нова парола, посетете https://email.163.com/ за да видите наличните опции.</string>
+  <string name="recommend_protocal">Протокол за препоръка</string>
+  <string name="remote_no_mail">"На сървъра няма повече имейли."</string>
+  <string name="wait_while_update_db">Моля изчакайте докато се обновява базата данни!</string>
 </resources>

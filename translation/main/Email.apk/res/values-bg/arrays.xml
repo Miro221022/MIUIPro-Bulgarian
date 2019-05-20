@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="all_month_str">
-        <item>Яну</item>
-        <item>Февр</item>
+        <item>Януари</item>
+        <item>Февруари</item>
         <item>Март</item>
         <item>Април</item>
         <item>Май</item>
         <item>Юни</item>
         <item>Юли</item>
         <item>Август</item>
-        <item>Септ</item>
-        <item>Октом</item>
-        <item>Ноем</item>
-        <item>Дек</item>
+        <item>Септември</item>
+        <item>Октомври</item>
+        <item>Ноември</item>
+        <item>Декември</item>
     </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Тази вечер</item>
@@ -53,7 +53,7 @@
     </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Адрес:</item>
-        <item>Тел:</item>
+        <item>Телефон:</item>
         <item>Име:</item>
         <item>Електронна поща:</item>
         <item>Мобилен:</item>
