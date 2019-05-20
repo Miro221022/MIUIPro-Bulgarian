@@ -280,4 +280,8 @@
         <item quantity="other">%1$d файла</item>
         <item quantity="one">%1$d файл</item>
     </plurals>
+	   <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Колажите могат да съдържат 1-%d снимки</item>
+        <item quantity="one">Колажите могат да съдържат 1-%d снимка</item>
+    </plurals>
 </resources>

@@ -48,4 +48,20 @@
         <item quantity="other">Можете отново да изпратите отзиви след %1$s секунди</item>
         <item quantity="one">Можете отново да изпратите отзиви след %1$s секунда</item>
     </plurals>
+	    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Максимална температура: %1$s градуса по Целзий</item>
+        <item quantity="one">Максимална температура: %1$s градус по Целзий</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Максимална температура: %1$s градуса по Фаренхайт</item>
+        <item quantity="one">Максимална температура: %1$s градус по Фаренхайт</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Минимални температура: %1$s градуса по Целзий</item>
+        <item quantity="one">Минимални температура: %1$s градус по Целзий</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Минимални температура: %1$s градуса по Фаренхайт</item>
+        <item quantity="one">Минимални температура: %1$s градус по Фаренхайт</item>
+    </plurals>
 </resources>

@@ -1516,4 +1516,7 @@
   <string name="filter_sky_sunny">Слинчево</string>
   <string name="filter_sky_sunset">Залез</string>
   <string name="trash_bin_key_word">Изтрити снимки</string>
+  <string name="clear_dup_medias">Почистете дублираните снимки</string>
+  <string name="clear_dup_success">Успешно почистено</string>
+  <string name="clear_dup_tip">Изчистване на дублираните снимки</string>
 </resources>
