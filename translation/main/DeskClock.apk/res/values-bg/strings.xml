@@ -267,4 +267,5 @@
   <string name="module_download_msg_timer">Часовник трябва да изтегли аудио файлове за таймери със звуци от околната среда. Изтегляне сега?</string>
   <string name="personal_recommend">Препоръки за персонализирано съдържание</string>
   <string name="user_agreement">Потребителско споразумение</string>
+  <string name="update_notification_info">Актуализиране на данните на заден план…</string>
 </resources>

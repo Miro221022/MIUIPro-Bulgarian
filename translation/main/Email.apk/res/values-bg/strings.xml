@@ -429,8 +429,8 @@
   <string name="failed">Не можа да се зареди изображение</string>
   <string name="failed_parse_eml_file">Не можах да отворя EML файл, опитайте отново.</string>
   <string name="failed_read_phone_state_permission">Разреши достъп до информацията за състоянието на устройството</string>
-  <string name="failed_read_write_calendar_permission">Разреши достъп до календара</string>
-  <string name="failed_read_write_contacts_permission">Разреши достъп до контакти</string>
+  <string name="failed_read_write_calendar_permission">Достъпът до Календар е ограничен</string>
+  <string name="failed_read_write_contacts_permission">Достъпът до контактите е ограничен</string>
   <string name="feedback">Изпращане на отзив</string>
   <string name="feedback_body">Съобщение</string>
   <string name="feedback_sent">Благодаря ви за вашето мнение</string>
