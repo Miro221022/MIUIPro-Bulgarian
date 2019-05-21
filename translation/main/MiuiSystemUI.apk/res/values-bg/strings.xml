@@ -1840,7 +1840,7 @@
    <string name="face_unlock_fail_retry_global">Натиснете по-горе, за да използвате отключване с лице</string>
    <string name="power_save_ps_clean">Изчистване на кеша, когато устройството е заключено</string>
    <string name="power_save_ps_close_setting">Изключване на фоновите услуги (синхронизация, GPS), за да се пести батерия</string>
-   <string name="power_save_ps_freeze">Замразяване на приложения на заден план</string>
+   <string name="power_save_ps_freeze">Замразяване на приложенията на заден план</string>
    <string name="power_save_ps_limit">Ограничаване дейността на системните приложения</string>
    <string name="notification_channel_dnd">Не ме безпокойте</string>
    <string name="dnd_notification_warnings_title">Не ме безпокойте е включен. Повикванията и известията ще бъдат заглушени</string>

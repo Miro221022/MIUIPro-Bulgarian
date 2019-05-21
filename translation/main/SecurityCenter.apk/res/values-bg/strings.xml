@@ -1111,9 +1111,9 @@
     <string name="settings_battery_consume_abnormal_summary">Получаване на известия, когато батерията се изразходва бързо</string>
     <string name="settings_category_overheat">Прегряване</string>
     <string name="settings_category_other">Други настройки</string>
-    <string name="settings_choice_no_notification">Изкл.</string>
-    <string name="settings_power_save_ontime_title">Планиране</string>
-    <string name="power_save_mode_ontime_enabled">Време за превключване между режимите</string>
+    <string name="settings_choice_no_notification">Изключено</string>
+    <string name="settings_power_save_ontime_title">График</string>
+    <string name="power_save_mode_ontime_enabled">График за превключване между режимите</string>
     <string name="power_save_mode_start_time">Начало</string>
     <string name="power_save_mode_end_time">Край</string>
     <string name="charging_text_battery_nearly_full">Почти заредена</string>
@@ -2616,7 +2616,7 @@
     <string name="securityadd_update_tips_title">Актуализирай</string>
 	<string name="power_save_ps_clean">Изчистване на кеша, когато устройството е заключено</string>
     <string name="power_save_ps_close_setting">Изключване на фоновите услуги (синхронизация, GPS), за да се пести батерия</string>
-    <string name="power_save_ps_freeze">Замразяване на приложения на заден план</string>
+    <string name="power_save_ps_freeze">Замразяване на приложенията на заден план</string>
     <string name="power_save_ps_limit">Ограничаване дейността на системните приложения</string>
 	<string name="function_shield_settings_title">Ограничаване на следните функции, когато играете игри</string>
     <string name="function_shield_auto_bright">Изключване на автоматичната яркост</string>
