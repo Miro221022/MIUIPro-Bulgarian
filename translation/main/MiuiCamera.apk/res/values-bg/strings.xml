@@ -848,7 +848,7 @@
     <string name="edit_hairline">Линия за коса</string>
 	<string name="dialog_ok_time">OK (%dс)</string>
 	<string name="portrait_effect_entry_riddle">Бонбони</string>
-	<string name="module_name_fun_ar">Забавно</string>
+	<string name="module_name_fun_ar">Mimoji</string>
     <string name="mimoji_create_tips">Погледнете в камерата, за да създадете свой Mimoji</string>
     <string name="mimoji_recapture_alert">Всички промени ще бъдат отхвърлени, след като започнете отначало. Да се започне ли отначало?</string>
     <string name="mimoji_edit_back_alert">Всички промени ще бъдат отхвърлени, след като се върнете. Връщане въпреки това??</string>
