@@ -928,15 +928,15 @@
   <string name="miot_device_add_device">Добавяне на устройство</string>
   <string name="miot_device_all_device">Цялото оборудване</string>
   <string name="miot_device_cancel">отменен</string>
-  <string name="miot_device_card_title">Mi Home</string>
+  <string name="miot_device_card_title">Mi Home устройства</string>
   <string name="miot_device_cta_and"> и </string>
-  <string name="miot_device_cta_message">Добавете вашите интелигентни устройства, за да ги контролирате когато желаете. Натиснете Оторизиране, за да се съгласите</string>
+  <string name="miot_device_cta_message">Добавете вашите интелигентни устройства, за да можете да ги контролирате в Личен аситент. С натискането на \"Съгласен съм\" по-долу, вие се съгласявате с </string>
   <string name="miot_device_cta_priv">Политика за поверителност.</string>
   <string name="miot_device_cta_use_info">Mi Home Потребителско споразумение</string>
   <string name="miot_device_edit">Редактиране</string>
   <string name="miot_device_empty_text">Добавяне на пречиствател за въздух, камера, робот и други интелигентни устройства, за да ги управлявате когато пожелаете.</string>
   <string name="miot_device_install_mijia">Изтегляне</string>
-  <string name="miot_device_introduction">Активиране на бързи клавиши за интелигентно устройство</string>
+  <string name="miot_device_introduction">Плъзнете надолу в Личен асистент, за да видите наличните контроли за умен дом</string>
   <string name="miot_device_loading">Зареждане на данни</string>
   <string name="miot_device_login">Към вписване</string>
   <string name="miot_device_mijia_logout_message">Преди да добавите и използвате устройството, трябва да влезете в Mi профила. Искате ли да влезете?</string>
@@ -995,7 +995,7 @@
   <string name="tb_setting_xiaoai">Xiao AI</string>
   <string name="express_select_send_providers">Изберете доставчик на куриерска услуга</string>
   <string name="express_send_not_available">Услугата е временно недостъпна, моля, опитайте отново по-късно</string>
-  <string name="miot_device_click_show_detail">(Докоснете, за да узнаете повече за умните домакински устройства)</string>
+  <string name="miot_device_click_show_detail">Докоснете, за да узнаете повече за умните домакински устройства</string>
   <string name="card_banner_close_never">"Без повторно напомняне"</string>
   <string name="card_banner_close_tomorrow">Напомни утре</string>
   <string name="cta_dialog_miot_text_all">За да сте сигурни, че може да функционира нормално, Mi Home може да се наложи да придобие вашата мрежа, местоположение, разрешение за включване на Bluetooth, да използва клетъчна мрежа, микрофон и да прочете контактите ви. Потвърждавате ли?</string>
@@ -1043,4 +1043,5 @@
   <string name="app_suggest_setting_title">Предложения за приложения</string>
   <string name="setting_title_resident_function">Постоянни функции</string>
   <string name="display_weather_default">Докоснете, за да получите информация за времето</string>
+  <string name="quick_app_settings_brief">Плъзнете надолу в Личен асистент, за да видите последно използваните бързи приложения</string>
 </resources>
