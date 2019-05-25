@@ -4584,23 +4584,23 @@
     <string name="bluetooth_unlock_settings_toggle_title">Ползване за</string>
     <string name="bluetooth_unlock_settings_unlock_device">Отключване</string>
     <string name="bluetooth_unlock_settings_devices_title">Устройство</string>
-    <string name="bluetooth_unlock_no_matched_device_yet">Все още няма достъпни устройства</string>
+    <string name="bluetooth_unlock_no_matched_device_yet">Не са открити устройства</string>
     <string name="bluetooth_unlock_change_matched_device">Избор на друго устройство</string>
     <string name="bluetooth_unlock_add_device">Добавяне на устройство</string>
     <string name="bluetooth_unlock_delete_device">Изтриване на устройството</string>
     <string name="bluetooth_device_address">Адрес:</string>
     <string name="bluetooth_preference_connected_devices">Свързани устройства</string>
-    <string name="bluetooth_unlock_confirm_device_text">Докоснете устройствата, за отключване.</string>
-    <string name="bluetooth_unlock_confirm_device_text_for_miband2">Отключване на устройството с бутон на телефона.</string>
-    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Отключване на устройството с бутон на смарт часовник.</string>
+    <string name="bluetooth_unlock_confirm_device_text">Докоснете Bluetooth устройството, за да потвърдите.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_miband2">Докоснете бутона на устройството, за да отключите.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Потвърдете на часовника.</string>
     <string name="bluetooth_unlock_device_matched_text">Ползване на това устройство за отключване.</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Да се изтрие ли това устройство?</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Старото устройство ще бъде заменено с текущото устройство.</string>
-    <string name="bluetooth_unlock_state_label">Статус:</string>
-    <string name="bluetooth_unlock_state_disconnected">Изключено</string>
+    <string name="bluetooth_unlock_state_label">"Състояние: "</string>
+    <string name="bluetooth_unlock_state_disconnected">Не е свързано</string>
     <string name="bluetooth_unlock_state_key_error">Грешка в ключа</string>
     <string name="bluetooth_unlock_state_too_far">Не е в обхват</string>
-    <string name="bluetooth_unlock_state_ok">Успешно</string>
+    <string name="bluetooth_unlock_state_ok">Отключено</string>
     <string name="miui_lab_settings">MIUI лаб</string>
     <string name="miui_lab_slogan">Учете. Изследвайте. Откривайте.</string>
     <string name="miui_lab_features">MIUI лаб услуги</string>
@@ -6434,4 +6434,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="long_press_power_key_tips"><Data>Продължително натискане на бутона за захранване &lt;font color=#999999>По-бързо и по-удобно&lt;/font></Data></string>
 	<string name="toggle_auto_speaker_preference_title">Автоматично превключете на говорител</string>
 	<string name="toggle_auto_speaker_preference_summary">Устройството ще превключи на говорител, когато го преместите от ухото си по време на разговори. Тази функция работи само когато е включен TalkBack.</string>
+	<string name="bluetooth_unlock_confirm_device_text_for_huami_band">Потвърдете на гривната.</string>
 </resources>
