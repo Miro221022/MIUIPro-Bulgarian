@@ -104,8 +104,8 @@
   <string name="comment_reply">Отговор %1$s: </string>
   <string name="compress_fail">"Не може да се компресира. Файл със същото име вече съществува"</string>
   <string name="compress_fail_unknown">"Не може да се компресира. Хранилището е пълно или е възникнала неизвестна грешка."</string>
-  <string name="compress_message">Компресирай в…</string>
-  <string name="compress_title">Комресиране</string>
+  <string name="compress_message">Компресиране в…</string>
+  <string name="compress_title">Компресиране</string>
   <string name="confirm">OК</string>
   <string name="confirm_clean">Почисти</string>
   <string name="confirm_know">ОК</string>
@@ -380,8 +380,8 @@
   <string name="open_private_folder">Създава се скрита папка…</string>
   <string name="operation_add_fav">Добавяне в любими…</string>
   <string name="operation_cancel">Отказ</string>
-  <string name="operation_compress">Компресирай</string>
-  <string name="operation_compressing">Компресиране…</string>
+  <string name="operation_compress">Компресиране</string>
+  <string name="operation_compressing">Компресира се…</string>
   <string name="operation_copy">Копирай</string>
   <string name="operation_create_folder">Нова папка</string>
   <string name="operation_create_folder_message">Въведете името на папката</string>
@@ -402,7 +402,7 @@
   <string name="operation_pasting">Копиране…</string>
   <string name="operation_refresh">Обнови</string>
   <string name="operation_rename">Преименуване</string>
-  <string name="operation_rename_message">Преименуване на папката</string>
+  <string name="operation_rename_message">Преименуване?</string>
   <string name="operation_reply">Коментар</string>
   <string name="operation_send">Изпрати</string>
   <string name="operation_share">Споделяне</string>

@@ -3777,7 +3777,7 @@
     <string name="device_cpu10_info">"Десетядрен "</string>
     <string name="max_cpu10_info">"Десетядрен "</string>
     <string name="instruction_title">Важна информация за безопасността</string>
-    <string name="my_device_disclaimer">Забележка: Информацията за устройството, включително процесор, капацитет на батерията, размер на екрана и неговата резолюция, са предоставени от Xiaomi.</string>
+    <string name="my_device_disclaimer">Забележка: Информацията за устройството, включително процесор, капацитет на батерията, размер на екрана и неговата резолюция са предоставени от Xiaomi.</string>
     <string name="approve_title">Сертификация</string>
     <string name="update_new_version">Налична е актуализация</string>
     <string name="notification_update_new_version">Налична е актуализация</string>
@@ -3802,7 +3802,7 @@
     <string name="google_title">Google</string>
     <string name="account_other">Друг</string>
     <string name="no_account_found">Не може да се намерят приложения, които да добавят профили</string>
-    <string name="xiaomi_cloud_service_disabled">Изкл</string>
+    <string name="xiaomi_cloud_service_disabled">Изключено</string>
     <string name="xiaomi_cloud_service_unknown">Непознат</string>
     <string name="xiaomi_cloud_service_description">Mi Облак синхронизира вашите контакти и снимки, архивира вашите приложения и настройки и ви помага да намерите телефона си с помощта на Открий устройството.</string>
     <string name="sure_sync_now">Синхронизиране на елементите сега?</string>

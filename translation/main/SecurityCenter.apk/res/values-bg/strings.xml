@@ -1360,7 +1360,7 @@
     <string name="activity_title_networkassistants">Данни</string>
     <string name="activity_title_antispam">Списък с блокирани</string>
     <string name="activity_title_license_manager">Разрешения</string>
-    <string name="activity_title_power_manager">Оптимизация на батерията</string>
+    <string name="activity_title_power_manager">Батерия</string>
     <string name="activity_title_garbage_cleanup">Почистване</string>
     <string name="memory_check_content">Освободени %s</string>
     <string name="memory_clear_unused">Изчисти кеша (%s)</string>
