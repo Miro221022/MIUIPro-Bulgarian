@@ -339,7 +339,7 @@
   <string name="lockpassword_choose_your_screen_lock_header">Задаване на заключване на екрана</string>
   <string name="lockpassword_clear_label">Изчистване</string>
   <string name="lockpassword_confirm_label">Потвърждаване</string>
-  <string name="lockpassword_confirm_your_password_details_frp">Фабр. настройки на телефона са били възстановени. За да го ползвате, въведете предишната си парола.</string>
+  <string name="lockpassword_confirm_your_password_details_frp">Фабричните настройки на телефона са били възстановени. За да го ползвате, въведете предишната си парола.</string>
   <string name="lockpassword_confirm_your_password_header_frp">Потвърждаване на паролата</string>
   <string name="lockpassword_confirm_your_pattern_details_frp">Фабр. настройки на телефона са били възстановени. За да го ползвате, въведете предишната си фигура.</string>
   <string name="lockpassword_confirm_your_pattern_header_frp">Потвърждаване на фигурата</string>
@@ -419,7 +419,7 @@
   <string name="prevent_ringing_option_vibrate_summary">Вкл. (вибриране)</string>
   <string name="print_configuring_state_title_template">„%1$s“ се конфигурира</string>
   <string name="private_dns_help_message">&lt;annotation id=\"url\"&gt;Научете повече&lt;/annotation&gt; за функциите на частния DNS</string>
-  <string name="private_dns_mode_off">Изкл.</string>
+  <string name="private_dns_mode_off">Изключено</string>
   <string name="private_dns_mode_opportunistic">Автоматично</string>
   <string name="private_dns_mode_provider">Име на хоста на доставчика на частния DNS</string>
   <string name="private_dns_mode_provider_failure">Не можа да се установи връзка</string>
