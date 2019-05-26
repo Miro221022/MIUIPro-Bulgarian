@@ -646,4 +646,6 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
    <string name="dialog_backup_password_backup_tips">"Не може да архивирате елементите, когато е включена парола за архивиране. Изключете паролата."</string>
    <string name="dialog_backup_password_cancel">Отказ</string>
    <string name="dialog_backup_password_to_settings">Настройки</string>
+   <string name="gallery_summary">Настройки на галерията (не включва снимки)</string>
+   <string name="user_feedback">Отзиви</string>
 </resources>

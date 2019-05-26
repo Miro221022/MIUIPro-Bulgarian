@@ -508,4 +508,5 @@ ID:%s
   <string name="agreement_and_privacy">Политика за поверителност и потребителско споразумение</string>
   <string name="passport_first_login_prompt">Mi профилът ще бъде създаден автоматично, когато се впишете за първи път.</string>
   <string name="scan_barcode">Вписване с QR код</string>
+  <string name="passport_wx_bind_account_limit">"В момента не може да се създаде профил. Опитайте други методи за вписване."</string>
 </resources>
