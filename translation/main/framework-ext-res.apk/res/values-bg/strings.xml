@@ -38,7 +38,7 @@
     <string name="translation_query_error">Няма резултати</string>
     <string name="translation_query_error_network">Не може да се получи информация, проверете мрежовите настройки и опитайте отново</string>
     <string name="translation_more">Повече</string>
-    <string name="autofill">Автозапълване</string>
+    <string name="autofill">Автоматично попълване</string>
     <string name="auto_start_warning_title">Разрешавате ли автостарт на %s за в бъдеще?</string>
     <string name="auto_start_warning_allow">Разреши</string>
     <string name="auto_start_warning_deny">Откажи</string>
@@ -92,7 +92,7 @@
     <string name="screenshot_gesture_detect_alert_dont_again">Не показвай отново</string>
     <string name="permlab_manageLocationPolicy">управление на местоположения</string>
     <string name="permdesc_manageLocationPolicy">Позволява на приложението да управлява политиките за местоположение и да дефинира специфични за него правила.</string>
-    <string name="location_usage_restricted_title">Местоп. на заден план е ограничено</string>
+    <string name="location_usage_restricted_title">Местоположението на заден план е ограничено</string>
     <string name="location_usage_restricted_body">Докоснете, за да премахнете ограничението.</string>
     <string name="fc_dialog_body">Да се изпрати ли доклад за грешка до Mi за анализ? Този доклад може да съдържа лична информация. Вашият отчет ще бъде използван за отстраняване на проблема и никога няма да бъде споделен в никакъв търговски контекст.</string>
     <string name="fc_dialog_jump_to_preview">Преглед на подробности</string>
@@ -204,7 +204,7 @@
     <string name="popup_camera_front_when_use">Предната камера е заета. Отваряне въпреки това?</string>
     <string name="popup_camera_popup_falied_times_calibrate">"Предната камера не можа да се отвори няколко пъти. Опитайте да калибрирате камерата."</string>
     <string name="popup_camera_sure">Разбрах</string>
-    <string name="popup_camera_sure_wait">Разбрах (%ds)</string>
+    <string name="popup_camera_sure_wait">Разбрах (%dс)</string>
     <string name="popup_camera_takeback_falied_times_calibrate">"Предната камера не можа да се затвори няколко пъти. Опитайте да калибрирате камерата."</string>
     <string name="popup_camera_tip">Внимание</string>
     <string name="popup_camera_using_camera_background">%s използва предната камера</string>

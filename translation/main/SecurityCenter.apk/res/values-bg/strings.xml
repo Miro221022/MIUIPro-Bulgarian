@@ -2353,7 +2353,7 @@
     <string name="first_aid_item5_content">Други проблеми</string>
     <string name="first_aid_card_consume_power_title">Използване на батерията</string>
     <string name="first_aid_card_consume_power_summary1">Повече от 5 приложения могат да стартират автоматично. Ограничете ги, за да спестите батерия.</string>
-    <string name="first_aid_card_consume_power_button1">Ограничи</string>
+    <string name="first_aid_card_consume_power_button1">Ограничаване</string>
     <string name="first_aid_card_consume_power_summary2">Изключете преносимата гореща точка, за да спестите батерия</string>
     <string name="first_aid_card_consume_power_button2">Изключи</string>
     <string name="first_aid_card_consume_power_summary3">Изключете Bluetooth, за да пестите батерия</string>

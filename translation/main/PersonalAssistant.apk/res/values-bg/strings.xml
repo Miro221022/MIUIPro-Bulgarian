@@ -721,8 +721,8 @@
   <string name="search_category_article">Артикули</string>
   <string name="search_category_shopping">Пазаруване</string>
   <string name="search_category_video">Видеоклипове</string>
-  <string name="search_change_header">Заменете изображението на корицата</string>
-  <string name="search_clear_header">Премахнете изображението на корицата</string>
+  <string name="search_change_header">Замяна на изображението</string>
+  <string name="search_clear_header">Премахване на изображението</string>
   <string name="search_hint">Търсене в любими</string>
   <string name="search_label">Търсене…</string>
   <string name="search_setting_description">Заглавия в любими</string>
@@ -998,7 +998,7 @@
   <string name="miot_device_click_show_detail">Докоснете, за да узнаете повече за умните домакински устройства</string>
   <string name="card_banner_close_never">"Без повторно напомняне"</string>
   <string name="card_banner_close_tomorrow">Напомни утре</string>
-  <string name="cta_dialog_miot_text_all">За да сте сигурни, че може да функционира нормално, Mi Home може да се наложи да придобие вашата мрежа, местоположение, разрешение за включване на Bluetooth, да използва клетъчна мрежа, микрофон и да прочете контактите ви. Потвърждавате ли?</string>
+  <string name="cta_dialog_miot_text_all">За да се гарантира, че може да функционира нормално, може да се наложи Mi Home да получи достъп до вашата мрежа, местоположение, разрешение за включване на Bluetooth, да използва вашата клетъчна мрежа, микрофона и да прочетете вашите контакти. Потвърждавате ли?</string>
   <string name="express_query">Следене</string>
   <string name="express_query_more">Проследете още</string>
   <string name="notification_channel_card">Карти</string>
