@@ -109,7 +109,7 @@
         <item quantity="one">Показване на %1$d ново съобщение.</item>
     </plurals>
     <plurals name="new_messages">
-        <item quantity="other">%1$d ново съобщение</item>
+        <item quantity="other">%1$d нови съобщения</item>
         <item quantity="one">%1$d ново съобщение</item>
     </plurals>
     <plurals name="num_selected">
