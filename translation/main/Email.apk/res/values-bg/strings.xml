@@ -999,7 +999,7 @@
   <string name="sync_error">Не може да се синхронизира.</string>
   <string name="sync_error_message">Вашето устройство няма достатъчно свободно място за синхронизиране.</string>
   <string name="syncing_wait_restart">Опитайте отново</string>
-  <string name="syncing_wait_restart_title">Връзката със сървъра изтече</string>
+  <string name="syncing_wait_restart_title">Връзката със сървъра е изтекла</string>
   <string name="system_account_create_failed">Не можа да се създаде профил. Опитайте отново.</string>
   <string name="system_folders_sent_dlg">Изберете папка за изпратени елементи на вашия сървър</string>
   <string name="system_folders_sent_summary">Изберете папка за изпратени елементи на вашия сървър</string>
