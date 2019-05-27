@@ -373,4 +373,9 @@
         <item>Само за това време</item>
         <item>Задаване на повтарящо се напомняне</item>
     </string-array>
+	    <string-array name="prefEntries_alerts_popup">
+        <item>Изключено</item>
+        <item>За всички събития</item>
+        <item>За най-важните събития</item>
+    </string-array>
 </resources>

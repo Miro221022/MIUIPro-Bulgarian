@@ -574,4 +574,7 @@
   <string name="setting_daysoff_update_schedule">Актуализиране…</string>
   <string name="setting_daysoff_update_success">Актуализирано успешно</string>
   <string name="talk_back_tab_switch">Превключване между изгледите</string>
+  <string name="preferences_popup_alert_smart_summary">MIUI ще определи автоматично кои събития са най-важни</string>
+  <string name="preferences_popup_alert_smart_tips">"Заменете традиционните известия с изскачащи известия, за да не пропускате важни събития. Изскачащите известия няма да се появяват, когато играете игри, гледате видеоклипове на цял екран или когато използвате автомобилен режим."</string>
+  <string name="preferences_popup_alert_title">Изскачащи известия</string>
 </resources>

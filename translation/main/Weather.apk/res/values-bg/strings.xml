@@ -266,4 +266,6 @@
   <string name="tts_best_aqi">Най-добро качество на въздуха</string>
   <string name="tts_hour_weather_date_time">От %2$s на %1$s до %4$s на %3$s</string>
   <string name="tts_max_wind_power">Най-висока скорост на вятъра</string>
+  <string name="shortcut_short_label_24_hour_forecast">24-часова прогноза</string>
+  <string name="shortcut_short_label_recent_forecast">Проверка на времето</string>
 </resources>

@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Ясно</item>
-        <item quantity="one">Слънчево</item>
+        <item quantity="one">Ясно</item>
     </plurals>
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s души</item>

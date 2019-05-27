@@ -6436,4 +6436,5 @@ OTG се изключва автоматично след 10 минути без
 	<string name="toggle_auto_speaker_preference_summary">Устройството ще превключи на говорител, когато го преместите от ухото си по време на разговори. Тази функция работи само когато е включен TalkBack.</string>
 	<string name="bluetooth_unlock_confirm_device_text_for_huami_band">Потвърдете на гривната.</string>
 	<string name="miui_touch_filtered_touchassistant_warning">Диалоговият прозорец на разрешенията е закрит от Плаваща топка. Преместете Плаваща топка или изключете тази функция.</string>
+	<string name="screen_paper_mode_hdr_toast_new">Режимът за четене ще се изключи автоматично по време на възпроизвеждане на HDR видео и проверка на пръстови отпечатъци. Вашето устройство ще се върне в режим за четене, след като тези действия бъдат завършени.</string>
 </resources>

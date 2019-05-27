@@ -272,8 +272,8 @@
         <item quantity="one">+%d</item>
     </plurals>
     <plurals name="add_game_notification_title">
-        <item quantity="other">Добавени %d игри</item>
-        <item quantity="one">Добавена %d игра</item>
+        <item quantity="other">Добавени са %d игри</item>
+        <item quantity="one">Добавена е %d игра</item>
     </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">Дадени са %d разрешения</item>

@@ -2559,7 +2559,7 @@
     <string name="gamebox_func_wlan_close">WLAN е изключено</string>
     <string name="gamebox_func_wlan_open">WLAN е включено</string>
     <string name="gamebox_hangup">Изключване на екрана</string>
-    <string name="gamebox_hangup_tips_content">Тази функция ви позволява да изключите екрана, но поддържате играта работеща на заден план. Изключва се автоматично, след като отключите устройството.</string>
+    <string name="gamebox_hangup_tips_content">Тази функция ви позволява да изключите екрана, но и да поддържате играта работеща на заден план. Тя се изключва се автоматично, след като отключите устройството.</string>
     <string name="gamebox_hangup_tips_title">Изключване на екрана</string>
     <string name="gamebox_immersion">Режим Потапяне</string>
     <string name="gamebox_immersion_tips_content">Режим Потапяне ограничава всички функции на SIM картата, с изключение на мобилната връзка за данни. Няма да бъдете прекъсвани от повиквания, нито ще получавате известия за пропуснати повиквания. Всички функции на SIM картата ще бъдат възстановени, когато режим Потапяне бъде изключен. Включване на режим Потапяне?</string>
