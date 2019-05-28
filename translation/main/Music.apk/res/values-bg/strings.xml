@@ -1113,4 +1113,5 @@
    <string name="play_mode_play_all">Изпълни всички</string>
    <string name="dialog_title_clearlist_tracks">Премахни от опашката</string>
    <string name="pick_local_song">Локални песни</string>
+   <string name="password_toggle_content_description">Превключване на видимостта на паролата</string>
 </resources>

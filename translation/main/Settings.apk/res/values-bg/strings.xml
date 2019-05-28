@@ -5983,13 +5983,13 @@ You can’t zoom in on the keyboard or navigation bar."</string>
 	<string name="miui_master_clear_summary">Изтрива всички данни от телефона</string>
 	<string name="enable_atrace">Включване на ATrace</string>
     <string name="enable_atrace_summary">Улавяне на събития в ядрото чрез ATrace</string>
-	<string name="allow_device_id_access">Приложения с достъп до идентификацията на устройството</string>
-    <string name="device_id">Идентификация на устройството</string>
+	<string name="allow_device_id_access">Изберете приложения, които могат да използват идентификацията на устройство</string>
+    <string name="device_id">Идентификация на устройството за персонализирани препоръки</string>
     <string name="pref_show_lunar_calendar_title">Показване на традиционния китайски календар на заключен екран</string>
-    <string name="restore_device_id_content">Нулиране на персоналните препоръки</string>
-    <string name="restore_device_id_title">Възстановяване на идентификацията на устройството</string>
-    <string name="restore_dialog_content">Възстановяването на идентификацията на устройството ще нулира вашите персонални препоръки.</string>
-    <string name="restore_dialog_positive">Възстанови</string>
+    <string name="restore_device_id_content">Персонализираните препоръки ще бъдат нулирани</string>
+    <string name="restore_device_id_title">Нулиране на идентификацията на устройството</string>
+    <string name="restore_dialog_content">Нулирането на идентификацията на устройството ще нулира вашите персонални препоръки.</string>
+    <string name="restore_dialog_positive">Нулиране</string>
     <string name="restore_dialog_title">Внимание</string>
     <string name="call_records_name_1">Мирослав Тодоров</string>
     <string name="call_records_name_2">Тодор Младенов</string>
@@ -6437,4 +6437,9 @@ OTG се изключва автоматично след 10 минути без
 	<string name="bluetooth_unlock_confirm_device_text_for_huami_band">Потвърдете на гривната.</string>
 	<string name="miui_touch_filtered_touchassistant_warning">Диалоговият прозорец на разрешенията е закрит от Плаваща топка. Преместете Плаваща топка или изключете тази функция.</string>
 	<string name="screen_paper_mode_hdr_toast_new">Режимът за четене ще се изключи автоматично по време на възпроизвеждане на HDR видео и проверка на пръстови отпечатъци. Вашето устройство ще се върне в режим за четене, след като тези действия бъдат завършени.</string>
+	<string name="allow_oaid_used">Разрешаване използването на идентификацията на устройство</string>
+    <string name="device_oaid">ID на устройството</string>
+    <string name="restore_oaid_content">Нулирането на текущия идентификатор на устройството ще създаде нов. Нулиране сега?</string>
+    <string name="restore_oaid_positive">Нулиране</string>
+    <string name="restore_oaid_title">Нулиране на идентификатора на устройството</string>
 </resources>
