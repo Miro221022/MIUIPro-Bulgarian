@@ -234,5 +234,4 @@
   <string name="set_clock_size_title">Размер на часовника</string>
   <string name="set_battery_size_title">Процентa на батерията</string>
   <string name="battery_percent_title">Разположение на процентите</string>
-  <string name="no_sim_title">Скриване на иконата Няма SIM</string>
 </resources>
