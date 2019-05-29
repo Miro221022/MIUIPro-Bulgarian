@@ -631,7 +631,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
    <string name="trans_intro_desc_10">Докоснете \"Свързване чрез QR код\" на новото устройство и сканирайте QR кода, за да установите връзка.</string>
    <string name="trans_intro_desc_gms">"Поради голямата вероятност за неуспешни трансфери, причинени от проблеми със съвместимостта, Mi Mover не поддържа прехвърляне на данни, генерирани от Google приложения."</string>
    <string name="trans_intro_question_10">"%d. Не можете да намерите точката за достъп на старото устройство?"</string>
-   <string name="trans_intro_title_gms">Данни, генерирани от приложения на Google:</string>
+   <string name="trans_intro_title_gms">, генерирани от приложения на Google:</string>
    <string name="wait_link">"Отворете Mi Mover на старото устройство,
 докоснете \"Аз съм изпращач\" и изберете точка за връзка.
 Не затваряйте страницата, преди да се установи връзка."</string>
