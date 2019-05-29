@@ -293,7 +293,7 @@
   <string name="passport_login_instead_reg">Използвай този номер</string>
   <string name="passport_login_instead_reg_with_email">Използвай този имейл</string>
   <string name="passport_login_other_account">Друг профил</string>
-  <string name="passport_login_prompt">Един Mi профил. Всички Mi услуги.</string>
+  <string name="passport_login_prompt">Всички Mi услуги. Един Mi профил.</string>
   <string name="passport_login_recycle_account_no">Не</string>
   <string name="passport_login_recycle_account_yes">Да</string>
   <string name="passport_login_title">Впишете се в Mi профила си</string>

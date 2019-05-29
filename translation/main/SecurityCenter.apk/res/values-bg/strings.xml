@@ -1487,7 +1487,7 @@
     <string name="hints_scanning_text">Сканира се…</string>
     <string name="auto_handle_title">Оптимизирай автоматично</string>
     <string name="manual_item_white_list_title">Изключения</string>
-    <string name="manual_item_white_list_summary">Ръчно управление на изключенията</string>
+    <string name="manual_item_white_list_summary">Предотвратяване избраните елементи да бъдат оптимизирани</string>
     <string name="pm_auto_start_by_system">Стартиращи приложения</string>
     <string name="pm_auto_start_by_system_event">Разрешава приложенията да стартират автоматично</string>
     <string name="pm_auto_start_by_other">Автоматичен старт</string>
@@ -1935,7 +1935,7 @@
     <string name="app_manager_default_open_title">Изчистване на настройките по подразбиране</string>
     <string name="app_manager_default_close_summary">Няма настройки по подразбиране.</string>
     <string name="app_manager_default_open_summary">Избрали сте да стартирате това приложение по подразбиране за някои действия.</string>
-    <string name="app_manager_app_version_name">Версия:</string>
+    <string name="app_manager_app_version_name">"Версия: "</string>
     <string name="app_manager_unstall_application">Деинсталиране</string>
     <string name="app_manager_force_stop_dlg_title">Принудително спиране?</string>
     <string name="app_manager_force_stop_dlg_text">Ако спрете принудително приложението, то може да не функционира добре.</string>
@@ -2380,7 +2380,7 @@
     <string name="first_aid_card_unable_install_button">Освобождаване на място</string>
     <string name="first_aid_result_summary_normal">Всичко изглежда добре!</string>
     <string name="first_aid_result_feedback_title">Обратна връзка</string>
-    <string name="first_aid_result_feedback_summary">"Не бяха намерени никакви проблеми. Въпреки това, аз забелязах някои."</string>
+    <string name="first_aid_result_feedback_summary">"При сканирането не бяха открити никакви проблеми. Въпреки това аз забелязах някои."</string>
     <string name="first_aid_result_feedback_button">Изпращане</string>
     <string name="first_aid_card_kadun_title">Устройството се забавя</string>
     <string name="first_aid_card_kadun_summary1">Освободете място за съхранение, за да може устройството ви да работи нормално.</string>

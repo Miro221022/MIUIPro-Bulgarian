@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="app_usage_day">
-    <item quantity="other">Не са използвани от %d дни</item>
-    <item quantity="one">Не е използвано от %d ден</item>
+    <item quantity="other">"Не са използвани от %d дни"</item>
+    <item quantity="one">"Не е използвано от %d ден"</item>
   </plurals>
   <plurals name="app_usage_month">
-    <item quantity="other">Не са използвани от %d месеца</item>
-    <item quantity="one">Не е използвано от %d месец</item>
+    <item quantity="other">"Не са използвани от %d месеца"</item>
+    <item quantity="one">"Не е използвано от %d месец"</item>
   </plurals>
   <plurals name="app_usage_year">
-    <item quantity="other">Не са използвани от %d години</item>
-    <item quantity="one">Не е използвано от %d година</item>
+    <item quantity="other">"Не са използвани от %d години"</item>
+    <item quantity="one">"Не е използвано от %d година"</item>
   </plurals>
   <plurals name="days_ago">
     <item quantity="other">Преди %1$d дни</item>
@@ -21,11 +21,11 @@
     <item quantity="many">Преди %1$d дни</item>
   </plurals>
   <plurals name="deepclean_apk_summary">
-    <item quantity="other">Открити са %d APK, изтрийте ненужните.</item>
-    <item quantity="one">Открито е %d APK, може да го изтриете.</item>
+    <item quantity="other">Открити са %d APK, можете да изтриете ненужните.</item>
+    <item quantity="one">Открито е %d APK, можете да го изтриете.</item>
   </plurals>
   <plurals name="deepclean_app_summary">
-    <item quantity="other">%d приложения са инсталирани, можете да изтриете рядко използваните приложения</item>
+    <item quantity="other">%d приложения са инсталирани, можете да изтриете рядко използваните</item>
     <item quantity="one">%d приложение е инсталирано, можете да го изтриете</item>
   </plurals>
   <plurals name="deepclean_cache_summary">

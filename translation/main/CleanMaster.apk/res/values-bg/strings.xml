@@ -322,7 +322,7 @@
   <string name="pref_content_cleanup_white_list_none">Няма</string>
   <string name="pref_summary_auto_clean_and_alert">Автоматично почистване на отпадъците</string>
   <string name="pref_summary_auto_update_cleanup_db">Последна актуализация %s</string>
-  <string name="pref_summary_cleanup_white_list">Предотвратява почистването на избраните приложения</string>
+  <string name="pref_summary_cleanup_white_list">Предотвратява почистването на избраните файлове</string>
   <string name="pref_summary_expand_cache_group">Автоматично разширяване на елементите в списъка с кеша</string>
   <string name="pref_summary_garbage_auto_clean_content">Изберете какво да се почиства автоматично</string>
   <string name="pref_summary_garbage_cleanup_check_size">Почисти автоматично, когато отпадъците надвишат определен размер</string>
@@ -596,7 +596,7 @@
    <string name="one_tap_clean_M">%d Мб</string>
    <string name="one_tap_clean_GB">%s Гб</string>
    <string name="security_center_slogan">Сигурност. Винаги нащрек.</string>
-   <string name="notification_garbage_cleanup_summary">Количеството на непотребите файлове достигна %s</string>
+   <string name="notification_garbage_cleanup_summary">Непотребите файлове достигнаха %s</string>
    <string name="notification_garbage_cleanup_title">Изчистване на кошчето</string>
    <string name="notification_low_memory_cache_summary">По-малко от 1,5 Гб налично пространство за съхранение</string>
    <string name="notification_low_memory_cache_title">Изчистване на кеша</string>
