@@ -1834,7 +1834,7 @@
    <string name="battery_low_button_not_open_power_save">Не сега</string>
    <string name="battery_low_button_open_power_save">Включване</string>
    <string name="battery_low_percent_format_save_mode_closed">Остават по-малко от %d%% батерия. Заредете устройството.</string>
-   <string name="battery_low_percent_format_save_mode_open">Остават по-малко от %d%% батерия. Включете пестенена на батерията, за да спестите енергия.</string>
+   <string name="battery_low_percent_format_save_mode_open">Остават по-малко от %d%% батерия. Включете пестене на батерията, за да спестите енергия.</string>
    <string name="battery_low_title_power_save">Пестене на батерия</string>
    <string name="face_data_manage_unlock_liftcamera_msg">След като екранът светне плъзнете нагоре, за да отключите устройството чрез лицеви данни.</string>
    <string name="face_unlock_fail_retry_global">Натиснете по-горе, за да използвате отключване с лице</string>

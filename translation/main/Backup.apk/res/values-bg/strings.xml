@@ -105,8 +105,8 @@
     <string name="task_local_backup_cancel_dialog">Резервното копие не е завършено. Отмяна въпреки това?</string>
     <string name="task_cloud_backup_cancel_dialog">Резервното копие не е завършено. Отмяна въпреки това?</string>
     <string name="task_restore_cancel_dialog">Прекъсването на процеса може да доведе до загуба на данни.</string>
-    <string name="task_backup_cancel_progress">Отмяна на резервно копие…</string>
-    <string name="task_restore_cancel_progress">Отмяна…</string>
+    <string name="task_backup_cancel_progress">Спиране…</string>
+    <string name="task_restore_cancel_progress">Спиране…</string>
     <string name="nothing_searched">Нищо не е намерено</string>
     <string name="restore_counts">Възстановяване:</string>
     <string name="service_stoped">Услугата спря</string>
@@ -120,7 +120,7 @@
     <string name="sc_internal_server_error">Вътрешна грешка на сървъра</string>
     <string name="sc_others">Възникна грешка</string>
     <string name="succeed">Архивирането завърши</string>
-    <string name="fail">Неуспех</string>
+    <string name="fail">Неуспешно</string>
     <string name="button_return">Назад</string>
     <string name="button_next">Напред</string>
     <string name="button_finish">Готово</string>
@@ -223,8 +223,8 @@
     <string name="file_uploading">Качва се…</string>
     <string name="new_backup">Архивирай</string>
     <string name="restore_backup">Възстанови</string>
-    <string name="enable_encrypt_description">Кодиране</string>
-    <string name="disable_encrypt_description">Не кодирай</string>
+    <string name="enable_encrypt_description">Криптиране</string>
+    <string name="disable_encrypt_description">Без криптиране</string>
     <string name="state_waiting">Един момент…</string>
     <string name="state_mounting">Достъп до хранилището на рутера…</string>
     <string name="abort_backup_confirm">Резервното копие не е завършено! Да спре ли въпреки това?</string>
@@ -249,7 +249,7 @@
     <string name="backup_is_running">Рез. копие на устройството</string>
     <string name="restore_is_running">Възстановяване на устройството</string>
     <string name="notif_backup_title">Архивиране на данни</string>
-    <string name="notif_backup_content">Архив на потребителски данни</string>
+    <string name="notif_backup_content">Архивиране на потребителски данни</string>
     <string name="notif_restore_title">Възстановяване на данни</string>
     <string name="notif_restore_content">Възстановяване на потребителски данни</string>
     <string name="notif_backup_complete_title">Архивирането е успешно</string>
