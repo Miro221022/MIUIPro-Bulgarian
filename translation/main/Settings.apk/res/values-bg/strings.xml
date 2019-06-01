@@ -6441,4 +6441,9 @@ OTG се изключва автоматично след 10 минути без
     <string name="restore_oaid_content">Нулирането на текущия идентификатор на устройството ще създаде нов. Нулиране сега?</string>
     <string name="restore_oaid_positive">Нулиране</string>
     <string name="restore_oaid_title">Нулиране на идентификатора на устройството</string>
+	<string name="backup_set_new_continue">Продължаване</string>
+    <string name="backup_set_new_exit">Изход</string>
+    <string name="backup_set_new_pw_confirm_hint">Внимание</string>
+    <string name="backup_set_new_pw_confirm_summary">Вашите елементи се архивират автоматично. Създаването на парола ще спре автоматичното архивиране. Продължаване въпреки това?</string>
+    <string name="device_miui_version_parameters">MIUI версия</string>
 </resources>

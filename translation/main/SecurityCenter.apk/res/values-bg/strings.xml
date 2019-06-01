@@ -2636,4 +2636,6 @@
     <string name="pc_abnormal_scan_reason_wake_system">Събужда системата твърде често</string>
     <string name="pc_abnormal_scan_reason_reconnect">Твърде често се опитва да се свърже с мрежата</string>
     <string name="pc_abnormal_scan_button_text">Затваряне на приложения</string>
+	<string name="gb_global_settings">Основни настройки</string>
+    <string name="gb_add_game_hint">Добавяне на елементи от списъка с приложения</string>
 </resources>
