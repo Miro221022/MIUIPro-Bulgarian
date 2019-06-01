@@ -58,7 +58,7 @@
   <string name="continue_update_positive_btn">Спри</string>
   <string name="current_version">Текуща версия</string>
   <string name="daily_build">Вечерна</string>
-  <string name="delay_update_text">Актуализирай през нощта</string>
+  <string name="delay_update_text">Актуализиране през нощта</string>
   <string name="dialog_delay_update_cancel">Отмени</string>
   <string name="dialog_delay_update_msg">Актуализациите ще бъдат инсталирани между 02:00ч и 05:00ч, ако батерията е заредена над 30%.</string>
   <string name="dialog_delay_update_msg_ab">Актуализациите ще бъдат инсталирани между 2:00 и 5:00 часа сутринта.</string>
@@ -173,7 +173,7 @@
   <string name="notification_load_title_alpha">Впишете се в Mi профила си</string>
   <string name="notification_load_title_dev">Впишете се в Mi профила си</string>
   <string name="notification_reboot_btn">Рестартиране</string>
-  <string name="notification_reboot_seccess_des">Докоснете, за да видите информация за актуализацията.</string>
+  <string name="notification_reboot_seccess_des">Докоснете, за да видите информация.</string>
   <string name="notification_reboot_seccess_title">MIUI е успешно актуализирана</string>
   <string name="notification_reboot_summary_hm">Докоснете, за да рестартирате устройството.</string>
   <string name="notification_reboot_title">Актуализацията завърши</string>
