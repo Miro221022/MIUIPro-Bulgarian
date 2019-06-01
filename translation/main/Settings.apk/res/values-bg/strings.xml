@@ -5315,7 +5315,6 @@
     <string name="search_menu_summary">Настройки за търсене, при плъзгане нагоре</string>
     <string name="smart_mobile_network_settings_title">Състояние прехвърлени данни и мрежов режим</string>
     <string name="smart_mobile_network_title">Интелигентна мобилна мрежа</string>
-    <string name="sim_select_title">Настройване на образец за:</string>
     <string name="WiFiOn_mobile_title">Когато Wi-Fi е включен</string>
     <string name="switch_mobile_title">Тип мрежа при повикване</string>
     <string name="smart_wifi_data_transfer">Изключи Wi-Fi при повикване</string>

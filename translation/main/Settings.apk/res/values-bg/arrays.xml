@@ -1306,11 +1306,6 @@
         <item>Открояващ се</item>
         <item>Цвят по избор</item>
     </string-array>
-    <string-array name="sim_select_entries">
-        <item>Sim 1</item>
-        <item>Sim 2</item>
-        <item>Sim 1 / Sim 2</item>
-    </string-array>
     <string-array name="toggles_line_entries">
         <item>Една линия</item>
         <item>Всички линии</item>
