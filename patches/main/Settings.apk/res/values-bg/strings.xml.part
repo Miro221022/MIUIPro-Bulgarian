@@ -3,7 +3,7 @@
   <string name="4G_LTE_title">Покажи LTE вместо 4G</string>
   <string name="airplane_icon_title">Скриване на иконата на самолетен режим</string>
   <string name="alarm_icon_title">Скриване на икона за аларма</string>
-  <string name="allowed_set">разрешен</string>
+  <string name="allowed_set">0.0.0.0 разрешено</string>
   <string name="alpha_build">\nАлфа</string>
   <string name="animation_framing_title">Честота на кадрите</string>
   <string name="app_assistant_title">Бутон за гласова помощ</string>
