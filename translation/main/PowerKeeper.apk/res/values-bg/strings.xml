@@ -21,8 +21,6 @@
     <string name="sleep_config_enhance_title">Спящ режим</string>
     <string name="sleep_config_enhance_description">"Винаги когато MIUI установи, че вие спите ще затвори приложения на заден план, ще ограничи използването на NFC, Bluetooth, GPS, мобилни данни и WLAN, и няма да активира екрана при известия."</string>
     <string name="sleep_config_enhance_description_non_nfc">"Винаги когато MIUI установи, че вие спите ще затвори приложения на заден план, ще ограничи използването на Bluetooth, GPS, мобилни данни и WLAN, и няма да активира екрана при известия."</string>
-    <string name="nonui_mode_config_title">Не интерактивен режим</string>
-    <string name="nonui_mode_config_description">"Няма да се активира екрана при известия, изключване на LED индикатора, сензора за пръстови отпечатъци и сензорното управление, за да спестите батерията винаги когато MIUI установи, че не използвате устройството си."</string>
     <string name="power_center">Оптимизация на батерията</string>
     <string name="power_usage">Консумация на енергия</string>
     <string name="power_mode">Режим на производителност</string>
@@ -80,7 +78,6 @@
     <string name="lasttime_feature_cloud">Актуализирани услуги:</string>
     <string name="lasttime_applist_cloud">Актуализирани приложения:</string>
     <string name="base_info">Основна инф</string>
-    <string name="search_result_text">Няма намерени програми</string>
 	<string name="enable_sleep_mode">Включване на спящ режим за оптимизиране на режима на готовност през нощта</string>
     <string name="power_consume_abnormal_night">Батерията е изтощена през ноща</string>
     <string name="sleepmode_disclaimer_agree">Съгласен</string>
