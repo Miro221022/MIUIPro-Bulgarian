@@ -268,4 +268,7 @@
   <string name="personal_recommend">Препоръки за персонализирано съдържание</string>
   <string name="user_agreement">Потребителско споразумение</string>
   <string name="update_notification_info">Актуализиране на данните на заден план…</string>
+  <string name="shortcut_new_alarm">Аларма</string>
+  <string name="shortcut_start_timer">Таймер</string>
+  <string name="shortcut_stop_watch">Хронометър</string>
 </resources>

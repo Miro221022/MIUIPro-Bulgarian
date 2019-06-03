@@ -57,7 +57,7 @@
     <string name="sound_recorder_settings">Настройки на звукозаписа</string>
     <string name="preference_led_indicator">Известие на заключен екран</string>
     <string name="preference_tip_rename">Ръчно добавяне на имена на записите</string>
-    <string name="preference_led_indicator_prompt">Показване на пряк път и пулсираща светлина на заключен екран докато записвате</string>
+    <string name="preference_led_indicator_prompt">Показване на пряк път в лентата за състояние и пулсираща светлина по време на запис</string>
     <string name="preference_scenes">Тип на записа</string>
     <string name="preference_record_scenes_dialog_title">Иберете тип на записа</string>
     <string name="preference_silent_mode">Заглушаване на звъненето по време на запис</string>
@@ -282,4 +282,11 @@
   <string name="korea_permission_record_resc">За запис на звук</string>
   <string name="korea_permission_storage">Хранилище</string>
   <string name="korea_permission_storage_desc">За запазване на записи</string>
+  <string name="call_record_list_group_all">Всичко</string>
+  <string name="call_record_list_group_connected">Свързан</string>
+  <string name="call_record_list_group_unconnected">Не е свързан</string>
+  <string name="preference_status_bar_indicator_prompt">Показване на пряк път в лентата за състоянието по време на запис</string>
+  <string name="shortcut_records">Записи</string>
+  <string name="shortcut_start_record">Стартирай запис</string>
+  <string name="shortcut_stop_record">Спри записа</string>
 </resources>

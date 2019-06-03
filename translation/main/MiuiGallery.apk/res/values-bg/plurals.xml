@@ -284,4 +284,32 @@
         <item quantity="other">Колажите могат да съдържат 1-%d снимки</item>
         <item quantity="one">Колажите могат да съдържат 1-%d снимка</item>
     </plurals>
+		  <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d снимки</item>
+        <item quantity="one">%d снимка</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Запазване на %d избрани снимки и изтриване на останалите?</item>
+        <item quantity="one">Запазване на %d избрана снимка и изтриване на останалите?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Запазване на %d избраните снумки</item>
+        <item quantity="one">Запазване на %d избраната снимка</item>
+    </plurals>
+	<plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Изтриване на %d серийни снимки от Mi Облак и всички синхронизирани устройства?</item>
+        <item quantity="one">Изтриване на %d серийна снимка from от Mi Облак и всички синхронизирани устройства?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Изтриване на %d серийни снимки?</item>
+        <item quantity="one">Изтриване на %d серийна снимка?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Изтриване на %d серийни снимки от Mi Облак и това устройство?</item>
+        <item quantity="one">Изтриване на %d серийна снимка от Mi Облак и това устройство?</item>
+    </plurals>
+	<plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Изтриване на %d серийни снимки от устройството ви?</item>
+        <item quantity="one">Изтриване на %d серийна снимка от устройството ви?</item>
+    </plurals>
 </resources>

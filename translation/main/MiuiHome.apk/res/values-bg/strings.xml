@@ -374,4 +374,8 @@
     <string name="edit_mode_group_error_nothing_be_selected">Първо изберете приложение</string>
     <string name="minus_one_screen">Личен асистент</string>
     <string name="menu_auto_fill_of_uninstall">Запълване на клетките на деинсталираните приложения</string>
+	<string name="announce_for_search_bar">Лента за търсене</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
+    <string name="privacy_thumbnail_blur_summary">Замъглен изглед на приложенията в Последни</string>
+    <string name="privacy_thumbnail_blur_title">Замъглен изглед на приложенията</string>
 </resources>

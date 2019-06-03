@@ -14,7 +14,7 @@
     <string name="add_to_album_success">Добавено в албум</string>
     <string name="add_to_album_tip">Снимки в облака</string>
     <string name="add_to_favorites_failed">Не може да се добави към любими</string>
-    <string name="add_to_secret_exist">Снимката вече съществува в скрит албум</string>
+    <string name="add_to_secret_exist">Този елемент вече съществува в скрит албум</string>
     <string name="add_to_secret_fail">Неуспешно добавяне в скрит албум</string>
     <string name="add_to_secret_failed_with_reason">Не може да се добави в скрит албум. %1$s.</string>
     <string name="add_to_secret_successful">Добавено в скрит албум</string>
@@ -766,7 +766,7 @@
     <string name="filter_master_rise">Издигане</string>
     <string name="filter_master_somber">Мрачно</string>
     <string name="filter_people_movie">Филм</string>
-    <string name="filter_people_riddle">Загадъчно</string>
+    <string name="filter_people_riddle">Бонбони</string>
     <string name="filter_people_story">История</string>
     <string name="free_view_desc">3D изглед</string>
     <string name="photo_editor_talkback_cancel">Отказ</string>
@@ -1519,4 +1519,31 @@
   <string name="clear_dup_medias">Почистете дублираните снимки</string>
   <string name="clear_dup_success">Успешно почистено</string>
   <string name="clear_dup_tip">Изчистване на дублираните снимки</string>
+  <string name="burst_image_download_item_title" formatted="false">Изтегляне на оригинала (%s|%s)</string>
+  <string name="burst_preview_title">Серийна снимка</string>
+  <string name="burst_save_all">Запази всички</string>
+  <string name="burst_save_choice_title" formatted="false">Избрани %d от %d</string>
+  <string name="burst_save_confirm_dialog_title">Запазване на снимки</string>
+  <string name="burst_save_error_msg">"Не може да се запази"</string>
+  <string name="burst_save_processing">Обработка…</string>
+  <string name="decrypt_video_failed">"Видеоклипът не може да се подготви"</string>
+  <string name="decrypting_video">Подготовка на видеоклипа…</string>
+  <string name="editor_cancel">Отказ</string>
+  <string name="editor_export">Запази</string>
+  <string name="editor_talkback_undo">Отмяна</string>
+  <string name="first_time_add_video_to_secret_tips">Актуализирайте Галерия, за да можете да скривате видеоклипове</string>
+  <string name="photo_editor_remove_watermark_on">Добавяне на воден знак</string>
+  <string name="photo_editor_talkback_crop_2_3">Две към три</string>
+  <string name="special_type_eye_repair">Затворените очи са поправени чрез AI</string>
+  <string name="special_type_hdr">HDR</string>
+  <string name="special_type_night_beauty">Интелигентно разкрасяване за слаба светлина</string>
+  <string name="special_type_night_mode">Интелигентен нощен режим</string>
+  <string name="special_type_portrait">Интелигентен портрет</string>
+  <string name="special_type_wide_angle">Интелигентен ултра широк ъгъл</string>
+  <string name="video_editor_audio_antiquity">Ретро</string>
+  <string name="video_editor_audio_dream">Мечта</string>
+  <string name="video_editor_audio_electronics">Електро</string>
+  <string name="video_editor_audio_quiet">Дзен</string>
+  <string name="video_editor_audio_summertime">Лято</string>
+  <string name="video_editor_audio_vitality">Жизненост</string>
 </resources>
