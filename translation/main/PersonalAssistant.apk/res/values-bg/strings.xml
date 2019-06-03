@@ -403,7 +403,7 @@
   <string name="fav_category_video">Видеоклипове</string>
   <string name="fav_detail_nodata">Информацията не можа да се намери</string>
   <string name="fav_download">Изтегляне и инсталиране на това приложение?</string>
-  <string name="fav_init_guide_title">За любими</string>
+  <string name="fav_init_guide_title">Относно любимите</string>
   <string name="fav_label">Любими</string>
   <string name="fav_more">Виж повече</string>
   <string name="fav_network_error">Грешка в мрежата</string>
@@ -412,9 +412,10 @@
   <string name="fav_share_fail">Не може да се сподели. Можете да добавяте URL адреси към предпочитани.</string>
   <string name="fav_success">Успешно добавен към любими</string>
   <string name="fav_support_label">Любими приложения</string>
+  <string name="fav_support_introduce">Управлявление на любимите за отделните приложения</string>
   <string name="fav_support_more">Всички поддържани приложения</string>
-  <string name="fav_support_not_title">Предпочитаните няма да се показват в списъка</string>
-  <string name="fav_support_title">Фаворитите ще се покажат в списъка</string>
+  <string name="fav_support_not_title">"Любимите няма да се показват в списъка"</string>
+  <string name="fav_support_title">Любимите ще се покажат в списък</string>
   <string name="fav_tab_all">Всичко</string>
   <string name="fav_tab_article">Артикули</string>
   <string name="fav_tab_new">Нов</string>
@@ -754,7 +755,7 @@
   <string name="setting_didi_always_sdk">Винаги използвай DiDi</string>
   <string name="setting_didi_default_way">Стандартен маршрут с такси</string>
   <string name="setting_disable">Изкл</string>
-  <string name="setting_fav_authorize">Разреши достъп до всички любими на вашето устройство</string>
+  <string name="setting_fav_authorize">Разрешаване на достъп до всички любими на вашето устройство</string>
   <string name="setting_fav_notification">Известяване всеки път, когато нещо е добавено в любими</string>
   <string name="setting_fav_remove_content">Картата ще бъде изтрита след като ограничите достъпа до фаворити. Ограничи въпреки това?</string>
   <string name="setting_fav_remove_neg">Отказ</string>

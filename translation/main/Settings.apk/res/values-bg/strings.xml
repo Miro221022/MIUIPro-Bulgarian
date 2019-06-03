@@ -1056,10 +1056,10 @@
     <string name="wifi_menu_scan">Сканиране</string>
     <string name="wifi_menu_advanced">Разширени</string>
     <string name="wifi_menu_configure">Конфигуриране</string>
-    <string name="wifi_menu_connect">Свързване с мрежа</string>
+    <string name="wifi_menu_connect">Свързване към мрежата</string>
     <string name="wifi_menu_remember">Запомняне на мрежата</string>
-    <string name="wifi_menu_forget">Забравяне на мрежа</string>
-    <string name="wifi_menu_modify">Промяна на мрежа</string>
+    <string name="wifi_menu_forget">Забравяне на мрежата</string>
+    <string name="wifi_menu_modify">Промяна на мрежата</string>
     <string name="wifi_menu_write_to_nfc">Записване в маркера за КБП</string>
     <string name="wifi_empty_list_wifi_off">Включете WLAN, за да видите наличните мрежи.</string>
     <string name="wifi_empty_list_wifi_on">Търсят се WLAN мрежи…</string>
@@ -3978,7 +3978,7 @@
     <string name="button_disconnect_network">Изключване от мрежата</string>
     <string name="no_nearby_wifi">Няма намерени мрежи</string>
     <string name="manually_add_network">Ръчно добавяне на мрежа</string>
-    <string name="network_detail">Детайли за мрежа %s</string>
+    <string name="network_detail">Подробности за мрежата %s</string>
     <string name="connected_wifi">Свързан</string>
     <string name="incoming_call_breathing_light_color_title">Цвят на LED за обаждания</string>
     <string name="notification_breathing_light_color_title">Цвят на LED за известия</string>
