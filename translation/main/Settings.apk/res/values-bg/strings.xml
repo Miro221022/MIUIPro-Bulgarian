@@ -1220,7 +1220,7 @@
     <string name="wifi_calling_mode_dialog_title">Режим на обаждания през Wi-Fi</string>
     <string name="wifi_calling_off_explanation">Когато функцията за обаждания през Wi-Fi е включена, телефонът ви може да маршрутизира обажданията през Wi-Fi мрежи или мрежата на оператора ви в зависимост от предпочитанието ви и от това, кой сигнал е по-силен. Преди да включите тази функция, потърсете от оператора си информация относно таксите и други подробности.</string>
     <string name="home_settings">Начало</string>
-    <string name="display_settings_title">Дисплей</string>
+    <string name="display_settings_title">Екран</string>
     <string name="sound_settings">Звук</string>
     <string name="all_volume_title">Сила на звука</string>
     <string name="musicfx_title">Музикални ефекти</string>
@@ -1269,7 +1269,7 @@
     <string name="accessibility_personal_account_title">Личен профил – %s</string>
     <string name="search_settings">Търсене</string>
     <string name="search_settings_summary">Управление на настройки и история на търсене</string>
-    <string name="display_settings">Дисплей</string>
+    <string name="display_settings">Екран</string>
     <string name="accelerometer_title">Автоматочно завъртане на екрана</string>
     <string name="accelerometer_summary_on">Автоматично превключване на ориентацията при завъртане на телефона</string>
     <string name="accelerometer_summary_off">Автоматично превключване на ориентацията при завъртане на телефона</string>
@@ -1297,7 +1297,7 @@
     <string name="screensaver_settings_button">Настройки</string>
     <string name="automatic_brightness">Автоматична яркост</string>
     <string name="lift_to_wake_title">Събуждане при повдигане</string>
-    <string name="doze_title">Дисплей, открояващ важни неща</string>
+    <string name="doze_title">Екран, открояващ важни неща</string>
     <string name="doze_summary">Включване на екрана при получаване на известия</string>
     <string name="title_font_size">Размер на шрифта</string>
     <string name="short_summary_font_size">Уголемяване или намаляване на текст</string>
@@ -2031,7 +2031,7 @@
     <string name="talkback_title">TalkBack</string>
     <string name="talkback_summary">Екранен четец, предимно за хора със слепота и слабо зрение</string>
     <string name="accessibility_system_title">Система</string>
-    <string name="accessibility_display_title">Дисплей</string>
+    <string name="accessibility_display_title">Екран</string>
     <string name="accessibility_captioning_title">Надписи</string>
     <string name="accessibility_screen_magnification_title">Жест за увеличение</string>
     <string name="accessibility_screen_magnification_short_summary">Трикратно докосване за промяна на мащаба</string>

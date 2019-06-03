@@ -810,7 +810,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="video_manager_action_bar_end_view">Видеоклипове</string>
     <string name="video_project_button">Спри</string>
     <string name="video_project_msg">Показване на %s</string>
-    <string name="video_project_title">Външен дисплей</string>
+    <string name="video_project_title">Външен екран</string>
     <string name="video_push_multi_message">%1$d updates available.</string>
     <string name="video_push_multi_title">Налична е актуализация</string>
     <string name="video_push_single_message">Докоснете за актуализация на %1$d.</string>
