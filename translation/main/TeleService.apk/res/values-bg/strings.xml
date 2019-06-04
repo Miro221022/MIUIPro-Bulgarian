@@ -1723,4 +1723,8 @@
 	<string name="fiveg_switch_title">5G мрежа</string>
 	<string name="jump_to_mobile_network_setting">Настройки на мобилна мрежа</string>
     <string name="select_dds_dialog_title">Изберете SIM картата по подразбиране за мобилни данни</string>
+	<string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM авто</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM авто</string>
+    <string name="preferred_network_type_pref_entries_only_2g_lm_cr">GSM само</string>
+    <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA само</string>
 </resources>

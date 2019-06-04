@@ -1859,4 +1859,5 @@
    <string name="keyguard_charging_super_quick_and_level_tip">Бързо зареждане %d%%</string>
    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Още</string>
    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Вход</string>
+   <string name="lock_screen_magazine_label">Отваряне на Ежедневни тапети</string>
 </resources>

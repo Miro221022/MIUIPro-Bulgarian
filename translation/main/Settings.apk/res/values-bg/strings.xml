@@ -6339,4 +6339,21 @@ OTG се изключва автоматично след 10 минути без
     <string name="backup_set_new_pw_confirm_summary">Вашите елементи се архивират автоматично. Създаването на парола ще спре автоматичното архивиране. Продължаване въпреки това?</string>
     <string name="device_miui_version_parameters">MIUI версия</string>
 	<string name="quick_reply_title">Бързи отговори</string>
+	<string name="a11y_settings_label">Настройки за достъпност</string>
+    <string name="accessibility_menu_description">"Менюто за достъпност предлага удобни преки пътища, които ви позволяват да контролирате устройството си.
+
+Включете тази функция и натиснете бутона Достъпност в долната част на екрана, за да отворите менюто."</string>
+    <string name="accessibility_menu_service_name">Меню за достъпност</string>
+    <string name="accessibility_menu_summary">Управлявайте устройството си с помощта на удобни преки пътища</string>
+    <string name="confirm_fingerprint">Потвърдете пръстовият си отпечатък</string>
+    <string name="confirm_password_with_fingerprint">Използвай пръстов отпечатък</string>
+    <string name="confirm_password_with_password">Въведете парола</string>
+    <string name="google_assistant_label">Google асистент</string>
+    <string name="lockscreen_label">Заключен екран</string>
+    <string name="notification_label">Известия</string>
+    <string name="power_label">Захранване</string>
+    <string name="quick_settings_label">Превключватели</string>
+    <string name="recent_apps_label">Последни</string>
+    <string name="screenshot_label">Екранна снимка</string>
+    <string name="volume_label">Сила на звука</string>
 </resources>

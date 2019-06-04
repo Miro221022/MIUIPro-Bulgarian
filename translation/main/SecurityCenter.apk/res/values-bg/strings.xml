@@ -2641,4 +2641,9 @@
 	<string name="quick_reply_title">Бързи отговори</string>
     <string name="quick_replay_list_title">Налични приложения</string>
     <string name="qucick_replay_instrument">Използвайте бързи отговори в известията на избраните приложения (например WhatsApp, WeChat, QQ)</string>
+	<string name="gamebox_display_1">Няма</string>
+    <string name="gamebox_display_2">Наситен</string>
+    <string name="gamebox_display_3">Ярък</string>
+    <string name="gamebox_display_4">Ярък и наситен</string>
+    <string name="gamebox_display_set">"Визуално подобрение: "</string>
 </resources>

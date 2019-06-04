@@ -654,4 +654,5 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
    <string name="dialog_backup_password_change_device_restore_tips">"Не може да се използва Mi Mover, когато е включена паролата за архивиране. Първо изключете паролата за архивиране."</string>
    <string name="dialog_backup_password_restore_tips">"Не могат да се възстановят елементи, когато е включена парола за архивиране. Първо изключете паролата за архивиране."</string>
    <string name="iCloud_ID_verification_tip">"Въведете SMS кода за потвърждение, изпратен до телефонния номер, свързан с вашия Apple ID. Игнорирайте изскачащия код, показващ се на екрана на вашия iPhone."</string>
+   <string name="feature_title_mms_setting">Настройки за съобщенията</string>
 </resources>
