@@ -71,7 +71,7 @@
 \""</string>
     <string name="sync_dspt_entrance_provision">"Синхронизирайте снимките, контактите, историята на обажданията и съобщенията на всичките си устройства. Осъществявайте достъп до нещата, които синхронизирате, от всеки браузър в %s. "</string>
     <string name="sync_dspt_entrance_provision_2">Научете повече</string>
-    <string name="sync_dspt_entrance_provision_confirm_close">"Не изолзвай"</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">"Не използвай"</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Използвай Mi Облак</string>
     <string name="sync_dspt_entrance_provision_confirm_title">"Да не се използва Mi Облак?"</string>
     <string name="sync_dspt_entrance_provision_confirm_content">"Вградените приложения на MIUI изискват Mi Облак за архивиране на вашите снимки, контакти, бележки и други. Mi Облак е свободен и готов за използване."</string>
