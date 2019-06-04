@@ -84,4 +84,8 @@
         <item quantity="other">%s услуги ще бъдат синхронизирани с Mi Облак</item>
         <item quantity="one">%s услуга ще бъде синхронизирана с  Mi Облак</item>
     </plurals>
+	    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d чести фрази</item>
+        <item quantity="one">%d честа фраза</item>
+    </plurals>
 </resources>

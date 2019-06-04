@@ -6338,4 +6338,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="backup_set_new_pw_confirm_hint">Внимание</string>
     <string name="backup_set_new_pw_confirm_summary">Вашите елементи се архивират автоматично. Създаването на парола ще спре автоматичното архивиране. Продължаване въпреки това?</string>
     <string name="device_miui_version_parameters">MIUI версия</string>
+	<string name="quick_reply_title">Бързи отговори</string>
 </resources>

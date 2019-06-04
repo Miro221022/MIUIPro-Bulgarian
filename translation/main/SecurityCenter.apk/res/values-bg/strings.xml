@@ -2638,4 +2638,7 @@
     <string name="pc_abnormal_scan_button_text">Затваряне на приложения</string>
 	<string name="gb_global_settings">Основни настройки</string>
     <string name="gb_add_game_hint">Добавяне на елементи от списъка с приложения</string>
+	<string name="quick_reply_title">Бързи отговори</string>
+    <string name="quick_replay_list_title">Налични приложения</string>
+    <string name="qucick_replay_instrument">Използвайте бързи отговори в известията на избраните приложения (например WhatsApp, WeChat, QQ)</string>
 </resources>
