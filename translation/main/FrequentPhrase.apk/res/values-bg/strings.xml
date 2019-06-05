@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_frequent_phrases">Редактирайте чести фрази</string>
+    <string name="menu_add_frequent_phrases">Добавяне</string>
+    <string name="menu_edit">Редакция</string>
+    <string name="menu_delete">Изтрий</string>
+    <string name="frequent_phrases_des">Въвеждане на чести фрази само с няколко докосвания, докато редактирате текст</string>
+    <string name="add_frequent_phrases">Добавяне на чести фрази</string>
+    <string name="delete_frequent_phrases">Изтриване на чести фрази</string>
+    <string name="delete_frequent_phrases_confirm">Изтриване на избраните чести фрази?</string>
+    <string name="frequent_phrases_size_exceeded">Могат да се добавят до %1$d чести фрази. Изтрийте ненужните, за да добавите нови.</string>
+    <string name="sync_phrase_label">Чести фрази</string>
+</resources>
