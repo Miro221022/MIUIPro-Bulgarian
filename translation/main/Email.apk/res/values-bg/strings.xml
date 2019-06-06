@@ -412,8 +412,8 @@
   <string name="empty_email_tip">Не може да се изпрати празно съобщение</string>
   <string name="empty_spam">Изчистване на нежеланите</string>
   <string name="empty_spam_dialog_title">Изчистване на нежеланите?</string>
-  <string name="empty_trash">Изпразване на кошчето</string>
-  <string name="empty_trash_dialog_title">Изпразване на кошчето?</string>
+  <string name="empty_trash">Изчистване на кошчето</string>
+  <string name="empty_trash_dialog_title">Изчистване на кошчето?</string>
   <string name="enable_sync_in_account_settings">Включете в %1$s .</string>
   <string name="error">Грешка</string>
   <string name="exception_cancel">"

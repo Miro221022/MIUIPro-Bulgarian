@@ -1286,7 +1286,7 @@
   <string name="screenshot_failed_to_save_unknown_text">При запазването на екранната снимка възникна грешка.</string>
   <string name="screenshot_feedback_txt">Доклад за грешки</string>
   <string name="screenshot_insert_failed">Не може да се зареди снимката на екрана. Направете нова или я вижте в Галерия.</string>
-  <string name="screenshot_long_screenshot">Дълго</string>
+  <string name="screenshot_long_screenshot">Издължено</string>
   <string name="screenshot_saved_text">Докоснете, за да видите екранната снимка.</string>
   <string name="screenshot_saved_title">Екранната снимка е запазена</string>
   <string name="screenshot_saving_text">Екранната снимка е запазена</string>
@@ -1860,4 +1860,6 @@
    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Още</string>
    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Вход</string>
    <string name="lock_screen_magazine_label">Отваряне на Ежедневни тапети</string>
+   <string name="long_screenshot_guide_text">"Докоснете, за да направите
+издължена екранна снимка"</string>
 </resources>

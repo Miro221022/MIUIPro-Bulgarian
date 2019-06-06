@@ -2646,4 +2646,6 @@
     <string name="gamebox_display_3">Ярък</string>
     <string name="gamebox_display_4">Ярък и наситен</string>
     <string name="gamebox_display_set">"Визуално подобрение: "</string>
+	<string name="app_manager_thumbnail_blur_title">Замъглен изглед на приложенията</string>
+    <string name="app_manager_thumbnail_blur_summary">Замъглен изглед на приложенията в Последи</string>
 </resources>

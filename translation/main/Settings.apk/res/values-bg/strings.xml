@@ -6356,4 +6356,8 @@ OTG се изключва автоматично след 10 минути без
     <string name="recent_apps_label">Последни</string>
     <string name="screenshot_label">Екранна снимка</string>
     <string name="volume_label">Сила на звука</string>
+	<string name="close_privacy_thumbnail_blur_title">"Визуализациите не са замъглени"</string>
+    <string name="open_privacy_thumbnail_blur_title">Визуализациите са замъглени</string>
+    <string name="privacy_thumbnail_blur_progress_message">Една секунда…</string>
+    <string name="privacy_thumbnail_blur_title">Замъгляване на визуализациите на приложенията</string>
 </resources>
