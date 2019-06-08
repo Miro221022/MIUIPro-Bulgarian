@@ -117,12 +117,12 @@
         <item quantity="many">Открити са %1$s нови видеоклипа</item>
     </plurals>
     <plurals name="video_ad_download_tip">
-        <item quantity="other"> Downloads</item>
-        <item quantity="zero"> Downloads</item>
-        <item quantity="one"> Download</item>
-        <item quantity="two"> Downloads</item>
-        <item quantity="few"> Downloads</item>
-        <item quantity="many"> Downloads</item>
+        <item quantity="other"> Итегляния</item>
+        <item quantity="zero"> Итегляния</item>
+        <item quantity="one"> Изтегляне</item>
+        <item quantity="two"> Итегляния</item>
+        <item quantity="few"> Итегляния</item>
+        <item quantity="many"> Итегляния</item>
     </plurals>
     <plurals name="video_play_num">
         <item quantity="other">%1$s гледания</item>

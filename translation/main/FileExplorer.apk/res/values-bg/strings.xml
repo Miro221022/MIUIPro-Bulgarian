@@ -363,7 +363,7 @@
   <string name="no_videos">Няма нищо тук. Проверете другите по-долу!</string>
   <string name="no_wifi">Няма намерени мрежи</string>
   <string name="no_wifi_hint">Няма връзка</string>
-  <string name="not_installed_documentsui">DocumentsUI не е инсталиран</string>
+  <string name="not_installed_documentsui">Файлове не е инсталирано</string>
   <string name="notif_server_starting">Стартира FTP сървър</string>
   <string name="notif_title">Активна FTP връзка</string>
   <string name="notification_dialog_confirm">ОК</string>
@@ -814,7 +814,7 @@
   <string name="rename_input_null">Въведете ново име на файла</string>
   <string name="failed_not_access_sd_card">Разрешете достъп до SD картата първо</string>
   <string name="failed_obtain_permissions">"Не може да се да получат разрешения"</string>
-  <string name="not_support_documentui">"DocumentUI не се поддържа на това устройство"</string>
+  <string name="not_support_documentui">"Файлове не се поддържа на това устройство"</string>
   <string name="request_document_permission">За управление на файлове на вашата SD карта, дайте на Файлове необходимите разрешения.</string>
   <string name="request_document_permission_title">Необходими са разрешения</string>
   <string name="directory_info_divider">"  |  "</string>
