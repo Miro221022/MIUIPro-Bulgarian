@@ -11,7 +11,7 @@
     <string name="power_hide_mode_app_list_summary">Икономия на енергия на заден план</string>
     <string name="enable_hide_mode">Включи Пестене</string>
     <string name="disable_hide_mode">Изключи Пестене</string>
-    <string name="about_hide_mode">Относно Пестенето на батерия по приложения</string>
+    <string name="about_hide_mode">Относно Пестенето по приложения</string>
     <string name="disable_hide_mode_warning">Изключването на Пестене на батерия може да повиши употребата на енергия.</string>
     <string name="show_system_app">Покажи системните приложения</string>
     <string name="hide_system_app">Скрий системните приложения</string>
@@ -47,9 +47,9 @@
     <string name="config_restrict_running_title">Ограничаване на активността на заден план</string>
     <string name="config_restrict_running_warning">Приложенията ще се затварят във фонов режим. Това може да ги направи негодни.</string>
     <string name="config_description">"MIUI може да идентифицира приложения със специфични фонови процеси (например приложения за съобщения, навигация и мултимедийни плейъри) и да прилага пестене на батерия по начин който няма да повлияе на важните дейности на заден план."</string>
-    <string name="config_suggest_description">"Идентифицирайте приложения и дейности, за да поддържате важни процеси.
+    <string name="config_suggest_description">"Идентифициране на приложения и дейности, за да се поддържат важните процеси.
 Пестенето на батерия ще третира важни приложения избирателно."</string>
-    <string name="config_no_restrict_description">"Пестенето на батерия не ограничава дейността на приложението"</string>
+    <string name="config_no_restrict_description">"Пестенето на батерия няма да ограничава дейността на приложението"</string>
     <string name="config_restrict_function_description">"Някои функции (например изскачащи известия) може да бъдат засегнати, но приложенията няма да бъдат затворени"</string>
     <string name="config_restrict_running_description">Приложенията ще бъдат затворени, за да се спести енергия</string>
     <string name="power_checker_partial_wakelock_title">%1$s предотвратява преминаването на MIUI в режим на заспиване</string>
@@ -89,7 +89,7 @@
     <string name="app_preload_policies_title">Интелигентно предварително зареждане</string>
     <string name="pref_config_title">Оптимизация на ефективността</string>
 	<string name="active_classify">Сортиране по състояние на активността</string>
-    <string name="appconfig_active_app_dialog_title">Управление на активни приложения</string>
+    <string name="appconfig_active_app_dialog_title">Управление на активните приложения</string>
     <string name="config_classify">Сортиране по настройка на приложението</string>
 	<string name="privacy">Политика за поверителност</string>
     <string name="about_extreme_mode">Екстремно пестене на батерия</string>

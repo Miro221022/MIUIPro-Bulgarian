@@ -39,7 +39,7 @@
   <string name="backup_success_message">Архивирано във %1$s</string>
   <string name="backup_success_title">Архивирано</string>
   <string name="backup_title">Рез. копие на WeChat видео?</string>
-  <string name="big5_summary">Кодирането по подразбиране е на Windows с традиционен китайски</string>
+  <string name="big5_summary">Стандартно китайско кодиране по подразбиране на Windows</string>
   <string name="big5_title">BIG5</string>
   <string name="bind">Добавяне</string>
   <string name="bind_failed_tip">Не може да се добави</string>
@@ -225,16 +225,16 @@
   <string name="found_router">Рутерът е свързан</string>
   <string name="found_usb">USB-хранилище е свързано</string>
   <string name="ftp_account_req_notice">4–16 символа, букви и цифри, чувствителност към главни и малки букви</string>
-  <string name="ftp_anonymous_login">Анонимен FTP</string>
+  <string name="ftp_anonymous_login">Анонимно вписване</string>
   <string name="ftp_invalid_username_or_password">Грешка при удостоверяване</string>
   <string name="ftp_open_port_error">Не е възможно да се използва избрания FTP порт, проверете мрежовите настройки.</string>
   <string name="ftp_password_hint">Парола</string>
   <string name="ftp_port_number">Порт</string>
-  <string name="ftp_transfer_secure">Защитен FTP трансфер</string>
+  <string name="ftp_transfer_secure">Сигурност</string>
   <string name="ftp_username_and_passworld">Име и парола</string>
   <string name="ftp_username_hint">Име</string>
   <string name="full_gems">Разменете вашите диаманти</string>
-  <string name="gbk_summary">Ако използвате кодиране GBK, например в Windows Explorer, изберете този тип на кодиране за да се избегне изкривяване на китайския текст</string>
+  <string name="gbk_summary">Опростено китайско кодиране по подразбиране за Windows</string>
   <string name="gbk_title">GBK</string>
   <string name="gender_choose_sub_tile">Получавайте персонализирано съдържание</string>
   <string name="gender_choose_sub_title">Получавайте полезни съвети</string>
@@ -361,8 +361,8 @@
   <string name="no_search_content">Няма резултати</string>
   <string name="no_topic">Няма заглавия</string>
   <string name="no_videos">Няма нищо тук. Проверете другите по-долу!</string>
-  <string name="no_wifi">Няма Wi-Fi мрежи</string>
-  <string name="no_wifi_hint">Няма Wi-Fi връзка</string>
+  <string name="no_wifi">Няма намерени мрежи</string>
+  <string name="no_wifi_hint">Няма връзка</string>
   <string name="not_installed_documentsui">DocumentsUI не е инсталиран</string>
   <string name="notif_server_starting">Стартира FTP сървър</string>
   <string name="notif_title">Активна FTP връзка</string>
@@ -556,7 +556,7 @@
   <string name="send_to_qq">Изпрати към QQ</string>
   <string name="send_to_weixin">Изпрати към WeChat</string>
   <string name="server_control_advanced_settings">Разширени настройки</string>
-  <string name="server_control_charset">Кодиране при пренос</string>
+  <string name="server_control_charset">Кодировки</string>
   <string name="server_control_settings">Настройка</string>
   <string name="server_error">Грешка в сървъра. Опитайте по-късно (Error %s).</string>
   <string name="set_pattern">Паролата беше успешно променена</string>
@@ -599,7 +599,7 @@
   <string name="sort_size_asc">От малки към по-големи</string>
   <string name="sort_size_desc">От големи към по-малки</string>
   <string name="start_server">Стартирай FTP</string>
-  <string name="stay_awake_summary">Забрана за изключване на екрана при FTP трансфер</string>
+  <string name="stay_awake_summary">"Не позволява на екрана да заспи, когато се използва FTP"</string>
   <string name="stay_awake_title">Не изключвай екрана</string>
   <string name="sticker_btn_str_explore_tab">Разгледайте куп забавни неща!</string>
   <string name="stop_server">Спри FTP</string>
@@ -733,7 +733,7 @@
   <string name="user_sign">Подпис</string>
   <string name="user_topic_text">Заглавия</string>
   <string name="user_video_text">Видео</string>
-  <string name="utf8_summary">Тип кодиране по подразбиране</string>
+  <string name="utf8_summary">По подразбиране</string>
   <string name="utf8_title">UTF-8</string>
   <string name="video_ad_download">Инсталирай</string>
   <string name="video_comment_hint">Изберете тема</string>
@@ -795,7 +795,7 @@
   <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">WeChat не е инсталиран</string>
   <string name="weixin_sticker_tag_str">Стикери</string>
-  <string name="wifi_state">Wi-Fi статус</string>
+  <string name="wifi_state">Wi-Fi мрежа</string>
   <string name="wxcircle_platform">Моменти</string>
   <string name="xiaomi_btn_bind">Mi профил</string>
   <string name="xiaomi_btn_str">Mi</string>
