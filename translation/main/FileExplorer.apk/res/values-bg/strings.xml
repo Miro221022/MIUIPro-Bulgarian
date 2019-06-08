@@ -32,7 +32,7 @@
   <string name="auto_play_recommend_tips">Автоматично пускане на клипове</string>
   <string name="auto_play_toast">Клипа ще стартира автоматично. Може да промените тези настройки.</string>
   <string name="backup_cancel">Отказ</string>
-  <string name="backup_checkbox_msg">Винаги прави back up и показвай уведомления</string>
+  <string name="backup_checkbox_msg">Архивирай автоматично</string>
   <string name="backup_confirm">Архивирай сега</string>
   <string name="backup_success_cancel">ОК</string>
   <string name="backup_success_confirm">Преглед</string>
@@ -64,7 +64,7 @@
   <string name="category_apk">Програми</string>
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_document">Документи</string>
-  <string name="category_download">Изтеглени</string>
+  <string name="category_download">Изтегляния</string>
   <string name="category_favorite">Любими</string>
   <string name="category_file">Файлове</string>
   <string name="category_files">Файлове</string>
