@@ -4530,8 +4530,7 @@
     <string name="toast_need_login">Влезте с вашия Mi профил</string>
     <string name="button_text_reboot_now">Рестарт</string>
     <string name="button_text_login">Вписване</string>
-    <string name="dialog_content_login">Необходим е Xiaomi профил за актуализацията, ще се впишете ли?</string>
-    <string name="dialog_title_login">Вписване в Xiaomi профил</string>
+    <string name="dialog_title_login">Вписване в Mi профил</string>
     <string name="make_sure_cancel_update">Да се отмени ли актуализацията?</string>
     <string name="download_current_rom">Вземи последната версия на MIUI</string>
     <string name="install_whole_rom">Изтегляне на ROM</string>
@@ -5366,7 +5365,6 @@
     <string name="carrier_show_none">Никога не показвай</string>
     <string name="deleted_apps">Изтрити приложения</string>
     <string name="detail_app_button">Информация за приложение</string>
-    <string name="dialog_chose_item">Изберете елемент, който да се показва</string>
     <string name="dialog_restrict_all_mobile_summary">%s Мобилната връзка за данни ще бъде ограничена за всички приложения след това.</string>
     <string name="dialog_restrict_all_mobile_title">Ограничаване %s мобилната връзка за данни</string>
     <string name="dialog_restrict_all_wlan_summary">WLAN връзката ще бъде ограничена за всички приложения след това.</string>
@@ -5521,7 +5519,7 @@
     <string name="aod_mode_time_title">График</string>
     <string name="aod_mode_turn_off">Изключен</string>
     <string name="aod_mode_turn_on">Включен</string>
-    <string name="miui_lab_drive_mode_desc">Използвайте гласови контроли &amp; слушате WeChat съобщения</string>
+    <string name="miui_lab_drive_mode_desc">Използвайте гласово управление и слушайте WeChat съобщения</string>
     <string name="miui_lab_drive_mode_title">Автомобилен режим</string>
     <string name="miui_lab_super_resolution_desc">Направете отчетливи изображения</string>
     <string name="miui_lab_super_resolution_title">Супер резолюция</string>
@@ -5678,8 +5676,8 @@
     <string name="security_status_title">Състояние на сигурността</string>
     <string name="security_update">Актуализация на защитата</string>
     <string name="find_my_device">Открий устройството</string>
-    <string name="find_my_device_disable">Изключване</string>
-    <string name="find_my_device_enable">Включване</string>
+    <string name="find_my_device_disable">Изключено</string>
+    <string name="find_my_device_enable">Включено</string>
 	<string name="status_bar_settings_customer_feedback">отзиви</string>
     <string name="status_bar_settings_function_description">Оносно тази функция</string>
     <string name="status_bar_settings_user_fold_description1">Папката за известия бе въведена в MIUI 9. Тази функция филтрира маловажни известия и ги поставя в отделна папка.</string>
@@ -5793,7 +5791,7 @@
 "<ul> <li>Плъзнете, за да се придвижите екрана</li>"
 "<li>Вдигнете пръста, за да намалите мащаба</li> </ul>"
 
-You can’t zoom in on the keyboard or navigation bar."</string>
+Не можете да увеличавате клавиатурата или лентата за управление."</string>
     <string name="accessibility_shortcut_service_title">Услуга за бърз достъп</string>
 	<string name="accessibility_shortcut_service_on_lock_screen_title">Разрешаване от заключен екран</string>
 	<string name="accessibility_shortcut_description">Когато командата за бърз достъп е включена, можете да натиснете двата бутона за сила на звука за 3 секунди, за да стартирате функция за достъпност.</string>
@@ -6304,7 +6302,7 @@ OTG се изключва автоматично след 10 минути без
 	<string name="color_led_title">LED светлина</string>
     <string name="long_press_power_key">Продължително натискане на бутона за захранване</string>
     <string name="long_press_power_key_tips"><Data>Продължително натискане на бутона за захранване &lt;font color=#999999>По-бързо и по-удобно&lt;/font></Data></string>
-	<string name="toggle_auto_speaker_preference_title">Автоматично превключете на говорител</string>
+	<string name="toggle_auto_speaker_preference_title">Автоматично превключване на говорител</string>
 	<string name="toggle_auto_speaker_preference_summary">Устройството ще превключи на говорител, когато го преместите от ухото си по време на разговори. Тази функция работи само когато е включен TalkBack.</string>
 	<string name="bluetooth_unlock_confirm_device_text_for_huami_band">Потвърдете на гривната.</string>
 	<string name="miui_touch_filtered_touchassistant_warning">Диалоговият прозорец на разрешенията е закрит от Плаваща топка. Преместете Плаваща топка или изключете тази функция.</string>
@@ -6341,4 +6339,32 @@ OTG се изключва автоматично след 10 минути без
     <string name="open_privacy_thumbnail_blur_title">Визуализациите са замъглени</string>
     <string name="privacy_thumbnail_blur_progress_message">Една секунда…</string>
     <string name="privacy_thumbnail_blur_title">Замъгляване на визуализациите на приложенията</string>
+	<string name="gesture_setting_off">Включено</string>
+    <string name="gesture_setting_on">Изключено</string>
+	<string name="dialog_background_check_message">"Телефонът ви не може да управлява нормално батерията, защото %1$s продължава да събужда телефона.
+
+За да се опитате да разрешите този проблем, можете да спрете %1$s и да му забраните да работи на заден план."</string>
+    <string name="dialog_background_check_ok">Изключи</string>
+    <string name="dialog_background_check_title">Спиране на използването на заден план и спиане на приложението?</string>
+    <string name="dialog_chose_item">Изберете елемент за показване</string>
+    <string name="dialog_content_login">Ще се впишете ли в Mi профила си, за да актуализирате?</string>
+    <string name="dialog_location_message">"Телефонът ви не може да управлява нормално батерията, защото %1$s продължава да изисква местоположението ви, когато не използвате приложението.
+
+За да разрешите този проблем, можете да изключите местоположението за това приложение."</string>
+    <string name="dialog_location_ok">Изключи</string>
+    <string name="dialog_location_title">Изключване на местоположението?</string>
+    <string name="dialog_stop_message">"Телефонът ви не може да управлява нормално батерията, защото %1$s поддържа телефона ви буден.
+
+За да опитате да решите този проблем, можете да спрете приложението.
+
+Ако това продължава да се случва, може да се наложи да деинсталирате приложението, за да подобрите състоянието на батерията."</string>
+    <string name="dialog_stop_message_wakeup_alarm">"Телефонът ви не може да управлява нормално батерията, защото %1$s продължава да събужда телефона ви.
+
+За да опитате да решите този проблем, можете да спрете %1$s.
+
+Ако това продължава да се случва, може да се наложи да деинсталирате приложението, за да подобрите състоянието на батерията."</string>
+    <string name="dialog_stop_ok">Спри приложението</string>
+    <string name="dialog_stop_title">Спиране на приложението?</string>
+	<string name="accessibility_summary_state_disabled">Изключено</string>
+    <string name="accessibility_summary_state_enabled">Включено</string>
 </resources>
