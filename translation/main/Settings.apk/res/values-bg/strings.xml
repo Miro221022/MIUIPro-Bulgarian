@@ -413,9 +413,9 @@
     <string name="fsg_mistake_touch_title">Двойна проверка на жестовете</string>
     <string name="fsg_mistake_touch_summary">В някои случаи, като например игри и видеоклипове на цял екран, жестовете трябва да бъдат с двукратно плъзгане, за да влязат в сила</string>
     <string name="navigation_guide_settings">Демонстрация на жестове</string>
-    <string name="navigation_guide_home_title">Отиди на Начален екран</string>
+    <string name="navigation_guide_home_title">Отиване към Начален екран</string>
     <string name="navigation_guide_home_summary">Плъзнете нагоре от долната част на екрана</string>
-    <string name="navigation_guide_recent_title">Отвори Последни</string>
+    <string name="navigation_guide_recent_title">Отворяне на Последни</string>
     <string name="navigation_guide_recent_summary">Плъзнете нагоре от долната част на екрана и задръжте</string>
     <string name="navigation_guide_back_title">Назад</string>
     <string name="navigation_guide_back_summary">Плъзнете наляво или надясно от ръба на екрана</string>
@@ -5523,8 +5523,8 @@
     <string name="miui_lab_drive_mode_title">Автомобилен режим</string>
     <string name="miui_lab_super_resolution_desc">Направете отчетливи изображения</string>
     <string name="miui_lab_super_resolution_title">Супер резолюция</string>
-    <string name="navigation_guide_appswitch_summary">Плъзнете наляво или надясно от ръба на екрана и задръжте за известно време</string>
-    <string name="navigation_guide_appswitch_title">Превключване към предишно приложение</string>
+    <string name="navigation_guide_appswitch_summary">Плъзнете наляво или надясно от ръба на екрана и задръжте</string>
+    <string name="navigation_guide_appswitch_title">Към предишно приложение</string>
     <string name="paper_mode_side_effect_hint">По-високата интензивност може да повлияе на начина, по който се показва съдържанието.</string>
     <string name="status_bar_carrier_settings_no_sim_card">Няма СИМ карта</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">Показване на оператора, когато устройството е заключено</string>

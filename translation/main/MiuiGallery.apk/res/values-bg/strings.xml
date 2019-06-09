@@ -1047,7 +1047,7 @@
     <string name="sticker_summer">Лято</string>
     <string name="sticker_words">Думи</string>
     <string name="storage_no_space">Няма място в хранилището.</string>
-    <string name="sub_discard_confirm_message">Запази промените?</string>
+    <string name="sub_discard_confirm_message">Запазване на промените?</string>
     <string name="sub_discard_negative_btn">Отмени</string>
     <string name="sub_discard_positive_btn">Запази</string>
     <string name="success_create_quick_icon_on_desk">Успешно създадено</string>
