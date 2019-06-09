@@ -9,9 +9,9 @@
     <string name="menu_scan_start">Сканиране</string>
     <string name="menu_new_station">Добавяне</string>
     <string name="menu_save_station_list">Добавяне в списък</string>
-    <string name="menu_save_station_presets">Добави в списъка</string>
-    <string name="menu_speaker">Превключете към висоговорителя</string>
-    <string name="menu_headset">Превключете на слушалки</string>
+    <string name="menu_save_station_presets">Добавяне в списък</string>
+    <string name="menu_speaker">Превключване към висоговорител</string>
+    <string name="menu_headset">Превключване към слушалки</string>
     <string name="menu_exit">Изход</string>
     <string name="dialog_sleep_title">Задайте таймер за сън</string>
     <string name="search_dialog_title">Сканиране за станции</string>

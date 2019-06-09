@@ -3,13 +3,13 @@
     <plurals name="toast_channel_searched">
         <item quantity="other">%1$d станции са намерени</item>
         <item quantity="zero">%1$d станции са намерени</item>
-        <item quantity="one">%1$d станции са намерени</item>
+        <item quantity="one">%1$d станция е намерена</item>
         <item quantity="two">%1$d станции са намерени</item>
         <item quantity="few">%1$d станции са намерени</item>
         <item quantity="many">%1$d станции са намерени</item>
     </plurals>
     <plurals name="notification_rec_content">
         <item quantity="other">%d FM записа</item>
-        <item quantity="one">%d FM записа</item>
+        <item quantity="one">%d FM запис</item>
     </plurals>
 </resources>
