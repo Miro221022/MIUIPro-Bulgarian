@@ -2648,4 +2648,23 @@
     <string name="gamebox_display_set">"Визуално подобрение: "</string>
 	<string name="app_manager_thumbnail_blur_title">Замъглен изглед на приложенията</string>
     <string name="app_manager_thumbnail_blur_summary">Замъглен изглед на приложенията в Последи</string>
+	<string name="user_guide">Плъзнете нагоре, за да откриете още свежи игри</string>
+    <string name="power_center_dialog_msg_top">Когато е включено пестене на батерия, MIUI ще предприеме следните оптимизации:</string>
+    <string name="power_center_dialog_msg_bottom">Можете да увеличите живота на батерията до %1$dч %2$dм. Включване на Пестене на батерия?</string>
+    <string name="power_dialog_super_save_msg">"Свръх пестенето на батерия ограничава най-енергоемките функции и намалява производителността на устройството, за да остави основната функционалност (например повиквания, SMS и свързване към мрежата) на лице възможно най-дълго. Включване на Свръх пестене на батерия?"</string>
+    <string name="power_dialog_super_save_title">Свръх пестене на батерия</string>
+    <string name="power_center_power_save_title_text">Пестене на батерия</string>
+    <string name="power_center_super_save_title_text">Свръх пестене на батерия</string>
+    <string name="power_center_super_save_summary_text">Увеличаване на оставащото време до %1$dч %2$dм</string>
+    <string name="power_center_power_save_summary_text">Увеличаване на оставащото време до %1$dч %2$dм</string>
+    <string name="power_center_battery_last">%s остават</string>
+    <string name="power_center_one_key_save">Оптимизиране</string>
+    <string name="power_setting_power_save_summary_text">Оптимизирайте системните настройки, за да спестите батерия</string>
+    <string name="power_setting_super_save_summary_text">Ограничете повечето функции на системата, за да спестите батерия</string>
+    <string name="power_setting_category_other">Допълнителни настройки</string>
+    <string name="power_setting_background_app_save_title">Пестене на батерия на заден план</string>
+    <string name="power_setting_background_app_save_summary">Ограничаване на активността на приложенията във фонов режим, без да се засяга функционалността</string>
+    <string name="power_settings_lock_screen_saver_title">Настройки на заключен екран</string>
+    <string name="quick_optimize_sub_summary_with_battery_text">Добавени %1$s, about %2$s остават</string>
+    <string name="quick_optimize_sub_battery_text">Около %s остават</string>
 </resources>

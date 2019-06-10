@@ -195,4 +195,24 @@
 	<string name="cowboy">Каубой</string>
     <string name="icelatte">Ледено латте</string>
 	<string name="dewdrops">Капки роса</string>
+	<string name="citylight">Градска светлина</string>
+    <string name="countryside">Околност</string>
+    <string name="frenchchic">Френски шик</string>
+    <string name="glorious">Славен</string>
+    <string name="greenandblue">Зелено и Синьо</string>
+    <string name="hallofmemories">Зала на спомените</string>
+    <string name="hawaii">Хавай</string>
+    <string name="martix">Матрица</string>
+    <string name="monet">Моне</string>
+    <string name="passionflower">Цвете на страстта</string>
+    <string name="secretgarden">Тайната градина</string>
+    <string name="asend">Изпращане</string>
+    <string name="bells">Звънци</string>
+    <string name="child">Дете</string>
+    <string name="dance">Танц</string>
+    <string name="expect">Очаквам</string>
+    <string name="game">Игра</string>
+    <string name="makewishes">Пожелания</string>
+    <string name="robot">Робот</string>
+    <string name="surprise">Изненада</string>
 </resources>

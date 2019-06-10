@@ -1727,4 +1727,6 @@
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM авто</string>
     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">GSM само</string>
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA само</string>
+	<string name="preferred_network_type_pref_entries_5g_preferred">Предпочита се 5G</string>
+    <string name="network_mode_updating_title">Тип на мрежата</string>
 </resources>
