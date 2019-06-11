@@ -2665,6 +2665,6 @@
     <string name="power_setting_background_app_save_title">Пестене на батерия на заден план</string>
     <string name="power_setting_background_app_save_summary">Ограничаване на активността на приложенията във фонов режим, без да се засяга функционалността</string>
     <string name="power_settings_lock_screen_saver_title">Настройки на заключен екран</string>
-    <string name="quick_optimize_sub_summary_with_battery_text">Добавени %1$s, about %2$s остават</string>
-    <string name="quick_optimize_sub_battery_text">Около %s остават</string>
+    <string name="quick_optimize_sub_summary_with_battery_text">Добавени %1$s, приблизително %2$s остават</string>
+    <string name="quick_optimize_sub_battery_text">Приблизително %s остават</string>
 </resources>
