@@ -6187,7 +6187,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="usage_state_noti_mourth_day">Известия на %s</string>
     <string name="usage_state_notification">Управление на известията</string>
     <string name="usage_state_notification_manager">Управление на известията на приложенията</string>
-    <string name="usage_state_remind_summary">Включете, за да получавате предупреждения за ползването на екрана. Можете да зададете различни срокове за делнични и почивни дни.</string>
+    <string name="usage_state_remind_summary">Включете, за да получавате предупреждения за ползването на екрана.</string>
     <string name="usage_state_remind_title">Предупреждения за ползване на екрана</string>
     <string name="usage_state_rest_day">Уикенди</string>
     <string name="usage_state_saturday">Съб</string>
@@ -6367,4 +6367,6 @@ OTG се изключва автоматично след 10 минути без
     <string name="dialog_stop_title">Спиране на приложението?</string>
 	<string name="accessibility_summary_state_disabled">Изключено</string>
     <string name="accessibility_summary_state_enabled">Включено</string>
+	<string name="dark_color_summary_lcd">"Използвайте по-тъмна цветова палитра за системни фонове и съвместими приложения. Тъмният режим може да ви помогне да облекчите напрежението в очите, когато използвате устройството си на тъмно."</string>
+    <string name="dark_color_summary_oled">Използвайте по-тъмна цветова палитра за системни фонове и съвместими приложения. Тъмният режим намалява консумацията на енергия и спомага за облекчаване на напрежението в очите.</string>
 </resources>

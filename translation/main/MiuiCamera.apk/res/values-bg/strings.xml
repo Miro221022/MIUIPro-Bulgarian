@@ -462,7 +462,7 @@
 	<string name="pref_camera_ai_scene_title">Интелигентна Камера</string>
 	<string name="accessibility_ai_scene_off">Интелигентна камера е изключена</string>
     <string name="accessibility_ai_scene_on">Интелигентна камера е включена</string>
-    <string name="hint_ae_af_lock">Автофокус/автоматичната експозиция е заключена</string>
+    <string name="hint_ae_af_lock">Автофокус/автоматичната експозиция заключени</string>
 	<string name="edit_chin">Брадичка</string>
     <string name="edit_lips">Устни</string>
     <string name="edit_neck">Врат</string>
@@ -907,4 +907,6 @@
 	<string name="ultra_wide_recommend_tip_hint_sat">Опитайте с ултра широкоъгълен режим 0.6X</string>
 	<string name="pref_camera_zoom_mode_entry_macro">МАКРО</string>
 	<string name="lying_direct_hint">Текуща ориентация</string>
+    <string name="calibration_guide_tittle">Некалибрирана камера</string>
+	<string name="calibration_hint_usage">Некалибрираната камера ще има отрицателно въздействие върху качеството на снимката.Моля, свържете се с сервизното обслужване.</string>
 </resources>
