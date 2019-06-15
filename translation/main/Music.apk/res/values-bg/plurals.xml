@@ -13,8 +13,8 @@
         <item quantity="one">Търсене на обложки и текстове на песни (%1$d/%2$d)</item>
     </plurals>
     <plurals name="Nbackup_songs">
-        <item quantity="other">Архивиране на песни, %1$d песни остават (%2$.1fМБ)</item>
-        <item quantity="one">Архивиране на песни, %1$d песен остава (%2$.1fМБ)</item>
+        <item quantity="other">Архивиране на песни, %1$d песни остават (%2$.1fМб)</item>
+        <item quantity="one">Архивиране на песни, %1$d песен остава (%2$.1fМб)</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">остават %d дни</item>
@@ -29,8 +29,8 @@
         <item quantity="one">%d нова песен</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">Музиката ще спре след %d минути</item>
-        <item quantity="one">Музиката ще спре след %d минута</item>
+        <item quantity="other">Приложението ще спре след %d минути</item>
+        <item quantity="one">Приложението ще спре след %d минута</item>
     </plurals>
     <plurals name="Nrecognize_switch_off_alert_message">
         <item quantity="other">Вие сте избрали да не се търсят обложки на албуми и текстове автоматично за локални песни. Да се изтрие ли информацията за %d песни?</item>
@@ -65,12 +65,12 @@
         <item quantity="one">%d подобна песен</item>
     </plurals>
     <plurals name="Nunbackup_audios">
-        <item quantity="other">%1$d песни не са архивирани (%2$.1fМБ)</item>
-        <item quantity="one">%1$d песен не е архивирана (%2$.1fМБ)</item>
+        <item quantity="other">%1$d песни не са архивирани (%2$.1fМб)</item>
+        <item quantity="one">%1$d песен не е архивирана (%2$.1fМб)</item>
     </plurals>
     <plurals name="Nupload_song_button">
-        <item quantity="other">Архивиране %1$d песни (%2$.1fМБ)</item>
-        <item quantity="one">Архивиране %1$d песен (%2$.1fМБ)</item>
+        <item quantity="other">Архивиране %1$d песни (%2$.1fМб)</item>
+        <item quantity="one">Архивиране %1$d песен (%2$.1fМб)</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d коментари</item>
@@ -133,8 +133,8 @@
         <item quantity="one">%d песен</item>
     </plurals>
 	<plurals name="Nsleep_quit_warning">
-        <item quantity="other">%d минути остават</item>
-        <item quantity="one">%d минута остава</item>
+        <item quantity="other">След %d минути</item>
+        <item quantity="one">След %d минута</item>
     </plurals>
 	<plurals name="comment_input_length_invalid">
         <item quantity="other">Можете да въведете до %1$d символа.</item>

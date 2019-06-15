@@ -170,8 +170,8 @@
     <string name="desktop_lyric_dialog_positive_button">Опитайте сега</string>
     <string name="desktop_lyric_dialog_title">Опитайте текстове на песни на вашия екран.</string>
     <string name="desktop_lyric_lock_toast">Заключено. Използвайте Mini Player в лентат с известия, за да отключите</string>
-    <string name="desktop_lyric_setting_summary">Показване на плаващи текстове на вашия екран.</string>
-    <string name="desktop_lyric_setting_title">Текстове на вашия екран</string>
+    <string name="desktop_lyric_setting_summary">Показване на текстове на началния екран</string>
+    <string name="desktop_lyric_setting_title">Текстове на начален екран</string>
     <string name="desktop_lyric_textsize">Текст</string>
     <string name="device_connected">Свързано</string>
     <string name="device_not_connected">Не е свързано</string>
@@ -208,7 +208,7 @@
     <string name="dialog_title_name_playlist">Име на плейлиста</string>
     <string name="dialog_title_not_available">Изтеглянето е невъзможно</string>
     <string name="dialog_title_queued_body">Файлът е недостъпен</string>
-    <string name="dialog_title_remove_tracks">Премахване на песни</string>
+    <string name="dialog_title_remove_tracks">Премахване</string>
     <string name="dialog_title_track_picker">Избиране на песни</string>
     <string name="disable_auto_payment_fail">Не може да се изключи</string>
     <string name="disable_auto_payment_fail_message">Не може да се спре автоматичното подновяване</string>
@@ -324,8 +324,8 @@
     <string name="eq_jazz">Джаз</string>
     <string name="eq_metal">Метъл</string>
     <string name="eq_pop">Поп</string>
-    <string name="eq_preset_create">Създай</string>
-    <string name="eq_preset_format">Предв. зададени %d</string>
+    <string name="eq_preset_create">Създаване</string>
+    <string name="eq_preset_format">Предварително зададени %d</string>
     <string name="eq_preset_hint">Име на събитие</string>
     <string name="eq_preset_rename">Преименувай</string>
     <string name="eq_preset_select">Избери предв.зададен</string>
@@ -351,7 +351,7 @@
     <string name="filter_by_duration_format">%2$dмин %5$2dсек</string>
     <string name="filter_by_duration_max">%d мин</string>
     <string name="filter_by_duration_min">%d сек</string>
-    <string name="filter_by_duration_prefix">"Мин. продължителност: "</string>
+    <string name="filter_by_duration_prefix">"Минимална продължителност: "</string>
     <string name="filter_by_duration_summary">Скриване на кратките аудио файлове</string>
     <string name="filter_by_folder">По папка</string>
     <string name="filter_by_folder_summary">Изберете папки за показване</string>
@@ -439,7 +439,7 @@
     <string name="karaoke_title">Представяне на Караоке</string>
     <string name="keep_queued_download">Запомни</string>
     <string name="ktv_playlist">Моят KTV</string>
-    <string name="latest_song">История на пусканите песни (%d)</string>
+    <string name="latest_song">История на изпълненията (%d)</string>
     <string name="like">Харесвам</string>
     <string name="list_item_play_FM_radio">Докоснете за старт на FM радио</string>
     <string name="list_item_play_all_tracks">Докоснете за старт на всички песни</string>
@@ -521,7 +521,7 @@
     <string name="monthly_price">Mi Кредити</string>
     <string name="more">Още</string>
     <string name="more_about_artist">Още за %s</string>
-    <string name="more_add_song_list">Добавете песни към опашката</string>
+    <string name="more_add_song_list">Добави към плейлист</string>
     <string name="more_online_artist">Още</string>
     <string name="more_online_billboard">Още</string>
     <string name="more_online_fm">Още</string>
@@ -534,7 +534,7 @@
     <string name="more_share">Споделяне</string>
     <string name="multichoice">Изберете</string>
     <string name="music_browser_label">Музика</string>
-    <string name="music_filter">Филтриране на аудиофайловете</string>
+    <string name="music_filter">Филтриране на аудио файловете</string>
     <string name="music_service">Услуги за музика</string>
     <string name="music_settings">Музика</string>
     <string name="my_account">Моят профил</string>
@@ -763,11 +763,11 @@
     <string name="set_id3_successful">Успешно задаване на данните за песента</string>
     <string name="set_ringtones_failed">Неуспешно задаване като мелодия.</string>
     <string name="set_ringtones_successful">%s е зададена като мелодия на звънене.</string>
-    <string name="setting_feature_setting">Настройки за услуги</string>
+    <string name="setting_feature_setting">Настройки на функциите</string>
     <string name="settings">Настройки</string>
     <string name="settings_notification_text">Покажи притурката на музикалния плеър.</string>
     <string name="settings_notification_title">Настройки за уведомление в притурката.</string>
-    <string name="settings_search_key_desktop_lyric">Текстове на вашия екран;Текстове;Музика;Песни</string>
+    <string name="settings_search_key_desktop_lyric">Текстове на начален екран;Текстове;Музика;Песни</string>
     <string name="settings_search_key_download_quality">Качество на изтеглянето; Качество;Музика;Изтегляне;Песни</string>
     <string name="settings_search_key_download_when_favorite">Изтегляне на предпочитани; Изтегляне; Предпочитани; Музика; Песни</string>
     <string name="settings_search_key_main">Музика;Песни;Песен</string>
@@ -776,7 +776,7 @@
     <string name="settings_search_path_advance">Системни приложения/Музика/Настройки/Допълнителни настройки</string>
     <string name="settings_search_path_main">Системни приложения/Музика</string>
     <string name="settings_search_path_normal">Системни приложения/Музика/Настройки</string>
-    <string name="settings_search_title_desktop_lyric">Текстове на вашия екран</string>
+    <string name="settings_search_title_desktop_lyric">Текстове на начален екран</string>
     <string name="settings_search_title_download_quality">Качество при изтегляне</string>
     <string name="settings_search_title_download_when_favorite">Изтегляне на любими</string>
     <string name="settings_search_title_main">Музика</string>
@@ -845,8 +845,8 @@
     <string name="talkback_like">Харесвам</string>
     <string name="talkback_mode">Повтаряй плейлистата</string>
     <string name="talkback_mode_repeat_all">Режим повторение на всички</string>
-    <string name="talkback_mode_repeat_current">Режим повторение на текуща фраза</string>
-    <string name="talkback_mode_repeat_shuffle">Режим повторение на случайни</string>
+    <string name="talkback_mode_repeat_current">Режим повторение</string>
+    <string name="talkback_mode_repeat_shuffle">Режим разбъркано</string>
     <string name="talkback_more">Още менюта</string>
     <string name="talkback_next">Следваща песен</string>
     <string name="talkback_nowplaying_bar">Лента за възпроизвеждане</string>
@@ -942,7 +942,7 @@
     <string name="impunity_declaration_content3">" и "</string>
     <string name="impunity_declaration_content4">Политика за поверителност</string>
     <string name="impunity_declaration_content5">.</string>
-	<string name="auto_enter_nowplaying_setting_title">Показване на максимизиран плейър автоматично</string>
+	<string name="auto_enter_nowplaying_setting_title">Показване на уголемен плейър автоматично</string>
 	<string name="add_cannot_gif_list">Не може да се добави към списък за изпълнение</string>
     <string name="albun_publish_time">Час на публикуване:%1$s</string>
     <string name="cannot_comment_try_scroll">Тази песен не може да бъде коментирана, опитайте се да превъртите</string>
@@ -951,9 +951,9 @@
     <string name="multiple_select">Мулти избор</string>
     <string name="nowplaying_find_more">Намери още</string>
     <string name="play_all"><Data>Изпълни всички&lt;font color=#999999>（%1$d）&lt;/font></Data></string>
-    <string name="play_mode_circle">Режим "кръг"</string>
-    <string name="play_mode_shuffle">Режим разбъркване</string>
-    <string name="play_mode_single">Единичен режим</string>
+    <string name="play_mode_circle">Повтори всички</string>
+    <string name="play_mode_shuffle">Разбъркано</string>
+    <string name="play_mode_single">Повтори песента</string>
     <string name="song_group_float_save_picture">Запазване на снимката</string>
     <string name="song_group_float_save_picture_success">Запазено успешно</string>
     <string name="song_group_float_to_save_picture">Запазено в %1$s</string>
@@ -1114,4 +1114,17 @@
    <string name="dialog_title_clearlist_tracks">Премахни от опашката</string>
    <string name="pick_local_song">Локални песни</string>
    <string name="password_toggle_content_description">Превключване на видимостта на паролата</string>
+   <string name="my_created_playlist">Моите плейлисти</string>
+   <string name="local_create">Създаване</string>
+   <string name="nowplaying_bar_switch_songs_by_sliding">Сменяйте песните чрез плъзгане</string>
+   <string name="local_preset_liked_playlist">Харесвам</string>
+   <string name="local_page_music">Локална музика</string>
+   <string name="search_localsearch_hint">Търсете песни на това устройство</string>
+   <string name="history_clear">Изчистване</string>
+   <string name="history_clear_fm">Изчистване на историята на възпроизвеждането от радиото?</string>
+   <string name="history_clear_music">Изчистване на историята на възпроизвеждане на музика?</string>
+   <string name="sleep_mode_state">Състояние:</string>
+   <string name="sleep_close">Няма зададен</string>
+   <string name="shut_down_sleep_mode">Изключване</string>
+   <string name="sleep_custom">Настройка</string>
 </resources>
