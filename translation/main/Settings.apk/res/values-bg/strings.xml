@@ -6335,10 +6335,10 @@ OTG се изключва автоматично след 10 минути без
     <string name="recent_apps_label">Последни</string>
     <string name="screenshot_label">Екранна снимка</string>
     <string name="volume_label">Сила на звука</string>
-	<string name="close_privacy_thumbnail_blur_title">"Визуализациите не са замъглени"</string>
-    <string name="open_privacy_thumbnail_blur_title">Визуализациите са замъглени</string>
+	<string name="close_privacy_thumbnail_blur_title">"Приложения със незамъглен изглед"</string>
+    <string name="open_privacy_thumbnail_blur_title">Приложения със замъглен изглед</string>
     <string name="privacy_thumbnail_blur_progress_message">Една секунда…</string>
-    <string name="privacy_thumbnail_blur_title">Замъгляване на визуализациите на приложенията</string>
+    <string name="privacy_thumbnail_blur_title">Замъглен изглед на приложенията</string>
 	<string name="gesture_setting_off">Включено</string>
     <string name="gesture_setting_on">Изключено</string>
 	<string name="dialog_background_check_message">"Телефонът ви не може да управлява нормално батерията, защото %1$s продължава да събужда телефона.
