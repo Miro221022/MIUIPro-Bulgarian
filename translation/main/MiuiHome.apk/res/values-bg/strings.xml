@@ -386,7 +386,7 @@
 	<string name="system_shortcuts_more_operation">Информация за приложението</string>
     <string name="all_apps_setting_desktop_desc">Показване на всички инсталирани приложения.Задържане върху иконата на приложението, за да се покажат преките пътища.Управление или деинсталиране на приложения.</string>
     <string name="all_apps_setting_desktop_title">Стандартен режим</string>
-    <string name="all_apps_setting_drawer_desc">Кликнете върху бутона на чекмеджето, за да се покажат всички приложения.Приложенията, премахнати от началния екран, все още могат да бъдат намерени в чекмеджето.</string>
+    <string name="all_apps_setting_drawer_desc">Кликване върху бутона на чекмеджето, за да се покажат всички приложения.Приложенията, премахнати от началния екран, все още могат да бъдат намерени в чекмеджето.</string>
     <string name="all_apps_setting_drawer_title">Режим чекмедже</string>
     <string name="all_apps_setting_title">Режим на началния екран</string>
 </resources>
