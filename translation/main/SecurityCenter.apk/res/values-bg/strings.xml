@@ -2671,4 +2671,15 @@
     <string name="summary_dark_mode">Някои страници се показват в черно поради услуги от трети страни</string>
     <string name="title_dark_mode">"Някои елементи не се показват правилно"</string>
     <string name="toast_dark_mode_fixed">Поправено успешно. Излезте от тази страница, за да се приложат промените.</string>
+	<string name="power_main_battery_last_day_hour">%1$sд %2$sч остават</string>
+    <string name="power_main_battery_last_hour_minute">%1$sч %2$sм остава</string>
+    <string name="pc_main_battery_text_day">Добавено %1$sм, проблизително %2$sд остава</string>
+    <string name="pc_main_battery_text_day_hour">Добавено %1$sм, проблизително %2$sд %3$sч остава</string>
+    <string name="pc_main_battery_text_hour">Добавено %1$sм, проблизително %2$sч остава</string>
+    <string name="pc_main_battery_text_hour_minute">Добавено %1$sм, проблизително %2$sч %3$sм остава</string>
+    <string name="pc_main_battery_text_minute">Добавено %1$sм, проблизително %2$sм остава</string>
+    <string name="pc_main_sub_battery_text_day_hour">%1$sд %2$sч остава</string>
+    <string name="pc_main_sub_battery_text_hour_minute">%1$sч %2$sм остава</string>
+    <string name="pc_main_power_manager_day_hour">%1$sд %2$sч до пълното зареждане</string>
+    <string name="pc_main_power_manager_hour_minute">%1$sч %2$sм до пълното зареждане</string>
 </resources>

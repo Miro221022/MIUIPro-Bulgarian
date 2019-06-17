@@ -6369,4 +6369,19 @@ OTG се изключва автоматично след 10 минути без
     <string name="accessibility_summary_state_enabled">Включено</string>
 	<string name="dark_color_summary_lcd">"Използвайте по-тъмна цветова палитра за системни фонове и съвместими приложения. Тъмният режим може да ви помогне да облекчите напрежението в очите, когато използвате устройството си на тъмно."</string>
     <string name="dark_color_summary_oled">Използвайте по-тъмна цветова палитра за системни фонове и съвместими приложения. Тъмният режим намалява консумацията на енергия и спомага за облекчаване на напрежението в очите.</string>
+	<string name="usage_app_get_it">Разбрах</string>
+    <string name="usage_app_limit_alter_summary">"Изглежда, че този лимит за време е по-кратък от времето, което сте използвали днес. Задаване на лимит въпреки това?"</string>
+    <string name="usage_app_limit_alter_title">Проверка на ограничението за време на екрана</string>
+    <string name="usage_app_limit_prelong">Удължаване на времето</string>
+    <string name="usage_app_limit_reach_summay">%s остава</string>
+    <string name="usage_app_limit_reach_title">%s достигна лимита за екранно време</string>
+    <string name="usage_app_limit_summary">"Избраните приложения няма да са налице, когато се достигне лимита"</string>
+    <string name="usage_app_limit_title">Ограничаване на екранното време</string>
+    <string name="usage_app_other_settings">Допълнителни настройки</string>
+    <string name="usage_app_over_content">"Вече сте използвали това приложение %s днес."</string>
+    <string name="usage_app_over_summary">"Достигнахте лимита. Времето изтече!"</string>
+    <string name="usage_app_set_limit_time">Задаване на лимит</string>
+    <string name="usage_app_system_app_summary">"Не може да се зададе лимит за екранно време за системни приложения"</string>
+    <string name="usage_app_weekday_limit">Делници</string>
+    <string name="usage_app_weekend_limit">Уикенди</string>
 </resources>
