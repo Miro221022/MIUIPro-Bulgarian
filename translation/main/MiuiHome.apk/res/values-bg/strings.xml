@@ -339,7 +339,7 @@
     <string name="notification_reset_description">%1$s%1$s Може да нулира стартера до %2$s</string>
     <string name="notification_reset_duration">След 2 часа,</string>
     <string name="notification_reset_title">Иконите са подредени успешно</string>
-    <string name="quick_app">Бързо приложение</string>
+    <string name="quick_app">Бързи приложения</string>
     <string name="refresh">Обновяване</string>
     <string name="reset_fail">Не може да се възстанови</string>
     <string name="reset_title">Възстановяване</string>
@@ -389,4 +389,6 @@
     <string name="all_apps_setting_drawer_desc">Кликване върху бутона на чекмеджето, за да се покажат всички приложения.Приложенията, премахнати от началния екран, все още могат да бъдат намерени в чекмеджето.</string>
     <string name="all_apps_setting_drawer_title">Режим чекмедже</string>
     <string name="all_apps_setting_title">Режим на началния екран</string>
+	<string name="all_apps">Всички приложения</string>
+    <string name="recent_apps">Последни приложения</string>
 </resources>
