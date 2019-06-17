@@ -131,7 +131,6 @@
     <string name="my_gifts">Подаръци</string>
     <string name="my_gifts_purchased">Закупени</string>
     <string name="my_gifts_received">Получени</string>
-    <string name="no_data">Няма връзка с мрежа</string>
     <string name="online_no_network">Мрежата е недостъпна</string>
     <string name="online_precust_abstract">Абстрактно</string>
     <string name="online_precust_animal">Животно</string>
@@ -489,7 +488,7 @@
     <string name="exo_controls_repeat_off_description">Без повтаряне</string>
     <string name="exo_controls_repeat_one_description">Повтори една</string>
     <string name="exo_controls_rewind_description">Назад</string>
-    <string name="exo_controls_shuffle_description">Разбъркай</string>
+    <string name="exo_controls_shuffle_description">Разбъркано</string>
     <string name="exo_controls_stop_description">Стоп</string>
     <string name="exo_download_completed">Изтеглянето е завършено</string>
     <string name="exo_download_description">Изтегли</string>
@@ -500,7 +499,7 @@
     <string name="exo_track_mono">Моно</string>
     <string name="exo_track_selection_auto">Авто</string>
     <string name="exo_track_selection_none">Без</string>
-    <string name="exo_track_selection_title_audio">Аудио</string>
+    <string name="exo_track_selection_title_audio">Звук</string>
     <string name="exo_track_selection_title_text">Текст</string>
     <string name="exo_track_selection_title_video">Видео</string>
     <string name="exo_track_stereo">Стерео</string>
@@ -663,7 +662,6 @@
    <string name="resource_trial_end_checkbox_hint">Първо получете Mi кредити</string>
    <string name="resource_trial_end_get_mibi">Получаване на Mi кредити</string>
    <string name="resource_trial_end_jump_hint">Пренасочване…</string>
-   <string name="theme_comment_dialog_message">Оценете това приложение и ни кажете какво мислите.</string>
    <string name="theme_comment_dialog_ok">Оцени</string>
    <string name="theme_staggered_item_text">Получаване на Mi кредити</string>
    <string name="ad_begin_to_download_tip">Стартира се изтегляне…</string>
@@ -710,4 +708,41 @@
    <string name="xiaoai_speech_not_installed_download">Изтегляне</string>
    <string name="xiaoai_speech_not_installed_message">Изтеглете и инсталирайте Mi AI Гласов асистент за да продължите.</string>
    <string name="xiaoai_speech_not_installed_title">Не е инсталиран Mi AI Гласов асистент.</string>
+   <string name="about_app_name">Относно Теми</string>
+   <string name="about_version_update">"Какво ново"</string>
+   <string name="already_latest_version">Актуално</string>
+   <string name="ad_tag_text_1">Популярни</string>
+   <string name="ad_tag_text_2">Мода</string>
+   <string name="character_counter_content_description">Лимитът на символите надвишен с %1$d от %2$d</string>
+   <string name="character_counter_pattern">%1$d / %2$d</string>
+   <string name="check_has_new_version">Налична е актуализация</string>
+   <string name="common_applying">Прилагане…</string>
+   <string name="common_downloading">Изтегляне…</string>
+   <string name="common_format_date_no_year">dd/MM</string>
+   <string name="common_skip">Пропускане</string>
+   <string name="current_version">Текуща версия: %1$s</string>
+   <string name="exo_item_list">%1$s, %2$s</string>
+   <string name="exo_track_bitrate">%1$.2f Мбит/с</string>
+   <string name="exo_track_resolution">%1$d × %2$d</string>
+   <string name="goto_purchased_list">Вижте историята на покупките</string>
+   <string name="goto_wechat">WeChat профилът \"%1$s\" е копиран в бъферната памет. Отваряне на WeChat сега?</string>
+   <string name="mtrl_chip_close_icon_content_description">Премахни %1$s</string>
+   <string name="network_exception">"Не може да се свърже с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
+   <string name="no_data">"Не може да се свърже с мрежата"</string>
+   <string name="search_menu_title">Търсене</string>
+   <string name="service_btn_text_know">Знайте това</string>
+   <string name="service_btn_text_try">Опитайте</string>
+   <string name="theme_comment_dialog_cancel">Не сега</string>
+   <string name="theme_comment_dialog_message">"Харесвате ли темата, която използвате сега? Ще се радваме на отзивите ви!"</string>
+   <string name="version_update">Проверка за актуализации</string>
+   <string name="xiaomi_update_sdk_bytes_unit">%1$sб</string>
+   <string name="xiaomi_update_sdk_connect_download_manager_fail">Свързването на мениджъра за изтегляния е неуспешно, моля, проверете състоянието на мениджъра на изтеглянията в Управление на приложения.</string>
+   <string name="xiaomi_update_sdk_dialog_message">"Въведена версия %1$s 
+Рзмер: %2$s"</string>
+   <string name="xiaomi_update_sdk_dialog_message_diff">"Въведена версия %1$s
+Размер на делта актуализацията: %2$s"</string>
+   <string name="xiaomi_update_sdk_dialog_title">%1$s актуализирай!</string>
+   <string name="xiaomi_update_sdk_external_storage_unavailable">Хранилището не е налице, моля, проверете SD картата.</string>
+   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКб</string>
+   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМб</string>
 </resources>

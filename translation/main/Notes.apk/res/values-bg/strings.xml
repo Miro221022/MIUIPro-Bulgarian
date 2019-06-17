@@ -252,4 +252,7 @@
 Разрешаване на Бележки да чете състоянието и идентичността на телефона."</string>
   <string name="toast_refuse_to_use_record_audio">"Разрешенията за микрофона са ограничени.
 Разрешаване на Бележки да записва звук."</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">Плъзнете нагоре с 2 пръста, за изтриване на бележките без потвърждение</string>
+  <string name="pref_title_skip_confirm_for_quick_delete">Изтриване чрез жест</string>
+  <string name="toast_pic_is_not_really">Запазване на изображението…</string>
 </resources>

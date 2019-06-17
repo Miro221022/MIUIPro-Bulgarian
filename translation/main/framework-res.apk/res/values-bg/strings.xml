@@ -1073,17 +1073,17 @@
     <string name="action_bar_home_subtitle_description_format">„%1$s“, „%2$s“ – %3$s</string>
     <string name="storage_internal">Вътрешно хранилище</string>
     <string name="storage_sd_card">SD карта</string>
-    <string name="storage_sd_card_label">SD карта от %s</string>
+    <string name="storage_sd_card_label">SD карта %s</string>
     <string name="storage_usb_drive">USB устройство</string>
     <string name="storage_usb_drive_label">USB устройство от %s</string>
     <string name="storage_usb">USB хранилище</string>
     <string name="extract_edit_menu_button">Редактиране</string>
-    <string name="data_usage_warning_title">Предупрежд. за ползване на данни</string>
-    <string name="data_usage_warning_body">Пренос и настройки: Докоснете за преглед.</string>
+    <string name="data_usage_warning_title">Предупреждение за данни</string>
+    <string name="data_usage_warning_body">"Използвали сте %s данни"</string>
     <string name="data_usage_3g_limit_title">Достигнат лимит за 2G/3G данните</string>
     <string name="data_usage_4g_limit_title">Достигнат лимит за 4G данните</string>
     <string name="data_usage_mobile_limit_title">Достигнат лимит за мобилни данни</string>
-    <string name="data_usage_wifi_limit_title">Достигнат лимит за Wi-Fi данните</string>
+    <string name="data_usage_wifi_limit_title">Достигнат лимит за Wi-Fi данни</string>
     <string name="data_usage_limit_body">Данните са на пауза за ост. от цикъла</string>
     <string name="data_usage_3g_limit_snoozed_title">Превишен лимит на 2G–3G данните</string>
     <string name="data_usage_4g_limit_snoozed_title">Лимит за 4G данните – превишен</string>
@@ -1383,7 +1383,6 @@
     <string name="lock_to_app_toast_accessible">За да освободите този екран, докоснете и задръжте бутона „Общ преглед“.</string>
     <string name="lock_to_app_description">\"Фиксирането на екрана заключва дисплея в един изглед. За да го освободите, докоснете и задръжте едновременно бутона за връщане назад и този за общ преглед.\"</string>
     <string name="lock_to_app_description_accessible">\"Фиксирането на екрана заключва дисплея в един изглед. За да го освободите, докоснете и задръжте бутона за общ преглед.\"</string>
-	<string name="move_button_text">Превключи</string>
 	<string name="EmergencyCallWarningSummary">Спешните повиквания изискват мобилна мрежа.</string>
     <string name="EmergencyCallWarningTitle">WLAN повикването е активно</string>
     <string name="dlg_confirm_kill_storage_users_text">"Ако включите USB хранилището, някои приложения, които използвате, ще спрат и може да са недостъпни, докато не изключите USB хранилището."</string>
@@ -1459,4 +1458,5 @@
     <string name="hide_app_icon">Преки пътища на работния плот</string>
     <string name="not_setup_app">Приложението за гласов асистент не е конфигурирано</string>
 	<string name="press_color_to_apply">Кликнете върху цвета, който искате да изберете</string>
+	<string name="move_button_text">Натиснете бутона на рамката, за да можете да преместите целия прозорец</string>
 </resources>

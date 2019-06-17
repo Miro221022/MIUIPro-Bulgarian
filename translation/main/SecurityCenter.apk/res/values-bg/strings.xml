@@ -2667,4 +2667,8 @@
     <string name="power_settings_lock_screen_saver_title">Настройки на заключен екран</string>
     <string name="quick_optimize_sub_summary_with_battery_text">Добавени %1$s, приблизително %2$s остават</string>
     <string name="quick_optimize_sub_battery_text">Приблизително %s остават</string>
+	<string name="button_dark_mode">Поправка</string>
+    <string name="summary_dark_mode">Някои страници се показват в черно поради услуги от трети страни</string>
+    <string name="title_dark_mode">"Някои елементи не се показват правилно"</string>
+    <string name="toast_dark_mode_fixed">Поправено успешно. Излезте от тази страница, за да се приложат промените.</string>
 </resources>

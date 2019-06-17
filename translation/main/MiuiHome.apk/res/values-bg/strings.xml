@@ -378,4 +378,10 @@
     <string name="announce_for_xiaoai">Mi AI</string>
     <string name="privacy_thumbnail_blur_summary">Замъглен изглед на приложенията в Последни</string>
     <string name="privacy_thumbnail_blur_title">Замъглен изглед на приложенията</string>
+	<string name="activity_not_unlocked">Изчакайте, докато устройството ви се рестартира напълно, преди да отворите приложения</string>
+	<string name="default_folder_title_meitu">Meitu приложения</string>
+	<string name="shake_to_align_icons">Разклатете устройството, за да се запълнят празните клетки с икони</string>
+    <string name="shake_to_align_icons_summary">Разклатете устройството си в режим на редактиране, за да попълните празни клетки с икони автоматично</string>
+    <string name="shake_to_align_icons_title">Запълване на празните клетки чрез разклащане</string>
+	<string name="system_shortcuts_more_operation">Информация за приложението</string>
 </resources>

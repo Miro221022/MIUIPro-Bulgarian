@@ -28,4 +28,8 @@
         <item quantity="other">%1$d приложения са намерени</item>
         <item quantity="one">%1$d приложение е намерено</item>
     </plurals>
+	    <plurals name="guide_used_number">
+        <item quantity="other">Приложено на %1$d устройства</item>
+        <item quantity="one">Приложено на %1$d устройство</item>
+    </plurals>
 </resources>
