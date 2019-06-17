@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_find_city_hint">Въведете местоположение</string>
+  <string name="act_find_city_hint">Въведете местоположение</string>
   <string name="act_find_city_hot_attractions_title">Популярни градове</string>
   <string name="act_find_city_hot_city_title">Популярни градове</string>
   <string name="act_location_error_to_find_city">Неуспешно получаване на информация за местоположението. Можете да добавите град ръчно.</string>
@@ -90,7 +90,7 @@
   <string name="daily_forecast_detail_date">d.M</string>
   <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="daily_forecast_no_data">Не можа да се получи информация за времето\nИздърпайте надолу, за да обновите или проверете мрежовите настройки</string>
-  <string name="data_provided_by">Данните са предоставени частично от</string>
+  <string name="data_provided_by">Данните са частично предоставени от</string>
   <string name="edit_city">Управление на градове</string>
   <string name="empty">" "</string>
   <string name="empty_view_net_loading">Актуализиране…</string>
@@ -151,7 +151,7 @@
   <string name="minute_rain_pull_down_refresh">Изтеглете надолу за опресняване</string>
   <string name="minute_rain_refreshing_now">Опресняване…</string>
   <string name="missing_required_permission">Вие сте изключили необходимо разрешение.</string>
-  <string name="more_details">Подробности</string>
+  <string name="more_details">Повече информация</string>
   <string name="network_not_available">Няма връзка с мрежата</string>
   <string name="network_unavailable">Няма връзка с мрежата.</string>
   <string name="night_not_disturb_settings_summary">Заглушаване на предупрежденията в периода между 23:00ч и 07:00ч</string>

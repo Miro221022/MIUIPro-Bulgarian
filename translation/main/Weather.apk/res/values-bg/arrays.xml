@@ -34,12 +34,12 @@
   </string-array>
   <string-array name="aqi_value">
     <item>Добро</item>
-    <item>Превъзходно</item>
-    <item>Замърсено</item>
+    <item>Задоволително</item>
+    <item>Умерено замърсено</item>
     <item>Лошо</item>
     <item>Много лошо</item>
-    <item>Смразяващо</item>
-    <item>Отвъд скалата</item>
+    <item>Тежко</item>
+    <item>Извън скалата</item>
   </string-array>
   <string-array name="breeze">
     <item>&lt;Сила 2</item>
