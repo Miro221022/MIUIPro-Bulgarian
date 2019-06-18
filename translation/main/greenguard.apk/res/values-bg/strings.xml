@@ -169,7 +169,7 @@
     <string name="wx_app_ui_plugin">WeChat мини програма</string>
     <string name="yesterday">вчера</string>
     <string name="your_guardian">вашият настойник 【%1$s】 ви препоръчва да деинсталирате 【%2$s】</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sБ</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$sб</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Свързването на мениджъра на изтеглянията се провали, моля, проверете състоянието на мениджъра на изтеглянията в управлението на приложенията.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Представяне на версия %1$s
 Размер: %2$s"</string>
@@ -177,7 +177,7 @@
 Размер на делта актуализацията: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s актуализация!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Хранилището не е налице, моля, проверете SD картата.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКБ</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКб</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sМб</string>
     <string name="freerun_symbol_colon">:</string>
 </resources>

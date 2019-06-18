@@ -162,7 +162,7 @@
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
         <item>Показвай само на заключен екран</item>
-        <item>Показвай само в лента на състоянието</item>
+        <item>Показвай само в лентата за състоянието</item>
         <item>Никога не показвай името на оператора</item>
     </string-array>
     <string-array name="fold_entries">
@@ -346,9 +346,9 @@
         <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Вътрешно хранилище на устройство</item>
-        <item>SD карта, която може да се премахва</item>
-        <item>Нека системата да реши</item>
+        <item>Вътрешно устройство за съхранение</item>
+        <item>Преносима SD карта</item>
+        <item>Нека системата реши</item>
     </string-array>
     <string-array name="app_ops_categories">
         <item>Местоположение</item>
@@ -752,7 +752,7 @@
         <item>Активирано шумопотискане</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>Откл. с лице</item>
+        <item>Отключване с лице</item>
         <item>Фигура</item>
         <item>PIN</item>
         <item>Парола</item>
@@ -776,7 +776,7 @@
         <item>Краен</item>
     </string-array>
     <string-array name="preferred_app_entries">
-        <item>Launcher</item>
+        <item>Стартер</item>
         <item>Телефон</item>
         <item>Съобщения</item>
         <item>Браузър</item>
@@ -917,15 +917,15 @@
     </string-array>
     <string-array name="common_password_business_names">
         <item>Заключване на екрана</item>
-        <item>Парола за защита на личните данни</item>
-        <item>Режим за деца</item>
-        <item>Файлове</item>
+        <item>Парола за поверителност</item>
+        <item>Детски режим</item>
+        <item>Файлов мениджър</item>
         <item>Заключване на приложения</item>
-        <item>Второ работно място</item>
+        <item>Второ пространство</item>
     </string-array>
     <string-array name="screen_button_style">
-        <item>За левичари</item>
-        <item>За десничари</item>
+        <item>За лява ръка</item>
+        <item>За дясна ръка</item>
     </string-array>
     <string-array name="city_name">
         <item>Абиджан</item>
@@ -1281,13 +1281,13 @@
         <item>Зелено</item>
         <item>Пурпурно</item>
 	</string-array>
-     <string-array name="date_of_app_all">
-         <item>Мобилни данни днес</item>
-         <item>Мобилни данни този месец</item>
-         <item>Мобилни данни миналия месец</item>
-         <item>WLAN Днес</item>
-         <item>WLAN Този месец</item>
-         <item>WLAN Миналия месец</item>
+    <string-array name="date_of_app_all">
+        <item>"Днес (мобилни данни) "</item>
+        <item>"Този месец (мобилни данни) "</item>
+        <item>"Миналия месец (мобилни данни) "</item>
+        <item>"Днес (WLAN) "</item>
+        <item>"Този месец (WLAN) "</item>
+        <item>"Миналия месец (WLAN) "</item>
      </string-array>
      <string-array name="date_of_traffic">
          <item>"Днес "</item>
@@ -1300,8 +1300,8 @@
          <item>"Миналия месец: "</item>
      </string-array>
      <string-array name="traffic_type">
-         <item>"Изп. мобилни данни "</item>
-         <item>"Изп. WLAN "</item>
+         <item>"Използване на мобилни данни "</item>
+         <item>"Използване на WLAN "</item>
      </string-array>
 	 <string-array name="select_logd_system_levels">
         <item>Изключено</item>

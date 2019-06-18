@@ -62,7 +62,7 @@
   </plurals>
   <plurals name="keyguard_charging_info_drained_time_format">
     <item quantity="other">%1$d часа и %2$d минути</item>
-    <item quantity="one">%1$d час и %2$d мин</item>
+    <item quantity="one">%1$d час и %2$d минута</item>
   </plurals>
   <plurals name="kg_password_default_pin_message">
     <item quantity="other">Въведете PIN код, имате още %d оставащи опита.</item>
