@@ -57,8 +57,8 @@
     <item>Когато устройството е заключено или 1 минута след изход от приложение</item>
   </string-array>
   <string-array name="mi_service_traffic_type">
-    <item>"Мобилни данни "</item>
-    <item>"Използване на Wi-Fi "</item>
+        <item>"Използване на мобилни данни "</item>
+        <item>"Използване на WLAN "</item>
   </string-array>
   <string-array name="over_limit_traffic_waring_style">
     <item>Показване на предупреждение</item>
@@ -84,8 +84,8 @@
     <item>Час на последната актуализация</item>
   </string-array>
   <string-array name="traffic_type">
-    <item>"Мобилни данни "</item>
-    <item>"Използване на Wi-Fi "</item>
+        <item>"Използване на мобилни данни "</item>
+        <item>"Използване на WLAN "</item>
   </string-array>
   <string-array name="sort_type">
     <item>Статус</item>
