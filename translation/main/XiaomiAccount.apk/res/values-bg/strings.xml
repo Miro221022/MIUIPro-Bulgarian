@@ -95,7 +95,8 @@
   <string name="bind_sns_description">Вписване чрез %s</string>
   <string name="bind_weibo_description">Намери и синхронизирай приятелите си от Sina Weibo.</string>
   <string name="binded">Свързан</string>
-  <string name="binded_description" formatted="false">%s бе добавен успешно към Mi профила ви. Профилът ви бе обновен с информацията от вашия %s профил.</string>
+  <string name="binded_description" formatted="false">"%s е свързан с вашият Mi профил.
+Вече можете да влезете в своя Mi профил чрез %s."</string>
   <string name="button_unbind">Прекратяване на връзката</string>
   <string name="change_activate_email">Промяна на имейл адрес</string>
   <string name="change_email_address">Промяна на имейл адрес</string>
@@ -568,4 +569,9 @@ ID:%s
   <string name="common_open_on_phone">Отворяне в телефона</string>
   <string name="common_signin_button_text">Вписване</string>
   <string name="common_signin_button_text_long">Вписване с Google</string>
+  <string name="weixin">WeChat</string>
+  <string name="bind_weixin">Свържете WeChat профила си</string>
+  <string name="need_install_wechat">Инсталирайте WeChat първо</string>
+  <string name="google">Google</string>
+  <string name="bind_google">Свържете Google профила си</string>
 </resources>

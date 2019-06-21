@@ -596,7 +596,7 @@
    <string name="one_tap_clean_M">%d Мб</string>
    <string name="one_tap_clean_GB">%s Гб</string>
    <string name="security_center_slogan">Сигурност. Винаги нащрек.</string>
-   <string name="notification_garbage_cleanup_summary">Непотребите файлове достигнаха %s</string>
+   <string name="notification_garbage_cleanup_summary">Изчистете отпадъците (%s), за да ускорите устройството си</string>
    <string name="notification_garbage_cleanup_title">Изчистване на непотребни файлове</string>
    <string name="notification_low_memory_cache_summary">По-малко от 1,5 Гб налично пространство за съхранение</string>
    <string name="notification_low_memory_cache_title">Изчистване на кеша</string>

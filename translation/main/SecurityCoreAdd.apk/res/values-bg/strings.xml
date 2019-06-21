@@ -137,7 +137,7 @@
   <string name="input_space_password">Задайте сега</string>
   <string name="invalid_qr_code">Невалиден QR код</string>
   <string name="list_empty_text">Празно</string>
-  <string name="list_empty_text_xspace">Инсталирайте WeChat/QQ/Weibo, клонирайте го и опитайте отново.</string>
+  <string name="list_empty_text_xspace">Създайте още клонирани приложения и опитайте отново.</string>
   <string name="loading">Един момент…</string>
   <string name="loading_apps">Зареждане на приложения…</string>
   <string name="loading_space">Един момент…</string>
@@ -347,13 +347,13 @@
   <string name="xspace_account">Профили за клонирани приложения</string>
   <string name="xspace_chocie">Поддръжка на клонирано приложение</string>
   <string name="xspace_creating">Клониране на приложението…</string>
-  <string name="xspace_default_app_summary">Задайте приложение по подразбиране за плащания, споделяне, любими неща и други.</string>
-  <string name="xspace_default_app_title">Приложения по подразбиране</string>
+  <string name="xspace_default_app_summary">Изберете приложенията по подразбиране, които да се използват за вписване, споделяне и гласов асистент.</string>
+  <string name="xspace_default_app_title">Персонализация</string>
   <string name="xspace_default_guide_notification_content">Чукнете за промяна</string>
   <string name="xspace_default_guide_notification_main_title">Използване приложение по подразбиране</string>
   <string name="xspace_default_guide_notification_xspace_title">Използване на клонирано приложение</string>
   <string name="xspace_default_setting_dialog_title"> подразбиране</string>
-  <string name="xspace_default_setting_label">Приложения по подразбиране</string>
+  <string name="xspace_default_setting_label">Персонализация</string>
     <string name="xspace_description">"Клонираните приложения са копия на приложения, които могат да се използват отделно с друг профил.
 
 Някои клонирани приложения изискват поддръжка на Google Services Framework. В такива случаи се създава клонинг и на Google Services Framework."</string>
@@ -379,12 +379,12 @@
   <string name="reset_password_dialog_positve_btn_title">Промяна</string>
   <string name="reset_password_dialog_title">"Не може да се скрие иконата за Второ пространство"</string>
   <string name="xspace_install_completed_global">Иконата е добавена към чекмеджето</string>
-  <string name="remove_button">Премахване и рестартиране</string>
-  <string name="remove_button_time">Премахване и рестартиране(%ds)</string>
-  <string name="stop_xspace_alert_content">"Всички клонирани приложения и техните данни ще бъдат окончателно изтрити. Ще трябва да рестартирате устройството си, за да приложите тази промяна. Да се изтрият ли профилите сега?"</string>
-  <string name="stop_xspace_alert_title">Итриване на профилите на клонираните приложения</string>
+  <string name="remove_button">Изтриване</string>
+  <string name="remove_button_time">Изтриване (%dс)</string>
+  <string name="stop_xspace_alert_content">Изтриване на всички клонирани приложения заедно с техните профили и данни за приложенията? Устройството ви ще се рестартира, за да приложи тази промяна.</string>
+  <string name="stop_xspace_alert_title">"Изтриване на профилите на клонираните приложения"</string>
   <string name="msg_switch_file_second">Изтриване тези файлове във Второ пространство след като бъдат преместени?</string>
-  <string name="use_xiaoai_open">Събуждане чрез гласов асистент</string>
+  <string name="use_xiaoai_open">Събуждане чрез Mi AI</string>
   <string name="agree">Съгласете се</string>
   <string name="disagree">"Не се съгласявайте"</string>
   <string name="net_work_notice">Родителските контроли трябва да се свързват с интернет и да получат достъп до вашето местоположение, за да работят нормално. Тези разрешения са изискват за изпращане на информация за нивата на батерията, брой на стъпки, и местоположението на контролираните устройства. Разрешаване?</string>
@@ -458,4 +458,12 @@
   <string name="dual_animation_description">Показване на анимация, когато се стартират клонирани приложения</string>
   <string name="kid_mode_label">Детско пространство</string>
   <string name="close_kid_space_success">Изтрито Детско пространство</string>
+  <string name="xspace_whatsapp_title">WhatsApp</string>
+  <string name="whatsapp_send">Изпрати в WhatsApp</string>
+  <string name="xspace_facebook_title">Facebook</string>
+  <string name="facebook_send">Изпрати в Facebook</string>
+  <string name="facebook_login">Sign in to Facebook</string>
+  <string name="xspace_instagram_title">Instagram</string>
+  <string name="instagram_send">Изпрати в Instagram</string>
+  <string name="use_google_open">Събуждане чрез Google Асистент</string>
 </resources>

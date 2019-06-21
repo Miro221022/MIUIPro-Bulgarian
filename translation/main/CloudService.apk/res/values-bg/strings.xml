@@ -692,4 +692,5 @@
   <string name="micloud_request_sync_too_frequent">Твърде много заявки. Изчакайте минута или две и опитайте отново.</string>
   <string name="waiting_for_sync">Изчакване…</string>
   <string name="system_busy_or_network_error">Възникна грешка. Изчакайте минута или две и опитайте отново.</string>
+  <string name="micloud_last_sync_canceled">Синхронизирането беше отменено. Опитайте отново.</string>
 </resources>
