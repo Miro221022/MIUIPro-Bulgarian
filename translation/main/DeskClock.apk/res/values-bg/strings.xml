@@ -118,7 +118,7 @@
   <string name="setting_alarm_arriving_title">Известие преди аларма</string>
   <string name="settings">Настройки</string>
   <string name="shutdown_alarm_disable_summary">"Алармата няма да се изпълни след изключване на устройството"</string>
-  <string name="shutdown_alarm_enable_summary">"Устройството ще се включи и алармата ще се изпълни"</string>
+  <string name="shutdown_alarm_enable_summary">"Алармата ще се изключи, ако е настроена за поне 10 минути след изключване на устройството"</string>
   <string name="shutdown_alarm_title">Аларма при изключено устройство</string>
   <string name="silent_alarm_summary">Без звук</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
@@ -271,4 +271,8 @@
   <string name="shortcut_new_alarm">Аларма</string>
   <string name="shortcut_start_timer">Таймер</string>
   <string name="shortcut_stop_watch">Хронометър</string>
+  <string name="edit_systemtime_setting_summary">Дата, час и двоен часовник</string>
+  <string name="worldclock_resident_city_text">Втори часовник: %s</string>
+  <string name="worldclock_resident_city_text_detail">Двоен часовник е включен</string>
+  <string name="worldcolock_date_display_prefix">Текущо: </string>
 </resources>
