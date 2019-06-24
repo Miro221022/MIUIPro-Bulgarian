@@ -577,4 +577,19 @@
   <string name="preferences_popup_alert_smart_summary">MIUI ще определи автоматично кои събития са най-важни</string>
   <string name="preferences_popup_alert_smart_tips">"Заменете традиционните известия с изскачащи известия, за да не пропускате важни събития. Изскачащите известия няма да се появяват, когато играете игри, гледате видеоклипове на цял екран или когато използвате автомобилен режим."</string>
   <string name="preferences_popup_alert_title">Изскачащи известия</string>
+  <string name="fb_birthday_failure">"Неуспешно импортиране на рождени дни от Facebook. Опитай отново."</string>
+  <string name="fb_birthday_import_pref_desc">"Импортирайте рождените дни на приятелите от Facebook"</string>
+  <string name="fb_birthday_import_pref_title">Импортиране сега</string>
+  <string name="fb_birthday_logout_failure">"Още не сте добавили профила си във Facebook"</string>
+  <string name="fb_birthday_logout_pref_desc">"Премахване на профила във Facebook заедно с рождените дни на приятелите"</string>
+  <string name="fb_birthday_logout_pref_title">Премахване на Facebook профила</string>
+  <string name="fb_birthday_logout_success">Успешно премахване на Facebook профила</string>
+  <string name="fb_birthday_region_warning">"Тази функция не е налице във вашия регион"</string>
+  <string name="fb_birthday_success">Успешно импортирани рождени дни от Facebook</string>
+  <string name="fb_calendar_account_name">Ми местен календар</string>
+  <string name="fb_calendar_display_name">"Рождени дни на приятели във Facebook"</string>
+  <string name="fb_calendar_owner_account">Mi календар</string>
+  <string name="guide_card_primary_fb_text">"Рождени дни на приятели във Facebook"</string>
+  <string name="guide_card_second_fb_text">"Никога не пропускайте рождените дни на приятелите си"</string>
+  <string name="setting_fb_birthdays_title">Импортиране на рождени дни от Facebook</string>
 </resources>

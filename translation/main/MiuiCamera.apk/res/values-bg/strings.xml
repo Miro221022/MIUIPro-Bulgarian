@@ -909,4 +909,11 @@
 	<string name="lying_direct_hint">Текуща ориентация</string>
     <string name="calibration_guide_tittle">Некалибрирана камера</string>
 	<string name="calibration_hint_usage">Некалибрираната камера ще има отрицателно въздействие върху качеството на снимката.Моля, свържете се с сервизното обслужване.</string>
+	<string name="pref_watermark_title">Воден знак</string>
+    <string name="pref_watermark_on">Включване</string>
+    <string name="pref_watermark_off">Изключване</string>
+    <string name="pref_camera_lying_title">横竖屏引导提示</string>
+    <string name="pref_camera_lying_summary">手机平行于地平面时，会在拍照界面实时给出照片方向的提示</string>
+	<string name="user_define_watermark_save">Запазване</string>
+    <string name="user_define_watermark_cancel">Отказ</string>
 </resources>

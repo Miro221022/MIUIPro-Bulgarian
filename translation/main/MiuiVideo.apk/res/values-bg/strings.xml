@@ -777,4 +777,7 @@ To activate your account, follow the
     <string name="notification_offline_to_online_summary">Преглед на информация за времето и пряк път за Mi Видео</string>
     <string name="notification_offline_to_online_title">Преки пътища в панела за известия</string>
 	<string name="offline_setting_mobile_net_limit_unlimited_title">Ограничения за мобилни данни (Неограничено)</string>
+	<string name="offline_setting">Настройки за възпроизвеждане</string>
+    <string name="skip_play_time_summary">Пропускане на отварянето и затварянето на заслугите, когато се възпроизвеждат видеоклипове</string>
+    <string name="skip_play_time_title">Пропускане на заслуги</string>
 </resources>
