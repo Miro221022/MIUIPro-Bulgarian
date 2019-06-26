@@ -592,4 +592,22 @@
   <string name="guide_card_primary_fb_text">"Рождени дни на приятели във Facebook"</string>
   <string name="guide_card_second_fb_text">"Никога не пропускайте рождените дни на приятелите си"</string>
   <string name="setting_fb_birthdays_title">Импортиране на рождени дни от Facebook</string>
+  <string name="birthday_term_chinese_calendar">"%1$s рожден ден (Традиционен китайски календар)"</string>
+  <string name="content_confirm_close_chinese_calendar">Всичките ви събития, базирани на традиционния китайски календар, ще бъдат конвертирани в григорианския календар, след като изключите тази функция. Годините и месеците от григорианския календар ще се използват за повтарящи се събития.</string>
+  <string name="lunar_day_chinese_calendar">农历%1$s</string>
+  <string name="lunar_to_solar_chinese_calendar">Китайски към Грегориански</string>
+  <string name="repeat_lunar_monthly_chinese_calendar">农历每月</string>
+  <string name="repeat_lunar_monthly_detail_chinese_calendar">农历每月（%1$s）</string>
+  <string name="repeat_lunar_yearly_chinese_calendar">农历每年</string>
+  <string name="repeat_lunar_yearly_detail_chinese_calendar">农历每年（%1$s）</string>
+  <string name="rest_day_indication_chinese_calendar">休</string>
+  <string name="setting_chinese_calendar">Китайски календар</string>
+  <string name="shortcut_new_event">Добавяне на събитие</string>
+  <string name="shortcut_next_agenda">Следващо събитие</string>
+  <string name="shortcut_settings">Настройки</string>
+  <string name="solar_lunar_convert_description">Грегориански към традиционен китайски</string>
+  <string name="solar_lunar_convert_tab">Конвертиране</string>
+  <string name="solar_to_lunar_chinese_calendar">Грегориански към китайски</string>
+  <string name="title_confirm_close_chinese_calendar">Изключване на китайския календар</string>
+  <string name="work_day_indication_chinese_calendar">班</string>
 </resources>
