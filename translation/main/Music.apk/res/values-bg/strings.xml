@@ -7,7 +7,7 @@
     <string name="action_item_add_to_current_playlist">Текущ плейлист</string>
     <string name="action_item_add_to_favorite_playlist">Любим плейлист</string>
     <string name="action_item_add_to_new_playlist">Нов</string>
-    <string name="action_item_as_ring">Задай като тон за позвъняване</string>
+    <string name="action_item_as_ring">Задаване като тон за звънене</string>
     <string name="action_item_cancel">Отказ</string>
     <string name="action_item_delete">Изтриване</string>
     <string name="action_item_download">Изтегляне</string>
@@ -16,9 +16,9 @@
     <string name="action_item_follow">Следвай</string>
     <string name="action_item_hide">Скриване</string>
     <string name="action_item_hifi">Слушалки и аудио ефекти</string>
-    <string name="action_item_modify_info">Промени информацията</string>
+    <string name="action_item_modify_info">Промяна на информацията</string>
     <string name="action_item_multiple">Редакция</string>
-    <string name="action_item_play_all">Пусни всички</string>
+    <string name="action_item_play_all">Изпълни всички</string>
     <string name="action_item_play_next">Възпроизвеждане по-късно</string>
     <string name="action_item_remove">Премахване</string>
     <string name="action_item_remove_from_favorite">Премахни от любими</string>
@@ -194,9 +194,9 @@
     <string name="dialog_queued_body">Този файл е в списъка за бъдещо изтегляне.</string>
     <string name="dialog_show_more_backup">Архивиране на локални песни</string>
     <string name="dialog_show_more_optimize_all">Оптимизирай информацията за песните</string>
-    <string name="dialog_song_sort_type">Сортиране на песни</string>
+    <string name="dialog_song_sort_type">Сортиране на песните</string>
     <string name="dialog_song_sort_type_name">По име</string>
-    <string name="dialog_song_sort_type_playing_times">По брой пъти на слушане</string>
+    <string name="dialog_song_sort_type_playing_times">По брой прослушвания</string>
     <string name="dialog_song_sort_type_time">По време на добавяне</string>
     <string name="dialog_song_view_type">Покажи локалната музика</string>
     <string name="dialog_song_view_type_album">По албум</string>
@@ -521,7 +521,7 @@
     <string name="monthly_price">Mi Кредити</string>
     <string name="more">Още</string>
     <string name="more_about_artist">Още за %s</string>
-    <string name="more_add_song_list">Добави към плейлист</string>
+    <string name="more_add_song_list">Плейлист</string>
     <string name="more_online_artist">Още</string>
     <string name="more_online_billboard">Още</string>
     <string name="more_online_fm">Още</string>
@@ -641,8 +641,8 @@
     <string name="permission_declaration_negative_text">По-късно</string>
     <string name="permission_declaration_positive_text">Към Сигурност</string>
     <string name="permission_declaration_title">Даване на достъп</string>
-    <string name="play_all_song">Пусни всички</string>
-    <string name="play_next">Пусни следваща</string>
+    <string name="play_all_song">Изпълни всички</string>
+    <string name="play_next">Изпълни следваща</string>
     <string name="playback_failed_no_title_by_bad_file">Песента не може да бъде възпроизведена, форматът не се поддържа или файла не същестува.</string>
     <string name="playlist_deleted_message">Плейлистът е изтрит</string>
     <string name="playlist_empty">Няма намерени списъци с песни.</string>

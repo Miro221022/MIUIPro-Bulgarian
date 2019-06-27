@@ -4,4 +4,13 @@
         <item>Червено - горе, зелено - долу</item>
         <item>Зелено - горе, червено - долу</item>
     </string-array>
+	    <string-array name="day_time_space">
+        <item>Нощ</item>
+        <item>Рано сутрин</item>
+        <item>Сутрин</item>
+        <item>Обяд</item>
+        <item>Следобед</item>
+        <item>Късен следобед</item>
+        <item>Вечер</item>
+    </string-array>
 </resources>
