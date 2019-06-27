@@ -458,7 +458,7 @@
   <string name="folder_junk_name_en1">Масова поща</string>
   <string name="folder_junk_name_en2">Нежелана поща</string>
   <string name="folder_junk_name_en3">Нежелана поща</string>
-  <string name="folder_junk_name_en4">Боклуци</string>
+  <string name="folder_junk_name_en4">Кошче</string>
   <string name="folder_list_display_all">Показване на всички папки</string>
   <string name="folder_list_display_only_import">Показване само на важни папки</string>
   <string name="folder_picker_title">Избор на папки</string>
@@ -1140,7 +1140,8 @@
   <string name="qq_pwd_or_qq_auth_code">Въведете QQ код или парола за имейла</string>
   <string name="folder_empty_to_fresh">"Пощата не е синхронизирана. Дръпнете надолу, за да синхронизирате."</string>
   <string name="folder_no_mails">Няма имейли в тази папка</string>
-  <string name="toast_bar_sync_failed_mi_authority">"Не може да се синхронизира. Изчакайте минута или две и опитайте отново. Ако влизате за първи път, упълномощете устройството си чрез интранет/SMS маркер."</string>
+  <string name="toast_bar_sync_failed_mi_authority">"Не може да се синхронизира. Изчакайте минута или две и опитайте отново. Преглед на детайли.
+(Ако използвате неоторизирано устройство, свържете се с интранет или използвайте код за потвърждение.)"</string>
   <string name="wipe_account_fail_description_remind">Поради ограничения за използване на данни, може да има остатъчни данни в Календар и Контакти, след като изтриете профила. Изтрийте тези елементи ръчно.</string>
   <string name="account_setup_basics_password_label_authcode">Въведете парола или код за потвърждение</string>
   <string name="add_account_search">Добавяне на профил</string>
@@ -1153,4 +1154,21 @@
   <string name="recommend_protocal">Препоръчан протокол</string>
   <string name="remote_no_mail">"На сървъра няма повече имейли."</string>
   <string name="wait_while_update_db">Моля изчакайте докато се обновява базата данни!</string>
+  <string name="contact_add_options">Добавяне към контакти</string>
+  <string name="contact_add_options_details1">Всички</string>
+  <string name="contact_add_options_details2">Само получателите</string>
+  <string name="get_oauth_code">Получаване на код</string>
+  <string name="help_weixin_title">"Ако имате някакви въпроси, не се колебайте да ни зададете в нашия официален WeChat профил: "</string>
+  <string name="login_qq_psw">Вписване чрез QQ парола/удостоверител/код за потвърждение</string>
+  <string name="mi_sync_erroe_toast">"Възникна грешка в мрежата: "</string>
+  <string name="mi_sync_erroe_toast_other">"Възникна грешка в сървъра: "</string>
+  <string name="no_more_mail">Няма повече съобщения</string>
+  <string name="no_search_results">"Не са намерени резултати"</string>
+  <string name="pull_load_more">Издърпайте нагоре, за да заредите още</string>
+  <string name="remote_search_body_too_large_prompt">"Този имейл е твърде дълъг.
+Изчакайте, докато се синхронизира напълно или прегледайте съобщението на компютъра."</string>
+  <string name="search_remote_again">Мрежата не е налице, кликнете Повторен опит</string>
+  <string name="sync_failed_mi_authority_view_detail">Преглед на подробности</string>
+  <string name="update_domain_summary">Актуализирайте списъка с налични домейни и конфигурации</string>
+  <string name="update_domain_title">Актуализиране на настройките на домейна</string>
 </resources>

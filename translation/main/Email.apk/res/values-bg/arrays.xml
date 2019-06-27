@@ -73,4 +73,8 @@
         <item>Отказване</item>
         <item>Отказване на писмото</item>
     </string-array>
+	   <string-array name="prefEntries_contact_add">
+        <item>Всички</item>
+        <item>Само получателите</item>
+    </string-array>
 </resources>
