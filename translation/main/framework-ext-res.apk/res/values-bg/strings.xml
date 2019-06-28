@@ -214,4 +214,8 @@
 	<string name="sim_lock_non_ais_msg">"Вашата СИМ-карта не работи напълно добре с този телефон, защото не отговаря на условията на абонамента ви. Ако имате въпроси или се нуждаете от повече информация по този въпрос, моля свържете се със сервизните центрове на Xiaomi или с магазина в който ви е продал продукта."</string>
     <string name="sim_lock_now_ais_title">SIM %1$d</string>
 	<string name="voice_assistant_tips">Обновен до дълго натискане на бутона за захранване, за да се събуди гласният асистент</string>
+	<string name="autofill_save_ok">Разрешаване</string>
+    <string name="autofill_save_title">Автоматично запазване на паролите</string>
+    <string name="autofill_save_message">Ще разрешите ли на MIUI да запазва профилите и паролите ви?</string>
+    <string name="autofill_save_sub_message">"Ще можете да управлявате запазените пароли в Настройки > Допълнителни настройки > Поверителност > Управление на пароли."</string>
 </resources>

@@ -2682,4 +2682,5 @@
     <string name="pc_main_sub_battery_text_hour_minute">%1$sч %2$sм остава</string>
     <string name="pc_main_power_manager_day_hour">%1$sд %2$sч до пълното зареждане</string>
     <string name="pc_main_power_manager_hour_minute">%1$sч %2$sм до пълното зареждане</string>
+	<string name="function_shield_voice_trigger">"Не събуждай Mi AI с глас"</string>
 </resources>

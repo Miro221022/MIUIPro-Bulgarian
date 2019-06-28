@@ -912,8 +912,8 @@
 	<string name="pref_watermark_title">Воден знак</string>
     <string name="pref_watermark_on">Включване</string>
     <string name="pref_watermark_off">Изключване</string>
-    <string name="pref_camera_lying_title">横竖屏引导提示</string>
-    <string name="pref_camera_lying_summary">手机平行于地平面时，会在拍照界面实时给出照片方向的提示</string>
+    <string name="pref_camera_lying_title">Известяване за ориентацията</string>
+    <string name="pref_camera_lying_summary">Известяване за текущата ориентация, когато телефонът е успореден на земята</string>
 	<string name="user_define_watermark_save">Запазване</string>
     <string name="user_define_watermark_cancel">Отказ</string>
 </resources>
