@@ -235,4 +235,5 @@
   <string name="set_battery_size_title">Процентa на батерията</string>
   <string name="battery_percent_title">Разположение на процентите</string>
   <string name="no_sim_title">Скриване на иконата Няма SIM</string>
+  <string name="percent_mi9_title">Малък знак за процент</string>
 </resources>
