@@ -216,4 +216,12 @@
     	<item>Проценти (отдясно на иконата)</item>
         <item>Проценти (отляво на иконата)</item>
     </string-array>
+<string-array name="percent_show_size_entries">
+      <item>По подразбиране</item>
+        <item>Малка</item>
+</string-array>
+<string-array name="percent_show_size_entries">
+      <item>По подразбиране</item>
+        <item>Голяма</item>
+</string-array>
 </resources>
