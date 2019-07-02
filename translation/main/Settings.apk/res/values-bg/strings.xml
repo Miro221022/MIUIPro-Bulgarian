@@ -5891,7 +5891,9 @@
     <string name="page_layout_35">Бележки</string>
     <string name="switch_access_service_on">Превключване на достъп</string>
     <string name="words_title">Текст</string>
-	<string name="bootloader_tips">"След като добавите вашият Mi профил, не се отписвайте от него, не правете фабрично нулиране или почистване на данните на приложенията. Ако извършите някое от тези действия, добавете отново профила си или няма да можете да отключите устройството си."</string>
+    <string name="bootloader_tips">"%s
+
+ Ако вече сте направили някое от горепосочените, добавете отново вашия Mi профил; в противен случай няма да можете да отключите устройството си."</string>
     <string name="bootloader_tips_ok">Разбрах</string>
 	<string name="wifi_details_subnet_mask">Маска на подмрежата</string>
 	<string name="wifi_no_internet_no_reconnect">"Не може да се свърже с интернет"</string>
@@ -6438,4 +6440,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="unlock_mode_title">Заключване на екрана</string>
     <string name="volume_launch_camera_summary">Натиснете двукратно бутона за сила на звука, за да стартирате камерата, когато екранът е заключен</string>
 	<string name="wakeup_and_sleep_settings_category_name">Настройки на заключен екран</string>
+	<string name="disallow_lock_screen_summary">Първо разрешете известията в \"Известия за приложения\"</string>
 </resources>
