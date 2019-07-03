@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application Extension Service</string>
+    <string name="autofill_service_label">Управление на пароли</string>
+    <string name="invalid_package_signature">Невалиден подпис на приложението</string>
+    <string name="cancel">Отказ</string>
+    <string name="ok">OK</string>
+    <string name="delete">Изтриване</string>
+    <string name="search">Търсене</string>
+    <string name="settings_clear_data_confirmation_title">Изтриване на пароли</string>
+    <string name="autofill_description">"MIUI може да шифрова и съхранява паролите ви, за да можете да ги въвеждате автоматично, когато имате нужда от тях. Xiaomi няма да може да чете криптираните ви пароли."</string>
+    <string name="change_passwork_dialog_title">Актуализиране на паролата?</string>
+    <string name="change_passwork_dialog_content">"Вече сте запазили парола за този профил. Актуализиране на паролата сега?"</string>
+    <string name="auth_activity_label">Кодове за потвърждение</string>
+    <string name="autofill_list_activity_label">Пароли за приложения</string>
+    <string name="autofill_item_activity_label">Пароли за приложения</string>
+    <string name="autofill_setting_activity_label">Управление на пароли</string>
+    <string name="autofill_password_activity_label">Кодове за потвърждение</string>
+    <string name="autofill_hint_email_address">Имейл</string>
+    <string name="autofill_hint_username">Потребителско име</string>
+    <string name="autofill_hint_name">Име</string>
+    <string name="autofill_hint_password">Парола</string>
+    <string name="autofill_hint_phone">Телефонен номер</string>
+    <string name="auth_fingerprint_title">Потвърдете пръстовия си отпечатък</string>
+    <string name="auth_fingerprint_content">Потвърдете пръстовия си отпечатък за достъп до запаметените пароли</string>
+    <string name="auth_fingerprint_content_message">"Отпечатъкът не бе потвърден, опитайте отново"</string>
+    <string name="save_content_tip">"Следните елементи ще бъдат запазени: "</string>
+    <string name="autofill_list_title">Управление на пароли</string>
+    <string name="autofill_password">Автоматично въвеждане на пароли</string>
+    <string name="using_miui_autofill_message">За да въведете пароли автоматично, MIUI ще запази информацията за вашия акаунт и паролите на вашето устройство.</string>
+</resources>
