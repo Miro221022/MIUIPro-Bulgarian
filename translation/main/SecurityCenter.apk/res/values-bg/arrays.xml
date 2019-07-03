@@ -18,10 +18,10 @@
     <item>Днес (мобилни данни)</item>
     <item>Миналия месец (мобилни данни)</item>
     <item>Този месец (мобилни данни)</item>
-    <item>Вчера WLAN</item>
-    <item>Днес WLAN</item>
-    <item>Миналия месец WLAN</item>
-    <item>Този месец WLAN</item>
+    <item>Вчера (WLAN)</item>
+    <item>Днес (WLAN)</item>
+    <item>Миналия месец (WLAN)</item>
+    <item>Този месец (WLAN)</item>
   </string-array>
   <string-array name="date_of_traffic">
     <item>"Вчера "</item>

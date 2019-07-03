@@ -6441,4 +6441,6 @@ OTG се изключва автоматично след 10 минути без
     <string name="volume_launch_camera_summary">Натиснете двукратно бутона за сила на звука, за да стартирате камерата, когато екранът е заключен</string>
 	<string name="wakeup_and_sleep_settings_category_name">Настройки на заключен екран</string>
 	<string name="disallow_lock_screen_summary">Първо разрешете известията в \"Известия за приложения\"</string>
+	<string name="manage_password">Управление на пароли</string>
+    <string name="manage_password_summary">Автоматично попълване на запазените профили и пароли</string>
 </resources>
