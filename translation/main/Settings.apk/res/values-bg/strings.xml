@@ -743,7 +743,6 @@
     <string name="profile_info_settings_title">Информация за профила</string>
     <string name="Accounts_settings_title">Профили</string>
     <string name="location_settings_title">Местоположение</string>
-    <string name="account_settings_title">Профили</string>
     <string name="security_settings_title">Сигурност</string>
     <string name="security_settings_summary">Задаване на Моето местоположение, отключване на екрана, заключване на SIM картата и на хранилището за идентификационни данни</string>
     <string name="cdma_security_settings_summary">Задаване на Моето местоположение, отключване на екран и заключване на хранилището за идентификационни данни</string>
@@ -6435,7 +6434,6 @@ OTG се изключва автоматично след 10 минути без
     <string name="recommend_tip">Нуждаете се от други настройки?</string>
     <string name="screen_settings">Заключен екран</string>
     <string name="settings_new_version_btn">Актуализация</string>
-    <string name="status_bar_settings">Известия и лента за състоянието</string>
     <string name="status_bar_title">Лента за състоянието</string>
     <string name="unlock_mode_title">Заключване на екрана</string>
     <string name="volume_launch_camera_summary">Натиснете двукратно бутона за сила на звука, за да стартирате камерата, когато екранът е заключен</string>
