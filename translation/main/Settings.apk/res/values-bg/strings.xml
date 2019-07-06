@@ -4758,7 +4758,7 @@
     <string name="performance_category">Производителност</string>
     <string name="fluency_mode">Системни анимации</string>
     <string name="fluency_mode_confirm_and_reboot">Рестарт сега</string>
-    <string name="gesture_wakeup_title">Събуждане чрез двукратно почукване</string>
+    <string name="gesture_wakeup_title">Двойно почукване за събуждане или изключване на екрана</string>
     <string name="pick_up_gesture_wakeup_title">Събуждане чрез повдигане</string>
     <string name="aod_mode_title">Режим Винаги включен</string>
     <string name="install_no_market_app_title">Неизвестни източници</string>
@@ -6116,12 +6116,12 @@ OTG се изключва автоматично след 10 минути без
     <string name="none">Няма</string>
     <string name="notifi_channels">Категории на известията</string>
     <string name="notifi_channels_other">Други</string>
-    <string name="notifi_importance_default">Звук и показване на заключен екран.</string>
-    <string name="notifi_importance_high">Звук, показване на заключен екран, покаване на цял екран.</string>
-    <string name="notifi_importance_low">"Без звук"</string>
-    <string name="notifi_importance_min">"Без показване на заключен екран, без звук"</string>
-    <string name="notifi_importance_none">Изключено</string>
-    <string name="notifi_importance_unspecified">Нека приложението да прецени</string>
+    <string name="notifi_importance_default">Издаване на звук.</string>
+    <string name="notifi_importance_high">Издаване на звук и изскачащо известие.</string>
+    <string name="notifi_importance_low">Без звук</string>
+    <string name="notifi_importance_min">Без звук и минимизиране</string>
+    <string name="notifi_importance_none">Без показване на известия</string>
+    <string name="notifi_importance_unspecified">Разрешаване на звук</string>
     <string name="notifi_no_channels">Това приложение не е публикувало никакви известия</string>
     <string name="notification_fold_description1">Папката за известия бе въведена в MIUI 9. Тази функция филтрира маловажни известия и ги поставя в отделна папка.</string>
     <string name="notification_fold_description2">MIUI ще запомни кои известия сте докоснали и след това ще използва няколко критерия, за да определи дали те са важни.</string>
@@ -6441,4 +6441,5 @@ OTG се изключва автоматично след 10 минути без
 	<string name="disallow_lock_screen_summary">Първо разрешете известията в \"Известия за приложения\"</string>
 	<string name="manage_password">Управление на пароли</string>
     <string name="manage_password_summary">Автоматично попълване на запазените профили и пароли</string>
+	<string name="gesture_wakeup_summary">Тази функция работи, когато е приложена тема по подразбиране или класическа</string>
 </resources>

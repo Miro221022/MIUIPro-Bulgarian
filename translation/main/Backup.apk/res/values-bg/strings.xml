@@ -473,8 +473,8 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="hsa_sending">Изпращане…</string>
     <string name="hsa_send_failed">Не може да се изпрати код за потвърждение. Изчакайте малко и опитайте отново.</string>
     <string name="hsa_tip_title">Съвети:</string>
-    <string name="hsa_tip_message">"1. Съобщението с код за потвърждение беше изпратено на устройството, свързано с вашия профил в Apple. 
-2. Изключете двустепенната оторизация, ако потвърждението е неуспешно."</string>
+    <string name="hsa_tip_message">"1. Ако не можете да получите кода за потвърждение, уверете се, че вече сте вписани в iCloud на вашето Apple устройство.
+2. Ако въвеждането на кода за потвърждение не помогне, изключете двуфакторното удостоверяване. "</string>
     <string name="hsa_tip_message_with_device">"1. Съобщението с код за потвърждение беше изпратено на \"%s\", свързано с вашия профил в Apple. 
 2. Изключете двустепенната оторизация, ако потвърждението е неуспешно."</string>
     <string name="hsa_tip_message_shutdown_hsa">Как да изключите двустепенната оторизация</string>
@@ -653,6 +653,6 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
    <string name="dialog_backup_password_auto_backup_tips">"Не могат да се архивират автоматично елементи, когато е включена парола за архивиране. Първо изключете паролата за архивиране."</string>
    <string name="dialog_backup_password_change_device_restore_tips">"Не може да се използва Mi Mover, когато е включена паролата за архивиране. Първо изключете паролата за архивиране."</string>
    <string name="dialog_backup_password_restore_tips">"Не могат да се възстановят елементи, когато е включена парола за архивиране. Първо изключете паролата за архивиране."</string>
-   <string name="iCloud_ID_verification_tip">"Въведете SMS кода за потвърждение, изпратен до телефонния номер, свързан с вашия Apple ID. Игнорирайте изскачащия код, показващ се на екрана на вашия iPhone."</string>
+   <string name="iCloud_ID_verification_tip">Докоснете \"Разрешаване\" на Apple устройството, за да се покаже кодът за потвърждение. Въведете кода за потвърждение тук.</string>
    <string name="feature_title_mms_setting">Настройки за съобщенията</string>
 </resources>

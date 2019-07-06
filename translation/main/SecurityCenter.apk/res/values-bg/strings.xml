@@ -142,7 +142,7 @@
     <string name="sms_filter">Умен филтър</string>
     <string name="sms_keywords">Блокирани по ключови думи</string>
     <string name="sms_service">Блокиране на сервизни SMS</string>
-    <string name="sms_stranger_block">Блокиране на SMS от непознати</string>
+    <string name="sms_stranger_block">Блокирани</string>
     <string name="sms_contact_block">Блокиране на SMS от контакти</string>
     <string name="sms_malicious_url">Блокиране на SMS с опасни URL</string>
     <string name="sms_cloud_block">Облачен списък блокирани</string>
@@ -2688,4 +2688,7 @@
     <string name="gb_first_guide_handsfree_des">Отговаряйте на повикванията във фонов режим</string>
     <string name="gb_first_guide_shortcut_des">Създаден е пряк път на началния екран за Game Turbo</string>
     <string name="gb_first_guide_title">Увеличаване на скоростта и производителността на системно ниво</string>
+	<string name="power_ambient_display">Винаги включен</string>
+    <string name="battery_desc_ambient_display">Заряд, консумиран от режим Винаги включен</string>
+    <string name="st_antispam_title_mms">MMS</string>
 </resources>
