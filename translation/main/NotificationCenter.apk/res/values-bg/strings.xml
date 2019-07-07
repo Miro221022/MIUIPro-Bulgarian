@@ -17,7 +17,7 @@
   <string name="loading">Една секунда…</string>
   <string name="lock_screen_display_rules">Формат</string>
   <string name="lock_screen_tip_toast">Първо разрешете известията в \"Известия за приложения\"</string>
-  <string name="lockscreen_notifications">Известия на заключен екран</string>
+  <string name="lockscreen_notifications">На заключен екран</string>
   <string name="not_sent_recently">Не наскоро</string>
   <string name="notch_and_status_bar_setting">Прорез и лента за състоянието</string>
   <string name="notification_display_setting">Панел за известия</string>
@@ -27,10 +27,10 @@
   <string name="notification_manager">Известия за приложенията</string>
   <string name="notification_style_android">Андроид</string>
   <string name="notification_style_miui">MIUI</string>
-  <string name="off">Включено</string>
-  <string name="on">Изключено</string>
+  <string name="off">Изключено</string>
+  <string name="on">Включено</string>
   <string name="settings_guide_title">Нуждаете се от други настройки?</string>
-  <string name="show_badge_notifications">Значки за известяване</string>
+  <string name="show_badge_notifications">Значки</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_setting">Лента за състоянието</string>
   <string name="summary_disable_float_notification">"Плаващите известия не са разрешени"</string>
