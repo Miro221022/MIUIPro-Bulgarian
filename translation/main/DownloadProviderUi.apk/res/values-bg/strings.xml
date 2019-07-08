@@ -505,4 +505,5 @@
   <string name="ad">Реклама</string>
   <string name="close">Затваряне</string>
   <string name="close_ad">Затвори рекламата</string>
+  <string name="path_not_available">Пътят не е достъпен</string>
 </resources>

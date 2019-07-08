@@ -224,4 +224,10 @@
       <item>По подразбиране</item>
         <item>Голяма</item>
 </string-array>
+<string-array name="text_lines_entries">
+      <item>По подразбиране</item>
+        <item>На 1 ред</item>
+        <item>На 2 реда</item>
+        <item>Плъзгане</item>
+    </string-array>
 </resources>

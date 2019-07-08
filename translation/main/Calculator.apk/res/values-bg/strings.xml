@@ -455,4 +455,5 @@
 	<string name="user_agreement">Потребителско споразумение</string>
 	<string name="privacy_policy">Политика за поверителност</string>
 	<string name="tax_rate_provider_east_money">Изчислява се според новите данъчни разпоредби. Данните са предоставени от East Money.</string>
+	<string name="mortgage_provider_east_money">Данните са предоставени от East Money</string>
 </resources>

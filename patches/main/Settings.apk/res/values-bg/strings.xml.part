@@ -237,4 +237,5 @@
   <string name="no_sim_title">Скриване на иконата Няма SIM</string>
   <string name="percent_mi9_title">Малък знак за процент</string>
   <string name="percent_show_size_title">Размер на иконата за процент</string>
+  <string name="set_text_lines_title">Имената на приложенията под иконите</string>
 </resources>

@@ -42,4 +42,5 @@
   <string name="summary_float_enable_notification_first">Разрешете известията, за да можете да включите плаващи известия</string>
   <string name="summary_lock_screen_enable_notification_first">Разрешете известията, за да можете включите известия на заключен екран</string>
   <string name="summary_show_badge_enable_notification_first">Разрешете известията, за да можете да включите значките за известия</string>
+  <string name="expand_top_notification">Разгъване на най-горното известие</string>
 </resources>
