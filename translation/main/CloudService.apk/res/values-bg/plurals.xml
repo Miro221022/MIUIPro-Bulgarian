@@ -61,8 +61,8 @@
         <item quantity="one">"%d скрита снимка не е синхронизирана. Отпишете се след като всички елементи се синхронизират, за да ги запазите; в противен случай елементите ще бъдат изтрити."</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">Синхронизирането е на пауза. Продължаване след %d минути…</item>
-        <item quantity="one">Синхронизирането е на пауза. Продължаване след %d минута…</item>
+        <item quantity="other">Възобновяване на синхронизирането след %d минути</item>
+        <item quantity="one">Възобновяване на синхронизирането след %d минута</item>
     </plurals>
     <plurals name="micloud_main_resume_sync_min">
         <item quantity="other">Продължи синхронизирането след %d минути</item>

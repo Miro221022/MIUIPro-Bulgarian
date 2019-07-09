@@ -338,7 +338,7 @@
   <string name="networking_allow_desc_without_mx">Mi Съобщения се нуждае от достъп до интернет, за да работи нормално. В случай, че се използва за безплатни текстови съобщения и разпознаване на непознати номера, филтриране на спам, включване на трети услуги, Mi Съобщения трябва да използва Жълти страници. Разрешавате ли на Жълти страници да се свърже с интернет, да определи вашето местоположение и да чете вашите контакти?</string>
   <string name="networking_allow_title">Предупреждение</string>
   <string name="new_message">Създаване</string>
-  <string name="new_message_arrived">Кликнете, за преглед</string>
+  <string name="new_message_arrived">Непрочетено</string>
   <string name="new_phrase">Нов шаблон</string>
   <string name="new_phrase_hint">Въведи нов шаблон</string>
   <string name="no">Отмяна</string>
@@ -633,7 +633,7 @@
   <string name="undelivered_msg_dialog_title">Неизпратено съобщение</string>
   <string name="undelivered_sms_dialog_body">Неуспешно изпращане на съобщението.</string>
   <string name="unknown_num">Неизвестен номер</string>
-  <string name="unknown_sender">Имате ново съобщение</string>
+  <string name="unknown_sender">Неизвестен подател</string>
   <string name="unstick">Откачи</string>
   <string name="unstick_conversation">Откачи разговора</string>
   <string name="unsticked_conversation">Разговорът е откачен</string>
@@ -841,4 +841,6 @@
   <string name="dialog_sim_locked_message">"Вашата СИМ-карта не работи напълно добре с този телефон, защото не отговаря на условията на абонамента ви. Ако имате някакви въпроси или се нуждаете от повече информация по този въпрос, моля свържете се със сервизните центрове на Xiaomi или със търговският обект който продава продуктите."</string>
   <string name="feature_title_mms_setting">MMS настройки</string>
   <string name="dialog_complain_tips">Разрешаване на Съобщения да се свърже с мрежата, за да може да докладва елементи.</string>
+  <string name="click_to_view">Докоснете за преглед</string>
+  <string name="you_have_new_message">Имате нови съобщения</string>
 </resources>

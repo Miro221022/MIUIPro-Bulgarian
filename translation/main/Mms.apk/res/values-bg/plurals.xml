@@ -76,4 +76,8 @@
         <item quantity="other">Получихте %d покани за групов чат</item>
         <item quantity="one">Получихте %d покана за групов чат</item>
   </plurals>
+      <plurals name="notification_multiple">
+        <item quantity="other">"%s съобщения | "</item>
+        <item quantity="one">"%s съобщение | "</item>
+    </plurals>
 </resources>

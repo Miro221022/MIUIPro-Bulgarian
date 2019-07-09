@@ -1547,4 +1547,13 @@
   <string name="video_editor_audio_summertime">Лято</string>
   <string name="video_editor_audio_vitality">Жизненост</string>
   <string name="photo_editor_talkback_crop_3_2">Три към две</string>
+  <string name="assistant_page_discovery">Откриване</string>
+  <string name="assistant_page_server_error">Проверете настройките на мрежата</string>
+  <string name="movie_audio_antiquity">Ретро</string>
+  <string name="movie_audio_dream">Мечта</string>
+  <string name="movie_audio_electronics">Електро</string>
+  <string name="movie_audio_quiet">Зен</string>
+  <string name="movie_audio_summertime">Лято</string>
+  <string name="movie_audio_vitality">Жизненост</string>
+  <string name="movie_customer_unsupport_audio_file">Неподдържан аудио файл</string>
 </resources>

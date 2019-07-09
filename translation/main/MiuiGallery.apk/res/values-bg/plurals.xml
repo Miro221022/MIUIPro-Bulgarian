@@ -312,4 +312,8 @@
         <item quantity="other">Изтриване на %d серийни снимки от устройството ви?</item>
         <item quantity="one">Изтриване на %d серийна снимка от устройството ви?</item>
     </plurals>
+	    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="one">%1$d секунда</item>
+    </plurals>
 </resources>

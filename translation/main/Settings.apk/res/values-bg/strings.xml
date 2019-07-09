@@ -6388,7 +6388,7 @@ OTG се изключва автоматично след 10 минути без
 	<string name="enable_tcp_rtt_support">Показване на TCP RTT</string>
     <string name="enable_tcp_rtt_support_summary">Оценка на качеството на комуникационната мрежа</string>
 	<string name="popup_gesture_title">Отваряне на предната камера чрез повдигане</string>
-    <string name="popup_gesture_summary">Повдигнете телефона и погледнете екрана, за да се отвори автоматично предната камера</string>
+    <string name="popup_gesture_summary">Върнете се на началния екран, вдигнете телефона и погледнете екрана, за да отворите автоматично предната камера</string>
 	<string name="miui_lab_3d_gesture_title">3D шаблони</string>
 	<string name="miui_lab_3d_gesture_slogan">Начертайте шаблон във въздуха с телефона си, за да отворите приложение</string>
 	<string name="miui_lab_3d_gesture_summary">Начертайте шаблон във въздуха с телефона си, за да отворите приложение</string>
@@ -6441,5 +6441,13 @@ OTG се изключва автоматично след 10 минути без
 	<string name="disallow_lock_screen_summary">Първо разрешете известията в \"Известия за приложения\"</string>
 	<string name="manage_password">Управление на пароли</string>
     <string name="manage_password_summary">Автоматично попълване на запазените профили и пароли</string>
-	<string name="gesture_wakeup_summary">Тази функция работи, когато е приложена тема по подразбиране или класическа</string>
+	<string name="gesture_wakeup_summary">Можете да натиснете два пъти, за да изключите екрана, когато се използва темата по подразбиране или класическа</string>
+	<string name="notch_style_mod_description">Опции за показване на прореза и лентата за състоянието</string>
+    <string name="notch_style_mod_title">Скриване на прореза</string>
+    <string name="notch_style_show">"Не скривай"</string>
+    <string name="notch_style_status_bar_inside">Скриване без преместване на лентата на състоянието</string>
+    <string name="notch_style_status_bar_outside">Скриване и преместване на лентата на състоянието</string>
+	<string name="lock_screen_settings_title">Заключен екран</string>
+    <string name="xiaomi_cloud_service_description_contact">контакти и</string>
+    <string name="xiaomi_cloud_service_description_format">Mi Облак синхронизира вашите %s снимки, архивира вашите приложения и настройки и ви помага да намерите телефона си с помощта на Открий устройство.</string>
 </resources>
