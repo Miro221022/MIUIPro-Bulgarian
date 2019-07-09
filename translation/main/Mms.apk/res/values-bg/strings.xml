@@ -843,4 +843,5 @@
   <string name="dialog_complain_tips">Разрешаване на Съобщения да се свърже с мрежата, за да може да докладва елементи.</string>
   <string name="click_to_view">Докоснете за преглед</string>
   <string name="you_have_new_message">Имате нови съобщения</string>
+  <string name="no_longer_recommend">"Не показвай отново"</string>
 </resources>
