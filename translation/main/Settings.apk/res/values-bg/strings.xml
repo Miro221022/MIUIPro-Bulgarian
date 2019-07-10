@@ -6450,4 +6450,12 @@ OTG се изключва автоматично след 10 минути без
 	<string name="lock_screen_settings_title">Заключен екран</string>
     <string name="xiaomi_cloud_service_description_contact">контакти и</string>
     <string name="xiaomi_cloud_service_description_format">Mi Облак синхронизира вашите %s снимки, архивира вашите приложения и настройки и ви помага да намерите телефона си с помощта на Открий устройство.</string>
+	<string name="wireless_charging_settings">Зареждайте други устройства безжично</string>
+    <string name="wireless_opened">Включено</string>
+    <string name="wireless_closed">Изключено</string>
+    <string name="wireless_button">Зареждайте други устройства безжично</string>
+    <string name="wireless_tip">"Използвайте телефона си, за да зареждате други устройства безжично.
+
+
+Тази функция ще се изключи автоматично, ако зареждането не започне в рамките на 90 секунди."</string>
 </resources>
