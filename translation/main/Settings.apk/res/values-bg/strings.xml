@@ -6388,7 +6388,7 @@ OTG се изключва автоматично след 10 минути без
 	<string name="enable_tcp_rtt_support">Показване на TCP RTT</string>
     <string name="enable_tcp_rtt_support_summary">Оценка на качеството на комуникационната мрежа</string>
 	<string name="popup_gesture_title">Отваряне на предната камера чрез повдигане</string>
-    <string name="popup_gesture_summary">Върнете се на началния екран, вдигнете телефона и погледнете екрана, за да отворите автоматично предната камера</string>
+    <string name="popup_gesture_summary">Върнете се на начален екран, вдигнете телефона и погледнете екрана, за да отворите автоматично предната камера</string>
 	<string name="miui_lab_3d_gesture_title">3D шаблони</string>
 	<string name="miui_lab_3d_gesture_slogan">Начертайте шаблон във въздуха с телефона си, за да отворите приложение</string>
 	<string name="miui_lab_3d_gesture_summary">Начертайте шаблон във въздуха с телефона си, за да отворите приложение</string>

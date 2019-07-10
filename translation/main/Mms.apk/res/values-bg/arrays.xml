@@ -73,4 +73,29 @@
     <item>Друго</item>
     <item>Отказ</item>
     </string-array>
+	    <string-array name="message_sending_method">
+        <item>Предлагана услуга за съобщения</item>
+        <item>SMS, MMS</item>
+        <item>RCS чат, RCS файлов трансвер</item>
+    </string-array>
+	    <string-array name="rcs_ft_fallback">
+        <item>Никога не питай и винаги изпращай като SMS връзка</item>
+        <item>Никога не питай и никога не изпращай като SMS връзка</item>
+        <item>Always ask</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>Никога не питай и винаги изпращай като SMS</item>
+        <item>Никога не питай и никога не изпращай като SMS</item>
+        <item>Винаги питай</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>винаги питай</item>
+        <item>никога не преоразмерявай</item>
+        <item>винаги преоразмерявй избрана опция, която след това се съхранява като стойност по подразбиране</item>
+    </string-array>
+	    <string-array name="rcs_video_quality_setting">
+        <item>винаги питай</item>
+        <item>никога не преоразмерявай</item>
+        <item>винаги преоразмерявй избрана опция, която след това се съхранява като стойност по подразбиране</item>
+    </string-array>
 </resources>
