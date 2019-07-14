@@ -149,7 +149,7 @@
     <string name="menu_correct_yellow_page">Докладвай проблема</string>
     <string name="menu_delete_call_log">Изтриване на историята на повикванията</string>
     <string name="menu_delete_one">Премахване от историята на повикванията</string>
-    <string name="menu_enroll_in_yellow_page">Регистрирайте се за идентификация на повикващия</string>
+    <string name="menu_enroll_in_yellow_page">Регистрирайте се за идентификация на обаждащия се</string>
     <string name="menu_remove_black_list">Изтрий от блокирани</string>
     <string name="menu_remove_from_favorite">Премахни от любими</string>
     <string name="menu_save_contact">Запомни номера в контактите</string>
@@ -242,7 +242,7 @@
     <string name="remember_preference">Запомняне на избора</string>
     <string name="remind_another_time">Не показвай отново</string>
     <string name="remind_user_confirm">OК</string>
-    <string name="remind_user_suspect_number_message">Бъдете внимателни: Винаги проверявайте самоличността на повикващия чрез телефона или видео, преди да споделите личната си информация.</string>
+    <string name="remind_user_suspect_number_message">Бъдете внимателни: Винаги проверявайте самоличността на обаждащия се чрез телефона или видео, преди да споделите личната си информация.</string>
     <string name="remind_user_suspect_number_title">Подозрителен номер</string>
     <string name="rmb">RMB индекс</string>
     <string name="scan">Сканиране</string>
@@ -268,7 +268,7 @@
     <string name="turn_on_phone_event_title">Получаване на информация за услугата</string>
     <string name="turn_on_smart_antispam_hint">Разпознаване на номера</string>
     <string name="turn_on_smart_antispam_summary">Качване и идентифициране на непознати телефонни номера от историята на обажданията и текстовите съобщения</string>
-    <string name="turn_on_smart_antispam_title">Идентификация на повикващия</string>
+    <string name="turn_on_smart_antispam_title">Идентификация на обаждащия се</string>
     <string name="turn_on_yellowpage_service_title">Използване на Идентификатор на обажданията</string>
     <string name="uploads_disabled">Качването на файлове е забранено</string>
     <string name="user_agreement2">" Условия за ползване"</string>
