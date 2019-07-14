@@ -1313,7 +1313,8 @@
     </string-array>
 	<string-array name="notch_battery_indicator_style_entries">
         <item>Графика</item>
-        <item>Проценти</item>
+		<item>Преценти (в иконата)</item>
+        <item>Преценти (до иконата)</item>
     </string-array>
 	<string-array name="notification_shade_shortcut_entries">
         <item>Търсене</item>
@@ -1445,6 +1446,11 @@
         <item>Автоматично (на база системения език)</item>
     </string-array>
 	    <string-array name="drip_battery_indicator_style_entries">
+        <item>Графика</item>
+        <item>Проценти (в иконата)</item>
+        <item>Проценти (до иконата)</item>
+    </string-array>
+	    <string-array name="wide_notch_battery_indicator_style_entries">
         <item>Графика</item>
         <item>Проценти (в иконата)</item>
         <item>Проценти (до иконата)</item>

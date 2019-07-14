@@ -2691,4 +2691,16 @@
 	<string name="power_ambient_display">Винаги включен</string>
     <string name="battery_desc_ambient_display">Заряд, консумиран от режим Винаги включен</string>
     <string name="st_antispam_title_mms">MMS</string>
+	<string name="system_permission_declare_main_purpose" formatted="false">Добре дошли в %1s! Това приложение ви позволява да използвате следната функция: %2s.</string>
+    <string name="system_permission_declare_privacy_declare">"We respect and protect your peivacy.
+Отбелчзваме, че %1s трябва да събира данните ви и изисква следните разрешения да работи нормално:"</string>
+    <string name="system_permission_declare_use_network">Връзка с мрежата</string>
+    <string name="system_permission_declare_no_say_no">"Ако решите да не давате необходимите разрешения или да не ни позволявате да събираме и използваме данните ви, това приложение няма да може да работи нормално."</string>
+    <string name="system_permission_declare_revoke_path">Можете да деинсталирате това приложение, да се отпишете от него или да управлявате разрешенията и оторизациите си в Сигурност > Управление на приложения > Разрешения > Други разрешения.</string>
+    <string name="system_permission_declare_double_link"><Data>Прочетете и приемете нашите &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Политика за поверителност&lt;/a> преди да използвате тази функция.</Data></string>
+    <string name="system_permission_declare_agree">Съгласен</string>
+    <string name="system_permission_perm_send_mms">Изпращане на MMS</string>
+    <string name="system_permission_perm_read_mms">Четене на MMS</string>
+    <string name="system_permission_perm_answer_call">Осъществяване на повиквания</string>
+    <string name="system_permission_perm_read_numbers">Четене на телефонни номера</string>
 </resources>
