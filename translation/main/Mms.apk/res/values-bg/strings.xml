@@ -897,4 +897,6 @@
   <string name="success_login">успешно вписване</string>
   <string name="title_activity_rcs_login">Вписване</string>
   <string name="title_activity_rcs_maps">Местоположение</string>
+  <string name="notification_seen">Маркирай като прочетено</string>
+  <string name="notification_delete">Изтрий</string>
 </resources>
