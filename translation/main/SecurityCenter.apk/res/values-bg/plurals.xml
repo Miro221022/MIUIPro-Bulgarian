@@ -114,9 +114,11 @@
     </plurals>
     <plurals name="people">
         <item quantity="other">Изтеглено от %1$d души</item>
+		<item quantity="one">Изтеглено от %1$d човек</item>
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Изтеглено от %1$d души</item>
+		<item quantity="one">Изтеглено от %1$d човек</item>
     </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d души играят</item>

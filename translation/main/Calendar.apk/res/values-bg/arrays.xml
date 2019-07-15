@@ -378,4 +378,9 @@
         <item>За всички събития</item>
         <item>За най-важните събития</item>
     </string-array>
+	    <string-array name="prefEntries_alerts_popup_new">
+        <item>Изключено</item>
+        <item>За всички събития</item>
+        <item>За чувствителни към времето събития</item>
+    </string-array>
 </resources>

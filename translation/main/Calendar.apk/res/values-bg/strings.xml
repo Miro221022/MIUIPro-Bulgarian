@@ -610,4 +610,9 @@
   <string name="solar_to_lunar_chinese_calendar">Грегориански към китайски</string>
   <string name="title_confirm_close_chinese_calendar">Изключване на китайския календар</string>
   <string name="work_day_indication_chinese_calendar">班</string>
+  <string name="preferences_popup_alert_smart_summary_new">Чувствителни към времето събития са събитията с точно време</string>
+  <string name="setting_desc_import_todo">Импортиране на планирани задачи от Бележки</string>
+  <string name="setting_title_import_todo">Импортиране на задачи</string>
+  <string name="todo_audio_event">"[Гласова задача] "</string>
+  <string name="todo_event">Предстоящи задачи</string>
 </resources>

@@ -28,4 +28,6 @@
     <string name="autofill_list_title">Управление на пароли</string>
     <string name="autofill_password">Автоматично въвеждане на пароли</string>
     <string name="using_miui_autofill_message">За да въведете пароли автоматично, MIUI ще запази информацията за вашия акаунт и паролите на вашето устройство.</string>
+	<string name="settings_clear_data_confirmation_description">"Ако изтриете паролите сега, ще трябва да ги въведете ръчно следващия път, когато се впишете.
+Изтриване на паролата?"</string>
 </resources>

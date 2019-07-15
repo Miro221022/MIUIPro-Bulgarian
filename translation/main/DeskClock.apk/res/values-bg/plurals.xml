@@ -64,4 +64,8 @@
         <item quantity="other">%d минути</item>
         <item quantity="one">%d минута</item>
     </plurals>
+	    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Интервалът за отлагане е променен на %d минути</item>
+        <item quantity="one">Интервалът за отлагане е променен на %d минута</item>
+    </plurals>
 </resources>

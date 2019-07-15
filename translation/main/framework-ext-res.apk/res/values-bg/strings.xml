@@ -223,4 +223,9 @@
 	<string name="popup_camera_hid_device_name">黑鲨</string>
 	<string name="popup_camera_remove_hid_device">Изглежда, че устройството ви е свързано с контролер за игри. Може да не успеете да отворите предната камера, когато е свързан контролер за игри.</string>
 	<string name="frequent_email">Чести имейли</string>
+	<string name="content_description_search">Търсене</string>
+    <string name="content_description_dial">Повикване</string>
+    <string name="content_description_web_url">Браузър</string>
+    <string name="content_description_translate">Преводач</string>
+    <string name="content_description_share">Споделяне</string>
 </resources>

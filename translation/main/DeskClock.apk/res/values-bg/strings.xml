@@ -180,10 +180,10 @@
   <string name="dynamic_alarm_speech">Интелигентна аларма</string>
   <string name="edit_alarm">Редактиране на аларма</string>
   <string name="module_download_cancel">Не благодаря</string>
-  <string name="module_download_data_msg">Часовник трябва да изтегли аудио файлове за MIUI интелигентни аларми. Интелигентните аларми съдържат аудио функции, които позволяват включването на информация за текущото време в алармите. ≈20Мб мобилни данни ще бъдат необходими за това изтегляне. Изтегляне сега?</string>
+  <string name="module_download_data_msg">За да направите MIUI интелигентните аларми достъпни, Часовник трябва да изтегли аудио файлове. Интелигентните аларми съдържат аудио функции, които позволяват включването на информация за текущото време в алармите. ≈20Мб мобилни данни ще бъдат необходими за това изтегляне. Изтегляне сега?</string>
   <string name="module_download_data_msg_golbal">Часовник трябва да изтегли аудио файлове за MIUI интелигентни аларми. ≈20Мб мобилни данни ще бъдат необходими за това изтегляне. Изтегляне сега?</string>
   <string name="module_download_fail">"Не могат да се изтеглят допълнителни аудиофайлове"</string>
-  <string name="module_download_msg">Часовник трябва да изтегли аудио файлове за MIUI интелигентни аларми. Интелигентните аларми съдържат аудио функции, които позволяват включването на информация за текущото време в алармите. Изтегляне сега?</string>
+  <string name="module_download_msg">За да направите MIUI интелигентните аларми достъпни, Часовник трябва да изтегли аудио файлове. Интелигентните аларми съдържат аудио функции, които позволяват включването на информация за текущото време в алармите. Изтегляне сега?</string>
   <string name="module_download_msg_golbal">Часовник трябва да изтегли аудио файлове за MIUI интелигентни аларми. Изтегляне сега?</string>
   <string name="module_download_no_network">"Неуспешно свързване с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
   <string name="module_download_ok">Разрешаване</string>
@@ -275,4 +275,8 @@
   <string name="worldclock_resident_city_text">Втори часовник: %s</string>
   <string name="worldclock_resident_city_text_detail">Двоен часовник е включен</string>
   <string name="worldcolock_date_display_prefix">Текущо: </string>
+  <string name="module_update_success">Актуализираните звуци за интелигентните аларми на MIUI са успешно изтеглени. Можете да настроите MIUI интелигентни аларми в настройките на часовника.</string>
+  <string name="module_update_success_control">Разбрах</string>
+  <string name="no_alarm_setting">Няма аларми тук</string>
+  <string name="no_worldclock">Няма часовници тук</string>
 </resources>

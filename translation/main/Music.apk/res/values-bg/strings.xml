@@ -408,7 +408,7 @@
     <string name="handle_later">Не сега</string>
     <string name="hide_album">Скриване на обложката</string>
     <string name="hide_lyric">Скриване на текст</string>
-    <string name="higher_quality_music">Музика с високо качество</string>
+    <string name="higher_quality_music">Абонирайте се за Mi Music</string>
     <string name="higher_quality_music_summary">Слушайте и изтегляйте музика с високо качество</string>
     <string name="home_tab_local">Моята музика</string>
     <string name="home_tab_online">Онлайн</string>
@@ -1127,4 +1127,5 @@
    <string name="sleep_close">Няма зададен</string>
    <string name="shut_down_sleep_mode">Изключване</string>
    <string name="sleep_custom">Настройка</string>
+   <string name="impunity_declaration_content_live">Трябва да прочетете и да се съгласите с нашите %1$s и %2$s преди да използвате този продукт.</string>
 </resources>

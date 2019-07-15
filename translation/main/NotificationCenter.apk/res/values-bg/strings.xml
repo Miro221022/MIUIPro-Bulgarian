@@ -16,7 +16,7 @@
   <string name="list_title_disable_notification">"Известията не са разрешени"</string>
   <string name="loading">Една секунда…</string>
   <string name="lock_screen_display_rules">Формат</string>
-  <string name="lock_screen_tip_toast">Първо разрешете известията в \"Известия за приложения\"</string>
+  <string name="lock_screen_tip_toast">Разрешете известия на заключен екран във \"Формат\"</string>
   <string name="lockscreen_notifications">На заключен екран</string>
   <string name="not_sent_recently">Не наскоро</string>
   <string name="notch_and_status_bar_setting">Прорез и лента за състоянието</string>
