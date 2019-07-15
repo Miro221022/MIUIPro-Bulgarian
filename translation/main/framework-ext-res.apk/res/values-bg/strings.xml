@@ -228,4 +228,7 @@
     <string name="content_description_web_url">Браузър</string>
     <string name="content_description_translate">Преводач</string>
     <string name="content_description_share">Споделяне</string>
+	<string name="user_switching_dialog_switch_into_kid_space">Превключване към Детско пространство…</string>
+    <string name="user_switching_dialog_switch_out_kid_space">Напускане на Детско пространство…</string>
+
 </resources>

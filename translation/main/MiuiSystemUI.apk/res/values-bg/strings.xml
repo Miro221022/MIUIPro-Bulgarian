@@ -1055,8 +1055,8 @@
   <string name="oem_unlock_enable_summary">Разрешаване на отключването на програмата за зареждане на системата (bootloader)</string>
   <string name="oldman_airplane_mode_text">Самолет</string>
   <string name="oldman_incall_text">Обратно към обаждането</string>
-  <string name="open_camera_hint_text">Плъзнете наляво, за да стартирате камерата</string>
-  <string name="open_remote_center_hint_text">Плъзнете надясно, за да стартирате допълнителни програми</string>
+  <string name="open_camera_hint_text">Плъзнете иконата, за да отворите камерата</string>
+  <string name="open_remote_center_hint_text">Плъзнете иконата, за да видите управлението</string>
   <string name="other">Друго</string>
   <string name="overlay_display_devices_title">Симулиране на втори дисплей</string>
   <string name="overview">Преглед</string>
@@ -1758,7 +1758,7 @@
    <string name="lock_screen_magazine_default_content">Дневна порция от свежи изображения</string>
    <string name="lock_screen_magazine_default_entry_title">Детайли на тапета</string>
    <string name="lock_screen_magazine_default_title">Музика</string>
-   <string name="open_lock_screen_magazine_hint_text">Плъзнете надясно за още опции</string>
+   <string name="open_lock_screen_magazine_hint_text">Плъзнете иконата, за да отворите Ежедневни тапети</string>
    <string name="wapi_all_sel_mode">Избери</string>
    <string name="wapi_auto_sel_cert_fail">"Не може автоматично да се избират сертификати. Изберете сертификат от списъка и опитайте да се свържете."</string>
    <string name="wapi_cert_is_not_exist">Няма налични сертификати. Добавете първо.</string>
@@ -1865,5 +1865,5 @@
    <string name="recents_task_screening">Записване…</string>
    <string name="recents_forbid_dock_when_screening_toast_text">"Не може да се използва разделен екран по време на запис"</string>
    <string name="recents_dimiss_task">Изчисти</string>
-
+   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Не можете да превключвате между пространствата, когато е включена функцията за ултра пестене на батерия"</string>
 </resources>
