@@ -2730,4 +2730,5 @@
     <string name="superpower_progress_turndown_brightness">Намаляване на яркостта на екрана</string>
     <string name="superpower_progress_switch_home">Превключване към тъмна тема</string>
     <string name="superpower_progress_left_time">%1$dч %2$dм</string>
+	<string name="call_delete_all_hint">Изтриване на всички блокирани обаждания?</string>
 </resources>

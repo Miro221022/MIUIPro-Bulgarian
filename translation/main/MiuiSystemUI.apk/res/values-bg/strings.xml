@@ -938,10 +938,10 @@
   <string name="miui_ringer_standard_description">Заглушаване на мелодии за входящи повиквания и известия</string>
   <string name="miui_ringer_total">Не ме безпокойте</string>
   <string name="miui_ringer_total_description">Заглушаване на звука и изключване на вибрацията за всички елементи с изключение на алармите</string>
-  <string name="miui_toast_zen_dnd_to_off">Звуците и вибрацията са възстановени</string>
-  <string name="miui_toast_zen_standard_to_off">Мелодиите са възстановени до нормално положение</string>
-  <string name="miui_toast_zen_to_dnd">Звуците са заглушени и вибрациите са изключени</string>
-  <string name="miui_toast_zen_to_standard">Мелодиите за повиквания и известия са заглушени</string>
+  <string name="miui_toast_zen_dnd_to_off">Не ме безпокойте е изключен. Звуците и вибрациите се възстановяват до нормално състояние.</string>
+  <string name="miui_toast_zen_standard_to_off">Не ме безпокойте е изключен.Тонове на звънене са възстановени в нормално състояние.</string>
+  <string name="miui_toast_zen_to_dnd">Не ме безпокойте е включен. Звуците са заглушени и вибрациите са изключени.</string>
+  <string name="miui_toast_zen_to_standard">Не ме безпокойте е включен.Тоновете за звънене повиквания и известия са заглушени.</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data">Мобилни данни</string>
   <string name="mobile_data_always_on">Мобилни данни винаги са разрешени</string>
@@ -1664,8 +1664,8 @@
   <string name="miui_guide_dialog_button_negative_text">Настройки</string>
   <string name="miui_guide_dialog_button_positive_text">Разбрах</string>
   <string name="miui_guide_dialog_message">Медийните звуци (музика, видеоклипове и др.) ще продължат да се възпроизвеждат в Тих режим. Можете да промените това в "Настройки".</string>
-  <string name="miui_toast_zen_standard_to_off_when_shield_media">Тоновете за звънене, както и звуците за известия и медия, ще се възпроизвеждат.</string>
-  <string name="miui_toast_zen_to_standard_when_shield_media">Тоновете за звънене, както и звуците за известия и медия, ще бъдат заглушени.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Не ме безпокойте е изключен.Тоновете за звънене, както и звуците за известия и медия ще се изпълняват.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Не ме безпокойте е включен.Тоновете за звънене, както и звуците за известия и медия са заглушени.</string>
   <string name="lockscreen_storage_locked">Отключване за всички функции и данни</string>
   <string name="wireless_change_to_ac_charging">Превключен към кабелно зареждане</string>
   <string name="wireless_charge_current">Зареждане</string>

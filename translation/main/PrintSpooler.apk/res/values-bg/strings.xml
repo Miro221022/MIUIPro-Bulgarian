@@ -85,7 +85,7 @@
     <string name="please_choose_printer">Първо изберете принтер.</string>
     <string name="print_error">"Не може да се отпечата поради грешка в принтера"</string>
     <string name="print_fail">"Не може да се печата"</string>
-    <string name="print_fail_network_error">"Не можа да се отпечата.Проверете мрежовите настройки и опитайте отново."</string
+    <string name="print_fail_network_error">"Не можа да се отпечата.Проверете мрежовите настройки и опитайте отново."</string>
     <string name="print_help_label">Помощ</string>
     <string name="print_help_tip">Уверете се, че телефонът и принтерът са свързани към една и съща WLAN мрежа или е включена WLAN Direct връзка. Вижте \"Помощ\".</string>
     <string name="print_help_tip_reg">Помощ</string>

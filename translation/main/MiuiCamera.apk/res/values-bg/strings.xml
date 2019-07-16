@@ -916,4 +916,6 @@
     <string name="pref_camera_lying_summary">Известяване за текущата ориентация, когато телефонът е успореден на земята</string>
 	<string name="user_define_watermark_save">Запазване</string>
     <string name="user_define_watermark_cancel">Отказ</string>
+	<string name="mimoji_app_name">Забавна камера</string>
+
 </resources>
