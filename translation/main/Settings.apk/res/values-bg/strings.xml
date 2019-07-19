@@ -6460,4 +6460,11 @@ OTG се изключва автоматично след 10 минути без
 Тази функция ще се изключи автоматично, ако зареждането не започне в рамките на 90 секунди."</string>
     <string name="privacy_password_settings_summary">Паролата за защита на поверителността се използва за приложенията, които може да съдържат поверителна информация</string>
 	<string name="kid_space_settings">Детско пространство</string>
+    <string name="bluetooth_disable_mi_fast_connect">Изключете Mi Fast Connect</string>
+	<string name="bluetooth_disable_mi_fast_connect_summary">Деактивирайте функцията за бързо свързване</string>
+    <string name="screen_dark_mode_time_title">График</string>
+	<string name="screen_dark_mode_advanced_title">Допълнителни</string>
+	<string name="screen_dark_mode_smart_dark_title">Глобален тъмен режим</string>
+	<string name="screen_dark_mode_smart_dark_summary">Приложете тъмен режим и за приложения от трети страни. Някои приложения може да се показват неправилно</string>
+	<string name="screen_dark_mode_select_time_error_summary">"Времето за начало и край не могат да са едни и същи"</string>
 </resources>

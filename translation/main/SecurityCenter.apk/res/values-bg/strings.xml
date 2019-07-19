@@ -1608,7 +1608,7 @@
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_title">Политика на поверителност</string>
     <string name="antivirus_privacy_dialog_summary">"Тази функция шифрова и качва идентификацията на устройството ви в сървърите на Avast, AVL и Tencent's (%s)."</string>
-    <string name="antivirus_privacy_dialog_summary_link">Вижте Политика за поверителност</string>
+    <string name="antivirus_privacy_dialog_summary_link">Политика за поверителност</string>
     <string name="antivirus_privacy_dialog_cloudscan">Качване на имена и детайли за приложенията</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Качване и сканиране на имената на приложенията и подробности чрез онлайн вирусни дефиниции.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
@@ -2731,4 +2731,16 @@
     <string name="superpower_progress_switch_home">Превключване към тъмна тема</string>
     <string name="superpower_progress_left_time">%1$dч %2$dм</string>
 	<string name="call_delete_all_hint">Изтриване на всички блокирани обаждания?</string>
+	<string name="gamebox_milink">Споделяне</string>
+    <string name="stop_milink_connect">Спиране на споделянето</string>
+    <string name="other_milink_connect">"Не може да се сподели. Друга функция се споделя в момента."</string>
+    <string name="alert_back_milink_hangup_tips_content">"Споделянето няма да бъде прекъснато, когато приключвате повикване. Можете да натиснете бутона за захранване, за да събудите екрана."</string>
+	<string name="system_permission_declare_privacy_no_permission">"Имайте предвид, че %1s трябва да събере данните ви, за да работи нормално.
+Ние уважаваме и защитаваме вашата поверителност."</string>
+	<string name="system_permission_declare_use_network_no_permission">Свържете се с мрежата</string>
+	<string name="system_permission_declare_revoke_uninstallable">Можете да деинсталирате това приложение или да управлявате разрешенията и оторизацията си в Сигурност &gt; Управление на приложения &gt; Разрешения &gt; Други разрешения.</string>
+	<string name="system_permission_declare_revoke_system">Можете да излезете от това приложение.</string>
+	<string name="system_permission_declare_user_agreement"><Data>Прочетете и приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> преди да използвате тази функция.</Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>Прочетете и приемете нашата &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> преди да използвате тази функция.</Data></string>
+    <string name="system_permission_declare_disagree">Не се съгласявам</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="accessibility_call_muted">Разговора е заглушен.</string>
+  <string name="accessibility_call_muted">Разговорът е заглушен.</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Тази функция е експериментална и може да се отрази на ефективността.</string>
   <string name="accessibility_display_daltonizer_preference_title">Корекция на цветове</string>
   <string name="accessibility_no_wifi">Няма връзка с Wi-Fi.</string>
@@ -365,6 +365,7 @@
   <string name="wifi_security_none">Няма</string>
   <string name="wifi_verbose_logging">„Многословно“ регистр. на Wi‑Fi: Актив.</string>
   <string name="wifi_verbose_logging_summary">По-подробно регистр. на Wi‑Fi – данни за RSSI на SSID в инстр. за избор на Wi‑Fi</string>
-  <string name="window_animation_scale_title">Скала на аним.: Прозорец</string>
+  <string name="window_animation_scale_title">Скала за анимация на прозорци</string>
   <string name="video_call_not_allowed_if_tty_enabled">Изключване на TTY режима за осъществяване на видеоповиквания.</string>
+  <string name="missedcall_notification_public_version_title">Телефон</string>
 </resources>

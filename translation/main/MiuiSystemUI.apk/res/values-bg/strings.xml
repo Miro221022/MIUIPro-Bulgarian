@@ -1866,4 +1866,5 @@
    <string name="recents_forbid_dock_when_screening_toast_text">"Не може да се използва разделен екран по време на запис"</string>
    <string name="recents_dimiss_task">Изчисти</string>
    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Не можете да превключвате между пространствата, когато е включена функцията за ултра пестене на батерия"</string>
+   <string name="gxzw_add_fingerprint_area">Скенер за пръстови отпечатъци</string>
 </resources>

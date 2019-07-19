@@ -1311,7 +1311,7 @@
     <string name="enhanced_4g_lte_mode_off_failed">Не може да се изключи VoLTE.</string>
     <string name="cmcc_ut_data_enable_prompt">Не можете да се свържете, използвайки VoLTE мрежа. Включете използването на мобилни данни.</string>
     <string name="volte_switch_title">VoLTE</string>
-    <string name="volte_switch_summary">Използвайте VoLTE за подобряване на качеството на гласа и видеото.</string>
+    <string name="volte_switch_summary">Използвайте VoLTE за подобряване на качеството на гласовите повиквания.</string>
     <string name="volte_switch_not_support_summary">VoLTE повикванията не се поддържат за SIM карти, които са само за мобилни данни.</string>
     <string name="volte_switch_not_support_summary2">VoLTE повикванията не се поддържат от оператора.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE изисква 4G връзка и за двете SIM карти. Да превключа ли на Двоен 4G режим?</string>
@@ -1668,7 +1668,7 @@
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_summary">Предпочитан режим на мрежата: TD-SCDMA/GSM/WCDMA/CDMA/EvDo</string>
 	<string name="msim_cmcc_dds_switch_not_support">"Не може да се превключи сим картат поради ограничения от оператора."</string>
 	<string name="vice_card_data_in_use_alert">Възможно е да се генерират допълнителни такси за данни.</string>
-    <string name="volte_switch_title_ct">VoLTE активирано</string>
+    <string name="volte_switch_title_ct">VoLTE</string>
 	<string name="prompt_when_turnon_volte_without_lte">"VoLTE мрежите не са налични в момента. Включването на VoLTE може да Ви попречи да провеждате редовни разговори."</string>
 	<string name="switch_dds_to_sub_alert">Задайте тази карта като основна карта за данни.</string>
 	<string name="volte_tips_when_turn_on">China Telecom VoLTE услугите се предоставят само в районите с VoLTE покритие. VoLTE услугите се предоставят от оператора.</string>
