@@ -204,4 +204,9 @@
         <item quantity="other">%1$s човека</item>
         <item quantity="one">%1$s човек</item>
     </plurals>
+	  <plurals name="text_group_count">
+        <item quantity="other">%d  елемента</item>
+        <item quantity="zero"> %1$d елемента</item>
+        <item quantity="one">%d елемент</item>
+    </plurals>
 </resources>

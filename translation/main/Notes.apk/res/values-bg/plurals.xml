@@ -40,4 +40,36 @@
         <item quantity="other">Успешно са показани %1$s бележки</item>
         <item quantity="one">Успешно е показана %1$s бележка</item>
     </plurals>
+	    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d дни по-късно</item>
+        <item quantity="one">%1$d ден по-късно</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">Преди %1$d дни</item>
+        <item quantity="one">Преди %1$d ден</item>
+    </plurals>
+	 <plurals name="todo_N_days_after">
+        <item quantity="other">След %1$d дни</item>
+        <item quantity="one">След %1$d ден</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">Преди %1$d дни</item>
+        <item quantity="one">Преди %1$d ден</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">Изтриване на %1$s задачи?</item>
+        <item quantity="one">Изтриване на %1$s задача?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">Преди %1$d дни</item>
+        <item quantity="one">Преди %1$d ден</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">След %1$d дни</item>
+        <item quantity="one">След %1$d ден</item>
+    </plurals>
+	 <plurals name="todo_terms">
+        <item quantity="other">%1$s бележки</item>
+        <item quantity="one">%1$s бележка</item>
+    </plurals>
 </resources>

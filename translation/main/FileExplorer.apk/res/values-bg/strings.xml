@@ -13,7 +13,7 @@
   <string name="album_name">Избрани за днес: %s</string>
   <string name="all_topic">Всички заглавия</string>
   <string name="already_liked">Вече означихте със звезда този елемент</string>
-  <string name="app_name">Файлов мениджър</string>
+  <string name="app_name">@string/home_title</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Камера</string>
   <string name="app_name_downloadedrom">Пакети</string>
@@ -324,7 +324,7 @@
   <string name="mobile_network_dialog_tip">Да използваме ли мобилни данни за да видите тази страница? Може да заплатите допълнително за използването на мобилни данни за връзка</string>
   <string name="mobile_network_dialog_title">Предупреждение за мобилни данни</string>
   <string name="month_day_format">dd MMM</string>
-  <string name="move_failed">Грешка при преместване</string>
+  <string name="move_failed">Не могат да се преместят повече елементи</string>
   <string name="move_icon_to_desktop_hint">Създава пряк път до Файлове на началния екран за по-ефективно управление на файловете.</string>
   <string name="move_icon_to_desktop_success">Прекият път е добавен на началния екран.</string>
   <string name="move_to">Преместване във…</string>
@@ -822,4 +822,17 @@
   <string name="ftp_anonymous_warning_msg">Функциите за анонимност могат да представляват риск за сигурността. Използване на функцията въпреки това?</string>
   <string name="ftp_anonymous_warning_title">Внимание</string>
   <string name="home_action_up">Назад</string>
+  <string name="category_source">Източник</string>
+  <string name="category_time">Час</string>
+  <string name="create_folder">Създаване</string>
+  <string name="home_title">Файлове</string>
+  <string name="otg_file_security_confirm">копиране в телефона</string>
+  <string name="otg_file_security_details">Моля, копирайте в телефона</string>
+  <string name="otg_file_security_note">OGT сигурност</string> 
+  <string name="privacy_policy">Политика за поверителност</string>
+  <string name="start_doc">Файлове</string>
+  <string name="start_phone">Хранилище</string>
+  <string name="tab_app">Още</string>
+  <string name="text_select_all">Избери на всички</string>
+  <string name="text_select_nothing">Откажи всички</string>
 </resources>
