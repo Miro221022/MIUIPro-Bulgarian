@@ -338,12 +338,12 @@
         <item quantity="one">%d приложение</item>
     </plurals>
 	    <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">Може да се скрият %d приложения</item>
-        <item quantity="one">Може да се скрие %d приложение</item>
+        <item quantity="other">Скрити са иконите на началния екран за %d приложения</item>
+        <item quantity="one">Скрита е иконата на началния екран за %d приложение</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d приложения са скрити</item>
-        <item quantity="one">%d приложение е скрито</item>
+        <item quantity="other">"Не са скрити иконите на началния екран за %d приложения"</item>
+        <item quantity="one">"Не е скрита иконата на началния екран за %d приложение"</item>
     </plurals>
 	<plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Фабрично нулиране(%dс)</item>

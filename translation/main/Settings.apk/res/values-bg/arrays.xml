@@ -1333,6 +1333,7 @@
         <item>aptX HD</item>
         <item>LDAC</item>
 		<item>Qualcomm® aptX™ Адаптивно аудио</item>
+		<item>LHDC</item>
         <item>Активиране на опционални кодеци</item>
         <item>Деактивиране на опционалните кодеци</item>
     </string-array>
@@ -1411,6 +1412,7 @@
         <item>aptX HD</item>
         <item>LDAC</item>
 		<item>Qualcomm® aptX™ Адаптивно аудио</item>
+		<item>LHDC</item>
         <item>Активиране на опционални кодеци</item>
         <item>Деактивиране на опционалните кодеци</item>
     </string-array>
@@ -1454,5 +1456,27 @@
         <item>Графика</item>
         <item>Проценти (в иконата)</item>
         <item>Проценти (до иконата)</item>
+    </string-array>
+	    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Къса латентност</item>
+        <item>Средна латентност</item>
+        <item>Дълга латентност</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Къса латентност (50~100мс)</item>
+        <item>Средна латентност (150~200мс)</item>
+        <item>Дълга латентност (300~500мс)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Оптимизиран за качество на връзката</item>
+        <item>Балансирано качество на звука и връзката</item>
+        <item>Оптимизиран за качество на звука</item>
+        <item>Най-доброто избор (Авто скорост на битовете)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Оптимизиран за качество на връзката (400кб/с)</item>
+        <item>Балансирано качество на звука и връзката (500/560кб/с)</item>
+        <item>Оптимизиран за качество на звука (900кб/с)</item>
+        <item>Най-доброто избор (Авто скорост на битовете)</item>
     </string-array>
 </resources>

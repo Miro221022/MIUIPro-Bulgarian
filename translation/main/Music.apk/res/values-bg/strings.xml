@@ -1128,4 +1128,20 @@
    <string name="shut_down_sleep_mode">Изключване</string>
    <string name="sleep_custom">Настройка</string>
    <string name="impunity_declaration_content_live">Трябва да прочетете и да се съгласите с нашите %1$s и %2$s преди да използвате този продукт.</string>
+   <string name="can_heard_not_download">"Тази песен не може да се изтегли поради ограниченията на доставчика на съдържание"</string>
+   <string name="add_to_favorite">Добавяне към любими</string>
+   <string name="cp_other_error">"Понастоящем този елемент не е налице поради ограничения на авторското право"</string>
+   <string name="detail">Подробности</string>
+   <string name="dialog_song_sort_type_add_time">Стари към нови</string>
+   <string name="dialog_song_sort_type_add_time_desc">Нови към стари</string>
+   <string name="dialog_song_sort_type_name_from_a2z">A до Z</string>
+   <string name="dialog_song_sort_type_name_from_z2a">Z до A</string>
+   <string name="live_stream_error">"Понастоящем този елемент не е налице поради ограничения на авторското право"</string>
+   <string name="network_no_available_and_check">"Не може да се свърже с мрежата"</string>
+   <string name="spammy_contents">Спам</string>
+   <string name="talkback_change_skin">Смяна на темата</string>
+   <string name="thanks_for_feedback">Благодарим Ви за отзивите!</string>
+   <string name="unable_to_play">"Не може да се изпълни"</string>
+   <string name="view_all_news">Преглед на всички новини</string>
+   <string name="widget_title">Намерете любимите си песни в Mi Music</string>
 </resources>

@@ -166,4 +166,8 @@
         <item quantity="other">%d оставащи дни</item>
         <item quantity="one">%d оставащ ден</item>
     </plurals>
+	    <plurals name="dialog_remove_favorite_song_descript">
+        <item quantity="other">Премахване на %d песни от любими?</item>
+        <item quantity="one">Премахване на %d песен от любими?</item>
+    </plurals>
 </resources>

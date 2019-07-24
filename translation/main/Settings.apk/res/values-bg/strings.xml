@@ -6467,4 +6467,19 @@ OTG се изключва автоматично след 10 минути без
 	<string name="screen_dark_mode_smart_dark_title">Глобален тъмен режим</string>
 	<string name="screen_dark_mode_smart_dark_summary">Приложете тъмен режим и за приложения от трети страни. Някои приложения може да се показват неправилно</string>
 	<string name="screen_dark_mode_select_time_error_summary">"Времето за начало и край не могат да са едни и същи"</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth аудио LHDC кодек: Латентност</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Избор на Bluetooth аудио LHDC кодек:
+Латентност"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth аудио LHDC кодек: Качество на възпроизвеждане</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Избор на Bluetooth аудио LHDC кодек:
+Качество на възпроизвеждане"</string>
+    <string name="bt_lhdc_declaration">Когато Bluetooth устройството поддържа LHDC, то ще бъде свързано по подразбиране. LHDC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. Възможно е да възникнат проблеми по време на възпроизвеждане поради ограниченията на Bluetooth устройството.</string>
+    <string name="bt_lhdc_dialog_summary">"LHDC осигурява висококачествено аудио изживяване и също така носи по-висока консумация на енергия
+Тази функция може да бъде изключена [Настройки]"</string>
+    <string name="bt_lhdc_dialog_title">Текущото устройство поддържа LHDC, който е свързан по подразбиране:</string>
+    <string name="bt_lhdc_open_dialog_summary">LHDC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. Възможно е да възникнат проблеми по време на възпроизвеждане поради ограниченията на Bluetooth устройството.</string>
+    <string name="bt_lhdc_open_dialog_title">Turn on LHDC?</string>
+    <string name="bt_lhdc_pre_title">LHDC</string>
+    <string name="bt_lhdc_property">Атрибути</string>
+	<string name="kid_space_settings">Детско пространство</string>
 </resources>

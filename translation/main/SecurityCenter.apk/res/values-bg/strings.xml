@@ -1741,7 +1741,7 @@
     <string name="ac_enter_applock">Вход в Заключени на приложения</string>
     <string name="ac_mask_all_apps">Скрий за всички приложения</string>
     <string name="ac_unmask_all_apps">Покажи за всички приложения</string>
-    <string name="ac_summaryOn">Включено, изисква се парола за вход в приложенията</string>
+    <string name="ac_summaryOn">Въведете парола, за да отворите защитени приложения</string>
     <string name="ac_summaryOff">Изключено, не се изисква парола за вход в приложенията</string>
     <string name="lockpattern_tutorial_cancel_label">Отказ</string>
     <string name="lockpattern_tutorial_continue_label">Напред</string>
@@ -1755,8 +1755,8 @@
     <string name="modifypassword">Промяна на паролата</string>
     <string name="back_modifypassword">Върнете се към промяна на типа на парола</string>
     <string name="showpattern">Показване на фигурата</string>
-    <string name="notification_mask_title">Скрий съдържанието</string>
-    <string name="notification_mask_summary">Скриване на съдържанието на известията на заключен екран и в панела за известия</string>
+    <string name="notification_mask_title">Скриване на съдържанието на известията</string>
+    <string name="notification_mask_summary">"Да не се показва съдържанието на известията от защитените приложения"</string>
     <string name="convenient_mode">Еднократно отключване</string>
     <string name="convenient_summary">Въвеждане на паролата веднъж за отключване на всички приложения</string>
     <string name="suggest_app_tolock">Предложения</string>
@@ -2743,4 +2743,10 @@
 	<string name="system_permission_declare_user_agreement"><Data>Прочетете и приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> преди да използвате тази функция.</Data></string>
     <string name="system_permission_declare_privacy_policy"><Data>Прочетете и приемете нашата &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> преди да използвате тази функция.</Data></string>
     <string name="system_permission_declare_disagree">Не се съгласявам</string>
+	<string name="privacy_apps_shield_message_title">"Не покзвай известия"</string>
+    <string name="privacy_apps_shield_message_summary">"Да не се показват известия от защитените приложения"</string>
+    <string name="privacy_apps_begin_use">Начало</string>
+    <string name="privacy_apps_next_stup">Следващо</string>
+    <string name="privacy_apps_button_know">Разбрах</string>
+    <string name="privacy_apps_tutorial_dlg_title">Как да намерите скрити приложения</string>
 </resources>
