@@ -387,15 +387,15 @@
     <string name="waiting_tip">Това може да отнеме известно време, но си заслужава</string>
     <string name="miui_install_confirm_question">Ще инсталирате ли това приложение?</string>
     <string name="miui_install_confirm_question_update">Заместване на съществуващото приложение?</string>
-    <string name="miui_install_source">Източник:%s</string>
-    <string name="miui_install_version">Версия:%s</string>
+    <string name="miui_install_source">Източник \"%s\"</string>
+    <string name="miui_install_version">Версия: %1$s | Размер: %2$s</string>
     <string name="miui_install_source_unkown">Неизвестно</string>
     <string name="miui_permission_detail">Разрешения</string>
-    <string name="miui_virus_scanning">Сканиране…</string>
-    <string name="miui_virus_scanning_0">Сканиране   </string>
-    <string name="miui_virus_scanning_1">Сканиране.  </string>
-    <string name="miui_virus_scanning_2">Сканиране.. </string>
-    <string name="miui_virus_scanning_3">Сканиране...</string>
+    <string name="miui_virus_scanning">Сканиране за вируси…</string>
+    <string name="miui_virus_scanning_0">Сканиране за вируси   </string>
+    <string name="miui_virus_scanning_1">Сканиране за вируси.  </string>
+    <string name="miui_virus_scanning_2">Сканиране за вируси.. </string>
+    <string name="miui_virus_scanning_3">Сканиране за вируси...</string>
     <string name="miui_message_staging_0">Подготовка   </string>
     <string name="miui_message_staging_1">Подготовка.  </string>
     <string name="miui_message_staging_2">Подготовка.. </string>
@@ -436,7 +436,7 @@
     <string name="miui_failed_conflicting_provider">Конфликтни доставчици на услуги</string>
     <string name="miui_failed_newer_sdk">"SDK версия все още не се поддържа"</string>
     <string name="miui_failed_version_downgrade">"Не може да се понижи версията на приложенията"</string>
-    <string name="miui_failed_version_downgrade_space">"Има по-нова версия на това приложение във Второ пространство. Деинсталирайте я във Второ пространство, и след това я инсталирайте тук."</string>
+    <string name="miui_failed_version_downgrade_space">"Има по-нова версия на това приложение във Второ пространство."</string>
     <string name="miui_failed_permission_model_downgrade">"Не може да се понижат разрешенията"</string>
     <string name="miui_failed_system_incompatible">Несъвместим инсталационен пакет</string>
     <string name="miui_failed_miui_system_incompatible">"Инсталационният пакет не е съвместим с MIUI"</string>
@@ -457,8 +457,8 @@
     <string name="ads_install_button_waiting">Изчакване</string>
     <string name="ads_summary">People who installed %1$s also liked</string>
     <string name="ads">Реклами</string>
-    <string name="pref_key_antivirus">Антивирус</string>
-    <string name="pref_key_antivirus_summary">Проверка на приложението преди инсталиране</string>
+    <string name="pref_key_antivirus">Проверка за безопасност</string>
+    <string name="pref_key_antivirus_summary">Проверка на приложението за вируси преди инсталиране</string>
     <string name="pref_ads">Препоръки</string>
     <string name="unlike">Не благодаря</string>
     <string name="dlg_msg_unoffical">"Не може да се инсталират системни приложения от неофициални канали"</string>
@@ -571,7 +571,9 @@
     <string name="message_staging">Подготовка…</string>
     <string name="app_name_unknown">Неизвестено</string>
     <string name="help_app_permissions" />
-    <string name="untrusted_external_source_warning">За вашата безопасност, на телефона ви не му е разрешено да инсталира приложения от неизвестни източници.</string>
+    <string name="untrusted_external_source_warning">"Приложенията от неизвестни източници може да са вредни за вашето устройство и лични данни. Инсталирайки приложения от този източник, вие се съгласявате да носите отговорност за евентуални щети на вашия телефон или лични данни, които могат да бъдат причинени от тези приложения.
+
+ "<font size="15">Можете да давате и ограничавате разрешения в Настройки > Допълнителни настройки > Поверителност > Специален достъп за приложенията > Инсталиране на неизвестни приложения.</font></string>
     <string name="anonymous_source_warning">Вашият телефон и лични данни са по-уязвими на атаки от неизвестни приложения. С инсталирането на това приложение приемате, че сте отговорни за всякакви повреди в телефона Ви или загуба на данни, които могат да се получат от неговата употреба.</string>
     <string name="anonymous_source_continue">Продължаване</string>
     <string name="external_sources_settings">Настройки</string>
@@ -648,4 +650,38 @@
     <string name="lb_onboarding_get_started">ПЪРВИ СТЪПКИ</string>
     <string name="lb_onboarding_accessibility_next">Следващ</string>
 	<string name="pref_key_about_privacy_title">Политика за поверителност</string>
+	<string name="adb_install_no_network">Свържете се с мрежата и опитайте отново</string>
+    <string name="adb_install_open">Разрешаване…</string>
+    <string name="adb_install_open_error">"Не може да се разреши, проверете мрежовата връзка"</string>
+    <string name="app_install_failed_button_text">Търсене на приложения</string>
+    <string name="app_ops_clean_master_tip">Освобождаване на %s</string>
+    <string name="app_ops_install_exit">Изход</string>
+    <string name="external_sources_settings_negative">Ограничи</string>
+    <string name="external_sources_settings_positive">Разреши</string>
+    <string name="intercept_install">Инсталиране</string>
+    <string name="mimarket_install_more">Отидете в Mi App Store, за да инсталирате още приложения</string>
+    <string name="miui_app_permission_detail">Изискващи се разрешения</string>
+    <string name="miui_clear_apk_desc">Премахна %s пакети и остатъци</string>
+    <string name="miui_clear_apks">Автоматично премахване на инсталационни пакети и остатъци</string>
+    <string name="miui_failed_solution_1">Деинсталирайте текущата версия на това приложение и инсталирайте приложението отново.</string>
+    <string name="miui_failed_solution_2">Инсталационният пакет може да е повреден. Изтеглете приложението отново.</string>
+    <string name="miui_failed_solution_3">Опитайте да запазите инсталационния пакет на друго място.</string>
+    <string name="miui_failed_solution_4">Освободете място за съхранение в Сигурност > Почистване и опитайте отново.</string>
+    <string name="miui_failed_solution_5">Опитайте да използвате съвместим инсталационен пакет.</string>
+    <string name="miui_failed_solution_6">Деинсталирайте това приложение във второто пространство и опитайте отново.</string>
+    <string name="miui_failed_solution_7">Изтеглете най-новата версия на това приложение в GetApps.</string>
+    <string name="miui_solution_msg_2">Решение</string>
+    <string name="pref_key_app_store_summary">Преди инсталиране трябва да изтеглите приложения от защитени източници</string>
+    <string name="pref_key_app_store_title">Препоръчвайте сигурни версии</string>
+    <string name="settings_warning_dialog_detail">"Ще бъдете предупредени в следните случаи:
+ "<li>Когато приложението съдържа вируси.</li>"
+ "<li>Когато в нашият магазин за приложения е налице по-нова версия на приложението.</li>"
+ "<li>Инсталационният пакет идва от неизвестен източник.</li></string>
+    <string name="settings_warning_dialog_msg">"Телефонът ви е изложен на рискове за сигурността. Няма да бъдете подканени да инсталирате безопасни версии на приложенията, ако изключите тази функция. Изключване?"</string>
+    <string name="settings_warning_dialog_title">Внимание</string>
+    <string name="untrusted_external_source_title">Разрешаване на \"%1$s\" да инсталира приложения?</string>
+    <string name="untrusted_external_source_warning_2">"Приложенията от неизвестни източници може да са вредни за вашето устройство и лични данни. Инсталирайки приложения от този източник, вие се съгласявате да носите отговорност за евентуални щети на вашия телефон или лични данни, които могат да бъдат причинени от тези приложения.
+
+ "<font size="15">Можете да давате и ограничавате разрешения в Настройки > Допълнителни настройки > Поверителност > Специален достъп за приложенията > Инсталиране на неизвестни приложения.</font></string>
+    <string name="virus_title_subtext">"Това приложение може да съдържа вируси: "</string>
 </resources>

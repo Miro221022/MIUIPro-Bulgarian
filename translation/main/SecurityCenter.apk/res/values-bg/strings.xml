@@ -1069,7 +1069,7 @@
     <string name="btn_text_optimize_now">Оптимизирай</string>
     <string name="btn_text_optimize_manually">Ръчно оптимизиране</string>
     <string name="battery_history_activity_title">История</string>
-    <string name="btn_text_goto_power_rank">Преглед на класацията</string>
+    <string name="btn_text_goto_power_rank">Преглед на всички статистики</string>
     <string name="btn_text_goto_setup">Настройване</string>
     <string name="power_save_title_text">Пестене на батерия</string>
     <string name="power_save_summary_text">"Включете пестене на батерията, за да намалите активността на заден план на приложенията, да спрете синхронизацията и за намаляване на системните анимации."</string>
@@ -2749,4 +2749,15 @@
     <string name="privacy_apps_next_stup">Следващо</string>
     <string name="privacy_apps_button_know">Разбрах</string>
     <string name="privacy_apps_tutorial_dlg_title">Как да намерите скрити приложения</string>
+	<string name="battery_statistics_activity_title">Статистика за използването на батерията</string>
+    <string name="pc_battery_history_consume_rank_menu_item">Класиране</string>
+    <string name="pc_battery_history_battery_detail_menu_item">Подобробности</string>
+    <string name="pc_battery_history_rank_percent_menu_item">Процент</string>
+    <string name="pc_battery_history_rank_mha_menu_item">Милиампер час</string>
+    <string name="pc_battery_detail_curve_reference_now">Сега</string>
+    <string name="pc_battery_detail_device_item_title">Статистика за използването на батерията</string>
+    <string name="pc_statistics_battery_use_title">Използване на батерията</string>
+    <string name="pc_statistics_battery_use_summary">%s от последното зареждане</string>
+    <string name="pc_statistics_battery_use_hour_minute">%1$dч %2$dм от последното зареждане</string>
+    <string name="pc_statistics_battery_last_hour_minute">%1$dч %2$dм остава</string>
 </resources>

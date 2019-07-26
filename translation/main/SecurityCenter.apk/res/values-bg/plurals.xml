@@ -459,4 +459,20 @@
         <item quantity="other">%s минути до пълното зареждане</item>
         <item quantity="one">%s минута до пълното зареждане</item>
     </plurals>
+	    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d минути от последното зареждане</item>
+        <item quantity="one">%d минута от последното зареждане</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d секунди от последното зареждане</item>
+        <item quantity="one">%d секунда от последното зареждане</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d минути остават</item>
+        <item quantity="one">%d минута остава</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d часа остават</item>
+        <item quantity="one">%d час остава</item>
+    </plurals>
 </resources>

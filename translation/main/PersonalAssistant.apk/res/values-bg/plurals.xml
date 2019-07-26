@@ -74,4 +74,8 @@
     <item quantity="other">Изпращане след %d дни</item>
     <item quantity="one">Изпращане след %d ден</item>
    </plurals>
+       <plurals name="agenda_count_down">
+        <item quantity="other">След %d минути</item>
+        <item quantity="one">След %d минута</item>
+    </plurals>
 </resources>

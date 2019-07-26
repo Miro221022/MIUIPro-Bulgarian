@@ -351,4 +351,16 @@
   <string name="resource_updater_settings">Актуализатор</string>
   <string name="keywords_updater_settings">"Актуализатор;MIUI актуализация;актуализация на системата;софтуерна актуализация;ROM;ROM актуализация;актуализация;актуализации;провери актуализациите; провери за актуализации;намери актуализации;изтегли актуализации;надстройка;надстройки;софтуерна надстройка;нова версия;софтуерна версия; тестване;какво ново;какво ново;отчет;списък с промени;apk;пакет за актуализация;ROM пакет;автоактуализации;авто-актуализации; автоматични актуализации;MIUI врсия;версия;актуализатор;Updater;изтегли автоматично;инсталирай автоматично; Програма за бета-обратна връзка;ром"</string>
   <string name="path_updater_settings">Настройки/Моето устройство/MIUI версия</string>
+  <string name="button_text_next_step_timer">Следващо (%d)</string>
+  <string name="warning_dialog_title">Открити са рискове</string>
+  <string name="warning_dialog_content">"Тази актуализация включва надстройка на версията на Android. Приложенията по-долу не са оптимизирани за нея и може да съдържат сериозни проблеми със съвместимостта. Въпреки това вие можете да актуализирате, да пропуснете тази актуализация или да актуализирате приложенията по-долу и да опитате отново."</string>
+  <string name="warning_dialog_pos">"Не актуализирай"</string>
+  <string name="warning_dialog_neg">Актуализация</string>
+  <string name="warning_dialog_item_tag">"Риск: "</string>
+  <string name="warning_dialog_error_tag1">"Няма да стартира"</string>
+  <string name="warning_dialog_error_tag2">Ще се затвори принудително</string>
+  <string name="warning_dialog_error_tag3">"Не може да се инсталира или деинсталира"</string>
+  <string name="warning_dialog_error_tag4">"Няма да отговаря"</string>
+  <string name="warning_dialog_error_tag5">Несъвместим интерфейс</string>
+  <string name="warning_dialog_error_tag99">Други проблеми</string>
 </resources>

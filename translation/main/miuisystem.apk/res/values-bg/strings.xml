@@ -97,9 +97,9 @@
     <string name="winter_solstice">Зимно слънцестоене</string>
     <string name="no_notification_tips">Няма известия</string>
     <string name="android_ringtone_default_with_actual">Стандартна мелодия (%1$s)</string>
-    <string name="cloud_state_disabled">Синхронизацията с Mi Облак : изключена</string>
-    <string name="cloud_state_finished">Синхронизирано с Mi Облак</string>
-    <string name="cloud_state_syncing">Синхронизира се с Mi Облак</string>
+    <string name="cloud_state_disabled">Синхронизацията с облака е изключена</string>
+    <string name="cloud_state_finished">Синхронизирано с облака</string>
+    <string name="cloud_state_syncing">Синхронизира се с облака</string>
     <string name="vip_achievements">Достижения</string>
     <string name="vip_sign">Подпис:</string>
     <string name="vip_not_login">Не сте вписан</string>
