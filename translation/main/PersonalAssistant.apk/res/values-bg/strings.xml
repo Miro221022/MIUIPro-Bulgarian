@@ -1097,7 +1097,7 @@
 	<string name="setting_sticky">Закачи на върха</string>
     <string name="setting_sticky_canceled">Откачено</string>
     <string name="setting_sticky_done">Закачено</string>
-	<string name="sport_headline">"Днешма активност"</string>
+	<string name="sport_headline">"Днешна активност"</string>
 	<string name="timeline_headline">Предстоящо</string>
 	<string name="vertical_separator">|</string>
 </resources>

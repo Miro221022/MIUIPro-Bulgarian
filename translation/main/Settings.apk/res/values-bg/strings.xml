@@ -6481,4 +6481,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="bt_lhdc_open_dialog_title">Turn on LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Атрибути</string>
+	<string name="mi_transfer">Mi Трансфер</string>
 </resources>

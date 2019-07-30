@@ -586,11 +586,8 @@
    <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
    <string name="live_music_close_cancel_message">Отказ</string>
    <string name="pref_camera_live_sticker_internal_title">Вътрешни магически инструменти</string>
-   <string name="pref_menu_ultra_pixel_photography">%d万超清</string>
     <string name="accessibility_lighting_panel_on">Показване на лента за студийно осветление</string>
     <string name="accessibility_lighting_panel_off">Лентата за студийно освтление е скрита</string>
-    <string name="accessibility_ultra_pixel_photography_on">48MP е включено</string>
-    <string name="accessibility_ultra_pixel_photography_off">48MP е изключено</string>
     <string name="accessibility_ultra_wide_on">Ултра широкоъгълен режим е включен</string>
     <string name="accessibility_ultra_wide_off">Ултра широкоъгълен режим е изключен</string>
     <string name="ai_scene_top_moon_off">Режим на слаба светлина</string>
@@ -642,8 +639,6 @@
     <string name="pref_camera_zoom_mode_entry_ultra">УЛТРА ШИРОКО</string>
     <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
     <string name="pref_userdefine_watermark_title">Потребителски воден знак</string>
-    <string name="ultra_pixel_photography_open_tip">48MP</string>
-    <string name="ultra_pixel_photography_close_tip">48MP е изключено</string>
     <string name="ultra_wide_close_tip">Ултра широкоъгълен режим е изключен</string>
     <string name="ultra_wide_mode">Ултра широк ъгъл</string>
     <string name="ultra_wide_mode_use_hint_text">"Използвайте този режим, за да включите повече от сцената на вашата снимка.
@@ -917,5 +912,13 @@
 	<string name="user_define_watermark_save">Запазване</string>
     <string name="user_define_watermark_cancel">Отказ</string>
 	<string name="mimoji_app_name">Забавна камера</string>
-
+    <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD е изключено</string>
+    <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD е включено</string>
+    <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
+    <string name="ultra_pixel_32mp">32MP</string>
+    <string name="ultra_pixel_48mp">48MP</string>
+    <string name="ultra_pixel_64mp">64MP</string>
+    <string name="ultra_pixel_photography_close_tip">%s Ultra HD е изключено</string>
+    <string name="ultra_pixel_photography_open_tip">%s Ultra HD е включено</string>
+    <string name="ultra_pixel_zoom_no_support_tip">"Приближаването не работи в %s Ultra HD режим"</string>
 </resources>

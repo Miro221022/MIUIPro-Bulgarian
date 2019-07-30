@@ -13,7 +13,7 @@
   <string name="album_name">Избрани за днес: %s</string>
   <string name="all_topic">Всички заглавия</string>
   <string name="already_liked">Вече означихте със звезда този елемент</string>
-  <string name="app_name">@string/home_title</string>
+  <string name="app_name">Файлове</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Камера</string>
   <string name="app_name_downloadedrom">Пакети</string>

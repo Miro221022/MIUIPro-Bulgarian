@@ -2760,4 +2760,5 @@
     <string name="pc_statistics_battery_use_summary">%s от последното зареждане</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dч %2$dм от последното зареждане</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dч %2$dм остава</string>
+	<string name="system_permission_declare_no_say_no_non_mandatory">"Ако решите да не давате необходимите разрешения или не ни позволите да събираме и използваме вашите данни, това приложение няма да може да работи нормално."</string>
 </resources>
