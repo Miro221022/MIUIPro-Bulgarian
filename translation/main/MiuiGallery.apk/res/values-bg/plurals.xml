@@ -289,11 +289,11 @@
         <item quantity="one">%d снимка</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">Запазване на %d избрани снимки и изтриване на останалите?</item>
-        <item quantity="one">Запазване на %d избрана снимка и изтриване на останалите?</item>
+        <item quantity="other">"Изтриване на %d снимки които не сте избрали?"</item>
+        <item quantity="one">"Изтриване на %d снимка която не сте избрали?"</item>
     </plurals>
     <plurals name="burst_save_selected">
-        <item quantity="other">Запазване на %d избраните снумки</item>
+        <item quantity="other">Запазване на %d избраните снимки</item>
         <item quantity="one">Запазване на %d избраната снимка</item>
     </plurals>
 	<plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
@@ -315,5 +315,65 @@
 	    <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d секунди</item>
         <item quantity="one">%1$d секунда</item>
+    </plurals>
+	    <plurals name="a_hour_ago">
+        <item quantity="other">Преди 1 час</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Преди 1 час</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Преди половин час</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">След 1 час</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">След половин час</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Веднага</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">след %d минути</item>
+        <item quantity="one">след 1 минута</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Сега</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Преди %d минути</item>
+        <item quantity="one">Преди 1 минута</item>
+    </plurals>
+	    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Изтриване на %d снимки</item>
+        <item quantity="one">Изтриване на %d снимка</item>
+    </plurals>
+	    <plurals name="delete_finish_format">
+        <item quantity="other">%d елемента са изтрити</item>
+        <item quantity="one">%d елемент е изтрит</item>
+    </plurals>
+	    <plurals name="half_hour_ago">
+        <item quantity="other">Преди половин час</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">След 1 час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">След половин час</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Веднага</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">след %d минути</item>
+        <item quantity="one">след 1 минута</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Сега</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Преди %d минути</item>
+        <item quantity="one">Преди 1 минута</item>
     </plurals>
 </resources>

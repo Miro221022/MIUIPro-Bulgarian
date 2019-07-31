@@ -6294,10 +6294,10 @@ OTG се изключва автоматично след 10 минути без
 	<string name="color_led_end_time">Крайно време</string>
 	<string name="color_led_game_mode_title">Game Turbo</string>
 	<string name="color_led_hint">Изберете моментите, когато трябва да се използва LED светлина. Светлинният индикатор ще светне, когато екранът е обърнат надолу и Не ме безпокойте е изключен.</string>
-	<string name="color_led_incall_pulse_title">Светкавица при входящи повиквания</string>
-	<string name="color_led_music_mode_title">Музика</string>
-	<string name="color_led_music_mode_summary">Показване на ритмични светлинни ефекти при възпроизвеждане на музика</string>
-	<string name="color_led_notification_pulse_title">Пулсиране при известия</string>
+	<string name="color_led_incall_pulse_title">Използване при входящи повиквания</string>
+	<string name="color_led_music_mode_title">Използване за музика</string>
+	<string name="color_led_music_mode_summary">"Показване на ритмични светлинни ефекти при възпроизвеждане на музика. Не работи в Тих режим."</string>
+	<string name="color_led_notification_pulse_title">Пулсиране при известия, когато екранът е изключен</string>
 	<string name="color_led_red_more_feature">Специални ефекти</string>
 	<string name="color_led_start_time">Начално време</string>
 	<string name="color_led_title">LED светлина</string>
@@ -6482,4 +6482,8 @@ OTG се изключва автоматично след 10 минути без
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Атрибути</string>
 	<string name="mi_transfer">Mi Трансфер</string>
+	<string name="color_led_charging_summary">Ще бъде изключено, когато батерията се зареди</string>
+	<string name="color_led_game_mode_summary">Показване на ефекти за игри, когато Game Turbo е включено</string>
+    <string name="color_led_special_scene_title">Специални ефекти</string>
+	<string name="color_led_summary">"Не работи в Не ме безпокойте"</string>
 </resources>
