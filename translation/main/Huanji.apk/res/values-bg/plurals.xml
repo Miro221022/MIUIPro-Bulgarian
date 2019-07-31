@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Преди 1 час</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Преди 1 час</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Преди половин час</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">След 1 час</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">След половин час</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Веднага</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">След %d мин</item>
+        <item quantity="one">След 1 мин</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Сега</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Преди %d мин</item>
+        <item quantity="one">Преди 1 мин</item>
+    </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%d елемента</item>
+        <item quantity="one">%d елемент</item>
+    </plurals>
+    <plurals name="data_item_count_fail">
+        <item quantity="other">"Не може да се прехвърлят %d елемента"</item>
+        <item quantity="one">"Не може да се прехвърли %d елемент"</item>
+    </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d елемента</item>
+        <item quantity="one">%1$d/%2$d елемент</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Преди половин час</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">&lt;g id="hour">%1$d&lt;/g> hours</item>
+        <item quantity="one">&lt;g id="hour">%1$d&lt;/g> hour</item>
+    </plurals>
+    <plurals name="icloud_importing_title_count_desc">
+        <item quantity="other">Внесени са %d елемента</item>
+        <item quantity="one">Внесен е %d елемент</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">След 1 час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">След половин час</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Веднага</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">След %d минути</item>
+        <item quantity="one">След 1 минута</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%d избрани елемента</item>
+        <item quantity="one">%d избран елемент</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Сега</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">&lt;g id="minute">%1$d&lt;/g> минути</item>
+        <item quantity="one">&lt;g id="minute">%1$d&lt;/g> минута</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Преди %d минути</item>
+        <item quantity="one">Преди 1 минута</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"Внесени са %d елемента. "</item>
+        <item quantity="one">"Внесен е %d елемент. "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">Внасяне на %d елемента отново.</item>
+        <item quantity="one">Внасяне на %d елемент отново.</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">Внесени и възстановени са %d елемента</item>
+        <item quantity="one">Внесен и възстановен е %d елемент</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">Възстаовени са %d елемента</item>
+        <item quantity="one">Възстановен е %d елемент</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">" елемента"</item>
+        <item quantity="one">" елемент"</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d елемента</item>
+        <item quantity="one">%1$s | %2$d елемент</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+</resources>
