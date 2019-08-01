@@ -201,7 +201,7 @@
     <string name="edit_event_reminder_summary_3_days_before">3 дни преди и на самия ден в %1$s</string>
     <string name="edit_event_reminder_text">На %1$s в %2$s</string>
     <string name="edit_event_reminder_time">Време за напомняне</string>
-    <string name="edit_event_reminder_with_another_day_text">На %1$s, %2$s at %3$s</string>
+    <string name="edit_event_reminder_with_another_day_text">На %1$s, %2$s в %3$s</string>
     <string name="edit_event_tab_anniversary">Годишнина</string>
     <string name="edit_event_tab_birthday">Рожден ден</string>
     <string name="edit_event_tab_countdown">Обратно броене</string>
@@ -214,7 +214,7 @@
     <string name="event_all_day_label">Цял ден</string>
     <string name="event_info_descrip">Описание</string>
     <string name="event_info_end">Край</string>
-    <string name="event_info_jump_to_email">Към Имейл</string>
+    <string name="event_info_jump_to_email">Към имейл</string>
     <string name="event_info_reminders_label_1">Напомняне</string>
     <string name="event_info_repeat">Повторение</string>
     <string name="event_info_when">Кога</string>
@@ -461,8 +461,6 @@
   <string name="event_info_title_anniversary">Юбилей</string>
   <string name="event_info_title_birthday">Рожден ден</string>
   <string name="event_info_title_countdown">Обратно броене</string>
-  <string name="ticket_activity_card_date_day">ден</string>
-  <string name="ticket_activity_card_date_month">месец</string>
   <string name="train_event_add_arrive_station">Кликнете, за да добавите дестинация</string>
   <string name="train_event_arrive">%1$s пристига</string>
   <string name="train_event_arrive_station_saved">Станцията за пристигане е запазена</string>
@@ -615,4 +613,9 @@
   <string name="setting_title_import_todo">Импортиране на задачи</string>
   <string name="todo_audio_event">"[Гласова задача] "</string>
   <string name="todo_event">Предстоящи задачи</string>
+  <string name="text_day">" "</string>
+  <string name="text_year">" "</string>
+  <string name="ticket_activity_card_date_day">" "</string>
+  <string name="ticket_activity_card_date_month">" "</string>
+  <string name="limit_notification_date_format">d M (EE)</string>
 </resources>
