@@ -457,7 +457,7 @@
     <string name="abc_shareactionprovider_share_with_application">Сподели с %s</string>
     <string name="abc_toolbar_collapse_description">Свиване</string>
 	<string name="edit_event_dislike_title">Защо отказвате?</string>
-	  <string name="event_action_arrive_station">Станция пристигащи</string>
+	<string name="event_action_arrive_station">Станция пристигащи</string>
   <string name="event_info_title_anniversary">Юбилей</string>
   <string name="event_info_title_birthday">Рожден ден</string>
   <string name="event_info_title_countdown">Обратно броене</string>
