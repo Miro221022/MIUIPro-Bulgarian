@@ -82,4 +82,5 @@
     <string name="superpower_settings">Ултра пестене на батерия</string>
     <string name="superpower_system">Преповъчано</string>
     <string name="superpower_third">Приложения от трети страни</string>
+	<string name="superpower_exit_hint">Изключване на Ултра пестене на батерията…</string>
 </resources>

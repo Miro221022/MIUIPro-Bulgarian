@@ -1255,7 +1255,7 @@
     <string name="sp_settings_check_item_title_wifi">WLAN</string>
     <string name="sp_settings_check_item_title_root">Root достъп</string>
     <string name="sp_settings_check_item_title_update">Системни актуализации</string>
-    <string name="sp_settings_check_item_title_virus_exception">Вирусни изключения</string>
+    <string name="sp_settings_check_item_title_virus_exception">Изключения</string>
     <string name="sp_settings_check_item_title_sign_exception">Изключения при подпис</string>
     <string name="sp_settings_check_item_summary_virus_exception">Управление на вирусни изключения</string>
     <string name="sp_settings_check_item_summary_sign_exception">Управление на изключенията за подпис</string>
@@ -2761,4 +2761,9 @@
     <string name="pc_statistics_battery_use_hour_minute">%1$dч %2$dм от последното зареждане</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dч %2$dм остава</string>
 	<string name="system_permission_declare_no_say_no_non_mandatory">"Ако решите да не давате необходимите разрешения или не ни позволите да събираме и използваме вашите данни, това приложение няма да може да работи нормално."</string>
+	<string name="pc_search_keywords_battery">Батерия</string>
+    <string name="pc_search_keywords_battery_save">Пестене на батерия</string>
+    <string name="pc_search_keywords_battery_use">Използване на батерията</string>
+    <string name="pc_search_keywords_capacity">Капацитет на батерията</string>
+    <string name="pc_search_keywords_property">Производителност</string>
 </resources>

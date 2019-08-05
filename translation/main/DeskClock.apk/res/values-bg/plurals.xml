@@ -68,4 +68,8 @@
         <item quantity="other">Интервалът за отлагане е променен на %d минути</item>
         <item quantity="one">Интервалът за отлагане е променен на %d минута</item>
     </plurals>
+	  <plurals name="snooze_duration_desc">
+      <item quantity="other">На всеки %1$s минути, изключване %2$s пъти</item>
+      <item quantity="one">На всеки %1$s минути, изключване %2$s път</item>
+   </plurals>
 </resources>

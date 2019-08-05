@@ -311,7 +311,13 @@
   <string name="todo_time_picker_title">Задаване на напомняне</string>
   <string name="todo_user_guide_tip1">Добре дошли в \"Задачи\"!</string>
   <string name="todo_user_guide_tip2">Това е задача. Можете да поставите отметка, за да я завършите.</string>
-  <string name="todo_user_guide_tip3">Натиснете знака плюс, за да създадете задача. Можете също да добавите гласова задача.</string>
-  <string name="todo_user_guide_tip4">Задайте напомняния за задачите си, за да не забравите за тях.</string>
+  <string name="todo_user_guide_tip3">За да редактирате текстова задача, просто я докоснете</string>
+  <string name="todo_user_guide_tip4">"Не забравяйте да създадете пряк път на начален екран за Задачи."</string>
   <string name="todoalert_done">OK</string>
+  <string name="app_notification_info">Бележки работи на заден план</string>
+  <string name="check_in_todo_app">Преглед на задачите</string>
+  <string name="todo_float_permission_open_reminder">Разрешаване на Бележки показване на плаващи прозорци в други приложения, за да могат да използват тази функция.</string>
+  <string name="todo_menu_cancel">Отказ</string>
+  <string name="todo_user_guide_fw_pop">Добавяне на пряк път към началния екран</string>
+  <string name="todo_user_guide_tip5">Останете на върха на играта си и никога не пропускайте нещо важно!</string>
 </resources>

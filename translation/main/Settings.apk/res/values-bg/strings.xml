@@ -6486,4 +6486,22 @@ OTG се изключва автоматично след 10 минути без
 	<string name="color_led_game_mode_summary">Показване на ефекти за игри, когато Game Turbo е включено</string>
     <string name="color_led_special_scene_title">Специални ефекти</string>
 	<string name="color_led_summary">"Не работи в Не ме безпокойте"</string>
+	<string name="full_screen_keyboard_optimization">Подобряване на клавиатурата</string>
+  <string name="input_method_function_clipboard">Буферна памет и чести фрази</string>
+  <string name="input_method_function_clipboard_des">Докоснете, за да видите съдържанието на буферната памет и честите фрази</string>
+  <string name="input_method_function_no_function">Без</string>
+  <string name="input_method_function_no_function_des">"Не показвай никакви преки пътища"</string>
+  <string name="input_method_function_switch">Превключване между клавиатурите</string>
+  <string name="input_method_function_switch_des">Докоснете, за да превключите към друга клавиатура</string>
+  <string name="input_method_function_voice">Гласово въвеждане</string>
+  <string name="input_method_function_voice_des">Докоснете, за да използвате гласово въвеждане</string>
+  <string name="input_method_function_xiaoai">Mi AI гласово въвеждане</string>
+  <string name="input_method_function_xiaoai_des">Докоснете, за да използвате Mi AI гласово въвеждане</string>
+  <string name="left_function_key">Ляв пряк път</string>
+  <string name="normal_bottom_height_of_keyboard">Редовен</string>
+  <string name="power_usage_summary_title_new">Батерия и производителност</string>
+  <string name="raise_bottom_height_of_keyboard">Подобрено</string>
+  <string name="raise_bottom_height_of_keyboard_sub_title">Под клавиатурата, ако преминете в подобрен режим, под клавиатурата ще се появи лента с персонализирани преки пътища</string>
+  <string name="raise_bottom_height_of_keyboard_title">Регулиране на клавиатурата към цял екран</string>
+  <string name="right_function_key">Десен пряк път</string>
 </resources>

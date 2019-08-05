@@ -279,4 +279,47 @@
   <string name="module_update_success_control">Разбрах</string>
   <string name="no_alarm_setting">Няма аларми тук</string>
   <string name="no_worldclock">Няма часовници тук</string>
+  <string name="confirm">Потвърди</string>
+  <string name="life_post_setting_open_background_subtitle">Показване на фонови изображения за свързани аларми</string>
+  <string name="life_post_setting_open_background_title">Показване на фонови изображения</string>
+  <string name="life_post_setting_open_summary">Включване на информация за времето в първата аларма, изключена между 4:00 и 10:00</string>
+  <string name="listen_news_privacy">&lt;Data&gt;За да предостави персонализирани услуги и да включи сутрешните новини във вашите аларми, Часовник трябва да се свърже с интернет. Преди да използвате Часовник, трябва също да прочетете и да се съгласите с нашите &amp;lt;a href=\"%1$s\"&amp;gt;Потребителско споразумение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политика за поверителност&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="module_dialog_negative">"Съгласявам се"</string>
+  <string name="module_dialog_neutral">Разбрах</string>
+  <string name="module_dialog_positive">Приемам</string>
+  <string name="module_download_failure">"Couldn't download audio. Check your network settings and try again."</string>
+  <string name="module_weather_ringtone_download_data">Weather alarm selects different ringtones according to the current weather. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+  <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download &amp;#8776;30MB of audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="module_weather_ringtone_download_wifi">Weather alarm selects different ringtones according to the current weather. Clock needs to download audio to make it work. Download now?</string>
+  <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="module_weather_ringtone_introduce">Weather alarm selects different ringtones according to the current weather. It also allows you to listen to the current weather info in the morning.</string>
+  <string name="module_weather_ringtone_introduce_global">Weather alarm selects different ringtones according to the current weather.</string>
+  <string name="module_weather_ringtone_update_data">Weather alarm now comes with background music and better voice announcements. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+  <string name="module_weather_ringtone_update_success">Weather alarm now comes with background music and better voice announcements. You can turn this feature on in the Clock settings.</string>
+  <string name="module_week_ringtone_download_data">Weekly alarm plays different sounds of nature every day of the week. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+  <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Weekly alarm plays different sounds of nature every day of the week. Clock needs to connect to the internet to download &amp;#8776;30MB of audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_download_wifi">Weekly alarm plays different sounds of nature every day of the week. Clock needs to download audio to make it work. Download now?</string>
+  <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Weekly alarm plays different sounds of nature every day of the week. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_introduce">Weekly alarm plays different sounds of nature every day of the week.</string>
+  <string name="module_week_ringtone_update_data">Weekly alarm plays different sounds of nature every day of the week. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+  <string name="module_week_ringtone_update_success">Weekly alarm comes with background music for each day of the week. You can turn this feature on in the Clock settings.</string>
+  <string name="module_white_noise_download_data">Clock needs to download audio files for ambient noise timers. ≈30MB of your mobile data will be required for this download. Download now?</string>
+  <string name="module_white_noise_download_data_privacy">&lt;Data&gt;"In order to download audio files for ambient noise timers (&amp;#8776;30MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. You're using mobile data now. Agree?"&lt;/Data&gt;</string>
+  <string name="module_white_noise_download_wifi">Clock needs to download audio files for ambient noise timers. Download now?</string>
+  <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;In order to download audio files for ambient noise timers and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; Agree?&lt;/Data&gt;</string>
+  <string name="network_privacy">&lt;Data&gt;In order to get relevant info about local public holidays, adjust alarms, and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="network_privacy_global">&lt;Data&gt;In order to provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="privacy_policy_title">Политика за поверителност</string>
+  <string name="ringtone_other">Още тонове за звънене</string>
+  <string name="ringtone_weather">Мелодии за аларми за времето</string>
+  <string name="ringtone_week">Седмични мелодии за аларма</string>
+  <string name="setting_alarm_arriving_subtitle">Показване на известията преди алармите да се изключат</string>
+  <string name="shutdown_alarm_alert_enable_summary">Алармите за изключване ще изгаснат най-малко 10 минути след като изключите устройството си</string>
+  <string name="shutdown_alarm_alert_title">Изключване на аларма</string>
+  <string name="system_permission_phone_desc">За идентифициране на различни устройства</string>
+  <string name="system_permission_purpose">Аларми, хронометър, таймери, световен часовник</string>
+  <string name="system_permission_storage_desc">За достъп до мелодии за аларма</string>
+  <string name="timer_alert_type_spring_rain">Летен дъжд</string>
+  <string name="volume_button_setting_desc">Задаване на функции за бутоните за звук и включване и изключване</string>
+  <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
 </resources>

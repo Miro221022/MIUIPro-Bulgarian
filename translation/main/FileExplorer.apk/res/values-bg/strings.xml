@@ -835,4 +835,6 @@
   <string name="tab_app">Още</string>
   <string name="text_select_all">Избери на всички</string>
   <string name="text_select_nothing">Откажи всички</string>
+  <string name="hint_switch_to_grid_mode">Превключено към изглед мрежа</string>
+  <string name="hint_switch_to_list_mode">Превключено към изглед списък</string>
 </resources>
