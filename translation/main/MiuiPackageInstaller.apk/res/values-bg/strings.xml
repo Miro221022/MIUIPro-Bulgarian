@@ -659,9 +659,9 @@
     <string name="external_sources_settings_negative">Ограничи</string>
     <string name="external_sources_settings_positive">Разреши</string>
     <string name="intercept_install">Инсталиране</string>
-    <string name="mimarket_install_more">Отидете в Mi App Store, за да инсталирате още приложения</string>
-    <string name="miui_app_permission_detail">Изискващи се разрешения</string>
-    <string name="miui_clear_apk_desc">Премахна %s пакети и остатъци</string>
+    <string name="mimarket_install_more">Отидете в Mi App Store, за още приложения</string>
+    <string name="miui_app_permission_detail">Необходими разрешения</string>
+    <string name="miui_clear_apk_desc">Премахнати са %s пакети и остатъци</string>
     <string name="miui_clear_apks">Автоматично премахване на инсталационни пакети и остатъци</string>
     <string name="miui_failed_solution_1">Деинсталирайте текущата версия на това приложение и инсталирайте приложението отново.</string>
     <string name="miui_failed_solution_2">Инсталационният пакет може да е повреден. Изтеглете приложението отново.</string>
@@ -671,8 +671,8 @@
     <string name="miui_failed_solution_6">Деинсталирайте това приложение във второто пространство и опитайте отново.</string>
     <string name="miui_failed_solution_7">Изтеглете най-новата версия на това приложение в GetApps.</string>
     <string name="miui_solution_msg_2">Решение</string>
-    <string name="pref_key_app_store_summary">Преди инсталиране трябва да изтеглите приложения от защитени източници</string>
-    <string name="pref_key_app_store_title">Препоръчвайте сигурни версии</string>
+    <string name="pref_key_app_store_summary">Напомняне за изтегляне на приложенията от сигурни източници преди инсталиране</string>
+    <string name="pref_key_app_store_title">Препоръки за сигурни версии</string>
     <string name="settings_warning_dialog_detail">"Ще бъдете предупредени в следните случаи:
  "<li>Когато приложението съдържа вируси.</li>"
  "<li>Когато в нашият магазин за приложения е налице по-нова версия на приложението.</li>"
