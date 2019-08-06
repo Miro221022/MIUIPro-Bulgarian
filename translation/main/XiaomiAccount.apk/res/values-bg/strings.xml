@@ -340,7 +340,7 @@
   <string name="passport_register">Създаване на профил</string>
   <string name="passport_register_account_goto_email">Посетете вашата поща</string>
   <string name="passport_register_account_verified_confirm">Профилът е потвърден</string>
-  <string name="passport_register_by_email"><u>Създаване на профил чрез имейл адрес<u></string>
+  <string name="passport_register_by_email"><u>Създаване на профил чрез имейл адрес</u></string>
   <string name="passport_register_restricted">Твърде много профили са свързани към този номер, опитайте с друг</string>
   <string name="passport_register_restricted_title">Този телефонен номер не може да се използва</string>
   <string name="passport_registered_phone_num">Телефон: %s</string>

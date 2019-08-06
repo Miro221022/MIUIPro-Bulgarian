@@ -2,11 +2,9 @@
 <resources>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="activity_not_found">Не бе намерено приложение, което да извърши това действие</string>
-    <string name="allow_network_hint">Моля, включете достъпа до мрежата</string>
     <string name="already_updated">Актуално</string>
     <string name="back_to_message_list">Връщане към списъка със съобщения</string>
     <string name="button_close">Затвори</string>
-    <string name="click_to_update">Кликнете, за да проверите актуализацията</string>
     <string name="cm_privacy_dialog_allow">Съгласен съм</string>
     <string name="cm_privacy_dialog_cancel">Отказ</string>
     <string name="cm_privacy_dialog_spannable_tips">Политика за поверителност</string>
@@ -20,7 +18,6 @@
     <string name="confirm_dialog_title">Изтриване?</string>
     <string name="copy_message_text">Копирай</string>
     <string name="copy_message_text_success">Копирано успешно</string>
-    <string name="current_data_version">Текуща версия на данните</string>
     <string name="delete">Изтрий</string>
     <string name="delete_message">Изтрий</string>
     <string name="from_label">"От: "</string>
@@ -61,8 +58,6 @@
     <string name="sim1">Sim 1</string>
     <string name="sim2">Sim 2</string>
 	<string name="allow_network_hint">Включете \"Автоматично актуализиране на информацията\" или проверете мрежовата връзка</string>
-    <string name="already_updated">Актуално</string>
     <string name="click_to_update">Докоснете, за да проверите за актуализации</string>
     <string name="current_data_version">Версия на Mi Съощения</string>
-    <string name="updating">Актуализиране</string>
 </resources>

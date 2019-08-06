@@ -75,4 +75,5 @@
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">Размер на файла: %.2fКб</item>
         <item quantity="one">Размер на файла: %.2fКб</item>
+		</plurals>
 </resources>
