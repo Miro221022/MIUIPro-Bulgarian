@@ -1555,15 +1555,12 @@
   <string name="movie_audio_summertime">Лято</string>
   <string name="movie_audio_vitality">Жизненост</string>
   <string name="movie_customer_unsupport_audio_file">Неподдържан аудио файл</string>
-  <string name="afternoon">След обяд</string>
-  <string name="am">Преди обяд</string>
   <string name="baby_lock_wallpaper_title">"Използвайте бебешки снимки като тапет за заключен екран"</string>
   <string name="datetimepicker_dialog_title">Промяна на времето</string>
   <string name="datetimepicker_updatetime_failed">"Времето не може да се промени"</string>
   <string name="datetimepicker_updatetime_success">Времето е променено успешно</string>
      <string name="editphoto_datetime_needdownload_origin_subtitle">Изтеглете оригиналния файл от Mi Облак, за да можете да промените времето.</string>
     <string name="editphoto_datetime_needdownload_origin_title">Изтегляне на оригинала</string>
-	<string name="evening">След обяд</string>
 	<string name="filter_single_sky">Вълшебно небе</string>
 	<string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -1620,7 +1617,6 @@
 	<string name="friday">Петък</string>
     <string name="friday_short">Пет</string>
     <string name="friday_shortest">П</string>
-	<string name="midnight">Преди обяд</string>
     <string name="monday">Понеделник</string>
     <string name="monday_short">Пон</string>
     <string name="monday_shortest">П</string>
@@ -1660,10 +1656,6 @@
     <string name="month_september">Септември</string>
     <string name="month_september_short">Сеп</string>
     <string name="month_september_shortest">С</string>
-	<string name="morning">Преди обяд</string>
-	<string name="night">След обяд</string>
-	<string name="noon">След обяд</string>
-	<string name="pm">След обяд</string>
 	<string name="saturday">Събота</string>
     <string name="saturday_short">Съб</string>
     <string name="saturday_shortest">С</string>

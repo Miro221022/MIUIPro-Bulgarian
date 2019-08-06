@@ -12,8 +12,6 @@
     <string name="activate_fail_notification_title">Реактивирайте синхронизирането</string>
     <string name="activating">Активиране…</string>
     <string name="address">Адрес</string>
-    <string name="afternoon">Преди обяд</string>
-    <string name="am">След обяд</string>
     <string name="antispam">Списък с блокирани</string>
     <string name="app_name">Mi Трансфер</string>
     <string name="audio">Звук</string>
@@ -344,7 +342,6 @@
     <string name="dialog_version_summary_tip">Относно актуализацията:</string>
     <string name="dialog_version_title_tip">Налична е актуализация</string>
     <string name="document">Документи</string>
-    <string name="early_morning">Преди обяд</string>
     <string name="earthly_branches_chen">辰</string>
     <string name="earthly_branches_chou">丑</string>
     <string name="earthly_branches_hai">亥</string>
@@ -374,7 +371,6 @@
     <string name="err_version_too_old">Архивираният файл е твърде стар.</string>
     <string name="err_version_unsupported">"Версия на архива не се поддържа."</string>
     <string name="error_permissions">"Това приложение няма разрешения за достъп до Календар. Отидете в Настройки и проверете разрешенията, за да продължите."</string>
-    <string name="evening">След обяд</string>
     <string name="failed_description">Неуспешно</string>
     <string name="faq">ЧЗВ</string>
     <string name="finished">Завършено</string>
@@ -513,7 +509,6 @@
     <string name="main_chooser_item_ios">Импортиране от iOS устройство</string>
     <string name="main_chooser_title">Изберете старо устройство</string>
     <string name="message_request_package_stats_perm">Докоснете \"Продължи\", за да отворите настройките и дайте на Mi Трансфер необходимите разрешения.</string>
-    <string name="midnight">След обяд</string>
     <string name="mms">MMS</string>
     <string name="mms_contacts_calllog">Съобщения, контакти и история на обажданията</string>
     <string name="monday">Понеделник</string>
@@ -556,7 +551,6 @@
     <string name="month_september_short">Сеп</string>
     <string name="month_september_shortest">С</string>
     <string name="more">Още</string>
-    <string name="morning">След обяд</string>
     <string name="name">Име</string>
     <string name="name_password_not_consistent">"Въведеният от вас Apple ID и парола не съвпадат"</string>
     <string name="need_more_memory_cacel">Отказ</string>
@@ -586,7 +580,6 @@
     <string name="new_trans_intro_title_old">"На старото устройство: "</string>
     <string name="new_wait_link_first">Отворете Mi Трансфер на старото си устройство</string>
     <string name="nickname">Потребителско име</string>
-    <string name="night">Преди обяд</string>
     <string name="no_more_memory_title">Няма достатъчно място за съхранение на това устройство, за да започне прехвърляне. Освободете място за съхранение и опитайте отново.</string>
     <string name="no_network">"Не може да се свърже с мрежата"</string>
     <string name="no_sim">Не е открита SIM карта.</string>
