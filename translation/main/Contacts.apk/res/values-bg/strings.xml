@@ -24,7 +24,7 @@
   <string name="add_field">Добави ново поле</string>
   <string name="add_field_toast">Няма повече полета за добавяне.</string>
   <string name="add_incall_show_entry">Добави видео</string>
-  <string name="add_new_account">Добави нов профил</string>
+  <string name="add_new_account">Добавяне на нов профил</string>
   <string name="add_new_entry_for_section">Добави</string>
   <string name="add_organization">Добави организация</string>
   <string name="add_to_my_contacts">Добави в \"Моите контакти\"</string>
@@ -234,7 +234,7 @@
   <string name="contact_edit_title_edit">Редакция на контакта</string>
   <string name="contact_edit_title_insert">Запазване в %s</string>
   <string name="contact_edit_title_readonly">Контакт само за четене</string>
-  <string name="contact_editor_prompt_multiple_accounts">Изберете профил, в който да запазите контакта</string>
+  <string name="contact_editor_prompt_multiple_accounts">Профил за запазване на контакта</string>
   <string name="contact_editor_prompt_one_account">Новият контакт ще бъде синхронизиран с профила ви в %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Вашият нов контакт няма да бъде архивиран. Добавете профил за архивиране онлайн</string>
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
