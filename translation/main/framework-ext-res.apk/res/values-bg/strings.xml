@@ -285,8 +285,8 @@
     <string name="input_method_switch_settings_text">Настройки на клавиатурата</string>
     <string name="input_method_tab_clipboard_text">Буферна памет</string>
     <string name="input_method_tab_phrase_text">Чести фрази</string>
-    <string name="slavewifi">Двойна WLAN</string>
+    <string name="slavewifi">Двулентова WLAN</string>
     <string name="slavewifi_disconnect">Прекъсване на връзката</string>
-    <string name="slavewifi_notification_title">Двойно WLAN ускорение</string>
-    <string name="slavewifi_settings">Докоснете, за да промените конфигурацията</string>
+    <string name="slavewifi_notification_title">Използване на двулентова WLAN</string>
+    <string name="slavewifi_settings">Докоснете, за да промените настройките</string>
 </resources>

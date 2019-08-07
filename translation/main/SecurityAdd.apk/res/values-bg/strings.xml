@@ -83,4 +83,7 @@
     <string name="superpower_system">Преповъчано</string>
     <string name="superpower_third">Приложения от трети страни</string>
 	<string name="superpower_exit_hint">Изключване на Ултра пестене на батерията…</string>
+    <string name="gamebooster_network_dialog_message">Да се позволи ли на Сигурност да се свърже с мрежата, за да се използват всички функции на ускорителя за игри?</string>
+    <string name="gamebooster_network_dialog_title">"Някои функции не са налични"</string>
+    <string name="gdpr_msg">&lt;Data&gt;"За да използвате основните функции на Сигурност, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни, включително информация за начините, по които използвате функциите на Сигурност (например статистика за използване на мобилни данни, информация за злонамерен софтуер, както и основна информация за вашето устройство) и други видове информация, посочени в нашата &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Политика за поверителност&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
 </resources>
