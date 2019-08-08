@@ -1765,4 +1765,8 @@
     <string name="modem_setting_info">ИНФОРМАЦИЯ ЗА НАСТРОЙКА НА МОДЕМА</string>
     <string name="modem_setting_text_title">тест на настройката на модема</string>
     <string name="pci_num">lte pci num</string>
+	<string name="location">Район</string>
+	<string name="operator">Оператор</string>
+	<string name="smsc_dialog_message">"Уверете се, че въведеният от вас номер е правилен. В противен случай няма да можете да изпращате или получавате SMS. Свържете се с вашия оператор, за да потвърдите вашия SMSC номер."</string>
+	
 </resources>

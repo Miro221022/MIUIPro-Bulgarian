@@ -72,4 +72,25 @@
     <string name="noheadset_dialog_insert">Включете слушалки</string>
     <string name="noheadset_dialog_more">Слушайте още радиа</string>
 	<string name="fm_browser_label">FM Радио</string>
+	<string name="author_other_albums">"Други албуми на автора"</string>
+    <string name="author_other_albums_empty">"Авторът все още не е качил друг албум"</string>
+	<string name="detail">Подробности</string>
+	<string name="menu_online_service">Онлайн услуга</string>
+	<string name="news_not_interest_positive">Не се интересувам</string>
+	<string name="online_service_dialog_message">Изключването на онлайн съдържание ще повлияе на всички онлайн препоръки и синхронизации, ще потвърдите ли затварянето?</string>
+    <string name="online_service_dialog_title">Онлайн услуга</string>
+	<string name="online_service_switch">Онлайн услуга</string>
+	<string name="open_online_service_tip">Онлайн услугата е активирана</string>
+	<string name="play_speed">Скорост на изпълнение</string>
+	<string name="sleep_mode_cancel">Отказ</string>
+	<string name="sleep_mode_ok">Ok</string>
+    <string name="sleep_mode_one">изпълнява се сега</string>
+    <string name="sleep_mode_three">изпълнени три песни</string>
+    <string name="sleep_mode_two">изпълнени две песни</string>
+    <string name="sleep_mode_warning">Плейърът ще спре след %1$d</string>
+    <string name="spammy_contents">Спам</string>
+    <string name="speed">"Скорост "</string>
+    <string name="thanks_for_feedback">Благодарим ви за отзивите!</string>
+    <string name="unable_to_play">"Не може да се изпълни"</string>
+    <string name="view_all_news">Преглед на всички новини</string>
 </resources>
