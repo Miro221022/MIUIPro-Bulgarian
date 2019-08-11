@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="additional_permissions_more">
-        <item quantity="other">И още %1$d</item>
-        <item quantity="one">И още %1$d</item>
+        <item quantity="other">и още %1$d</item>
+        <item quantity="one">и още %1$d</item>
     </plurals>
     <plurals name="miui_permission_detail">
         <item quantity="other">%d разрешения</item>
