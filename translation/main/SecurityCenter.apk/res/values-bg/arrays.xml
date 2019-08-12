@@ -106,4 +106,12 @@
         <item>Дневен план за данни</item>
         <item>Неограничен план за данни</item>
     </string-array>
+	    <string-array name="pc_settings_thermal_entries">
+        <item>По подразбиране</item>
+        <item>Приоритет за производителността</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Използване на режим за температурата по подразбиране</item>
+        <item>Приоритет за производителността</item>
+    </string-array>
 </resources>

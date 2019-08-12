@@ -595,4 +595,5 @@
     <string name="delete_description">Изтриване</string>
     <string name="deselect_all_description">Откажи всичко</string>
     <string name="select_all_description">Избери всичко</string>
+	<string name="search_action_mode_cancel">Отказ</string>
 </resources>

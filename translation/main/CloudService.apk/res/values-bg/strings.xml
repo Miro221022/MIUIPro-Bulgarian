@@ -703,4 +703,9 @@
   <string name="cloud_storage_info_type_others">Други</string>
   <string name="cloud_storage_manage_title">Управление на облачното пространство</string>
   <string name="data_protection_title">Защита на данните</string>
+  <string name="pre_privacy_policy">Политика за поверителност</string>
+  <string name="pre_user_agreement">Потребителско споразумение</string>
+  <string name="privacy_and_agreement">Поверителност и споразумение</string>
+  <string name="sync_normal_summary">"Някои елементи от списъка по-долу не могат да бъдат синхронизирани"</string>
+  <string name="sync_normal_title">"Синхронизирането не може да завърши"</string>
 </resources>

@@ -951,7 +951,7 @@
     <string name="om_ill_proc_type_radio_title">Това приложение търси връзка с мрежата прекалено често и изразходва много батерия</string>
     <string name="om_ill_proc_type_radio_detail">Поправка на проблеми със свързване към мрежата</string>
     <string name="om_ill_proc_activity_title">Проблеми</string>
-    <string name="power_center_title">Оптимизация на батерията</string>
+    <string name="power_center_title">Батерия и производителност</string>
     <string name="power_center_back">Назад</string>
     <string name="power_center_auto_shutdown">Превключвател</string>
     <string name="power_center_ontime_boot">Включване по график</string>
@@ -2400,7 +2400,7 @@
     <string name="handle_title_system">Използване на батерията от системата</string>
     <string name="hide_mode_result_summary_text">Персонализиране на настройките за пестене на батерията за отделни приложения</string>
     <string name="pc_main_activity_back">Назад</string>
-    <string name="pc_settings_title">Настройки за оптимизация на батерията</string>
+    <string name="pc_settings_title">Настройки за батерия и производителност</string>
     <string name="power_center_hints_scan_danger_result">Можете да поправите проблеми с батерията сега</string>
     <string name="power_center_list_item_auto_brightness">Настройте автоматична яркост на екрана</string>
     <string name="power_center_list_item_battery_status_capacity">мАч</string>
@@ -2766,4 +2766,13 @@
     <string name="pc_search_keywords_battery_use">Използване на батерията</string>
     <string name="pc_search_keywords_capacity">Капацитет на батерията</string>
     <string name="pc_search_keywords_property">Производителност</string>
+	<string name="battery_and_property">Батерия и производителност</string>
+	<string name="power_setting_config_scenario_policies_title">Действия</string>
+    <string name="power_setting_features">Специални функции</string>
+    <string name="power_setting_important_warning">Внимание</string>
+    <string name="power_setting_scenario_policies_summary">Определяне на действия за автоматично превключване между режимите за пестене на батерията</string>
+    <string name="power_setting_warm_configure">Контрол на температурата</string>
+    <string name="power_setting_warm_performance_tip">Действията, които изискват висока консумация на енергия, ще повишат температурата на вашето устройство над нивата на режима за регулиране на температурата по подразбиране.</string>
+    <string name="power_setting_wireless_reverse_charging_summary">Зареждане на съвместими устройства безжично</string>
+    <string name="power_setting_wireless_reverse_charging_title">Обратно безжично зареждане</string>
 </resources>

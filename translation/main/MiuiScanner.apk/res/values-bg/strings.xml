@@ -70,7 +70,7 @@
     <string name="feedback_description_save_photo">Не може да се запази снимка или видео</string>
     <string name="flash_lable">Светкавица</string>
     <string name="import_contact">Вмъкване на контакт</string>
-    <string name="impunity_declaration_content">"Скенер трябва да използва вашата камера и да обработва изображенията, които заснемате, докато използвате приложението. Не използвайте скенер, за да правите снимки на обекти, съдържащи вашата лична информация. Чрез избирането на \"Съгласявам се\", вие ще се съгласите с нашата &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Политика за поверителност&lt;/a&gt;&lt;/font&gt; и разрешавате на Скенер да има достъп до интернет."</string>
+    <string name="impunity_declaration_content">"Скенер трябва да използва вашата камера и да обработва изображенията, които заснемате, докато използвате приложението. Не използвайте Скенер, за да правите снимки на обекти, съдържащи ваша лична информация. Чрез докосването на \"Съгласен съм\", вие се съгласявате с нашата &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Политика за поверителност&lt;/a&gt;&lt;/font&gt; и разрешавате на Скенер да се свърже с интернет."</string>
     <string name="impunity_declaration_negative_text">Изход</string>
     <string name="impunity_declaration_title">Политика за поверителност</string>
     <string name="label_choose_picture">Изберете изображение</string>
@@ -265,4 +265,6 @@
     <string name="abc_toolbar_collapse_description">Свиване</string>
     <string name="search_menu_title">Търсене</string>
 	<string name="business_card_with_qr_code">Поставете визитката или QR кода в рамката</string>
+	<string name="wifi_psd_toolong">Паролата е твърде дълга. Въведете я ръчно.</string>
+	<string name="wx_not_installed_toast">Тази функция трябва да използва WeChat. Инсталирайте първо WeChat.</string>
 </resources>
