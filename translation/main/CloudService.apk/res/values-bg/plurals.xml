@@ -81,8 +81,8 @@
         <item quantity="one">преди %s час</item>
     </plurals>
 	<plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s услуги ще бъдат синхронизирани с Mi Облак</item>
-        <item quantity="one">%s услуга ще бъде синхронизирана с  Mi Облак</item>
+        <item quantity="other">%s услуги ще бъдат синхронизирани с Xiaomi Облак</item>
+        <item quantity="one">%s услуга ще бъде синхронизирана с  Xiaomi Облак</item>
     </plurals>
 	    <plurals name="dirty_phrase_count">
         <item quantity="other">%d чести фрази</item>

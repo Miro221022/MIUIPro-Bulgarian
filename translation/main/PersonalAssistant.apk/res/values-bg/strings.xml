@@ -122,7 +122,7 @@
   <string name="card_expand_note_toast_clear_null">Изчистено успешно</string>
   <string name="card_expand_note_toast_save_done">Запазено в Бележки</string>
   <string name="card_expand_note_toast_save_dup">Запазено успешно</string>
-  <string name="card_hint_noteboard">Чукнете тук за нова бележка.</string>
+  <string name="card_hint_noteboard">Докоснете тук за нова бележка.</string>
   <string name="card_menu_edit">Редактиране</string>
   <string name="card_menu_setting">Настройки</string>
   <string name="card_note_finish">Готово</string>
@@ -670,7 +670,7 @@
   <string name="payment_pref_source_mms_summary">Получавайте информация за плащане от текстови съобщения</string>
   <string name="payment_pref_source_wechat_summary">Получете информация за плащане от WeChat</string>
   <string name="payment_privacy_dialog_cancel">Изход</string>
-  <string name="payment_privacy_dialog_message">\'\'Моите плащания\'\' ви позволява да събирате сметки от големи приложения за плащане на едно място. Цялата информация за плащане ще бъде шифрована и сигурно съхранена на устройството ви. Той няма да бъде синхронизиран с Mi Облак или качен на друг сървър. Можете да изключите \'\'Моите плащания\'\' в Настройки или просто да премахнете тази карта от Личен асистент, за да престанете да използвате тази услуга. Съгласен ли сте?</string>
+  <string name="payment_privacy_dialog_message">\'\'Моите плащания\'\' ви позволява да събирате сметки от големи приложения за плащане на едно място. Цялата информация за плащане ще бъде шифрована и сигурно съхранена на устройството ви. Той няма да бъде синхронизиран с Xiaomi Облак или качен на друг сървър. Можете да изключите \'\'Моите плащания\'\' в Настройки или просто да премахнете тази карта от Личен асистент, за да престанете да използвате тази услуга. Съгласен ли сте?</string>
   <string name="payment_privacy_dialog_ok">Съгласен</string>
   <string name="payment_privacy_dialog_title">\'\'Моите плащания\'\' Политика за поверителност</string>
   <string name="payment_record_add">Добави плащане</string>

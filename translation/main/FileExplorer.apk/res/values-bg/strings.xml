@@ -393,7 +393,7 @@
   <string name="operation_deleting">Изтриване…</string>
   <string name="operation_favorite">Добави в любими</string>
   <string name="operation_hide_sys">"Не показвай скрити файлове"</string>
-  <string name="operation_info">Детайли</string>
+  <string name="operation_info">Подробности</string>
   <string name="operation_like">Любимо</string>
   <string name="operation_move">Премести</string>
   <string name="operation_moving">Преместване…</string>
@@ -406,7 +406,7 @@
   <string name="operation_reply">Коментар</string>
   <string name="operation_send">Изпрати</string>
   <string name="operation_share">Споделяне</string>
-  <string name="operation_show_sys">Покажи скритите файлове</string>
+  <string name="operation_show_sys">Показване на скритите файлове</string>
   <string name="operation_unfavorite">Премахни от любими</string>
   <string name="original_user_desc">Качвайте оригинални видеоклипове редовно, за да се сдобиете със статус Създател</string>
   <string name="original_user_qq_group">Присъединете се към Отбор талант и QQ групата</string>
@@ -557,8 +557,8 @@
   <string name="send_to_weixin">Изпрати към WeChat</string>
   <string name="server_control_advanced_settings">Разширени настройки</string>
   <string name="server_control_charset">Кодировки</string>
-  <string name="server_control_settings">Настройка</string>
-  <string name="server_error">Грешка в сървъра. Опитайте по-късно (Error %s).</string>
+  <string name="server_control_settings">Настройки</string>
+  <string name="server_error">Грешка в сървъра. Опитайте по-късно (Грешка %s).</string>
   <string name="set_pattern">Паролата беше успешно променена</string>
   <string name="set_pattern_btn">Настройка на защитата</string>
   <string name="set_pattern_msg">Настройте паролата отново. Паролата за защита на личните данни може да се използва и за снимките и съобщенията.</string>

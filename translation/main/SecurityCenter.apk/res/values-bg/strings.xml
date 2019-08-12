@@ -382,7 +382,7 @@
     <string name="firewall_fragment_nonesys_listempty">Празно</string>
     <string name="firewall_restrict_notify_title">%s не може да използва мрежата</string>
     <string name="firewall_network_restrict_notify_mobile">Мобилни данни</string>
-    <string name="firewall_network_restrict_notify_message">Чукнете за промяна на настройките.</string>
+    <string name="firewall_network_restrict_notify_message">Докоснете за промяна на настройките.</string>
     <string name="firewall_restrict_android_dialog_title">Внимание</string>
     <string name="firewall_restrict_android_dialog_content">За да може устройството ви да работи нормално, няколко системни за Андроид приложения все още ще се свързват с интернет. Тези приложения ще използват мобилни данни и може да генерират малки такси към вашия оператор.</string>
     <string name="background_restrict_app_dialog_message">Ограничаването на мрежовия достъп на заден план за това приложение може да доведе до неправилната работа на приложението, получаване на съобщения, изтегляне на съдържание и т.н. Ограничаване въпреки това?</string>
@@ -522,7 +522,7 @@
     <string name="data_usage_leisure_warning_body">Докоснете за преглед на употребата на данни.</string>
     <string name="data_usage_correction_timeout_title">Грешка при синхронизиране на данните</string>
     <string name="data_usage_no_total_package_title">Употреба на данни</string>
-    <string name="data_usage_no_total_package_body">Чукнете, за да настроите лимит</string>
+    <string name="data_usage_no_total_package_body">Докоснете, за да настроите лимит</string>
     <string name="data_usage_no_total_package_body_dual">Няма зададен лимит за данни за %s</string>
     <string name="data_usage_warning_title_notify">Надвишихте лимита си за данни</string>
     <string name="data_usage_warning_body_notify">Докоснете за преглед на детайли</string>
@@ -552,7 +552,7 @@
     <string name="traffic_correction_failed">Не може да се получи информация за трафика на данни</string>
     <string name="traffic_correction_success_notify_message">Показване на детайлите.</string>
     <string name="sim_location_error_notify_title">Грешка в SIM картата</string>
-    <string name="sim_location_error_notify_message">Чукнете за промяна на локацията на SIM картата.</string>
+    <string name="sim_location_error_notify_message">Докоснете за промяна на локацията на SIM картата.</string>
     <string name="sim_location_error_dialog_message">Използваната от вас SIM е от %1$s. Това е различно от локацията, която сте задали ръчно (%2$s). Промяна на локацията на SIM на %3$s?</string>
     <string name="package_change_notification_title">Авт. регулиране на лимита за данни</string>
     <string name="package_change_notification_summary">Научете повече.</string>
@@ -649,7 +649,7 @@
     <string name="dialog_roaming_message">Оператора ще ви начисли допълнителни такси за данни в роуминг.</string>
     <string name="add_to_whitelist_button">Изключения</string>
     <string name="roaming_not_start_title">Международен роуминг</string>
-    <string name="roaming_not_start_body">Чукнете за преглед на настройките за роуминг на данни.</string>
+    <string name="roaming_not_start_body">Докоснете за преглед на настройките за роуминг на данни.</string>
     <string name="roaming_start_title">Международен роуминг</string>
     <string name="roaming_start_body">Докоснете за преглед на изключенията при межд. роуминг на данни.</string>
     <string name="dialog_app_roaming_title">Междунардният роуминг не е активиран за %1$s</string>
@@ -685,8 +685,8 @@
     <string name="pref_normal_traffic_limit">Когато планът за данни е изразходван</string>
     <string name="pref_over_traffic_limit">Когато сте надвишили вашия лимит за данни</string>
     <string name="traffic_warning_purchase_title">Известие за използвани данни</string>
-    <string name="traffic_purchase_body">Чукнете, за да добавите данни.</string>
-    <string name="traffic_over_purchase_link">"Достигнахте лимита си за мобилни данни. &lt;br/>Ако надвишите лимита на използваните данни, опаратора ви може да начисли допълнителни такси.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Чукнете, за да увеличите размера на данни.&lt;/U>&lt;/font>"</string>
+    <string name="traffic_purchase_body">Докоснете, за да добавите данни.</string>
+    <string name="traffic_over_purchase_link">"Достигнахте лимита си за мобилни данни. &lt;br/>Ако надвишите лимита на използваните данни, опаратора ви може да начисли допълнителни такси.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Докоснете, за да увеличите размера на данни.&lt;/U>&lt;/font>"</string>
     <string name="more_settings">Още</string>
     <string name="repair_loading_text">Един момент…</string>
     <string name="network_diagnostics">Тест на мрежата</string>
@@ -733,7 +733,7 @@
     <string name="notify_month_traffic_body">Задайте лимит от данни, за да избегнете надвишаване на месечния си план за данни.</string>
     <string name="notify_daily_limit_title">Използвани днес %s</string>
     <string name="notify_daily_limit_title_for_slotnum">%1$s използвани %2$s днес</string>
-    <string name="notify_daily_limit_body">Чукнете, за да зададете лимит от данни.</string>
+    <string name="notify_daily_limit_body">Докоснете, за да зададете лимит от данни.</string>
     <string name="network_blocked_notification_summary">Тест на мрежата</string>
     <string name="network_blocked_switch_wifi">Сменете мрежата</string>
     <string name="wifi_network_blocked_notification_title">Няма връзка с интернет</string>
@@ -1521,7 +1521,7 @@
     <string name="empty_title_manual_item_white_list">Празно</string>
     <string name="title_cloud_account">Впишете се в Mi профила си</string>
     <string name="summary_cloud_account">За да получите достъп до всички услуги, впишете се с Mi профила си.</string>
-    <string name="title_cloud_service">Mi Облак</string>
+    <string name="title_cloud_service">Xiaomi Облак</string>
     <string name="summary_cloud_service">Синхронизирайте снимките, контактите и още на всичките ви устройства</string>
     <string name="title_network_switch">Мрежа</string>
     <string name="summary_network_switch">Позволете мобилни данни при използване на Сигурност</string>

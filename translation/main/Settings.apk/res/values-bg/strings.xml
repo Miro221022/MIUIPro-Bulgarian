@@ -328,7 +328,7 @@
     <string name="privacy_authorize_revoke_failed">Разрешението не може да бъде отменено</string>
     <string name="privacy_authorize_success">Успешно е дадено разрешение</string>
     <string name="privacy_authorize_revoking">Отмяна на разрешението…</string>
-    <string name="privacy_authorize_cloud_msg">За да гарантирате сигурността на профила си, влезте в системата на i.mi.com, ако искате да отмените разрешението на Mi Облак услугите (включително синхронизация и архивиране).</string>
+    <string name="privacy_authorize_cloud_msg">За да гарантирате сигурността на профила си, влезте в системата на i.mi.com, ако искате да отмените разрешението на Xiaomi Облак услугите (включително синхронизация и архивиране).</string>
     <string name="status_bar_and_notification_bar">Лента с известия и статус лента</string>
     <string name="status_bar_settings_manage_notification">Управление на известията</string>
     <string name="status_bar_settings_all_app_display_loading">Един момент…</string>
@@ -3690,7 +3690,7 @@
     <string name="search_privacy_settings">Резервно копие и нулиране;Резервно копие и нулиране;Резервно копие</string>
     <string name="search_local_backup_section_title">Локални резервни копия</string>
     <string name="search_local_auto_backup_section_title">Автоматично създаване на резервни копия;Автоматични резервни копия;Създай автоматично резервно копие</string>
-    <string name="search_cloud_restore_section_title">Възстановяване от Mi Облак</string>
+    <string name="search_cloud_restore_section_title">Възстановяване от Xiaomi Облак</string>
     <string name="search_cloud_backup_settings_section_title">Настройки за рез. копие</string>
     <string name="search_master_clear_title">Възстановяване на заводските настройки</string>
     <string name="search_development_settings_title">Опции на програмиста;Подпомагане</string>
@@ -3730,7 +3730,7 @@
     <string name="upload_debug_log_summary">Статистическите данни за употреба, които ни помагат да открием и разрешим проблеми, може да съдържат вашата лична информация.</string>
     <string name="sound_vibrate_settings">Звук и вибрация</string>
     <string name="settings_notify_phone_recycled">Вашият телефонен номер е невалиден. Чукнете, за да добавите друг номер.</string>
-    <string name="settings_notify_need_backup">Направете резервно копие на вашите настройки в Mi Облак за да имате достъп до тях, след като смените телефоните.</string>
+    <string name="settings_notify_need_backup">Направете резервно копие на вашите настройки в Xiaomi Облак за да имате достъп до тях, след като смените телефоните.</string>
     <string name="model_name">Модел</string>
     <string name="my_device">Моето устройство</string>
     <string name="device_miui_version">Версия на MIUI</string>
@@ -3802,7 +3802,7 @@
     <string name="no_account_found">Не може да се намерят приложения, които да добавят профили</string>
     <string name="xiaomi_cloud_service_disabled">Изключено</string>
     <string name="xiaomi_cloud_service_unknown">Непознат</string>
-    <string name="xiaomi_cloud_service_description">Mi Облак синхронизира вашите контакти и снимки, архивира вашите приложения и настройки и ви помага да намерите телефона си с помощта на Открий устройството.</string>
+    <string name="xiaomi_cloud_service_description">Xiaomi Облак синхронизира вашите контакти и снимки, архивира вашите приложения и настройки и ви помага да намерите телефона си с помощта на Открий устройството.</string>
     <string name="sure_sync_now">Синхронизиране на елементите сега?</string>
     <string name="sync_now">Синхронизирай</string>
     <string name="suggestion_for_phone_recycled">Добавете друг телефонен номер</string>
@@ -4343,7 +4343,7 @@
     <string name="wifi_tether_setting_title">Основни настройки</string>
     <string name="audio_profile_settings_title">Аудио профили</string>
     <string name="enable_wifi_display">Включване на безжичен дисплей</string>
-    <string name="xiaomi_cloud_service">Mi Облак</string>
+    <string name="xiaomi_cloud_service">Xiaomi Облак</string>
     <string name="xiaomi_money_service">Mi Credit</string>
     <string name="wifi_auto_connect">Автоматично свързване</string>
     <string name="select_ssid_type_title">Тип на мрежовата връзка</string>
@@ -4559,12 +4559,12 @@
     <string name="google_backup_enable">Включване на резервни копия</string>
     <string name="local_auto_backup_on">Включено</string>
     <string name="local_auto_backup_off">Изключено</string>
-    <string name="cloud_backup_section_title">Резервно копие в Mi Облак</string>
-    <string name="cloud_restore_section_title">Възстановяване от Mi Облак</string>
+    <string name="cloud_backup_section_title">Резервно копие в Xiaomi Облак</string>
+    <string name="cloud_restore_section_title">Възстановяване от Xiaomi Облак</string>
     <string name="cloud_restore_section_summary">Възстановяване на системните настройки, подредба на Начален екран и приложения</string>
     <string name="cloud_backup_settings_section_title">Настройки за резервно копие</string>
     <string name="login_account_dialog_title">Влезте с Mi профил</string>
-    <string name="login_account_dialog_message">Впишете се с вашия Mi профил, за да включите синхронизацията с Mi Облак.</string>
+    <string name="login_account_dialog_message">Впишете се с вашия Mi профил, за да включите синхронизацията с Xiaomi Облак.</string>
     <string name="login_action">Влезте</string>
     <string name="other_personal_settings">Допълнителни настройки</string>
     <string name="other_advanced_settings">Допълнителни настройки</string>
@@ -6449,7 +6449,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="notch_style_status_bar_outside">Скриване и преместване на лентата на състоянието</string>
 	<string name="lock_screen_settings_title">Заключен екран</string>
     <string name="xiaomi_cloud_service_description_contact">контакти и</string>
-    <string name="xiaomi_cloud_service_description_format">Mi Облак синхронизира вашите %s снимки, архивира вашите приложения и настройки и ви помага да намерите телефона си с помощта на Открий устройство.</string>
+    <string name="xiaomi_cloud_service_description_format">Xiaomi Облак синхронизира вашите %s снимки, архивира вашите приложения и настройки и ви помага да намерите телефона си с помощта на Открий устройство.</string>
 	<string name="wireless_charging_settings">Зареждайте други устройства безжично</string>
     <string name="wireless_opened">Включено</string>
     <string name="wireless_closed">Изключено</string>
