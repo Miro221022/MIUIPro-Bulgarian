@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="bluetooth_connected">Свързан%1$s</string>
+  <string name="bluetooth_connected">Свързан %1$s</string>
   <string name="bluetooth_connected_no_a2dp">Свързан (без мултимедия) %1$s</string>
   <string name="bluetooth_connected_no_headset">Свързан (без телефон) %1$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (без телефон или мултимедия) %1$s</string>

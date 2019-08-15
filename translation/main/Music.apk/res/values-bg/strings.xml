@@ -1144,4 +1144,21 @@
    <string name="unable_to_play">"Не може да се изпълни"</string>
    <string name="view_all_news">Преглед на всички новини</string>
    <string name="widget_title">Намерете любимите си песни в Mi Music</string>
+   <string name="delete_file_error">"Файлът не може да бъде изтрит"</string>
+   <string name="dialog_my_playlist_set_to_public">Споделяне на този плейлист с всички потребители на Mi Music и Hungama music</string>
+   <string name="error_not_support">Не се поддържа</string>
+   <string name="failed_not_access_sd_card">Първо разрешете достъп до SD картата</string>
+   <string name="failed_obtain_permissions">"Не могат да се получат разрешения"</string>
+   <string name="floating_view_dialog_desc">Музиката ще спре да се изпълнява, ако излезете от тази страница. Излизане?</string>
+   <string name="floating_view_dialog_leave">Излизане</string>
+   <string name="floating_view_dialog_stay">Оставане</string>
+   <string name="floating_view_dialog_title">Излизане от страницата?</string>
+   <string name="home_tab_home">Начало</string>
+   <string name="home_tab_more_music">Още музика</string>
+   <string name="home_tab_search">Търсене</string>
+   <string name="not_support_documentui">"Файлове не се поддържа на това устройство"</string>
+   <string name="search_more">Още</string>
+   <string name="song_already_in_playlist">Тази песен вече е на опашката</string>
+   <string name="song_is_added_to_playlist">Добавено към опашката</string>
+   <string name="storage_cloned_app">Хранилище за клонирани приложения</string>
 </resources>

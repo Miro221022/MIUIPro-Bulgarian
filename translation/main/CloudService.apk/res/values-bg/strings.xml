@@ -138,7 +138,8 @@
     <string name="micloud_more">Научете повече</string>
     <string name="xiaomi_cloud_service">Xiaomi Облак</string>
     <string name="xiaomi_cloud_service_subtitle">Всички важни елементи на едно място</string>
-    <string name="micloud_dspt">Използвайте Xiaomi Облак за синхронизиране на данни, локализиране на устройство ви</string>
+    <string name="micloud_dspt">"Синхронизирайте вашите контакти, съобщения, история на обажданията и други елементи на всички устройства.
+Намерете и заключете устройството си в случай, че го изгубите."</string>
     <string name="cmcc_micloud_dspt">Използвайте Xiaomi Облак за синхронизиране на данни, локализиране на устройството ви,</string>
     <string name="micloud_sec_dspt">и споделяйте неща с приятелите си.</string>
     <string name="micloud_dspt_provision">Използвайте Xiaomi Облак за синхронизиране на данни, локализиране на устройство ви и споделяне на съдържание с приятели.</string>
@@ -146,7 +147,7 @@
     <string name="micloud_single_dspt">Използвайте Xiaomi Облак за синхронизиране на данни, локализиране на устройството ви и споделяне на съдържание с приятели.</string>
     <string name="micloud_proceed">Продължи</string>
     <string name="master_alert_notif_title">Включете Xiaomi Облак</string>
-    <string name="master_alert_notif_content">данните не са синхронизирани</string>
+    <string name="master_alert_notif_content">Архивирайте елементите редовно, за да не загубите нещо важно</string>
     <string name="sub_alert_notif_title">Синхронизиране с Xiaomi Облак</string>
     <string name="sub_alert_notif_content">Включете синхронизирането с Xiaomi Облак, за да архивирате данните си</string>
     <string name="noRemind">Не напомняй</string>

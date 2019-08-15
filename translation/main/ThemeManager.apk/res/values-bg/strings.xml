@@ -786,4 +786,16 @@
    <string name="wallpaper_online_no_more">"Това е всичко за сега"</string>
    <string name="wallpaper_online_tip">Свържете се с мрежата, за да видите още елементи</string>
    <string name="wallpaper_static">Статичен</string>
+   <string name="author_attention">Последване</string>
+   <string name="author_attention_success">Последвано успешно</string>
+   <string name="author_dialog_message">Да не се следва този профил вече?</string>
+   <string name="author_dynamic">Състояние</string>
+   <string name="author_dynamic_no_resource">"Не са намерени резултати"</string>
+   <string name="detail_author_attention_head">Следвайте някои от най-забележителните ни дизайнери</string>
+   <string name="detail_author_fans">"Последователи: "</string>
+   <string name="detail_author_works">"Елементи: "</string>
+   <string name="resource_apply_trial">Приложи</string>
+   <string name="resource_download_trial">Опитай</string>
+   <string name="wallpaper_no_favorite">Тук все още няма елементи.</string>
+   <string name="wallpaper_no_record">Тук все още няма елементи.</string>
 </resources>

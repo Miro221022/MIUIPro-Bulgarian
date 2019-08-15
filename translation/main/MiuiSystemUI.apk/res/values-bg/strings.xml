@@ -617,7 +617,7 @@
   <string name="fingerprint_try_again_text">Опитай отново</string>
   <string name="float_incall_ignore">Игнорирай</string>
   <string name="float_incall_message">Съобщение</string>
-  <string name="force_allow_on_external">Принуждаване на приложенията да пишат на външното хранилище</string>
+  <string name="force_allow_on_external">Принуждаване приложенията да пишат на външното хранилище</string>
   <string name="force_allow_on_external_summary">Настройте приложенията да могат да бъдат записвани на външното хранилище</string>
   <string name="force_hw_ui">Задаване на видео рендериране</string>
   <string name="force_hw_ui_summary">Принудително използване на CPU за 2D начертаване</string>
@@ -1867,4 +1867,6 @@
    <string name="recents_dimiss_task">Изчисти</string>
    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Не можете да превключвате между пространствата, когато е включена функцията за ултра пестене на батерия"</string>
    <string name="gxzw_add_fingerprint_area">Скенер за пръстови отпечатъци</string>
+   <string name="description_image_button_bubble_answer">Speaker</string>
+   
 </resources>

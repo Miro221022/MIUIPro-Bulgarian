@@ -114,4 +114,8 @@
         <item>Използване на режим за температурата по подразбиране</item>
         <item>Приоритет за производителността</item>
     </string-array>
+	    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Да</item>
+        <item>Не</item>
+    </string-array>
 </resources>

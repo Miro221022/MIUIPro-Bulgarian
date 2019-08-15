@@ -214,4 +214,6 @@
     <string name="makewishes">Пожелания за рожден ден</string>
     <string name="robot">Робот</string>
     <string name="surprise">Изненада</string>
+	<string name="birdcicada_preview">Природен звук 2</string>
+	<string name="waterdrop_preview">Природен звук 1</string>
 </resources>

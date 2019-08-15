@@ -574,4 +574,11 @@ ID:%s
   <string name="need_install_wechat">Инсталирайте WeChat първо</string>
   <string name="google">Google</string>
   <string name="bind_google">Свържете Google профила си</string>
+  <string name="two_factor_auth">Двуфакторно удостоверяване</string>
+  <string name="two_factor_auth_click_confirm">Потвърдете, за да влезете</string>
+  <string name="two_factor_auth_click_confirm_summary">"Ще видите известие на други свързани Mi устройства. Докоснете известието, за да разрешите влизането на ново устройство."</string>
+  <string name="two_factor_auth_method">Метод за удостоверяване</string>
+  <string name="two_factor_auth_need_code">Въведете код</string>
+  <string name="two_factor_auth_need_code_summary">"Ще видите кода на други свързани Mi устройства. Въведете този код на ново устройство, за да влезете."</string>
+  <string name="two_factor_auth_summary">"Когато се опитате да влезете на ново устройство или на ново място, ще бъдете уведомени за това на другите свързани устройства. Ще трябва да потвърдите дали такива опити за влизане са разрешени от вас."</string>
 </resources>

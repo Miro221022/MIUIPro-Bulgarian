@@ -84,6 +84,7 @@
         <item>Сняг</item>
     </string-array>
      <string-array name="pref_navscreen_layoutstate_choices">
+	    <item>Изглед като плочка</item>
         <item>Вертикален изглед</item>
         <item>Хоризонтален изглед</item>
      </string-array>
@@ -100,4 +101,14 @@
         <item>Отваряне</item>
         <item>Затваряне</item>
     </string-array>
+	    <string-array name="pref_homepage_choices_with_simplehome">
+        <item>Начална страница по подразбиране</item>
+        <item>Чиста начална страница</item>
+        <item>Персонализирано</item>
+    </string-array>
+	    <string-array name="quick_link_tabs">
+        <item>Отметки</item>
+        <item>История</item>
+    </string-array>
+	
 </resources>

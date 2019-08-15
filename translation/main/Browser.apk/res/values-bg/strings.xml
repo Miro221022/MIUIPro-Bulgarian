@@ -150,7 +150,7 @@
     <string name="close_cloud_tab_tip">Затвори разделите в облака за %s?</string>
     <string name="cloud_loading_tips">Изтеглете надолу за синхрон</string>
     <string name="cloud_no_new_data_toast">Няма нови данни, опитайте по-късно</string>
-    <string name="cloud_sync_closed_toast">Не може да се обнови защото синхронизацията е изключена</string>
+    <string name="cloud_sync_closed_toast">"Не може да се обнови, защото синхронизацията е изключена"</string>
     <string name="cloud_sync_failed_toast">Неуспешна актуализация, опитайте отново</string>
     <string name="cloud_tab">Раздел в Облак</string>
     <string name="cloud_tabs_sync_off">Синхронизиране изкл.</string>
@@ -1435,4 +1435,16 @@ Browser needs to connect to the internet to work normally. You must agree to our
 	<string name="guide_second_optimization_type_sub_title">Интересни клюки, Военни горещи точки, Последни филми и ТВ, Емоционално разнообразие</string>
 	<string name="guide_first_optimization_type_main_title">Прекрасните видеоклипове не свършват</string>
     <string name="guide_first_optimization_type_sub_title">15 секунди малко видео записва момента</string>
+	<string name="action_menu_text_add_shortcut">Добавяне на пряк път</string>
+    <string name="ad_download_continue">Продължаване</string>
+    <string name="ad_download_downloading">Изтегляне</string>
+    <string name="ad_download_error">Грешка</string>
+    <string name="ad_download_immediately">Изтегляне</string>
+    <string name="ad_download_open">Отваряне</string>
+    <string name="search_description">Лента за търсене</string>
+    <string name="send_bookmark">Отметка</string>
+    <string name="send_desktop">Начален екран</string>
+    <string name="send_startpage">Начална страница</string>
+    <string name="toast_feedback">Ще намали този вид съдържание за вас</string>
+    <string name="cit_soft_torch_off">Изключване на меката светлина на светкавицата</string>
 </resources>

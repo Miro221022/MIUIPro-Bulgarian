@@ -32,4 +32,16 @@
         <item quantity="other">Приложено на %1$d устройства</item>
         <item quantity="one">Приложено на %1$d устройство</item>
     </plurals>
+	   <plurals name="detail_update_time_hour">
+        <item quantity="other">Преди %d часа</item>
+        <item quantity="one">Преди %d час</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">Преди %d минути</item>
+        <item quantity="one">Преди %d минута</item>
+    </plurals>
+	    <plurals name="wallpaper_quantity">
+        <item quantity="other">%1$d изображения</item>
+        <item quantity="one">%1$d изображение</item>
+    </plurals>
 </resources>

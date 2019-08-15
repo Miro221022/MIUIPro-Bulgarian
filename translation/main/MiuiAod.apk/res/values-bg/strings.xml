@@ -49,4 +49,26 @@
   <string name="paper_mode_start_time_title">Включване</string>
   <string name="search_menu_title">Търсене</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="animation_clock_panel">Набиране на вълна</string>
+  <string name="apply">Приложи</string>
+  <string name="background_icon">Фон</string>
+  <string name="black_white_clock_panel">Часовник</string>
+  <string name="character_counter_content_description">Превишено е ограничението на символите %1$d от %2$d</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
+  <string name="choose_aod_style">Избор на тема</string>
+  <string name="clock_panel_icon">Циферблат</string>
+  <string name="color_change_with_time_description">Промяна на цвета на текста автоматично с течение на времето</string>
+  <string name="color_change_with_time_title">Автоматична промяна на цвета</string>
+  <string name="deep_space_planet">Космическо пространство</string>
+  <string name="deep_space_planet_des">\"Космическото пространство\" отразява светлинните промени, случващи се около вас през деня. Изгревите и залезите в тази тема се синхронизират с вашето местоположение.</string>
+  <string name="large_time">Голям часовник</string>
+  <string name="mini_time">Малък часовник</string>
+  <string name="mtrl_chip_close_icon_content_description">Премахване на %1$s</string>
+  <string name="only_show_bg_description">"Без показване на час, дата и други елементи"</string>
+  <string name="only_show_bg_title">Покажи само фон</string>
+  <string name="password_toggle_content_description">Покажи паролата</string>
+  <string name="show_battery_status">Показване на състоянието на батерията</string>
+  <string name="show_notification">Показване на известия</string>
+  <string name="standard_style">Стандартно</string>
+  <string name="text_color">Цвят на текста</string>
 </resources>

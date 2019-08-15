@@ -79,8 +79,8 @@
     <string name="HIPS_Perm_get_tasks_Desc">Достъп до задачите</string>
     <string name="HIPS_Perm_show_when_locked">Показване на заключен екран</string>
     <string name="HIPS_Perm_show_when_locked_Desc">Ще се показва на заключен екран</string>
-    <string name="HIPS_Perm_background_start_activity">Стартиране на заден план</string>
-    <string name="HIPS_Perm_background_start_activity_Desc">Стартиране на заден план</string>
+    <string name="HIPS_Perm_background_start_activity">Показване на изскачащи прозорци, докато работи на заден план</string>
+    <string name="HIPS_Perm_background_start_activity_Desc">Показване на изскачащи прозорци, докато работи на заден план</string>
     <string name="HIPS_Perm_get_installed_apps">Получаване на информация за инсталираните приложения</string>
     <string name="HIPS_Perm_get_installed_apps_Desc">Получаване на информация за приложенията, инсталирани на това устройство</string>
     <string name="HIPS_Perm_service_foreground">Услуги на преден план</string>

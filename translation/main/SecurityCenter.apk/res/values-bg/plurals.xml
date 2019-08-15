@@ -475,4 +475,8 @@
         <item quantity="other">%d часа остават</item>
         <item quantity="one">%d час остава</item>
     </plurals>
+	    <plurals name="ew_alert_second_after">
+        <item quantity="other">След %d секунди</item>
+        <item quantity="one">След %d секунда</item>
+    </plurals>
 </resources>

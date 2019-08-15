@@ -116,7 +116,7 @@
   <string name="bluetooth_active_no_battery_level">Активно</string>
   <string name="bluetooth_battery_level">%1$s батерия</string>
   <string name="bluetooth_connect_failed">Не можа да се установи връзка. Опитайте отново.</string>
-  <string name="bluetooth_connected">Свързан%1$s</string>
+  <string name="bluetooth_connected">Свързан %1$s</string>
   <string name="bluetooth_connected_battery_level">Свързан | Батерия %1$s%2$s</string>
   <string name="bluetooth_connected_no_a2dp">Свързан (без мултимедия)%1$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Свързан (без мултимедия) | Батерия %1$s%2$s</string>
