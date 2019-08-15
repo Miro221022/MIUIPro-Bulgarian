@@ -233,7 +233,7 @@
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="guide_card_hint_text">Импортиране на рождени дни от контактите</string>
     <string name="holiday_card_title">Празник</string>
-    <string name="holiday_detail_read_more">Повече</string>
+    <string name="holiday_detail_read_more">Още</string>
     <string name="horoscope_select_activity_label">Избор на зодиакален знак</string>
     <string name="import_action">Импортирай</string>
     <string name="import_birthday">Вмъкни рожден ден</string>
