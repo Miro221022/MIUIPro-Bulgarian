@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Навигиране към началния екран</string>
-    <string name="abc_action_bar_up_description">Навигиране нагоре</string>
+    <string name="abc_action_bar_home_description">Придвижване към началния екран</string>
+    <string name="abc_action_bar_up_description">Придвижване нагоре</string>
     <string name="abc_action_menu_overflow_description">Още опции</string>
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Преглед на всички</string>
@@ -15,7 +15,7 @@
     <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">клавиша за интервал</string>
+    <string name="abc_menu_space_shortcut_label">клавиш за интервал</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Търсете…</string>

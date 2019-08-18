@@ -1271,7 +1271,7 @@
         <item>Версия на Андроид</item>
     </string-array>
     <string-array name="screen_resolution_entries">
-        <item>Ултрависока (2K)</item>
+        <item>Свръхвисока (2K)</item>
         <item>Нормална (720p)</item>
     </string-array>
     <string-array name="pink_panel_led_color_entries">

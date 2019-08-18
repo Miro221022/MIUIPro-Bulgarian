@@ -1865,8 +1865,9 @@
    <string name="recents_task_screening">Записване…</string>
    <string name="recents_forbid_dock_when_screening_toast_text">"Не може да се използва разделен екран по време на запис"</string>
    <string name="recents_dimiss_task">Изчисти</string>
-   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Не можете да превключвате между пространствата, когато е включена функцията за ултра пестене на батерия"</string>
+   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Не можете да превключвате между пространствата, когато е включена функцията за свръх пестене на батерия"</string>
    <string name="gxzw_add_fingerprint_area">Скенер за пръстови отпечатъци</string>
    <string name="description_image_button_bubble_answer">Speaker</string>
-   
+   <string name="qs_open_night_mode_alert_summary">"Определени настройки на дисплея не са съвместими с Тъмен режим. Те обаче ще бъдат възстановени, след като изключите Тъмен режим."</string>
+   <string name="quick_settings_nightmode_label">Тъмен режим</string>
 </resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d файла</item>
+        <item quantity="one">%1$d файл</item>
+    </plurals>
+    <plurals name="send_file_success_detail_files">
+        <item quantity="other">Изпратени %1$s файла успешно</item>
+        <item quantity="one">Изпратен %1$s файл успешно</item>
+    </plurals>
+    <plurals name="send_file_success_detail_images">
+        <item quantity="other">Изпратени %1$s изображения успешно</item>
+        <item quantity="one">Изпратено %1$s изображение успешно</item>
+    </plurals>
+    <plurals name="send_files_to_device_files">
+        <item quantity="other">Подготовка за изпращане %2$d файла до %1$s…</item>
+        <item quantity="one">Подготовка за изпращане %2$d файл до %1$s…</item>
+    </plurals>
+    <plurals name="send_files_to_device_images">
+        <item quantity="other">Подготовка за изпращане %2$d изображения до %1$s…</item>
+        <item quantity="one">Подготовка за изпращане %2$d изображение до %1$s…</item>
+    </plurals>
+    <plurals name="someone_send_file_to_you_files">
+        <item quantity="other">%1$s ви изпраща %2$d файла…</item>
+        <item quantity="one">%1$s ви изпраща %2$d файл…</item>
+    </plurals>
+    <plurals name="someone_send_file_to_you_images">
+        <item quantity="other">%1$s ви изпраща %2$d изображения…</item>
+        <item quantity="one">%1$s ви изпраща %2$d изображение…</item>
+    </plurals>
+    <plurals name="someone_send_somefile_files">
+        <item quantity="other">%1$s ви изпраща %2$d файла…</item>
+        <item quantity="one">%1$s ви изпраща %2$d файл…</item>
+    </plurals>
+    <plurals name="someone_send_somefile_images">
+        <item quantity="other">%1$s ви изпраща %2$d изображения…</item>
+        <item quantity="one">%1$s ви изпраща %2$d изображение…</item>
+    </plurals>
+    <plurals name="start_receive_files_files">
+        <item quantity="other">Получаване на %2$d файла от %1$s…</item>
+        <item quantity="one">Получаване на %2$d файл от %1$s…</item>
+    </plurals>
+    <plurals name="start_receive_files_images">
+        <item quantity="other">Получаване на %2$d изобранения от %1$s…</item>
+        <item quantity="one">Получаване на %2$d изображение от %1$s…</item>
+    </plurals>
+    <plurals name="start_send_files_to_device_files">
+        <item quantity="other">Изпращане на %2$d файла до %1$s…</item>
+        <item quantity="one">Изпращане на %2$d файл до %1$s…</item>
+    </plurals>
+    <plurals name="start_send_files_to_device_images">
+        <item quantity="other">Изпращане на %2$d изображения до %1$s…</item>
+        <item quantity="one">Изпращане на %2$d изображение до %1$s…</item>
+    </plurals>
+    <plurals name="success_receive_file_files">
+        <item quantity="other">Получени са %2$d файла от %1$s. Докоснете за преглед.</item>
+        <item quantity="one">Получен е %2$d файл от %1$s. Докоснете за преглед.</item>
+    </plurals>
+    <plurals name="success_receive_file_images">
+        <item quantity="other">Получени са %2$d изображения от %1$s. Докоснете за преглед.</item>
+        <item quantity="one">Получено е %2$d изображение от %1$s. Докоснете за преглед.</item>
+    </plurals>
+</resources>

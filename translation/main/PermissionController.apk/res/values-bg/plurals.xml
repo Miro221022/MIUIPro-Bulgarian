@@ -17,8 +17,8 @@
         <item quantity="one">1 минута</item>
     </plurals>
     <plurals name="permission_usage_bar_label">
-        <item quantity="other">%s прилож.</item>
-        <item quantity="one">1 прилож.</item>
+        <item quantity="other">%s приложения</item>
+        <item quantity="one">1 приложение</item>
     </plurals>
     <plurals name="permission_usage_permission_filter_subtitle">
         <item quantity="other">%s приложения</item>

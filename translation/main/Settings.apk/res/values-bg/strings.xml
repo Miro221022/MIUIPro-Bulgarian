@@ -4291,7 +4291,7 @@
     <string name="screen_resolution_dialog_title">Промяна на резолюцията</string>
     <string name="screen_resolution_summary">Понижаването на резолюцията на екрана може да увеличи живота на батерията и скоростта на системата, но за сметка на това изображенията може да бъдат по-неясни.</string>
     <string name="screen_resolution_switch">Приложи</string>
-    <string name="screen_resolution_ultrahigh_format">Ултрависока (%1$s)</string>
+    <string name="screen_resolution_ultrahigh_format">Свръхвисока (%1$s)</string>
     <string name="screen_resolution_high_format">Висока (%1$s)</string>
     <string name="screen_resolution_normal_format">Нормална (%1$s)</string>
     <string name="finish_application">Спри</string>
