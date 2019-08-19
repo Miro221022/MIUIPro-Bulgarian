@@ -249,12 +249,12 @@
     <string name="download_filter_zip">архив</string>
     <string name="download_in_process">Изтегляне…</string>
     <string name="download_list_open_xl_ok">OK</string>
-    <string name="download_memory_info_avai">" налично %s|"</string>
+    <string name="download_memory_info_avai">" налично %s |"</string>
     <string name="download_memory_info_total">" общо ​%s"</string>
     <string name="download_no_application_title">Файлът не е открит. Може би го преместихте или изтрихте?</string>
     <string name="download_no_sdcard_dlg_msg">За изтегляне на %s е необходимo USB хранилище.</string>
     <string name="download_no_sdcard_dlg_title">USB хранилището е недостъпно</string>
-    <string name="download_pending">Започва изтегляне...</string>
+    <string name="download_pending">Стартиране на изтегляне…</string>
     <string name="download_phone_tip">Телефон</string>
     <string name="download_router_tip">Изтегляне в Mi Рутер</string>
     <string name="download_sdcard_busy_dlg_msg">USB хранилище е заето. За да разрешите изтегляне, натиснете \"Изключи USB хранилището\" в лентата с известия.</string>
@@ -360,10 +360,10 @@
     <string name="media_error_timeout">Времето за изчакване на мрежова връзка изтече</string>
     <string name="media_error_video_not_exist">Видеото не съществува</string>
     <string name="menu_preferences">Настройки</string>
-    <string name="menu_title_clear_all">Изчисти всички</string>
-    <string name="menu_title_open_file_management">Отвори Файлове</string>
-    <string name="menu_title_pause_all">Пауза на всички</string>
-    <string name="menu_title_resume_all">Старт на всички</string>
+    <string name="menu_title_clear_all">Изчистване на всички</string>
+    <string name="menu_title_open_file_management">Отваряне на Файлове</string>
+    <string name="menu_title_pause_all">Всички на пауза</string>
+    <string name="menu_title_resume_all">Стартиране на всички</string>
     <string name="miui_autologin_bar_error">Не може да се влезе</string>
     <string name="miui_autologin_bar_title">Вписване с Mi профила</string>
     <string name="miui_bookmark_action_bar_add_group_title">Добавяне на група</string>
@@ -811,7 +811,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="video_project_button">Спри</string>
     <string name="video_project_msg">Показване на %s</string>
     <string name="video_project_title">Външен екран</string>
-    <string name="video_push_multi_message">%1$d updates available.</string>
+    <string name="video_push_multi_message">%1$d актуализации са налични.</string>
     <string name="video_push_multi_title">Налична е актуализация</string>
     <string name="video_push_single_message">Докоснете за актуализация на %1$d.</string>
     <string name="video_service_notification_title">Възпроизвеждане на изкачащо на видео…</string>
@@ -1293,7 +1293,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="guide_tech_text">Технология</string>
     <string name="search_menu_title">Търсене</string>
     <string name="suggestion_clear_item_message">Потвърждавате ли този записан елемент?</string>
-    <string name="suggestion_hotwords_title_change_button_text">ПРОМЕНЕТЕ ПОВЕЧЕ</string>
+    <string name="suggestion_hotwords_title_change_button_text">ПРОМЕНЕТЕ ОЩЕ</string>
     <string name="suggestion_hotwords_title_text">Горещо търсене</string>
     <string name="suggestion_input_history_title_text">Въведете история</string>
     <string name="suggestion_input_hitory_clear_text">Изчистване</string>
