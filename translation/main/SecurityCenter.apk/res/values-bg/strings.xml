@@ -562,7 +562,7 @@
     <string name="traffic_config_alert_auto_modify">Автоматично актуализиране на плана за данни</string>
     <string name="traffic_config_alert_body">"Вашият план показва %s. \u000d
 \u000d
- съгласен ли сте?"</string>
+ съгласни ли сте?"</string>
     <string name="traffic_config_alert_body_normal">"\u000d
 Отчета на вашият оператор показва, че сте използвали %1$s от вашите данни при слаб трафик този месец, това е различно от %2$s, което сте задали ръчно."</string>
     <string name="traffic_config_alert_body_leisure">"\u000d
@@ -2531,7 +2531,7 @@
     <string name="app_permission_use_no_neccesary">Незадължителни разрешения</string>
     <string name="app_permission_use_title">Разрешения</string>
 	<string name="cta_dialog_negative">Изход</string>
-    <string name="cta_dialog_positive">Съгласен</string>
+    <string name="cta_dialog_positive">Съгласявам се</string>
 	<string name="forground_network_optimization_summary">Даване на по-голямата част от честотната лента на игрите изпълняващи се на преден план</string>
     <string name="forground_network_optimization_title">Приоритет на честотната лента</string>
     <string name="function_shield_summary_m">Ограничаване на автоматичната яркост и жестовете за заснемане на екрана</string>
@@ -2692,13 +2692,13 @@
     <string name="battery_desc_ambient_display">Заряд, консумиран от режим Винаги включен</string>
     <string name="st_antispam_title_mms">MMS</string>
 	<string name="system_permission_declare_main_purpose" formatted="false">Добре дошли в %1s! Това приложение ви позволява да използвате следната функция: %2s.</string>
-    <string name="system_permission_declare_privacy_declare">"We respect and protect your peivacy.
-Отбелчзваме, че %1s трябва да събира данните ви и изисква следните разрешения да работи нормално:"</string>
+    <string name="system_permission_declare_privacy_declare">"Ние уважаваме и защитаваме вашата поверителност.
+Имайте предвид, че %1s трябва да събира вашите данни и изисква следните разрешения, за да работи нормално:"</string>
     <string name="system_permission_declare_use_network">Връзка с мрежата</string>
-    <string name="system_permission_declare_no_say_no">"Ако решите да не давате необходимите разрешения или да не ни позволявате да събираме и използваме данните ви, това приложение няма да може да работи нормално."</string>
+    <string name="system_permission_declare_no_say_no">"Ако решите да не давате необходимите разрешения или да не ни разрешите да събираме и използваме данните ви, това приложение няма да може да работи нормално."</string>
     <string name="system_permission_declare_revoke_path">Можете да деинсталирате това приложение, да се отпишете от него или да управлявате разрешенията и оторизациите си в Сигурност > Управление на приложения > Разрешения > Други разрешения.</string>
     <string name="system_permission_declare_double_link"><Data>Прочетете и приемете нашите &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Политика за поверителност&lt;/a> преди да използвате тази функция.</Data></string>
-    <string name="system_permission_declare_agree">Съгласен</string>
+    <string name="system_permission_declare_agree">Съгласявам се</string>
     <string name="system_permission_perm_send_mms">Изпращане на MMS</string>
     <string name="system_permission_perm_read_mms">Четене на MMS</string>
     <string name="system_permission_perm_answer_call">Осъществяване на повиквания</string>
@@ -2760,7 +2760,7 @@
     <string name="pc_statistics_battery_use_summary">%s от последното зареждане</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dч %2$dм от последното зареждане</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dч %2$dм остава</string>
-	<string name="system_permission_declare_no_say_no_non_mandatory">"Ако решите да не давате необходимите разрешения или не ни позволите да събираме и използваме вашите данни, това приложение няма да може да работи нормално."</string>
+	<string name="system_permission_declare_no_say_no_non_mandatory">"Ако решите да не давате необходимите разрешения или не ни разрешите да събираме и използваме вашите данни, това приложение няма да работи частично."</string>
 	<string name="pc_search_keywords_battery">Батерия</string>
     <string name="pc_search_keywords_battery_save">Пестене на батерия</string>
     <string name="pc_search_keywords_battery_use">Използване на батерията</string>
@@ -2800,7 +2800,7 @@
   <string name="ew_app_name_test">Предупреждение за земетресение (Тестово)</string>
   <string name="ew_app_name_test_run">Предупреждение за земетресение (Пробен период)</string>
   <string name="ew_arrive_text_tips">Пристигна сеизмична вълна: %s</string>
-  <string name="ew_button_confirm">Съгласен</string>
+  <string name="ew_button_confirm">Съгласявам се</string>
   <string name="ew_button_exit">"Не се съгласявам"</string>
   <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;"Тази функция ви осигурява функционалност за предупреждение за земетресение. Тя ще ви извести за предстоящи земетресения и ще възпроизведе предупредителен звук. Ще можете да намерите най-близкия подслон, да се обадите на вашия спешен контакт и при необходимост да представите медицинската си карта. &amp;lt;br&amp;gt;Ние ще защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики за поверителност. &amp;lt;br&amp;gt;За да можете да работи нормално, тази функция изисква следните разрешения, за да събира личната ви информация: &amp;lt;br&amp;gt;&amp;#8226; Информация за местоположение: &amp;lt;br&amp;gt;За достъп до местоположението ви и предоставяне на точни предупреждения за земетресение. &amp;lt;br&amp;gt;Ако не сте съгласни да дадете такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате тази функция. Можете да изберете да изключите тази функция или да не я включите в такива случаи. &amp;lt;br&amp;gt;Трябва да прочетете и да се съгласите с нашата &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Политика за поверителност&amp;lt;/a&amp;gt; преди да използвате тази функция."&lt;/Data&gt;</string>
   <string name="ew_close">Изключване на предупреждението</string>

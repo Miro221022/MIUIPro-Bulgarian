@@ -319,7 +319,7 @@
     <string name="delete_third_party_video">Изтриване на това видео?</string>
     <string name="delete_to_trash_tips">Можете да прегледате наскоро изтритите снимки в Настройки > Кошче</string>
     <string name="deny">Отхвърли</string>
-    <string name="detail_title">Детайли</string>
+    <string name="detail_title">Подробности</string>
     <string name="disable_auto_upload_tip">Да се изключи ли синхронизирането с Ми Облак за този албум?</string>
     <string name="disable_auto_upload_title">Изключване на синхронизирането с Xiaomi Облак</string>
     <string name="do_not_remind_me">Не показвай повече</string>
@@ -653,7 +653,7 @@
     <string name="operation_cast_connected_format">Излъчване - %s</string>
     <string name="operation_cast_connecting_format">Свързване към %s</string>
     <string name="operation_delete">Изтрий</string>
-    <string name="operation_detail">Детайли</string>
+    <string name="operation_detail">Подробности</string>
     <string name="operation_disable_auto_upload">Изключване на синхронизирането с Xiaomi Облак</string>
     <string name="operation_download">Изтегляне на снимка (%s)</string>
     <string name="operation_edit">Редакция</string>

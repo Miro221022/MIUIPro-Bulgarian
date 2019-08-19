@@ -145,7 +145,7 @@
     <string name="close_ads_choice_yes">Блокирай</string>
     <string name="close_ads_message">Да се блокира ли съдържанието от този уебсайт? Блокираното съдържание може да видите в Настройки > Блокирани страници</string>
     <string name="close_ads_title">Блокиране на съдържание?</string>
-    <string name="close_all_tab_alert_message">Да се затворят ли всички отворени раздели в браузъра?</string>
+    <string name="close_all_tab_alert_message">Да се затворят ли всички отворени в момента раздели?</string>
     <string name="close_all_tab_alert_title">Затваряне на всички раздели</string>
     <string name="close_cloud_tab_tip">Затвори разделите в облака за %s?</string>
     <string name="cloud_loading_tips">Изтеглете надолу за синхрон</string>
@@ -194,8 +194,8 @@
     <string name="custom_head_card_text">Винаги вярвай, че най-доброто предстои</string>
     <string name="data_monitor">Напомняне за наблюдение на трафика</string>
     <string name="data_monitor_dialog_message">Изглежда нещо изразходва мобилните ви данни. Отворете началната страница, за да спрете това.</string>
-    <string name="data_traffic_prompt_message">Разглеждането на страници чрез мобилни данни ще увеличи използваните от вас данни. Ако надвишите предплатения си обем от данни, оператора може да ви таксува допълнително.</string>
-    <string name="data_traffic_prompt_title">Предупреждение за данни</string>
+    <string name="data_traffic_prompt_message">Използването на мобилната ви връзка за данни за гледане на видеоклипове ще увеличи разхода на данни. Ако превишите ограничението за данните в плана си, операторът може да ви таксува допълнително.</string>
+    <string name="data_traffic_prompt_title">Използване на данни</string>
     <string name="delete">Изтрий</string>
     <string name="delete_bookmark">Изтрий отметка</string>
     <string name="delete_bookmark_action_warning">Изтриване на отметки?</string>
@@ -399,9 +399,9 @@
     <string name="nav_bottom_bar_new_tab">Нов раздел</string>
     <string name="nav_screen_container_tab_incognito">Инкогнито раздел</string>
     <string name="nav_screen_container_tab_normal">Нормален раздел</string>
-    <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in Incognito mode.
-Remember that the files you download and the bookmarks you add will still be saved."</string>
-    <string name="nav_screen_incognito_title">Incognito mode</string>
+    <string name="nav_screen_incognito_message">"Вашата история на сърфиране и търсене няма да бъде запазена в режим Инкогнито.
+Но не забравяйте, че файловете които изтегляте и отметките, които добавяте ще продължат да се запазват."</string>
+    <string name="nav_screen_incognito_title">Режим инкогнито</string>
     <string name="navigation_delete_all">swipe left and right to close all tabs</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Отказ</string>
     <string name="navigationbar_rightbutton_actiontext_go">Отиди</string>
@@ -934,8 +934,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="mw_common_signin_button_text">Вход</string>
     <string name="mw_common_signin_button_text_long">Вход с Google</string>
     <string name="mw_copy_to_clipboard_failure_message">Копирането в клипборда не бе успешно</string>
-    <string name="mw_data_traffic_prompt_change">Използването на мобилната връзка за данни за гледане на видеоклипове ще увеличи използването на данни. Ако превишите ограничението за използване на данните в плана си, нашият превозвач може да Ви таксува с допълнителни такси.</string>
-    <string name="mw_data_traffic_prompt_message">Използването на мобилната връзка за данни, за да разглеждате видеоклипове, ще увеличи използването на данни. Ако превишите ограничението за използване на данните за вашия план, вашият оператор може да ви таксува с допълнителни такси.</string>
+    <string name="mw_data_traffic_prompt_change">Използването на мобилната ви връзка за данни за гледане на видеоклипове ще увеличи разхода на данни. Ако превишите ограничението за данните в плана си, операторът може да ви таксува допълнително.</string>
+    <string name="mw_data_traffic_prompt_message">Използването на мобилната ви връзка за данни за гледане на видеоклипове ще увеличи разхода на данни. Ако превишите ограничението за данните в плана си, операторът може да ви таксува допълнително.</string>
     <string name="mw_data_traffic_prompt_message_short">Използването на мобилни данни за поточно предаване на видеоклипове може да доведе до преодоляване на ограниченията за използване на данните за плановете.</string>
     <string name="mw_data_traffic_prompt_title">Предупреждение за използването на данни</string>
     <string name="mw_date_picker_dialog_clear">Изчистване</string>
@@ -1241,7 +1241,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="save_file_suffix">" "</string>
     <string name="short_video_description">Видео канал</string>
     <string name="short_video_tip">Вижте! Смешно видео</string>
-    <string name="suggestion_clear_record_message">Потвърждавате ли празен запис?</string>
+    <string name="suggestion_clear_record_message">Потвърждавате ли изтриването на историята на търсенията?</string>
     <string name="title_notice_push">Включване на изкчащи известия</string>
 	<string name="action_imme_open">Незабавно отваряне</string>
     <string name="bubble_guide_logined_text">Регистриране за късмет</string>
@@ -1250,7 +1250,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="data_traffic_continue">Продължаване</string>
     <string name="data_traffic_goto">Безплатен трафик</string>
     <string name="data_traffic_prompt_free_data">Използването на мобилната връзка за данни, за да гледате видеоклипове, ще увеличи използването на данни. Моля, да получете безплатен трафик на данни.</string>
-    <string name="data_traffic_stop">Стоп</string>
+    <string name="data_traffic_stop">Спиране</string>
     <string name="network_not_available_comment">Няма връзка с интернет, не може да коментира</string>
     <string name="screenshot_loading_dialog_title">Снимане</string>
     <string name="suggest_access_item_topic_mark">ТЕМА</string>
@@ -1306,10 +1306,10 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="bubble_guide_portrait_message_text">Кликнете за преглед</string>
     <string name="dialog_recovery_tabs_disc">Откриването на незатворени страници изисква пълно възстановяване.</string>
     <string name="dialog_recovery_tabs_title">Отворяне на страницата преди възстановяване</string>
-    <string name="exit_browser_confirmation">Натиснете отново, за да се върнете на работния плот</string>
+    <string name="exit_browser_confirmation">Натиснете/плъзнете отново за изход</string>
     <string name="pref_checkbox_tab_restore">Запомни тази опция (може да отидете към Разширени настройки, за да промените)</string>
     <string name="pref_slide_back_forward">Плъзгане назад или напред</string>
-    <string name="pref_tab_restore">Възстановяване на последната отворена страница при стартиране</string>
+    <string name="pref_tab_restore">Възстановяване на последно отворени страници</string>
     <string name="slide_guide">Плъзгане, за връщане</string>
 	<string name="action_menu_text_bookmark_removed">Изтриване на отметка</string>
     <string name="action_menu_text_fullscreen_enter">Влизане в цял екран</string>

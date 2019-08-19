@@ -17,7 +17,7 @@
   </plurals>
   <plurals name="nav_screen_incognito_time">
     <item quantity="other">След %d секунди автоматично ще се създаде нова страница</item>
-    <item quantity="one">След %d секунди автоматично ще се създаде нова сраница</item>
+    <item quantity="one">След %d секунда автоматично ще се създаде нова сраница</item>
   </plurals>
   <plurals name="transfer_prompt">
     <item quantity="other">Изпълни клипа след %1$d секунди</item>
@@ -28,12 +28,12 @@
     <item quantity="one">Избрани: %1$d</item>
   </plurals>
   <plurals name="video_download_clear_info">
-    <item quantity="other">Премахнахте успешно %1$d видеа.</item>
-    <item quantity="one">Премахнахте успешно %1$d видео.</item>
+    <item quantity="other">Премахнахте успешно %1$d видеоклипа.</item>
+    <item quantity="one">Премахнахте успешно %1$d видеоклип.</item>
   </plurals>
   <plurals name="video_download_clear_prompt">
-    <item quantity="other">Да се изтрият ли %1$d видеа?</item>
-    <item quantity="one">Да се изтрие ли %1$d видео?</item>
+    <item quantity="other">Да се изтрият ли %1$d видеоклипа?</item>
+    <item quantity="one">Да се изтрие ли %1$d видеоклип?</item>
   </plurals>
   <plurals name="video_history_clear_info">
     <item quantity="other">%1$d елемента са изтрити от историята.</item>

@@ -656,8 +656,8 @@
     <string name="app_install_failed_button_text">Търсене на приложения</string>
     <string name="app_ops_clean_master_tip">Освобождаване на %s</string>
     <string name="app_ops_install_exit">Изход</string>
-    <string name="external_sources_settings_negative">Ограничи</string>
-    <string name="external_sources_settings_positive">Разреши</string>
+    <string name="external_sources_settings_negative">Забраняване</string>
+    <string name="external_sources_settings_positive">Разрешаване</string>
     <string name="intercept_install">Инсталиране</string>
     <string name="mimarket_install_more">Отидете в Mi App Store, за още приложения</string>
     <string name="miui_app_permission_detail">Необходими разрешения</string>

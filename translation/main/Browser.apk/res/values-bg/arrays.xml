@@ -98,7 +98,7 @@
     </string-array>
 	    <string-array name="pref_tab_restore_array">
         <item>Винаги питай</item>
-        <item>Отваряне</item>
+        <item>Възстановяване</item>
         <item>Затваряне</item>
     </string-array>
 	    <string-array name="pref_homepage_choices_with_simplehome">
