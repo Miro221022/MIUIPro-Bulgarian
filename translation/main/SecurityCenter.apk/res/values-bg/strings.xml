@@ -2751,7 +2751,7 @@
     <string name="privacy_apps_tutorial_dlg_title">Как да намерите скрити приложения</string>
 	<string name="battery_statistics_activity_title">Статистика за използването на батерията</string>
     <string name="pc_battery_history_consume_rank_menu_item">Класиране</string>
-    <string name="pc_battery_history_battery_detail_menu_item">Подобробности</string>
+    <string name="pc_battery_history_battery_detail_menu_item">Подробности</string>
     <string name="pc_battery_history_rank_percent_menu_item">Процент</string>
     <string name="pc_battery_history_rank_mha_menu_item">Милиампер час</string>
     <string name="pc_battery_detail_curve_reference_now">Сега</string>
