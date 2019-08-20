@@ -831,4 +831,33 @@ To activate your account, follow the
     <string name="single_cyclic">един цикъл</string>
     <string name="password_toggle_content_description">Превключване на видимостта на паролата</string>
 	<string name="vp_play_tencent_vip">Този видеоклип вече не е налице</string>
+	<string name="channel_guide_hot_long_video">Вижте още популярни клипове</string>
+    <string name="channel_guide_hot_short_video">Популярни видеоклипове са преместени тук!</string>
+	<string name="declare_get_accounts">Достъп до профилите</string>
+    <string name="declare_info">Излъчване онлайн на видеоклипове и възпроизвеждане на видео файлове на вашето устройство</string>
+    <string name="declare_read_phone_state">Достъп до информация за устройството</string>
+    <string name="declare_storage">Достъп и промяна на файловете във вътрешната памет</string>
+	<string name="feedback_check_network">Проверете мрежовите си настройки и опитайте отново.</string>
+	<string name="feedback_dialog_button_dislike">Не се интересувам</string>
+    <string name="feedback_dialog_label">"Защо това видео не ви е интересно?"</string>
+    <string name="feedback_post_failed">"Не може да се изпрати"</string>
+    <string name="feedback_post_success">"Изпратено успешно. Ще виждате по-малко елементи от този вид."</string>
+	<string name="feedback_short_video_more_dislike">Не се интересувам</string>
+	<string name="gallery_folder_alias_camera">Камера</string>
+    <string name="gallery_folder_alias_download">Изтегляния</string>
+    <string name="gallery_folder_alias_mivideo">Mi Видео</string>
+	<string name="gallery_folder_alias_screen_recorder">Записи на екрана</string>
+	<string name="remove_card_tips">"Ще виждате по-малко елементи от този вид"</string>
+    <string name="remove_card_withdraw">Отмяна</string>
+	<string name="resume_download">Продължи изтеглянето</string>
+	<string name="small_video_mobile_network_toast">Използване на мобилни данни за излъчване видео…</string>
+	<string name="toast_can_not_withdraw">"Не може да се отмени след като измине 1 минута"</string>
+	<string name="toast_close_engine_mode">Опциите за програмисти са изключени</string>
+	<string name="toast_open_engine_mode">Опциите за програмисти са включени</string>
+	<string name="toast_vid_copied">Идентификацията на видеото е копирана успешно</string>
+	<string name="vp_app_plugin_load_error">"Приставката не можа да се зареди. Изчакайте минута или две и опитайте отново."</string>
+    <string name="vp_app_plugin_load_retry">"Приставката не можа да се зареди. Опитайте отново."</string>
+	<string name="vp_auto_change_resolution_suggestion">Мрежовата връзка е лоша. Превключване към &lt;font color=#0F99FF>%1$s&lt;/font></string>
+    <string name="vp_auto_change_resolution_switch">Мрежовата връзка е лоша. Превключване към &lt;font color=#0F99FF>%1$s&lt;/font></string>
+	<string name="vp_video_player_play_text">Докоснете за изпълнение на \"%1$s\"</string>
 </resources>

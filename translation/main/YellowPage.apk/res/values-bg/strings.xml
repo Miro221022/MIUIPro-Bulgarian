@@ -293,4 +293,10 @@
 	<string name="info_divider">|</string>
 	<string name="colon">": "</string>
 	<string name="yellowpage_user_profile">Профил</string>
+	<string name="antispam_update_low_storage">"Не може да се актуализира. Няма достатъчно място за съхранение."</string>
+    <string name="antispam_update_version">Актуализирай сега</string>
+	<string name="turn_on_auto_update_antispam_data_summary">Обновено на %s</string>
+    <string name="turn_on_auto_update_antispam_data_title">Актуализиране на дефинициите автоматично</string>
+	<string name="cta_main_purpose">Добре дошли в Game Turbo!</string>
+	
 </resources>

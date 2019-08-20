@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Слушалки и аудио ефекти</string>
+  <string name="app_name">Слушалки</string>
   <string name="eq_auto">Персонализиранo</string>
   <string name="eq_blues">Блус</string>
   <string name="eq_cancel">Отказ</string>
@@ -54,7 +54,7 @@
   <string name="music_headset_mode_settings">Бутони на слушалките</string>
   <string name="music_headset_mode_volume">Контрол на силата на звука</string>
   <string name="music_headset_no_contected">Не са открити слушалки</string>
-  <string name="music_headset_settings">Слушалки и аудио ефекти</string>
+  <string name="music_headset_settings">Слушалки</string>
   <string name="music_hifi_summary">Намаляване на шума и изкривяването, за да се подобри качеството на звука</string>
   <string name="music_hifi_title">Hi-Fi аудио</string>
   <string name="music_mi_effect_summary">Използване на Mi Звуков подобрител, когато използвате слушалки</string>

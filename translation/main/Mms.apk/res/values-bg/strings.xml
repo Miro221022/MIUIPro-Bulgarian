@@ -63,9 +63,9 @@
   <string name="check_all">Избери всички</string>
   <string name="class_0_message_activity">Съобщение клас 0</string>
   <string name="close">Затвори</string>
-  <string name="cloud_state_disabled">Включете синхронизирането с Mi Облак за да синхронизирате съобщенията</string>
-  <string name="cloud_state_sync_finished">Синхронизирано с Mi Облак</string>
-  <string name="cloud_state_syncing">Синхронизира се с Mi Облак</string>
+  <string name="cloud_state_disabled">Включете синхронизирането с облака за да синхронизирате съобщенията</string>
+  <string name="cloud_state_sync_finished">Синхронизирано с облака</string>
+  <string name="cloud_state_syncing">Синхронизира се с Xiaomi Облак</string>
   <string name="compressing">Снимката е прекалено голяма. Компресиране…</string>
   <string name="confirm">ОК</string>
   <string name="confirm_add_blacklist_dialog_dspt">Ще добавите ли номера към списъка с блокирани?</string>
@@ -184,10 +184,10 @@
   <string name="forward_prefix">От:</string>
   <string name="found_old_messages">Ще изпратите ли съобщенията от предишните ви профили (%1$s) към %2$s?</string>
   <string name="found_old_messages_title">Ще изпратите ли съобщенията от другите ваши SIM карти?</string>
-  <string name="found_wild_messages_guide_cloud_desc">За да синхронизирате съобщения от Mi Облак, влезте в Mi профила си и включете синхронизирането на SMS.</string>
-  <string name="found_wild_messages_guide_settings_desc">Синхронизиране на съобщения от Mi Облак в Настройки за съобщения.</string>
+  <string name="found_wild_messages_guide_cloud_desc">За да синхронизирате съобщения от Xiaomi Облак, влезте в Mi профила си и включете синхронизирането на SMS.</string>
+  <string name="found_wild_messages_guide_settings_desc">Синхронизиране на съобщения от Xiaomi Облак в Настройки за съобщения.</string>
   <string name="found_wild_messages_guide_sync_not_started">Синхронизирането все още не е стартирано</string>
-  <string name="found_wild_messages_title">Синхронизиране на съобщения от Mi Облак</string>
+  <string name="found_wild_messages_title">Синхронизиране на съобщения от Xiaomi Облак</string>
   <string name="from_label">От:</string>
   <string name="from_pkg_name">Съобщение от приложение:</string>
   <string name="group_message">Групово съобщение</string>
@@ -906,4 +906,12 @@
   <string name="pref_title_privacy_policy_detail">Политика за поверителност</string>
   <string name="pref_title_smart_msg_privacy_policy">Политика за поверителност на Интелигентни Съобщения</string>
   <string name="toast_failed_to_close_priv_auth">"Упълномощаването не може да бъде отменено. Проверете мрежовите настройки и опитайте отново."</string>
+  <string name="mms_block_alert_message">Всички MMS с изключение на съобщенията, изпратени от оторизирани податели, ще бъдат блокирани. Оторизираните податели включват мрежови оператори, национални системи за резервации на железопътни превозни средства и т.н.</string>
+  <string name="mms_block_alert_ok">Блокиране</string>
+  <string name="mms_block_alert_title">Блокиране на MMS</string>
+  <string name="mms_block_hint">"Този подател не е във вашите контакти.
+Това съобщение може да не е поискано."</string>
+  <string name="mms_block_hint_highlight">Блокиране на MMS</string>
+  <string name="shortcut_new_msg">Ново съобщение</string>
+  <string name="shortcut_setting">Настройки</string>
 </resources>

@@ -2476,7 +2476,7 @@
     <string name="traffic_setting_fragment_packege_type">Настройки на план за данни</string>
 	<string name="deep_power_save_item_summary_auto_brightness">Настройте яркостта на екрана автоматично, за да спестите батерията</string>
     <string name="deep_power_save_item_summary_bluetooth">Изключете Bluetooth, за да пестите батерията</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">Задайте заспиване на екрана след 30 секунди  неактивност, за да спестите батерията</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">Задайте заспиване на екрана след 15 секунди  неактивност, за да спестите батерията</string>
     <string name="deep_power_save_item_title_auto_brightness">Включи автоматичната яркост</string>
     <string name="deep_power_save_item_title_bluetooth">Изключи Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Заспиване на екрана</string>
@@ -2860,4 +2860,12 @@
   <string name="ew_safe_place_no_maps_tips">"Не може да се търси сега. Инсталирайте първо Baidu Maps или Amap."</string>
   <string name="system_permission_declare_analytics_declare">"Благодарим ви, че се включихте в нашата програма за потребителски опит. Устройството ви трябва да бъде свързано с интернет, за да може тази функция да работи нормално. Също така се изисква да предоставите следните разрешения, за да ни позволите да събираме данните, които ще ни помогнат да подобрим нашите продукти и услуги. Тези данни се събират само за статистически цели. Няма да можем да използваме тези данни, за да ви идентифицираме лично."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Ако не искате да предоставите тези разрешения, можете да се откажете в Настройки &gt; Допълнителни настройки &gt; Поверителност &gt; Програма за потребителски опит."</string>
+  <string name="permission_action_always">Разреши винаги</string>
+  <string name="permission_action_foreground">Докато използвате приложението</string>
+  <string name="function_gwsd_title">"Не позволявайте на входящите повиквания да прекъсват връзката с данни"</string>
+  <string name="function_gwsd_detail">"Относно тази функция:
+ 1. Входящите обаждания към вашата SIM карта за данни няма да прекъснат мобилната връзка за данни. Връзката ще бъде прекъсната само когато отговорите на повикване.
+ 2. Когато тази функция е включена, обаждащият се няма да чува мелодии за изчакване на повикване. Входящите повиквания ще бъдат прекратени, освен ако не отговорите в рамките на 6 секунди.
+ 3. Тази функция работи само за SIM карти с данни. Обажданията към вашата основна SIM ще прекъснат мобилната връзка за данни.
+ 4. Тази функция се поддържа само от China Mobile и China Unicom."</string>
 </resources>

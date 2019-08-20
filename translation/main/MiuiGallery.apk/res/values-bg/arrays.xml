@@ -194,6 +194,6 @@
     </string-array>
 	    <string-array name="backup_automatically_key_words">
         <item>Архивиране на снимки</item>
-        <item>Синхронизиране на снимки с Mi Облак</item>
+        <item>Синхронизиране на снимки с облака</item>
     </string-array>
 </resources>

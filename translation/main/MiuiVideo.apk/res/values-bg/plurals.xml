@@ -76,4 +76,8 @@
         <item quantity="other">Размер на файла: %.2fКб</item>
         <item quantity="one">Размер на файла: %.2fКб</item>
 		</plurals>
+		    <plurals name="feedback_select_items">
+        <item quantity="other">Изпращане на %d елемента</item>
+        <item quantity="one">Изпращане на %d елемент</item>
+    </plurals>
 </resources>

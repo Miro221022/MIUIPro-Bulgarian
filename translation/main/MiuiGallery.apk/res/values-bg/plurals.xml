@@ -81,40 +81,40 @@
         <item quantity="one">%d избран елемент</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">Изтриване на %d елемента от всички устройства и Mi Облак?</item>
-        <item quantity="one">Изтриване %d елемент от всички устройства и Mi Облак?</item>
+        <item quantity="other">Изтриване на %d елемента от всички устройства и Xiaomi Облак?</item>
+        <item quantity="one">Изтриване %d елемент от всички устройства и Xiaomi Облак?</item>
     </plurals>
     <plurals name="delete_media_from_local">
         <item quantity="other">Изтриване на %d елемента?</item>
         <item quantity="one">Изтриване на %d елемент?</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Изтриване на %d елемента от този албум и Mi Облак?</item>
-        <item quantity="one">Изтриване на %d елемент от този албум и Mi Облак?</item>
+        <item quantity="other">Изтриване на %d елемента от този албум и Xiaomi Облак?</item>
+        <item quantity="one">Изтриване на %d елемент от този албум и Xiaomi Облак?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Изтриване на %d снимки от всички устройства и Mi Облак?</item>
-        <item quantity="one">Изтриване на тази снимка от всички устройства и Mi Облак?</item>
+        <item quantity="other">Изтриване на %d снимки от всички устройства и Xiaomi Облак?</item>
+        <item quantity="one">Изтриване на тази снимка от всички устройства и Xiaomi Облак?</item>
     </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">Изтриване на %d снимки?</item>
         <item quantity="one">Изтриване на тази снимка?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Изтриване на %d снимки от този албум и Mi Облак?</item>
-        <item quantity="one">Изтриване на снимката от този албум и Mi Облак?</item>
+        <item quantity="other">Изтриване на %d снимки от този албум и Xiaomi Облак?</item>
+        <item quantity="one">Изтриване на снимката от този албум и Xiaomi Облак?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Изтриване на %d видеоклипа от всички устройства и Mi Облак?</item>
-        <item quantity="one">Изтриване на видеото от всички устройства и Mi Облак?</item>
+        <item quantity="other">Изтриване на %d видеоклипа от всички устройства и Xiaomi Облак?</item>
+        <item quantity="one">Изтриване на видеото от всички устройства и Xiaomi Облак?</item>
     </plurals>
     <plurals name="delete_video_from_local">
         <item quantity="other">Изтриване на %d видеоклипа?</item>
         <item quantity="one">Изтриване на това видео?</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">Изтриване на %d видеоклипа от този албум и Mi Облак?</item>
-        <item quantity="one">Изтриване на видеоклипа от този албум и Mi Облак?</item>
+        <item quantity="other">Изтриване на %d видеоклипа от този албум и Xiaomi Облак?</item>
+        <item quantity="one">Изтриване на видеоклипа от този албум и Xiaomi Облак?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">Грешка при изтегляне: %1$d файла</item>
@@ -297,16 +297,16 @@
         <item quantity="one">Запазване на %d избраната снимка</item>
     </plurals>
 	<plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Изтриване на %d серийни снимки от Mi Облак и всички синхронизирани устройства?</item>
-        <item quantity="one">Изтриване на %d серийна снимка from от Mi Облак и всички синхронизирани устройства?</item>
+        <item quantity="other">Изтриване на %d серийни снимки от Xiaomi Облак и всички синхронизирани устройства?</item>
+        <item quantity="one">Изтриване на %d серийна снимка from от Xiaomi Облак и всички синхронизирани устройства?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">Изтриване на %d серийни снимки?</item>
         <item quantity="one">Изтриване на %d серийна снимка?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Изтриване на %d серийни снимки от Mi Облак и това устройство?</item>
-        <item quantity="one">Изтриване на %d серийна снимка от Mi Облак и това устройство?</item>
+        <item quantity="other">Изтриване на %d серийни снимки от Xiaomi Облак и това устройство?</item>
+        <item quantity="one">Изтриване на %d серийна снимка от Xiaomi Облак и това устройство?</item>
     </plurals>
 	<plurals name="delete_third_party_burst_photo">
         <item quantity="other">Изтриване на %d серийни снимки от устройството ви?</item>
@@ -375,5 +375,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Преди %d минути</item>
         <item quantity="one">Преди 1 минута</item>
+    </plurals>
+	    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d елемента</item>
+        <item quantity="one">%1$d елемент</item>
     </plurals>
 </resources>

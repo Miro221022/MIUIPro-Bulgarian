@@ -922,4 +922,14 @@
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD е включено</string>
     <string name="ultra_pixel_zoom_no_support_tip">"Приближаването не работи в %s Ultra HD режим"</string>
 	<string name="pref_camera_snap_entry_summary">Натиснете и задръжте бутона за намаляване на звука, когато екранът е изключен, за да направите снимка</string>
+	<string name="pref_camera_picturesize_entry_3_4">3:4</string>
+    <string name="pref_camera_picturesize_entry_9_16">9:16</string>
+    <string name="pref_camera_picturesize_entry_1_1">1:1</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">На цял екран</string>
+	<string name="pref_camera_flashmode_entry_back_soft_light">Мека светлина</string>
+	<string name="recommend_soft_light_tip">Използвайте светкавицата в режим на мека светлина</string>
+	<string name="macro_mode_use_hint_text_title">Макро</string>
+    <string name="macro_mode_use_hint_text_body">"Използвайте макро режим, за да правите малки обекти
+да изглеждат по-големи на снимките"</string>
+    <string name="live_music_author">Xiaomi кратко видео</string>
 </resources>

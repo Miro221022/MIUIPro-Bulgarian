@@ -1726,4 +1726,14 @@
 	<string name="wednesday">Сряда</string>
     <string name="wednesday_short">Сря</string>
     <string name="wednesday_shortest">Ср</string>
+	<string name="album_cloud_list_page_title">Управление на синхронизирани албуми</string>
+	<string name="album_hidden_item_button_title">Покажи</string>
+    <string name="album_hidden_page_title">Скрий</string>
+    <string name="album_jump_failed">Изчакайте албумите да бъдат синхронизирани с облака и опитайте отново</string>
+	<string name="remove_hidden_status_success">Премахнати са %s от скритите албуми</string>
+    <string name="remove_hidden_status_tip">Този албум ще бъде показан сред други албуми, ако го покажете.</string>
+    <string name="remove_hidden_status_title">Покажи</string>
+	<string name="show_cloud_albumlist_summary">Управлявайте албумите, които синхронизирате с облака</string>
+    <string name="show_hidden_album_summary">Преглед и управление на скрити албуми</string>
+    <string name="show_hidden_album_title">Преглед на скрити албуми</string>
 </resources>

@@ -8,4 +8,8 @@
         <item quantity="other">Прегледайте %d коментара</item>
         <item quantity="one">Прегледайте 1 коментар</item>
     </plurals>
+	    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Звънял %d пъти</item>
+        <item quantity="one">Звънял %d път</item>
+    </plurals>
 </resources>

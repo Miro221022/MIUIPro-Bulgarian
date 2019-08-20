@@ -3,7 +3,7 @@
   <string name="add">Добави</string>
   <string name="add_named">Добави %1$s</string>
   <string name="add_printer_by_ip">Добавяне на принтер чрез IP адрес</string>
-  <string name="app_name">Услуга за печатане</string>
+  <string name="app_name">Системна услуга за печатане</string>
   <string name="connect_hint_text">"Може да се наложи да одобрите тази връзка на предния панел на принтера"</string>
   <string name="connecting_to">Свързване към %1$s</string>
   <string name="connects_via_network">Свързва се чрез текущата мрежа на %1$s</string>
