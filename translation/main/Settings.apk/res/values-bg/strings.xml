@@ -6533,4 +6533,5 @@ OTG се изключва автоматично след 10 минути без
 	<string name="search_connection_and_sharing">Още;Безжично</string>
 	<string name="system_print_service_help">Относно печатането</string>
 	<string name="xiaomi_transfer">Mi Споделяне</string>
+	<string name="speaker">Говорител</string>
 </resources>

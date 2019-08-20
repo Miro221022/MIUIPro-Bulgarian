@@ -295,4 +295,7 @@
 	<string name="wireless_charging_notification_message2">Батерията е със заряд под 30%. Безжичното зареждане е изключено сега.</string>
 	<string name="wireless_charging_notification_message3">Възникна грешка при зреждането. Безжичното зареждане е изключено сега.</string>
 	<string name="wireless_charging_notification_titile">Безжичното зареждане е изключено сега</string>
+	<string name="mi_9t">Mi 9T</string>
+    <string name="mi_9t_pro">Mi 9T Pro</string>
+    <string name="mi_a3">Mi A3</string>
 </resources>

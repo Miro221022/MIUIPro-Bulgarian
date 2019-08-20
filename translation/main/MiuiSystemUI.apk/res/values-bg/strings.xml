@@ -1870,4 +1870,6 @@
    <string name="description_image_button_bubble_answer">Speaker</string>
    <string name="qs_open_night_mode_alert_summary">"Определени настройки на дисплея не са съвместими с Тъмен режим. Те обаче ще бъдат възстановени, след като изключите Тъмен режим."</string>
    <string name="quick_settings_nightmode_label">Тъмен режим</string>
+   <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.milink.service/com.milink.ui.service.MiLinkTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
+   <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode</string>
 </resources>

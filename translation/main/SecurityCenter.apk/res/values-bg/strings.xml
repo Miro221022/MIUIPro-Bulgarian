@@ -73,7 +73,7 @@
     <string name="dlg_not_block_call">Да се отблокират ли избраните номера? Те ще бъдат добавени в изключенията, но предишните блокирани повиквания няма да се показват история на повикванията.</string>
     <string name="dlg_update_date_title">Внимание</string>
     <string name="dlg_update_data_content">Не сте свързани с WLAN. Използването на мобилни данни може да генерира допълнителни такси. Продължавате ли все пак?</string>
-    <string name="dlg_sec_network_unavailable">Приложението за сигурност не може да се актуализира, защото сте ограничили връзката с интернет. Да се разреши ли сигурност да се свързва с интернет?</string>
+    <string name="dlg_sec_network_unavailable">Сигурност не може да се актуализира, защото сте ограничили връзката с интернет. Да се разреши ли сигурност да се свързва с интернет?</string>
     <string name="dlg_update_btn_contiue">Продължи</string>
     <string name="dlg_update_btn_open">Разрешаване</string>
     <string name="dlg_update_updating">Актуализиране…</string>
@@ -1263,7 +1263,7 @@
     <string name="sp_empty_title_sign_exception">Задръжте приложението, за да го добавите към изключения</string>
     <string name="sp_toast_removed_from_sign_white_list">Преместено от Изключенията. Елементът ще бъде сканиран следващият път.</string>
     <string name="sp_network_privacy_dialog_title">Не може да се използва сигурно сканиране</string>
-    <string name="sp_network_privacy_dialog_message">Приложението Сигурност не може да работи правилно, поради ограничения в интернет връзката. Да разреша ли на Сигурност да се свърже с интернет?</string>
+    <string name="sp_network_privacy_dialog_message">Сигурност не може да работи правилно, поради ограничения в интернет връзката. Да разреша ли на Сигурност да се свърже с интернет?</string>
     <string name="sp_settings_exception_count_zero">Няма съдържание</string>
     <string name="sp_monitored_apps_count_zero">Няма приложения за плащане</string>
     <string name="monitor_app_more">Повече</string>
@@ -1347,7 +1347,7 @@
     <string name="menu_text_license_manager">Разрешения</string>
     <string name="menu_text_garbage_cleanup">Почистване</string>
     <string name="menu_text_garbage_cleanup_danger">%s</string>
-    <string name="menu_text_power_manager">Оптимизация на батерията</string>
+    <string name="menu_text_power_manager">Батерия и производителност</string>
     <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Предишното сканиране е прекъснато преди да завърши</string>
     <string name="examination_score_100">Изглежда всичко работи добре!</string>
@@ -1524,7 +1524,7 @@
     <string name="title_cloud_service">Xiaomi Облак</string>
     <string name="summary_cloud_service">Синхронизирайте снимките, контактите и още на всичките ви устройства</string>
     <string name="title_network_switch">Мрежа</string>
-    <string name="summary_network_switch">Позволете мобилни данни при използване на Сигурност</string>
+    <string name="summary_network_switch">Разрешаване на Сигурност да се свърже с интернет</string>
     <string name="title_power_optimizer">Спест. на батерия е изкл.</string>
     <string name="summary_power_optimizer">За удължаване на живота на батерията, спест. на батерия ще намали производителността когато остава малко заряд.</string>
     <string name="title_data_flow_monitor">Мониторът за данни е вкл</string>
@@ -1618,7 +1618,7 @@
     <string name="antivirus_not_wlan">Не сте свързан с Wi-Fi мрежа. Използването на мобилни данни може да е причина за допълнително таксуване. Продължете?</string>
     <string name="antivirus_longtime_no_update">Базата данни на антивирусната програма е остаряла. Редовните нейни актуализации са гаранция за добри резултати при сканиране. Да разреша ли на Сигурност да се свърже с интернет и обнови вирусните дефиниции?</string>
     <string name="antivirus_longtime_no_update1">Базата данни на антивирусната програма е остаряла. Редовните нейни актуализации са гаранция за добри резултати при сканиране. Обновете антивирусните дефиниции и опитайте отново.</string>
-    <string name="antivirus_sec_network_unavailable">Приложението Сигурност не може да се актуализира, защото сте ограничили интернет връзката. Да се разреши ли на Сигурност да се свърже с интернет?</string>
+    <string name="antivirus_sec_network_unavailable">Сигурност не може да се актуализира, защото сте ограничили интернет връзката. Да се разреши ли на Сигурност да се свърже с интернет?</string>
     <string name="antivirus_update_btn_contiue">Продължи</string>
     <string name="antivirus_update_btn_open">Приеми</string>
     <string name="antivirus_update_btn_update">Актуализирай</string>
@@ -2078,7 +2078,7 @@
     <string name="already_close_gamebooster">Ускорителят на игри е изключен</string>
     <string name="no_game">"Не бяха намерени игри"</string>
     <string name="gamebooster_network_dialog_title">Някои услуги не са достъпни</string>
-    <string name="gamebooster_network_dialog_message">Позволявате ли на Сигурност да се свърже с мрежата, за да използва всички услуги за ускоряване на игрите?</string>
+    <string name="gamebooster_network_dialog_message">Да се разреши ли на Сигурност да се свърже с мрежата, за да можете да използвате всички функции на Game Turbo?</string>
     <string name="create_shortcut">Създайте пряк път за Ускорител на игри на Начален екран</string>
     <string name="i_know">Направено</string>
     <string name="open_game">Отваряне</string>
@@ -2601,7 +2601,7 @@
     <string name="shield_keyboard_summary">Ограничаване на бутоните и жестовете на цял екран по време на игри</string>
     <string name="wlan_optimization_summary">Намаляване на забавянето на WLAN мрежата</string>
     <string name="wlan_optimization_title">WLAN оптимизация</string>
-	<string name="security_center_slogan">Сигурност. Винаги нащрек.</string>
+	<string name="security_center_slogan">Поддържайте устройството си бързо и сигурно</string>
     <string name="third_desktop_dialog_content">Като приложения за стартиране от трети страни може да се стигне до проблеми като изтичане на данни, необичайно изтощаване на батерията,забавяне и т.н. Само тези, потвърдени от MIUI, могат да бъдат зададени като стартер по подразбиране.</string>
     <string name="third_desktop_dialog_ok">Разбрах</string>
     <string name="third_desktop_dialog_title">Грешка</string>
@@ -2738,7 +2738,7 @@
 	<string name="system_permission_declare_privacy_no_permission">"Имайте предвид, че %1s трябва да събере данните ви, за да работи нормално.
 Ние уважаваме и защитаваме вашата поверителност."</string>
 	<string name="system_permission_declare_use_network_no_permission">Свържете се с мрежата</string>
-	<string name="system_permission_declare_revoke_uninstallable">Можете да деинсталирате това приложение или да управлявате разрешенията и оторизацията си в Сигурност &gt; Управление на приложения &gt; Разрешения &gt; Други разрешения.</string>
+	<string name="system_permission_declare_revoke_uninstallable">Можете да излезете, деинсталирате това приложение или да оттеглите пълномощното си в Сигурност &gt; Упрвление на приложения &gt; Разрешения &gt; Разрешения.</string>
 	<string name="system_permission_declare_revoke_system">Можете да излезете от това приложение.</string>
 	<string name="system_permission_declare_user_agreement"><Data>Прочетете и приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> преди да използвате тази функция.</Data></string>
     <string name="system_permission_declare_privacy_policy"><Data>Прочетете и приемете нашата &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> преди да използвате тази функция.</Data></string>
@@ -2868,4 +2868,22 @@
  2. Когато тази функция е включена, обаждащият се няма да чува мелодии за изчакване на повикване. Входящите повиквания ще бъдат прекратени, освен ако не отговорите в рамките на 6 секунди.
  3. Тази функция работи само за SIM карти с данни. Обажданията към вашата основна SIM ще прекъснат мобилната връзка за данни.
  4. Тази функция се поддържа само от China Mobile и China Unicom."</string>
+  <string name="banner_optimizemanage_summary">Освободете памет</string>
+  <string name="banner_red_money_assist_button">Включи</string>
+  <string name="menu_summary_garbage_cleanup_ex">Почистени са %s непотребни файлове</string>
+  <string name="phone_manage">Услуги</string>
+  <string name="phone_manage_app_manager_summary">Управлявайте приложения на вашето устройство</string>
+  <string name="phone_manage_clean_summary">Освободете място за съхранение</string>
+  <string name="phone_manage_clean_title">Почистване</string>
+  <string name="phone_manage_electric_summary">Оптимизирайте устройството си, за да спестите батерия</string>
+  <string name="phone_manage_electric_title">Батерия</string>
+  <string name="phone_manage_special_summary">Разгледайте допълнителната ни функционалност</string>
+  <string name="phone_manage_special_title">Специални функции</string>
+  <string name="phone_manage_system_tool_summary">Полезни инструменти на системно ниво</string>
+  <string name="phone_manage_system_tool_title">Инструменти</string>
+  <string name="power_save_mode">Пестене на батерия</string>
+  <string name="power_save_settings">Настройки на батерията</string>
+  <string name="securitycenter_tab_title">Сигурност</string>
+  <string name="system_tool_green_guard">Семейна охрана</string>
+  <string name="system_tool_sos">Сигнали за спешна помощ</string>
 </resources>

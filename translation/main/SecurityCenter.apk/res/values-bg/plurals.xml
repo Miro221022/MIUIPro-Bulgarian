@@ -321,21 +321,21 @@
         <item quantity="other">%d мАч</item>
         <item quantity="one">%d мАч</item>
      </plurals>
-	     <plurals name="menu_text_antivirus_2">
-        <item quantity="other">%d елемента</item>
-        <item quantity="one">%d елемент</item>
+	     <plurals name="menu_text_antivirus_virus_ex">
+       <item quantity="other">%d приложения съдържат вируси или зловреден софтуер</item>
+	   <item quantity="one">%d приложение съдържа вируси или зловреден софтуер</item>
+	   </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+       <item quantity="other">"Устройството не сканирано от %d дни"</item>
+	   <item quantity="one">"Устройството не сканирано от %d ден"</item>
     </plurals>
-    <plurals name="menu_text_antivirus_3">
-        <item quantity="other">%d дни</item>
-        <item quantity="one">%d ден</item>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d съобщенията и обажданията бяха блокирани</item>
+        <item quantity="one">%d съобщение или обаждане е бил блокирано</item>
     </plurals>
-    <plurals name="menu_text_antispam_2">
-        <item quantity="other">%d елемента</item>
-        <item quantity="one">%d елемент</item>
-    </plurals>
-    <plurals name="menu_text_app_manager_2">
-        <item quantity="other">%d приложения</item>
-        <item quantity="one">%d приложение</item>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d актуализации са налични</item>
+        <item quantity="one">%d актуализация е налична</item>
     </plurals>
 	    <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">"%d икони на приложения не са скрити"</item>
