@@ -678,7 +678,7 @@
   <string name="warning_bar_action_upgrade_vip">Надстройка на плана за Xiaomi Облак</string>
   <string name="warning_bar_add_short_cut_success">Добавено успешно</string>
   <string name="warning_bar_title_cloud_space_already_full">Пространството в Xiaomi Облак намалява. Снимките ви може да не се синхронизират.</string>
-  <string name="warning_bar_title_cloud_space_full">Пространството в Xiaomi Облак е пълно. Синхронизирането е на пауза.</string>
+  <string name="warning_bar_title_cloud_space_full">"Облачното пространство е пълно. Не могат да се синхронизират снимки, история на обажданията и други елементи."</string>
   <string name="warning_bar_title_master_sync_off">Автоматичната синхронизация е изключена</string>
   <string name="warning_bar_title_network_unconnected">"Не може да се свърже с мрежата"</string>
   <string name="warning_bar_title_short_cut">Добавяне на пряк път за Xiaomi Облак на началния екран?</string>
@@ -713,4 +713,19 @@
     <string name="pay_info_dialog_mibi_balance_prefix">Използвайте оставащите Ми кредити: %s</string>
     <string name="pay_info_dialog_confirm_to_pay">Плати %s</string>
     <string name="pay_info_dialog_title">Изберете начин на плащане</string>
+	<string name="micloud_setting_calllog_summary">История на обажданията</string>
+    <string name="micloud_setting_recorder_summary">Аудио и записи на разговори</string>
+    <string name="micloud_setting_notes_summary">Бележки</string>
+    <string name="micloud_setting_calendar_summary">Събития</string>
+    <string name="micloud_setting_personal_assistant_summary">Карти в Личен асистент и функции</string>
+    <string name="micloud_setting_phrase_summary">Чести фрази</string>
+    <string name="micloud_main_head_menu_cloud_backup_summary">Оформление на началния екран, приложения и системни настройки</string>
+    <string name="micloud_main_head_menu_finddevice_summary">"Намерете и заключете устройството си, ако го изгубите"</string>
+	<string name="storage_manage_upgrade">Надграждане</string>
+    <string name="storage_manage_expansion">Получете още</string>
+    <string name="storage_manage_renewal">Подновяване</string>
+    <string name="storage_manage_list_title">Данни в облака</string>
+    <string name="storage_manage_list_title_action">Вижтеоще</string>
+    <string name="cloud_storage_info_type_drive">Mi Диск</string>
+    <string name="cloud_storage_info_type_pdc">Системни настройки</string>
 </resources>
