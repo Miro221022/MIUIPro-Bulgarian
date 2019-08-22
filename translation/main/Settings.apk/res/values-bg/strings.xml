@@ -6510,8 +6510,6 @@ OTG се изключва автоматично след 10 минути без
   <string name="enable_screen_projection_summary">Прехвърлете съдържанието на екрана към външен монитор</string>
   <string name="open_game_accelerate">Включване на Game Turbo</string>
   <string name="other">Друго</string>
-  <string name="screen_dark_mode_select_time_error_summary">"Началното и крайното време не могат да бъдат еднакви"</string>
-  <string name="screen_dark_mode_time_title">График</string>
   <string name="screen_projection">Споделяне</string>
     <string name="screen_projection_characteristics">Специални функции</string>
     <string name="screen_projection_characteristics_off_screen_summary">Можете да продължите да правите споделяте, когато екранът на вашето устройство е изключен. Тази функция намалява консумацията на енергия.</string>
