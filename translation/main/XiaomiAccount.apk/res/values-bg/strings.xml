@@ -581,5 +581,5 @@ ID:%s
   <string name="two_factor_auth_need_code">Въведете код</string>
   <string name="two_factor_auth_need_code_summary">"Ще видите кода на други свързани Mi устройства. Въведете този код на ново устройство, за да влезете."</string>
   <string name="two_factor_auth_summary">"Когато се опитате да влезете на ново устройство или на ново място, ще бъдете уведомени за това на другите свързани устройства. Ще трябва да потвърдите дали такива опити за влизане са разрешени от вас."</string>
-  <string name="ep_unsupported">Вашето устройство не поддържа вписване в Xiaomi профил</string>
+  <string name="ep_unsupported">"Не можете да влвзете в Mi профил на устройството си"</string>
 </resources>

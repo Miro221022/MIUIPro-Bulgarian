@@ -154,7 +154,7 @@
   <string name="more_details">Повече информация</string>
   <string name="network_not_available">Няма връзка с мрежата</string>
   <string name="network_unavailable">Няма връзка с мрежата.</string>
-  <string name="night_not_disturb_settings_summary">Заглушаване на предупрежденията в периода между 23:00ч и 07:00ч</string>
+  <string name="night_not_disturb_settings_summary">Блокиране на предупрежденията в периода между 23:00ч и 07:00ч</string>
   <string name="night_not_disturb_settings_title">Не ме безпокой през нощта</string>
   <string name="no_data">Няма данни</string>
   <string name="no_network_btn">Нов опит</string>
@@ -268,4 +268,12 @@
   <string name="tts_max_wind_power">Най-висока скорост на вятъра</string>
   <string name="shortcut_short_label_24_hour_forecast">24-часова прогноза</string>
   <string name="shortcut_short_label_recent_forecast">Проверка на времето</string>
+    <string name="about_weather_setting">Относно Времето</string>
+    <string name="about_weather_setting_feedback">Отзиви</string>
+    <string name="abrupt_weather_settings_summary_type">Получавайте сигнали за очаквани валежи, промени в качеството на въздуха и други значителни промени</string>
+    <string name="alert_weather_enable_settings_summary">Получавайте официални предупреждения за времето</string>
+    <string name="alert_weather_enable_settings_title">Метеорологични предупреждения</string>
+    <string name="feedback">Докладвайте неправилна информация за времето</string>
+    <string name="warning_weather_day_and_night_settings_summary">Получавайте ежедневни обобщения, съдържащи информация за времето в 7:00 и 19:00</string>
+    <string name="warning_weather_day_and_night_settings_title">Ежедневни обобщения</string>
 </resources>

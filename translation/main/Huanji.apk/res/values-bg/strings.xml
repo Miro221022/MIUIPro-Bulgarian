@@ -339,7 +339,7 @@
     <string name="dialog_request_network_message">Добре дошли в Mi Трансфер! Можете да използвате това приложение, за да прехвърляте елементи от старото си устройство към ново. Mi Трансфер трябва да се свърже с интернет, за да работи нормално.</string>
     <string name="dialog_tip_upgrade_summary">Изглежда, че Mi Транфсер е твърде стара версия. Актуализирайте го до най-новата му версия, за да можете да прехвърляте файлове.</string>
     <string name="dialog_tip_upgrade_title">Актуализация на Mi Транфсер</string>
-    <string name="dialog_version_summary_tip">Относно актуализацията:</string>
+    <string name="dialog_version_summary_tip">Какво ново:</string>
     <string name="dialog_version_title_tip">Налична е актуализация</string>
     <string name="document">Документи</string>
     <string name="earthly_branches_chen">辰</string>
@@ -906,4 +906,12 @@
     <string name="size_peta_byte">Пб</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">Тб</string>
+	<string name="dialog_forbidden_use_tips">"В момента Mi Трансфер не поддържа прехвърляне на данни към или от таблети."</string>
+    <string name="close_vpn_summary">Изглежда, че вашето устройство е свързано към VPN в момента. Изключете VPN, за да можете да се свържете с други устройства.</string>
+    <string name="close_vpn_title">Изключи VPN</string>
+	<string name="miui_need_location_permission_summary">"Разрешете на Mi Трасфер да получи достъп до вашето местоположение, за да намери устройства в близост. Няма да можете да използвате Mi Трасфер, освен ако не дадете това разрешение."</string>
+    <string name="miui_need_location_permission_title">Разрешаване на достъп до местоположението</string>
+    <string name="miui_need_open_high_accuracy_summary">"Разрешете на Ми Трасфер достъп до вашето местоположение в режим на висока точност, за да намерите устройства в близост. Няма да можете да използвате Mi Трасфер, освен ако не дадете това разрешение."</string>
+    <string name="miui_need_open_high_accuracy_title">Разрешаване на достъп до точна информация за местоположението</string>
+    <string name="need_location_permission_summary">Разрешете на Ми Трасфер достъп до вашето местоположение, за да може да намира устройства в близост.</string>
 </resources>

@@ -156,4 +156,8 @@
         <item quantity="other">" %1$sчаса %2$s"</item>
 		<item quantity="one">" %1$sчас %2$s"</item>
     </plurals>
+	    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Прикачаване след %1$d секунди</item>
+        <item quantity="one">Прикачаване след %1$d секунда</item>
+    </plurals>
 </resources>
