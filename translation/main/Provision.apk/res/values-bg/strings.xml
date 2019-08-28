@@ -97,7 +97,7 @@
   <string name="voice_assist_desp_screen_light">След като екранът светне, кажете \"Mi AI\" на телефона си. Mi AI ще разпознае гласа ви и ще може да контролира устройството ви.</string>
   <string name="terms_of_use_lable_gms">, Услуги на Google Play</string>
   <string name="terms_of_use_lable_smart_cards">, Смарт карти</string>
-  <string name="terms_of_use_lable_apps">Mi услуги, Mi услуги за активиране на SIM картата, Xiaomi Облак, Открий устройството, Начален екран, Games, MAB, MIUI Daemon, MSA системни компоненти, услуги за превод, Мигновени приложения, Личен асистент, статистики, Mi Link</string>
+  <string name="terms_of_use_lable_apps">Mi услуги, Mi услуга за активиране на SIM картата, Xiaomi Облак, Открий устройството, Начален екран, Игри, MIUI Daemon, MSA системни компоненти, улуги за превод, Мигновени приложения, Личен асистент, статистики, Mi Link</string>
   <string name="voice_assist_advice">Mi AI ви позволява да използвате гласови контрол, но консумира повече енергия (+1% на всеки час).</string>
   <string name="voice_assist_condition">"Ще можете да използвате Mi AI в следните случаи:
 1. Когато екранът е включен.
@@ -125,4 +125,8 @@
   <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
   <string name="skip_gesture_guide_dialog_title">Жестове на цял екран</string>
   <string name="terms_of_use_label_updater">, Актуализатор</string>
+  <string name="terms_of_use_label_mab">, MAB</string>
+  <string name="terms_of_use_label_Mistore">, системната приставка на Mi Store</string>
+  <string name="terms_of_use_label_package">, Програмата за инсталиране</string>
+  <string name="terms_of_use_label_phrase">, Чести фрази</string>
 </resources>

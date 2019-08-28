@@ -128,4 +128,15 @@
     <string name="grant_dialog_button_allow_always">Разрешаване през цялото време</string>
     <string name="grant_dialog_button_allow_foreground">Разрешаване само когато използвате приложението</string>
     <string name="grant_dialog_button_allow_background">Разрешаване през цялото време</string>
+	<string name="permgroupdesc_contacts">Достъп до контактите</string>
+    <string name="permgroupdesc_location">Достъп до информация за местоположението</string>
+    <string name="permgroupdesc_calendar">Достъп до събития в календара</string>
+    <string name="permgroupdesc_sms">Четене или изпращане на SMS</string>
+    <string name="permgroupdesc_storage">Достъп до снимки или файлове на устройството</string>
+    <string name="permgroupdesc_microphone">Запис на звук</string>
+    <string name="permgroupdesc_camera">Заснемане на снимки и запис на видео</string>
+    <string name="permgroupdesc_calllog">Достъп и запазване на елементи в историята на повикванията</string>
+    <string name="permgroupdesc_phone">Осъществяване на повиквания и управление на разговорите</string>
+    <string name="permgroupdesc_sensors">Достъп до данните на сензора за тялото</string>
+    <string name="permgroupdesc_recognition">Достъп до данни за здравето и активността</string>
 </resources>
