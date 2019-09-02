@@ -102,7 +102,7 @@
   <string name="change_email_address">Промяна на имейл адрес</string>
   <string name="change_password">Промени паролата</string>
   <string name="change_phone_number">Промяна на телефонен номер</string>
-  <string name="cloud_service">Mi Облак</string>
+  <string name="cloud_service">Xiaomi Облак</string>
   <string name="completed">Готово</string>
   <string name="confirm_activate_email">Потвърждавам</string>
   <string name="confirm_bundled_phone_dialog_title">Потвърдете свързване с телефонен номер</string>
@@ -188,8 +188,8 @@
   <string name="mipay_others">Друго</string>
   <string name="mipay_transit_card">Карта за пътуване</string>
   <string name="multi_user_not_show_sync_activity_message_1">Изглежда, че използвате първия си Mi акаунт в първото пространство.</string>
-  <string name="multi_user_not_show_sync_activity_message_2">В такъв случай всички данни ще бъдат синхронизирани с второто Ви пространство. За да избегнете това, не включвайте синхронизирането с Mi Облак.</string>
-  <string name="multi_user_not_show_sync_activity_title">Не включвайте синхронизация с Mi Облак</string>
+  <string name="multi_user_not_show_sync_activity_message_2">В такъв случай всички данни ще бъдат синхронизирани с второто Ви пространство. За да избегнете това, не включвайте синхронизирането с Xiaomi Облак.</string>
+  <string name="multi_user_not_show_sync_activity_title">Не включвайте синхронизация с Xiaomi Облак</string>
   <string name="my_device_title">Текущо устройство</string>
   <string name="no_network_btn">Опресни</string>
   <string name="no_network_title">Няма врузка с мрежата.</string>
