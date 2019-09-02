@@ -41,8 +41,8 @@
         <item quantity="one">Създадена на %1$s | общо %2$d песен</item>
     </plurals>
     <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d песни не са архивирани в Mi Облак. Спиране сега?</item>
-        <item quantity="one">%d песен не е архивирана в Mi Облак. Спиране сега?</item>
+        <item quantity="other">%d песни не са архивирани в Xiaomi Облак. Спиране сега?</item>
+        <item quantity="one">%d песен не е архивирана в Xiaomi Облак. Спиране сега?</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d песни са добавени в списъка</item>
@@ -89,8 +89,8 @@
         <item quantity="one">Премахване на %d песен?</item>
     </plurals>
     <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Изтриване на %d песни от Mi Облак? Ще се изтрият и от запазените списъци с изпълнители също.</item>
-        <item quantity="one">Изтриване на %d песен от Mi Облак? Ще се изтрие и от запазените списъци с изпълнители също.</item>
+        <item quantity="other">Изтриване на %d песни от Xiaomi Облак? Ще се изтрият и от запазените списъци с изпълнители също.</item>
+        <item quantity="one">Изтриване на %d песен от Xiaomi Облак? Ще се изтрие и от запазените списъци с изпълнители също.</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other">Изтеглени &lt;font color==\"red\">%d песни&lt;/font></item>

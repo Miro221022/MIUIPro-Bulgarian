@@ -21,14 +21,14 @@
   <string name="app_widget">Бележки</string>
   <string name="call_folder_name">Бележки за обаждане</string>
   <string name="cancel_alarm_description">Отмени будилник</string>
-  <string name="cloud_service_state_open_reminder">Включете синхронизирането с Mi Облак за да синхронизирате бележките.</string>
-  <string name="cloud_trash_bin_title">Изтриване на бележки от Mi Облак</string>
+  <string name="cloud_service_state_open_reminder">Включете синхронизирането с Xiaomi Облак за да синхронизирате бележките.</string>
+  <string name="cloud_trash_bin_title">Изтриване на бележки от Xiaomi Облак</string>
   <string name="cta_reminder">Бележки се нуждае от разрешения за свързване с интернет, записване на звук и достъп до вашите контакти, за да работят нормално. Разрешаване?</string>
   <string name="db_downgrade_clear_button">Изчистване на данните</string>
-  <string name="db_downgrade_clear_date_reminder">Преминаването към друга версия на MIUI налага изчистването на информацията от приложението Бележки. Преди да направите това, уверете се, че сте архивирали вашите бележки в Mi Облак.</string>
+  <string name="db_downgrade_clear_date_reminder">Преминаването към друга версия на MIUI налага изчистването на информацията от приложението Бележки. Преди да направите това, уверете се, че сте архивирали вашите бележки в Xiaomi Облак.</string>
   <string name="default_folder_name">Бележки</string>
   <string name="delete_folder_dialog_tile">Изтрий папката</string>
-  <string name="dialog_privacy_revoke_tips">След като анулирате разрешението, приложението ще спре събирането на данни и всички свързани с него данни ще бъдат изтрити от сървърите. Това може да направи приложението практически неизползваемо. Анулиране на разрешението въпреки това?За да подсигурите сигурноста на профилите Ви, впишете се в i.mi.com преди анулирането на разрешението за Mi Облак услугите.</string>
+  <string name="dialog_privacy_revoke_tips">След като анулирате разрешението, приложението ще спре събирането на данни и всички свързани с него данни ще бъдат изтрити от сървърите. Това може да направи приложението практически неизползваемо. Анулиране на разрешението въпреки това?За да подсигурите сигурноста на профилите Ви, впишете се в i.mi.com преди анулирането на разрешението за Xiaomi Облак услугите.</string>
   <string name="dialog_share_as_pic">Споделяне на бележката като изображение</string>
   <string name="dialog_share_as_text">Споделяне на бележката като текст</string>
   <string name="dialog_share_title">Споделяне на бележка</string>
@@ -97,7 +97,7 @@
   <string name="menu_unstick">Откачи</string>
   <string name="not_now">Не сега</string>
   <string name="note_alert_expired">Изтекли</string>
-  <string name="note_description_content">Приложението Бележки е чудесен инструмент за записване на вашите идеи. То има вградени напомняния и синхронизира вашите неща с Mi Облак, за да имате достъп до тях отвсякъде и по всяко време. Уверете се, че можете да се справяте и без това приложение, преди да го деинсталирате.</string>
+  <string name="note_description_content">Приложението Бележки е чудесен инструмент за записване на вашите идеи. То има вградени напомняния и синхронизира вашите неща с Xiaomi Облак, за да имате достъп до тях отвсякъде и по всяко време. Уверете се, че можете да се справяте и без това приложение, преди да го деинсталирате.</string>
   <string name="note_description_title">За Бележки</string>
   <string name="note_link_email">Изпрати Имейл</string>
   <string name="note_link_other">Виж на картата</string>
@@ -112,7 +112,7 @@
   <string name="permdesc_accessNote">Злонамерените приложения могат да използват това за достъп до личните ви данни.</string>
   <string name="permlab_accessNote">Достъп до бележките</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Не питай за потвърждение при изтриване на бележки, когато използвате жестове</string>
-  <string name="pref_title_cloud_trash_bin">Изтриване на бележки от Mi Облак</string>
+  <string name="pref_title_cloud_trash_bin">Изтриване на бележки от Xiaomi Облак</string>
   <string name="pref_title_common">Общи настройки</string>
   <string name="pref_title_font_size">Размер на шрифта</string>
   <string name="pref_title_note_style">Стил на бележки</string>
@@ -155,7 +155,7 @@
   <string name="sns_title_send">Изпрати съобщение</string>
   <string name="sns_toast_empty">Не може да се изпрати празна публикация</string>
   <string name="sns_toast_over_limit">Изпрати като снимка</string>
-  <string name="sync_tips">Чукнете за синхронизиране на бележките с Mi Облак.</string>
+  <string name="sync_tips">Чукнете за синхронизиране на бележките с Xiaomi Облак.</string>
   <string name="theme_blue_description">Синьо</string>
   <string name="theme_green_description">Зелено</string>
   <string name="theme_red_description">Червено</string>

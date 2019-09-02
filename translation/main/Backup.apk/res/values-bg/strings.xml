@@ -47,8 +47,8 @@
     <string name="settings_summary">Настройки за телефон и съобщения</string>
     <string name="camera_summary">Настройки на камерата (без снимките)</string>
     <string name="account_summary">Архивиране на профилите в Google, Mi и други данни</string>
-    <string name="cloud_app_name">Резервно копие в Mi Облак</string>
-    <string name="cloud_home_title">Mi Облак</string>
+    <string name="cloud_app_name">Резервно копие в Xiaomi Облак</string>
+    <string name="cloud_home_title">Xiaomi Облак</string>
     <string name="prompt_reading">Разчитане на данни…</string>
     <string name="prompt_sending">Изпращане…</string>
     <string name="prompt_writing">Записване……</string>
@@ -56,17 +56,17 @@
     <string name="backup_update">Актуализиране</string>
     <string name="backup_delete">Изтриване:</string>
     <string name="findlost_contact">Възстановяване на контакти</string>
-    <string name="findlost_contact_online">Възстановяване на изтрити контакти от Mi Облак</string>
+    <string name="findlost_contact_online">Възстановяване на изтрити контакти от Xiaomi Облак</string>
     <string name="cloud_backup_login">Влезте с Mi профила си</string>
     <string name="cloud_backup_hint">За достъп до вашите резервни копия, впишете се сега</string>
-    <string name="cloud_backup_window_title">Рез. копие в Mi Облак</string>
-    <string name="cloud_restore_window_title">Възстановяване от Mi Облак</string>
+    <string name="cloud_backup_window_title">Рез. копие в Xiaomi Облак</string>
+    <string name="cloud_restore_window_title">Възстановяване от Xiaomi Облак</string>
     <string name="cloud_restore_title">Възстановяване на данни</string>
     <string name="local_backup_window_title">Локално резервно копие</string>
     <string name="local_restore_window_title">Локално възстановяване</string>
     <string name="account_login">Вписване</string>
     <string name="miliao_account_login">Влизане с MiTalk</string>
-    <string name="miliao_account_guide">Създайте си Mi профил, за да се регистрирате в Mi Облак, MIUI Магазин за теми и всички други услуги на MIUI, достъпни за вас отвсякъде.</string>
+    <string name="miliao_account_guide">Създайте си Mi профил, за да се регистрирате в Xiaomi Облак, MIUI Магазин за теми и всички други услуги на MIUI, достъпни за вас отвсякъде.</string>
     <string name="auto_backup">Автоматично архивиране</string>
     <string name="contact_title">Контакти</string>
     <string name="call_title">Списъци с повиквания</string>
@@ -113,7 +113,7 @@
     <string name="sc_network_unavailable">Грешка при свързване с мрежата</string>
     <string name="sc_bad_request">Невалидна заявка</string>
     <string name="sc_unaccess_password_file">Не съхранявайте пароли за Wi-Fi мрежи</string>
-    <string name="sc_service_unavailable">Mi Облак е недостъпен</string>
+    <string name="sc_service_unavailable">Xiaomi Облак е недостъпен</string>
     <string name="sc_unauthorized">Моля, впишете се отново</string>
     <string name="sc_request_timeout">Времето на заявката изтече</string>
     <string name="sc_precondition_failed">Необходимо е да обвържете Mi профила си с валиден имейл адрес</string>
@@ -171,7 +171,7 @@
     <string name="deselect_all">Откажи всички</string>
     <string name="reverse_all">Изчисти всички</string>
     <string name="refresh">Опресни</string>
-    <string name="cloud_item_info_summary">" (Локално: %1$s | Mi Облак: %2$s)"</string>
+    <string name="cloud_item_info_summary">" (Локално: %1$s | Xiaomi Облак: %2$s)"</string>
     <string name="cloud_restore_guide">За да възстановите потребителските данни за %s, натиснете Възстановяване</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Изтеглете приложението Mi Talk е се впишете.
 \u0009http://www.miliao.com
@@ -385,7 +385,7 @@
     <string name="total_size">, %s</string>
     <string name="trans_intro_title">ЧЗВ</string>
     <string name="trans_intro_question_1">%d. Как да използвам Mi Трансфер за преместване на данни от Apple устройство?</string>
-    <string name="trans_intro_desc_1">На Mi телефон, свържете се с Wi-Fi и натиснете \"Аз съм получател\". Изберете вашето iOS устройство, впишете се в Mi Облак и прехвърлете информацията.</string>
+    <string name="trans_intro_desc_1">На Mi телефон, свържете се с Wi-Fi и натиснете \"Аз съм получател\". Изберете вашето iOS устройство, впишете се в Xiaomi Облак и прехвърлете информацията.</string>
     <string name="trans_intro_question_2">%d. Как да използвам Mi Трансфер за преместване на данни от Android устройство?</string>
     <string name="trans_intro_title_new">На нов телефон:</string>
     <string name="trans_intro_desc_new">Докоснете \"Аз съм Получател\". QR код ще бъде генериран.</string>
@@ -407,7 +407,7 @@
     <string name="trans_intro_title_account">Профили и пароли:</string>
     <string name="trans_intro_desc_account">Вие трябва да се впишете отново във вашите профили (например Mi Профил, Exchange, Google Профил и др.) на новото си устройство поради съображения за сигурност.</string>
     <string name="trans_intro_title_private">Скрит албум:</string>
-    <string name="trans_intro_desc_private">Mi трансфер няма достъп до снимките в скритите албуми, защото те са криптирани. Вие трябва да възстановите тези снимки от Mi Облак на новото устройство.</string>
+    <string name="trans_intro_desc_private">Mi трансфер няма достъп до снимките в скритите албуми, защото те са криптирани. Вие трябва да възстановите тези снимки от Xiaomi Облак на новото устройство.</string>
     <string name="trans_intro_title_multiuser">Данни от Второ работно място:</string>
     <string name="trans_intro_desc_multiuser">Mi трансфер няма достъп до елементите във Второ работно място. Преместете ги в Основно работно място и започнете прехвърляне.</string>
     <string name="trans_intro_title_multiapp">Клонирани приложения:</string>

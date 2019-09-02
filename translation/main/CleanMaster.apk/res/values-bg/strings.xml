@@ -148,7 +148,7 @@
   <string name="default_cache_type">Файлове с данни</string>
   <string name="delete_confirm">Изтрий</string>
   <string name="delete_confirm_msg">Изтрий всички избрани файлове за постоянно?</string>
-  <string name="dialog_content_checkbox_delete_cloud_image">Изтриване и на снимките от Mi Облак</string>
+  <string name="dialog_content_checkbox_delete_cloud_image">Изтриване и на снимките от Xiaomi Облак</string>
   <string name="dialog_content_select_all_confirm">Да се запази ли копие на тази снимка?</string>
   <string name="dialog_msg_add_white_list_error">Файлът не поддържа добавяне в изключения</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Рез. копие и деинсталиране на приложенията?</string>

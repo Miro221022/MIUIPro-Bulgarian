@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Mi Облачна синхронизация</string>
+  <string name="app_name">Xiaomi Облачна синхронизация</string>
   <string name="error_data_in_transfer">Синхронизирането ще приключи след %s часа.</string>
-  <string name="error_data_in_transfer_title">Mi Облак е недостъпен</string>
+  <string name="error_data_in_transfer_title">Xiaomi Облак е недостъпен</string>
   <string name="error_forbidden">Синхронизирането беше деактивирано поради проблеми с вашият Mi профил.</string>
   <string name="error_not_acceptable">Синхронизирането е деактивирано.</string>
   <string name="error_title">"Не може да се синхронизира"</string>

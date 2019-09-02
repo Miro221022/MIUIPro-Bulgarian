@@ -94,7 +94,7 @@
     <string name="avoid_to_use_traffic_summary">Предупреждение за ползване на данни</string>
     <string name="avoid_to_use_traffic_title">Питай, когато се използват мобилни данни за прослушване на песни</string>
     <string name="back_confirm">Чукнете още веднъж за изход</string>
-    <string name="backup_complete">Всички песни са архивирани в Mi Облак</string>
+    <string name="backup_complete">Всички песни са архивирани в Xiaomi Облак</string>
     <string name="backup_empty_button">Няма избрани песни</string>
     <string name="backup_immediate">Архивиране</string>
     <string name="backup_song_title">Изберете песни за архивиране</string>
@@ -122,13 +122,13 @@
     <string name="click_to_shuffle">Докоснете, за да разбъркате всички</string>
     <string name="close_music_time">"Минути: "</string>
     <string name="cloud_empty_local_empty_button">Няма песни на това устройство</string>
-    <string name="cloud_empty_message">Няма песни в Mi Облак</string>
+    <string name="cloud_empty_message">Няма песни в Xiaomi Облак</string>
     <string name="cloud_empty_summary">Архивирайте вашите песни, за да имате достъп до тях от други устройства</string>
-    <string name="cloud_enable">Синхронизиране на музиката с Mi Облак</string>
+    <string name="cloud_enable">Синхронизиране на музиката с Xiaomi Облак</string>
     <string name="cloud_loading_message">Търсене на песни…</string>
-    <string name="cloud_music">Песни в Mi Облак</string>
+    <string name="cloud_music">Песни в Xiaomi Облак</string>
     <string name="cloud_settings">Настройки за синхрон</string>
-    <string name="cloud_state_cloud_space_full">Няма достатъчно място в Mi Облак, архивирането е на пауза</string>
+    <string name="cloud_state_cloud_space_full">Няма достатъчно място в Xiaomi Облак, архивирането е на пауза</string>
     <string name="cloud_state_low_power">Свържете зарядното устройство, за да продължите архивирането</string>
     <string name="cloud_state_network_data">Няма открити Wi-Fi мрежи, архивирането е на пауза</string>
     <string name="cloud_state_network_unavailable">Няма връзка с мрежата, архивирането е на пауза</string>
@@ -234,8 +234,8 @@
     <string name="download_auto_when_free_network">Изтегляне на песни само чрез Wi-Fi</string>
     <string name="download_auto_when_free_network_summary">Допълнителни настройки на вашите любими песни</string>
     <string name="download_cloud_error_not_auth">Влезте във Вашия Mi Профил и опитайте отново.</string>
-    <string name="download_cloud_error_retryable">Mi облачна услуга - грешка в сървъра, опитайте по-късно.</string>
-    <string name="download_cloud_error_unknow">Няма връзка с Mi Облак</string>
+    <string name="download_cloud_error_retryable">Xiaomi облачна услуга - грешка в сървъра, опитайте по-късно.</string>
+    <string name="download_cloud_error_unknow">Няма връзка с Xiaomi Облак</string>
     <string name="download_complete">Изтеглянето приключи</string>
     <string name="download_complete_btn">Инсталирано</string>
     <string name="download_complete_start_install">Инсталиране…</string>
@@ -469,7 +469,7 @@
     <string name="lyric_label">Текстове</string>
     <string name="lyric_open_other_connect">Изтегляне на текста чрез мобилни данни</string>
     <string name="lyric_setting">Настройки за текст</string>
-    <string name="manager_cloud_space">Управление на хранилището в Mi Облак</string>
+    <string name="manager_cloud_space">Управление на хранилището в Xiaomi Облак</string>
     <string name="media_filter">Медия</string>
     <string name="menu_all_task_pause">Всички на пауза</string>
     <string name="menu_all_task_start">Стартиране на всички</string>
