@@ -40,11 +40,11 @@
     <string name="confirm_cancel_task_images">Отказ за изпращане на изображения до %1$s?</string>
     <string name="default_device_name">Неизвестно устройство</string>
     <string name="device_name">Име на устройството</string>
-    <string name="device_type_oppo_phone">OPPO手机</string>
-    <string name="device_type_pc">电脑设备</string>
-    <string name="device_type_realme_phone">realme手机</string>
-    <string name="device_type_vivo_phone">VIVO手机</string>
-    <string name="device_type_xiaomi_phone">小米手机</string>
+    <string name="device_type_oppo_phone">OPPO</string>
+    <string name="device_type_pc">Компютри</string>
+    <string name="device_type_realme_phone">realme</string>
+    <string name="device_type_vivo_phone">VIVO</string>
+    <string name="device_type_xiaomi_phone">Xiaomi</string>
     <string name="disconnect">ПРЕКЪСВАНЕ НА ВРЪЗКАТА</string>
     <string name="enable_midrop">ВКЛЮЧВАНЕ</string>
     <string name="error_ap_already_hosting">"Не можете да изпращате елементи до компютър, докато предавате или използвате преносима точка за достъп."</string>
@@ -108,10 +108,10 @@
     <string name="throwing_screen">Споделяне</string>
     <string name="tips_prompt_enable_midrop">Споделяйте файлове с устройства наблизо</string>
     <string name="transfer_intercept_to_remote">"Не може да се изпрати: %1$s"</string>
-    <string name="transfer_to_pc_summary">Телефонът може също да търси околните лаптоп устройства и да ги показва в интерфейса за споделяне，小米笔记本可直接发送，其他品牌的笔记本需要安装并启动“小米互传”APP</string>
-    <string name="transfer_to_pc_title">电脑互传</string>
-    <string name="transfer_to_phone_summary">开启小米互传后，可在分享图片、文件时自动搜索周围的设备，并发送给周围的小米及其他安卓厂商的手机设备</string>
-    <string name="transfer_to_phone_title">手机互传</string>
+    <string name="transfer_to_pc_summary">Можете да използвате Mi Споделяне, за да изпращате елементи директно до Mi Notebooks. На други лаптопи първо трябва да инсталирате Mi Споделяне</string>
+    <string name="transfer_to_pc_title">Изпращане на файлове към компютри</string>
+    <string name="transfer_to_phone_summary">Mi Share ви позволява да изпращате изображения и файлове до близки Mi телефони и други съвместими устройства с Android</string>
+    <string name="transfer_to_phone_title">Изпращане на файлове към телефони</string>
     <string name="unkonw_device">Неизвестно устройство</string>
     <string name="wait_receive_file">Изчаква се приемане…</string>
     <string name="wait_remote_receive_tips">Изчакване…</string>
@@ -138,11 +138,11 @@
     <string name="xiaomi_8_exp">Mi 8 EE</string>
     <string name="xiaomi_8_se">Mi 8 SE</string>
     <string name="xiaomi_8_ud">Mi 8 UD</string>
-    <string name="xiaomi_8_young">Mi 8 青春版</string>
+    <string name="xiaomi_8_young">Mi 8 Lite</string>
     <string name="xiaomi_9">Mi 9</string>
     <string name="xiaomi_9_se">Mi 9 SE</string>
     <string name="xiaomi_cc_9">Mi CC9</string>
-    <string name="xiaomi_cc_9_custom">Mi CC9 美图定制版</string>
+    <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9e">Mi CC 9e</string>
     <string name="xiaomi_max_3">Mi MAX 3</string>
     <string name="xiaomi_mix_2">Mi MIX 2</string>
@@ -151,4 +151,6 @@
     <string name="xiaomi_mix_3_5g">Mi MIX3 5G</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
+	<string name="purpose">"Добре дошли в Mi Споделяне! Можете да използвате това приложение за прехвърляне на файлове между устройства. Ние защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики.
+Преди да използвате Mi Споделяне, трябва да предоставите следните разрешения, както и да му разрешите да събира необходимата лична информация:"</string>
 </resources>

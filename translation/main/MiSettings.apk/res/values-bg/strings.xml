@@ -109,7 +109,7 @@
   <string name="usage_state_device_limit_title">Ограничения за екранно време на устройството</string>
   <string name="usage_state_show_app">Приложения</string>
   <string name="usage_state_show_category">Категории</string>
-  <string name="usage_state_show_detail">Вижте подробни статистики</string>
+  <string name="usage_state_show_detail">Преглед на подробни статистики</string>
   <string name="usage_state_show_more">Още</string>
   <string name="usage_state_time_end">Достигнат е лимита за екранно време за днес</string>
   <string name="usage_state_unusage">"Не е използвано днес"</string>
@@ -122,4 +122,5 @@
   <string name="usagestats_app_category_miui_photo">Фотография и видео</string>
   <string name="usagestats_app_category_miui_sport">Спорт и фитнес</string>
   <string name="usagestats_app_category_miui_travel">Пътуване</string>
+  <string name="usage_state_remind_new_summary">Получавайте известие, когато времето на екрана достигне зададеното ограничение</string>
 </resources>

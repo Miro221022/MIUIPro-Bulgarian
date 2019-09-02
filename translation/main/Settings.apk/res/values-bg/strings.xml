@@ -95,8 +95,8 @@
     <string name="running_process_item_user_label">Потребител %1$s</string>
     <string name="launch_defaults_some">Задаване на определени настройки</string>
     <string name="launch_defaults_none">Няма настройки по подразбиране</string>
-    <string name="tts_settings">Настройки на синтетичен говор</string>
-    <string name="tts_settings_title">Синтетичен говор</string>
+    <string name="tts_settings">Настройки на синтезиран говор</string>
+    <string name="tts_settings_title">Синтезиран говор</string>
     <string name="tts_default_rate_title">Ниво на гласа</string>
     <string name="tts_default_rate_summary">Скорост на произнасяне на текста</string>
     <string name="tts_default_pitch_title">Стъпка</string>
@@ -6513,7 +6513,7 @@ OTG се изключва автоматично след 10 минути без
   <string name="screen_projection">Споделяне</string>
     <string name="screen_projection_characteristics">Специални функции</string>
     <string name="screen_projection_characteristics_off_screen_summary">Можете да продължите да правите споделяте, когато екранът на вашето устройство е изключен. Тази функция намалява консумацията на енергия.</string>
-    <string name="screen_projection_characteristics_off_screen_title">Споделяне се с изключен екран</string>
+    <string name="screen_projection_characteristics_off_screen_title">Споделяне с изключен екран</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">"Без показване на плаващи известия, входящи повиквания и други частни елементи на външни монитори."</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Скриване на поверителните елементи</string>
     <string name="screen_projection_characteristics_small_window_summary">"Смалете прозореца, който се предава, за да можете да използвате други функции на вашия телефон."</string>
@@ -6553,4 +6553,6 @@ OTG се изключва автоматично след 10 минути без
     <string name="wifi_link_turbo_off">Изключено</string>
     <string name="wifi_link_turbo_on">Включено</string>
     <string name="wifi_link_turbo_summary">Ускорете скоростта на връзката за избраните приложения чрез мобилни данни, когато WLAN връзката е лоша</string>
+	<string name="tts_play">Изпълни</string>
+	<string name="tts_reset">Нулиране</string>
 </resources>
