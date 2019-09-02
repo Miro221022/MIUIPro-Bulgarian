@@ -328,7 +328,7 @@
   <string name="express_order_result">Резултат</string>
   <string name="express_order_state_accepted">Приети</string>
   <string name="express_order_state_allograph">Подписан</string>
-  <string name="express_order_state_cancelled">Отменен</string>
+  <string name="express_order_state_cancelled">Отменено</string>
   <string name="express_order_state_dispatching">Доставяне</string>
   <string name="express_order_state_dispatching_failed">Провален</string>
   <string name="express_order_state_failed">Провален</string>
@@ -928,7 +928,7 @@
   <string name="express_setting_other">Друго</string>
   <string name="miot_device_add_device">Добавяне на устройство</string>
   <string name="miot_device_all_device">Цялото оборудване</string>
-  <string name="miot_device_cancel">отменен</string>
+  <string name="miot_device_cancel">Отказ</string>
   <string name="miot_device_card_title">Mi Home устройства</string>
   <string name="miot_device_cta_and"> и </string>
   <string name="miot_device_cta_message">Добавете вашите интелигентни устройства, за да можете да ги контролирате в Личен аситент. С натискането на \"Съгласен съм\" по-долу, вие се съгласявате с </string>
@@ -942,8 +942,8 @@
   <string name="miot_device_login">Към вписване</string>
   <string name="miot_device_mijia_logout_message">Преди да добавите и използвате устройството, трябва да влезете в Mi профила. Искате ли да влезете?</string>
   <string name="miot_device_mijia_logout_title">Не сте вписан</string>
-  <string name="miot_device_mijia_uninstall_message">Вашият мобилен телефон все още няма приложението Mijia, така че не може да бъде активиран. Искате да отидете в магазина за приложения, за да го изтеглите?</string>
-  <string name="miot_device_mijia_uninstall_title">Не е инсталиран</string>
+  <string name="miot_device_mijia_uninstall_message">Приложението Mi Home не е инсталирано. Искате ли да го изтеглите чрез вашия магазин за приложения?</string>
+  <string name="miot_device_mijia_uninstall_title">Не е инсталирано</string>
   <string name="miot_device_network_error">Текущата мрежа не е свързана</string>
   <string name="miot_device_shrink_list">Свиване списък</string>
   <string name="net_unavailable">"Не може да се свърже с мрежата."</string>
@@ -1001,7 +1001,7 @@
   <string name="card_banner_close_tomorrow">Напомни утре</string>
   <string name="cta_dialog_miot_text_all">За да се гарантира, че може да функционира нормално, може да се наложи Mi Home да получи достъп до вашата мрежа, местоположение, разрешение за включване на Bluetooth, да използва вашата клетъчна мрежа, микрофона и да прочетете вашите контакти. Потвърждавате ли?</string>
   <string name="express_query">Следене</string>
-  <string name="express_query_more">Проследете още</string>
+  <string name="express_query_more">Следете още</string>
   <string name="notification_channel_card">Карти</string>
   <string name="notification_channel_default">По подразбиране</string>
   <string name="book_arr_station">Добавяне на дестинация</string>

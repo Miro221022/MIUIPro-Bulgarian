@@ -173,7 +173,7 @@
     <string name="resource_apply_trial">Пробвай сега</string>
     <string name="resource_back">Назад</string>
     <string name="resource_buy">Купи</string>
-    <string name="resource_can_not_selected">%1$s не може да бъде избрано!</string>
+    <string name="resource_can_not_selected">"%1$s не може да бъдат избрани"</string>
     <string name="resource_category">Категория</string>
     <string name="resource_clear_search_history">Изчистване на историята на търсенията</string>
     <string name="resource_clear_search_history_dialog">Да се изчисти ли историята на търсенията?</string>
@@ -212,7 +212,7 @@
     <string name="resource_comment_upload_not_logined">Първо трябва да влезете</string>
     <string name="resource_comment_upload_success">Коментарът ви ще бъде показан след неговото одобрение.</string>
     <string name="resource_continue">Следващо</string>
-    <string name="resource_current_using_title">Текущи източници</string>
+    <string name="resource_current_using_title">Текущи ресурси</string>
     <string name="resource_data_empty">Няма елементи тук.</string>
     <string name="resource_default">Мелодия по подразбиране</string>
     <string name="resource_default_name">Ресурс</string>
