@@ -607,7 +607,7 @@
 	<string name="micloud_web_discription_place_holder">Посетете %1$s от вашия кимпютър, за да управлявате данните си.</string>
 	<string name="last_sync_time_just_now">Сега</string>
   <string name="last_sync_time_yesterday">Вчера</string>
-  <string name="member_entrance_normal_title">Промяна на плана Xiaomi Облак</string>
+  <string name="member_entrance_normal_title">Промяна на плана за Xiaomi Облак</string>
   <string name="member_entrance_title_free_high_case_a">Получете повече място за съхранение</string>
   <string name="member_entrance_title_free_high_case_b">Надстройка на плана за Xiaomi Облак</string>
   <string name="member_entrance_title_free_low_case_a">Получете повече място за съхранение</string>
@@ -725,7 +725,7 @@
     <string name="storage_manage_expansion">Получете още</string>
     <string name="storage_manage_renewal">Подновяване</string>
     <string name="storage_manage_list_title">Данни в облака</string>
-    <string name="storage_manage_list_title_action">Вижтеоще</string>
+    <string name="storage_manage_list_title_action">Вижте още</string>
     <string name="cloud_storage_info_type_drive">Mi Диск</string>
     <string name="cloud_storage_info_type_pdc">Системни настройки</string>
 </resources>

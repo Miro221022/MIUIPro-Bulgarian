@@ -34,7 +34,7 @@
   <string name="doubletap_home">Двойно почукване</string>
   <string name="endless_desktop_title">Безкрайно превъртане на началния екран</string>
   <string name="EvDo_only">Само EvDo</string>
-  <string name="fade_animation_title">Стил на анимация</string>
+  <string name="fade_animation_title">Стил на анимацията</string>
   <string name="finger_on_title">Отключване с отпечатък след рестарт</string>
   <string name="folder_count_title">Брой колони в папката</string>
   <string name="foreground_notifications_title">Известия във фонов режим</string>
