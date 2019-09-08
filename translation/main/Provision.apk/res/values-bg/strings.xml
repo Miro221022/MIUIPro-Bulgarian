@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_enabled">Услугата Достъпност е включена.</string>
   <string name="agree">Приемам</string>
-  <string name="agree_terms">"Прочетох и приемам условията за ползване и политиката за поверителност."</string>
+  <string name="agree_terms">"Прочетох и приемам Споразумението с потребителя и Политиката за поверителност."</string>
   <string name="app_name">Осигуряване</string>
   <string name="application_permissions">Разрешения за приложения</string>
   <string name="back">Назад</string>
@@ -33,7 +33,7 @@
   <string name="language_settings">Избор на език</string>
   <string name="locale_picker_title">Изберете регион</string>
   <string name="miui_privacy_policy_no_network">Няма връзка с интернет. Вижте правилата за поверителност на %s</string>
-  <string name="miui_terms_no_network">Няма връзка с интернет. Вижте условията за ползване на %s</string>
+  <string name="miui_terms_no_network">„Нямате интернет връзка. Вижте Потребителското споразумение на %s.“</string>
   <string name="multisim_settings_category">Предпочитани SIM настройки</string>
   <string name="multisim_settings_title">Открити са 2 SIM карти</string>
   <string name="navigation_picker_gesture_guide">Упътване за жестове</string>
@@ -70,11 +70,9 @@
   <string name="summary_not_set">Не е настроено</string>
   <string name="system_navigation_mode">Режим за придвижване в системата</string>
   <string name="terms_of_use">Правила и условия</string>
-  <string name="terms_of_use_label">"Вашата поверителност е много важна за нас. Прочетете нашите Условия за ползване и Политика за поверителност, за да разберете каква информация събираме, как я използваме и какви възможности са налични за вас.
-
-Трябва да приемете нашите Условия за ползване и Политика за поверителност, преди да можете да използвате MIUI. Компонентите на %s и Mi профила ще се свържат с интернет и ще получат достъп до местоположението."</string>
+  <string name="terms_of_use_label">Прочетете нашето потребителско споразумение и декларация за поверителност, за да разберете каква информация събираме, как я използваме и какви възможности са достъпни за вас.\nТрябва да се съгласите с нашето потребителско споразумение и политика за поверителност, преди да можете да използвате MIUI.\n%s и компонентите на Mi профила ще се свържат с интернет и ще придобият местоположението ви.</string>
   <string name="title_fingerprint">Задаване на парола</string>
-  <string name="user_agreement">Условия за ползване</string>
+  <string name="user_agreement">Потребителско споразумение</string>
   <string name="voice_assist_desp">Кажете \"Mi AI\" на смартфона си. Mi Асистент ще разпознае вашият глас и ще може да контролира вашето устройство.</string>
   <string name="voice_assist_title">Събуждане с глас</string>
   <string name="welcome">Добре дошли</string>

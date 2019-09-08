@@ -2888,4 +2888,15 @@
   <string name="system_tool_sos">Сигнали за спешна помощ</string>
   <string name="cta_main_purpose">Добре дошли в Сигурност! Можете да използвате това приложение, за да изчистите непотребните файлове в устройството си, да намерите и неутрализирате вируси, да оптимизирате производителността за игри, да спестите батерия, да управлявате приложения и други.</string>
   <string name="cta_HIPS_Perm_Location_Desc">получаване на точно местоположение (на база GPS и мрежата)</string>
+    <string name="permgroupdesc_contacts">Достъп до контактите</string>
+    <string name="permgroupdesc_location">Достъп до информация за местоположението</string>
+    <string name="permgroupdesc_calendar">Достъп до събитията в календара</string>
+    <string name="permgroupdesc_sms">Четене или изпращане на SMS</string>
+    <string name="permgroupdesc_storage">Достъп до снимките или файловете на устройството</string>
+    <string name="permgroupdesc_microphone">Запис на звук</string>
+    <string name="permgroupdesc_camera">Заснемане на снимки и запис на видеоклипове</string>
+    <string name="permgroupdesc_calllog">Достъп и запазване на елементи в историята на обажданията</string>
+    <string name="permgroupdesc_phone">Осъществяване на повиквания и управление на разговорите</string>
+    <string name="permgroupdesc_sensors">Достъп до данните за сензора за тяло</string>
+    <string name="permgroupdesc_recognition">Достъп до данни за здравето и активността</string>
 </resources>

@@ -587,5 +587,7 @@ ID:%s
   <string name="system_ad_switch">Реклами в системни приложения</string>
   <string name="system_ad_summary">"Включете тази функция, за да разрешите показването на малък брой реклами в системните приложения. Тези реклами ни помагат да развиваме и подобряваме нашите продукти и услуги. Можете да изключите тази функция по всяко време. Благодарим за подкрепата! "</string>
   <string name="system_ad_list">Преглед на свързаните приложения.</string>
-  <string name="system_ad_switch_failed">неуспешно</string>
+  <string name="system_ad_switch_failed">"Настройката не може да се приложи"</string>
+  <string name="passport_ticket_login_select_sim_card">Изберете SIM карта</string>
+  <string name="passport_ticket_login_select_sim_card_cancel">Отказ</string>
 </resources>

@@ -299,4 +299,5 @@
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
 	<string name="can_not_transfer_when_screening">"Не може да се предава по време на трансфери"</string>
+	<string name="flip_screen_camera_tip">Завъртете устройството, за да използвате камера</string>
 </resources>

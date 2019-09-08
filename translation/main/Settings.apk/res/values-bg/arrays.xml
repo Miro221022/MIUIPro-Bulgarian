@@ -729,13 +729,13 @@
         <item>Стандартен режим</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Автоматичен контраст</item>
-        <item>Повишен контраст</item>
+        <item>Автоматично (препоръчва се)</item>
+        <item>Наситено</item>
         <item>Стандартно</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Оптимизира контраста според налична светлина</item>
-        <item>"Повишава контраста на дисплея"</item>
+        <item>Регулиране на цветовете въз основа на текущото осветление</item>
+        <item>Винаги подобрени цветове</item>
         <item>Контрастът ще остане непроменен</item>
     </string-array>
     <string-array name="perm_hips_action">
@@ -1400,9 +1400,9 @@
         <item>Андроид</item>
     </string-array>
 	    <string-array name="keyguard_notification_status_entries">
+        <item>"Без събуждане на екрана"</item>
         <item>Събуждане на екрана</item>
         <item>Показване на анимация</item>
-        <item>"Без пробуждане на екрана"</item>
     </string-array>
 	    <string-array name="bluetooth_a2dp_codec_titles">
         <item>Системен избор (По подразбиране)</item>

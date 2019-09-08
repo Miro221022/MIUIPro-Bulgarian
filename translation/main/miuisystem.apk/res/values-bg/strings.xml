@@ -216,4 +216,7 @@
     <string name="surprise">Изненада</string>
 	<string name="birdcicada_preview">Природен звук 2</string>
 	<string name="waterdrop_preview">Природен звук 1</string>
+	<string name="windchime">Вятърни камбанки</string>
+    <string name="mihouse">Mi Electronic</string>
+    <string name="mijazz">Mi Jazz</string>
 </resources>

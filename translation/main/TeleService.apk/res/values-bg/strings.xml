@@ -1770,4 +1770,12 @@
 	<string name="smsc_dialog_message">"Уверете се, че въведеният от вас номер е правилен. В противен случай няма да можете да изпращате или получавате SMS. Свържете се с вашия оператор, за да потвърдите вашия SMSC номер."</string>
 	<string name="preferred_network_type_pref_entries_4g_preferred_custom">Предпочита се 4G</string>
 	<string name="preferred_wificall_roaming_title">Предпочитания за роуминг</string>
+	<string name="wifi_call_notification_message">Тази услуга се предоставя от Orange. Активирането на тази услуга може да отнеме няколко часа. Ще получите SMS за потвърждение веднага след като е наличен.</string>
+    <string name="wifi_call_available_title">Включване на Wi-Fi повикване</string>
+    <string name="wifi_call_available_message">Сега ще можете да извършвате разговори с помощта на Wi-Fi. Ако сте свързани с Wi-Fi мрежа, ще можете да говорите дори когато сте в райони без покритие на мобилната мрежа.</string>
+    <string name="wifi_call_cancel">Отказ</string>
+    <string name="wifi_call_accept">OK</string>
+    <string name="wifi_call_help">Помощ</string>
+    <string name="wifi_call_help_title">Помощ за Wi-Fi повиквания</string>
+    <string name="wifi_call_help_message">Ако изберете предпочитание за мобилни мрежи, мобилните мрежи ще се използват за разговори по подразбиране. В случай, че няма сигнал за мобилна мрежа или е много лош, вместо това ще се използва Wi-Fi мрежа.</string>
 </resources>
