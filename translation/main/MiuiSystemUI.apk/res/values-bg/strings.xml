@@ -1275,7 +1275,7 @@
   <string name="screen_zoom_summary_small">Малък</string>
   <string name="screen_zoom_summary_very_large">По-голям</string>
   <string name="screenshot_delete">Изтриване</string>
-  <string name="screenshot_delete_dlg_msg">Да се изтрие ли екранната снимка?</string>
+  <string name="screenshot_delete_dlg_msg">Изтриване на екранната снимка?</string>
   <string name="screenshot_delete_dlg_title">Изтриване</string>
   <string name="screenshot_dlg_cancel">Отказ</string>
   <string name="screenshot_dlg_delete_button">Изтрий</string>

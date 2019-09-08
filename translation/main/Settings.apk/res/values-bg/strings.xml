@@ -173,7 +173,7 @@
     <string name="adb_keys_warning_message">Отмяна на достъпа до отстраняване на грешки през USB от всички компютри, които преди сте оторизирали?</string>
     <string name="dev_settings_warning_title">Разрешаване на настройките за програмиране?</string>
     <string name="dev_settings_warning_message">Само за програмисти. Промяната в тези настройки може да предизвика срив в работата на устройството ви и инсталираните приложения.</string>
-    <string name="verify_apps_over_usb_title">Потвърждаване на приложеничта през USB</string>
+    <string name="verify_apps_over_usb_title">Потвърждаване на приложенията през USB</string>
     <string name="verify_apps_over_usb_summary">Проверка на приложенията, инсталирани чрез ADB / ADT за вредно поведение.</string>
     <string name="bluetooth_disable_absolute_volume_summary">Деактивиране на максималния звук за Bluetooth в случай на проблеми със звука с отдалечени устройства, като например неприемливо силен звук или невъзможност да се контролира</string>
     <string name="enable_terminal_title">Локален извод</string>
