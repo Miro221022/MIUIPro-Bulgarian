@@ -299,7 +299,7 @@
     <string name="define_by_user">Потребителска настройка</string>
     <string name="delete">Изтрий</string>
     <string name="delete_album_failed">Албумът не може да се изтрие</string>
-    <string name="delete_album_msg_format">Изтриване на \"%2$s\" албум %1$s%3$s?</string>
+    <string name="delete_album_msg_format">Изтриване на албума \"%2$s\" %1$s %3$s?</string>
     <string name="delete_album_success">Албумът е изтрит.</string>
     <string name="delete_finish_format">%d изтрити</string>
     <string name="delete_from_all_devices_and_cloud">от всички устройства и Xiaomi Облак</string>
@@ -590,7 +590,7 @@
     <string name="long_press_to_refocus">Задръжте за дофокусиране</string>
     <string name="main_discard_confirm_message">Имате незаписани промени</string>
     <string name="main_discard_negative_btn">Отмени</string>
-    <string name="main_discard_positive_btn">Запазване &amp; Изход</string>
+    <string name="main_discard_positive_btn">Запазване и Изход</string>
     <string name="main_save_error_msg">Промените не може да се запазят порати грешка</string>
     <string name="mark_myself_default_name">Аз</string>
     <string name="mark_myself_suggestion_load_more">Това не съм аз</string>
@@ -833,8 +833,8 @@
     <string name="picker_continue_download">Продължи изтеглянето</string>
     <string name="picker_continue_with_exists">Продължете с локаните снимки</string>
     <string name="picker_download">Изтегляне</string>
-    <string name="picker_download_progress_message">Изтегляне, Ще приключи: %1$d/%2$d</string>
-    <string name="picker_full_format">До %d елементи.</string>
+    <string name="picker_download_progress_message">Изтегляне %1$d/%2$d</string>
+    <string name="picker_full_format">До %d елемента.</string>
     <string name="picker_image_need_download">%d от избраните снимки не са в устройството, изтегляне чрез мобилни данни?</string>
     <string name="picker_image_will_download">%d от избраните снимки не са в устройството, изтегляне</string>
     <string name="picker_no_network_message">Свържете се към мрежата за да теглите файлове</string>
@@ -848,7 +848,7 @@
     <string name="places_album_empty_title">Снимките могат да се сортират по местоположение</string>
     <string name="preparing_data">Момент…</string>
     <string name="projection_cancel">Отказ</string>
-    <string name="projection_checkbox_text">Запомняне на този дисплей</string>
+    <string name="projection_checkbox_text">Запомняне на този екран</string>
     <string name="projection_device_connection_failed">Неуспешно свързване към проекционното устройство</string>
     <string name="projection_local_mobile">Мобилен</string>
     <string name="projection_multi_title">Списък с устройства</string>
@@ -1562,7 +1562,7 @@
      <string name="editphoto_datetime_needdownload_origin_subtitle">Изтеглете оригиналния файл от Xiaomi Облак, за да можете да промените времето.</string>
     <string name="editphoto_datetime_needdownload_origin_title">Изтегляне на оригинала</string>
 	<string name="filter_single_sky">Вълшебно небе</string>
-	<string name="fmt_chinese_date">N月e</string>
+	<string name="fmt_chinese_date">N e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -1737,4 +1737,7 @@
     <string name="show_hidden_album_summary">Преглед и управление на скрити албуми</string>
     <string name="show_hidden_album_title">Преглед на скрити албуми</string>
 	<string name="screen_editor_delete_dialog_msg">Изтриване на екранната снимка?</string>
+	<string name="empty_album_hidden_list_title">Няма скрити албуми</string>
+	<string name="empty_album_cloud_list_title">Няма албуми за синхронизиране</string>
+	<string name="empty_query_text_msg">"Не знам какво да търся…"</string>
 </resources>
