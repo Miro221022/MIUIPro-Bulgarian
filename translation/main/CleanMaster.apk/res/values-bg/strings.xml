@@ -396,7 +396,7 @@
   <string name="summary_delete_cache">Някой приложения може да имат нужда от тези данни, за да работят нормално.</string>
   <string name="summary_delete_large_file">Някой от големите файлове са полезни когато нямате връзка с интернет (напр. карти, графици и т.н.).Уверете се, че не се нуждаете от този файл.</string>
   <string name="summary_delete_video">Да се изтрият ли избраните видео файлове за постоянно?</string>
-  <string name="summary_optimizer">"Тази функция качва имената на папките, за да обнови онлайн базата данни на Cheetah Mobile и изисква идентификацията на устройството ви."</string>
+  <string name="summary_optimizer">"Почистване трябва да качи имената на файловете с данни за местоположението на сървърите на Clean Master, за да може да актуализира дефинициите в облака. Съгласни ли сте?"</string>
   <string name="terabyteShort">Тб</string>
   <string name="text_optimizer">Качване на имената на папките</string>
   <string name="there_is_no">Всичко изглежда наред, проверете по-късно</string>
@@ -595,11 +595,13 @@
    <string name="facebook_function_title">Facebook почистване</string>
    <string name="one_tap_clean_M">%d Мб</string>
    <string name="one_tap_clean_GB">%s Гб</string>
-   <string name="security_center_slogan">Сигурност. Винаги нащрек.</string>
+   <string name="security_center_slogan">Поддържайте устройството си бързо и сигурно</string>
    <string name="notification_garbage_cleanup_summary">Изчистете отпадъците (%s), за да ускорите устройството си</string>
    <string name="notification_garbage_cleanup_title">Изчистване на непотребни файлове</string>
    <string name="notification_low_memory_cache_summary">По-малко от 1,5 Гб налично пространство за съхранение</string>
    <string name="notification_low_memory_cache_title">Изчистване на кеша</string>
    <string name="notification_low_memory_deepclean_summary">Дълбокото почистване може да освободи памет на вашето устройство</string>
    <string name="notification_low_memory_deepclean_title">Мястото за съхранение намалява</string>
+   <string name="button_agree">Съгласявам се</string>
+   <string name="button_deny">"Не се съгласявам"</string>
 </resources>

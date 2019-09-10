@@ -93,4 +93,24 @@
     <string name="thanks_for_feedback">Благодарим ви за отзивите!</string>
     <string name="unable_to_play">"Не може да се изпълни"</string>
     <string name="view_all_news">Преглед на всички новини</string>
+	<string name="broadcast_list">Канали</string>
+    <string name="cancel_delay_stop">Изключи таймера</string>
+    <string name="favor_list">Любими</string>
+    <string name="list">Канали</string>
+    <string name="local_channel">Местен канал</string>
+    <string name="no_broadcast">Без излъчване</string>
+    <string name="scanned_list">Налични канали</string>
+    <string name="talkback_create_channel">Добави канал</string>
+    <string name="talkback_freq_more_function">Още опции за канала %1$s</string>
+    <string name="talkback_freq_picker">Плъзнете, за да превключвате между каналите</string>
+    <string name="talkback_listen_more">Още онлайн радио канали</string>
+    <string name="talkback_local_radio">"Слушайте радио, когато сте офлайн"</string>
+    <string name="talkback_more_function">Още функции</string>
+    <string name="talkback_next_broadcast">Предишен канал</string>
+    <string name="talkback_pre_broadcast">Следващ канал</string>
+    <string name="talkback_record_stop">Спри записа</string>
+    <string name="talkback_recording">Записване</string>
+    <string name="talkback_scan_channel">Търсене на канали</string>
+    <string name="talkback_switch_headset">Свържете слушалки</string>
+    <string name="talkback_switch_speaker">Говорител</string>
 </resources>

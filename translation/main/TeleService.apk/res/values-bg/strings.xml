@@ -1778,4 +1778,5 @@
     <string name="wifi_call_help">Помощ</string>
     <string name="wifi_call_help_title">Помощ за Wi-Fi повиквания</string>
     <string name="wifi_call_help_message">Ако изберете предпочитание за мобилни мрежи, мобилните мрежи ще се използват за разговори по подразбиране. В случай, че няма сигнал за мобилна мрежа или е много лош, вместо това ще се използва Wi-Fi мрежа.</string>
+	<string name="prompt_to_suggest_to_open_volte_from_operator">"Не могат да се провеждат разговори. Свържете се с China Telecom, за да включите услугата VoLTE."</string>
 </resources>

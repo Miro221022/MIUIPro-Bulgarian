@@ -69,12 +69,12 @@
 
 По всяко време можете да включите или изключите услугата от Настройки.
 \""</string>
-    <string name="sync_dspt_entrance_provision">"Синхронизирайте снимките, контактите, историята на обажданията и съобщенията на всичките си устройства. Осъществявайте достъп до нещата, които синхронизирате, от всеки браузър в %s. "</string>
+    <string name="sync_dspt_entrance_provision">Синхронизирайте вашите снимки, бележки и други елементи на всичките си устройства. Ще имате достъп до нещата, които синхронизирате от всеки браузър на %s.</string>
     <string name="sync_dspt_entrance_provision_2">Научете повече</string>
     <string name="sync_dspt_entrance_provision_confirm_close">"Не използвай"</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Използвай Xiaomi Облак</string>
     <string name="sync_dspt_entrance_provision_confirm_title">"Да не се използва Xiaomi Облак?"</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">"Вградените приложения на MIUI изискват Xiaomi Облак за архивиране на вашите снимки, контакти, бележки и други. Xiaomi Облак е свободен и готов за използване."</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">"Системните приложения на MIUI се нуждаят от Xiaomi Облак, за да архивирате вашите снимки, съобщения, бележки и др. Xiaomi Облак е безплатен и готов за използване."</string>
     <string name="sync_dspt_entrance_provision_skip">Прескочи тази стъпка</string>
     <string name="sync_dspt_entrance_provision_network">Това приложение трябва да се свърже с интернет, за да работи нормално. Синхронизиране на данни може да изисква мобилна връзка за данни и включване на WLAN.</string>
     <string name="find_device_dspt_provision">Ако загубите устройството си може да посетите &lt;font color=#ff0000>%s&lt;/font> за да го локализирате, заключите или нулирате. Можете да включите или изключите тази функция по всяко време в Настройки.</string>
@@ -728,4 +728,5 @@
     <string name="storage_manage_list_title_action">Вижте още</string>
     <string name="cloud_storage_info_type_drive">Mi Диск</string>
     <string name="cloud_storage_info_type_pdc">Системни настройки</string>
+	<string name="storage_manage_title">Променете плана за съхранение в облака</string>
 </resources>

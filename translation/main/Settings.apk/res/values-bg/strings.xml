@@ -4241,8 +4241,8 @@
     <string name="screen_color_temperature">Цветове</string>
     <string name="screen_saturation">Насищане</string>
     <string name="screen_color_temperature_and_saturation">Цветове и насищане</string>
-    <string name="screen_effect">Контраст и цветове</string>
-    <string name="screen_optimize">Контраст</string>
+    <string name="screen_effect">Цветова схема</string>
+    <string name="screen_optimize">Цветове</string>
     <string name="screen_color_and_optimize">Цветове и контраст</string>
     <string name="screen_color_and_optimize_disabled">"Цветната температура не може да се настройва в режим за четене"</string>
     <string name="screen_paper_mode_title">Режим четене</string>
@@ -6413,7 +6413,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="aod_settings_category_name">Винаги включен</string>
     <string name="aod_settings_title">Винаги включен</string>
     <string name="applications_settings_title">Приложения</string>
-    <string name="feedback_settings">Отзиви</string>
+    <string name="feedback_settings">Услуги и отзиви</string>
     <string name="full_screen_display">Режим на цял екран</string>
     <string name="game_booster_title">Game Turbo</string>
     <string name="gmscore_settings_title">Основни Google услуги</string>
@@ -6582,4 +6582,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="aod_notification_style_none">Не прави нищо</string>
     <string name="aod_notification_style_screen_on">Осветяване на екрана</string>
     <string name="aod_notification_style_animation">Покажи анимация</string>
+    <string name="modify_default_browser_message">Ако зададете приложение на трета страна като браузър по подразбиране, то може да започне да събира вашата история на сърфиране и други данни. Задавне въпреки това?</string>
 </resources>

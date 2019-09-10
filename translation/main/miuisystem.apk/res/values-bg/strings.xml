@@ -214,9 +214,9 @@
     <string name="makewishes">Пожелания за рожден ден</string>
     <string name="robot">Робот</string>
     <string name="surprise">Изненада</string>
-	<string name="birdcicada_preview">Природен звук 2</string>
-	<string name="waterdrop_preview">Природен звук 1</string>
+	<string name="birdcicada_preview">Природа - Птици и светулки</string>
+	<string name="waterdrop_preview">Природа - капчици</string>
 	<string name="windchime">Вятърни камбанки</string>
-    <string name="mihouse">Mi Electronic</string>
-    <string name="mijazz">Mi Jazz</string>
+    <string name="mihouse">Mi Електронна</string>
+    <string name="mijazz">Mi Джаз</string>
 </resources>

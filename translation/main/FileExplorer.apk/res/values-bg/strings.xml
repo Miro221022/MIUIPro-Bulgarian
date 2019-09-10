@@ -824,7 +824,7 @@
   <string name="home_action_up">Назад</string>
   <string name="category_source">Източник</string>
   <string name="category_time">Час</string>
-  <string name="create_folder">Създаване</string>
+  <string name="create_folder">Нова папка</string>
   <string name="home_title">Файлове</string>
   <string name="otg_file_security_confirm">копиране в телефона</string>
   <string name="otg_file_security_details">Моля, копирайте в телефона</string>
@@ -837,4 +837,5 @@
   <string name="text_select_nothing">Откажи всички</string>
   <string name="hint_switch_to_grid_mode">Превключено към изглед мрежа</string>
   <string name="hint_switch_to_list_mode">Превключено към изглед списък</string>
+  <string name="path_name_email">Поща</string>
 </resources>

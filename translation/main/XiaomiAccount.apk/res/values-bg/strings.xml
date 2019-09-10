@@ -581,7 +581,7 @@ ID:%s
   <string name="two_factor_auth_need_code">Въведете код</string>
   <string name="two_factor_auth_need_code_summary">"Ще видите кода на други свързани Mi устройства. Въведете този код на ново устройство, за да влезете."</string>
   <string name="two_factor_auth_summary">"Когато се опитате да влезете на ново устройство или на ново място, ще бъдете уведомени за това на другите свързани устройства. Ще трябва да потвърдите дали такива опити за влизане са разрешени от вас."</string>
-  <string name="ep_unsupported">Вашето устройство не поддържа влизане в Xiaomi профил</string>
+  <string name="ep_unsupported">Вашето устройство не поддържа вписване в Xiaomi профил</string>
   <string name="passport_user_agreement_link"><Data>"Прочетох и се съгласих с &lt;a href=%1$s>Потребителското споразумение&lt;/a> и &lt;a href=%2$s>Политиказта за поверителност&lt;/a> на Xiaomi."</Data></string>
   <string name="system_ad">Реклами в системни приложения</string>
   <string name="system_ad_switch">Реклами в системни приложения</string>
@@ -590,4 +590,6 @@ ID:%s
   <string name="system_ad_switch_failed">"Настройката не може да се приложи"</string>
   <string name="passport_ticket_login_select_sim_card">Изберете SIM карта</string>
   <string name="passport_ticket_login_select_sim_card_cancel">Отказ</string>
+    <string name="passport_ticket_login_select_sim_card_1">SIM карта 1</string>
+    <string name="passport_ticket_login_select_sim_card_2">SIM карта 2</string>
 </resources>

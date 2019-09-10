@@ -1171,4 +1171,13 @@
   <string name="sync_failed_mi_authority_view_detail">Преглед на подробности</string>
   <string name="update_domain_summary">Актуализирайте списъка с налични домейни и конфигурации</string>
   <string name="update_domain_title">Актуализиране на настройките на домейна</string>
+    <string name="account_options_actionbar_title">Основни настройки</string>
+    <string name="mail_outlook_login_tips">Според изискванията на Microsoft, трябва да въведете паролата в страницата за авторизация на Microsoft.</string>
+    <string name="mail_outlook_oauth_login">Вписване с OAuth</string>
+    <string name="mail_outlook_psw_login">Вписване с парола</string>
+    <string name="outlook_login_failed_non_proxy_title">"Не може да се получи достъп до OutLook сървъра"</string>
+    <string name="quick_reply_expend">Разгъни</string>
+    <string name="sync_calendra_fail_per_content">Докоснете, за да разрешите достъп до календара</string>
+    <string name="sync_calendra_fail_per_title">"Календарът не може да се синхронизира"</string>
+    <string name="sync_calendra_fail_permission">"Календарът не може да се синхронизира, позволете на Поща да осъществява достъп до календара ви в „Настройки“"</string>
 </resources>

@@ -555,7 +555,7 @@
     <string name="name_password_not_consistent">"Въведеният от вас Apple ID и парола не съвпадат"</string>
     <string name="need_more_memory_cacel">Отказ</string>
     <string name="need_more_memory_confirm">Почистване</string>
-    <string name="need_more_memory_summary">"Данните от приложенията от трети страни трябва да бъдат компресирани, преди да бъдат прехвърлени. Няма достатъчно място за съхранение, за да създадете компресирани пакети.
+    <string name="need_more_memory_summary">"Данните от приложението на трети страни трябва да бъдат компресирани, преди да бъдат прехвърлени. Mi Mover се нуждае от %1$s допълнително пространство за съхранение, за да създаде компресирани пакети.
 1. Опитайте да прехвърлите само важните елементи.
 2. Деинсталирайте приложенията, които не ви трябват.
 3. Използвайте Почистване, за да освободите място за съхранение."</string>
@@ -914,4 +914,9 @@
     <string name="miui_need_open_high_accuracy_summary">"Разрешете на Ми Трасфер достъп до вашето местоположение в режим на висока точност, за да намерите устройства в близост. Няма да можете да използвате Mi Трасфер, освен ако не дадете това разрешение."</string>
     <string name="miui_need_open_high_accuracy_title">Разрешаване на достъп до точна информация за местоположението</string>
     <string name="need_location_permission_summary">Разрешете на Ми Трасфер достъп до вашето местоположение, за да може да намира устройства в близост.</string>
+	<string name="dialog_rating_desc_ask">Какво мислите за Mi Трансфер?</string>
+    <string name="dialog_rating_desc_less">Дайте ни няколко предложения, за да можем да подобрим нашето приложение?</string>
+    <string name="dialog_rating_desc_perfect">Благодаря! Ще оцените ли Mi Трансфер и в GetApps?</string>
+    <string name="dialog_rating_title">Оценете Mi Трансфер</string>
+    <string name="trans_detail_item_app_skip_data">"Това приложение не може да се премести"</string>
 </resources>

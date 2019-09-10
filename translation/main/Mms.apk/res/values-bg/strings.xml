@@ -490,7 +490,7 @@
   <string name="saved_to_sim">Записано!</string>
   <string name="sdcard_has_not_enough_space">Недостатъчно място на SD картата</string>
   <string name="search">Съобщения</string>
-  <string name="search_empty">Няма съвпадения</string>
+  <string name="search_empty">"Не могат да се намерят съобщения"</string>
   <string name="search_hint">Търси в съобщения</string>
   <string name="search_keyword_mms">Съобщения;SMS;MMS;Текст;Текстово;Съобщение;Съобщения</string>
   <string name="search_label">Съобщения</string>

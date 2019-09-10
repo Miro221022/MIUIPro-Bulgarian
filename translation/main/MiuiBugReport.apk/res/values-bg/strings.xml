@@ -9,7 +9,7 @@
   <string name="app_search">Търсене на приложения</string>
   <string name="btn_send">Изпрати</string>
   <string name="bugreport_dialog_not_show_again">Не показвай отново</string>
-  <string name="bugreport_dialog_submit_content"><Data>"На път сте да създадете софтуерен отчет за това устройство. Отчетите могат да съдържат лична информация и данни за местоположението ви. Не споделяйте отчети с никой друг, ако не искате тази информация да бъде изложена. Избирането на \"Съгласен съм\" означава,че че сте прочели и сте се съгласили с нашите &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско споразумение&lt;/a>."</Data></string>
+  <string name="bugreport_dialog_submit_content"><Data>"На път сте да създадете софтуерен отчет за това устройство. Отчетите могат да съдържат лична информация и данни за местоположението ви. Не споделяйте отчети с никой друг, ако не искате тази информация да бъде изложена. Избирането на \"Съгласен съм\" означава,че че сте прочели и сте се съгласили с нашите &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> и &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a>."</Data></string>
   <string name="bugreport_dump_complete_notification_summary">Чукнете за преглед.</string>
   <string name="bugreport_dump_complete_notification_title">Докладът е създаден</string>
   <string name="bugreport_dump_start_notification_summary">Това може да отнеме няколко минути.</string>
@@ -70,7 +70,7 @@
   <string name="feedback_description_suggest_hint">Искам да добавя нова функция () защото имам нужда от ().</string>
   <string name="feedback_detail_tile">Прогрес</string>
   <string name="feedback_empty_report_list">Няма доклади</string>
-  <string name="feedback_guess">Вашето мнение</string>
+  <string name="feedback_guess">Вашето мнение:</string>
   <string name="feedback_history_remind_login_desc">Влезте с вашия Mi акаунт за детайли по репортите Ви</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Ключ: %s</string>
@@ -267,8 +267,8 @@
   <string name="select_system_app_tag">Изберете даден проблем</string>
   <string name="submit_dialog_cancel">Отказ</string>
   <string name="submit_dialog_confirm">Съгласен съм</string>
-  <string name="submit_dialog_content"><Data>"Трябва да се съгласите с нашите &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско споразумение&lt;/a> за да можете да използвате Отзиви. Проблемите, които докладвате, заедно с прикрепените от вас елементи (може да съдържат лична информация, както и информация за вашето устройство и мрежа) ще бъдат качени на сървърите на MIUI. Това ще ни помогне да намерим и разрешим проблемите, които докладвате."</Data></string>
-  <string name="submit_dialog_content_global"><Data>"Вашите отзиви, заедно с прикачени файлове (ако има) и отчетите (можете да махнете отметките от съответните полета за елементите, които не искате да качите) ще бъдат изпратени до сървърите на MIUI. Отчетите могат да съдържат лична информация и данни за местоположението ви. Избирането на \"Съгласен съм\" означава, че сте прочели и сте се съгласили с нашите &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско споразумение&lt;/a>."</Data></string>
+  <string name="submit_dialog_content"><Data>"Трябва да се съгласите с нашите &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> и &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> за да можете да използвате Отзиви. Проблемите, които докладвате заедно с елементите, които прикачвате (може да съдържа лична информация, както и информацията за вашето устройство и мрежа), ще бъдат качени на сървърите на MIUI. Това ще ни помогне да намерим и решим проблемите, за които докладвате."</Data></string>
+  <string name="submit_dialog_content_global"><Data>"Вашият отзив, заедно с прикачени файлове (ако има такива) и отчетите (можете да премахнете отметката от съответните квадратчета за елементите, които не искате да качвате) ще бъдат изпратени до сървърите на MIUI. Отчетите могат да съдържат лична информация и данни за вашето местоположение. Избирането на \"Сугласен съм\" означава, че сте прочели и сте се съгласили с нашите &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> и &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a>."</Data></string>
   <string name="submit_dialog_title">Изпращане на доклад до Mi</string>
   <string name="submit_feedback_info_failed">Не може да се изпрати доклад</string>
   <string name="suggestion_description">Надявам се да добавите функцията Х, защото…</string>
@@ -517,12 +517,12 @@
   <string name="feedback_reproductivity_once">Веднъж</string>
   <string name="kr_authorization_agree">Accept</string>
   <string name="kr_authorization_contact">Профили</string>
-  <string name="kr_authorization_contact_desc">За получаване на информация за Mi профила и проверка на профила ви</string>
+  <string name="kr_authorization_contact_desc">За достъп до информация за Mi профила с цел идентифициране на устройството</string>
   <string name="kr_authorization_exit">Изход</string>
   <string name="kr_authorization_log_protocol">Отчетен протокол (незадължително)</string>
   <string name="kr_authorization_log_protocol_desc">"За да подобрим услугите, които ви предлагаме, ще качим статистически данни за използването и системните отчети на нашите сървъри. Тези елементи могат да включват вашата лична информация, както и информацията за вашето устройство и мрежи. Ще използваме качените елементи, за да намерим и анализираме проблемите в системата."</string>
   <string name="kr_authorization_phone">Телефон</string>
-  <string name="kr_authorization_phone_desc">За идентифициране на устройство чрез IMEI и номер на модел, а също така за намиране и анализиране на проблеми</string>
+  <string name="kr_authorization_phone_desc">За достъп до модела на устройството, IMEI и идентификатора на устройството, за да намерите и решите проблеми</string>
   <string name="kr_authorization_privacy_policy">Политика за поверителност (задължително)</string>
   <string name="kr_authorization_select_all">Избери всичко</string>
   <string name="kr_authorization_storage">Хранилище</string>
@@ -537,4 +537,24 @@
   <string name="catch_full_log_privacy_content_sensor">"You're generating logs and saving them on your device. The logs may contain the information collected by your device's sensors (including ambient light sensor, barometer, pedometer, magnetometer, etc.). Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
   <string name="catch_full_log_privacy_content_signal">"You're generating logs and saving them on your device. The logs may contain your messages, call history, network info, and communication data. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
   <string name="catch_full_log_privacy_content_wifi">"You're generating logs and saving them on your device. The logs may contain your personal info, location info, as well as the IP and MAC addresses of your device. If you're connected to an unencrypted Wi-Fi network, we might also be able to access parts of your communication data. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+    <string name="feedback_detail_copy_toast">Копирано е в буферната памет</string>
+    <string name="feedback_detail_feedback_attach">Прикачени файлове</string>
+    <string name="feedback_detail_feedback_attach_upload_failed">"Не можа да се качи"</string>
+    <string name="feedback_detail_feedback_attach_uploading">Качване…</string>
+    <string name="feedback_detail_feedback_category">Категория</string>
+    <string name="feedback_detail_feedback_id">Докладвай ID: %d</string>
+    <string name="feedback_detail_feedback_reply_hint">Отговор</string>
+    <string name="feedback_detail_feedback_summary">Отзив</string>
+    <string name="feedback_detail_need_content">Първо въведете съдържание</string>
+    <string name="feedback_detail_title">Подробности</string>
+    <string name="feedback_detail_upload_generate_log">Генериране на отчети</string>
+    <string name="feedback_detail_upload_image">Качи изображения/видеоклипове</string>
+    <string name="feedback_detail_upload_local_log">Качи файл</string>
+    <string name="feedback_detail_upload_log">Качи отчети</string>
+    <string name="feedback_detail_waiting">Генериране…</string>
+    <string name="kr_authorization_function">Изпращане на отзив, генериране на отчети, преглед на често задавани въпроси</string>
+    <string name="mi_service_dialog_cancel">Изход</string>
+    <string name="mi_service_dialog_confirm">Отвори</string>
+    <string name="mi_service_dialog_content">Всички функции за обратна връзка бяха преместени в новото приложение \"Услуги и отзиви\" . Приложението Отзиви ще бъде премахнато от началния ви екран. Докоснете \"Отвори\", за да пробвате \"Услуги и отзиви\".</string>
+    <string name="mi_service_dialog_title">Въвеждане в \"Услуги и отзиви\"</string>
 </resources>

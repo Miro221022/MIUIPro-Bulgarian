@@ -153,4 +153,8 @@
     <string name="xiaomi_poco_f1">POCO F1</string>
 	<string name="purpose">"Добре дошли в Mi Споделяне! Можете да използвате това приложение за прехвърляне на файлове между устройства. Ние защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики.
 Преди да използвате Mi Споделяне, трябва да предоставите следните разрешения, както и да му разрешите да събира необходимата лична информация:"</string>
+    <string name="scanning_only_xiaomi_device">Можете да изпратите този елемент само до устройство Xiaomi</string>
+    <string name="wait_receive_file">Изчаква се приемане…</string>
+    <string name="wait_remote_receive_tips">Изчакване…</string>
+    <string name="wifi_is_not_enabled">Първо включете Wi-Fi</string>
 </resources>

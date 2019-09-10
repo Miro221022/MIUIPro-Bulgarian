@@ -87,8 +87,8 @@
     <string name="print_fail">"Не може да се печата"</string>
     <string name="print_fail_network_error">"Не можа да се отпечата.Проверете мрежовите настройки и опитайте отново."</string>
     <string name="print_help_label">Помощ</string>
-    <string name="print_help_tip">Уверете се, че телефонът и принтерът са свързани към една и съща WLAN мрежа или е включена WLAN Direct връзка. Вижте \"Помощ\".</string>
-    <string name="print_help_tip_reg">Помощ</string>
+    <string name="print_help_tip">Уверете се, че телефонът и принтерът са свързани към една и съща WLAN мрежа или е включена WLAN Direct връзка. %1$s.</string>
+    <string name="print_help_tip_reg">Преглед на \"Помощ\"</string>
     <string name="print_searching_printers">Търсене на принтери…</string>
     <string name="print_submited">Готови за печат</string>
     <string name="print_title">Принтиране…</string>

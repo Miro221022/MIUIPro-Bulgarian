@@ -170,4 +170,35 @@
         <item quantity="other">Премахване на %d песни от любими?</item>
         <item quantity="one">Премахване на %d песен от любими?</item>
     </plurals>
+	    <plurals name="Ndownload_song_button">
+        <item quantity="other">Изтегли %1$d песни (%2$.1fМб)</item>
+        <item quantity="one">Изтегли %1$d песен (%2$.1fМб)</item>
+    </plurals>
+    <plurals name="Ndownload_songs">
+        <item quantity="other">Изтегляне на песни, %1$d песни (%2$.1fМ)</item>
+        <item quantity="one">Изтегляне на песни, %1$d песен (%2$.1fМ)</item>
+    </plurals>
+    <plurals name="cloud_hint_upload_with_count">
+        <item quantity="other">Имате %d песни за качване.</item>
+        <item quantity="one">Имате %d песен за качване.</item>
+    </plurals>
+    <plurals name="cloud_new_user_guide_download_title">
+        <item quantity="other">Имате %d песни за изтегляне</item>
+        <item quantity="one">Имате %d песен за изтегляне</item>
+    </plurals>
+    <plurals name="cloud_new_user_guide_upload_title">
+        <item quantity="other">Имате %d песни за качване</item>
+        <item quantity="one">Имате %d песен за качване</item>
+    </plurals>
+    <plurals name="cloud_state_view_hint_download_pause">
+        <item quantity="other">Изтеглянето е на пауза,%d песни остават.</item>
+    </plurals>
+    <plurals name="local_song_empty_hint_button_sub_text">
+        <item quantity="other">Имате %1$d песни за изтегляне, общо %2$.1fМ.</item>
+        <item quantity="one">Имате %1$d песен за изтегляне, общо %2$.1fМ.</item>
+    </plurals>
+    <plurals name="local_song_number">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песен</item>
+    </plurals>
 </resources>

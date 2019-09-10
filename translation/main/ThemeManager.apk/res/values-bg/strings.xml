@@ -798,4 +798,13 @@
    <string name="resource_download_trial">Опитай</string>
    <string name="wallpaper_no_favorite">Тук все още няма елементи.</string>
    <string name="wallpaper_no_record">Тук все още няма елементи.</string>
+    <string name="concentration_old_period">Още</string>
+    <string name="first_page_recommend">Препоръчано</string>
+    <string name="system_cta_main_purpose">Управлявайте и използвайте онлайн и офлайн теми, тапети, мелодии, шрифтове и видеотапети</string>
+    <string name="system_cta_runtime_perm_desc_get_accounts">За достъп до IMEI и предоставяне на услуги за изтегляне</string>
+    <string name="system_cta_runtime_perm_desc_read_phone_state">За вписване и управление на системни акаунти</string>
+    <string name="system_cta_runtime_perm_desc_storage">За съхраняване на запазени теми, мелодии, шрифтове, тапети и видео тапети</string>
+    <string name="title_system_audio_alarm_resource">Ситемни аларми</string>
+    <string name="transparent_wallpaper_auto_start_pref_summary">Продължете да използвате прозрачни тапети, след като рестартирате устройството си</string>
+    <string name="transparent_wallpaper_auto_start_pref_title">Автостарт</string>
 </resources>

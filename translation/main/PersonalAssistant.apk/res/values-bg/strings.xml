@@ -1031,7 +1031,7 @@
   <string name="miot_cta_dialog_title">Предоставяне на разрешение</string>
   <string name="all_function_title">Всички преки пътища</string>
   <string name="selected_shortcuts_title">Функции</string>
-  <string name="cta_dialog_text_new_user">"Преди да използвате Личен асистент трябва да се съгласите с %1$s\"Потребителското споразумение\"%2$s, %3$s\"Политиката за поверителност\"%4$s на Xiaomi и %5$s\"Политиката за поверителност на Личен асистент\"%6$s. Личен асистент трябва да се свърже с интернет и да получи достъп до информацията за местоположението ви, за да работи нормално. Докоснете \"Начало\", за да се съгласите."</string>
+  <string name="cta_dialog_text_new_user">Прочетете и се съгласете с нашите %1$sПотребителско псоразумение%2$s и %3$sПолитика за поверителност%4$s.</string>
   <string name="cta_dialog_text_old_user">Преди да използвате Личен асистент трябва да се съгласите с %1$s\"Политиката за поверителност на Личен асистент\"%2$s. Докоснете \"Начало\", за да се съгласите.</string>
   <string name="cta_not_now">Не сега</string>
   <string name="cta_old_not_use">Не сега</string>
@@ -1100,4 +1100,5 @@
 	<string name="sport_headline">"Днешна активност"</string>
 	<string name="timeline_headline">Предстоящо</string>
 	<string name="vertical_separator">|</string>
+	<string name="location_permission_desc">За изграждане на навигационни маршрути и предоставяне на услуги за превоз на автомобили</string>
 </resources>

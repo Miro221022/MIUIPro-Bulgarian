@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_enabled">Услугата Достъпност е включена.</string>
   <string name="agree">Приемам</string>
-  <string name="agree_terms">"Прочетох и приемам Споразумението с потребителя и Политиката за поверителност."</string>
+  <string name="agree_terms">"Прочетох и се съгласих с Потребителското споразумение и Политиката за поверителност."</string>
   <string name="app_name">Осигуряване</string>
   <string name="application_permissions">Разрешения за приложения</string>
   <string name="back">Назад</string>
@@ -33,7 +33,7 @@
   <string name="language_settings">Избор на език</string>
   <string name="locale_picker_title">Изберете регион</string>
   <string name="miui_privacy_policy_no_network">Няма връзка с интернет. Вижте правилата за поверителност на %s</string>
-  <string name="miui_terms_no_network">„Нямате интернет връзка. Вижте Потребителското споразумение на %s.“</string>
+  <string name="miui_terms_no_network">"Нямате интернет връзка. Вижте Споразумението с потребителя на %s."</string>
   <string name="multisim_settings_category">Предпочитани SIM настройки</string>
   <string name="multisim_settings_title">Открити са 2 SIM карти</string>
   <string name="navigation_picker_gesture_guide">Упътване за жестове</string>
@@ -42,8 +42,8 @@
   <string name="next">Следващо</string>
   <string name="next_fingerprint">Следващо</string>
   <string name="other_settings">Допълнителни настройки</string>
-  <string name="other_settings_ad_enable">Персонализирани рекламни препоръки</string>
-  <string name="other_settings_ad_enable_summary">Получавайте персонализирани реклами въз основа на данните за поведението ви</string>
+  <string name="other_settings_ad_enable">Персонализирана реклама</string>
+  <string name="other_settings_ad_enable_summary">Направете рекламите по-персонализирани за вас въз основа на вашия интерес</string>
   <string name="other_settings_auto_update">Автоматично актуализиране</string>
   <string name="other_settings_auto_update_summary">MIUI ще избере най-подходящото време за да инсталира актуализациите.</string>
   <string name="other_settings_location">Местоположение</string>
@@ -112,7 +112,7 @@
   <string name="zone_picker_title">Изберете часова зона</string>
   <string name="other_settings_enhanced_lockscreen">Получете подобрено изживяване на заключен екран</string>
   <string name="other_settings_enhanced_lockscreen_summary">Получавайте снимки и истории доставени на вашия заключен екран ежедневно. Правила и условия ще се прилагат.</string>
-  <string name="other_settings_enhanced_lockscreen_summary_index">Правила и условия</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">Лицензионно споразумение за краен потребител</string>
   <string name="congratulation_label_night">Вижте нашият изцяло нов Тъмен режим!</string>
   <string name="start_up_slogan_night">Вижте нашият изцяло нов Тъмен режим!</string>
   <string name="locale_picker_other_locale_title">Още региони</string>
@@ -127,4 +127,7 @@
   <string name="terms_of_use_label_Mistore">, системната приставка на Mi Store</string>
   <string name="terms_of_use_label_package">, Програмата за инсталиране</string>
   <string name="terms_of_use_label_phrase">, Чести фрази</string>
+  <string name="other_settings_ad_dialog_content">"Изключете и вече няма да получавате персонализирани реклами, но все пак може да получавате същия брой реклами, без значение за вашия интерес. Включете, за да получите по-добро изживяване с по-полезни реклами. Повече подробности са на разположение в Политиката за поверителност на Xiaomi.
+Все още ли искате да изключите?"</string>
+  <string name="other_settings_ad_disable_summary">Включете за персонализирани реклами</string>
 </resources>
