@@ -2872,14 +2872,14 @@
   <string name="banner_red_money_assist_button">Включи</string>
   <string name="menu_summary_garbage_cleanup_ex">Почистени са %s непотребни файлове</string>
   <string name="phone_manage">Услуги</string>
-  <string name="phone_manage_app_manager_summary">Управлявайте приложения на вашето устройство</string>
+  <string name="phone_manage_app_manager_summary">Управление на приложенията</string>
   <string name="phone_manage_clean_summary">Освободете място за съхранение</string>
   <string name="phone_manage_clean_title">Почистване</string>
-  <string name="phone_manage_electric_summary">Оптимизирайте устройството си, за да спестите батерия</string>
+  <string name="phone_manage_electric_summary">Оптимизация на устройството</string>
   <string name="phone_manage_electric_title">Батерия</string>
   <string name="phone_manage_special_summary">Разгледайте допълнителната ни функционалност</string>
   <string name="phone_manage_special_title">Специални функции</string>
-  <string name="phone_manage_system_tool_summary">Полезни инструменти на системно ниво</string>
+  <string name="phone_manage_system_tool_summary">Полезни системни инструменти</string>
   <string name="phone_manage_system_tool_title">Инструменти</string>
   <string name="power_save_mode">Пестене на батерия</string>
   <string name="power_save_settings">Настройки на батерията</string>

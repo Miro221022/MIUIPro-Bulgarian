@@ -106,7 +106,7 @@
     <string name="item_resource_audio_optional_color_ring">Тон на обратно позвъняване</string>
     <string name="item_resource_audio_optional_notification_ring">Известия</string>
     <string name="item_resource_audio_optional_phone_ring">Тон на звънене</string>
-    <string name="live_wallpaper">Жив тапет</string>
+    <string name="live_wallpaper">Живи тапети</string>
     <string name="loading">Един момент…</string>
     <string name="loading_resource_detail_fail">"Ресурсът не може да се зареди"</string>
     <string name="loading_resource_detail_info">Един момент…</string>
@@ -807,4 +807,5 @@
     <string name="title_system_audio_alarm_resource">Ситемни аларми</string>
     <string name="transparent_wallpaper_auto_start_pref_summary">Продължете да използвате прозрачни тапети, след като рестартирате устройството си</string>
     <string name="transparent_wallpaper_auto_start_pref_title">Автостарт</string>
+	<string name="like_list">Елементи които харесвам</string>
 </resources>
