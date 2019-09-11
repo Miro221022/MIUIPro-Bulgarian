@@ -6582,5 +6582,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="aod_notification_style_none">Не прави нищо</string>
     <string name="aod_notification_style_screen_on">Осветяване на екрана</string>
     <string name="aod_notification_style_animation">Покажи анимация</string>
-    <string name="modify_default_browser_message">Ако зададете приложение на трета страна като браузър по подразбиране, то може да започне да събира вашата история на сърфиране и други данни. Задавне въпреки това?</string>
+    <string name="modify_default_browser_message">Ако зададете приложение от трета страна като браузър по подразбиране, то може да започне да събира вашата история на сърфиране и други данни. Задавне въпреки това?</string>
 </resources>
