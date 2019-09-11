@@ -105,4 +105,5 @@
     <string name="search_brand">Търсене</string>
     <string name="start_print">Отпечатване</string>
     <string name="wifi_direct">WLAN Direct</string>
+	<string name="label_paper_size">Хартия</string>
 </resources>

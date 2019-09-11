@@ -42,8 +42,8 @@
   <string name="next">Следващо</string>
   <string name="next_fingerprint">Следващо</string>
   <string name="other_settings">Допълнителни настройки</string>
-  <string name="other_settings_ad_enable">Персонализирана реклама</string>
-  <string name="other_settings_ad_enable_summary">Направете рекламите по-персонализирани за вас въз основа на вашия интерес</string>
+  <string name="other_settings_ad_enable">Персонализирани реклами</string>
+  <string name="other_settings_ad_enable_summary">Персонализирайте рекламите въз основа на вашите интереси</string>
   <string name="other_settings_auto_update">Автоматично актуализиране</string>
   <string name="other_settings_auto_update_summary">MIUI ще избере най-подходящото време за да инсталира актуализациите.</string>
   <string name="other_settings_location">Местоположение</string>
@@ -127,7 +127,7 @@
   <string name="terms_of_use_label_Mistore">, системната приставка на Mi Store</string>
   <string name="terms_of_use_label_package">, Програмата за инсталиране</string>
   <string name="terms_of_use_label_phrase">, Чести фрази</string>
-  <string name="other_settings_ad_dialog_content">"Изключете и вече няма да получавате персонализирани реклами, но все пак може да получавате същия брой реклами, без значение за вашия интерес. Включете, за да получите по-добро изживяване с по-полезни реклами. Повече подробности са на разположение в Политиката за поверителност на Xiaomi.
-Все още ли искате да изключите?"</string>
+  <string name="other_settings_ad_dialog_content">"След като изключите тази функция, вече няма да получавате персонализирани реклами. Все пак ще получавате реклами, които нямат отношение към вашите интереси. Можете да научите повече за персонализираните реклами в Политиката за поверителност на Xiaomi.
+Да се изключат ли персонализираните реклами?"</string>
   <string name="other_settings_ad_disable_summary">Включете за персонализирани реклами</string>
 </resources>
