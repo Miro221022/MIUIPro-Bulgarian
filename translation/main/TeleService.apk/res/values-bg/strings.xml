@@ -1311,7 +1311,7 @@
     <string name="enhanced_4g_lte_mode_off_failed">Не може да се изключи VoLTE.</string>
     <string name="cmcc_ut_data_enable_prompt">Не можете да се свържете, използвайки VoLTE мрежа. Включете използването на мобилни данни.</string>
     <string name="volte_switch_title">VoLTE</string>
-    <string name="volte_switch_summary">Използвайте VoLTE за подобряване на качеството на гласовите повиквания.</string>
+    <string name="volte_switch_summary">Използване на 4G услуги за подобряване на гласовите и комуникационни услуги</string>
     <string name="volte_switch_not_support_summary">VoLTE повикванията не се поддържат за SIM карти, които са само за мобилни данни.</string>
     <string name="volte_switch_not_support_summary2">VoLTE повикванията не се поддържат от оператора.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE изисква 4G връзка и за двете SIM карти. Да превключа ли на Двоен 4G режим?</string>
@@ -1779,4 +1779,7 @@
     <string name="wifi_call_help_title">Помощ за Wi-Fi повиквания</string>
     <string name="wifi_call_help_message">Ако изберете предпочитание за мобилни мрежи, мобилните мрежи ще се използват за разговори по подразбиране. В случай, че няма сигнал за мобилна мрежа или е много лош, вместо това ще се използва Wi-Fi мрежа.</string>
 	<string name="prompt_to_suggest_to_open_volte_from_operator">"Не могат да се провеждат разговори. Свържете се с China Telecom, за да включите услугата VoLTE."</string>
+	<string name="preferred_wificall_title">Wi-Fi повиквания</string>
+    <string name="vice_slot_volte_data_switch_title">Използвайте мобилни данни по време на 4G разговори на втората SIM карта</string>
+    <string name="wificall_switch_title">Wi-Fi повикване</string>
 </resources>
