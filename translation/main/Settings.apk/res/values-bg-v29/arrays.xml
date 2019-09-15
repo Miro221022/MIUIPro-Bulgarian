@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ai_item_action_array">
+    <item>Без</item>
+    <item>Активиране на Google асистента</item>
+  </string-array>
+  <string-array name="bt_hci_snoop_log_entries">
+    <item>Изключено</item>
+    <item>Включено филтрирано</item>
+    <item>Включено филтриране на заглавия</item>
+    <item>Активирани филтрирани медийни пакети</item>
+    <item>Включено</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item>Само домашни мрежи</item>
+    <item>Автоматично</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item>Тъмна</item>
+    <item>Светла</item>
+  </string-array>
+  <string-array name="vpn_proxy_settings">
+    <item>Без</item>
+    <item>Ръчно</item>
+  </string-array>
+  <string-array name="wifi_privacy_entries">
+    <item>Използване на произв. генериран MAC адрес (станд.)</item>
+    <item>Използване на MAC адреса на устройството</item>
+  </string-array>
+</resources>
