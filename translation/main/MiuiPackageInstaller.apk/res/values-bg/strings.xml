@@ -490,13 +490,13 @@
     <string name="settings">Настройки</string>
     <string name="manage_applications">Управление на приложения</string>
     <string name="dlg_app_replacement_title">Замяна на прилож.?</string>
-    <string name="dlg_app_replacement_statement">"Приложението, което инсталирате, ще замени друго приложение.\u000d
-\u000d
+    <string name="dlg_app_replacement_statement">"Приложението, което инсталирате, ще замени друго приложение.
+
 Всички ваши предишни потребителски данни ще бъдат запазени."</string>
-    <string name="dlg_sys_app_replacement_statement">"Това е системно приложение.\u000d
-\u000d
+    <string name="dlg_sys_app_replacement_statement">"Това е системно приложение.
+
 Всички ваши предишни потребителски данни ще бъдат запазени."</string>
-    <string name="out_of_space_dlg_title">Out of space</string>
+    <string name="out_of_space_dlg_title">Няма място</string>
     <string name="out_of_space_dlg_text">"%1$s не може да се инсталира. Освободете място в хранилището и опитайте отново."</string>
     <string name="dlg_ok">ОК</string>
     <string name="app_not_found_dlg_title">Приложението не е намерено</string>
@@ -578,18 +578,6 @@
     <string name="anonymous_source_continue">Продължаване</string>
     <string name="external_sources_settings">Настройки</string>
     <string name="wear_app_channel">Инсталиране/деинсталиране на Android Wear приложения</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
@@ -608,10 +596,10 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="abc_capital_on">Вкл</string>
-    <string name="abc_capital_off">Изк</string>
-    <string name="v7_preference_on">Вкл</string>
-    <string name="v7_preference_off">Изкл</string>
+    <string name="abc_capital_on">Вкл.</string>
+    <string name="abc_capital_off">Изкл.</string>
+    <string name="v7_preference_on">Вкл.</string>
+    <string name="v7_preference_off">Изкл.</string>
     <string name="lb_navigation_menu_contentDescription">Navigation menu</string>
     <string name="orb_search_action">Search Action</string>
     <string name="lb_search_bar_hint">Search</string>
@@ -690,4 +678,6 @@
     <string name="untrusted_external_source_warning_summary_2">"Приложенията от неизвестни източници може да са вредни за вашето устройство и лични данни. Инсталирайки приложения от този източник, вие се съгласявате да носите отговорност за евентуални щети на вашия телефон или лични данни, които могат да бъдат причинени от тези приложения.
 
 "<font size="15">Можете да давате и отнемате разрешения в Настройки > Допълнителни настройки > Поверителност > Инсталиране на неизвестни приложения.</font></string>
+   <string name="dlg_game_center_intercept_title">Внимание</string>
+   <string name="dlg_mimarket_intercept_msg">Инсталирането на приложения на трети страни може да представлява риск за сигурността. Изтеглете и инсталирайте Mi App Store за достъп до безопасни версии на приложенията.</string>
 </resources>
