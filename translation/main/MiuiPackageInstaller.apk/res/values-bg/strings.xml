@@ -680,4 +680,8 @@
 "<font size="15">Можете да давате и отнемате разрешения в Настройки > Допълнителни настройки > Поверителност > Инсталиране на неизвестни приложения.</font></string>
    <string name="dlg_game_center_intercept_title">Внимание</string>
    <string name="dlg_mimarket_intercept_msg">Инсталирането на приложения на трети страни може да представлява риск за сигурността. Изтеглете и инсталирайте Mi App Store за достъп до безопасни версии на приложенията.</string>
+   <string name="risk_warning_title">Открити са рискове</string>
+   <string name="risk_warning_msg">"Подписът на този инсталационен пакет не изглежда истински. За да избегнете възможни рискове, инсталирайте това приложение от GetApps."</string>
+   <string name="risk_warning_top_button">"Не инсталирай"</string>
+   <string name="risk_warning_bottom_button">Инсталирай от GetApps</string>
 </resources>

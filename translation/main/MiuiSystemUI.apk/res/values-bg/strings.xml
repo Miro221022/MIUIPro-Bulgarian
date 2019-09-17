@@ -1870,4 +1870,7 @@
    <string name="description_image_button_bubble_answer">Speaker</string>
    <string name="qs_open_night_mode_alert_summary">"Определени настройки на дисплея не са съвместими с Тъмен режим. Те обаче ще бъдат възстановени, след като изключите Тъмен режим."</string>
    <string name="quick_settings_nightmode_label">Тъмен режим</string>
+   <string name="face_data_apply_for_category_title">Отключване чрез лицеви данни</string>
+   <string name="face_data_apply_for_keyguard_title">Заключен екран</string>
+   <string name="face_unlock_category_title">Опции за заключен екран</string>
 </resources>
