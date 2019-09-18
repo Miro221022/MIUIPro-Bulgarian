@@ -6591,4 +6591,5 @@ OTG се изключва автоматично след 10 минути без
      <string name="wifi_generation_summary">Добавете номера на поколението безжична технология към иконата на Wi-Fi</string>
      <string name="choose_lock_pattern_header_text">Задайте шаблон</string>
      <string name="confirm_lock_pattern_header_text">Начертайте шаблона си</string>
+	 <string name="aod_name_wanxiang">Винаги включен</string>
 </resources>
