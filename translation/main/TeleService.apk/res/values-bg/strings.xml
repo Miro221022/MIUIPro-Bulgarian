@@ -1689,7 +1689,6 @@
     <string name="wfcmode_wifi_only">Само WLAN</string>
     <string name="wfcmode_wifi_preferred">Предпочита се WLAN</string>
     <string name="wificall_switch_summary">Използване на WLAN за осъществяване и получаване на повиквания, когато е възможно</string>
-    <string name="wificall_switch_title">Осъществяване на повиквания чрез WLAN</string>
 	<string name="cloud_sim_enabled_dual_4g_summary">"Не може да се изключи Двоен 4G когато се ползва Mi Роуминг"</string>
     <string name="cloud_sim_enabled_preferred_network_summary">"Не можете да променяте предпочитанията за мрежата, докато използвате услугата Mi Роуминг"</string>
     <string name="data_plan">Планове за мобилни данни</string>
@@ -1704,10 +1703,8 @@
 	<string name="privacy_policy_title">Политика за поверителност</string>
 	<string name="sip_account_disable">"Профилът не е активен. Не може да приема повиквания."</string>
     <string name="sip_receive_call_disable">"Не може да приема повиквания. Първо позволете да приема повиквания."</string>
-	<string name="vice_slot_volte_data_switch_title">Използване на мобилни данни на втората SIM карта по време на VoLTE повиквания</string>
 	<string name="vice_slot_volte_data_switch_summary">По време на VoLTE повиквания устройството ще се свърже с мобилна мрежа за данни, чрез втората SIM карта</string>
 	<string name="vice_slot_volte_data_switch_prompt">Устройството ви ще се свърже с мобилна мрежа за данни, чрез втората SIM карта по време на изходящи VoLTE повиквания. Това може да генерира допълнителни такси за данни. Свържете се с вашият оператор за подробности относно плана ви за данни.</string>
-	<string name="preferred_wificall_title">Мрежови предпочитания</string>
 	<string name="vowifi_emergency_notification_channel">Спешни предупреждения при WLAN повиквания</string>
     <string name="vowifi_emergency_notification_content">Спешните повиквания са налични само в клетъчно покритие.</string>
     <string name="vowifi_emergency_notification_title">Vodafone Wifi повикване</string>
@@ -1780,6 +1777,6 @@
     <string name="wifi_call_help_message">Ако изберете предпочитание за мобилни мрежи, мобилните мрежи ще се използват за разговори по подразбиране. В случай, че няма сигнал за мобилна мрежа или е много лош, вместо това ще се използва Wi-Fi мрежа.</string>
 	<string name="prompt_to_suggest_to_open_volte_from_operator">"Не могат да се провеждат разговори. Свържете се с China Telecom, за да включите услугата VoLTE."</string>
 	<string name="preferred_wificall_title">Wi-Fi повиквания</string>
-    <string name="vice_slot_volte_data_switch_title">Използвайте мобилни данни по време на 4G разговори на втората SIM карта</string>
-    <string name="wificall_switch_title">Wi-Fi повикване</string>
+    <string name="vice_slot_volte_data_switch_title">Използване на мобилни данни по време на 4G разговори на втората SIM карта</string>
+    <string name="wificall_switch_title">Wi-Fi повиквания</string>
 </resources>

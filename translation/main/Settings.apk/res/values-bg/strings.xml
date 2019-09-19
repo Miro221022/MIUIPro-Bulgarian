@@ -2859,9 +2859,7 @@
     <string name="default_sound">Стандартен звук</string>
     <string name="sound_settings_summary">Сила на звука при звънене: %1$s</string>
     <string name="sound_settings_example_summary">Сила на звука при звънене: 80%</string>
-    <string name="media_volume_option_title">Сила на звука за мултимедия</string>
     <string name="alarm_volume_option_title">Сила на звука за аларма</string>
-    <string name="ring_volume_option_title">Сила на звука при звънене</string>
     <string name="notification_volume_option_title">Сила на звука при известие</string>
     <string name="ringtone_title">Тон за звънене</string>
     <string name="notification_ringtone_title">Стандартен звук за известията</string>
@@ -5684,9 +5682,7 @@
     <string name="status_bar_settings_user_fold_description3">"Ако известията, които смятате за важни, продължават да се показват в папката за известия, уверено ни съобщете за тези проблеми. Бихме оценили вашите отзиви."</string>
     <string name="status_bar_settings_user_fold_disable">Изключено</string>
     <string name="status_bar_settings_user_fold_enable">Включено</string>
-	<string name="aod_close_color_inversion">"Тази функция не може да се комбинира с инверсия на цветовете. Първо изключете цветовата инверсия."</string>
     <string name="aod_got_it">Разбрах</string>
-    <string name="aod_to_close">Изключи</string>
 	<string name="account_invalid_user_avatar">Тази снимка е невалидна. Пробвайте с друга.</string>
 	<string name="bootloader_device_bind_no_data_network">Изключете WLAN и добавете профила и устройството си, като използвате мобилни данни.</string>
     <string name="bootloader_device_bind_server_token_expired_1">"Не може да се потвърди. Опитайте да добавите отново профила и устройството си."</string>
@@ -6528,7 +6524,6 @@ OTG се изключва автоматично след 10 минути без
     <string name="screen_projection_sample_summary">Споделяне на документи, игри, снимки и видеоклипове</string>
     <string name="screen_projection_sample_title">Демонстрации</string>
     <string name="screen_projection_title">Споделяне</string>
-	<string name="search_connection_and_sharing">Още;Безжично</string>
 	<string name="system_print_service_help">Относно печатането</string>
 	<string name="xiaomi_transfer">Mi Споделяне</string>
 	<string name="speaker">Говорител</string>
