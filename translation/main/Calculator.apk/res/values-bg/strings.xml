@@ -440,7 +440,7 @@
 	<string name="app_notification_info">Калкулатор работи на заден план</string>
     <string name="btn_float_window_alpha">Регулиране на прозрачността</string>
     <string name="btn_float_window_back_to_app">Увеличаване на калкулатора</string>
-    <string name="btn_float_window_close">Затваряне на умаления Калкулатор</string>
+    <string name="btn_float_window_close">Затваряне на смаления Калкулатор</string>
     <string name="btn_float_window_resize">Преоразмеряване на калкулатора</string>
     <string name="float_window_guide_text">Докоснете тук, за да смалите калкулатора</string>
     <string name="hint_floatwindow_alpha_guide_text">Докоснете, за да коригирате прозрачността</string>
