@@ -113,4 +113,14 @@
     <string name="talkback_scan_channel">Търсене на канали</string>
     <string name="talkback_switch_headset">Свържете слушалки</string>
     <string name="talkback_switch_speaker">Говорител</string>
+	<string name="is_scanning">Проверка на хранилището…</string>
+	<string name="dialog_insufficient_space_on_cache">Няма достатъчно място във вътрешното хранилище</string>
+    <string name="dialog_insufficient_space_on_external">Няма достатъчно място във виншното хранилище</string>
+	<string name="enter_garbage_clean">Почистване на вътрешното хранилище.</string>
+    <string name="insufficient_space">"Няма достатъчно място във вътрешната памет на вашето устройство"</string>
+	<string name="show_more">Покажи още %s</string>
+    <string name="storage_internal">Вътрешна памет</string>
+    <string name="storage_sd_card">SD карта</string>
+    <string name="storage_usb">USB хранилище</string>
+    <string name="task_already_exist">Задачата вече съществува</string>
 </resources>
