@@ -95,7 +95,7 @@
     <string name="mortgage_interest_rate">Търговска лихва</string>
     <string name="mortgage_calculate">Пресметни</string>
     <string name="mortgage_hint_loan">Въведете вашата сума</string>
-    <string name="mortgage_hint_accumulation_fund">Въведи сума</string>
+    <string name="mortgage_hint_accumulation_fund">Въведете сума</string>
     <string name="mortgage_hint_commercial">Въведи сума</string>
     <string name="mortgage_descript_commercial">Лихва в проценти: %s (ГПР)</string>
     <string name="mortgage_descript_accumulation">Лихва в проценти: %s (такси)</string>
@@ -169,7 +169,7 @@
     <string name="convertion_unit_temperature">Конвертор за температура</string>
     <string name="convertion_unit_time">Конвертор за време</string>
     <string name="convert_currency">Конвертор за валута</string>
-    <string name="currency_update_time_format">Обменните курсове се предоставят от Apilayer</string>
+    <string name="currency_update_time_format">Обменните курсове се предоставят от Apilayer (%s)</string>
     <string name="choose_unit">Изберете мерна единица</string>
     <string name="choose_currency">Избери валута</string>
     <string name="rate_data_provider">Лихвените проценти са предоставени от hexun.com</string>
@@ -344,8 +344,8 @@
     <string name="tab_title_tax_mortgage">Ипотека</string>
 	<string name="tab_title_tax_mortgage_global">Ипотека</string>
 	<string name="base_rate">Основен лихвен процент</string>
-    <string name="currency_update_connect_to_get_data">Валутните курсове се предоставят от Webull. Свържете се с мрежата, за да получите най-новата информация.</string>
-    <string name="currency_update_support">Валутните курсове се предоставят от Webull.</string>
+    <string name="currency_update_connect_to_get_data">Валутните курсове се предоставят от Apilayer. Свържете се с мрежата, за да получите най-новата информация.</string>
+    <string name="currency_update_support">Валутните курсове се предоставят от Apilayer.</string>
     <string name="currency_update_updating">Обновяване на курсовете…</string>
     <string name="interest_rate_hint">Въведете лихвен процент</string>
     <string name="loan_edittext_title_commercial_combined">Търговски (×10K)</string>
