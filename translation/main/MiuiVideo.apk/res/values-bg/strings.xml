@@ -484,7 +484,7 @@
     <string name="lp_advance_sound">Подобряване на звука</string>
     <string name="lp_brightness">Яркост</string>
     <string name="lp_fullscreen">Цял екран</string>
-    <string name="lp_setting"></string>
+    <string name="lp_setting">Настройки</string>
     <string name="lp_volume">Сила на звука</string>
     <string name="passport_access_denied">Access denied</string>
     <string name="passport_account_hint_text">Email address or Mi Account ID</string>
@@ -860,4 +860,24 @@ To activate your account, follow the
 	<string name="vp_auto_change_resolution_suggestion">Мрежовата връзка е лоша. Превключване към &lt;font color=#0F99FF>%1$s&lt;/font></string>
     <string name="vp_auto_change_resolution_switch">Мрежовата връзка е лоша. Превключване към &lt;font color=#0F99FF>%1$s&lt;/font></string>
 	<string name="vp_video_player_play_text">Докоснете за изпълнение на \"%1$s\"</string>
+	<string name="lp_playspeed">Скорост на изпълнение</string>
+	<string name="lp_speed_toast">Изпълнява се със скорост %sX…</string>
+	<string name="vp_airplay_did_not_find_device">"Не са намерени съвместими устройства."</string>
+	<string name="vp_airplay_check_connected_wifi">"Уверете се, че устройството, което искате да използвате, е свързано със същата Wi-Fi мрежа като вашия телефон."</string>
+	<string name="vp_airplay_connected">" (Свързано)"</string>
+    <string name="vp_airplay_connecting">" Свързване…"</string>
+    <string name="vp_airplay_devices">Налични устройства</string>
+    <string name="vp_airplay_disconnect">Прекъсни връзката</string>
+    <string name="vp_airplay_failed_to_connect">"Не може да свърже"</string>
+    <string name="vp_auto_play">Автоматично изпълнение</string>
+    <string name="vp_change_resolution_full_high_successfully">Превключено към &lt;font color=#0F99FF>FullHD&lt;/font> успешно</string>
+    <string name="vp_change_resolution_high_successfully">Превключено към &lt;font color=#0F99FF>high quality&lt;/font> успешно</string>
+    <string name="vp_change_resolution_low_successfully">Превключено към &lt;font color=#0F99FF>low quality&lt;/font> успешно</string>
+    <string name="vp_change_resolution_standard_successfully">Превключено към &lt;font color=#0F99FF>standard качество</string>
+    <string name="vp_change_resolution_super_successfully">Превключено към &lt;font color=#0F99FF>UltraHD&lt;/font> успешно</string>
+    <string name="vp_changing_resolution_full_high">Превключване към &lt;font color=#0F99FF>FullHD&lt;/font>&amp;#8230;</string>
+    <string name="vp_changing_resolution_high">Превключване към &lt;font color=#0F99FF>high quality&lt;/font>&amp;#8230;</string>
+    <string name="vp_changing_resolution_low">Превключване към &lt;font color=#0F99FF>low quality&lt;/font>&amp;#8230;</string>
+    <string name="vp_changing_resolution_standard">Превключване към &lt;font color=#0F99FF>standard quality&lt;/font>&amp;#8230;</string>
+    <string name="vp_changing_resolution_super">Превключване към &lt;font color=#0F99FF>UltraHD&lt;/font>&amp;#8230;</string>
 </resources>
