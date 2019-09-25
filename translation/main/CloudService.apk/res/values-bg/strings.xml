@@ -729,8 +729,8 @@
     <string name="cloud_storage_info_type_drive">Mi Диск</string>
     <string name="cloud_storage_info_type_pdc">Системни настройки</string>
 	<string name="storage_manage_title">Променете плана за съхранение в облака</string>
-	<string name="priv_dialog_finddevice_all_purpose_pad">"Добре дошли в Открий устройство! Можете да използвате тази услуга, за да намерите, заключите или изтриете данни на устройството си, ако е загубено."</string>
-    <string name="priv_dialog_finddevice_all_purpose_phone">"Добре дошли в Открий устройство! Можете да използвате тази услуга, за да намерите, заключите или изтриете данни на устройството си, ако е загубено."</string>
+	<string name="priv_dialog_finddevice_all_purpose_pad">"Добре дошли в Открий устройството! Можете да използвате тази услуга, за да намерите, заключите или изтриете данни на устройството си, ако е загубено."</string>
+    <string name="priv_dialog_finddevice_all_purpose_phone">"Добре дошли в Открий устройството! Можете да използвате тази услуга, за да намерите, заключите или изтриете данни на устройството си, ако е загубено."</string>
     <string name="priv_dialog_sync_all_purpose">Добре дошли в услугите на Xiaomi Облак! Можете да използвате Xiaomi Облак за синхронизиране на вашите съобщения, история на обажданията, контакти, бележки, настройки на браузъра, песни, снимки и видеоклипове, настройки на WLAN, записи, оформление на началния екран, приложения, събития в календара, елементи на списъци с блокирани и личен асистент на всички свързани устройства.</string>
 	<string name="priv_doc_cloudservice">Добре дошли в услугите на Xiaomi Облак! Можете да използвате Xiaomi Облак за синхронизиране на вашите съобщения, история на обажданията, контакти, бележки, настройки на браузъра, песни, снимки и видеоклипове, настройки на WLAN, записи, оформление на началния екран, приложения, събития в календара, елементи на списъци с блокирани и личен асистент на всички свързани устройства. Имате достъп до нещата, които синхронизирате от всеки браузър на i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;"
 
@@ -753,54 +753,54 @@
 Ако не сте съгласни да дадете такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате тези услуги. Можете да изберете да деинсталирате това приложение, да излезете или да ограничите разрешенията в Настройки в такива случаи.
 Прочетете и се съгласете с нашите "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;Потребителско споразумение &lt;/a&gt;&lt;/u&gt; и &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Политика за поверителност &lt;/a&gt;&lt;/u&gt;" преди да използвате Xiaomi Облак.
 "</string>
-    <string name="priv_doc_finddevice_pad">"Добре дошли в Намери устройство! Можете да използвате тази услуга, за да намерите, заключите или изтриете данни на устройството си, ако са загубени. You can go to "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" to locate, lock, or reset it.
+    <string name="priv_doc_finddevice_pad">"Добре дошли в Открий устройството! Можете да използвате тази услуга, за да намерите, заключите или изтриете данни на устройството си, ако е загубено. Можете да посетите "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" за да го намерите, заключите или нулирате.
 
-We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
-To be able to work normally, Find device needs to connect to the internet and requires the following permissions in order to collect your personal information:
-&amp;#8226; Accessing device info:
-For identifying your device
-&amp;#8226; Location:
-For locating your device and switching to the lost mode
-If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
-Read and agree to our"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; User Agreement &lt;/a&gt;&lt;/u&gt;and&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Privacy Policy &lt;/a&gt;&lt;/u&gt;"before using Find device.
+Ние ще защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики за поверителност.
+За да може да работи нормално, Открий устройството трябва да се свърже с интернет и изисква следните разрешения, за да събира вашата лична информация:
+&amp;#8226; Достъп до информация за устройството:
+За идентифициране на устройството ви
+&amp;#8226; Местоположение:
+За локализиране на устройството ви и преминаване към режим изгубено
+Ако не сте съгласни да дадете такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате тези услуги. Можете да изберете да деинсталирате това приложение, да излезете или да ограничите разрешенията в Настройки в такива случаи.
+Прочетете и се съгласете с нашите"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Потребителско споразумение &lt;/a&gt;&lt;/u&gt;и&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Политика за поверителност &lt;/a&gt;&lt;/u&gt;"преди да използвате Открий устройството.
 "</string>
-   <string name="priv_doc_finddevice_phone">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" to locate, lock, or reset it.
+   <string name="priv_doc_finddevice_phone">"Добре дошли в Открий устройството! Можете да използвате тази услуга, за да намерите, заключите или изтриете данни на устройството си, ако е загубено. Можете да посетите "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" за да го намерите, заключите или нулирате.
 
-We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
-To be able to work normally, Find device needs to connect to the internet and requires the following permissions in order to collect your personal information:
-&amp;#8226; Accessing device info:
-For identifying your device
-&amp;#8226; Location:
-For locating your device and switching to the lost mode
-If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
-Read and agree to our"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; User Agreement &lt;/a&gt;&lt;/u&gt;and&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Privacy Policy &lt;/a&gt;&lt;/u&gt;"before using Find device.
+Ние ще защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики за поверителност.
+За да може да работи нормално, Открий устройството трябва да се свърже с интернет и изисква следните разрешения, за да събира вашата лична информация:
+&amp;#8226; Достъп до информация за устройството:
+За идентифициране на устройството ви
+&amp;#8226; Местоположение:
+За локализиране на устройството ви и преминаване към режим изгубено
+Ако не сте съгласни да дадете такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате тези услуги. Можете да изберете да деинсталирате това приложение, да излезете или да ограничите разрешенията в Настройки в такива случаи.
+Прочетете и се съгласете с нашите"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Потребителско споразумение &lt;/a&gt;&lt;/u&gt;и&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Политика за поверителност &lt;/a&gt;&lt;/u&gt;"преди да използвате Открий устройството.
 "</string>
-   <string name="priv_doc_finddevice_with_telephony_feature_pad">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" to locate, lock, or reset it.
+   <string name="priv_doc_finddevice_with_telephony_feature_pad">"Добре дошли в Открий устройството! Можете да използвате тази услуга, за да намерите, заключите или изтриете данни на устройството си, ако е загубено. Можете да посетите "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" за да го намерите, заключите или нулирате.
 
-An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
+Може да е необходимо изходящо SMS съобщение за активиране на тази услуга. Вашият оператор ще ви таксува за това съобщение. Когато превключите вашата SIM карта, може да бъде изпратено автоматично съобщение, за да се активира отново тази функция.
 
-An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
-We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
-To be able to work normally, Find device needs to connect to the internet and requires the following permissions in order to collect your personal information:
-&amp;#8226; Accessing device info:
-For identifying your device
-&amp;#8226; Location:
-For locating your device and switching to the lost mode
-If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
-Read and agree to our"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; User Agreement &lt;/a&gt;&lt;/u&gt;and&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Privacy Policy &lt;/a&gt;&lt;/u&gt;"before using Find device.
+Може да е необходимо изходящо SMS съобщение за активиране на тази услуга. Вашият оператор ще ви таксува за това съобщение. Когато превключите вашата SIM карта, може да бъде изпратено автоматично съобщение, за да се активира отново тази функция.
+Ние ще защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики за поверителност.
+За да може да работи нормално, Открий устройството трябва да се свърже с интернет и изисква следните разрешения, за да събира вашата лична информация:
+&amp;#8226; Достъп до информация за устройството:
+За идентифициране на устройството ви
+&amp;#8226; Местоположение:
+За локализиране на устройството ви и преминаване към режим изгубено
+Ако не сте съгласни да дадете такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате тези услуги. Можете да изберете да деинсталирате това приложение, да излезете или да ограничите разрешенията в Настройки в такива случаи.
+Прочетете и се съгласете с нашите"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Потребителско споразумение &lt;/a&gt;&lt;/u&gt;и&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Политика за поверителност &lt;/a&gt;&lt;/u&gt;"преди да използвате Открий устройството.
 "</string>
-   <string name="priv_doc_finddevice_with_telephony_feature_phone">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" to locate, lock, or reset it.
+   <string name="priv_doc_finddevice_with_telephony_feature_phone">"Добре дошли в Открий устройството! Можете да използвате тази услуга, за да намерите, заключите или изтриете данни на устройството си, ако е загубено. Можете да посетите "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" за да го намерите, заключите или нулирате.
 
-An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
+Може да е необходимо изходящо SMS съобщение за активиране на тази услуга. Вашият оператор ще ви таксува за това съобщение. Когато превключите вашата SIM карта, може да бъде изпратено автоматично съобщение, за да се активира отново тази функция.
 
-An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
-We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
-To be able to work normally, Find device needs to connect to the internet and requires the following permissions in order to collect your personal information:
-&amp;#8226; Accessing device info:
-For identifying your device
-&amp;#8226; Location:
-For locating your device and switching to the lost mode
-If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
-Read and agree to our"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; User Agreement &lt;/a&gt;&lt;/u&gt;and&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Privacy Policy &lt;/a&gt;&lt;/u&gt;"before using Find device.
+Може да е необходимо изходящо SMS съобщение за активиране на тази услуга. Вашият оператор ще ви таксува за това съобщение. Когато превключите вашата SIM карта, може да бъде изпратено автоматично съобщение, за да се активира отново тази функция.
+Ние ще защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики за поверителност.
+За да може да работи нормално, Открий устройството трябва да се свърже с интернет и изисква следните разрешения, за да събира вашата лична информация:
+&amp;#8226; Достъп до информация за устройството:
+За идентифициране на устройството ви
+&amp;#8226; Местоположение:
+За локализиране на устройството ви и преминаване към режим изгубено
+Ако не сте съгласни да дадете такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате тези услуги. Можете да изберете да деинсталирате това приложение, да излезете или да ограничите разрешенията в Настройки в такива случаи.
+Прочетете и се съгласете с нашите"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Потребителско споразумение &lt;/a&gt;&lt;/u&gt;и&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Политика за поверителност &lt;/a&gt;&lt;/u&gt;"преди да използвате Открий устройството.
 "</string>
 </resources>
