@@ -97,7 +97,7 @@
     <string name="home_apply_failured">Тапетът не може да се приложи</string>
     <string name="home_apply_success">Тапетът на начален екран е приложен</string>
     <string name="in_the_end">Няма повече елементи за показване</string>
-    <string name="incompatible_dialog_message">"Тази тема не е съвместима с версията на MIUI, която е инсталирана на вашето устройство. Някои части на MIUI може да не работят правилно, ако приложите тази тема."</string>
+    <string name="incompatible_dialog_message">"Тази тема все още не е напълно съвместима с MIUI 11. Някои страници може да не работят правилно."</string>
     <string name="incompatible_dialog_ok">Разбрах</string>
     <string name="incompatible_dialog_title">Проблеми със съвместимостта</string>
     <string name="is_setting_wallpaper_message">Тапетът се задава…</string>
@@ -626,7 +626,8 @@
    <string name="wallpaper_personal_dialog_title">Персонализирайте вашите тапети</string>
    <string name="theme_to_comment">Не е зле!</string>
    <string name="transparent_wallpaper">Прозрачен тапет</string>
-   <string name="transparent_wallpaper_apply_success">Зададен успешно. Можете да изключите тази функция от Теми > Профил > Бета функции.</string>
+   <string name="transparent_wallpaper_apply_success">"Приложено успешно.
+Отидете в Теми > Профил > Бета функции за още опции."</string>
    <string name="transparent_wallpaper_enable_success">Включено успешно</string>
    <string name="transparent_wallpaper_guide">Отидете в Теми</string>
    <string name="transparent_wallpaper_guide_tip">Можете да изберете прозрачен тапет в Теми сега.</string>
@@ -808,4 +809,8 @@
     <string name="transparent_wallpaper_auto_start_pref_summary">Продължете да използвате прозрачни тапети, след като рестартирате устройството си</string>
     <string name="transparent_wallpaper_auto_start_pref_title">Автостарт</string>
 	<string name="like_list">Елементи които харесвам</string>
+	<string name="current_using">Текуща</string>
+    <string name="recommend_trigger">Персонализирани препоръки</string>
+    <string name="recommend_trigger_summary">Включете, за да получавате препоръки въз основа на вашите предпочитания</string>
+    <string name="update_flag">Актуализирай</string>
 </resources>

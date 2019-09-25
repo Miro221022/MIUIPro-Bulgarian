@@ -320,4 +320,14 @@
   <string name="todo_menu_cancel">Отказ</string>
   <string name="todo_user_guide_fw_pop">Добавяне на пряк път към началния екран</string>
   <string name="todo_user_guide_tip5">Останете на върха на играта си и никога не пропускайте нещо важно!</string>
+    <string name="confirm_cancel">"Не се съгласявам"</string>
+    <string name="confirm_ok">Съгласявам се</string>
+    <string name="permission_get_account_desc">Синхронизиране на бележки с облака</string>
+    <string name="permission_microphone_desc">Създаване на гласови бележки</string>
+    <string name="permission_network_for_cloud_desc">За да синхронизирате бележки с облака, трябва да се свържете с интернет. Мобилните данни могат да се използват за синхронизиране на елементи. Свързване сега?</string>
+    <string name="permission_read_contact_desc">Свързване на бележките, създадени по време на разговори с контакти</string>
+    <string name="permission_xiaoai_desc"><Data>Mi AI ще събира вашите гласови записи и идентификационен номер на устройството, за да преписва аудио и да създава гласови бележки. Научете повече в &lt;a href=\"%1$s\">Политиката за поверителност&lt;/a> на Mi AI .</Data></string>
+    <string name="pref_remind_type_summary">Възпроизвеждане на напомнящ звук в Безшумен режим</string>
+    <string name="pref_remind_type_title">Игнорирай безшумния режим</string>
+    <string name="remind_title">Напомняния</string>
 </resources>

@@ -90,7 +90,7 @@
     <string name="auto_restart_under_wifi">Файлът ще се изтегли автоматично при връзка с Wi-Fi</string>
     <string name="auto_upgrade">Автоматично обновяване</string>
     <string name="avail_services">Услуги на разположение</string>
-    <string name="available_playlist_name_format">Нов плейлист %d</string>
+    <string name="available_playlist_name_format">Плейлист %d</string>
     <string name="avoid_to_use_traffic_summary">Предупреждение за ползване на данни</string>
     <string name="avoid_to_use_traffic_title">Питай, когато се използват мобилни данни за прослушване на песни</string>
     <string name="back_confirm">Чукнете още веднъж за изход</string>
@@ -439,7 +439,7 @@
     <string name="karaoke_title">Представяне на Караоке</string>
     <string name="keep_queued_download">Запомни</string>
     <string name="ktv_playlist">Моят KTV</string>
-    <string name="latest_song">История на изпълненията (%d)</string>
+    <string name="latest_song"><Data>История на изпълненията &lt;font color=#7e7e7e>(%1$d)&lt;/font></Data></string>
     <string name="like">Харесвам</string>
     <string name="list_item_play_FM_radio">Докоснете за старт на FM радио</string>
     <string name="list_item_play_all_tracks">Докоснете за старт на всички песни</string>
@@ -1211,4 +1211,20 @@
     <string name="all_offline_song_and_auto_next">"Понастоящем някои песни от този плейлист не са налични."</string>
     <string name="offline_song_and_auto_next">"Тази песен не е налична. Пропуска се засега."</string>
     <string name="recommend_tool">Препоръка</string>
+	<string name="cloud_empty_summary">Архивирайте песни в XiaoMi Облак, за да имате достъп до тях от други устройства</string>
+    <string name="cloud_welcome_summary">Архивирайте песните си в XiaoMi Облак и ги слушайте на други устройства</string>
+    <string name="cta_runtime_perm_desc_account">За достъп до профилите на вашето устройство, за да се впишете чрез Mi профил</string>
+    <string name="cta_runtime_perm_desc_audio">За идентифициране на песни чрез микрофона</string>
+    <string name="cta_runtime_perm_desc_location">За достъп до местни радиостанции</string>
+    <string name="cta_runtime_perm_desc_phone">За достъп до информация за устройството, за да идентифицирате вашето устройство</string>
+    <string name="cta_runtime_perm_desc_storage">За достъп до хранилището с цел запазване и достъп до песни, обложки и текстове</string>
+    <string name="cta_runtime_perm_desc_storage_single">За достъп до хранилището с цел запазване и достъп до песни, обложки и текстове</string>
+    <string name="declaration_main_content">"Ние ще защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики за поверителност.
+За да може да работи нормално, това приложение трябва да се свърже с интернет и изисква следните разрешения, за да събира личната ви информация:"</string>
+    <string name="declaration_main_content2"><Data>"Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. Можете да изберете да деинсталирате това приложение, да излезете или да ограничите разрешенията в Настройките в такива случаи. Прочетете и се съгласете с нашите &lt;a href=\"http://www.miui.com/res/doc/eula.html\">Потребителско споразумение&lt;/a> и &lt;a href=\"https://static.music.xiaomi.com/privacy?lang=%1$s\">Политика за поверителност&lt;/a> преди да използвате Музика."</Data></string>
+    <string name="declaration_main_purpose">Добре дошли в Mi Музика! Можете да използвате това приложение, за да възпроизвеждате песните, запазени на вашето устройство и да предавате онлайн съдържание.</string>
+    <string name="sync_only_in_wifi_summary">Синхронизирайте музиката си на всичките си устройства с XiaoMi Облак. Използването на вашата мобилна връзка за данни за синхронизиране на музика ще увеличи използването на вашите данни. Ако превишите ограничението за данни на плана си, вашият оператор може да ви начисли допълнителни такси.</string>
+    <string name="headline_content_issue_feedback">Отзиви при проблеми със съдържанието</string>
+    <string name="sleep_mode_seek_bar_end">120 минути</string>
+    <string name="sleep_mode_seek_bar_start">1 минути</string>
 </resources>
