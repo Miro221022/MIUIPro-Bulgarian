@@ -269,4 +269,12 @@
 	<string name="wx_not_installed_toast">Тази функция трябва да използва WeChat. Инсталирайте първо WeChat.</string>
 	<string name="close_hotspot_when_connecting_to_wifi">Горещата точка е включена. Включете Wi-Fi.</string>
     <string name="setting_function_sort">Пренареждане на функциите</string>
+	<string name="agree_app_use">Сканиране на QR кодове и разпознаването им на други изображения</string>
+  <string name="agree_camera_permission">За правене на снимки и запис на видео</string>
+  <string name="agree_storage_permission">За достъп до снимки и файлове, съхранявани на вашето устройство</string>
+  <string name="always">Винаги</string>
+  <string name="choose_open_code_app">Изберете прилжение</string>
+  <string name="once">Само веднъж</string>
+  <string name="to_install_title">Този QR код ви пренасочва към деинсталирано приложение. Ще изтеглете ли това приложение сега?</string>
+  <string name="toinstall">Изтегли</string>
 </resources>

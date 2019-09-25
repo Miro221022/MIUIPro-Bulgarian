@@ -130,4 +130,16 @@
         <item>Преглед на синхронизираните елементи</item>
         <item>Подробности за хранилището</item>
     </string-array>
+	    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>За синхронизиране на събития</item>
+        <item>За синхронизиране на съобщения</item>
+        <item>За синхронизиране на съобщения</item>
+        <item>За синхронизиране на контакти</item>
+        <item>За синхронизиране на контакти</item>
+        <item>За запазване на елементи на устройството ви (например изображения, видеоклипове, песни)</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>За идентифициране на устройство ви</item>
+        <item>За локализиране на вашето устройство и преминаване към режим изгубено</item>
+    </string-array>
 </resources>

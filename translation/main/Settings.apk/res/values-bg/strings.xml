@@ -6588,4 +6588,5 @@ OTG се изключва автоматично след 10 минути без
      <string name="confirm_lock_pattern_header_text">Начертайте шаблона си</string>
 	 <string name="aod_name_wanxiang">Винаги включен</string>
 	 <string name="dc_light_summary_new">DC затъмняването предотвратява силно трептене и намалява напрежението на очите при условия със слаба осветеност. Качеството на изображението обаче може да се повлияе, когато тази функция е включена.</string>
+	 <string name="speaker_clean">Почистване на говорителя</string> 
 </resources>
