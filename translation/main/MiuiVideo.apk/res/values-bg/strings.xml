@@ -257,10 +257,11 @@
     <string name="v_cancel">Отказ</string>
     <string name="v_canceled">Отказано</string>
     <string name="v_category">Категории</string>
-    <string name="v_clause_info">1. To be able to use the online services provided by Sohu TV, iQiyi, etc., you must agree to our <a href="http://www.miui.com/res/doc/eula.html">User Agreement</a> and <a href="http://www.miui.com/res/doc/privacy.html">Privacy Policy</a>".
-2. We'll collect the info about your device and the way you use Mi Video. Content providers will collect your device ID.
-3. To improve your user experience, an HD video-plug-in will be downloaded and installed on your device.
-4. Mi Video needs to connect to the network to work normally."</string>
+    <string name="v_clause_info">1. За да можете да използвате онлайн услугите, предоставяни от Sohu TV, iQiyi и други доставчици на съдържание, трябва да се съгласите с нашите <a href="https://a.video.xiaomi.com/mvideo/user_agreement.html">Потребителско споразумение</a> и <a href="https://privacy.mi.com/all/">Политика за поверителност</a>".
+2. Ще събираме информацията за вашето устройство и начина, по който използвате Mi Видео. Доставчиците на съдържание ще събират идентификационния номер на вашето устройство.
+3. Mi Видео трябва да се свърже към мрежата, за да работи нормално.
+4. Mi Видео трябва да изтеглите и инсталирате HD видео приставка, за да можете да предавате видеоклипове."</string>
+
     <string name="v_clause_notips">"Не показвай отново"</string>
     <string name="v_clause_title">Правила и условия</string>
     <string name="v_click_channel_scrol_to_top">Tap again to go back to top.</string>
@@ -880,4 +881,34 @@ To activate your account, follow the
     <string name="vp_changing_resolution_low">Превключване към &lt;font color=#0F99FF>low quality&lt;/font>&amp;#8230;</string>
     <string name="vp_changing_resolution_standard">Превключване към &lt;font color=#0F99FF>standard quality&lt;/font>&amp;#8230;</string>
     <string name="vp_changing_resolution_super">Превключване към &lt;font color=#0F99FF>UltraHD&lt;/font>&amp;#8230;</string>
+	<string name="all_comments">Всички коментари</string>
+    <string name="close_sub_comments">Скриване</string>
+    <string name="copy">Копирай</string>
+    <string name="delete">Изтриване</string>
+    <string name="have_no_more_comments">"Това е всичко за сега"</string>
+    <string name="just_now">В момента</string>
+    <string name="menu_item_enable_auto_change_resolution">Регулиране на разделителната способност автоматично</string>
+    <string name="new_app_update_button_text">Актуализирай сега</string>
+    <string name="new_app_update_title">Налична е актуализация</string>
+    <string name="no_comments">Все още няма коментари тук. Можете да оставите първия.</string>
+    <string name="open_more_comments">Още коментари</string>
+    <string name="plus_gallery_folders_showall">Преглед на всички</string>
+    <string name="plus_gallery_folders_showsection">Скриване</string>
+    <string name="reply">"Отговори на %s: "</string>
+    <string name="send_comment_default_txt">Въведете коментар</string>
+    <string name="small_video_app_continue_download">Възобновяване</string>
+    <string name="small_video_app_installing">Инсталиране…</string>
+    <string name="small_video_app_open">Отвори</string>
+    <string name="small_video_app_play">Опитай</string>
+    <string name="small_video_not_support_comment">"Не мога да добавя коментари към тази реклама"</string>
+    <string name="small_video_not_support_share">"Не мога да споделя тази реклама"</string>
+    <string name="small_video_view_ad">Още</string>
+    <string name="small_video_volumn_low">Увеличете силата на звука за най-добро изживяване</string>
+    <string name="t_check_send_file_only_one">Можете да изпращате само един елемент. Изберете отново.</string>
+    <string name="v_livetv_program_disable_msg">"Тази програма не може да бъде намерена. Обърнете внимание на нашите препоръки."</string>
+    <string name="vp_speed">Изпълнение с 2X скорост…</string>
+    <string name="vp_speed_guidance">Натиснете и задръжте екрана, за да промените скоростта на възпроизвеждане</string>
+    <string name="vp_speed_toast">Вече се изпълнява със скорост 2X</string>
+    <string name="vp_video_wonderful_content">Докоснете за изпълнение</string>
+	<string name="plus_player_detail_file_location">"Местоположение: "</string>
 </resources>

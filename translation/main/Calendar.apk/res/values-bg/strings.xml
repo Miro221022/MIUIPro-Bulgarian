@@ -618,4 +618,8 @@
   <string name="ticket_activity_card_date_day">" "</string>
   <string name="ticket_activity_card_date_month">" "</string>
   <string name="limit_notification_date_format">d M (EE)</string>
+    <string name="permission_accounts">За вписване и управление на вашия системен профил и свързване на елементи с него</string>
+    <string name="permission_contacts">За синхронизиране на рождените дни на вашите контакти и изпращане на напомняния</string>
+    <string name="permission_main_purpose">Преглед и управление на събития в календара, планиране на пътувания, получаване на напомняния и абонамент за услуги</string>
+    <string name="permission_storage">За запазване на напомняния и мелодии</string>
 </resources>

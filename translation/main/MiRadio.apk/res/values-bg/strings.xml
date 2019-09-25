@@ -123,4 +123,38 @@
     <string name="storage_sd_card">SD карта</string>
     <string name="storage_usb">USB хранилище</string>
     <string name="task_already_exist">Задачата вече съществува</string>
+    <string name="cta_runtime_perm_desc_account">Достъп до профилите на вашето устройство, за да се впишете чрез Mi профил</string>
+    <string name="cta_runtime_perm_desc_location">Достъп до местоположението, за да бъдат достъпни местните радиостанции</string>
+    <string name="cta_runtime_perm_desc_phone">Достъп до информация за устройството, за да идентифицирате вашето устройство</string>
+    <string name="cta_runtime_perm_desc_storage">Достъп до хранилището, за да получите достъп и запаметите обложките и изтеглените файлове</string>
+    <string name="cta_runtime_perm_desc_storage_single">Достъп до хранилището, за да получите достъп и запаметите обложките и изтеглените файлове</string>
+    <string name="declaration_main_content">"Ние ще защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики за поверителност.
+За да може да работи нормално, това приложение трябва да се свърже с интернет и изисква следните разрешения, за да събира личната ви информация:"</string>
+    <string name="declaration_main_content2"><Data>"Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. В такива случаи можете да изберете да излезете или да ограничите разрешенията в Настройки. Прочетете и се съгласете с нашите &lt;font color=#0097ff>&lt;a href=%1$s>Потребителско споразумение&lt;/a>&lt;/font> и &lt;font color=#0097ff>&lt;a href=%2$s>Политика за поверителност&lt;/a>&lt;/font> преди да използвате FM Радио."</Data></string>
+    <string name="declaration_main_content2_unloadable"><Data>"Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. Можете да изберете да деинсталирате това приложение, да излезете или да ограничите разрешенията в Настройки в такива случаи. Прочетете и се съгласете с нашите &lt;font color=#0097ff>&lt;a href=%1$s>Потребителско споразумение&lt;/a>&lt;/font> and &lt;font color=#0097ff>&lt;a href=%2$s>Политика за поверителност&lt;/a>&lt;/font> преди да използвате FM Радио."</Data></string>
+    <string name="declaration_main_purpose">Добре дошли във FM радио! Можете да използвате това приложение, за да слушате програмите, предоставени от местните и онлайн радиостанции.</string>
+    <string name="declaration_runtime_perm_desc">"Достъп до информация за устройството, за да идентифицирате вашето устройство
+Достъп до профилите на вашето устройство, за да се впишете чрез Mi профил
+Достъп до хранилището, за да получите достъп и запаметите обложки и изтеглени файлове"</string>
+    <string name="fm_record_smaple_prefix_miui">FM запис</string>
+    <string name="guide_radio">"Слушайте местно радио, когато сте офлайн"</string>
+    <string name="guide_radio_tip">Свържете слушалки, за да получавате сигнал</string>
+    <string name="hot_list">Топ класации</string>
+    <string name="impunity_declaration_negative_text_unloadable">Изход</string>
+    <string name="listen_to_broadcast">Слушайте радио</string>
+    <string name="listen_to_emotion">Слушайте радиото за говорене</string>
+    <string name="listen_to_history">Слушайте исторически програми</string>
+    <string name="listen_to_hotlist">Слушайте най-добрите класации</string>
+    <string name="listen_to_music">Слушайте музика</string>
+    <string name="listen_to_news">Чуйте новините</string>
+    <string name="listen_to_novel">Слушайте аудиокниги</string>
+    <string name="listen_to_storytelling">Слушайте истории</string>
+    <string name="listen_without_headset">Можете да слушате следните програми без слушалки:</string>
+    <string name="music">Музика</string>
+    <string name="news">Новини</string>
+    <string name="novel">Аудиокниги</string>
+    <string name="please_plug_headset">Свържете слушалки</string>
+    <string name="poor_signal_due_to_no_headset">Свържете слушалки, за да подобрите сигнала</string>
+    <string name="recommend_list">Препоръчани</string>
+    <string name="storytelling">Истории</string>
 </resources>

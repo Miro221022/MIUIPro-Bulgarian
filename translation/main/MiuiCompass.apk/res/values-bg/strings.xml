@@ -64,4 +64,6 @@
 	<string name="preference_other">Други</string>
     <string name="preference_privacy_title">Политика за поверителност</string>
 	<string name="compass_settings">Настройки</string>
+	<string name="permission_camera_desc">Използване на нивото на духа</string>
+    <string name="permission_location_desc">Показване на координати и атмосферно налягане</string>
 </resources>

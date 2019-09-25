@@ -464,4 +464,5 @@
     <string name="unit_data_display_radix_16">Шестнадесетична</string>
     <string name="unit_data_display_radix_2">Двоична</string>
     <string name="unit_data_display_radix_8">Осмична</string>
+	<string name="network_purpose">Добре дошли в Калкулатор! Калкулатор ви позволява да конвертирате валути, да изчислявате изплащане на ипотека и други.</string>
 </resources>

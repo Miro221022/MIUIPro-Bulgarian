@@ -1450,4 +1450,6 @@ Browser needs to connect to the internet to work normally. You must agree to our
 	<string name="data_traffic_download_toast_msg">В момента се използва трафик на данни за кеширане на видео</string>
     <string name="video_download_wait_for_caching">Изчаква се кеширане</string>
     <string name="video_download_wait_for_network">Изчаква се за мрежа</string>
+	<string name="no_memory_space">няма място в паметта</string>
+    <string name="wechat_not_installed">Wechat не е инсталирано<string>
 </resources>

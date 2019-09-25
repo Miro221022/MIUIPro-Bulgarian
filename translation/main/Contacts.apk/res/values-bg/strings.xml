@@ -1238,4 +1238,8 @@
   <string name="shortcut_new_contact_label">Нов контакт</string>
   <string name="shortcut_scan_label">Сканиране на визитка</string>
   <string name="contact_detail_more_calllog">Покажи още</string>
+    <string name="callrecordview_menu_identify_numbers">Идентификация на телефонните номера</string>
+    <string name="contact_detail_calllog_correct_yellow_page">Коригирайте или докладвайте</string>
+    <string name="yellowpage_address_tag">Адрес</string>
+    <string name="yellowpage_provider_label">Данните са предоставени от</string>
 </resources>

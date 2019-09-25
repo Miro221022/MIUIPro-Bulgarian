@@ -68,7 +68,7 @@
     <string name="HIPS_Perm_use_sip">Видео услуги</string>
     <string name="HIPS_Perm_use_sip_Desc">Използване на Протокол за Инициализация на Сесия за излъчване на видео</string>
     <string name="HIPS_Perm_process_outgoing_calls">Достъп до приложението Телефон</string>
-    <string name="HIPS_Perm_process_outgoing_calls_Desc">Отговор, наблюдение и край на повикванията</string>
+    <string name="HIPS_Perm_process_outgoing_calls_Desc">Наблюдение на входящите повиквания</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Достъп до (NFC) хардуер</string>
     <string name="HIPS_Perm_install_shortcut">Преки пътища на началния екран</string>
@@ -136,7 +136,19 @@
     <string name="permgroupdesc_microphone">Запис на звук</string>
     <string name="permgroupdesc_camera">Заснемане на снимки и запис на видео</string>
     <string name="permgroupdesc_calllog">Достъп и запазване на елементи в историята на повикванията</string>
-    <string name="permgroupdesc_phone">Осъществяване на повиквания и управление на разговорите</string>
+    <string name="permgroupdesc_phone">Осъществяване на повиквания и достъп до информация за устройството</string>
     <string name="permgroupdesc_sensors">Достъп до данните на сензора за тялото</string>
     <string name="permgroupdesc_recognition">Достъп до данни за здравето и активността</string>
+	<string name="HIPS_Perm_PhoneID_Desc_Q">Достъп до телефонен номер и IMSI</string>
+    <string name="permdesc_camera">Заснемане на снимкии видео</string>
+    <string name="permdesc_in_calls">Наблюдение на входящите обаждания</string>
+    <string name="permdesc_location">Достъп до информация за местоположението</string>
+    <string name="permdesc_microphone">Запис на обаждания и звук</string>
+    <string name="permdesc_out_calls">Наблюдение на изходящите обаждания</string>
+    <string name="permdesc_read_calendar">Достъп до събитията в календара</string>
+    <string name="permdesc_read_storage">Достъп до снимки и файлове, съхранявани на устройството</string>
+    <string name="permdesc_recognition">Достъп до данни за здравето и активността</string>
+    <string name="permdesc_sensors">Достъп до данните на сензора за тяло</string>
+    <string name="permdesc_write_calendar">Достъп и събитията в календара</string>
+    <string name="permdesc_write_storage">Достъп и запазване на снимки и файлове на устройството</string>
 </resources>

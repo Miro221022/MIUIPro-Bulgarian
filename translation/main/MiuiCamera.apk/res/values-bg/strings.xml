@@ -931,4 +931,12 @@
     <string name="macro_mode_use_hint_text_body">"Използвайте макро режим, за да правите малки обекти
 да изглеждат по-големи на снимките"</string>
     <string name="live_music_author">Xiaomi кратко видео</string>
+	<string name="accessibility_mimovie_off">Филмов режим е изключен</string>
+    <string name="accessibility_mimovie_on">Филмов режим е включен</string>
+    <string name="color_effect_entry_classic">Класика</string>
+    <string name="config_name_mimovie">Филнов режим</string>
+    <string name="confirm_reset_manually_parameter_message">Да се върнат ли всички параметри до стойностите им по подразбиране?</string>
+    <string name="hint_mimovie">Снимайте в пейзажен режим за най-добър ефект</string>
+    <string name="reset_manually_parameter_confirmed">OK</string>
+    <string name="reset_manually_parameter_hint">Нулиране</string>
 </resources>

@@ -60,7 +60,7 @@
   <string name="color_change_with_time_description">Промяна на цвета на текста автоматично с течение на времето</string>
   <string name="color_change_with_time_title">Автоматична промяна на цвета</string>
   <string name="deep_space_planet">Космическо пространство</string>
-  <string name="deep_space_planet_des">\"Космическото пространство\" отразява светлинните промени, случващи се около вас през деня. Изгревите и залезите в тази тема се синхронизират с вашето местоположение.</string>
+  <string name="deep_space_planet_des">Тази тема отразява светлинните промени, случващи се около вас през деня. Изгревите и залезите също се синхронизират с вашето местоположение.</string>
   <string name="large_time">Голям часовник</string>
   <string name="mini_time">Малък часовник</string>
   <string name="mtrl_chip_close_icon_content_description">Премахване на %1$s</string>
@@ -81,7 +81,6 @@
     <string name="color_change_with_time_description">Промяна на цвета на текста автоматично с течение на времето</string>
     <string name="color_change_with_time_title">Автоматична смяна на цвета</string>
     <string name="deep_space_planet">Космическо пространство</string>
-    <string name="deep_space_planet_des">\"Космическо пространство\" отразява светлинните промени, случващи се около вас през деня. Изгревите и залезите в тази тема се синхронизират с вашето местоположение.</string>
     <string name="font_thickness">Удебелен шрифт</string>
     <string name="large_time">Голям часовник</string>
     <string name="mini_time">Малък часовник</string>
@@ -101,4 +100,22 @@
     <string name="text_color">Цвят на текста</string>
     <string name="text_length_exceed_limit_alert">*Текстът, който въведохте, е твърде дълъг</string>
     <string name="text_size">Размер на текста</string>
+	<string name="aod_style">Тема</string>
+    <string name="apply_succeed">Приложено успешно</string>
+    <string name="chosen_picture">Изберете фон</string>
+    <string name="digital_clock">Дигитален</string>
+    <string name="letter_space">Разстояние между буквите</string>
+    <string name="line_space">Разстояние между линиите</string>
+    <string name="notification_anim_pulse">Пулсиране</string>
+    <string name="notification_anim_rhythm">Ротъм</string>
+    <string name="notification_anim_star">Звездна светлина</string>
+    <string name="notification_nothing">Без</string>
+    <string name="notification_screen_on">Осветяване на екрана</string>
+    <string name="panel_clock">Аналогов</string>
+    <string name="select_notification_notify_style">Изберете ефект на известяване</string>
+    <string name="show_battery">Показване на състоянието на батерията</string>
+    <string name="show_notificaton">Показване на известия</string>
+    <string name="standard_clock_panel">Стандартно</string>
+    <string name="time_style">Стил</string>
+    <string name="time_style_layout">Оформление</string>
 </resources>

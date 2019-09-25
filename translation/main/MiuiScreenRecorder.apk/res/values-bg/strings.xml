@@ -94,4 +94,7 @@
     <string name="size_megabyte">Мб</string>
 	<string name="permission_intro_microphone">За запис на звук, когато източникът на звук е настроен на микрофон</string>
     <string name="permission_intro_storage">За запазване на екранни записи</string>
+	<string name="permission_microphone_desc">Използване на микрофона като аудио източник за запис на екрана</string>
+    <string name="settings_other">Друго</string>
+    <string name="settings_privacy">Политика за поверителност</string>
 </resources>

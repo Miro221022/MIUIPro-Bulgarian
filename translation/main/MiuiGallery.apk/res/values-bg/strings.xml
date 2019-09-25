@@ -1467,7 +1467,7 @@
   <string name="permissin_contract_desc">За именуване на хора на снимки</string>
   <string name="permission_contract_name">Контакти</string>
   <string name="permission_optional_category">Незадължителни разрешения</string>
-  <string name="permission_phone_desc">За задаване на съответните устройства на наскоро изтрити елементи в Xiaomi Cloud</string>
+  <string name="permission_phone_desc">За задаване на съответните устройства на наскоро изтрити елементи в Xiaomi Облак</string>
   <string name="permission_phone_name">Телефон</string>
   <string name="permission_require_category">Задължителни разрешения</string>
   <string name="permission_storage_desc">За съхранение, показване, редактиране, синхронизиране и изтегляне на вашите снимки и видеоклипове</string>
@@ -1765,4 +1765,6 @@
     <string name="tips_prompt_enable_midrop">Споделяйте файлове с устройства наблизо</string>
     <string name="unrecognized_manufacture">Неизвестно</string>
     <string name="unrecognized_model">Неизвестно устройство</string>
+	<string name="cloud_privacy_with_ai_album">Декларация за достоверност при използване на архивиране и обработка на изображения</string>
+    <string name="cloud_privacy_with_face">Декларация за поверителност при автоматично архивиране и разпознаване на лица</string>
 </resources>

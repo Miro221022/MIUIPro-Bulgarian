@@ -157,4 +157,7 @@
     <string name="wait_receive_file">Изчаква се приемане…</string>
     <string name="wait_remote_receive_tips">Изчакване…</string>
     <string name="wifi_is_not_enabled">Първо включете Wi-Fi</string>
+	<string name="can_not_transfer_when_screening">"Не може да се предава по време на трансфери"</string>
+    <string name="mishare_state_protection">Включете Mi споделяне автоматично</string>
+    <string name="mishare_state_protection_summary">Включете отново Mi споделяне автоматично, когато Bluetooth или Wi-Fi са включени отново</string>
 </resources>
