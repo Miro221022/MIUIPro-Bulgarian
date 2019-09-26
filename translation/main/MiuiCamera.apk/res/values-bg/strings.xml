@@ -2,15 +2,15 @@
 <resources>
     <string name="camera_setting">Настройки на камерата</string>
     <string name="path_settings">Системни приложения/Камера/Настройки</string>
-    <string name="search_settings">Камера настройки;Качество;Снимка качество;Снимка място;Изображение място;Разпознаване лице;Камера звук</string>
+    <string name="search_settings">Настройки на камерата;Качество;Качество на изображението;Местоположение на изображението;Местоположение на снимката;Лицево разпознаване;Звук на камерата</string>
     <string name="hibernate_hint">Чукнете, за да събудите Камера</string>
-    <string name="camera_error_title">Грешка на камерата</string>
-    <string name="cannot_connect_camera_once">Няма връзка с камерата, затворете приложението</string>
-    <string name="cannot_connect_camera_twice">Няма връзка с камерата, рестартирайте устройството</string>
+    <string name="camera_error_title">Грешка в камерата</string>
+    <string name="cannot_connect_camera_once">"Не може да се свърже с камерата"</string>
+    <string name="cannot_connect_camera_twice">"Все още не може да се свърже с камерата. Опитайте да рестартирате устройството си."</string>
     <string name="camera_disabled">Камерата беше деактивирана.</string>
     <string name="camera_label">Камера</string>
     <string name="video_camera_label">Видеокамера</string>
-    <string name="wait">Моля изчакайте...</string>
+    <string name="wait">Една секунда…</string>
     <string name="no_storage">Поставете SD карта преди да използвате камерата</string>
     <string name="not_enough_space">Вътрешната памет е пълна</string>
     <string name="preparing_sd">Проверка на вътрешната памет…</string>
@@ -173,6 +173,7 @@
     <string name="pref_camera_zsl_entry_off">Изключено</string>
     <string name="pref_camera_zsl_entry_on">Включено</string>
     <string name="pref_camera_facedetection_title">Разпознаване на лице</string>
+	<string name="pref_camera_facedetection_auto_hidden_title">Автоматично скриване на рамката за лицево разпознаване</string>
     <string name="pref_camera_hand_night_title">Нощен режим</string>
     <string name="camera_settings_label">Камера</string>
     <string name="pref_camera_settings_title">Настройки</string>
@@ -340,7 +341,7 @@
     <string name="portrait_mode_too_far_hint">Поставете предмета в рамките на 2 метра</string>
     <string name="portrait_mode_depth_effect_success_hint">Ефект дълбочина</string>
     <string name="portrait_with_facebeauty_hint">Опцията Разкрасяване е налична в режим Портрет</string>
-    <string name="pref_camera_portrait_with_facebeauty_title">Разкрасяване в Портретен режим</string>
+    <string name="pref_camera_portrait_with_facebeauty_title">Разкрасяване в портретен режим</string>
     <string name="portrait_mode_use_hint">"Режим Портрет замъглява фона 
 и по този начин лицата на хората изпъкват ясно на преден план."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
@@ -452,7 +453,7 @@
     <string name="pref_camera_focus_shoot_summary">Докоснете екрана за фокусиране и още един път за заснемане.</string>
     <string name="pref_retain_camera_mode_title">Запазване на предишния режим</string>
     <string name="pref_retain_camera_mode_summary">Превключване към последно използвания режим, когато приложението стартира.</string>
-    <string name="pref_fingerprint_capture_title">Заснемане на пръстов отпечатък</string>
+    <string name="pref_fingerprint_capture_title">Заснемане с пръстов отпечатък</string>
     <string name="multi_window_mode_not_supported">Камерата не работи в режим Разделен екран</string>
     <string name="pref_camera_denoise_title">Намаляване на шума</string>
     <string name="portait_effect_entry_movie">Филм</string>
