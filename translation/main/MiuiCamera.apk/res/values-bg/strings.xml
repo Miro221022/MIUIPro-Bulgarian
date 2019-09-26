@@ -940,4 +940,14 @@
     <string name="hint_mimovie">Снимайте в пейзажен режим за най-добър ефект</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Нулиране</string>
+	<string name="location_permission_des">Запомняне на местоположенията на снимките и видеоклиповете</string>
+	<string name="location_permission_not_ask_again">Разрешете на Камера да има достъп до вашето местоположение в Настройки.</string>
+    <string name="location_permission_not_ask_again_go_to_settings">Разрешаване</string>
+	<string name="network_access_user_notice_agree">Съгласявам се</string>
+    <string name="network_access_user_notice_message_live_video">"Камерата трябва да се свърже с интернет, за да осигури ефекти, музика и други функции за кратки видеоклипове.
+	
+Чрез натискането на \"Съгласявам се\" по-долу, вие се съгласявате с нашите "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Потребителско споразумение</a> и <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Политика за поверитлност</a>, и позволявате на Камера да се свърже с интернет.</string>
+    <string name="network_access_user_notice_message_voice_caption">"Камера трябва да се свърже с интернет, за да осигури функционалност за синтезирана реч към текст.
+
+Чрез натискането на \"Съгласявам се\" по-долу, вие се съгласявате с нашите "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Потребителско споразумение</a> и <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Политика за поверитлност</a>, и позволявате на Камера да се свърже с интернет.</string>
 </resources>

@@ -157,4 +157,5 @@
     <string name="poor_signal_due_to_no_headset">Свържете слушалки, за да подобрите сигнала</string>
     <string name="recommend_list">Препоръчани</string>
     <string name="storytelling">Истории</string>
+	<string name="night_mode_switch">Нощен режим</string>
 </resources>

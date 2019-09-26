@@ -6500,8 +6500,8 @@ OTG се изключва автоматично след 10 минути без
   <string name="raise_bottom_height_of_keyboard_sub_title">Под клавиатурата, ако преминете в подобрен режим, под клавиатурата ще се появи лента с персонализирани преки пътища</string>
   <string name="raise_bottom_height_of_keyboard_title">Регулиране на клавиатурата към цял екран</string>
   <string name="right_function_key">Десен пряк път</string>
-  <string name="miui_lab_aiasst_call_screen_desc">Свързване чрез Tips</string>
-  <string name="miui_lab_aiasst_call_screen_title">Tips повикване</string>
+  <string name="miui_lab_aiasst_call_screen_desc">Преобразувайте глас и текст, за да отговаряте на обаждания безшумно</string>
+  <string name="miui_lab_aiasst_call_screen_title">Интелигентен асистент за повиквания</string>
   <string name="connection_and_sharing">Връзка и споделяне</string>
   <string name="enable_screen_projection_summary">Прехвърлете съдържанието на екрана към външен монитор</string>
   <string name="open_game_accelerate">Включване на Game Turbo</string>
