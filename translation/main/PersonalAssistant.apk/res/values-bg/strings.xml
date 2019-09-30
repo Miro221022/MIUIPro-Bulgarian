@@ -1101,4 +1101,8 @@
 	<string name="timeline_headline">Предстоящо</string>
 	<string name="vertical_separator">|</string>
 	<string name="location_permission_desc">За изграждане на навигационни маршрути и предоставяне на услуги за превоз на автомобили</string>
+	<string name="miot_delete_dialog_title">Премахване на Mi Home картата</string>
+	<string name="miot_delete_dialog_content">"Ще можете да възстановите картата Mi Home в настройките на асистента."</string>
+	<string name="miot_del_dialog_cancel">Запази</string>
+    <string name="miot_del_dialog_sure">Премахни</string>
 </resources>

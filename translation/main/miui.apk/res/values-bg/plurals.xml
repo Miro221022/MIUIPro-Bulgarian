@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="items_selected">
-        <item quantity="other">%d избрани елементи</item>
+        <item quantity="other">%d избрани елемента</item>
         <item quantity="one">%d избран елемент</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">

@@ -839,4 +839,8 @@
   <string name="hint_switch_to_list_mode">Превключено към изглед списък</string>
   <string name="path_name_email">Поща</string>
   <string name="app_all_purpose">Приятно използване на файловия мениджър. Можете да използвате това приложение за управление на файловете във вашия телефон.</string>
+  <string name="app_function">Управление на файловете на вашето устройство</string>
+  <string name="function_file_operation">"За достъп и отваряне на файлове; "</string>
+  <string name="function_set_private">"За преглед и криптиране на файлове; "</string>
+  <string name="function_use_imei">"За достъп до IMEI и криптиране на файлове; "</string>
 </resources>

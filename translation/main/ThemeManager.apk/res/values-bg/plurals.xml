@@ -21,8 +21,8 @@
         <item quantity="one">%1$s | %2$d снимка</item>
     </plurals>
 	    <plurals name="transparent_wallpaper_filter_hint">
-        <item quantity="other">Търсете сред %1$d приложения</item>
-        <item quantity="one">Търсете сред %1$d приложение</item>
+        <item quantity="other">Търсене сред %1$d приложения</item>
+        <item quantity="one">Търсене сред %1$d приложение</item>
     </plurals>
 	    <plurals name="transparent_wallpaper_filter_result">
         <item quantity="other">%1$d приложения са намерени</item>
@@ -43,5 +43,17 @@
 	    <plurals name="wallpaper_quantity">
         <item quantity="other">%1$d изображения</item>
         <item quantity="one">%1$d изображение</item>
+    </plurals>
+	    <plurals name="try_3_day">
+        <item quantity="other">3-day free trial (%1$d items left for today)</item>
+        <item quantity="one">3-day free trial (%1$d item left for today)</item>
+    </plurals>
+	    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">"You'll be able to try \"%2$s\" for free in %1$d hours"</item>
+        <item quantity="one">"You'll be able to try \"%2$s\" for free in %1$d hour"</item>
+    </plurals>
+	    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f точки</item>
+        <item quantity="one">%1$.1f точка</item>
     </plurals>
 </resources>
