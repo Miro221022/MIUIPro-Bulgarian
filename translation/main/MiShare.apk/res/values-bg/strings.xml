@@ -42,7 +42,7 @@
     <string name="device_name">Име на устройството</string>
     <string name="device_type_oppo_phone">OPPO</string>
     <string name="device_type_pc">Компютри</string>
-    <string name="device_type_realme_phone">realme</string>
+    <string name="device_type_realme_phone">Realme</string>
     <string name="device_type_vivo_phone">VIVO</string>
     <string name="device_type_xiaomi_phone">Xiaomi</string>
     <string name="disconnect">ПРЕКЪСВАНЕ НА ВРЪЗКАТА</string>
@@ -80,9 +80,7 @@
     <string name="pc_device_model_name">Компютър</string>
     <string name="permission_denied_hint">Трябва да предоставите необходимите разрешения, за да използва тази функция.</string>
     <string name="permission_extra">Други разрешения</string>
-    <string name="permission_risky_money">需要您付费</string>
     <string name="permission_risky_privacy">Поверителност</string>
-    <string name="permission_risky_security">安全相关</string>
     <string name="progress_ratio">%1$d%%</string>
     <string name="queue_full">Завършете текущите трансфери, преди да добавите нови.</string>
     <string name="receive_complete">Получено успешно</string>
@@ -115,7 +113,6 @@
     <string name="unkonw_device">Неизвестно устройство</string>
     <string name="wait_receive_file">Изчаква се приемане…</string>
     <string name="wait_remote_receive_tips">Изчакване…</string>
-    <string name="xiaomi_transfer">小米互传</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
@@ -158,6 +155,6 @@
     <string name="wait_remote_receive_tips">Изчакване…</string>
     <string name="wifi_is_not_enabled">Първо включете Wi-Fi</string>
 	<string name="can_not_transfer_when_screening">"Не може да се предава по време на трансфери"</string>
-    <string name="mishare_state_protection">Включете Mi споделяне автоматично</string>
-    <string name="mishare_state_protection_summary">Включете отново Mi споделяне автоматично, когато Bluetooth или Wi-Fi са включени отново</string>
+    <string name="mishare_state_protection">Автоматично включване на Mi споделяне</string>
+    <string name="mishare_state_protection_summary">Автоматично включване на Mi споделяне, когато Bluetooth или Wi-Fi бъдат включени отново</string>
 </resources>

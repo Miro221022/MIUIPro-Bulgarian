@@ -203,7 +203,7 @@
   <string name="notify_network_restricted_title">Mi профилът не може да се свърже с мрежата</string>
   <string name="oauth_get_scopes_failed">Не може да се получи информация за профила</string>
   <string name="oauth_getting_scopes">Потвърждаване на профила…</string>
-  <string name="oauth_scopes_intro">&lt;font color=\"#%1$s\"&gt;&lt;fon&lt;/font&gt;t color=#%1$s&gt;%2$s&lt;/font&gt; ще получи следните разрешения:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; ще получи следните разрешения:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Влезте с Mi профил</string>
   <string name="other_devices_title">Други устройства</string>
   <string name="passport_access_denied">Достъпът е отказан</string>

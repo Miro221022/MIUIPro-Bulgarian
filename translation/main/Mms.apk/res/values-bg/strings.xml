@@ -94,10 +94,10 @@
   <string name="context_menu_add_calendar">Покажи в Календар</string>
   <string name="context_menu_add_contact">Добави в контакти</string>
   <string name="context_menu_add_to_browser_favorite">Добави към отметките в браузъра</string>
-  <string name="context_menu_browse_web">Разгледай</string>
+  <string name="context_menu_browse_web">Преглед</string>
   <string name="context_menu_call">Повикване</string>
   <string name="context_menu_contact">Контакт: %1$s</string>
-  <string name="context_menu_copy">Копирай</string>
+  <string name="context_menu_copy">Копиране</string>
   <string name="context_menu_copy_notice">Текстът е копиран в буферната памет</string>
   <string name="context_menu_new_contact">Нов контакт</string>
   <string name="context_menu_send_mail">Изпрати имейл</string>

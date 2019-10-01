@@ -1265,7 +1265,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="abc_search_hint">Search…</string>
     <string name="abc_searchview_description_clear">Изчистване на заявката</string>
     <string name="abc_searchview_description_query">Заявка за търсене</string>
-    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_search">Търсене</string>
     <string name="abc_searchview_description_submit">Изпратете заявка</string>
     <string name="abc_searchview_description_voice">Гласово търсене</string>
     <string name="abc_shareactionprovider_share_with">Споделете с</string>
@@ -1273,7 +1273,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="abc_toolbar_collapse_description">Свиване</string>
     <string name="expand_button_title">Допълнителни</string>
     <string name="guide_chosen_type_main_title">Кажете ни какво ви харесва</string>
-    <string name="guide_chosen_type_subtitle">Маркирайте вашите интереси, за да получите съответните препоръки</string>
+    <string name="guide_chosen_type_subtitle">Маркирайте вашите интереси, за да получите препоръки</string>
     <string name="guide_entertainment_text">разсмивам</string>
     <string name="guide_fashion_text">Мода</string>
     <string name="guide_finance_text">Финанси</string>
