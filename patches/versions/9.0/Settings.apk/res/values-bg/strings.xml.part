@@ -414,7 +414,7 @@
   <string name="prevent_ringing_option_mute">Заглушаване</string>
   <string name="prevent_ringing_option_mute_summary">Вкл. (заглушаване)</string>
   <string name="prevent_ringing_option_none">Да не се прави нищо</string>
-  <string name="prevent_ringing_option_none_summary">Изкл.</string>
+  <string name="prevent_ringing_option_none_summary">Изключено</string>
   <string name="prevent_ringing_option_vibrate">Вибриране</string>
   <string name="prevent_ringing_option_vibrate_summary">Вкл. (вибриране)</string>
   <string name="print_configuring_state_title_template">„%1$s“ се конфигурира</string>
