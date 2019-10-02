@@ -1,204 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="Nalbum_total_songs">
-        <item quantity="other">Общо %d песни</item>
-        <item quantity="one">Общо %d песен</item>
-    </plurals>
-    <plurals name="Nartists_count">
-        <item quantity="other">%d изпълнители</item>
-        <item quantity="one">%d изпълнител</item>
-    </plurals>
-    <plurals name="Nassociate_songs">
-        <item quantity="other">Търсене на обложки и текстове на песни (%1$d/%2$d)</item>
-        <item quantity="one">Търсене на обложки и текстове на песни (%1$d/%2$d)</item>
-    </plurals>
-    <plurals name="Nbackup_songs">
-        <item quantity="other">Архивиране на песни, %1$d песни остават (%2$.1fМб)</item>
-        <item quantity="one">Архивиране на песни, %1$d песен остава (%2$.1fМб)</item>
-    </plurals>
-    <plurals name="Nexpired_remind">
-        <item quantity="other">остават %d дни</item>
-        <item quantity="one">остава %d ден</item>
-    </plurals>
-    <plurals name="Ngroups_count">
-        <item quantity="other">%d групи</item>
-        <item quantity="one">%d група</item>
-    </plurals>
-    <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d нови песни</item>
-        <item quantity="one">%d нова песен</item>
-    </plurals>
-    <plurals name="Nquit_warning">
-        <item quantity="other">Приложението ще спре след %d минути</item>
-        <item quantity="one">Приложението ще спре след %d минута</item>
-    </plurals>
-    <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Вие сте избрали да не се търсят обложки на албуми и текстове автоматично за локални песни. Да се изтрие ли информацията за %d песни?</item>
-        <item quantity="one">Вие сте избрали да не се търсят обложки на албуми и текстове автоматично за локални песни. Да се изтрие ли информацията за %d песен?</item>
-    </plurals>
-    <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">Създадена на %1$s | общо %2$d песни</item>
-        <item quantity="one">Създадена на %1$s | общо %2$d песен</item>
-    </plurals>
-    <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d песни не са архивирани в Xiaomi Облак. Спиране сега?</item>
-        <item quantity="one">%d песен не е архивирана в Xiaomi Облак. Спиране сега?</item>
-    </plurals>
-    <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d песни са добавени в списъка</item>
-        <item quantity="one">%d песен е добавена в списъка</item>
-    </plurals>
-    <plurals name="Ntracks_count">
-        <item quantity="other">%d песни</item>
-        <item quantity="one">%d песен</item>
-    </plurals>
-    <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d песни са премахнати от списъка</item>
-        <item quantity="one">%d песен е премахната от списъка</item>
-    </plurals>
-    <plurals name="Ntracks_search_result">
-        <item quantity="other">%d песни бяха открити</item>
-        <item quantity="one">%d песен беше открита</item>
-    </plurals>
-    <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d подобни песни</item>
-        <item quantity="one">%d подобна песен</item>
-    </plurals>
-    <plurals name="Nunbackup_audios">
-        <item quantity="other">%1$d песни не са архивирани (%2$.1fМб)</item>
-        <item quantity="one">%1$d песен не е архивирана (%2$.1fМб)</item>
-    </plurals>
-    <plurals name="Nupload_song_button">
-        <item quantity="other">Архивиране %1$d песни (%2$.1fМб)</item>
-        <item quantity="one">Архивиране %1$d песен (%2$.1fМб)</item>
-    </plurals>
-    <plurals name="comment_count">
-        <item quantity="other">%d коментари</item>
-        <item quantity="one">%d коментар</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Изтриване на %d елемента?</item>
-        <item quantity="one">Изтриване на %d елемент?</item>
-    </plurals>
-    <plurals name="dialog_delete_descript">
-        <item quantity="other">Изтриване на %d песни?</item>
-        <item quantity="one">Изтриване на %d песен?</item>
-    </plurals>
-    <plurals name="dialog_remove_descript">
-        <item quantity="other">Премахване на %d песни?</item>
-        <item quantity="one">Премахване на %d песен?</item>
-    </plurals>
-    <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Изтриване на %d песни от Xiaomi Облак? Ще се изтрият и от запазените списъци с изпълнители също.</item>
-        <item quantity="one">Изтриване на %d песен от Xiaomi Облак? Ще се изтрие и от запазените списъци с изпълнители също.</item>
-    </plurals>
-    <plurals name="download_finished">
-        <item quantity="other">Изтеглени &lt;font color==\"red\">%d песни&lt;/font></item>
-        <item quantity="one">Изтеглена &lt;font color==\"red\">%d песен&lt;/font></item>
-    </plurals>
-    <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%d изтегляния са премахнати</item>
-        <item quantity="one">%d изтегляне е премахнато</item>
-    </plurals>
-    <plurals name="download_running">
-        <item quantity="other">Изтеглят се &lt;font color==\"red\">%d песни&lt;/font></item>
-        <item quantity="one">Изтегля се &lt;font color==\"red\">%d песен&lt;/font></item>
-    </plurals>
-    <plurals name="folder_songs_count">
-        <item quantity="other">%d песни</item>
-        <item quantity="one">%d песен</item>
-    </plurals>
-    <plurals name="multichoice_title">
-        <item quantity="other">%d елемента са избрани</item>
-        <item quantity="one">%d елемент е избран</item>
-    </plurals>
-    <plurals name="reader_count">
-        <item quantity="other">%d последователи</item>
-        <item quantity="one">%d последовател</item>
-    </plurals>
-    <plurals name="send_songs_toast">
-        <item quantity="other">%d песни ще бъдат изпратени</item>
-        <item quantity="one">%d песен ще бъде изпратена</item>
-    </plurals>
-    <plurals name="skipped_online_songs_tips">
-        <item quantity="other">Прескочени %d песни Включете онлайн услугите в Настройки, за да ги чуете.</item>
-        <item quantity="one">Прескочена %d песен. Включете онлайн услугите в Настройки, за да я чуете.</item>
-    </plurals>
-    <plurals name="song_already_favorite">
-        <item quantity="other">Песните са добавени към любими.</item>
-        <item quantity="one">Песента бе добавена към любими.</item>
-    </plurals>
-    <plurals name="songs_count">
-        <item quantity="other">%d песни</item>
-        <item quantity="one">%d песен</item>
-    </plurals>
-	<plurals name="Nsleep_quit_warning">
-        <item quantity="other">След %d минути</item>
-        <item quantity="one">След %d минута</item>
-    </plurals>
-	<plurals name="comment_input_length_invalid">
-        <item quantity="other">Можете да въведете до %1$d символа.</item>
-        <item quantity="one">Можете да въведете до %1$d символ.</item>
-    </plurals>
-	<plurals name="swipe_to_load_head_complete_success">
-        <item quantity="other">Здравейте %1$s! Тук са %1$d актуализациите за вас:</item>
-        <item quantity="one">Здравейте %1$s! Тук е %1$d актулизацията за вас:</item>
-    </plurals>
-	<plurals name="Nnowplaying_songs">
-        <item quantity="other">(%d песни)</item>
-        <item quantity="one">(%d песен)</item>
-	</plurals>
-	    <plurals name="Ndialog_renew_content">
-        <item quantity="other">"Абонаментът ви изтича след %d дни.
-Искате ли да помогнем да го подновите?"</item>
-        <item quantity="one">"Абонаментът ви изтича след %d ден.
-Искате ли да помогнем да го подновите?"</item>
-   </plurals>
-   <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">Можете да изтеглите %1$d безплатни песни. Изтегляне на %2$s сега?</item>
-        <item quantity="one">Можете да изтеглите %1$d безплатна песен. Изтегляне на %2$s сега?</item>
-   </plurals>
-       <plurals name="free_downloads_num_hint">
-        <item quantity="other">Остават %d безплатни изтегляния</item>
-        <item quantity="one">Остава %d безплатно изтегляне</item>
-    </plurals>
-	<plurals name="vip_remain_days_hint">
-        <item quantity="other">%d оставащи дни</item>
-        <item quantity="one">%d оставащ ден</item>
-    </plurals>
-	    <plurals name="dialog_remove_favorite_song_descript">
-        <item quantity="other">Премахване на %d песни от любими?</item>
-        <item quantity="one">Премахване на %d песен от любими?</item>
-    </plurals>
-	    <plurals name="Ndownload_song_button">
-        <item quantity="other">Изтегли %1$d песни (%2$.1fМб)</item>
-        <item quantity="one">Изтегли %1$d песен (%2$.1fМб)</item>
-    </plurals>
-    <plurals name="Ndownload_songs">
-        <item quantity="other">Изтегляне на песни, %1$d песни (%2$.1fМ)</item>
-        <item quantity="one">Изтегляне на песни, %1$d песен (%2$.1fМ)</item>
-    </plurals>
-    <plurals name="cloud_hint_upload_with_count">
-        <item quantity="other">Имате %d песни за качване.</item>
-        <item quantity="one">Имате %d песен за качване.</item>
-    </plurals>
-    <plurals name="cloud_new_user_guide_download_title">
-        <item quantity="other">Имате %d песни за изтегляне</item>
-        <item quantity="one">Имате %d песен за изтегляне</item>
-    </plurals>
-    <plurals name="cloud_new_user_guide_upload_title">
-        <item quantity="other">Имате %d песни за качване</item>
-        <item quantity="one">Имате %d песен за качване</item>
-    </plurals>
-    <plurals name="cloud_state_view_hint_download_pause">
-        <item quantity="other">Изтеглянето е на пауза,%d песни остават.</item>
-    </plurals>
-    <plurals name="local_song_empty_hint_button_sub_text">
-        <item quantity="other">Имате %1$d песни за изтегляне, общо %2$.1fМ.</item>
-        <item quantity="one">Имате %1$d песен за изтегляне, общо %2$.1fМ.</item>
-    </plurals>
-    <plurals name="local_song_number">
-        <item quantity="other">%d песни</item>
-        <item quantity="one">%d песен</item>
-    </plurals>
+  <plurals name="comment_count">
+    <item quantity="other">%d коментари</item>
+    <item quantity="one">%d коментар</item>
+  </plurals>
+  <plurals name="days_ago">
+    <item quantity="other">Преди %d дни</item>
+    <item quantity="one">Преди %d ден</item>
+  </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message">
+    <item quantity="other">Изтриване на %d елемента?</item>
+    <item quantity="one">Изтриване на %d елемент?</item>
+  </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message_with_file">
+    <item quantity="other">Изтриване на %d елементи?\nБележка: файловете ще бъдат изтрити и от това устройство.</item>
+    <item quantity="one">Изтриване на %d елемент?\nБележка: файлът ще бъде изтрит и от това устройство.</item>
+  </plurals>
+  <plurals name="dialog_delete_descript">
+    <item quantity="other">Изтриване на %d песни?</item>
+    <item quantity="one">Изтриване на %d песен?</item>
+  </plurals>
+  <plurals name="dialog_remove_descript">
+    <item quantity="other">Премахване на %d песни?</item>
+    <item quantity="one">Премахване на %d песен?</item>
+  </plurals>
+  <plurals name="download_finished">
+    <item quantity="other">Изтеглени &lt;font color==\"red\"&gt;%d песни&lt;/font&gt;</item>
+    <item quantity="one">Изтеглена &lt;font color==\"red\"&gt;%d песен&lt;/font&gt;</item>
+  </plurals>
+  <plurals name="download_info_count_deleted_tasks">
+    <item quantity="other">%d изтегляния са премахнати</item>
+    <item quantity="one">%d изтегляне е премахнато</item>
+  </plurals>
+  <plurals name="download_running">
+    <item quantity="other">Изтеглят се &lt;font color==\"red\"&gt;%d песни&lt;/font&gt;</item>
+    <item quantity="one">Изтегля се &lt;font color==\"red\"&gt;%d песен&lt;/font&gt;</item>
+  </plurals>
+  <plurals name="free_downloads_num_hint">
+    <item quantity="other">Остават %d безплатни изтегляния</item>
+    <item quantity="one">Остава %d безплатно изтегляне</item>
+  </plurals>
+  <plurals name="multichoice_title">
+    <item quantity="other">%d елемента са избрани</item>
+    <item quantity="one">%d елемент е избран</item>
+  </plurals>
+  <plurals name="Nalbum_total_songs">
+    <item quantity="other">Общо %d песни</item>
+    <item quantity="one">Общо %d песен</item>
+  </plurals>
+  <plurals name="Nassociate_songs">
+    <item quantity="other">Търсене на обложки и текстове на песни (%1$d/%2$d)</item>
+    <item quantity="one">Търсене на обложки и текстове на песни (%1$d/%2$d)</item>
+  </plurals>
+  <plurals name="Ndialog_renew_content">
+    <item quantity="other">Абонаментът ви изтича след %d дни.\nИскате ли да помогнем да го подновите?</item>
+    <item quantity="one">Абонаментът ви изтича след %d ден.\nИскате ли да помогнем да го подновите?</item>
+  </plurals>
+  <plurals name="Nhungama_free_download_summary">
+    <item quantity="other">Можете да изтеглите %1$d безплатни песни. Изтегляне на %2$s сега?</item>
+    <item quantity="one">Можете да изтеглите %1$d безплатна песен. Изтегляне на %2$s сега?</item>
+  </plurals>
+  <plurals name="notif_title_multiple_downloading">
+    <item quantity="other">Изтегляне на %1$d файлове</item>
+    <item quantity="one">Изтегляне на %1$d файл</item>
+  </plurals>
+  <plurals name="notification_download_failed_more">
+    <item quantity="other">%1$d елемента не могат да бъдат изтеглени</item>
+    <item quantity="one">%1$d елемент не може да бъде изтеглен</item>
+  </plurals>
+  <plurals name="Nquit_warning">
+    <item quantity="other">Приложението ще спре след %d минути</item>
+    <item quantity="one">Приложението ще спре след %d минута</item>
+  </plurals>
+  <plurals name="Nsong_group_detail_subtitle">
+    <item quantity="other">Създадена на %1$s | общо %2$d песни</item>
+    <item quantity="one">Създадена на %1$s | общо %2$d песен</item>
+  </plurals>
+  <plurals name="Ntracks_add_to_playlist">
+    <item quantity="other">%d песни са добавени в списъка</item>
+    <item quantity="one">%d песен е добавена в списъка</item>
+  </plurals>
+  <plurals name="Ntracks_count">
+    <item quantity="other">%d песни</item>
+    <item quantity="one">%d песен</item>
+  </plurals>
+  <plurals name="Ntracks_remove_from_playlist">
+    <item quantity="other">%d песни са премахнати от списъка</item>
+    <item quantity="one">%d песен е премахната от списъка</item>
+  </plurals>
+  <plurals name="Ntracks_similar_count">
+    <item quantity="other">%d подобни песни</item>
+    <item quantity="one">%d подобна песен</item>
+  </plurals>
+  <plurals name="reader_count">
+    <item quantity="other">%d последователи</item>
+    <item quantity="one">%d последовател</item>
+  </plurals>
+  <plurals name="send_songs_toast">
+    <item quantity="other">%d песни ще бъдат изпратени</item>
+    <item quantity="one">%d песен ще бъде изпратена</item>
+  </plurals>
+  <plurals name="skipped_online_songs_tips">
+    <item quantity="other">Прескочени %d песни Включете онлайн услугите в Настройки, за да ги чуете.</item>
+    <item quantity="one">Прескочена %d песен. Включете онлайн услугите в Настройки, за да я чуете.</item>
+  </plurals>
+  <plurals name="song_already_favorite">
+    <item quantity="other">Песните са добавени към любими.</item>
+    <item quantity="one">Песента бе добавена към любими.</item>
+  </plurals>
+  <plurals name="songs_count">
+    <item quantity="other">%d песни</item>
+    <item quantity="one">%d песен</item>
+  </plurals>
+  <plurals name="video_count">
+    <item quantity="other">Видеоклипове</item>
+    <item quantity="one">Видеоклип</item>
+  </plurals>
+  <plurals name="video_play_count">
+    <item quantity="other">%1$s изгледи</item>
+    <item quantity="one">%1$s изглед</item>
+  </plurals>
+  <plurals name="vip_remain_days_hint">
+    <item quantity="other">%d оставащи дни</item>
+    <item quantity="one">%d оставащ ден</item>
+  </plurals>
 </resources>
