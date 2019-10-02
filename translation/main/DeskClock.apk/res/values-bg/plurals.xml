@@ -1,75 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d часа "</item>
-        <item quantity="one">"%1$d час "</item>
-    </plurals>
-    <plurals name="timer_message_minute">
-        <item quantity="other">"%1$d минути "</item>
-        <item quantity="one">"%1$d минута "</item>
-    </plurals>
-    <plurals name="timer_message_second">
-        <item quantity="other">%1$d секунди</item>
-        <item quantity="one">%1$d секунда</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d секунди</item>
-        <item quantity="one">1 секунда</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d минути</item>
-        <item quantity="one">1 минута</item>
-    </plurals>
-    <plurals name="snooze_message">
-        <item quantity="other">Заглуши за %d мин.</item>
-        <item quantity="one">Заглуши за %d мин.</item>
-    </plurals>
-    <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Отлагане за %d минути.</item>
-        <item quantity="one">Отлагане за %d минута.</item>
-    </plurals>
-    <plurals name="auto_silence_summary">
-        <item quantity="other">Заглушаване след %d минути</item>
-        <item quantity="one">Заглушаване след %d минута</item>
-    </plurals>
-    <plurals name="delete_alarm_confirm">
-        <item quantity="other">Да се изтрият ли избраните аларми?</item>
-        <item quantity="one">Да се изтрие ли тази аларма?</item>
-    </plurals>
-    <plurals name="delete_timezone_confirm">
-        <item quantity="other">Да се изтрият ли избраните часови зони?</item>
-        <item quantity="one">Да се изтрие ли тази часова зона?</item>
-    </plurals>
-	<plurals name="second">
-        <item quantity="other">%d секунди</item>
-        <item quantity="one">%d секунда</item>
-    </plurals>
-	<plurals name="snooze_duration_summary">
-      <item quantity="other">Алармата ще се изключи %2$s пъти (%1$s мин.)</item>
-      <item quantity="one">Алармата ще се изключи %2$s път (%1$s мин.)</item>
-   </plurals>
-       <plurals name="day">
-        <item quantity="other">%d дни</item>
-        <item quantity="one">%d ден</item>
-    </plurals>
-	<plurals name="hour">
-        <item quantity="other">%d часа</item>
-        <item quantity="one">%d час</item>
-    </plurals>
-    <plurals name="life_post_wake_up_item_acumu_day">
-        <item quantity="other">%1$d дни</item>
-        <item quantity="one">%1$d ден</item>
-    </plurals>
-    <plurals name="minute">
-        <item quantity="other">%d минути</item>
-        <item quantity="one">%d минута</item>
-    </plurals>
-	    <plurals name="snooze_duration_changed_info">
-        <item quantity="other">Интервалът за отлагане е променен на %d минути</item>
-        <item quantity="one">Интервалът за отлагане е променен на %d минута</item>
-    </plurals>
-	  <plurals name="snooze_duration_desc">
-      <item quantity="other">На всеки %1$s минути, изключване %2$s пъти</item>
-      <item quantity="one">На всеки %1$s минути, изключване %2$s път</item>
-   </plurals>
+  <plurals name="alarm_alert_snooze_set">
+    <item quantity="other">Отлагане за %d минути.</item>
+    <item quantity="one">Отлагане за %d минута.</item>
+  </plurals>
+  <plurals name="day">
+    <item quantity="other">%d дни</item>
+    <item quantity="one">%d ден</item>
+  </plurals>
+  <plurals name="delete_alarm_confirm">
+    <item quantity="other">Да се изтрият ли избраните аларми?</item>
+    <item quantity="one">Да се изтрие ли тази аларма?</item>
+  </plurals>
+  <plurals name="delete_timezone_confirm">
+    <item quantity="other">Да се изтрият ли избраните часови зони?</item>
+    <item quantity="one">Да се изтрие ли тази часова зона?</item>
+  </plurals>
+  <plurals name="hour">
+    <item quantity="other">%d часа</item>
+    <item quantity="one">%d час</item>
+  </plurals>
+  <plurals name="life_post_wake_up_item_acumu_day">
+    <item quantity="other">%1$d дни</item>
+    <item quantity="one">%1$d ден</item>
+  </plurals>
+  <plurals name="minute">
+    <item quantity="other">%d минути</item>
+    <item quantity="one">%d минута</item>
+  </plurals>
+  <plurals name="second">
+    <item quantity="other">%d секунди</item>
+    <item quantity="one">%d секунда</item>
+  </plurals>
+  <plurals name="snooze_duration_changed_info">
+    <item quantity="other">Интервалът за отлагане е променен на %d минути</item>
+    <item quantity="one">Интервалът за отлагане е променен на %d минута</item>
+  </plurals>
+  <plurals name="snooze_duration_count">
+    <item quantity="other">Изключване %1$s пъти</item>
+    <item quantity="one">Изключване %1$s път</item>
+  </plurals>
+  <plurals name="snooze_duration_desc">
+    <item quantity="other">На всеки %1$s минути, изключване %2$s пъти</item>
+    <item quantity="one">На всеки %1$s минути, изключване %2$s път</item>
+  </plurals>
+  <plurals name="snooze_duration_min">
+    <item quantity="other">На всеки %1$s минути</item>
+    <item quantity="one">На всяка %1$s минута</item>
+  </plurals>
+  <plurals name="snooze_duration_summary">
+    <item quantity="other">Алармата ще се изключи %2$s пъти (%1$s мин.)</item>
+    <item quantity="one">Алармата ще се изключи %2$s път (%1$s мин.)</item>
+  </plurals>
+  <plurals name="snooze_message">
+    <item quantity="other">Заглуши за %d мин.</item>
+    <item quantity="one">Заглуши за %d мин.</item>
+  </plurals>
+  <plurals name="timer_message_hour">
+    <item quantity="other">"%1$d часа "</item>
+    <item quantity="one">"%1$d час "</item>
+  </plurals>
+  <plurals name="timer_message_minute">
+    <item quantity="other">"%1$d минути "</item>
+    <item quantity="one">"%1$d минута "</item>
+  </plurals>
+  <plurals name="timer_message_second">
+    <item quantity="other">%1$d секунди</item>
+    <item quantity="one">%1$d секунда</item>
+  </plurals>
 </resources>

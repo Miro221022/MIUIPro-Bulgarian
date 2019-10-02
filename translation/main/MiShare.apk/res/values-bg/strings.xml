@@ -92,7 +92,7 @@
     <string name="retry_task">Изпрати отново</string>
     <string name="scanning_device_tips">Търсене на устройства в близост… Уверете се, че другото устройство е в режим на видимост.</string>
     <string name="send_file">ИЗПРАТИ ФАЙЛА</string>
-    <string name="send_files_to">Изпращане на елементите до</string>
+    <string name="send_files_to">Изпращане към</string>
     <string name="send_files_to_remote_success">Елементи те са успешно изпратени до %1$s</string>
     <string name="sender_error">"Не можа да се изпрати. Изчакайте минута или две и опитайте отново."</string>
     <string name="somepc_send_much_file_to_you_files">%1$s ви изпраща повече от 200 файла…</string>
