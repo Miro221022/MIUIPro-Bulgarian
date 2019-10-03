@@ -240,4 +240,6 @@
   <string name="set_text_lines_title">Имената на приложенията под иконите</string>
   <string name="set_call_end_title">Действия по време на повикване</string>
   <string name="set_font_type_title">Деактивиране на шрифта MiLanPro</string>
+  <string name="miuipro_anim_title">Изключване на анимацията на иконите</string>
+  <string name="miuipro_anim_summary">Деактивиране на анимацията на иконите на началния екран след отключване</string>
 </resources>
