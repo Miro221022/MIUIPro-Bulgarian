@@ -393,4 +393,16 @@
     <string name="recent_apps">Последни приложения</string>
 	<string name="unstable_dialog_content">"Това е предварителен вариант на системата Android и подлежи на промяна. Използването на този системен образ се управлява от лицензното споразумение за предварителен преглед на Android SDK. Този системен образ на Android не е стабилна версия и може да съдържа грешки и дефекти, които могат да доведат до повреда на компютърните системи, устройства или данни. Системният образ на Android не подлежи на същото тестване като фабричната операционна система и може да причини спиране на работата на това устройство, инсталирани услуги или приложения."</string>
 	<string name="no_space_toast_when_click_widget">На тази страница няма достатъчно място. Опитайте да плъзнете този елемент към друга страница.</string>
+	<string name="additional_settings">Допълнителни настройки</string>
+    <string name="drawer_background">Фонове</string>
+    <string name="drawer_background_dark">Тъмен</string>
+    <string name="drawer_background_light">Светъл</string>
+    <string name="drawer_background_transparency">Прозрачност на фона на чекмеджето за приложения</string>
+    <string name="drawer_settings">Чекмедже за приложения</string>
+    <string name="home_screen_settings">Начален екран</string>
+    <string name="local_apps">Локални приложения</string>
+    <string name="recommend_app">Предложения за приложения</string>
+    <string name="search_in_apps_store">Търсене на \"%1$s\" в %2$s</string>
+    <string name="search_no_result">"Не са намерени никакви резултати"</string>
+    <string name="show_most_popular_apps_you_used">Показване на най-често използваните приложения в чекмеджето</string>
 </resources>
