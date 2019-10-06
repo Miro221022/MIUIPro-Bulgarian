@@ -659,8 +659,8 @@
     <string name="miui_failed_solution_6">Деинсталирайте това приложение във второто пространство и опитайте отново.</string>
     <string name="miui_failed_solution_7">Изтеглете най-новата версия на това приложение в GetApps.</string>
     <string name="miui_solution_msg_2">Решение</string>
-    <string name="pref_key_app_store_summary">Напомняне за изтегляне на приложенията от сигурни източници преди инсталиране</string>
-    <string name="pref_key_app_store_title">Препоръки за сигурни версии</string>
+    <string name="pref_key_app_store_summary">Напомняне за изтегляне на приложенията от безопасни източници преди инсталиране</string>
+    <string name="pref_key_app_store_title">Препоръки за безопасни версии</string>
     <string name="settings_warning_dialog_detail">"Ще бъдете предупредени в следните случаи:
  "<li>Когато приложението съдържа вируси.</li>"
  "<li>Когато в нашият магазин за приложения е налице по-нова версия на приложението.</li>"
