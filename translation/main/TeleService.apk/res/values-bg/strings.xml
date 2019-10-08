@@ -1747,7 +1747,7 @@
     <string name="fiveg_plmn_info_list2">"PLMN списък с информация[Slot2] : "</string>
     <string name="fiveg_upperlayer_indication1">"Състояние на индикацията за горен слой[Slot1] : "</string>
     <string name="fiveg_upperlayer_indication2">"Състояние на индикацията за горен слой[Slot2] : "</string>
-    <string name="china_mobile_palm_category">Операторско обслужване</string>
+    <string name="china_mobile_palm_category">Услуги от оператора</string>
     <string name="china_mobile_palm_title">CMCC Online Service Hall</string>
 	<string name="clear_all_set_button">изчистване на настройката</string>
     <string name="clear_all_set_title">този бутон е за изчистване на всички настройки</string>
@@ -1779,4 +1779,5 @@
 	<string name="preferred_wificall_title">Wi-Fi повиквания</string>
     <string name="vice_slot_volte_data_switch_title">Използване на мобилни данни по време на 4G разговори на втората SIM карта</string>
     <string name="wificall_switch_title">Wi-Fi повиквания</string>
+	<string name="fiveg_power_secret_code_tip">Управлявайте това чрез приложението Сигурност - Батерия - 5G пестене</string>
 </resources>

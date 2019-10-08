@@ -11,7 +11,7 @@
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_security_eap">WPA/WPA2-Enterprise</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
@@ -6588,5 +6588,5 @@ OTG се изключва автоматично след 10 минути без
      <string name="confirm_lock_pattern_header_text">Начертайте шаблона си</string>
 	 <string name="aod_name_wanxiang">Винаги включен</string>
 	 <string name="dc_light_summary_new">DC затъмняването предотвратява силно трептене и намалява напрежението на очите при условия със слаба осветеност. Качеството на изображението обаче може да се повлияе, когато тази функция е включена.</string>
-	 <string name="speaker_clean">Почистване на говорителя</string> 
+	 <string name="speaker_clean">Почистване на говорителя</string>
 </resources>

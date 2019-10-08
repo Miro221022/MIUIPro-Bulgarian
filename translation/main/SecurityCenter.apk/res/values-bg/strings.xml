@@ -2697,4 +2697,10 @@
   <string name="xunyou_net_booster_detail">Използвай Xunyou услуга за ускоряване на игрите</string>
   <string name="xunyou_pay_webview">Само Проценти</string>
   <string name="xunyou_server_expired">Изкл.</string>
+  <string name="power_center_5g_save_close_detail">5G пестенето на батерията увеличава живота на батерията, без да влияе на 5G връзката. Изклюване?</string>
+  <string name="power_center_5g_save_close_later">"Не изключвай"</string>
+  <string name="power_center_5g_save_close_title">Изключване на 5G пестене на батерията</string>
+  <string name="power_center_5g_save_summary_text">Направете 5G връзката с по-малка консумация на енергия при определени случаи</string>
+  <string name="power_center_5g_save_title_text">5G пестене н батерия</string>
+  <string name="process_vpnsdkmanager_label">Game Turbo</string>
 </resources>

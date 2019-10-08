@@ -100,7 +100,7 @@
   <string name="voice_assist_condition">"Ще можете да използвате Mi AI в следните случаи:
 1. Когато екранът е включен.
 2. Когато слушате музика с изключен екран."</string>
-  <string name="ai_button_desc">Използвайте този бутон, за да задействате Mi AI и да изпълнявате действия на вашият телефон само с гласа ви</string>
+  <string name="ai_button_desc">AI бутинът ви позволява да задействате Mi AI и да използвате преки пътища за Mi AI</string>
   <string name="ai_button_double_press">Двойно натискане</string>
   <string name="ai_button_double_press_desc">Настройте функциите на Mi AI</string>
   <string name="ai_button_long_press">Натиснете и задръжте</string>

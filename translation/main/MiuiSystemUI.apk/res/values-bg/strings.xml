@@ -1612,7 +1612,7 @@
   <string name="wifi_no_internet_no_reconnect">Не може да се свърже с интернет</string>
   <string name="wifi_not_in_range">Извън обхват</string>
   <string name="wifi_remembered">Запазено</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
+  <string name="wifi_security_eap">WPA/WPA2-Enterprise</string>
   <string name="wifi_security_none">Няма</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="wifi_security_short_eap">802.1x</string>
@@ -1873,4 +1873,6 @@
    <string name="face_data_apply_for_category_title">Отключване чрез лицеви данни</string>
    <string name="face_data_apply_for_keyguard_title">Заключен екран</string>
    <string name="face_unlock_category_title">Опции за заключен екран</string>
+   <string name="gxzw_quick_close">Затвори</string>
+   <string name="gxzw_quick_open_title">Отворено меню с преки пътища</string>
 </resources>
