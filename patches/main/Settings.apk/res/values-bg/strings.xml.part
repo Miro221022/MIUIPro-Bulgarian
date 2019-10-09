@@ -242,4 +242,6 @@
   <string name="set_font_type_title">Деактивиране на шрифта MiLanPro</string>
   <string name="miuipro_anim_title">Изключване на анимацията на иконите</string>
   <string name="miuipro_anim_summary">Деактивиране на анимацията на иконите на началния екран след отключване</string>
+  <string name="show_powermenu_title">Деактивиране на менюто за рестартиране</string>
+  <string name="show_powermenu_summary">Деактивиране на менюто за рестартиране, когато екранът е заключен</string>
 </resources>
