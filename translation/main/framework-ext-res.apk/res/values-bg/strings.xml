@@ -221,7 +221,7 @@
 	<string name="popup_camera_cancel_popup">Отказ</string>
     <string name="popup_camera_continue_popup">Отвори Камера</string>
 	<string name="popup_camera_remove_hid_device">Изглежда, че устройството ви е свързано с контролер за игри. Може да не успеете да отворите предната камера, когато е свързан контролер за игри.</string>
-	<string name="frequent_email">Чести имейли</string>
+	<string name="frequent_email">Често използван имейл</string>
 	<string name="content_description_search">Търсене</string>
     <string name="content_description_dial">Повикване</string>
     <string name="content_description_web_url">Браузър</string>

@@ -402,7 +402,7 @@
     <string name="unimportant">Маловажно</string>
     <string name="check_importance">Правила за групирани известия</string>
     <string name="statusbar_permission_desc">Следните разрешения са валидни само за важни известия.</string>
-    <string name="navigation_type_settings">Навигиране в системата</string>
+    <string name="navigation_type_settings">Придвижване в системата</string>
     <string name="navigation_type_radio_text_virtual_key">Бутони</string>
     <string name="navigation_type_radio_text_full_screen">Жестове на цял екран</string>
     <string name="navigation_guide_dialog_title">Научете жестове</string>
@@ -3688,8 +3688,8 @@
     <string name="search_privacy_settings">Резервно копие и нулиране;Резервно копие и нулиране;Резервно копие</string>
     <string name="search_local_backup_section_title">Локални резервни копия</string>
     <string name="search_local_auto_backup_section_title">Автоматично създаване на резервни копия;Автоматични резервни копия;Създай автоматично резервно копие</string>
-    <string name="search_cloud_restore_section_title">Възстановяване от Xiaomi Облак</string>
-    <string name="search_cloud_backup_settings_section_title">Настройки за рез. копие</string>
+    <string name="search_cloud_restore_section_title">Възстановяване от Mi Облак;Mi Облак;Облачни архиви;Xiaomi Облак;Възстановяване от Xiaomi Облак</string>
+    <string name="search_cloud_backup_settings_section_title">Настройки за резервно копие</string>
     <string name="search_master_clear_title">Възстановяване на заводските настройки</string>
     <string name="search_development_settings_title">Опции на програмиста;Подпомагане</string>
     <string name="search_enable_adb">USB отстраняване на грешки</string>
@@ -3719,7 +3719,7 @@
     <string name="search_device_status">Състояние</string>
     <string name="search_sim_status_title">Статус на SIM;SIM</string>
     <string name="search_slot_status_title">IMEI информация</string>
-    <string name="search_micloud">Sync;Miclound</string>
+    <string name="search_micloud">Синхронизация;Mi Облак;Xiaomi Облак;Облачно синхронизиране;Синхронизиране с облака;Синхронизиране с Xiaomi Облак</string>
     <string name="networks_title">Клетъчни мрежи</string>
     <string name="user_experience_program">Потребителски отзиви</string>
     <string name="user_experience_program_title">Потребителски отзиви</string>
@@ -5659,7 +5659,7 @@
     <string name="upload_modem_log">Стартиране на получаването на отчет за модема</string>
     <string name="failed_to_erase_text">Изключете паролата за заключване преди да въведете кода \ "1217 \".</string>
     <string name="failed_to_erase_title">"Не може да се завърши това действие"</string>
-    <string name="navigation_guide_appswitch_anim_summary">Плъзнете през екрана, като започнете от ръба, за да се върнете към предишното приложение</string>
+    <string name="navigation_guide_appswitch_anim_summary">Плъзнете през екрана и задръжте, като започнете от ръба, за да се върнете към предишното приложение</string>
     <string name="navigation_guide_appswitch_anim_title">Връщане към предишно приложение</string>
     <string name="navigation_guide_appswitch_click">Първо включете \"Връщане към предишно приложение\"</string>
 	<string name="picture_in_picture_app_detail_summary">"Разрешаване на това приложение да създава прозорец \"картина в картината\", докато приложението е отворено или след като излезете от него (например, за да продължите да гледате видеоклип). Този прозорец се показва върху другите приложения, които използвате."</string>

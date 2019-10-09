@@ -492,7 +492,7 @@
   <string name="reply_option_log_hint">По избор</string>
   <string name="reply_select_log_hint">Изберете отчет</string>
   <string name="reply_successful">Обратната връзка е успешна</string>
-  <string name="report_miui">Докладвай грешка</string>
+  <string name="report_miui">Докладване на проблем</string>
   <string name="request_empty_data">Няма информация</string>
   <string name="save_pic">Запазено</string>
   <string name="save_pic_fail">Не може да се запази изобр. Прегледайте SD-картата си</string>

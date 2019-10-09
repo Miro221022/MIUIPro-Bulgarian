@@ -254,7 +254,7 @@
   <string name="reply">Отговор</string>
   <string name="reply_failed">Не може да се изпрати мнение</string>
   <string name="reply_successful">Обратната връзка е успешна</string>
-  <string name="report_miui">Докладвай грешка</string>
+  <string name="report_miui">Докладване на проблем</string>
   <string name="request_empty_data">Няма информация</string>
   <string name="save_pic">Запазено</string>
   <string name="save_pic_fail">Не може да се запази изобр. Прегледайте SD-картата си</string>
