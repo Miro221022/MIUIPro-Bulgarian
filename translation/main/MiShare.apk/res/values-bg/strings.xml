@@ -157,4 +157,5 @@
 	<string name="can_not_transfer_when_screening">"Не може да се предава по време на трансфери"</string>
     <string name="mishare_state_protection">Автоматично включване на Mi споделяне</string>
     <string name="mishare_state_protection_summary">Автоматично включване на Mi споделяне, когато Bluetooth или Wi-Fi бъдат включени отново</string>
+	<string name="location_enabled">Включете услугите за местоположение, за да намерите устройства в близост</string>
 </resources>

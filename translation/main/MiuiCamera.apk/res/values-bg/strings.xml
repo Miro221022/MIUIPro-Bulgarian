@@ -927,7 +927,6 @@
     <string name="pref_camera_picturesize_entry_9_16">9:16</string>
     <string name="pref_camera_picturesize_entry_1_1">1:1</string>
 	<string name="pref_camera_flashmode_entry_back_soft_light">Мека светлина</string>
-	<string name="recommend_soft_light_tip">Използвайте светкавицата в режим на мека светлина</string>
 	<string name="macro_mode_use_hint_text_title">Макро</string>
     <string name="macro_mode_use_hint_text_body">"Използвайте макро режим, за да правите малки обекти
 да изглеждат по-големи на снимките"</string>

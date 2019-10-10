@@ -1105,4 +1105,7 @@
 	<string name="miot_delete_dialog_content">"Ще можете да възстановите картата Mi Home в настройките на асистента."</string>
 	<string name="miot_del_dialog_cancel">Запази</string>
     <string name="miot_del_dialog_sure">Премахни</string>
+	<string name="migu_game">Мини игри</string>
+    <string name="migu_parent">Migu</string>
+    <string name="migu_video">Видеоклипове</string>
 </resources>
