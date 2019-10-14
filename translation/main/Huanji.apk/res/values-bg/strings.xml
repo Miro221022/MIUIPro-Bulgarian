@@ -919,4 +919,10 @@
     <string name="dialog_rating_desc_perfect">Благодаря! Ще оцените ли Mi Трансфер и в GetApps?</string>
     <string name="dialog_rating_title">Оценете Mi Трансфер</string>
     <string name="trans_detail_item_app_skip_data">"Това приложение не може да се премести"</string>
+	<string name="host_connect_timeout_tip">"Не може да се свърже дълго време"</string>
+    <string name="host_dialog_install_button">Инсталиране на на друго устройство</string>
+    <string name="host_dialog_known_button">Разбрах</string>
+    <string name="host_dialog_message">Уверете се, че последната версия на Mi Трансфер е инсталирана на другото устройство, в противен случай двете устройства може да не успеят да се свържат.</string>
+    <string name="host_dialog_title">"Не може да се свърже дълго време"</string>
+    <string name="search_action_mode_cancel">Отказ</string>
 </resources>

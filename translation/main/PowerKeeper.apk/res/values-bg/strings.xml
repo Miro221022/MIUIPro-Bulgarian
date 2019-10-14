@@ -109,6 +109,6 @@
     <string name="notification_open_extreme_mode_text">Включено Екстремно пестене на батерия</string>
 	<string name="adaptive_battery_summary">"Ограничаване консумацията на енергия за приложения, които не използвате често"</string>
     <string name="adaptive_battery_title">Използване на Адаптивна батерия</string>
-	<string name="permstep_label">Прочетете стъпките</string>
-    <string name="permstep_description">"Разрешете на приложението да чете информация за стъпките на вашия телефон"</string>
+	<string name="permstep_label">Достъп до броя на стъпките</string>
+    <string name="permstep_description">Разрешете на това приложение да има достъп до броя на стъпките ви</string>
 </resources>

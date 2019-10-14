@@ -575,7 +575,7 @@
   <string name="cta_dialog_title">Известие за свързване</string>
   <string name="cta_HIPS_Perm_Location_Desc">получаване на точно местоположение (на база GPS и мрежата)</string>
   <string name="cta_main_purpose">Добре дошли в Сигурност! Можете да използвате това приложение, за да изчистите непотребните файлове в устройството си, да намерите и неутрализирате вируси, да оптимизирате производителността за игри, да спестите батерия, да управлявате приложения и други.</string>
-  <string name="cta_settings">Разрешаване на интернет връзка</string>
+  <string name="cta_settings">Разрешете да се свържете с интернет и да имате достъп до местоположението</string>
   <string name="current_network_state_not_need_diagnose">Всичко е наред</string>
   <string name="customize_limit_pkg">%s(Потребителско)</string>
   <string name="customizer_mode_user_define_name">Моите правила</string>
@@ -1438,7 +1438,7 @@
   <string name="mixed_password_confirmed_header_confirm">Успешно настроено. Чукнете за потвърждение.</string>
   <string name="mixed_password_confirmed_header_continue">Успешно настроено. Чукнете \"Следващ\".</string>
   <string name="mixed_pattern_entered_header">Паролата е зададена успешно</string>
-  <string name="mixed_recording_intro_header">Въведете поне 4 знака</string>
+  <string name="mixed_recording_intro_header">Въведете %1$s-%2$s знака</string>
   <string name="mixed_retry_button_text">Отказ</string>
   <string name="mixed_settings_help_how_to_record">Как да зададете парола</string>
   <string name="modify_password_mode">&lt;u&gt;Смяна на типа парола&lt;/u&gt;</string>
@@ -2703,4 +2703,8 @@
   <string name="power_center_5g_save_summary_text">Направете 5G връзката с по-малка консумация на енергия при определени случаи</string>
   <string name="power_center_5g_save_title_text">5G пестене н батерия</string>
   <string name="process_vpnsdkmanager_label">Game Turbo</string>
+  <string name="cta_close_dialog_cancel">Отказ</string>
+  <string name="cta_close_dialog_content">"Ако ограничите достъпа на Сигурност до интернет и информацията за вашето местоположение, няма да можете да получавате предупреждения за земетресение, да актуализирате дефинициите на вируси и информация за списъка с блокирани. Вашето устройство ще е по-малко защитено. Ограничаване въпреки това?"</string>
+  <string name="cta_close_dialog_ok">Ограничаване</string>
+  <string name="cta_close_dialog_title">Ограничаване на достъпа</string>
 </resources>

@@ -968,7 +968,7 @@
   <string name="super_eis_disabled_hint">Супер стабилизацията е изключена</string>
   <string name="super_night_hint">Оптимизиране на изображението… Дръжте устройството си стабилно.</string>
   <string name="ultra_pixel_108mp">108MP</string>
-  <string name="ultra_pixel_portrait_hint">HD портред</string>
+  <string name="ultra_pixel_portrait_hint">Портрет при слаба светлина</string>
   <string name="ultra_tele_use_hint_text_body">"Използвайте 50-кратно увеличение за заснемане на далечни обекти
 по-подробно"</string>
   <string name="ultra_tele_use_hint_text_title">50X увеличение</string>
@@ -979,4 +979,10 @@
   <string name="vv_use_hint_text_body">"Режим влог ви позволява
 да записвате и редактиране на видеоклипове в движение"</string>
   <string name="vv_use_hint_text_title">ВЛОГ</string>
+  <string name="ccc_temperature_warning_msg">Устройството ви е прегряло. Камерата ще бъде затворена след %d секунди. Вашите снимки или видеоклипове ще бъдат запазени автоматично.</string>
+  <string name="ccc_temperature_warning_title">Устройството е прегряло</string>
+  <string name="hint_subtitle">"Диктувайте субтитри, докато снимате видео"</string>
+  <string name="hint_subtitle_prompt">Сега можете да диктувате субтитри</string>
+  <string name="pref_video_subtitle">Субтитри</string>
+  <string name="subtitle_network_exception_tips">"Не може да се свърже с мрежата. Не можа да се запише сега."</string>
 </resources>

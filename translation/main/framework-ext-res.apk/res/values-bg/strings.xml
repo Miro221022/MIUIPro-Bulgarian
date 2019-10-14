@@ -300,4 +300,5 @@
     <string name="mi_a3">Mi A3</string>
 	<string name="can_not_transfer_when_screening">"Не може да се предава по време на трансфери"</string>
 	<string name="flip_screen_camera_tip">Завъртете устройството, за да използвате камера</string>
+	<string name="input_method_clipboard_tips">Копираните елементи ще бъдат изтрити от временната памет след 48 часа</string>
 </resources>

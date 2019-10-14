@@ -78,7 +78,7 @@
     <string name="superpower_progress_battery_last">%s остава</string>
     <string name="superpower_progress_left_time">%1$dч %2$dм</string>
     <string name="superpower_search_hint">Търсене на приложения</string>
-    <string name="superpower_select_app_title">Оформление на началния екран</string>
+    <string name="superpower_select_app_title">Често използвани приложения</string>
     <string name="superpower_settings">Свръх пестене на батерия</string>
     <string name="superpower_system">Преповъчано</string>
     <string name="superpower_third">Приложения от трети страни</string>
@@ -86,4 +86,13 @@
     <string name="gamebooster_network_dialog_message">Да се позволи ли на Сигурност да се свърже с мрежата, за да се използват всички функции на ускорителя за игри?</string>
     <string name="gamebooster_network_dialog_title">"Някои функции не са налични"</string>
     <string name="gdpr_msg">&lt;Data&gt;"За да използвате основните функции на Сигурност, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни, включително информация за начините, по които използвате функциите на Сигурност (например статистика за използване на мобилни данни, информация за злонамерен софтуер, както и основна информация за вашето устройство) и други видове информация, посочени в нашата &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Политика за поверителност&lt;/a>."</Data></string>
+	<string name="superpower_app_contact">Контакти</string>
+    <string name="superpower_app_delete">Изтрий</string>
+    <string name="superpower_app_edit">Редакция</string>
+    <string name="superpower_app_exit">Изход</string>
+    <string name="superpower_app_isadded">Добавено</string>
+    <string name="superpower_app_mms">Съобщения</string>
+    <string name="superpower_app_phone">Телефон</string>
+    <string name="superpower_settings_launcher">Свръх пестене на батерия</string>
+    <string name="superpower_toast_app_select_full">Можете да добавите до 6 елемента към често използвани приложения</string>
 </resources>

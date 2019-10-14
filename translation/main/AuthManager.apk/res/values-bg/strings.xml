@@ -139,7 +139,7 @@
     <string name="permgroupdesc_phone">Осъществяване на повиквания и достъп до информация за устройството</string>
     <string name="permgroupdesc_sensors">Достъп до данните на сензора за тялото</string>
     <string name="permgroupdesc_recognition">Достъп до данни за здравето и активността</string>
-	<string name="HIPS_Perm_PhoneID_Desc_Q">Достъп до телефонен номер и IMSI</string>
+	<string name="HIPS_Perm_PhoneID_Desc_Q">Достъп до телефонния номер и състоянието на устройството</string>
     <string name="permdesc_camera">Заснемане на снимкии видео</string>
     <string name="permdesc_in_calls">Наблюдение на входящите обаждания</string>
     <string name="permdesc_location">Достъп до информация за местоположението</string>
