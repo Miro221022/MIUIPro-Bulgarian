@@ -945,4 +945,5 @@
     <string name="system_permission_perm_read_mms">Четене на MMS</string>
     <string name="system_permission_perm_read_numbers">Четене на телефонни номера</string>
     <string name="system_permission_perm_send_mms">Изпращане на MMS</string>
+	<string name="cloud_recommend_view_tip">Включете синхронизирането с облака, за да възстановите важни съобщения по всяко време</string>
 </resources>

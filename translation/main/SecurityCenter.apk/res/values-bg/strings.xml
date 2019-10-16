@@ -2707,4 +2707,6 @@
   <string name="cta_close_dialog_content">"Ако ограничите достъпа на Сигурност до интернет и информацията за вашето местоположение, няма да можете да получавате предупреждения за земетресение, да актуализирате дефинициите на вируси и информация за списъка с блокирани. Вашето устройство ще е по-малко защитено. Ограничаване въпреки това?"</string>
   <string name="cta_close_dialog_ok">Ограничаване</string>
   <string name="cta_close_dialog_title">Ограничаване на достъпа</string>
+  <string name="shortcut_title_scan">Сканиране</string>
+  <string name="shortcut_title_whatsapp_clean">WhatsApp почистване</string>
 </resources>

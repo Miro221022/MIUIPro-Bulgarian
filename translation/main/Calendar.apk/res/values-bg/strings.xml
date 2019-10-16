@@ -170,7 +170,7 @@
   <string name="event_info_reminders_label">Напомняния</string>
   <string name="event_info_reminders_label_1">Напомняне</string>
   <string name="event_info_repeat">Повторение</string>
-  <string name="event_info_title">Преглед на събития</string>
+  <string name="event_info_title">Подробности за събитието</string>
   <string name="event_info_title_anniversary">Юбилей</string>
   <string name="event_info_title_birthday">Рожден ден</string>
   <string name="event_info_title_countdown">Обратно броене</string>
@@ -272,8 +272,8 @@
   <string name="month_medium_september">" Септември"</string>
   <string name="month_view">Месец</string>
   <string name="monthly">Ежемесечно</string>
-  <string name="monthly_on_day">Ежемесечно (в същия ден всеки месец)</string>
-  <string name="monthly_on_day_count">Ежемесечно (в %1$s от месеца)</string>
+  <string name="monthly_on_day">Ежемесечно (на същата дата)</string>
+  <string name="monthly_on_day_count">Ежемесечно (%1$s)</string>
   <string name="more_string">+ %1$s</string>
   <string name="movie_event_delete_successfully">Билетът за кино е успешно изтрит</string>
   <string name="network_not_available">Няма връзка с мрежата</string>
@@ -510,4 +510,5 @@
   <string name="yearly">Ежегодно (%s)</string>
   <string name="yearly_plain">Ежегодно</string>
   <string name="yiji_app_download_card_lebal">Необходимо</string>
+  <string name="setting_show_reject_agenda">Показване на отхвърлени събития</string>
 </resources>
