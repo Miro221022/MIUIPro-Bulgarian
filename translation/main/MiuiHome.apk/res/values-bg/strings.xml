@@ -410,4 +410,6 @@
     <string name="minus_one_screen">Личен асистент</string>
     <string name="minus_one_screen_google">Google</string>
     <string name="minus_one_screen_none">Без</string>
+	<string name="apply_text">ПРИЛОЖИ</string>
+	<string name="system_text">Система</string>
 </resources>

@@ -7,7 +7,7 @@
   <string name="air_space_exit">Изход</string>
   <string name="air_space_setting">Настройки на мястото</string>
   <string name="airspace_users_full">Не може да се създадат повече Работни места</string>
-  <string name="app_name">Сигурност на компонентите на ядрото</string>
+  <string name="app_name">Основен компонент за сигурност</string>
   <string name="appData">Инсталирани приложения</string>
   <string name="back">Назад</string>
   <string name="bind_device">Добавете устройства</string>
@@ -357,7 +357,7 @@
     <string name="xspace_description">"Клонираните приложения са копия на приложения, които могат да се използват отделно с друг профил.
 
 Някои клонирани приложения изискват поддръжка на Google Services Framework. В такива случаи се създава клонинг и на Google Services Framework."</string>
-  <string name="xspace_guide_des">Използване на два профила без превключване</string>
+  <string name="xspace_guide_des">Използвайте 2 профила без превключване</string>
   <string name="xspace_guide_title">Създайте клонирано приложение</string>
   <string name="xspace_header">Клонирани приложения</string>
   <string name="xspace_install_completed">Иконата е добавена на начален екран</string>

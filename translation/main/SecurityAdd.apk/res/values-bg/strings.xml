@@ -95,4 +95,5 @@
     <string name="superpower_app_phone">Телефон</string>
     <string name="superpower_settings_launcher">Свръх пестене на батерия</string>
     <string name="superpower_toast_app_select_full">Можете да добавите до 6 елемента към често използвани приложения</string>
+	<string name="cta_main_purpose">Добре дошли в Game Turbo!</string>
 </resources>

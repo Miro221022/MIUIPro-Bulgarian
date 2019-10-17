@@ -277,4 +277,5 @@
   <string name="once">Само веднъж</string>
   <string name="to_install_title">Този QR код ви пренасочва към деинсталирано приложение. Ще изтеглете ли това приложение сега?</string>
   <string name="toinstall">Изтегли</string>
+  <string name="flight_mode_connecting_to_wifi">Ръчно включване на Wi-Fi, когато е включен самолетен режим</string>
 </resources>
