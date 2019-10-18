@@ -519,7 +519,7 @@
   <string name="pref_title_auto_clean_operation">Метод на почистване</string>
   <string name="pref_title_auto_clean_trigger">Почистване на хранилището</string>
   <string name="desc_image">изображение</string>
-  <string name="guide_secure_dialog_message">Оценката за оптимизация на устройството ви е по-ниска от 80 точки.. Оптимизиране сега?</string>
+  <string name="guide_secure_dialog_message">Оценката за оптимизация на устройството ви е по-ниска от 80 точки. Оптимизиране сега?</string>
   <string name="guide_secure_dialog_negative">Отказ</string>
   <string name="guide_secure_dialog_positive">Оптимизирай</string>
   <string name="guide_secure_dialog_title">Оптимизиране на ефективността</string>

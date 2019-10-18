@@ -1590,7 +1590,7 @@
   <string name="optmizingbar_ready">Оптимизира се…</string>
   <string name="optmizingbar_stop_optmize">Спри</string>
   <string name="optmizingbar_title_acceleration">Оптимизиране…</string>
-  <string name="optmizingbar_title_clear">Изчисти кеша</string>
+  <string name="optmizingbar_title_clear">Изчистване на кеша</string>
   <string name="optmizingbar_title_security">Сигурност</string>
   <string name="optmizingbar_title_system">Сигурност на системата</string>
   <string name="organization">Организация</string>
