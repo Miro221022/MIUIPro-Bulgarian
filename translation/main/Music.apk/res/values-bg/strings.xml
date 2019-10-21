@@ -154,7 +154,7 @@
   <string name="data_usage_warning">Предупреждение</string>
   <string name="data_usage_warning_summary">Използването на мобилни данни за слушане на музика с високо качество може да увеличи вашите месечни такси.</string>
   <string name="data_use_desc">Правни документи</string>
-  <string name="date_format_str">MM-dd-yyyy</string>
+  <string name="date_format_str">dd-MM-yyyy</string>
   <string name="December">Декември</string>
   <string name="delete">Изтрий</string>
   <string name="delete_download">Премахни</string>
