@@ -6592,4 +6592,8 @@ OTG се изключва автоматично след 10 минути без
 	 <string name="screen_fps_summary">По-високата честота на опресняване прави снимката по-гладка, докато по-ниската скорост на опресняване спестява батерията</string>
      <string name="screen_fps_title">Скорост на опресняване</string>
      <string name="screen_fps_unit">%dХц</string>
+	 <string name="network_alarm">"Не заглушавай интернет разговори"</string>
+     <string name="network_alarm_summary">"Забележка: Някои приложения не са съвместими с тази функция.%1$s"</string>
+     <string name="network_alarm_summary_reg">Преглед на поддържаните приложения</string>
+     <string name="network_alarm_support_apps">Поддържани приложения</string>
 </resources>

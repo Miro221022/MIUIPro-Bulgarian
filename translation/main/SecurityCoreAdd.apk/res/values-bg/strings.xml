@@ -461,12 +461,17 @@
   <string name="xspace_whatsapp_title">WhatsApp</string>
   <string name="whatsapp_send">Изпрати в WhatsApp</string>
   <string name="xspace_facebook_title">Facebook</string>
-  <string name="facebook_send">Изпрати в Facebook</string>
-  <string name="facebook_login">Sign in to Facebook</string>
+  <string name="facebook_send">Изпрати във Facebook</string>
+  <string name="facebook_login">Влезте във Facebook</string>
   <string name="xspace_instagram_title">Instagram</string>
   <string name="instagram_send">Изпрати в Instagram</string>
   <string name="use_google_open">Събуждане чрез Google Асистент</string>
   <string name="greenguard_functional_description">"Управлявайте устройствата от разстояние, преглеждайте информация за местоположението,
 контролирайте инсталираните приложения и ограничете използването"</string>
   <string name="can_not_switch_when_super_power_active">"Не можете да превключвате между пространствата, когато е включена функцията за свръх пестене"</string>
+  <string name="xspace_disable">Не е създадено</string>
+  <string name="xspace_enable">Създадено</string>
+  <string name="xspace_notification">Известия от клонирани приложения</string>
+  <string name="xspace_notification_error">Влезте в клониран WeChat и опитайте отново</string>
+  <string name="xspace_settins">Настройка</string>
 </resources>

@@ -556,4 +556,7 @@
   <string name="upload_log_failed">Не мога да изпратя историята</string>
   <string name="warning_field_empty">Въведи %1$s</string>
   <string name="warning_field_invalid">Изберете валидно %1$s</string>
+  <string name="feedback_choose_occurrence_time">Време</string>
+  <string name="feedback_hint_optional">Избери</string>
+  <string name="feedback_title_occurrence_time">Изберете време</string>
 </resources>

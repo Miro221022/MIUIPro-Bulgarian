@@ -106,4 +106,6 @@
     <string name="start_print">Отпечатване</string>
     <string name="wifi_direct">WLAN Direct</string>
 	<string name="label_paper_size">Хартия</string>
+	<string name="copies_decrease">Минус едно копие</string>
+    <string name="copies_increase">Плюс едно копие</string>
 </resources>

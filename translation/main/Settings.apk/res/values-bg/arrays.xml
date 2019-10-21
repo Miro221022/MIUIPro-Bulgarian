@@ -1479,4 +1479,14 @@
         <item>Оптимизиран за качество на звука (900кб/с)</item>
         <item>Най-доброто избор (Авто скорост на битовете)</item>
     </string-array>
+	<string-array name="true_color_screen_optimize_summary">
+        <item>Цветовете въз основа на текущото осветление</item>
+        <item>Винаги подобрени цветове</item>
+        <item>Стандартен цвят на съдържанието на екрана с калибриране</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Автоматично (препоръчително)</item>
+        <item>Наситено</item>
+        <item>Оригинален цвят</item>
+    </string-array>
 </resources>
