@@ -486,4 +486,8 @@
   <string name="xiaomi_update_dialog_message">Представяне на версия %1$s\nРазмер: %2$s</string>
   <string name="xiaomi_update_dialog_message_diff">Представяне на версия %1$s\nРазмер на актуализацията: %2$s</string>
   <string name="xiaomi_update_dialog_title">%1$s актуализация!</string>
+  <string name="preference_use_voice_summary">Включете, за да използвате синтетична реч по време на изчисления</string>
+  <string name="preference_use_voice_title">Синтетична реч</string>
+  <string name="preference_user_feedback_title">Отзиви</string>
+  <string name="voice_guide_text">Можете да включите синтетична рея от тук</string>
 </resources>

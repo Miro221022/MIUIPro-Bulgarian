@@ -24,4 +24,8 @@
         <item quantity="other">%d елемента</item>
         <item quantity="one">%d елемент</item>
     </plurals>
+	    <plurals name="search_result">
+        <item quantity="other">Намерени са %d записа</item>
+        <item quantity="one">Намерен е %d запис</item>
+    </plurals>
 </resources>

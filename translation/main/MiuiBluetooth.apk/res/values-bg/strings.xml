@@ -62,8 +62,8 @@
     <string name="fast_connect_device_headset_r_use_time">R %1$s часа</string>
     <string name="fast_connect_device_title_connect_fail">"Не може да се свърже с %1$s"</string>
     <string name="fast_connect_device_title_connecting">Свързване...</string>
-    <string name="fast_connect_device_title_find_headset">Търсене на устройство %1$s</string>
-    <string name="fast_connect_device_title_find_headset_others">Намерени са още %1$s устройства</string>
+    <string name="fast_connect_device_title_find_headset">Търсене %1$s</string>
+    <string name="fast_connect_device_title_find_headset_others">"Изглежда, че това устройство не е ваше: %1$s"</string>
     <string name="notify_fast_connect_device_group">Автоматично свързване на слушалките</string>
     <string name="notify_fast_connect_device_text">Отключете екрана, след това опитайте да се свържете</string>
     <string name="notify_fast_connect_device_title">Намиране на слушалките %1$s</string>

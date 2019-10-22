@@ -5433,7 +5433,7 @@
     <string name="tether_over_limit_warning_notify_message">Изключване на точката за достъп.</string>
     <string name="tether_over_limit_warning_notify_title">Достигнат е лимитът за данни за точката за достъп.</string>
     <string name="traffic_none">Няма</string>
-	<string name="lockscreen_magazine_summary">Висококачествени Ежедневни Тапети</string>
+	<string name="lockscreen_magazine_summary">Зашеметяващи изображения и вълнуващи истории, които ще ви се доставят ежедневно</string>
     <string name="miui_userguide">Упътване за употреба</string>
     <string name="oldman_app_label">Опростен режим</string>
     <string name="oldman_installed_current_btn">Възстановяване на оригиналния Начален екран</string>
@@ -6596,4 +6596,5 @@ OTG се изключва автоматично след 10 минути без
      <string name="network_alarm_summary">"Забележка: Някои приложения не са съвместими с тази функция.%1$s"</string>
      <string name="network_alarm_summary_reg">Преглед на поддържаните приложения</string>
      <string name="network_alarm_support_apps">Поддържани приложения</string>
+	 <string name="add_broadsize_fingerprint_instruction_msg">Сензорът за пръстови отпечатъци се намира в десния ръб на вашето устройство</string>
 </resources>
