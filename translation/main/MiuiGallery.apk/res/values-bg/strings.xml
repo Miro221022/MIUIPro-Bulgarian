@@ -1505,7 +1505,7 @@
   <string name="thursday_shortest">Ч</string>
   <string name="time_picker_label_hour">Ч</string>
   <string name="time_picker_label_minute">М</string>
-  <string name="tip_capture_location">Локация:</string>
+  <string name="tip_capture_location">Местоположение:</string>
   <string name="tip_capture_params">EXIF данни:</string>
   <string name="tip_capture_time">Заснето на:</string>
   <string name="tip_file_info">Данни за файл:</string>

@@ -3607,7 +3607,7 @@
     <string name="search_ring_volume_option_title">Сила на звънене;Усилване;Тон на звънене и известия;тон на звънене;звуци;Будилник;Музика</string>
     <string name="search_ringtone_title">Мелодия на позвъняване;Мелодия;Звуци</string>
     <string name="search_sms_received_sound_title">Получен Sms;звук на Sms;получено съобщение;звук за съобщение;получаване на SMS</string>
-    <string name="search_alarm_sound_title">Звук на будилника</string>
+    <string name="search_alarm_sound_title">Звук на будилника;Будилник</string>
     <string name="search_calendar_sound_title">Звук за календара;мелодия на календара;календар</string>
     <string name="search_notification_sound_title">Стандартен звук за известията;звук за известия;звуци за известия</string>
     <string name="search_sms_delivered_sound_title">Съобщението е доставено;доставено съобщение;звук;доклад</string>
@@ -3808,7 +3808,7 @@
     <string name="sms_delivered_sound_title">Звук за доставено съобщение</string>
     <string name="sms_received_sound_dialog_title">Избери звук за получени съобщения</string>
     <string name="sms_delivered_sound_dialog_title">Избери звук за доставени съобщения</string>
-    <string name="alarm_sound_title">Звук на будилника</string>
+    <string name="alarm_sound_title">Будилник</string>
     <string name="alarm_sound_dialog_title">Избор на звук за будилника</string>
     <string name="calendar_sound_title">Звук за календара</string>
     <string name="calendar_sound_dialog_title">Избор на звук за календара</string>
