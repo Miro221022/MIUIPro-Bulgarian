@@ -175,11 +175,11 @@
     <string name="miremix">Mi (Ремикс)</string>
     <string name="notificationxylophone">Уведомление (Ксилофон)</string>
     <string name="cta_permission_delimiter">, </string>
-    <string name="cta_permission_and">и</string>
+    <string name="cta_permission_and"> и </string>
     <string name="cta_title">Условия за ползване</string>
-    <string name="cta_message_license">Като използвате този продукт, Вие се съгласявате с нашите условия за ползване и политика за личните данни.</string>
+    <string name="cta_message_license">Използвайки този продукт, вие приемате условията, посочени в нашите Общи условия и Политика за поверителност.</string>
     <string name="cta_message_permission">Това приложение се нуждае от %2$s, за да работи нормално.</string>
-    <string name="cta_check_reminder">Не показвай повече</string>
+    <string name="cta_check_reminder">"Не показвай отново"</string>
     <string name="cta_button_quit">Изход</string>
     <string name="cta_button_continue">Приемам</string>
 	<string name="candy">Бонбони</string>
