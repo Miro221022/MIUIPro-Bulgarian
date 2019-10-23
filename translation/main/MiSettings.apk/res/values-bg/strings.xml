@@ -131,16 +131,16 @@
     <string name="usage_state_focus_call">Спешно повикване</string>
     <string name="usage_state_focus_mode_summary">Ограничете всички функции, освен спешните повиквания и камерата</string>
     <string name="usage_state_focus_mode_summary1">Добре започнато е наполовина свършено</string>
-    <string name="usage_state_focus_mode_summary2">Остани съсредоточен</string>
+    <string name="usage_state_focus_mode_summary2">Останете съсредоточени</string>
     <string name="usage_state_focus_mode_summary3">Необходими са усилия, за да останете съсредоточени</string>
-    <string name="usage_state_focus_mode_title">Режим на фокус</string>
-    <string name="usage_state_focus_mode_warning_message">"Режимът на фокус позволява само използване на камера и извършване на спешни повиквания. Няма да можете да изключите режима на фокус преждевременно."</string>
+    <string name="usage_state_focus_mode_title">Режим съсредоточеност</string>
+    <string name="usage_state_focus_mode_warning_message">"Режимът на съсредоточеност позволява само използване на камера и извършване на спешни повиквания. Няма да можете да изключите режима на съсредоточеност преждевременно."</string>
     <string name="usage_state_focus_mode_warning_title">Внимание</string>
     <string name="usage_state_focus_take_photo">Камера</string>
     <string name="usage_state_focus_warning_text">Съсредоточете се върху нещо важно</string>
-    <string name="usage_state_focus_weak_summary">Сложете телефона си на разстояние</string>
-    <string name="usage_state_open_focus_mode">Включете режим на фокус</string>
+    <string name="usage_state_focus_weak_summary">Оставете телефона си на разстояние</string>
+    <string name="usage_state_open_focus_mode">Включване на Режим съсредоточеност</string>
     <string name="usage_state_running_days">Продължителност (дни)</string>
     <string name="usage_state_statistic_data">Статистика</string>
-    <string name="usage_state_turn_on">Включи</string>
+    <string name="usage_state_turn_on">Включване</string>
 </resources>
