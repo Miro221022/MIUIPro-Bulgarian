@@ -79,7 +79,7 @@
     <string name="download_settings">Изтегляне на настройките на нач. екран: %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
     <string name="recover_home_settings">Възстановяване на настройките на нач. екран</string>
-    <string name="cancel_recover_settings"><u>Отказ</u></string>
+    <string name="cancel_recover_settings">Отказ</string>
     <string name="recover_settings_description">Задръжте устройството си включено</string>
     <string name="recover_miui_settings">Възстановяване системните настройки на MIUI</string>
     <string name="wait_icon_download">Изтегляне икони на приложения</string>
@@ -231,4 +231,6 @@
     <string name="restore_failed_reason_network_error">Мрежова грешка. Изчакайте минута или две и опитайте отново</string>
     <string name="restore_failed_reason_disk_space_not_enough">Няма достатъчно място за съхранение. Първо освободете място.</string>
 	<string name="restoring_data">Възстановяване на данни…</string>
+	<string name="restoring_home_screen_apps">Възстановяване от Xiaomi Облак…</string>
+	<string name="loading_progress_num">Заредени %s%%</string>
 </resources>

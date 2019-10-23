@@ -92,4 +92,20 @@
         <item quantity="other">Преглед на %d коментара</item>
         <item quantity="one">Преглед на %d коментар</item>
     </plurals>
+	    <plurals name="fans_count">
+        <item quantity="other">%d последователи</item>
+        <item quantity="one">%d последовател</item>
+    </plurals>
+	    <plurals name="tv_show_subscribed_author_video">
+        <item quantity="other">Абонамент за %d канала. Докоснете, за гледане на видеоклипове.</item>
+        <item quantity="one">Абонамент за %d канал. Докоснете, за гледане на видеоклипове.</item>
+    </plurals>
+	    <plurals name="video_count">
+        <item quantity="other">%d видеоклипа</item>
+        <item quantity="one">%d видеоклип</item>
+    </plurals>
+	    <plurals name="vp_video_tencent_loading">
+        <item quantity="other">Изпълнение след %2$s %1$d секунди</item>
+        <item quantity="one">Изпълнение след %2$s %1$d секунда</item>
+    </plurals>
 </resources>

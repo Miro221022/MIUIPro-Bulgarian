@@ -1875,4 +1875,5 @@
    <string name="face_unlock_category_title">Опции за заключен екран</string>
    <string name="gxzw_quick_close">Затвори</string>
    <string name="gxzw_quick_open_title">Отворено меню с преки пътища</string>
+   <string name="empty_title">" "</string>
 </resources>

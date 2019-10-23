@@ -20,4 +20,20 @@
         <item quantity="other">Успешно са изтрити %s изтегляния</item>
         <item quantity="one">Успешно е изтрито %s изтегляне</item>
     </plurals>
+	    <plurals name="durationDays">
+        <item quantity="other">%1$d дни</item>
+        <item quantity="one">%1$d ден</item>
+    </plurals>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d часа</item>
+        <item quantity="one">%1$d час</item>
+    </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">%1$d мин.</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d сек.</item>
+    </plurals>
 </resources>

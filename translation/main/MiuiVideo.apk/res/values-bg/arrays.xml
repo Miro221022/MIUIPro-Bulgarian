@@ -51,4 +51,9 @@
         <item>Ю</item>
         <item>Я</item>
     </string-array>
+    <string-array name="my_subscribe_tab_list">
+        <item>Всички</item>
+        <item>Кратки клипове</item>
+        <item>Малки клипове</item>
+    </string-array>
 </resources>
