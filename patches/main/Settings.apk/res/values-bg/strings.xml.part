@@ -244,4 +244,5 @@
   <string name="miuipro_anim_summary">Деактивиране на анимацията на иконите на началния екран след отключване</string>
   <string name="show_powermenu_title">Деактивиране на менюто за рестартиране</string>
   <string name="show_powermenu_summary">Деактивиране на менюто за рестартиране, когато екранът е заключен</string>
+  <string name="default_search_title">Асистент по подразбиране</string>
 </resources>
