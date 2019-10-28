@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="prompt">Заявка за свързване</string>
-    <string name="warning">%s иска да настрои връзка с виртуална частна мрежа (VPN), за да може да наблюдава мрежовия трафик. Приемете само ако източникът е надежден. Иконата &lt;br /> &lt;br /> &lt;img src=vpn_icon /> се показва в долната част на екрана при активирана VPN.</string>
-    <string name="legacy_title">VPN е свързана</string>
-    <string name="configure">Конфигуриране</string>
-    <string name="disconnect">Изключване</string>
+    <string name="warning">%s иска да настрои VPN връзка, която му позволява да наблюдава мрежовия трафик. Приемете само ако се вярвате на източника. Иконата &lt;br /> &lt;br /> &lt;img src=vpn_icon /> ще се появи в горната част на вашия екран, когато VPN е активен.</string>
+    <string name="legacy_title">VPN е свързан</string>
     <string name="session">Сесия:</string>
     <string name="duration">Продължителност:</string>
     <string name="data_transmitted">Изпратено:</string>
     <string name="data_received">Получено:</string>
-    <string name="data_value_format">%1$s байта/ %2$s пакета</string>
+    <string name="data_value_format">%1$s байта / %2$s пакета</string>
+    <string name="always_on_disconnected_title">"Не може да се свърже с постоянно включен VPN"</string>
+    <string name="always_on_disconnected_message">"%1$s е настроен да поддържа връзка през цялото време, но не може да се свърже в момента. Вашият телефон ще използва обществена мрежа, докато успее да се свърже отново с %1$s."</string>
+    <string name="always_on_disconnected_message_lockdown">"%1$s е настроен да поддържа връзка през цялото време, но не може да се свърже в момента. Няма да имате връзка, докато VPN не се свърже отново."</string>
+    <string name="always_on_disconnected_message_separator">" "</string>
+    <string name="always_on_disconnected_message_settings_link">Промяна на VPN настройките</string>
+    <string name="configure">Конфигуриране</string>
+    <string name="disconnect">Прекъсване на връзката</string>
+    <string name="open_app">Отвори приложението</string>
+    <string name="dismiss">Отхвърляне</string>
 </resources>
