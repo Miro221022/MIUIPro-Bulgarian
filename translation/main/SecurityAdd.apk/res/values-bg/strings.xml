@@ -96,4 +96,14 @@
     <string name="superpower_settings_launcher">Свръх пестене на батерия</string>
     <string name="superpower_toast_app_select_full">Можете да добавите до 6 елемента към често използвани приложения</string>
 	<string name="cta_main_purpose">Добре дошли в Game Turbo!</string>
+	<string name="cancel">Отказ</string>
+	<string name="fingerprint_not_remind">"Не питай отново"</string>
+    <string name="free_send_net_booster">Безплатно увеличаване на скоростта на мрежата</string>
+    <string name="free_send_net_booster_busniess">Вземете безплатно Xunlei увеличение на скоростта</string>
+    <string name="free_send_net_booster_busniess_tip">Докоснете за получаване</string>
+    <string name="free_send_net_booster_tip">Насладете се на плавни игри с безплатното увеличаване на скоростта на мрежата.</string>
+	<string name="net_booster_expire_notification">Сесията за повишаване на скоростта на мрежата е към приключване</string>
+    <string name="net_booster_overdue_notification">Сесията за повишаване на скоростта на мрежата е към приключване</string>
+    <string name="net_booster_overdue_notification_tip">Сесията за повишаване на скоростта на мрежата ще приключи скоро. Подновяване на сесията?</string>
+    <string name="renew_now">Подновяване</string>
 </resources>

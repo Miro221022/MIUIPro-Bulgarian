@@ -1065,7 +1065,7 @@
   <string name="phone_locked_foget_password">Забравена парола?</string>
   <string name="phone_locked_foget_password_mehod_back">Назад</string>
   <string name="phone_locked_foget_password_method">Забравена парола?</string>
-  <string name="phone_locked_foget_password_method_content">" "<Data>Вие трябва да &lt;font color=#a5220e>изтриете всички данни &lt;/font> в устройството си, включително снимки и контакти и след това да зададете нова парола за заключване на екрана.</Data>" "</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Ще трябва да &amp;lt;font color=#a5220e&amp;gt;изтриете всички данни &amp;lt;/font&amp;gt;на вашето устройство, включително снимки и контакти и след това задайте нова парола за заключен екран.&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Следващ</string>
   <string name="phone_locked_foget_password_ok">Разбрах</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Изключете устройството, натиснете и задръжте &lt;font color=#a5220e&gt;бутон Захранване &lt;/font&gt; и бутон &lt;font color=#a5220e&gt;Усилване на звука &lt;/font&gt;едновременно, докато не видите логото на Mi.;&lt;/Data&gt;</string>

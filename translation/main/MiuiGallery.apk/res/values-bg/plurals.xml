@@ -57,8 +57,8 @@
         <item quantity="one">Продължаване на архивирането след %d час</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d снимки или клипове | На пауза</item>
-        <item quantity="one">%d снимка или клип | На пауза</item>
+        <item quantity="other">Ще се възобнови след %d минути</item>
+        <item quantity="one">Ще се възобнови след %d минута</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d снимки и клипове | %2$s</item>
@@ -141,16 +141,16 @@
         <item quantity="one">Общо %1$d елемент</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d елемента изчакващи за архивиране</item>
-        <item quantity="one">1 елемент изчакващ за архивиране</item>
+        <item quantity="other">%1$d снимки изчакващи за синхронизиране</item>
+        <item quantity="one">%1$d снимка за чакаща за синхронизиране</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d снимки</item>
         <item quantity="one">1 снимка</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d снимки чакат за архивиране</item>
-        <item quantity="one">1 снимка чака за архивиране</item>
+        <item quantity="other">%1$d снимки чакат за синхронизиране</item>
+        <item quantity="one">1 снимка чака за синхронизиране</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Синхронизират се %1$d снимки…</item>
@@ -169,8 +169,8 @@
         <item quantity="one">1 видеоклип</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d видеоклипа чакат за архивиране</item>
-        <item quantity="one">1 видеоклип чака за архивиране</item>
+        <item quantity="other">%1$d видеоклипа чакат за синхронизиране</item>
+        <item quantity="one">1 видеоклип чака за синхронизиране</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Избраните снимки не са в устройството.Да се изтеглят ли чрез мобилни данни?</item>
@@ -332,18 +332,18 @@
         <item quantity="other">След половин час</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Веднага</item>
+        <item quantity="other">Скоро</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">след %d минути</item>
-        <item quantity="one">след 1 минута</item>
+        <item quantity="other">След %d минути</item>
+        <item quantity="one">След 1 минута</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Сега</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Преди %d минути</item>
-        <item quantity="one">Преди 1 минута</item>
+        <item quantity="one">Преди %d минута</item>
     </plurals>
 	    <plurals name="burst_save_confirm_dialog_title">
         <item quantity="other">Изтриване на %d снимки</item>
@@ -379,5 +379,9 @@
 	    <plurals name="album_photo_count_text">
         <item quantity="other">%1$d елемента</item>
         <item quantity="one">%1$d елемент</item>
+    </plurals>
+	    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Поставяне на пауза синхронизирането на снимки, видеоклипове, контакти, бележки и други елементи с облака за %d минути.</item>
+        <item quantity="one">Поставяне на пауза синхронизирането на снимки, видеоклипове, контакти, бележки и други елементи с облака за %d минута.</item>
     </plurals>
 </resources>

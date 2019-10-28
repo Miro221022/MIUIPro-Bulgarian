@@ -123,8 +123,8 @@
     <string name="permission_description_summary_generic">Приложенията с това разрешение могат %1$s</string>
     <string name="permission_reminders">Напомняния за разрешение</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">Откажи и не питай отново</string>
-    <string name="grant_dialog_button_deny_background">Запазване на достъпа, докато се използва</string>
-    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Запазете и не питайте отново</string>
+    <string name="grant_dialog_button_deny_background">Само докато използвате приложението</string>
+    <string name="grant_dialog_button_deny_background_and_dont_ask_again">"Откажи и не питай отново"</string>
     <string name="grant_dialog_button_allow_always">Разрешаване през цялото време</string>
     <string name="grant_dialog_button_allow_foreground">Разрешаване само когато използвате приложението</string>
     <string name="grant_dialog_button_allow_background">Разрешаване през цялото време</string>
@@ -151,4 +151,5 @@
     <string name="permdesc_sensors">Достъп до данните на сензора за тяло</string>
     <string name="permdesc_write_calendar">Достъп и събитията в календара</string>
     <string name="permdesc_write_storage">Достъп и запазване на снимки и файлове на устройството</string>
+	<string name="permdesc_location_background">Достъп до местоположението на заден план</string>
 </resources>

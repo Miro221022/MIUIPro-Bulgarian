@@ -33,7 +33,7 @@
   <string name="language_settings">Избор на език</string>
   <string name="locale_picker_title">Изберете регион</string>
   <string name="miui_privacy_policy_no_network">Няма връзка с интернет. Вижте правилата за поверителност на %s</string>
-  <string name="miui_terms_no_network">"Нямате интернет връзка. Вижте Споразумението с потребителя на %s."</string>
+  <string name="miui_terms_no_network">"Нямате интернет връзка. Вижте потребителското споразумение на %s."</string>
   <string name="multisim_settings_category">Предпочитани SIM настройки</string>
   <string name="multisim_settings_title">Открити са 2 SIM карти</string>
   <string name="navigation_picker_gesture_guide">Упътване за жестове</string>
@@ -70,7 +70,9 @@
   <string name="summary_not_set">Не е настроено</string>
   <string name="system_navigation_mode">Режим за придвижване в системата</string>
   <string name="terms_of_use">Правила и условия</string>
-  <string name="terms_of_use_label">Прочетете нашето потребителско споразумение и декларация за поверителност, за да разберете каква информация събираме, как я използваме и какви възможности са достъпни за вас.\nТрябва да се съгласите с нашето потребителско споразумение и политика за поверителност, преди да можете да използвате MIUI.\n%s и компонентите на Mi профила ще се свържат с интернет и ще придобият местоположението ви.</string>
+  <string name="terms_of_use_label">"Прочетете нашето потребителско споразумение и политика за поверителност, за да разберете каква информация събираме, как я използваме и какви възможности са достъпни за вас.
+Трябва да се съгласите с нашето потребителско споразумение и политика за поверителност, преди да можете да използвате MIUI.
+%s и компонентите на Mi профила ще се свържат с интернет и ще придобият вашето местоположение."</string>
   <string name="title_fingerprint">Задаване на парола</string>
   <string name="user_agreement">Потребителско споразумение</string>
   <string name="voice_assist_desp">Кажете \"Mi AI\" на смартфона си. Mi Асистент ще разпознае вашият глас и ще може да контролира вашето устройство.</string>
@@ -231,4 +233,5 @@
     <string name="service_privacy_index">Политика за поверителност</string>
     <string name="servicestate_title">Становище за основните услуги</string>
     <string name="user_agreement_declare">Преди да използвате MIUI, трябва да прочетете и да се съгласите с нашите Потребителско споразумение и Политика за поверителност. Докато устройството ви се активира, услугата за активиране на Mi SIM,Открий устройството, начален екран, чести фрази, услуга за превод, MIUI Daemon и Актуализатор ще се свържат с мрежата. Интелигентните услуги ще се свържат с мрежата и ще получат достъп до вашето местоположение.</string>
+	<string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
 </resources>

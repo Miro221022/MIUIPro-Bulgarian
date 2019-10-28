@@ -6608,4 +6608,14 @@ OTG се изключва автоматично след 10 минути без
      <string name="vpn_require_connection">Блокиране на връзки без VPN</string>
      <string name="vpn_require_connection_title">Изисква се VPN връзка?</string>
 	 <string name="vpn_first_always_on_vpn_message">"Когато тази настройка е включена, няма да имате интернет връзка, докато VPN не се свърже успешно"</string>
+	 <string name="fingerprint_unlock_press_type">Натискане</string>
+	 <string name="fingerprint_unlock_touch_type">Докосване</string>
+     <string name="fingerprint_unlock_type">Метод за разпознаване на пръстови отпечатъци</string>
+     <string name="gxzw_anim_aurora">Aurora</string>
+     <string name="screen_fps_summary_power_save">Използването на фиксирана скорост консумира по-малко енергия</string>
+     <string name="screen_fps_summary_smooth">Някои приложения автоматично ще увеличават честотата на опресняване, за да подобрят качеството на картината</string>
+     <string name="screen_fps_unit_power_save">%dХц (пести батерия)</string>
+     <string name="screen_fps_unit_smooth">%dХц (по-добро качество)</string>
+     <string name="unlock_type_category_title">Метод за разпознаване</string>
+     <string name="wellbing_title">Цифрово благополучие и родителски контрол</string>
 </resources>

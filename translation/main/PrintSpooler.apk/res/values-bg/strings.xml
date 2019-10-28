@@ -80,14 +80,14 @@
     <string name="open_print_service">Разрешаване на печатане</string>
     <string name="open_print_service_tips">За да можете да използвате тази функция, първо разрешете отпечатването в Настройки.</string>
     <string name="open_wlan">Включи WLAN</string>
-    <string name="open_wlan_tips">Включете WLAN, за да намерите по-бързо принтерите.</string>
+    <string name="open_wlan_tips">Включете WLAN, за да намерите принтери.</string>
     <string name="other_printer">Други пронтери</string>
     <string name="please_choose_printer">Първо изберете принтер.</string>
     <string name="print_error">"Не може да се отпечата поради грешка в принтера"</string>
     <string name="print_fail">"Не може да се печата"</string>
     <string name="print_fail_network_error">"Не можа да се отпечата.Проверете мрежовите настройки и опитайте отново."</string>
     <string name="print_help_label">Помощ</string>
-    <string name="print_help_tip">Уверете се, че телефонът и принтерът са свързани към една и съща WLAN мрежа или е включена WLAN Direct връзка. %1$s.</string>
+    <string name="print_help_tip">Уверете се, че принтерът и вашият телефон са свързани към една и съща WLAN мрежа или WLAN Direct е включена. %1$s.</string>
     <string name="print_help_tip_reg">Преглед на \"Помощ\"</string>
     <string name="print_searching_printers">Търсене на принтери…</string>
     <string name="print_submited">Готови за печат</string>

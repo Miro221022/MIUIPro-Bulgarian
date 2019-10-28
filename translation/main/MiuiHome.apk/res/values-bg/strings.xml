@@ -415,4 +415,5 @@
 	<string name="all_apps_setting_original_scrollbar">Оригинално оформление</string>
     <string name="all_apps_setting_scroll_bar">Плъзгач</string>
     <string name="icon_size">Размер на иконите</string>
+	<string name="launcher_search_bar_title">Лента за търсене</string>
 </resources>

@@ -142,4 +142,20 @@
     <string name="rationale_ask_again">Това приложение може да не работи правилно без необходимите разрешения. Отворете екрана с настройки на приложението, за да промените разрешенията на приложението.</string>
     <string name="search_menu_title">Търсене</string>
     <string name="title_settings_dialog">Необходими разрешения</string>
+	<string name="miui_feedback_edit_choose_occurrence_time">Време</string>
+	<string name="miui_feedback_edit_hint_optional">Избери</string>
+	<string name="miui_feedback_edit_title_occurrence_time">Изберете време</string>
+	<string name="accessibility_camera_switch_capture_recording">拍照和录像切换</string>
+	<string name="auxiliary_close_status">关闭辅助效果</string>
+    <string name="auxiliary_exposure_feedback_status">打开曝光反馈</string>
+    <string name="auxiliary_focus_peak_status">打开峰值对焦</string>
+    <string name="log_format">Log格式</string>
+    <string name="moive_frame">电影画幅</string>
+    <string name="pref_camera_auxiliary_close">关闭</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">曝光反馈</string>
+    <string name="pref_camera_auxiliary_focus_peak">峰值对焦</string>
+    <string name="pref_camera_auxiliary_title">Auxiliary</string>
+    <string name="pref_camera_manually_exposure_value">EV</string>
+    <string name="rgb_histogram">RGB直方图</string>
+    <string name="video_8k">8K</string>
 </resources>

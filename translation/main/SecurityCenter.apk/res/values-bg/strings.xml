@@ -2354,8 +2354,8 @@
   <string name="system_permission_declare_no_say_no">Ако решите да не давате необходимите разрешения или да не ни разрешите да събираме и използваме данните ви, това приложение няма да може да работи нормално.</string>
   <string name="system_permission_declare_no_say_no_analytics">Ако не искате да предоставите тези разрешения, можете да се откажете в Настройки &gt; Допълнителни настройки &gt; Поверителност &gt; Програма за потребителски опит.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Ако решите да не давате необходимите разрешения или не ни разрешите да събираме и използваме вашите данни, това приложение няма да работи частично.</string>
-  <string name="system_permission_declare_privacy_declare">Ние уважаваме и защитаваме вашата поверителност.\nИмайте предвид, че %1s трябва да събира вашите данни и изисква следните разрешения, за да работи нормално:</string>
-  <string name="system_permission_declare_privacy_no_permission">Имайте предвид, че %1s трябва да събере данните ви, за да работи нормално.\nНие уважаваме и защитаваме вашата поверителност.</string>
+  <string name="system_permission_declare_privacy_declare">Ние ще защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики за поверителност. Обърнете внимание, че Сигурност трябва да се свърже с интернет и изисква следните разрешения за събиране на вашата лична информация:</string>
+  <string name="system_permission_declare_privacy_no_permission">Имайте предвид, че Сигурност трябва да се свърже с интернет и да събира необходимата лична информация, за да ви предоставя услуги. Ние ще защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики за поверителност.</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Прочетете и приемете нашата &lt;a href=\"%1$s\"&gt;Политика за поверителност&lt;/a&gt; преди да използвате тази функция.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">Можете да излезете от това приложение.</string>
   <string name="system_permission_declare_revoke_uninstallable">Можете да излезете, деинсталирате това приложение или да оттеглите пълномощното си в Сигурност &gt; Упрвление на приложения &gt; Разрешения &gt; Разрешения.</string>
@@ -2709,4 +2709,9 @@
   <string name="cta_close_dialog_title">Ограничаване на достъпа</string>
   <string name="shortcut_title_scan">Сканиране</string>
   <string name="shortcut_title_whatsapp_clean">WhatsApp почистване</string>
+  <string name="applock_go_to">Settings</string>
+  <string name="applock_settings_unlock_all_toast">Unlocked all apps</string>
+  <string name="lock_all_title">Lock all apps</string>
+  <string name="power_center_list_item_set_lockscreen_time_holder">Lock device after %d seconds of inactivity</string>
+  
 </resources>
