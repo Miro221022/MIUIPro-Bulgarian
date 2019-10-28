@@ -356,7 +356,7 @@
   <string name="number_add_hint">Въведете номер за добавяне към частен контакт</string>
   <string name="open_audio_record_panel">Отворете панела за записване на аудио</string>
   <string name="open_edit_sms_panel">Отворете панела за редакция на съобщения</string>
-  <string name="open_url_with_web">Да се отвори ли URL с Браузъра?</string>
+  <string name="open_url_with_web">Да се отвори ли адреса в браузъра?</string>
   <string name="over_max_mms_size">MMS-ът е прекалено голям.</string>
   <string name="overwrite_edited_content">Редактираното съдържание ще бъде презаписано. Ще продължите ли?</string>
   <string name="phrase_confirm_delete_message">Шаблонът ще бъде премахнат.</string>
@@ -642,8 +642,8 @@
   <string name="url_fraud_risky_alert">Сайтът, който се опитвате да посетите, може да бъде опасен. Щр го посетите ли въпреки това?\n%s</string>
   <string name="url_fraud_title">Уебсайтът може да е фалшив</string>
   <string name="url_fraud_visit">&lt;u&gt;Посещение на неиндентифицирана страница&lt;/u&gt;</string>
-  <string name="url_result_safe">Този URL адрес е безопасен</string>
-  <string name="url_scanning">Проверка на URL…</string>
+  <string name="url_result_safe">Този уеб адрес е безопасен</string>
+  <string name="url_scanning">Проверка на уеб адреса…</string>
   <string name="verification_code_list_title">Кодове за потвърждение</string>
   <string name="view">Преглед</string>
   <string name="view_bookmark">Виж оригиналното съобщение</string>
