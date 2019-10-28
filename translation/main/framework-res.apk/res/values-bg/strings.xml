@@ -1459,4 +1459,13 @@
     <string name="not_setup_app">Приложението за гласов асистент не е конфигурирано</string>
 	<string name="press_color_to_apply">Кликнете върху цвета, който искате да изберете</string>
 	<string name="move_button_text">Натиснете бутона на рамката, за да можете да преместите целия прозорец</string>
+	<string name="vpn_lockdown_config">Променете настройките на мрежата или VPN</string>
+    <string name="vpn_lockdown_connected">Винаги включен VPN е свързан</string>
+    <string name="vpn_lockdown_connecting">Винаги включен VPN се свързва…</string>
+    <string name="vpn_lockdown_disconnected">Прекъснат от постоянно включен VPN</string>
+    <string name="vpn_lockdown_error">"Не можа да се свърже с постоянно включен VPN"</string>
+    <string name="vpn_text">Докоснете, за да управлявате мрежата.</string>
+    <string name="vpn_text_long">Свързан към %s. Докоснете, за да управлявате мрежата.</string>
+    <string name="vpn_title">VPN е активиран</string>
+    <string name="vpn_title_long">VPN е активиран от %s</string>
 </resources>

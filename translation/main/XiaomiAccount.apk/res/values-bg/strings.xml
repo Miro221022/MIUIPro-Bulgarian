@@ -123,7 +123,7 @@
   <string name="delete_device">Премахване на устройството</string>
   <string name="delete_device_btn">Изтрий</string>
   <string name="delete_device_failed">Устройството не може да се премахне</string>
-  <string name="delete_device_notice">След като устройството бъде премахнато, то ще отпише автоматично от вашия Mi профил. Няма да можете да използвате това устройство за достъп до снимките, съобщенията и другата информация, съхранена във вашия профил.</string>
+  <string name="delete_device_notice">"След като устройството бъде премахнато, то ще бъде автоматично отписано от вашият Mi профил. Няма да можете да използвате това устройство за достъп до снимките, съобщенията и другата информация, съхранена във вашият профил."</string>
   <string name="delete_lock_device_success">Изтриването е успешно</string>
   <string name="device_delete_success_message">Ако не сте се вписвали на това устройство, незабавно променете паролата си.</string>
   <string name="device_delete_success_title">Отписано</string>
