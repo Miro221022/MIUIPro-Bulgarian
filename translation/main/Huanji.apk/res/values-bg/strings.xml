@@ -18,7 +18,7 @@
     <string name="audio_video_document">Звук, видео и документи</string>
     <string name="birthday">Рожден ден</string>
     <string name="btn_got_it">Разбрах</string>
-    <string name="btn_install_complete">Инсталирано. Стартиране на прехвърлянето.</string>
+    <string name="btn_install_complete">Инсталирано. Стартиране…</string>
     <string name="button_finish">Готово</string>
     <string name="button_import">Внасяне</string>
     <string name="button_return">Назад</string>
@@ -489,8 +489,8 @@
     <string name="install_app_message">"Ако не можете да намерите новото си устройство дълго време, опитайте следното:
 1. Уверете се, че Mi Трансфер е инсталиран на новото ви устройство.
 2. Сближете двете устройства."</string>
-    <string name="install_app_new_title">Сканирайте QR код, за да инсталирате Mi Трансфер на новото устройство</string>
-    <string name="install_app_old_title">Сканирайте QR код, за да инсталирате Mi Трансфер на старото устройство</string>
+    <string name="install_app_new_title">Сканирайте QR кода, за да инсталирате Mi Трансфер на новото устройство</string>
+    <string name="install_app_old_title">Сканирайте QR кода, за да инсталирате Mi Трансфер на старото устройство</string>
     <string name="install_app_to_another_phone_content">Инсталирайте Mi Трансфер на новото си устройство</string>
     <string name="install_new_app_link_text">Инсталирайте Mi Трансфер на новото си устройство, за да можете да се свързвате. Докоснете, за да инсталирате.</string>
     <string name="instruction">Важна информация за безопасност</string>
@@ -568,7 +568,7 @@
     <string name="new_trans_intro_desc_6">Някои профили на приложения (електронно банкиране, финанси и др.) са свързани с конкретно устройство поради съображения за сигурност. Опитайте да изчистите данните от приложението или да го инсталирате отново на ново устройство.</string>
     <string name="new_trans_intro_desc_7">"Данните от приложението на WeChat и историята на чата може да не бъдат напълно прехвърлени с помощта на Mi Трансфер, ако сте влезли в WeChat по време на прехвърлянето. Отидете в настройките на WeChat и излезте от профила си, за да получите повече шансове за успешен трансфер."</string>
     <string name="new_trans_intro_desc_new">"Докоснете \"Аз съм получател\". Изберете \"Импортиране от старото устройство\". Ще се генерира гореща точка."</string>
-    <string name="new_trans_intro_desc_old">"Докоснете \"Аз съм изпращач\". Свържете се с новото си устройство, изберете елементите за прехвърляне и докоснете Изпращане."</string>
+    <string name="new_trans_intro_desc_old">"Докоснете \"Аз съм подател\". Свържете се с новото си устройство, изберете елементите за прехвърляне и докоснете Изпращане."</string>
     <string name="new_trans_intro_question_1">1. Как да използвам Mi Трансфер за преместване на данни от устройство с Android?</string>
     <string name="new_trans_intro_question_2">2. Какво трябва да направя, ако Mi Mover забие на определена стъпка?</string>
     <string name="new_trans_intro_question_3">"3. Защо не мога да използвам Wi-Fi по време на прехвърляне?"</string>
@@ -646,7 +646,7 @@
     <string name="saving_data_not_close_wifi">"Не изключвайте Wi-Fi"</string>
     <string name="saving_data_space_low">"Няма достатъчно място за съхранение.
 Освободете поне %s."</string>
-    <string name="scan_soft_ap_label">Свържете се с новото устройство</string>
+    <string name="scan_soft_ap_label">Свързване с новото устройство</string>
     <string name="scanner_bottom_tip">Изберете само важни елементи, за да направите прехвърлянето по-бързо.</string>
     <string name="scanner_permission_alert_cancel">Разбрах</string>
     <string name="scanner_permission_alert_ok">Настройки</string>
@@ -788,7 +788,7 @@
     <string name="trans_one_key_migrate">Mi Трансфер</string>
     <string name="trans_receive_time_remained">Получени: %1$s | Остават: %2$s</string>
     <string name="trans_send_time_remained">Изпратени: %1$s | Остават: %2$s</string>
-    <string name="trans_show_qr_code_label">Свържете се със старото устройство</string>
+    <string name="trans_show_qr_code_label">Свързване със старото устройство</string>
     <string name="trans_sync_transfer_data_list">Изберете елементи, които да прехвърлите на старото устройство</string>
     <string name="trans_time_format_second">По-малко от минута</string>
     <string name="trans_time_spent">Време: %s</string>

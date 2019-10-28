@@ -420,7 +420,7 @@
   <string name="trans_cancelling">Отменя се</string>
   <string name="trans_complete_restoring">Прехвърлено успешно. Възстановяване на данни за приложениетоâŚ</string>
   <string name="trans_connect_failed_device_incompatible">Устройството не е съвместимо. Отменете прехвърлянето и опитайте отново.</string>
-  <string name="trans_connect_failed_message">Неуспешно свързване, опитайте отново или рестартирайте устройството. На другото устройство отидете в Настройки &gt; Допълнителни настройки &gt; Експорт към ново устройство и чукнете [Аз съм изпращач], или стартирайте Mi Mover отново след рестарта.</string>
+  <string name="trans_connect_failed_message">Неуспешно свързване, опитайте отново или рестартирайте устройството. На другото устройство отидете в Настройки &gt; Допълнителни настройки &gt; Експорт към ново устройство и чукнете [Аз съм подател] или стартирайте Mi Трансфер отново след рестарта.</string>
   <string name="trans_connect_failed_title">Неуспешно свързване</string>
   <string name="trans_connect_failed_toast">Ме може да се свърже</string>
   <string name="trans_connecting_toast">Установява се връзка…</string>
@@ -486,8 +486,8 @@
   <string name="trans_intro_desc_gms">Поради голямата вероятност за неуспешни трансфери, причинени от проблеми със съвместимостта, Mi Mover не поддържа прехвърляне на данни, генерирани от Google приложения.</string>
   <string name="trans_intro_desc_multiapp">Mi трансфер не може да прехвърля данни от клонирани приложения поради конфликт между файловете.</string>
   <string name="trans_intro_desc_multiuser">Mi трансфер няма достъп до елементите във Второ работно място. Преместете ги в Основно работно място и започнете прехвърляне.</string>
-  <string name="trans_intro_desc_new">Докоснете \"Аз съм Получател\". QR код ще бъде генериран.</string>
-  <string name="trans_intro_desc_old">Докоснете \"Аз съм Изпращач\". Сканирайте QR кода на новия телефон, изчакайте докато Mi трансфер подготви файловете, които искате да изпратите и натиснете \"Изпрати\".</string>
+  <string name="trans_intro_desc_new">Докоснете \"Аз съм получател\". QR код ще бъде генериран.</string>
+  <string name="trans_intro_desc_old">Докоснете \"Аз съм подател\". Сканирайте QR кода на новия телефон, изчакайте докато Mi трансфер подготви файловете, които искате да изпратите и натиснете \"Изпрати\".</string>
   <string name="trans_intro_desc_old_market">Натиснете \"Начало\". Сканирайте QR кода на новия телефон, изчакайте докато Mi Mover посочва кои файлове да се изпратят и докоснете \"Изпрати\".</string>
   <string name="trans_intro_desc_private">Mi трансфер няма достъп до снимките в скритите албуми, защото те са криптирани. Вие трябва да възстановите тези снимки от Xiaomi Облак на новото устройство.</string>
   <string name="trans_intro_question_1">%d. Как да използвам Mi Трансфер за преместване на данни от Apple устройство?</string>
@@ -523,8 +523,8 @@
   <string name="trans_operate_func_one">Метод A</string>
   <string name="trans_operate_func_two">Метод Б</string>
   <string name="trans_operate_new_phone_tips">\"Сканирайте QR кода с новото устройство\nОтидете на Настройки &gt; Допълнителни настройки &gt; Експорт към ново устройство\nЧукнете [Аз съм получател] за създаване на QR код\"</string>
-  <string name="trans_operate_old_phone_tips1">\"Метод A\n1. Инсталирайте приложението Трансфер на старото си устройство\n2. Отворете го и изберете [Аз съм изпращач]\n3. Сканирайте QR кода с вашето старо устройство\"</string>
-  <string name="trans_operate_old_phone_tips2">\"Метод Б\nОтидете на Настройки &gt; Допълнителни настройки &gt; Експорт към ново устройство\nЧукнете [Аз съм изпращач]\"</string>
+  <string name="trans_operate_old_phone_tips1">\"Метод A\n1. Инсталирайте приложението Трансфер на старото си устройство\n2. Отворете го и изберете [Аз съм подател]\n3. Сканирайте QR кода с вашето старо устройство\"</string>
+  <string name="trans_operate_old_phone_tips2">\"Метод Б\nОтидете на Настройки &gt; Допълнителни настройки &gt; Експорт към ново устройство\nЧукнете [Аз съм подател]\"</string>
   <string name="trans_operate_reconnect_new_tips">Изчакайте, докато на новия телефон се покаже \"Връзката е прекъсната\" \nСлед това натиснете \"Свържи отново\" за да създадете QR код.</string>
   <string name="trans_operate_reconnect_old_tips">Изчакайте, докато на новия телефон се покаже \"Връзката е прекъсната\" \nСлед това натиснете \"Свържи отново\" за да сканирате QR кода.</string>
   <string name="trans_operate_tip_for_other_android">Отворете Mi Mover на старият ви телефон, натиснете \"Начало\" и сканирайте QR кода отгоре.</string>
@@ -559,7 +559,7 @@
   <string name="trans_select_device_send">Изберете устройство за трансфер на данните.</string>
   <string name="trans_select_notification_message">Докоснете за преглед</string>
   <string name="trans_select_notification_title">Mi Mover работи…</string>
-  <string name="trans_sender">Аз съм изпращач</string>
+  <string name="trans_sender">Аз съм подател</string>
   <string name="trans_sender_connectting">Потвърждение на новото устройство</string>
   <string name="trans_sender_searching">Търсене за нови устройства</string>
   <string name="trans_sender_searching_ensurance">\"Уверете се, че старото у-во е включено Изчаква се свързване със старото устройство…\"</string>
@@ -599,7 +599,7 @@
   <string name="user_notice_message">Някои функции се нуждаят от интернет връзка, за да работят нормално.</string>
   <string name="user_notice_title">Внимание</string>
   <string name="view_password_description">Покажи паролата</string>
-  <string name="wait_link">Отворете Mi Трансфер на старото устройство,\nдокоснете \"Аз съм изпращач\" и изберете точка за връзка.\nНе затваряйте страницата, преди да се установи връзка.</string>
+  <string name="wait_link">Отворете Mi Трансфер на старото устройство,\nдокоснете \"Аз съм подател\" и изберете точка за връзка.\nНе затваряйте страницата, преди да се установи връзка.</string>
   <string name="waiting">Един момент…</string>
   <string name="wifi_title">Настройки на Wi-Fi</string>
   <string name="xiaomi_bytes_unit">%1$sб</string>
