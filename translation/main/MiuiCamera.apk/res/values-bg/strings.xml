@@ -986,4 +986,5 @@
   <string name="pref_video_subtitle">Субтитри</string>
   <string name="subtitle_network_exception_tips">"Не може да се свърже с мрежата. Не можа да се запише сега."</string>
   <string name="camera_facedetection_sub_option_hint">Експериментална функция</string>
+  <string name="vv_mode_menu_item_name">ВЛОГ</string>
 </resources>

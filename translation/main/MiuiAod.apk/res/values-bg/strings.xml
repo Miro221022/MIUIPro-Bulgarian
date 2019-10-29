@@ -118,4 +118,10 @@
     <string name="standard_clock_panel">Стандартно</string>
     <string name="time_style">Стил</string>
     <string name="time_style_layout">Оформление</string>
+	<string name="above_image">Горе</string>
+    <string name="aod_show_date_and_time">Показване на дата и час</string>
+    <string name="below_image">Долу</string>
+    <string name="custom_image">Персонализирано изображение</string>
+    <string name="shownone_arround_image">Без</string>
+    <string name="time_location">Позиция на часовника</string>
 </resources>

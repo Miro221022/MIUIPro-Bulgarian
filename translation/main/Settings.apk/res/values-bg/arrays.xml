@@ -1482,7 +1482,7 @@
 	<string-array name="true_color_screen_optimize_summary">
         <item>Цветовете въз основа на текущото осветление</item>
         <item>Винаги подобрени цветове</item>
-        <item>Стандартен цвят на съдържанието на екрана с калибриране</item>
+        <item>Стандартен цвят на съдържанието на екрана с калибриране на цвета</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
         <item>Автоматично (препоръчително)</item>

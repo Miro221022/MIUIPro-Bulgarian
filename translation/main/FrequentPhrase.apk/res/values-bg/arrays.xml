@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="default_phrases">
+        <item>Invoice header: *** Inc.</item>
+        <item>Адрес: Улица, Апартамент, Град, Държава/Регион, Провинция, Пощенски код</item>
+        <item>Моля, оставете пакета до вратата. Благодаря!</item>
+        <item>"Изчакайте малко, ще се върна скоро."</item>
+        <item>"В среща съм. Моля, изпратете текстово съобщение."</item>
+        <item>"Не мога да говоря сега. Ще ти се обадя възможно най-скоро."</item>
+        <item>Благодаря!</item>
+    </string-array>
+</resources>

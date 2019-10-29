@@ -56,4 +56,16 @@
         <item quantity="other">%1$.1f точки</item>
         <item quantity="one">%1$.1f точка</item>
     </plurals>
+	    <plurals name="de_author_fans_amount">
+        <item quantity="one">%1$d фен</item>
+        <item quantity="other">%1$d фена</item>
+    </plurals>
+    <plurals name="de_author_theme_amount">
+        <item quantity="one">%1$d елемент</item>
+        <item quantity="other">%1$d елемента</item>
+    </plurals>
+    <plurals name="de_more_comment">
+        <item quantity="one">Още %1$d коментар</item>
+        <item quantity="other">Още %1$d коментара</item>
+    </plurals>
 </resources>

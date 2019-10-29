@@ -1165,4 +1165,5 @@
   <string name="webpage_title">Отметки и история</string>
   <string name="wechat_not_installed">Wechat не е инсталирано</string>
   <string name="window_manager_hybrid_application_list_title_text">Последно използвани</string>
+  <string name="pref_content_simple_homepage">Опростена начална страница</string>
 </resources>
