@@ -972,7 +972,7 @@
   <string name="ultra_tele_use_hint_text_body">"Използвайте 50-кратно увеличение за заснемане на далечни обекти
 по-подробно"</string>
   <string name="ultra_tele_use_hint_text_title">50X увеличение</string>
-  <string name="vv_duartion_hint">%1$s | Откъс %2$d | %3$ss</string>
+  <string name="vv_duartion_hint">%1$s | Откъс %2$d | %3$sс</string>
   <string name="vv_hint">Можете да снимате влогове само в пейзажен режим</string>
   <string name="vv_stability_hint">Поддържайте стабилно устройството си</string>
   <string name="vv_start">Заснемане на влог</string>
@@ -987,4 +987,5 @@
   <string name="subtitle_network_exception_tips">"Не може да се свърже с мрежата. Не можа да се запише сега."</string>
   <string name="camera_facedetection_sub_option_hint">Експериментална функция</string>
   <string name="vv_mode_menu_item_name">ВЛОГ</string>
+  <string name="pref_popup_camera_title">Изскачаща камера</string>
 </resources>

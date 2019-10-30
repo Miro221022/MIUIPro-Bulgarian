@@ -40,7 +40,7 @@
     <string name="average_cycle_days">Средно за цикъл</string>
     <string name="average_menstruation_days">Средна продължителност на цикъла</string>
     <string name="avg_steps">Крачки на ден</string>
-    <string name="background_run_tips">Натиснете \"Настройки\" по-долу, за да позволите на Mi Health винаги да работи във фонов режим.</string>
+    <string name="background_run_tips">Натиснете \"Настройки\" по-долу, за да позволите на Mi Health винаги да работи на заден план.</string>
     <string name="basic_info_label_age">Възраст</string>
     <string name="basic_info_label_birthday">Дата на раждане</string>
     <string name="basic_info_label_gender">Пол</string>

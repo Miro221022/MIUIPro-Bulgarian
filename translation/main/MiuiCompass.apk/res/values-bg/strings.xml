@@ -66,5 +66,5 @@
 	<string name="compass_settings">Настройки</string>
 	<string name="permission_camera_desc">Използване на нивото на духа</string>
     <string name="permission_location_desc">Показване на координати и атмосферно налягане</string>
-	<string name="cta_v2_app_purpose">Демонстрирайте геомагнитния юг, географската ширина и дължина, въздушното налягане и изчислете височината на дисплея</string>
+	<string name="cta_v2_app_purpose">Показва посоки, координати, атмосферно налягане и текуща надморска височина</string>
 </resources>

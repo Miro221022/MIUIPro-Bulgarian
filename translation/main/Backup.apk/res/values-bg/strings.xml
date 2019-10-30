@@ -397,11 +397,11 @@
   <string name="task_restore_finished_local">Възстановяването завърши</string>
   <string name="task_restore_none">Нищо за възстановяване</string>
   <string name="task_running_backup_dialog">Протича архивиране. Натиснете OK за преглед.</string>
-  <string name="task_running_backup_hint">Задачата вече се изпълнява във фонов режим</string>
+  <string name="task_running_backup_hint">Задачата вече се изпълнява на заден план</string>
   <string name="task_running_dialog">Протича архивиране и възстановяване. Натиснете OK за преглед.</string>
-  <string name="task_running_hint">Процесът вече се изпълнява във фонов режим</string>
+  <string name="task_running_hint">Процесът вече се изпълнява на заден план</string>
   <string name="task_running_restore_dialog">Протича възстановяване. Натиснете OK за преглед.</string>
-  <string name="task_running_restore_hint">Задачата вече се изпълнява във фонов режим</string>
+  <string name="task_running_restore_hint">Задачата вече се изпълнява на заден план</string>
   <string name="task_service_not_launched">Процесът не е стартирал все още</string>
   <string name="task_stopped_exception">Възстановяването е отменено</string>
   <string name="total_size">, %s</string>

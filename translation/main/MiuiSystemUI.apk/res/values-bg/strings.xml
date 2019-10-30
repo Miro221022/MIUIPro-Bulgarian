@@ -264,7 +264,7 @@
   <string name="app_info">Информация за приложението</string>
   <string name="app_label">Системен изглед</string>
   <string name="app_name">Заключен екран</string>
-  <string name="app_process_limit_title">Ограничение за фонови процеси</string>
+  <string name="app_process_limit_title">Ограничение за процесите на заден план</string>
   <string name="as_important">Важно</string>
   <string name="as_unimportant">Маловажно</string>
   <string name="audio_effect_custom">Настройка</string>
@@ -1700,7 +1700,7 @@
    <string name="structure_face_unlock_model_other_title">Лицево разпознаване</string>
    <string name="structure_face_unlock_not_same_person">"Трябва да завършите всички стъпки само с вашето лице. Не позволявайте запис на друго лице."</string>
    <string name="structure_face_unlock_really_person">"Изглежда, че сте сменил лицето си с предмет."</string>
-   <string name="data_saver_description">За да се намали използването на данни, функцията за пестене на данни не позволява на някои приложения да изпращат или получават данни във фонов режим. Приложението, което използвате в момента, може да има достъп до мобилни данни но може да го прави по-рядко. Това може да означава, например, че изображенията не се показват, докато не ги докоснете.</string>
+   <string name="data_saver_description">За да се намали използването на данни, функцията за пестене на данни не позволява на някои приложения да изпращат или получават данни на заден план. Приложението, което използвате в момента, може да има достъп до мобилни данни но може да го прави по-рядко. Това може да означава, например, че изображенията не се показват, докато не ги докоснете.</string>
    <string name="data_saver_enable_button">Включване</string>
    <string name="data_saver_enable_title">Ще включите ли пестенето на данни?</string>
    <string name="accessibility_quick_settings_alarm_on">Алармата е настроена.</string>
@@ -1718,7 +1718,7 @@
    <string name="dlg_summary_close_theme">Ограничете анимирани теми</string>
    <string name="dlg_summary_close_wifi">Изключване на WLAN, Bluetooth и WiFi точка за достъп</string>
    <string name="dlg_summary_nfc">Изключи NFC</string>
-   <string name="dlg_summary_title">Екстремното пестене на батерията спира цялата дейност на заден план, след като напуснете приложение и се върнете в началния екран.Ако искате да се изпълнява дадено приложение във фонов режим, добавете го към изключения.</string>
+   <string name="dlg_summary_title">Екстремното пестене на батерията спира цялата дейност на заден план, след като напуснете приложение и се върнете в началния екран.Ако искате да се изпълнява дадено приложение на заден план, добавете го към изключения.</string>
    <string name="enable_extreme_power_save_mode">Екстремно пестене на батерия</string>
    <string name="open_extreme_power_save_mode_title">Включване на Екстремно пестене на батерия</string>
    <string name="quick_settings_extreme_batterysaver_label">Екстремно пестене</string>
@@ -1839,7 +1839,7 @@
    <string name="face_data_manage_unlock_liftcamera_msg">След като екранът светне плъзнете нагоре, за да отключите устройството чрез лицеви данни.</string>
    <string name="face_unlock_fail_retry_global">Натиснете по-горе, за да използвате отключване с лице</string>
    <string name="power_save_ps_clean">Изчистване на кеша, когато устройството е заключено</string>
-   <string name="power_save_ps_close_setting">Изключване на фоновите услуги (синхронизация, GPS), за да се пести батерия</string>
+   <string name="power_save_ps_close_setting">Изключване на услугите на заден план (синхронизация, GPS), за да се пести батерия</string>
    <string name="power_save_ps_freeze">Замразяване на приложенията на заден план</string>
    <string name="power_save_ps_limit">Ограничаване дейността на системните приложения</string>
    <string name="notification_channel_dnd">Не ме безпокойте</string>

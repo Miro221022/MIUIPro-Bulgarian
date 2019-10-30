@@ -237,7 +237,7 @@
   <string name="contextmenu_openlink">Отвори</string>
   <string name="contextmenu_openlink_in_browser">Отвори в Браузъра</string>
   <string name="contextmenu_openlink_newwindow">Отвори в нов раздел</string>
-  <string name="contextmenu_openlink_newwindow_background">Отвори нов раздел във фонов режим</string>
+  <string name="contextmenu_openlink_newwindow_background">Отваряне на нов раздел на заден план</string>
   <string name="contextmenu_recognise_qr_code">Сканиране на QR код</string>
   <string name="contextmenu_send_mail">Изпрати имейл</string>
   <string name="contextmenu_set_wallpaper">Задай като тапет</string>

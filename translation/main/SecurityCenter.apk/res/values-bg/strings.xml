@@ -1746,7 +1746,7 @@
   <string name="power_center_scan_item_title_GPS">Настройте точност на GPS</string>
   <string name="power_center_scan_item_title_hide">Управление на използването на батерията</string>
   <string name="power_center_scan_item_title_power_saver">Включване на Пестене на батерия</string>
-  <string name="power_center_scan_item_title_running_app">Приложения, изпълнявани във фонов режим</string>
+  <string name="power_center_scan_item_title_running_app">Приложения, изпълнявани на заден план</string>
   <string name="power_center_scan_result_safe">Няма намерени проблеми с батерията</string>
   <string name="power_center_state_off">Изкл.</string>
   <string name="power_center_state_on">Вкл.</string>
@@ -1798,7 +1798,7 @@
   <string name="power_save_on_time_end_time_summary_na">До</string>
   <string name="power_save_on_time_start_time_summary_na">От</string>
   <string name="power_save_ps_clean">Изчистване на кеша, когато устройството е заключено</string>
-  <string name="power_save_ps_close_setting">Изключване на фоновите услуги (синхронизация, GPS), за да се пести батерия</string>
+  <string name="power_save_ps_close_setting">Изключване на услугите на заден (синхронизация, GPS), за да се пести батерия</string>
   <string name="power_save_ps_freeze">Замразяване на приложенията на заден план</string>
   <string name="power_save_ps_limit">Ограничаване дейността на системните приложения</string>
   <string name="power_save_settings">Настройки на батерията</string>
@@ -2326,9 +2326,9 @@
   <string name="superpower_progress_title">Оставащо време</string>
   <string name="superpower_progress_turndown_brightness">Намаляване на яркостта на екрана</string>
   <string name="superpower_progress_turnoff_items">Ограничаване на енергоемките дейности</string>
-  <string name="superpower_progress_turnoff_process">Ограничаване на фоновата активност</string>
+  <string name="superpower_progress_turnoff_process">Ограничаване на активността на аден план</string>
   <string name="superpower_savemode_limit1">Тъмна тема</string>
-  <string name="superpower_savemode_limit2">Ограничаване на фоновата активност</string>
+  <string name="superpower_savemode_limit2">Ограничаване на активността на аден план</string>
   <string name="superpower_savemode_limit3">Ограничаване на енергоемките дейности (синхронизация, GPS, вибрация, Винаги включен и т.н.)</string>
   <string name="superpower_savemode_limit4">Разрешаване на избраните приложения да работят нормално</string>
   <string name="superpower_settings">Свръх пестене на бтерия</string>
@@ -2709,9 +2709,15 @@
   <string name="cta_close_dialog_title">Ограничаване на достъпа</string>
   <string name="shortcut_title_scan">Сканиране</string>
   <string name="shortcut_title_whatsapp_clean">WhatsApp почистване</string>
-  <string name="applock_go_to">Settings</string>
-  <string name="applock_settings_unlock_all_toast">Unlocked all apps</string>
-  <string name="lock_all_title">Lock all apps</string>
-  <string name="power_center_list_item_set_lockscreen_time_holder">Lock device after %d seconds of inactivity</string>
-  
+  <string name="applock_go_to">Настройки</string>
+  <string name="applock_settings_unlock_all_toast">Отключване на всички приложения</string>
+  <string name="lock_all_title">Заключване на всички приложения</string>
+  <string name="power_center_list_item_set_lockscreen_time_holder">Заключване на устройството след %d секунди бездействие</string>
+  <string name="privacy_description_camera">%1s използва камерата на заден план. Можете да използвате превключвателя по-долу, за да ограничите тази дейност.</string>
+  <string name="privacy_description_camera_mic">%1s използва камерата и микрофона на заден план. Можете да използвате превключвателя по-долу, за да ограничите тази дейност.</string>
+  <string name="privacy_description_mic">%1s използва микрофона на заден план. Можете да използвате превключвателя по-долу, за да ограничите тази дейност.</string>
+  <string name="privacy_notification_subtitle">Докоснете за управление на разрешенията</string>
+  <string name="privacy_notification_title_camera">%1s използва камерата на заден план</string>
+  <string name="privacy_notification_title_camera_mic">%1s използва камерата и микрофона на заден план</string>
+  <string name="privacy_notification_title_mic">%1s използва микрофона на заден план</string>
 </resources>

@@ -915,7 +915,7 @@
   <string name="shortcut_new_msg">Ново съобщение</string>
   <string name="shortcut_setting">Настройки</string>
     <string name="mi_message_title">Mi Съобщение</string>
-    <string name="mms_main_purpose">"За да получите достъп до пълната функционалност на Съобщения, разрешете на приложението да се свърже с интернет и включете Mi Съощение и Интелигентно съобщение."</string>
+    <string name="mms_main_purpose">"За да получите достъп до пълната функционалност на Съобщения, включете Mi Съобщение и Интелигентни съобщения."</string>
     <string name="mms_title">Съобщения</string>
     <string name="mx_main_purpose">"Mi Съощение ви позволява да изпращате съобщения до други потребители на Mi Съощение през интернет, без такси.
 Необходимо е изходящо SMS съобщение, за да активирате Mi Съобщение. Вашият оператор ще ви таксува за това съобщение."</string>
@@ -931,12 +931,12 @@
     <string name="smart_msg_main_purpose">Интелигентните съобщения осигуряват разпознаване на идентификатора на подателя и услуги за интелигентно меню.</string>
     <string name="smart_msg_privacy_policy">Политика за поверителност на Интелигентни съобщения</string>
     <string name="system_permission_declare_agree">Съгласявам се</string>
-    <string name="system_permission_declare_disagree">"Не се съгласявам"</string>
+    <string name="system_permission_declare_disagree">Отказ</string>
     <string name="system_permission_declare_double_link" formatted="false">Прочетете и се съгласете с нашите %1s и %2s преди да използвате тази функция.</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Добре дошли в %1s! %2s</string>
-    <string name="system_permission_declare_no_say_no">"Ако решите да не давате необходимите разрешения или не ни позволите да събираме и използваме вашите данни, това приложение няма да може да работи нормално."</string>
-    <string name="system_permission_declare_privacy_declare">"Ние уважаваме и защитаваме вашата поверителност.
-Отбелязваме, че %1s трябва да събира вашите данни и изисква следните разрешения, за да работи нормално:"</string>
+    <string name="system_permission_declare_no_say_no">"Ние ще защитаваме вашата лична информация в съответствие със съответните закони, разпоредби и политики за поверителност.
+Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение."</string>
+    <string name="system_permission_declare_privacy_declare">%1s трябва да събира вашите данни и изисква следните разрешения, за да работи нормално:</string>
     <string name="system_permission_declare_revoke_path">Можете да оттеглите авторизацията си и да изключите услугите в настройките на Съобщения.</string>
     <string name="system_permission_declare_single_link">Прочетете и се съгласете с нашата %1s преди да използвате тази функция.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Прочетете и се съгласете с нашите %1s, %2s, и %3s преди да използвате тези функции.</string>
@@ -946,4 +946,5 @@
     <string name="system_permission_perm_read_numbers">Четене на телефонни номера</string>
     <string name="system_permission_perm_send_mms">Изпращане на MMS</string>
 	<string name="cloud_recommend_view_tip">Включете синхронизирането с облака, за да възстановите важни съобщения по всяко време</string>
+	<string name="mx_main_purpose_short">Mi Съобщение позволява на MIUI потребителите да изпращат и получават безплатни SMS и MMS съобщения.</string>
 </resources>

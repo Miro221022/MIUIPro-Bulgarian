@@ -778,7 +778,7 @@
    <string name="theme_comment_detail_sub_comment_title">Всички отговори</string>
    <string name="theme_comment_detail_title">Подробности</string>
    <string name="theme_comment_sub_comment_bar_hint">Споделете идеите си с нашата общност</string>
-   <string name="transparent_wallpaper_is_running_in_background">Прозрачен тапет се изпълнява във фонов режим</string>
+   <string name="transparent_wallpaper_is_running_in_background">Прозрачен тапет се изпълнява на заден план</string>
    <string name="unable_connect_network">"Не може да се свърже с мрежата"</string>
    <string name="wallpaper_24h">24H</string>
    <string name="wallpaper_delete_all">Изтриване на избраните елементи?</string>
