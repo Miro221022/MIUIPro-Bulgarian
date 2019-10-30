@@ -449,8 +449,8 @@
     <string name="micloud_battery_low_notification_message">Включете зарядното за синхронизиране</string>
     <string name="micloud_upgrade_member">Добави място за съхр</string>
     <string name="micloud_notif_content_depend_wifi">Свържете се към Wi-Fi за синхронизиране</string>
-    <string name="micloud_notif_title_master_depend_wifi">Не може да се синхронизира с Xiaomi Облак</string>
-    <string name="micloud_notif_content_master_depend_wifi">Първо се свържете с Wi-Fi.</string>
+    <string name="micloud_notif_title_master_depend_wifi">"Синхронизирането е на пауза, докато използвате мобилни данни"</string>
+    <string name="micloud_notif_content_master_depend_wifi">Свържете се с WLAN или променете настройките за синхронизация. Докоснете, за да промените.</string>
     <string name="micloud_notif_content_memory_low">Недостатъчно място в хранилището.</string>
     <string name="micloud_notif_title_battery_low">Не може да се синхронизира с Xiaomi Облак</string>
     <string name="micloud_notif_content_battery_low">Изтощена батерия.</string>

@@ -1685,4 +1685,16 @@
   <string name="thumbnail_error_log_cleared">Почистено е успешно</string>
   <string name="unsupport_raw">"%s не работи с необработени изображения"</string>
   <string name="unsupport_raw_and_video">"%s не работи с видеоклипове и необработени изображения"</string>
+  <string name="movie_audio_point1">Неон</string>
+  <string name="movie_audio_point2">Залез</string>
+  <string name="movie_audio_point3">Спомени</string>
+  <string name="movie_audio_point4">Средата на лятото</string>
+  <string name="movie_audio_point5">Вълни</string>
+  <string name="movie_audio_point6">Карнавал</string>
+  <string name="movie_template_cool">Светлини</string>
+  <string name="movie_template_cool2">Ритъм</string>
+  <string name="movie_template_cool3">Вълни</string>
+  <string name="movie_template_dull">История</string>
+  <string name="movie_template_dull2">Време</string>
+  <string name="movie_template_dull3">Красота</string>
 </resources>
