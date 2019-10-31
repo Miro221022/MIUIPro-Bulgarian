@@ -992,14 +992,7 @@
     <string name="vr_listener_binding_label">Приемател за виртуална реалност</string>
     <string name="condition_provider_service_binding_label">Доставчик на условия</string>
     <string name="notification_ranker_binding_label">Услуга за класифициране на известията</string>
-    <string name="vpn_title">VPN е активирана</string>
-    <string name="vpn_title_long">VPN е активирана от %s</string>
     <string name="vpn_text">Докоснете за управление на мрежата.</string>
-    <string name="vpn_text_long">Свързана с/ъс %s. Докоснете, за да управлявате мрежата.</string>
-    <string name="vpn_lockdown_connecting">Установява се връзка с винаги включената виртуална частна мрежа (VPN)…</string>
-    <string name="vpn_lockdown_connected">Установена е връзка с винаги включената виртуална частна мрежа (VPN)</string>
-    <string name="vpn_lockdown_error">Грешка във винаги включената виртуална частна мрежа (VPN)</string>
-    <string name="vpn_lockdown_config">Докоснете, за да конфигурирате</string>
     <string name="upload_file">Избор на файл</string>
     <string name="no_file_chosen">Няма избран файл</string>
     <string name="reset">Повторно задаване</string>
@@ -1464,7 +1457,6 @@
     <string name="vpn_lockdown_connecting">Винаги включен VPN се свързва…</string>
     <string name="vpn_lockdown_disconnected">Прекъснат от постоянно включен VPN</string>
     <string name="vpn_lockdown_error">"Не можа да се свърже с постоянно включен VPN"</string>
-    <string name="vpn_text">Докоснете, за да управлявате мрежата.</string>
     <string name="vpn_text_long">Свързан към %s. Докоснете, за да управлявате мрежата.</string>
     <string name="vpn_title">VPN е активиран</string>
     <string name="vpn_title_long">VPN е активиран от %s</string>
