@@ -331,4 +331,10 @@
     <string name="pref_remind_type_title">Игнорирай безшумния режим</string>
     <string name="remind_title">Напомняния</string>
 	<string name="privacy_note_content_empty">Тук все още няма елементи.</string>
+	<string name="audio_create_normal_state">Отпуснете, за да създадете. Плъзнете нагоре, за да отмените.</string>
+    <string name="audio_create_will_cancel_state">Отпуснете за отказ</string>
+    <string name="new_audio_create_cancel_talkback_des">Отказано</string>
+    <string name="new_audio_create_done_talkback_des">Създадено</string>
+    <string name="new_audio_create_guide_tip">Натиснете и задръжте, за да създадете гласова бележка</string>
+    <string name="new_audio_create_talkback_des">Докоснете, за да създадете текстова бележка. Натиснете и задръжте, за да създадете гласова бележка. Отпуснете бутона, за да спрете записа и да създадете бележката или плъзнете нагоре, за да отмените.</string>
 </resources>

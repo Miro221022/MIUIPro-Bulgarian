@@ -42,7 +42,7 @@
   <string name="aod_mode_summary">Тази функция увеличава консумацията на енергия. Тя ще бъде изключена, когато устройството ви остане на тъмно за дълго време или когато се прилагат ограничения за пестене на батерия.</string>
   <string name="aod_mode_time_summary">График за включване и изключване на режим Винаги включен</string>
   <string name="aod_mode_time_title">График</string>
-  <string name="aod_mode_title">Режим Винаги включен</string>
+  <string name="aod_mode_title">Винаги включен екран</string>
   <string name="aod_to_close">Изключване</string>
   <string name="cancel">Отказ</string>
   <string name="paper_mode_end_time_title">Изключване</string>

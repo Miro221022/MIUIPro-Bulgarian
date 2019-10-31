@@ -511,4 +511,12 @@
   <string name="yearly_plain">Ежегодно</string>
   <string name="yiji_app_download_card_lebal">Необходимо</string>
   <string name="setting_show_reject_agenda">Показване на отхвърлени събития</string>
+  <string name="edit_event_title_create_agenda">Добавяне на събитие</string>
+     <string name="edit_event_title_create_anniversary">Добавяне на годишнина</string>
+     <string name="edit_event_title_create_birthday">Добавяне на рожден ден</string>
+     <string name="edit_event_title_create_countdown">Добавяне на таймер</string>
+     <string name="edit_event_title_edit_agenda">Редактиране на събитието</string>
+     <string name="edit_event_title_edit_anniversary">Редактиране на годишнината</string>
+     <string name="edit_event_title_edit_birthday">Редактиране на реждения ден</string>
+     <string name="edit_event_title_edit_countdown">Редактиране на таймера</string>
 </resources>

@@ -988,4 +988,5 @@
   <string name="camera_facedetection_sub_option_hint">Експериментална функция</string>
   <string name="vv_mode_menu_item_name">ВЛОГ</string>
   <string name="pref_popup_camera_title">Изскачаща камера</string>
+   <string name="pref_camera_manually_exposure_value">Експозиция</string>
 </resources>
