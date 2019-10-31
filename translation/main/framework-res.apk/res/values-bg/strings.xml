@@ -242,8 +242,8 @@
     <string name="capability_desc_canPerformGestures">Можете да докосвате, да прекарвате пръст, да събирате пръсти и да извършвате други жестове.</string>
     <string name="permlab_statusBar">деактивиране или промяна на лентата за състоянието</string>
     <string name="permdesc_statusBar">Разрешава на приложението да деактивира лентата на състоянието или да добавя и премахва системни икони.</string>
-    <string name="permlab_statusBarService">изпълняване на ролята на лента на състоянието</string>
-    <string name="permdesc_statusBarService">Разрешава на приложението да бъде лентата на състоянието.</string>
+    <string name="permlab_statusBarService">изпълняване на ролята на лента за състоянието</string>
+    <string name="permdesc_statusBarService">Разрешава на приложението да бъде лентата за състоянието.</string>
     <string name="permlab_expandStatusBar">разгъване или свиване на лентата на състоянието</string>
     <string name="permdesc_expandStatusBar">Разрешава на приложението да разгъва или свива лентата на състоянието.</string>
     <string name="permlab_install_shortcut">инсталиране на преки пътища</string>

@@ -16,6 +16,10 @@
         <item quantity="other">%1$d-дневен цикъл</item>
         <item quantity="one">%1$d-дневен цикъл</item>
     </plurals>
+	    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нови известия</item>
+        <item quantity="one">%d ново известие</item>
+    </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d крачки</item>
         <item quantity="one">%1$d крачка</item>
