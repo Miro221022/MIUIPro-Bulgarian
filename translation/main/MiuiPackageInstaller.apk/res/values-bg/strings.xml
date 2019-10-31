@@ -275,7 +275,7 @@
   <string name="uninstall_failed_device_policy_manager_of_user">Не може да се деинсталира, защото този пакет е активен администратор на устройство за потребителя %1$s.</string>
   <string name="uninstall_failed_msg">%1$s не може да бъде инсталирано.</string>
   <string name="uninstall_failed_retained_app_msg">Това приложение е модифицирано и не може да бъде деинсталирано в текущата му форма.</string>
-  <string name="uninstall_update_text">Заместване на това приложение с фабричната му версия? Всичките му данни ще бъдат изтрити.</string>
+  <string name="uninstall_update_text">Заместване на това приложение с фабричната му версия? Всичките му данни ще бъдат изтрити.
   <string name="uninstall_update_text_multiuser">Заменете това приложение с фабричната му версия? Всички данни ще бъдат премахнати. Това засяга всички потребители на това устройство, включително тези с работни профили.</string>
   <string name="uninstall_update_title">Деинсталиране на актуализация</string>
   <string name="uninstalling">Деинсталиране…</string>
