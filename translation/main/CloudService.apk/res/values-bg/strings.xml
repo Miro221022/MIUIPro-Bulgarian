@@ -204,18 +204,18 @@
     <string name="micloud_user_space_title">Място в хранилището</string>
     <string name="sync_sub_dspt_provision">Преглед и управление на вашите данни отвсякъде</string>
     <string name="btn_return">Назад</string>
-    <string name="sync_sub_1_sms">За активирането на услугата трябва да изпратите sms. Може да бъдете таксувани за изходящо съобщение от доставчика ви.</string>
-    <string name="sync_sub_1_intl_sms">За активирането на услугата трябва да изпратите международен sms. Може да бъдете таксувани за изходящо съобщение от доставчика ви.</string>
-    <string name="sync_sub_2_sms">За активирането на услугата трябва да изпратите 2 sms-а. Може да бъдете таксувани за изходящо съобщение от доставчика ви.</string>
-    <string name="sync_sub_2_intl_sms">За активирането на услугата трябва да изпратите 2 международни sms-а. Може да бъдете таксувани за изходящо съобщение от доставчика ви.</string>
-    <string name="sync_sub_1_sms_1_intl_sms">За активирането на услугата трябва да изпратите 1 вътрешен и 1 международен sms. Може да бъдете таксувани за изходящо съобщение от доставчика ви.</string>
-    <string name="micloud_all_sub_1_sms">"Ще бъде изпратено обикновено SMS съобщение за активиране на вашата SIM карта. Ще бъдете таксувани от оператора си. Ако сте включили функцията 'Открий устройството', може да бъде изпратен SMS за активиране след смяна на SIM картите."</string>
-    <string name="micloud_all_sub_1_intl_sms">"Ще бъде изпратено международно SMS съобщение за активиране на вашата SIM карта. Ще бъдете таксувани от оператора си. Ако сте включили функцията 'Открий устройството', може да бъде изпратен SMS за активиране след смяна на SIM картите."</string>
-    <string name="micloud_all_sub_2_sms">"Ще бъдат изпратени 2 обикновени текстови съобщения за активиране на вашата SIM карта. Ще бъдете таксувани от оператора си. Ако сте включили функцията 'Открий устройството', може да бъде изпратен SMS за активиране след смяна на SIM картите."</string>
-    <string name="micloud_all_sub_2_intl_sms">"Ще бъдат изпратени 2 международни текстови съобщения за активиране на вашата SIM карта. Ще бъдете таксувани от оператора си. Ако сте включили функцията 'Открий устройството', може да бъде изпратен SMS за активиране след смяна на SIM картите."</string>
-    <string name="micloud_all_sub_1_sms_1_intl_sms">"Ще бъдат изпратени 2 текстови съобщения (обикновено и международно) за активиране на вашата SIM карта. Ще бъдете таксувани от оператора си. Ако сте включили функцията 'Открий устройството', може да бъде изпратен SMS за активиране след смяна на SIM картите."</string>
-    <string name="micloud_all_sub_resend_sms">"Когато включите 'Открий устройството', може да бъде изпратен SMS за активиране след смяна на SIM картите."</string>
-    <string name="micloud_sync_prompt_for_no_gallery_sync">Контакти, Календар и Бележки се синхронизират автоматично. Отидете в настройки на Xiaomi Облак, за да синхронизирате повече елементи.</string>
+    <string name="sync_sub_1_sms">Може да е необходимо изпращане на SMS съобщение за активиране на тази услуга. Вашият оператор ще ви таксува за това съобщение.</string>
+    <string name="sync_sub_1_intl_sms">Може да е необходимо изпращане на международно SMS съобщение за активиране на тази услуга. Вашият оператор ще ви таксува за това съобщение.</string>
+    <string name="sync_sub_2_sms">За активиране на тази услуга може да е неоходимо изпращането на 2 SMS съобщения. Вашият оператор ще ви таксува за тези съобщения.</string>
+    <string name="sync_sub_2_intl_sms">За активиране на тази услуга може да е неоходимо изпращането на 2 SMS съобщения. Вашият оператор ще ви таксува за тези съобщения.</string>
+    <string name="sync_sub_1_sms_1_intl_sms">Може да се наложи изпращане на 1 вътрешно и 1 международно SMS съобщение, за да активирате тази услуга. Вашият оператор ще ви таксува за тези съобщения.</string>
+    <string name="micloud_all_sub_1_sms">Ще бъде изпратено нормално SMS съобщение, за да се активира вашата SIM карта. Ще бъдете таксувани от оператора.</string>
+    <string name="micloud_all_sub_1_intl_sms">Ще бъде изпратено международно SMS съобщение за активиране на вашата СИМ-карта. Ще бъдете таксувани от оператора.</string>
+    <string name="micloud_all_sub_2_sms">Ще бъдат изпратени 2 редовни текстови съобщения, за да се активира вашата SIM карта. Ще бъдете таксувани от оператора.</string>
+    <string name="micloud_all_sub_2_intl_sms">Ще бъдат изпратени 2 международни текстови съобщения, за да активирате вашата SIM карта. Ще бъдете таксувани от оператора.</string>
+    <string name="micloud_all_sub_1_sms_1_intl_sms">Ще бъдат изпратени 2 текстови съобщения (редовно и международно), за да активирате вашата SIM карта. Ще бъдете таксувани от оператора.</string>
+    <string name="micloud_all_sub_resend_sms">"Когато включите 'Открий устройството', може да бъде изпратен SMS за активиране след превключване на SIM картите."</string>
+    <string name="micloud_sync_prompt_for_no_gallery_sync">Синхронизирайте само контакти, събития в календара и бележки. За да синхронизирате още елементи, отидете на настройките на Xiaomi Облак.</string>
     <string name="sync_item_calllog_title">Синхронизиране на историята на повикванията</string>
     <string name="sync_item_calllog_summary">Синхронизирайте записите за осъществени и получени повиквания на този телефон</string>
     <string name="view_storage_title">Преглед на мястото в облака</string>
@@ -304,8 +304,8 @@
     <string name="micloud_detail_battery_low">Изтощена батерия</string>
     <string name="micloud_privacy_cloud_off">Синхронизиране изключено</string>
     <string name="micloud_privacy_licence_agreed">Съгласете се с &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;Политиката за поверителност&lt;/u&gt;&lt;/a&gt; на Xiaomi Облак.</string>
-    <string name="micloud_privacy_explanation">Активиране на Xiaomi Облак след активиране на разрешение</string>
-    <string name="micloud_privacy_cloud_sync">Активиране на Ми Облак</string>
+    <string name="micloud_privacy_explanation">Дайте разрешение за включване на услугите на Xiaomi Облак</string>
+    <string name="micloud_privacy_cloud_sync">Включете услугите на Xiaomi Облак</string>
     <string name="micloud_privacy_warning_title">Съвет</string>
     <string name="micloud_privacy_warning_content">Не може да се активира Xiaomi Облак. Опитайте по-късно.</string>
     <string name="micloud_privacy_warning_button">Назад</string>
@@ -578,7 +578,7 @@
     <string name="ks_update_fail_request_timeout">Времето за заявка изтече. Изчакайте малко и опитайте отново.</string>
     <string name="ks_update_fail_code">Не може да се изтегли сертификата. Код на грешка: %d</string>
     <string name="title_back">Назад</string>
-    <string name="reading_status">Зареждане на статус…</string>
+    <string name="reading_status">Зареждане на сътоянието…</string>
     <string name="reading_status_failure">Статусът не може да се зареди.</string>
     <string name="micloud_alert_dialog_negative">Отказ</string>
     <string name="micloud_alert_dialog_positive">ОК</string>
@@ -806,4 +806,6 @@
   <string name="cloud_storage_already_full">Облачното хранилище е пълно: %1$s/%2$s</string>
   <string name="cloud_storage_default_title">Облачно хранилище</string>
   <string name="cloud_storage_loading_data">Една секунда…</string>
+  <string name="micloud_privacy_licence_privacy_policy">Политика за поверителност</string>
+  <string name="micloud_privacy_progress_content">Предоставяне на разрешение…</string>
 </resources>
