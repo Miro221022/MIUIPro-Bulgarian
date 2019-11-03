@@ -621,7 +621,7 @@
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Презаредете след свързване с интернет</string>
   <string name="mw_miuichromium_error_page_suggestion_contact_admin">Свържете се със системния си администратор.</string>
   <string name="mw_miuichromium_error_page_suggestion_correct_url">Проверете въведения адрес и опитайте отново, като използвате правилния URL адрес.</string>
-  <string name="mw_miuichromium_error_page_suggestion_grant_permission">Reload after granting Browser permission to access the internet.</string>
+  <string name="mw_miuichromium_error_page_suggestion_grant_permission">Презареждане след като дадете на Браузър разрешение за достъп до интернет.</string>
   <string name="mw_miuichromium_error_page_suggestion_title">Опитайте това:</string>
   <string name="mw_miuichromium_error_page_title">Възникна грешка</string>
   <string name="mw_miuichromium_error_page_unknown_error">Ами сега, нещо се обърка</string>
@@ -632,12 +632,12 @@
   <string name="mw_opening_file_error">Неуспешно отваряне на избрания файл</string>
   <string name="mw_permission_alert_window">За да използвате функцията, моля, отворете системната опция показване на изскачащ прозорец.</string>
   <string name="mw_permission_unknown">Неизвестна опция</string>
-  <string name="mw_private_browsing_warning">This functionality is not supported in this version of Android.</string>
-  <string name="mw_profiler_error_toast">Failed to start profiler</string>
+  <string name="mw_private_browsing_warning">Тази функционалност не се поддържа в тази версия на Android.</string>
+  <string name="mw_profiler_error_toast">Неуспешно стартиране на профила</string>
   <string name="mw_profiler_no_storage_toast">Не може да стартира профилер, защото външното хранилище не е готово</string>
   <string name="mw_profiler_started_toast">Profiler стартира</string>
   <string name="mw_profiler_stopped_toast">Profiler завърши. Резултатите са в %1$s.</string>
-  <string name="mw_save_password_message">Искате ли браузърът да запомни тази парола?</string>
+  <string name="mw_save_password_message">Запомняне на паролата?</string>
   <string name="mw_save_password_never">Никога</string>
   <string name="mw_save_password_notnow">Не сега</string>
   <string name="mw_save_password_remember">Запомни</string>
@@ -670,7 +670,7 @@
   <string name="navigate_feedback_report_title">Причина за доклада</string>
   <string name="navigate_feedback_select_report_label">Изберете причината за доклада</string>
   <string name="navigate_feedback_submit">Изпращане</string>
-  <string name="navigation_delete_all">swipe left and right to close all tabs</string>
+  <string name="navigation_delete_all">Плъзнете наляво и надясно, за да затворите всички раздели</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Отказ</string>
   <string name="navigationbar_rightbutton_actiontext_go">Отиди</string>
   <string name="navigationbar_rightbutton_actiontext_search">Търсене</string>
@@ -698,7 +698,7 @@
   <string name="open_file_explorer_failed">Файлове не може да се отвори</string>
   <string name="open_voice_permission">Позволете на Микрофон да се свърже с интернет</string>
   <string name="page_hang_message">Текущата страница е забила и трябва да рестартирате браузъра си.</string>
-  <string name="page_hang_title">Страницата заби</string>
+  <string name="page_hang_title">Страницата е спря</string>
   <string name="page_info">Инф за страницата</string>
   <string name="page_info_address">Адрес:</string>
   <string name="page_info_view">Преглед на информацията</string>
@@ -873,7 +873,7 @@
   <string name="remove_history_item">Изтрий от история</string>
   <string name="remove_snapshot">Изтрий записаната страница</string>
   <string name="removed_from_bookmarks">Изтрито от отметките.</string>
-  <string name="reopen">Open</string>
+  <string name="reopen">Отвори</string>
   <string name="replace">Замени</string>
   <string name="reply_comment_title">Отговор: %s</string>
   <string name="resume_download">Старт</string>
@@ -935,7 +935,7 @@
   <string name="security_permission_desc_read_phone">Използва се за получаване на IMEI идентификацията на устройството за предоставяне на съответната услуга</string>
   <string name="security_permission_desc_storage">Използва се за четене и запис на файлове, също за запазване на снимки и за на функциите за качване или изтегляне на файлове</string>
   <string name="security_permission_main_purpose">Преглеждайте в мрежата, търсете информация, четете романи, гледайте видеоклипове и т.н.</string>
-  <string name="security_permission_message_location">За да използвате приложението то трябва да получи достъп до вашето местоположение, за да предостави съответните услуги. Ако не сте съгласни да дадете тези разрешения, приложението няма да работи правилно, но няма да повлияе на основната функционалност на приложението. Можете да оттеглите разрешенията по всяко време, като отидете в Настройки &gt; Разрешения и изберете да премахнете съответните разрешения.</string>
+  <string name="security_permission_message_location">За да използвате приложението то трябва да получи достъп до вашето местоположение, за да предостави съответните услуги. Ако не сте съгласни да предоставите тези разрешения, приложението няма да работи правилно, но няма да повлияе на основната функционалност на приложението. Можете да оттеглите разрешенията по всяко време, като отидете в Настройки &gt; Разрешения и изберете да премахнете съответните разрешения.</string>
   <string name="security_permission_negative_btn_location">Отказ</string>
   <string name="security_permission_positive_btn_location">Съгласявам се</string>
   <string name="security_permission_title_location">Даване на избраните разрешения</string>
@@ -1165,5 +1165,4 @@
   <string name="webpage_title">Отметки и история</string>
   <string name="wechat_not_installed">Wechat не е инсталирано</string>
   <string name="window_manager_hybrid_application_list_title_text">Последно използвани</string>
-  <string name="pref_content_simple_homepage">Опростена начална страница</string>
 </resources>

@@ -900,7 +900,7 @@
   <string name="notification_delete">Изтрий</string>
   <string name="dialog_smart_message_privacy_tips">Услугата Интелигентни Съобщения се предоставя частично от Dianhuabang. Преди да използвате Интелигентни Съобщения, трябва да се съгласите с \"%1$s\". Услугата трябва да се свърже с интернет и да получи достъп до местоположението ви, за да работи нормално. Съгласни ли сте?</string>
   <string name="dialog_smart_message_privacy_tips_title">Политика за поверителност на Dianhuabang</string>
-  <string name="pref_summary_privacy_authority">Превключвайте този превключвател, за да дадете или оттеглите разрешението си</string>
+  <string name="pref_summary_privacy_authority">Превключвайте този превключвател, за да предоставите или оттеглите разрешението си</string>
   <string name="pref_title_msg_blocked">Списък с блокирани</string>
   <string name="pref_title_privacy_authority">Оторизация</string>
   <string name="pref_title_privacy_policy_detail">Политика за поверителност</string>

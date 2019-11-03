@@ -151,7 +151,7 @@
   <string name="mark_number_custom_mark_deleted">Информацията за отбелязването е премахната</string>
   <string name="mark_number_delete_confirm_message">Премахване на информацията за отбелязването %s?</string>
   <string name="mark_number_delete_confirm_title">Премахване на информацията за отбелязването</string>
-  <string name="mark_number_dialog_default_sub_title">Тази информация ще бъде качена на нашите сървъри</string>
+  <string name="mark_number_dialog_default_sub_title">Тази информация ще бъде качена на сървърите ни</string>
   <string name="mark_number_dialog_maintitle">Маркиране на този телефонен номер</string>
   <string name="mark_number_dialog_subtitle">%1$s (отбелязано от %2$d души)</string>
   <string name="mark_number_feedback">Отбелязване</string>
