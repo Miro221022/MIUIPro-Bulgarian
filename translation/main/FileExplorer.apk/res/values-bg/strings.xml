@@ -29,7 +29,7 @@
   <string name="backup_title">Рез. копие на WeChat видео?</string>
   <string name="big5_summary">Стандартно китайско кодиране по подразбиране на Windows</string>
   <string name="big5_title">BIG5</string>
-  <string name="byteShort">б</string>
+  <string name="byteShort">Б</string>
   <string name="can_not_send_with_too_many">Не може да изпращате толкова много елементи</string>
   <string name="cancel">Отказ</string>
   <string name="cancel_error">Не може да се премахне, опитайте отново</string>
@@ -171,7 +171,7 @@
   <string name="function_use_imei">"За достъп до IMEI и криптиране на файлове; "</string>
   <string name="gbk_summary">Опростено китайско кодиране по подразбиране за Windows</string>
   <string name="gbk_title">GBK</string>
-  <string name="gigabyteShort">Гб</string>
+  <string name="gigabyteShort">ГБ</string>
   <string name="grid_mode">Изглед в мрежа</string>
   <string name="group_title">%2$s от %1$s</string>
   <string name="group_title_extra_backup">Резервни копия</string>
@@ -191,7 +191,7 @@
   <string name="instruction_pre_pad">Докоснете за стартиране на FTP сървър</string>
   <string name="instruction_pre_phone">Докоснете за стартиране на FTP сървър</string>
   <string name="just_now">Току-що</string>
-  <string name="kilobyteShort">Кб</string>
+  <string name="kilobyteShort">КБ</string>
   <string name="list_mode">Изглед като списък</string>
   <string name="load_more">Виж повече</string>
   <string name="loading">Зареждане…</string>
@@ -202,7 +202,7 @@
   <string name="make_private_msg_1">Скриване на този файл?</string>
   <string name="make_private_msg_2">Скриване на тези файлове?</string>
   <string name="make_private_msg_3">Всички файлове в тази папка ще бъдат скрити.</string>
-  <string name="megabyteShort">Мб</string>
+  <string name="megabyteShort">МБ</string>
   <string name="menu_item_cleanup">Почистване</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_midrop">Mi Drop</string>
@@ -290,7 +290,7 @@
   <string name="path_name_email">Поща</string>
   <string name="permission_denial">Няма достъп до файловете. Рзарешете на Файлов мениджър достъп до файлове в Настройки.</string>
   <string name="permission_required">Няма достъп до файловете. Рзарешете на Файлов мениджър достъп до файлове в Настройки.</string>
-  <string name="petabyteShort">Пб</string>
+  <string name="petabyteShort">ПБ</string>
   <string name="phone">Телефон</string>
   <string name="phone_storage">Хранилище</string>
   <string name="phone_storage_apk_title">Приложения: </string>
@@ -386,7 +386,7 @@
   <string name="tab_local">Локално</string>
   <string name="tab_more">още</string>
   <string name="tab_source">ПРИЛОЖЕНИЯ</string>
-  <string name="terabyteShort">Тб</string>
+  <string name="terabyteShort">ТБ</string>
   <string name="text_select_all">Избери на всички</string>
   <string name="text_select_nothing">Откажи всички</string>
   <string name="tip">Внимание</string>

@@ -293,7 +293,7 @@
   <string name="invalid_private_contact">Невалиден частен контакт</string>
   <string name="invalid_recipient_message">Коригирайте получателите или съобщението няма да може да се достави.</string>
   <string name="is_composing">Пише се…</string>
-  <string name="kilobyte">Кб</string>
+  <string name="kilobyte">КБ</string>
   <string name="layout_selector_title">"Слайдшоу оформление "</string>
   <string name="loading_all_messages">Зареждане на всички съобщения…</string>
   <string name="loading_conversations">Зареждане на разговори…</string>
@@ -348,7 +348,7 @@
   <string name="messagelist_sender_self">Аз</string>
   <string name="messaging">Съобщения</string>
   <string name="mi_message_title">Mi Съобщение</string>
-  <string name="millionbyte">Мб</string>
+  <string name="millionbyte">МБ</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">Всички MMS с изключение на съобщенията, изпратени от оторизирани податели, ще бъдат блокирани. Оторизираните податели включват мрежови оператори, национални системи за резервации на железопътни превозни средства и т.н.</string>
   <string name="mms_block_alert_ok">Блокиране</string>
@@ -686,7 +686,7 @@
   <string name="restored_to_phone_memory">Възстановено</string>
   <string name="rms_audio_body">[Аудио]</string>
   <string name="rms_audio_file_duration_too_long">Не могат да се изпращат аудиофайлове с продължителност повече от 180 секунди</string>
-  <string name="rms_audio_file_length_too_large">Не могат да се изпращат аудиофайлове по-големи от %1$dМб</string>
+  <string name="rms_audio_file_length_too_large">Не могат да се изпращат аудиофайлове по-големи от %1$dМБ</string>
   <string name="rms_card_body">[Карта]</string>
   <string name="rms_cloud_file_body">[Облачен файл]</string>
   <string name="rms_editor_hints">Чат</string>
@@ -697,8 +697,8 @@
   <string name="rms_illegal_extension">Този формат на файла не споддържа</string>
   <string name="rms_image_body">[Изображение]</string>
   <string name="rms_location_body">[Местоположение]</string>
-  <string name="rms_normal_file_length_too_large">Не може да се изпращат файлове по-големи от %1$dМб</string>
-  <string name="rms_original_image_length_too_large">Не може да се изпращат оригинални изображения по-големи от %1$dМб</string>
+  <string name="rms_normal_file_length_too_large">Не може да се изпращат файлове по-големи от %1$dМБ</string>
+  <string name="rms_original_image_length_too_large">Не може да се изпращат оригинални изображения по-големи от %1$dМБ</string>
   <string name="rms_original_image_size_too_large">Това изображение е твърде голямо</string>
   <string name="rms_text_body">[Текст]</string>
   <string name="rms_vcard_body">[Контакт]</string>

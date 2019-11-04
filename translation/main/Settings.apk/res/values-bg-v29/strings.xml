@@ -497,7 +497,7 @@
   <string name="roaming_alert_title">Да се разреши ли роуминг на данни?</string>
   <string name="roaming_check_price_warning">За цени се обърнете към оператора си.</string>
   <string name="rom_total_size">Общ размер на ROM</string>
-  <string name="rx_link_speed">%1$d Мб/сек</string>
+  <string name="rx_link_speed">%1$d МБ/сек</string>
   <string name="rx_link_speed_label">Получавайте скорост на връзката:</string>
   <string name="rx_wifi_speed">Скорост на връзката за получав.</string>
   <string name="scanning_status_text_wifi_off_ble_off">Сканирането за Wi‑Fi и устройства с Bluetooth е изключено</string>

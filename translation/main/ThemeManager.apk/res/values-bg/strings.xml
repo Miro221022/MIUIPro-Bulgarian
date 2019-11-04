@@ -736,7 +736,7 @@
    <string name="theme_comment_dialog_cancel">Не сега</string>
    <string name="theme_comment_dialog_message">"Харесвате ли темата, която използвате сега? Ще се радваме на отзивите ви!"</string>
    <string name="version_update">Проверка за актуализации</string>
-   <string name="xiaomi_update_sdk_bytes_unit">%1$sб</string>
+   <string name="xiaomi_update_sdk_bytes_unit">%1$sБ</string>
    <string name="xiaomi_update_sdk_connect_download_manager_fail">Свързването на мениджъра за изтегляния е неуспешно, моля, проверете състоянието на мениджъра на изтеглянията в Управление на приложения.</string>
    <string name="xiaomi_update_sdk_dialog_message">"Въведена версия %1$s 
 Рзмер: %2$s"</string>
@@ -744,8 +744,8 @@
 Размер на делта актуализацията: %2$s"</string>
    <string name="xiaomi_update_sdk_dialog_title">%1$s актуализирай!</string>
    <string name="xiaomi_update_sdk_external_storage_unavailable">Хранилището не е налице, моля, проверете SD картата.</string>
-   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКб</string>
-   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМб</string>
+   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКБ</string>
+   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
    <string name="current_using_float_wallpaper_text">Прозрачно</string>
    <string name="enable_all_free_mode">Осребряване</string>
    <string name="enabling_all_free_mode">Осребряване…</string>

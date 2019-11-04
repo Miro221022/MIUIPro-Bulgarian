@@ -87,7 +87,7 @@
     <string name="miui_feedback_edit_toast_module_required">Изберете елемент</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Вашето описание трябва да бъде по-дълго</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Изберете категория</string>
-    <string name="miui_feedback_edit_toast_screenshot_too_large">"Не могат да се качват изображения или видеоклипове, по-големи от 100 Мб"</string>
+    <string name="miui_feedback_edit_toast_screenshot_too_large">"Не могат да се качват изображения или видеоклипове, по-големи от 100 МБ"</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Въведете име на приложението</string>
     <string name="miui_feedback_main_answer_title">"Има отговор на този въпрос"</string>
     <string name="miui_feedback_main_frequent_question_title">ЧЗВ</string>

@@ -286,8 +286,8 @@
   <string name="data_already_used">Използвани мобилни данни</string>
   <string name="data_charge">Предплатен пакет за мобилни данни</string>
   <string name="data_left">Оставащи мобилни данни</string>
-  <string name="data_unit_gb">Гб</string>
-  <string name="data_unit_mb">Мб</string>
+  <string name="data_unit_gb">ГБ</string>
+  <string name="data_unit_mb">МБ</string>
   <string name="date_time_set">Настрой</string>
   <string name="date_year_toggle">Добави година</string>
   <string name="default_ringtone">Тон за звънене по подразбиране</string>
@@ -1146,7 +1146,7 @@
   <string name="unknown_details_new_contact">Нов</string>
   <string name="update_sim_contact_photo_toast">Не може да се задават профилни снимки на контакти от SIM-картата</string>
   <string name="upgrade_in_progress">Списъкът с контакти се актуализира.</string>
-  <string name="upgrade_out_of_memory">Контактите са в процес на обновяване. \n\nПроцесът по надстройка изисква приблизително %s Мб на вътрешното хранилище.\n\nИзберете една от следните опции:</string>
+  <string name="upgrade_out_of_memory">Контактите са в процес на обновяване. \n\nПроцесът по надстройка изисква приблизително %s МБ на вътрешното хранилище.\n\nИзберете една от следните опции:</string>
   <string name="upgrade_out_of_memory_retry">Опитайте да обновите отново</string>
   <string name="upgrade_out_of_memory_uninstall">Деинсталирате някои от приложенията</string>
   <string name="use_photo_as_primary">Използвайте тази снимка</string>

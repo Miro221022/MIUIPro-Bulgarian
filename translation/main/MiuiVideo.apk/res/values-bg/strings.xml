@@ -378,8 +378,8 @@
   <string name="offline_pause">Изтеглянията са на пауза</string>
   <string name="offline_player">офлайн плеър</string>
   <string name="offline_setting">Настройки за възпроизвеждане</string>
-  <string name="offline_setting_mobile_net_limit_size1">1Гб</string>
-  <string name="offline_setting_mobile_net_limit_size2">500Мб</string>
+  <string name="offline_setting_mobile_net_limit_size1">1ГБ</string>
+  <string name="offline_setting_mobile_net_limit_size2">500МБ</string>
   <string name="offline_setting_mobile_net_limit_summary">Ограничаване използването на мобилни данни, след като размерът на изтеглените видеоклипове достигне определения лимит</string>
   <string name="offline_setting_mobile_net_limit_title">Ограничения за мобилни данни</string>
   <string name="offline_setting_mobile_net_limit_unlimited_title">Ограничения за мобилни данни (Неограничено)</string>

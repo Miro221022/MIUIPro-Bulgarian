@@ -40,25 +40,25 @@
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Изключено</item>
-        <item>64 Кб</item>
-        <item>256 Кб</item>
-        <item>1 Мб</item>
-        <item>4 Мб</item>
-        <item>16 Мб</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+        <item>4 МБ</item>
+        <item>16 МБ</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Изключено</item>
-        <item>64 Кб</item>
-        <item>256 Кб</item>
-        <item>1 Мб</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Изключено</item>
-        <item>Рег. буфер – 64 Кб</item>
-        <item>Рег. буфер – 256 Кб</item>
-        <item>Рег. буфер – 1 Мб</item>
-        <item>Рег. буфер – 4 Мб</item>
-        <item>Рег. буфер – 16 Мб</item>
+        <item>Рег. буфер – 64 КБ</item>
+        <item>Рег. буфер – 256 КБ</item>
+        <item>Рег. буфер – 1 МБ</item>
+        <item>Рег. буфер – 4 МБ</item>
+        <item>Рег. буфер – 16 МБ</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Анимацията е изключена</item>

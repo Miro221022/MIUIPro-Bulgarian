@@ -249,7 +249,7 @@
   <string name="download_percent">%d%%</string>
   <string name="download_processing">Изтегля се…</string>
   <string name="download_progress">%d%%</string>
-  <string name="download_progress_detail" formatted="false">%.1f Мб/%.1f Мб</string>
+  <string name="download_progress_detail" formatted="false">%.1f МБ/%.1f МБ</string>
   <string name="download_quality">Качество при изтегляне</string>
   <string name="download_quality_summary">Допълнителни настройки на песните, които сте изтеглили</string>
   <string name="download_queued">На опашка</string>
@@ -329,7 +329,7 @@
   <string name="exo_download_notification_channel_name">Изтегляния</string>
   <string name="exo_download_removing">Изтеглянията се премахват</string>
   <string name="exo_item_list">%1$s – %2$s</string>
-  <string name="exo_track_bitrate">%1$.2f Мб/сек</string>
+  <string name="exo_track_bitrate">%1$.2f МБ/сек</string>
   <string name="exo_track_mono">Моно</string>
   <string name="exo_track_resolution">%1$d × %2$d</string>
   <string name="exo_track_selection_auto">Автоматично</string>
@@ -368,11 +368,11 @@
   <string name="filter_by_folder">По папка</string>
   <string name="filter_by_folder_summary">Изберете папки за показване</string>
   <string name="filter_by_size">Филтриране по размер</string>
-  <string name="filter_by_size_max">%dМб</string>
-  <string name="filter_by_size_min">%dКб</string>
+  <string name="filter_by_size_max">%dМБ</string>
+  <string name="filter_by_size_min">%dКБ</string>
   <string name="filter_by_size_prefix">"Минимален размер: "</string>
   <string name="filter_by_size_summary">Скриване на малки аудио файлове</string>
-  <string name="filter_size_unit">%dКб</string>
+  <string name="filter_size_unit">%dКБ</string>
   <string name="floating_view_dialog_desc">Музиката ще спре да се изпълнява, ако излезете от тази страница. Излизане?</string>
   <string name="floating_view_dialog_leave">Излизане</string>
   <string name="floating_view_dialog_stay">Оставане</string>
@@ -857,12 +857,12 @@
   <string name="wifi_required_body" formatted="false">Свържете се с Wi-Fi, за да завършите това%sизтегляне.\n\nДокоснете%sза да стартирате това изтегляне следващия път, когато сте свързани с Wi-Fi мрежа.</string>
   <string name="wifi_required_title">Изтеглянето е прекалено дълго за използване на мобилни данни.</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$s Б</string>
-  <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-  <string name="xiaomi_update_sdk_dialog_message">Introducing version %1$s\nSize: %2$s</string>
-  <string name="xiaomi_update_sdk_dialog_message_diff">Introducing version %1$s\nDelta update size: %2$s</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Свързването на мениджъра за изтегляне не бе успешно, моля, проверете състоянието на мениджъра за изтегляне в Управлението на приложенията.</string>
+  <string name="xiaomi_update_sdk_dialog_message">Представяне на версия %1$s\nРазмер: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">Представяне на версия %1$s\nРазмер на актуализация: %2$s</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s актуализация!</string>
-  <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
-  <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Хранилището не е на разположение, моля, проверете SD картата.</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКБ</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
   <string name="you_can_switch_mode_in_settings">Можете да превключвате между режими от Настройки</string>
 </resources>

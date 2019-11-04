@@ -563,7 +563,7 @@
     <string name="new_main_activity_label">Mi Трансфер</string>
     <string name="new_trans_intro_desc_2">Отменете трансфера, излезте от Mi Трансфер и започнете отначало. Mi Трансфер ще може да започне трансфера от мястото, където е спрял.</string>
     <string name="new_trans_intro_desc_3">"Mi Трансфер използва Wi-Fi за прехвърляне на файлове. Ето защо не можете да се свържете с интернет с помощта на Wi-Fi на всяко устройство по време на прехвърляне."</string>
-    <string name="new_trans_intro_desc_4">Пространството за съхранение на старите устройства се използва за създаване на трансферни пакети. Уверете се, че разполагате с поне 2 Гб на разположение на старото си устройство, преди да започнете трансфер.</string>
+    <string name="new_trans_intro_desc_4">Пространството за съхранение на старите устройства се използва за създаване на трансферни пакети. Уверете се, че разполагате с поне 2 ГБ на разположение на старото си устройство, преди да започнете трансфер.</string>
     <string name="new_trans_intro_desc_5">Има няколко причини, поради които това може да се случи: проблеми със съвместимостта на системни версии и приложенията, проблеми с мрежата, проблеми със съвместимостта, специфични за конкретно устройство и т.н.</string>
     <string name="new_trans_intro_desc_6">Някои профили на приложения (електронно банкиране, финанси и др.) са свързани с конкретно устройство поради съображения за сигурност. Опитайте да изчистите данните от приложението или да го инсталирате отново на ново устройство.</string>
     <string name="new_trans_intro_desc_7">"Данните от приложението на WeChat и историята на чата може да не бъдат напълно прехвърлени с помощта на Mi Трансфер, ако сте влезли в WeChat по време на прехвърлянето. Отидете в настройките на WeChat и излезте от профила си, за да получите повече шансове за успешен трансфер."</string>
@@ -849,7 +849,7 @@
     <string name="wednesday_shortest">С</string>
     <string name="xiaomi_mobile">Mi Mobile</string>
     <string name="yesterday">Вчера</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sб</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$sБ</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Свързването на мениджъра за изтегляне не бе успешно, моля, проверете състоянието на мениджъра за изтегляне в Управлението на приложенията.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Представяне на версия %1$s
 Размер: %2$s"</string>
@@ -857,8 +857,8 @@
 Размер на делта актуализация: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s актуализация!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Хранилището не е на разположение, моля, проверете SD картата.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКб</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sМб</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
     <string name="chinese_day_1">初一</string>
     <string name="chinese_day_10">初十</string>
     <string name="chinese_day_11">十一</string>
@@ -899,13 +899,13 @@
     <string name="fmt_chinese_date">N月e</string>
     <string name="permdesc_sendSmsNoConfirmation">Приложението може да изпраща SMS съобщения, без да иска вашето разрешение. Вашият оператор може да ви таксува за тези съобщения.</string>
     <string name="permlab_sendSmsNoConfirmation">Разрешаване на SMS съобщения във фонов режим</string>
-    <string name="size_byte">б</string>
-    <string name="size_giga_byte">Гб</string>
-    <string name="size_kilo_byte">Кб</string>
-    <string name="size_mega_byte">Мб</string>
-    <string name="size_peta_byte">Пб</string>
+    <string name="size_byte">Б</string>
+    <string name="size_giga_byte">ГБ</string>
+    <string name="size_kilo_byte">КБ</string>
+    <string name="size_mega_byte">МБ</string>
+    <string name="size_peta_byte">ПБ</string>
     <string name="size_suffix">%1$s%2$s</string>
-    <string name="size_tera_byte">Тб</string>
+    <string name="size_tera_byte">ТБ</string>
 	<string name="dialog_forbidden_use_tips">"В момента Mi Трансфер не поддържа прехвърляне на данни към или от таблети."</string>
     <string name="close_vpn_summary">Изглежда, че вашето устройство е свързано към VPN в момента. Изключете VPN, за да можете да се свържете с други устройства.</string>
     <string name="close_vpn_title">Изключи VPN</string>
