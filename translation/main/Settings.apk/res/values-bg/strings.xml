@@ -6481,7 +6481,7 @@ OTG се изключва автоматично след 10 минути без
 Тази функция може да бъде изключена в Настройки."</string>
     <string name="bt_lhdc_dialog_title">Текущото устройство поддържа LHDC, който е свързан по подразбиране:</string>
     <string name="bt_lhdc_open_dialog_summary">LHDC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. Възможно е да възникнат проблеми по време на възпроизвеждане поради ограниченията на Bluetooth устройството.</string>
-    <string name="bt_lhdc_open_dialog_title">Turn on LHDC?</string>
+    <string name="bt_lhdc_open_dialog_title">Включване на LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Атрибути</string>
 	<string name="mi_transfer">Mi Трансфер</string>
@@ -6618,4 +6618,5 @@ OTG се изключва автоматично след 10 минути без
      <string name="screen_fps_unit_smooth">%dХц (по-добро качество)</string>
      <string name="unlock_type_category_title">Метод за разпознаване</string>
      <string name="wellbing_title">Цифрово благополучие и родителски контрол</string>
+	 <string name="xiaomi_cloud_find_device">Открий устройството</string>
 </resources>

@@ -1608,7 +1608,7 @@
   <string name="wifi_display_certification_summary">Показване на опциите за сертифициране на безжичен дисплей</string>
   <string name="wifi_fail_to_scan">Не може да се сканира за мрежи</string>
   <string name="wifi_is_off">WLAN е изключена</string>
-  <string name="wifi_no_internet">Няма интернет достъп, без автоматично повторно свързване.</string>
+  <string name="wifi_no_internet">"Не може да се свърже с интернет"</string>
   <string name="wifi_no_internet_no_reconnect">Не може да се свърже с интернет</string>
   <string name="wifi_not_in_range">Извън обхват</string>
   <string name="wifi_remembered">Запазено</string>
@@ -1876,4 +1876,5 @@
    <string name="gxzw_quick_close">Затвори</string>
    <string name="gxzw_quick_open_title">Отворено меню с преки пътища</string>
    <string name="empty_title">" "</string>
+   <string name="quick_settings_sim_disabled">(Деактивирано)</string>
 </resources>

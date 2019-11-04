@@ -1180,4 +1180,9 @@
     <string name="sync_calendra_fail_per_content">Докоснете, за да разрешите достъп до календара</string>
     <string name="sync_calendra_fail_per_title">"Календарът не може да се синхронизира"</string>
     <string name="sync_calendra_fail_permission">"Календарът не може да се синхронизира, позволете на Поща да осъществява достъп до календара ви в „Настройки“"</string>
+    <string name="account_setup_options_mail_check_frequency_15min">На всеки 15 мниути</string>
+	<string name="login_err_sina_message">%1$sМоже да се нуждаете и от код за потвърждение, за да се впишете. Ако трябва да нулирате паролата си, посетете https://mail.sina.com.cn/ за да видите наличните опции..</string>
+    <string name="user_privacy_settings_path">Съвет: Можете да оттеглите разрешението си в настройките за поверителност на потребителя, настройка - настройки за поверителност на потребителя.</string>
+    <string name="user_privacy_settings_summary">Ние ще получим вашия Android ID (криптиран като вашия уникален идентификационен номер на потребител с помощта на MI Mail) или отчет за операции. Имате право да оттеглите разрешението си по всяко време чрез настройки за поверителност на потребителя.</string>
+    <string name="user_privacy_settings_title">Напомняне за правата за поверителност на MI Mail</string>
 </resources>
