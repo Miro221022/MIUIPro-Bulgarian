@@ -482,7 +482,7 @@
   <string name="restart_action">Рестарт</string>
   <string name="restart_phone_bind_message">Получаването на съобщението отнема известно време, искате ли да промените телефонният номер?</string>
   <string name="restart_phone_bind_title">Промяна на телефонен номер</string>
-  <string name="same_new_and_old_pwd">Не може да бъде същата като текущата парола</string>
+  <string name="same_new_and_old_pwd">Новата парола трябва да е различна от старата</string>
   <string name="scan_barcode_title">За да се впишете в Mi профила си, сканирайте QR кодът</string>
   <string name="search_account_security">Сигурност на профила</string>
   <string name="search_account_security_desc">Настройки на профила</string>
@@ -541,4 +541,6 @@
   <string name="vip_settings_info">VIP настройки</string>
   <string name="weixin">WeChat</string>
   <string name="xiao_mi_vip">Mi VIP</string>
+  <string name="pwd_width_phone_number_or_mail_num">"Паролата не може да съдържа вашия телефонен номер, имейл или идентификационен номер на Mi профила"</string>
+  <string name="risky_pwd_not_allow">"Новата парола не е сигурна. Задайте друга."</string>
 </resources>

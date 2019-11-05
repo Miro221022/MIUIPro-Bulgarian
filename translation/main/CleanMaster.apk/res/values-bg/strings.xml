@@ -603,4 +603,26 @@
   <string name="wqfile_group_chat_voice">Гласови съобщения</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Вчера</string>
+     <string name="dc_activity_title">Дълбоко почистване</string>
+     <string name="dc_advise_delete">Освобождаване на място</string>
+     <string name="dc_group_title_appclean">Приложения</string>
+     <string name="dc_header_can_clean">Може да бъде почистено</string>
+     <string name="dc_header_can_not_clean">Заето</string>
+     <string name="dc_header_used_space_text">Заето хранилище</string>
+     <string name="dc_item_summary_wechat_chat">Изчистете историята на чатовете, за да освободите място</string>
+     <string name="dc_item_title_apk">Изтриване на инсталационни пакети</string>
+     <string name="dc_item_title_app_data">Изчистване на данните на приложенията</string>
+     <string name="dc_item_title_image">Изтриване на снимки</string>
+     <string name="dc_item_title_large_file">Изтриване на големи файлове</string>
+     <string name="dc_item_title_qq">QQ почистване</string>
+     <string name="dc_item_title_uninstall_app">Деинсталиране на приложения</string>
+     <string name="dc_item_title_video">Изтриване на видеоклипове</string>
+     <string name="dc_item_title_wechat">WeChat почистване</string>
+     <string name="dc_item_title_wechat_chat">Почистване на историята на WeChat</string>
+     <string name="dc_storage_cleaned">Освободено %s</string>
+     <string name="dc_storage_info">Налично %1$s | Общо %2$s</string>
+     <string name="guide_dc_dialog_message">"Остават по-малко от 2 ГБ свободно пространство в хранилището. Това може да забави устройството ви. Извършете дълбоко почистване, за да освободите място."</string>
+     <string name="guide_dc_dialog_negative">Отказ</string>
+     <string name="guide_dc_dialog_positive">OK</string>
+     <string name="guide_dc_dialog_title">Мястото в хранилището намалява</string>
 </resources>

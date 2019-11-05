@@ -104,4 +104,32 @@
     <item quantity="other">Изтриване на %1$d елемента?</item>
     <item quantity="one">Изтриване на %1$d елемент?</item>
   </plurals>
+       <plurals name="dc_group_title_normal">
+         <item quantity="other">Направете %1$d стъпки, за да освободите %2$s</item>
+         <item quantity="one">Направете %1$d стъпка, за да освободите %2$s</item>
+     </plurals>
+     <plurals name="dc_item_summary_apk">
+         <item quantity="other">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; инсталационни пакета</item>
+         <item quantity="one">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; инсталационен пакет</item>
+     </plurals>
+     <plurals name="dc_item_summary_app_data">
+         <item quantity="other">Можете да изчистите данните за &lt;font color=#0097FF&gt;%d&lt;/font&gt; приложения</item>
+         <item quantity="one">Можете да изчистите данните за &lt;font color=#0097FF&gt;%d&lt;/font&gt; приложение</item>
+     </plurals>
+     <plurals name="dc_item_summary_image">
+         <item quantity="other">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; ненужни снимки</item>
+         <item quantity="one">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; ненужна снимка</item>
+     </plurals>
+     <plurals name="dc_item_summary_large_file">
+         <item quantity="other">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; големи файла</item>
+         <item quantity="one">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; голям файл</item>
+     </plurals>
+     <plurals name="dc_item_summary_uninstall_app">
+         <item quantity="other">Можете да деинсталирате &lt;font color=#0097FF&gt;%d&lt;/font&gt; рядко използвани приложения</item>
+         <item quantity="one">Можете да деинсталирате &lt;font color=#0097FF&gt;%d&lt;/font&gt; рядко използвано приложение</item>
+     </plurals>
+     <plurals name="dc_item_summary_video">
+         <item quantity="other">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; видеоклипа</item>
+         <item quantity="one">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; видеоклип</item>
+     </plurals>
 </resources>
