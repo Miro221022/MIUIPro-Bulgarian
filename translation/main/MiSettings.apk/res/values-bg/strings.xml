@@ -139,16 +139,16 @@
     <string name="usage_state_focus_take_photo">Камера</string>
     <string name="usage_state_focus_warning_text">Съсредоточете се върху нещо важно</string>
     <string name="usage_state_focus_weak_summary">Оставете телефона си на разстояние</string>
-    <string name="usage_state_open_focus_mode">Включване на Режим съсредоточеност</string>
+    <string name="usage_state_open_focus_mode">Включване на режим Съсредоточеност</string>
     <string name="usage_state_running_days">Продължителност (дни)</string>
     <string name="usage_state_statistic_data">Статистика</string>
     <string name="usage_state_turn_on">Включване</string>
-	<string name="abc_action_bar_home_description">Navigate home</string>
-    <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">More options</string>
-    <string name="abc_action_mode_done">Done</string>
-    <string name="abc_activity_chooser_view_see_all">See all</string>
-    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+	<string name="abc_action_bar_home_description">Към начален екран</string>
+    <string name="abc_action_bar_up_description">Придвижване нагоре</string>
+    <string name="abc_action_menu_overflow_description">Още опции</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Виж всички</string>
+    <string name="abc_activitychooserview_choose_application">Изберете приложение</string>
     <string name="abc_capital_off">ИЗКЛ</string>
     <string name="abc_capital_on">ВКЛ</string>
     <string name="abc_search_hint">Търсене…</string>
@@ -163,10 +163,10 @@
     <string name="search_menu_title">Търсене</string>
     <string name="usage_beat_fans">По-добре от %s Mi фенове</string>
     <string name="usage_continuous_days">Дни</string>
-    <string name="usage_focus_focus_premission_main_summary">Това приложение трябва да има достъп до информацията за вашият профил, за да запише данните за използването на Режим концентрация.</string>
+    <string name="usage_focus_focus_premission_main_summary">Това приложение трябва да има достъп до информацията за вашият профил, за да запише данните за използването на режим Съсредоточеност.</string>
     <string name="usage_focus_focus_premission_second_summary">"Ако не сте съгласни да предоставите тези разрешения, няма да можете да използвате някои функции на това приложение; но все пак основната му функционалност обаче ще бъде достъпна за вас. Винаги можете да оттеглите разрешенията или да отмените оторизацията в Настройки."</string>
     <string name="usage_focus_save_success">Успешно запазено в галерията</string>
-    <string name="usage_focus_summary_level1">Отделянето на няколко минути да останете концентрирани е лесно</string>
+    <string name="usage_focus_summary_level1">Отделянето на няколко минути да останете съсредоточени е лесно</string>
     <string name="usage_focus_summary_level2">Концентрацията може да се превърне в ежедневие.</string>
     <string name="usage_focus_summary_level3">Бъдете спокойни, избягвайте смущения.</string>
     <string name="usage_focus_summary_level4">Ако останете съсредоточени това ще ви помогне да откриете по-добра версия на себе си.</string>
@@ -175,8 +175,8 @@
     <string name="usage_focus_title_level2">Изградете свои навици</string>
     <string name="usage_focus_title_level3">Издигнете се над околното</string>
     <string name="usage_focus_title_level4">Намерете радост в постоянството</string>
-    <string name="usage_focus_title_level5">Останете концентрирани</string>
-    <string name="usage_home_premission_main_summary">"Добре дошли в Екранно време! Можете да използвате това приложение за задаване на ограничения на времето за ползване на екрана, преглед на статистиките и преминаване към режим Концентрация. Това приложение трябва да събира информация за екранното време (например колко пъти отключвате телефона си и включвате екрана, както и за колко време използвате приложенията), за да работи нормално."</string>
+    <string name="usage_focus_title_level5">Останете съсредоточени</string>
+    <string name="usage_home_premission_main_summary">"Добре дошли в Екранно време! Можете да използвате това приложение за задаване на ограничения на времето за ползване на екрана, преглед на статистиките и преминаване към режим Съсредоточеност. Това приложение трябва да събира информация за екранното време (например колко пъти отключвате телефона си и включвате екрана, както и за колко време използвате приложенията), за да работи нормално."</string>
     <string name="usage_home_premission_second_summary">За да може да работи нормално, това приложение трябва да събира личната ви информация. Ние ще защитаваме вашата лична информация в съгласно съответните закони, разпоредби и политики за поверителност.</string>
     <string name="usage_state_addup_time">Всички сесии</string>
     <string name="usage_state_download">Запазване в галерията</string>
@@ -198,5 +198,5 @@
     <string name="stop_app_timer_success">Функцията за екранно време е деактивирана</string>
     <string name="stop_app_timer_tip">След деактивиране, данните, свързани с функцията на екрана и дадените разрешения ще бъдат изчистени, включително елементи за настройка, местни данни, данни в облака и т.н..​</string>
     <string name="wait_tip">Моля изчакайте...</string>
-	<string name="focus_time_exception_tip">Изглежда, че системното време е променено. Режимът за концентрация е изключен.</string>
+	<string name="focus_time_exception_tip">Изглежда, че системното време е променено. Режимът за съсредоточаване е изключен.</string>
 </resources>
