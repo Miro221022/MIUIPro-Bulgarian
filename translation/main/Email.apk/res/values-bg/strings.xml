@@ -966,7 +966,7 @@
   <string name="ser_resp_err_map_nouser">Потребителят не съществува</string>
   <string name="ser_resp_err_map_or">%1$s или %2$s</string>
   <string name="ser_resp_err_map_pserr">Неправилно потребителско име или парола</string>
-  <string name="ser_resp_err_map_serclosed">%s сървър е затворен</string>
+  <string name="ser_resp_err_map_serclosed">%s сървъра е затворен</string>
   <string name="ser_resp_err_map_ssl">Изберете \"SSL/TLS (приемам всички сертификати)\" във \"Вид защита\"</string>
   <string name="service_protocol_discribe">&lt;u&gt;Прочетох и съм съгласен с WPS Mail Service Agreement&lt;/u&gt;</string>
   <string name="service_protocol_title">Споразумение за обслужване</string>

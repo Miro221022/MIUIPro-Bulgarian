@@ -284,4 +284,22 @@
 	<string name="q_version_location_provider_btn_text">Включете достъпа до местоположението и подобрете точността на местоположението</string>
 	<string name="refresh_empty_data">"Данните не могат да се заредят. Изчакайте минута или две и опитайте отново."</string>
 	<string name="view_indexes_item_day_after_tommorrow">След 2 дни</string>
+    <string name="accessibility_ad_close">Затворете препоръчаното съдържание</string>
+    <string name="accessibility_webview_share">Споделяне</string>
+	<string name="aqi_detail_co">CO</string>
+	<string name="aqi_detail_no2">NO₂</string>
+    <string name="aqi_detail_o3">O₃</string>
+    <string name="aqi_detail_pm10">PM10</string>
+    <string name="aqi_detail_pm25">PM2.5</string>
+    <string name="aqi_detail_so2">SO₂</string>
+	<string name="aqi_sub_desc">ИКВ</string>
+	<string name="card_item_ad_text">Реклама</string>
+	<string name="clear_net_mock_success">Net mock clear success</string>
+	<string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
+    <string name="data_source_timezone">Часова зона%1$s</string>
+	<string name="hour_minute_time_format">HH:mm</string>
+	<string name="index_item_download_pause">Продължаване на изтеглянето</string>
+	<string name="indices_desc_pressure">%1$sмб</string>
+	<string name="weather_list_info">Информация</string>
+    <string name="weather_list_title">Подробности за времето</string>
 </resources>
