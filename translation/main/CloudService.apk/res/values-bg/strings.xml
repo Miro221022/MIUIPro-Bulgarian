@@ -488,7 +488,7 @@
     <string name="micloud_find_device_guide_fail_reopen">Можете да включите Открий устройство в своя Mi профил - Xiaomi Облак</string>
     <string name="micloud_find_device_guide_fail_sub_net">Проверете връзката си и опитайте отново.</string>
     <string name="micloud_find_device_guide_fail_sub_timeout">Времето за свързване изтече. Опитайте отново по-късно.</string>
-    <string name="micloud_find_device_guide_noti_title">Включване на Открий устройството</string>
+    <string name="micloud_find_device_guide_noti_title">Включете Открий устройството</string>
     <string name="micloud_find_device_guide_noti_content">Включване</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat препоръчва да включите Открий устройството</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Your WeChat data will be safe even if you lose your device</string>

@@ -3973,9 +3973,9 @@
     <string name="current_zone">(текуща)</string>
     <string name="security_privacy_settings_title">Поверителност</string>
     <string name="nearby_wifi">Налични мрежи</string>
-    <string name="delete_saved_network">Изтрий запазените мрежи</string>
-    <string name="batch_delete_saved_network">Изтриване на запазените мрежи %s?</string>
-    <string name="batch_delete_saved_networks">Изтриване на избраните мрежи</string>
+    <string name="delete_saved_network">Изтриване на запазените мрежи</string>
+    <string name="batch_delete_saved_network">Изтриване на избраната мрежа: %s?</string>
+    <string name="batch_delete_saved_networks">Изтриване на всички избрани мрежи</string>
     <string name="unlock_set_enter_system">Прескочи заключен екран</string>
     <string name="unlock_set_enter_system_summary">Заключването на екрана няма да се използва след включване на тази функция</string>
     <string name="forget_wifi_message">Вашето устройство ще спре да се свързва автоматично към тази мрежа.</string>
@@ -4048,7 +4048,7 @@
     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Въведете името на потребителския сертификат</string>
     <string name="wifi_wapi_cert_mgmt_user_dont_exist">Въведете името на потребителския сертификат</string>
     <string name="wifi_context_menu_connect">Свързване с мрежа</string>
-    <string name="wifi_context_menu_forget">Забравяне на мрежа</string>
+    <string name="wifi_context_menu_forget">Забравяне</string>
     <string name="wifi_context_menu_change_password">Промяна на паролата</string>
     <string name="wifi_context_menu_change_wapi_certificate">Промени WAPI сертификата</string>
     <string name="wifi_info_reconnect">Неуспешно свързване, моля опитайте отново!</string>
