@@ -47,4 +47,44 @@
     <item quantity="other">%d минути остават</item>
     <item quantity="one">%d минута остава</item>
   </plurals>
+      <plurals name="hot_word_hot_count">
+        <item quantity="other">%d преглеждания</item>
+        <item quantity="one">%d преглед</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Намерени са %d нови елемента за вас</item>
+        <item quantity="one">Намерен е %d нов елемент за вас</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s коментара</item>
+        <item quantity="one">%s коментар</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d изображения</item>
+        <item quantity="one">%d изображение</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%s преглеждания</item>
+        <item quantity="one">%s преглед</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s коментара</item>
+        <item quantity="one">%1$s | %2$s коментар</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d души вече са гласували</item>
+        <item quantity="one">%d човек вече е гласувал</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· преди %s часа</item>
+        <item quantity="one">· преди %s час</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· преди %s минути</item>
+        <item quantity="one">· преди %s минута</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d отговора в Zhihu</item>
+        <item quantity="one">%d отговор в Zhihu</item>
+    </plurals>
 </resources>

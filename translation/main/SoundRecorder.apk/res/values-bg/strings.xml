@@ -300,4 +300,6 @@
   <string name="online_recognize_progress">Записва се %s…</string>
   <string name="search_empty">"Не са намерени резултати"</string>
   <string name="search_hint">Търсене</string>
+  <string name="cancel_rename">Отказ</string>
+  <string name="loading_more">Една секунда…</string>
 </resources>
