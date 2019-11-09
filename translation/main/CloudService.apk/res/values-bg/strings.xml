@@ -322,8 +322,8 @@
     <string name="micloud_setting_wifi_summary">WLAN настройки</string>
     <string name="micloud_setting_deskclock_summary">Настройки на часовници</string>
     <string name="micloud_setting_antispam_summary">Изключения и блокирани телефонни номера</string>
-    <string name="upgrade_space_gb">Гб</string>
-    <string name="upgrade_space_tb">Тб</string>
+    <string name="upgrade_space_gb">ГБ</string>
+    <string name="upgrade_space_tb">ТБ</string>
     <string name="upgrade_space_mibipreyear">%s MiКредити на година</string>
     <string name="get_this_month_gb">Вземете безплатно %s този месец</string>
     <string name="get_first_month_gb">Вземете безплатно %s при първо вписване</string>
@@ -336,19 +336,19 @@
     <string name="apple_cloud_eng">iCloud</string>
     <string name="google_cloud_eng">Google Диск</string>
     <string name="microsoft_cloud_eng">One Drive</string>
-    <string name="apple_10gb">20 Гб</string>
-    <string name="google_100gb">100 Гб</string>
+    <string name="apple_10gb">20 ГБ</string>
+    <string name="google_100gb">100 ГБ</string>
     <string name="apple_cloud_price">Около 18лв. на година</string>
     <string name="google_cloud_price">Около 36лв. на година</string>
     <string name="microsoft_cloud_price">Около 20лв. на година</string>
     <string name="upgrade_space">Добави място</string>
-    <string name="upgrade_space_successful">Добавихте успешно %s Гб</string>
-    <string name="upgrade_space_successful_total">Общо хранилището е вече %s Гб</string>
+    <string name="upgrade_space_successful">Добавихте успешно %s ГБ</string>
+    <string name="upgrade_space_successful_total">Общо хранилището е вече %s ГБ</string>
     <string name="free_space_has_received">Вече сте получили безплатно място този месец</string>
     <string name="free_space_receive_fail">Не може да се надгради или вече е надградено</string>
     <string name="buy_space_sulotion_title">Хранилище в облак</string>
     <string name="buy_space_sulotion_renew_title">Изберете начин за подновяване</string>
-    <string name="buy_space_sulotion_message">Ще купите %s Гб място</string>
+    <string name="buy_space_sulotion_message">Ще купите %s ГБ място</string>
     <string name="buy_space_sulotion_renew_message">Валидно до %s</string>
     <string name="buy_space_sulotion_auto_renew">Автоматично подновяване</string>
     <string name="buy_space_sulotion_not_auto_renew">Без автоматично подновяване</string>
@@ -687,8 +687,8 @@
   <string name="provision_sync_items_loading">Подготовка за синхронизиране на елементи</string>
   <string name="user_detail_agreement">Потребителско споразумение</string>
   <string name="user_detail_privacy_policy">Политика за поверителност</string>
-  <string name="micloud_storage_unit_mb">%sМб</string>
-  <string name="micloud_storage_unit_gb">%sГб</string>
+  <string name="micloud_storage_unit_mb">%sМБ</string>
+  <string name="micloud_storage_unit_gb">%sГБ</string>
   <string name="find_device_gdpr_prompt">Чрез включването на Открий устройството, вие се съгласявате с нашата <u><a href="app://com.miui.cloudservice.gdpr.license">Политика за поверителност</a></u>. Ако трябва да отмените оторизацията, изключете тази функция.</string>
   <string name="micloud_request_sync_too_frequent">Твърде много заявки. Изчакайте минута или две и опитайте отново.</string>
   <string name="waiting_for_sync">Изчакване…</string>

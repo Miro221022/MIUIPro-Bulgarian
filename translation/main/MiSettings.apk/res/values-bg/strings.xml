@@ -133,8 +133,8 @@
     <string name="usage_state_focus_mode_summary1">Добре започнато е наполовина свършено</string>
     <string name="usage_state_focus_mode_summary2">Останете съсредоточени</string>
     <string name="usage_state_focus_mode_summary3">Необходими са усилия, за да останете съсредоточени</string>
-    <string name="usage_state_focus_mode_title">Режим съсредоточеност</string>
-    <string name="usage_state_focus_mode_warning_message">"Режимът на съсредоточеност позволява само използване на камера и извършване на спешни повиквания. Няма да можете да изключите режима на съсредоточеност преждевременно."</string>
+    <string name="usage_state_focus_mode_title">Режим Съсредоточеност</string>
+    <string name="usage_state_focus_mode_warning_message">"Режимът на съсредоточеност позволява единствено използване на камерата и извършване на спешни повиквания. Няма да можете да го изключите преждевременно."</string>
     <string name="usage_state_focus_mode_warning_title">Внимание</string>
     <string name="usage_state_focus_take_photo">Камера</string>
     <string name="usage_state_focus_warning_text">Съсредоточете се върху нещо важно</string>
@@ -164,7 +164,7 @@
     <string name="usage_beat_fans">По-добре от %s Mi фенове</string>
     <string name="usage_continuous_days">Дни</string>
     <string name="usage_focus_focus_premission_main_summary">Това приложение трябва да има достъп до информацията за вашият профил, за да запише данните за използването на режим Съсредоточеност.</string>
-    <string name="usage_focus_focus_premission_second_summary">"Ако не сте съгласни да предоставите тези разрешения, няма да можете да използвате някои функции на това приложение; но все пак основната му функционалност обаче ще бъде достъпна за вас. Винаги можете да оттеглите разрешенията или да отмените оторизацията в Настройки."</string>
+    <string name="usage_focus_focus_premission_second_summary">"Ако не сте съгласни да предоставите тези разрешения, няма да можете да използвате някои функции на това приложение, но все пак основната му функционалност обаче ще бъде достъпна за вас. Винаги можете да оттеглите разрешенията или да отмените оторизацията в Настройки."</string>
     <string name="usage_focus_save_success">Успешно запазено в галерията</string>
     <string name="usage_focus_summary_level1">Отделянето на няколко минути да останете съсредоточени е лесно</string>
     <string name="usage_focus_summary_level2">Концентрацията може да се превърне в ежедневие.</string>
@@ -193,10 +193,26 @@
     <string name="usage_total_times">Общо сесии</string>
     <string name="network_error">Грешка в мрежовата връзка, моля опитайте отново</string>
     <string name="retry">Повторен опит</string>
-    <string name="stop_app_timer">Деактивиране на функцията за екранно време</string>
+    <string name="stop_app_timer">Изключване на функцията</string>
     <string name="stop_app_timer_fail">Деактивирането на функцията за екранно време не бе успешно</string>
     <string name="stop_app_timer_success">Функцията за екранно време е деактивирана</string>
     <string name="stop_app_timer_tip">След деактивиране, данните, свързани с функцията на екрана и дадените разрешения ще бъдат изчистени, включително елементи за настройка, местни данни, данни в облака и т.н..​</string>
     <string name="wait_tip">Моля изчакайте...</string>
 	<string name="focus_time_exception_tip">Изглежда, че системното време е променено. Режимът за съсредоточаване е изключен.</string>
+	<string name="category_other">Други</string>
+    <string name="first_unlock_time">Първо отключване:</string>
+    <string name="most_unlock_week_day">解锁次数最多:</string>
+    <string name="several_days_use_time">%2$s е използвано приблизително %1$d дни</string>
+    <string name="today_usage_title">"Днешна статистика"</string>
+    <string name="today_use_time">Използване днес %1$s</string>
+    <string name="trend_from_last_several_day_equal">"Днешното време за използване съответства на среднодневната стойност на %1$d"</string>
+    <string name="trend_from_last_several_day_less">今日比近%1$d日平均少使用%2$s</string>
+    <string name="trend_from_last_several_day_more">今日比近%1$d日平均多使用%2$s</string>
+    <string name="trend_from_yesterday_equal">与昨日使用时长一致</string>
+    <string name="trend_from_yesterday_less">比昨日少使用%1$s</string>
+    <string name="trend_from_yesterday_less_simple">比昨日低%1$s</string>
+    <string name="trend_from_yesterday_more">比昨日多使用%1$s</string>
+    <string name="trend_from_yesterday_more_simple">比昨日高%1$s</string>
+    <string name="unlock_times_per_day">平均每日解锁:</string>
+    <string name="unlock_times_per_hour">平均每小时解锁:</string>
 </resources>

@@ -76,4 +76,9 @@
         <item quantity="other">%d минути е голяма стъпка към вниманието и концентрацията.</item>
         <item quantity="one">%d минута е голяма стъпка към вниманието и концентрацията.</item>
     </plurals>
+	     <plurals name="unlock_times">
+         <item quantity="other">%.2f пъти</item>
+         <item quantity="zero">%.2f пъти</item>
+         <item quantity="one">%.2f път</item>
+     </plurals>
 </resources>
