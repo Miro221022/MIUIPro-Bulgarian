@@ -1,145 +1,180 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-    <string-array name="micloud_entrance_titleArray">
-        <item>Синхронизиране на данните на приложенията</item>
-        <item>Резервно копие на оформлението на начален екран</item>
-        <item>Архив на системните настройки</item>
-        <item>Открий устройство</item>
-    </string-array>
-    <string-array name="micloud_entrance_subtitleArray">
-        <item>Синхронизиране на вашите контакти, съобщения, бележки, календар и още</item>
-        <item>Резервно копие на приложения, оформление на начален екран и тапет</item>
-        <item>Резервно копие на важни настройки, включително Wi-Fi и дисплей</item>
-        <item>Заключете вашето устройство отдалечено, ако е изгубено</item>
-    </string-array>
-	<string-array name="korea_permission_groups_descriptions">
+     <string-array name="korea_permission_group_tags">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+     </string-array>
+     <string-array name="korea_permission_groups">
+        <item>android.permission-group.PHONE</item>
+        <item>android.permission-group.SMS</item>
+        <item>android.permission-group.CONTACTS</item>
+        <item>android.permission-group.CALENDAR</item>
+        <item>android.permission-group.STORAGE</item>
+     </string-array>
+     <string-array name="korea_permission_groups_descriptions">
         <item>За идентифициране на синхронизирани елементи</item>
         <item>За синхронизиране на съобщения</item>
         <item>За синхронизиране на контактите</item>
         <item>За синхронизиране на събития в календара</item>
         <item>За синхронизиране на елементи с услуги, които използват хранилището</item>
-    </string-array>
-    <string-array name="korea_permission_groups_names">
+     </string-array>
+     <string-array name="korea_permission_groups_names">
         <item>Телефон</item>
         <item>Съобщения</item>
         <item>Контакти</item>
         <item>Календар</item>
         <item>Хранилище</item>
-    </string-array>
-	  <string-array name="settings_search_contacts">
-        <item>Синхронизиране на контактите с Xiaomi Облак</item>
-        <item>Включване/настройка на синхронизация</item>
-        <item>Контакти;История на повикванията;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_sms">
-        <item>Синхронизиране на съобщения с Xiaomi Облак</item>
-        <item>Включване/настройка на синхронизация</item>
-        <item>Съобщения;SMS;MMS;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_gallery">
-        <item>Синхронизиране на Галерия с Xiaomi Облак</item>
-        <item>Включване/настройка на синхронизация</item>
-        <item>Галерия;Снимки;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_dial">
-        <item>Синхронизирайте историята на обажданията с Xiaomi Облак</item>
-        <item>Включване/настройка на синхронизация</item>
-        <item>История на повикванията;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_recorder">
-        <item>Синхронизиране на записи с Xiaomi Облак</item>
-        <item>Включване/настройка на синхронизация</item>
-        <item>Звукозапис;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_music">
-        <item>Синхронизиране на музика с Xiaomi Облак</item>
-        <item>Включване на синхронизация</item>
-        <item>Музика;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_notes">
-        <item>Синхронизиране на бележки с Xiaomi Облак</item>
-        <item>Включване на синхронизация</item>
-        <item>Бележки;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_wlan">
-        <item>Синхронизиране на настройките за WLAN с Xiaomi Облак</item>
-        <item>Включване на синхронизация</item>
-        <item>WLAN;wifi;WLAN;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_calendar">
-        <item>Синхронизиране на Календар с Xiaomi Облак</item>
-        <item>Включване на синхронизация</item>
-        <item>Календар;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_browser">
-        <item>Синхронизиране на Браузър с Xiaomi Облак</item>
-        <item>Включване на синхронизация</item>
-        <item>Браузър;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_security">
-        <item>Синхронизиране на Сигурност с Xiaomi Облак</item>
-        <item>Включване на синхронизация</item>
-        <item>Сигурност;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_personal_assistant">
-        <item>Синхронизиране на Личен асистент с Xiaomi Облак</item>
-        <item>Включване на синхронизация</item>
-        <item>Личен асистент;Карти;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_sync_manage">
-        <item>Xiaomi Облак. Всички Xiaomi услуги на едно място.</item>
-        <item>Осъществявайте достъп до вашите снимки, контакти, съобщения и устройства от всяко място</item>
-        <item>Недостатъчно място за съхранение;Членство;Хранилище;Място за съхранение;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак;Кошче;Изтрити елементи;Сигурност</item>
-    </string-array>
-    <string-array name="settings_search_find_phone">
-        <item>Открий устройството</item>
-        <item>"Изтрийте данните и заключете вашето устройство, ако го изгубите"</item>
-        <item>Открий устройството;Изгубено;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_find_pad">
-        <item>Открий устройството</item>
-        <item>"Изтрийте данните и заключете вашето устройство, ако го изгубите"</item>
-        <item>Открий устройството;Изгубено;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_recycle_bin">
-        <item>Изтрити елементи в Xiaomi Облак</item>
-        <item>Възстановете контакти, снимки, съобщения и други</item>
-        <item>Кошче;Изтрити елементи;Кошче;Възстановяване;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-    <string-array name="settings_search_subscribe_vip">
-        <item>Членството в Xiaomi Облак</item>
-        <item>Надстройте членството си, получете повече място за съхранение и защитете данните си</item>
-        <item>Недостатъчно място за съхранение;Членство;Хранилище;Място за съхранение;Облак;Синхронизиране;Облачни услуги;Mi Облак;Mega;Ultra;VIP;Архивиране;Архивиране;Възстановяване;Кошче;Изтрити елементи;Кошче</item>
-    </string-array>
-    <string-array name="settings_search_backup_setting">
-        <item>Архивиране на начален екран Xiaomi Облак</item>
-        <item>Архивирайте оформлението на началния екран, списък с инсталирани приложения и системни настройки</item>
-        <item>Облак;Архивиране;Архивиране;Облачни услуги;Xiaomi Облак;Начален екран;Оформление;Приложения;Настройки;Честота на архивиране;Управление на архивите;Възстановяване</item>
-    </string-array>
-    <string-array name="settings_search_backup_manage">
-        <item>Backups</item>
-        <item>Backed up items</item>
-        <item>Облак;Архивиране;Архивиране;Облачни услуги;Xiaomi Облак;Начален екран;Оформление;Приложения;Управление на архивите;Възстановяване</item>
-    </string-array>
-    <string-array name="settings_search_restore_device">
-        <item>Възстановяване на елементи от Xiaomi Облак</item>
-        <item>Изтегляне на архивирани елементи в устройството ви</item>
-        <item>Облак;Архивиране;Архивиране;Възстановяване;Облачни услуги;Xiaomi Облак</item>
-    </string-array>
-	<string-array name="user_detail_fixed_items">
-        <item>Преглед на синхронизираните елементи</item>
-        <item>Подробности за хранилището</item>
-    </string-array>
-	    <string-array name="priv_dialog_sync_runtime_perm_desc">
+     </string-array>
+     <string-array name="micloud_entrance_subtitleArray">
+        <item>Синхронизиране на вашите контакти, съобщения, бележки, календар и още</item>
+        <item>Резервно копие на приложения, оформление на начален екран и тапет</item>
+        <item>Резервно копие на важни настройки, включително Wi-Fi и дисплей</item>
+        <item>Заключете вашето устройство отдалечено, ако е изгубено</item>
+     </string-array>
+     <string-array name="micloud_entrance_titleArray">
+        <item>Синхронизиране на данните на приложенията</item>
+        <item>Резервно копие на оформлението на начален екран</item>
+        <item>Архив на системните настройки</item>
+        <item>Открий устройство</item>
+     </string-array>
+     <string-array name="priv_dialog_finddevice_runtime_perm">
+        <item>android.permission.READ_PHONE_STATE</item>
+        <item>android.permission-group.LOCATION</item>
+     </string-array>
+     <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>За идентифициране на устройство ви</item>
+        <item>За локализиране на вашето устройство и преминаване към режим изгубено</item>
+     </string-array>
+     <string-array name="priv_dialog_sync_runtime_perm">
+        <item>android.permission-group.CALENDAR</item>
+        <item>android.permission.READ_SMS</item>
+        <item>android.permission.READ_MMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.WRITE_CONTACTS</item>
+        <item>android.permission-group.STORAGE</item>
+     </string-array>
+     <string-array name="priv_dialog_sync_runtime_perm_desc">
         <item>За синхронизиране на събития</item>
         <item>За синхронизиране на съобщения</item>
         <item>За синхронизиране на съобщения</item>
         <item>За синхронизиране на контакти</item>
         <item>За синхронизиране на контакти</item>
         <item>За запазване на елементи на устройството ви (например изображения, видеоклипове, песни)</item>
-    </string-array>
-    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
-        <item>За идентифициране на устройство ви</item>
-        <item>За локализиране на вашето устройство и преминаване към режим изгубено</item>
-    </string-array>
+     </string-array>
+     <string-array name="settings_search_backup_manage">
+        <item>Backups</item>
+        <item>Backed up items</item>
+        <item>Облак;Архивиране;Архивиране;Облачни услуги;Xiaomi Облак;Начален екран;Оформление;Приложения;Управление на архивите;Възстановяване</item>
+     </string-array>
+     <string-array name="settings_search_backup_setting">
+        <item>Архивиране на начален екран Xiaomi Облак</item>
+        <item>Архивирайте оформлението на началния екран, списък с инсталирани приложения и системни настройки</item>
+        <item>Облак;Архивиране;Архивиране;Облачни услуги;Xiaomi Облак;Начален екран;Оформление;Приложения;Настройки;Честота на архивиране;Управление на архивите;Възстановяване</item>
+     </string-array>
+     <string-array name="settings_search_browser">
+        <item>Синхронизиране на Браузър с Xiaomi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Браузър;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_calendar">
+        <item>Синхронизиране на Календар с Xiaomi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Календар;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_contacts">
+        <item>Синхронизиране на контактите с Xiaomi Облак</item>
+        <item>Включване/настройка на синхронизация</item>
+        <item>Контакти;История на повикванията;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_dial">
+        <item>Синхронизирайте историята на обажданията с Xiaomi Облак</item>
+        <item>Включване/настройка на синхронизация</item>
+        <item>История на повикванията;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_find_pad">
+        <item>Открий устройството</item>
+        <item>"Изтрийте данните и заключете вашето устройство, ако го изгубите"</item>
+        <item>Открий устройството;Изгубено;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_find_phone">
+        <item>Открий устройството</item>
+        <item>"Изтрийте данните и заключете вашето устройство, ако го изгубите"</item>
+        <item>Открий устройството;Изгубено;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_gallery">
+        <item>Синхронизиране на Галерия с Xiaomi Облак</item>
+        <item>Включване/настройка на синхронизация</item>
+        <item>Галерия;Снимки;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_music">
+        <item>Синхронизиране на музика с Xiaomi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Музика;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_notes">
+        <item>Синхронизиране на бележки с Xiaomi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Бележки;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_personal_assistant">
+        <item>Синхронизиране на Личен асистент с Xiaomi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Личен асистент;Карти;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_recorder">
+        <item>Синхронизиране на записи с Xiaomi Облак</item>
+        <item>Включване/настройка на синхронизация</item>
+        <item>Звукозапис;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_recycle_bin">
+        <item>Изтрити елементи в Xiaomi Облак</item>
+        <item>Възстановете контакти, снимки, съобщения и други</item>
+        <item>Кошче;Изтрити елементи;Кошче;Възстановяване;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_restore_device">
+        <item>Възстановяване на елементи от Xiaomi Облак</item>
+        <item>Изтегляне на архивирани елементи в устройството ви</item>
+        <item>Облак;Архивиране;Архивиране;Възстановяване;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_security">
+        <item>Синхронизиране на Сигурност с Xiaomi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>Сигурност;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_sms">
+        <item>Синхронизиране на съобщения с Xiaomi Облак</item>
+        <item>Включване/настройка на синхронизация</item>
+        <item>Съобщения;SMS;MMS;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="settings_search_subscribe_vip">
+        <item>Членството в Xiaomi Облак</item>
+        <item>Надстройте членството си, получете повече място за съхранение и защитете данните си</item>
+        <item>Недостатъчно място за съхранение;Членство;Хранилище;Място за съхранение;Облак;Синхронизиране;Облачни услуги;Mi Облак;Mega;Ultra;VIP;Архивиране;Архивиране;Възстановяване;Кошче;Изтрити елементи;Кошче</item>
+     </string-array>
+     <string-array name="settings_search_sync_manage">
+        <item>Xiaomi Облак. Всички Xiaomi услуги на едно място.</item>
+        <item>Осъществявайте достъп до вашите снимки, контакти, съобщения и устройства от всяко място</item>
+        <item>Недостатъчно място за съхранение;Членство;Хранилище;Място за съхранение;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак;Кошче;Изтрити елементи;Сигурност</item>
+     </string-array>
+     <string-array name="settings_search_wlan">
+        <item>Синхронизиране на настройките за WLAN с Xiaomi Облак</item>
+        <item>Включване на синхронизация</item>
+        <item>WLAN;wifi;WLAN;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
+     </string-array>
+     <string-array name="user_detail_fixed_item_click_action">
+        <item>action_view_cloud_data</item>
+        <item>action_view_storage_detail</item>
+     </string-array>
+     <array name="user_detail_fixed_item_icons">
+        <item>@drawable/icon_view_cloud_data</item>
+        <item>@drawable/icon_view_details</item>
+     </array>
+     <string-array name="user_detail_fixed_items">
+        <item>Преглед на синхронизираните елементи</item>
+        <item>Подробности за хранилището</item>
+     </string-array>
 </resources>
