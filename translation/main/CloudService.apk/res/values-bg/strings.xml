@@ -518,8 +518,8 @@
     <string name="micloud_wipe_data_retain">Запази</string>
     <string name="micloud_wipe_data_remove">Премахване</string>
     <string name="wipe_data_dialog_title">Елементите не са синхронизирани</string>
-    <string name="wipe_data_dialog_button_check_sync">Проверка на синхронизацията</string>
-    <string name="wipe_data_dialog_msg_and_on">, и някои други елементи</string>
+    <string name="wipe_data_dialog_button_check_sync">Проверка</string>
+    <string name="wipe_data_dialog_msg_and_on"> и някои други елементи</string>
     <string name="wipe_secret_photo_dialog_title">Скритите снимки не са синхронизирани</string>
     <string name="confirm_delete">Изтрий</string>
     <string name="confirm_save">Запази</string>

@@ -640,7 +640,6 @@
   <string name="filter_scene_series">Отражения</string>
   <string name="filter_scene_vivid">Живо</string>
   <string name="filter_scene_warm">Слънце</string>
-  <string name="filter_single_sky">Вълшебно небе</string>
   <string name="filter_sky_cloudy">Облачно</string>
   <string name="filter_sky_detect_forbidden_tips">Небето не може да се открие</string>
   <string name="filter_sky_download_failed">Приставката не може да се изтегли. Проверете мрежовите настройки и опитайте отново.</string>
@@ -1554,7 +1553,7 @@
   <string name="video_editor_abandon_changes_tip_title">Отмяна на промените</string>
   <string name="video_editor_adjust">Подобряване</string>
   <string name="video_editor_analyzing">Видеото се анализира…</string>
-  <string name="video_editor_audio">Аудио</string>
+  <string name="video_editor_audio">Звук</string>
   <string name="video_editor_audio_antiquity">Ретро</string>
   <string name="video_editor_audio_custom">Избрано</string>
   <string name="video_editor_audio_dream">Мечта</string>
@@ -1605,7 +1604,7 @@
   <string name="video_editor_loading_plugin">Зарежда се...</string>
   <string name="video_editor_loading_warning_msg">Поради грешка при разчитането, някой функции може да са неактивни при редактирането на файла. Това няма да окаже влияние на редактирания клип.</string>
   <string name="video_editor_loading_warning_title">Грешка при прочитане на файла</string>
-  <string name="video_editor_more">Напреднали</string>
+  <string name="video_editor_more">Още</string>
   <string name="video_editor_not_support_tips">Този видеофайл не се поддържа</string>
   <string name="video_editor_ok">OK</string>
   <string name="video_editor_regulator">Регулиране</string>
@@ -1646,7 +1645,7 @@
   <string name="video_editor_text_edit_start">Заглавие</string>
   <string name="video_editor_text_input_empty_tips">Изглежда не сте въвели текст все още</string>
   <string name="video_editor_text_preview_text">Aa</string>
-  <string name="video_editor_trim">Подреден</string>
+  <string name="video_editor_trim">Подрязване</string>
   <string name="video_editor_unsupport_audio_file">Неподдържан аудио файл</string>
   <string name="video_editor_unzip_file_fail">Не може да се разопакова видеоклипа.</string>
   <string name="video_editor_video_is_short">Този видеоклип не може да бъде редактиран.</string>
@@ -1697,4 +1696,6 @@
   <string name="movie_template_dull">История</string>
   <string name="movie_template_dull2">Време</string>
   <string name="movie_template_dull3">Красота</string>
+  <string name="filter_single_sky">Небесен изглед</string>
+  <string name="filter_sky_hint">Небесен изглед</string>
 </resources>

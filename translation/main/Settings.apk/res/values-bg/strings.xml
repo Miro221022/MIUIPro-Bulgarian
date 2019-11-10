@@ -6119,10 +6119,10 @@ OTG се изключва автоматично след 10 минути без
     <string name="none">Няма</string>
     <string name="notifi_channels">Категории на известията</string>
     <string name="notifi_channels_other">Други</string>
-    <string name="notifi_importance_default">Издаване на звук.</string>
-    <string name="notifi_importance_high">Издаване на звук и изскачащо известие.</string>
+    <string name="notifi_importance_default">Издаване на звук</string>
+    <string name="notifi_importance_high">Издаване на звук и изскачащо известие</string>
     <string name="notifi_importance_low">Без звук</string>
-    <string name="notifi_importance_min">Без звук и минимизиране</string>
+    <string name="notifi_importance_min">Без звук и показване на екрана</string>
     <string name="notifi_importance_none">Без показване на известия</string>
     <string name="notifi_importance_unspecified">Разрешаване на звук</string>
     <string name="notifi_no_channels">Това приложение не е публикувало никакви известия</string>
