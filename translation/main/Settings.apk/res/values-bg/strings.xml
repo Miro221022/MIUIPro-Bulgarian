@@ -1564,7 +1564,7 @@
     <string name="restore_default_apn">Стандартните настройки за името на точката за достъп (APN) се възстановяват.</string>
     <string name="menu_restore">Стандартни настройки</string>
     <string name="restore_default_apn_completed">Възстановяването на стандартните настройките за името на точката за достъп (APN) завърши.</string>
-    <string name="reset_network_title">Нулиране на настройките на мрежата</string>
+    <string name="reset_network_title">Нулиране на WLAN, мобилни мрежи и Bluetooth</string>
     <string name="reset_network_desc">"Това ще нулира всички мрежови настройки, включително:
 
 "<li>WLAN</li>"
@@ -4243,7 +4243,7 @@
     <string name="filter_apps_cached">Кеширани</string>
     <string name="screen">Екран</string>
     <string name="system">Система</string>
-    <string name="screen_color_temperature">Цветове</string>
+    <string name="screen_color_temperature">Цветова температура</string>
     <string name="screen_saturation">Насищане</string>
     <string name="screen_color_temperature_and_saturation">Цветове и насищане</string>
     <string name="screen_effect">Цветова схема</string>
@@ -6619,4 +6619,22 @@ OTG се изключва автоматично след 10 минути без
      <string name="unlock_type_category_title">Метод за разпознаване</string>
      <string name="wellbing_title">Цифрово благополучие и родителски контрол</string>
 	 <string name="xiaomi_cloud_find_device">Открий устройството</string>
+	 <string name="band_24G">(2.4G)</string>
+    <string name="band_5G">(5G)</string>
+    <string name="dual_wifi">Двойно ускорение на WLAN мрежата</string>
+    <string name="dual_wifi_acceleration">WLAN ускорение</string>
+    <string name="dual_wifi_avaliable_slave_wifi">Налична подчинена WLAN</string>
+    <string name="dual_wifi_avaliable_slave_wifi_24G">Налична подчинена WLAN(2.4G)</string>
+    <string name="dual_wifi_avaliable_slave_wifi_5G">Налична подчинена WLAN(5G)</string>
+    <string name="dual_wifi_enabler_summary">Едновременно използвайте две WLAN за ускорение</string>
+    <string name="dual_wifi_off">Изключване</string>
+    <string name="dual_wifi_on">Включване</string>
+    <string name="dual_wifi_primary_wifi_connected">Свързана основна WLAN</string>
+    <string name="dual_wifi_slave_wifi_connected">Свързана подчинена WLAN</string>
+    <string name="dual_wifi_summary">Свържете се с основната WLAN, включете подчинената WLAN и увеличете скоростта на мрежата.</string>
+    <string name="dual_wifi_switching_not_remind">Без повече напомняния следващия път</string>
+    <string name="dual_wifi_switching_prompt">Напомняне за WLAN превключване</string>
+    <string name="dual_wifi_switching_summary">Двойните WLAN мрежи изискват различни честотни ленти и ако искате да промените честотната лента на основната WLAN, подчинената WLAN ще бъде прекъсната.</string>
+    <string name="multi_network_acceleration_app_settings">Управление на мулти-мрежово ускорение</string>
+    <string name="wifi_multi_network_acceleration">Интелигентно мулти-мрежово ускорение</string>
 </resources>

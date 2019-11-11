@@ -1877,4 +1877,6 @@
    <string name="gxzw_quick_open_title">Отворено меню с преки пътища</string>
    <string name="empty_title">" "</string>
    <string name="quick_settings_sim_disabled">(Деактивирано)</string>
+   <string name="band_24G">(2.4G)</string>
+   <string name="band_5G">(5G)</string>
 </resources>

@@ -21,8 +21,8 @@
     <string name="find_device_stop_noise">Чукнете OK за без звук</string>
     <string name="find_device_noise_title">Аларма за Открий устройството</string>
     <string name="find_device_success_title">Открий устройството</string>
-    <string name="find_device_notice_p1">Отиди на</string>
-    <string name="find_device_notice_p3">за откриване, заключване или възстановяване на устройството Ви.</string>
+    <string name="find_device_notice_p1">Посетете </string>
+    <string name="find_device_notice_p3">за откриване, заключване или възстановяване на устройството ви.</string>
 	<string name="find_device_notice_sms_alert">Ако смените SIM картите си, друг SMS може да бъде изпратен автоматично, за да активирате отново тази функция.</string>
     <string name="i_know">OK</string>
     <string name="unlock_error_network">Не може да се свърже с интернет</string>
@@ -86,5 +86,5 @@
     <string name="sys_notification_async_open_failed_content">Чукнете, за да опитате отново или за отказ.</string>
 	<string name="emergency_call">Спешно повикване</string>
     <string name="return_to_call">Връщане в разговора</string>
-	<string name="find_device_notice">Отидете до&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />,за да намерите, заключите или възстановите устройството си.</string>
+	<string name="find_device_notice">Посете &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> ,за да намерите, заключите или нулирате устройството си.</string>
 </resources>

@@ -62,7 +62,7 @@
   <string name="mini_time">Малък часовник</string>
   <string name="mtrl_chip_close_icon_content_description">Премахване на %1$s</string>
   <string name="notification_anim_pulse">Пулсиране</string>
-  <string name="notification_anim_rhythm">Ротъм</string>
+  <string name="notification_anim_rhythm">Ритъм</string>
   <string name="notification_anim_star">Звездна светлина</string>
   <string name="notification_nothing">Без</string>
   <string name="notification_screen_on">Осветяване на екрана</string>

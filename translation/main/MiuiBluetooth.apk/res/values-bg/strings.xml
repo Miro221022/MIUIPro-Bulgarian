@@ -71,4 +71,5 @@
 	<string name="fast_connect_headset_reset">Натиснете и задръжте бутона на кутията за %1$d секунди</string>
 	<string name="fast_connect_device_headset">Батерия</string>
 	<string name="fast_connect_device_battery">Батерия</string>
+	<string name="fast_connect_nzbt_reset">Задръжте горния бутон за %1$s секунди, докато се изключи</string>
 </resources>
