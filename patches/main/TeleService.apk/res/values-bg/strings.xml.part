@@ -51,4 +51,5 @@
 	<string name="background_color_title">Фон при повикване</string>
     <string name="background_color_on">По подразбиране</string>
     <string name="background_color_off">Изпoлзване на тапет за заключен екран</string>
+	<string name="call_key_show_title">Показване на високоговорителя и клавиатурата</string>
 </resources>

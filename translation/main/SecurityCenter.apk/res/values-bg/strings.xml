@@ -4,7 +4,7 @@
   <string name="ac_enter_applock">Вход в Заключени на приложения</string>
   <string name="ac_firstUseApplock_subTitle">Използвайте по-добри системни инструменти за сигурност</string>
   <string name="ac_firstUseApplock_title">Задайте парола, за да защитите приложенията си</string>
-  <string name="ac_mask_all_apps">Скрий за всички приложения</string>
+  <string name="ac_mask_all_apps">Скрий за всички</string>
   <string name="ac_notification_contentText">Докоснете, за да включите</string>
   <string name="ac_notification_contentTitle">Защитете приложенията чрез Заключване на приложения</string>
   <string name="ac_post_notification_contentText">Получете защита на ниво система</string>
@@ -13,7 +13,7 @@
   <string name="ac_pre_notification_contentTitle">Опитайте Заключване на приложения</string>
   <string name="ac_summaryOff">Изключено, не се изисква парола за вход в приложенията</string>
   <string name="ac_summaryOn">Въведете парола, за да отворите защитени приложения</string>
-  <string name="ac_unmask_all_apps">Покажи за всички приложения</string>
+  <string name="ac_unmask_all_apps">Покажи за всички</string>
   <string name="access_control_app_is_launching">Приложението стартира</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Въведете паролата си, преди да отключите с пръстов отпечатък</string>
   <string name="access_control_fingerprint_not_identified_msg">Отпечатъкът не може да се разпознае.</string>
@@ -1501,8 +1501,8 @@
   <string name="notification_exit_power_save_mode_subtitle">Батерията е %s заредена.</string>
   <string name="notification_mask_summary">Да не се показва съдържанието на известията от защитените приложения</string>
   <string name="notification_mask_title">Скриване на съдържанието на известията</string>
-  <string name="notification_masked_item">Скрий известията</string>
-  <string name="notification_masked_subtitle">Скрий известията от приложенията, защитени от Заключване на приложения</string>
+  <string name="notification_masked_item">Как да скриете съдържанието на известия?</string>
+  <string name="notification_masked_subtitle">Използвайте заключване на приложениия, за да скриете съдържанието на известията за избраните приложения</string>
   <string name="notification_summary_cmcc_app_check">Докоснете за подробности.</string>
   <string name="notify_channel_mipush">Изскачаши съобщения</string>
   <string name="notify_channel_name_security">Системна сигурност</string>
@@ -2262,7 +2262,7 @@
   <string name="still_retain_btn">Запази</string>
   <string name="stop_milink_connect">Спиране на споделянето</string>
   <string name="suggest_app_tolock">Предложения</string>
-  <string name="suggest_app_tolock_masked">Скрити</string>
+  <string name="suggest_app_tolock_masked">Съдържанието е скрито</string>
   <string name="suggest_app_tolock_unmasked">Видими известия</string>
   <string name="suggest_scan_again">Завършете сканирането, за да избегнете рискове в сигурността.</string>
   <string name="summary_app_lock_disable">Защитете данните си с Заключване на приложения</string>
@@ -2720,4 +2720,10 @@
   <string name="privacy_notification_title_camera">%1s използва камерата на заден план</string>
   <string name="privacy_notification_title_camera_mic">%1s използва камерата и микрофона на заден план</string>
   <string name="privacy_notification_title_mic">%1s използва микрофона на заден план</string>
+  <string name="power_center_scan_item_title_5g">5G свързаност</string>
+  <string name="power_dialog_super_save_msg_5g">Свръх пестенето на батерия ограничава повечето консумиращи енергия функции (например 5G свързаност), като понижава производителността на вашето устройство. Само обаждания, съобщения и мрежовата връзка няма да бъдат засегнати. Да се включи ли Свръх пестене на батерия?</string>
+  <string name="power_optimize_disable_5g">Ограничаване на 5G свързаността</string>
+  <string name="power_save_ps_close_setting_5g">Ограничаване на функциите, консумиращи енергия (синхронизация, 5G свързаност, GPS)</string>
+  <string name="privacyapp_number_masked_text">Съдържанието на известията е скрито</string>
+  <string name="privacyapp_number_unmasked_text">Съдържанието на известията може да бъде скрито</string>
 </resources>

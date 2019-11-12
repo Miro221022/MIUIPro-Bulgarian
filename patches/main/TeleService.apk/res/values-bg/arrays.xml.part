@@ -63,4 +63,8 @@
         <item>На цял екран</item>  
         <item>Изскачащ прозорец</item>  
     </string-array>
+	<string-array name="call_key_show_entries"> 
+        <item>Като икони</item> 
+        <item>Като текст</item> 
+    </string-array>
  </resources>
