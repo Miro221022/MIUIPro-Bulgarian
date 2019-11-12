@@ -26,8 +26,8 @@
   <string name="aod_close_color_inversion">Тази функция не може да се комбинира с инверсия на цветовете. Първо изключете инверсията на цветовете.</string>
   <string name="aod_dual_togother">HH:mm</string>
   <string name="aod_dual_togother_12">hh:mm aa</string>
-  <string name="aod_lock_screen_date">EE, d MMMM</string>
-  <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+  <string name="aod_lock_screen_date">EEEE, d MMMM</string>
+  <string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
   <string name="aod_mode_preview">Преглед</string>
   <string name="aod_mode_style">Фон и стил на часовника</string>
   <string name="aod_mode_style_title">Още опции</string>
@@ -36,7 +36,7 @@
   <string name="aod_mode_time_title">График</string>
   <string name="aod_mode_title">Винаги включен екран</string>
   <string name="aod_show_date_and_time">Показване на дата и час</string>
-  <string name="aod_show_style_title">Елементи за показване</string>
+  <string name="aod_show_style_title">Показване на елементи</string>
   <string name="aod_style">Тема</string>
   <string name="aod_to_close">Изключване</string>
   <string name="apply">Приложи</string>
@@ -51,7 +51,7 @@
   <string name="clock_panel_icon">Циферблат</string>
   <string name="color_change_with_time_description">Промяна на цвета на текста автоматично с течение на времето</string>
   <string name="color_change_with_time_title">Автоматична промяна на цвета</string>
-  <string name="custom_image">Персонализирано изображение</string>
+  <string name="custom_image">Изберете снимка</string>
   <string name="deep_space_planet">Космическо пространство</string>
   <string name="deep_space_planet_des">Тази тема отразява светлинните промени, случващи се около вас през деня. Изгревите и залезите също се синхронизират с вашето местоположение.</string>
   <string name="digital_clock">Дигитален</string>
@@ -90,7 +90,7 @@
   <string name="standard_clock_panel">Стандартно</string>
   <string name="standard_style">Стандартно</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="summary">За да намалите консумацията на енергия, елементите няма да се показват в следните ситуации:\n1. Когато устройството остане на тъмно за дълго време.\n2. Когато режимът Не ме безпокойте е включен.</string>
+  <string name="summary">За да се намали консумацията на енергия, елементите няма да се показват в следните ситуации:\n1. Когато устройството остане на тъмно за дълго време.\n2. Когато режимът Не ме безпокойте е включен.</string>
   <string name="temporary_style">10 секунди след докосване</string>
   <string name="text_color">Цвят на текста</string>
   <string name="text_length_exceed_limit_alert">*Текстът, който въведохте, е твърде дълъг</string>

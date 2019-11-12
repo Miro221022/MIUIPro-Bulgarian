@@ -19,7 +19,7 @@
     <string name="status_bar_toggle_quiet_mode">Не ме безпокойте</string>
     <string name="status_bar_toggle_paper_mode">Четене</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
-    <string name="status_bar_toggle_cast">Проекция</string>
+    <string name="status_bar_toggle_cast">Споделяне</string>
     <string name="status_bar_toggle_edit">Сортиране</string>
     <string name="status_bar_toggle_battery_saver">Пестене на батерията</string>
     <string name="status_bar_toggle_nfc">NFC</string>
@@ -89,7 +89,7 @@
     <string name="screenshot_gesture_detect_alert_title">Снимка на екрана с три пръста</string>
     <string name="screenshot_gesture_detect_alert_msg">Плъзване на три пръста по екрана за снимка?</string>
     <string name="screenshot_gesture_detect_alert_button">Включване в Настройки</string>
-    <string name="screenshot_gesture_detect_alert_dont_again">Не показвай отново</string>
+    <string name="screenshot_gesture_detect_alert_dont_again">"Не показвай отново"</string>
     <string name="permlab_manageLocationPolicy">управление на местоположения</string>
     <string name="permdesc_manageLocationPolicy">Позволява на приложението да управлява политиките за местоположение и да дефинира специфични за него правила.</string>
     <string name="location_usage_restricted_title">Местоположението на заден план е ограничено</string>
@@ -130,7 +130,7 @@
     <string name="auto_disable_screenbuttons_prompts_title">Да изключа ли бутоните за управление?</string>
     <string name="auto_disable_screenbuttons_prompts_message">Чукнете два пъти бутона за да го включите.</string>
     <string name="auto_disable_screenbuttons_prompts_ok">OК</string>
-    <string name="auto_disable_screenbuttons_prompts_not_show_again">\"Не показвай отново</string>
+    <string name="auto_disable_screenbuttons_prompts_not_show_again">"Не показвай отново"</string>
     <string name="start_security_permission_verify_text">Потвърди разрешението с твоя Ми акаунт</string>
     <string name="security_permission_denied_text">Достъп отказан</string>
     <string name="security_permission_failed_text">Вътрешна грешка, опитайте по-късно</string>
@@ -165,11 +165,11 @@
     <string name="remain">Остават: %s</string>
     <string name="configure_input_methods">Метод на въвеждане</string>
     <string name="miui_upgrading_notification_title">Системата се зарежда, някои услуги може да не са достъпни.</string>
-    <string name="miui_screen_ratio_hint">Проблеми с пропорциите на екрана</string>
+    <string name="miui_screen_ratio_hint">Проблеми със съотношението на екрана</string>
     <string name="miui_screen_ratio_hint_message">На това приложение е разрешено да стартира в режим цял екран, което може да бъде причина то да се показва неправилно. Можете да промените това в Настройки > Показване на цял екран.</string>
-    <string name="miui_screen_ratio_hint_dont_show_again">Не показвай отново</string>
+    <string name="miui_screen_ratio_hint_dont_show_again">"Не показвай отново"</string>
     <string name="miui_screen_ratio_hint_ok">OК</string>
-    <string name="miui_screen_ratio_hint_go_to_settings">Отидете в Настройки</string>
+    <string name="miui_screen_ratio_hint_go_to_settings">Настройки</string>
     <string name="switching_tv">Превключване…</string>
     <string name="switch_desc_tv">Две пространства. Едно устройство.</string>
     <string name="switch_brand_desc_tv">Услугите за безопасност са предоставени от Spaces Mobile</string>
