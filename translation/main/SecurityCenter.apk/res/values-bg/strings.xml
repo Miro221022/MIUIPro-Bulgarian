@@ -137,7 +137,7 @@
   <string name="app_manager_app_update">Актуализации</string>
   <string name="app_manager_app_version_name">"Версия: "</string>
   <string name="app_manager_appupdate_remind">Известяване за актуализации</string>
-  <string name="app_manager_as_dlg_msg">Ако разрешите приложенията да стартират автоматично, те може да изискват употребата на много RAM памет и батерия. Да разреша ли въпреки това?</string>
+  <string name="app_manager_as_dlg_msg">Разрешаването на приложенията да стартират автоматично може да изисква допълнително RAM и разход на батерията. Да се разреши ли въпреки това?</string>
   <string name="app_manager_as_dlg_title">Внимание</string>
   <string name="app_manager_back">Назад</string>
   <string name="app_manager_bipartition">Клонирани</string>
@@ -163,8 +163,8 @@
   <string name="app_manager_details_title">Информация за приложението</string>
   <string name="app_manager_details_traffic_title">Използвани данни</string>
   <string name="app_manager_disable">Не разрешавай</string>
-  <string name="app_manager_disable_dlg_text">Ако изключите това приложение, други приложения може да не работят правилно.</string>
-  <string name="app_manager_disable_dlg_title">Изкл на системни приложения?</string>
+  <string name="app_manager_disable_dlg_text">Ако деактивирате това приложение е възможно други приложения да не работят нормално.</string>
+  <string name="app_manager_disable_dlg_title">Деактивиране на системно приложение?</string>
   <string name="app_manager_disable_text">Деактивирай</string>
   <string name="app_manager_disabled">Деактивирано</string>
   <string name="app_manager_disabled_by_admin">Деактивиран от администратора</string>
@@ -210,7 +210,7 @@
   <string name="app_manager_powerkeeper_restrict_bg">Ограничаване на процесите на заден план</string>
   <string name="app_manager_pref_ads">Препоръки</string>
   <string name="app_manager_reset_app_preferences">Стандартни настройки</string>
-  <string name="app_manager_reset_app_preferences_button">Нулирай приложения</string>
+  <string name="app_manager_reset_app_preferences_button">Нулиране</string>
   <string name="app_manager_reset_app_preferences_desc">Това ще нулира всички потребителски настройки за:\nДеактивирани приложения\nДеактивирани известия от приложенията\nПриложения по подразбиране\nЗабрани за ползване на данни от приложенията\n\nВие няма да загубите никаква информация.</string>
   <string name="app_manager_reset_app_preferences_title">Възстановяване на настройките?</string>
   <string name="app_manager_search_prompt">Не са намерени резултати? Опитайте показване на резултати от всички приложения.</string>

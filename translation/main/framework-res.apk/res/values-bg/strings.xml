@@ -272,8 +272,8 @@
     <string name="permdesc_manageProfileAndDeviceOwners">Разрешава на приложенията да задават собствениците на потребителските профили и собственика на устройствата.</string>
     <string name="permlab_reorderTasks">пренареждане на изпълняваните приложения</string>
     <string name="permdesc_reorderTasks">Разрешава на приложението да прехвърля задачи на преден и на заден план. То може да направи това без вашето потвърждение.</string>
-    <string name="permlab_enableCarMode">активиране на мото режима</string>
-    <string name="permdesc_enableCarMode">Разрешава на приложението да активира моторежима.</string>
+    <string name="permlab_enableCarMode">активиране на автомобилен режим</string>
+    <string name="permdesc_enableCarMode">Разрешава на приложението да активира автомобилния режим.</string>
     <string name="permlab_killBackgroundProcesses">затваряне на другите приложения</string>
     <string name="permdesc_killBackgroundProcesses">Разрешава на приложението да прекратява намиращи се на заден план процеси на други приложения. Това може да доведе до спиране на тяхното изпълняване.</string>
     <string name="permlab_systemAlertWindow">изобразяване над други приложения</string>
@@ -796,7 +796,7 @@
     <string name="unsupported_display_size_show">Винаги да се показва</string>
     <string name="smv_application">Приложението „%1$s“ (процес „%2$s“) наруши правилото за стриктен режим, наложено от самото него.</string>
     <string name="smv_process">Процесът %1$s наруши правилото за стриктен режим, наложено от самия него.</string>
-    <string name="android_upgrading_title">Android се надстройва...</string>
+    <string name="android_upgrading_title">Android се надстройва…</string>
     <string name="android_start_title">Android се стартира…</string>
     <string name="android_upgrading_fstrim">Хранилището се оптимизира.</string>
     <string name="android_upgrading_notification_title">Android се надстройва</string>
@@ -997,8 +997,8 @@
     <string name="no_file_chosen">Няма избран файл</string>
     <string name="reset">Повторно задаване</string>
     <string name="submit">Изпращане</string>
-    <string name="car_mode_disable_notification_title">Мото режимът е активиран</string>
-    <string name="car_mode_disable_notification_message">Докоснете, за да излезете от моторежима.</string>
+    <string name="car_mode_disable_notification_title">Приложението за шофиране работи</string>
+    <string name="car_mode_disable_notification_message">Докоснете, за да излезете от приложението за шофиране.</string>
     <string name="tethered_notification_title">Активирана е преносима точка за достъп</string>
     <string name="tethered_notification_message">Докоснете, за да настроите.</string>
     <string name="back_button_label">Назад</string>
@@ -1361,13 +1361,13 @@
     <string name="new_sms_notification_content">Преглед в приложението за SMS</string>
     <string name="user_encrypted_title">Някои функции може да са огранич.</string>
     <string name="user_encrypted_message">Докоснете, за да отключите</string>
-    <string name="user_encrypted_detail">Потр. данни са заключени</string>
-    <string name="profile_encrypted_detail">Служ. потр. профил е заключен</string>
-    <string name="profile_encrypted_message">Докоснете за откл. на служ. потр. профил</string>
+    <string name="user_encrypted_detail">Потребителските данни са заключени</string>
+    <string name="profile_encrypted_detail">Работният профил е заключен</string>
+    <string name="profile_encrypted_message">Докоснете, за да отключите работния профил</string>
     <string name="usb_mtp_launch_notification_title">Установена е връзка с %1$s</string>
     <string name="usb_mtp_launch_notification_description">Докоснете, за да прегледате файловете</string>
-    <string name="pin_target">Фиксиране</string>
-    <string name="unpin_target">Освобождаване</string>
+    <string name="pin_target">Закачи</string>
+    <string name="unpin_target">Откачи</string>
     <string name="app_info">Информация за приложението</string>
     <string name="negative_duration">-%1$s</string>
     <string name="audit_safemode_notification">Възстановете фабричните настройки на това устройство, за да го използвате без ограничения</string>
@@ -1460,4 +1460,14 @@
     <string name="vpn_text_long">Свързан към %s. Докоснете, за да управлявате мрежата.</string>
     <string name="vpn_title">VPN е активиран</string>
     <string name="vpn_title_long">VPN е активиран от %s</string>
+	<string name="app_category_audio">Музика и аудио</string>
+    <string name="app_category_game">Игри</string>
+    <string name="app_category_image">Снимки и изображения</string>
+    <string name="app_category_maps">Карти и навигация</string>
+    <string name="app_category_news">Новини и списания</string>
+    <string name="app_category_productivity">Продуктивност</string>
+    <string name="app_category_social">Социални и комуникационни</string>
+    <string name="app_category_video">Филми и видео</string>
+	<string name="volume_dialog_ringer_guidance_silent">Обажданията и известията ще бъдат заглушени</string>
+    <string name="volume_dialog_ringer_guidance_vibrate">Обажданията и известията ще са с вибрация</string>
 </resources>

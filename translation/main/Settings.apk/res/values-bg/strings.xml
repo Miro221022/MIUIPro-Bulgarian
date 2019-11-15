@@ -6072,8 +6072,8 @@ aptX-Adaptive: Режим на кодек"</string>
     <string name="dual_clock_open_message">Двойният часовник ще се показва на заключен екран и начален екран.</string>
     <string name="more_installed_services_title">Още изтеглени услуги</string>
     <string name="otg_button">OTG</string>
-    <string name="otg_closed">Включено</string>
-    <string name="otg_opened">Изключено</string>
+    <string name="otg_closed">Изключено</string>
+    <string name="otg_opened">Включено</string>
     <string name="otg_settings">OTG</string>
     <string name="otg_tip">"USB On-The-Go позволява USB устройства и преносими клавиатури да се свързват с вашето мобилно устройство и да обменят данни.
 	
