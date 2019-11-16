@@ -261,7 +261,7 @@
   <string name="menu_todo_hide_finished_todo">Скриване на изпълнените задачи</string>
   <string name="menu_todo_show_finished_todo">Показване на изпълнените задачи</string>
   <string name="pref_desc_todo_float_mode">Плъзнете от ръба на екрана, за да отворите кутията с инструменти</string>
-  <string name="pref_title_todo_float_mode">Използвайте инструментариум за задачи</string>
+  <string name="pref_title_todo_float_mode">Използване на инструментариум за задачи</string>
   <string name="pref_title_todo_shorcut">Кутия за инструменти</string>
   <string name="time_picker_label_hour">Ч</string>
   <string name="time_picker_label_minute">М</string>
@@ -327,8 +327,8 @@
     <string name="permission_network_for_cloud_desc">За да синхронизирате бележки с облака, трябва да се свържете с интернет. Мобилните данни могат да се използват за синхронизиране на елементи. Свързване сега?</string>
     <string name="permission_read_contact_desc">Свързване на бележките, създадени по време на разговори с контакти</string>
     <string name="permission_xiaoai_desc"><Data>Mi AI ще събира вашите гласови записи и идентификационен номер на устройството, за да преписва аудио и да създава гласови бележки. Научете повече в &lt;a href=\"%1$s\">Политиката за поверителност&lt;/a> на Mi AI .</Data></string>
-    <string name="pref_remind_type_summary">Възпроизвеждане на напомнящ звук в Безшумен режим</string>
-    <string name="pref_remind_type_title">Игнорирай безшумния режим</string>
+    <string name="pref_remind_type_summary">Възпроизвеждане на звук за напомняне в Безшумен режим</string>
+    <string name="pref_remind_type_title">Игнориране на безшумния режим</string>
     <string name="remind_title">Напомняния</string>
 	<string name="privacy_note_content_empty">Тук все още няма елементи.</string>
 	<string name="audio_create_normal_state">Отпуснете, за да създадете. Плъзнете нагоре, за да отмените.</string>

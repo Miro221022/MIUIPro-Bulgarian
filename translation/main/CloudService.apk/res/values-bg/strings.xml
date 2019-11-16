@@ -72,7 +72,7 @@
     <string name="sync_dspt_entrance_provision">Синхронизирайте вашите снимки, бележки и други елементи на всичките си устройства. Ще имате достъп до нещата, които синхронизирате от всеки браузър на %s.</string>
     <string name="sync_dspt_entrance_provision_2">Научете повече</string>
     <string name="sync_dspt_entrance_provision_confirm_close">"Не използвай"</string>
-    <string name="sync_dspt_entrance_provision_confirm_open">Използвай Xiaomi Облак</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Използвай</string>
     <string name="sync_dspt_entrance_provision_confirm_title">"Да не се използва Xiaomi Облак?"</string>
     <string name="sync_dspt_entrance_provision_confirm_content">"Системните приложения на MIUI се нуждаят от Xiaomi Облак, за да архивирате вашите снимки, съобщения, бележки и др. Xiaomi Облак е безплатен и готов за използване."</string>
     <string name="sync_dspt_entrance_provision_skip">Прескочи тази стъпка</string>

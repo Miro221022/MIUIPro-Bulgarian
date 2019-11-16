@@ -176,7 +176,7 @@
   <string name="app_manager_factory_reset">Деинсталиране на актуализациите</string>
   <string name="app_manager_factory_reset_dlg_msg">Всички актуализации на това системно приложение ще бъдат деинсталирани.</string>
   <string name="app_manager_factory_reset_dlg_title">Деинсталиране на актуализациите?</string>
-  <string name="app_manager_find_apps">Намерете приложения</string>
+  <string name="app_manager_find_apps">Намерете</string>
   <string name="app_manager_force_stop_dlg_text">Ако спрете принудително приложението, то може да не функционира добре.</string>
   <string name="app_manager_force_stop_dlg_title">Принудително спиране?</string>
   <string name="app_manager_full_screen_summary">Разрешаване на избраните приложения да работят в режим на цял екран</string>
@@ -221,7 +221,7 @@
   <string name="app_manager_system_mobile_disable">Изключи мобилни данни</string>
   <string name="app_manager_thumbnail_blur_summary">Замъглен изглед на приложенията в Последи</string>
   <string name="app_manager_thumbnail_blur_title">Замъглен изглед на приложенията</string>
-  <string name="app_manager_title">Приложения</string>
+  <string name="app_manager_title">Управление на приложения</string>
   <string name="app_manager_total_size">Общо</string>
   <string name="app_manager_uninstall">Деинсталиране</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Деинсталирането на системни приложения може да предизвика грешки в работата на MIUI. Да се деинсталира въпреки това?</string>
@@ -513,7 +513,7 @@
   <string name="card_main_deepclean_action">Изчистване</string>
   <string name="card_main_deepclean_qq_title">QQ почистване</string>
   <string name="card_main_deepclean_summary">Изтрийте файловете от които нямате нужда</string>
-  <string name="card_main_deepclean_title">Почистване</string>
+  <string name="card_main_deepclean_title">Дълбоко почистване</string>
   <string name="card_main_deepclean_wechat_action">Изчистване</string>
   <string name="card_main_deepclean_wechat_summary">Изчистете кеша на WeChat, за да освободите място</string>
   <string name="card_main_deepclean_wechat_title">WeChat кеш</string>
@@ -531,11 +531,11 @@
   <string name="card_main_overscroll_tips">Сигурност в най-добрия си вид</string>
   <string name="card_main_private_space_action">Създаване</string>
   <string name="card_main_private_space_summary">Използвайте Второ пространство все едно имате две устройства</string>
-  <string name="card_main_private_space_title">Пространства</string>
+  <string name="card_main_private_space_title">Второ пространство</string>
   <string name="card_main_sectool_title">Инструменти</string>
   <string name="card_main_xspace_action">Създаване</string>
   <string name="card_main_xspace_summary">Създайте два профила за всяко приложение</string>
-  <string name="card_main_xspace_title">Клониране</string>
+  <string name="card_main_xspace_title">Клонирани приложения</string>
   <string name="card_tc_failed">Не може да се калибрира</string>
   <string name="charging_text_battery_full_time">"Последно зареждане "</string>
   <string name="charging_text_battery_nearly_full">Почти заредена</string>
@@ -575,7 +575,7 @@
   <string name="cta_dialog_title">Известие за свързване</string>
   <string name="cta_HIPS_Perm_Location_Desc">получаване на точно местоположение (на база GPS и мрежата)</string>
   <string name="cta_main_purpose">Добре дошли в Сигурност! Можете да използвате това приложение, за да изчистите непотребните файлове в устройството си, да намерите и неутрализирате вируси, да оптимизирате производителността за игри, да спестите батерия, да управлявате приложения и други.</string>
-  <string name="cta_settings">Разрешете да се свържете с интернет и да имате достъп до местоположението</string>
+  <string name="cta_settings">Разрешаване на достъп до интернет и местоположението</string>
   <string name="current_network_state_not_need_diagnose">Всичко е наред</string>
   <string name="customize_limit_pkg">%s(Потребителско)</string>
   <string name="customizer_mode_user_define_name">Моите правила</string>
@@ -613,7 +613,7 @@
   <string name="databooster_tips_message">Включете, за да ограничите всички SIM карти, с изключение на тази за данни. Изключете тази услуга, ако игрите дават грешка след вашия избор.</string>
   <string name="databooster_tips_title">Внимание</string>
   <string name="declaration_dialog_msg">Тази функция може да ви помогне да следите потреблението си, но не гарантира предотвратяване на допълнителни разходи. За най-добри резултати задайте консервативен лимит.</string>
-  <string name="deep_clean_disconnect_data_title">Изключване на мобилните данни, когато устройството е заключено</string>
+  <string name="deep_clean_disconnect_data_title">Изключване на мобилните данни след заключване</string>
   <string name="deep_clean_memory_clean_title">Изчистване на кеша, когато устройството е заключено</string>
   <string name="deep_clean_never_memory_clean">Никога</string>
   <string name="deep_power_save_item_summary_auto_brightness">Настройте яркостта на екрана автоматично, за да спестите батерията</string>
@@ -914,7 +914,7 @@
   <string name="firewall_temp_rule_reason">%2$s ограничена интернет връзка за%1$s​</string>
   <string name="firewall_wifi">WLAN</string>
   <string name="firewall_wifi_dialog_message">Инсталираното приложение няма да може да се свърже с интернет чрез WLAN, когато този тип връзка е изключена</string>
-  <string name="first_aid_activity_title">Проблеми</string>
+  <string name="first_aid_activity_title">Разрешаване на проблеми</string>
   <string name="first_aid_card_airplane_button">Изключи</string>
   <string name="first_aid_card_airplane_summary">Изключете режима Самолет, за да можете да осъществявате повиквания и да се свързвате с мрежата</string>
   <string name="first_aid_card_airplane_title">Не можете да осъществявате повиквания или да се свързвате с мрежата</string>
@@ -1385,7 +1385,7 @@
   <string name="menu_item_notification_antispam_text_normal">Спам</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_power_text">Оптимизация на батерията</string>
-  <string name="menu_item_notification_title">Показване в лентата с известия</string>
+  <string name="menu_item_notification_title">Показване в лентата за известия</string>
   <string name="menu_item_shortcut_summary">Добавяне на често използвани функции на началния екран</string>
   <string name="menu_item_shortcut_title">Управление на преките пътища</string>
   <string name="menu_item_uninstall">Деинсталиране</string>
@@ -1412,7 +1412,7 @@
   <string name="menu_summary_power_manager_2">%s остават</string>
   <string name="menu_summary_power_manager_3">Свържете зарядното устройство</string>
   <string name="menu_summary_power_manager_4">%s докато се зареди</string>
-  <string name="menu_text_antispam">Блокиране</string>
+  <string name="menu_text_antispam">Списък с блокирани</string>
   <string name="menu_text_antivirus">Антивирус</string>
   <string name="menu_text_garbage_cleanup">Почистване</string>
   <string name="menu_text_garbage_cleanup_danger">%s</string>
@@ -2285,7 +2285,7 @@
   <string name="summary_eye_shield">Изключете режима на четене, за да се върнете към стандартните настройки.</string>
   <string name="summary_find_device">Локализиране и заключване на устройството ви отвсякъде</string>
   <string name="summary_first_aid_kit">Разрешаване на проблеми с устройството ви сега</string>
-  <string name="summary_flow_notification">Включете функцията за показване в лентата с известия на актуална инф-я за използваните данни.</string>
+  <string name="summary_flow_notification">Включете функцията за показване в лентата за известия на актуална информация за използваните данни.</string>
   <string name="summary_flow_purchase">Нямате налични МБ. Купете за да сте свързани.</string>
   <string name="summary_flow_verify_failed">Използвайте Авто настройка за използването на данни, за да предотвратите допълнителни сметки</string>
   <string name="summary_garbage_clean">Изтрийте кеша, за да освободите място</string>
@@ -2405,7 +2405,7 @@
   <string name="tc_diagnostic_status_success">&lt;font color=\"\'#3EC234\'\"&gt;Коригирайте&lt;/font&gt;</string>
   <string name="tc_diagnostic_status_success_brand">&lt;font color=\"\'#3EC234\'\"&gt;Отговор от доставчика&lt;/font&gt;</string>
   <string name="tc_diagnostic_status_timeout">&lt;font color=\"\'#CC0000\'\"&gt;Времето изтече&lt;/font&gt;</string>
-  <string name="tc_diagnostic_status_updating">Testing…</string>
+  <string name="tc_diagnostic_status_updating">Тестване…</string>
   <string name="tc_diagnostic_success_notification_summary">Докладвайте този проблем, за да помогнете на MIUI да подобри диагностичните инструменти</string>
   <string name="tc_diagnostic_success_notification_title">Името и мрежата на оператора са правилни</string>
   <string name="tc_diagnostic_success_result">&lt;font color=\"\'#CC0000\'\"&gt;&lt;&lt;font color=\"\'#CC0000\'\"&gt;\"font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\"\'#CC0000\'\"&gt;&lt;&lt;font color=\"\'#CC0000\'\"&gt;\"font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\'#CC0000\'&gt;Резултат: Настройките за доставчика са коректни &lt;br/&gt;&lt;br/&gt;Не мога да настроя корекциите:&lt;br/&gt;1. Статуса на доставчика може да е нереален в началото и края на месеца.&lt;br/&gt;2. Услугите на приложението Сигурност не бяха\"&lt;/font&gt;&lt;/font&gt; обновени&lt;br/&gt;&lt;br/&gt;Докл\"&lt;/font&gt;адвайте проблема на MIU\"&lt;/font&gt;&lt;/font&gt;I за да подобрите прило\"&lt;/font&gt;жението за диагностика&lt;/font&gt;</string>
