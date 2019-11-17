@@ -714,10 +714,6 @@
     <string name="years">години</string>
     <string name="now_string_shortest">сега</string>
     <string name="relative_time">%1$s, %2$s</string>
-    <string name="noon">12:00 ч.</string>
-    <string name="Noon">12:00 ч.</string>
-    <string name="midnight">0:00 ч.</string>
-    <string name="Midnight">0:00 ч.</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="paste_as_plain_text">Поставяне като неформатиран текст</string>

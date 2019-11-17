@@ -300,7 +300,7 @@
     <string name="fmt_time_minute">"m'мин'"</string>
     <string name="fmt_time_minute_second">"m'мин' s'сек'"</string>
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'сек'"</string>
-    <string name="fmt_time_12hour">"h 'часа'"</string>
+    <string name="fmt_time_12hour">HH:mm</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
@@ -308,7 +308,7 @@
     <string name="fmt_time_12hour_minute_pm">h:mma</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_24hour">"H 'часа'"</string>
+    <string name="fmt_time_24hour">HH:mm</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
