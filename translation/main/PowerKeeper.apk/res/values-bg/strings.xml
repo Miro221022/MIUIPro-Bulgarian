@@ -4,7 +4,7 @@
     <string name="error_filename_too_long">Въведеното от вас име на файл е твърде дълго.</string>
     <string name="power_config_select_apps_title">Приложения</string>
     <string name="power_config_event_delete">Изтрий</string>
-    <string name="hide_mode_desc"><font color="#000000">Когато дадено приложение работи във фонов режим, неговите дейности ще бъдат наблюдавани за намаляване на използването на батерия. Тази функция ще получи и използва потребителски данни според %s</font></string>
+    <string name="hide_mode_desc">Когато дадено приложение работи на заден план, неговите дейности ще бъдат наблюдавани за намаляване на разхода на батерията. Тази функция ще получава и използва потребителски данни според %s</string>
     <string name="power_hide_mode_title">Батерия и производителност</string>
     <string name="power_config_apps">Пестене на батерия по приложения</string>
     <string name="app_list_title">Избор на приложения</string>
@@ -74,12 +74,12 @@
     <string name="update_profile_failture_not_connect_wifi">Не може да се актуализира. Свържете се към Wi-Fi и опитайте отново.</string>
     <string name="sucess">Готово</string>
     <string name="failure">Неуспешно</string>
-    <string name="cloud_addr_info">Инф за Облака</string>
+    <string name="cloud_addr_info">Информация за облака</string>
     <string name="lasttime_feature_cloud">Актуализирани услуги:</string>
     <string name="lasttime_applist_cloud">Актуализирани приложения:</string>
-    <string name="base_info">Основна инф</string>
+    <string name="base_info">Основна информация</string>
 	<string name="enable_sleep_mode">Включване на спящ режим за оптимизиране на режима на готовност през нощта</string>
-    <string name="power_consume_abnormal_night">Батерията е изтощена през ноща</string>
+    <string name="power_consume_abnormal_night">Батерията е изтощена през нощта</string>
     <string name="sleepmode_disclaimer_agree">Съгласен</string>
     <string name="sleepmode_disclaimer_cancel">Отказ</string>
     <string name="sleepmode_privacy_content">"Тази функция ще използва информацията за вашата система и устройство. Тя няма да бъде качена на нашите сървъри."</string>
@@ -88,9 +88,9 @@
 	<string name="app_preload_policies_summary">"Използвайте машинно обучение за предвиждане на приложенията, които най-вероятно ще използвате и за предварително зареждане на ресурсите."</string>
     <string name="app_preload_policies_title">Интелигентно предварително зареждане</string>
     <string name="pref_config_title">Оптимизация на ефективността</string>
-	<string name="active_classify">Сортиране по състояние на активността</string>
+	<string name="active_classify">Сортиране по активност</string>
     <string name="appconfig_active_app_dialog_title">Управление на активните приложения</string>
-    <string name="config_classify">Сортиране по настройка на приложението</string>
+    <string name="config_classify">Сортиране по настройка</string>
 	<string name="privacy">Политика за поверителност</string>
     <string name="about_extreme_mode">Екстремно пестене на батерия</string>
     <string name="extreme_mode_max_item_alert">Можете да изберете до 4 приложения, които да работят на заден план когато е активирано Екстремно пестене на батерия</string>
