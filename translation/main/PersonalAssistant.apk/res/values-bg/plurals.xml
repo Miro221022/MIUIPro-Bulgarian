@@ -78,4 +78,8 @@
         <item quantity="other">След %d минути</item>
         <item quantity="one">След %d минута</item>
     </plurals>
+	    <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">Добавени са %d телефонни номера</item>
+        <item quantity="one">Добавен е %d телефонене номер</item>
+    </plurals>
 </resources>

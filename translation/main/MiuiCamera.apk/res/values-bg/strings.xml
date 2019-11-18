@@ -989,4 +989,18 @@
   <string name="vv_mode_menu_item_name">ВЛОГ</string>
   <string name="pref_popup_camera_title">Изскачаща камера</string>
    <string name="pref_camera_manually_exposure_value">Експозиция</string>
+   <string name="camera_settings_category_development">Експериментални функции</string>
+   <string name="pref_camera_common_settings">Основни настройки</string>
+   <string name="pref_camera_exposuretime_entry_auto_abbr">АВТО</string>
+   <string name="pref_camera_focusmode_entry_auto_abbr">АВТО</string>
+   <string name="pref_camera_iso_entry_auto_abbr">АВТО</string>
+   <string name="pref_camera_manually_exposure_value_abbr">Експозиция</string>
+   <string name="pref_camera_quick_settings">Бързи настройки</string>
+   <string name="pref_camera_whitebalance_entry_auto_abbr">АВТО</string>
+   <string name="pref_camera_whitebalance_title_abbr">Баланс на бялото</string>
+   <string name="pref_camera_zoom_mode_entry_macro_abbr">МАКРО</string>
+   <string name="pref_camera_zoom_mode_entry_ultra_abbr">Ултра</string>
+   <string name="pref_camera_zoom_mode_entry_wide_abbr">Широко</string>
+   <string name="pref_camera_zoom_mode_title_abbr">ОБЕКТИВ</string>
+   <string name="pref_qc_focus_position_title_abbr">АВТОФОКУС</string>
 </resources>

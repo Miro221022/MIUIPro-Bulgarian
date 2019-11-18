@@ -181,8 +181,8 @@
         <item quantity="one">Избраната снимка не е в устройството, изтегляне</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">"Избраните снимки (%dМб) не са в устройството. Изтегляне чрез мобилни данни?"</item>
-        <item quantity="one">"Избраната снимка (%dМб) не е в устройството. Изтегляне чрез мобилни данни?"</item>
+        <item quantity="other">"Избраните снимки (%dМБ) не са в устройството. Изтегляне чрез мобилни данни?"</item>
+        <item quantity="one">"Избраната снимка (%dМБ) не е в устройството. Изтегляне чрез мобилни данни?"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Отмяна да изтеглянето, оставащи %d снимки?</item>
@@ -193,16 +193,16 @@
         <item quantity="one">"Снимката не може да се изтегли, свържете се към мрежата и опитайте отново"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"Не могат да се изтеглят %1$d снимки (%2$dМб), свържете се към мрежата и опитайте отново"</item>
-        <item quantity="one">"Не може да се изтегли снимка (%2$dМб), свържете се към мрежата и опитайте отново"</item>
+        <item quantity="other">"Не могат да се изтеглят %1$d снимки (%2$dМБ), свържете се към мрежата и опитайте отново"</item>
+        <item quantity="one">"Не може да се изтегли снимка (%2$dМБ), свържете се към мрежата и опитайте отново"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">"Не могат да се изтеглят %1$d снимки, повторен опит?"</item>
         <item quantity="one">"Не може да се изтегли снимка, повторен опит?"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">"Не могат да се изтеглят %1$d снимки (%2$dМб), повторен опит?"</item>
-        <item quantity="one">"Не може да се изтегли снимка (%2$dМб), повторен опит?"</item>
+        <item quantity="other">"Не могат да се изтеглят %1$d снимки (%2$dМБ), повторен опит?"</item>
+        <item quantity="one">"Не може да се изтегли снимка (%2$dМБ), повторен опит?"</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">"Пропуснати са %d снимки които не са в устройството."</item>
@@ -383,5 +383,29 @@
 	    <plurals name="backup_pause_dialog_message">
         <item quantity="other">Поставяне на пауза синхронизирането на снимки, видеоклипове, контакти, бележки и други елементи с облака за %d минути.</item>
         <item quantity="one">Поставяне на пауза синхронизирането на снимки, видеоклипове, контакти, бележки и други елементи с облака за %d минута.</item>
+    </plurals>
+	    <plurals name="photo_remain_days">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+	    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">"Няма да можете да възстановите %d избрани елемента, ако ги изтриете. Изтриване въпреки това?"</item>
+        <item quantity="one">"Няма да можете да възстановите %d избран елемент, ако го изтриете. Изтриване въпреки това?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">"Няма да можете да възстановите %d избрани елемента, ако ги изтриете. Изтриване въпреки това?"</item>
+        <item quantity="one">"Няма да можете да възстановите %d избран елемент, ако го изтриете. Изтриване въпреки това?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">"Няма да можете да възстановите %d избрани елемента, ако ги изтриете. Изтриване въпреки това?"</item>
+        <item quantity="one">"Няма да можете да възстановите %d избран елемент, ако го изтриете. Изтриване въпреки това?"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Елементите могат да бъдат съхранявани тук до %1$d дни (%2$s)</item>
+        <item quantity="one">Елементите могат да бъдат съхранявани тук до %1$d ден (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Елементите могат да бъдат съхранявани тук до %1$d дни. Надстройте плана си, за да удължите този период.</item>
+        <item quantity="one">Елементите могат да бъдат съхранявани тук до %1$d ден. Надстройте плана си, за да удължите този период.</item>
     </plurals>
 </resources>

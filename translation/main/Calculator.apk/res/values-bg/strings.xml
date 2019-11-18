@@ -490,4 +490,11 @@
   <string name="preference_use_voice_title">Синтетична реч</string>
   <string name="preference_user_feedback_title">Отзиви</string>
   <string name="voice_guide_text">Можете да включите синтетична рея от тук</string>
+  <string name="loan_basic_point">Основна точка</string>
+  <string name="loan_type_title">Лихвен стандарт</string>
+  <string name="lpr_ok">Разбрах</string>
+  <string name="lpr_tips_msg">"От 8 октомври 2019 г. лихвеният процент за лични търговски жилищни заеми ще се изчислява според основния лихвен процент на кредита (LPR), вместо по-рано реализирания базов лихвен процент от 4,9%. Сега окончателната ставка ще бъде потвърдена чрез добавяне на базова точка LPR.
+
+Едногодишните и петгодишните LPR ще бъдат котирани на 20-то число на всеки месец (забавянето може да възникне поради банкови ваканции) на уебсайта на Народната банка на Китай."</string>
+  <string name="lpr_tips_title">LPR (Основна ставка на кредита)</string>
 </resources>

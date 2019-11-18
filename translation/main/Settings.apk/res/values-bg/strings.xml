@@ -6637,4 +6637,21 @@ OTG се изключва автоматично след 10 минути без
     <string name="dual_wifi_switching_summary">Двулентовото увеличаване на WLAN скоростта трябва да използва две различни WLAN ленти. Ако се свържете с друга основна мрежа, спомагателната връзка ще бъде загубена.</string>
     <string name="multi_network_acceleration_app_settings">Ускорение на мрежата за приложения</string>
     <string name="wifi_multi_network_acceleration">Интелигентно ускорение на мрежата</string>
+	<string name="apply_fingerprint_to">Използване на пръстови отпечатъци за</string>
+    <string name="enrol_fingerprint_data">Добавете пръстов отпечатък</string>
+	<string name="link_turbo_prompt">"Статистическите данни на тази страница показват само количеството данни, използвани за повишаване на скоростта на WLAN връзката. Тези статистически данни не отразяват действителното използване на мобилни данни."</string>
+    <string name="link_turbo_settings_all_app_display_loading">Една секунда…</string>
+    <string name="link_turbo_settings_all_app_reach_max">Можете да изберете до 15 приложения</string>
+    <string name="link_turbo_usage_state_month">Този месец</string>
+    <string name="link_turbo_usage_state_month_total">Този месец</string>
+    <string name="link_turbo_usage_state_today">Днес</string>
+    <string name="link_turbo_usage_state_today_total">Днес</string>
+	<string name="max_fingerprint_reached_toast">Можете да добавите до 5 пръстови отпечатъка</string>
+	<string name="wifi_link_turbo">Използвайте мобилни данни, за да увеличите скоростта</string>
+    <string name="wifi_link_turbo_app_settings_summary">Изберете приложенията, които ще използват тази функция</string>
+    <string name="wifi_link_turbo_app_settings_title">Изберете приложения</string>
+    <string name="wifi_link_turbo_no_app">Тук все още няма приложения.</string>
+    <string name="wifi_link_turbo_off">Изключено</string>
+    <string name="wifi_link_turbo_on">Включено</string>
+    <string name="wifi_link_turbo_summary">Увеличете скоростта на връзката за избрани приложения, използващи мобилни данни, когато WLAN връзката е лоша</string>
 </resources>
