@@ -230,4 +230,8 @@
         <item>На 2 реда</item>
         <item>Плъзгане</item>
     </string-array>
+	 <string-array name="icon_notification_style_entries"> 
+        <item>От темата (цветни)</item> 
+        <item>По подразбиране (монохромни)</item> 
+    </string-array>
 </resources>
