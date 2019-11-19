@@ -89,7 +89,7 @@
     <string name="default_folder_title_security">Безопасност</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Инструменти</string>
-    <string name="default_screen_preview_title">Задаване на начален екран по подразбиране</string>
+    <string name="default_screen_preview_title">Начален екран по подразбиране</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Изтрий</string>
     <string name="delete_screen">Изтрий екран</string>
@@ -212,7 +212,6 @@
     <string name="menu_trans_effect">Ефект при преход между екраните</string>
     <string name="menu_wallpaper">Тапет</string>
     <string name="menu_workspace_preview">Преглед на начален екран</string>
-    <string name="mi_wallpaper">MIUI тапет</string>
     <string name="mtzgadget_missing_text">Вече не се поддържа, добавете отново</string>
     <string name="multi_selecting_tips">За да преместите някое приложение задръжте пръст върху иконата му и го плъзнете до местоназначението</string>
     <string name="no_detail_page">Няма страница с подробности</string>
@@ -372,7 +371,6 @@
 	<string name="edit_mode_dual_app">Клониране</string>
     <string name="edit_mode_group_error_cant_delete_system_apps">"Не може да се деинсталират системни приложения"</string>
     <string name="edit_mode_group_error_nothing_be_selected">Първо изберете приложение</string>
-    <string name="minus_one_screen">Личен асистент</string>
     <string name="menu_auto_fill_of_uninstall">Запълване на клетките на деинсталираните приложения</string>
 	<string name="announce_for_search_bar">Лента за търсене</string>
     <string name="announce_for_xiaoai">Mi AI</string>
@@ -392,7 +390,7 @@
     <string name="drawer_background_dark">Тъмен</string>
     <string name="drawer_background_light">Светъл</string>
     <string name="drawer_background_transparency">Прозрачност на фона на чекмеджето за приложения</string>
-    <string name="drawer_settings">Чекмедже за приложения</string>
+    <string name="drawer_settings">Чекмедже с приложения</string>
     <string name="home_screen_settings">Начален екран</string>
     <string name="local_apps">Локални приложения</string>
     <string name="recommend_app">Предложения за приложения</string>
@@ -415,11 +413,11 @@
     <string name="all_apps_search_app">Търсене на приложения</string>
     <string name="all_apps_search_market_message">Онлайн търсене</string>
     <string name="all_apps_setting_desktop_desc">"Показване на всички инсталирани приложения на началния екран. Натиснете и задръжте иконата на приложението, за да видите наличните преки пътища, да управлявате или деинсталирате приложението."</string>
-    <string name="all_apps_setting_desktop_title">Нормално</string>
-    <string name="all_apps_setting_drawer_desc">"Поставяне на всички инсталирани приложения в чекмеджето за приложения, което можете да отворите, като плъзнете нагоре в начален екран. Все още ще можете да намерите приложенията, които сте преместили на началния екран в чекмеджето за приложенията."</string>
-    <string name="all_apps_setting_drawer_tips_desc">Чекмеджето за приложенията се отваря, като плъзнете нагоре в начален екран. Превключването в режим с чекмедже ще направи центърът за съдържание скрит. Превключване въпреки това?</string>
-    <string name="all_apps_setting_drawer_tips_title">Използване на чекмедже за приложения</string>
-    <string name="all_apps_setting_drawer_title">С чекмедже за приложения</string>
+    <string name="all_apps_setting_desktop_title">Стандартно</string>
+    <string name="all_apps_setting_drawer_desc">"Всички инсталирани приложения ще бъдат преместени в чекмеджето за приложения, което можете да отворите, като плъзнете нагоре в начален екран. Ще можете да намерите приложенията, които са били на началния екран в чекмеджето за приложенията."</string>
+    <string name="all_apps_setting_drawer_tips_desc">Чекмеджето за приложенията се отваря чрез плъзнете нагоре в начален екран. Ако превключите към режим с чекмедже, центърът за съдържание няма да е налице. Превключване въпреки това?</string>
+    <string name="all_apps_setting_drawer_tips_title">Използване на чекмедже с приложения</string>
+    <string name="all_apps_setting_drawer_title">Чекмедже с приложения</string>
     <string name="all_apps_setting_title">Начален екран</string>
     <string name="all_apps_slide_up_tips">Плъзгането нагоре се използва за отваряне на чекмеджето за приложения. Превключете към обикновен режим на началния екран и опитайте отново.</string>
     <string name="all_apps_suggestions">Предложения за приложения</string>
@@ -446,11 +444,11 @@
     <string name="category_choose_no_app_select_tip">Всяка категория трябва да съдържа поне 1 приложение.</string>
     <string name="category_drawer_name_hint">Въведете име на категорията</string>
     <string name="category_group">Категоризиране на приложенията</string>
-    <string name="category_group_summary">Категоризирайте приложенията в чекмеджето с приложения</string>
+    <string name="category_group_summary">Категоризиране на приложенията в чекмеджето с приложения</string>
     <string name="category_not_selected">Налични приложения</string>
-    <string name="delete_category_dialog_content">Няма да можете да възстановите тази категория, ако я изтриете. Изтриване?</string>
+    <string name="delete_category_dialog_content">"Няма да можете да възстановите тази категория, ако я изтриете. Изтриване въпреки това?"</string>
     <string name="delete_category_dialog_title">Изтриване на тази категория?</string>
     <string name="manager_group_settings">Управление на категориите на приложения</string>
-    <string name="reset_cate_tip_content">Ако продължите, групите приложения по подразбиране ще бъдат нулирани. Ще продължите ли?</string>
-    <string name="reset_cate_tip_title">Възстановяване на групи по подразбиране</string>
+    <string name="reset_cate_tip_content">Ако продължите, категориите приложения по подразбиране ще бъдат нулирани. Ще продължите ли?</string>
+    <string name="reset_cate_tip_title">Нулиране на категориите</string>
 </resources>
