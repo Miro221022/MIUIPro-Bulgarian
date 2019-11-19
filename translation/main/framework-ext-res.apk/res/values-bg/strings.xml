@@ -75,7 +75,7 @@
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">За да изключите тази услуга, натиснете бутона за усилване.</string>
     <string name="screen_button_notification_title">Навигационните бутони са деактивирани</string>
     <string name="screen_button_notification_text">"Натиснете 'Начало'+'Захранване' за включване."</string>
-    <string name="screen_paper_mode_enter_toast">Режим четене е включен. Управлявайте тази функция от Допълнителни настройки > Режим четене.</string>
+    <string name="screen_paper_mode_enter_toast">Режимът за четене е включен. Управлявайте тази функция от Допълнителни настройки > Режим четене.</string>
     <string name="sim_added_reboot_title">SIM картата ще бъде активна след рестартиране на устройството ви.</string>
     <string name="sim_added_reboot_confirm">Рестарт</string>
     <string name="softap_notifif_title">Преносимата точка за достъп \"%s\" е активна</string>

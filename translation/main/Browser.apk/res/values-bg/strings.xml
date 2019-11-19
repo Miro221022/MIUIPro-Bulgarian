@@ -45,7 +45,7 @@
   <string name="action_menu_text_fullscreen_exit">Изход от цял екран</string>
   <string name="action_menu_text_history">Отметки/История</string>
   <string name="action_menu_text_nightmode">Нощен режим</string>
-  <string name="action_menu_text_readmode">Режим четене</string>
+  <string name="action_menu_text_readmode">Режим за четене</string>
   <string name="action_menu_text_refresh">Обнови</string>
   <string name="action_menu_text_setting">Настройки</string>
   <string name="action_menu_text_share">Споделяне</string>
@@ -785,7 +785,7 @@
   <string name="pref_notifications_receive">Известия</string>
   <string name="pref_notifications_title">Известия</string>
   <string name="pref_other_title">Други</string>
-  <string name="pref_paper_mode_title">Режим четене</string>
+  <string name="pref_paper_mode_title">Режим за четене</string>
   <string name="pref_privacy_clear_cache">Изчистване на кеша</string>
   <string name="pref_privacy_clear_cache_dlg">Да се изтрие ли локалното кеширано съдържание и данни?</string>
   <string name="pref_privacy_clear_cache_summary">Изтриване на локалното кеширано съдържание и данни</string>
