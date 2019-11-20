@@ -108,28 +108,52 @@
          <item quantity="other">Направете %1$d стъпки, за да освободите %2$s</item>
          <item quantity="one">Направете %1$d стъпка, за да освободите %2$s</item>
      </plurals>
-     <plurals name="dc_item_summary_apk">
-         <item quantity="other">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; инсталационни пакета</item>
-         <item quantity="one">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; инсталационен пакет</item>
-     </plurals>
-     <plurals name="dc_item_summary_app_data">
-         <item quantity="other">Можете да изчистите данните за &lt;font color=#0097FF&gt;%d&lt;/font&gt; приложения</item>
-         <item quantity="one">Можете да изчистите данните за &lt;font color=#0097FF&gt;%d&lt;/font&gt; приложение</item>
-     </plurals>
-     <plurals name="dc_item_summary_image">
-         <item quantity="other">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; ненужни снимки</item>
-         <item quantity="one">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; ненужна снимка</item>
-     </plurals>
-     <plurals name="dc_item_summary_large_file">
-         <item quantity="other">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; големи файла</item>
-         <item quantity="one">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; голям файл</item>
-     </plurals>
-     <plurals name="dc_item_summary_uninstall_app">
-         <item quantity="other">Можете да деинсталирате &lt;font color=#0097FF&gt;%d&lt;/font&gt; рядко използвани приложения</item>
-         <item quantity="one">Можете да деинсталирате &lt;font color=#0097FF&gt;%d&lt;/font&gt; рядко използвано приложение</item>
-     </plurals>
-     <plurals name="dc_item_summary_video">
-         <item quantity="other">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; видеоклипа</item>
-         <item quantity="one">Можете да изтриете &lt;font color=#0097FF&gt;%d&lt;/font&gt; видеоклип</item>
-     </plurals>
+	     <plurals name="dc_group_title_normal">
+        <item quantity="other">Направете %1$d стъпки, за да освободите %2$s</item>
+        <item quantity="one">Направете %1$d стъпка, за да освободите %2$s</item>
+    </plurals>
+    <plurals name="dc_item_summary_apk">
+        <item quantity="other">&lt;Data>Можете да изтриете &lt;font color=#0097FF>%d&lt;/font> инсталационни пакета&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можете да изтриете &lt;font color=#0097FF>%d&lt;/font> инсталационен пакет&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_app_data">
+        <item quantity="other">&lt;Data>Можете да изчистите данните на &lt;font color=#0097FF>%d&lt;/font> приложения&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можете да изчистите данните на &lt;font color=#0097FF>%d&lt;/font> приложение&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_image">
+        <item quantity="other">&lt;Data>Можете да изтриете &lt;font color=#0097FF>%d&lt;/font> ненужни снимки&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можете да изтриете &lt;font color=#0097FF>%d&lt;/font> ненужна снимка&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_large_file">
+        <item quantity="other">&lt;Data>Можете да изтриете &lt;font color=#0097FF>%d&lt;/font> големи файла&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можете да изтриете &lt;font color=#0097FF>%d&lt;/font> голям файл&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_uninstall_app">
+        <item quantity="other">&lt;Data>Можете да деинсталирате &lt;font color=#0097FF>%d&lt;/font> рядко използвани приложения&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можете да деинсталирате &lt;font color=#0097FF>%d&lt;/font> рядко използвано приложение&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_video">
+        <item quantity="other">&lt;Data>Можете да изтриете &lt;font color=#0097FF>%d&lt;/font> видеоклипа&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можете да изтриете &lt;font color=#0097FF>%d&lt;/font> видеоклип&lt;/Data></item>
+    </plurals>
+	    <plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">&lt;Data>Освободени са &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достатъчни за &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> песни)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Освободени са &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достатъчни за &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> песен)&lt;/Data></item>
+    </plurals>
+    <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">&lt;Data>Освободени са &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достатъчни за &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> снимки)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Освободени са &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достатъчни за &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> снимка)&lt;/Data></item>
+    </plurals>
+    <plurals name="global_wa_image">
+        <item quantity="other">%1$d елемента</item>
+        <item quantity="one">%1$d елемент</item>
+    </plurals>
+    <plurals name="global_wa_video">
+        <item quantity="other">%1$d елемента</item>
+        <item quantity="one">%1$d елемент</item>
+    </plurals>
+    <plurals name="global_wa_voice">
+        <item quantity="other">&lt;Data>Намерени са &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> гласови съобщения&lt;/Data></item>
+        <item quantity="one">&lt;Data>Намерено е &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> гласово съобщение&lt;/Data></item>
+    </plurals>
 </resources>

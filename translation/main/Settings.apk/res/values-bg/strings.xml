@@ -6656,4 +6656,8 @@ OTG се изключва автоматично след 10 минути без
     <string name="wifi_link_turbo_summary">Увеличете скоростта на връзката за избрани приложения, използващи мобилни данни, когато WLAN връзката е лоша</string>
 	<string name="sunlight_mode">Режим за слънчева светлина</string>
     <string name="sunlight_mode_summary">Регулиране на яркостта към силната околна светлина, когато автоматичната яркост е изключена</string>
+	<string name="usb_headset_not_support_cancel">Разбрах</string>
+    <string name="usb_headset_not_support_message">"Не може да се възпроизвежда звук през адаптер. Използвайте цифрови слушалки
+или слушалки с 3,5мм букса."</string>
+    <string name="usb_headset_not_support_tile">"Не може да се изпълни звук"</string>
 </resources>

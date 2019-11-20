@@ -61,12 +61,12 @@
     <item quantity="one">Можете да изтеглите %1$d безплатна песен. Изтегляне на %2$s сега?</item>
   </plurals>
   <plurals name="notif_title_multiple_downloading">
-    <item quantity="other">Изтегляне на %1$d файлове</item>
+    <item quantity="other">Изтегляне на %1$d песни</item>
     <item quantity="one">Изтегляне на %1$d файл</item>
   </plurals>
   <plurals name="notification_download_failed_more">
-    <item quantity="other">%1$d елемента не могат да бъдат изтеглени</item>
-    <item quantity="one">%1$d елемент не може да бъде изтеглен</item>
+    <item quantity="other">"%1$d песни не могат да бъдат изтеглени"</item>
+    <item quantity="one">"%1$d песен не може да бъде изтеглен"</item>
   </plurals>
   <plurals name="Nquit_warning">
     <item quantity="other">Приложението ще спре след %d минути</item>
@@ -124,4 +124,8 @@
     <item quantity="other">%d оставащи дни</item>
     <item quantity="one">%d оставащ ден</item>
   </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d песни</item>
+        <item quantity="one">%1$d песен</item>
+    </plurals>
 </resources>

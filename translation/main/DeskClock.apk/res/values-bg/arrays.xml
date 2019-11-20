@@ -383,4 +383,31 @@
         <item>Черен</item>
         <item>Автоматично</item>
     </string-array>
+	     <string-array name="bedtime_guide_repeat_type">
+         <item>От понеделник до петък</item>
+         <item>Всеки ден</item>
+         <item>Работни дни</item>
+     </string-array>
+     <string-array name="bedtime_repeat_entries">
+         <item>Всеки ден</item>
+         <item>От понеделник до петък</item>
+         <item>Работни дни</item>
+         <item>По избор</item>
+     </string-array>
+     <string-array name="days_of_week">
+         <item>Нед</item>
+         <item>Пон</item>
+         <item>Вто</item>
+         <item>Сря</item>
+         <item>Чет</item>
+         <item>Пет</item>
+         <item>Съб</item>
+     </string-array>
+     <string-array name="notification_adv_time_entries">
+         <item>В определено време</item>
+         <item>15 минути предварително</item>
+         <item>30 минути предварително</item>
+         <item>1 часа предварително</item>
+         <item>Без</item>
+	 </string-array>
 </resources>

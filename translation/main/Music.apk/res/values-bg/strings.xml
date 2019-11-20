@@ -544,8 +544,8 @@
   <string name="not_now">Не сега</string>
   <string name="not_selected">Изберете песен</string>
   <string name="not_support_documentui">Файлове не се поддържа на това устройство</string>
-  <string name="notif_title_file_size">%1$d всичко</string>
-  <string name="notif_title_single_downloading">Изтеглен %1$s</string>
+  <string name="notif_title_file_size">%1$d общо</string>
+  <string name="notif_title_single_downloading">Изтегляне %1$s</string>
   <string name="notification_download_complete">Изтеглянето е завършено</string>
   <string name="notification_download_failed">Не може да се изтегли</string>
   <string name="notification_download_success_more">%1$d изтеглени</string>
@@ -602,7 +602,7 @@
   <string name="paused_insufficient_space">Изчакване</string>
   <string name="paused_queued_for_wifi">Изчакване за мрежа</string>
   <string name="paused_unknown">На пауза</string>
-  <string name="paused_waiting_for_network">Изчакване за мрежа</string>
+  <string name="paused_waiting_for_network">Изчаква се връзка</string>
   <string name="paused_waiting_to_retry">Изчакване за повторен опит.</string>
   <string name="pay_now">Плащане сега</string>
   <string name="payment_success_message">Благодаря! Вашето плащане е обработено успешно. Насладете се на професионални услуги.</string>
@@ -865,4 +865,13 @@
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКБ</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
   <string name="you_can_switch_mode_in_settings">Можете да превключвате между режими от Настройки</string>
+  <string name="action_item_comments">Коментар</string>
+  <string name="cta_runtime_perm_desc_audio2">" (По избор) Достъп до микрофон за предоставяне на услуги за разпознаване на музика."</string>
+  <string name="cta_runtime_perm_desc_location2">" (По избор) Достъп до местоположението ви, за да излъчвате местни радиостанции."</string>
+  <string name="declaration_main_content2"><Data>"Ако не сте съгласни да дадете тези разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. В такъв случай можете да го деинсталирате, да се отпишете или да ограничите разрешенията в Настройки. Прочетете и се съгласете с нашите &lt;a href=\"http://www.miui.com/res/doc/eula/en.html\">Потребителско споразумение&lt;/a> и &lt;a href=\"https://static.music.xiaomi.com/privacy?lang=%1$s\">Политика а поверителност&lt;/a> преди да използвате Mi Музика."</Data></string>
+  <string name="headline_content_issue_feedback">Отзиви по проблеми със съдържанието</string>
+  <string name="sleep_mode_seek_bar_end">120 минути</string>
+  <string name="sleep_mode_seek_bar_start">1 минута</string>
+  <string name="channel_name_download">Мениджър на изтеглянията</string>
+  <string name="download_service_running">Управлението на изтеглянията работи</string>
 </resources>
