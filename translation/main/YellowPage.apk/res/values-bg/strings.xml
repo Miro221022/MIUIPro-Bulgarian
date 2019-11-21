@@ -357,4 +357,10 @@
   <string name="yellowpage_user_profile">Профил</string>
   <string name="yellowPageNavigationIconLabel">Жълти страници</string>
   <string name="yellowPageNavigationLabel">Жълти страници</string>
+    <string name="user_notice_all_purpose_yellowpage">Добре дошли в Жълти страници! Можете да използвате това приложение, за да разпознаете идентификационните номера на обаждащите се и да идентифицирате евентуални измамни повиквания. Телефон и контакти трябва да се свърже с интернет, за да може това приложение да работи нормално.</string>
+    <string name="user_notice_permission_desc_read_phone_state_palmhall">За достъп до IMEI</string>
+    <string name="heduohao_login_again_tip">Входът изтече, моля, влезте отново!</string>
+    <string name="heduohao_login_title">Вписване в HeDuoHao</string>
+    <string name="sina_token_expired_warning">Профилът в Weibo изтече, добавете го отново.</string>
+    <string name="sina_token_invalid_warning">Профилът в Weibo е невалиден, добавете го отново.</string>
 </resources>

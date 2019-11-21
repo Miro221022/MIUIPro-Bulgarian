@@ -106,4 +106,5 @@
     <string name="net_booster_overdue_notification">Сесията за повишаване на скоростта на мрежата е към приключване</string>
     <string name="net_booster_overdue_notification_tip">Сесията за повишаване на скоростта на мрежата ще приключи скоро. Подновяване на сесията?</string>
     <string name="renew_now">Подновяване</string>
+	<string name="kid_mode_privacy_policy_msg">Политика за поверителност на Детско пространство</string>
 </resources>
