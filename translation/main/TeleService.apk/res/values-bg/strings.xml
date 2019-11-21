@@ -1259,7 +1259,7 @@
     <string name="bad_pin2">Въведеният от вас стар PIN2 не е правилен. Моля, опитайте отново.</string>
     <string name="bad_pin2_old">Въведеният от вас стар PIN2 е неправилен.</string>
     <string name="mismatch_pin2">Въведените PIN2 не са идентични. Опитайте отново.</string>
-    <string name="invalid_pin2">Въведете PIN2, който е с % 1$d до %2$d цифри.</string>
+    <string name="invalid_pin2">Въведете PIN2, който е с %1$d до %2$d цифри.</string>
     <string name="invalid_puk2">Въведете PUK2, който е с %d цифри.</string>
     <string name="pin2_lock_warning">\" Функциите на PIN2 ще бъдат блокирани, ако отново зададете грешен PIN2 код!\"</string>
     <string name="puk2_label">Въведете PUK2</string>
