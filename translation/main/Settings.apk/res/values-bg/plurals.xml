@@ -61,24 +61,24 @@
         <item quantity="one">1 елемент</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">Изключително кратко забавяне (%1$d милисек)</item>
-        <item quantity="one">Изключително кратко забавяне (%1$d милисек)</item>
+        <item quantity="other">Изключително кратко забавяне (%1$d мс)</item>
+        <item quantity="one">Изключително кратко забавяне (%1$d мс)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-        <item quantity="other">Много кратко забавяне (%1$d милисек)</item>
-        <item quantity="one">Много кратко забавяне (%1$d милисек)</item>
+        <item quantity="other">Много кратко забавяне (%1$d мс)</item>
+        <item quantity="one">Много кратко забавяне (%1$d мс)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Кратко забавяне (%1$d милисек)</item>
-        <item quantity="one">Кратко забавяне (%1$d милисек)</item>
+        <item quantity="other">Кратко забавяне (%1$d мс)</item>
+        <item quantity="one">Кратко забавяне (%1$d мс)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Дълго забавяне (%1$d милисек)</item>
-        <item quantity="one">Дълго забавяне (%1$d милисек)</item>
+        <item quantity="other">Дълго забавяне (%1$d мс)</item>
+        <item quantity="one">Дълго забавяне (%1$d мс)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-        <item quantity="other">Много дълго забавяне (%1$d милисек)</item>
-        <item quantity="one">Много дълго забавяне (%1$d милисек)</item>
+        <item quantity="other">Много дълго забавяне (%1$d мс)</item>
+        <item quantity="one">Много дълго забавяне (%1$d мс)</item>
     </plurals>
     <plurals name="print_settings_title">
         <item quantity="other">%d задания за отпечатване</item>
