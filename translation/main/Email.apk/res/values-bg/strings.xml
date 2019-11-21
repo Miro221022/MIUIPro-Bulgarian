@@ -1185,4 +1185,15 @@
     <string name="user_privacy_settings_path">Съвет: Можете да оттеглите разрешението си в настройките за поверителност на потребителя, настройка - настройки за поверителност на потребителя.</string>
     <string name="user_privacy_settings_summary">Ние ще получим вашия Android ID (криптиран като вашия уникален идентификационен номер на потребител с помощта на MI Mail) или отчет за операции. Имате право да оттеглите разрешението си по всяко време чрез настройки за поверителност на потребителя.</string>
     <string name="user_privacy_settings_title">Напомняне за правата за поверителност на MI Mail</string>
+	<string name="confirm_age">Потвърдете възрастта</string>
+	<string name="over_16_content">Потвърждаване над 16?</string>
+	<string name="over_sixteen">"Аз съм над 16 години."</string>
+	<string name="setting_kids_title">Над 16 години.</string>
+	<string name="under_16_content">Потвърждаване под 16?</string>
+	<string name="under_sixteen">"Аз съм под 16 години."</string>
+	<string name="pl_select_age">Моля изберете възраст.</string>
+	<string name="user_privacy_settings">Настройки за поверителност</string>
+	<string name="user_privacy_settings_agreement_authorization">"(Чрез избирането на \"Позволи\" предоставяте на WPS Mail всички необходими разрешения)"</string>
+	<string name="privacy_setting_agree">Приемам</string>
+	<string name="account_add_title">Изберете имейл услуга</string>
 </resources>
