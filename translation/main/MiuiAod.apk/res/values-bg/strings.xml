@@ -90,7 +90,7 @@
   <string name="standard_clock_panel">Стандартно</string>
   <string name="standard_style">Стандартно</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="summary">За да се намали консумацията на енергия, елементите няма да се показват в следните ситуации:\n1. Когато устройството остане на тъмно за дълго време.\n2. Когато режимът Не ме безпокойте е включен.</string>
+  <string name="summary">"За да се намали консумацията на енергия, елементите няма да се показват, когато устройството ви дълго време е било на тъмно."</string>
   <string name="temporary_style">10 секунди след докосване</string>
   <string name="text_color">Цвят на текста</string>
   <string name="text_length_exceed_limit_alert">*Текстът, който въведохте, е твърде дълъг</string>
@@ -98,4 +98,7 @@
   <string name="time_location">Позиция на часовника</string>
   <string name="time_style">Стил</string>
   <string name="time_style_layout">Оформление</string>
+  <string name="disable_aod_in_power_save_mode">Изключване когато пестенето на батерия е включено</string>
+  <string name="disable_aod_in_power_save_mode_summary">"Без показване на елементи, за да се спести енергия"</string>
+  <string name="photo_editor_saving">Запазване…</string>
 </resources>
