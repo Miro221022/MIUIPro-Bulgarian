@@ -72,7 +72,7 @@
     <string name="superpower_app_finish">Готово</string>
     <string name="superpower_battery_dangerous">Свържете зарядното устройство възможно най-скоро</string>
     <string name="superpower_date">EEEE, dd MMMM</string>
-    <string name="superpower_dialog_app_select_content">Приложенията на трети страни обикновено консумират повече енергия от системните приложения. Добавяне въпреки това?</string>
+    <string name="superpower_dialog_app_select_content">Приложенията от трети страни обикновено консумират повече енергия от системните приложения. Добавяне въпреки това?</string>
     <string name="superpower_dialog_app_select_title">Внимание</string>
     <string name="superpower_incharging">Зареждане</string>
     <string name="superpower_progress_battery_last">%s остава</string>

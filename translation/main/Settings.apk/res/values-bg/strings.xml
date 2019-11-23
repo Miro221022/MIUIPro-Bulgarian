@@ -6646,4 +6646,9 @@ OTG се изключва автоматично след 10 минути без
     <string name="usb_headset_not_support_message">"Не може да се възпроизвежда звук през адаптер. Използвайте цифрови слушалки
 или слушалки с 3,5мм букса."</string>
     <string name="usb_headset_not_support_tile">"Не може да се изпълни звук"</string>
+	<string name="mtp_connection_failed">"Не могат да се прехвърлят файлове на свързания компютър. Опитайте отстраняване на проблеми."</string>
+    <string name="mtp_connection_failed_title">USB връзка</string>
+    <string name="mtp_connection_not_remind">"Не показвай отново"</string>
+    <string name="mtp_solution_button_cancel">Разбрах</string>
+    <string name="mtp_solution_button_ok">Отстраняване на проблеми</string>
 </resources>

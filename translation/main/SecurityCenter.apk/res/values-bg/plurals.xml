@@ -460,4 +460,12 @@
     <item quantity="other">Троянски коне: %d</item>
     <item quantity="one">Троянски кон: %d</item>
   </plurals>
+      <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s часа</item>
+        <item quantity="one">%s час</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s минути</item>
+        <item quantity="one">%s миниута</item>
+    </plurals>
 </resources>

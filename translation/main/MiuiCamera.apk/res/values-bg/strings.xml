@@ -1005,4 +1005,13 @@
    <string name="pref_qc_focus_position_title_abbr">АВТОФОКУС</string>
    <string name="pref_camera_heic_image_format_description">Правете снимки във високоефективен HEIF формат</string>
    <string name="pref_camera_heic_image_format_title">HEIC формат</string>
+    <string name="document_blackwhite">Черно и бяло</string>
+    <string name="document_blur_warn">Размазан текст</string>
+    <string name="document_origin">Оригинално изображение</string>
+    <string name="document_strengthen">Подобряване</string>
+    <string name="pref_document_mode">Режим документи</string>
+	<string name="pref_camera_first_tag_tips">Маркиран успешно</string>
+    <string name="pref_camera_video_tag">Разрешаване на маркиране на видеоклипове</string>
+    <string name="pref_camera_video_tag_description">Докоснете \"Маркиране\" докато снимате видео, за да можете да се върнете към отбелязаните моменти по време на възпроизвеждане</string>
+    <string name="video_tag_flag_title">Маркиране</string>
 </resources>
