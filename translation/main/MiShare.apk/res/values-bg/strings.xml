@@ -161,4 +161,7 @@
 	<string name="mishare_settings_summary_international">"Можете да използвате Mi Споделяне, за да изпращате елементи до устройства в близост.
 Mi Споделяне е съвместимо с телефони Mi и Redmi.
 OPPO, vivo, realme и други марки скоро ще бъдат съвместими и с Mi Споделяне. Можете да проверите списъка със съвместими устройства на нашия уебсайт."</string>
+    <string name="error_receive_file_service_disabled">Отменен входящ трансфер</string>
+    <string name="error_send_file_service_disabled">Отменен изходящ трансфер</string>
+    <string name="send_files_to_remote_success_title">Изпратено успешно</string>
 </resources>

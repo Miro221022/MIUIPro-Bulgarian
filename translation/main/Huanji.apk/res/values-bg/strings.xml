@@ -29,8 +29,8 @@
     <string name="cancel_description">Отказ</string>
     <string name="cancel_moving_dialog_message">Спиране на импортирането сега?</string>
     <string name="cancel_moving_dialog_title">Спиране на импортирането</string>
-    <string name="cannot_use_mi_huanji_summary">"Изглежда, че в момента архивирате елементи. Спрете текущото архивиране или изчакайте, докато завърши, за да можете да използвате Mi Трансфер."</string>
-    <string name="cannot_use_mi_huanji_title">"Не може да се използва Mi Трансфер"</string>
+    <string name="cannot_use_mi_huanji_summary">Изглежда, че в момента MIUI архивира елементи. Спрете текущите резервни копия или рестартирайте устройството си, за да позволите на Mi Mover да започне прехвърлянето</string>
+    <string name="cannot_use_mi_huanji_title">"Сега не може да се прехвърля"</string>
     <string name="check_phone_error_title">Синхронизирането е изключено</string>
     <string name="check_phone_io_error">"Не може да се свърже с мрежата"</string>
     <string name="chinese_day_elementary">初</string>
@@ -336,7 +336,8 @@
     <string name="dialog_backup_password_verify">потвърждаване</string>
     <string name="dialog_request_network_btn_negative">Изход</string>
     <string name="dialog_request_network_btn_positive">Съгласявам се</string>
-    <string name="dialog_request_network_message">Добре дошли в Mi Трансфер! Можете да използвате това приложение, за да прехвърляте елементи от старото си устройство към ново. Mi Трансфер трябва да се свърже с интернет, за да работи нормално.</string>
+    <string name="dialog_request_network_message">"Добре дошли в Mi Трансфер! Можете да използвате това приложение, за да прехвърляте данни от старото си устройство към новото.
+Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност. Обърнете внимание, че Mi Mover трябва да се свърже с интернет и изисква следните разрешения за събиране на вашата лична информация: включване и изключване на Wi-Fi, достъп и прехвърляне на вашите контакти, история на разговорите, SMS, MMS, записи на разговори и аудио записи."</string>
     <string name="dialog_tip_upgrade_summary">Изглежда, че Mi Транфсер е твърде стара версия. Актуализирайте го до най-новата му версия, за да можете да прехвърляте файлове.</string>
     <string name="dialog_tip_upgrade_title">Актуализация на Mi Транфсер</string>
     <string name="dialog_version_summary_tip">Какво ново:</string>
@@ -430,7 +431,7 @@
     <string name="friday_shortest">П</string>
     <string name="get_known_tip">Опитайте отново</string>
     <string name="group_info_scanning">Изчисляване…</string>
-    <string name="guest_hint_connect_new_device">Изберете новото си устройство, за да се свържете</string>
+    <string name="guest_hint_connect_new_device">Докоснете новото устройство, за да се свържете</string>
     <string name="guest_unfinished_task_alert_btn_negative">Започни отначало</string>
     <string name="guest_unfinished_task_alert_btn_positive">Продължи</string>
     <string name="guest_unfinished_task_alert_message">Изглежда имате незавършени задачи за трансфер. Да продължа ли с трансфера?</string>
@@ -456,8 +457,7 @@
     <string name="hsa_send_again_countdown">Изпрети отново (%dс)</string>
     <string name="hsa_send_failed">"Не може да се изпрати код за потвърждение. Изчакайте минута или две и опитайте отново."</string>
     <string name="hsa_sending">Изпращане…</string>
-    <string name="hsa_tip_message">"1. Ако не можете да получите кода за потвърждение, уверете се, че вече сте влезли в iCloud на вашето Apple устройство.
-2. Ако въвеждането на кода за потвърждение не помогне, изключете двуфакторното удостоверяване. "</string>
+    <string name="hsa_tip_message">"Ако не можете да получите кода за потвърждение, уверете се, че вече сте влезли в iCloud на вашето Apple устройство."</string>
     <string name="hsa_tip_message_shutdown_hsa">Как да изключите двуфакторното удостоверяване</string>
     <string name="hsa_tip_title">Помощ</string>
     <string name="hsa_verify_failed">"Двуфакторното удостоверяване не работи"</string>
@@ -485,7 +485,7 @@
     <string name="import_again">Импортирай отново</string>
     <string name="import_data_from_icloud">Импортиране на данни от iCloud</string>
     <string name="install_app_dialog_title">"Не бяха намерени устройства в близост"</string>
-    <string name="install_app_link_text">Инсталирайте най-новата версия на Mi Трансфер на старото си устройство</string>
+    <string name="install_app_link_text">"Защо старото ми устройство не може да се свърже с горещата точка?"</string>
     <string name="install_app_message">"Ако не можете да намерите новото си устройство дълго време, опитайте следното:
 1. Уверете се, че Mi Трансфер е инсталиран на новото ви устройство.
 2. Сближете двете устройства."</string>
@@ -505,8 +505,8 @@
     <string name="logining">Вписване…</string>
     <string name="main_button_continue">Продължи</string>
     <string name="main_button_quit">Изход</string>
-    <string name="main_chooser_item_android_mi">Импортиране от Android устройство</string>
-    <string name="main_chooser_item_ios">Импортиране от iOS устройство</string>
+    <string name="main_chooser_item_android_mi">Импортиране от Xiaomi устройство</string>
+    <string name="main_chooser_item_ios">Импортиране от Apple устройство</string>
     <string name="main_chooser_title">Изберете старо устройство</string>
     <string name="message_request_package_stats_perm">Докоснете \"Продължи\", за да отворите настройките и дайте на Mi Трансфер необходимите разрешения.</string>
     <string name="mms">MMS</string>
@@ -555,30 +555,32 @@
     <string name="name_password_not_consistent">"Въведеният от вас Apple ID и парола не съвпадат"</string>
     <string name="need_more_memory_cacel">Отказ</string>
     <string name="need_more_memory_confirm">Почистване</string>
-    <string name="need_more_memory_summary">"Данните от приложението на трети страни трябва да бъдат компресирани, преди да бъдат прехвърлени. Mi Mover се нуждае от %1$s допълнително пространство за съхранение, за да създаде компресирани пакети.
-1. Опитайте да прехвърлите само важните елементи.
-2. Деинсталирайте приложенията, които не ви трябват.
-3. Използвайте Почистване, за да освободите място за съхранение."</string>
+    <string name="need_more_memory_summary">"Няма достатъчно място за съхранение. Mi Трансфер се нуждае от %1$s допълнително пространство за съхранение за създаване на компресирани пакети преди трансфера.
+1. Опитайте да прехвърлите само важни елементи.
+2. Не избирайте приложения с много данни.
+3. Почистете, за да освободите място за съхранение."</string>
     <string name="need_more_memory_title">Няма достатъчно място за съхранение</string>
     <string name="new_main_activity_label">Mi Трансфер</string>
-    <string name="new_trans_intro_desc_2">Отменете трансфера, излезте от Mi Трансфер и започнете отначало. Mi Трансфер ще може да започне трансфера от мястото, където е спрял.</string>
-    <string name="new_trans_intro_desc_3">"Mi Трансфер използва Wi-Fi за прехвърляне на файлове. Ето защо не можете да се свържете с интернет с помощта на Wi-Fi на всяко устройство по време на прехвърляне."</string>
-    <string name="new_trans_intro_desc_4">Пространството за съхранение на старите устройства се използва за създаване на трансферни пакети. Уверете се, че разполагате с поне 2 ГБ на разположение на старото си устройство, преди да започнете трансфер.</string>
-    <string name="new_trans_intro_desc_5">Има няколко причини, поради които това може да се случи: проблеми със съвместимостта на системни версии и приложенията, проблеми с мрежата, проблеми със съвместимостта, специфични за конкретно устройство и т.н.</string>
-    <string name="new_trans_intro_desc_6">Някои профили на приложения (електронно банкиране, финанси и др.) са свързани с конкретно устройство поради съображения за сигурност. Опитайте да изчистите данните от приложението или да го инсталирате отново на ново устройство.</string>
-    <string name="new_trans_intro_desc_7">"Данните от приложението на WeChat и историята на чата може да не бъдат напълно прехвърлени с помощта на Mi Трансфер, ако сте влезли в WeChat по време на прехвърлянето. Отидете в настройките на WeChat и излезте от профила си, за да получите повече шансове за успешен трансфер."</string>
-    <string name="new_trans_intro_desc_new">"Докоснете \"Аз съм получател\". Изберете \"Импортиране от старото устройство\". Ще се генерира гореща точка."</string>
-    <string name="new_trans_intro_desc_old">"Докоснете \"Аз съм подател\". Свържете се с новото си устройство, изберете елементите за прехвърляне и докоснете Изпращане."</string>
-    <string name="new_trans_intro_question_1">1. Как да използвам Mi Трансфер за преместване на данни от устройство с Android?</string>
-    <string name="new_trans_intro_question_2">2. Какво трябва да направя, ако Mi Mover забие на определена стъпка?</string>
-    <string name="new_trans_intro_question_3">"3. Защо не мога да използвам Wi-Fi по време на прехвърляне?"</string>
-    <string name="new_trans_intro_question_4">"4. Защо Mi Трансфер ми казва, че няма достатъчно място за съхранение на старото ми устройство?"</string>
-    <string name="new_trans_intro_question_5">"5. Защо някои приложения не се прехвърлят успешно?"</string>
-    <string name="new_trans_intro_question_6">"6. Защо някои приложения не стартират на новото устройство?"</string>
-    <string name="new_trans_intro_question_7">"7. Защо историята на WeChat не е прехвърлена напълно?"</string>
+    <string name="new_trans_intro_desc_2">"Няма нужда да въвеждате парола в новата версия на Mi Трансфер. Просто отворете Mi Трансфер на старото си устройство, докоснете \"Аз съм подател\" и докоснете името на горещата точка, за да се свържете.".</string>
+    <string name="new_trans_intro_desc_3">Mi Трансфер се нуждае от място за съхранение, за да създаде пакет за прехвърляне на старото ви устройство, преди да го изпрати на новото. Освободете място за съхранение, за да можете да продължите.</string>
+    <string name="new_trans_intro_desc_4">Възможно е да има проблеми със съвместимостта на устройството, системата и версията на приложенията, които не позволяват успешно да се прехвърлят някои приложения.</string>
+    <string name="new_trans_intro_desc_5">"Някои приложения (например финансови услуги и инструменти за плащане) не позволяват прехвърляне на пароли поради съображения за сигурност.."</string>
+    <string name="new_trans_intro_desc_6">Вашият нов Mi телефон може да няма необходимите разрешения за това</string>
+    <string name="new_trans_intro_desc_7">Mi Трансфер ще може да започне от там, където сте спрели. Въпреки това може да се наложи да започнете отначало, ако проблемите със съвместимостта на устройството ви пречат да възобновите прекъснатия трансфер</string>
+    <string name="new_trans_intro_desc_new">1.  Уверете се, че Mi Трансфер на новото ви устройство е актуален. Можете да изтеглите последната версия на Mi Трансфер от GetApps или да използвате тази връзка: %1$s.</string>
+    <string name="new_trans_intro_desc_old">"2. Ако горещата точка все още не се показва в Mi Трансфер, отворете настройките за Wi-Fi и проверете дали можете да го видите там. Ако е така, върнете се към Mi Трансфер и докоснете името на горещата точка."</string>
+    <string name="new_trans_intro_question_1">"1. Защо не мога да видя горещата точка от новото устройство на старото?"</string>
+    <string name="new_trans_intro_question_2">2. Каква е паролата на горещата точка?</string>
+    <string name="new_trans_intro_question_3">"3. Защо пише, че на старото устройство няма достатъчно място за съхранение?"</string>
+    <string name="new_trans_intro_question_4">"4. Защо не се прехвърлят всички приложения успешно?"</string>
+    <string name="new_trans_intro_question_5">"5. Защо паролите на някои акаунти на приложения от трети страни не се прехвърлят успешно?"</string>
+    <string name="new_trans_intro_question_6">"6. Защо не могат да се прехвърлят данни от приложението от устройство от трета страна?"</string>
+    <string name="new_trans_intro_question_7">7. Ако изляза от Mi Трансфер по време на прехвърляне, ще трябва ли да започна отначало?</string>
     <string name="new_trans_intro_title_new">"На новото устройство: "</string>
     <string name="new_trans_intro_title_old">"На старото устройство: "</string>
-    <string name="new_wait_link_first">Отворете Mi Трансфер на старото си устройство</string>
+    <string name="new_wait_link_first">"1. Отворете Mi Трансфер на старото си устройство.
+2. Докоснете \"Аз съм подател\" и изчакайте.
+3. Изберете следното гореща точка на старото устройство."</string>
     <string name="nickname">Потребителско име</string>
     <string name="no_more_memory_title">Няма достатъчно място за съхранение на това устройство, за да започне прехвърляне. Освободете място за съхранение и опитайте отново.</string>
     <string name="no_network">"Не може да се свърже с мрежата"</string>
@@ -661,7 +663,7 @@
     <string name="scanner_title_tip">Изберете елементи за прехвърляне</string>
     <string name="search_input_description">Търсене</string>
     <string name="search_mode_button_back_description">Назад</string>
-    <string name="searching_for_new_device">Търсене на ново устройство…</string>
+    <string name="searching_for_new_device">Търсене на устройства в близост ...</string>
     <string name="select_all">Избери всички</string>
     <string name="select_all_description">Избери всички</string>
     <string name="select_empty">Първо изберете елементи за импортиране</string>
@@ -718,7 +720,7 @@
     <string name="sunday">Неделя</string>
     <string name="sunday_short">Нед</string>
     <string name="sunday_shortest">Н</string>
-    <string name="switching_to_5g">Превключване към 5 GHz Wi-Fi…</string>
+    <string name="switching_to_5g">Превключване към 5 ГХц мрежа…</string>
     <string name="sync_one_time_sync">Докоснете за синхронизиране ( %1$s )</string>
     <string name="task_backup_cancel_progress">Отказване…</string>
     <string name="task_canceled_all_local">Отказано</string>
@@ -780,8 +782,8 @@
     <string name="trans_detail_wechat_data">WeChat данни (включително историята на чата)</string>
     <string name="trans_install_guide_new_content_first">"Сканирайте този QR код с новото си устройство.
 Изтеглете и инсталирайте Mi Трансфер."</string>
-    <string name="trans_install_guide_old_content_first">"Сканирайте този QR код със старото си устройство.
-Изтеглете и инсталирайте Mi Трансфер."</string>
+    <string name="trans_install_guide_old_content_first">"Mi Трансфер е предварително инсталиран на всички устройства, работещи с MIUI 11.
+Ако Mi Трансфер не е инсталиран на старото ви устройство, можете да сканирате QR кода, за да го изтеглите."</string>
     <string name="trans_intro_title">ЧЗВ</string>
     <string name="trans_main_activity_tutor_first">"Преместете вашите снимки, контакти, съобщения, история на обажданията,
 звуци, видео, документи и приложения в новото устройство"</string>
@@ -925,4 +927,42 @@
     <string name="host_dialog_message">Уверете се, че последната версия на Mi Трансфер е инсталирана на другото устройство, в противен случай двете устройства може да не успеят да се свържат.</string>
     <string name="host_dialog_title">"Не може да се свърже дълго време"</string>
     <string name="search_action_mode_cancel">Отказ</string>
+	<string name="account_or_password_incorrect">Неправилен идентификационен номер или парола на акаунта</string>
+    <string name="cannot_use_mi_huanji_button">Рабрах</string>
+    <string name="connect_icloud_fail">"Не може да се свърже с iCloud"</string>
+    <string name="connect_icloud_fail_tips">Уверете се, че вашият iCloud акаунт е активиран. Ако не е, отидете на icloud.com и следвайте инструкциите, за да го активирате.</string>
+    <string name="connection_tips_activity_label">Отстраняване на проблеми</string>
+    <string name="connection_tips_other_message">"1. Уверете се, че последната версия на Mi Трансфер е инсталирана на старото ви устройство. Можете да изтеглите последната версия от GetApps или да използвате тази връзка: %1$s.
+2. Ако горещата точка на новото устройство не се появи в Mi Трансфер, отворете Wi-Fi настройките и проверете дали можете да я видите там. Ако го направите, не я докосвайте.
+3. Върнете се при Mi Трансфер и докоснете името на горещата точка."</string>
+    <string name="connection_tips_other_title">Ако старото ви устройство е телефон с Андроид от трета страна:</string>
+    <string name="connection_tips_owner_message">Mi Трансфер е предварително инсталиран на всички устройства, работещи с MIUI 11. Ако имате по-стара версия на MIUI, можете да изтеглите последната версия на Mi Mover в GetApps или да използвате тази връзка: %1$s.</string>
+    <string name="connection_tips_owner_title">Ако старото ви устройство е Mi телефон:</string>
+    <string name="icloud_signin_fail">"Неуспешно вписване"</string>
+    <string name="icloud_signin_fail_message">Идентификационният ви номер в Apple е заключен поради съображения за сигурност. Отидете на iforgot.apple.com и следвайте инструкциите.</string>
+    <string name="install_complete_count_down_time">Инсталирано е успешно. Стартиране на трансфера (%1$d)</string>
+    <string name="new_trans_intro_desc_8">Историята на WeChat от старото ви устройство ще презапише историята на Wechat на вашето ново устройство по време на прехвърлянето.</string>
+    <string name="new_trans_intro_question_8">8. Защо историята на WeChat изчезна на новото устройство?</string>
+    <string name="new_trans_intro_desc_new_click">Изтегляне</string>
+    <string name="send_verification_code_fail">"Не може да се изпрати код за потвърждение"</string>
+    <string name="send_verification_code_fail_tips">"Уверете се, че сте влезли с този акаунт на Apple устройството си. В противен случай няма да можете да получите кода."</string>
+    <string name="settings_powerkeeper">Данни за брояча на стъпки</string>
+    <string name="transfer_multi_connect_summary">Прехвърлянето ви бе прекъснато поради съображения за сигурност. Можете да докоснете \"Свържи отново\", за да продължите.</string>
+    <string name="transfer_multi_connect_title">Изглежда, че към тази гореща точка са свързани няколко устройства</string>
+    <string name="dialog_request_network_message_extra">"Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. В такива сличаи можете да деинсталирате това приложение или да ограничите разрешенията в Настройки."</string>
+    <string name="guest_install_app_hint_ensure">Изтегляне</string>
+    <string name="guest_install_app_hint_summary">"Новата версия на Mi Трансфер не е съвместима с тази, инсталирана на това устройство. Изтеглете и инсталирайте новата версия."</string>
+    <string name="guest_install_app_hint_title">Изтеглете новата версия на Mi Mover</string>
+    <string name="host_boot_installation_button">Следващо</string>
+    <string name="host_boot_installation_content">"1. Отворете Настройки на старото си устройство.
+2. Въведете \"Mi Трансфер\" в лентата за търсене.
+3. Докоснете \"Mi Трансфер\" в лентата за търсене."</string>
+    <string name="host_boot_installation_dialog_message">"Версията на Mi Трансфер на старото ви устройство не е съвместима с инсталираната тук. Актуализирайте Mi Трансфер на старото си устройство."</string>
+    <string name="host_boot_installation_first_title">Отворете Mi Трансфер на старото си устройство</string>
+    <string name="host_boot_installation_message">"Изберете страницата, която виждате на старото си устройство. Ако използвате стара версия на Mi Трансфер, ще ви кажем как да я актуализирате."</string>
+    <string name="host_boot_installation_second_title">Изберете страницата, която виждате</string>
+    <string name="host_boot_installation_tips">"Не можете да намерите Mi Трансфер? Докоснете, за да го изтеглите."</string>
+    <string name="main_chooser_item_android_others">Импортиране от друг Android телефон</string>
+    <string name="new_app_name">Нова версия</string>
+    <string name="old_app_name">Стара версия</string>
 </resources>

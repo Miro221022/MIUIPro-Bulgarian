@@ -1466,4 +1466,5 @@
     <string name="app_category_video">Филми и видео</string>
 	<string name="volume_dialog_ringer_guidance_silent">Обажданията и известията ще бъдат заглушени</string>
     <string name="volume_dialog_ringer_guidance_vibrate">Обажданията и известията ще са с вибрация</string>
+	<string name="app_running_notification_tip_text">Това може да забави вашето устройство и да изтощи батерията. Докоснете, за да излезете от приложението</string>
 </resources>

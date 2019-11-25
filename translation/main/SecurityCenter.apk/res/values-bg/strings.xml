@@ -2752,4 +2752,9 @@
     <string name="notification_low_battery_title">Остават по-малко от %s батерия</string>
     <string name="open_extreme_power_save_mode_title">Включи Екстремно пестене на батерия</string>
     <string name="save_mode_btn_ok">Разбрах</string>
+	<string name="app_running_tip_dialog_negative">Отказ</string>
+    <string name="app_running_tip_dialog_positive">OK</string>
+    <string name="app_running_tip_dialog_text">Излезте от %1$s , за да му попречите да стартира на заден план. Това ще ускори вашето устройство и ще намали консумацията на енергия.</string>
+    <string name="app_running_tip_dialog_title">Излизане от приложението</string>
+    <string name="app_running_tip_uninstall">Деинсталиране на това приложение</string>
 </resources>

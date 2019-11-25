@@ -144,4 +144,8 @@
         <item quantity="other">" минути"</item>
         <item quantity="one">" минута"</item>
     </plurals>
+	    <plurals name="other_all_day_events">
+        <item quantity="other">Още %d събития</item>
+        <item quantity="one">Още %d събитие</item>
+    </plurals>
 </resources>
