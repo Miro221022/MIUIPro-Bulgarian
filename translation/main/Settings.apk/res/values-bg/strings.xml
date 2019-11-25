@@ -6651,4 +6651,6 @@ OTG се изключва автоматично след 10 минути без
     <string name="mtp_connection_not_remind">"Не показвай отново"</string>
     <string name="mtp_solution_button_cancel">Разбрах</string>
     <string name="mtp_solution_button_ok">Отстраняване на проблеми</string>
+	<string name="fingerprint_wakeup_title">Събужадане със скенера за пръстови отпечатъци</string>
+    <string name="fingerprint_wakeup_summary">Събуждане на устройството, ако няма зададено отключване с отпечатъци</string>
 </resources>

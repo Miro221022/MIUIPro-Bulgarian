@@ -50,7 +50,7 @@
         <item>Изчисляване на целта за сън…</item>
         <item>Цел на съня: %1$d часа</item>
         <item>Засега няма данни за съня</item>
-        <item>Отваряне на Mi Health</item>
+        <item>Отваряне на Mi Здраве</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>℃</item>
