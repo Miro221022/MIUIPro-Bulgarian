@@ -198,7 +198,7 @@
     <string name="no_default_apps">Няма стандартни приложия</string>
     <string name="no_permission_usages">Разрешенията не са използвани</string>
     <string name="no_permissions">Няма разрешения</string>
-    <string name="no_permissions_allowed">Няма позволени разрешения</string>
+    <string name="no_permissions_allowed">Няма дадени разрешения</string>
     <string name="no_permissions_denied">Няма отказани разрешения</string>
     <string name="no_special_app_access">Няма спец. достъп за прилож.</string>
     <string name="not_set">Не е зададено</string>
