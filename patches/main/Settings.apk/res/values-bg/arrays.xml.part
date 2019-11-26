@@ -234,4 +234,9 @@
         <item>От темата (цветни)</item> 
         <item>По подразбиране (монохромни)</item> 
     </string-array>
+	<string-array name="pip_size_entries">
+        <item>Стандартно</item>
+        <item>Среден</item>
+        <item>Голям</item>
+    </string-array>
 </resources>
