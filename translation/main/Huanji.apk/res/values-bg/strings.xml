@@ -946,7 +946,7 @@
     <string name="new_trans_intro_desc_new_click">Изтегляне</string>
     <string name="send_verification_code_fail">"Не може да се изпрати код за потвърждение"</string>
     <string name="send_verification_code_fail_tips">"Уверете се, че сте влезли с този акаунт на Apple устройството си. В противен случай няма да можете да получите кода."</string>
-    <string name="settings_powerkeeper">Данни за брояча на стъпки</string>
+    <string name="settings_powerkeeper">Данни за брояча на крачки</string>
     <string name="transfer_multi_connect_summary">Прехвърлянето ви бе прекъснато поради съображения за сигурност. Можете да докоснете \"Свържи отново\", за да продължите.</string>
     <string name="transfer_multi_connect_title">Изглежда, че към тази гореща точка са свързани няколко устройства</string>
     <string name="dialog_request_network_message_extra">"Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. В такива сличаи можете да деинсталирате това приложение или да ограничите разрешенията в Настройки."</string>

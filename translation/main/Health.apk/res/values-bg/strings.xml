@@ -51,12 +51,12 @@
   <string name="basic_info_label_weight">Тегло</string>
   <string name="basic_info_save">Запази</string>
   <string name="bg_control_dialog_go_set">Настройки</string>
-  <string name="bg_control_dialog_msg">Пестенето на батерията ще ограничи фоновата дейност на Mi Здраве. Позволете на Mi Здраве винаги да работи във фонов режим, за да получавате точна статистика.</string>
+  <string name="bg_control_dialog_msg">Пестенето на батерията ще ограничи фоновата дейност на Mi Здраве. Позволете на Mi Здраве винаги да работи на заден план, за да получавате точна статистика.</string>
   <string name="bg_control_dialog_title">Фонови ограничения</string>
   <string name="bmi_label">ИТМ</string>
   <string name="body_weight">Тегло</string>
-  <string name="body_weight_descripe_content">Индекс на телесна маса (ИТМ) е масата на тялото, разделена на квадрата на височината на тялото (kg/㎡).</string>
-  <string name="body_weight_extremely_obesity">Болно затлъстели</string>
+  <string name="body_weight_descripe_content">Индекс на телесна маса (ИТМ) е масата на тялото, разделена на квадрата на височината на тялото (кг/㎡).</string>
+  <string name="body_weight_extremely_obesity">Болестно затлъстяване</string>
   <string name="body_weight_fkg">%1$.1f Кг</string>
   <string name="body_weight_kg">%1$d Кг</string>
   <string name="body_weight_little_obesity">Умерено затлъстяване</string>
@@ -97,8 +97,8 @@
   <string name="day">ден</string>
   <string name="deep_sleep">Дълбок сън</string>
   <string name="delete_menstruation_record_confirm">Да се изтрие ли този запис?</string>
-  <string name="dialog_abandon">Отказ</string>
-  <string name="dialog_abandon_sleep_edit">Отказ от промените?</string>
+  <string name="dialog_abandon">Отхвърляне</string>
+  <string name="dialog_abandon_sleep_edit">Отхвърляне на промените?</string>
   <string name="dialog_agree_and_continue">Съгласен съм</string>
   <string name="dialog_auto_start_detail">Позволете на Mi Здраве да стартира автоматично, за да може да получава известия.\nMi Здраве ще Ви известява само за важни събития.</string>
   <string name="dialog_auto_start_title">Позволете на Mi Здраве да стартира автоматично</string>
@@ -110,7 +110,7 @@
   <string name="dialog_date_select">Изберете дата</string>
   <string name="dialog_delete">Изтрий</string>
   <string name="dialog_delete_record_confirm">Да се ​​изтрие ли този запис?</string>
-  <string name="dialog_exercise_purpose">Добре дошли в Mi Здраве! \"Брояч на стъпки\" Ви позволява да виждате колко стъпки правите през деня, както и да задавате и да управлявате Вашите цели за активност. Всички свързани с това данни ще бъдат съхранявани локално на устройството Ви, което позволява лесното им управление.</string>
+  <string name="dialog_exercise_purpose">Добре дошли в Mi Здраве! \"Брояч на крачки\" ви позволява да виждате колко крачки правите през деня, както и да задавате и да управлявате Вашите цели за активност. Всички свързани с това данни ще бъдат съхранявани локално на устройството Ви, което позволява лесното им управление.</string>
   <string name="dialog_exit">Изход</string>
   <string name="dialog_feedback_content">Ако не сте съгласни да предоставите такива разрешения, няма да можете да използвате някои функции на това приложение; основната му функционалност обаче ще ви бъде достъпна. Винаги можете да ограничите разрешенията или да отмените своето разрешение в Настройките.</string>
   <string name="dialog_feedback_purpose">Mi Здраве трябва да получи достъп до хранилището, за да изпрати отзив.</string>
@@ -133,7 +133,7 @@
   <string name="dialog_sleep_goal_title">Цел за продължителност на съня</string>
   <string name="dialog_sleep_record_auto_start">За да проследите по-точно съня, позволете на Mi Здраве да стартира автоматично.</string>
   <string name="dialog_sure">OК</string>
-  <string name="dialog_user_agreement_purpose">Добре дошли в Mi Здраве! Можете да използвате това приложение за броене на стъпки, проследяване на съня, периоди и тегло, както и получаване на здравни съвети.</string>
+  <string name="dialog_user_agreement_purpose">Добре дошли в Mi Здраве! Можете да използвате това приложение за броене на крачки, проследяване на съня, периоди и тегло, както и получаване на здравни съвети.</string>
   <string name="drink_water">Пийте малко вода и се разходете.</string>
   <string name="edit_basic_info_desc">Основна информация</string>
   <string name="edit_sleep_record_button">Редактиране</string>
@@ -170,7 +170,7 @@
   <string name="health_app_name">Здраве</string>
   <string name="health_app_name_dev">Подобряване на здравето</string>
   <string name="health_score">Оценка на здравето</string>
-  <string name="health_score_tips">Оценката на здравето се изчислява въз основа на Вашия индекс на телесната маса, както и въз основа на съня и изминатите крачки. Колкото по-близо сте до постигане на целите си, толкова по-висока ще е оценката на здравето Ви.</string>
+  <string name="health_score_tips">Оценката на здравето се изчислява въз основа на вашият индекс на телесната маса, както и въз основа на съня и изминатите крачки. Колкото по-близо сте до постигане на целите си, толкова по-висока ще е оценката на здравето ви.</string>
   <string name="history_statistics">Статистика</string>
   <string name="home_page_card_setting">Карти за начална страница</string>
   <string name="hour_in_day_format">%1$d</string>
@@ -181,7 +181,7 @@
   <string name="input_body_weight">Въведете данни за теглото, за да получите здравни съвети</string>
   <string name="jump_over">Пропусни</string>
   <string name="label_average_daily_sleep_duration">Средна продължителност на съня</string>
-  <string name="label_average_daily_sleep_time">Средно време за заспиване</string>
+  <string name="label_average_daily_sleep_time">Приблизително време за заспиване</string>
   <string name="label_average_daily_sleep_time2">Приблизително време за заспиване</string>
   <string name="label_average_daily_wake_up_time">Приблизително време за събуждане</string>
   <string name="label_body_weight_evaluation">Оценка на теглото</string>
@@ -203,7 +203,7 @@
   <string name="label_sleep2">Заспиване</string>
   <string name="label_start_time">Начало</string>
   <string name="label_today_exercise_consumption">Изгорени калории</string>
-  <string name="label_today_exercise_summary">Крачки днес</string>
+  <string name="label_today_exercise_summary">"Крачки днес"</string>
   <string name="label_today_sleep_summary">Сън снощи</string>
   <string name="label_wake_up">Събуждане</string>
   <string name="label_wake_up_time">Събуждане</string>
@@ -268,8 +268,8 @@
   <string name="preference_update_already_newest">Това е най-новата версия на Mi Здраве.</string>
   <string name="preference_update_current_version">Текуща версия: %1$s</string>
   <string name="preference_update_default_title">Версия</string>
-  <string name="preference_update_find_new_version">Проверка за обновления</string>
-  <string name="preference_update_find_newer_version">Налично е обновление: %1$s</string>
+  <string name="preference_update_find_new_version">Проверка за актуализации</string>
+  <string name="preference_update_find_newer_version">Налична е актуализация: %1$s</string>
   <string name="privacy_policy">Политика на поверителност</string>
   <string name="prompt_more_than_3h">Повече от 3 часа</string>
   <string name="prompt_sleep_time_night">Сън през нощта</string>
@@ -280,10 +280,10 @@
   <string name="recorded_menstruation">Записан цикъл</string>
   <string name="remind">Напомняне</string>
   <string name="remind_goto_sleep">Вече е късно. Време е за лягане.</string>
-  <string name="remind_menstruation_acquired_start">Цикълът Ви може да започне след 2 дни.</string>
-  <string name="remind_open_tips">Разрешете на Mi Здраве да Ви напомня за предстоящи месечни цикли</string>
-  <string name="remind_query_menstruation_end">Свърши ли цикълът Ви? Не забравяйте да го запишете.</string>
-  <string name="remind_query_menstruation_start">Започна ли цикълът Ви? Не забравяйте да го запишете.</string>
+  <string name="remind_menstruation_acquired_start">Цикълът ви може да започне след 2 дни.</string>
+  <string name="remind_open_tips">Разрешете на Mi Здраве да ви напомня за предстоящи месечни цикли</string>
+  <string name="remind_query_menstruation_end">"Свърши ли цикълът ви? Не забравяйте да го запишете."</string>
+  <string name="remind_query_menstruation_start">"Започна ли цикълът ви? Не забравяйте да го запишете."</string>
   <string name="remind_sleep_report_complete">Статистиката за съня е готова.</string>
   <string name="remind_subtitle_menstruation_start">Ще получавате напомняне 2 дни преди евентуалното начало на цикъла.</string>
   <string name="remind_subtitle_record">Ще получавате напомняния, когато трябва да записвате началната и крайната дата на своите цикли.</string>
@@ -293,19 +293,19 @@
   <string name="search_menu_title">Търсене</string>
   <string name="sedentary_detail_title">Твърде продължителното седене в вредно</string>
   <string name="sedentary_enhance_remind">Добави и вибрация</string>
-  <string name="sedentary_enhance_remind_content">Тази функционалност работи, когато DND е изключено.</string>
+  <string name="sedentary_enhance_remind_content">Тази функционалност работи, когато Не ме езпокойте е изключено.</string>
   <string name="sedentary_harm_known">Разбрах</string>
   <string name="sedentary_popular_science">* Продължителното седене или липса на движение не е полезно. Освен ако не спите, опитвайте се да се движите поне по 2 минути на всеки час. Не забравяйте, че е непрепоръчително да стоите на едно място повече от 6 часа на ден.</string>
   <string name="sedentary_reminder_channel_name">Напомняне за движение</string>
   <string name="sedentary_reminder_subject">Напомняне за движение</string>
   <string name="sedentary_time_is_too_long">Време е за движение! Пийте малко вода и се разходете.</string>
   <string name="sedentary_title">Напомняне за движение</string>
-  <string name="sedentary_toggle_content">Mi Здраве ще Ви напомня да станете и да се разходите, ако не сте извършвали никаква дейност за продължителен период от време.</string>
+  <string name="sedentary_toggle_content">Mi Здраве ще ви напомня да станете и да се разходите, ако не сте извършвали никаква дейност за продължителен период от време.</string>
   <string name="select_menstruation_end_date">Изберете крайната дата на този цикъл</string>
-  <string name="select_null">Не е избрана</string>
+  <string name="select_null">Не е избрано</string>
   <string name="setting">Настройки</string>
-  <string name="setting_sedentary_off">ИЗКЛ.</string>
-  <string name="setting_sedentary_on">ВКЛ.</string>
+  <string name="setting_sedentary_off">ИЗКЛЮЧЕНО</string>
+  <string name="setting_sedentary_on">ВКЛЮЧЕНО</string>
   <string name="setting_sedentary_title">Напомняне за движение</string>
   <string name="skip">Пропусни</string>
   <string name="sleep">Сън</string>
@@ -343,7 +343,7 @@
   <string name="sleep_status">Статус на съня</string>
   <string name="sleep_time_edit">Редактиране</string>
   <string name="sleep_time_standard_pattern">Нормално: %1$d ч</string>
-  <string name="sleep_tip_default">Опитайте се да си лягате преди 23:00 ч.</string>
+  <string name="sleep_tip_default">Опитайте се да си лягате преди 23:00</string>
   <string name="sleep_tip_keep_not_enough">Изглежда не спите достатъчно.</string>
   <string name="sleep_tip_keep_on">Всичко изглежда както трябва. Браво!</string>
   <string name="sleep_today">Днес</string>
@@ -351,7 +351,7 @@
   <string name="sleep_track">Проследяване на съня</string>
   <string name="sleep_week">Седмица</string>
   <string name="splash_edit_basic_save_btn">Напред</string>
-  <string name="splash_header_subtitle">Редовните упражнения и сън\nмогат да подобрят Вашето здраве.</string>
+  <string name="splash_header_subtitle">Редовните упражнения и сън\nмогат да подобрят вашето здраве.</string>
   <string name="splash_header_title">Световните органи по здравеопазване казват:</string>
   <string name="splash_next_btn">Въведете основна информация</string>
   <string name="splash_title">В Mi Здраве можете да задавате цели за активност\nи да получавате съвети\nвъз основа на личната си информация.</string>
@@ -370,7 +370,7 @@
   <string name="subtitle_record_and_start_predict">Запишете един цикъл, за да изчислите кога ще започне следващият.</string>
   <string name="subtitle_run_in_background">Изберете \"Без ограничения\", за да получавате точна статистика.</string>
   <string name="subtitle_stick_record">Записвайте циклите си, за да получавате по-точни предвиждания.</string>
-  <string name="suggested_body_weight">Препоръчано тегло</string>
+  <string name="suggested_body_weight">Препоръчително тегло</string>
   <string name="suggestion_drink_content">Обърнете внимание на напрежението в тялото си и се опитайте да се отпуснете.</string>
   <string name="suggestion_drink_title">Пийте малко вода и си починете</string>
   <string name="suggestion_move_content">Изминете стотина крачки или изкачете няколко редици стъпала.</string>
@@ -437,4 +437,6 @@
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКБ</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
   <string name="year">Година</string>
+  <string name="hour">Ч</string>
+  <string name="minute">М</string>
 </resources>

@@ -109,7 +109,7 @@
 	<string name="background_location_access_reminder_notification_title">%s използва местоположението ви</string>
     <string name="background_location_access_reminder_notification_content">Това приложение винаги може да осъществи достъп до местоположението ви. Докоснете, за да промените.</string>
     <string name="permgrouprequest_storage_isolated">Разрешаване на &lt;b>%1$s&lt;/b> да има достъп до снимките и медията на устройството ви?</string>
-    <string name="permission_description_summary_activity_recognition">Приложенията с това разрешение имат достъп до физическата ви активност, като ходене, колоездене, шофиране, брой на стъпките и др</string>
+    <string name="permission_description_summary_activity_recognition">Приложенията с това разрешение имат достъп до физическата ви активност, като ходене, колоездене, шофиране, брой на крачките и др.</string>
     <string name="permission_description_summary_calendar">Приложенията с това разрешение могат да имат достъп до календара ви</string>
     <string name="permission_description_summary_call_log">Приложенията с това разрешение могат да четат и записват дневник за телефонни повиквания</string>
     <string name="permission_description_summary_camera">Приложенията с това разрешение могат да правят снимки и да записват видеоклипове</string>

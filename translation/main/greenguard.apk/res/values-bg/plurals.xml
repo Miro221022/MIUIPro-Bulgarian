@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="notification_today_steps_start">
-        <item quantity="other">Днес направихте %d стъпки.</item>
-        <item quantity="one">Днес направихте %d стъпка.</item>
+        <item quantity="other">Днес направихте %d крачки.</item>
+        <item quantity="one">Днес направихте %d крачка.</item>
     </plurals>
 </resources>

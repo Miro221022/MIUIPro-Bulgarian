@@ -58,9 +58,9 @@
     <item quantity="one">%d минута</item>
   </plurals>
   <plurals name="steps">
-    <item quantity="other">%d|стъпки</item>
-    <item quantity="zero">%d|стъпки</item>
-    <item quantity="one">%d|стъпка</item>
+    <item quantity="other">%d|крачки</item>
+    <item quantity="zero">%d|крачки</item>
+    <item quantity="one">%d|крачка</item>
   </plurals>
   <plurals name="time_hour_ago">
     <item quantity="other">преди %d часа</item>

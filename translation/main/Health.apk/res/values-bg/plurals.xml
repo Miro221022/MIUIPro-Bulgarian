@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="daily_suggestions_steps">
-    <item quantity="other">Правете поне %1$d стъпки всеки ден</item>
-    <item quantity="one">Правете поне %1$d стъпка всеки ден</item>
+    <item quantity="other">Правете поне %1$d крачки всеки ден</item>
+    <item quantity="one">Правете поне %1$d крачка всеки ден</item>
   </plurals>
   <plurals name="day_index">
     <item quantity="other">%1$d дни</item>
@@ -25,8 +25,8 @@
     <item quantity="one">" крачка"</item>
   </plurals>
   <plurals name="goal_unit_with_number">
-    <item quantity="other">%1$d стъпки</item>
-    <item quantity="one">%1$d стъпка</item>
+    <item quantity="other">%1$d крачки</item>
+    <item quantity="one">%1$d крачка</item>
   </plurals>
   <plurals name="hours">
     <item quantity="other">%1$d часа</item>
@@ -113,8 +113,8 @@
     <item quantity="one">Очакван ден %1$d от цикъла</item>
   </plurals>
   <plurals name="title_today_exercise_steps">
-    <item quantity="other">%1$d стъпки днес</item>
-    <item quantity="one">%1$d стъпка днес</item>
+    <item quantity="other">%1$d крачки днес</item>
+    <item quantity="one">%1$d крачка днес</item>
   </plurals>
   <plurals name="unit_days">
     <item quantity="other">" дни"</item>
