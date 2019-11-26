@@ -60,11 +60,11 @@
   <string name="body_weight_fkg">%1$.1f Кг</string>
   <string name="body_weight_kg">%1$d Кг</string>
   <string name="body_weight_little_obesity">Умерено затлъстяване</string>
-  <string name="body_weight_normal">Нормално</string>
+  <string name="body_weight_normal">Нормално тегло</string>
   <string name="body_weight_obesity">Сериозно затлъстяване</string>
   <string name="body_weight_overweight">Наднормено тегло</string>
-  <string name="body_weight_severe_obesity">Много силно затлъстяване</string>
-  <string name="body_weight_thin">Поднормено</string>
+  <string name="body_weight_severe_obesity">Изключително затлъстяване</string>
+  <string name="body_weight_thin">Поднормено тегло</string>
   <string name="body_weight_unmeasure_today">Днес няма претегляния</string>
   <string name="button_record_menstruation">Запис</string>
   <string name="cancel">Отказ</string>
@@ -94,7 +94,6 @@
   <string name="date_format_y_m_d_h_m">dd/MM/yyyy HH:mm</string>
   <string name="date_format_y_m_d_h_m_2">dd MMM, yyyy HH:mm</string>
   <string name="date_format_y_m_d_h_m_s">dd/MM/yyy HH:mm:ss</string>
-  <string name="date_week_index">yyyy \'W\'ww</string>
   <string name="day">ден</string>
   <string name="deep_sleep">Дълбок сън</string>
   <string name="delete_menstruation_record_confirm">Да се изтрие ли този запис?</string>

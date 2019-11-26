@@ -79,12 +79,11 @@
   <string name="barrage_write_lable_hint">Въведете коментар</string>
   <string name="barrage_write_lable_hint_unlogin">Влезте, за да оставите коментари</string>
   <string name="barrage_write_length_limit">Вашият коментар е твърде дълъг.</string>
-  <string name="batch_follow">Follow all</string>
+  <string name="batch_follow">Следвай всички</string>
   <string name="before_yestoday">преди 2 дни</string>
   <string name="bmp_quality_mode">Високо качество</string>
   <string name="bmp_quality_mode_desc">Включете, за да гледате HD афиши</string>
   <string name="boss_login_failed">Неуспешно влизане</string>
-  <string name="brightness">яркост</string>
   <string name="buffering">Буфериране…</string>
   <string name="buffering_video_netplay_label_v5">Буфериране…</string>
   <string name="buy_vip">Купи VIP членство</string>
@@ -102,17 +101,16 @@
   <string name="clear_cache">Изчистване на кеша</string>
   <string name="clear_cache_success">Изчистването на кеша е успешно</string>
   <string name="clear_cache_summary">Изчистете кешираните видео афиши</string>
-  <string name="close_developer_options">Turned off Developer options</string>
+  <string name="close_developer_options">Изключени са опциите за програмисти</string>
   <string name="close_sub_comments">Скриване</string>
-  <string name="closed_function_log">Optional services</string>
+  <string name="closed_function_log">Незадължителни услуги</string>
   <string name="collect">събиране</string>
-  <string name="collect_diagnosis_log">Collect diagnosis log</string>
-  <string name="collected">събрани</string>
+  <string name="collect_diagnosis_log">Съберане на отчет за диагностика</string>
   <string name="comfirm_open">Включи</string>
   <string name="comment_back">Назад</string>
   <string name="comment_detail">Подробности</string>
   <string name="comment_let_me_comment">Имам коментар</string>
-  <string name="comment_reply" formatted="false">%s&lt;font color=#959AA0&gt;reply to&lt;/font&gt;%s</string>
+  <string name="comment_reply" formatted="false">%s&lt;font color=#959AA0&gt;отговори в&lt;/font&gt;%s</string>
   <string name="comment_reply_to">Отговаряте на %s</string>
   <string name="comment_send">Изпрати</string>
   <string name="comment_to_loading">Влезте, за да добавите коментари</string>
@@ -158,12 +156,12 @@
   <string name="detail_summary_episode_count">Брой епизоди</string>
   <string name="detail_summary_staff">В ролите</string>
   <string name="detail_summary_video_source">Източник на възпроизвеждане</string>
-  <string name="developer_context">Network environment</string>
+  <string name="developer_context">Мрежова среда</string>
   <string name="development_setting">Програма за потребителски опит</string>
   <string name="device_empty_hint">Празно</string>
   <string name="device_media_empty_hint">Празно</string>
-  <string name="diagnosis_log_send_failed">Diagnosis log sent failed.</string>
-  <string name="diagnosis_log_sent_format">Diagnosis log has been sent.\nID:%s\nPlease send this code to the technician.</string>
+  <string name="diagnosis_log_send_failed">Отчетът за диагностика не е изпратен.</string>
+  <string name="diagnosis_log_sent_format">Дневникът за диагностика е изпратен.\nID:%s\nМоля, изпратете този код на техника.</string>
   <string name="dialog_copy_url">Копирай уеб адрес</string>
   <string name="dialog_download">Изтегляне</string>
   <string name="dialog_share_cancel">Отказ</string>
@@ -215,9 +213,9 @@
   <string name="feedback_tag_title">Изберете категория</string>
   <string name="feedback_text_empty_toast">Въведете отзиви</string>
   <string name="finished_offline_download_more_episode_text">Изтеглете още епизоди</string>
-  <string name="follow">Subscriptions</string>
+  <string name="follow">Абонаменти</string>
   <string name="follower_count">Последователи</string>
-  <string name="for_diagnosis_usage_only">Use this info for diagnosis only.</string>
+  <string name="for_diagnosis_usage_only">Използвайте тази информация само за диагностика.</string>
   <string name="friday">Петък</string>
   <string name="full_screen_cash_packet">Награда</string>
   <string name="full_screen_get_award">Получаване на награда</string>
@@ -256,7 +254,7 @@
   <string name="h5_unsharedable">Този елемент не може да бъде споделен</string>
   <string name="have_learned">Разбрах</string>
   <string name="have_no_more_comments">Това е всичко за сега</string>
-  <string name="high_quality_author">Top channel</string>
+  <string name="high_quality_author">Топ канал</string>
   <string name="history_video">Предишни</string>
   <string name="history_week_video">Тази седмица</string>
   <string name="if_background_offline_text">Продължете да изтегляте файлове във фонов режим?</string>
@@ -266,13 +264,13 @@
   <string name="installing">Инсталиране</string>
   <string name="installing_nopoint">Инсталиране</string>
   <string name="integral_exp">Относно точките</string>
-  <string name="is_open_closed_function_log">Turn on to generate optional services log</string>
-  <string name="is_open_engine_mode">Turn on Engineering mode</string>
+  <string name="is_open_closed_function_log">Включете, за да генерирате отчет за услуги по избор</string>
+  <string name="is_open_engine_mode">Включете инженерния режим</string>
   <string name="is_open_network_log">Turn on to generate network log</string>
   <string name="is_open_tracker_log">Turn on to generate stats log</string>
   <string name="just_now">В момента</string>
   <string name="layer_gloable_search">Търсене</string>
-  <string name="lcok_setting">Lock screen settings</string>
+  <string name="lcok_setting">Настройки за заключен на екран</string>
   <string name="live_now">На живо</string>
   <string name="loading">Една секунда…</string>
   <string name="loading_video_netplay_label">Една секунда…</string>
@@ -282,7 +280,7 @@
   <string name="local_player">локален плеър</string>
   <string name="local_video_newversion">Нова версия</string>
   <string name="lock_open">Open the charging video screensaver</string>
-  <string name="lock_open_summary">You can browse the video content When open the charging lock screen</string>
+  <string name="lock_open_summary">Можете да разглеждате видеосъдържанието, когато отворите заключен екран по време на зареждане</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
   <string name="lp_advance_sound">Подобряване на звука</string>
@@ -413,6 +411,7 @@
   <string name="open_local_video">Отвори папка</string>
   <string name="open_more_comments">Още коментари</string>
   <string name="opened_developer_context">Промяна на мрежовата среда</string>
+  <string name="opennow">Отвори</string>
   <string name="operate_message_item_dialog_comment">Преглед на коментарите</string>
   <string name="operate_message_item_dialog_delete">Изтрий</string>
   <string name="operate_message_item_dialog_reply">Отговори</string>
@@ -492,11 +491,11 @@
   <string name="passport_login_instead_reg_with_email">Използвай този имейл</string>
   <string name="passport_login_prompt">Един Mi акаунт. Всички Mi услуги.</string>
   <string name="passport_login_title">Влезте във вашия Mi акаунт</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;Други начини за влизане&lt;/u&gt;</string>
+  <string name="passport_login_using_other_ways">&lt;u&gt;Други начини за вписване&lt;/u&gt;</string>
   <string name="passport_message_dialog_title">SMS с потвърждаващи кодове</string>
   <string name="passport_next">Следващ</string>
   <string name="passport_notification_title">Грешка при вход за %1$s</string>
-  <string name="passport_oauth_actionbar_title">Mi акаунт</string>
+  <string name="passport_oauth_actionbar_title">Mi профил</string>
   <string name="passport_oauth_sucess_tip">Упълномощен успех</string>
   <string name="passport_password_req_notice">Паролата трябва да е с дължина 8-16 знака и да включва както цифри, така и букви.</string>
   <string name="passport_phone_num_hint_text">Телефонен номер</string>
@@ -510,10 +509,10 @@
   <string name="passport_quick_login_title">Въведете паролата си</string>
   <string name="passport_re_get_verify_code">Получете код отново</string>
   <string name="passport_re_register">Регистрирайте се отново</string>
-  <string name="passport_recycle_account_prompt">Това вашият Mi акаунт ли е?</string>
+  <string name="passport_recycle_account_prompt">Това вашият Mi профил ли е?</string>
   <string name="passport_reg_btn_using_other_phone">Използвайте алтернативен телефонен номер</string>
   <string name="passport_reg_failed">Не може да се зададе акаунт</string>
-  <string name="passport_reg_prompt">Нямате Mi акаунт? Създайте такъв безплатно.</string>
+  <string name="passport_reg_prompt">Нямате Mi профил? Създайте такъв безплатно.</string>
   <string name="passport_reg_success">Профилът е създаден</string>
   <string name="passport_reg_success_summary">%1$s е свързан с вашия акаунт. Можете да го използвате, за да влезете или да нулирате паролата си.</string>
   <string name="passport_reg_type_email">Използвай имейл адрес</string>
@@ -530,7 +529,7 @@
   <string name="passport_register_restricted_title">Не може да се използва този телефонен номер</string>
   <string name="passport_registered_phone_user_ID">User ID: %s</string>
   <string name="passport_registered_phone_user_name">Потребителско име: %s</string>
-  <string name="passport_reject_recycle_account">Nope</string>
+  <string name="passport_reject_recycle_account">Не</string>
   <string name="passport_relogin">Влезте отново</string>
   <string name="passport_relogin_notice">Трябва да влезете отново</string>
   <string name="passport_remove_confirm">Отписване</string>
@@ -541,7 +540,7 @@
   <string name="passport_reset_password_title">Нулиране на паролата</string>
   <string name="passport_restart">Започни отначало</string>
   <string name="passport_restart_register_prompt">Може да е необходимо друго съобщение за потвърждение, за да създадете акаунта си.</string>
-  <string name="passport_restart_register_title">Създайте Mi акаунт</string>
+  <string name="passport_restart_register_title">Създайте Mi профил</string>
   <string name="passport_retry">Опитайте отново</string>
   <string name="passport_select_reg_ways_title">Други начини за регистрация</string>
   <string name="passport_send_too_many_code">На този номер са изпратени твърде много кодове за потвърждение. Изчакайте 24 часа и опитайте отново.</string>
@@ -604,6 +603,7 @@
   <string name="plus_gallery_mediatype_changtu">Дълги изображения</string>
   <string name="plus_gallery_mediatype_fangtu">Квадратни изображения</string>
   <string name="plus_gallery_mediatype_fastslowvideo">Ускорение и забавен каданс</string>
+  <string name="plus_gallery_mediatype_gif">GIF файлове</string>
   <string name="plus_gallery_mediatype_hidded">Скрити елементи</string>
   <string name="plus_gallery_mediatype_longvideo">Дълги видеоклипове</string>
   <string name="plus_gallery_mediatype_quanjing">Панорами</string>
@@ -626,7 +626,7 @@
   <string name="plus_player_pip_unsupport">PiP не се поддържа в тази версия на вашата система.</string>
   <string name="plus_player_play_mode_auto">Автоматично изпълнение</string>
   <string name="plus_player_play_mode_list">Повтори всички</string>
-  <string name="plus_player_play_mode_single_circle">Повторете едно</string>
+  <string name="plus_player_play_mode_single_circle">Повтори клипа</string>
   <string name="plus_player_play_mode_stop">Изпълни</string>
   <string name="plus_player_share_empty_toast">Изберете елементи за споделяне</string>
   <string name="plus_player_share_screen">Споделяне</string>
@@ -662,7 +662,7 @@
   <string name="plus_player_unhide">Покажи</string>
   <string name="plus_player_video_not_support">Този видео формат не се поддържа.</string>
   <string name="plus_poster_reset_default">Възстановяване на корицата по подразбиране</string>
-  <string name="plus_search_barhint">Търсете местни видеоклипове</string>
+  <string name="plus_search_barhint">Търсете локални видеоклипове</string>
   <string name="plus_search_guide">Търсене на видеоклипове</string>
   <string name="plus_search_result_empty">Не можаха да се намерят резултати</string>
   <string name="plus_share_channel_wechat_moments">WeChat Моменти</string>
@@ -793,7 +793,7 @@
   <string name="storage_unused">Налични %1$s</string>
   <string name="storage_used">Използвани %1$s</string>
   <string name="subscribe">Абонирай се</string>
-  <string name="subscribe_failed">Couldn\'t subscribe</string>
+  <string name="subscribe_failed">Не може да се абонирате</string>
   <string name="subscribe_link">Преглед на всички абонаменти</string>
   <string name="subscribed">Абониран</string>
   <string name="subtitle_add_subtitle_failed">Субтитрите не можаха да се добавят. Уверете се, че файлът не е повреден.</string>
@@ -897,7 +897,7 @@
   <string name="top_status_local_media">Локални</string>
   <string name="top_status_offline_media">Офлайн</string>
   <string name="top_status_online_media">Онлайн</string>
-  <string name="tracker_log">Stats</string>
+  <string name="tracker_log">Статистика</string>
   <string name="tuesday">Вторник</string>
   <string name="tv_author">Канали</string>
   <string name="tv_my_subscribe">Моите абонаменти</string>
@@ -938,9 +938,9 @@
   <string name="v_bind_reset">Добавете отново</string>
   <string name="v_bind_tips">Въведете провереното име, свързано с вашата банкова карта на WeChat.</string>
   <string name="v_bind_weixin">Акаунт в WeChat</string>
-  <string name="v_cache_check">Проверете кеша</string>
-  <string name="v_cache_choice">Настроики</string>
-  <string name="v_cache_clear">Освободете място</string>
+  <string name="v_cache_check">Проверка на кеша</string>
+  <string name="v_cache_choice">Настройки</string>
+  <string name="v_cache_clear">Освобождаване на място</string>
   <string name="v_cache_download_null">Този видеоклип не може да бъде изтеглен поради ограничения на авторски права.</string>
   <string name="v_cache_downloaded">Това видео е кеширано</string>
   <string name="v_cache_downloading">Добавен към изтеглянията</string>
@@ -1066,7 +1066,7 @@
   <string name="v_remind_use_mobile_net_text">Използването на мобилни данни за изтегляне на видеоклипове може да генерира допълнителни такси. Изтегляне все пак?</string>
   <string name="v_reward">Награда</string>
   <string name="v_save">Запази</string>
-  <string name="v_score">Rating</string>
+  <string name="v_score">Оценка</string>
   <string name="v_search">Търсене</string>
   <string name="v_search_history_clear">Изчистване на историята на търсенията</string>
   <string name="v_select_all">Избери всички</string>
@@ -1074,7 +1074,7 @@
   <string name="v_selectall">Избери всички</string>
   <string name="v_selectnull">Откажи всички</string>
   <string name="v_send_title">Изпрати</string>
-  <string name="v_server_test">Изпитване сървър</string>
+  <string name="v_server_test">Тест на сървъра</string>
   <string name="v_set_password">Задайте парола, за да видите скритите видеоклипове</string>
   <string name="v_setting">Настройки</string>
   <string name="v_share_device">Споделени устройства</string>
@@ -1085,7 +1085,7 @@
   <string name="v_tab_video_news">Популярни</string>
   <string name="v_tab_video_online_live">Пряко предаване онлайн</string>
   <string name="v_tab_video_personal">Профил</string>
-  <string name="v_tab_video_recommend">Home</string>
+  <string name="v_tab_video_recommend">Начало</string>
   <string name="v_tab_video_vip">VIP</string>
   <string name="v_tel_number">Телефонен номер</string>
   <string name="v_text_edit">Изход</string>
@@ -1113,7 +1113,7 @@
   <string name="video_id_empty">URL адресът на видеоклипа не може да се получи</string>
   <string name="video_info_audio_bitrate_label">Битрейт на звука:</string>
   <string name="video_info_audio_coding_label">Формат за аудио кодиране:</string>
-  <string name="video_info_audio_null">None</string>
+  <string name="video_info_audio_null">Без</string>
   <string name="video_info_frame_rate_label">Скорост на кадрите:</string>
   <string name="video_info_length_label">Продължителност:</string>
   <string name="video_info_resolution_label">Разделителна способност на видеото:</string>
@@ -1260,6 +1260,7 @@
   <string name="vp_player_plugin_dlg_neg_btn">Затвори</string>
   <string name="vp_player_plugin_dlg_no_content">Приставката за видео плеър не е инсталирана</string>
   <string name="vp_player_plugin_dlg_title">Приставка за видео плеър</string>
+  <string name="vp_playspeed">Скорост на изпълнение</string>
   <string name="vp_plugin_download_retry">Автоматичното изтегляне на приставката не бе успешно, да се инсталира ли ръчно?</string>
   <string name="vp_plugin_message">Инсталиране на HD видео приставка?</string>
   <string name="vp_plugin_runtime_error">Приставката не можа да се зареди</string>
@@ -1309,4 +1310,7 @@
   <string name="vp_VideoView_error_title">Неизвестна грешка</string>
   <string name="wednesday">Сряда</string>
   <string name="yesterday">Вчера</string>
+  <string name="plus_tab_time">Хронология</string>
+  <string name="moment_tab_video">Видеоклипове</string>
+  <string name="plus_player_pip">Картитна в картината</string>
 </resources>
