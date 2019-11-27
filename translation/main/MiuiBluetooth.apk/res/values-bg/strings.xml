@@ -37,10 +37,10 @@
     <string name="install_package">Инсталиране на %1$s за повече функции</string>
     <string name="some_app_taking">(%1$s вече използва тази функция…)</string>
     <string name="reset_function_msg">Ново отваряне на функцията ще предизвика грешка в %1$s</string>
-    <string name="notify_device_lose_connection_title">Няма връзка с/ъс %1$s</string>
+    <string name="notify_device_lose_connection_title">Няма връзка със %1$s</string>
     <string name="notify_device_lose_connection_text">Чукнете за разкачане на %1$s</string>
     <string name="unbind_device_alert_title">Разкачане на устройство</string>
-    <string name="unbind_device_alert_content">Няма връзка с/ъс %1$s. Разкачете това устройство, за да спестите батерия.</string>
+    <string name="unbind_device_alert_content">Няма връзка със %1$s. Прекъснете връзката, за да спестите батерия.</string>
     <string name="unbind_device_alert_ok">Разкачи</string>
     <string name="unbind_device_alert_cancel">Отказ</string>
     <string name="ok_button">OК</string>
@@ -72,4 +72,5 @@
 	<string name="fast_connect_device_headset">Батерия</string>
 	<string name="fast_connect_device_battery">Батерия</string>
 	<string name="fast_connect_nzbt_reset">Задръжте горния бутон за %1$s секунди, докато се изключи</string>
+	<string name="fast_connect_wbs_reset">Задръжте горния бутон за %1$s секунди, докато се изключи</string>
 </resources>
