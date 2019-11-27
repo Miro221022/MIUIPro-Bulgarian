@@ -146,7 +146,7 @@
   <string name="exercise_info_tool_bar_title">Активност</string>
   <string name="exercise_reminder_accomplished">Вие постигнахте своята цел за активност!</string>
   <string name="exercise_reminder_title">Напомняне за активност</string>
-  <string name="exercise_reminder_unaccomplished">Още не сте постигнали своята цел. Не спирайте!</string>
+  <string name="exercise_reminder_unaccomplished">Още не сте постигнали целта си. Не спирайте!</string>
   <string name="exercise_setting_label_reach_standard_remind">Предупреждение за активност</string>
   <string name="exercise_setting_page_title">Настройки на активността</string>
   <string name="expand_button_title">Разширени</string>
