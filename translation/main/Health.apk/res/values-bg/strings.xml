@@ -85,7 +85,7 @@
   <string name="daily_time_label">Време</string>
   <string name="data_empty">Няма данни</string>
   <string name="date_format_m_d">d/M</string>
-  <string name="date_format_m_d_2">MM/dd</string>
+  <string name="date_format_m_d_2">dd/MM</string>
   <string name="date_format_m_d_3">dd/MM</string>
   <string name="date_format_mm_dd">dd MMM</string>
   <string name="date_format_y_m">MMM yyyy</string>
@@ -94,6 +94,7 @@
   <string name="date_format_y_m_d_h_m">dd/MM/yyyy HH:mm</string>
   <string name="date_format_y_m_d_h_m_2">dd MMM, yyyy HH:mm</string>
   <string name="date_format_y_m_d_h_m_s">dd/MM/yyy HH:mm:ss</string>
+  <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
   <string name="day">ден</string>
   <string name="deep_sleep">Дълбок сън</string>
   <string name="delete_menstruation_record_confirm">Да се изтрие ли този запис?</string>
@@ -330,7 +331,7 @@
   <string name="sleep_need_background_run">Изберете „Без ограничения“, за да направите данните за съня по-точни</string>
   <string name="sleep_need_necessary_permissions">Дайте необходимите разрешения, за да направите данните за съня по-точни</string>
   <string name="sleep_no_data_info">Направете един цял\nцикъл на сън</string>
-  <string name="sleep_no_generate_report">Данните за съня\nне могат да бъдат намерени.</string>
+  <string name="sleep_no_generate_report">Не са намерени\nданни за съня.</string>
   <string name="sleep_record_content">Mi Здраве автоматично ще записва съня ви въз основа на използването на телефона ви, статистиката на активността, както и заспиването и времето за събуждане, което сте задали.</string>
   <string name="sleep_record_go_open">Включете „Проследяване на съня“, за да започнете да записвате данни за съня</string>
   <string name="sleep_record_label">Записване на съня</string>
@@ -439,4 +440,5 @@
   <string name="year">Година</string>
   <string name="hour">Ч</string>
   <string name="minute">М</string>
+  <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
 </resources>
