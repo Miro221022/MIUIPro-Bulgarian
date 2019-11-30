@@ -304,10 +304,10 @@
   <string name="wear_app_channel">Инсталиране/деинсталиране на Android Wear приложения</string>
   <string name="wear_not_allowed_dlg_text">Действието Инсталиране/Деинсталиране не се поддържа от Wear.</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
-    <string name="application_detail_tips">Подробности за приложението и настройки на разрешенията</string>
-    <string name="install_finished_notification_summary">Кликнете, за да почистите сега</string>
-    <string name="install_finished_notification_title">Инсталирането на %1$s завърши, почистете %2$s</string>
-    <string name="miui_install_version_3">Версия %1$s -> %2$s | Размер %3$s</string>
-    <string name="replace_app_des_text">Искате ли да актуализирате това приложение?</string>
-    <string name="untrusted_external_source_always_click">Разреши винаги</string>
+  <string name="application_detail_tips">Подробности и настройки на разрешенията</string>
+  <string name="install_finished_notification_summary">Кликнете, за да почистите сега</string>
+  <string name="install_finished_notification_title">Инсталирането на %1$s завърши, почистете %2$s</string>
+  <string name="miui_install_version_3">Версия %1$s -> %2$s | Размер %3$s</string>
+  <string name="replace_app_des_text">Искате ли да обновите това приложение?</string>
+  <string name="untrusted_external_source_always_click">Разреши винаги</string>
 </resources>
