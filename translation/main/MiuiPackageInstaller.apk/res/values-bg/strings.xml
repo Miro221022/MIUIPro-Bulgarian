@@ -29,6 +29,7 @@
   <string name="app_store_installing_message">Инсталиране…</string>
   <string name="app_store_missing_message">Изглежда, че не сте инсталирали официалният App Store. Инсталирайте го сега?</string>
   <string name="app_store_missing_title">App Store не е инсталирано</string>
+  <string name="application_detail_tips">Подробности и настройки на разрешенията</string>
   <string name="auto_startup_dialog_msg">Това приложение не може да стартира без ваше разрешение.</string>
   <string name="btn_text_full_scan">Пълно сканиране</string>
   <string name="btn_text_install_new_version">Последна версия</string>
@@ -49,7 +50,7 @@
   <string name="dlg_app_replacement_statement">Приложението, което инсталирате, ще замени друго приложение.\n\nВсички ваши предишни потребителски данни ще бъдат запазени.</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) ще замени инсталираната понастоящем версия (%3$s). Всички съществуващи данни за приложенията ще бъдат запазени.</string>
   <string name="dlg_app_replacement_title">Замяна на прилож.?</string>
-  <string name="dlg_appstore_notice">"Ние не можем да проверим автентичността или сигурността на приложенията от източници извън &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u>."</string>
+  <string name="dlg_appstore_notice">Ние не можем да проверим автентичността или сигурността на приложенията от източници извън &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;.</string>
   <string name="dlg_game_center_intercept_game_center_install">Инсталиране от Mi Games</string>
   <string name="dlg_game_center_intercept_install">Инсталирай въпреки това</string>
   <string name="dlg_game_center_intercept_msg">Инсталирането на игри на трети страни може да представлява риск за сигурността. Изтеглете и инсталирайте Mi Games за достъп до безопасни версии на приложението.</string>
@@ -64,6 +65,8 @@
   <string name="external_sources_settings">Настройки</string>
   <string name="external_sources_settings_negative">Забраняване</string>
   <string name="external_sources_settings_positive">Разрешаване</string>
+  <string name="game_center_intercept_trust_app">Вярвам на това приложение и мога да се справя с всякакви възможни рискове.</string>
+  <string name="game_center_intercept_warning_msg">Това приложение не е проверено за вируси от Xiaomi. Инсталирайте го от Игри, за да избегнете рискове за сигурността.</string>
   <string name="grant_confirm_question">Искате ли да предоставите следните разрешения? То ще получи достъп до:</string>
   <string name="grant_dialog_button_allow">Разреши</string>
   <string name="grant_dialog_button_deny">Отказ</string>
@@ -92,7 +95,9 @@
   <string name="install_failed_invalid_apk">Изглежда,пакетът е повреден.</string>
   <string name="install_failed_msg">%1$s не може да се инсталира на телефона ви.</string>
   <string name="install_failed_system_incompatible">Това приложение не е съвместимо с MIUI</string>
-  <string name="install_from_appstore_hint">Препоръчваме ви да инсталирате приложението от &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
+  <string name="install_finished_notification_summary">Кликнете, за да почистите сега</string>
+  <string name="install_finished_notification_title">Инсталирането на %1$s завърши, почистете %2$s</string>
+  <string name="install_from_appstore_hint">Препоръчваме ви да инсталирате приложението от &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Инсталиране…</string>
   <string name="intercept_install">Инсталиране</string>
   <string name="launch">Отваряне</string>
@@ -115,6 +120,7 @@
   <string name="message_quick_scanning">Бързо сканиране…</string>
   <string name="message_staging">Подготовка…</string>
   <string name="mimarket_install_more">Отидете в Mi App Store, за още приложения</string>
+  <string name="mimarket_intercept_warning_msg">Това приложение не е проверено за вируси от Xiaomi. Инсталирайте го от Mi App Store, за да избегнете рискове по сигурността.</string>
   <string name="miui_app_danger">Това приложение не е безопасно, не го инсталирайте.</string>
   <string name="miui_app_detail">Подробности</string>
   <string name="miui_app_permission_detail">Необходими разрешения</string>
@@ -157,6 +163,7 @@
   <string name="miui_install_source_unkown">Неизвестно</string>
   <string name="miui_install_success">Успешно инсталирано</string>
   <string name="miui_install_version">Версия: %1$s | Размер: %2$s</string>
+  <string name="miui_install_version_3">Версия %1$s -&gt; %2$s | Размер %3$s</string>
   <string name="miui_installing">Инсталиране…</string>
   <string name="miui_installing2">Инсталиране…</string>
   <string name="miui_message_staging_0">Подготовка   </string>
@@ -241,6 +248,7 @@
   <string name="privacy_relative">Поверителност</string>
   <string name="privacyPerms">Поверителност</string>
   <string name="reboot_time">Подготовка за рестартиране… (%1$s)</string>
+  <string name="replace_app_des_text">Искате ли да обновите това приложение?</string>
   <string name="review_button_cancel">Отказ</string>
   <string name="review_button_continue">Продължаване</string>
   <string name="risk_warning_bottom_button">Инсталирай от GetApps</string>
@@ -284,14 +292,10 @@
   <string name="unknown_apps_dlg_text">За сигурност, Вашият телефон е настроен да блокира инсталация на приложения от неизвестни източници.</string>
   <string name="unknown_installer">Unidentified PC tools</string>
   <string name="unlike">Не благодаря</string>
+  <string name="untrusted_external_source_always_click">Разреши винаги</string>
   <string name="untrusted_external_source_title">Разрешаване на \"%1$s\" да инсталира приложения?</string>
   <string name="untrusted_external_source_warning">За ваша сигурност телефонът ви не може да инсталира неизвестни приложения от този източник.</string>
-  <string name="untrusted_external_source_warning_summary">"Приложенията от неизвестни източници могат да бъдат вредни за вашето устройство и лични данни. Инсталирайки приложения от този източник, вие се съгласявате да носите отговорност за евентуални щети по вашия телефон или лични данни, които могат да бъдат причинени от тези приложения.
-  
-Можете да давате и отнемате разрешения в Настройки -> Пароли и сигурност -> Поверителност -> Специален достъп -> Инсталиране на неизвестни приложения."</string>
-  <string name="untrusted_external_source_warning_summary_2">"Приложенията от неизвестни източници могат да бъдат вредни за вашето устройство и лични данни. Инсталирайки приложения от този източник, вие се съгласявате да носите отговорност за евентуални щети по вашия телефон или лични данни, които могат да бъдат причинени от тези приложения.
-  
-Можете да давате и отнемате разрешения в Настройки -> Допълнителни настройки -> Поверителност -> Инсталиране на неизвестни приложения."</string>
+  <string name="untrusted_external_source_warning_summary">"Приложенията от неизвестни източници могат да бъдат вредни за вашето устройство и лични данни. Инсталирайки приложения от този източник, вие се съгласявате да носите отговорност за евентуални щети по вашия телефон или лични данни, които могат да бъдат причинени от тези приложения. \nМожете да давате и отнемате разрешения в Настройки -&gt; Пароли и сигурност -&gt; Поверителност -&gt; Специален достъп -&gt; Инсталиране на неизвестни приложения."</string>
   <string name="user_is_not_allowed_dlg_text">Настоящият потребител няма право да изпълнява тази деинсталация.</string>
   <string name="user_is_not_allowed_dlg_title">Не е рзрешено</string>
   <string name="virus_scan_caller_unknown">Неизвестен</string>
@@ -304,10 +308,4 @@
   <string name="wear_app_channel">Инсталиране/деинсталиране на Android Wear приложения</string>
   <string name="wear_not_allowed_dlg_text">Действието Инсталиране/Деинсталиране не се поддържа от Wear.</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
-  <string name="application_detail_tips">Подробности и настройки на разрешенията</string>
-  <string name="install_finished_notification_summary">Кликнете, за да почистите сега</string>
-  <string name="install_finished_notification_title">Инсталирането на %1$s завърши, почистете %2$s</string>
-  <string name="miui_install_version_3">Версия %1$s -> %2$s | Размер %3$s</string>
-  <string name="replace_app_des_text">Искате ли да обновите това приложение?</string>
-  <string name="untrusted_external_source_always_click">Разреши винаги</string>
 </resources>
