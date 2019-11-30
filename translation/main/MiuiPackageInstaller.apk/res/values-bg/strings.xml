@@ -248,7 +248,7 @@
   <string name="privacy_relative">Поверителност</string>
   <string name="privacyPerms">Поверителност</string>
   <string name="reboot_time">Подготовка за рестартиране… (%1$s)</string>
-  <string name="replace_app_des_text">Искате ли да обновите това приложение?</string>
+  <string name="replace_app_des_text">Искате ли да актуализирате това приложение?</string>
   <string name="review_button_cancel">Отказ</string>
   <string name="review_button_continue">Продължаване</string>
   <string name="risk_warning_bottom_button">Инсталирай от GetApps</string>
