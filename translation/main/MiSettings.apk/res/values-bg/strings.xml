@@ -194,7 +194,7 @@
     <string name="stop_app_timer">Изключване на функцията</string>
     <string name="stop_app_timer_success">Функцията за екранно време е деактивирана</string>
 	<string name="focus_time_exception_tip">Изглежда, че системното време е променено. Режимът за съсредоточаване е изключен.</string>
-	<string name="category_other">Друго</string>
+	<string name="category_other">Други</string>
     <string name="trend_from_last_several_day_equal">"Днешното време за използване съответства на среднодневната стойност на %1$d"</string>
 	 <string name="network_error">Възникна мрежова грешка. Опитай отново.</string>
      <string name="retry">Повторен опит</string>

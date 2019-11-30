@@ -94,7 +94,7 @@
          <item quantity="one">%2$s по-малко време за екрана днес от средната стойност за %d дни</item>
      </plurals>
      <plurals name="trend_from_last_several_day_more">
-         <item quantity="other">%2$s часа повече време на екрана днес от средната стойност за %d дни</item>
-         <item quantity="one">%2$s час повече време на екрана днес от средната стойност за %d дни</item>
+         <item quantity="other">%2$s повече екранно време днес от средната стойност за %d дни</item>
+         <item quantity="one">%2$s повече екранно време днес от средната стойност за %d дни</item>
      </plurals>
 </resources>
