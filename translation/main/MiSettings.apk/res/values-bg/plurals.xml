@@ -81,10 +81,6 @@
          <item quantity="zero">%.2f пъти</item>
          <item quantity="one">%.2f път</item>
      </plurals>
-	      <plurals name="last_several_days">
-         <item quantity="other">%d дни</item>
-         <item quantity="one">%d ден</item>
-     </plurals>
      <plurals name="trend_from_last_several_day_equal">
          <item quantity="other">Екранното време днес е равно на средната стойност за %d дни</item>
          <item quantity="one">Екранното време днес е равно на средната стойност за %d дни</item>

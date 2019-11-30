@@ -111,8 +111,6 @@
     <string name="transfer_to_phone_summary">"Включете Mi Споделяне с помощта на превключвателя в панела с бързи настройки. След това ще можете да видите устройства наблизо, когато започнете да споделяте снимка или файл. Докоснете устройството на получателя, за да изпратите елемента, който споделяте."</string>
     <string name="transfer_to_phone_title">Изпращане на файлове към телефони</string>
     <string name="unkonw_device">Неизвестно устройство</string>
-    <string name="wait_receive_file">Изчаква се приемане…</string>
-    <string name="wait_remote_receive_tips">Изчакване…</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>

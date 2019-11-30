@@ -108,10 +108,6 @@
          <item quantity="other">Направете %1$d стъпки, за да освободите %2$s</item>
          <item quantity="one">Направете %1$d стъпка, за да освободите %2$s</item>
      </plurals>
-	     <plurals name="dc_group_title_normal">
-        <item quantity="other">Направете %1$d стъпки, за да освободите %2$s</item>
-        <item quantity="one">Направете %1$d стъпка, за да освободите %2$s</item>
-    </plurals>
     <plurals name="dc_item_summary_apk">
         <item quantity="other">&lt;Data>Можете да изтриете &lt;font color=#0097FF>%d&lt;/font> инсталационни пакета&lt;/Data></item>
         <item quantity="one">&lt;Data>Можете да изтриете &lt;font color=#0097FF>%d&lt;/font> инсталационен пакет&lt;/Data></item>

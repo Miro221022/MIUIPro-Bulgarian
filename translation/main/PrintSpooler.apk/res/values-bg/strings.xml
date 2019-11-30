@@ -5,7 +5,6 @@
     <string name="label_destination">Местоназначение</string>
     <string name="label_copies">Копия</string>
     <string name="label_copies_summary">Копия:</string>
-    <string name="label_paper_size">Размер на хартията</string>
     <string name="label_paper_size_summary">Размер на хартията:</string>
     <string name="label_color">Цвят</string>
     <string name="label_duplex">Двустранно</string>

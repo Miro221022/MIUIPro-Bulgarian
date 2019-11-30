@@ -170,7 +170,6 @@
     <string name="resource_alarm_default">Будилник</string>
     <string name="resource_app_name">Покажи източници</string>
     <string name="resource_apply">Приложи</string>
-    <string name="resource_apply_trial">Пробвай сега</string>
     <string name="resource_back">Назад</string>
     <string name="resource_buy">Купи</string>
     <string name="resource_can_not_selected">"%1$s не може да бъдат избрани"</string>
@@ -235,7 +234,6 @@
     <string name="resource_download">Изтегляне</string>
     <string name="resource_download_notification_title_many">Изтеглени са %1$s теми</string>
     <string name="resource_download_notification_title_one">Темата е изтеглена</string>
-    <string name="resource_download_trial">Безплатен тест</string>
     <string name="resource_downloaded_title">Изтеглени ресурси</string>
     <string name="resource_downloading">Изтегляне</string>
     <string name="resource_exchange">Активиране на код</string>

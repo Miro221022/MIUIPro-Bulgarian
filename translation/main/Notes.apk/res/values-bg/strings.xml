@@ -111,13 +111,11 @@
   <string name="notify_alarm_title">Напомняне</string>
   <string name="permdesc_accessNote">Злонамерените приложения могат да използват това за достъп до личните ви данни.</string>
   <string name="permlab_accessNote">Достъп до бележките</string>
-  <string name="pref_desc_skip_confirm_for_quick_delete">Не питай за потвърждение при изтриване на бележки, когато използвате жестове</string>
   <string name="pref_title_cloud_trash_bin">Изтриване на бележки от Xiaomi Облак</string>
   <string name="pref_title_common">Общи настройки</string>
   <string name="pref_title_font_size">Размер на шрифта</string>
   <string name="pref_title_note_style">Стил на бележки</string>
   <string name="pref_title_show_root_folder_in_homepage">Показване само на бързи бележки на началния екран</string>
-  <string name="pref_title_skip_confirm_for_quick_delete">Бързо изтриване</string>
   <string name="recover_notes_hint">Открити са грешни данни в Бележки. Възстановете от i.mi.com</string>
   <string name="redo">Възстанови</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Изчакайте, докато бележката се зареди и опитайте отново.</string>
