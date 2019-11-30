@@ -86,11 +86,11 @@
          <item quantity="one">Екранното време днес е равно на средната стойност за %d дни</item>
      </plurals>
      <plurals name="trend_from_last_several_day_less">
-         <item quantity="other">%2$s по-малко време за екрана днес от средната стойност за %d дни</item>
-         <item quantity="one">%2$s по-малко време за екрана днес от средната стойност за %d дни</item>
+         <item quantity="other">%2$s по-малко време за екрана днес от средната стойност за %1$d дни</item>
+         <item quantity="one">%2$s по-малко време за екрана днес от средната стойност за %1$d дни</item>
      </plurals>
      <plurals name="trend_from_last_several_day_more">
-         <item quantity="other">%2$s повече екранно време днес от средната стойност за %d дни</item>
-         <item quantity="one">%2$s повече екранно време днес от средната стойност за %d дни</item>
+         <item quantity="other">%2$s повече екранно време днес от средната стойност за %1$d дни</item>
+         <item quantity="one">%2$s повече екранно време днес от средната стойност за %1$d дни</item>
      </plurals>
 </resources>
