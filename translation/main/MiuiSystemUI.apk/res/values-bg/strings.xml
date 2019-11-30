@@ -928,8 +928,8 @@
   <string name="media_projection_dialog_text">%s ще започне да записва всичко, което се показва на екрана ви.</string>
   <string name="media_projection_remember_text">Не показвай отново</string>
   <string name="megabyte_per_second">М/с</string>
-  <string name="memory_clear_result_giga">%1$sГб почистени</string>
-  <string name="memory_clear_result_mega">%1$sМб почистени</string>
+  <string name="memory_clear_result_giga">%1$sГБ почистени</string>
+  <string name="memory_clear_result_mega">%1$sМБ почистени</string>
   <string name="menu_ime">Превключвател на клавиатурата</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Отключено с Mi Band</string>
   <string name="miui_ringer_count_down">Обратно броене</string>

@@ -63,10 +63,10 @@
     <string name="error_invalid_request">Грешка в достоверността</string>
     <string name="error_media_storage_failure">Не може да се запази снимката</string>
     <string name="error_minute_limit">Твърде много опити в рамките на 1 мин</string>
-    <string name="error_permissions">Скенерът няма права, необходими за нормална работа. Проверете в Настройки, преди да продължите</string>
+    <string name="error_permissions">"Скенерът няма необходимите разрешения, за да работи нормално. Отидете в Настройки и проверете разрешенията, за да продължите."</string>
     <string name="error_server_error">Грешка в сървъра</string>
     <string name="feed_search_fail">Няма резултати, опитайте отново</string>
-    <string name="feedback_description_camera_access">Скенерът няма връзка с Камера</string>
+    <string name="feedback_description_camera_access">"Скенер не може да се свърже с камерата"</string>
     <string name="feedback_description_save_photo">Не може да се запази снимка или видео</string>
     <string name="flash_lable">Светкавица</string>
     <string name="import_contact">Вмъкване на контакт</string>
