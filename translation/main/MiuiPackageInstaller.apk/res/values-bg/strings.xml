@@ -248,7 +248,7 @@
   <string name="privacy_relative">Поверителност</string>
   <string name="privacyPerms">Поверителност</string>
   <string name="reboot_time">Подготовка за рестартиране… (%1$s)</string>
-  <string name="replace_app_des_text">Искате ли да актуализирате това приложение?</string>
+  <string name="replace_app_des_text">Презаписване на приложението?</string>
   <string name="review_button_cancel">Отказ</string>
   <string name="review_button_continue">Продължаване</string>
   <string name="risk_warning_bottom_button">Инсталирай от GetApps</string>
@@ -260,7 +260,7 @@
   <string name="screen_overlay_button">Отворете настройките</string>
   <string name="screen_overlay_message">За да промените тази настройка за разрешение, първо трябва да изключите екранното наслагване от \"Настройки\" &gt; Приложения</string>
   <string name="screen_overlay_title">Установено е екранното наслагване</string>
-  <string name="security_settings_desc">Разрешете на прилож. да:</string>
+  <string name="security_settings_desc">Разрешете на приложението да:</string>
   <string name="settings">Настройки</string>
   <string name="settings_warning_dialog_detail">\"Ще бъдете предупредени в следните случаи:\n \"&lt;li&gt;Когато приложението съдържа вируси.&lt;/li&gt;\"\n \"&lt;li&gt;Когато в нашият магазин за приложения е налице по-нова версия на приложението.&lt;/li&gt;\"\n \"&lt;li&gt;Инсталационният пакет идва от неизвестен източник.&lt;/li&gt;</string>
   <string name="settings_warning_dialog_msg">Телефонът ви е изложен на рискове за сигурността. Няма да бъдете подканени да инсталирате безопасни версии на приложенията, ако изключите тази функция. Изключване?</string>
