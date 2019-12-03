@@ -1802,4 +1802,5 @@
     <string name="cfnry_time_thirty_sec">%d сек</string>
     <string name="cfnry_time_twenty_five_sec">%d сек</string>
     <string name="cfnry_time_twenty_sec">%d сек</string>
+	<string name="fiveg_sa_switch_title">SA мрежа</string>
 </resources>

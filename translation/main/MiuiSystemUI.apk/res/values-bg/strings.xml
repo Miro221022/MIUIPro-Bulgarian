@@ -1881,4 +1881,18 @@
    <string name="band_5G">" (5 ГХц лента)"</string>
    <string name="screenshot_failed_to_capture_title">"Това приложение не позволява да се правят екранни снимки"</string>
    <string name="screenshot_failed_to_save_title">Няма достатъчно място за съхранение на нови екранни снимки</string>
+   <string name="multi_face_delete_message">Внимание</string>
+   <string name="multi_face_delete_show_message">Да се изтрият ли лицевите данни сега?</string>
+   <string name="multi_face_input">Добавяне на данни за лице</string>
+   <string name="multi_face_input_enroll">Добавяне на данни за лице</string>
+   <string name="multi_face_input_enrolling">Добавяне на данни за лице…</string>
+   <string name="multi_face_input_reach_upper_limit">"Неуспешно добавяне на лицеви данни. Изчакайте минута или две и опитайте отново."</string>
+   <string name="multi_face_input_success_msg_lift">Плъзнете нагоре на заключен екран, за да използвате отключване с лице</string>
+   <string name="multi_face_input_success_msg_normal">Използвайте отключване с лице, когато екранът светне на заключен екран</string>
+   <string name="multi_face_input_success_msg_slide">Плъзнете надолу на заключен екран, за да използвате отключване с лице</string>
+   <string name="multi_face_input_success_name_title">Име</string>
+   <string name="multi_face_list">Лицеви данни</string>
+   <string name="multi_face_name_prefix">"Лице "</string>
+   <string name="multi_face_number_reach_limit">"Не могат да се добавят данни за повече от 2 лица"</string>
+   <string name="quick_settings_cellular_detail_unable_change">"Не може да се зададе по време на разговор"</string>
 </resources>

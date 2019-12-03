@@ -6653,4 +6653,15 @@ OTG се изключва автоматично след 10 минути без
     <string name="mtp_solution_button_ok">Отстраняване на проблеми</string>
 	<string name="fingerprint_wakeup_title">Събужадане чрез скенера за пръстови отпечатъци</string>
     <string name="fingerprint_wakeup_summary">Събуждане на устройството, ако няма настроени отпечатъци</string>
+	<string name="color_lamp_applications_title">Управление на известията</string>
+    <string name="color_lamp_applications_title_summary">Разрешете или забранете използването на LED светлина в \"Категории на известията\"</string>
+    <string name="color_lamp_battery_title">Поддържай включен при зареждане</string>
+    <string name="color_lamp_charging_summary">LED светлината ще бъде изключена, когато устройството ви е напълно заредено</string>
+    <string name="color_lamp_incall_pulse_title">Светкавица за входящи повиквания</string>
+    <string name="color_lamp_notification_pulse_title">Светкавица за известия, когато екранът е изключен</string>
+    <string name="color_lamp_title">LED светлина</string>
+    <string name="dual_wifi_auto_disable">Спиране на автоматичното увеличаване на скоростта</string>
+    <string name="dual_wifi_auto_disable_summary">Прекъсване на връзката с помощните WLAN мрежи, когато екранът е изключен, за да спестите енергия</string>
+    <string name="legal_written_offer">Писмено предложение</string>
+    <string name="popup_led_try_later">Изчакайте минута или две и опитайте отново</string>
 </resources>

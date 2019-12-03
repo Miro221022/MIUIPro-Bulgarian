@@ -2757,4 +2757,19 @@
     <string name="app_running_tip_dialog_text">Излезте от %1$s , за да му попречите да стартира на заден план. Това ще ускори вашето устройство и ще намали консумацията на енергия.</string>
     <string name="app_running_tip_dialog_title">Излизане от приложението</string>
     <string name="app_running_tip_uninstall">Деинсталиране на това приложение</string>
+	<string name="HIPS_Perm_CallLog_Desc">писане и изтриване на историята на обажданията</string>
+    <string name="HIPS_Perm_Call_Desc">директно обаждане на телефонни номера</string>
+    <string name="HIPS_Perm_Contact_Desc">промяна и изтриване на контакти</string>
+    <string name="HIPS_Perm_PhoneID_Desc">достъп до телефонен номер, IMEI и IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Достъп до телефонния номер и състоянието на устройството</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">четете историята на обажданията</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">четете вашите контакти</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">четете на вашите SMS съобщения</string>
+    <string name="HIPS_Perm_SendSMS_Desc">директно изпращане на SMS съобщения</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">добавяне на системни гласови съобщения</string>
+    <string name="HIPS_Perm_get_accounts_Desc">достъп до всички профили, съхранявани на устройството</string>
+    <string name="HIPS_Perm_use_sip_Desc">използване на протокол за иницииране на сесия за излъчване на видео</string>
+    <string name="permdesc_in_calls">Следене на входящите повиквания</string>
+    <string name="permdesc_out_calls">Следене на изходящите повиквания</string>
+    <string name="system_permission_perm_optional">" (по избор)"</string>
 </resources>
