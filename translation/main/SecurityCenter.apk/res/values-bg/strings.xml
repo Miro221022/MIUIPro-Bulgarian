@@ -1798,7 +1798,7 @@
   <string name="power_save_on_time_end_time_summary_na">До</string>
   <string name="power_save_on_time_start_time_summary_na">От</string>
   <string name="power_save_ps_clean">Изчистване на кеша, когато устройството е заключено</string>
-  <string name="power_save_ps_close_setting">Изключване на услугите на заден (синхронизация, GPS), за да се пести батерия</string>
+  <string name="power_save_ps_close_setting">Изключване на услугите на заден (синхронизация, GPS,\"Събуждане чрез повдигане\", \"Двойно почукване за събуждане или изключване на екрана\", \"Показване на иконата на пръстов отпечатък, когато екранът е изключен\"), за да се пести батерия</string>
   <string name="power_save_ps_freeze">Замразяване на приложенията на заден план</string>
   <string name="power_save_ps_limit">Ограничаване дейността на системните приложения</string>
   <string name="power_save_settings">Настройки на батерията</string>
@@ -2723,7 +2723,7 @@
   <string name="power_center_scan_item_title_5g">5G свързаност</string>
   <string name="power_dialog_super_save_msg_5g">Свръх пестенето на батерия ограничава повечето консумиращи енергия функции (например 5G свързаност), като понижава производителността на вашето устройство. Само обаждания, съобщения и мрежовата връзка няма да бъдат засегнати. Да се включи ли Свръх пестене на батерия?</string>
   <string name="power_optimize_disable_5g">Ограничаване на 5G свързаността</string>
-  <string name="power_save_ps_close_setting_5g">Ограничаване на функциите, консумиращи енергия (синхронизация, 5G свързаност, GPS)</string>
+  <string name="power_save_ps_close_setting_5g">Изключване на функциите, консумиращи енергия (синхронизация, 5G свързаност, GPS, \"Събуждане чрез повдигане\", \"Двойно почукване за събуждане или изключване на екрана\", \"Показване на иконата на пръстов отпечатък, когато екранът е изключен\"), за да се пести батерия</string>
   <string name="privacyapp_number_masked_text">Съдържанието на известията е скрито</string>
   <string name="privacyapp_number_unmasked_text">Съдържанието на известията може да бъде скрито</string>
     <string name="battery_can_use_time">%s остава</string>
@@ -2775,4 +2775,10 @@
 	<string name="power_center_list_item_haptic_feedback">Изключване на осезателната обратна връзка</string>
 	<string name="power_center_list_item_wake_notification">"Без събуждане на екрана при известия"</string>
 	<string name="power_optimize_disable_gps_high_accuracy">Изключване на режима за висока точност на местоположението</string>
+	<string name="power_center_dialog_msg_title">Включете, за да получите %1$s допълнително време. Следните действия ще бъдат извършени, за да се спести батерия:</string>
+    <string name="power_save_mode_close_notification_screenon_summary">Работи, когато е пестенето на батерия е включено</string>
+    <string name="power_save_mode_close_notification_screenon_title">"Без събуждане на екрана при известия"</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_summary">Работи, когато е пестенето на батерия е включено</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_title">"Не задействай Mi AI с глас"</string>
+    <string name="power_save_mode_other_optimization">Допълнителна оптимизация</string>
 </resources>
