@@ -2772,4 +2772,7 @@
     <string name="permdesc_in_calls">Следене на входящите повиквания</string>
     <string name="permdesc_out_calls">Следене на изходящите повиквания</string>
     <string name="system_permission_perm_optional">" (по избор)"</string>
+	<string name="power_center_list_item_haptic_feedback">Изключване на осезателната обратна връзка</string>
+	<string name="power_center_list_item_wake_notification">"Без събуждане на екрана при известия"</string>
+	<string name="power_optimize_disable_gps_high_accuracy">Изключване на режима за висока точност на местоположението</string>
 </resources>

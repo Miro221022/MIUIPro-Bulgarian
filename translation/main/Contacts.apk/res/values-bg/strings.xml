@@ -1285,4 +1285,5 @@
      <string name="zero">0</string>
      <string name="zero_items_selected">Нищо не е избрано</string>
      <string name="zero_letter">+</string>
+	 <string name="cloud_upgrade_recommend">"Контактите не могат да се синхронизират поради недостатъчно пространство в хранилището в облака. Надстройте вашия план за съхранение в облака."</string>
 </resources>
