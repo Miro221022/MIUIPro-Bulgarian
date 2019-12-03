@@ -37,7 +37,7 @@
   <string name="cos">cos</string>
   <string name="cosDesc">косинус</string>
   <string name="currency_update_connect_to_get_data">Валутните курсове се предоставят от Apilayer. Свържете се с мрежата, за да получите най-новата информация.</string>
-  <string name="currency_update_support">Валутните курсове се предоставят от Apilayer.</string>
+  <string name="currency_update_support">Обменните курсове се предоставят от Apilayer.</string>
   <string name="currency_update_time_format">Обменните курсове се предоставят от Apilayer (%s)</string>
   <string name="currency_update_updating">Обновяване на курсовете…</string>
   <string name="dateformat">dd/MM/yyyy</string>
