@@ -782,8 +782,9 @@
     <string name="trans_detail_wechat_data">WeChat данни (включително историята на чата)</string>
     <string name="trans_install_guide_new_content_first">"Сканирайте този QR код с новото си устройство.
 Изтеглете и инсталирайте Mi Трансфер."</string>
-    <string name="trans_install_guide_old_content_first">"Mi Трансфер е предварително инсталиран на всички устройства, работещи с MIUI 11.
-Ако Mi Трансфер не е инсталиран на старото ви устройство, можете да сканирате QR кода, за да го изтеглите."</string>
+    <string name="trans_install_guide_old_content_first">"1. Сканирайте този QR код със старото си устройство.
+2. Изтеглете и инсталирайте Mi Трансфер.
+3. Докоснете бутона по-долу, след като инсталацията приключи."</string>
     <string name="trans_intro_title">ЧЗВ</string>
     <string name="trans_main_activity_tutor_first">"Преместете вашите снимки, контакти, съобщения, история на обажданията,
 звуци, видео, документи и приложения в новото устройство"</string>
@@ -952,7 +953,7 @@
     <string name="dialog_request_network_message_extra">"Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. В такива сличаи можете да деинсталирате това приложение или да ограничите разрешенията в Настройки."</string>
     <string name="guest_install_app_hint_ensure">Изтегляне</string>
     <string name="guest_install_app_hint_summary">"Новата версия на Mi Трансфер не е съвместима с тази, инсталирана на това устройство. Изтеглете и инсталирайте новата версия."</string>
-    <string name="guest_install_app_hint_title">Изтеглете новата версия на Mi Mover</string>
+    <string name="guest_install_app_hint_title">Изтеглете новата версия на Mi Трансфер</string>
     <string name="host_boot_installation_button">Следващо</string>
     <string name="host_boot_installation_content">"1. Отворете Настройки на старото си устройство.
 2. Въведете \"Mi Трансфер\" в лентата за търсене.
@@ -960,9 +961,19 @@
     <string name="host_boot_installation_dialog_message">"Версията на Mi Трансфер на старото ви устройство не е съвместима с инсталираната тук. Актуализирайте Mi Трансфер на старото си устройство."</string>
     <string name="host_boot_installation_first_title">Отворете Mi Трансфер на старото си устройство</string>
     <string name="host_boot_installation_message">"Изберете страницата, която виждате на старото си устройство. Ако използвате стара версия на Mi Трансфер, ще ви кажем как да я актуализирате."</string>
-    <string name="host_boot_installation_second_title">Изберете страницата, която виждате</string>
+    <string name="host_boot_installation_second_title">"Потвърдете версията на Mi Трансфер"</string>
     <string name="host_boot_installation_tips">"Не можете да намерите Mi Трансфер? Докоснете, за да го изтеглите."</string>
     <string name="main_chooser_item_android_others">Импортиране от друг Android телефон</string>
     <string name="new_app_name">Нова версия</string>
     <string name="old_app_name">Стара версия</string>
+	<string name="current_user_not_supported_summary">Текущите системни настройки забраняват прехвърлянето на данни с помощта на Mi Трансфер.</string>
+    <string name="current_user_not_supported_title">"Не може да се прехвърлят елементи"</string>
+    <string name="host_boot_installation_bottom_tips">"Не можете да намерите Mi Трансфер? Докоснете, за да изтеглите."</string>
+    <string name="host_boot_installation_step_one_messege">Отидете в Настройки, въведете \"Mi Трансфер\" в лентата за търсене и изберете \"Mi Трансфер\" в резултатите от търсенето.</string>
+    <string name="host_boot_installation_step_one_title">1. Отворете Mi Трансфер на старото си устройство</string>
+    <string name="host_boot_installation_step_two_title">2. Изберете страницата, която виждате на старото си устройство.</string>
+    <string name="international_new_trans_intro_desc_8">"Текстовите съобщения не могат да бъдат прехвърлени поради проблеми със съвместимостта. Приложенията от трети страни може да ограничат прехвърлянето на техните данни поради съображения за сигурност."</string>
+    <string name="international_new_trans_intro_question_8">"8. Защо не могат да се прехвърлят текстови съобщения и данните на някои приложения от трети страни?"</string>
+    <string name="international_scanner_send_dialog_message">"Текстовите съобщения и данните на някои приложения от трети страни не могат да бъдат прехвърлени. Не изключвайте Wi-Fi или не превключвайте между мрежите по време на прехвърлянето."</string>
+    <string name="scanner_wechat_overwrite_hit">Поради ограничения за приложения от трети страни, историята на чатовете и други данни за приложенията на новото ви устройство ще бъдат заменени с тези от старото, след като прехвърлянето приключи.</string>
 </resources>

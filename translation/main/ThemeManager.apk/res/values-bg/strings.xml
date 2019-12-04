@@ -647,7 +647,7 @@
    <string name="ad_begin_to_install_tip">Инсталиране…</string>
    <string name="dynamic_video_wallpaper">24H тапет</string>
    <string name="find_more_font">Намерете още</string>
-   <string name="incall_show_apply">Профилно видео за изходящи повиквания</string>
+   <string name="incall_show_apply">Задаване като профилно видео</string>
    <string name="incall_show_apply_fail">"Не може да се зададе"</string>
    <string name="incall_show_apply_success">Зададено успешно</string>
    <string name="incall_show_apply_success_without_ringtone">"Задайте профилно видео за изходящи повиквания.
@@ -837,4 +837,6 @@
     <string name="support_theme_store_des">Добрите теми винаги се създават от талантливи дизайнери. Приложението ни съдържа малко количество реклами, които ни позволяват да подкрепим тяхната работа.</string>
     <string name="support_theme_store_supported">Благодаря за подкрепата!</string>
     <string name="support_theme_store_title">Подкрепете нашите дизайнери</string>
+	<string name="de_preview">Преглед</string>
+    <string name="wallpaper_set_as_incall_show">Задаване като профилно видео</string>
 </resources>

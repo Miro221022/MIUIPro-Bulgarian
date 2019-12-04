@@ -6664,4 +6664,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="dual_wifi_auto_disable_summary">Прекъсване на връзката с помощните WLAN мрежи, когато екранът е изключен, за да спестите енергия</string>
     <string name="legal_written_offer">Писмено предложение</string>
     <string name="popup_led_try_later">Изчакайте минута или две и опитайте отново</string>
+	<string name="delete_fingerprint_confirm_title">Внимание</string>
 </resources>
