@@ -5,4 +5,6 @@
    <string name="search_result_text">Няма намерени програми</string>
    <string name="set_gsmcore_title">Деактивиране на услугите за Google Play</string>
    <string name="set_gsmcore_summary">Деактивиране на услугите за Google Play в режим на екстремно пестене на батерия</string>
+   <string name="low_sounds_title">Звук при изтощена батерия</string>
+   <string name="low_dialog_title">Съобщение при изтощена батерия</string>
 </resources>
