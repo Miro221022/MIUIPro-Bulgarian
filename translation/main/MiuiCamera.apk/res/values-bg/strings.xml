@@ -1014,4 +1014,14 @@
     <string name="pref_camera_video_tag">Разрешаване на маркиране на видеоклипове</string>
     <string name="pref_camera_video_tag_description">Докоснете \"Маркиране\" докато снимате видео, за да можете да се върнете към отбелязаните моменти по време на възпроизвеждане</string>
     <string name="video_tag_flag_title">Маркиране</string>
+	<string name="fragment_tab_name_bokeh">Боке</string>
+	<string name="video_effect_entry_central">Централно</string>
+    <string name="video_effect_entry_color_retention">Запазване на портретен цвят</string>
+    <string name="video_effect_entry_fantasy">Фантазия</string>
+	<string name="video_effect_entry_lost">Изгубен</string>
+    <string name="video_effect_entry_meet">Среща</string>
+    <string name="video_effect_entry_northern_europe">Северна Европа</string>
+	<string name="video_effect_entry_rome">Рим</string>
+    <string name="video_effect_entry_summer_day">Летен ден</string>
+    <string name="video_effect_entry_wind_sing">Вятърна песен</string>
 </resources>

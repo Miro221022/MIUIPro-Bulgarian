@@ -312,4 +312,11 @@
 	<string name="you_have_permission_to_download">Докоснете, за да изтеглите бета версия</string>
     <string name="you_id">"Вашето ID: "</string>
     <string name="your_application_is_under_review">" (Вашата кандидатура се преглежда.)"</string>
+	<string name="store_feedback_prompt">Първо въведете отзивите си</string>
+    <string name="store_location_dialog">Тази услуга се предоставя от Dianping. Всички снимки, които правите, докато използвате тази услуга, включително свързаната информация за местоположението, ще бъдат споделени с Dianping, за да получите информацията за магазините.</string>
+    <string name="store_location_fail">"Не може да се поучи информация за местоположението"</string>
+    <string name="store_location_prompt">Разрешете на Скенер достъп до вашето местоположение, за да може да идентифицира магазините</string>
+    <string name="store_module_title">Магазин</string>
+    <string name="store_no_date">"Магазинът не може да се идентифицира"</string>
+    <string name="store_title">Сканирайте знака на магазина</string>
 </resources>

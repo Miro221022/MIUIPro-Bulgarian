@@ -1795,7 +1795,7 @@
     <string name="wifi_call_preferred_summary">"Ако изберете за предпочитане мобилни мрежи, те ще се използват за разговори по подразбиране. В случай, че няма сигнал за мобилна мрежа или е много лош, вместо това ще се използва WLAN мрежа."</string>
 	<string name="wifi_call_welcome_settings">WLAN повиквания</string>
 	<string name="last_sim_callback_summary">Когато провеждате разговори от историята на повикванията, използвайте SIM карта, използвана по време на предишното повикване към този контакт</string>
-    <string name="last_sim_callback_title">Запомняне на предпочитанията за SIM картата</string>
+    <string name="last_sim_callback_title">Запомняне на предпочитанията за SIM</string>
 	<string name="cfnry_time_fifteen_sec">%d сек</string>
     <string name="cfnry_time_five_sec">%d сек</string>
 	<string name="cfnry_time_ten_sec">%d сек</string>
