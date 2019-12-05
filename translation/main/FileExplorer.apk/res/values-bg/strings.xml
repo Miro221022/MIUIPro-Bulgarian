@@ -190,7 +190,7 @@
   <string name="instruction">Въведете адреса във вашия FTP клиент:</string>
   <string name="instruction_pre_pad">Докоснете за стартиране на FTP сървър</string>
   <string name="instruction_pre_phone">Докоснете за стартиране на FTP сървър</string>
-  <string name="just_now">Току-що</string>
+  <string name="just_now">току-що</string>
   <string name="kilobyteShort">КБ</string>
   <string name="list_mode">Изглед като списък</string>
   <string name="load_more">Виж повече</string>
@@ -229,7 +229,7 @@
   <string name="mtp_device">Медийно устройство (MTP)</string>
   <string name="mtp_label">MTP</string>
   <string name="name_empty">Трябва да въведете име.</string>
-  <string name="need_read_storage_permission">Файлов Експлорър се нуждае от права за достъп до хранилището на устройството, за да работи нормално.</string>
+  <string name="need_read_storage_permission">"Файлов мениджър изисква разрешение за достъп до хранилището на устройството, за да работи нормално."</string>
   <string name="network_not_available">Няма връзка с мрежи</string>
   <string name="new_folder_name">Нова папка</string>
   <string name="no">Не</string>
@@ -312,7 +312,7 @@
   <string name="private_files">Скрит</string>
   <string name="private_folder">Скрита папка</string>
   <string name="private_folder_no_file_hints">Задръжте файл или папка, за да ги скриете.</string>
-  <string name="private_folder_update">Актуализиране на скритите файлове ...…</string>
+  <string name="private_folder_update">Актуализиране на скритите файлове…</string>
   <string name="private_toast_hint2">За да скриете файл, натиснете и задръжте върху него и след това го добавете в скрита папка.</string>
   <string name="promot_enctypt_password">Въведете паролата, използвана за отключване на вашето устройство</string>
   <string name="rename_alert">Ако промените разширението на този файл, може да нямате възможност да го отворите.</string>

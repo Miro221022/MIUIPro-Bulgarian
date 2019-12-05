@@ -269,7 +269,7 @@
   <string name="applock_add_account_setting">Профил и сигурност</string>
   <string name="applock_bind_account_title">Забравена парола</string>
   <string name="applock_close_dialog_summary">Всички скрити приложения вече няма да бъдат скрити, техните преки пътища ще бъдат възстановени и вашата парола за Заключени приложения ще бъде изтрита. Изключване на Заключени на приложения?</string>
-  <string name="applock_close_dialog_title">Изкл. на Заключване на приложения?</string>
+  <string name="applock_close_dialog_title">Премахване на заключването?</string>
   <string name="applock_exit_account_info">Профилът ще бъде премахнат автоматично, когато се отпишете</string>
   <string name="applock_face_unlock_summary">Отключване на приложения, чрез лицеви данни</string>
   <string name="applock_face_unlock_title">Отключване с лице</string>
@@ -277,7 +277,7 @@
   <string name="applock_function_pwd_settings">Парола</string>
   <string name="applock_header_text_less_than_half">Прекалено малко. Начертайте още.</string>
   <string name="applock_login_and_add_account">Вписване и добавяне</string>
-  <string name="applock_not_add_account">&lt;u&gt;Не сега&lt;/u&gt;</string>
+  <string name="applock_not_add_account">" "<u>Не сега</u>" "</string>
   <string name="applock_not_login_account">Не сте вписан</string>
   <string name="applock_toast_tip">Потвърдрно заключване на приложения успешно</string>
   <string name="apps_item_sign_dialog_content">Цифровият подпис на \"%s\" е различен от този в Google Магазин. Да се изтрие ли приложението и да се инсталира официалната версия? Забележка: инсталирането на приложения с конфликт в цифровото подписване може да предизвика загуба на данни.</string>
@@ -360,7 +360,7 @@
   <string name="auto_task_operation_mobile_data">\nМобилни данни</string>
   <string name="auto_task_operation_modify_string">\nРЕГУЛИРАНЕ НА: %s</string>
   <string name="auto_task_operation_mute">\nТих режим</string>
-  <string name="auto_task_operation_no_op">Не избирайте това действие</string>
+  <string name="auto_task_operation_no_op">Не избирай това действие</string>
   <string name="auto_task_operation_open">Включено</string>
   <string name="auto_task_operation_open_string">ВКЛЮЧВАНЕ НА: %s</string>
   <string name="auto_task_operation_string_etc">, и др.</string>
@@ -425,8 +425,8 @@
   <string name="bind_xiaomi_account_confirm">Добави</string>
   <string name="bind_xiaomi_account_dialog_summery">Ще добавите Mi профил %s. Ако си забравите паролата, ще можете да използвате този профил, за да я смените. Профилът ще бъде премахнат автоматично, ако излезете.</string>
   <string name="bind_xiaomi_account_success">Mi профилът е добавен успешно</string>
-  <string name="bind_xiaomi_account_summary">Използвайте Mi профил, за да смените паролата си</string>
-  <string name="bind_xiaomi_account_title">Добавете Mi профил</string>
+  <string name="bind_xiaomi_account_summary">Използвайте Mi профил, за да нулирате паролата си</string>
+  <string name="bind_xiaomi_account_title">Добавяне на Mi профил</string>
   <string name="birthday">Рожден ден</string>
   <string name="bl_no_blacklist">Няма блокирани номера.</string>
   <string name="bl_no_block_call">Няма блокирани обаждания.</string>
@@ -754,7 +754,7 @@
   <string name="ew_arrive_text_tips">Пристигна сеизмична вълна: %s</string>
   <string name="ew_button_confirm">Приемам</string>
   <string name="ew_button_exit">Не приемам</string>
-  <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;\"Тази функция ви осигурява функционалност за предупреждение за земетресение. Тя ще ви извести за предстоящи земетресения и ще възпроизведе предупредителен звук. Ще можете да намерите най-близкия подслон, да се обадите на вашия спешен контакт и при необходимост да представите медицинската си карта. &amp;lt;br&amp;gt;Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност. &amp;lt;br&amp;gt;За да можете да работи нормално, тази функция изисква следните разрешения, за да събира личната ви информация: &amp;lt;br&amp;gt;&amp;#8226; Информация за местоположение: &amp;lt;br&amp;gt;За достъп до местоположението ви и предоставяне на точни предупреждения за земетресение. &amp;lt;br&amp;gt;Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате тази функция. В такива случаи можете да изберете да изключите тази функция или да не я включите. &amp;lt;br&amp;gt;Трябва да прочетете и да се съгласите с нашата &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Политика за поверителност&amp;lt;/a&amp;gt; преди да използвате тази функция.\"&lt;/Data&gt;</string>
+  <string name="ew_china_version_first_start_network_msg">" "<Data>"Тази функция ви осигурява функционалност за предупреждение за земетресение. Тя ще ви извести за предстоящи земетресения и ще възпроизведе предупредителен звук. Ще можете да намерите най-близкия подслон, да се обадите на вашия спешен контакт и при необходимост да представите медицинската си карта. &lt;br>Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност. &lt;br>За да може да работи нормално, тази функция изисква следните разрешения, за да събира личната ви информация: &lt;br>• Информация за местоположение: &lt;br>За достъп до местоположението ви и предоставяне на точни предупреждения за земетресение. &lt;br>Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате тази функция. В такъв случай можете да изберете да изключите тази функция или да не я включите. &lt;br>Трябва да прочетете и да се съгласите с нашата &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a> преди да използвате тази функция."</Data>" "</string>
   <string name="ew_close">Изключване на предупреждението</string>
   <string name="ew_emergency_allergy">Алергии</string>
   <string name="ew_emergency_basic_info">Основна информация</string>
@@ -788,7 +788,7 @@
   <string name="ew_guide_next_text">Следващо</string>
   <string name="ew_guide_play_audio">Изпълнение на предупредителен звук</string>
   <string name="ew_guide_play_audio_last">Изпълни  предупредителен звук (%dс)</string>
-  <string name="ew_guide_statement_text">&lt;Data&gt;\"&lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;lang=%2$s\"&gt;Отказ от отговорност&lt;/a&gt; Всеки път, когато потребителя (по-долу наричан: \"Вие\") активира функцията за предупреждение за земетресение, той или тя сключва правно обвързващ договор с Xiaomi и неговите партньори (по-долу наричан: \"Xiaomi\"). Използвайки тази функция, вие потвърждавате, че сте прочели този отказ от отговорност и напълно разбирате и се съгласявате с цялото му съдържание. Ако не сте съгласни с този отказ от отговорност, трябва незабавно да изключите функцията за предупреждение за земетресение.&lt;br&gt; &lt;b&gt;Специално становище&lt;/b&gt;&lt;br&gt; Съгласно съответните закони и разпоредби услугите за ранно предупреждение при земетресения се предоставят само на районите, в които са разрешени от съответните правителствени служби. Това означава, че когато включите функцията за предупреждение за земетресение и устройството ви е в разрешен район, можете да получавате услуги за предупреждение за земетресение. Можете да проверите списъка с райони, в които понастоящем се предоставят услуги за предупреждение за земетресение. В бъдеще ще бъдат поддържани още области. Останете на линия!&lt;br&gt; &lt;b&gt;Отказ от отговорност&lt;/b&gt;&lt;br&gt; Приложението Сигурност ви предоставя функционалност за предупреждение за земетресение. Трябва да знаете, че информацията за предупреждение за земетресения се предоставя от правителствените агенции за ранно предупреждение. Xiaomi не наблюдава такива агенции и няма контрол върху тях. &lt;br&gt; Xiaomi не обещава и не гарантира точността, валидността и актуалността на информацията за предупреждение за земетресение, нито гарантира, че услугата за предупреждение за земетресение ще отговори на всички ваши нужди.&lt;br&gt; Получаването на предупредителна информация за земетресение изисква да поддържате устройството си свързано с мобилната мрежа. Неизправности в комуникационната линия на трети страни, технически проблеми, повреди на мрежово или крайно оборудване, нестабилност на системата и други различни форсмажорни събития могат да ви попречат да получавате предупредителна информация за земетресение. Xiaomi не носи отговорност за загуби, причинени от подобни събития.&lt;br&gt; Трябва да знаете, че тази функция е предоставена само за справка. Вие носите пълна отговорност за рисковете и последиците от всички действия, които извършвате въз основа на информацията, предоставена от тази функция. &lt;br&gt;\"&lt;/Data&gt;</string>
+  <string name="ew_guide_statement_text">" "<Data>"&lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;lang=%2$s\">Отказ от отговорност&lt;/a> Всеки път, когато потребителя (по-долу наричан: \"Вие\") активира функцията за предупреждение за земетресение, той или тя сключва правно обвързващ договор с Xiaomi и неговите партньори (по-долу наричан: \"Xiaomi\"). Използвайки тази функция, вие потвърждавате, че сте прочели този отказ от отговорност и напълно разбирате и се съгласявате с цялото му съдържание. Ако не сте съгласни с този отказ от отговорност, трябва незабавно да изключите функцията за предупреждение за земетресение.&lt;br&gt; &lt;b&gt;Специално становище&lt;/b>&lt;br> Съгласно съответните закони и разпоредби услугите за ранно предупреждение при земетресения се предоставят само на районите, в които са разрешени от съответните правителствени служби. Това означава, че когато включите функцията за предупреждение за земетресение и устройството ви е в разрешен район, можете да получавате услуги за предупреждение за земетресение. Можете да проверите списъка с райони, в които понастоящем се предоставят услуги за предупреждение за земетресение. В бъдеще ще бъдат поддържани още области. Останете на линия!&lt;br> &lt;b>Отказ от отговорност&lt;/b>&lt;br> Приложението Сигурност ви предоставя функционалност за предупреждение за земетресение. Трябва да знаете, че информацията за предупреждение за земетресения се предоставя от правителствените агенции за ранно предупреждение. Xiaomi не наблюдава такива агенции и няма контрол върху тях. &lt;br> Xiaomi не обещава и не гарантира точността, валидността и актуалността на информацията за предупреждение за земетресение, нито гарантира, че услугата за предупреждение за земетресение ще отговори на всички ваши нужди.&lt;br> Получаването на предупредителна информация за земетресение изисква да поддържате устройството си свързано с мобилната мрежа. Неизправности в комуникационната линия на трети страни, технически проблеми, повреди на мрежово или крайно оборудване, нестабилност на системата и други различни форсмажорни събития могат да ви попречат да получавате предупредителна информация за земетресение. Xiaomi не носи отговорност за загуби, причинени от подобни събития.&lt;br> Трябва да знаете, че тази функция е предоставена само за справка. Вие носите пълна отговорност за рисковете и последиците от всички действия, които извършвате въз основа на информацията, предоставена от тази функция. &lt;br>"</Data>" "</string>
   <string name="ew_guide_tips_1">Ще бъдете уведомени за предстоящи земетресения и ще чуете предупредителен звук</string>
   <string name="ew_guide_tips_2">Информационният и предупредителен звук ще се актуализира по време на земетресението</string>
   <string name="ew_guide_tips_3">Ще можете да намерите най-близкия подслон, да се обадите на вашия спешен контакт и при необходимост да представите медицинската си карта</string>
@@ -870,7 +870,7 @@
   <string name="face_unlock_face_start_title">Потвърждаване на лицеви данни…</string>
   <string name="face_unlock_finger_or_password_switch">Използвайте отпечатъка си или въведете парола, за да отключите.</string>
   <string name="face_unlock_guide_confirm">Включване</string>
-  <string name="face_unlock_guide_dialog_summary">Можете да използвате лицеви данни, за да отключите устройството си. Включване на Отключване с лице?</string>
+  <string name="face_unlock_guide_dialog_summary">Можете да използвате лицеви данни, за да отключите устройството си. Включване на отключване с лице?</string>
   <string name="face_unlock_not_found">Неуспешно разпознаване</string>
   <string name="face_unlock_open_eye">Отворете очите си малко по-широко</string>
   <string name="face_unlock_reveal_eye">Направете очите си видими</string>
@@ -967,9 +967,9 @@
   <string name="forbid_autobright_summary">Автоматичната яркост ще бъде изключена, докато играете и възстановена след като приключите</string>
   <string name="forbid_autobright_title">Поправяне на яркостта на екрана</string>
   <string name="foreground_traffic">На преден план %s</string>
-  <string name="forget_password_button_text">&lt;u&gt;Забравена парола&lt;/u&gt;</string>
+  <string name="forget_password_button_text">" "<u>Забравена парола</u>" "</string>
   <string name="forget_password_button_text_normal">Забравена парола</string>
-  <string name="forget_pattern">&lt;u&gt;Забравена парола&lt;/u&gt;</string>
+  <string name="forget_pattern">" "<u>Забравена парола</u>" "</string>
   <string name="forground_network_optimization_summary">Даване на по-голямата част от честотната лента на игрите изпълняващи се на преден план</string>
   <string name="forground_network_optimization_title">Приоритет на честотната лента</string>
   <string name="free_send_net_booster">Безплатен Мрежов ускорител</string>
@@ -1257,12 +1257,12 @@
   <string name="lockpattern_continue_button_text">Напред</string>
   <string name="lockpattern_need_to_confirm">За потвърждение начертайте фигурата отново</string>
   <string name="lockpattern_need_to_unlock_wrong">Паролите не съвпадат, опитайте отново.</string>
-  <string name="lockpattern_pattern_confirmed_header">Новата ви фигура за отключване</string>
+  <string name="lockpattern_pattern_confirmed_header">Новият ви шаблон за отключване</string>
   <string name="lockpattern_pattern_entered_header">Фигурата е записана</string>
   <string name="lockpattern_recording_inprogress">Вдигнете пръст, когато сте готови</string>
-  <string name="lockpattern_recording_intro_header">Свържете поне 4 точки, за да създадете фигура</string>
+  <string name="lockpattern_recording_intro_header">Свържете поне 4 точки, за да създадете шаблон</string>
   <string name="lockpattern_retry_button_text">Повторен опит</string>
-  <string name="lockpattern_settings_help_how_to_record">Как се чертае фигура за отключване</string>
+  <string name="lockpattern_settings_help_how_to_record">Как се чертае шаблон за отключване</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Твърде много неуспешни опити!</string>
   <string name="lockpattern_tutorial_cancel_label">Отказ</string>
   <string name="lockpattern_tutorial_continue_label">Напред</string>
@@ -1441,7 +1441,7 @@
   <string name="mixed_recording_intro_header">Въведете %1$s-%2$s знака</string>
   <string name="mixed_retry_button_text">Отказ</string>
   <string name="mixed_settings_help_how_to_record">Как да зададете парола</string>
-  <string name="modify_password_mode">&lt;u&gt;Смяна на типа парола&lt;/u&gt;</string>
+  <string name="modify_password_mode">" "<u>Смяна на типа парола</u>" "</string>
   <string name="modifypassword">Промяна на паролата</string>
   <string name="monitor_app_add">Добави</string>
   <string name="monitor_app_more">Повече</string>
@@ -1612,7 +1612,7 @@
   <string name="password_promotion_postbutton_text">Добави</string>
   <string name="password_promotion_title">Добавяне на Mi профил</string>
   <string name="password_type">Промяна на паролата</string>
-  <string name="password_type_underline">&lt;u&gt;Промяна на паролата&lt;/u&gt;</string>
+  <string name="password_type_underline">" "<u>Промяна на паролата</u>" "</string>
   <string name="password_xspace_forget_pattern_message">За да смените паролата за вашето Второ работно място, трябва да изтриете текущото такова и да създадете ново.</string>
   <string name="passwordIncorrect">Неправилно име или парола</string>
   <string name="pc_abnormal_scan_button_text">Затваряне на приложения</string>
@@ -1916,8 +1916,8 @@
   <string name="privacy_apps_manage_dialog_title">Относно Скрити приложения</string>
   <string name="privacy_apps_manager_dialog_message">Иконата на това приложение няма да се показва на началния екран, след като скриете приложението. Ще скриете ли това приложение сега?</string>
   <string name="privacy_apps_next_stup">Следващо</string>
-  <string name="privacy_apps_shield_message_summary">Да не се показват известия от защитените приложения</string>
-  <string name="privacy_apps_shield_message_title">Не покзвай известия</string>
+  <string name="privacy_apps_shield_message_summary">"Без показване на известия от скритите приложения"</string>
+  <string name="privacy_apps_shield_message_title">"Без показване на известия"</string>
   <string name="privacy_apps_tutorial">Инструкция</string>
   <string name="privacy_apps_tutorial_dlg_title">Как да намерите скрити приложения</string>
   <string name="privacy_apps_tutorial_prompt_pageone">Тази функция ви позволява да скривате иконите на приложенията, така че те повече да не се показват на началния екран.</string>
@@ -2633,7 +2633,7 @@
   <string name="uninstall_danagerous_title">Премахване на вредните приложения</string>
   <string name="unlike">Не, благодаря</string>
   <string name="unlock_failed">Вътрешна грешка</string>
-  <string name="unlock_pattern">&lt;u&gt;Шаблон&lt;/u&gt;</string>
+  <string name="unlock_pattern">" "<u>Шаблон</u>" "</string>
   <string name="unlock_pattern_to_bind_fingerprint">Въведете парола за активиране на Пръстов отпечатък</string>
   <string name="unlock_set_unlock_password_summary">Комбинирайте различни знаци</string>
   <string name="unlock_set_unlock_password_title">Парола</string>

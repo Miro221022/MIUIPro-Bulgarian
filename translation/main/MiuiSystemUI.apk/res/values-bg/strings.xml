@@ -558,7 +558,7 @@
   <string name="face_data_input_camera_ok">Зарежда се камерата…</string>
   <string name="face_data_input_cancel">Отказ</string>
   <string name="face_data_input_cancel_msg">Не може да се добавят лицеви данни</string>
-  <string name="face_data_input_msg">Сложете вашето лице вътре в рамката</string>
+  <string name="face_data_input_msg">Поставете лицето си в рамката</string>
   <string name="face_data_input_ok">Готово</string>
   <string name="face_data_input_ok_msg">Включете екрана, за да отключите устройство си с лице.</string>
   <string name="face_data_input_ok_msg_angle">Отключете устройството с лицето си, когато екранът е включен.\n(Запишете данните за лицето си, включително всички необходими ъгли.)</string>
