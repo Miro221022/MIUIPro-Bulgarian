@@ -148,7 +148,7 @@
   <string name="feedback_status_change_notification_title">Прогреса на вашия доклад е обновен</string>
   <string name="feedback_status_collect_log_failed">Логовете не може да се получат</string>
   <string name="feedback_status_commit_failed_title">Не може да се изпрати доклада</string>
-  <string name="feedback_status_commit_in_queue_title">Очакваме обратна връзка</string>
+  <string name="feedback_status_commit_in_queue_title">Очакваме отзиви</string>
   <string name="feedback_status_commit_succ_title">Изпратено</string>
   <string name="feedback_status_commit_uploading_title">Изпращане…</string>
   <string name="feedback_status_forum_reply">Отговори</string>
@@ -207,7 +207,7 @@
   <string name="kr_authorization_user_protocol">Потребителско споразумение (задължително)</string>
   <string name="loading_apps">Създава се списък…</string>
   <string name="login_system_failed">Неможе да се впише, опитайте отново</string>
-  <string name="logo_title">Обратна връзка</string>
+  <string name="logo_title">Отзиви</string>
   <string name="max_error">Вашия %1$s трябва да е по-кратък.</string>
   <string name="menu_copy">Копиране</string>
   <string name="message_label">Съобщение</string>
