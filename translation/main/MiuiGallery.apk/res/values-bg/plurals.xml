@@ -408,4 +408,8 @@
         <item quantity="other">Елементите могат да бъдат съхранявани тук до %1$d дни. Надстройте плана си, за да удължите този период.</item>
         <item quantity="one">Елементите могат да бъдат съхранявани тук до %1$d ден. Надстройте плана си, за да удължите този период.</item>
     </plurals>
+	     <plurals name="photo_remain_hours">
+         <item quantity="one">%d ч.</item>
+         <item quantity="other">%d ч.</item>
+     </plurals>
 </resources>

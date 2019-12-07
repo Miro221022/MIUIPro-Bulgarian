@@ -1725,4 +1725,18 @@
     <string name="trash_vip_button_login">Разшири</string>
     <string name="trash_vip_button_login_top_level">Поднови</string>
     <string name="trash_vip_button_unlogin">Вписване</string>
+	<string name="can_not_transfer_when_screening">"Не може да се споделя по време на трансфери"</string>
+    <string name="dump_db_info">Извличане на информация за базата данни</string>
+    <string name="filter_portrait_hint">Цветово изпъкване</string>
+    <string name="photo_portrait_color_download_fail">"Приставката не може да се изтегли. Свържете се с мрежата и опитайте отново."</string>
+    <string name="photo_portrait_color_download_success">Филтрите са изтеглени успешно</string>
+    <string name="photo_portrait_color_no_face">Цветовото изпъкване работи само на снимки с хора</string>
+    <string name="photo_portrait_download_sdk_without_wifi_msg">"Изглежда, че устройството в мимента не е свързано с Wi-Fi. Можете да изтеглите филтрите (%1$dМБ) чрез мобилни данни."</string>
+    <string name="photo_portrait_download_sdk_without_wifi_title">Изтегли филтри</string>
+    <string name="send_heif_summary">Конвертирайте изображенията преди изпращане, за да гарантирате съвместимост</string>
+    <string name="send_heif_title">Конвертирайте HEIF в JPG преди изпращане</string>
+    <string name="unsupported_media_downloading_tip_common">"Преглеждането на оригинални изображения в този формат не се поддържа в тази версия на Андроид. Изтегляне въпреки това?"</string>
+    <string name="unsupported_media_downloading_tip_format">"Преглеждането на оригинални %s изображения в този формат не се поддържа в тази версия на Андроид. Изтегляне въпреки това?"</string>
+    <string name="unsupported_media_scanned_tip">"%1$s изображения са открити. Преглеждането на %2$s изображения в този формат не се поддържа в тази версия на Андроид."</string>
+    <string name="unsupported_media_view_tip">"Преглеждането на оригинални %s изображения в този формат не се поддържа в тази версия на Андроид"</string>
 </resources>
