@@ -64,4 +64,5 @@
     <string name="onscreen_call_record">Скрий \"Запис\"</string>
     <string name="category_button_title">Показани елементи</string>
     <string name="category_color_title">Цвят на елементите</string>
+	<string name="set_bright_level_title">Ниво на яркостта</string>
 </resources>
