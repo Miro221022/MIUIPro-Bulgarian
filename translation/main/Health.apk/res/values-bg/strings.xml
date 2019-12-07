@@ -266,7 +266,7 @@
   <string name="preference_health_info_proposal_title">Получете точни статистики и полезни съвети</string>
   <string name="preference_health_score_tip">Оценка на здравето</string>
   <string name="preference_not_set">Не е зададено</string>
-  <string name="preference_update_already_newest">Това е най-новата версия на Mi Здраве.</string>
+  <string name="preference_update_already_newest">Mi Здраве е актуално.</string>
   <string name="preference_update_current_version">Текуща версия: %1$s</string>
   <string name="preference_update_default_title">Версия</string>
   <string name="preference_update_find_new_version">Проверка за актуализации</string>
