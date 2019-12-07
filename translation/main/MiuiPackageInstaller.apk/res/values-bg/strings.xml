@@ -49,8 +49,8 @@
   <string name="devicePerms">Достъп до устройството</string>
   <string name="dlg_app_replacement_statement">Приложението, което инсталирате, ще замени друго приложение.\n\nВсички ваши предишни потребителски данни ще бъдат запазени.</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) ще замени инсталираната понастоящем версия (%3$s). Всички съществуващи данни за приложенията ще бъдат запазени.</string>
-  <string name="dlg_app_replacement_title">Замяна на прилож.?</string>
-  <string name="dlg_appstore_notice">Ние не можем да проверим автентичността или сигурността на приложенията от източници извън &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;.</string>
+  <string name="dlg_app_replacement_title">Замяна на приложението?</string>
+  <string name="dlg_appstore_notice">"Не можем да проверим автентичността или безопасността на приложенията от източници извън &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u>."</string>
   <string name="dlg_game_center_intercept_game_center_install">Инсталиране от Mi Games</string>
   <string name="dlg_game_center_intercept_install">Инсталирай въпреки това</string>
   <string name="dlg_game_center_intercept_msg">Инсталирането на игри на трети страни може да представлява риск за сигурността. Изтеглете и инсталирайте Mi Games за достъп до безопасни версии на приложението.</string>
@@ -97,7 +97,7 @@
   <string name="install_failed_system_incompatible">Това приложение не е съвместимо с MIUI</string>
   <string name="install_finished_notification_summary">Кликнете, за да почистите сега</string>
   <string name="install_finished_notification_title">Инсталирането на %1$s завърши, почистете %2$s</string>
-  <string name="install_from_appstore_hint">Препоръчваме ви да инсталирате приложението от &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="install_from_appstore_hint">Препоръчваме ви да инсталирате приложението от &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
   <string name="installing">Инсталиране…</string>
   <string name="intercept_install">Инсталиране</string>
   <string name="launch">Отваряне</string>
@@ -145,7 +145,7 @@
   <string name="miui_failed_solution_1">Деинсталирайте текущата версия на това приложение и инсталирайте приложението отново.</string>
   <string name="miui_failed_solution_2">Инсталационният пакет може да е повреден. Изтеглете приложението отново.</string>
   <string name="miui_failed_solution_3">Опитайте да запазите инсталационния пакет на друго място.</string>
-  <string name="miui_failed_solution_4">Освободете място за съхранение в Сигурност &gt; Почистване и опитайте отново.</string>
+  <string name="miui_failed_solution_4">Освободете място за съхранение в Сигурност > Почистване и опитайте отново.</string>
   <string name="miui_failed_solution_5">Опитайте да използвате съвместим инсталационен пакет.</string>
   <string name="miui_failed_solution_6">Деинсталирайте това приложение във второто пространство и опитайте отново.</string>
   <string name="miui_failed_solution_7">Изтеглете най-новата версия на това приложение в GetApps.</string>
@@ -163,7 +163,7 @@
   <string name="miui_install_source_unkown">Неизвестно</string>
   <string name="miui_install_success">Успешно инсталирано</string>
   <string name="miui_install_version">Версия: %1$s | Размер: %2$s</string>
-  <string name="miui_install_version_3">Версия %1$s -&gt; %2$s | Размер %3$s</string>
+  <string name="miui_install_version_3">Версия %1$s -> %2$s | Размер %3$s</string>
   <string name="miui_installing">Инсталиране…</string>
   <string name="miui_installing2">Инсталиране…</string>
   <string name="miui_message_staging_0">Подготовка   </string>
@@ -185,12 +185,12 @@
   <string name="miui_uninstall_success">Деинсталирано успешно</string>
   <string name="miui_uninstalling">Деинсталиране…</string>
   <string name="miui_virus_deleted">Изтриването на вируси е успешно</string>
-  <string name="miui_virus_install">&lt;u&gt;Инсталирай въпреки това&lt;/u&gt;</string>
-  <string name="miui_virus_scanning">Сканиране за вируси…</string>
-  <string name="miui_virus_scanning_0">Сканиране за вируси   </string>
-  <string name="miui_virus_scanning_1">Сканиране за вируси.  </string>
-  <string name="miui_virus_scanning_2">Сканиране за вируси.. </string>
-  <string name="miui_virus_scanning_3">Сканиране за вируси...</string>
+  <string name="miui_virus_install"><u>Инсталирай въпреки това</u></string>
+  <string name="miui_virus_scanning">Сканиране…</string>
+  <string name="miui_virus_scanning_0">Сканиране</string>
+  <string name="miui_virus_scanning_1">Сканиране.</string>
+  <string name="miui_virus_scanning_2">Сканиране..</string>
+  <string name="miui_virus_scanning_3">Сканиране...</string>
   <string name="miui_virus_title">Висок риск</string>
   <string name="mobil_net_work_warning_cancel">Отказ</string>
   <string name="mobil_net_work_warning_msg">В момента използвате мобилни данни. Инсталирането на това приложение изисква %1$s мобилни данни. Инсталиране?</string>
@@ -237,7 +237,7 @@
   <string name="permission_send_sms_descx">Приложението може да изпраща SMS и MMS</string>
   <string name="permission_summary_enforced_by_policy">Изисква се от правилата</string>
   <string name="permission_title">%1$s разрешения</string>
-  <string name="permission_warning_template">Разреши &lt;b&gt;%1$s&lt;/b&gt; от %2$s?</string>
+  <string name="permission_warning_template">Разреши &lt;b>%1$s&lt;/b> на %2$s?</string>
   <string name="permlab_togglePermissions">превключване на разрешенията</string>
   <string name="pref_ads">Препоръки</string>
   <string name="pref_key_about_privacy_title">Политика за поверителност</string>
@@ -258,11 +258,14 @@
   <string name="safe_guard_support">Техническа поддръжка, предоставена от %1$s</string>
   <string name="safe_relative">Сигурност</string>
   <string name="screen_overlay_button">Отворете настройките</string>
-  <string name="screen_overlay_message">За да промените тази настройка за разрешение, първо трябва да изключите екранното наслагване от \"Настройки\" &gt; Приложения</string>
+  <string name="screen_overlay_message">За да промените тази настройка за разрешение, първо трябва да изключите екранното наслагване от Настройки > Приложения</string>
   <string name="screen_overlay_title">Установено е екранното наслагване</string>
   <string name="security_settings_desc">Разрешете на приложението да:</string>
   <string name="settings">Настройки</string>
-  <string name="settings_warning_dialog_detail">\"Ще бъдете предупредени в следните случаи:\n \"&lt;li&gt;Когато приложението съдържа вируси.&lt;/li&gt;\"\n \"&lt;li&gt;Когато в нашият магазин за приложения е налице по-нова версия на приложението.&lt;/li&gt;\"\n \"&lt;li&gt;Инсталационният пакет идва от неизвестен източник.&lt;/li&gt;</string>
+  <string name="settings_warning_dialog_detail">"Ще бъдете предупредени в следните случаи:
+ "<li>Когато приложението съдържа вируси.</li>"
+ "<li>Когато в нашият магазин за приложения е налична по-нова версия.</li>"
+ "<li>Когато инсталационният пакет идва от неизвестен източник.</li></string>
   <string name="settings_warning_dialog_msg">Телефонът ви е изложен на рискове за сигурността. Няма да бъдете подканени да инсталирате безопасни версии на приложенията, ако изключите тази функция. Изключване?</string>
   <string name="settings_warning_dialog_title">Внимание</string>
   <string name="system_warning">Ако отмените това разрешение, основните функции на вашето устройство може да не функционират по предназначение.</string>
@@ -271,7 +274,7 @@
   <string name="uninstall_activity_text">%1$s е част от следното приложение:</string>
   <string name="uninstall_all_blocked_profile_owner">Това приложение се изисква за някои потребители или профили и е деинсталирано за други</string>
   <string name="uninstall_application_text">Искате ли да деинсталирате това приложение?</string>
-  <string name="uninstall_application_text_all_users">Искате ли да деинсталирате това приложение за &lt;b&gt;всички&lt;/b&gt; потребители? Приложението и данните му ще бъдат премахнати от &lt;b&gt;всички&lt;/b&gt; потребители на устройството.</string>
+  <string name="uninstall_application_text_all_users">Искате ли да деинсталирате това приложение за <b>всички</b> потребители? Приложението и данните му ще бъдат премахнати от <b>всички</b> потребители на устройството.</string>
   <string name="uninstall_application_text_user">Искате ли да деинсталирате това приложение за потребителя %1$s?</string>
   <string name="uninstall_application_title">Деинсталиране</string>
   <string name="uninstall_blocked_device_owner">Това приложение се изисква от администратора на устройството ви и не може да бъде деинсталирано.</string>
@@ -290,17 +293,18 @@
   <string name="unknown">Неизвестен</string>
   <string name="unknown_apps_admin_dlg_text">Администраторът ви не разрешава инсталирането на приложения, получени от неизвестни източници.</string>
   <string name="unknown_apps_dlg_text">За сигурност, Вашият телефон е настроен да блокира инсталация на приложения от неизвестни източници.</string>
-  <string name="unknown_installer">Unidentified PC tools</string>
+  <string name="unknown_installer">Неидентифицирани инструменти за компютър</string>
   <string name="unlike">Не благодаря</string>
   <string name="untrusted_external_source_always_click">Разреши винаги</string>
   <string name="untrusted_external_source_title">Разрешаване на \"%1$s\" да инсталира приложения?</string>
   <string name="untrusted_external_source_warning">За ваша сигурност телефонът ви не може да инсталира неизвестни приложения от този източник.</string>
-  <string name="untrusted_external_source_warning_summary">"Приложенията от неизвестни източници могат да бъдат вредни за вашето устройство и лични данни. Инсталирайки приложения от този източник, вие се съгласявате да носите отговорност за евентуални щети по вашия телефон или лични данни, които могат да бъдат причинени от тези приложения. \nМожете да давате и отнемате разрешения в Настройки -&gt; Пароли и сигурност -&gt; Поверителност -&gt; Специален достъп -&gt; Инсталиране на неизвестни приложения."</string>
+  <string name="untrusted_external_source_warning_summary">"Приложенията от неизвестни източници могат да бъдат вредни за вашето устройство и лични данни. Инсталирайки приложения от този източник, вие се съгласявате да носите отговорност за евентуални щети по вашия телефон или лични данни, които могат да бъдат причинени от тези приложения.
+ \nМожете да давате и отнемате разрешения в Настройки -> Пароли и сигурност -> Поверителност -> Специален достъп -> Инсталиране на неизвестни приложения."</string>
   <string name="user_is_not_allowed_dlg_text">Настоящият потребител няма право да изпълнява тази деинсталация.</string>
   <string name="user_is_not_allowed_dlg_title">Не е рзрешено</string>
   <string name="virus_scan_caller_unknown">Неизвестен</string>
   <string name="virus_scan_clear">Премахни</string>
-  <string name="virus_scan_install">&lt;u&gt;Инсталиране въпреки това&lt;/u&gt;</string>
+  <string name="virus_scan_install"><u>Инсталирай въпреки това</u></string>
   <string name="virus_scan_is_risk">Това приложение представлява риск за сигурността на устройството ви.</string>
   <string name="virus_scan_is_virus">Това приложение съдържа вирус.</string>
   <string name="virus_title_subtext">"Това приложение може да съдържа вируси: "</string>
