@@ -24,7 +24,7 @@
   <string name="app_ops_install_exit">Изход</string>
   <string name="app_permissions">Разарешения на приложението</string>
   <string name="app_permissions_breadcrumb">Приложения</string>
-  <string name="app_permissions_group_summary">%1$d от %2$d прилож. разрешени</string>
+  <string name="app_permissions_group_summary">%1$d от %2$d приложения разрешени</string>
   <string name="app_store_install_hint">Инсталиране сега</string>
   <string name="app_store_installing_message">Инсталиране…</string>
   <string name="app_store_missing_message">Изглежда, че не сте инсталирали официалният App Store. Инсталирайте го сега?</string>
@@ -87,7 +87,7 @@
   <string name="install_confirm_question_update_no_perms">Искате ли да инсталирате актуализация на това съществуващо приложение? Съществуващата информация няма да бъде загубена. То не изисква специални разрешения.</string>
   <string name="install_confirm_question_update_system">Искате ли да инсталирате актуализация на това системно приложение? Съществуващата информация няма да бъде загубена. Обновеното приложение ще получи достъп до:</string>
   <string name="install_confirm_question_update_system_no_perms">Искате ли да инсталирате актуализация на това приложение?? Съществуващата информация няма да бъде загубена. То не изисква специални разрешения.</string>
-  <string name="install_done">Прилож. инсталирано.</string>
+  <string name="install_done">Деинсталирано успешно</string>
   <string name="install_failed">Приложението не може да се инсталира</string>
   <string name="install_failed_blocked">Инсталирането на пакета беше блокирано.</string>
   <string name="install_failed_conflict">Пакетът е в конфликт със съществуващ пакет със същото име.</string>
