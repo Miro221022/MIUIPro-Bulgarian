@@ -384,9 +384,9 @@
   <string name="select_date">Избор на дата</string>
   <string name="select_today_tip">Днес</string>
   <string name="setting">Настройки</string>
-  <string name="setting_about_calendar_version">Версия на Календар:</string>
-  <string name="setting_about_imei">IMEI:</string>
-  <string name="setting_about_miui_version">Версия на MIUI:</string>
+  <string name="setting_about_calendar_version">Версия на приложението:%1$s-%2$s</string>
+  <string name="setting_about_imei">IMEI:%1$s</string>
+  <string name="setting_about_miui_version">MIUI версия:%1$s-%2$s</string>
   <string name="setting_about_summary">Версия:</string>
   <string name="setting_accounts">Профили за календар</string>
   <string name="setting_chinese_calendar">Китайски календар</string>
@@ -519,4 +519,6 @@
      <string name="edit_event_title_edit_anniversary">Редактиране на годишнината</string>
      <string name="edit_event_title_edit_birthday">Редактиране на реждения ден</string>
      <string name="edit_event_title_edit_countdown">Редактиране на таймера</string>
+	 <string name="solar_lunar_convert_description_2">Превключване между традиционните китайски и григориански календари</string>
+     <string name="setting_about_oaid">OAID:%1$s</string>
 </resources>

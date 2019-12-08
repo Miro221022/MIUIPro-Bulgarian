@@ -86,7 +86,7 @@
     <string name="status_canceled">Прехвърлянето бе анулирано от потребителя.</string>
     <string name="status_file_error">Проблем с хранилището.</string>
     <string name="status_no_sd_card">Няма USB хранилище.</string>
-    <string name="status_connection_error">Връзката не е успешна.</string>
+    <string name="status_connection_error">Неуспешно свързване.</string>
     <string name="status_protocol_error">Заявката не може да бъде обработена правилно.</string>
     <string name="status_unknown_error">Неизвестна грешка.</string>
     <string name="btopp_live_folder">Получено с Bluetooth</string>
