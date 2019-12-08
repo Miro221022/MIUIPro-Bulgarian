@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<string-array name="crt_fade_entries"> 
-        <item>Стар ТВ</item> 
-        <item>Смаляване</item>
-    </string-array> 
-</resources>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <string name="currency_update_connect_to_get_data">Обменните курсове се предоставят от Apilayer. Свържете се с мрежата, за да получите най-новата информация.</string>
-  <string name="currency_update_support">Обменните курсове се предоставят от Apilayer.</string>
-  <string name="currency_update_time_format">Обменните курсове се предоставят от Apilayer (%s)</string>
-</resources>

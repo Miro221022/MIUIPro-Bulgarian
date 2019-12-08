@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="time_aod_show_title">Активен режим</string>
-	<string name="time_aod_show_summary">По време на: %s сек</string>
-	<string name="temporary_style">През избраното време</string>
-</resources>

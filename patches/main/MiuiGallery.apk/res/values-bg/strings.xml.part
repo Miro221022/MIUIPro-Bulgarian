@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="cityname_1">Младост</string>
-    <string name="cityname_2">Бриз</string>
-    <string name="cityname_3">Пътешествие</string>
-    <string name="cityname_4">Енергия</string>
-    <string name="cityname_5">Очарование</string>
-    <string name="cityname_6">Модна галерия</string>
-</resources>

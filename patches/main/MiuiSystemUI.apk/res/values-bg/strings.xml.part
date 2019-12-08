@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<string name="status_bar_recent_memory_info1">Свободни %1$s от %2$s</string>
-	<string name="no_weather_description"> </string>
-</resources>
