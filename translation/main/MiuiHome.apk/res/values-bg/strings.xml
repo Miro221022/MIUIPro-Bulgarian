@@ -452,4 +452,5 @@
     <string name="reset_cate_tip_content">Ако продължите, категориите приложения по подразбиране ще бъдат нулирани. Ще продължите ли?</string>
     <string name="reset_cate_tip_title">Нулиране на категориите</string>
 	<string name="system_shortcuts_remove">Премахни</string>
+	<string name="edit">Редакция</string>
 </resources>

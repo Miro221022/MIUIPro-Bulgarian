@@ -123,7 +123,7 @@
      <string name="callrecordview_item_op_video">Видео</string>
      <string name="callrecordview_menu_add_call_note">Добави бележка</string>
      <string name="callrecordview_menu_batch_delete">Пакетно изтриване</string>
-     <string name="callrecordview_menu_blocklist">Блокирани</string>
+     <string name="callrecordview_menu_blocklist">Списък с блокирани</string>
      <string name="callrecordview_menu_conference">Конферентно обаждане</string>
      <string name="callrecordview_menu_delete">Изчистване на историята</string>
      <string name="callrecordview_menu_delete_accepted">Изчистване на отговорените повиквания</string>
@@ -136,7 +136,7 @@
      <string name="callrecordview_menu_delete_sim">Изчистване на записите за историята на повикванията (%s)</string>
      <string name="callrecordview_menu_delete_stranger">Изчистване на непознатите номера</string>
      <string name="callrecordview_menu_edit_call_note">Редактирай бележка</string>
-     <string name="callrecordview_menu_identify_numbers">Идентификация на номера</string>
+     <string name="callrecordview_menu_identify_numbers">Идентификация</string>
      <string name="callrecordview_menu_ip">Авт. IP набиране</string>
      <string name="callrecordview_menu_livetalk">Зареждане на пакет</string>
      <string name="callrecordview_menu_misim">Mi SIM</string>
@@ -410,7 +410,7 @@
      <string name="dialer_menu_title">Опции</string>
      <string name="dialer_returnToInCallScreen">Обратно към разговора</string>
      <string name="dialer_title_divider">" ｜ "</string>
-     <string name="dialer_useDtmfDialpad">Използвай тоналната клавиатура</string>
+     <string name="dialer_useDtmfDialpad">Използвай тонална клавиатура</string>
      <string name="dialog_import">Импортиране на контакти</string>
      <string name="dialog_import_export">Импорт/експорт на контакти</string>
      <string name="dialog_new_contact_account">Създаване на контакт в профил</string>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Αναζήτηση Ρυθμίσεων</string>
+    <string name="search_label">Ρυθμίσεις</string>
+    <string name="application_desc">Εφαρμογή</string>
+    <string name="settings_description">Ρυθμίσεις</string>
+</resources>
