@@ -5,7 +5,7 @@
         <item>Меню за рестартиране</item> 
         <item>Последни приложения</item> 
         <item>Телефон</item> 
-        <item>Режим на звука: Звук / Вибрация</item> 
+        <item>Режим на звука: Звук/Вибрация</item> 
         <item>Панел за известия</item> 
         <item>Превключване Wi-Fi</item> 
         <item>Превключване Bluetooth</item> 
@@ -36,25 +36,16 @@
         <item>След 30 минути</item> 
         <item>След час</item> 
     </string-array> 
-	<string-array name="ios_toggle_entries"> 
+	<string-array name="statusbar_style_entries"> 
         <item>По подразбиране</item> 
         <item>IOS стил</item> 
 		<item>MiuiPro стил</item>
         <item>AOSP стил</item>
     </string-array> 
-    <string-array name="text_bat_color_entries">
-        <item>По подразбиране</item>
-        <item>Открояващ се</item>
-        <item>Цвят по избор</item>
-    </string-array>
 	<string-array name="sim_select_entries"> 
         <item>Sim 1</item> 
         <item>Sim 2</item> 
 		<item>Sim 1 / Sim 2</item> 
-    </string-array> 
-	<string-array name="toggles_line_entries"> 
-        <item>Една линия</item> 
-        <item>Всички линии</item> 
     </string-array> 
 	<string-array name="smart_timer_entries">
         <item>Не променяй</item>
@@ -142,12 +133,6 @@
         <item>20 минути</item>
         <item>30 минути</item>
     </string-array>
-	<string-array name="low_battery_warning_entries"> 
-        <item>Съобщение и звук</item> 
-        <item>Само съобщение</item> 
-        <item>Само звук</item> 
-        <item>Изключено</item> 
-    </string-array> 
 	<string-array name="battery_off_entries"> 
         <item>Изключване на LED индикатора</item> 
         <item>Остави LED индикатора включен</item> 
@@ -157,11 +142,6 @@
         <item>Слаба</item> 
         <item>Силна</item> 
     </string-array>
-	<string-array name="mtp_default_entries">
-        <item>Винаги зареждане</item>
-        <item>Винаги MTP</item>
-        <item>MTP, ако екрана не е заключен с парола</item> 
-    </string-array> 
 	<string-array name="volbtn_action_entries"> 
         <item>Напред</item> 
         <item>Пауза</item> 
@@ -174,22 +154,6 @@
         <item>Потапяне (на цял екран)</item> 
         <item>Скриване на лентата за състояние</item> 
         <item>Скриване на навигационната лента</item> 
-    </string-array> 
-	<string-array name="ts_keycode_entries"> 
-        <item>Начален екран</item> 
-        <item>Последни</item> 
-    </string-array> 
-    <string-array name="ts_limit_entries"> 
-        <item>Два</item> 
-        <item>Три</item> 
-        <item>Пет</item> 
-        <item>Седем</item> 
-        <item>Десет</item> 
-        <item>Без ограничение</item> 
-    </string-array> 
-    <string-array name="ts_direct_entries"> 
-        <item>Назад</item> 
-        <item>Напред</item> 
     </string-array> 
 	<string-array name="def_audio_entries"> 
         <item>Тон на звънене</item> 
@@ -212,25 +176,17 @@
         <item>Линия над лентата за състояние</item>
         <item>Не показвай</item>
     </string-array>
-	<string-array name="battery_percent_style_entries">
-    	<item>Проценти (отдясно на иконата)</item>
-        <item>Проценти (отляво на иконата)</item>
+    <string-array name="percent_show_size_entries">
+      <item>По подразбиране</item>
+      <item>Малка</item>
     </string-array>
-<string-array name="percent_show_size_entries">
-      <item>По подразбиране</item>
-        <item>Малка</item>
-</string-array>
-<string-array name="percent_show_size_entries">
-      <item>По подразбиране</item>
-        <item>Голяма</item>
-</string-array>
-<string-array name="text_lines_entries">
-      <item>По подразбиране</item>
+	<string-array name="text_lines_entries">
+        <item>По подразбиране</item>
         <item>На 1 ред</item>
         <item>На 2 реда</item>
         <item>Плъзгане</item>
     </string-array>
-	 <string-array name="icon_notification_style_entries"> 
+	<string-array name="icon_notification_style_entries"> 
         <item>От темата (цветни)</item> 
         <item>По подразбиране (монохромни)</item> 
     </string-array>

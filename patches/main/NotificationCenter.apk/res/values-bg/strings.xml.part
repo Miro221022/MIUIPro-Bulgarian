@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="show_keyguard_key_title">Преглед на известията</string> 
-  <string name="show_keyguard_key_summary">Възможност за показване на входящото съобщение на заключен екран</string> 
+  <string name="show_keyguard_key_title">Преглед на известията</string>
+  <string name="show_keyguard_key_summary">Възможност за показване на входящото съобщение на заключен екран</string>
   <string name="answer_keyguard_key_title">Отговор на съобщение</string>
   <string name="answer_keyguard_key_summary">Възможност за отговор на входящо съобщение от заключен екран</string>
   <string name="new_keyguard_key_title">Непрочетено съобщение</string>

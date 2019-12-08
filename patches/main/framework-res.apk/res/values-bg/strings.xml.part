@@ -10,4 +10,13 @@
 	<string name="cat_6">Wi-Fi е деактивиран</string>
 	<string name="cat_7">Wi-Fi е активиран</string>
 	<string name="not_setup_app">Приложението Гласов асистент не е конфигурирано</string>
+	<string name="mcat_1">Сподели</string> 
+    <string name="mcat_2">Сподели:</string>
+    <string name="mcat_3">Запазено</string>
+    <string name="mcat_4">Запази</string>
+    <string name="mcat_5">Обработка на видео...</string>
+    <string name="mcat_6">Аудио обработка...</string>
+    <string name="mcat_7">Натиснете отново, за изход</string>
+    <string name="mcat_8">Политика за поверителност</string>
+    <string name="mcat_9">Изискват се разрешения</string>
 </resources>

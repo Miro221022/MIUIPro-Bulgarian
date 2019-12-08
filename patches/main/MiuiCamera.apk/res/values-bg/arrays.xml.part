@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="denoise_entries">
-        <item>По подразбиране</item>
-        <item>Активирано</item>
-        <item>Деактивирано</item>
-    </string-array>
-</resources>

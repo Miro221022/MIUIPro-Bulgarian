@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_setting_xiaoai">Гласов асистент</string>
+  <string name="function_zhihu_search">Аларма</string>
+  <string name="wx_timeline">Батерия</string>
+</resources>

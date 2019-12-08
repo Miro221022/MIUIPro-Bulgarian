@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="smart_mobiledata_entries"> 
-        <item>Не променяй</item> 
-        <item>Само 2G</item> 
-        <item>Предпочитан 3G</item> 
-        <item>Предпочитан 4G</item> 
-    </string-array> 
-</resources>

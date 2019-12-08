@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="card_main_deepclean_wechat_title">Защита</string>
-    <string name="card_main_hbassistant_title">Задачи</string>
-    <string name="card_main_deepclean_qq_title">Таймер</string>
-</resources>
