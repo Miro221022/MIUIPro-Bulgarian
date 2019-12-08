@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="low_sounds_title">Звук при изтощена батерия</string>
+    <string name="low_dialog_title">Съобщение при изтощена батерия</string>
+    <string name="low_battery_percent_summary">Когато е: %s %</string>
+    <string name="low_battery_percent_title">Цвят при пълно зареждане</string>
+    <string name="set_gsmcore_title">Деактивиране на услугите за Google Play</string>
+    <string name="set_gsmcore_summary">Деактивиране на услугите за Google Play в режим на екстремно пестене на батерията</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_backlight_entries"> 
+        <item>Само входящи повиквания</item> 
+        <item>След отговаряне на обаждане</item> 
+        <item>Винаги с входящите</item> 
+        <item>Винаги с изходящите</item> 
+    </string-array> 
+    <string-array name="call_entries"> 
+        <item>Без</item> 
+        <item>Отвори телефон</item> 
+        <item>Изход към начален екран</item> 
+        <item>Изход и заключване на телефона</item> 
+    </string-array> 
+ 	<string-array name="incall_small_background_entries"> 
+	    <item>По подразбиране</item>
+        <item>Агент</item> 
+        <item>Заек</item> 
+		<item>Маска</item> 
+		<item>MI лого</item> 
+		<item>Неизвестен</item>
+    </string-array>
+	<string-array name="incall_background_entries"> 
+        <item>По подразбиране</item>
+        <item>MiuiPro</item> 
+        <item>Писък</item> 
+        <item>Ръце зад стъкло</item> 
+        <item>Котка</item> 
+        <item>Призрак</item> 
+    </string-array> 
+    <string-array name="set_bitrate_entries">
+        <item>По подразбиране (24 кб/с)</item>
+        <item>32 кб/с</item>
+        <item>48 кб/с</item>
+        <item>64 кб/с</item>
+        <item>96 кб/с</item>
+        <item>128 кб/с</item>
+    </string-array>
+   	<string-array name="show_search_entries"> 
+        <item>Покажи</item> 
+        <item>Покажи в контактите</item> 
+        <item>Покажи в телефона</item> 
+        <item>Скрий</item> 
+    </string-array> 
+   	<string-array name="key_call_entries"> 
+        <item>Скрий</item> 
+        <item>Покажи</item> 
+    </string-array> 
+   	<string-array name="call_home_entries"> 
+        <item>Приеми повикване</item> 
+        <item>Откажи повикване</item> 
+        <item>Изключване на звука</item> 
+        <item>Деактивиран</item> 
+    </string-array> 
+	<string-array name="call_windows_entries">  
+        <item>На цял екран</item>  
+        <item>Изскачащ прозорец</item>  
+    </string-array>
+	<string-array name="call_key_show_entries"> 
+        <item>Като икони</item> 
+        <item>Като текст</item> 
+    </string-array>
+ </resources>
