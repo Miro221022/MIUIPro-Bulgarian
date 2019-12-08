@@ -20,7 +20,7 @@
   <string name="above_image">Горе</string>
   <string name="accessibility_battery_level">Батерия %d процента.</string>
   <string name="accessibility_battery_level_charging">Зареждане на батерията, %d процента.</string>
-  <string name="align_type">Изравняване</string>
+  <string name="align_type">Подравняване</string>
   <string name="always_style">Винаги</string>
   <string name="animation_clock_panel">Вълна</string>
   <string name="aod_close_color_inversion">Тази функция не може да се комбинира с инверсия на цветовете. Първо изключете инверсията на цветовете.</string>
@@ -55,7 +55,7 @@
   <string name="deep_space_planet">Космическо пространство</string>
   <string name="deep_space_planet_des">Тази тема отразява светлинните промени, случващи се около вас през деня. Изгревите и залезите също се синхронизират с вашето местоположение.</string>
   <string name="digital_clock">Дигитален</string>
-  <string name="font_thickness">Удебелен шрифт</string>
+  <string name="font_thickness">Дебелина на шрифта</string>
   <string name="large_time">Голям часовник</string>
   <string name="letter_space">Разстояние между буквите</string>
   <string name="line_space">Разстояние между линиите</string>
@@ -72,7 +72,7 @@
   <string name="paper_mode_end_time_title">Изключване</string>
   <string name="paper_mode_start_time_title">Включване</string>
   <string name="password_toggle_content_description">Покажи паролата</string>
-  <string name="please_input_signature">Въведете подпис</string>
+  <string name="please_input_signature">Въведете надпис</string>
   <string name="scheduled_style">Планирано</string>
   <string name="scope_des">Всеки калейдоскоп съдържа 5 различни модела, които ще се показват на свой ред всеки път, когато екранът светне.</string>
   <string name="scope_icon">Стил на калейдоскопа</string>
@@ -85,7 +85,7 @@
   <string name="show_notification">Показване на известия</string>
   <string name="show_notificaton">Показване на известия</string>
   <string name="shownone_arround_image">Без</string>
-  <string name="signature">Подпис</string>
+  <string name="signature">Надпис</string>
   <string name="signature_default_content">Винаги вярвайте, че нещо\nпрекрасно е на път да се случи</string>
   <string name="standard_clock_panel">Стандартно</string>
   <string name="standard_style">Стандартно</string>
