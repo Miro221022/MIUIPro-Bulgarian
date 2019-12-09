@@ -195,4 +195,10 @@
         <item>Среден</item>
         <item>Голям</item>
     </string-array>
+	<string-array name="fingerprint_setup_entries"> 
+        <item>Деактивирано</item> 
+        <item>Включване на екрана</item> 
+        <item>Приемане на повикване</item> 
+        <item>Отхвърляне на повикване</item> 
+    </string-array>
 </resources>

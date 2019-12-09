@@ -218,4 +218,5 @@
   <string name="fingerprint_wakeup_title">Събужадане чрез скенера за пръстови отпечатъци</string>
   <string name="fingerprint_wakeup_summary">Събуждане на устройството, ако няма настроени отпечатъци</string>
   <string name="set_pip_size_title">Размер на прозореца за картина в картината</string>
+  <string name="fingerprint_setup_title">Действие на скенера</string>
 </resources>
