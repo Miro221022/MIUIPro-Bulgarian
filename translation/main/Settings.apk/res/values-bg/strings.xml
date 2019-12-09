@@ -1676,7 +1676,7 @@
     <string name="location_access_title">Достъп до местоположение</string>
     <string name="location_access_summary">Приложенията могат да получат информация за местоположението ви</string>
     <string name="location_sources_heading">Източници на местоположение</string>
-    <string name="about_settings">Относно телефона</string>
+    <string name="about_settings">За телефона</string>
     <string name="about_settings_summary">Преглед на състоянието, правната информация и версията на софтуера</string>
     <string name="legal_information">Правна информация</string>
     <string name="contributors_title">Сътрудници</string>

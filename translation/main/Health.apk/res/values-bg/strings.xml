@@ -313,7 +313,7 @@
   <string name="sleep_auto_start_perm_grant">Разрешенията са дадени.</string>
   <string name="sleep_chart_empty">Няма данни</string>
   <string name="sleep_chart_loading">Един момент…</string>
-  <string name="sleep_day">ден</string>
+  <string name="sleep_day">д</string>
   <string name="sleep_detector_content">Mi Здраве следи съня ви във фонов режим.</string>
   <string name="sleep_detector_title">Проследяване на съня</string>
   <string name="sleep_detector_unopened">Все още не сте започнали да следите съня си.</string>
