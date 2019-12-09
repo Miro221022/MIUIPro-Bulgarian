@@ -6665,4 +6665,12 @@ OTG се изключва автоматично след 10 минути без
     <string name="legal_written_offer">Писмено предложение</string>
     <string name="popup_led_try_later">Изчакайте минута или две и опитайте отново</string>
 	<string name="delete_fingerprint_confirm_title">Внимание</string>
+	<string name="display_advanced_mode_summary">Опции за цветова гама</string>
+    <string name="display_advanced_mode_title">Разширени настройки</string>
+    <string name="haptic_feedback_progress">Ниво на вибрацията</string>
+    <string name="haptic_feedback_summary">Получавайте осезателен отговор за жестове и системни контроли</string>
+    <string name="haptic_feedback_title">Осезателна обратна връзка</string>
+    <string name="ime_security_warning_global">Методите за въвеждане е възможно да събират целия текст, който въвеждате, включително лични данни като пароли и номера на кредитни карти. Ще използвате ли %1$s?</string>
+    <string name="ime_security_warning_title_global">Включване на клавиатурата</string>
+    <string name="open_haptic_feedback">Осезателна обратна връзка</string>
 </resources>

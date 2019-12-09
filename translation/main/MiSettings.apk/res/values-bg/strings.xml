@@ -215,4 +215,25 @@
      <string name="unlock_times_per_day">"Средна дневна стойност: "</string>
      <string name="unlock_times_per_hour">"Отключвания на час: "</string>
      <string name="usage_state_focus_mode_experience_warning_message">"Режимът на съсредоточеност позволява използване единствено на камерата и извършване на спешни повиквания. Няма да можете да изключите режимът на съсредоточеност преждевременно."</string>
+	 <string name="advanced_mode">Разширени настройки</string>
+     <string name="color_gamut">Цветова гама</string>
+     <string name="contrast_ratio">Контраст</string>
+     <string name="gamma">Гама</string>
+     <string name="hsv_space_color">HSV цветово пространство</string>
+     <string name="hsv_space_color_hue">Оттенък</string>
+     <string name="hsv_space_color_saturation">Насищане</string>
+     <string name="hsv_space_color_value">Стойност</string>
+     <string name="other_parameter">Други</string>
+     <string name="p3_color_region_summary">Показване на цялото екранно съдържание в P3 цветова гама</string>
+     <string name="preview">Преглед</string>
+     <string name="primary_color_region">Оригинално</string>
+     <string name="primary_color_region_summary">Идентифициране на цветовата гама автоматично чрез калибриране на цвета</string>
+     <string name="reset_edit">Отхвърли промените</string>
+     <string name="restore_default">Възстанови по подразбиране</string>
+     <string name="rgb_space_color">RGB цветово пространство</string>
+     <string name="screen_original_gamut">Подобрено</string>
+     <string name="screen_original_gamut_summary">Показване на цялото екранно съдържание в възможно най-широката цветова гама</string>
+     <string name="search_app_name">Търсене на приложения</string>
+     <string name="search_empty">Не са намерени приложения</string>
+     <string name="srgb_color_region_summary">Показване на цялото екранно съдържание в sRGB цветова гама</string>
 </resources>

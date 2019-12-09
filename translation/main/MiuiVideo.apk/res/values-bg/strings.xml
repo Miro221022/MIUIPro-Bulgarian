@@ -604,7 +604,7 @@
   <string name="plus_gallery_mediatype_fangtu">Квадратни изображения</string>
   <string name="plus_gallery_mediatype_fastslowvideo">Ускорение и забавен каданс</string>
   <string name="plus_gallery_mediatype_gif">GIF файлове</string>
-  <string name="plus_gallery_mediatype_hidded">Скрити елементи</string>
+  <string name="plus_gallery_mediatype_hidded">Скрити</string>
   <string name="plus_gallery_mediatype_longvideo">Дълги видеоклипове</string>
   <string name="plus_gallery_mediatype_quanjing">Панорами</string>
   <string name="plus_gallery_nocontents">Тук все още няма елементи.</string>
@@ -841,10 +841,10 @@
   <string name="t_bind_success">Успешно добавена информация</string>
   <string name="t_check_delete_file">Изберете елементи за изтриване</string>
   <string name="t_check_delete_history">Изберете записи за изчистване</string>
-  <string name="t_check_hide_file">Изберете видеоклипове за скриване</string>
+  <string name="t_check_hide_file">Първо изберете елементи за скриване</string>
   <string name="t_check_send_file">Изберете елемент за изпращане</string>
   <string name="t_check_send_file_only_one">Можете да изпращате само един елемент. Изберете отново.</string>
-  <string name="t_check_unhide_file">Избор на елементи за скриване</string>
+  <string name="t_check_unhide_file">Първо изберете елементи за показване</string>
   <string name="t_comment_success">Изпратено успешно</string>
   <string name="t_deleting">Изтриване…</string>
   <string name="t_downloading_new_version">Изтегляне на актуализации…</string>
@@ -973,8 +973,8 @@
   <string name="v_confirm_cancel_edit_subtitle_title">Излизане от редактора</string>
   <string name="v_confirm_delete_history">Изчистване на историята?</string>
   <string name="v_confirm_delete_videos">Изтриване на елементите?</string>
-  <string name="v_confirm_hide_videos">Скриване на клиповете?</string>
-  <string name="v_confirm_unhide_videos">Да се покажат ли избраните елементи сега?</string>
+  <string name="v_confirm_hide_videos">Скриване на избраните елементи?</string>
+  <string name="v_confirm_unhide_videos">Показване на избраните елементи?</string>
   <string name="v_continue_offline">Изтегли</string>
   <string name="v_data_empty">Няма данни</string>
   <string name="v_debug_close">关闭</string>
@@ -1030,7 +1030,7 @@
   <string name="v_local_video">Локални клипове</string>
   <string name="v_login">Влизане</string>
   <string name="v_menu_delete">Изтрий</string>
-  <string name="v_menu_hide">Скрий</string>
+  <string name="v_menu_hide">Скрити елементи</string>
   <string name="v_menu_nolike">Незаинтересован</string>
   <string name="v_menu_send">Изпрати</string>
   <string name="v_menu_unhide">Покажи</string>
@@ -1075,7 +1075,7 @@
   <string name="v_selectnull">Откажи всички</string>
   <string name="v_send_title">Изпрати</string>
   <string name="v_server_test">Тест на сървъра</string>
-  <string name="v_set_password">Задайте парола, за да видите скритите видеоклипове</string>
+  <string name="v_set_password">Задайте парола, за скритите елементи</string>
   <string name="v_setting">Настройки</string>
   <string name="v_share_device">Споделени устройства</string>
   <string name="v_skip_update">Игнорирай</string>
@@ -1313,4 +1313,26 @@
   <string name="plus_tab_time">Хронология</string>
   <string name="moment_tab_video">Видеоклипове</string>
   <string name="plus_player_pip">Картитна в картината</string>
+    <string name="check_all_follow">Виж всички</string>
+    <string name="gallery_fold_tags">Скриване на марки</string>
+    <string name="gallery_video_edit_save_video">Създаване на видео със субтитри…</string>
+    <string name="gallery_view_tags">Покажи марки</string>
+    <string name="player_vip_buy_btn_text">Абонамент</string>
+    <string name="player_vip_buy_subtitle">Получете достъп до премиум функции</string>
+    <string name="player_vip_buy_title">Mi Video абонамент</string>
+    <string name="plus_bottom_bar_delete">Изтриване</string>
+    <string name="plus_bottom_bar_hide">Скриване</string>
+    <string name="plus_bottom_bar_rename">Преименуване</string>
+    <string name="plus_bottom_bar_share">Сподели</string>
+    <string name="plus_bottom_bar_unhide">Покажи</string>
+    <string name="plus_file_size">"Размер: "</string>
+    <string name="subscribe_fans_tag">Фенове</string>
+    <string name="subscribe_video_tag">Видео</string>
+    <string name="v_dialog_hint_contain_invalid_char">Името на файла съдържа неподходящи знаци</string>
+    <string name="v_dialog_hint_duplicate_name">Този файл вече съществува</string>
+    <string name="v_dialog_hint_not_null">"Името на файла не може да бъде празно"</string>
+    <string name="v_dialog_hint_start_with_dot">"Името на файла не може да започва с \".\""</string>
+    <string name="v_dialog_hint_too_long">Името на файла е твърде дълго</string>
+    <string name="v_dialog_rename_title">Преименуване</string>
+    <string name="v_input_hint">Въведете име на файла</string>
 </resources>

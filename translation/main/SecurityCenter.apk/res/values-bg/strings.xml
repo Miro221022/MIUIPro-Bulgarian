@@ -1563,7 +1563,7 @@
   <string name="operator_number_unicom">10010</string>
   <string name="optimize_manage_title">Подобравяне на скоростта</string>
   <string name="optimize_result_available_memory_info">Достъпна памет</string>
-  <string name="optimize_result_button_cloudspace">Добави облачно хранилище</string>
+  <string name="optimize_result_button_cloudspace">Получете още облачно пространство</string>
   <string name="optimize_result_button_consume_power_analysis">Проверка</string>
   <string name="optimize_result_button_cooldown_now">Охлаждане</string>
   <string name="optimize_result_button_correct_now">Регулиране</string>
@@ -2781,4 +2781,6 @@
     <string name="power_save_mode_close_xiaoai_wakeup_summary">Работи, когато е пестенето на батерия е включено</string>
     <string name="power_save_mode_close_xiaoai_wakeup_title">"Не задействай Mi AI с глас"</string>
     <string name="power_save_mode_other_optimization">Допълнителна оптимизация</string>
+	<string name="power_save_ps_close_setting_5g_q">Изключване на услугите и функциите с висока консумация на енергия (синхронизация, 5G връзка, вибрация, \"Събуждане чрез повдигане\", \"Събуждане чрез двойно почукване\", \"Показване на иконата на пръстов отпечатък, когато екранът е изключен\")</string>
+    <string name="power_save_ps_close_setting_q">Изключване на услугите и функциите с висока консумация на енергия (синхронизация, вибрация, \"Събуждане чрез повдигане\", \"Събуждане чрез двойно почукване\", \"Показване на иконата на пръстов отпечатък, когато екранът е изключен\")</string>
 </resources>

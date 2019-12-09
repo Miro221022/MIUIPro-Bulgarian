@@ -1895,4 +1895,6 @@
    <string name="multi_face_name_prefix">"Лице "</string>
    <string name="multi_face_number_reach_limit">"Не могат да се добавят данни за повече от 2 лица"</string>
    <string name="quick_settings_cellular_detail_unable_change">"Не може да се зададе по време на разговор"</string>
+   <string name="ime_security_warning_global">Методите за въвеждане е възможно да събират целия текст, който въвеждате, включително лични данни като пароли и номера на кредитни карти. Ще използвате ли %1$s?</string>
+   <string name="ime_security_warning_title_global">Включване на клавиатурата</string>
 </resources>

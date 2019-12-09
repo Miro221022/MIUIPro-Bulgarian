@@ -1467,4 +1467,8 @@
 	<string name="volume_dialog_ringer_guidance_silent">Обажданията и известията ще бъдат заглушени</string>
     <string name="volume_dialog_ringer_guidance_vibrate">Обажданията и известията ще са с вибрация</string>
 	<string name="app_running_notification_tip_text">Това може да забави вашето устройство и да изтощи батерията. Докоснете, за да излезете от приложението</string>
+	<string name="handset_text_unsupported_handset_insert">Докоснете, за да видите подробности</string>
+    <string name="handset_text_usb_handset_insert">Докоснете, за да отворите допълнителни настройки</string>
+    <string name="handset_title_unsupported_handset_insert">"Не може да се изпълни звук през адаптера"</string>
+    <string name="handset_title_usb_handset_insert">Възпроизвеждане на звук през USB</string>
 </resources>

@@ -15,8 +15,11 @@
     </string-array>
 	    <string-array name="feedback_tag_list">
         <item>Проблем,1</item>
+        <item>Възпроизвеждане,4</item>
+        <item>Проблеми с авторските права,3</item>
+        <item>Членство,5</item>
         <item>Предложение,2</item>
-        <item>Други въпроси,0</item>
+        <item>Други проблеми,0</item>
     </string-array>
 	    <string-array name="passport_alphabet_table">
         <item>\#</item>
