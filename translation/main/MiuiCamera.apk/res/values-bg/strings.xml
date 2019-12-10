@@ -942,16 +942,16 @@
 	<string name="location_permission_des">Запомняне на местоположенията на снимките и видеоклиповете</string>
 	<string name="location_permission_not_ask_again">Разрешете на Камера да има достъп до вашето местоположение в Настройки.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Разрешаване</string>
-	<string name="network_access_user_notice_agree">Съгласявам се</string>
+	<string name="network_access_user_notice_agree">Приемам</string>
     <string name="network_access_user_notice_message_live_video">"Камерата трябва да се свърже с интернет, за да осигури ефекти, музика и други функции за кратки видеоклипове.
 	
-Чрез натискането на \"Съгласявам се\" по-долу, вие се съгласявате с нашите "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Потребителско споразумение</a> и <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Политика за поверитлност</a>, и позволявате на Камера да се свърже с интернет.</string>
+Чрез натискането на \"Приемам\" по-долу, вие се съгласявате с нашите "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Потребителско споразумение</a> и <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Политика за поверитлност</a>, и позволявате на Камера да се свърже с интернет.</string>
     <string name="network_access_user_notice_message_voice_caption">"Камера трябва да се свърже с интернет, за да осигури функционалност за синтезирана реч към текст.
 
-Чрез натискането на \"Съгласявам се\" по-долу, вие се съгласявате с нашите "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Потребителско споразумение</a> и <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Политика за поверитлност</a>, и позволявате на Камера да се свърже с интернет.</string>
+Чрез натискането на \"Приемам\" по-долу, вие се съгласявате с нашите "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Потребителско споразумение</a> и <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Политика за поверитлност</a>, и позволявате на Камера да се свърже с интернет.</string>
   <string name="accessibility_flash_back_soft_light">Светкавицата работи в режим мека светлина</string>
   <string name="dirty_tip_toast">Лещата е замърсена. Почистете я.</string>
-  <string name="network_access_user_notice_message_sticker">&lt;Data&gt;"Камерата трябва да се свърже с интернет, за да предостави стикери за тази функция.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Чрез докосването на \"Съгласявам се\" вие се съгласявате с нашите &amp;lt;a href =%1$s&amp;gt;Потребителско споразумение&amp;lt;/a&amp;gt; и &amp;lt;a href =%2$s&amp;gt;Политика за поверителност&amp;lt;/a&amp;gt; и разрешавате на Камера да се свърже с интернет."&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_sticker">&lt;Data&gt;"Камерата трябва да се свърже с интернет, за да предостави стикери за тази функция.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Чрез докосването на \"Приемам\" вие се съгласявате с нашите &amp;lt;a href =%1$s&amp;gt;Потребителско споразумение&amp;lt;/a&amp;gt; и &amp;lt;a href =%2$s&amp;gt;Политика за поверителност&amp;lt;/a&amp;gt; и разрешавате на Камера да се свърже с интернет."&lt;/Data&gt;</string>
   <string name="photo_assistance_tips_title">Съвети на живо</string>
   <string name="pref_960_watermark_title">960кад/с воден знак</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>

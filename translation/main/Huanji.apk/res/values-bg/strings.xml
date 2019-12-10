@@ -335,7 +335,7 @@
     <string name="dialog_backup_password_change_machine_tips">"Няма да можете да прехвърляте резервни копия, защитени с парола. Изключете паролата за архивиране, преди да използвате Mi Трансфер."</string>
     <string name="dialog_backup_password_verify">потвърждаване</string>
     <string name="dialog_request_network_btn_negative">Изход</string>
-    <string name="dialog_request_network_btn_positive">Съгласявам се</string>
+    <string name="dialog_request_network_btn_positive">Приемам</string>
     <string name="dialog_request_network_message">"Добре дошли в Mi Трансфер! Можете да използвате това приложение, за да прехвърляте данни от старото си устройство към новото.
 Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност. Обърнете внимание, че Mi Mover трябва да се свърже с интернет и изисква следните разрешения за събиране на вашата лична информация: включване и изключване на Wi-Fi, достъп и прехвърляне на вашите контакти, история на разговорите, SMS, MMS, записи на разговори и аудио записи."</string>
     <string name="dialog_tip_upgrade_summary">Изглежда, че Mi Транфсер е твърде стара версия. Актуализирайте го до най-новата му версия, за да можете да прехвърляте файлове.</string>

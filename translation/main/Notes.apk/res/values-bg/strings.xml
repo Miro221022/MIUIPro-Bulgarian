@@ -318,8 +318,8 @@
   <string name="todo_menu_cancel">Отказ</string>
   <string name="todo_user_guide_fw_pop">Добавяне на пряк път към началния екран</string>
   <string name="todo_user_guide_tip5">Останете на върха на играта си и никога не пропускайте нещо важно!</string>
-    <string name="confirm_cancel">"Не се съгласявам"</string>
-    <string name="confirm_ok">Съгласявам се</string>
+    <string name="confirm_cancel">"Не приемам"</string>
+    <string name="confirm_ok">Приемам</string>
     <string name="permission_get_account_desc">Синхронизиране на бележки с облака</string>
     <string name="permission_microphone_desc">Създаване на гласови бележки</string>
     <string name="permission_network_for_cloud_desc">За да синхронизирате бележки с облака, трябва да се свържете с интернет. Мобилните данни могат да се използват за синхронизиране на елементи. Свързване сега?</string>

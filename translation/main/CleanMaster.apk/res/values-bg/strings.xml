@@ -89,8 +89,8 @@
   <string name="btn_text_quick_cleanup_video">Изтрий избраните видео файлове %1$s</string>
   <string name="btn_text_quick_scan">Сканирай</string>
   <string name="btn_text_stop">Стоп</string>
-  <string name="button_agree">Съгласявам се</string>
-  <string name="button_deny">Не се съгласявам</string>
+  <string name="button_agree">Приемам</string>
+  <string name="button_deny">Не приемам</string>
   <string name="button_text_add_to_white_list">Изключение</string>
   <string name="button_text_backup_uninstall">Архивиране и деинст.</string>
   <string name="button_text_cancel">Отказ</string>

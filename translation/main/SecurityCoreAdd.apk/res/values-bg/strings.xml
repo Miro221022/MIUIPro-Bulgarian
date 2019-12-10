@@ -385,8 +385,8 @@
   <string name="stop_xspace_alert_title">"Изтриване на профилите на клонираните приложения"</string>
   <string name="msg_switch_file_second">Изтриване тези файлове във Второ пространство след като бъдат преместени?</string>
   <string name="use_xiaoai_open">Събуждане чрез Mi AI</string>
-  <string name="agree">Съгласете се</string>
-  <string name="disagree">"Не се съгласявайте"</string>
+  <string name="agree">Приемам</string>
+  <string name="disagree">"Не приемам"</string>
   <string name="net_work_notice">Родителските контроли трябва да се свързват с интернет и да получат достъп до вашето местоположение, за да работят нормално. Тези разрешения са изискват за изпращане на информация за нивата на батерията, брой на стъпки, и местоположението на контролираните устройства. Разрешаване?</string>
   <string name="qq_login">Вписване в QQ</string>
   <string name="this_function_can_not_use_in_second_space">Тази функция може да се използва само в Първо пространство</string>

@@ -181,7 +181,7 @@
     <string name="wifi_security">Сигурност:</string>
     <string name="wifi_ssid">SSID:</string>
 	<string name="miracast_message">Сподели към %s?</string>
-	<string name="agree_btn">Съгласявам се</string>
+	<string name="agree_btn">Приемам</string>
     <string name="aliusersdk_api_unauthorized">API неоторизиран</string>
     <string name="amazon_assistant_shopping_title">Търси в Amazon</string>
     <string name="blog">Weibo</string>

@@ -75,10 +75,10 @@
     <string name="miui_feedback_edit_select_upload_log_not_select_desc">"Не е избрано \"Добави отчети\""</string>
     <string name="miui_feedback_edit_select_upload_log_select_desc">Избрано е \"Добави отчети\"</string>
     <string name="miui_feedback_edit_storage_permission_name">Достъп до хранилището</string>
-    <string name="miui_feedback_edit_submit_dialog_cancel">"Не се съгласявам"</string>
-    <string name="miui_feedback_edit_submit_dialog_confirm">Съгласявам се</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">"Не приемам"</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">Приемам</string>
     <string name="miui_feedback_edit_submit_dialog_content"><Data>"Трябва да се съгласите с нашите &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско споразумение&lt;/a> за да можете да използвате Отзиви. Проблемите, които докладвате заедно с елементите, които прикачвате (може да съдържат лична информация, както и информацията за вашето устройство и мрежа) ще бъдат качени на сървърите на MIUI. Това ще ни помогне да намерим и решим проблемите, за които докладвате."</Data></string>
-    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>"Вашето мнение, заедно с прикачени файлове (ако има такива) и отчетите (можете да премахнете отметката от съответните квадратчета за елементите, които не искате да качвате) ще бъдат изпратени до сървърите на MIUI. Отчетите могат да съдържат лична информация и данни за вашето местоположение. Избирането на \"Съгласявам се\" означава, че сте прочели и сте се съгласили с нашите &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско споразумение&lt;/a>."</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>"Вашето мнение, заедно с прикачени файлове (ако има такива) и отчетите (можете да премахнете отметката от съответните квадратчета за елементите, които не искате да качвате) ще бъдат изпратени до сървърите на MIUI. Отчетите могат да съдържат лична информация и данни за вашето местоположение. Избирането на \"Приемам\" означава, че сте прочели и сте се съгласили с нашите &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско споразумение&lt;/a>."</Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Не показвай отново"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Изпрати отчет</string>
     <string name="miui_feedback_edit_submit_directly">Изпрати</string>
@@ -118,7 +118,7 @@
     <string name="miui_main_update_start">Обнови сега</string>
     <string name="miui_main_update_success_sub_title">Запознайте се с новият MIUI</string>
     <string name="miui_main_update_success_title">Животът става по-лесен</string>
-    <string name="permission_agree">Съгласявам се</string>
+    <string name="permission_agree">Приемам</string>
     <string name="permission_china_version_msg"><Data>Преди да използвате \"Услуги и отзиви\", трябва да прочетете и да се съгласите с нашите &lt;a href=%1$s>Потребителско споразумение&lt;/a> и &lt;a href=%2$s>Политика за поверителност&lt;/a>. Това приложение също трябва да се свърже с интернет, за да работи нормално.</Data></string>
     <string name="permission_complete">Готово</string>
     <string name="permission_contacts_info">Достъп до информация за профила</string>

@@ -5748,7 +5748,7 @@
     <string name="miui_sos_statusbar_title">Спешни съобщения са активирани</string>
     <string name="sos_privacy_and_content_policy">Потребителско споразумение и Политика за поверителност</string>
     <string name="sos_privacy_dialog_button_cancel">Отказ</string>
-    <string name="sos_privacy_dialog_button_ok">Съгласявам се</string>
+    <string name="sos_privacy_dialog_button_ok">Приемам</string>
     <string name="sos_privacy_dialog_message">"Прочетете и се съгласете с нашите %s преди да използвате тази функция.
 Тази функция се нуждае от разрешения за достъп до вашето местоположение, използване на мобилни мрежи и четене на вашите контакти. Съгласни ли сте?"</string>
     <string name="sos_privacy_dialog_title">Правила и условия</string>

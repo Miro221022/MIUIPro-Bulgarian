@@ -1123,8 +1123,8 @@
   <string name="show_more_attachment">Още прикачени файлове</string>
   <string name="overlays_tip_23">Отворете плаващи прозорци за разрешения в мениджъра на разрешенията и веднага се насладете на 139 mailbox за автоматично конфигуриране на екстремното преживяване.</string>
   <string name="add_file_exception">"Не може да се добави. Опитайте да добавите този прикачен файл от друго място."</string>
-  <string name="dialog_agree">Съгласявам се</string>
-  <string name="dialog_disagree">"Не се съгласявам"</string>
+  <string name="dialog_agree">Приемам</string>
+  <string name="dialog_disagree">"Не приемам"</string>
   <string name="list_empty_to_fresh">Все още няма имейли.</string>
   <string name="notify_channel_no_disterb">Не ме безпокойте</string>
   <string name="privacy_des">"Информацията в отчета съдържа информация за отстраняване на грешки, отпечатана от приложението за електронна поща и информация за устройството ви, за да локализираме проблемите, които докладвате.Избирайки следното \"%1$s\" Това означава, че сте прочели и сте се съгласили с 《%2$s》 на Xiaomi"</string>

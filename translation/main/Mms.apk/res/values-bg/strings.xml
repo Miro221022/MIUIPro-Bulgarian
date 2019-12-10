@@ -100,7 +100,7 @@
   <string name="cloud_state_disabled">Включете синхронизирането с облака за да синхронизирате съобщенията</string>
   <string name="cloud_state_sync_finished">Синхронизирано с облака</string>
   <string name="cloud_state_syncing">Синхронизира се с Xiaomi Облак</string>
-  <string name="cm_privacy_dialog_allow">Съгласявам се</string>
+  <string name="cm_privacy_dialog_allow">Приемам</string>
   <string name="cm_privacy_dialog_cancel">Отказ</string>
   <string name="cm_privacy_dialog_spannable_tips">Политика за поверителност</string>
   <string name="cm_privacy_dialog_tips">Услугите за интелигентни съобщения се предоставят от вашия оператор. Съобщения трябва да се свърже с интернет и да има достъп до местоположението ви, за да предостави тези услуги. Трябва да се съгласите с %1s на вашия оператор преди да започнете да използвате тези услуги. Съгласни ли сте?</string>
@@ -841,7 +841,7 @@
   <string name="summary_pref_cm_smart_sms">Шаблони за карти, номера на SMS услуги и други</string>
   <string name="switch_to_editor">Режим редактиране</string>
   <string name="switch_to_menu">Режим Меню</string>
-  <string name="system_permission_declare_agree">Съгласявам се</string>
+  <string name="system_permission_declare_agree">Приемам</string>
   <string name="system_permission_declare_disagree">Отказ</string>
   <string name="system_permission_declare_double_link" formatted="false">Прочетете и се съгласете с нашите %1s и %2s преди да използвате тази функция.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Добре дошли в %1s! %2s</string>

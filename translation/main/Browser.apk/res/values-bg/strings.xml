@@ -926,7 +926,7 @@
   <string name="secureaccess">Превключи на безопасен режим</string>
   <string name="secureaccess_cancel">Игнорирай</string>
   <string name="security_permission_negative_btn_location">Отказ</string>
-  <string name="security_permission_positive_btn_location">Съгласявам се</string>
+  <string name="security_permission_positive_btn_location">Приемам</string>
   <string name="security_url_confirm_message">Изключването на функцията може да създаде рискове по сигурността.</string>
   <string name="security_warning">Предупреждения за защита</string>
   <string name="security_warnings_confirm_message">Изключването на функцията може да създаде рискове по сигурността.</string>
