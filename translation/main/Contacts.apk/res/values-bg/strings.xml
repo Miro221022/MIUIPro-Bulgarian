@@ -1286,4 +1286,9 @@
      <string name="zero_items_selected">Нищо не е избрано</string>
      <string name="zero_letter">+</string>
 	 <string name="cloud_upgrade_recommend">"Контактите не могат да се синхронизират поради недостатъчно пространство в хранилището в облака. Надстройте вашия план за съхранение в облака."</string>
+	 <string name="bind_simcard_default">SIM по подразбиране за повиквания</string>
+     <string name="bind_simcard_menu">Задайте SIM по подразбиране за повиквания</string>
+     <string name="bind_simcard_no_dual">"Не са намерени 2 SIM"</string>
+     <string name="bind_simcard_not_set">Не е зададено</string>
+     <string name="bind_simcard_title">SIM по подразбиране за повиквания</string>
 </resources>

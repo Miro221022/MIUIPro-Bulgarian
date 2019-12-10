@@ -1811,4 +1811,8 @@
     <string name="mobile_property">Свойства на мобилната мрежа</string>
     <string name="netcheck_title">Диагностика на мобилната мрежа</string>
     <string name="status_unavailable">Не е налично</string>
+	<string name="prompt_to_suggest_no_call_service_notification_content">"Не могат да осъществяват повиквания. Услугата VoLTE в момента е изключена за вашата SIM (China Telecom)."</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content2">"Не могат да осъществяват повиквания. Услугата VoLTE в момента е изключена за SIM %d (China Telecom)."</string>
+    <string name="prompt_to_suggest_no_call_service_notification_title">"Не могат да осъществяват повиквания"</string>
+    <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM%d не може да осъществява повиквания. Свържете се с China Telecom, за да включи услугата VoLTE."</string>
 </resources>
