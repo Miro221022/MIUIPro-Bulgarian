@@ -27,6 +27,8 @@
         <item>Ч</item>
         <item>Ш</item>
         <item>Щ</item>
+		<item>Ъ</item>
+		<item>Ь</item>
         <item>Ю</item>
         <item>Я</item>
         <item>\#</item>
@@ -59,6 +61,8 @@
         <item>Ч</item>
         <item>Ш</item>
         <item>Щ</item>
+		<item>Ъ</item>
+		<item>Ь</item>
         <item>Ю</item>
         <item>Я</item>
         <item>\#</item>

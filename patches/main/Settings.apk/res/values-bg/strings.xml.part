@@ -215,8 +215,6 @@
   <string name="show_powermenu_summary">Деактивиране на менюто за рестартиране, когато екранът е заключен</string>
   <string name="default_search_title">Асистент по подразбиране</string>
   <string name="icon_notification_style_title">Икони за известията</string>
-  <string name="fingerprint_wakeup_title">Събужадане чрез скенера за пръстови отпечатъци</string>
-  <string name="fingerprint_wakeup_summary">Събуждане на устройството, ако няма настроени отпечатъци</string>
   <string name="set_pip_size_title">Размер на прозореца за картина в картината</string>
   <string name="fingerprint_setup_title">Действие на скенера</string>
 </resources>
