@@ -839,4 +839,5 @@
     <string name="support_theme_store_title">Подкрепете нашите дизайнери</string>
 	<string name="de_preview">Преглед</string>
     <string name="wallpaper_set_as_incall_show">Задаване като профилно видео</string>
+	<string name="apply_not_support_in_second_space">"Този елемент не може да се приложи във Второ пространство"</string>
 </resources>
