@@ -409,7 +409,7 @@
   <string name="fav_network_error">Грешка в мрежата</string>
   <string name="fav_nodata_tip">Няма любими</string>
   <string name="fav_search_nodata_tip">Няма резултати</string>
-  <string name="fav_share_fail">Не може да се сподели. Можете да добавяте URL адреси към предпочитани.</string>
+  <string name="fav_share_fail">"Не може да се сподели. Можете само да добавяте URL адреси към любими."</string>
   <string name="fav_success">Успешно добавен към любими</string>
   <string name="fav_support_label">Любими приложения</string>
   <string name="fav_support_introduce">Управлявление на любимите за отделните приложения</string>
@@ -429,7 +429,7 @@
   <string name="favorite_add_home_process">Добавяне…</string>
   <string name="favorite_all_selec">Избери всички</string>
   <string name="favorite_cancel">Отказ</string>
-  <string name="favorite_clipboard_tip">Да добавя ли адреса от клипборда към любими?</string>
+  <string name="favorite_clipboard_tip">Да се добави ли адреса от буферната памет към любими?</string>
   <string name="favorite_delete">Изтрий</string>
   <string name="favorite_important">Важно</string>
   <string name="favorite_label">Любими</string>
