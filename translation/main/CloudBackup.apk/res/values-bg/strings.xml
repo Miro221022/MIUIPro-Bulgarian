@@ -149,7 +149,7 @@
     <string name="cloud_backup">Резервни копия в Xiaomi Облак</string>
     <string name="open_backup_switch">Превключи на Резервно копие</string>
     <string name="restore_cloud_backup_to_phone">Възстановяване на данни от Xiaomi Облак</string>
-    <string name="cloud_backup_in_process">Архивиране…</string>
+    <string name="cloud_backup_in_process">Архивиране</string>
     <string name="cloud_backup_in_cancel">Отказ</string>
     <string name="dialog_cancel_backup_title">Отмяна на изходящите резервни копия?</string>
     <string name="dialog_cancel_backup_msg">Преминаването към размяна ще спре всички започнати резервни копия.</string>

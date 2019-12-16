@@ -287,7 +287,7 @@
   <string name="no_visiable_calendar_message_only_for_xiaomi_account">Трябва да добавите профил в календара. Докоснете \"Добавяне на профил\", за да продължите.</string>
   <string name="no_visiable_calendar_select_account">Добавяне на профил</string>
   <string name="no_visiable_calendar_title">Добавяне на профил</string>
-  <string name="notification_channel_name">Напомняния за календара</string>
+  <string name="notification_channel_name">Редовни за календара</string>
   <string name="notification_open_setting_button_exit">Не благодаря</string>
   <string name="notification_open_setting_button_ok">Разреши</string>
   <string name="notification_open_setting_message">Няма да можете да получавате известия за събития, освен ако не разрешите на Календар да ви изпраща известия.</string>
@@ -521,4 +521,6 @@
      <string name="edit_event_title_edit_countdown">Редактиране на таймера</string>
 	 <string name="solar_lunar_convert_description_2">Превключване между традиционните китайски и григориански календари</string>
      <string name="setting_about_oaid">OAID:%1$s</string>
+	 <string name="notification_channel_name_no_sound">Заглушени напомняния</string>
+	 <string name="notification_channel_name_silent">Напомняния при Не ме безпокойте</string>
 </resources>

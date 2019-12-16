@@ -236,4 +236,31 @@
      <string name="search_app_name">Търсене на приложения</string>
      <string name="search_empty">Не са намерени приложения</string>
      <string name="srgb_color_region_summary">Показване на цялото екранно съдържание в sRGB цветова гама</string>
+	 <string name="create">Създай</string>
+     <string name="create_failed">Създаването не бе успешно</string>
+     <string name="create_shortcut">Създай пряк път</string>
+     <string name="created">Създаден</string>
+     <string name="created_successfully">Създаването успешно</string>
+     <string name="lock_summary">Цялостна защита на вашата поверителност</string>
+     <string name="more_settings">Настройки</string>
+     <string name="no_matching">Няма съвпадащи програми</string>
+     <string name="privacy_policy">Политика за поверителност</string>
+     <string name="screen_time_lock">Заключване на приложението за управление на екрана</string>
+     <string name="shortcut_created">Прекият път е създаден</string>
+     <string name="stop_summary">Всички данни за управление на екрана ще бъдат изчистени след деактивиране</string>
+     <string name="suggestion">Предложения и отзиви</string>
+     <string name="try_to_create">Опит за създаване на пряк път</string>
+	 <string name="usage_agree">Приемам</string>
+     <string name="usage_exit">Не приемам</string>
+     <string name="usage_home_permission_account_summary">用于登录小米账号并同步屏幕使用情况的功能</string>
+     <string name="usage_home_permission_account_title">获取手机账号权限</string>
+     <string name="usage_home_permission_phone_summary">收集VAID用于区分设备</string>
+     <string name="usage_home_permission_phone_title">获取手机信息权限</string>
+     <string name="usage_home_premission_main_summary_new">"欢迎您使用屏幕时间管理。
+为了向您提供服务，我们需要收集您屏幕使用相关信息：屏幕解锁次数、各应用名称及使用时长以统计屏幕的使用情况;亮屏次数、专注模式设置时长以统计您专注模式使用情况。
+为提供基本服务，还需要联网以及调用您的如下权限或功能，以收集必要的个人信息："</string>
+     <string name="usage_home_premission_main_summary_new_o">"欢迎您使用屏幕时间管理。
+为了向您提供服务，我们需要收集您屏幕使用相关信息：屏幕解锁次数、各应用名称及使用时长以统计屏幕的使用情况。
+为提供基本服务，还需要联网以及调用您的如下权限或功能，以收集必要的个人信息："</string>
+     <string name="usage_home_premission_second_summary_new">我们将严格遵守相关法律法规和隐私政策以保护您的个人信息，如果您不同意调用以上必要权限或功能，或不同意我们收集并使用以上信息，将导致本应用无法正常运行，您可通过“屏幕时间管理-&gt;设置-&gt;停用屏幕时间管理”撤回您的同意，或其他与隐私相关的问题可通过privacy@xiaomi.com邮箱与我们联系。</string>
 </resources>

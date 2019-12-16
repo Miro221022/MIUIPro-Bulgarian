@@ -1035,6 +1035,6 @@
     <string name="portrait_india_effect_entry_sweet">Сладко</string>
     <string name="portrait_india_effect_entry_warm">Топло</string>
     <string name="portrait_india_effect_entry_young">Младост</string>
-	<string name="miservice_notification_content">Кликнете, за да научите повече за функциите на камерата</string>
-    <string name="miservice_notification_title">Съвети: Нови функции в камерата</string>
+	<string name="miservice_notification_content">Докоснете, за да научите повече</string>
+    <string name="miservice_notification_title">Научете повече за новите функции в камерата</string>
 </resources>
