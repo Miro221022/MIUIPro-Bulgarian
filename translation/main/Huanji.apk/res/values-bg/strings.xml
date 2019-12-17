@@ -454,7 +454,7 @@
     <string name="hsa_code_null">"Кодът за потвърждение не може да бъде празен"</string>
     <string name="hsa_input_tip">Вашият Apple ID използва двуфакторно удостоверяване. Въведете код за потвърждение.</string>
     <string name="hsa_send_again">Изпрати отново</string>
-    <string name="hsa_send_again_countdown">Изпрети отново (%dс)</string>
+    <string name="hsa_send_again_countdown">Изпрати отново (%dсек.)</string>
     <string name="hsa_send_failed">"Не може да се изпрати код за потвърждение. Изчакайте минута или две и опитайте отново."</string>
     <string name="hsa_sending">Изпращане…</string>
     <string name="hsa_tip_message">"Ако не можете да получите кода за потвърждение, уверете се, че вече сте влезли в iCloud на вашето Apple устройство."</string>

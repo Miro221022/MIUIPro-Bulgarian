@@ -187,7 +187,7 @@
   <string name="hsa_input_hint">Въведете код за проверка</string>
   <string name="hsa_input_tip">Вашият профил в Apple използва двустепенна оторизация. Въведете код за потвърждение.</string>
   <string name="hsa_send_again">Изпрати отново</string>
-  <string name="hsa_send_again_countdown">Изпрати отново (%dс)</string>
+  <string name="hsa_send_again_countdown">Изпрати отново (%dсек.)</string>
   <string name="hsa_send_failed">Не може да се изпрати код за потвърждение. Изчакайте малко и опитайте отново.</string>
   <string name="hsa_sending">Изпращане…</string>
   <string name="hsa_tip_message">"1. Ако не можете да получите кода за потвърждение, уверете се, че вече сте вписани в iCloud на вашето Apple устройство.\n2. Ако въвеждането на кода за потвърждение не помогне, изключете двуфакторното удостоверяване. "</string>

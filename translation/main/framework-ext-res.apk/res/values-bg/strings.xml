@@ -204,7 +204,7 @@
     <string name="popup_camera_front_when_use">Предната камера е заета. Отваряне въпреки това?</string>
     <string name="popup_camera_popup_falied_times_calibrate">"Предната камера не можа да се отвори няколко пъти. Опитайте да калибрирате камерата."</string>
     <string name="popup_camera_sure">Разбрах</string>
-    <string name="popup_camera_sure_wait">Разбрах (%dс)</string>
+    <string name="popup_camera_sure_wait">Разбрах (%dсек.)</string>
     <string name="popup_camera_takeback_falied_times_calibrate">"Предната камера не можа да се затвори няколко пъти. Опитайте да калибрирате камерата."</string>
     <string name="popup_camera_tip">Внимание</string>
     <string name="popup_camera_using_camera_background">%s използва предната камера</string>

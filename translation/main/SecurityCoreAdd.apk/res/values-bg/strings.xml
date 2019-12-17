@@ -380,7 +380,7 @@
   <string name="reset_password_dialog_title">"Не може да се скрие иконата за Второ пространство"</string>
   <string name="xspace_install_completed_global">Иконата е добавена към чекмеджето</string>
   <string name="remove_button">Изтриване</string>
-  <string name="remove_button_time">Изтриване (%dс)</string>
+  <string name="remove_button_time">Изтриване (%dсек.)</string>
   <string name="stop_xspace_alert_content">Изтриване на всички клонирани приложения заедно с техните профили и данни за приложенията? Устройството ви ще се рестартира, за да приложи тази промяна.</string>
   <string name="stop_xspace_alert_title">"Изтриване на профилите на клонираните приложения"</string>
   <string name="msg_switch_file_second">Изтриване тези файлове във Второ пространство след като бъдат преместени?</string>

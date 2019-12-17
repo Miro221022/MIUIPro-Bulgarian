@@ -318,7 +318,7 @@
     <string name="privacy_authorize_revoke_dialog_title">Отмяна на разрешението</string>
     <string name="privacy_authorize_revoke_dialog_msg">След като анулирате разрешението, приложението ще спре събирането на данни и всички свързани с него данни ще бъдат изтрити от сървърите. Това може да направи приложението практически неизползваемо. Да се ​​отмени ли разрешението?</string>
     <string name="privacy_authorize_revoke">Отмяна</string>
-    <string name="privacy_authorize_revoke_time">Отмяна (%1$dс)</string>
+    <string name="privacy_authorize_revoke_time">Отмяна (%1$d сек.)</string>
     <string name="privacy_authorize_title">Предоставяне на разрешение</string>
     <string name="privacy_authorize_privacy_policy">Политика за поверителност</string>
     <string name="privacy_authorize_dialog_message">" "<Data>За да се използват основните функции на тази услуга трябва да се съгласите, че Xiaomi ще събира, обработва и използва личната ви информация. Прочете нашата Политика за Поверителност за да разберете как събираме и обработваме личните ви данни. С избирането на \"Съгласен съм\" това означава,че вие сте прочели и сте се съгласили с нашите &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика за поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско Споразумение&lt;/a>.​</Data>" "</string>
@@ -5087,7 +5087,7 @@
     <string name="turn_on_keyguard_password_alert_forget_content">"Запомнете вашата парола за заключен екран. Ако я забравите, ще трябва да изтриете всички данни в устройството, включително снимки и контакти и след това да зададете нова."</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">Не сега</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Разбрах</string>
-    <string name="turn_on_keyguard_password_alert_foget_ok_time">Разбрах (%dс)</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok_time">Разбрах (%dсек.)</string>
     <string name="turn_on_keyguard_password_alert">"Запомнете вашата парола. Ако я забравите, няма да можете да я възстановите."</string>
     <string name="turn_on_keyguard_password_alert_choose">"Запомнете вашата парола. Ако я забравите, ще трябва да изтриете всички данни от вашето устройство, за да зададете нова."</string>
     <string name="add_facerecoginition_text">Добавяне на лицеви данни</string>
@@ -5910,7 +5910,7 @@
     <string name="ai_settings_long_click_category">Натиснете и задръжте AI бутона</string>
     <string name="ai_settings_long_click_title">Натиснете и задръжте</string>
     <string name="ai_settings_single_press_des">Натиснете AI бутона, за да говорите на Google Асистент, след това освободете, за да получите отговора.</string>
-    <string name="miui_sos_call_log_time_unit">%1$d мин. %2$d сек.</string>
+    <string name="miui_sos_call_log_time_unit">%1$d мин. %2$dсек.</string>
     <string name="single_press_AI_button">Натиснете AI бутона</string>
 	<string name="miui_input_method_settings">Настройки на методи за въвеждане</string>
 	<string name="dangerous_option_switch_title">Известяване за функции с висок риск</string>

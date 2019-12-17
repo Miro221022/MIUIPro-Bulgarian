@@ -574,7 +574,7 @@
   <string name="face_data_manage_unlock_msg">Отключване на устройството чрез вашите лицеви данни</string>
   <string name="face_data_manage_unlock_title">Отключване чрез лицеви данни</string>
   <string name="face_data_siggesstion_next">Продължи</string>
-  <string name="face_data_siggesstion_next_time">Продължаване след (%dс)</string>
+  <string name="face_data_siggesstion_next_time">Продължаване след (%dсек.)</string>
   <string name="face_data_suggesstion_first">Проблеми със сигурността:Отключването с лице е по-малко сигурно от отклчването с PIN. Вашето устройство може да бъде отключено с вашата снимка, както и от хора или обекти с подобен външен вид.</string>
   <string name="face_data_suggesstion_second">"Уверете се, че всички части на лицето ви не са покрити с предмети и са ясно видими. Лицето ви също трябва да е добре осветено."</string>
   <string name="face_unlock_adjust_distance">Уверете се, че разстоянието между лицето ви и екрана е оптимално.</string>

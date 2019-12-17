@@ -377,8 +377,8 @@
     <item quantity="one">Отстранен е %d проблем с батерията</item>
   </plurals>
   <plurals name="reset_data_dialog_ok_tick">
-    <item quantity="other">Фабрично нулиране(%dс)</item>
-    <item quantity="one">Фабрично нулиране(%dс)</item>
+    <item quantity="other">Фабрично нулиране(%dсек.)</item>
+    <item quantity="one">Фабрично нулиране(%dсек.)</item>
   </plurals>
   <plurals name="result_sign_header">
     <item quantity="other">Открити са %d неофициални приложения</item>
