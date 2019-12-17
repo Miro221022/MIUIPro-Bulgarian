@@ -2615,6 +2615,8 @@
     <string name="vpn_always_on_invalid_reason_server">Винаги включеният VPN поддържа само цифрови сървърни адреси</string>
     <string name="vpn_always_on_invalid_reason_type">"Този тип VPN не може да бъде свързан по всяко време"</string>
     <string name="vpn_always_on_summary">Поддържане на връзка с VPN през цялото време</string>
+	<string name="vpn_always_on_summary_active">Винаги включен е активиран</string>
+	<string name="vpn_always_on_summary_not_supported">Не се поддържа от това приложение</string>
     <string name="trusted_credentials_system_tab">Система</string>
     <string name="trusted_credentials_user_tab">Потребител</string>
     <string name="trusted_credentials_disable_label">Деактивиране</string>
