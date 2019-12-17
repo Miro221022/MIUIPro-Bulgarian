@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_calllog_detail">Подробности за историята на повикванията</string>
      <string name="accessibility_contact_detail">Детайли за контакт</string>
@@ -818,7 +817,7 @@
      <string name="option_send_to_others">Изпрати на други</string>
      <string name="option_view_contact">Покажи</string>
      <string name="option_view_group">Покажи</string>
-     <string name="organizationLabelsGroup">Организация</string>
+     <string name="organizationLabelsGroup">Позиция</string>
      <string name="organization_company_and_title">%1$s, %2$s</string>
      <string name="other_contacts">Други контакти</string>
      <string name="other_phone">други телефони</string>

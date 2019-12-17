@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_color_selector_blue">#ff1aa1ff</color>
+    <color name="common_menu_bg_color">#ffffffff</color>
+    <color name="common_text_color_black">#ff171616</color>
+    <color name="common_window_bg_color">#fff7f7f7</color>
+    <color name="motion_photo_background">#ffffffff</color>
+    <color name="motion_photo_point_blue">#ff19a1ff</color>
+    <color name="motion_photo_point_gray">#ff949494</color>
+    <color name="motion_photo_popup_window_background">#ffffffff</color>
+    <color name="motion_photo_popup_window_cover_text_color">#cc000000</color>
+    <color name="motion_photo_popup_window_stroke">#ff949494</color>
+    <color name="motion_photo_title_color">#cc000000</color>
+    <color name="motion_photo_toast_text_color">@android:color/black</color>
+    <color name="notification_action_color_filter">@color/secondary_text_default_material_light</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="refocus_adjust_seek_bar_popup_line_color_default">#80000000</color>
+    <color name="refocus_adjust_seek_bar_popup_line_color_divider">#80000000</color>
+    <color name="refocus_adjust_seek_bar_popup_line_color_selected">#ff00a8ff</color>
+    <color name="refocus_adjust_seek_bar_popup_text_color">#b3000000</color>
+    <color name="refocus_color_menu_blue">#ff1aa1ff</color>
+    <color name="refocus_color_white">#ffffffff</color>
+    <color name="refocus_dual_adjust_line_color_default">#aaffffff</color>
+    <color name="refocus_dual_adjust_line_color_divider">#ffffffff</color>
+    <color name="refocus_table_text_color_checked">#ff00a1ff</color>
+    <color name="refocus_table_text_color_normal">#cc000000</color>
+    <color name="refocus_transparent">#00000000</color>
+    <color name="refocus_window_bg_color">#fff7f7f7</color>
+    <color name="relighting_adjust_solid">#33ffffff</color>
+    <color name="relighting_adjust_stroke">#99ffffff</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+</resources>

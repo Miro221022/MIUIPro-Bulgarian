@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extra_photo_common_permission_name">Боке</string>
+    <string name="extra_photo_common_saving">Захаванне…</string>
+    <string name="motion_photo_cancel">Адмена</string>
+    <string name="motion_photo_re_pick_title">Жывое фота</string>
+    <string name="motion_photo_save_fail">Не атрымалася захаваць</string>
+    <string name="motion_photo_save_gif">Захаваць як GIF</string>
+    <string name="motion_photo_save_gif_ing">Захаванне GIF...</string>
+    <string name="motion_photo_save_image">Захаваць лепшы малюнак</string>
+    <string name="motion_photo_save_image_ing">Захаванне лепшага малюнка...</string>
+    <string name="motion_photo_save_video">Захаваць як відэа</string>
+    <string name="motion_photo_save_video_ing">Захаванне відэа...</string>
+    <string name="motion_photo_toast_default">Па змаўчанні</string>
+    <string name="motion_photo_toast_long_press_play">Націсніце і ўтрымлівайце фота для прайгравання</string>
+    <string name="motion_photo_toast_suggest">Рэкамендуецца</string>
+    <string name="refocus_discard_confirm_message">Захаваць змены?</string>
+    <string name="refocus_discard_negative_btn">Скінуць</string>
+    <string name="refocus_discard_positive_btn">Захаваць</string>
+    <string name="refocus_photo_not_support">Немагчыма прымяніць размыццё да гэтай фатаграфіі</string>
+    <string name="refocus_relighting_toast">Перамесціце круг, каб адрэгуляваць кут асвятлення</string>
+    <string name="refocus_save_cancel">Адмена</string>
+    <string name="refocus_save_title">Выберыце фармат</string>
+    <string name="refocus_save_to_photo">Захаваць як малюнак</string>
+    <string name="refocus_save_to_video">Захаваць як відэа</string>
+    <string name="refocus_saving">Захаванне…</string>
+    <string name="refocus_title">Размыццё</string>
+    <string name="refocus_type_relighting">"Студыйнае
+асвятленне"</string>
+    <string name="refocus_type_relighting_no_face">Не атрымалася знайсці твар</string>
+    <string name="refocus_type_relighting_small_face">Студыйнае асвятленне працуе на фотаздымках, дзе твары займаюць больш месца, чым тут.</string>
+    <string name="refocus_type_static">"Узровень
+размыцця"</string>
+    <string name="refocus_type_video">"Напрамак
+святла"</string>
+</resources>

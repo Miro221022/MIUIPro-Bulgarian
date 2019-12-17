@@ -1,0 +1,10 @@
+{
+  "name": "motion_circle",
+  "icon": "icon.png",
+  "dynamicType": 1,
+  "totalSecond": 3000,
+  "motionScale": 1,
+  "motionStep": 100,
+  "interpolatorFactor": 0.7,
+  "iconColor": "#82d6c9"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="@dimen/refocus_menu_image_size" android:layout_height="@dimen/refocus_menu_image_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/img" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" />
+    <View android:background="@drawable/refocus_selector_menu_item" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:id="@id/stroke" android:background="@drawable/refocus_selector_menu_item_color" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extra_photo_common_saving">ساقلاۋاتىدۇ…</string>
+    <string name="motion_photo_cancel">بىكار قىلىش</string>
+    <string name="motion_photo_re_pick_title">ھەرىكەتلىك رەسىم</string>
+    <string name="motion_photo_save_fail">ساقلاش مەغلۇپ بولدى</string>
+    <string name="motion_photo_save_gif">GIFقىلىپ ساقلاش</string>
+    <string name="motion_photo_save_gif_ing">GIF ساقلاۋاتىدۇ…</string>
+    <string name="motion_photo_save_image">ئالدىن تاللانغان رەسىمنى ساقلاش</string>
+    <string name="motion_photo_save_image_ing">ئالدىن تاللانغان رەسىمنى ساقلاۋاتىدۇ…</string>
+    <string name="motion_photo_save_video">سىن قىلىپ ساقلاش</string>
+    <string name="motion_photo_save_video_ing">سىننى ساقلاۋاتىدۇ…</string>
+    <string name="motion_photo_toast_default">سۈكۈتتىكى</string>
+    <string name="motion_photo_toast_long_press_play">چوڭ رەسىمنى بېسىپ تۇرۇپ قويۇش</string>
+    <string name="motion_photo_toast_suggest">تەۋسىيە</string>
+    <string name="refocus_discard_confirm_message">مەشغۇلاتنى ساقلامسىز؟</string>
+    <string name="refocus_discard_negative_btn">ساقلىماسلىق</string>
+    <string name="refocus_discard_positive_btn">ساقلاش</string>
+    <string name="refocus_photo_not_support">بۇ رەسىم مەۋھۇملاشتۇرۇشنى قوللىمايدۇ</string>
+    <string name="refocus_relighting_toast">يۇمىلاق چەمبەرنى يۆتكەپ نۇر ئۈنۈمىنى تەڭشەڭ</string>
+    <string name="refocus_save_cancel">بىكار قىلىش</string>
+    <string name="refocus_save_title">ساقلاش فورماتىنى تاللاڭ</string>
+    <string name="refocus_save_to_photo">رەسىم قىلىپ ساقلاش</string>
+    <string name="refocus_save_to_video">سىن قىلىپ ساقلاش</string>
+    <string name="refocus_saving">ساقلاۋاتىدۇ…</string>
+    <string name="refocus_title">مەۋھۇملاشتۇرۇش ئۈنۈمى</string>
+    <string name="refocus_type_relighting">ستېرىئولۇق ئۈنۈم</string>
+    <string name="refocus_type_relighting_no_face">چىراي بايقالمىدى</string>
+    <string name="refocus_type_relighting_small_face">چىراي بەك كىچىك،سېتىرىئولۇق ئۈنۈمنى ئىشلەتكىلى بولمىدى</string>
+    <string name="refocus_type_static">كۈچلۈكلۈكى</string>
+    <string name="refocus_type_video">ھەرىكەتلىك يورۇقلۇق دېغى</string>
+</resources>

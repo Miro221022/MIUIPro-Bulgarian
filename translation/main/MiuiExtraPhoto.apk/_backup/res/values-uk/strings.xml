@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extra_photo_common_permission_name">Боке</string>
+    <string name="extra_photo_common_saving">Збереження…</string>
+    <string name="motion_photo_cancel">Скасування</string>
+    <string name="motion_photo_re_pick_title">Живе фото</string>
+    <string name="motion_photo_save_fail">Неможливо зберегти</string>
+    <string name="motion_photo_save_gif">Зберегти як GIF</string>
+    <string name="motion_photo_save_gif_ing">Збереження GIF...</string>
+    <string name="motion_photo_save_image">Зберегти краще зображення</string>
+    <string name="motion_photo_save_image_ing">Збереження кращого зображення...</string>
+    <string name="motion_photo_save_video">Зберегти як відео</string>
+    <string name="motion_photo_save_video_ing">Збереження відео...</string>
+    <string name="motion_photo_toast_default">За замовчуванням</string>
+    <string name="motion_photo_toast_long_press_play">Натисніть і утримуйте фото для відтворення</string>
+    <string name="motion_photo_toast_suggest">Рекомендується</string>
+    <string name="refocus_discard_confirm_message">Зберегти зміни?</string>
+    <string name="refocus_discard_negative_btn">Скинути</string>
+    <string name="refocus_discard_positive_btn">Зберегти</string>
+    <string name="refocus_photo_not_support">Неможливо застосувати розмиття до цієї фотографії</string>
+    <string name="refocus_relighting_toast">Перемістіть коло, щоб відрегулювати кут освітлення</string>
+    <string name="refocus_save_cancel">Відміна</string>
+    <string name="refocus_save_title">Виберіть формат</string>
+    <string name="refocus_save_to_photo">Зберегти як зображення</string>
+    <string name="refocus_save_to_video">Зберегти як відео</string>
+    <string name="refocus_saving">Збереження…</string>
+    <string name="refocus_title">Розумієте</string>
+    <string name="refocus_type_relighting">"Студійне
+освітлення"</string>
+    <string name="refocus_type_relighting_no_face">Не вдалося знайти обличчя</string>
+    <string name="refocus_type_relighting_small_face">Студійне освітлення працює на фотографіях, де особи займають більше місця, ніж тут.</string>
+    <string name="refocus_type_static">"Рівень
+розмиття"</string>
+    <string name="refocus_type_video">"Напрямок
+світла"</string>
+</resources>

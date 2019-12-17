@@ -1,0 +1,10 @@
+{
+  "name": "motion_line",
+  "icon": "icon.png",
+  "dynamicType": 2,
+  "totalSecond": 3000,
+  "degree": 30,
+  "iconColor": "#5fc4da",
+  "motionStep": 50,
+  "interpolatorFactor": 0.6
+}

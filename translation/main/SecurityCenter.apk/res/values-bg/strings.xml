@@ -2802,7 +2802,7 @@
 	<string name="applock_set_password_title">Промяна на типа парола</string>
 	<string name="applock_unlock_all">Отключи всички</string>
 	<string name="gamebox_voicechanger">Промяна на гласа</string>
-	<string name="gb_audition_instruction">Натиснете и задръжте за запис (0-10сек.)</string>
+	<string name="gb_audition_instruction">Натиснете и задръжте за запис (%1$s-%2$sсек.)</string>
     <string name="gb_audition_play_instruction">Използвайте слушалки за най-добър ефект</string>
 	<string name="gb_sound_audition">Опитайте</string>
     <string name="gb_voice_change_settinged">Промяната на гласа е включена</string>

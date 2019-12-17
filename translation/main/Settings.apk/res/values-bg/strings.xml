@@ -6677,4 +6677,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="open_haptic_feedback">Осезателна обратна връзка</string>
 	<string name="close_hotspot_hint">Изключване на горщата точка преди излъчване</string>
 	<string name="close_slave_wifi_hint">Прекъсване на връзката със спомагателните WLAN мрежи преди излъчване</string>
+	<string name="video_tool_box_title">Видео инструменти</string>
 </resources>

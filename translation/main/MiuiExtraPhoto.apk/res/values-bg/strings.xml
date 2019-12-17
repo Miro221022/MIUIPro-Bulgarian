@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extra_photo_common_permission_name">Боке</string>
+    <string name="extra_photo_common_saving">Запазване…</string>
+    <string name="motion_photo_cancel">Отказ</string>
+    <string name="motion_photo_re_pick_title">Снимка на живо</string>
+    <string name="motion_photo_save_fail">"Не може да се запази"</string>
+    <string name="motion_photo_save_gif">Запазване като GIF</string>
+    <string name="motion_photo_save_gif_ing">Запазване на GIF…</string>
+    <string name="motion_photo_save_image">Запазване на най-доброто изображение</string>
+    <string name="motion_photo_save_image_ing">Запазване на най-доброто изображение…</string>
+    <string name="motion_photo_save_video">Запазване като видео</string>
+    <string name="motion_photo_save_video_ing">Запазване на видео…</string>
+    <string name="motion_photo_toast_default">По подразбиране</string>
+    <string name="motion_photo_toast_long_press_play">Натиснете и задръжте снимката за изпълнение</string>
+    <string name="motion_photo_toast_suggest">Препоръчано</string>
+    <string name="refocus_discard_confirm_message">Запазване на промените?</string>
+    <string name="refocus_discard_negative_btn">Отхвърляне</string>
+    <string name="refocus_discard_positive_btn">Запазване</string>
+    <string name="refocus_photo_not_support">"Не можете да приложите замъгляване към тази снимка"</string>
+    <string name="refocus_relighting_toast">Преместете кръга, за да регулирате ъгъла на осветление</string>
+    <string name="refocus_save_cancel">Отказ</string>
+    <string name="refocus_save_title">Изберете формат</string>
+    <string name="refocus_save_to_photo">Запазване като изображение</string>
+    <string name="refocus_save_to_video">Запазване като видео</string>
+    <string name="refocus_saving">Запазване…</string>
+    <string name="refocus_title">Замъгляване</string>
+    <string name="refocus_type_relighting">"Студийно
+осветление"</string>
+    <string name="refocus_type_relighting_no_face">"Не е намерено лице"</string>
+    <string name="refocus_type_relighting_small_face">Студио осветлението работи върху снимки, където лица заемат повече място, отколкото тук.</string>
+    <string name="refocus_type_static">Ниво на замъгляване</string>
+    <string name="refocus_type_video">"Посока на
+светлината"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+	<string name="extra_photo_common_save_fail">"Не може да се запази"</string>
+</resources>

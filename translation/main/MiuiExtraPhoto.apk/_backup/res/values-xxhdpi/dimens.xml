@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="motion_photo_title_size">14.0sp</dimen>
+    <dimen name="refocus_operation_text_size">12.667999sp</dimen>
+    <dimen name="refocus_title_size">14.0sp</dimen>
+</resources>

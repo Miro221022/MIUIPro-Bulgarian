@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton android:textSize="@dimen/refocus_operation_text_size" android:textColor="@color/refocus_tab_text_color" android:gravity="center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/refocus_operation_margin_bottom" android:button="@null" android:maxWidth="@dimen/refocus_title_max_size" android:layout_marginStart="@dimen/refocus_operation_margin" android:layout_marginEnd="@dimen/refocus_operation_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

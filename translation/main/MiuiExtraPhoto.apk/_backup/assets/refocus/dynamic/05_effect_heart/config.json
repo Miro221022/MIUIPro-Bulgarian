@@ -1,0 +1,8 @@
+{
+  "name": "blinking_heart",
+  "icon": "icon.png",
+  "dynamicType": 4,
+  "totalSecond": 3000,
+  "mask":"mask.png",
+  "iconColor": "#5fc4da"
+}

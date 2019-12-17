@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extra_photo_common_saving">正在儲存…</string>
+    <string name="motion_photo_cancel">取消</string>
+    <string name="motion_photo_re_pick_title">动态照片</string>
+    <string name="motion_photo_save_fail">保存失败</string>
+    <string name="motion_photo_save_gif">保存为GIF</string>
+    <string name="motion_photo_save_gif_ing">正在保存GIF…</string>
+    <string name="motion_photo_save_image">保存优选照片</string>
+    <string name="motion_photo_save_image_ing">正在保存优选照片…</string>
+    <string name="motion_photo_save_video">保存为视频</string>
+    <string name="motion_photo_save_video_ing">正在保存视频…</string>
+    <string name="motion_photo_toast_default">預設</string>
+    <string name="motion_photo_toast_long_press_play">长按大图播放</string>
+    <string name="motion_photo_toast_suggest">推薦</string>
+    <string name="refocus_discard_confirm_message">是否儲存目前操作？</string>
+    <string name="refocus_discard_negative_btn">不儲存</string>
+    <string name="refocus_discard_positive_btn">儲存</string>
+    <string name="refocus_photo_not_support">該照片不支援虛化調節</string>
+    <string name="refocus_relighting_toast">移動圓圈可調整光效角度</string>
+    <string name="refocus_save_cancel">取消</string>
+    <string name="refocus_save_title">請選擇儲存格式</string>
+    <string name="refocus_save_to_photo">儲存為照片</string>
+    <string name="refocus_save_to_video">儲存為影片</string>
+    <string name="refocus_saving">正在儲存…</string>
+    <string name="refocus_title">虛化效果</string>
+    <string name="refocus_type_relighting">影棚光效</string>
+    <string name="refocus_type_relighting_no_face">沒有檢測到人臉</string>
+    <string name="refocus_type_relighting_small_face">臉太小，無法使用影棚光效</string>
+    <string name="refocus_type_static">虛化強度</string>
+    <string name="refocus_type_video">動態光斑</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

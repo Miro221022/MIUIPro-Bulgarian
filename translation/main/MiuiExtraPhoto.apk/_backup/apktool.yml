@@ -1,0 +1,28 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: MiuiExtraPhoto.apk
+compressionType: false
+doNotCompress:
+- classes.dex
+- resources.arsc
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '29'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  MODULE_LICENSE_BSD: '0'
+  NOTICE: '8'
+usesFramework:
+  ids:
+  - 1
+  - 16
+  tag: null
+version: 2.4.2-dirty-20191130
+versionInfo:
+  versionCode: '1'
+  versionName: 1.0.0
