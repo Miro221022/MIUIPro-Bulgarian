@@ -241,10 +241,10 @@
   <string name="power_remaining_duration_only_short">Оставащо време: %1$s</string>
   <string name="process_kernel_label">Android (ОС)</string>
   <string name="remaining_length_format">Оставащо време: %1$s</string>
-  <string name="respond_via_sms_canned_response_1">Сега не мога да говоря. По-късно?</string>
-  <string name="respond_via_sms_canned_response_2">Ще ви се обадя веднага обратно.</string>
-  <string name="respond_via_sms_canned_response_3">Ще ви се обадя по-късно.</string>
-  <string name="respond_via_sms_canned_response_4">Сега не мога да говоря. Какво има?</string>
+  <string name="respond_via_sms_canned_response_1">"Не мога да говоря сега. Какво има?"</string>
+  <string name="respond_via_sms_canned_response_2">"Ще ти се обадя веднага."</string>
+  <string name="respond_via_sms_canned_response_3">"Ще ти се обадя по-късно."</string>
+  <string name="respond_via_sms_canned_response_4">"Не мога да говоря сега. Обади ми се по-късно?"</string>
   <string name="respond_via_sms_confirmation_format">До %s бе изпратено съобщение.</string>
   <string name="respond_via_sms_edittext_dialog_title">Бърз отговор</string>
   <string name="respond_via_sms_setting_title">Бързи отговори</string>

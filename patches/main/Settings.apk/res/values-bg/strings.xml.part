@@ -217,4 +217,6 @@
   <string name="icon_notification_style_title">Икони за известията</string>
   <string name="set_pip_size_title">Размер на прозореца за картина в картината</string>
   <string name="fingerprint_setup_title">Действие на скенера за отпечатъци</string>
+  <string name="miuipro_select_app_title">Настройка на преките пътища за заключен екран</string>
+  <string name="miuipro_select_aod_app_title">Настройване на приложения за известия</string>
 </resources>
