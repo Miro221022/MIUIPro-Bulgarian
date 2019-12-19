@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape android:shape="oval"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="@color/refocus_transparent" />
-    <stroke android:width="4.0px" android:color="@color/refocus_color_menu_blue" />
-</shape>

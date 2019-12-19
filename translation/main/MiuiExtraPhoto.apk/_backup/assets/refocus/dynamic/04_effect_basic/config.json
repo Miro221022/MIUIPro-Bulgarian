@@ -1,8 +1,0 @@
-{
-  "name": "blinking_circle",
-  "icon": "icon.png",
-  "dynamicType": 3,
-  "mask":"mask.png",
-  "totalSecond": 3000,
-  "iconColor": "#82d6c9"
-}

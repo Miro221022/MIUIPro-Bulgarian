@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextView android:textSize="@dimen/motion_photo_popup_window_cover_text" android:textColor="@color/motion_photo_popup_window_cover_text_color" android:gravity="center" android:layout_gravity="center" android:background="@drawable/motion_photo_shape_cover" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android" />
