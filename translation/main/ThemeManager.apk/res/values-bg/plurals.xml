@@ -1,71 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="theme_update_local_resource_notifaction">
-        <item quantity="other">Налични са актуализации за %1$d теми</item>
-        <item quantity="one">Налична е актуализация за %1$d тема</item>
-    </plurals>
-    <plurals name="theme_batch_has_update_text">
-        <item quantity="other">Налични са актуализации за %1$d теми.</item>
-        <item quantity="one">Налична е актуализация за %1$d тема.</item>
-    </plurals>
-	<plurals name="resource_comment_score_count">
-        <item quantity="other">%d коментара</item>
-        <item quantity="one">%d коментар</item>
-    </plurals>
-	<plurals name="theme_designer_products_count">
-        <item quantity="other">%1$s произведения</item>
-        <item quantity="one">%1$s произведение</item>
-    </plurals>
-	    <plurals name="wallpaper_staggered_item_text">
-        <item quantity="other">%1$s | %2$d снимки</item>
-        <item quantity="one">%1$s | %2$d снимка</item>
-    </plurals>
-	    <plurals name="transparent_wallpaper_filter_hint">
-        <item quantity="other">Търсене сред %1$d приложения</item>
-        <item quantity="one">Търсене сред %1$d приложение</item>
-    </plurals>
-	    <plurals name="transparent_wallpaper_filter_result">
-        <item quantity="other">%1$d приложения са намерени</item>
-        <item quantity="one">%1$d приложение е намерено</item>
-    </plurals>
-	    <plurals name="guide_used_number">
-        <item quantity="other">Приложено на %1$d устройства</item>
-        <item quantity="one">Приложено на %1$d устройство</item>
-    </plurals>
-	   <plurals name="detail_update_time_hour">
-        <item quantity="other">Преди %d часа</item>
-        <item quantity="one">Преди %d час</item>
-    </plurals>
-    <plurals name="detail_update_time_minute">
-        <item quantity="other">Преди %d минути</item>
-        <item quantity="one">Преди %d минута</item>
-    </plurals>
-	    <plurals name="wallpaper_quantity">
-        <item quantity="other">%1$d изображения</item>
-        <item quantity="one">%1$d изображение</item>
-    </plurals>
-	    <plurals name="try_3_day">
-        <item quantity="other">3-day free trial (%1$d items left for today)</item>
-        <item quantity="one">3-day free trial (%1$d item left for today)</item>
-    </plurals>
-	    <plurals name="trial_countdown_notification_tip">
-        <item quantity="other">"You'll be able to try \"%2$s\" for free in %1$d hours"</item>
-        <item quantity="one">"You'll be able to try \"%2$s\" for free in %1$d hour"</item>
-    </plurals>
-	    <plurals name="resource_rating">
-        <item quantity="other">%1$.1f точки</item>
-        <item quantity="one">%1$.1f точка</item>
-    </plurals>
-	    <plurals name="de_author_fans_amount">
-        <item quantity="one">%1$d фен</item>
-        <item quantity="other">%1$d фена</item>
-    </plurals>
-    <plurals name="de_author_theme_amount">
-        <item quantity="one">%1$d елемент</item>
-        <item quantity="other">%1$d елемента</item>
-    </plurals>
-    <plurals name="de_more_comment">
-        <item quantity="one">Още %1$d коментар</item>
-        <item quantity="other">Още %1$d коментара</item>
-    </plurals>
+  <plurals name="detail_update_time_hour">
+    <item quantity="other">Преди %d часа</item>
+    <item quantity="one">Преди %d час</item>
+  </plurals>
+  <plurals name="detail_update_time_minute">
+    <item quantity="other">Преди %d минути</item>
+    <item quantity="one">Преди %d минута</item>
+  </plurals>
+  <plurals name="guide_used_number">
+    <item quantity="other">Приложено на %1$d устройства</item>
+    <item quantity="one">Приложено на %1$d устройство</item>
+  </plurals>
+  <plurals name="resource_comment_score_count">
+    <item quantity="other">%d коментара</item>
+    <item quantity="one">%d коментар</item>
+  </plurals>
+  <plurals name="resource_rating">
+    <item quantity="other">%1$.1f точки</item>
+    <item quantity="one">%1$.1f точка</item>
+  </plurals>
+  <plurals name="ringtone_nums">
+    <item quantity="other">%1$s мелодии</item>
+    <item quantity="one">%1$s мелодия</item>
+  </plurals>
+  <plurals name="theme_batch_has_update_text">
+    <item quantity="other">Налични са актуализации за %1$d теми.</item>
+    <item quantity="one">Налична е актуализация за %1$d тема.</item>
+  </plurals>
+  <plurals name="theme_designer_products_count">
+    <item quantity="other">%1$s произведения</item>
+    <item quantity="one">%1$s произведение</item>
+  </plurals>
+  <plurals name="theme_update_local_resource_notifaction">
+    <item quantity="other">Налични са актуализации за %1$d теми</item>
+    <item quantity="one">Налична е актуализация за %1$d тема</item>
+  </plurals>
+  <plurals name="transparent_wallpaper_filter_hint">
+    <item quantity="other">Търсене сред %1$d приложения</item>
+    <item quantity="one">Търсене сред %1$d приложение</item>
+  </plurals>
+  <plurals name="transparent_wallpaper_filter_result">
+    <item quantity="other">%1$d приложения са намерени</item>
+    <item quantity="one">%1$d приложение е намерено</item>
+  </plurals>
+  <plurals name="trial_countdown_notification_tip">
+    <item quantity="other">Ще можете да опитате \"%2$s\" безплатно след %1$d часа</item>
+    <item quantity="one">Ще можете да опитате \"%2$s\" безплатно след %1$d час</item>
+  </plurals>
+  <plurals name="try_3_day">
+    <item quantity="other">3-дневна безплатна пробна версия (%1$d елементи, останали за днес)</item>
+    <item quantity="one">3-дневна безплатна пробна версия (%1$d елемент, останал за днес)</item>
+  </plurals>
+  <plurals name="wallpaper_quantity">
+    <item quantity="other">%1$d изображения</item>
+    <item quantity="one">%1$d изображение</item>
+  </plurals>
+  <plurals name="wallpaper_staggered_item_text">
+    <item quantity="other">%1$s | %2$d снимки</item>
+    <item quantity="one">%1$s | %2$d снимка</item>
+  </plurals>
 </resources>
