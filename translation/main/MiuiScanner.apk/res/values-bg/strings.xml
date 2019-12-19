@@ -70,7 +70,7 @@
     <string name="feedback_description_save_photo">Не може да се запази снимка или видео</string>
     <string name="flash_lable">Светкавица</string>
     <string name="import_contact">Вмъкване на контакт</string>
-    <string name="impunity_declaration_content">"Скенер трябва да използва вашата камера и да обработва изображенията, които заснемате, докато използвате приложението. Не използвайте Скенер, за да правите снимки на обекти, съдържащи ваша лична информация. Чрез докосването на \"Съгласен съм\", вие се съгласявате с нашата &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Политика за поверителност&lt;/a&gt;&lt;/font&gt; и разрешавате на Скенер да се свърже с интернет."</string>
+    <string name="impunity_declaration_content">"Скенер трябва да използва вашата камера и да обработва изображенията, които заснемате, докато използвате приложението. Не използвайте Скенер, за да правите снимки на обекти, съдържащи вашата лична информация. Избирайки \"Приемам\", вие се съгласявате с нашата &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Политика за поверителност&lt;/a>&lt;/font> и разрешавате на приложението да се свърже с интернет."</string>
     <string name="impunity_declaration_negative_text">Изход</string>
     <string name="impunity_declaration_title">Политика за поверителност</string>
     <string name="label_choose_picture">Изберете изображение</string>
@@ -319,4 +319,28 @@
     <string name="store_module_title">Магазин</string>
     <string name="store_no_date">"Магазинът не може да се идентифицира"</string>
     <string name="store_title">Сканирайте знака на магазина</string>
+	<string name="carsHome_title">Кола</string>
+  <string name="cars_is_public">Стартирано</string>
+  <string name="cars_no_public">Не е стартирано</string>
+  <string name="cars_solution">"Решение: "</string>
+  <string name="cars_suitability">"Съвпадение: "</string>
+  <string name="cars_title">Сканирайте кола или части от кола</string>
+  <string name="carshome_data">Техническа поддръжка, предоставена от  Autohome Inc.</string>
+  <string name="copy_tracknum">Копирай проследяващия код</string>
+  <string name="jingdong">JD</string>
+  <string name="kuaidi100_data">С подкрепата на Kuaidi 100</string>
+  <string name="logistics">Бърза доставка</string>
+  <string name="mishop">Mi Store</string>
+  <string name="now_state">"Текущо състояние: "</string>
+  <string name="please_try_again_later">Изчакайте минута или две и опитайте отново</string>
+  <string name="queryNum">Проверете поръчката</string>
+  <string name="query_faile">"Състоянието и подробностите за поръчката все още не са синхронизирани. Проверете поръчката си ръчно."</string>
+  <string name="query_inai">Нека Ми AI да ви помогне</string>
+  <string name="query_more">Още информация</string>
+  <string name="query_tracknum">Проверете поръчката за експресна доставка</string>
+  <string name="see_details">Докоснете, за да видите подробности</string>
+  <string name="taobao">Taobao</string>
+  <string name="waybill_num">"Поръчка: "</string>
+  <string name="xiaoai_dialog">"Опитайте да кажете на Mi AI
+какво искате да сканирате"</string>
 </resources>
