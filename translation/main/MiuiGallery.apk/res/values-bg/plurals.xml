@@ -412,4 +412,8 @@
          <item quantity="one">%d ч.</item>
          <item quantity="other">%d ч.</item>
      </plurals>
+	     <plurals name="album_item_msg_format_new">
+        <item quantity="one">%d албум</item>
+        <item quantity="other">%d албума</item>
+    </plurals>
 </resources>
