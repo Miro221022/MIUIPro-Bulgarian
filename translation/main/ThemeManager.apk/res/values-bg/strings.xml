@@ -801,4 +801,7 @@
   <string name="xiaomi_update_sdk_external_storage_unavailable">Хранилището не е налице, моля, проверете SD картата.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКБ</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
+  <string name="theme_setting_all">Всички теми</string>
+  <string name="wallpaper_setting_all">Всички тапети</string>
+  <string name="wallpaper_setting_live">Живи</string>
 </resources>
