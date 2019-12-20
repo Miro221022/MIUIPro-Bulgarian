@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Придвижване към начало</string>
+  <string name="abc_action_bar_up_description">Придвижване нагоре</string>
+  <string name="abc_action_menu_overflow_description">Още опции</string>
+  <string name="abc_action_mode_done">Готово</string>
+  <string name="abc_activity_chooser_view_see_all">Виж всички</string>
+  <string name="abc_activitychooserview_choose_application">Изберете приложение</string>
+  <string name="abc_capital_off">ИЗКЛ.</string>
+  <string name="abc_capital_on">ВКЛ.</string>
+  <string name="abc_search_hint">Търсене…</string>
+  <string name="abc_searchview_description_clear">Изчистване на заявката</string>
+  <string name="abc_searchview_description_query">Заявка за търсене</string>
+  <string name="abc_searchview_description_search">Търсене</string>
+  <string name="abc_searchview_description_submit">Изпращане на заявката</string>
+  <string name="abc_searchview_description_voice">Гласово търсене</string>
+  <string name="abc_shareactionprovider_share_with">Сподели с</string>
+  <string name="abc_shareactionprovider_share_with_application">Сподели с %s</string>
+  <string name="abc_toolbar_collapse_description">Свиване</string>
   <string name="about_app_name">Относно Теми</string>
   <string name="about_version_update">Какво ново</string>
   <string name="accessibiliy_description_content_account">Профил</string>
@@ -100,15 +117,15 @@
   <string name="desktop_effects">Ефекти за началния екран</string>
   <string name="desktop_wallpaper">Начален екран</string>
   <string name="detail_author_attention_head">Следвайте някои от най-забележителните ни дизайнери</string>
-  <string name="detail_author_fans">"Последователи: "</string>
-  <string name="detail_author_works">"Елементи: "</string>
+  <string name="detail_author_fans">" последователи"</string>
+  <string name="detail_author_works">" елемента"</string>
   <string name="detail_recommend_title">Препоръчани</string>
   <string name="dev_options">Опции на програмиста</string>
   <string name="dev_options_summary">Уеб източници</string>
   <string name="download_failed">Грешка при изтегляне!</string>
   <string name="download_preview_failed">Не може да се зареди визуализация</string>
   <string name="download_success">Изтеглянето завърши</string>
-  <string name="dynamic_video_wallpaper">24H тапет</string>
+  <string name="dynamic_video_wallpaper">Динамичен тапет</string>
   <string name="enable_all_free_mode">Осребряване</string>
   <string name="enable_transparent_wallpaper">Прозрачен тапет</string>
   <string name="enabling_all_free_mode">Осребряване…</string>
@@ -163,7 +180,7 @@
   <string name="gift_owned">Локално</string>
   <string name="gift_present">Подари</string>
   <string name="gift_present_dlg_anonymous">Анонимен подарък</string>
-  <string name="gift_present_dlg_input_hint">Mi ID / Тел. номер</string>
+  <string name="gift_present_dlg_input_hint">Mi ID/Телефонен номер</string>
   <string name="gift_present_dlg_no_fee">Изпращането на подаръци не се таксува от вашия оператор</string>
   <string name="gift_present_dlg_present_max_limit">Темата не може да бъде подарявана повече от %1$s пъти.</string>
   <string name="gift_present_dlg_share">Създаване на код и изпращане</string>
@@ -348,7 +365,7 @@
   <string name="resource_comment_3_star">***</string>
   <string name="resource_comment_4_star">****</string>
   <string name="resource_comment_5_star">*****</string>
-  <string name="resource_comment_all_comments">Всички коентари</string>
+  <string name="resource_comment_all_comments">Всички коментари</string>
   <string name="resource_comment_average_score">Средно</string>
   <string name="resource_comment_bad_comments">Негативни</string>
   <string name="resource_comment_current_version">Текуща версия</string>
@@ -430,7 +447,7 @@
   <string name="resource_exchange_wrong_format_by_server">Кодът не може да бъде потвърден. Моля проверете кода и опитайте отново.</string>
   <string name="resource_expand_full_text">Разшири</string>
   <string name="resource_failed_to_load_list">Темите не могат да се заредят.</string>
-  <string name="resource_free_download">Безплатно изтегляне</string>
+  <string name="resource_free_download">Изтегляне</string>
   <string name="resource_get_auth_checking">Проверка…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на устройството, тъй като сте надвишили лимита за Вашия профил (10). Моля, влезте с друг Mi профил.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Надвишен лимит ауторизации</string>
@@ -505,7 +522,7 @@
   <string name="resource_send">Изпрати</string>
   <string name="resource_server_alert_dialog_title">Сървърът е временно недостъпен</string>
   <string name="resource_server_out_of_service">Сървърът е временно недостъпен, моля опитайте по-късно.</string>
-  <string name="resource_share_subject">Споделям темата: %1$s</string>
+  <string name="resource_share_subject">Споделяне: %1$s</string>
   <string name="resource_share_text">Ето една тема за MIUI, на която може да се насладите: %1$s! Връзка: %2$s</string>
   <string name="resource_share_title">Сподели</string>
   <string name="resource_system_title">Системни ресурси</string>
