@@ -1363,7 +1363,7 @@
   <string name="memory_check_content">Освободени %s</string>
   <string name="memory_clean_memory_size_tip">Кеш</string>
   <string name="memory_clean_no_need_clean">Изглежда всичко е наред</string>
-  <string name="memory_clear_unused">Изчисти кеша (%s)</string>
+  <string name="memory_clear_unused">Изчистване на кеша (%s)</string>
   <string name="menu_add">Добавяне</string>
   <string name="menu_bl_call_log">Покажи блокираните обаждания</string>
   <string name="menu_bl_remove">Деблокирай</string>
@@ -2265,7 +2265,7 @@
   <string name="suggest_app_tolock_masked">Съдържанието е скрито</string>
   <string name="suggest_app_tolock_unmasked">Видими известия</string>
   <string name="suggest_scan_again">Завършете сканирането, за да избегнете рискове в сигурността.</string>
-  <string name="summary_app_lock_disable">Защитете данните си с Заключване на приложения</string>
+  <string name="summary_app_lock_disable">Защитете данните си чрез Заключване на приложения</string>
   <string name="summary_auto_update">MIUI ще избере най-подходящото време за изтегляне и ще инсталира обновленията.</string>
   <string name="summary_background_connection">Ограничихте връзката на заден планза за това приложение.</string>
   <string name="summary_block_calls_from_cantacts">Обажданията от контактите са блокирани.</string>
@@ -2292,11 +2292,11 @@
   <string name="summary_garbage_lib">За да премахвате повече шпионски, рекламни и др. нежелани отпадъци, включете авт. актуализиране на Почистване.</string>
   <string name="summary_install_virus">Проверявай приложенията за вируси преди инсталиране</string>
   <string name="summary_mifi_insurance">Вземете едногодишен план за замяна на устройството, в случай на сериозна повреда</string>
-  <string name="summary_miui_update">Налична е актуализация за %s.</string>
+  <string name="summary_miui_update">Налична е актуализация %s.</string>
   <string name="summary_mms">Филтрирай нежеланите съобщения (реклами, спам и др.)</string>
   <string name="summary_network_switch">Разрешаване на Сигурност да се свърже с интернет</string>
   <string name="summary_never_flow_verify">Не фиксирай обем на използвани данни</string>
-  <string name="summary_payment_risk">Плащането с устройството не е сигурно</string>
+  <string name="summary_payment_risk">"Плащането с устройството не е безопасно"</string>
   <string name="summary_permission">Защитавай поверителността ми пред приложения от трети страни</string>
   <string name="summary_permission_root">Използването на Root достъп може да понижи защитата на устройството.</string>
   <string name="summary_power_optimizer">За удължаване на живота на батерията, спест. на батерия ще намали производителността когато остава малко заряд.</string>
@@ -2507,7 +2507,7 @@
   <string name="title_flow_rank">Използване на мобилен план за данни</string>
   <string name="title_flow_verify">Инф. за използваните данни от оператора</string>
   <string name="title_flow_verify_failed">Не може да се настрои за 5 дни на ред</string>
-  <string name="title_garbage_clean">Размерът на кеша на приложението достигна %s</string>
+  <string name="title_garbage_clean">Размерът на кеша на приложенията е достигнал %s</string>
   <string name="title_garbage_less">Кешът на приложенията е малко</string>
   <string name="title_garbage_lib">Актуализирайте дефинициите за ненужни файлове</string>
   <string name="title_install_virus_no">Контролът при инсталиране е изключен</string>
@@ -2537,7 +2537,7 @@
   <string name="title_telecom_operator">Автоматични настройки</string>
   <string name="title_usb_no">Отстр. USB грешки е включено</string>
   <string name="title_usb_yes">Отстр. USB грешки е изключено</string>
-  <string name="title_virus_cloudscan">Сканирай за вируси облачното хранилище</string>
+  <string name="title_virus_cloudscan">Облачно сканиране на вируси</string>
   <string name="title_virus_no">Открит е вирус</string>
   <string name="title_virus_update_no">Автоматичното обновяване на вирусните дефиниции е изключено</string>
   <string name="title_virus_update_yes">Автоматичното обновяване на вирусните дефиниции е включено</string>
