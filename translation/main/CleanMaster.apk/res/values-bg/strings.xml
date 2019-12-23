@@ -522,16 +522,16 @@
   <string name="recommend_news">Получаване на препоръки</string>
   <string name="recommend_the_following">Направете следните действия, за да получите повече от вашето устройство</string>
   <string name="recommended">Препоръчани</string>
-  <string name="resutl_function_deep_clean_summary">" \"&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; повече файлове могат да бъдат изчистени. Освободете повече място.&lt;/Data&gt;\" "</string>
+  <string name="resutl_function_deep_clean_summary"><Data>Още&lt;font color=#ff0000 >%1$s&lt;/font> могат да бъдат почистени. Освободете повече място.</Data></string>
   <string name="resutl_function_qq_clean_summary">" \"&lt;Data&gt;Можете да изчистите &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; на кеша, генериран от QQ&lt;/Data&gt;\" "</string>
   <string name="resutl_function_wechat_clean_summary">" \"&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; на кеша на WeChat. Освободете повече място.&lt;/Data&gt;\" "</string>
-  <string name="sc_allow_network_dialog_button">Приемам</string>
-  <string name="sc_allow_network_dialog_message">Приемате ли приложението да се свързва с интернет за получаване на актуализации?</string>
+  <string name="sc_allow_network_dialog_button">Разреши</string>
+  <string name="sc_allow_network_dialog_message">Да се разреши ли това приложение да се свърже с интернет, за да получава актуализации?</string>
   <string name="scanning">Сканира се…</string>
   <string name="search_history">История на търсенията</string>
   <string name="security_center_slogan">Поддържайте устройството си бързо и сигурно</string>
   <string name="see_more">Още</string>
-  <string name="set_immediately">Настрой</string>
+  <string name="set_immediately">Настройка</string>
   <string name="seton_immediately">Включване</string>
   <string name="share">Споделяне</string>
   <string name="similar_image_desc">Изтриване на подобни снимки</string>
@@ -541,7 +541,7 @@
   <string name="sponsored">Спонсорирани</string>
   <string name="start_downloading_app">Начало на изтегляне：%1$s</string>
   <string name="start_install">Начало на инсталация</string>
-  <string name="summary_auto_cleaner">Да се получават ли известия, когато размерът на кошчето достигне 100 Mб?</string>
+  <string name="summary_auto_cleaner">Получаване на известия, когато размерът на непотребните файлове достигне 100 MБ?</string>
   <string name="summary_delete_apk">Да се изтрият ли избраните APK за постоянно?</string>
   <string name="summary_delete_cache">Някой приложения може да имат нужда от тези данни, за да работят нормално.</string>
   <string name="summary_delete_large_file">Някой от големите файлове са полезни когато нямате връзка с интернет (напр. карти, графици и т.н.).Уверете се, че не се нуждаете от този файл.</string>
