@@ -231,7 +231,7 @@
   <string name="contextmenu_download_image">Запази снимката</string>
   <string name="contextmenu_download_image_as">Запази изображението като</string>
   <string name="contextmenu_incognito">Режим Инкогнито</string>
-  <string name="contextmenu_manually_block_ad">Обозначете като реклама</string>
+  <string name="contextmenu_manually_block_ad">Маркиране като реклама</string>
   <string name="contextmenu_map">Карта</string>
   <string name="contextmenu_openlink">Отвори</string>
   <string name="contextmenu_openlink_in_browser">Отвори в Браузъра</string>
@@ -727,7 +727,7 @@
   <string name="pref_accessibility_url_shortcut_enter_title">Бързо въвеждане на URL адрес</string>
   <string name="pref_adblock_counts">%d блокиран</string>
   <string name="pref_adblock_title">Блокиране на реклами</string>
-  <string name="pref_advert_null">Няма елементи, означени като реклами. Натиснете и задръжте елемент от уеб страницата, за да го маркирате.</string>
+  <string name="pref_advert_null">Няма елементи, маркирани като реклами. Натиснете и задръжте елемент от уеб страницата, за да го маркирате.</string>
   <string name="pref_auto_update_under_wifi">Автоматично актуализиране чрез Wi-Fi</string>
   <string name="pref_automatic_matching_searchengines_title">Превключи на най-често използваната търсачка</string>
   <string name="pref_cancel_screen">Отключване</string>
@@ -754,7 +754,7 @@
   <string name="pref_content_search_engine_summary">Избор на търсачка</string>
   <string name="pref_debug_mode">Режим на отстраняване на грешки</string>
   <string name="pref_download_setting">Настройки за изтегляне</string>
-  <string name="pref_enable_adblock_notification">Известия за блок. на реклами</string>
+  <string name="pref_enable_adblock_notification">Известия при блокиране на реклами</string>
   <string name="pref_enable_news">Новини</string>
   <string name="pref_enable_novels">Книги</string>
   <string name="pref_enable_videos">Видео</string>
@@ -774,7 +774,7 @@
   <string name="pref_force_userscalable">Принудително мащабиране</string>
   <string name="pref_force_userscalable_summary">Замяна на заявката на уебсайта, да контролира поведението при мащабиране</string>
   <string name="pref_general_title">Общи</string>
-  <string name="pref_label_advert_manager">Управление на означените реклами</string>
+  <string name="pref_label_advert_manager">Управление на маркираните реклами</string>
   <string name="pref_nav_mode_summary_pad">Таблет</string>
   <string name="pref_nav_mode_summary_phone">Телефон</string>
   <string name="pref_nav_mode_title">Работен плот</string>
