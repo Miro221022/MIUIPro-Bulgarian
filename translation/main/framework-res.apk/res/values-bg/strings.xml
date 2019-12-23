@@ -685,7 +685,7 @@
     <string name="menu_space_shortcut_label">интервал</string>
     <string name="menu_enter_shortcut_label">enter</string>
     <string name="menu_delete_shortcut_label">изтриване</string>
-    <string name="search_hint">Търсете…</string>
+    <string name="search_hint">Търсене…</string>
     <string name="searchview_description_search">Търсене</string>
     <string name="searchview_description_query">Заявка за търсене</string>
     <string name="searchview_description_clear">Изчистване на заявката</string>
