@@ -17,7 +17,7 @@
     <string name="unknownName">Неизвестно</string>
     <string name="untitled">&lt;Без заглавие></string>
     <string name="VideoView_error_button">OK</string>
-    <string name="VideoView_error_text_unknown">Този видеоклип не може да се пусне.</string>
+    <string name="VideoView_error_text_unknown">Този видеоклип не може да се изпълни.</string>
     <string name="VideoView_error_title">Проблем с видеоклипа</string>
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Внимание</string>
@@ -81,12 +81,12 @@
     <string name="RuacMmi">Отхвърляне на нежелани дразнещи обаждания</string>
     <string name="CndMmi">Идентификация на повикванията</string>
     <string name="DndMmi">Не безпокойте</string>
-    <string name="CLIRDefaultOnNextCallOn">Стандартната идентификация на повикванията е „забранено“. За следващото обаждане тя е забранена.</string>
-    <string name="CLIRDefaultOnNextCallOff">Стандартната идентификация на повикванията е „забранено“. За следващото обаждане тя е разрешена.</string>
-    <string name="CLIRDefaultOffNextCallOn">Стандартната идентификация на повикванията е „разрешено“. За следващото обаждане тя е забранена.</string>
-    <string name="CLIRDefaultOffNextCallOff">Стандартната идентификация на повикванията е „разрешено“. За следващото обаждане тя е разрешена.</string>
+    <string name="CLIRDefaultOnNextCallOn">По подразбиране идентификацията на обаждащия се е забранена. Следващо повикване: Забранено</string>
+    <string name="CLIRDefaultOnNextCallOff">По подразбиране идентификацията на обаждащия се е забранена. Следващо повикване: Разрешено.</string>
+    <string name="CLIRDefaultOffNextCallOn">По подразбиране идентификацията на обаждащия се е забранена. Следващо повикване: Забранено.</string>
+    <string name="CLIRDefaultOffNextCallOff">По подразбиране идентификацията на обаждащия се е забранена. Следващо повикване: Разрешено.</string>
     <string name="serviceNotProvisioned">Услугата не е обезпечена.</string>
-    <string name="CLIRPermanent">Не можете да променяте настройката за идентификация на обажданията.</string>
+    <string name="CLIRPermanent">"Не можете да промените настройката за идентификация на обаждащия се."</string>
     <string name="RestrictedOnData">Услугата за данни е блокирана.</string>
     <string name="RestrictedOnEmergency">Услугата за спешни обаждания е блокирана.</string>
     <string name="RestrictedOnNormal">Услугата за глас е блокирана.</string>
