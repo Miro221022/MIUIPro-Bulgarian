@@ -1544,7 +1544,7 @@
   <string name="user_agreement2">Условия за ползване</string>
   <string name="user_agreement4">Политика на поверителност</string>
   <string name="user_alias_self">Аз</string>
-  <string name="user_notice_identify_summary_format">Използвайки тази услуга, вие се съгласявате с %1$s и %2$s на Xiaomi.</string>
+  <string name="user_notice_identify_summary_format"><Data>"Използвайки тази услуга, вие се съгласявате с &lt;a href=\"%1$s\">\"Условията за ползване\"&lt;/a> и &lt;a href=\"%2$s\">\"Политиката за поверителност\"&lt;/a> на Xiaomi."</Data></string>
   <string name="user_notice_title">Внимание</string>
   <string name="video_edit_file_not_exits_tip">Първо трябва да изтеглите видеото</string>
   <string name="video_editor_abandon_changes_tip_message">Отмяна на всички промени?</string>
@@ -1774,4 +1774,7 @@
     <string name="remove_single_album_from_rubbish_page_tip">Възстановяване на избраните албуми?</string>
     <string name="rubbish_album_move_to_other_album_success">Можете да видите тези елементи в \"Други албуми\".</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Преместено в кошчето успешно</string>
+	<string name="risk_control_deleted_message">Някой е изтрил вашите елементи от галерията в облака чрез %3$s на %1$s в %2$s. Вие ли бяхте това?</string>
+    <string name="risk_control_deleted_title">Предупреждение за сигурност</string>
+    <string name="trash_bin_summary_local">Преглеждайте наскоро изтрити снимки и видеоклипове</string>
 </resources>

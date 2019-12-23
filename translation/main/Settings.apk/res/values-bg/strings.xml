@@ -6678,4 +6678,19 @@ OTG се изключва автоматично след 10 минути без
 	<string name="close_hotspot_hint">Изключване на горщата точка преди излъчване</string>
 	<string name="close_slave_wifi_hint">Прекъсване на връзката със спомагателните WLAN мрежи преди излъчване</string>
 	<string name="video_tool_box_title">Видео инструменти</string>
+	<string name="gps_description">Поддържат се няколко сателитни навигационни системи (GPS, BeiDou, GLONASS, Galileo)</string>
+	<string name="default_suppression_title">По подразбиране (препоръчително)</string>
+    <string name="diy_suppression_summary">При необходимост коригирайте размера на зоната за противодействие</string>
+    <string name="diy_suppression_title">Персонализиране</string>
+    <string name="edge_mode_state_summary">Задайте ръба на извития екран, за да предотвратите случайно докосване. Действията за захващане и докосване в тази област няма да оказват вличние.</string>
+	<string name="edge_mode_state_title">Защита на ръба срещу случайно докосване</string>
+    <string name="seek_bar_info">Регулирайте размера на зоната против случайно докосване
+</string>
+    <string name="strong_suppression_summary">Голяма зона против докосване, по-добър ефект, но това ще пожертва известно преживяване на манипулацията на ръба
+</string>
+    <string name="strong_suppression_title">Силен режим на допир</string>
+    <string name="wake_suppression_summary">По-малка зона за докосване, по-чувствителна реакция на ръба, но увеличена вероятност от фалшиво докосване
+</string>
+    <string name="wake_suppression_title">Слаб анти-фалшив режим на докосване
+</string>
 </resources>

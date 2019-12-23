@@ -976,4 +976,9 @@
     <string name="international_new_trans_intro_question_8">"8. Защо не могат да се прехвърлят текстови съобщения и данните на някои приложения от трети страни?"</string>
     <string name="international_scanner_send_dialog_message">"Текстовите съобщения и данните на някои приложения от трети страни не могат да бъдат прехвърлени. Не изключвайте Wi-Fi или не превключвайте между мрежите по време на прехвърлянето."</string>
     <string name="scanner_wechat_overwrite_hit">Поради ограничения за приложения от трети страни, историята на чатовете и други данни за приложенията на новото ви устройство ще бъдат заменени с тези от старото, след като прехвърлянето приключи.</string>
+	<string name="back">Назад</string>
+    <string name="next">Следващо</string>
+    <string name="selected">Избрано</string>
+    <string name="skip_underline">Пропусни тази стъпка</string>
+    <string name="unselected">Не е избрано</string>
 </resources>

@@ -302,4 +302,7 @@
   <string name="search_hint">Търсене</string>
   <string name="cancel_rename">Отказ</string>
   <string name="loading_more">Една секунда…</string>
+  <string name="delete_cloud_data_at_same_time">Изтриване също и от облака</string>
+  <string name="preference_record_desktop_indicator_summary">Показване на син индикатор на началния екран, когато приложението работи във фонов режим</string>
+  <string name="preference_record_desktop_indicator_title">Индикатор на началния екран</string>
 </resources>

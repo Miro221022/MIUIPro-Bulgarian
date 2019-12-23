@@ -233,4 +233,5 @@
 	<string name="restoring_data">Възстановяване на данни…</string>
 	<string name="restoring_home_screen_apps">Възстановяване от Xiaomi Облак…</string>
 	<string name="loading_progress_num">Заредени %s%%</string>
+	<string name="restore_from_mimover">Прехвърляне от старото ви устройство чрез Mi Трансфер</string>
 </resources>

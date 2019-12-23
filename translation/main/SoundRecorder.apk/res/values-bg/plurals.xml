@@ -28,4 +28,12 @@
         <item quantity="other">Намерени са %d записа</item>
         <item quantity="one">Намерен е %d запис</item>
     </plurals>
+	    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Изтриване на %d записа от облака?</item>
+        <item quantity="one">Изтриване на %d запис от облака?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">Изтриване на %d записа?</item>
+        <item quantity="one">Изтриване на %d запис?</item>
+    </plurals>
 </resources>

@@ -1897,4 +1897,9 @@
    <string name="quick_settings_cellular_detail_unable_change">"Не може да се зададе по време на разговор"</string>
    <string name="ime_security_warning_global">Методите за въвеждане е възможно да събират целия текст, който въвеждате, включително лични данни като пароли и номера на кредитни карти. Ще използвате ли %1$s?</string>
    <string name="ime_security_warning_title_global">Включване на клавиатурата</string>
+   <string name="accessibility_status_bar_no_slave_wifi">Спомагателната WLAN е изключена</string>
+   <string name="accessibility_status_bar_slave_wifi_four_bars">Спомагателна WLAN четири черти</string>
+   <string name="accessibility_status_bar_slave_wifi_one_bar">Спомагателна WLAN една черта</string>
+   <string name="accessibility_status_bar_slave_wifi_three_bars">Спомагателна WLAN три черти</string>
+   <string name="accessibility_status_bar_slave_wifi_two_bars">Спомагателна WLAN две черти</string>
 </resources>
