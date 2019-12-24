@@ -219,4 +219,5 @@
   <string name="fingerprint_setup_title">Действие на скенера за отпечатъци</string>
   <string name="miuipro_select_app_title">Настройка на преките пътища за заключен екран</string>
   <string name="miuipro_select_aod_app_title">Настройване на приложения за известия</string>
+  <string name="miuipro_select_quick_app_title">Задаване на приложения към прекия път</string>
 </resources>

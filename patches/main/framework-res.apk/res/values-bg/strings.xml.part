@@ -19,4 +19,5 @@
     <string name="mcat_7">Натиснете отново, за изход</string>
     <string name="mcat_8">Политика за поверителност</string>
     <string name="mcat_9">Изискват се разрешения</string>
+	<string name="miuipro_select_app_off">Няма зададени приложения</string>
 </resources>

@@ -1290,4 +1290,7 @@
      <string name="bind_simcard_no_dual">"Не са намерени 2 SIM"</string>
      <string name="bind_simcard_not_set">Не е зададено</string>
      <string name="bind_simcard_title">SIM по подразбиране за повиквания</string>
+	 <string name="confirm_delete_cloud_all_call_logs">Изтриване на всички записи в историята на обажданията, свързани с %s от облака и това устройство?</string>
+     <string name="deleteCloudConfirmationDetail">Изтрийте информацията за контакта %s от облака и това устройство?</string>
+     <string name="no_phone_no_shortcut">"Не може да се създадат преки пътища за контакти без телефонни номера"</string>
 </resources>
