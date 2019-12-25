@@ -131,7 +131,7 @@
   <string name="edit_event_birthday_name_hint">Име</string>
   <string name="edit_event_calendar_label">Календар</string>
   <string name="edit_event_choose_date">Изберете дата</string>
-  <string name="edit_event_confirm_message">Да се отменят ли промените в събитието?</string>
+  <string name="edit_event_confirm_message">Отхвърляне на промените?</string>
   <string name="edit_event_countdown_name_empty_hint">Въведете име на събитието</string>
   <string name="edit_event_countdown_name_hint">Събитие</string>
   <string name="edit_event_custom_reminder_time_dup">Персонализирано напомняне: %1$s</string>
