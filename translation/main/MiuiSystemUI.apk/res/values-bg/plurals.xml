@@ -8,13 +8,9 @@
     <item quantity="other">Последно използвани, налични приложения: %d. Плъзнете нагоре за да ги премахнете или плъзнете надолу, за да ги заключите.</item>
     <item quantity="one">Последно използвани, налично приложение: %d. Плъзнете нагоре за да го премахнете или плъзнете надолу, за да го заключите.</item>
   </plurals>
-  <plurals name="block_record_notification_more_text">
-    <item quantity="other">Скрити известия от %1$s и %2$d приложения.</item>
-    <item quantity="one">Скрити известия от %1$s и %2$d приложение.</item>
-  </plurals>
-  <plurals name="disable_notification_confirm_title">
-    <item quantity="other">Скрий известията от %d прил?</item>
-    <item quantity="one">Скрий известията от това прил?</item>
+  <plurals name="auto_disconnect_timer_tip">
+    <item quantity="other">Прикачаване след %1$d секунди</item>
+    <item quantity="one">Прикачаване след %1$d секунда</item>
   </plurals>
   <plurals name="fold_tips_title">
     <item quantity="other">%d маловажни известия</item>
@@ -28,17 +24,13 @@
     <item quantity="other">Невалиден PUK код, %d опита остават</item>
     <item quantity="one">Невалиден PUK код, %d опит остава</item>
   </plurals>
-  <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-    <item quantity="other">Остават %d часа докато се зареди</item>
-    <item quantity="one">Остава %d час докато се зареди</item>
+  <plurals name="input_password_after_timeout_msg">
+    <item quantity="other">Въвеждайте паролата си поне веднъж на всеки %d часа, за да я запомните</item>
+    <item quantity="one">Въвеждайте паролата си поне веднъж на всеки %d час, за да я запомните</item>
   </plurals>
-  <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-    <item quantity="other">Остават %d мин докато се зареди</item>
-    <item quantity="one">Остава %d мин докато се зареди</item>
-  </plurals>
-  <plurals name="keyguard_charging_info_charging_full_need_time__text">
-    <item quantity="other">Остават %1$d часа и %2$d мин докато се зареди</item>
-    <item quantity="one">Остава %1$d час и %2$d мин докато се зареди</item>
+  <plurals name="input_pattern_after_timeout_msg">
+    <item quantity="other">Въвеждайте паролата си поне веднъж на всеки %d часа, за да я запомните</item>
+    <item quantity="one">Въвеждайте паролата си поне веднъж на всеки %d час, за да я запомните</item>
   </plurals>
   <plurals name="keyguard_charging_info_could_use_hour_time_text">
     <item quantity="other">Остават %d часа</item>
@@ -63,6 +55,18 @@
   <plurals name="keyguard_charging_info_drained_time_format">
     <item quantity="other">%1$d часа и %2$d минути</item>
     <item quantity="one">%1$d час и %2$d минута</item>
+  </plurals>
+  <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+    <item quantity="other">Остават %d часа</item>
+    <item quantity="one">Остава %d час</item>
+  </plurals>
+  <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+    <item quantity="other">Остават %d минути</item>
+    <item quantity="one">Остава %d минута</item>
+  </plurals>
+  <plurals name="keyguard_extreme_power_info_could_use_time_text">
+    <item quantity="other">Остават %1$d ч %2$d м</item>
+    <item quantity="one">Остава %1$d ч %2$d м</item>
   </plurals>
   <plurals name="kg_password_default_pin_message">
     <item quantity="other">Въведете PIN код, имате още %d оставащи опита.</item>
@@ -104,14 +108,14 @@
     <item quantity="other">още %s известия отвътре.</item>
     <item quantity="one">още %s известие отвътре.</item>
   </plurals>
+  <plurals name="notification_num_channels">
+    <item quantity="other">%d категории за известяване</item>
+    <item quantity="one">%d категория за известяване</item>
+  </plurals>
   <plurals name="notification_num_channels_desc">
     <item quantity="other">1 от %d категории за известяване от това приложение</item>
     <item quantity="one">1 от %d категория за известяване от това приложение</item>
   </plurals>
-    <plurals name="notification_num_channels">
-    <item quantity="other">%d категории за известяване</item>
-    <item quantity="one">%d категория за известяване</item>
-    </plurals>
   <plurals name="phone_locked_timeout_minutes_string">
     <item quantity="other">Опитайте отново след %d минути</item>
     <item quantity="one">Опитайте отново след %d минута</item>
@@ -132,32 +136,8 @@
     <item quantity="other">Ясно</item>
     <item quantity="one">Слънчево</item>
   </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-    <item quantity="other">Остават %d часа</item>
-    <item quantity="one">Остава %d час</item>
-   </plurals>
-   <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-    <item quantity="other">Остават %d минути</item>
-    <item quantity="one">Остава %d минута</item>
-   </plurals>
-   <plurals name="keyguard_extreme_power_info_could_use_time_text">
-    <item quantity="other">Остават %1$d ч %2$d м</item>
-    <item quantity="one">Остава %1$d ч %2$d м</item>
-   </plurals>
-   <plurals name="input_password_after_timeout_msg">
-      <item quantity="other">Въвеждайте паролата си поне веднъж на всеки %d часа, за да я запомните</item>
-      <item quantity="one">Въвеждайте паролата си поне веднъж на всеки %d час, за да я запомните</item>
-   </plurals>
-   <plurals name="input_pattern_after_timeout_msg">
-       <item quantity="other">Въвеждайте паролата си поне веднъж на всеки %d часа, за да я запомните</item>
-       <item quantity="one">Въвеждайте паролата си поне веднъж на всеки %d час, за да я запомните</item>
-    </plurals>
-	    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sчаса %2$s"</item>
-		<item quantity="one">" %1$sчас %2$s"</item>
-    </plurals>
-	    <plurals name="auto_disconnect_timer_tip">
-        <item quantity="other">Прикачаване след %1$d секунди</item>
-        <item quantity="one">Прикачаване след %1$d секунда</item>
-    </plurals>
+  <plurals name="wifi_tether_connected_summary">
+    <item quantity="other">%1$d свързани устройства</item>
+    <item quantity="one">%1$d свързано устройство</item>
+  </plurals>
 </resources>
