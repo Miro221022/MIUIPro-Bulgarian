@@ -2862,7 +2862,7 @@
   <string name="game_manual_record_setting_peace">和平精英</string>
   <string name="game_manual_record_setting_setting">Относно тази функция</string>
   <string name="game_manual_record_setting_title">Ключови моменти</string>
-  <string name="gamebox_manual_record">精彩录制</string>
+  <string name="gamebox_manual_record">Запис</string>
   <string name="gb_dialog_record_way_ai">Интелиентните записи се запазват в кутията за игри и се съхраняват там в продължение на 7 дни.</string>
   <string name="gb_dialog_record_way_finish">Готово</string>
   <string name="gb_dialog_record_way_manual">Записвайте видеоклипове с дължина до 30 секунди ръчно</string>
