@@ -286,4 +286,9 @@
   <string name="yes_vote_ratio">За %1$s%%</string>
   <string name="your_location">Вашето местоположение</string>
   <string name="widget_cta_not_agree">Докоснете, за да получите информация за времето</string>
+  <string name="manager_city_option_add_city_back_search">Назад към търсенето</string>
+  <string name="manager_city_option_add_city_content">Този град е успешно добавен към началната страница</string>
+  <string name="manager_city_option_add_city_title">Добавено успешно</string>
+  <string name="manager_city_option_add_home">Добавяне към начална страница</string>
+  <string name="manager_city_option_view_on_home">Преглед на началната страница</string>
 </resources>
