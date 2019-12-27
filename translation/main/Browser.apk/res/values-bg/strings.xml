@@ -680,7 +680,7 @@
   <string name="pref_content_simple_homepage">Опростена начална страница</string>
   <string name="pref_debug_mode">Режим на отстраняване на грешки</string>
   <string name="pref_download_setting">Настройки за изтегляне</string>
-  <string name="pref_enable_adblock_notification">Известия при блокиране на реклами</string>
+  <string name="pref_enable_adblock_notification">Известия при блокиране</string>
   <string name="pref_extras_devopt">Опции за програмисти</string>
   <string name="pref_extras_reset_default">Възстанови по подразбиране</string>
   <string name="pref_extras_reset_default_dlg">Да възстановя ли настройките по подразбиране?</string>

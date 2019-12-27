@@ -225,8 +225,8 @@
   <string name="in_the_end">Няма повече елементи за показване</string>
   <string name="incall_show_apply">Задаване като профилно видео</string>
   <string name="incall_show_apply_fail">Не може да се зададе</string>
-  <string name="incall_show_apply_success">Зададено успешно</string>
-  <string name="incall_show_apply_success_without_ringtone">Задайте профилно видео за изходящи повиквания.\nТова видео няма звук. Другият човек ще чуе неговият тон на звънене, докато се изпълнява.</string>
+  <string name="incall_show_apply_success">Приложено е успешно. За да изключите тази функция,\nотидете в Настройки &gt; Звук и вибрация &gt; Профилно видео.</string>
+  <string name="incall_show_apply_success_without_ringtone">Приложено е успешно. Този видеоклип няма звук. Ще се използва оригиналния тон за звънене.\nЗа да изключите тази функция, отидете в Настройки &gt; Звук и вибрация &gt; Профилно видео.</string>
   <string name="incall_show_find_more">Намерете още</string>
   <string name="incall_show_not_set">Няма профилни клипове</string>
   <string name="incall_show_remove">Премахване на профилно видео</string>
@@ -360,11 +360,11 @@
   <string name="resource_category">Категория</string>
   <string name="resource_clear_search_history">Изчистване на историята на търсенията</string>
   <string name="resource_clear_search_history_dialog">Да се изчисти ли историята на търсенията?</string>
-  <string name="resource_comment_1_star">*</string>
-  <string name="resource_comment_2_star">**</string>
-  <string name="resource_comment_3_star">***</string>
-  <string name="resource_comment_4_star">****</string>
-  <string name="resource_comment_5_star">*****</string>
+  <string name="resource_comment_1_star">1 звезда</string>
+  <string name="resource_comment_2_star">2 звезди</string>
+  <string name="resource_comment_3_star">3 звезди</string>
+  <string name="resource_comment_4_star">4 звезди</string>
+  <string name="resource_comment_5_star">5 звезди</string>
   <string name="resource_comment_all_comments">Всички коментари</string>
   <string name="resource_comment_average_score">Средно</string>
   <string name="resource_comment_bad_comments">Негативни</string>
@@ -801,7 +801,4 @@
   <string name="xiaomi_update_sdk_external_storage_unavailable">Хранилището не е налице, моля, проверете SD картата.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКБ</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
-  <string name="theme_setting_all">Всички теми</string>
-  <string name="wallpaper_setting_all">Всички тапети</string>
-  <string name="wallpaper_setting_live">Живи</string>
 </resources>
