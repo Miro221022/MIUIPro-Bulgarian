@@ -1293,4 +1293,6 @@
 	 <string name="confirm_delete_cloud_all_call_logs">Изтриване на всички записи в историята на обажданията, свързани с %s от облака и това устройство?</string>
      <string name="deleteCloudConfirmationDetail">Изтрийте информацията за контакта %s от облака и това устройство?</string>
      <string name="no_phone_no_shortcut">"Не може да се създадат преки пътища за контакти без телефонни номера"</string>
+	 <string name="delete_conference_call_log_message">Да се изтрият ли всички записи на конферентни разговори, свързани с този контакт сега?</string>
+     <string name="delete_conference_call_log_title">Изтриване на записи от конферентни разговори</string>
 </resources>
