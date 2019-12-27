@@ -1568,4 +1568,5 @@
   <string name="zen_mode_forever">Докато не изключите това</string>
   <string name="zen_mode_forever_dnd">Докато не изключите „Не безпокойте“</string>
   <string name="zen_mode_until">До %1$s</string>
+  <string name="slatoast">Използването на мобилни данни за повишаване на скоростта може да консумира мобилни данни</string>
 </resources>
