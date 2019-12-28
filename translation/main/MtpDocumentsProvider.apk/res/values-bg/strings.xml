@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">MTP Host</string>
+    <string name="downloads_app_label">Изтегляния</string>
+    <string name="root_name">%1$s %2$s</string>
+    <string name="accessing_notification_title">Достъп до файлове от %1$s</string>
+    <string name="error_busy_device">"Другото устройство е заето. Не можете да прехвърляте файлове, докато не са налични."</string>
+    <string name="error_locked_device">Не са намерени файлове. Другото устройство може да е заключено. Ако е така, отключете го и опитайте отново.</string>
+</resources>
