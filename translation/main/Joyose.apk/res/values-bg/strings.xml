@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_settings">Настройки</string>
+  <string name="activity_title_fakecell">Защита от фалшиви базови станции</string>
+  <string name="app_name">StepsProvider</string>
+  <string name="booster_config_version">Текуща версия:</string>
+  <string name="cc_version">Текуща версия:</string>
+  <string name="connect_wifi">Не е свързан с Wi-Fi</string>
+  <string name="detect_fakecell">Разпознаване на SMS от фалшиви базови станции</string>
+  <string name="forbidden_fakecell">Не се свързвайте с фалшиви базови станции</string>
+  <string name="forbidden_fakecell_summary">Предотвратете телефона си да се свързва с фалшиви базови станции</string>
+  <string name="foreground_text">Използвайте услугите на преден план, за да повишите нивото на приоритет</string>
+  <string name="foreground_title">Услуги на преден план</string>
+  <string name="hello_world">Здравей свят!</string>
+  <string name="joyose_name">Joyose</string>
+  <string name="lab_switch_server">Превключване на сървъри</string>
+  <string name="not_support_forbidden_fakecell">Вашето устройство не поддържа защита от ниво на чипове от фалшиви базови станции.</string>
+  <string name="open_cta">Разрешете на това приложение да се свърже с интернет в Сигурност.</string>
+  <string name="permstep_description">Разрешете на това приложение да има достъп до броя на крачките ви</string>
+  <string name="permstep_label">Достъп до броя на крачките</string>
+  <string name="restart_details">Включването или изключването на тази функция изисква рестартиране на вашето устройство. Рестартиране сега?</string>
+  <string name="restart_later">По-късно</string>
+  <string name="restart_now">Рестартирай сега</string>
+  <string name="stop_sync">Да се спре ли автоматичното синхронизиране?</string>
+  <string name="support_forbidden_fakecell">Забележка: Ограничаването на връзката с фалшиви базови станции може да намали сигнала в области с лошо покритие.</string>
+  <string name="switch_international">Преминаване към глобален сървър</string>
+  <string name="switch_to_official">Преминаване към официален сървър</string>
+  <string name="switch_to_staging">Преминете към междинния сървър</string>
+  <string name="unknown_error">Неизвестна грешка</string>
+  <string name="update_success">Актуализирано успешно</string>
+</resources>
