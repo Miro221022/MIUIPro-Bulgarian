@@ -1,51 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="copy_begin">
-        <item quantity="other">Копират се %1$d файла.</item>
-        <item quantity="one">Копира се %1$d файл.</item>
-    </plurals>
-    <plurals name="move_begin">
-        <item quantity="other">%1$d файла се преместват.</item>
-        <item quantity="one">%1$d файл се премества.</item>
-    </plurals>
-    <plurals name="deleting">
-        <item quantity="other">Изтриват се %1$d файла.</item>
-        <item quantity="one">Изтрива се %1$d файл.</item>
-    </plurals>
-    <plurals name="copy_error_notification_title">
-        <item quantity="other">%1$d файла не можаха да се копират</item>
-        <item quantity="one">%1$d файл не можа да се копира</item>
-    </plurals>
-    <plurals name="move_error_notification_title">
-        <item quantity="other">%1$d файла не можаха да бъдат преместени</item>
-        <item quantity="one">%1$d файл не можа да бъде преместен</item>
-    </plurals>
-    <plurals name="delete_error_notification_title">
-        <item quantity="other">%1$d файла не можаха да бъдат изтрити</item>
-        <item quantity="one">%1$d файл не можа да бъде изтрит</item>
-    </plurals>
-    <plurals name="clipboard_files_clipped">
-        <item quantity="other">Копирахте %1$d файла в буферната памет.</item>
-        <item quantity="one">Копирахте %1$d файл в буферната памет.</item>
-    </plurals>
-    <plurals name="elements_selected">
-   <item quantity="other">%1$d избрани</item>
-   <item quantity="one">%1$d избран</item>
-    </plurals>
-    <plurals name="elements_dragged">
-        <item quantity="other">%1$d елемента</item>
-        <item quantity="one">%1$d елемент</item>
-    </plurals>
-    <plurals name="delete_files_confirmation_message">
-        <item quantity="other">Искате ли да изтриете %1$d файла?</item>
-        <item quantity="one">Искате ли да изтриете %1$d файл?</item>
-    </plurals>
-    <plurals name="delete_folders_confirmation_message">
-        <item quantity="other">Искате ли да изтриете %1$d папки и съдържанието в тях?</item>
-        <item quantity="one">Искате ли да изтриете %1$d папка и съдържанието в нея?</item>
-    </plurals>
-    <plurals name="delete_items_confirmation_message">
-        <item quantity="other">Искате ли да изтриете %1$d елемента?</item>
-        <item quantity="one">Искате ли да изтриете %1$d елемент?</item>
-    </plurals>
+  <plurals name="clipboard_files_clipped">
+    <item quantity="other">Копирани са %1$d елемента в буферната памет.</item>
+    <item quantity="one">Копиран е %1$d елемент в буферната памет.</item>
+  </plurals>
+  <plurals name="compress_begin">
+    <item quantity="other">Компресиране на %1$d файла</item>
+    <item quantity="one">Компресиране на %1$d файл.</item>
+  </plurals>
+  <plurals name="compress_error_notification_title">
+    <item quantity="other">Не могат да се компресират %1$d файла</item>
+    <item quantity="one">Не може да се компресира %1$d файл</item>
+  </plurals>
+  <plurals name="compress_failure_alert_content">
+    <item quantity="other">Тези файлове не са компресирани: %1$s</item>
+    <item quantity="one">Този файл не е компресиран: %1$s</item>
+  </plurals>
+  <plurals name="copy_begin">
+    <item quantity="other">Копират се %1$d файла.</item>
+    <item quantity="one">Копира се %1$d файл.</item>
+  </plurals>
+  <plurals name="copy_converted_warning_content">
+    <item quantity="other">Тези файлове бяха преобразувани в друг формат: %1$s</item>
+    <item quantity="one">Този файл беше преобразуван в друг формат: %1$s</item>
+  </plurals>
+  <plurals name="copy_error_notification_title">
+    <item quantity="other">Не могат да се копират %1$d елемента</item>
+    <item quantity="one">Не може да се копира %1$d елемент</item>
+  </plurals>
+  <plurals name="copy_failure_alert_content">
+    <item quantity="other">Тези файлове не са копирани: %1$s</item>
+    <item quantity="one">Този файл не е копиран: %1$s</item>
+  </plurals>
+  <plurals name="delete_error_notification_title">
+    <item quantity="other">Не могат да се изтрият %1$d елемента</item>
+    <item quantity="one">Не може да се изтрие %1$d елемент</item>
+  </plurals>
+  <plurals name="delete_failure_alert_content">
+    <item quantity="other">Тези файлове не са изтрити: %1$s</item>
+    <item quantity="one">Този файл не е изтрит: %1$s</item>
+  </plurals>
+  <plurals name="delete_files_confirmation_message">
+    <item quantity="other">Изтриване на %1$d файла?</item>
+    <item quantity="one">Изтриване на %1$d файл?</item>
+  </plurals>
+  <plurals name="delete_folders_confirmation_message">
+    <item quantity="other">Изтриване на %1$d папки и тяхното съдържание?</item>
+    <item quantity="one">Изтриване на %1$d папка и нейното съдържание?</item>
+  </plurals>
+  <plurals name="delete_items_confirmation_message">
+    <item quantity="other">Изтриване на %1$d елемента?</item>
+    <item quantity="one">Изтриване на %1$d елемент?</item>
+  </plurals>
+  <plurals name="deleting">
+    <item quantity="other">Изтриват се %1$d файла.</item>
+    <item quantity="one">Изтрива се %1$d файл.</item>
+  </plurals>
+  <plurals name="elements_dragged">
+    <item quantity="other">%1$d елемента</item>
+    <item quantity="one">%1$d елемент</item>
+  </plurals>
+  <plurals name="elements_selected">
+    <item quantity="other">%1$d избрани</item>
+    <item quantity="one">%1$d избран</item>
+  </plurals>
+  <plurals name="extract_begin">
+    <item quantity="other">Извличане на %1$d файла.</item>
+    <item quantity="one">Извличане на %1$d файл.</item>
+  </plurals>
+  <plurals name="extract_failure_alert_content">
+    <item quantity="other">Тези файлове не са извлечени: %1$s</item>
+    <item quantity="one">Този файл не е извлечен: %1$s</item>
+  </plurals>
+  <plurals name="move_begin">
+    <item quantity="other">Преместване на %1$d елемента.</item>
+    <item quantity="one">Преместване на %1$d елемент.</item>
+  </plurals>
+  <plurals name="move_error_notification_title">
+    <item quantity="other">Не могат да се преместят %1$d елемента</item>
+    <item quantity="one">Не може да се премести %1$d елемент</item>
+  </plurals>
+  <plurals name="move_failure_alert_content">
+    <item quantity="other">Тези файлове не са преместени: %1$s</item>
+    <item quantity="one">Този файл не е преместен: %1$s</item>
+  </plurals>
 </resources>
