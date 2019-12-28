@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="switch_prompt_content">
-    <item quantity="other">Можете да активирате повече %d търсене на елементи</item>
-    <item quantity="one">Можете да активирате повече %d елемент от търсенето</item>
-    <item quantity="few">Можете да активирате повече %d елемент от търсенето</item>
-    <item quantity="many">Можете да активирате повече %d търсене на елементи</item>
+    <item quantity="other">Не сте разрешили търсене на %d елемента</item>
+    <item quantity="one">Не сте разрешили търсене на %d елемент</item>
   </plurals>
 </resources>
