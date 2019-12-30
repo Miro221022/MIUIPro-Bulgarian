@@ -1730,7 +1730,7 @@
     <string name="lockpattern_change_lock_pin_label">Промяна на PIN кода за отключване</string>
     <string name="lockpattern_recording_intro_header">Начертайте фигура за отключване:</string>
     <string name="lockpattern_recording_intro_footer">Натиснете „Меню“ за помощ</string>
-    <string name="lockpattern_recording_inprogress">Вдигнете пръст, когато сте готови</string>
+    <string name="lockpattern_recording_inprogress">Вдигнете пръста си, когато сте готови</string>
     <string name="lockpattern_recording_incorrect_too_short">Свържете поне %d точки. Опитайте отново.</string>
     <string name="lockpattern_pattern_entered_header">Фигурата е записана</string>
     <string name="lockpattern_need_to_confirm">За потвърждение начертайте фигурата отново</string>
@@ -6424,7 +6424,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="gmscore_settings_title">Основни Google услуги</string>
     <string name="google_account_title">Google</string>
     <string name="google_service_title">Google услуги</string>
-    <string name="headset_settings_title">Слушалки</string>
+    <string name="headset_settings_title">Звукови ефекти</string>
     <string name="home_title">Начален екран</string>
     <string name="key_shortcut_settings_title">Бутони за бърз достъп</string>
     <string name="lock_screen_display_category_name">Заключен екран</string>
@@ -6693,4 +6693,17 @@ OTG се изключва автоматично след 10 минути без
 </string>
     <string name="wake_suppression_title">Слаб анти-фалшив режим на докосване
 </string>
+    <string name="default_suppression_title">По подразбиране (Препоръчва се)</string>
+    <string name="diy_suppression_summary">Регулирайте размера на зоната в близост до краищата, където случайното докосване ще бъде игнорирано</string>
+    <string name="diy_suppression_title">Персонализирано</string>
+    <string name="edge_mode_state_summary">"Областта около извити ръбове няма да реагира на допир"</string>
+    <string name="edge_mode_state_title">Игнориране на случайно докосване по краищата</string>
+    <string name="privacy_failed_need_to_unlock_nofingerprint">Въведете парола, преди да използвате нов пръстов отпечатък</string>
+    <string name="seek_bar_info">Регулиране на размера</string>
+    <string name="strong_suppression_summary">"Вашето устройство няма да реагира на случайно докосване, някои действия с жестове може да не работят близо до ръбовете"</string>
+    <string name="strong_suppression_title">Голяма площ</string>
+    <string name="wake_suppression_summary">Вашето устройство може да реагира на случайно докосване, но също така ще реагира на действия с жестове в близост до краищата</string>
+    <string name="wake_suppression_title">Малка площ</string>
+    <string name="wifi_direct_close_hotspot_hint">Изключете преносимата точка преди да използвате WLAN Direct</string>
+    <string name="wifi_direct_close_slave_wifi_hint">Прекъснете връзката със спомагателната WLAN, преди да използвате WLAN Direct</string>
 </resources>

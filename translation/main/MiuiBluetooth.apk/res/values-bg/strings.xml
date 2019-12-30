@@ -83,5 +83,27 @@
   <string name="unbind_device_alert_title">Раздвояване на устройството</string>
   <string name="v7_preference_off">ИЗКЛЮЧЕНО</string>
   <string name="v7_preference_on">ВКЛЮЧЕНО</string>
-  
+  <string name="failed_to_fetch_fql">"Не може да се получи информация за ЧЗВ, проверете мрежовата връзка"</string>
+  <string name="jump_full_log_dialog_cancel">Отказ</string>
+  <string name="jump_full_log_dialog_confirm">Генерирай</string>
+  <string name="jump_full_log_dialog_content">"Отчетите ще ни помогнат да намерим и да поправим проблема, за който ще докладвате много по-бързо. Генерирайте отчети и ги прикачете към вашите отзиви."</string>
+  <string name="jump_full_log_dialog_title">Генериране на отчети</string>
+  <string name="net_error_info">Няма мрежова връзка, докоснете тук, за да отидете в Настройки</string>
+  <string name="service_unavailiable">"Не може да се получи информация, опитайте отново по-късно"</string>
+  <string name="toast_file_format_not_support">"Този файлов формат не се поддържа. Опитайте да изберете друг файл."</string>
+  <string name="update_dialog_cancel">Отказ</string>
+  <string name="update_dialog_confirm">Актуализирай</string>
+  <string name="update_dialog_content_log">"Какво ново:
+%1$s
+Размер: %2$s"</string>
+  <string name="update_dialog_content_version">Можете да актуализирате до версията %1$s сега.</string>
+  <string name="update_dialog_title">Налична е актуализация</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Свързването на мениджъра за изтегляне не бе успешно, моля, проверете състоянието му в Управление на приложения.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Представяне на версия %1$s
+Размер: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Представяне на версия %1$s
+Размер на делта актуализацията: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s актуализация!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Хранилището не е на разположение, моля, проверете SD картата.</string>
+  <string name="catch_full_log_item_title_wifi">Wi-Fi и ShareMe</string>
 </resources>

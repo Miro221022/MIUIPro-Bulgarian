@@ -924,4 +924,19 @@
   <string name="zero_sms_feedback_success">Докладвано успешно</string>
   <string name="zero_sms_feedback_title">Докладвай</string>
   <string name="contact_card_unknown_contact">Неизвестен контакт</string>
+  <string name="feature_mx">Mi Съобщение</string>
+  <string name="feature_mx_summary"><b>Mi Съобщение ви позволява да изпращате съобщения до други потребители на Mi Съобщение през интернет, без допълнителни такси</b>. За активиране на тази услуга е необходимо изпращане на SMS съобщение. Вашият оператор ще ви таксува за това съобщение. Прочетете и се съгласете с нашите <font color="#B3000000"><a href="http://url1">Потребителско споразумение</a></font> и <font color="#B3000000"><a href="http://url2">Политика за поверителност</a></font> преди да използвате тази функция.</string>
+  <string name="feature_smart_sms">Интелигентни съобщения</string>
+  <string name="feature_smart_sms_summary"><b>Интелигентни съобщения осигурява разпознаване на идентификатора на подателя и интелигентни менюта</b>". Услугата се предоставят частично от Yulore. Прочетете и се съгласете с "<font color="#B3000000"><a href="http://url3">Политика за поверителност</a></font> на Yulore преди да използвате тази функция.</string>
+  <string name="ignore">Не сега</string>
+  <string name="privacy_term">Политика за поверителност</string>
+  <string name="recommend_both_dialog_title">Добре дошли в Съобщения!</string>
+  <string name="recommend_dialog_message">Можете да включите Mi Съобщение и Интелигентни съобщения за достъп до допълнителни функции.</string>
+  <string name="recommend_mx_dialog_title">Добре дошли в Mi Съобщение!</string>
+  <string name="recommend_mx_setting_summary">Mi Съобщение ви позволява да изпращате съобщения до други потребители на Mi Съобщение през интернет, без допънителни такси.</string>
+  <string name="recommend_smart_sms_dialog_title">Добре дошли в Интелигентни съобщения!</string>
+  <string name="recommend_smart_sms_setting_summary">Интелигентни съобщения осигурява разпознаване на идентификатора на подателя и интелигентни менюта.</string>
+  <string name="turn_on">Включи</string>
+  <string name="user_term">Потребителско споразумение</string>
+  <string name="yulore_term">Политика за поверителност</string>
 </resources>

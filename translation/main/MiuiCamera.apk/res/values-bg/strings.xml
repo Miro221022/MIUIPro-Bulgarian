@@ -1086,4 +1086,7 @@
     <string name="pref_camera_auxiliary_focus_peak">Пиков фокус</string>
     <string name="pref_camera_manual_description_title">Относно професионалните функции</string>
 	<string name="kaleidoscope_fragment_tab_name">Калейдоскоп</string>
+	<string name="camcorder_tip_8k_max_video_duration">Можете да запишете до 6 минути в 8K</string>
+    <string name="video_beauty_tip_filter">Филтри</string>
+    <string name="video_beauty_tip_portrait_bokeh">Боке</string>
 </resources>

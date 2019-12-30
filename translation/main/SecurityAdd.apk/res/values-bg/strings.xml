@@ -107,4 +107,22 @@
     <string name="net_booster_overdue_notification_tip">Сесията за повишаване на скоростта на мрежата ще приключи скоро. Подновяване на сесията?</string>
     <string name="renew_now">Подновяване</string>
 	<string name="kid_mode_privacy_policy_msg">Политика за поверителност на Детско пространство</string>
+	<string name="ew_detail_earthquake_center_title">Епицентър</string>
+    <string name="ew_detail_earthquake_feel_little">Леко разлюляване</string>
+    <string name="ew_detail_earthquake_feel_max">Много силно</string>
+    <string name="ew_detail_earthquake_feel_middle">Силно</string>
+    <string name="ew_detail_earthquake_feel_none">Не се усеща</string>
+    <string name="ew_detail_earthquake_feel_normal">Умерено</string>
+    <string name="ew_detail_earthquake_feel_title">Прогнозна интензивност</string>
+    <string name="ew_detail_earthquake_level_title">Прогнозен магнитут</string>
+    <string name="ew_detail_receive_alert_from">Данните са предоставени от Chengdu Високотехнологичен Институт за ограничаване на бедствията</string>
+    <string name="ew_detail_receive_distance_message2">%s км (Епицентърът е далеч от вас. Може да не усетите земетресението.)</string>
+    <string name="ew_detail_receive_distance_title">Разстояние до епицентъра</string>
+    <string name="ew_detail_receive_location_title">Местоположение</string>
+    <string name="ew_detail_receive_time_title">Начален час</string>
+    <string name="ew_detail_receive_warn_time_title">Време преди началото</string>
+    <string name="ew_share_logo_title">Предупреждение за земетресение</string>
+    <string name="ew_share_save_tips">Запазено в %s</string>
+    <string name="ew_share_title">Сподели</string>
+    <string name="ew_warning_detail">Подробности за предупреждението</string>
 </resources>

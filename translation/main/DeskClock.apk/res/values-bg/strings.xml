@@ -239,10 +239,10 @@
   <string name="shortcut_start_timer">Таймер</string>
   <string name="shortcut_stop_watch">Хронометър</string>
   <string name="shut_down_keep_screen">Екранът няма да бъде запазен</string>
-  <string name="shutdown_alarm_alert_enable_summary">Алармите за изключване ще изгаснат най-малко 10 минути след като изключите устройството си</string>
-  <string name="shutdown_alarm_alert_title">Изключване на аларма</string>
-  <string name="shutdown_alarm_disable_summary">Алармата няма да се изпълни след изключване на устройството</string>
-  <string name="shutdown_alarm_enable_summary">Алармата ще се изключи, ако е настроена за поне 10 минути след изключване на устройството</string>
+  <string name="shutdown_alarm_alert_enable_summary">Алармите ще се изключи най-малко 10 минути след като изключите устройството си</string>
+  <string name="shutdown_alarm_alert_title">Аларма при изключено устройство</string>
+  <string name="shutdown_alarm_disable_summary">"Алармата няма да се изключи след изключване на устройството"</string>
+  <string name="shutdown_alarm_enable_summary">"Алармата ще се изключи, ако е настроена за поне 10 минути след изключване на устройството"</string>
   <string name="shutdown_alarm_title">Аларма при изключено устройство</string>
   <string name="silent_alarm_summary">Без звук</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
@@ -405,4 +405,21 @@
      <string name="wake_up_alert_desc">Изпълнение на звук на алармата по време на събуждане</string>
      <string name="wake_up_ringtone">Звук на алармата</string>
      <string name="wake_up_time">Събуждане</string>
+	 <string name="alert_ringtone">Звук на алармата</string>
+     <string name="alert_volume">Сила на звука за звънене</string>
+     <string name="alert_volume_summary">Задаване на силата на звука за аларми и таймери</string>
+     <string name="auto_silence_summary">Задаване на време, след което алармите и таймерите ще бъдат изключени</string>
+     <string name="edit_label">Редактиране на етикета на алармата</string>
+     <string name="holiday_update_title">Актуализиране на информацията за официалните празници</string>
+     <string name="label_input_desc">Този етикет ще се покаже на екрана, когато алармата се изключи</string>
+     <string name="label_input_hint">Въведете етикет</string>
+     <string name="more_alert_setting">Допълнителни настройки на алармата</string>
+     <string name="net_permission_cancel">"Не приемам"</string>
+     <string name="net_permission_ok">Приемам</string>
+     <string name="new_label">Добавете етикет за алармата</string>
+     <string name="normal_settings">Основни настройки</string>
+     <string name="other_settings">Допълнителни настройки</string>
+     <string name="ringtone_digital_timer">Таймер</string>
+     <string name="time_settings">Настройки на часовника</string>
+     <string name="timer_ringtone">Мелодия на таймера</string>
 </resources>

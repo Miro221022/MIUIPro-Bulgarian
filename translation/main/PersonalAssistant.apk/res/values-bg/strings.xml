@@ -1039,9 +1039,9 @@
   <string name="cta_start">Начало</string>
   <string name="app_suggest_detail_setting_summary">Предложенията за приложения ще са въз основа на данните ви за използването</string>
   <string name="app_suggest_detail_setting_title">Разрешаване на достъп до състоянието на приложенията</string>
-  <string name="app_suggest_setting_brief">Показване на последно използваните приложения</string>
-  <string name="app_suggest_setting_brief_detail">Предложенията за приложения ще са въз основа на данните ви за използването</string>
-  <string name="app_suggest_setting_title">Предложения за приложения</string>
+  <string name="app_suggest_setting_brief">"Получавайте предложения за приложения и функции, които най-вероятно ще използвате"</string>
+  <string name="app_suggest_setting_brief_detail">"Получавайте предложения за приложения и функции, които най-вероятно ще използвате"</string>
+  <string name="app_suggest_setting_title">Интелигентни предложения</string>
   <string name="setting_title_resident_function">Постоянни функции</string>
   <string name="display_weather_default">Докоснете, за да получите информация за времето</string>
   <string name="quick_app_settings_brief">Плъзнете надолу в Личен асистент, за да видите последно използваните бързи приложения</string>
@@ -1132,4 +1132,5 @@
     <string name="miot_not_warn">Игнорирай това предупреждение</string>
 	<string name="setting_taxi_brief">Докоснете, за да се обадите на такси и да прегледате подробностите за поръчката си</string>
     <string name="setting_taxi_label">Обадете се на такси</string>
+	<string name="card_expand_note_toast_share_null">Тази бележка е празна</string>
 </resources>

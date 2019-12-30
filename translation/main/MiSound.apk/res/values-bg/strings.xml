@@ -54,7 +54,7 @@
   <string name="music_headset_mode_settings">Бутони на слушалките</string>
   <string name="music_headset_mode_volume">Контрол на силата на звука</string>
   <string name="music_headset_no_contected">Не са открити слушалки</string>
-  <string name="music_headset_settings">Слушалки</string>
+  <string name="music_headset_settings">Звукови ефекти</string>
   <string name="music_hifi_summary">Намаляване на шума и изкривяването, за да се подобри качеството на звука</string>
   <string name="music_hifi_title">Hi-Fi аудио</string>
   <string name="music_mi_effect_summary">Използване на Mi Звуков подобрител, когато използвате слушалки</string>
