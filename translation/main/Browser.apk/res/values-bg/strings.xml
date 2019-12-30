@@ -1066,4 +1066,11 @@
   <string name="voice_title_speech_again">Не ви разбирам</string>
   <string name="webpage_title">Отметки и история</string>
   <string name="wechat_not_installed">Wechat не е инсталирано</string>
+  <string name="channel_network_error">Възникна мрежова грешка. Проверете мрежовите настройки и опитайте отново.</string>
+  <string name="channel_no_data">"Това е всичко за сега. Вижте други канали!"</string>
+  <string name="comment_fail">"Коментарът не може да се добави Опитайте отново."</string>
+  <string name="comment_success">Коментарът е добавен успешно</string>
+  <string name="feedback_not_interested_response">"Ще виждате по-малко елементи от този вид"</string>
+  <string name="short_video_network_error">"Не може да се свърже с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
+  <string name="tt_ad">Реклама</string>
 </resources>

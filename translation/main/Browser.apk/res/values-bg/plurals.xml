@@ -87,4 +87,10 @@
         <item quantity="other">%d отговора в Zhihu</item>
         <item quantity="one">%d отговор в Zhihu</item>
     </plurals>
+	     <plurals name="video_playback_error">
+         <item quantity="other">"Видеоклипът не може да се зареди.
+ Ще се изпълни следващия след %d секунди…"</item>
+         <item quantity="one">"Видеоклипът не може да се зареди.
+ Ще се изпълни следващия след %d секунда…"</item>
+     </plurals>
 </resources>

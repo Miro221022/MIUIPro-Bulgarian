@@ -75,6 +75,6 @@
     </string-array>
 	   <string-array name="prefEntries_contact_add">
         <item>Всички</item>
-        <item>Само получателите</item>
+        <item>Само подателите</item>
     </string-array>
 </resources>
