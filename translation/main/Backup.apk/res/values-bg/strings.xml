@@ -612,4 +612,5 @@
   <string name="xiaomi_update_dialog_message">Представяне на версия %1$s\nРазмер: %2$s</string>
   <string name="xiaomi_update_dialog_message_diff">\"Представяме версия %1$s\n Делта актуализация: %2$s</string>
   <string name="xiaomi_update_dialog_title">Налична е актуализация</string>
+  <string name="camera_summary_for_cta">Настройки на камерата</string>
 </resources>

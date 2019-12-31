@@ -68,4 +68,20 @@
         <item quantity="other">Прехвърлени са %1$d изображения към %2$s</item>
         <item quantity="one">Прехвърлен е %1$d изображение към %2$s</item>
     </plurals>
+	    <plurals name="file_received_successfully">
+        <item quantity="other">Успешно са получени %2$d файла от %1$s</item>
+        <item quantity="one">Успешно е получен %2$d файл от %1$s</item>
+    </plurals>
+    <plurals name="image_received_successfully">
+        <item quantity="other">Успешно са получени %2$d изображения от %1$s</item>
+        <item quantity="one">Успешно е получено %2$d изображение от %1$s</item>
+    </plurals>
+    <plurals name="successfully_sent_files">
+        <item quantity="other">Успешно са изпратени %2$d файла до %1$s</item>
+        <item quantity="one">Успешно е изпратен %2$d файл до %1$s</item>
+    </plurals>
+    <plurals name="successfully_sent_images">
+        <item quantity="other">Успешно са изпратени %2$d изображения до %1$s</item>
+        <item quantity="one">Успешно е изпратено %2$d изображение до %1$s</item>
+    </plurals>
 </resources>

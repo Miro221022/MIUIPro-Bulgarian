@@ -474,4 +474,8 @@
   <string name="xspace_notification">Известия от клонирани приложения</string>
   <string name="xspace_notification_error">Влезте в клониран WeChat и опитайте отново</string>
   <string name="xspace_settins">Настройка</string>
+  <string name="greenguard_install_cancle">Не благодаря</string>
+  <string name="greenguard_install_confirm">Инсталирай</string>
+  <string name="greenguard_install_message">"Семейна безопсност е системно приложение. Нямате нужда от интернет, за да го инсталирате."</string>
+  <string name="greenguard_install_title">Инсталирай Семейна безопсност</string>
 </resources>

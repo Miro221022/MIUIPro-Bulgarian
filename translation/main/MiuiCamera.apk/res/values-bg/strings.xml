@@ -459,7 +459,8 @@
     <string name="portait_effect_entry_movie">Филм</string>
     <string name="portait_effect_entry_riddle">Загадъчен</string>
     <string name="portait_effect_entry_story">Исторически</string>
-	<string name="ai_scene_mode_use_hint_text">"Интелигентната камерата автоматично разпознава сцени и оптимизира вашите снимки въз основа на тази информация"</string>
+	<string name="ai_scene_mode_use_hint_text">"Разпознаване на сцените чрез интелигентния алгоритъм
+и настройване на предпочитанията автоматично"</string>
 	<string name="pref_camera_ai_scene_title">Интелигентна Камера</string>
 	<string name="accessibility_ai_scene_off">Интелигентна камера е изключена</string>
     <string name="accessibility_ai_scene_on">Интелигентна камера е включена</string>
@@ -1089,4 +1090,7 @@
 	<string name="camcorder_tip_8k_max_video_duration">Можете да запишете до 6 минути в 8K</string>
     <string name="video_beauty_tip_filter">Филтри</string>
     <string name="video_beauty_tip_portrait_bokeh">Боке</string>
+	<string name="document_mode_use_hint_text_body">"开启文档模式拍摄，智能矫正和增强
+一键拍出文档扫描效果"</string>
+    <string name="document_mode_use_hint_text_title">文档模式</string>
 </resources>

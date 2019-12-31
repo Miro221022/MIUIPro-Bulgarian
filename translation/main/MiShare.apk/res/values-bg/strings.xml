@@ -162,4 +162,19 @@ OPPO, vivo, realme и други марки скоро ще бъдат съвм�
     <string name="error_receive_file_service_disabled">Отменен входящ трансфер</string>
     <string name="error_send_file_service_disabled">Отменен изходящ трансфер</string>
     <string name="send_files_to_remote_success_title">Изпратено успешно</string>
+	<string name="cancel">Отказ</string>
+    <string name="complete">Готово</string>
+    <string name="confirm_cancel_receive">"Няма да можете да получите този елемент, ако анулирате прехвърлянето сега. Отказ въпреки това?"</string>
+    <string name="error_has_occurred">Възникна грешка</string>
+    <string name="error_receive_file_file_opened">"Този елемент не беше получен. Изглежда, че се използва в момента."</string>
+    <string name="fail_in_send">"Не може да се изпрати"</string>
+    <string name="file_receive_progress_title">Прогрес</string>
+    <string name="file_received_successfully_from_pc">Упешно са получени повече от 200 файла от %1$s</string>
+    <string name="file_transfer_progress_title">Прогрес</string>
+    <string name="i_know">Разбрах</string>
+    <string name="mishare_folder_in_file_explorer">Файлов мениджър > Mi Споделяне</string>
+    <string name="send_successfully">Изпратено успешно</string>
+    <string name="some_files_receive_completed">"Прегледайте файловете, които вече сте получили в %1$s."</string>
+    <string name="to_feedback">Докладвай</string>
+    <string name="view_file">Преглед</string>
 </resources>

@@ -6692,4 +6692,6 @@ OTG се изключва автоматично след 10 минути без
     <string name="wake_suppression_title">Малка площ</string>
     <string name="wifi_direct_close_hotspot_hint">Изключете преносимата точка преди да използвате WLAN Direct</string>
     <string name="wifi_direct_close_slave_wifi_hint">Прекъснете връзката със спомагателната WLAN, преди да използвате WLAN Direct</string>
+	<string name="codec_low_latency_summary">Осигурява ниска латентност за аудио/видео синхронизация</string>
+    <string name="codec_low_latency_title">Ниска латентност</string>
 </resources>
