@@ -275,9 +275,9 @@
   <string name="card_title_sports">Тренировки</string>
   <string name="cast_devices_unavailable_desc">Уверете се, че това устройство и проекторът са свързани към една и съща Wi-Fi мрежа</string>
   <string name="cast_devices_unavailable_title">Неуспешно свързване към проекционно устройство</string>
-  <string name="change_to_face_mode">Покажи само лица на хора</string>
-  <string name="change_to_photo_mode">Показване на на цял екран</string>
-  <string name="change_to_visible">Възстанови този човек?</string>
+  <string name="change_to_face_mode">Показване само на лицето</string>
+  <string name="change_to_photo_mode">Показване на цял екран</string>
+  <string name="change_to_visible">Възстановяване на този човек?</string>
   <string name="channel_default_name">Нови функции</string>
   <string name="channel_low_name">Нови съобщения</string>
   <string name="channel_min_name">Известия за приложения</string>
@@ -817,7 +817,7 @@
   <string name="menu_item_sort_size">Размер</string>
   <string name="menu_view_contact">Преглед на контакт</string>
   <string name="merge_album">Обедини</string>
-  <string name="merge_album_title">Обедини с другиго</string>
+  <string name="merge_album_title">Обедини с друг</string>
   <string name="messagelist_sender_self">Аз</string>
   <string name="mi_drop">Mi Share</string>
   <string name="micloud_introduce">Синхронизиране на снимки и видео автоматично(Изисква се Mi профил)</string>
@@ -979,7 +979,7 @@
   <string name="people_mark_mode_title">Изберете \"%s\"</string>
   <string name="people_mark_mode_title_no_mark_name">Изберете човек</string>
   <string name="people_page_label">Лице</string>
-  <string name="people_page_unname">Неизвестно</string>
+  <string name="people_page_unname">Без име</string>
   <string name="permission_contacts_desc">За задаване на контакти на хора на снимки</string>
   <string name="permission_contacts_name">Контакти</string>
   <string name="permission_optional_category">Незадължителни разрешения</string>
@@ -1279,7 +1279,7 @@
   <string name="secret_reason_type_not_support">Този вид файлове не се поддържа</string>
   <string name="secret_reason_unknow_reasons">Неизвестна грешка</string>
   <string name="secret_reason_video_not_support">Не може да се добави видео към скрит албум</string>
-  <string name="see_ignore_faces">Преглед на хората, които сте игнорирали</string>
+  <string name="see_ignore_faces">"Преглед на хората, които сте игнорирали"</string>
   <string name="select_all">Избери всички</string>
   <string name="select_image_operation">Добавяне на снимки</string>
   <string name="select_item_face">Снимки на %s</string>
@@ -1302,8 +1302,8 @@
   <string name="set_as_wallpaper_description">Това изображение е връзка, изтеглете оригинала?</string>
   <string name="set_as_wallpaper_title">Задаване като тапет</string>
   <string name="set_face_group_toast_msg_new_user">Задръжте лицето, за да обедините или игнорирате този човек.</string>
-  <string name="set_face_group_toast_msg_old_user">Задръжте снимката на човека, за да създадете групи (Семейство, Приятели, Съученици и т.н.)</string>
-  <string name="set_face_group_toast_title_new_user">Препоръка</string>
+  <string name="set_face_group_toast_msg_old_user">"Задръжте върху човек на снимката, за да създадете групи (Семейство, Приятели, Съученици и т.н.)"</string>
+  <string name="set_face_group_toast_title_new_user">Съвет</string>
   <string name="set_face_group_toast_title_old_user">Хората могат да бъдат организирани в групи</string>
   <string name="set_face_image">Задаване на нова профилна снимка</string>
   <string name="set_group">Задаване на група</string>
@@ -1586,7 +1586,7 @@
   <string name="video_editor_unsupport_audio_file">Неподдържан аудио файл</string>
   <string name="video_editor_unzip_file_fail">Не може да се разопакова видеоклипа.</string>
   <string name="video_editor_video_is_short">Този видеоклип не може да бъде редактиран.</string>
-  <string name="video_editor_video_loading">Подготовка на видеото ... Изчакайте секунда или две и опитайте отново.</string>
+  <string name="video_editor_video_loading">Подготовка на видеото… Изчакайте секунда или две и опитайте отново.</string>
   <string name="video_editor_watermark">Воден знак</string>
   <string name="video_err">Видеото не може да се възпроизведе.</string>
   <string name="video_not_exist">Видеото не съществува</string>
@@ -1603,4 +1603,5 @@
   <string name="yes">Да</string>
   <string name="yesterday">Вчера</string>
   <string name="you_are">Вие сте дете на</string>
+  <string name="member_menu_vipname_free">Безплатно</string>
 </resources>
