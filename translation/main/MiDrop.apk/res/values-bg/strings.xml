@@ -175,7 +175,7 @@ In Android 6.0 и нагоре трябва да включите услугит
     <string name="sender_fail">Неуспешно изпращане</string>
     <string name="sender_finish">Изпратено</string>
     <string name="sender_interupt">Трансферът пропадна.</string>
-    <string name="sender_reject">Не съм съгласен</string>
+    <string name="sender_reject">Не приемам</string>
     <string name="sender_reject_kick_off">Изчакайте минута и опитайте отново.</string>
     <string name="sender_searching_tips">Търсене на потребители на Mi Drop наблизоu2026</string>
     <string name="sender_transfer_interrupt">Трансферът пропадна, не изключвайте Wi-Fi мрежата по време на прехвърлянето.</string>

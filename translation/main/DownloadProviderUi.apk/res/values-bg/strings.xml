@@ -364,7 +364,7 @@
   <string name="sniff_result_website_intro">Общо &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; елементи | Източник: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Размер: %1$s</string>
   <string name="sniff_search_install">Инсталирай</string>
-  <string name="sniff_shortcut_cloudconfig_btn">Съгласен съм</string>
+  <string name="sniff_shortcut_cloudconfig_btn">Не приемам</string>
   <string name="sniff_shortcut_cloudconfig_context">Обновяване на източник…</string>
   <string name="sniff_shortcut_cloudconfig_title">Един момент…</string>
   <string name="sniff_shortcut_create">Прекият път е създаден</string>

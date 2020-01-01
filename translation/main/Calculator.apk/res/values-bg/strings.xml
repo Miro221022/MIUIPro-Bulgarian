@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="allow">Съгласен</string>
+  <string name="allow">Приемам</string>
   <string name="app_name">Калкулатор</string>
   <string name="app_name_danfa">Mi Калкулатор</string>
   <string name="app_notification_info">Калкулатор работи на заден план</string>

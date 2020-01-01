@@ -78,7 +78,7 @@
   <string name="copy_to">Копиране в…</string>
   <string name="create_folder">Нова папка</string>
   <string name="create_shortcut_success">Прекия път е добавен успешно</string>
-  <string name="data_consumption_cancel">Не съм съгласен</string>
+  <string name="data_consumption_cancel">Не приемам</string>
   <string name="data_consumption_checkbox_hint">Не показвай отново</string>
   <string name="data_consumption_confirm">ОК</string>
   <string name="data_consumption_message">Файловият мениджър трябва да се свърже с мрежата, докато го използвате. Съгласни ли сте?</string>

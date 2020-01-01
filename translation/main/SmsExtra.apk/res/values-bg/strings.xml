@@ -5,7 +5,7 @@
     <string name="already_updated">Актуално</string>
     <string name="back_to_message_list">Връщане към списъка със съобщения</string>
     <string name="button_close">Затвори</string>
-    <string name="cm_privacy_dialog_allow">Съгласен съм</string>
+    <string name="cm_privacy_dialog_allow">Приемам</string>
     <string name="cm_privacy_dialog_cancel">Отказ</string>
     <string name="cm_privacy_dialog_spannable_tips">Политика за поверителност</string>
     <string name="cm_privacy_dialog_tips">"Услугите за интелигентни съобщения се предоставят от вашия оператор. Съобщения трябва да се свърже с интернет и да има достъп до местоположението ви, за да се предоставят тези услуги. Трябва да се съгласите с %1s на оператора ви, преди да започнете да използвате тези услуги. Съгласни ли сте?"</string>

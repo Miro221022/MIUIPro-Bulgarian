@@ -173,12 +173,12 @@
   <string name="corpus_label_apps">Приложения</string>
   <string name="cta_desc">Всички важни функции на едно място.</string>
   <string name="cta_dialog_negative">Изход</string>
-  <string name="cta_dialog_positive">Съгласен</string>
+  <string name="cta_dialog_positive">Приемам</string>
   <string name="cta_dialog_text_all">За да използвате Личен асистент, трябва да прочетете и да се съгласите с нашите %1$s\"Потребителско споразумение\" %2$s и %3$s \"Политика за поверителност\" %4$s. Услугата също изисква интернет връзка и достъп до услугите за местоположение. Улавянето на съдържание, използвано от някои услуги, също изисква интернет връзка. Съгласни ли сте?</string>
   <string name="cta_dialog_title">Условия за ползване</string>
   <string name="cta_negative">Затвори</string>
   <string name="cta_positive">Детайли</string>
-  <string name="cta_text5">Услугата изисква интернет връзка и достъп до местоположението. Съгласен ли сте с това?</string>
+  <string name="cta_text5">Услугата изисква интернет връзка и достъп до местоположението. Съгласни ли сте с това?</string>
   <string name="cta_title">Добре дошли в Личен асистент</string>
   <string name="daily_greeting">Поздрав за всеки ден</string>
   <string name="data_error">Неочаквана грешка. Моля, изчакайте минута-две и опитайте отново.</string>
@@ -363,7 +363,7 @@
   <string name="express_setting_brief_detail">Проследяване на всички ваши пакети чрез телефонен номер и номер на поръчка.</string>
   <string name="express_setting_code_invalid">Уверете се, че сте въвели правилния код</string>
   <string name="express_setting_count_down_time">Опитайте отново след %ds</string>
-  <string name="express_setting_dialog_authority_description">Проверката на телефонния номер се осигурява от Жълти страници. Жълтите страници трябва да се свързват с мрежата, за да работят нормално. Съгласени ли сте?</string>
+  <string name="express_setting_dialog_authority_description">Проверката на телефонния номер се осигурява от Жълти страници. Жълтите страници трябва да се свързват с мрежата, за да работят нормално. Съгласни ли сте?</string>
   <string name="express_setting_dialog_delete_cancel">Отказ</string>
   <string name="express_setting_dialog_delete_description">"Ако изтриете този телефонен номер, няма да можете да проверите информация за експресна доставка, свързана с него."</string>
   <string name="express_setting_dialog_delete_failed">Телефонният номер не можа да бъде изтрит</string>
@@ -601,7 +601,7 @@
   <string name="music_card_error_str">Настъпи грешка, отворете приложението Музика, за да слушате</string>
   <string name="music_open">Покажи музика &amp; радио</string>
   <string name="music_setting_brief">Свържете слушалките за да продължите да слушате музика или радио от мястото, където сте били.</string>
-  <string name="navigation_network_location_enable">Съгласен</string>
+  <string name="navigation_network_location_enable">Приемам</string>
   <string name="navigation_network_location_enable_later">Отказ</string>
   <string name="navigation_network_location_enabled">Услугите за местоположение са включени. Вие можете да промените това в Настройки.</string>
   <string name="navigation_network_location_not_enabled_summary">Свързване с мрежата и включване на услугите за местоположение. Съгласни ли сте?</string>
@@ -670,8 +670,8 @@
   <string name="payment_pref_source_mms_summary">Получавайте информация за плащане от текстови съобщения</string>
   <string name="payment_pref_source_wechat_summary">Получете информация за плащане от WeChat</string>
   <string name="payment_privacy_dialog_cancel">Изход</string>
-  <string name="payment_privacy_dialog_message">\'\'Моите плащания\'\' ви позволява да събирате сметки от големи приложения за плащане на едно място. Цялата информация за плащане ще бъде шифрована и сигурно съхранена на устройството ви. Той няма да бъде синхронизиран с Xiaomi Облак или качен на друг сървър. Можете да изключите \'\'Моите плащания\'\' в Настройки или просто да премахнете тази карта от Личен асистент, за да престанете да използвате тази услуга. Съгласен ли сте?</string>
-  <string name="payment_privacy_dialog_ok">Съгласен</string>
+  <string name="payment_privacy_dialog_message">\'\'Моите плащания\'\' ви позволява да събирате сметки от големи приложения за плащане на едно място. Цялата информация за плащане ще бъде шифрована и сигурно съхранена на устройството ви. Той няма да бъде синхронизиран с Xiaomi Облак или качен на друг сървър. Можете да изключите \'\'Моите плащания\'\' в Настройки или просто да премахнете тази карта от Личен асистент, за да престанете да използвате тази услуга. Съгласни ли сте?</string>
+  <string name="payment_privacy_dialog_ok">Приемам</string>
   <string name="payment_privacy_dialog_title">\'\'Моите плащания\'\' Политика за поверителност</string>
   <string name="payment_record_add">Добави плащане</string>
   <string name="payment_record_delete">Изтриване от плащания</string>
@@ -931,7 +931,7 @@
   <string name="miot_device_cancel">Отказ</string>
   <string name="miot_device_card_title">Mi Home устройства</string>
   <string name="miot_device_cta_and"> и </string>
-  <string name="miot_device_cta_message">Добавете вашите интелигентни устройства, за да можете да ги контролирате в Личен аситент. С натискането на \"Съгласен съм\" по-долу, вие се съгласявате с </string>
+  <string name="miot_device_cta_message">Добавете вашите интелигентни устройства, за да можете да ги контролирате в Личен аситент. С натискането на \"Приемам\" по-долу, вие се съгласявате с </string>
   <string name="miot_device_cta_priv">Политика за поверителност.</string>
   <string name="miot_device_cta_use_info">Mi Home Потребителско споразумение</string>
   <string name="miot_device_edit">Редактиране</string>

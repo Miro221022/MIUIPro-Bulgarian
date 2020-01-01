@@ -118,7 +118,7 @@
   <string name="comment_type_hot">Популярни коментари</string>
   <string name="comment_write_comment">Добави коментар…</string>
   <string name="comment_write_comment2">Добави коментар</string>
-  <string name="common_agree">Съгласен</string>
+  <string name="common_agree">Приемам</string>
   <string name="common_cancel">Отказ</string>
   <string name="complete_growth_task_remind">Изпълнете задачи, за да получите награди</string>
   <string name="confirm_close">Изключи</string>
@@ -1149,7 +1149,7 @@
   <string name="vp_ad_skip_at">Пропускане на рекламата след %1$d</string>
   <string name="vp_adapt_height">Подходяща височина</string>
   <string name="vp_adapt_width">Подходяща ширина</string>
-  <string name="vp_agree">Съгласен съм</string>
+  <string name="vp_agree">Не приемам</string>
   <string name="vp_airplay_check_connected_wifi">Уверете се, че устройството, което искате да използвате, е свързано със същата Wi-Fi мрежа като вашия телефон.</string>
   <string name="vp_airplay_connected">" (Свързано)"</string>
   <string name="vp_airplay_connecting">" Свързване…"</string>

@@ -145,7 +145,7 @@
     <string name="alert_message_clear_records">Изтриване на синхронизираните записи</string>
     <string name="clear_records">Изтриване на синхронизирани записи</string>
     <string name="network_tip_dialog_title">Необходима е връзка с интернет</string>
-    <string name="network_tip_dialog_content">Звукозапис трябва да се свърже с интернет, за да работи нормално. Съгласен ли сте?</string>
+    <string name="network_tip_dialog_content">Звукозапис трябва да се свърже с интернет, за да работи нормално. Съгласни ли сте?</string>
     <string name="network_tip_dialog_ok">Приемам</string>
     <string name="network_tip_dialog_cancel">Не приемам</string>
     <string name="head_set_tip_dialog_title">Използвай вградения микрофон</string>

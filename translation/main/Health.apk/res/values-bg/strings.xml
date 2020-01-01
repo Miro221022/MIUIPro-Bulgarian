@@ -128,7 +128,7 @@
   <string name="dialog_abandon">Отхвърляне</string>
   <string name="dialog_abandon_sleep_edit">Отхвърляне на промените?</string>
   <string name="dialog_account_perm_desc">За достъп до вашия Mi профил</string>
-  <string name="dialog_agree_and_continue">Съгласен съм</string>
+  <string name="dialog_agree_and_continue">Приемам</string>
   <string name="dialog_auto_start_detail">Разрешете на Mi Здраве да стартира автоматично, за да може да получава известия.\nMi Здраве ще Ви известява само за важни събития.</string>
   <string name="dialog_auto_start_title">Разрешете на Mi Здраве да стартира автоматично</string>
   <string name="dialog_auto_start_title2">Разрешете на Mi Здраве да стартира автоматично</string>

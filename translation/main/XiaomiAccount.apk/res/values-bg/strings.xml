@@ -191,7 +191,7 @@
   <string name="google">Google</string>
   <string name="guest_account_label">Mi профил за посетители</string>
   <string name="i_agree">OK</string>
-  <string name="i_agree_continue">Съгласен</string>
+  <string name="i_agree_continue">Приемам</string>
   <string name="identity">Идентифициране</string>
   <string name="inconsistent_pwd">Паролите не съвпадат</string>
   <string name="input_email_address_notice">Ние ще използваме този имейл за да потвърдим вашия профил.</string>

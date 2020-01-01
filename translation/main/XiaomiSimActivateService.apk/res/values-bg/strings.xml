@@ -108,10 +108,10 @@
   <string name="explain_send_sms_permission_msg">За да включи %s, Рамка на услугите на Xiaomi ще изпрати SMS, за да потвърди вашия телефонен номер. Ще бъдете таксувани по стандартната тарифа за SMS.</string>
   <string name="explain_send_sms_permission_title">Потвърждаване на телефонния ви номер</string>
   <string name="phone_get_processing">Получаване…</string>
-  <string name="phone_get_text">Съгласен ли сте %1$s да получи вашия телефонен номер (%2$s)?</string>
-  <string name="phone_get_title">Съгласете се%1$s да получи вашия телефонен номер</string>
+  <string name="phone_get_text">Съгласни ли сте %1$s да получи вашия телефонен номер (%2$s)?</string>
+  <string name="phone_get_title">Съгласете се %1$s да получи вашия телефонен номер</string>
   <string name="phone_verify_processing">Удостоверяване…</string>
-  <string name="phone_verify_text">%1$s не може да получи вашия телефонен номер. Това е необходимо, за да се уверим, че номерът е валиден. Съгласен ли сте?</string>
+  <string name="phone_verify_text">%1$s не може да получи вашия телефонен номер. Това е необходимо, за да се уверим, че номерът е валиден. Съгласни ли сте?</string>
   <string name="phone_verify_title">Разрешете %1$s да потвърди вашия номер</string>
   <string name="privacy_revoke_tips">Ако отмените, синхронизирането на SMS няма да може да се използва</string>
   <string name="sim_unactivated_title">SIM картата ви не е активирана</string>

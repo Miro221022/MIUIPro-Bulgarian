@@ -129,7 +129,7 @@
   <string name="enable_all_free_mode">Осребряване</string>
   <string name="enable_transparent_wallpaper">Прозрачен тапет</string>
   <string name="enabling_all_free_mode">Осребряване…</string>
-  <string name="exit_extreme_mode_dialog_agree">Съгласен</string>
+  <string name="exit_extreme_mode_dialog_agree">Приемам</string>
   <string name="exit_extreme_mode_dialog_cancel">Отказ</string>
   <string name="exit_extreme_mode_dialog_title">Изключете Екстремния режим</string>
   <string name="exo_controls_fastforward_description">Бързо превъртане напред</string>

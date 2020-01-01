@@ -80,7 +80,7 @@
     <string name="base_info">Основна информация</string>
 	<string name="enable_sleep_mode">Включване на спящ режим за оптимизиране на режима на готовност през нощта</string>
     <string name="power_consume_abnormal_night">Батерията е изтощена през нощта</string>
-    <string name="sleepmode_disclaimer_agree">Съгласен</string>
+    <string name="sleepmode_disclaimer_agree">Приемам</string>
     <string name="sleepmode_disclaimer_cancel">Отказ</string>
     <string name="sleepmode_privacy_content">"Тази функция ще използва информацията за вашата система и устройство. Тя няма да бъде качена на нашите сървъри."</string>
     <string name="sleepmode_privacy_link">Научете повече за поверителността и сигурността</string>

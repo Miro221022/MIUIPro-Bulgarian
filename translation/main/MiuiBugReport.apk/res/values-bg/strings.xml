@@ -9,7 +9,7 @@
   <string name="app_search">Търсене на приложения</string>
   <string name="btn_send">Изпрати</string>
   <string name="bugreport_dialog_not_show_again">Не показвай отново</string>
-  <string name="bugreport_dialog_submit_content">&lt;Data&gt;\"На път сте да създадете софтуерен отчет за това устройство. Отчетите могат да съдържат лична информация и данни за местоположението ви. Не споделяйте отчети с никой друг, ако не искате тази информация да бъде изложена. Избирането на \"Съгласен съм\" означава,че че сте прочели и сте се съгласили с нашите &lt;a href=\"%1$s\"&gt;Политика за поверителност&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Потребителско споразумение&lt;/a&gt;.\"&lt;/Data&gt;</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;\"На път сте да създадете софтуерен отчет за това устройство. Отчетите могат да съдържат лична информация и данни за местоположението ви. Не споделяйте отчети с никой друг, ако не искате тази информация да бъде изложена. Избирането на \"Приемам\" означава,че че сте прочели и сте се съгласили с нашите &lt;a href=\"%1$s\"&gt;Политика за поверителност&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Потребителско споразумение&lt;/a&gt;.\"&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Чукнете за преглед.</string>
   <string name="bugreport_dump_complete_notification_title">Докладът е създаден</string>
   <string name="bugreport_dump_start_notification_summary">Това може да отнеме няколко минути.</string>
@@ -462,7 +462,7 @@
   <string name="passport_use_generated_pwd_message">Не забравяйте паролата си. Можете да я използвате, за да влезете в други Mi услуги.</string>
   <string name="passport_use_generated_pwd_title">Запомнете паролата си</string>
   <string name="passport_user_agreement">Потребителско споразумение</string>
-  <string name="passport_user_agreement_p1">"Съгласен с "</string>
+  <string name="passport_user_agreement_p1">"Приемам "</string>
   <string name="passport_user_agreement_p2">Потребителско споразумение</string>
   <string name="passport_user_agreement_p3">" и "</string>
   <string name="passport_user_agreement_p4">Политика за повериелност</string>
@@ -503,7 +503,7 @@
   <string name="section_screenshot">Екранна снимка</string>
   <string name="select_system_app_tag">Изберете даден проблем</string>
   <string name="submit_dialog_cancel">Отказ</string>
-  <string name="submit_dialog_confirm">Съгласен съм</string>
+  <string name="submit_dialog_confirm">Приемам</string>
   <string name="submit_dialog_content">&lt;Data&gt;\"Трябва да се съгласите с нашите &lt;a href=\"%1$s\"&gt;Политика за поверителност&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Потребителско споразумение&lt;/a&gt; за да можете да използвате Отзиви. Проблемите, които докладвате заедно с елементите, които прикачвате (може да съдържа лична информация, както и информацията за вашето устройство и мрежа), ще бъдат качени на сървърите на MIUI. Това ще ни помогне да намерим и решим проблемите, за които докладвате.\"&lt;/Data&gt;</string>
   <string name="submit_dialog_content_global">&lt;Data&gt;\"Вашият отзив, заедно с прикачени файлове (ако има такива) и отчетите (можете да премахнете отметката от съответните квадратчета за елементите, които не искате да качвате) ще бъдат изпратени до сървърите на MIUI. Отчетите могат да съдържат лична информация и данни за вашето местоположение. Избирането на \"Сугласен съм\" означава, че сте прочели и сте се съгласили с нашите &lt;a href=\"%1$s\"&gt;Политика за поверителност&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Потребителско споразумение&lt;/a&gt;.\"&lt;/Data&gt;</string>
   <string name="submit_dialog_title">Изпращане на доклад до Mi</string>
