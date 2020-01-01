@@ -152,7 +152,7 @@
   <string name="notification_ongoing_call">Провеждащ се разговор</string>
   <string name="notification_requesting_video_call">Входяща заявка за видеовръзка</string>
   <string name="ok">OK</string>
-  <string name="onscreen_add_call_text">Добави обаждане</string>
+  <string name="onscreen_add_call_text">Обаждане</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">Конференция</string>
   <string name="onscreen_audio_mode_handset">Слушалки</string>
