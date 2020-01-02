@@ -291,4 +291,5 @@
   <string name="manager_city_option_add_city_title">Добавено успешно</string>
   <string name="manager_city_option_add_home">Добавяне към начална страница</string>
   <string name="manager_city_option_view_on_home">Преглед на началната страница</string>
+  <string name="more_expanded">Още</string>
 </resources>

@@ -1093,4 +1093,5 @@
 	<string name="document_mode_use_hint_text_body">"开启文档模式拍摄，智能矫正和增强
 一键拍出文档扫描效果"</string>
     <string name="document_mode_use_hint_text_title">文档模式</string>
+	<string name="video_beauty_tip_beautification">Разкрасяване</string>
 </resources>

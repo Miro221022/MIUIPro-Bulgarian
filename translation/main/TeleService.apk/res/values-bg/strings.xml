@@ -1816,4 +1816,6 @@
     <string name="autoip_prefix_summary">"IP префиксът на оператора е %s"</string>
     <string name="autoip_summary">Добавете IP префикс за международни номера</string>
 	<string name="incall_error_outgoing_call_failed">"Не може да се осъществи обаждане"</string>
+	<string name="notification_demo_version_text">"Не могат да се осъществяват повиквания или да се ползват мобилни данни"</string>
+    <string name="notification_demo_version_title">Това е демонстрационно устройство</string>
 </resources>
