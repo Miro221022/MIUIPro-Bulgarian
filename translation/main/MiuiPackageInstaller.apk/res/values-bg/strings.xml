@@ -96,7 +96,7 @@
   <string name="install_failed_msg">%1$s не може да се инсталира на телефона ви.</string>
   <string name="install_failed_system_incompatible">Това приложение не е съвместимо с MIUI</string>
   <string name="install_finished_notification_summary">Кликнете, за да почистите сега</string>
-  <string name="install_finished_notification_title">Инсталирането на %1$s завърши, почистете %2$s</string>
+  <string name="install_finished_notification_title">%1$s е инсталирано, почистете %2$s</string>
   <string name="install_from_appstore_hint">Препоръчваме ви да инсталирате приложението от &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
   <string name="installing">Инсталиране…</string>
   <string name="intercept_install">Инсталиране</string>
