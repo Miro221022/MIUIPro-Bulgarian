@@ -92,7 +92,7 @@
   <string name="install_failed_blocked">Инсталирането на пакета беше блокирано.</string>
   <string name="install_failed_conflict">Пакетът е в конфликт със съществуващ пакет със същото име.</string>
   <string name="install_failed_incompatible">Това приложение не е съвместимо с телефона Ви.</string>
-  <string name="install_failed_invalid_apk">Изглежда,пакетът е повреден.</string>
+  <string name="install_failed_invalid_apk">Изглежда пакетът е повреден.</string>
   <string name="install_failed_msg">%1$s не може да се инсталира на телефона ви.</string>
   <string name="install_failed_system_incompatible">Това приложение не е съвместимо с MIUI</string>
   <string name="install_finished_notification_summary">Кликнете, за да почистите сега</string>
