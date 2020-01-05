@@ -6694,4 +6694,9 @@ OTG се изключва автоматично след 10 минути без
     <string name="wifi_direct_close_slave_wifi_hint">Прекъснете връзката със спомагателната WLAN, преди да използвате WLAN Direct</string>
 	<string name="codec_low_latency_summary">Осигурява ниска латентност за аудио/видео синхронизация</string>
     <string name="codec_low_latency_title">Ниска латентност</string>
+	<string name="use_otg_charge_only">Обратно зареждане</string>
+    <string name="use_otg_charge_only_summary">По-бързо зареждане с 1А</string>
+    <string name="use_otg_file_transfers">Обратно зареждане и прехвърляне на файлове</string>
+    <string name="use_otg_file_transfers_summary">По-бавно 500мА зареждане и прехвърляне на файлове</string>
+    <string name="use_otg_title">USB в движение</string>
 </resources>

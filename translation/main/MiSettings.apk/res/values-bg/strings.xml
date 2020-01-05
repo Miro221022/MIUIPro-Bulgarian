@@ -33,7 +33,7 @@
   <string name="usage_state_friday">Пет</string>
   <string name="usage_state_go_more">Още приложения</string>
   <string name="usage_state_hour_minute">%1$dч %2$dм</string>
-  <string name="usage_state_less_one_minute">По-малко от 1 минута</string>
+  <string name="usage_state_less_one_minute">&lt; 1 минута</string>
   <string name="usage_state_monday">Пон</string>
   <string name="usage_state_mourth_day">Екранно време на %s</string>
   <string name="usage_state_noti_mourth_day">Известия %s</string>
@@ -262,12 +262,13 @@
 За да може да работи нормално, това приложение трябва да събира информация за екранното време: колко пъти сте отключили телефона, имената на приложенията и продължителността на използване на приложенията са необходими за генериране на статистически данни за екрана.
 Това приложение също трябва да се свърже с интернет и изисква следните разрешения, за да събира личната ви информация:"</string>
 <string name="usage_home_premission_second_summary_new">"Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност. Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. Можете да оттеглите оторизацията си в Екранно време &gt; Настройки &gt; Изключи Екранно време. Ако имате още въпроси относно поверителността, можете да се свържете с нас на privacy@xiaomi.com."</string>
-     <string name="usage_creating_weekly_report">Генериране на седмичен отчет за вас…</string>
-     <string name="usage_focus_new_summary">遇见更好的自己</string>
-     <string name="usage_no_net_summary">请检查您的网络连接是否正常</string>
-     <string name="usage_refresh">刷新重试</string>
-     <string name="usage_request_error_summary">时光机穿梭到未知领域</string>
-     <string name="usage_request_timeout_summary">时光机堵在路上了</string>
-     <string name="usage_weekly_report_summary">专属时间周报</string>
-     <string name="usage_weekly_report_title">设备使用周报</string>
+	 <string name="usage_creating_weekly_report">Създаване на седмичен отчет…</string>
+     <string name="usage_focus_new_summary">Станете по-внимателни и съсредоточени</string>
+     <string name="usage_no_net_summary">Проверете мрежовите настройки и опитайте отново</string>
+     <string name="usage_refresh">Опитайте отново</string>
+     <string name="usage_request_error_summary">Възникна неизвестна грешка</string>
+     <string name="usage_request_timeout_summary">Заявка е изтекла</string>
+     <string name="usage_special_feature">Специални функции</string>
+     <string name="usage_weekly_report_summary">Научете как прекарвате времето с устройството си</string>
+     <string name="usage_weekly_report_title">Седмичен доклад</string>
 </resources>

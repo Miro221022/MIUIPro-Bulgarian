@@ -154,8 +154,14 @@
     <string name="pref_camera_auxiliary_close">关闭</string>
     <string name="pref_camera_auxiliary_exposure_feedback">曝光反馈</string>
     <string name="pref_camera_auxiliary_focus_peak">峰值对焦</string>
-    <string name="pref_camera_auxiliary_title">Auxiliary</string>
+    <string name="pref_camera_auxiliary_title">Спомагателна</string>
     <string name="pref_camera_manually_exposure_value">EV</string>
     <string name="rgb_histogram">RGB直方图</string>
     <string name="video_8k">8K</string>
+	<string name="miservice_notification_huanji_content">Прехвърлете ги с помощта на Mi Трансфер</string>
+    <string name="miservice_notification_huanji_title">Имате важни елементи от стария си телефон?</string>
+    <string name="miservice_notification_scan_content">Използвайте скенер за превод на думи и фрази</string>
+    <string name="miservice_notification_scan_title">Преведете набързо</string>
+	<string name="miservice_notification_boot_sub_title">Представяме ви местните характеристики и забавление на MIUI</string>
+    <string name="miservice_notification_boot_title">Запознайте се бързо с новата си машина</string>
 </resources>

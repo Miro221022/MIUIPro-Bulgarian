@@ -1604,4 +1604,5 @@
   <string name="yesterday">Вчера</string>
   <string name="you_are">Вие сте дете на</string>
   <string name="member_menu_vipname_free">Безплатно</string>
+  <string name="video_editor_not_support_8k_tips">"8K видеоклипове не могат да се редактират"</string>
 </resources>

@@ -1094,4 +1094,20 @@
 一键拍出文档扫描效果"</string>
     <string name="document_mode_use_hint_text_title">文档模式</string>
 	<string name="video_beauty_tip_beautification">Разкрасяване</string>
+	<string name="ai_watermark_title">AI воден знак</string>
+    <string name="document_mode_use_hint_text_body">"Автоматично подреждане и подобряване
+на сканирани документи"</string>
+    <string name="document_mode_use_hint_text_title">Сканиране на документи</string>
+	<string name="ai_watermark_toast_off">AI воден знак е изключен</string>
+    <string name="ai_watermark_toast_on">AI воден знак е включен</string>
+    <string name="color_enhance">Цветно</string>
+    <string name="mimoji_create_emoticon">Генерирайте емотикони с едно щракване</string>
+    <string name="mimoji_gif_accelerate">Ускоряване</string>
+    <string name="mimoji_gif_clear_bg">Отидете на заден план</string>
+    <string name="mimoji_gif_edit_hint">Кликнете, за да добавите текст</string>
+    <string name="mimoji_gif_edit_title">GIF редактиране</string>
+    <string name="mimoji_gif_reverse">Обратно</string>
+    <string name="mimoji_save_finish">Готово</string>
+    <string name="module_name_mimoji2">Mimoji 2</string>
+    <string name="preview_back_pressed_hint">Натиснете отново, за да се върнете към визуализацията</string>
 </resources>
