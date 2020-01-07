@@ -267,7 +267,7 @@
   <string name="passport_change_phone_number">Смяна на номерата</string>
   <string name="passport_checking_account">Проверка на паролата…</string>
   <string name="passport_checking_input">Проверка на данните…</string>
-  <string name="passport_click_email_to_valid">\" За да активирате вашият профил, последвайте връзката за активиране от писмото в пощата ви.\"</string>
+  <string name="passport_click_email_to_valid">"За да активирате профила си, следвайте връзката, която изпратихме до пощата ви"</string>
   <string name="passport_completed">Завършване</string>
   <string name="passport_confirm_login">Продължи</string>
   <string name="passport_confirm_recycle_account">Да</string>

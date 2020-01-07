@@ -2941,6 +2941,10 @@
     <string name="ew_setting_normal_push_title">Получаване на системни известия</string>
     <string name="ew_setting_strong_push_message">За земетресения с интензитет от 2.0 и по-висок</string>
     <string name="ew_setting_strong_push_title">Предупреждение за силни земетресения (Включено по подразбиране)</string>
-	<string name="gtb_exit_game_to_gtb">Отворете кутията за игри</string>
+	<string name="gtb_exit_game_to_gtb">Отвори кутията за игри</string>
     <string name="gtb_exit_game_to_home">Връщане към началния екран</string>
+	<string name="gb_voice_changer_permission_dlg_title">Изискват се разрешения</string>
+    <string name="gb_voice_changer_permission_dlg_msg">Промяната на гласа трябва да може да записва аудио, за да работи нормално.</string>
+    <string name="gb_voice_changer_dlg_button_refuse">Забрани</string>
+    <string name="gb_voice_changer_dlg_button_agree">Разреши</string>
 </resources>

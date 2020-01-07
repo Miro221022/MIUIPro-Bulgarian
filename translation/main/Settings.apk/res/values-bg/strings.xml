@@ -6699,4 +6699,5 @@ OTG се изключва автоматично след 10 минути без
     <string name="use_otg_file_transfers">Обратно зареждане и прехвърляне на файлове</string>
     <string name="use_otg_file_transfers_summary">По-бавно 500мА зареждане и прехвърляне на файлове</string>
     <string name="use_otg_title">USB в движение</string>
+	<string name="call_example_name">Име</string>
 </resources>
