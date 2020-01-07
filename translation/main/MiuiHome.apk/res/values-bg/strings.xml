@@ -459,5 +459,6 @@
 	<string name="category_edit_back_confirm_dialog_content">Запазване на промените сега?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">"Не запазвай"</string>
     <string name="category_edit_back_confirm_dialog_positive_button">Запази</string>
-	<string name="auto_add_app_shortcut">Последно инсталирани приложения, добавени на началния екран</string>
+	<string name="auto_add_app_shortcut">Добавяне на икона на началния екран за новоинсталирани приложения</string>
+	<string name="one_key_call_title">Докоснете, за набиране</string>
 </resources>

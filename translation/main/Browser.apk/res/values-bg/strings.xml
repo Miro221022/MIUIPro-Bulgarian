@@ -1233,4 +1233,5 @@
   <string name="ytb_subscribe_channel">Абонаменти</string>
   <string name="ytb_subscribed">Абониран</string>
   <string name="ytb_want_to_subscribe">Абониране за този канал?</string>
+  <string name="vo_mi_ad_detail">Отвори в %s</string>
 </resources>
