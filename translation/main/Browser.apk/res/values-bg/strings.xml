@@ -121,7 +121,6 @@
   <string name="bookmark_title_lable">Заглавие</string>
   <string name="bookmark_url_already_exisit">Вече сте добавили този URL</string>
   <string name="bookmark_url_can_not_null">Въведете URL</string>
-  <string name="bookmark_url_lable">Уебадрес</string>
   <string name="bookmark_url_not_valid">Този URL адрес е невалиден</string>
   <string name="bookmarks_content_is_null">Няма отметки</string>
   <string name="bookmarks_management">Редактиране на отметки</string>
@@ -130,7 +129,6 @@
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Плъзни надолу за затваряне</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последен раздел</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Плъзни нагоре за затваряне</string>
-  <string name="browser">Mi Браузър</string>
   <string name="browserFrameFileErrorLabel">Грешка във файла</string>
   <string name="browserFrameFormResubmitMessage">Страницата, която се опитвате да видите, съдържа данни, които вече са изпратени. (\"POSTDATA \"). Ако изпратите отново данните, всяка операция (потвърждение за онлайн покупка) може да се извърши отново.</string>
   <string name="browserFrameNetworkErrorLabel">Грешка във връзката</string>
@@ -221,7 +219,6 @@
   <string name="copy_url">Копиране на URL адрес</string>
   <string name="could_not_load_data">Данните не можаха да се заредят, обновете и опитайте отново</string>
   <string name="create_qr_code">QR код</string>
-  <string name="current_version_pad">Таблет</string>
   <string name="current_version_pc">Работен плот</string>
   <string name="current_version_phone">Телефон</string>
   <string name="custom_head_card_text">Винаги вярвай, че най-доброто предстои</string>
@@ -270,7 +267,7 @@
   <string name="download_default_path_txt">Запомнете този избор</string>
   <string name="download_delete_download">Изтрий</string>
   <string name="download_dialog_cannot_resume">Изтеглянето бе прекъснато</string>
-  <string name="download_dialog_confirm_delete_checkbox_message">Изтрий файла на вътрешна памет</string>
+  <string name="download_dialog_confirm_delete_checkbox_message">Изтриване на файл на вътрешна памет</string>
   <string name="download_dialog_confirm_delete_the_download_item_message">Да се ​​изтрие ли тази задача?</string>
   <string name="download_dialog_content_downloading">Изтегляне…</string>
   <string name="download_dialog_content_open_mi_picks">Отвори</string>
@@ -411,7 +408,7 @@
   <string name="exo_track_unknown">Неизвестно</string>
   <string name="expand_button_title">Допълнителни</string>
   <string name="exported">Изнесени</string>
-  <string name="external_app_restricted_access_error">Mi Браузър не може да получи достъп до този елемент.</string>
+  <string name="external_app_restricted_access_error">Mi Browser не може да получи достъп до този елемент.</string>
   <string name="fast_search_title">Бързо търсене</string>
   <string name="fb_login_tips">Впишете се, за да изтеглите видеоклипове от Facebook</string>
   <string name="fb_register_btn">Създай акаунт</string>
@@ -447,7 +444,7 @@
   <string name="go_supermarket_button">Отиди</string>
   <string name="go_supermarket_title">Повече приложения, по-бърза скорост и по-малко използване на данни в App Store</string>
   <string name="gold_medals">Златни медали</string>
-  <string name="have_sent_bookmark_to_home_screen">Поставено на началния екран</string>
+  <string name="have_sent_bookmark_to_home_screen">Отметката е запазена на началните екрани</string>
   <string name="hint">Съвет</string>
   <string name="history">Хронология</string>
   <string name="home_description">Начало</string>
@@ -459,7 +456,6 @@
   <string name="homepage_more_cards">Още услуги</string>
   <string name="homepage_more_sites">Още уебсайтове</string>
   <string name="homepage_search_hint">Търсене</string>
-  <string name="homepage_top_card_menu">Отгоре</string>
   <string name="hot_games">Популярни</string>
   <string name="ignore_add_game_center_dialog_this_week">Не показвай тази седмица</string>
   <string name="ignore_add_pwa_dialog_today">Не показвай днес</string>
@@ -746,7 +742,6 @@
   <string name="nf_choose_reason">Опишете проблема</string>
   <string name="nf_dislike">Не е интересно</string>
   <string name="nf_feedback">Докладвай</string>
-  <string name="nf_feedback_tips1">Ще видите по-малко елементи от този вид</string>
   <string name="nf_feedback_tips2">Благодарим за отзивите</string>
   <string name="nf_go_source">Източник</string>
   <string name="nf_new_feed_language">НОВО</string>
@@ -1098,7 +1093,6 @@
   <string name="suggest_open_app_failed">Не може да се отвори приложението</string>
   <string name="summary_command_mode">Включете, за да влезете в командния режим</string>
   <string name="summary_youtube_download">Активиране на изтеглянето от YouTube</string>
-  <string name="switchText">ДА</string>
   <string name="tab_quicklinks">Начална страница</string>
   <string name="tab_yellowpage">Връзки</string>
   <string name="tabs_description">Прозорци</string>
@@ -1114,7 +1108,6 @@
   <string name="twitter_moments">Моменти от Twitter</string>
   <string name="undo">Отмени</string>
   <string name="unsecurity_url_toast">Тази уеб страница е несигурна</string>
-  <string name="unSwitchText">НЕ</string>
   <string name="up_to_loading_tips">Пуснете за обновяване</string>
   <string name="update_no_network_toast">Няма връзка с мрежата</string>
   <string name="update_now">АКТУАЛИЗИРАЙ СЕГА</string>
@@ -1133,12 +1126,9 @@
   <string name="user_defined_webpage">Добавяне към начална страница</string>
   <string name="user_defined_webpage_title">Добавяне към начална страница</string>
   <string name="username">Име</string>
-  <string name="uuid">UUID (кликнете за експортиране)</string>
   <string name="v5_deselect_all">Откажи всички</string>
   <string name="v5_edit_mode_title_empty">0 избрани</string>
   <string name="v5_select_all">Избери всички</string>
-  <string name="v7_preference_off">ИЗКЛЮЧЕНО</string>
-  <string name="v7_preference_on">ВКЛЮЧЕНО</string>
   <string name="version_check_button_checking">Проверка</string>
   <string name="version_check_button_default">Проверка за актуализации</string>
   <string name="version_check_button_download_failed">Продължи изтеглянето</string>
@@ -1243,4 +1233,5 @@
   <string name="ytb_subscribe_channel">Абонаменти</string>
   <string name="ytb_subscribed">Абониран</string>
   <string name="ytb_want_to_subscribe">Абониране за този канал?</string>
+  <string name="vo_mi_ad_detail">Отвори в %s</string>
 </resources>
