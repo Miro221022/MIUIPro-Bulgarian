@@ -84,7 +84,6 @@
         <item>Сняг</item>
     </string-array>
      <string-array name="pref_navscreen_layoutstate_choices">
-	    <item>Изглед като плочка</item>
         <item>Вертикален изглед</item>
         <item>Хоризонтален изглед</item>
      </string-array>
@@ -99,11 +98,30 @@
     </string-array>
 	    <string-array name="pref_homepage_choices_with_simplehome">
         <item>Начална страница по подразбиране</item>
-        <item>Чиста начална страница</item>
         <item>Персонализирано</item>
     </string-array>
 	    <string-array name="quick_link_tabs">
         <item>Отметки</item>
         <item>История</item>
+    </string-array>
+	    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Назад/напред</item>
+        <item>Превключване на раздели</item>
+        <item>Без</item>
+    </string-array>
+	    <string-array name="nf_feedback_reason">
+        <item>Неподходящо съдържание</item>
+        <item>Измама</item>
+        <item>Стара новина</item>
+        <item>Екстремистки възгледи</item>
+        <item>Реклама</item>
+    </string-array>
+	    <string-array name="menu_theme_setting">
+        <item>Бяло</item>
+        <item>Жълто</item>
+        <item>Сиво</item>
+        <item>Кафяво</item>
+        <item>Зелено</item>
+        <item>Синьо</item>
     </string-array>
 </resources>

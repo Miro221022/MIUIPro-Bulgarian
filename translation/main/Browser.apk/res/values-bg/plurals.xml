@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="adblock_notification">
+    <item quantity="other">%d блокирани реклами</item>
+    <item quantity="one">%d блокирана реклама</item>
+  </plurals>
   <plurals name="adblock_rules_number_text">
     <item quantity="other">%d блокирани елементи</item>
     <item quantity="one">%d блокиран елемент</item>
+  </plurals>
+  <plurals name="articles_updated_amount">
+    <item quantity="other">Разгледайте %1$d нови статии</item>
+    <item quantity="one">Разгледайте %1$d нова статия</item>
+    <item quantity="few">Разгледайте %1$d нови статии</item>
+  </plurals>
+  <plurals name="auto_play_next_tips">
+    <item quantity="other">Изпълни на следващото видео след %d секунди</item>
+    <item quantity="one">Изпълни следващото видео след %d секунди</item>
+  </plurals>
+  <plurals name="download_business_v5_edit_mode_title">
+    <item quantity="other">%1$d избрани</item>
+    <item quantity="one">%1$d избрано</item>
+  </plurals>
+  <plurals name="download_dialog_confirm_delete_downloads_message">
+    <item quantity="other">Изтрий %d задачи?</item>
+    <item quantity="one">Изтрий %d задача?</item>
   </plurals>
   <plurals name="find_on_page_matches">
     <item quantity="other">%d съвпадения</item>
     <item quantity="one">%d съвпадение</item>
   </plurals>
+  <plurals name="le_notification_download_completed">
+    <item quantity="other">Изтеглени са %d елемента успешно</item>
+    <item quantity="one">Изтеглен е %d елемент успешно</item>
+  </plurals>
   <plurals name="mw_last_num_days">
     <item quantity="other">Последните %d дни</item>
+    <item quantity="one">Последния %d ден</item>
   </plurals>
   <plurals name="mw_matches_found">
     <item quantity="other">%1$d от %2$d</item>
@@ -18,6 +44,30 @@
   <plurals name="nav_screen_incognito_time">
     <item quantity="other">След %d секунди автоматично ще се създаде нова страница</item>
     <item quantity="one">След %d секунда автоматично ще се създаде нова сраница</item>
+  </plurals>
+  <plurals name="nf_item_like">
+    <item quantity="other">%s харесвания</item>
+    <item quantity="one">%s харесване</item>
+  </plurals>
+  <plurals name="players">
+    <item quantity="other">%d играчи</item>
+    <item quantity="one">%d играч</item>
+  </plurals>
+  <plurals name="pref_adblock_counts">
+    <item quantity="other">%d блокирани</item>
+    <item quantity="one">%d блокиран</item>
+  </plurals>
+  <plurals name="suggest_access_item_album_songs">
+    <item quantity="other">%d песни</item>
+    <item quantity="one">%d песен</item>
+  </plurals>
+  <plurals name="suggest_access_item_singer_albums">
+    <item quantity="other">%d албума</item>
+    <item quantity="one">%d албум</item>
+  </plurals>
+  <plurals name="suggest_access_item_singer_pop">
+    <item quantity="other">%d популярни песни</item>
+    <item quantity="one">%d популярна песен</item>
   </plurals>
   <plurals name="transfer_prompt">
     <item quantity="other">Изпълни клипа след %1$d секунди</item>
@@ -43,54 +93,25 @@
     <item quantity="other">Да се изтрият ли %1$d елементи от историята?</item>
     <item quantity="one">Да се изтрие ли %1$d елемент от историята?</item>
   </plurals>
+  <plurals name="video_push_multi_message">
+    <item quantity="other">%1$d налични актуализации.</item>
+    <item quantity="one">%1$d налична актуализация.</item>
+  </plurals>
   <plurals name="video_subtitle_last_message">
     <item quantity="other">%d минути остават</item>
     <item quantity="one">%d минута остава</item>
   </plurals>
-      <plurals name="hot_word_hot_count">
-        <item quantity="other">%d преглеждания</item>
-        <item quantity="one">%d преглед</item>
-    </plurals>
-    <plurals name="info_flow_tips">
-        <item quantity="other">Намерени са %d нови елемента за вас</item>
-        <item quantity="one">Намерен е %d нов елемент за вас</item>
-    </plurals>
-    <plurals name="vo_comment">
-        <item quantity="other">%s коментара</item>
-        <item quantity="one">%s коментар</item>
-    </plurals>
-    <plurals name="vo_image_mark">
-        <item quantity="other">%d изображения</item>
-        <item quantity="one">%d изображение</item>
-    </plurals>
-    <plurals name="vo_short_video_play_count">
-        <item quantity="other">%s преглеждания</item>
-        <item quantity="one">%s преглед</item>
-    </plurals>
-    <plurals name="vo_source_comment">
-        <item quantity="other">%1$s | %2$s коментара</item>
-        <item quantity="one">%1$s | %2$s коментар</item>
-    </plurals>
-    <plurals name="vo_vote_num">
-        <item quantity="other">%d души вече са гласували</item>
-        <item quantity="one">%d човек вече е гласувал</item>
-    </plurals>
-    <plurals name="vo_wei_bo_publish_time_hour">
-        <item quantity="other">· преди %s часа</item>
-        <item quantity="one">· преди %s час</item>
-    </plurals>
-    <plurals name="vo_wei_bo_publish_time_minute">
-        <item quantity="other">· преди %s минути</item>
-        <item quantity="one">· преди %s минута</item>
-    </plurals>
-    <plurals name="vo_zhi_hu_answer">
-        <item quantity="other">%d отговора в Zhihu</item>
-        <item quantity="one">%d отговор в Zhihu</item>
-    </plurals>
-	     <plurals name="video_playback_error">
-         <item quantity="other">"Видеоклипът не може да се зареди.
- Ще се изпълни следващия след %d секунди…"</item>
-         <item quantity="one">"Видеоклипът не може да се зареди.
- Ще се изпълни следващия след %d секунда…"</item>
-     </plurals>
+  <plurals name="videos_updated_amount">
+    <item quantity="other">Разгледайте %1$d нови видеоклипа</item>
+    <item quantity="one">Разгледайте %1$d ново видео</item>
+  </plurals>
+  <plurals name="view_count">
+    <item quantity="other">%1$d прегледа</item>
+    <item quantity="one">%1$d преглед</item>
+  </plurals>
+  <plurals name="vote_all_people">
+    <item quantity="other">%d хора са гласували</item>
+    <item quantity="one">%d човек е гласувал</item>
+    <item quantity="few">%d хора са гласували</item>
+  </plurals>
 </resources>
