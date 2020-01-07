@@ -907,8 +907,8 @@
      <string name="preference_dial_pad_touch_tone_default">По подразбиране</string>
      <string name="preference_dial_pad_touch_tone_human">Човешки глас</string>
      <string name="preference_dial_pad_touch_tone_piano">Пиано</string>
-     <string name="preference_dial_pad_touch_tone_switch">Звук на клавиш</string>
-     <string name="preference_dial_pad_touch_tone_title">Тон при докосване</string>
+     <string name="preference_dial_pad_touch_tone_switch">Звук при набиране</string>
+     <string name="preference_dial_pad_touch_tone_title">Звук при набиране</string>
      <string name="preference_display">Показване</string>
      <string name="preference_displayOptions">Опции за показване</string>
      <string name="preference_display_contact">Опции за показване</string>
