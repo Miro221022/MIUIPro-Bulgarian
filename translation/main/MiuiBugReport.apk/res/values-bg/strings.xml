@@ -8,7 +8,7 @@
   <string name="app_name">Отзиви</string>
   <string name="app_search">Търсене на приложения</string>
   <string name="btn_send">Изпрати</string>
-  <string name="bugreport_dialog_not_show_again">Не показвай отново</string>
+  <string name="bugreport_dialog_not_show_again">"Не показвай отново"</string>
   <string name="bugreport_dialog_submit_content">&lt;Data&gt;\"На път сте да създадете софтуерен отчет за това устройство. Отчетите могат да съдържат лична информация и данни за местоположението ви. Не споделяйте отчети с никой друг, ако не искате тази информация да бъде изложена. Избирането на \"Приемам\" означава,че че сте прочели и сте се съгласили с нашите &lt;a href=\"%1$s\"&gt;Политика за поверителност&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Потребителско споразумение&lt;/a&gt;.\"&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Чукнете за преглед.</string>
   <string name="bugreport_dump_complete_notification_title">Докладът е създаден</string>
@@ -49,7 +49,7 @@
   <string name="cta_confirm">ОК</string>
   <string name="cta_dialog_content">Отзиви може да се свързва към интернет, за да предоставя услугите си. Ще продължите ли?</string>
   <string name="cta_dialog_title">Известие за свързване</string>
-  <string name="cta_not_show_again">Не показвай отново</string>
+  <string name="cta_not_show_again">"Не показвай отново"</string>
   <string name="customer_service_apply">Запитване към Обслужване на клиенти</string>
   <string name="customer_service_complain">Докладвайте на Обслужване на клиенти</string>
   <string name="customer_service_station">Местопол на Обслужване на клиенти</string>

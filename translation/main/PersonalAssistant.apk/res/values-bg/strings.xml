@@ -63,7 +63,7 @@
   <string name="ball_basketball_total_rank">Класиране</string>
   <string name="ball_dialog_confirm">Инсталиране</string>
   <string name="ball_dialog_content">Инсталирайте %s за да използвате тази функция. Инсталиране сега?</string>
-  <string name="ball_dialog_tip">Не показвай отново</string>
+  <string name="ball_dialog_tip">"Не показвай отново"</string>
   <string name="ball_dialog_title">Инсталирайте приложението първо.</string>
   <string name="ball_football_news">Футболни новини</string>
   <string name="ball_football_rank_flat">Скица</string>

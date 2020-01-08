@@ -682,7 +682,7 @@
   <string name="dialog_change_package_type_title">Промяна на типа план за данни</string>
   <string name="dialog_msg_auto_start_declare">Някои приложения може неправилно да показват, че MIUI не им позволява да стартират. Проверете разрешенията, предоставени на отделните приложения в Настройки &gt; Приложения.</string>
   <string name="dialog_msg_stop_virus_scan">Ще спрете ли сканирането преди да приключи?</string>
-  <string name="dialog_no_longer_alert">Не показвай отново</string>
+  <string name="dialog_no_longer_alert">"Не показвай отново"</string>
   <string name="dialog_restrict_all_mobile_summary">%s Мобилната връзка за данни ще бъде ограничена за всички приложения след това.</string>
   <string name="dialog_restrict_all_mobile_title">Ограничаване %s мобилна връзка за данни</string>
   <string name="dialog_restrict_all_wlan_summary">WLAN връзката ще бъде ограничена за всички приложения след това.</string>
@@ -691,7 +691,7 @@
   <string name="dialog_restrict_positive">Отказ</string>
   <string name="dialog_roaming_message">Оператора ще ви начисли допълнителни такси за данни в роуминг.</string>
   <string name="dialog_roaming_title">Международен роуминг</string>
-  <string name="dialog_roaming_warning_checkbox">Не показвай отново</string>
+  <string name="dialog_roaming_warning_checkbox">"Не показвай отново"</string>
   <string name="dialog_roaming_warning_message">Операторът Ви ще начисли допълнителна такса ако включите роъминг за ползване на данни. Включване въпреко това?</string>
   <string name="dialog_roaming_warning_ok">Включи</string>
   <string name="dialog_title_attention">Внимание</string>
@@ -1793,7 +1793,7 @@
   <string name="pm_auto_start_by_system">Стартиращи приложения</string>
   <string name="pm_auto_start_by_system_event">Разрешава приложенията да стартират автоматично</string>
   <string name="pm_auto_start_proc_is_running">Изпълняващи се</string>
-  <string name="pm_remember_choice">Не показвай отново</string>
+  <string name="pm_remember_choice">"Не показвай отново"</string>
   <string name="pm_root_success_notification_infomation">Уверете се, че разбирате рисковете, свързани с ROOT достъпа</string>
   <string name="pm_root_success_notification_title">Имате ROOT достъп</string>
   <string name="power_20s_shutdown">Устройството ще се изключи след %d секунди</string>
@@ -2021,7 +2021,7 @@
   <string name="privacy_apps_begin_use">Начало</string>
   <string name="privacy_apps_button_know">Разбрах</string>
   <string name="privacy_apps_category_title">Скрити приложения</string>
-  <string name="privacy_apps_checkbox_remind_choice">Не показвай отново</string>
+  <string name="privacy_apps_checkbox_remind_choice">"Не показвай отново"</string>
   <string name="privacy_apps_close">Затвори</string>
   <string name="privacy_apps_enable_summary">Преместете приложенията в скрита папка и премахнете преките им пътища на началния екран</string>
   <string name="privacy_apps_go_to_use">Старт</string>

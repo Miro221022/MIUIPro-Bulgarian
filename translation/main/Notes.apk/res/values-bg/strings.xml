@@ -33,7 +33,7 @@
   <string name="dialog_share_as_text">Споделяне на бележката като текст</string>
   <string name="dialog_share_title">Споделяне на бележка</string>
   <string name="dlg_btn_set_password">Задайте парола</string>
-  <string name="dlg_check_reminder">Не показвай отново</string>
+  <string name="dlg_check_reminder">"Не показвай отново"</string>
   <string name="dlg_delete_message">Изтрива се…</string>
   <string name="dlg_hide_message">Скриване…</string>
   <string name="dlg_info_creating_message">Създава се съобщение…</string>

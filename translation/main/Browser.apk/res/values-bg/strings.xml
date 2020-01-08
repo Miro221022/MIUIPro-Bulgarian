@@ -67,7 +67,7 @@
   <string name="add_game_center_to_homescreen">Добавяне на пряк път към началния екран?</string>
   <string name="add_new_bookmark">Добави отметка</string>
   <string name="add_new_quicklink">Добавяне към началната страница</string>
-  <string name="add_pwa_to_homescreen">Добави Пряк път в начален екран?</string>
+  <string name="add_pwa_to_homescreen">Добавяне на пряк път на началния екран?</string>
   <string name="add_ql_bm_title">Добави</string>
   <string name="add_quicklink_to_popular">Добавяне към начална страница</string>
   <string name="add_quicklinks">Добави</string>
@@ -462,10 +462,10 @@
   <string name="homepage_top_card_menu">Отгоре</string>
   <string name="hot_games">Популярни</string>
   <string name="ignore_add_game_center_dialog_this_week">Не показвай тази седмица</string>
-  <string name="ignore_add_pwa_dialog_today">Не показвай днес</string>
+  <string name="ignore_add_pwa_dialog_today">"Не показвай днес"</string>
   <string name="in_incognito">В инкогнито сте! Уеб страниците, които виждате в този раздел, няма да се показват в историята на вашия браузър.</string>
   <string name="in_secureaccess">Браузърът премина в безопасен режим</string>
-  <string name="incognito_off">Режимът инкогнито е изключен.</string>
+  <string name="incognito_off">Режим инкогнито е изключен.</string>
   <string name="incognito_on">Вие сте инкогнито!</string>
   <string name="ins_login_tips">Впишете се, за да изтеглите видеоклипове от Instagram</string>
   <string name="ins_register_btn">Създайте профил, чрез имейл или телефонен номер</string>
@@ -934,7 +934,7 @@
   <string name="privacy_authorize_revoke_dialog_title">Анулиране на разрешението</string>
   <string name="privacy_authorize_revoke_failed">Оторизацията не може да бъде оттеглена</string>
   <string name="privacy_authorize_revoke_success">Анулирането на разрешение успешно</string>
-  <string name="privacy_authorize_revoke_time">Отмяна (%1$ds)</string>
+  <string name="privacy_authorize_revoke_time">Отмяна (%1$dсек.)</string>
   <string name="privacy_authorize_revoking">Анулиране на разрешение…</string>
   <string name="privacy_authorize_summary">Включете или изключете превключвателя, за да предоставите или оттеглите оторизацията</string>
   <string name="privacy_authorize_title">Оторизация</string>

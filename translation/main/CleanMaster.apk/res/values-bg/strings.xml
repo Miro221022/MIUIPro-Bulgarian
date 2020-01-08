@@ -105,7 +105,7 @@
   <string name="button_text_keep_one">Запази един</string>
   <string name="button_text_known">ОК</string>
   <string name="button_text_let_me_select">ОК</string>
-  <string name="button_text_not_prompt_again">Не показвай отново</string>
+  <string name="button_text_not_prompt_again">"Не показвай отново"</string>
   <string name="button_text_photo_selected">Избрани</string>
   <string name="button_text_restore_ignore">Отмени</string>
   <string name="button_text_select_all">Избери</string>
@@ -303,7 +303,7 @@
   <string name="global_wa_setting_privacy_pref_mi_title">Политика за поверителност на Xiaomi</string>
   <string name="global_wa_setting_privacy_pref_third_title">Политики за поверителност на трети страни</string>
   <string name="global_wa_shortcut_dialog_cancel">Отказ</string>
-  <string name="global_wa_shortcut_dialog_checkbox_hint">Не показвай отново</string>
+  <string name="global_wa_shortcut_dialog_checkbox_hint">"Не показвай отново"</string>
   <string name="global_wa_shortcut_dialog_confirm">Създай</string>
   <string name="global_wa_shortcut_dialog_content">Създайте пряк път за началния екран за WhatsApp почистване, за да направите тази функция лесно достъпна.</string>
   <string name="global_wa_shortcut_dialog_title">Пряк път за началния екран</string>

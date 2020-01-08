@@ -109,7 +109,7 @@
     <string name="no_storage">Сложете карта памет, преди да използвате Камера</string>
     <string name="not_insert_contact">Не може да се вмъкне контакт</string>
     <string name="not_recommend_access_web_url">Продължаване въпреки това</string>
-    <string name="not_tips">Не показвай отново</string>
+    <string name="not_tips">"Не показвай отново"</string>
     <string name="note">Бележка:</string>
     <string name="payment_weixin">WeChat</string>
     <string name="payment_zhifubao">AliPay</string>

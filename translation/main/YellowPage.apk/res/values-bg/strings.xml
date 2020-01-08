@@ -73,7 +73,7 @@
   <string name="delete">Изтрий</string>
   <string name="disclaimer_text">Жълти страници получават информация за вашия баланс чрез изпращане на SMS. Операторът ви може да актуализира тази информация със закъснение, така че цифрите, които получавате може да са неточни. Ако видите грешка, можете да съобщите с SMS за запитване, за да ни помогнете да подобрим тази услуга.\n\nЗа да избегнем чести запитвания, актуализираме информацията за баланса веднъж на ден.</string>
   <string name="disclaimer_title">Отказ от отговорност</string>
-  <string name="do_not_remind_me">Не показвай отново</string>
+  <string name="do_not_remind_me">"Не показвай отново"</string>
   <string name="dont_enable">Изключи</string>
   <string name="download_completed">Изтеглянето е запазено в %s</string>
   <string name="download_failed">Изтеглянето е неуспешно</string>
@@ -264,7 +264,7 @@
   <string name="recharge_user_confirm_title">Потвърждение за допълване</string>
   <string name="refresh">Опресни</string>
   <string name="remember_preference">Запомняне на избора</string>
-  <string name="remind_another_time">Не показвай отново</string>
+  <string name="remind_another_time">"Не показвай отново"</string>
   <string name="remind_user_confirm">OК</string>
   <string name="remind_user_suspect_number_message">Бъдете внимателни: Винаги проверявайте самоличността на обаждащия се чрез телефона или видео, преди да споделите личната си информация.</string>
   <string name="remind_user_suspect_number_title">Подозрителен номер</string>

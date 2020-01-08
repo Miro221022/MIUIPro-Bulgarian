@@ -444,7 +444,7 @@
   <string name="no_block_button_msg">Деблокирай</string>
   <string name="no_conversations">Няма разговори</string>
   <string name="no_delivery_report">Няма доклад за получаване</string>
-  <string name="no_longer_recommend">Не показвай отново</string>
+  <string name="no_longer_recommend">"Не показвай отново"</string>
   <string name="no_network_description">Не може да се свърже с мрежата. Проверете мрежовите настройки и опитайте отново.</string>
   <string name="no_subject">(Няма тема)</string>
   <string name="no_subject_view">(Няма тема)</string>
@@ -744,7 +744,7 @@
   <string name="select_sim">Изберете SIM карта</string>
   <string name="select_top_text">Текстът отгоре</string>
   <string name="send">Изпрати</string>
-  <string name="send_message_dlg_check_hint">Не показвай отново</string>
+  <string name="send_message_dlg_check_hint">"Не показвай отново"</string>
   <string name="send_message_dlg_mgs">СМСС бележка: Необходимо е да регистрираме вашето устройство в нашата платформа за управление, за да ви доставим безплатна поддържка. Тази платформа управлява мобилните устройства и разрешава промяна на настройки или актуализиране на вашия софтуер дистанционно. Безплатно текстово съобщение с информация за вашето устройство ще бъде изпратено за регистрация. Това съобщение ще бъде изпратено само веднъж и няма да съдържа ваша лична информация. Такова съобщение не може да бъде изпратено, ако сте потребител от Хонг Конг, Макао, Тайван и всички чужди страни. Изберете \"ОК\", ако сте съгласни и регистрирайте вашето устройство. Изберете \"Отказ\", ако не сте съгласни с тези условия. В този случай няма да бъдете обслужвани от тази услуга.</string>
   <string name="send_message_dlg_title">Управление на устройства</string>
   <string name="send_message_notification_msg">Докоснете, за да видите подробности за заявката.</string>

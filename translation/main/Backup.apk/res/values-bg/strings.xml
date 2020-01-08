@@ -595,7 +595,7 @@
   <string name="user_feedback">Отзиви</string>
   <string name="user_name">Apple ID или имейл</string>
   <string name="user_name_null">Полето с име на потребител не може да е празно</string>
-  <string name="user_notice_declaration_ignore">Не показвай отново</string>
+  <string name="user_notice_declaration_ignore">"Не показвай отново"</string>
   <string name="user_notice_message">Някои функции се нуждаят от интернет връзка, за да работят нормално.</string>
   <string name="user_notice_title">Внимание</string>
   <string name="view_password_description">Покажи паролата</string>

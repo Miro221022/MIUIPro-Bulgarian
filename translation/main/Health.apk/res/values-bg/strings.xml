@@ -151,7 +151,7 @@
   <string name="dialog_keep">Запази</string>
   <string name="dialog_known">Разбрах</string>
   <string name="dialog_menstruation_purpose">Добре дошли в Mi Здраве! \"Менструация\" ви позволява да записвате месечни цикли, да определяте вероятните дати на следващи цикли и да получавате напомняния. Всички свързани с това данни ще бъдат съхранявани локално на устройството ви, което позволява лесното им управление.</string>
-  <string name="dialog_no_more_prompt">Не показвай отново</string>
+  <string name="dialog_no_more_prompt">"Не показвай отново"</string>
   <string name="dialog_ok">OК</string>
   <string name="dialog_open">Разреши</string>
   <string name="dialog_permission_loading_msg">Проверява се…</string>
@@ -226,9 +226,12 @@
   <string name="jump_over">Пропусни</string>
   <string name="just_recently">Сега</string>
   <string name="label_average_daily_sleep_duration">Средна продължителност на съня</string>
-  <string name="label_average_daily_sleep_time">"Приблизително време   за заспиване"</string>
-  <string name="label_average_daily_sleep_time2">"Приблизително време   за заспиване"</string>
-  <string name="label_average_daily_wake_up_time">"  Приблизително времe за събуждане"</string>
+  <string name="label_average_daily_sleep_time">"Приблизително време  
+ за заспиване"</string>
+  <string name="label_average_daily_sleep_time2">"Приблизително време  
+ за заспиване"</string>
+  <string name="label_average_daily_wake_up_time">"  Приблизително времe
+ за събуждане"</string>
   <string name="label_body_weight_evaluation">Оценка на теглото</string>
   <string name="label_body_weight_recent">Последни</string>
   <string name="label_body_weight_trend">Напредък</string>

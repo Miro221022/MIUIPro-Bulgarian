@@ -574,7 +574,7 @@
   <string name="shortcut_add">Добави</string>
   <string name="shortcut_cancel">Не благодаря</string>
   <string name="shortcut_message">Добавете икона към начален екран!</string>
-  <string name="shortcut_show_tip">Не показвай отново</string>
+  <string name="shortcut_show_tip">"Не показвай отново"</string>
   <string name="shortcut_title">Като нашите тапети??</string>
   <string name="show_free_font">Показване на безплатни шрифтове</string>
   <string name="show_free_theme">Показване на безплатни теми</string>
@@ -667,7 +667,7 @@
   <string name="theme_user_agreement_content5">.</string>
   <string name="theme_user_agreement_exit">Отхвърли</string>
   <string name="theme_user_agreement_remind_again">Показване на Условията за ползване</string>
-  <string name="theme_user_agreement_remind_never">Не показвай отново</string>
+  <string name="theme_user_agreement_remind_never">"Не показвай отново"</string>
   <string name="theme_user_agreement_remind_summary">Показване на изскачащ прозорец с условията на ползване при всяко отваряне на приложението Теми. Тази настройка ще влезе в сила след рестартиране на устройството.</string>
   <string name="theme_user_agreement_title">Декларация</string>
   <string name="theme_yes">Да</string>
@@ -789,7 +789,7 @@
   <string name="wifi_check_cancel">Отказ</string>
   <string name="wifi_check_confirm">Потвърди</string>
   <string name="wifi_check_message">Използване на мобилни данни, за да изтегляне на актуализации?</string>
-  <string name="wifi_check_tip">Не показвай отново</string>
+  <string name="wifi_check_tip">"Не показвай отново"</string>
   <string name="xiaoai_speech_not_installed_download">Изтегляне</string>
   <string name="xiaoai_speech_not_installed_message">Изтеглете и инсталирайте Mi AI Гласов асистент за да продължите.</string>
   <string name="xiaoai_speech_not_installed_title">Не е инсталиран Mi AI Гласов асистент.</string>

@@ -823,7 +823,7 @@
   <string name="push_wps_better_confirm_download">Изтегляне</string>
   <string name="push_wps_better_confirm_exit">Други приложения</string>
   <string name="push_wps_better_confirm_message">Използвайте WPS офис, за да отворите този прикачен файл.</string>
-  <string name="push_wps_better_confirm_noshow_hint">Не показвай отново</string>
+  <string name="push_wps_better_confirm_noshow_hint">"Не показвай отново"</string>
   <string name="push_wps_better_confirm_title">Пробвайте WPS офис</string>
   <string name="push_wps_confirm_cancel">Не сега</string>
   <string name="push_wps_confirm_download">Изтегляне</string>

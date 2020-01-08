@@ -415,7 +415,7 @@
   <string name="hungama_subscribe_title">ПРО членство</string>
   <string name="i_know">Знам това</string>
   <string name="impunity_declaration_content">Трябва да се съгласите с нашите&lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt; Споразумение с потребителя &lt;/a&gt; и &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt; Политики за сигурност &lt;/a&gt;за да ползвате този продукт.</string>
-  <string name="impunity_declaration_ignore">Не показвай отново</string>
+  <string name="impunity_declaration_ignore">"Не показвай отново"</string>
   <string name="impunity_declaration_negative_text">Изход</string>
   <string name="impunity_declaration_positive_text">Приемам</string>
   <string name="impunity_declaration_settings">Показване на Условията за ползване</string>

@@ -82,7 +82,7 @@
   <string name="dialog_message_agree">Приемам</string>
   <string name="dialog_message_for_contact_permission">За да се направят налични аларми за рождени дни, Часовник трябва да има достъп до контактите ви. Съгласни ли сте?</string>
   <string name="dialog_message_negative">Не приемам</string>
-  <string name="dialog_message_not_remind">Не показвай отново</string>
+  <string name="dialog_message_not_remind">"Не показвай отново"</string>
   <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Тази функция трябва да се свърже с интернет, за да работи нормално. Преди да използвате тази функция, трябва да се съгласите с нашите &lt;a href=\"%1$s\"&gt;Потребителско споразумение&lt;/a&gt; and &lt;a href=\"%2$s\"&gt;Политика за поверителност&lt;/a&gt;. Съгласни ли сте?&lt;/Data&gt;</string>
   <string name="dialog_privacy_content">За да получите и синхронизирате подходяща информация за местните официални празници и да предостави персонализирани услуги, Часовник трябва да се свърже с интернет. Преди да използвате Часовник, трябва да прочетете и да се съгласите с нашите %1$s и %2$s. Съгласни ли сте?</string>
   <string name="dialog_privacy_content_global">С цел предоставяне на персонализирани услуги, Часовник трябва да се свърже с интернет. Преди да използвате Часовник, трябва да прочетете и да се съгласите с нашите  %1$s и %2$s. Съгласни ли сте?</string>

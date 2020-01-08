@@ -33,7 +33,7 @@
     <string name="guide_toast">За да калибрирате, местете устройството си, както е показано по-долу.</string>
     <string name="mobiledata_alert_dialog_title">Предупреждение за данни</string>
     <string name="mobiledata_alert_dialog_message">Да се свърже ли към интернет за калибриране на височината?</string>
-    <string name="do_not_show_next_time">Не показвай отново</string>
+    <string name="do_not_show_next_time">"Не показвай отново"</string>
     <string name="location_not_enabled_title">Активиране на позиционирането</string>
     <string name="location_not_enabled_summary">Приложението Компас се нуждае от достъп до вашето местоположение за да показва координати и други принадлежности.</string>
     <string name="location_enable">Активирай</string>

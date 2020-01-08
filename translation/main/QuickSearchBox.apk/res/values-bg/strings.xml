@@ -29,7 +29,7 @@
   <string name="corpus_label_web">Web резултати</string>
   <string name="corpus_selection_heading">Търсене</string>
   <string name="cta_declaration">Тази функция се нуждае от връзка с интернет, достъп до местоположението на устройството ви и преглед на историята на обажданията и контактите ви, за да работи нормално.</string>
-  <string name="cta_declaration_ignore">Не показвай отново</string>
+  <string name="cta_declaration_ignore">"Не показвай отново"</string>
   <string name="cta_declaration_negative_text">Не разрешавай</string>
   <string name="cta_declaration_positive_text">Разреши</string>
   <string name="cta_declaration_title">Условия за ползване</string>

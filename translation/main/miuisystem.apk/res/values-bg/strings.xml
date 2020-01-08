@@ -45,7 +45,7 @@
   <string name="crystal">Кристал</string>
   <string name="cta_button_continue">Приемам</string>
   <string name="cta_button_quit">Изход</string>
-  <string name="cta_check_reminder">Не показвай отново</string>
+  <string name="cta_check_reminder">"Не показвай отново"</string>
   <string name="cta_message_license">Използвайки този продукт, вие приемате условията, посочени в нашите Общи условия и Политика за поверителност.</string>
   <string name="cta_message_permission">Това приложение се нуждае от %2$s, за да работи нормално.</string>
   <string name="cta_permission_and">" и "</string>

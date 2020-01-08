@@ -167,8 +167,8 @@
   <string name="dialog_share_cancel">Отказ</string>
   <string name="dialog_share_wx_time_line">Моменти</string>
   <string name="diamond_recharge">Вземете диаманти</string>
-  <string name="do_not_show_again">Не показвай отново</string>
-  <string name="do_not_show_this_again">Не показвай отново</string>
+  <string name="do_not_show_again">"Не показвай отново"</string>
+  <string name="do_not_show_this_again">"Не показвай отново"</string>
   <string name="dolby_audio_cant_play">Този аудиозапис не може да бъде възпроизведен поради ограничения на авторските права.</string>
   <string name="download">Изтегляне</string>
   <string name="download_fail">Не можа да се изтегли, опитайте отново.</string>
@@ -952,7 +952,7 @@
   <string name="v_category">Категории</string>
   <string name="v_change_mobile_net_setting">Настройки</string>
   <string name="v_clause_info">1. За да можете да използвате онлайн услугите, предоставяни от Sohu TV, iQiyi и други доставчици на съдържание, трябва да се съгласите с нашите &lt;a href=\"https://a.video.xiaomi.com/mvideo/user_agreement.html\"&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href=\"https://privacy.mi.com/all/\"&gt;Политика за поверителност&lt;/a&gt;\".\n2. Ще събираме информацията за вашето устройство и начина, по който използвате Mi Видео. Доставчиците на съдържание ще събират идентификационния номер на вашето устройство.\n3. Mi Видео трябва да се свърже към мрежата, за да работи нормално.\n4. Mi Видео трябва да изтеглите и инсталирате HD видео приставка, за да можете да предавате видеоклипове.\"</string>
-  <string name="v_clause_notips">Не показвай отново</string>
+  <string name="v_clause_notips">"Не показвай отново"</string>
   <string name="v_clause_title">Правила и условия</string>
   <string name="v_click_channel_scrol_to_top">Докоснете отново, за да се върнете към върха.</string>
   <string name="v_click_to_login">Докоснете, за да влезете</string>
@@ -1243,7 +1243,7 @@
   <string name="vp_network_status_error">Възникна грешка в мрежата. Опитайте отново.</string>
   <string name="vp_newest_ep">Нов</string>
   <string name="vp_next_ci">Следващ</string>
-  <string name="vp_no_longer_tips">Не показвай отново</string>
+  <string name="vp_no_longer_tips">"Не показвай отново"</string>
   <string name="vp_notify_apk_installed">Приложението е инсталирано успешно</string>
   <string name="vp_offline">Офлайн</string>
   <string name="vp_offline_status_done">Завършено</string>
