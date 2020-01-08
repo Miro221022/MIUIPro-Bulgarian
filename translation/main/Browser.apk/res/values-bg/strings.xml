@@ -31,7 +31,7 @@
   <string name="action_menu_text_bandwidth_off">Пестене на данни</string>
   <string name="action_menu_text_bandwidth_on">Пестене на данни</string>
   <string name="action_menu_text_bookmark_added">Отметката е добавена</string>
-  <string name="action_menu_text_copy_url">Копирай URL адрес</string>
+  <string name="action_menu_text_copy_url">Копирай адреса</string>
   <string name="action_menu_text_create_qr_code">"   QR код"</string>
   <string name="action_menu_text_download">Изтегляния</string>
   <string name="action_menu_text_exit">Изход</string>
@@ -466,7 +466,7 @@
   <string name="in_incognito">В инкогнито сте! Уеб страниците, които виждате в този раздел, няма да се показват в историята на вашия браузър.</string>
   <string name="in_secureaccess">Браузърът премина в безопасен режим</string>
   <string name="incognito_off">Режим инкогнито е изключен.</string>
-  <string name="incognito_on">Вие сте инкогнито!</string>
+  <string name="incognito_on">В режим инкогнито сте!</string>
   <string name="ins_login_tips">Впишете се, за да изтеглите видеоклипове от Instagram</string>
   <string name="ins_register_btn">Създайте профил, чрез имейл или телефонен номер</string>
   <string name="interest_card_button">Продължи</string>
@@ -503,7 +503,7 @@
   <string name="media_error_video_not_exist">Видеото не съществува</string>
   <string name="menu_addtodesk">Добави към началния екран</string>
   <string name="menu_exit_nightmode">Изход</string>
-  <string name="menu_hv_swap">V/H екран</string>
+  <string name="menu_hv_swap">Ориентация на екрана</string>
   <string name="menu_nightmode">Нощен режим</string>
   <string name="menu_preferences">Настройки</string>
   <string name="menu_theme_setting">Настройки на темата</string>
@@ -949,14 +949,14 @@
   <string name="pwa_app_name">Web apps</string>
   <string name="qr_code_title">QR код</string>
   <string name="qr_description">Сканиране на QR код</string>
-  <string name="quicklink_bookmark_save">Запиши в</string>
+  <string name="quicklink_bookmark_save">Записване в</string>
   <string name="quicklink_cannot_save_url">Този адрес не може да се добави.</string>
   <string name="quicklink_folder_text">Топ Приложения</string>
   <string name="quicklink_no_history">Няма елементи тук.</string>
   <string name="quicklink_not_saved">Не може да се добави към началната страница</string>
   <string name="quicklink_push_confirm_message">Вашите новини няма да се обновяват след изключване на тази функция. Изключване сега?</string>
   <string name="quicklink_quick_select">Добавете уебсайтове</string>
-  <string name="quicklink_saved">Добавено към нач. страница</string>
+  <string name="quicklink_saved">Запазено на началната страница</string>
   <string name="quicklink_saved_before">Сайтът е добавен</string>
   <string name="quicklink_user_define_webpage_title">Име</string>
   <string name="quicklink_user_define_webpage_url">Адрес</string>
@@ -1105,7 +1105,7 @@
   <string name="tip_drag">Натиснете и задръжте, за да редактирате и плъзнете, за да сортирате.</string>
   <string name="title_bar_loading">Зареждане…</string>
   <string name="title_command_mode">Команден режим</string>
-  <string name="toast_exit_browser">Докоснете отново, за да излезете от браузъра</string>
+  <string name="toast_exit_browser">Докоснете/плъзнете отново, за да излезете</string>
   <string name="too_many_windows_dialog_message">Браузърът не може да отвори нов раздел, докато не затворите друг</string>
   <string name="too_many_windows_dialog_title">Не могат да се отворят още раздели</string>
   <string name="transfer_prompt_0">Изпълни видео</string>
