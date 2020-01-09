@@ -6695,9 +6695,11 @@ OTG се изключва автоматично след 10 минути без
 	<string name="codec_low_latency_summary">Осигурява ниска латентност за аудио/видео синхронизация</string>
     <string name="codec_low_latency_title">Ниска латентност</string>
 	<string name="use_otg_charge_only">Обратно зареждане</string>
-    <string name="use_otg_charge_only_summary">По-бързо зареждане с 1А</string>
+    <string name="use_otg_charge_only_summary">По-бързо 1.8A зареждане</string>
     <string name="use_otg_file_transfers">Обратно зареждане и прехвърляне на файлове</string>
     <string name="use_otg_file_transfers_summary">По-бавно 500мА зареждане и прехвърляне на файлове</string>
     <string name="use_otg_title">USB в движение</string>
 	<string name="call_example_name">Име</string>
+	<string name="poco_launcher_privacy_policy">Политика за поверителност на POCO Launcher</string>
+    <string name="poco_launcher_user_agreement">Потребителско споразумение на POCO Launcher</string>
 </resources>

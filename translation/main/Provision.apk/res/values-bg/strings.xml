@@ -235,4 +235,6 @@
     <string name="user_agreement_declare">Преди да използвате MIUI, трябва да прочетете и да се съгласите с нашите потребителско споразумение и политика за поверителност. Докато устройството ви се активира, Услуга за активация на Mi SIM, Открий устройството, Начален екран, Чести фрази, Услугата за превод, MIUI Daemon, HTML преглед, Интелигентен асистент, Батерия и производителност, Детектор на захранването, Joyose, OS AI настройки и Актуализация ще се свържат с мрежата. Интелигентните услуги ще се свържат с мрежата и ще имат достъп до вашето местоположение.</string>
 	<string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
 	<string name="data_traffic_enable_dialog_title">"Ако сега не сте свързани с WLAN, устройството ви ще използва мобилни данни. Използването на мобилни данни може да генерира допълнителни такси на оператора."</string>
+    <string name="poco_launcher_privacy_policy">Политика за поверителност на POCO Launcher</string>
+    <string name="poco_launcher_user_agreement">Потребителско споразумение на POCO Launcher</string>
 </resources>
