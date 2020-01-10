@@ -101,4 +101,7 @@
   <string name="disable_aod_in_power_save_mode">Изключване когато пестенето на батерия е включено</string>
   <string name="disable_aod_in_power_save_mode_summary">"Без показване на елементи, за да се спести енергия"</string>
   <string name="photo_editor_saving">Запазване…</string>
+  <string name="delete">Изтрий</string>
+  <string name="my_style_title">Мой стил</string>
+  <string name="theme_cate_title">Тема</string>
 </resources>

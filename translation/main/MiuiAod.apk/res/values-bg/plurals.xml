@@ -4,4 +4,8 @@
         <item quantity="other">" %1$sчаса %2$s"</item>
         <item quantity="one">" %1$sчас %2$s"</item>
     </plurals>
+	<plurals name="count_selected">
+        <item quantity="other">%d избрани елемента</item>
+        <item quantity="one">%d избран елемент</item>
+</plurals>
 </resources>
