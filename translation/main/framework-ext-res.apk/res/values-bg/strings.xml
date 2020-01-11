@@ -34,7 +34,7 @@
     <string name="replace">Замени</string>
     <string name="frequent_phrases">Чести фрази</string>
     <string name="add_frequent_phrases">Добавяне на чести фрази</string>
-    <string name="alwaysUsePrompt">Запомни моят избор</string>
+    <string name="alwaysUsePrompt">"Запомни моят избор"</string>
     <string name="translation_query_error">Няма резултати</string>
     <string name="translation_query_error_network">Не може да се получи информация, проверете мрежовите настройки и опитайте отново</string>
     <string name="translation_more">Повече</string>
