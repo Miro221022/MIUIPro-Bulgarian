@@ -31,8 +31,8 @@
     <item quantity="one">Изтриване на %1$d контакт?</item>
   </plurals>
   <plurals name="btn_delete_multi_contacts">
-    <item quantity="other">Изтрити са %1$d контакта</item>
-    <item quantity="one">Изтрит %1$d контакт</item>
+    <item quantity="other">Изтрий %1$d контакта</item>
+    <item quantity="one">Изтрий %1$d контакт</item>
   </plurals>
   <plurals name="callNoAnswerTimeFormat">
     <item quantity="other">Звънял %1$d пъти</item>

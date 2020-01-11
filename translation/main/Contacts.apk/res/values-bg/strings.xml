@@ -2,7 +2,7 @@
 <resources>
      <string name="accessibility_calllog_detail">Подробности за историята на повикванията</string>
      <string name="accessibility_contact_detail">Детайли за контакт</string>
-     <string name="account_container_title">От профила</string>
+     <string name="account_container_title">Импортирано от</string>
      <string name="account_default">Телефон</string>
      <string name="account_dual_sdn">SDN %s</string>
      <string name="account_dual_sim">SIM карта %s</string>
@@ -124,7 +124,7 @@
      <string name="callrecordview_menu_batch_delete">Пакетно изтриване</string>
      <string name="callrecordview_menu_blocklist">Списък с блокирани</string>
      <string name="callrecordview_menu_conference">Конферентно обаждане</string>
-     <string name="callrecordview_menu_delete">Изчистване на историята</string>
+     <string name="callrecordview_menu_delete">Изчисти историята</string>
      <string name="callrecordview_menu_delete_accepted">Изчистване на отговорените повиквания</string>
      <string name="callrecordview_menu_delete_all">Изчистване на историята на повикванията</string>
      <string name="callrecordview_menu_delete_called">Изчистване на изходящите повиквания</string>
@@ -641,7 +641,7 @@
      <string name="menu_copy">Копирай</string>
      <string name="menu_copyContact">Копирай в \"Моите контакти\"</string>
      <string name="menu_create_contact_shortcut">Добави на начален екран</string>
-     <string name="menu_deleteContact">Изтриване на контакт</string>
+     <string name="menu_deleteContact">Изтриване на контакта</string>
      <string name="menu_deleteGroup">Изтриване</string>
      <string name="menu_dial_ip_number">IP обаждане</string>
      <string name="menu_dialpad_text">Клавиатура</string>
@@ -1068,7 +1068,7 @@
      <string name="share_contact_as">Споделяне на контакта като</string>
      <string name="share_error">Този контакт не може да бъде споделен</string>
      <string name="share_over_limit">Над лимита, не може да се сподели</string>
-     <string name="share_qrcode">Споделяне на QR код</string>
+     <string name="share_qrcode">Споделяне на QR кода</string>
      <string name="share_via">Споделяне чрез</string>
      <string name="share_visible_contacts">Споделяне на контакти</string>
      <string name="shortcutActivityTitle">Изберете пряк път</string>
