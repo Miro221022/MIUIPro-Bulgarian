@@ -155,7 +155,7 @@
   <string name="bluetooth_show_devices_without_names">Показване на устройствата с Bluetooth без имена</string>
   <string name="bluetooth_show_devices_without_names_summary">Ще бъдат показани устройствата с Bluetooth без имена (само MAC адресите)</string>
   <string name="bluetooth_tethering_subtext">Споделете връзката с интернет на телефона през Bluetooth</string>
-  <string name="bluetooth_unpair_dialog_body">Телефонът ви вече няма да бъде сдвоен с/ъс „%1$s“</string>
+  <string name="bluetooth_unpair_dialog_body">Телефонът ви вече няма да бъде сдвоен със „%1$s“</string>
   <string name="bluetooth_unpair_dialog_forget_confirm_button">Забравяне на устройството</string>
   <string name="bluetooth_unpair_dialog_title">Да се забрави ли устройството?</string>
   <string name="call_volume_option_title">Сила на звука за обаждания</string>
@@ -565,7 +565,7 @@
   <string name="wifi_calling_settings_activation_instructions">Активиране на функцията за обаждания през Wi-Fi</string>
   <string name="wifi_calling_turn_on">Включване на функцията за обаждания през Wi-Fi</string>
   <string name="wifi_cant_connect">Не може да се установи връзка</string>
-  <string name="wifi_cant_connect_to_ap">Не може да се установи връзка с/ъс %1$s</string>
+  <string name="wifi_cant_connect_to_ap">Не може да се установи връзка със %1$s</string>
   <string name="wifi_carrier_connect">Wi‑Fi мрежа на оператор</string>
   <string name="wifi_carrier_content">Свържете се през %1$s</string>
   <string name="wifi_check_password_try_again">Проверете паролата и опитайте отново</string>

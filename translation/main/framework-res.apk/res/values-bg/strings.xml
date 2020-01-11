@@ -1504,9 +1504,9 @@
   <string name="whichHomeApplication">Избиране на начално приложение</string>
   <string name="whichHomeApplicationLabel">Заснемане на изображение</string>
   <string name="whichHomeApplicationNamed">Използване на %1$s като начално приложение</string>
-  <string name="whichImageCaptureApplication">Заснемане на изображение с/ъс</string>
+  <string name="whichImageCaptureApplication">Заснемане на изображение със</string>
   <string name="whichImageCaptureApplicationLabel">Заснемане на изображение</string>
-  <string name="whichImageCaptureApplicationNamed">Заснемане на изображение с/ъс %1$s</string>
+  <string name="whichImageCaptureApplicationNamed">Заснемане на изображение със %1$s</string>
   <string name="whichSendApplication">Споделяне чрез</string>
   <string name="whichSendApplicationLabel">Споделяне</string>
   <string name="whichSendApplicationNamed">Споделяне чрез %1$s</string>
@@ -1536,7 +1536,7 @@
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct е включено</string>
   <string name="wifi_p2p_enter_pin_message">Въведете задължителния ПИН:</string>
   <string name="wifi_p2p_failed_message">Wi-Fi Direct не можа да се стартира.</string>
-  <string name="wifi_p2p_frequency_conflict_message">Телефонът временно ще прекрати връзката с Wi-Fi, докато е свързан с/ъс %1$s</string>
+  <string name="wifi_p2p_frequency_conflict_message">Телефонът временно ще прекрати връзката с Wi-Fi, докато е свързан със %1$s</string>
   <string name="wifi_p2p_from_message">От:</string>
   <string name="wifi_p2p_invitation_sent_title">Поканата е изпратена</string>
   <string name="wifi_p2p_invitation_to_connect_title">Покана за свързване</string>

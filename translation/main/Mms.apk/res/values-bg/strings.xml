@@ -6,7 +6,7 @@
   <string name="action_sign_in_short">Регистрация</string>
   <string name="activity_not_found">Не е открита програма за показване на прикачения файл</string>
   <string name="activity_not_found_uri">Не е открита програма за това действие</string>
-  <string name="add_attachment">Добави прик. файлове</string>
+  <string name="add_attachment">Добави прикачени файлове</string>
   <string name="add_contact">Добави контакт</string>
   <string name="add_miui_contact">Контакт</string>
   <string name="add_music">Добави музика</string>
@@ -17,12 +17,12 @@
   <string name="add_slide_before">Добави интро-слайд</string>
   <string name="add_slide_hint">Чукнете, за създаване на нов слайд</string>
   <string name="add_smiley">Емотикони</string>
-  <string name="add_timing">Момент</string>
-  <string name="add_to_browser_favorite_failed">неуспешно</string>
-  <string name="add_to_browser_favorite_success">успешно</string>
+  <string name="add_timing">Планирано</string>
+  <string name="add_to_browser_favorite_failed">Неуспешно добавяне</string>
+  <string name="add_to_browser_favorite_success">Добавено успешно</string>
   <string name="add_video">Добави видео</string>
-  <string name="addBlackList">Добави към блокирани</string>
-  <string name="adding_attachments">Добавяне. Моля, изчакайте…</string>
+  <string name="addBlackList">Блокирай</string>
+  <string name="adding_attachments">Изчакайте, докато елементите се добавят към слайдшоуто.</string>
   <string name="adding_attachments_title">Добавяне на прикачени файлове</string>
   <string name="adding_recipients">Добавяне на получатели…</string>
   <string name="alert_dlg_cancel_button">Отказ</string>
@@ -30,12 +30,12 @@
   <string name="allow_network_hint">Включете \"Автоматично актуализиране на информацията\" или проверете мрежовата връзка</string>
   <string name="already_updated">Актуално</string>
   <string name="app_label">Съобщения</string>
-  <string name="app_name">Device Management</string>
+  <string name="app_name">Устройства</string>
   <string name="application_list_title">Мини приложения</string>
   <string name="area_code_hot">Популярни</string>
   <string name="area_code_title">Изберете код на държавата</string>
   <string name="attach_group_chat">Групов чат</string>
-  <string name="attach_image">Изображение</string>
+  <string name="attach_image">Снимки</string>
   <string name="attach_rcs_file">Файл</string>
   <string name="attach_rcs_location">Местоположение</string>
   <string name="attach_record_sound">Запис на звук</string>
@@ -44,12 +44,12 @@
   <string name="attach_sound">Звук</string>
   <string name="attach_subject">Тема</string>
   <string name="attach_take_photo">Снимка</string>
+  <string name="attach_transaction">Прехвърляне на пари</string>
   <string name="attach_video">Видео</string>
   <string name="attach_video_call">Видео повикване</string>
-  <string name="audio_download_failed">изтеглянето на записа е неуспешно</string>
+  <string name="audio_download_failed">Звукът не може да се изтегли</string>
   <string name="audio_message_expired">Това гласово съобщение е с изтекъл срок.</string>
   <string name="audio_message_mx_offline">Не може да се изтегли аудио файла. Mi Message няма връзка или не може да се зареди.</string>
-  <string name="audio_playing_seconds">%d\"</string>
   <string name="audio_sim_card_mismatching">Няма мрежа или е инсталирана невалидна SIM карта. Поставете валидна SIM карта и се свържете към мрежата.</string>
   <string name="auto_identify_btn_text_only_smart_messaging">Включване на Интелигентни съобщения</string>
   <string name="auto_identify_btn_text_when_all_disabled">Автоматично идентифициране на подателя</string>
@@ -57,8 +57,8 @@
   <string name="auto_identify_confirmation">Може да отнеме няколко минути, за да се активира тази функция.</string>
   <string name="back_to_message_list">Списък със съобщения</string>
   <string name="batch_adding_progress_message">Добавяне…</string>
-  <string name="batch_deleting_message_progress_message">Изтриване на избраните съобщения</string>
-  <string name="batch_deleting_progress_message">Изтриване на избрания низ от съобщения</string>
+  <string name="batch_deleting_message_progress_message">Изтриване…</string>
+  <string name="batch_deleting_progress_message">Изтриване…</string>
   <string name="bcc_label">Скрито копие:</string>
   <string name="block_messaging_entry_title">Блокиран SMS</string>
   <string name="block_number_message">Този телефонен номер ще бъде добавен към списъка с блокирани. Всички съобщения, изпратени от този номер, ще бъдат блокирани.</string>
@@ -132,6 +132,7 @@
   <string name="confirm_restore_title">Възстанови съобщенията</string>
   <string name="confirm_send_mms">Един от вашите получатели съдържа имейл адрес. Съобщението ще бъде изпратено като MMS, възможно е да се начисли допълнителна такса от оператора ви.</string>
   <string name="confirm_upload_sms">Качвайте съобщения, за да подобрите функционалността на списъците с блокирани</string>
+  <string name="contact_card_unknown_contact">Неизвестен контакт</string>
   <string name="contact_not_exists">Този човек не е в контактите ви.</string>
   <string name="context_menu_add_calendar">Покажи в Календар</string>
   <string name="context_menu_add_contact">Добави в контакти</string>
@@ -201,7 +202,7 @@
   <string name="duration_zero">Продължителността трябва да е по-голяма от 0 секунди</string>
   <string name="earlier">По-рано</string>
   <string name="edit">Редактирай</string>
-  <string name="edit_phrase">Редакция на бързи отговори</string>
+  <string name="edit_phrase">Редакция на бързите отговори</string>
   <string name="edit_slide_activity">Редактирай слайд</string>
   <string name="edit_slideshow_activity">Редактирай слайдшоу</string>
   <string name="enabled">Вкл</string>
@@ -229,7 +230,7 @@
   <string name="failed_to_resize_image">Изображението не е преоразмерено.</string>
   <string name="fake_cell_alert_detect_error">Това не е изпратено от фалшива базова станция</string>
   <string name="fake_cell_alert_hint">Изглежда това съобщение е изпратено от номер, различен от показания. Бъдете внимателни за съобщения, съдържащи добавена стойност.</string>
-  <string name="fake_cell_checking_hint">Safety checking…</string>
+  <string name="fake_cell_checking_hint">Проверка на безопасността…</string>
   <string name="fake_cell_safe_hint">Това съобщение е безопасно</string>
   <string name="fake_cell_timeout_hint">Неуспешна проверка на сигурността</string>
   <string name="favorite_at_time">Добавен към любими на: %1s</string>
@@ -270,7 +271,7 @@
   <string name="guild_add_attachments">Натиснете за добавяне на емотикони и друго съдържание</string>
   <string name="guild_add_recipients">Чукнете, за да добавите получатели от контакти</string>
   <string name="guild_msim_switcher">Чукнете за смяна на SIM картите</string>
-  <string name="has_invalid_recipient">&lt;%1$s&gt; невалидни получатели;</string>
+  <string name="has_invalid_recipient">Невалидни получатели: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Скрит адрес на подателя</string>
   <string name="hold_to_talk">Задръж и говори</string>
   <string name="hybrid_check_network">Мрежови настройки</string>
@@ -330,7 +331,7 @@
   <string name="message_expired">Изтекло</string>
   <string name="message_failed">Неуспешно</string>
   <string name="message_failed_body">Натиснете за преглед на съобщението и опитайте отново.</string>
-  <string name="message_number">Тел. номер:</string>
+  <string name="message_number">Телефонен номер:</string>
   <string name="message_pending">Изпращане…</string>
   <string name="message_queued">В момента не можете да изпратите съобщението. Ще бъде изпратено след като услугата е достъпна.</string>
   <string name="message_queued_second_space">Неуспешно изпращане на съобщението. Включете мобилните данни за да го изпратите.</string>
@@ -402,7 +403,7 @@
   <string name="mx_btn_enable">Активирай</string>
   <string name="mx_btn_enable_now">Активирай</string>
   <string name="mx_count_dspt">Изпратени: %1$d SMS и %2$d MMS</string>
-  <string name="mx_current_status">Настройки за моб. данни</string>
+  <string name="mx_current_status">Настройки</string>
   <string name="mx_dspt">Изпращане на съобщения до други потребители на MIUI без да се начисляват такси за SMS</string>
   <string name="mx_dspt_listview">Изпращане на съобщение до други MIUI устройства без допълнителни разходи</string>
   <string name="mx_dspt_provision">Mi Съобщение ви позволява да изпращате съобщения до други MIUI потребители през Интернет, без допълнителни такси. За повторно активиране на Mi съобщение трябва да изпратите sms. Може да бъдете таксувани за изходящо съобщение от доставчика ви. Освен това, тази услуга се нуждае и от включени мобилни данни, за да работи правилно.</string>
@@ -415,6 +416,7 @@
   <string name="mx_filter_message_from_stranger_dialog_title">Блокирай Mi Съобщение от непознати номера</string>
   <string name="mx_filter_message_from_stranger_summary">Вие все още можете да получавате нормални SMS от непознати номера</string>
   <string name="mx_main_purpose">Mi Съощение ви позволява да изпращате съобщения до други потребители на Mi Съощение през интернет, без такси.\nНеобходимо е изходящо SMS съобщение, за да активирате Mi Съобщение. Вашият оператор ще ви таксува за това съобщение.</string>
+  <string name="mx_main_purpose_short">Mi Съобщение позволява на MIUI потребителите да изпращат и получават безплатни SMS и MMS съобщения.</string>
   <string name="mx_message">Mi Съобщение</string>
   <string name="mx_msg">Mi Съобщение</string>
   <string name="mx_msg_pageview_setting_title">Настройки на Mi Съобщение</string>
@@ -444,7 +446,7 @@
   <string name="no_block_button_msg">Деблокирай</string>
   <string name="no_conversations">Няма разговори</string>
   <string name="no_delivery_report">Няма доклад за получаване</string>
-  <string name="no_longer_recommend">"Не показвай отново"</string>
+  <string name="no_longer_recommend">Не показвай отново</string>
   <string name="no_network_description">Не може да се свърже с мрежата. Проверете мрежовите настройки и опитайте отново.</string>
   <string name="no_subject">(Няма тема)</string>
   <string name="no_subject_view">(Няма тема)</string>
@@ -516,7 +518,7 @@
   <string name="pref_summary_manage_sim_messages">Управление на съобщенията, съхранени в SIM картата</string>
   <string name="pref_summary_mms_auto_retrieval">Автоматично зареждане на съобщения</string>
   <string name="pref_summary_mms_read_reports">Изискване на потвърждение за прочитане за всяко изпратено съобщение</string>
-  <string name="pref_summary_mms_retrieval_during_roaming">Автоматично зареждане на съобщения в роуминг</string>
+  <string name="pref_summary_mms_retrieval_during_roaming">Автоматично изтегляне на снимки и видеоклипове в съобщенията при роуминг</string>
   <string name="pref_summary_notification_body_enabled">Показване на съобщенията на заключен екран и в лентата с известия</string>
   <string name="pref_summary_off_system_mms_priority">Използване на друго приложение за получаване и изпращане на MMS</string>
   <string name="pref_summary_on_system_mms_priority">Използване на системното MMS приложение за получаване и изпращане на MMS</string>
@@ -723,8 +725,7 @@
   <string name="search_title_mms">Мултимедийни съобщения</string>
   <string name="second_mms_introduction">please go to second space</string>
   <string name="second_mms_switch">switch user</string>
-  <string name="secs">с.</string>
-  <string name="security_alert_desc">&lt;font color=\"#7f000000\"&gt;\"\"Подателят не е във вашите контакти.\"\u000d\n\" \"\"&lt;/font&gt;</string>
+  <string name="security_alert_desc">&lt;font color=\"#7f000000\"&gt;\"Подателят не е във вашите контакти.\n \"&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">Докладвай този номер</string>
   <string name="security_alert_dialog_desc">Докладвайте този номер (%s) и съобщение чрез изпращане към Xiaomi</string>
   <string name="security_alert_dialog_title">Доклад</string>
@@ -744,7 +745,7 @@
   <string name="select_sim">Изберете SIM карта</string>
   <string name="select_top_text">Текстът отгоре</string>
   <string name="send">Изпрати</string>
-  <string name="send_message_dlg_check_hint">"Не показвай отново"</string>
+  <string name="send_message_dlg_check_hint">Не показвай отново</string>
   <string name="send_message_dlg_mgs">СМСС бележка: Необходимо е да регистрираме вашето устройство в нашата платформа за управление, за да ви доставим безплатна поддържка. Тази платформа управлява мобилните устройства и разрешава промяна на настройки или актуализиране на вашия софтуер дистанционно. Безплатно текстово съобщение с информация за вашето устройство ще бъде изпратено за регистрация. Това съобщение ще бъде изпратено само веднъж и няма да съдържа ваша лична информация. Такова съобщение не може да бъде изпратено, ако сте потребител от Хонг Конг, Макао, Тайван и всички чужди страни. Изберете \"ОК\", ако сте съгласни и регистрирайте вашето устройство. Изберете \"Отказ\", ако не сте съгласни с тези условия. В този случай няма да бъдете обслужвани от тази услуга.</string>
   <string name="send_message_dlg_title">Управление на устройства</string>
   <string name="send_message_notification_msg">Докоснете, за да видите подробности за заявката.</string>
@@ -782,7 +783,7 @@
   <string name="sim2">Sim 2</string>
   <string name="slide_number">Слайд %d</string>
   <string name="slide_show_part">Част %1$d/%2$d</string>
-  <string name="slide_up_to_cancel">Плъзни пръста по екрана за отказ</string>
+  <string name="slide_up_to_cancel">Плъзнете нагоре, за да отмените</string>
   <string name="slideshow_activity">Слайдшоу</string>
   <string name="smart_message_title">Интелигентни съобщения</string>
   <string name="smart_messages_network_allow_message">Mi Съобщение трябва да се свърже с интернет, за да може услугите му да работят нормално. Разрешаване сега?</string>
@@ -790,7 +791,6 @@
   <string name="smart_msg_main_purpose">Интелигентните съобщения осигуряват разпознаване на идентификатора на подателя и услуги за интелигентно меню.</string>
   <string name="smart_msg_privacy_policy">Политика за поверителност на Интелигентни съобщения</string>
   <string name="sms_card_partner_label">Партньор за SMS карта:</string>
-  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Съдържание на съобщенията</string>
   <string name="sms_full_body">Входящото съобщение е отхвърлено: Няма достатъчно свободно място на устройството.</string>
   <string name="sms_full_title">Паметта за съобщения е пълна</string>
@@ -801,11 +801,11 @@
   <string name="sms_report_dialog_title">Опитайте отново</string>
   <string name="sms_report_failed">Не може да се изпрати доклад</string>
   <string name="sms_report_success">Докладът е изпратен успешно</string>
-  <string name="snippet_audio">[Аудио]</string>
-  <string name="snippet_picture">[Снимка]</string>
-  <string name="snippet_timed">[Timed]</string>
+  <string name="snippet_audio">[Звук]</string>
+  <string name="snippet_picture">[Изображение]</string>
+  <string name="snippet_timed">[Планирано]</string>
   <string name="sp_category_all">Всички съобщения от оператора</string>
-  <string name="sp_category_bank">Съобщения от банки</string>
+  <string name="sp_category_bank">Съобщения за банкови известия</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Уведомления</string>
   <string name="sp_mark_as_read_menu_title">Маркирай прочетено</string>
@@ -883,13 +883,10 @@
   <string name="too_many_unsent_mms">Не може да изпратите съобщението веднага. Има твърде много неизпратени MMS.</string>
   <string name="try_to_send">Опитайте се да изпратите</string>
   <string name="type_attachment">Прикачен файл</string>
-  <string name="type_audio">Аудиозапис</string>
-  <string name="type_picture">Изображение</string>
   <string name="type_to_compose_text_enter_to_send">Напишете съобщението си тук</string>
   <string name="type_to_compose_text_or_leave_blank">Въведете текст или оставете празно</string>
   <string name="type_vcard">vCard</string>
-  <string name="type_video">Видеозапис</string>
-  <string name="undelivered_msg_dialog_body">\"Неуспешно изпращане на съобщението. Опити: %s.</string>
+  <string name="undelivered_msg_dialog_body">Неуспешно изпращане на съобщението.\nНаправени опити: %s.</string>
   <string name="undelivered_msg_dialog_title">Неизпратено съобщение</string>
   <string name="undelivered_sms_dialog_body">Неуспешно изпращане на съобщението.</string>
   <string name="unknown_num">Неизвестен номер</string>
@@ -923,20 +920,4 @@
   <string name="zero_sms_feedback_message">Докладваните съобщения се качват на нашите сървъри заедно с телефонните номера на техните податели. Тези съобщения се използват само за подобряване на функционалността на Списъците с блокирани.</string>
   <string name="zero_sms_feedback_success">Докладвано успешно</string>
   <string name="zero_sms_feedback_title">Докладвай</string>
-  <string name="contact_card_unknown_contact">Неизвестен контакт</string>
-  <string name="feature_mx">Mi Съобщение</string>
-  <string name="feature_mx_summary"><b>Mi Съобщение ви позволява да изпращате съобщения до други потребители на Mi Съобщение през интернет, без допълнителни такси</b>. За активиране на тази услуга е необходимо изпращане на SMS съобщение. Вашият оператор ще ви таксува за това съобщение. Прочетете и се съгласете с нашите <font color="#B3000000"><a href="http://url1">Потребителско споразумение</a></font> и <font color="#B3000000"><a href="http://url2">Политика за поверителност</a></font> преди да използвате тази функция.</string>
-  <string name="feature_smart_sms">Интелигентни съобщения</string>
-  <string name="feature_smart_sms_summary"><b>Интелигентни съобщения осигурява разпознаване на идентификатора на подателя и интелигентни менюта</b>". Услугата се предоставят частично от Yulore. Прочетете и се съгласете с "<font color="#B3000000"><a href="http://url3">Политика за поверителност</a></font> на Yulore преди да използвате тази функция.</string>
-  <string name="ignore">Не сега</string>
-  <string name="privacy_term">Политика за поверителност</string>
-  <string name="recommend_both_dialog_title">Добре дошли в Съобщения!</string>
-  <string name="recommend_dialog_message">Можете да включите Mi Съобщение и Интелигентни съобщения за достъп до допълнителни функции.</string>
-  <string name="recommend_mx_dialog_title">Добре дошли в Mi Съобщение!</string>
-  <string name="recommend_mx_setting_summary">Mi Съобщение ви позволява да изпращате съобщения до други потребители на Mi Съобщение през интернет, без допънителни такси.</string>
-  <string name="recommend_smart_sms_dialog_title">Добре дошли в Интелигентни съобщения!</string>
-  <string name="recommend_smart_sms_setting_summary">Интелигентни съобщения осигурява разпознаване на идентификатора на подателя и интелигентни менюта.</string>
-  <string name="turn_on">Включи</string>
-  <string name="user_term">Потребителско споразумение</string>
-  <string name="yulore_term">Политика за поверителност</string>
 </resources>

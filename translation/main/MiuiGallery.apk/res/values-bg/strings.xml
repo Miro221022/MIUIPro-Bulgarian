@@ -162,7 +162,7 @@
   <string name="baby_lock_wallpaper_save_settings_msg">Прилагане на текущите настройки?</string>
   <string name="baby_lock_wallpaper_title">Използвайте бебешки снимки като тапет за заключен екран</string>
   <string name="baby_name_cannot_empty">Въведете име</string>
-  <string name="baby_name_cannot_start_with">Името не може да започва с/ъс \'%s\'</string>
+  <string name="baby_name_cannot_start_with">Името не може да започва със \'%s\'</string>
   <string name="baby_name_contain_invalidate_char">Името не може да съдържа \'%s\'</string>
   <string name="baby_name_reserved">Това име е запазено за друг албум</string>
   <string name="baby_nick_name">Псевдоним</string>

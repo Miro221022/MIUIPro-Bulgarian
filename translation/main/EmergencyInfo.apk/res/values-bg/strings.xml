@@ -111,9 +111,9 @@
   <string name="bluetooth_pairing_accept">Сдвояване</string>
   <string name="bluetooth_pairing_accept_all_caps">СДВОЯВАНЕ</string>
   <string name="bluetooth_pairing_decline">Отказ</string>
-  <string name="bluetooth_pairing_device_down_error_message">Не може да се свърже с/ъс %1$s.</string>
-  <string name="bluetooth_pairing_error_message">Не можа да се сдвои с/ъс %1$s.</string>
-  <string name="bluetooth_pairing_pin_error_message">Не можа да се сдвои с/ъс %1$s поради неправилен ПИН или код за достъп.</string>
+  <string name="bluetooth_pairing_device_down_error_message">Не може да се свърже със %1$s.</string>
+  <string name="bluetooth_pairing_error_message">Не можа да се сдвои със %1$s.</string>
+  <string name="bluetooth_pairing_pin_error_message">Не можа да се сдвои със %1$s поради неправилен ПИН или код за достъп.</string>
   <string name="bluetooth_pairing_rejected_error_message">Сдвояването е отхвърлено от %1$s.</string>
   <string name="bluetooth_pairing_will_share_phonebook">При свързване сдвояването предоставя достъп до вашите контакти и история на обажданията.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Лок. връзка с интернет се споделя с у-вото</string>
@@ -474,7 +474,7 @@
   <string name="wifi_ap_unable_to_handle_new_sta">Точката за достъп временно е пълна</string>
   <string name="wifi_auto_sel_wapi_cert">Изберете автоматично</string>
   <string name="wifi_cant_connect">Не може да се установи връзка</string>
-  <string name="wifi_cant_connect_to_ap">Не може да се установи връзка с/ъс %1$s</string>
+  <string name="wifi_cant_connect_to_ap">Не може да се установи връзка със %1$s</string>
   <string name="wifi_check_password_try_again">Проверете паролата и опитайте отново</string>
   <string name="wifi_connected_mac_randomization">Рандомизиране на свързания MAC адрес</string>
   <string name="wifi_connected_mac_randomization_summary">Рандомизиране на MAC адреса при свързване с Wi-Fi мрежи</string>

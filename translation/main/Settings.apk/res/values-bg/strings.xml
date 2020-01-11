@@ -544,7 +544,7 @@
     <string name="bluetooth_disconnect_all_profiles">Това ще прекрати връзката с:&lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="bluetooth_empty_list_user_restricted">Нямате разрешение да променяте настройките за Bluetooth.</string>
     <string name="bluetooth_is_visible_message">При отворени настройки за Bluetooth устройствата в района ще виждат „%1$s“.</string>
-    <string name="bluetooth_is_disconnect_question">Да се прекрати ли връзката с/ъс %1$s?</string>
+    <string name="bluetooth_is_disconnect_question">Да се прекрати ли връзката със %1$s?</string>
     <string name="bluetooth_broadcasting">Излъчване</string>
     <string name="bluetooth_disable_profile_title">Да се деактивира ли потребит. профил?</string>
     <string name="bluetooth_disable_profile_message">Това ще деактивира:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>От:&lt;br>&lt;b>%2$s&lt;/b></string>
@@ -553,7 +553,7 @@
     <string name="bluetooth_no_devices_found">В района няма намерени у-ва с Bluetooth.</string>
     <string name="bluetooth_notif_ticker">Заявка за сдвояване чрез Bluetooth</string>
     <string name="bluetooth_notif_title">Заявка за сдвояване</string>
-    <string name="bluetooth_notif_message">Докоснете за сдвояване с/ъс „%1$s“.</string>
+    <string name="bluetooth_notif_message">Докоснете за сдвояване със „%1$s“.</string>
     <string name="bluetooth_show_received_files">Показване на получени файлове</string>
     <string name="device_picker">Изберете устройство</string>
     <string name="bluetooth_permission_request">Заявка за разрешение на Bluetooth</string>
@@ -571,8 +571,8 @@
     <string name="bluetooth_turning_off">Bluetooth се изключва…</string>
     <string name="bluetooth_auto_connect">Автоматично свързване</string>
     <string name="bluetooth_connection_permission_request">Заявка за свързване чрез Bluetooth</string>
-    <string name="bluetooth_connection_notif_message">Докоснете за свързване с/ъс „%1$s“.</string>
-    <string name="bluetooth_connection_dialog_text">Искате ли да се свържете с/ъс „%1$s“?</string>
+    <string name="bluetooth_connection_notif_message">Докоснете за свързване със „%1$s“.</string>
+    <string name="bluetooth_connection_dialog_text">Искате ли да се свържете със „%1$s“?</string>
     <string name="bluetooth_phonebook_request">Заявка за достъп до телефонния указател</string>
     <string name="bluetooth_pb_acceptance_dialog_text">От %1$s се иска достъп до вашите контакти и история на обажданията. Да се даде ли достъп до %2$s?</string>
     <string name="bluetooth_remember_choice">Без повторно питане</string>
@@ -924,7 +924,7 @@
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
     <string name="bluetooth_settings_summary">Управление на връзки, задаване на име и откриваемост на устройство</string>
-    <string name="bluetooth_pairing_request">Искате ли да сдвоите с/ъс „%1$s“?</string>
+    <string name="bluetooth_pairing_request">Искате ли да сдвоите със „%1$s“?</string>
     <string name="bluetooth_pairing_key_msg">Код за сдвояване с Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Въведете кода за сдвояване, след което натиснете Return или Enter</string>
     <string name="bluetooth_enable_alphanumeric_pin">ПИН кодът съдържа букви или символи</string>
@@ -1175,7 +1175,7 @@
     <string name="wifi_p2p_disconnect_message">Ако прекъснете връзката, ще се прекрати и установената със: %1$s.</string>
     <string name="wifi_p2p_disconnect_multiple_message">Ако прекъснете връзката, ще се прекрати и установената със: %1$s и още %2$s устройства.</string>
     <string name="wifi_p2p_cancel_connect_title">Да се анулира ли поканата?</string>
-    <string name="wifi_p2p_cancel_connect_message">Искате ли да анулирате поканата за свързване с/ъс %1$s?</string>
+    <string name="wifi_p2p_cancel_connect_message">Искате ли да анулирате поканата за свързване със %1$s?</string>
     <string name="wifi_p2p_delete_group_message">Да се забрави ли тази група?</string>
     <string name="wifi_tether_checkbox_text">Преносима точка за достъп</string>
     <string name="wifi_hotspot_checkbox_text">Точка за достъп до Wi‑Fi</string>
@@ -1621,7 +1621,7 @@
     <string name="bluetooth_tether_checkbox_text">Тетъринг през Bluetooth</string>
     <string name="bluetooth_tethering_available_subtext">Връзката с интернет на този телефон се споделя</string>
     <string name="bluetooth_tethering_device_connected_subtext">Връзката с интернет на този тел. се споделя с 1 устройство</string>
-    <string name="bluetooth_tethering_devices_connected_subtext">Връзката с интернет на този тел. се споделя с/ъс %1$d у-ва</string>
+    <string name="bluetooth_tethering_devices_connected_subtext">Връзката с интернет на този тел. се споделя със %1$d у-ва</string>
     <string name="bluetooth_tethering_off_subtext_config">Връзката с интернет на %1$d се споделя</string>
     <string name="bluetooth_tethering_off_subtext">Връзката с интернет на този телефон не се споделя</string>
     <string name="bluetooth_tethering_errored_subtext">Няма връзка с тетъринг</string>

@@ -34,8 +34,8 @@
     <string name="tap_again_to_complete">Натиснете отново, за да изпълните с %1$s</string>
     <string name="transaction_failure">Тази трансакция не можа да бъде изпълнена с %1$s.</string>
     <string name="could_not_use_app">%1$s не може да се използва.</string>
-    <string name="pay_with">Плащане с/ъс</string>
-    <string name="complete_with">Завършване с/ъс</string>
+    <string name="pay_with">Плащане със</string>
+    <string name="complete_with">Завършване със</string>
     <string name="default_pay_app_removed">Избраната от вас услуга за плащане е премахната. Избиране на друга</string>
     <string name="ask_nfc_tap">Чукнете на другото устройство, за да завършите</string>
     <string name="wifi_connect">Свързване</string>

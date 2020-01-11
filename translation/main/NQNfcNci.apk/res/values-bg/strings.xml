@@ -19,7 +19,7 @@
   <string name="confirm_pairing">Наистина ли искате да сдвоите устройството с Bluetooth %1$s?</string>
   <string name="connect_peripheral_failed">Не можа да се установи връзка със %1$s</string>
   <string name="connected_peripheral">Установена е връзка със %1$s</string>
-  <string name="connecting_peripheral">Установява се връзка с/ъс %1$s</string>
+  <string name="connecting_peripheral">Установява се връзка със %1$s</string>
   <string name="could_not_use_app">%1$s не можа да се използва.</string>
   <string name="default_pay_app_removed">Предпочитаната от вас услуга за функцията „докоснете и платете“ бе премахната. Ще изберете ли друга?</string>
   <string name="device">устройството</string>
