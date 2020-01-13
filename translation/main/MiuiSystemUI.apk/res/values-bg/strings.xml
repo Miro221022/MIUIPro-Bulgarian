@@ -227,8 +227,8 @@
   <string name="accessibility_settings">Настройки</string>
   <string name="accessibility_settings_button">Системни настройки.</string>
   <string name="accessibility_signal_full">Сигналът е пълен.</string>
-  <string name="accessibility_splite_screen_primary">Добавено като основно приложение към Разделен екран</string>
-  <string name="accessibility_splite_screen_secondary">Добавено като второ приложение към Разделен екран</string>
+  <string name="accessibility_splite_screen_primary">Добавено като основно приложение към разделен екран</string>
+  <string name="accessibility_splite_screen_secondary">Добавено като второ приложение към разделен екран</string>
   <string name="accessibility_status_bar_headphones">Слушалките са свързани</string>
   <string name="accessibility_status_bar_headset">Слушалките са свързани</string>
   <string name="accessibility_status_bar_hotspot">Мобилна точка за достъп</string>
@@ -1199,7 +1199,7 @@
   <string name="pip_play">Изпълни</string>
   <string name="pip_skip_to_next">Преминаване към следващия</string>
   <string name="pip_skip_to_prev">Преминаване на предишния</string>
-  <string name="please_slide_agian">Моля плъзнете отново</string>
+  <string name="please_slide_agian">Плъзнете отново</string>
   <string name="plugins">Приставки</string>
   <string name="pointer_location">Позициониране на местоположението</string>
   <string name="pointer_location_summary">Показване на информация за докосванията на екрана</string>
@@ -1374,12 +1374,12 @@
   <string name="recents_accessibility_split_screen_left">Разделяне на екрана вляво</string>
   <string name="recents_accessibility_split_screen_right">Разделяне на екрана вдясно</string>
   <string name="recents_accessibility_split_screen_top">Разделяне на екрана отгоре</string>
-  <string name="recents_app_info_button_label">Информация за приложение</string>
+  <string name="recents_app_info_button_label">Информация за приложението</string>
   <string name="recents_caption_resize">Избор на ново име за задачата</string>
   <string name="recents_dimiss_task">Изчисти</string>
   <string name="recents_drag_hint_message">Натиснете и задръжте приложение, след което го плъзнете тук</string>
   <string name="recents_empty_message">Няма последни елементи</string>
-  <string name="recents_empty_message_dismissed_all">Вие премахнахте всички елементи</string>
+  <string name="recents_empty_message_dismissed_all">"Почистихте всичко"</string>
   <string name="recents_empty_message_multi_window">Отваряне на приложения от Начален екран</string>
   <string name="recents_exit_multi_window_mode">Изход</string>
   <string name="recents_forbid_dock_when_screening_toast_text">Не може да се използва разделен екран по време на запис</string>
@@ -1540,7 +1540,7 @@
   <string name="status_bar_recent_guide_bottom">Плъзнете надолу за заключване</string>
   <string name="status_bar_recent_guide_top">Плъзнете нагоре за затваряне</string>
   <string name="status_bar_recent_inspect_item_title">Информация за приложение</string>
-  <string name="status_bar_recent_memory_info1">Свободни %1$s от %2$s</string>
+  <string name="status_bar_recent_memory_info1">Налични %1$s от %2$s</string>
   <string name="status_bar_recent_remove_item_title">Премахване от списъка</string>
   <string name="status_bar_recording_back">Обратно към Звукозапис</string>
   <string name="status_bar_recording_pause">Записването е на пауза</string>
