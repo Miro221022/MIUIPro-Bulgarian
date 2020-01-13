@@ -903,4 +903,7 @@
 	<string name="switch_success">Превключено успешно</string>
 	<string name="tab_flow">Гледане</string>
 	<string name="track_play_history_after_login">Впишете се, за да видите историята на изпълненията</string>
+	<string name="cannot_download_to_sdcard_hint">"Не можете да изтегляте елементи на SD карта поради ограничения за авторски права. Елементите ще бъдат изтеглени във вътрешното хранилище."</string>
+  <string name="create_playlist_input_hint">Въведете име на плейлиста</string>
+  <string name="online_apk_install_tips">"Трябва да изтеглите приставката на този доставчик на съдържание веднъж. Ще имате достъп до песните директно следващия път."</string>
 </resources>
