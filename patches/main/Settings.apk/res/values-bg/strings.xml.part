@@ -220,7 +220,5 @@
   <string name="miuipro_select_app_title">Настройка на преките пътища за заключен екран</string>
   <string name="miuipro_select_aod_app_title">Настройване на приложения за известия</string>
   <string name="miuipro_select_quick_app_title">Задаване на приложения към прекия път</string>
-  <string name="smart_mobile_one_title">Интелигентна мрежа за SIM 1</string> 
-  <string name="smart_mobile_two_title">Интелигентна мрежа за SIM 2</string> 
   <string name="default_search_up_title">Приложение за търсене чрез плъзгане</string>
 </resources>
