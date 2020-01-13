@@ -1107,4 +1107,6 @@
     <string name="mimoji_save_finish">Готово</string>
     <string name="module_name_mimoji2">Mimoji 2</string>
     <string name="preview_back_pressed_hint">Натиснете отново, за да се върнете към визуализацията</string>
+	<string name="emoticon">Emoji пакет</string>
+    <string name="share">Сподели</string>
 </resources>

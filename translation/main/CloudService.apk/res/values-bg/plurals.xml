@@ -88,4 +88,8 @@
         <item quantity="other">%d чести фрази</item>
         <item quantity="one">%d честа фраза</item>
     </plurals>
+	  <plurals name="select_no_more_than">
+    <item quantity="other">"Не можете да изберете повече от %d елемента"</item>
+    <item quantity="one">"Не можете да изберете повече от %d елемент"</item>
+  </plurals>
 </resources>

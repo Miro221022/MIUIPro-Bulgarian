@@ -2947,4 +2947,16 @@
     <string name="gb_voice_changer_permission_dlg_msg">Промяната на гласа трябва да може да записва аудио, за да работи нормално.</string>
     <string name="gb_voice_changer_dlg_button_refuse">Забрани</string>
     <string name="gb_voice_changer_dlg_button_agree">Разреши</string>
+	<string name="power_save_ps_close_setting_3">Изключване на услугите и функциите с висока консумация на енергия (%1$s, %2$s, %3$s)</string>
+    <string name="power_save_ps_close_setting_4">Изключване на услугите и функциите с висока консумация на енергия (%1$s, %2$s, %3$s, %4$s)</string>
+    <string name="power_save_ps_close_setting_5">Изключване на услугите и функциите с висока консумация на енергия (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+    <string name="power_save_ps_close_setting_5gnet">5G връзка</string>
+    <string name="power_save_ps_close_setting_6">Изключване на услугите и функциите с висока консумация на енергия (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+    <string name="power_save_ps_close_setting_7">Изключване на услугите и функциите с висока консумация на енергия (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+    <string name="power_save_ps_close_setting_dclickwakeup">\"Двойно почукване за събуждане или изключване на екрана\"</string>
+    <string name="power_save_ps_close_setting_fingeraod">\"Показване на иконата на пръстов отпечатък, когато екранът е изключен\"</string>
+    <string name="power_save_ps_close_setting_gps">GPS</string>
+    <string name="power_save_ps_close_setting_haptic">осезателна обратна връзка</string>
+    <string name="power_save_ps_close_setting_pickupwakeup">\"Събуждане чрез повдигане\"</string>
+    <string name="power_save_ps_close_setting_sync">синхронизация</string>
 </resources>

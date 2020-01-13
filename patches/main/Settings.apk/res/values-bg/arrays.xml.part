@@ -201,4 +201,8 @@
         <item>Приемане на повикване</item> 
         <item>Отхвърляне на повикване</item> 
     </string-array>
+	  <string-array name="default_search_up_entries"> 
+    <item>По подразбиране</item> 
+    <item>Браузър</item> 
+  </string-array>
 </resources>

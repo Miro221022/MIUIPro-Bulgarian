@@ -6702,4 +6702,11 @@ OTG се изключва автоматично след 10 минути без
 	<string name="call_example_name">Име</string>
 	<string name="poco_launcher_privacy_policy">Политика за поверителност на POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Потребителско споразумение на POCO Launcher</string>
+	<string name="navigation_guide_app_quick_switch_hide_line_summary">Плъзнете нагоре от долната част на екрана, след което плъзнете наляво или надясно</string>
+    <string name="navigation_guide_app_quick_switch_summary">Плъзнете наляво или надясно от индикатора за цял екран или отдолу на екрана</string>
+    <string name="navigation_guide_app_quick_switch_title">Превключване между приложения</string>
+    <string name="navigation_guide_gesture_line_dialog_summary">Нов жест за превключване между приложения ще бъде използван, след като скриете индикатора за цял екран. Ще научите ли жеста сега?</string>
+    <string name="navigation_guide_gesture_line_dialog_title">Научете нов жест</string>
+    <string name="navigation_guide_hide_gesture_line_summary">"Не показвай индикатора за цял екран при използване на жестове на цял екран"</string>
+    <string name="navigation_guide_hide_gesture_line_title">Скриване на индикатора за цял екран</string>
 </resources>
