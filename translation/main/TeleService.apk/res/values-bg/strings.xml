@@ -1818,4 +1818,12 @@
 	<string name="incall_error_outgoing_call_failed">"Не може да се осъществи обаждане"</string>
 	<string name="notification_demo_version_text">"Не могат да се осъществяват повиквания или да се ползват мобилни данни"</string>
     <string name="notification_demo_version_title">Това е демонстрационно устройство</string>
+	<string name="mobile_advanced_nr_network_title">5G мрежа</string>
+    <string name="nr_network_info">Информация за използване на 5G мрежа</string>
+    <string name="nr_usaged_first_used_time">Регистриран в 5G мрежа</string>
+    <string name="nr_usaged_module">Модел на устройството</string>
+    <string name="nr_usaged_network_rate">Най-висока скорост</string>
+    <string name="nr_usaged_network_usaged">"Данни днес"</string>
+    <string name="nr_usaged_operator">Оператор</string>
+    <string name="nr_usaged_used_time">Продължителност на използване</string>
 </resources>

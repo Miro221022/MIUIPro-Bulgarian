@@ -6709,4 +6709,6 @@ OTG се изключва автоматично след 10 минути без
     <string name="navigation_guide_gesture_line_dialog_title">Научете нов жест</string>
     <string name="navigation_guide_hide_gesture_line_summary">"Не показвай индикатора за цял екран при използване на жестове на цял екран"</string>
     <string name="navigation_guide_hide_gesture_line_title">Скриване на индикатора за цял екран</string>
+	<string name="power_monitor_summary">Инструменти, използвани за наблюдение на захранването.</string>
+    <string name="power_monitor_title">Наблюдение на захранването</string>
 </resources>

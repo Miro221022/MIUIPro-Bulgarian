@@ -34,4 +34,12 @@
         <item quantity="one">"
 Имате още %d оставащ опит."</item>
     </plurals>
+	    <plurals name="day">
+        <item quantity="other">%s дни</item>
+        <item quantity="one">%s ден</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s часа</item>
+        <item quantity="one">%s час</item>
+    </plurals>
 </resources>

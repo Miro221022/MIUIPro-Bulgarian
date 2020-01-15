@@ -110,4 +110,6 @@
   <string name="vip_feedback_enable">Включи VIP Отзив</string>
   <string name="warm_configure">Настройки за контрол на температурата</string>
   <string name="warm_performance_tip">Устройството ви ще се затопли, когато се изпълняват повече процеси.</string>
+  <string name="power_tools_current">Текущ</string>
+  <string name="power_tools_fps">FPS</string>
 </resources>

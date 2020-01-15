@@ -2959,4 +2959,6 @@
     <string name="power_save_ps_close_setting_haptic">осезателна обратна връзка</string>
     <string name="power_save_ps_close_setting_pickupwakeup">\"Събуждане чрез повдигане\"</string>
     <string name="power_save_ps_close_setting_sync">синхронизация</string>
+	<string name="antispam_mms_text">Задайте Съобщения като приложение за текстови текстови съобщения по подразбиране, за да можете да преглеждате блокирани съобщения</string>
+    <string name="antispam_mms_text_setting">Задайте Съобщения като приложение за текстови текстови съобщения по подразбиране, за да можете да използвате списъци с блокирани</string>
 </resources>
