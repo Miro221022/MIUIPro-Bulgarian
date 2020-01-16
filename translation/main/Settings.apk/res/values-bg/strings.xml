@@ -6711,4 +6711,6 @@ OTG се изключва автоматично след 10 минути без
     <string name="navigation_guide_hide_gesture_line_title">Скриване на индикатора за цял екран</string>
 	<string name="power_monitor_summary">Инструменти, използвани за наблюдение на захранването.</string>
     <string name="power_monitor_title">Наблюдение на захранването</string>
+	<string name="corner_assistant_gesture_summary">Плъзнете нагоре от долния ляв или долния десен ъгъл, за да събудите Google асистента</string>
+    <string name="corner_assistant_gesture_title">Плъзгане нагоре от ъгъла за Google асистент</string>
 </resources>
