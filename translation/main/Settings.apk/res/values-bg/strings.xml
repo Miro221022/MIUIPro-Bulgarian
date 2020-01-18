@@ -1525,7 +1525,7 @@
     <string name="battery_status_title">Състояние на зареждане</string>
     <string name="battery_level_title">Ниво на батерията</string>
     <string name="apn_settings">APN</string>
-    <string name="apn_edit">Редакт. на точка за достъп</string>
+    <string name="apn_edit">Редактиране на точка за достъп</string>
     <string name="apn_not_set">Не е зададено</string>
     <string name="apn_name">Име</string>
     <string name="apn_apn">Име на точката за достъп (APN)</string>

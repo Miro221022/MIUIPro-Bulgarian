@@ -920,4 +920,6 @@
   <string name="zero_sms_feedback_message">Докладваните съобщения се качват на нашите сървъри заедно с телефонните номера на техните податели. Тези съобщения се използват само за подобряване на функционалността на Списъците с блокирани.</string>
   <string name="zero_sms_feedback_success">Докладвано успешно</string>
   <string name="zero_sms_feedback_title">Докладвай</string>
+  <string name="notification_add_todo">Напомни ми</string>
+  <string name="notification_add_todo_content">Вземете код: %s</string>
 </resources>
