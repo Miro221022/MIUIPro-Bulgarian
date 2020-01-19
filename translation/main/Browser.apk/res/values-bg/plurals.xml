@@ -114,4 +114,32 @@
     <item quantity="one">%d човек е гласувал</item>
     <item quantity="few">%d хора са гласували</item>
   </plurals>
+      <plurals name="comment_detail_title">
+        <item quantity="other">%d отговора</item>
+        <item quantity="one">%d отговор</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">Преди %d часа</item>
+        <item quantity="one">Преди %d час</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Преглед на %d коментара</item>
+        <item quantity="one">Преглед на %d коментар</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">Преди %d минути</item>
+        <item quantity="one">Преди %d минута</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Избрани са %d причини</item>
+        <item quantity="one">Избрана %d причина</item>
+    </plurals>
+	    <plurals name="video_collection_reminder_view">
+        <item quantity="other">"Не сте гледали %d от любимите си видеоклипове отдавна."</item>
+        <item quantity="one">"Не сте гледали %d любим видеоклип от много време."</item>
+    </plurals>
+	    <plurals name="views">
+        <item quantity="other">%dk гледания</item>
+        <item quantity="one">%dk преглед</item>
+    </plurals>
 </resources>

@@ -47,6 +47,7 @@
   <string name="action_menu_text_share">Споделяне</string>
   <string name="action_menu_text_snapshot">Запази страницата</string>
   <string name="action_menu_text_video">Видео</string>
+  <string name="action_menu_text_video_collection">Любими видеоклипове</string>
   <string name="action_menu_text_web_mode">Настолен режим</string>
   <string name="action_menu_toolbox">Инструменти</string>
   <string name="action_menu_useful_page">Добавяне на пряк път</string>
@@ -100,6 +101,7 @@
   <string name="back_button_label">Назад</string>
   <string name="back_description">Назад</string>
   <string name="back_home">Отпуснете за начална страница</string>
+  <string name="batch_download_tip">Изглежда, че се изтеглят няколко елемента едновременно. Блокиране на тези изтегляния?</string>
   <string name="block">Блокиране</string>
   <string name="block_ads_choice_block">Блокирай</string>
   <string name="block_ads_choice_continue">Продължи</string>
@@ -140,6 +142,7 @@
   <string name="change_detail_page_style">Използвайте препоръчаната страница с подробности</string>
   <string name="change_news_language">Промяна на езика на новините?</string>
   <string name="channel_description">Изтегляния на браузъра</string>
+  <string name="channel_layout">Оформление на канала</string>
   <string name="channel_manager">Управление на каналите</string>
   <string name="channel_name">Изтегляния</string>
   <string name="channel_reset">Нулиране</string>
@@ -174,6 +177,8 @@
   <string name="comment_description">Коментар</string>
   <string name="comment_hint">Коментар</string>
   <string name="comment_menu">Коментар</string>
+  <string name="common_business_block">Блокирай</string>
+  <string name="common_business_not_block">Не блокирай</string>
   <string name="common_business_web_error_page_reload">Обновяване</string>
   <string name="common_business_web_error_page_tip">Нещо се обърка. Опитайте да обновите страницата.</string>
   <string name="common_google_play_services_enable_button">Активиране</string>
@@ -244,6 +249,9 @@
   <string name="detail_guide_tips">Плъзнете нагоре за повече свързани елементи</string>
   <string name="dialog_channel_cancel">Отказ</string>
   <string name="dialog_channel_remove_content">Премахването на всички канали също ще премахне емисиите на съдържанието.</string>
+  <string name="dialog_game_banner">Вижте популярни игри!</string>
+  <string name="dialog_game_close">Отказ</string>
+  <string name="dialog_game_play">Играй</string>
   <string name="document_download_background_btn">Изтегляне на заден план</string>
   <string name="document_download_cancel_btn">Отказ</string>
   <string name="document_download_failed">Изтеглянето не е успешно</string>
@@ -744,6 +752,7 @@
   <string name="news_native_see_all">Пълна статия</string>
   <string name="next_button_label">Следващо</string>
   <string name="nf_choose_reason">Опишете проблема</string>
+  <string name="nf_detail_collection">Добави към любими</string>
   <string name="nf_dislike">Не е интересно</string>
   <string name="nf_feedback">Докладвай</string>
   <string name="nf_feedback_tips1">Ще видите по-малко елементи от този вид</string>
@@ -917,7 +926,7 @@
   <string name="pref_set_default_browser_no_keep_it">Запази Mi Браузър</string>
   <string name="pref_set_default_browser_no_thanks">Не благодаря</string>
   <string name="pref_set_default_browser_set">Задай</string>
-  <string name="pref_set_default_browser_set_another">Mi Browser прави уеб сърфирането бързо, удобно и сигурно. Превключване на браузърите?</string>
+  <string name="pref_set_default_browser_set_another">Mi Браузър прави уеб сърфирането бързо, удобно и сигурно. Превключване на браузърите?</string>
   <string name="pref_set_default_browser_sure_to_clear">Превключване на браузърите?</string>
   <string name="pref_set_default_browser_switch">Превключи</string>
   <string name="pref_set_homepage_to">Задай като</string>
@@ -938,7 +947,7 @@
   <string name="privacy_authorize_revoking">Анулиране на разрешение…</string>
   <string name="privacy_authorize_summary">Включете или изключете превключвателя, за да предоставите или оттеглите оторизацията</string>
   <string name="privacy_authorize_title">Оторизация</string>
-  <string name="privacy_message">Преди да използвате приложението, трябва да се съгласите с нашите &lt;font color=#4086f5&gt;&lt;a href=%1$s style=color:#4086f5;&gt;Потребителско споразумение&lt;/a&gt;&lt;/font&gt; и &lt;font color=#4086f5&gt;&lt;a href=%2$s style=color:#4086f5;&gt;Политика за поверителност&lt;/a&gt;&lt;/font&gt;.</string>
+  <string name="privacy_message">Преди да използвате приложението, трябва да се съгласите с нашите &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5;>Потребителско споразумение&lt;/a>&lt;/font> и &lt;font color=#4086f5>&lt;a href=%2$s style=color:#4086f5;>Политика за поверителност&lt;/a>&lt;/font>.</string>
   <string name="privacy_policy">Политика за поверителност</string>
   <string name="privacy_title">Добре дошли в Mi Браузър</string>
   <string name="private_title">Скрити файлове</string>
@@ -947,6 +956,7 @@
   <string name="pull_to_refresh_pull_label">Издърпайте, за да обновите</string>
   <string name="pull_to_refresh_release_label">Пуснете, за да препоръчате и обновите</string>
   <string name="pwa_app_name">Web apps</string>
+  <string name="pwa_hint_added_success">Добавено успешно</string>
   <string name="qr_code_title">QR код</string>
   <string name="qr_description">Сканиране на QR код</string>
   <string name="quicklink_bookmark_save">Записване в</string>
@@ -1030,6 +1040,7 @@
   <string name="search_engine_title">Търсачка по подразбиране</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Търсете или въведете уеб адрес</string>
+  <string name="search_keyword_browser">Браузър</string>
   <string name="search_label">Браузър</string>
   <string name="search_menu_title">Търсене</string>
   <string name="search_s139">139</string>
@@ -1038,6 +1049,7 @@
   <string name="search_sm">SM</string>
   <string name="search_sogou">Segou</string>
   <string name="search_taobao">Taobao</string>
+  <string name="search_title_browser">Браузър</string>
   <string name="search_tupian">Изображения</string>
   <string name="search_yahoo">Yahoo</string>
   <string name="search_yicha">Yicha</string>
@@ -1094,10 +1106,12 @@
   <string name="suggest_access_btn_view">Преглед</string>
   <string name="suggest_access_item_app_size">%. 2fМБ</string>
   <string name="suggest_access_item_app_update">Актуализация: %s</string>
+  <string name="suggest_access_music">Mi Музика</string>
   <string name="suggest_item_delete_text">Изтрий</string>
   <string name="suggest_open_app_failed">Не може да се отвори приложението</string>
   <string name="summary_command_mode">Включете, за да влезете в командния режим</string>
-  <string name="summary_youtube_download">Активиране на изтеглянето от YouTube</string>
+  <string name="summary_detail_page">Промяна на стила на страницата с подробности</string>
+  <string name="summary_youtube_download">Активиране на изтегляне от YouTube</string>
   <string name="switchText">ДА</string>
   <string name="tab_quicklinks">Начална страница</string>
   <string name="tab_yellowpage">Връзки</string>
@@ -1157,6 +1171,10 @@
   <string name="video_buffering_percent_string">Буфериране</string>
   <string name="video_collect_cancel">Премахване от любимите</string>
   <string name="video_collect_success">Добавено към любими</string>
+  <string name="video_collection_click_view">Видеоклиповете, които сте добавили към любими са тук</string>
+  <string name="video_collection_done">Добавено успешно. Можете да видите този елемент в \"Любими видеоклипове\".</string>
+  <string name="video_collection_known">Разбрах</string>
+  <string name="video_collection_view">Преглед</string>
   <string name="video_download_complete">Изтеглено успешно</string>
   <string name="video_download_empty">Няма видеоклипове</string>
   <string name="video_download_error">Грешка</string>

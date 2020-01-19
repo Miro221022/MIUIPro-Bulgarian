@@ -488,4 +488,7 @@
     <string name="recents_title_market">Търсене</string>
     <string name="recents_title_security_scan">Антивирус</string>
     <string name="status_bar_recent_memory_info1">%1$sБ от %2$sБ налични</string>
+	<string name="recents_forbid_dock_when_screening_toast_text">"Не може да се използва разделен екран по време на излъчване"</string>
+    <string name="recents_task_screening">Споделяне</string>
+    <string name="task_access_locked_app_msg">Включено заключване на приложения</string>
 </resources>
