@@ -93,4 +93,12 @@
          <item quantity="other">%2$s повече екранно време днес от средната стойност за %1$d дни</item>
          <item quantity="one">%2$s повече екранно време днес от средната стойност за %1$d дни</item>
      </plurals>
+	      <plurals name="usage_stats_remain_hour">
+         <item quantity="other">%s часа</item>
+         <item quantity="one">%s час</item>
+     </plurals>
+     <plurals name="usage_stats_remain_miunte">
+         <item quantity="other">%s мин</item>
+         <item quantity="one">%s мин</item>
+	 </plurals>
 </resources>
