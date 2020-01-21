@@ -438,7 +438,7 @@
   <string name="resource_exchange_share_code_content">Получихте подаръчен код (%2$s) за темата %1$s от магазина за теми на MIUI. Натиснете %3$s за да го използвате сега.</string>
   <string name="resource_exchange_share_code_dlg_content">Подаръчен код за %1$s: %2$s. Когато го изпратите на друг потребител, той може да го използва за изтегляне на тази MIUI тема</string>
   <string name="resource_exchange_share_code_dlg_title">Изпращане на код</string>
-  <string name="resource_exchange_success">Готово! :)</string>
+  <string name="resource_exchange_success">Закупено успешно</string>
   <string name="resource_exchange_unavailable">Въведеният код не е валиден за тази тема</string>
   <string name="resource_exchange_universal_finish">Използвайте този код за изтегляне на теми от магазина на Miui.</string>
   <string name="resource_exchange_universal_goon">Този код може да бъде използван за изтегляне на тема по избор от магазина на MIUI.</string>
@@ -805,4 +805,7 @@
   <string name="wallpaper_setting_all">Всички тапети</string>
   <string name="wallpaper_setting_live">Живи</string>
   <string name="miuishare_sys_title_share">Още опции</string>
+  <string name="de_component_font_author">Дизайнер на шрифтa</string>
+  <string name="de_component_tags">Отбелязвания</string>
+  <string name="de_font_exchange_success">Закупено успешно</string>
 </resources>
