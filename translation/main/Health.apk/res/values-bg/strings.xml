@@ -36,6 +36,7 @@
   <string name="add">Добави</string>
   <string name="add_body_weight_button">Добавете данни за теглото</string>
   <string name="add_body_weight_record_button">Добавете данни за теглото</string>
+  <string name="add_data_source">Добавяне на източници на данни</string>
   <string name="add_data_source_description">Добавете данни за здравословното състояние, генерирани от други устройства към Mi Здраве, за да увеличите точността на статистическите данни и да получите по-подходящи здравни съвети.\nMi Здраве поддържа устройства, които преди сте добавили в приложението Mi Home. Ако не можете да намерите устройството, което искате да добавите, проверете дали вече сте го добавили в Mi Home.</string>
   <string name="add_data_source_login_and_open_sync">Впишете се във вашия Mi профил и включете синхронизирането с облака, за да можете да добавяте източници на данни.</string>
   <string name="add_data_source_open_sync">Включете синхронизирането с облака, за да можете да добавяте източници на данни.</string>
@@ -151,7 +152,7 @@
   <string name="dialog_keep">Запази</string>
   <string name="dialog_known">Разбрах</string>
   <string name="dialog_menstruation_purpose">Добре дошли в Mi Здраве! \"Менструация\" ви позволява да записвате месечни цикли, да определяте вероятните дати на следващи цикли и да получавате напомняния. Всички свързани с това данни ще бъдат съхранявани локално на устройството ви, което позволява лесното им управление.</string>
-  <string name="dialog_no_more_prompt">"Не показвай отново"</string>
+  <string name="dialog_no_more_prompt">Не показвай отново</string>
   <string name="dialog_ok">OК</string>
   <string name="dialog_open">Разреши</string>
   <string name="dialog_permission_loading_msg">Проверява се…</string>
@@ -226,12 +227,9 @@
   <string name="jump_over">Пропусни</string>
   <string name="just_recently">Сега</string>
   <string name="label_average_daily_sleep_duration">Средна продължителност на съня</string>
-  <string name="label_average_daily_sleep_time">"Приблизително време  
- за заспиване"</string>
-  <string name="label_average_daily_sleep_time2">"Приблизително време  
- за заспиване"</string>
-  <string name="label_average_daily_wake_up_time">"  Приблизително времe
- за събуждане"</string>
+  <string name="label_average_daily_sleep_time">Приблизително време  \n за заспиване</string>
+  <string name="label_average_daily_sleep_time2">Приблизително време  \n за заспиване</string>
+  <string name="label_average_daily_wake_up_time">"  Приблизително времe\n за събуждане"</string>
   <string name="label_body_weight_evaluation">Оценка на теглото</string>
   <string name="label_body_weight_recent">Последни</string>
   <string name="label_body_weight_trend">Напредък</string>
