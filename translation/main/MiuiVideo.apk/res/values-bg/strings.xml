@@ -849,7 +849,7 @@
   <string name="t_comment_success">Изпратено успешно</string>
   <string name="t_deleting">Изтриване…</string>
   <string name="t_downloading_new_version">Изтегляне на актуализации…</string>
-  <string name="t_exit_app">Докоснете отново, за да излезете.</string>
+  <string name="t_exit_app">Докоснете/плъзнете отново, за да излезете.</string>
   <string name="t_install_new_version">Инсталиране на актуализации…</string>
   <string name="t_name_empty">Въведете вашето име</string>
   <string name="t_network_error">Не може да се свърже с мрежата. Проверете мрежовите си настройки и опитайте отново.</string>
