@@ -1336,4 +1336,6 @@
     <string name="v_dialog_hint_too_long">Името на файла е твърде дълго</string>
     <string name="v_dialog_rename_title">Преименуване</string>
     <string name="v_input_hint">Въведете име на файла</string>
+	<string name="lp_fullscreen_all">Цял екран</string>
+	<string name="vp_full_screen_play">Цял екран</string>
 </resources>

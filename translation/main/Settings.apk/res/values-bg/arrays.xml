@@ -271,12 +271,12 @@
     </string-array>
     <string-array name="data_usage_data_range">
         <item>Последните 30 дни</item>
-        <item>Цикъл на пренос...</item>
+        <item>Задайте цикъл на използване...</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Автоматично</item>
-        <item>Само на 5 ГХц</item>
-        <item>Само на 2,4 ГХц</item>
+        <item>Само 5 ГХц</item>
+        <item>Само 2,4 ГХц</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Време на употреба</item>
@@ -290,12 +290,12 @@
         <item>ПАРОЛА</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>Нищо</item>
+        <item>Без</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>Няма</item>
+        <item>Без</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
@@ -303,12 +303,12 @@
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
-        <item>Статични</item>
+        <item>Статично</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>Няма</item>
+        <item>Без</item>
         <item>Ръчно</item>
-        <item>Прокси: Автоконфиг.</item>
+        <item>Прокси: Автоконфигурация</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Без</item>

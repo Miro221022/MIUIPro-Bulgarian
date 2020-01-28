@@ -59,7 +59,7 @@
   <string name="close_alarm">Изключване</string>
   <string name="common_settings">Общи настройки</string>
   <string name="confirm">Потвърди</string>
-  <string name="confirm_abort">Отмяна на промените</string>
+  <string name="confirm_abort">Отмяна</string>
   <string name="content_desc_keep_screen">Бутон \"Винаги включен екран\"</string>
   <string name="control_set_alarm">Задаване на аларма</string>
   <string name="control_set_alarm_with_existing">Алармата е настроена за: %s</string>
