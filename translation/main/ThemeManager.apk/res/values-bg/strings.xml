@@ -78,7 +78,7 @@
   <string name="browser_local_resource">Съхранени на устройството</string>
   <string name="can_not_apply">Не може да се приложи</string>
   <string name="card_data_request_error">Неочаквана грешка. Моля, изчакайте минута-две и опитайте отново.</string>
-  <string name="card_loading">Един момент…</string>
+  <string name="card_loading">"Един момент…"</string>
   <string name="card_no_network">Не мога да се свържа с мрежата. Проверете настройките си и опитайте отново.</string>
   <string name="card_retry">Опитайте отново</string>
   <string name="change_host_hint">Смяна на host</string>
@@ -248,9 +248,9 @@
   <string name="lab">Лаборатория за теми</string>
   <string name="like_list">Елементи които харесвам</string>
   <string name="live_wallpaper">Живи тапети</string>
-  <string name="loading">Един момент…</string>
+  <string name="loading">"Един момент…"</string>
   <string name="loading_resource_detail_fail">Ресурсът не може да се зареди</string>
-  <string name="loading_resource_detail_info">Един момент…</string>
+  <string name="loading_resource_detail_info">"Един момент…"</string>
   <string name="local_photos">Локални снимки</string>
   <string name="local_resouce_creator_name">Автор: %1$s</string>
   <string name="lock_screen_apply">Задаване като заключен екран</string>
@@ -325,7 +325,7 @@
   <string name="present_official_themes">Нашите предложения</string>
   <string name="present_online_themes">Получете още теми онлайн</string>
   <string name="provision_default_theme_title">По подразбиране</string>
-  <string name="provision_loading_tips">Един момент…</string>
+  <string name="provision_loading_tips">"Един момент…"</string>
   <string name="provision_second_title">Изберете една от няколкоте теми по подразбиране</string>
   <string name="provision_title">Изберете тема</string>
   <string name="pull_down_view_error_message">Опа! Няма намерена интернет връзка. Проверете връзката си или опитайте отново.</string>
@@ -383,7 +383,7 @@
   <string name="resource_comment_good_comments">Позитивни</string>
   <string name="resource_comment_invalid">Изберете броя на звездите</string>
   <string name="resource_comment_limit">Не толкова бързо! Върнете се, след като използвате тази тема малко по-дълго.</string>
-  <string name="resource_comment_loading_list">Един момент…</string>
+  <string name="resource_comment_loading_list">"Един момент…"</string>
   <string name="resource_comment_name_default">Потребителско име</string>
   <string name="resource_comment_no_average_score">-.-</string>
   <string name="resource_comment_no_comment">Все още няма коментари. Можете да бъдете първият, който оставя коментар</string>
@@ -780,7 +780,7 @@
   <string name="wallpaper_set_as_float_wallpaper">Задаване като прозрачен тапет</string>
   <string name="wallpaper_set_as_lockscreen">Задай за заключен екран</string>
   <string name="wallpaper_settings">Настройки на тапетите</string>
-  <string name="wallpaper_settings_loading_text">Един момент…</string>
+  <string name="wallpaper_settings_loading_text">"Един момент…"</string>
   <string name="wallpaper_settings_no_history">Няма хронология</string>
   <string name="wallpaper_settings_pad_more_page_title">Още тапети</string>
   <string name="wallpaper_settings_page_title">Тапети</string>
