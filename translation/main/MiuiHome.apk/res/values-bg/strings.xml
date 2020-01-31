@@ -466,7 +466,6 @@
     <string name="accessibility_recents_item_open_app_info">Отоври информацията за %s.</string>
     <string name="accessibility_splite_screen_primary">Добавено като основно приложение към разделен екран</string>
     <string name="accessibility_splite_screen_secondary">Добавено като второ приложение към разделен екран</string>
-    <string name="launcher_search_bar_title">Лента за търсене на началния екран</string>
     <string name="launcher_search_bar_value_disable">Изключено</string>
     <string name="launcher_search_bar_value_enable">Включено</string>
     <string name="memory_clear_result_giga">%1$sГБ почистени</string>
