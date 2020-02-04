@@ -160,7 +160,7 @@
   <string name="event_action_arrive_station">Дестинация</string>
   <string name="event_action_delete">Изтриване</string>
   <string name="event_action_edit">Редактиране</string>
-  <string name="event_all_day_label">Цял ден</string>
+  <string name="event_all_day_label">Цял\nден</string>
   <string name="event_create">Ново събитие</string>
   <string name="event_delete">Изтрий събитие</string>
   <string name="event_edit">Редактирай събитие</string>
