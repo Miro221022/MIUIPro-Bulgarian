@@ -681,7 +681,7 @@
   <string name="dialog_change_package_type_summary">Промяната на типа на плана за данни ще нулира всички настройки за използване на данни (например ограничения на данни) до техните стойности по подразбиране. Промяна типа на плана за данни сега?</string>
   <string name="dialog_change_package_type_title">Промяна на типа план за данни</string>
   <string name="dialog_msg_auto_start_declare">Някои приложения може неправилно да показват, че MIUI не им позволява да стартират. Проверете разрешенията, предоставени на отделните приложения в Настройки &gt; Приложения.</string>
-  <string name="dialog_msg_stop_virus_scan">Ще спрете ли сканирането преди да приключи?</string>
+  <string name="dialog_msg_stop_virus_scan">"Ще спрете ли сканирането преди да е приключило?"</string>
   <string name="dialog_no_longer_alert">"Не показвай отново"</string>
   <string name="dialog_restrict_all_mobile_summary">%s Мобилната връзка за данни ще бъде ограничена за всички приложения след това.</string>
   <string name="dialog_restrict_all_mobile_title">Ограничаване %s мобилна връзка за данни</string>
@@ -696,7 +696,7 @@
   <string name="dialog_roaming_warning_ok">Включи</string>
   <string name="dialog_title_attention">Внимание</string>
   <string name="dialog_title_auto_start_declare">За авто-стартирането</string>
-  <string name="dialog_title_stop_virus_scan">Спиране на сканирането на защитата</string>
+  <string name="dialog_title_stop_virus_scan">Спиране на сканирането</string>
   <string name="disable_air_mode">Изклчете самолетен режим</string>
   <string name="dlg_add_blacklist">Да се блокира ли този номер?</string>
   <string name="dlg_add_blacklist_title">Добави към списъка с блокирани</string>
