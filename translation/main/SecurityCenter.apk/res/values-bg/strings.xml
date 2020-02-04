@@ -2129,7 +2129,7 @@
   <string name="root_apply_step_5">Разрешавате ли на %s да получи ROOT достъп?</string>
   <string name="root_apply_title">Важно предупреждение</string>
   <string name="safe_result_header_info_protecting">Защитено</string>
-  <string name="safe_result_item_button_monitor">Наблюдение на настройките</string>
+  <string name="safe_result_item_button_monitor">Настройки за наблюдение</string>
   <string name="safe_result_item_empty_monitor">Няма приложения за плащане</string>
   <string name="safe_result_item_info_app_sign">Няма неофициални приложения</string>
   <string name="safe_result_item_info_app_virus">Няма вируси и рискови приложения</string>
@@ -2138,7 +2138,7 @@
   <string name="safe_result_item_info_sms_url">Защита от злонамерени URL адреси в SMS</string>
   <string name="safe_result_item_info_system_antivirus">Защита от вируси</string>
   <string name="safe_result_item_info_system_root">Root защита</string>
-  <string name="safe_result_item_info_system_scan">Наблюдението при плащане е вкл</string>
+  <string name="safe_result_item_info_system_scan">Наблюдението при плащане е включено</string>
   <string name="safe_result_item_info_system_version">Системата е актуализирана</string>
   <string name="safepay_alert_dialog_button_continue">Продължи</string>
   <string name="safepay_alert_dialog_button_fix">Поправи</string>
@@ -2244,7 +2244,7 @@
   <string name="sp_button_text_ignore_alert_title">Игнориране на този елемент？</string>
   <string name="sp_empty_title_sign_exception">Задръжте приложението, за да го добавите към изключения</string>
   <string name="sp_monitored_apps_count_zero">Няма приложения за плащане</string>
-  <string name="sp_monitored_apps_list_title">Наблюдение на настройките</string>
+  <string name="sp_monitored_apps_list_title">Настройки за наблюдение</string>
   <string name="sp_network_privacy_dialog_message">Сигурност не може да работи правилно, поради ограничения в интернет връзката. Да разреша ли на Сигурност да се свърже с интернет?</string>
   <string name="sp_network_privacy_dialog_title">Не може да се използва сигурно сканиране</string>
   <string name="sp_scan_item_monitor">Наблюдение на плащания</string>
