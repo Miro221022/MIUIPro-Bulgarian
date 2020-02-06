@@ -307,7 +307,7 @@
   <string name="virus_scan_install"><u>Инсталирай въпреки това</u></string>
   <string name="virus_scan_is_risk">Това приложение представлява риск за сигурността на устройството ви.</string>
   <string name="virus_scan_is_virus">Това приложение съдържа вирус.</string>
-  <string name="virus_title_subtext">"Това приложение може да съдържа вируси: "</string>
+  <string name="virus_title_subtext">"Приложението може да съдържа вируси: "</string>
   <string name="waiting_tip">Това може да отнеме известно време, но си заслужава</string>
   <string name="wear_app_channel">Инсталиране/деинсталиране на Android Wear приложения</string>
   <string name="wear_not_allowed_dlg_text">Действието Инсталиране/Деинсталиране не се поддържа от Wear.</string>
