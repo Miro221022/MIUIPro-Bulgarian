@@ -98,7 +98,15 @@
          <item quantity="one">%s час</item>
      </plurals>
      <plurals name="usage_stats_remain_miunte">
-         <item quantity="other">%s мин</item>
-         <item quantity="one">%s мин</item>
+         <item quantity="other">%s мин.</item>
+         <item quantity="one">%s мин.</item>
 	 </plurals>
+	     <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s часа</item>
+        <item quantity="one">≈%s час</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s мин.</item>
+        <item quantity="one">≈%s мин.</item>
+    </plurals>
 </resources>
