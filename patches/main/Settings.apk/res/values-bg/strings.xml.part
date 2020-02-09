@@ -221,4 +221,6 @@
   <string name="miuipro_select_aod_app_title">Настройване на приложения за известия</string>
   <string name="miuipro_select_quick_app_title">Задаване на приложения към прекия път</string>
   <string name="default_search_up_title">Приложение за търсене чрез плъзгане</string>
+  <string name="wifi_network_set_5Gh">Принудително 5ГХц</string>
+  <string name="wifi_network_set_5Gh_summary">За да се активира в някои страни се изисква рестартиране</string>
 </resources>

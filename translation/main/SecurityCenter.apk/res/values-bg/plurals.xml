@@ -4,6 +4,24 @@
     <item quantity="other">Добавени са %d игри</item>
     <item quantity="one">Добавена е %d игра</item>
   </plurals>
+  <plurals name="app_behavior_desc_allow">
+    <item quantity="other">Разрешено %3$d пъти от %1$s на %2$s</item>
+    <item quantity="one">Разрешено %3$d път от %1$s на %2$s</item>
+  </plurals>
+  <plurals name="app_behavior_desc_deny">
+    <item quantity="other">Отказано %3$d пъти от %1$s на %2$s</item>
+    <item quantity="one">Отказано %3$d път от %1$s на %2$s</item>
+  </plurals>
+  <plurals name="app_behavior_privacy_manager_off">
+    <item quantity="other">Известията за поведение са деактивирани в %1$d приложения</item>
+    <item quantity="zero">Няма приложения с деактивирани известия за поведение</item>
+    <item quantity="one">Известията за поведение са деактивирани в %1$d приложение</item>
+  </plurals>
+  <plurals name="app_behavior_privacy_manager_on">
+    <item quantity="other">Известията за поведение са активирани в %1$d приложения</item>
+    <item quantity="zero">Няма приложения с активирани известия за поведение</item>
+    <item quantity="one">Известието за поведение е активирано в %1$d приложение</item>
+  </plurals>
   <plurals name="app_manager_permission_summary_accept">
     <item quantity="other">Дадени са %d разрешения</item>
     <item quantity="one">Дадено е %d разрешение</item>
@@ -27,6 +45,10 @@
   <plurals name="app_usage_year">
     <item quantity="other">Използвано преди %d години</item>
     <item quantity="one">Използвано преди %d година</item>
+  </plurals>
+  <plurals name="applock_guide_app_count_tips">
+    <item quantity="other">Можете да защитите поне %s приложения</item>
+    <item quantity="one">Можете да защитите поне %s приложение</item>
   </plurals>
   <plurals name="bg_network_allow_count">
     <item quantity="other">%d приложения могат да се свързват на заден план</item>
@@ -91,6 +113,10 @@
   <plurals name="gb_ad_ten_thousand_people_play">
     <item quantity="other">%1$d души играят</item>
     <item quantity="one">%1$d човек играе</item>
+  </plurals>
+  <plurals name="gb_record_time_title">
+    <item quantity="other">%d сек.</item>
+    <item quantity="one">%d сек.</item>
   </plurals>
   <plurals name="gb_signed_days_sum">
     <item quantity="other">Проверен %d дни подред</item>
@@ -159,6 +185,14 @@
   <plurals name="install_game_count_title">
     <item quantity="other">Добавени са %d игри</item>
     <item quantity="one">Добавена е %d игра</item>
+  </plurals>
+  <plurals name="keyguard_charging_info_drained_hour_time_format">
+    <item quantity="other">%s часа</item>
+    <item quantity="one">%s час</item>
+  </plurals>
+  <plurals name="keyguard_charging_info_drained_min_time_format">
+    <item quantity="other">%s минути</item>
+    <item quantity="one">%s миниута</item>
   </plurals>
   <plurals name="lockpattern_recording_incorrect_too_short">
     <item quantity="other">Свържете поне %d точки</item>
@@ -448,6 +482,10 @@
     <item quantity="other">Не са добавени %d игри</item>
     <item quantity="one">Не е добавена %d игра</item>
   </plurals>
+  <plurals name="videobox_settings_manager_apps_count">
+    <item quantity="other">%d приложения</item>
+    <item quantity="one">%d приложение</item>
+  </plurals>
   <plurals name="view_num">
     <item quantity="other">%1$d преглеждания</item>
     <item quantity="one">%1$d преглед</item>
@@ -460,24 +498,4 @@
     <item quantity="other">Троянски коне: %d</item>
     <item quantity="one">Троянски кон: %d</item>
   </plurals>
-      <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%s часа</item>
-        <item quantity="one">%s час</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%s минути</item>
-        <item quantity="one">%s миниута</item>
-    </plurals>
-	    <plurals name="applock_guide_app_count_tips">
-        <item quantity="other">Можете да защитите поне %s приложения</item>
-        <item quantity="one">Можете да защитите поне %s приложение</item>
-    </plurals>
-	    <plurals name="gb_record_time_title">
-        <item quantity="other">%d сек.</item>
-        <item quantity="one">%d сек.</item>
-    </plurals>
-	    <plurals name="videobox_settings_manager_apps_count">
-        <item quantity="other">%d приложения</item>
-        <item quantity="one">%d приложение</item>
-    </plurals>
 </resources>

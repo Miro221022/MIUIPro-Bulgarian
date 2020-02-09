@@ -13,6 +13,18 @@
     <item>Понеделник-Петък</item>
     <item>По избор</item>
   </string-array>
+  <string-array name="app_behavior_type_menu">
+    <item>Всички поведения</item>
+    <item>Автостарт</item>
+    <item>Верижно автостартиране</item>
+    <item>Разрешения</item>
+    <item>Чувствително поведение</item>
+  </string-array>
+  <string-array name="applock_password_types">
+    <item>Фигура</item>
+    <item>PIN</item>
+    <item>Парола</item>
+  </string-array>
   <string-array name="date_of_app_all">
     <item>Вчера (мобилни данни)</item>
     <item>Днес (мобилни данни)</item>
@@ -45,6 +57,10 @@
     <item>"Днес: "</item>
     <item>"Този месец: "</item>
   </string-array>
+  <string-array name="ew_emergency_organ_donation_arrays">
+    <item>Да</item>
+    <item>Не</item>
+  </string-array>
   <string-array name="key_app_info">
     <item>източник на инсталиране</item>
     <item>час на инсталиране</item>
@@ -57,12 +73,20 @@
     <item>Когато устройството е заключено или 1 минута след изход от приложение</item>
   </string-array>
   <string-array name="mi_service_traffic_type">
-        <item>"Използване на мобилни данни "</item>
-        <item>"Използване на WLAN "</item>
+    <item>"Използване на мобилни данни "</item>
+    <item>"Използване на WLAN "</item>
   </string-array>
   <string-array name="over_limit_traffic_waring_style">
     <item>Показване на предупреждение</item>
     <item>Предупреди и изключи мобилните данни</item>
+  </string-array>
+  <string-array name="pc_settings_thermal_entries">
+    <item>По подразбиране</item>
+    <item>Приоритет за производителността</item>
+  </string-array>
+  <string-array name="pc_settings_thermal_summaries">
+    <item>Използване на режим за температурата по подразбиране</item>
+    <item>Приоритет за производителността</item>
   </string-array>
   <string-array name="roaming_network_type">
     <item>Винаги</item>
@@ -72,6 +96,20 @@
   <string-array name="sms_report_type">
     <item>Използвани данни</item>
     <item>Оставащ кредит</item>
+  </string-array>
+  <string-array name="sort_title">
+    <item>Сортиране по статус</item>
+    <item>Сортиране по име</item>
+    <item>Сортиране по честота на използване</item>
+    <item>Сортиране по използване на памет</item>
+    <item>Сортиране по час (дата) на инсталиране</item>
+  </string-array>
+  <string-array name="sort_type">
+    <item>Статус</item>
+    <item>По име</item>
+    <item>Честота на използване</item>
+    <item>Използване на памет</item>
+    <item>Час (Дата) на инсталиране</item>
   </string-array>
   <string-array name="tether_limit_warn_type">
     <item>Изключи и извести</item>
@@ -83,44 +121,13 @@
     <item>Източник на последната актуализация</item>
     <item>Час на последната актуализация</item>
   </string-array>
+  <string-array name="traffic_package_type">
+    <item>Месечен план за данни</item>
+    <item>Дневен план за данни</item>
+    <item>Неограничен план за данни</item>
+  </string-array>
   <string-array name="traffic_type">
-        <item>"Използване на мобилни данни "</item>
-        <item>"Използване на WLAN "</item>
+    <item>"Използване на мобилни данни "</item>
+    <item>"Използване на WLAN "</item>
   </string-array>
-  <string-array name="sort_type">
-    <item>Статус</item>
-    <item>По име</item>
-    <item>Честота на използване</item>
-    <item>Използване на памет</item>
-    <item>Час (Дата) на инсталиране</item>
-  </string-array>
-  <string-array name="sort_title">
-    <item>Сортиране по статус</item>
-    <item>Сортиране по име</item>
-    <item>Сортиране по честота на използване</item>
-    <item>Сортиране по използване на памет</item>
-    <item>Сортиране по час (дата) на инсталиране</item>
-   </string-array>
-      <string-array name="traffic_package_type">
-        <item>Месечен план за данни</item>
-        <item>Дневен план за данни</item>
-        <item>Неограничен план за данни</item>
-    </string-array>
-	    <string-array name="pc_settings_thermal_entries">
-        <item>По подразбиране</item>
-        <item>Приоритет за производителността</item>
-    </string-array>
-    <string-array name="pc_settings_thermal_summaries">
-        <item>Използване на режим за температурата по подразбиране</item>
-        <item>Приоритет за производителността</item>
-    </string-array>
-	    <string-array name="ew_emergency_organ_donation_arrays">
-        <item>Да</item>
-        <item>Не</item>
-    </string-array>
-	    <string-array name="applock_password_types">
-        <item>Фигура</item>
-        <item>PIN</item>
-        <item>Парола</item>
-    </string-array>
 </resources>

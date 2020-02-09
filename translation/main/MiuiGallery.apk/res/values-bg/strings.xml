@@ -57,6 +57,10 @@
   <string name="ai_album_setting_key_word">Търсене на снимки</string>
   <string name="ai_album_setting_sub_title">Позволете на интелигентния алгоритъм да идентифицира хора, места и обектите на снимките, за да можете да ги намерите по-бързо.</string>
   <string name="ai_album_setting_title">Идентификация на обектите на снимките</string>
+  <string name="album_ai_description">Хора, места, обекти</string>
+  <string name="album_ai_international_description">Хора</string>
+  <string name="album_ai_international_title">Хора</string>
+  <string name="album_ai_page_title">Интелигентни албуми</string>
   <string name="album_already_exists_check">Преглед</string>
   <string name="album_already_exists_msg">Албумът \"%s\" вече съществува</string>
   <string name="album_already_forced_top">Вече е закачено</string>
@@ -80,6 +84,7 @@
   <string name="album_name_recent_discovery">Последни</string>
   <string name="album_name_tags">Отбелязвания</string>
   <string name="album_notes">Бележки</string>
+  <string name="album_other_page_title">Други албуми</string>
   <string name="album_others_share_baby_info_format">Бебешки албум от %s</string>
   <string name="album_others_share_info_format">От %s</string>
   <string name="album_owner_share">Мои споделени</string>
@@ -87,9 +92,14 @@
   <string name="album_page_label">Албуми</string>
   <string name="album_pano_name">Панорами</string>
   <string name="album_quota_fulfiled">Албумът не може да бъде създаден. Лимитът за албуми е надвишен.</string>
+  <string name="album_rubbish_cant_change_status">Не могат да се синхронизират албуми, преместени в кошчето</string>
+  <string name="album_rubbish_clear_all_item_description">Изчистване на кошчето</string>
+  <string name="album_rubbish_page_title">Кошче</string>
+  <string name="album_rubbish_tip_title">Възможно излишни албуми</string>
   <string name="album_scanner">Скенер</string>
   <string name="album_screen_recorder">Записи на екрана</string>
   <string name="album_screenshot_name">Екранни снимки</string>
+  <string name="album_share_cant_move_to_rubbish_tip">Не могат да се преместят споделени албуми в кошчето</string>
   <string name="album_share_exit_confirm">Ще излезете ли от този албум?</string>
   <string name="album_share_kicked">%1$s е затворен</string>
   <string name="album_share_stat_content">Покани</string>
@@ -382,12 +392,14 @@
   <string name="confirm">ОК</string>
   <string name="confirm_cancel_task_files">Отказ от изпращането на файлове до %1$s?</string>
   <string name="confirm_cancel_task_images">Отказ за изпращането на изображения до %1$s?</string>
+  <string name="confirm_delete_selected_albums">Изтриване на избраните албуми?</string>
   <string name="confirm_download_video_message">Трябва да изтеглите това видео, преди да го гледате. Изтеглянето ще продължи, когато е налична връзка с Wi-Fi.</string>
   <string name="confirm_download_video_title">Изтегляне на видео</string>
   <string name="confirm_face">Съвпадение</string>
   <string name="confirm_hidden_recommend_group">OК</string>
   <string name="confirm_hidden_recommend_group_message">Когато препоръките са изключени, вие все още може да използвате опцията \"Още хора, които харесват това\"</string>
   <string name="confirm_hidden_recommend_group_title">Не показвай препоръки</string>
+  <string name="confirm_hide_selected_albums">Скриване на избраните албуми?</string>
   <string name="confirm_merge_face_albums">" \"&lt;Data&gt; Обединяване на този албум с %s? &lt;/Data&gt;\" "</string>
   <string name="confirm_merge_many_face_albums">" \"&lt;Data&gt; Обединяване на тези албуми с %s? &lt;/Data&gt;\" "</string>
   <string name="confirm_not_face">Не този човек</string>
@@ -443,7 +455,7 @@
   <string name="delete_third_party_photo">Изтриване на тази снимка?</string>
   <string name="delete_third_party_video">Изтриване на това видео?</string>
   <string name="deny">Отхвърли</string>
-  <string name="detail_title">Подробности</string>
+  <string name="detail_title">Подробна информация</string>
   <string name="device_offline">Другото устройство е офлайн. Започни отначало.</string>
   <string name="device_type_pc">Компютър</string>
   <string name="disable_auto_upload_tip">Да се изключи ли синхронизирането с Ми Облак за този албум?</string>
@@ -484,6 +496,8 @@
   <string name="email_picker_title">Добави споделен Имейл</string>
   <string name="empty_album_cloud_list_title">Няма албуми за синхронизиране</string>
   <string name="empty_album_hidden_list_title">Няма скрити албуми</string>
+  <string name="empty_album_other_list_title">Тук няма албуми</string>
+  <string name="empty_album_rubbish_list_title">Тук няма албуми</string>
   <string name="empty_description_conditions">Помнете важните за вас неща</string>
   <string name="empty_description_no_cards">Помнете важните за вас неща</string>
   <string name="empty_query_text_msg">Не зная какво да търся…</string>
@@ -677,7 +691,7 @@
   <string name="filter_sky_cloudy">Облачно</string>
   <string name="filter_sky_cumulus">Купести</string>
   <string name="filter_sky_dawn">Зора</string>
-  <string name="filter_sky_detect_forbidden_tips">"Не е намерено небе"</string>
+  <string name="filter_sky_detect_forbidden_tips">Не е намерено небе</string>
   <string name="filter_sky_double_rainbow">Двойна дъга</string>
   <string name="filter_sky_download_failed">Приставката не може да се изтегли. Проверете мрежовите настройки и опитайте отново.</string>
   <string name="filter_sky_download_finish">Приставката е успешно изтеглена</string>
@@ -762,7 +776,7 @@
   <string name="invite_sharer_relation_tip">Род. връзка на %1$s</string>
   <string name="invite_sharer_title">Покани %2$s на %1$s</string>
   <string name="invite_tip">Споделяне на снимките на вашето бебе</string>
-  <string name="is">е</string>
+  <string name="is">Да</string>
   <string name="is_higher_definition">HD Преглед</string>
   <string name="kick_owner_user_positive_button_text">Премахни</string>
   <string name="kick_owner_user_title">Да се премахне ли този член?</string>
@@ -811,6 +825,7 @@
   <string name="mark_operation_succeeded">Успешно добавено</string>
   <string name="mark_people_ignore_info_message">Натиснете и задръжте върху снимките на хора за да ги добавите в групи</string>
   <string name="megabyteShort">МБ</string>
+  <string name="member_menu_vipname_free">Безплатно</string>
   <string name="menu_album_new_album">Нов албум</string>
   <string name="menu_item_sort_date">Дата</string>
   <string name="menu_item_sort_name">Име</string>
@@ -826,10 +841,12 @@
   <string name="month_view_tip_title">Месечен изглед</string>
   <string name="more">Още</string>
   <string name="more_album_hint">, и др.</string>
+  <string name="more_album_tip">Още албуми</string>
   <string name="more_face">Още хора, които имат прилика</string>
   <string name="more_face_album_name">Още лица</string>
   <string name="motion_photo_play">Изпълни</string>
   <string name="move_to_other_albums_tip">Да се премести ли този албум в Други албуми?</string>
+  <string name="move_to_rubbish_albums_tip">Преместване на избраните албуми в кошчето?</string>
   <string name="movie_add_disable">Можете да изберете до 20 снимки</string>
   <string name="movie_audio_antiquity">Ретро</string>
   <string name="movie_audio_custom">Локални</string>
@@ -930,6 +947,7 @@
   <string name="operation_cast_connected_format">Излъчване - %s</string>
   <string name="operation_cast_connecting_format">Свързване към %s</string>
   <string name="operation_delete">Изтрий</string>
+  <string name="operation_delete_all_albums_from_rubbish_page_tip">Няма да можете да възстановите албумите, след като ги изтриете. Изтриване въпреки това?</string>
   <string name="operation_detail">Подробности</string>
   <string name="operation_disable_auto_upload">Изключване на синхронизирането с Xiaomi Облак</string>
   <string name="operation_download">Изтегляне на снимка (%s)</string>
@@ -942,12 +960,15 @@
   <string name="operation_hide">Направи невидим</string>
   <string name="operation_in_process">Обработва се…</string>
   <string name="operation_move_to_other_albums">Преместване в Други албуми</string>
+  <string name="operation_move_to_rubbish_albums">Преместване в кошчето</string>
   <string name="operation_not_show_in_photos_tab">Не показвай в раздел Снимки</string>
   <string name="operation_produce">Творчество</string>
   <string name="operation_projection">Проекция</string>
   <string name="operation_remove_face">Премахни</string>
   <string name="operation_remove_from_face_album">Премахване от албума</string>
   <string name="operation_remove_from_other_albums">Премести от други албуми</string>
+  <string name="operation_remove_from_rubbish_albums">Възстанови</string>
+  <string name="operation_remove_rubbish">Възстанови</string>
   <string name="operation_remove_secret">Премахни от скрит албум</string>
   <string name="operation_rename">Преименуване</string>
   <string name="operation_save">Запиши</string>
@@ -971,6 +992,8 @@
   <string name="origin_image_name">оригинален файл</string>
   <string name="origin_video_name">видео</string>
   <string name="other_album">Други албуми</string>
+  <string name="other_album_operation_move_to_rubbish_albums">Преместване в кошчето</string>
+  <string name="other_album_operation_remove_from_other_albums">Премахване</string>
   <string name="other_settings">Допълнителни настройки</string>
   <string name="owner_album_subtitle">Споделено с %1$s потребители</string>
   <string name="pc_device_model_name">Компютър</string>
@@ -1167,6 +1190,7 @@
   <string name="remove_hidden_status_success">Премахнати са %s от скритите албуми</string>
   <string name="remove_hidden_status_tip">Този албум ще бъде показан сред други албуми, ако го покажете.</string>
   <string name="remove_hidden_status_title">Покажи</string>
+  <string name="remove_single_album_from_rubbish_page_tip">Възстановяане на избраните албуми?</string>
   <string name="remove_to_album_title">Обедини с</string>
   <string name="remove_to_other_album">Обедини с друг човек</string>
   <string name="removed_from_favorites_desc">Премахнато от любимите</string>
@@ -1189,9 +1213,7 @@
   <string name="request_sms_url_title">Съвет</string>
   <string name="retry_to_create_album">Отново</string>
   <string name="retry_to_request_qr_code">Отново</string>
-  <string name="risk_control_deleted_date">dd/MM</string>
-  <string name="risk_control_deleted_message">Някой е изтрил вашите елементи от галерията в облака чрез %3$s на %1$s в %2$s. Вие ли бяхте това?</string>
-  <string name="risk_control_deleted_title">Предупреждение за сигурност</string>
+  <string name="rubbish_album_move_to_other_album_success">Можете да видите тези елементи в „Други албуми“.</string>
   <string name="runtime_permission_ungranted">Галерия се затвори, няма необходимите разрешения</string>
   <string name="same_name_album_exist_and_toast">Вече съществува албум с това име. Вместо това е създаден \'%s\'.</string>
   <string name="scan_barcode_guide">За да видите QR кода на албума, натиснете иконата за споделяне в горният десен ъгъл.</string>
@@ -1279,7 +1301,7 @@
   <string name="secret_reason_type_not_support">Този вид файлове не се поддържа</string>
   <string name="secret_reason_unknow_reasons">Неизвестна грешка</string>
   <string name="secret_reason_video_not_support">Не може да се добави видео към скрит албум</string>
-  <string name="see_ignore_faces">"Преглед на хората, които сте игнорирали"</string>
+  <string name="see_ignore_faces">Преглед на хората, които сте игнорирали</string>
   <string name="select_all">Избери всички</string>
   <string name="select_image_operation">Добавяне на снимки</string>
   <string name="select_item_face">Снимки на %s</string>
@@ -1302,7 +1324,7 @@
   <string name="set_as_wallpaper_description">Това изображение е връзка, изтеглете оригинала?</string>
   <string name="set_as_wallpaper_title">Задаване като тапет</string>
   <string name="set_face_group_toast_msg_new_user">Задръжте лицето, за да обедините или игнорирате този човек.</string>
-  <string name="set_face_group_toast_msg_old_user">"Задръжте върху човек на снимката, за да създадете групи (Семейство, Приятели, Съученици и т.н.)"</string>
+  <string name="set_face_group_toast_msg_old_user">Задръжте върху човек на снимката, за да създадете групи (Семейство, Приятели, Съученици и т.н.)</string>
   <string name="set_face_group_toast_title_new_user">Съвет</string>
   <string name="set_face_group_toast_title_old_user">Хората могат да бъдат организирани в групи</string>
   <string name="set_face_image">Задаване на нова профилна снимка</string>
@@ -1324,6 +1346,7 @@
   <string name="show_hidden_album_title">Показване на невидимите албуми</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Преместено успешно, отидете в Други албуми, за преглед</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Преместено успешно, отидете в Албуми, за за преглед</string>
+  <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Преместено в кошчето успешно</string>
   <string name="similar_keep_clear">Запазване на най-добрите снимки</string>
   <string name="slideshow_interval_dialog_title">Въведете интервал</string>
   <string name="slideshow_interval_invalid">Интервалът трябва да бъде между 1 и 3600 секунди</string>
@@ -1451,7 +1474,6 @@
   <string name="trash_bin">Кошче</string>
   <string name="trash_bin_key_word">Изтрити снимки</string>
   <string name="trash_bin_summary">Преглед на архивирани снимки, които сте изтрили наскоро</string>
-  <string name="trash_bin_summary_local">Преглеждайте наскоро изтрити снимки и видеоклипове</string>
   <string name="trash_empty">Тук няма елемнти.</string>
   <string name="trash_menu_delete">Изтрий</string>
   <string name="trash_menu_recovery">Възстанови</string>
@@ -1603,6 +1625,4 @@
   <string name="yes">Да</string>
   <string name="yesterday">Вчера</string>
   <string name="you_are">Вие сте дете на</string>
-  <string name="member_menu_vipname_free">Безплатно</string>
-  <string name="video_editor_not_support_8k_tips">"8K видеоклипове не могат да се редактират"</string>
 </resources>
