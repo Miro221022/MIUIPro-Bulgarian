@@ -343,4 +343,6 @@
   <string name="waybill_num">"Поръчка: "</string>
   <string name="xiaoai_dialog">"Опитайте да кажете на Mi AI
 какво искате да сканирате"</string>
+    <string name="calories_logo_text">AI поддръжка осигурена от Health Hope</string>
+    <string name="calories_request_interface_text">AI поддръжка</string>
 </resources>

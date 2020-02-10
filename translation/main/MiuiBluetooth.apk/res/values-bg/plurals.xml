@@ -4,4 +4,8 @@
         <item quantity="other">Натиснете и задръжте бутона на кутията за %1$d секунди</item>
         <item quantity="one">Натиснете и задръжте бутона на кутията за %1$d секунда</item>
 	</plurals>
+	    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Докоснете и задръжте тъчпада на всяка слушалка за %1$d секунди</item>
+        <item quantity="one">Докоснете и задръжте тъчпада на всяка слушалка за %1$d секунда</item>
+    </plurals>
 </resources>

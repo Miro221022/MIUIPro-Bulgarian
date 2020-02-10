@@ -5541,12 +5541,12 @@
     <string name="super_resolution_no_app_tips">Изтеглете WeChat и Toutiao първо.</string>
     <string name="super_resolution_reboot_tips">Тази функция позволява да направите размазани изображения в WeChat и Toutiao crisper. Стартирайте отново приложенията, след като включите тази функция.</string>
     <string name="super_resolution_title">Супер резолюция</string>
-    <string name="wifi_assistant">WLAN асистент</string>
+    <string name="wifi_assistant">Автоматичен избор на най-добрите мрежи</string>
     <string name="wifi_assistant_auto_confirm_data_message">Текущата WLAN няма достъп до интернет, вместо това ще използват мобилни данни. Можете да изключите WLAN асистента в настройките</string>
     <string name="wifi_assistant_confirm_always">Без повече съвети следващия път</string>
     <string name="wifi_assistant_confirm_connection_title">Потвърждаване на връзката</string>
     <string name="wifi_assistant_data_prompt">Показване на предупреждение за използването на данни</string>
-    <string name="wifi_assistant_data_prompt_summary">Показване на предупреждение за използването на данни, когато WLAN асистента превключи на мобилни данни</string>
+    <string name="wifi_assistant_data_prompt_summary">Показване на предупреждение за използване на данни при преминаване към мобилни данни</string>
     <string name="wifi_assistant_description">"След включване на тази функция:
 1.Когато WLAN връзката е лоша, системата ще провери автоматично за друга налична WLAN мрежа.
 2.Когато всички съществуващи WLAN мрежи са лоши и мобилните данни са активирани, системата ще избере най-добрата мрежова връзка"</string>
@@ -5609,8 +5609,7 @@
     <string name="flash_drive_backup_restore">Архивиране или възстановяване чрез USB</string>
     <string name="flash_drive_backup_restore_summary">Свържете USB памет</string>
     <string name="bt_ldac_declaration">Когато Bluetooth устройство поддържа LDAC, то ще бъде свързано по подразбиране. LDAC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. По време на възпроизвеждане могат да възникнат проблеми, дължащи се на ограниченията в хардуера на Bluetooth.</string>
-    <string name="bt_ldac_dialog_summary">"LDAC осигурява висококачествено аудио изживяване и също така води до по-висока консумация на енергия.
-Тази функция може да бъде изключена в [Настройки]"</string>
+    <string name="bt_ldac_dialog_summary">LDAC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. Тази функция може да бъде изключена в Настройки.</string>
     <string name="bt_ldac_dialog_title">Текущото устройство поддържа LDAC, което беше свързано по подразбиране:</string>
     <string name="bt_ldac_open_dialog_summary">LDAC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. По време на възпроизвеждане могат да възникнат проблеми, дължащи се на ограниченията в хардуера на Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Включване на LDAC?</string>
@@ -6479,8 +6478,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Избор на Bluetooth аудио LHDC кодек:
 Качество на възпроизвеждане"</string>
     <string name="bt_lhdc_declaration">Когато Bluetooth устройството поддържа LHDC, то ще бъде свързано по подразбиране. LHDC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. Възможно е да възникнат проблеми по време на възпроизвеждане поради ограниченията на Bluetooth устройството.</string>
-    <string name="bt_lhdc_dialog_summary">"LHDC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия.
-Тази функция може да бъде изключена в Настройки."</string>
+    <string name="bt_lhdc_dialog_summary">LHDC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. Тази функция може да бъде изключена в Настройки.</string>
     <string name="bt_lhdc_dialog_title">Текущото устройство поддържа LHDC, който е свързан по подразбиране:</string>
     <string name="bt_lhdc_open_dialog_summary">LHDC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. Възможно е да възникнат проблеми по време на възпроизвеждане поради ограниченията на Bluetooth устройството.</string>
     <string name="bt_lhdc_open_dialog_title">Включване на LHDC?</string>
@@ -6688,11 +6686,11 @@ OTG се изключва автоматично след 10 минути без
     <string name="seek_bar_info">Регулиране на размера</string>
     <string name="strong_suppression_summary">"Вашето устройство няма да реагира на случайно докосване, някои действия с жестове може да не работят близо до ръбовете"</string>
     <string name="strong_suppression_title">Голяма площ</string>
-    <string name="wake_suppression_summary">Вашето устройство може да реагира на случайно докосване, но също така ще реагира на действия с жестове в близост до краищата</string>
+    <string name="wake_suppression_summary">Вашето устройство може да реагира на случайно докосване, но също така ще реагира на действия с жестове в близост до ръбовете</string>
     <string name="wake_suppression_title">Малка площ</string>
     <string name="wifi_direct_close_hotspot_hint">Изключете преносимата точка преди да използвате WLAN Direct</string>
     <string name="wifi_direct_close_slave_wifi_hint">Прекъснете връзката със спомагателната WLAN, преди да използвате WLAN Direct</string>
-	<string name="codec_low_latency_summary">Осигурява ниска латентност за аудио/видео синхронизация</string>
+	<string name="codec_low_latency_summary">Намалете латентността по време на аудио и видео синхронизация</string>
     <string name="codec_low_latency_title">Ниска латентност</string>
 	<string name="use_otg_charge_only">Обратно зареждане</string>
     <string name="use_otg_charge_only_summary">По-бързо 1.8A зареждане</string>

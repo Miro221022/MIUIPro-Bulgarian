@@ -1905,7 +1905,7 @@
   <string name="zen_priority_introduction">Няма да бъдете обезпокоявани от звуци и вибрации, освен от аларми, напомняния, събития и обаждания, които сте посочили.Но все пак ще чуете всичко, което изберете, включително музика, видеоклипове и игри</string>
   <string name="zen_silence_introduction">Това блокира ВСИЧКИ звуци и вибрации, включително от аларми, музика, видеоклипове и игри.</string>
   <string name="zen_silence_introduction_voice">Това блокира ВСИЧКИ звуци и вибрации, включително от аларми, музика, видеоклипове и игри. Но ще можете да осъществявате телефонни обаждания.</string>
-  <string name="accessibility_status_bar_micphone">свързан микрофон</string>
+  <string name="accessibility_status_bar_micphone">Микрофонът е свързан успешно</string>
   <string name="how_to_use_app_quick">Как да превключвате между приложения</string>
   <string name="how_to_use_app_quick_hide_line_summary">Плъзнете нагоре от долната част на екрана, след което плъзнете наляво или надясно</string>
   <string name="how_to_use_app_quick_summary">Плъзнете наляво или надясно от индикатора за цял екран или отдолу на екрана</string>

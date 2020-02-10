@@ -158,4 +158,14 @@
     <string name="recommend_list">Препоръчани</string>
     <string name="storytelling">Истории</string>
 	<string name="night_mode_switch">Нощен режим</string>
+	<string name="character_counter_content_description">Превишено е ограничението за брой символи %1$d от %2$d</string>
+    <string name="individuation_recommend_setting_title">Персонализирани препоръки</string>
+    <string name="individuation_recommend_switch_message">"Няма да получавате препоръки въз основа на личните ви интереси, след като изключите тази функция. Изключване въпреки това?"</string>
+    <string name="individuation_service_switch">Персонализирани препоръки</string>
+    <string name="mtrl_chip_close_icon_content_description">Премахни %1$s</string>
+    <string name="play_mode_circle_hint">Повтаряне на една песен сега</string>
+    <string name="play_mode_circle_title">Безкрайно една</string>
+    <string name="play_mode_normal_hint">Възпроизвеждане на песни в първоначалния ред сега</string>
+    <string name="play_mode_normal_title">Изпълни всички</string>
+	<string name="password_toggle_content_description">Покажи паролата</string>
 </resources>

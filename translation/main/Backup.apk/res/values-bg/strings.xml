@@ -613,4 +613,32 @@
   <string name="xiaomi_update_dialog_message_diff">\"Представяме версия %1$s\n Делта актуализация: %2$s</string>
   <string name="xiaomi_update_dialog_title">Налична е актуализация</string>
   <string name="camera_summary_for_cta">Настройки на камерата</string>
+    <string name="local_back_up_detail_description">"Забележка:
+1. За да избегнете загуба на данни, копирайте локални архиви на вашия компютър.
+2. Винаги копирайте локални архиви на вашия компютър, преди да извършите фабрично нулиране, в противен случай локалните архиви ще бъдат загубени.
+3. Къде се съхраняват локалните архиви? %1$s"</string>
+    <string name="local_backup_select_activity">Създай резервно копие</string>
+    <string name="local_button_backup_data">Архивирай</string>
+    <string name="local_button_backup_now">Архивиране</string>
+    <string name="local_button_restore_data">Възстановяване на това устройство</string>
+    <string name="local_button_restore_now">Възстановяване</string>
+    <string name="local_click_to_jump">Докоснете за преглед</string>
+    <string name="local_config_off">Изключено</string>
+    <string name="local_config_on">Включено</string>
+    <string name="local_main_auto_backup_title">Автоматично архивиране</string>
+    <string name="local_main_backup">Локални архиви</string>
+    <string name="local_main_backup_and_restore">На това устройство</string>
+    <string name="local_main_backup_detail_title">Системни настройки, профили и данни за приложения</string>
+    <string name="local_main_backup_manage_null">%s</string>
+    <string name="local_main_backup_manager">Управление на локалните архиви</string>
+    <string name="local_main_backup_manager_title">Управление на архивите</string>
+    <string name="local_main_backup_settings">Настройки за локално архивиране</string>
+    <string name="local_main_backup_time">Последно архивиране: %1$s</string>
+    <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
+    <string name="local_main_encrypt_backup_summary">Шифровайте елементите, които архивирате чрез вашия Mi профил</string>
+    <string name="local_main_encrypt_backup_title">Шифроване</string>
+    <string name="local_main_latest_backup_time_loading">Една секунда…</string>
+    <string name="local_no_backup_data">Тук все още няма резервни копия</string>
+    <string name="local_restore_select_activity">Управление на архивите</string>
+    <string name="local_restore_select_data_activity">Възстановяване от резервно копие</string>
 </resources>

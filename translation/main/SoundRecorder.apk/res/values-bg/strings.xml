@@ -305,4 +305,14 @@
   <string name="delete_cloud_data_at_same_time">Изтриване също и от облака</string>
   <string name="preference_record_desktop_indicator_summary">Показване на син индикатор на началния екран, когато приложението работи във фонов режим</string>
   <string name="preference_record_desktop_indicator_title">Индикатор на началния екран</string>
+    <string name="recognition_button_add_to_queue">Добави към опашката</string>
+    <string name="recognition_button_cancel">Не сега</string>
+    <string name="recognition_button_start">Транскрибирай</string>
+    <string name="recognition_confirm_dialog_body">"Транскрибирането може да отнеме известно време. Ще получите известие, когато тази задача приключи. Транскрибиране сега?"</string>
+    <string name="recognition_interrupt_current_dialog_body">"Транскрибирането може да отнеме известно време. Ще получите известие, когато тази задача приключи. \"%s\" се транскрибира сега. Да се добави ли тази задача към опашката?"</string>
+    <string name="recognition_notification_channel">Транскрибиране</string>
+    <string name="recognition_notification_complete_success">Транскрибирано \"%s\" успешно. Докоснете за преглед.</string>
+    <string name="recognition_notification_error">"Не можа да се транскрибира \"%s\""</string>
+    <string name="recognition_notification_running">Транскрибиране \"%s\"…</string>
+    <string name="recognition_stop_current">Спри текущата задача</string>
 </resources>

@@ -1569,4 +1569,6 @@
   <string name="zen_mode_forever_dnd">Докато не изключите „Не безпокойте“</string>
   <string name="zen_mode_until">До %1$s</string>
   <string name="slatoast">Използването на мобилни данни за повишаване на скоростта може да консумира мобилни данни</string>
+  <string name="miaudiovisual_notification_summary">Включете, за да се показват ефекти на заключен екран</string>
+  <string name="miaudiovisual_notification_title">Звукови и визуални ефекти</string>
 </resources>

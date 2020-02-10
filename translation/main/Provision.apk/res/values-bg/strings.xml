@@ -237,4 +237,9 @@
 	<string name="data_traffic_enable_dialog_title">"Ако сега не сте свързани с WLAN, устройството ви ще използва мобилни данни. Използването на мобилни данни може да генерира допълнителни такси на оператора."</string>
     <string name="poco_launcher_privacy_policy">Политика за поверителност на POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Потребителско споразумение на POCO Launcher</string>
+	<string name="mint_keyboard_oobe_checkbox">"Прочетох и се съгласих с Политика за поверителност на Mint клавиатурата"</string>
+    <string name="mint_keyboard_oobe_terms">Политика за поверителност на Mint клавиатурата</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+Трябва да се съгласите с Политика за поверителност на Mint клавиатурата, преди да използвате тази функция."</string>
 </resources>

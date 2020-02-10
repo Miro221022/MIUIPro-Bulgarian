@@ -1109,4 +1109,13 @@
     <string name="preview_back_pressed_hint">Натиснете отново, за да се върнете към визуализацията</string>
 	<string name="emoticon">Emoji пакет</string>
     <string name="share">Сподели</string>
+	<string name="color_enhance_mode">Подобрени цветове</string>
+    <string name="mimoji_save_success">Запазено успешно</string>
+    <string name="watermark_tab_city">Град</string>
+    <string name="watermark_tab_festival">Ваканция</string>
+    <string name="watermark_tab_general">Основен</string>
+    <string name="watermark_tab_scene">Сцена</string>
+    <string name="watermark_tab_spots">Страна</string>
+	<string name="pref_camera_debug_info_as_watermark_title">Включете отстраняване на грешки за воден знак</string>
+    <string name="pref_camera_video_sat_enable_title">Включете видео плавно увеличение</string>
 </resources>

@@ -305,4 +305,6 @@
 	<string name="slatoast">Използването на мобилни данни за повишаване на скоростта може да генерира допълнителни такси на оператора</string>
 	<string name="help">Помощ</string>
     <string name="help_content">"Ако не можете да намерите нужното устройство, помолете другия човек да включи Mi Споделяне."</string>
+	<string name="sunlight_notification_content">Регулиране на яркостта към силната околна светлина автоматично</string>
+    <string name="sunlight_notification_title">Включете режим за слънчева светлина</string>
 </resources>

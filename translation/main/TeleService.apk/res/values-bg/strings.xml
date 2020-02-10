@@ -1826,4 +1826,5 @@
     <string name="nr_usaged_network_usaged">"Данни днес"</string>
     <string name="nr_usaged_operator">Оператор</string>
     <string name="nr_usaged_used_time">Продължителност на използване</string>
+	<string name="notification_channel_demo">Демо устройство</string>
 </resources>
