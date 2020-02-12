@@ -14,11 +14,11 @@
     <item>По избор</item>
   </string-array>
   <string-array name="app_behavior_type_menu">
-    <item>Всички поведения</item>
-    <item>Автостарт</item>
-    <item>Верижно автостартиране</item>
-    <item>Разрешения</item>
-    <item>Чувствително поведение</item>
+        <item>Всички записи</item>
+        <item>Автостарт</item>
+        <item>Верижно стартиране</item>
+        <item>Използване на разрешения</item>
+        <item>Чувствителни действия</item>
   </string-array>
   <string-array name="applock_password_types">
     <item>Фигура</item>

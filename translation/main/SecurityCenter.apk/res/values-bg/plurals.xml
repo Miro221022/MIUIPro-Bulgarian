@@ -5,22 +5,20 @@
     <item quantity="one">Добавена е %d игра</item>
   </plurals>
   <plurals name="app_behavior_desc_allow">
-    <item quantity="other">Разрешено %3$d пъти от %1$s на %2$s</item>
-    <item quantity="one">Разрешено %3$d път от %1$s на %2$s</item>
+        <item quantity="other">Разрешено %3$d пъти между %1$s и %2$s</item>
+        <item quantity="one">Разрешено %3$d път между %1$s и %2$s</item>
   </plurals>
   <plurals name="app_behavior_desc_deny">
-    <item quantity="other">Отказано %3$d пъти от %1$s на %2$s</item>
-    <item quantity="one">Отказано %3$d път от %1$s на %2$s</item>
+        <item quantity="other">Ограничено %3$d пъти между %1$s и %2$s</item>
+        <item quantity="one">Ограничено %3$d път между %1$s и %2$s</item>
   </plurals>
   <plurals name="app_behavior_privacy_manager_off">
-    <item quantity="other">Известията за поведение са деактивирани в %1$d приложения</item>
-    <item quantity="zero">Няма приложения с деактивирани известия за поведение</item>
-    <item quantity="one">Известията за поведение са деактивирани в %1$d приложение</item>
+        <item quantity="other">"Няма да получавате известия за чувствителни действия, извършени от %1$d приложения"</item>
+        <item quantity="one">"Няма да получавате известия за чувствителни действия, извършени от %1$d приложение"</item>
   </plurals>
   <plurals name="app_behavior_privacy_manager_on">
-    <item quantity="other">Известията за поведение са активирани в %1$d приложения</item>
-    <item quantity="zero">Няма приложения с активирани известия за поведение</item>
-    <item quantity="one">Известието за поведение е активирано в %1$d приложение</item>
+        <item quantity="other">"Ще бъдете известени за чувствителни действия, извършени от %1$d приложения"</item>
+        <item quantity="one">"Ще бъдете известени за чувствителни действия, извършени от %1$d приложение"</item>
   </plurals>
   <plurals name="app_manager_permission_summary_accept">
     <item quantity="other">Дадени са %d разрешения</item>

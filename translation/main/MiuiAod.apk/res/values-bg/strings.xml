@@ -104,4 +104,10 @@
   <string name="delete">Изтрий</string>
   <string name="my_style_title">Мой стил</string>
   <string name="theme_cate_title">Тема</string>
+  <string name="minimalist_clock">Обикновен часовник</string>
+  <string name="aod_lock_screen_date_12_smartcover">"EE
+d/M"</string>
+  <string name="aod_lock_screen_date_smartcover">"EE
+d/M"</string>
+  <string name="aod_lock_screen_date_smartcover_b">M/d EE</string>
 </resources>
