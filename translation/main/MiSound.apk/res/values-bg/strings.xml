@@ -61,4 +61,25 @@
   <string name="music_mi_effect_title">Mi Звуков подобрител</string>
   <string name="music_title_dolby_control">Dobly digital plus</string>
   <string name="music_unsupport_effect_summary">USB слушалките не се поддържат</string>
+   <string name="music_audio_visual_wake_lock">Поддържай екрана буден</string>
+   <string name="music_audio_visual_wake_lock_summary">"Без изключване на екрана, когато се показват визуални ефекти"</string>
+   <string name="music_headset_audio_visual">Визуални ефекти</string>
+   <string name="music_headset_audio_visual_apply">Приложи</string>
+   <string name="music_headset_audio_visual_style">Стил на визуалните ефекти</string>
+   <string name="music_headset_audio_visual_style_summary">Изберете стил за визуалните ефекти</string>
+   <string name="music_headset_audio_visual_summary">Придружаване на звука с визуални ефекти, показани на заключен екран</string>
+   <string name="music_headset_audio_visual_toast">Приложено успешно</string>
+   <string name="music_headset_control_setting">Управление на слушалки</string>
+   <string name="music_headset_effect_settings">Звукови ефекти</string>
+   <string name="music_headset_improve_sound">Регулиране на звука на слушалките</string>
+   <string name="music_headset_is_open">Включено</string>
+   <string name="music_headset_not_open">Изключено</string>
+   <string name="music_headset_open">Регулиране на звука на слушалките</string>
+   <string name="music_headset_optimization">Звукова оптимизация</string>
+   <string name="music_headset_scenario_intelligent">Интелигентна</string>
+   <string name="music_headset_scenario_music">Музика</string>
+   <string name="music_headset_scenario_select">Предварително зададено</string>
+   <string name="music_headset_scenario_video">Видео</string>
+   <string name="music_headset_scenario_vocal">Глас</string>
+   <string name="music_headset_select_settings">Изберете слушалки</string>
 </resources>

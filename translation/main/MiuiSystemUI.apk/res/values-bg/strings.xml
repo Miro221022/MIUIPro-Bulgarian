@@ -1909,4 +1909,13 @@
   <string name="how_to_use_app_quick">Как да превключвате между приложения</string>
   <string name="how_to_use_app_quick_hide_line_summary">Плъзнете нагоре от долната част на екрана, след което плъзнете наляво или надясно</string>
   <string name="how_to_use_app_quick_summary">Плъзнете наляво или надясно от индикатора за цял екран или отдолу на екрана</string>
+   <string name="wireless_charging_connected_message">"Не може да се използва обратното безжично зареждане, когато устройството ви се зарежда безжично."</string>
+   <string name="wireless_charging_low_battery_level_message">"Не може да се използва обратно безжично зареждане, когато батерията е под 30% заряд."</string>
+   <string name="wireless_charging_ok">Разбрах</string>
+   <string name="wireless_charging_saver_cancel">Изключи</string>
+   <string name="wireless_charging_saver_message">Пестенето на батерия е включено. Продължаване на обратно безжично зареждане?</string>
+   <string name="wireless_charging_saver_ok">Запази</string>
+   <string name="wireless_charging_tips_disable">"Не показвай отново"</string>
+   <string name="wireless_charging_tips_message">Поставете устройства, които поддържат Qi безжично зареждане (телефони, аксесоари и т.н.) на гърба на това устройство.</string>
+   <string name="wireless_charging_tips_title">Обратно безжично зареждане</string>
 </resources>
