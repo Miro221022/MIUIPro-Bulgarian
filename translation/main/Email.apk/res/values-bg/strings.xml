@@ -1134,10 +1134,10 @@
   <string name="appraise_ignore">"В момента не мога да кажа"</string>
   <string name="appraise_negative">Не</string>
   <string name="have_auth_code">Имам код</string>
-  <string name="help_me_get_qq_auth">Получване на QQ код</string>
+  <string name="help_me_get_qq_auth">Получване на оторизационен код</string>
   <string name="open_androidp_warning">Предупреждение за 9.0 неофициални SDK</string>
   <string name="qq_login_notice">"Забележка: Ако вече сте задали парола, трябва да я потвърдите, когато се впишете."</string>
-  <string name="qq_pwd_or_qq_auth_code">Въведете QQ код или парола за имейла</string>
+  <string name="qq_pwd_or_qq_auth_code">Въведете оторизационен код</string>
   <string name="folder_empty_to_fresh">"Пощата не е синхронизирана. Дръпнете надолу, за да синхронизирате."</string>
   <string name="folder_no_mails">Няма имейли в тази папка</string>
   <string name="toast_bar_sync_failed_mi_authority">"Впишете се, за да оторизирате устройството си"</string>
@@ -1158,7 +1158,7 @@
   <string name="contact_add_options_details2">Само получателите</string>
   <string name="get_oauth_code">Получаване на код</string>
   <string name="help_weixin_title">"Ако имате някакви въпроси, не се колебайте да ни зададете в нашия официален WeChat профил: "</string>
-  <string name="login_qq_psw">Вписване чрез QQ парола/удостоверител/код за потвърждение</string>
+  <string name="login_qq_psw">Вписване чрез оторризационен код</string>
   <string name="mi_sync_erroe_toast">"Възникна грешка в мрежата: "</string>
   <string name="mi_sync_erroe_toast_other">"Възникна грешка в сървъра: "</string>
   <string name="no_more_mail">Няма повече съобщения</string>
@@ -1214,11 +1214,11 @@
   <string name="conversation_cert_trust">Вярвай</string>
   <string name="conversation_message_encrypt_tips">Това е криптиран имейл. Добавете сертификата, необходим за дешифрирането му.</string>
   <string name="no_open_smime_toast">Първо добавете S/MIME сертификат</string>
-  <string name="obtain_new_auth_code">Получете нов код</string>
+  <string name="obtain_new_auth_code">Получете нов оторизационен код</string>
   <string name="qq_changepw_dialog_tips">Получете нов код от %s, за да се впишете.</string>
   <string name="send_encrypt_dialog_fail_content">"Изглежда, че получателят няма надежден сертификат, необходим за криптиране на този имейл. Да се изпрати ли вместо това обикновен имейл?"</string>
   <string name="send_encrypt_dialog_fail_title">"Не може да се изпраща криптиран имейл"</string>
-  <string name="user_new_auth_code">Впишете се с нов код</string>
+  <string name="user_new_auth_code">Впишете се с нов оторизационен код</string>
   <string name="xiaomi_email">Поща</string>
   <string name="xiaomi_under_certification">Оторизира се…</string>
   <string name="certificate_alias_prompt_hit">Моля, въведете име на сертификата</string>
