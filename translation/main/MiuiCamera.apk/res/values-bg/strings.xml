@@ -1110,7 +1110,6 @@
 	<string name="emoticon">Emoji пакет</string>
     <string name="share">Сподели</string>
 	<string name="color_enhance_mode">Подобрени цветове</string>
-    <string name="mimoji_save_success">Запазено успешно</string>
     <string name="watermark_tab_city">Град</string>
     <string name="watermark_tab_festival">Ваканция</string>
     <string name="watermark_tab_general">Основен</string>
