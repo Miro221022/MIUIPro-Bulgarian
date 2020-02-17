@@ -1918,4 +1918,5 @@
    <string name="wireless_charging_tips_disable">"Не показвай отново"</string>
    <string name="wireless_charging_tips_message">Поставете устройства, които поддържат Qi безжично зареждане (телефони, аксесоари и т.н.) на гърба на това устройство.</string>
    <string name="wireless_charging_tips_title">Обратно безжично зареждане</string>
+   <string name="screenshot_failed_in_landscape_mode">"Не можете да правите издължена екранна снимка в пейзажен режим"</string>
 </resources>

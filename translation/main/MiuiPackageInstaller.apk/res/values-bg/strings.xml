@@ -312,4 +312,11 @@
   <string name="wear_app_channel">Инсталиране/деинсталиране на Android Wear приложения</string>
   <string name="wear_not_allowed_dlg_text">Действието Инсталиране/Деинсталиране не се поддържа от Wear.</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
+  <string name="install_app_progress_clear_apk">Изтрий APK</string>
+  <string name="install_control_cancel_install">"Не инсталирай"</string>
+  <string name="install_control_continue_install">Инсталирай въпреки това</string>
+  <string name="install_control_lite_mode_explain_des">Това приложение идва от неизвестен източник и може да не работи в олекотен режим.</string>
+  <string name="install_control_lite_mode_solution_des">"Можете да изберете да инсталирате това приложение.
+Освен това можете да изключите олекотения режима и да опитате отново."</string>
+  <string name="install_control_normal_mode_explain_des">"Това приложение не може да се инсталира поради законови ограничения"</string>
 </resources>

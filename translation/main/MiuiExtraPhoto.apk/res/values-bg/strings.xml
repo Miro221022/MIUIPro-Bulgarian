@@ -34,4 +34,14 @@
 светлината"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 	<string name="extra_photo_common_save_fail">"Не може да се запази"</string>
+	<string name="doc_photo_adjust_section_title">Плъзнете за коригиране</string>
+    <string name="doc_photo_doc_photo_title">Редактиране на документ</string>
+    <string name="doc_photo_enhance_bin">Ч/Б</string>
+    <string name="doc_photo_enhance_color">Подобрено</string>
+    <string name="doc_photo_enhance_none">Оригинално</string>
+    <string name="doc_photo_idcard_emblem">Назад</string>
+    <string name="doc_photo_idcard_mode_title">ID карта</string>
+    <string name="doc_photo_idcard_portrait">Предна</string>
+    <string name="doc_photo_not_support">"Това изображение не може да се редактира като документ"</string>
+    <string name="doc_photo_view_effect">Преглед</string>
 </resources>

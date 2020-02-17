@@ -1118,4 +1118,6 @@
 	<string name="pref_camera_debug_info_as_watermark_title">Включете отстраняване на грешки за воден знак</string>
     <string name="pref_camera_video_sat_enable_title">Включете видео плавно увеличение</string>
 	<string name="network_access_user_notice_message_mi_live_video"><Data>Добре дошли в кратките видеоклипове! Нашата услуга трябва да се свърже с мрежата, за да ви предостави музика и други функции. &lt;br/>&lt;br/>Преди да използвате услугата, трябва да прочетете и да се съгласите с нашите &lt;a href =%1$s>Потребителско споразумение&lt;/a> и &lt;a href =%2$s>Политика за поверителност&lt;/a> и разрешавате на приложението да се свърже с интернет.</Data></string>
+	<string name="pro_color_mode">Pro цвят</string>
+    <string name="super_night_se_tip">Нощен режим</string>
 </resources>
