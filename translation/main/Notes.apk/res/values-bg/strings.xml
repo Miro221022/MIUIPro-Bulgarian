@@ -357,4 +357,5 @@
     <string name="todo_schedule_time_repeat_normal_workday">, понеделник до петък</string>
     <string name="todo_schedule_time_repeat_week">, всяка седмица</string>
     <string name="todo_schedule_time_repeat_year">, всяка година</string>
+	<string name="notification_content_add_todo_from_other_app">Добавихте нова задача. Докоснете за преглед</string>
 </resources>
