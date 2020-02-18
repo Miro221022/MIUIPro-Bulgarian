@@ -641,7 +641,7 @@
      <string name="menu_copy">Копирай</string>
      <string name="menu_copyContact">Копирай в \"Моите контакти\"</string>
      <string name="menu_create_contact_shortcut">Добави на начален екран</string>
-     <string name="menu_deleteContact">Изтриване на контакта</string>
+     <string name="menu_deleteContact">Изтриване</string>
      <string name="menu_deleteGroup">Изтриване</string>
      <string name="menu_dial_ip_number">IP обаждане</string>
      <string name="menu_dialpad_text">Клавиатура</string>

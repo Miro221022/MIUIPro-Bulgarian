@@ -316,7 +316,7 @@
   <string name="applock_header_text_less_than_half">Прекалено малко. Начертайте още.</string>
   <string name="applock_lock_all">Заключи всички</string>
   <string name="applock_login_and_add_account">Вписване и добавяне</string>
-  <string name="applock_not_add_account">" \"&lt;u&gt;Не сега&lt;/u&gt;\" "</string>
+  <string name="applock_not_add_account">" "<u>Не сега</u>" "</string>
   <string name="applock_not_login_account">Не сте вписан</string>
   <string name="applock_set_password_title">Промяна на типа парола</string>
   <string name="applock_settings_unlock_all_toast">Отключване на всички приложения</string>
@@ -1053,9 +1053,9 @@
   <string name="forbid_autobright_summary">Автоматичната яркост ще бъде изключена, докато играете и възстановена след като приключите</string>
   <string name="forbid_autobright_title">Поправяне на яркостта на екрана</string>
   <string name="foreground_traffic">На преден план %s</string>
-  <string name="forget_password_button_text">" \"&lt;u&gt;Забравена парола&lt;/u&gt;\" "</string>
+  <string name="forget_password_button_text">" "<u>Забравена парола</u>" "</string>
   <string name="forget_password_button_text_normal">Забравена парола</string>
-  <string name="forget_pattern">" \"&lt;u&gt;Забравена парола&lt;/u&gt;\" "</string>
+  <string name="forget_pattern">" "<u>Забравена парола</u>" "</string>
   <string name="forground_network_optimization_summary">Даване на по-голямата част от честотната лента на игрите изпълняващи се на преден план</string>
   <string name="forground_network_optimization_title">Приоритет на честотната лента</string>
   <string name="free_send_net_booster">Безплатно ускорение на мрежата</string>
