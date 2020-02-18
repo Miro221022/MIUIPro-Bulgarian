@@ -817,7 +817,7 @@
   <string name="ew_arrive_text_tips">Пристигна сеизмична вълна: %s</string>
   <string name="ew_button_confirm">Приемам</string>
   <string name="ew_button_exit">Не приемам</string>
-  <string name="ew_china_version_first_start_network_msg">" \"&lt;Data&gt;\"Тази функция ви осигурява функционалност за предупреждение за земетресение. Тя ще ви извести за предстоящи земетресения и ще възпроизведе предупредителен звук. Ще можете да намерите най-близкия подслон, да се обадите на вашия спешен контакт и при необходимост да представите медицинската си карта. &lt;br&gt;Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност. &lt;br&gt;За да може да работи нормално, тази функция изисква следните разрешения, за да събира личната ви информация: &lt;br&gt;• Информация за местоположение: &lt;br&gt;За достъп до местоположението ви и предоставяне на точни предупреждения за земетресение. &lt;br&gt;Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате тази функция. В такъв случай можете да изберете да изключите тази функция или да не я включите. &lt;br&gt;Трябва да прочетете и да се съгласите с нашата &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\"&gt;Политика за поверителност&lt;/a&gt; преди да използвате тази функция.\"&lt;/Data&gt;\" "</string>
+  <string name="ew_china_version_first_start_network_msg">" "<Data>"Тази функция ви осигурява функционалност за предупреждение за земетресение. Тя ще ви извести за предстоящи земетресения и ще възпроизведе предупредителен звук. Ще можете да намерите най-близкия подслон, да се обадите на вашия спешен контакт и при необходимост да представите медицинската си карта. &lt;br&gt;Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност. &lt;br&gt;За да може да работи нормално, тази функция изисква следните разрешения, за да събира личната ви информация: &lt;br&gt;• Информация за местоположение: &lt;br&gt;За достъп до местоположението ви и предоставяне на точни предупреждения за земетресение. &lt;br&gt;Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате тази функция. В такъв случай можете да изберете да изключите тази функция или да не я включите. &lt;br&gt;Трябва да прочетете и да се съгласите с нашата &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\"&gt;Политика за поверителност&lt;/a&gt; преди да използвате тази функция."</Data>" "</string>
   <string name="ew_close">Изключване на предупреждението</string>
   <string name="ew_emergency_allergy">Алергии</string>
   <string name="ew_emergency_basic_info">Основна информация</string>
@@ -1245,7 +1245,7 @@
   <string name="gb_wonderful_video_delete">Изтрий</string>
   <string name="gb_wonderful_video_header_title">Днес</string>
   <string name="gb_wonderful_video_save_suc">Запазено успешно</string>
-  <string name="gdpr_msg">" \"&lt;Data&gt;\"За да използвате основните функции на Сигурност, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни, включително информация за начините, по които използвате функциите на Сигурност (например, статистика за използване на мобилни данни, информация за злонамерен софтуер, както и основна информация за вашето устройство) и други видове информация, посочени в нашата &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Политика за поверителност&lt;/a&gt;.\"&lt;/Data&gt;\" "</string>
+  <string name="gdpr_msg">" "<Data>"За да използвате основните функции на Сигурност, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни, включително информация за начините, по които използвате функциите на Сигурност (например, статистика за използване на мобилни данни, информация за злонамерен софтуер, както и основна информация за вашето устройство) и други видове информация, посочени в нашата &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Политика за поверителност&lt;/a&gt;."</Data>" "</string>
   <string name="get_sys_info">Заявка за информация…</string>
   <string name="gigabyteShort">ГБ</string>
   <string name="global_wa_setting_alert_dialog_content">Можете да освободите %s</string>
@@ -1274,7 +1274,8 @@
   <string name="gs_game_disturb_msg">Тих режим</string>
   <string name="gs_game_duration">Време</string>
   <string name="gs_game_manual_record">Ръчен запис</string>
-  <string name="gs_game_manual_record_subtitle">Можете да започнете да записвате в кутията с инструменти, докато играете. След докосване на бутона \ \"Запис \" може да се запишат до 30 секунди видео.\nВидеоклиповете ще бъдат запазени в Game Turbo &gt; Ключови моменти.</string>
+  <string name="gs_game_manual_record_subtitle">"Можете да започнете да записвате в кутията с инструменти, докато играете. След докосване на бутона \"Запис\" може да се запише до 30 секунди видео.
+Видеоклиповете ще бъдат запазени в Game Turbo > Ключови моменти."</string>
   <string name="gs_game_manual_record_subtitle_child">Може да срещнете някои проблеми, докато използвате тази функция:</string>
   <string name="gs_game_manual_record_subtitle_child_carton">Записването на вашите игрални сесии изисква по-голяма консумация на енергия, което може да доведе до забавяне.</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Други функции за запис на екрана може да не работят правилно.</string>
@@ -1598,7 +1599,7 @@
   <string name="mixed_recording_intro_header">Въведете %1$s-%2$s знака</string>
   <string name="mixed_retry_button_text">Отказ</string>
   <string name="mixed_settings_help_how_to_record">Как да зададете парола</string>
-  <string name="modify_password_mode">" \"&lt;u&gt;Смяна на типа парола&lt;/u&gt;\" "</string>
+  <string name="modify_password_mode">" "<u>Смяна на типа парола</u>" "</string>
   <string name="modifypassword">Промяна на паролата</string>
   <string name="monitor_app_add">Добави</string>
   <string name="monitor_app_more">Повече</string>
@@ -1783,7 +1784,7 @@
   <string name="password_promotion_postbutton_text">Добави</string>
   <string name="password_promotion_title">Добавяне на Mi профил</string>
   <string name="password_type">Промяна на паролата</string>
-  <string name="password_type_underline">" \"&lt;u&gt;Промяна на паролата&lt;/u&gt;\" "</string>
+  <string name="password_type_underline">" "<u>Промяна на паролата</u>" "</string>
   <string name="password_xspace_forget_pattern_message">За да смените паролата за вашето Второ работно място, трябва да изтриете текущото такова и да създадете ново.</string>
   <string name="passwordIncorrect">Неправилно име или парола</string>
   <string name="pc_abnormal_scan_button_text">Затваряне на приложения</string>
@@ -2567,19 +2568,19 @@
   <string name="system_permission_declare_agree">Приемам</string>
   <string name="system_permission_declare_analytics_declare">Благодарим ви, че се включихте в нашата програма за потребителски опит. Устройството ви трябва да бъде свързано с интернет, за да може тази функция да работи нормално. Също така се изисква да предоставите следните разрешения, за да ни позволите да събираме данните, които ще ни помогнат да подобрим нашите продукти и услуги. Тези данни се събират само за статистически цели. Няма да можем да използваме тези данни, за да ви идентифицираме лично.</string>
   <string name="system_permission_declare_disagree">Не приемам</string>
-  <string name="system_permission_declare_double_link">" \"&lt;Data&gt;Прочетете и приемете нашите &lt;a href=\"%1$s\"&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политика за поверителност&lt;/a&gt; преди да използвате тази функция.&lt;/Data&gt;\" "</string>
+  <string name="system_permission_declare_double_link">" "<Data>Прочетете и приемете нашите &lt;a href=\"%1$s\"&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политика за поверителност&lt;/a&gt; преди да използвате тази функция.</Data>" "</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Добре дошли в %1s! Това приложение ви позволява да използвате следната функция: %2s.</string>
   <string name="system_permission_declare_no_say_no">Ако решите да не давате необходимите разрешения или да не ни разрешите да събираме и използваме данните ви, това приложение няма да може да работи нормално.</string>
   <string name="system_permission_declare_no_say_no_analytics">Ако не искате да предоставите тези разрешения, можете да се откажете в Настройки &gt; Допълнителни настройки &gt; Поверителност &gt; Програма за потребителски опит.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Ако решите да не давате необходимите разрешения или не ни разрешите да събираме и използваме вашите данни, това приложение няма да работи частично.</string>
   <string name="system_permission_declare_privacy_declare">Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност. Имайте предвид, че това приложение трябва да се свърже с интернет и изисква следните разрешения за събиране на вашата лична информация:</string>
   <string name="system_permission_declare_privacy_no_permission">Имайте предвид, че това приложение трябва да се свърже с интернет и да събира необходимата лична информация, за да ви предоставя услуги. Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност.</string>
-  <string name="system_permission_declare_privacy_policy">" \"&lt;Data&gt;Прочетете и приемете нашата &lt;a href=\"%1$s\"&gt;Политика за поверителност&lt;/a&gt; преди да използвате тази функция.&lt;/Data&gt;\" "</string>
+  <string name="system_permission_declare_privacy_policy">" "<Data>Прочетете и приемете нашата &lt;a href=\"%1$s\"&gt;Политика за поверителност&lt;/a&gt; преди да използвате тази функция.</Data>" "</string>
   <string name="system_permission_declare_revoke_system">Можете да излезете от това приложение.</string>
   <string name="system_permission_declare_revoke_uninstallable">Можете да излезете, деинсталирате това приложение или да оттеглите пълномощното си в Сигурност &gt; Упрвление на приложения &gt; Разрешения &gt; Разрешения.</string>
   <string name="system_permission_declare_use_network">връзката с мрежата</string>
   <string name="system_permission_declare_use_network_no_permission">връзката с мрежата</string>
-  <string name="system_permission_declare_user_agreement">" \"&lt;Data&gt;Прочетете и приемете нашето &lt;a href=\"%1$s\"&gt;Потребителско споразумение&lt;/a&gt; преди да използвате тази функция.&lt;/Data&gt;\" "</string>
+  <string name="system_permission_declare_user_agreement">" "<Data>Прочетете и приемете нашето &lt;a href=\"%1$s\"&gt;Потребителско споразумение&lt;/a&gt; преди да използвате тази функция.</Data>" "</string>
   <string name="system_permission_perm_answer_call">Осъществяване на повиквания</string>
   <string name="system_permission_perm_optional">" (по избор)"</string>
   <string name="system_permission_perm_read_mms">Четене на MMS</string>
@@ -2852,7 +2853,7 @@
   <string name="uninstall_danagerous_title">Премахване на вредните приложения</string>
   <string name="unlike">Не, благодаря</string>
   <string name="unlock_failed">Вътрешна грешка</string>
-  <string name="unlock_pattern">" \"&lt;u&gt;Фигура&lt;/u&gt;\" "</string>
+  <string name="unlock_pattern">" "<u>Фигура</u>" "</string>
   <string name="unlock_pattern_to_bind_fingerprint">Въведете парола за активиране на Пръстов отпечатък</string>
   <string name="unlock_set_unlock_password_summary">Комбинирайте различни знаци</string>
   <string name="unlock_set_unlock_password_title">Парола</string>
