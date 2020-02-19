@@ -171,7 +171,7 @@
     <string name="usage_focus_summary_level3">Бъдете спокойни, избягвайте смущения.</string>
     <string name="usage_focus_summary_level4">Ако останете съсредоточени това ще ви помогне да откриете по-добра версия на себе си.</string>
     <string name="usage_focus_summary_level5">"Изминахте дълъг път. Не забравяйте да продължите напред."</string>
-    <string name="usage_focus_title_level1">Start small</string>
+    <string name="usage_focus_title_level1">Започнете с малко</string>
     <string name="usage_focus_title_level2">Изградете свои навици</string>
     <string name="usage_focus_title_level3">Издигнете се над околното</string>
     <string name="usage_focus_title_level4">Намерете радост в постоянството</string>
@@ -279,10 +279,10 @@
     <string name="usage_device_limit_app_prolong_time4">"Не ограничавай днес"</string>
     <string name="usage_device_limit_notifation_summary_start">"Ще достигнете ограничението след %1$s"</string>
     <string name="usage_device_limit_notifation_title">Оставащо време днес</string>
-    <string name="usage_device_limit_time_over">"Стигнахте лимита за днес (%1$s)"</string>
+    <string name="usage_device_limit_time_over">"Достигнахте лимита за днес (%1$s)"</string>
     <string name="usage_reach_device_limit">"Времето изтече! Достигнахте лимита."</string>
     <string name="usage_reach_device_limit_warning_text">"Достигнахте ограничението за днес"</string>
-    <string name="usage_stats_device_limit">Дневно ограничение на екрана</string>
+    <string name="usage_stats_device_limit">Дневно ограничение</string>
     <string name="usage_stats_device_limit_summary">Задайте дневни ограничения за използване</string>
     <string name="usage_stats_limit_time_accuracy_title">Точност на оставащото време</string>
     <string name="usage_stats_limit_time_high_accuracy_summary">Показване на оставащото време с точност до минута. Това увеличава консумацията на енергия.</string>
@@ -293,4 +293,6 @@
     <string name="usage_stats_limit_time_warn_summary">Показване на оставащото време в панела за известия</string>
     <string name="usage_stats_limit_time_warn_title">Предупреждение за оставащото време</string>
     <string name="usage_stats_no_limit">Изключения</string>
+	<string name="usage_remain_about_hour_miunte" formatted="false">Приблизително %1sч. %1sмин.</string>
+    <string name="usage_remain_hour_miunte" formatted="false">%1sч. %1sмин.</string>
 </resources>

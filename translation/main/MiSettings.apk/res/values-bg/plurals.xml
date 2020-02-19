@@ -109,4 +109,8 @@
         <item quantity="other">≈%s мин.</item>
         <item quantity="one">≈%s мин.</item>
     </plurals>
+	    <plurals name="usage_days">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
 </resources>
