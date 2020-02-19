@@ -750,7 +750,7 @@
   <string name="ignore_album">Не показвай</string>
   <string name="ignore_alert_title">Не искате ли да се показва този албум? Чукнете в горния десен ъгъл, за да видите снимките, които сте игнорирали.</string>
   <string name="ignore_face">Игнорирай този човек</string>
-  <string name="ignore_faces_title">Игнорирано</string>
+  <string name="ignore_faces_title">Игнорирани</string>
   <string name="image_decode_failed">Не може да преглеждате изображението</string>
   <string name="image_download_item_title">Изтегляне на оригиналния файл (%s)</string>
   <string name="image_invalid_path">Невалидна връзка</string>
@@ -1001,7 +1001,7 @@
   <string name="people_jump_failed">Изчакайте, докато снимките с хора се синхронизират с Xiaomi Облак и опитайте отново</string>
   <string name="people_mark_mode_title">Изберете \"%s\"</string>
   <string name="people_mark_mode_title_no_mark_name">Изберете човек</string>
-  <string name="people_page_label">Лице</string>
+  <string name="people_page_label">Лица</string>
   <string name="people_page_unname">Без име</string>
   <string name="permission_contacts_desc">За задаване на контакти на хора на снимки</string>
   <string name="permission_contacts_name">Контакти</string>
@@ -1301,7 +1301,7 @@
   <string name="secret_reason_type_not_support">Този вид файлове не се поддържа</string>
   <string name="secret_reason_unknow_reasons">Неизвестна грешка</string>
   <string name="secret_reason_video_not_support">Не може да се добави видео към скрит албум</string>
-  <string name="see_ignore_faces">Преглед на хората, които сте игнорирали</string>
+  <string name="see_ignore_faces">Игнорирани лица</string>
   <string name="select_all">Избери всички</string>
   <string name="select_image_operation">Добавяне на снимки</string>
   <string name="select_item_face">Снимки на %s</string>
@@ -1647,7 +1647,7 @@
   <string name="video_compress_download_failed_for_notwork">"Неуспешно изтегляне. Проверете мрежовите настройки и опитайте отново."</string>
   <string name="video_compress_encode_video">Компресиране на видео…</string>
   <string name="video_compress_lib_download">Изтеглете приставката за компресиране на видео</string>
-  <string name="video_compress_lib_download_without_wifi">"Изглежда, че устройството ви не е свързано с Wi-Fi. Можете да използвате мобилни данни, за да изтеглите приставката за компресиране на видео (1.3МБ)."</string>
+  <string name="">"Изглежда, че устройството ви не е свързано с Wi-Fi. Можете да използвате мобилни данни, за да изтеглите приставката за компресиране на видео (1.3МБ)."</string>
   <string name="video_compress_not_with_8k">"8K видеоклипове не могат да се компресират"</string>
   <string name="video_compress_not_with_format">"Компресирането на видео не се поддържа за този формат"</string>
   <string name="video_compress_not_with_low_quality">Текущата разделителна способност е най-ниската</string>
