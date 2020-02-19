@@ -380,14 +380,14 @@
      <string name="device_paired_dialog_title">Извличане на контакти…</string>
      <string name="device_pairing_dialog_message">Сдвояване…</string>
      <string name="device_pairing_dialog_title">Устройствата се свързват</string>
-     <string name="device_transfer_by_bluetooth_message">"1. Включете Bluetooth на другото устройство. 
+     <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Включете Bluetooth на другото устройство.
 
-- Bluetooth може да бъде намерен в мрежовите настройки на устройства с Android. 
-- На устройства с iOS Bluetooth е в Настройки. 
+- Bluetooth може да бъде намерен в мрежовите настройки на устройствата с Андроид.
+- При iOS устройствата, Bluetooth се намира в Настройки.
 
-2. Режимът на откриваемост също трябва да се включи на устройства с Android. 
+%d. При устройствата с Андроид трябва да бъде включен режим на откриваемост.
 
-3. Докоснете \"Следващ\" и дайте на Контакти необходимите разрешения."</string>
+%d. Докоснете \"Следващо\" и дайте на Контакти необходимите разрешения."</string>
      <string name="device_transfer_by_sim_message">"1. Запаметяване на контактите от другото устройство на SIM картата;
  
 
@@ -693,7 +693,6 @@
      <string name="miprofile_contact_header">Контакти с контактни карти</string>
      <string name="miprofile_contact_meaasge">Локални контакти</string>
      <string name="miprofile_contact_verifying">Проверка</string>
-     <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
      <string name="miprofile_edit_title">Редакция на профила</string>
      <string name="miprofile_error_accept_self">Не може да обмените вашата собствена контактна карта</string>
      <string name="miprofile_error_no_miaccount">Впишете се с вашия Mi профил</string>
@@ -774,15 +773,17 @@
      <string name="noContactHelpTextImportXiaomiAccountInfo">Възстановяване на контакти чрез Mi профила</string>
      <string name="noContacts">Няма контакти</string>
      <string name="noContactsWithPhoneNumbers">Няма контакти с телефонни номера</string>
-     <string name="noFavoritesHelpText">"\"Нямате любими контакти.
+     <string name="noFavoritesHelpText">"Нямате любими.
 
- За добавяне на контакт към любими: 
-\"\"\"&lt;li&gt;Докоснете раздела &lt;b&gt;Контакти&lt;/b&gt;\"\"\" 
-\"\"\"\" 
-\"\"\"&lt;li&gt;\"\"\"Докоснете желания контакт 
-\"\"\"&lt;/li&gt;&lt;/li&gt;\"\"\" 
-\"\"\"&lt;li&gt;\"\"\"Докоснете звездата до името му 
-\"\"\"&lt;/li&gt;\"\" "</string>
+За да добавите контакт към списъка си с любими:
+
+        "&lt;li&gt;Докоснете раздел &lt;b&gt;Contacts&lt;/b&gt;"
+"&lt;/li&gt;" 
+"&lt;li&gt;"Докоснете контакта, който искате да добавите към любимите си
+"&lt;/li&gt;" 
+"&lt;li&gt;"Докоснете звездата до името на контакта
+"&lt;/li&gt;"
+    "</string>
      <string name="noGroups">Не са открити групи</string>
      <string name="noMatchingContacts">Няма намерени съвпадения.</string>
      <string name="noRecentContacts">Няма последени контакти</string>
@@ -1295,4 +1296,11 @@
      <string name="no_phone_no_shortcut">"Не може да се създадат преки пътища за контакти без телефонни номера"</string>
 	 <string name="delete_conference_call_log_message">Да се изтрият ли всички записи на конферентни разговори, свързани с този контакт сега?</string>
      <string name="delete_conference_call_log_title">Изтриване на записи от конферентни разговори</string>
+	 <string name="return_call">Докоснете, за да се върнете към разговора</string>
+     <string name="return_call_calling">Обаждане в ход</string>
+     <string name="return_call_dialing">Набиране</string>
+     <string name="return_call_incoming">Входящо повикване</string>
+	 <string name="send_contact_shortcut_todesktop_duplicate">Този пряк път вече съществува</string>
+     <string name="send_contact_shortcut_todesktop_failed">"Неуспешно поставяне на пряк път на началния екран"</string>
+    <string name="send_contact_shortcut_todesktop_overflow">"Не можете да поставите повече преки пътища на началния екран"</string>
 </resources>

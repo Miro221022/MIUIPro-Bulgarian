@@ -913,4 +913,6 @@
     <string name="set_online_home_subtitle">Отваряне на онлайн препоръки при стартиране на приложението</string>
     <string name="set_online_home_title">Показване на онлайн препоръки при стартиране</string>
     <string name="youtube_play_history">История на изпълненията</string>
+	<string name="play_setting">Възпроизвеждане</string>
+	<string name="sound_fade_in_and_out_when_change_song_automatically">Опитайте преливане между песните по време на изпълнение</string>
 </resources>

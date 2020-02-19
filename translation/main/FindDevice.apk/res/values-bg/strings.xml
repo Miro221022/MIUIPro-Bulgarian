@@ -77,4 +77,5 @@
   <string name="unlocking">Активиране…</string>
   <string name="verifing_account">Потвърждение на паролата…</string>
   <string name="verify_password_failed">Не може да се потвърди Mi-профил ID. %s.</string>
+  <string name="unlock_number">Код за отключване: %s</string>
 </resources>

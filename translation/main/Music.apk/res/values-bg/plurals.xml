@@ -128,4 +128,8 @@
         <item quantity="other">%1$d песни</item>
         <item quantity="one">%1$d песен</item>
     </plurals>
+	    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">Преливане между песните: %d секунди</item>
+        <item quantity="one">Преливане между песните: %d секунда</item>
+    </plurals>
 </resources>

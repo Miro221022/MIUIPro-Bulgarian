@@ -1827,4 +1827,5 @@
     <string name="nr_usaged_operator">Оператор</string>
     <string name="nr_usaged_used_time">Продължителност на използване</string>
 	<string name="notification_channel_demo">Демо устройство</string>
+	<string name="preferred_network_type_pref_entries_only_4g">LTE само</string>
 </resources>

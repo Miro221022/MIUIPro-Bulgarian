@@ -119,8 +119,8 @@
     <item quantity="one">%1$d контакт от %2$s</item>
   </plurals>
   <plurals name="num_groups_in_account">
-    <item quantity="other">%0$d групи</item>
-    <item quantity="one">1 група</item>
+    <item quantity="other">%d групи</item>
+    <item quantity="one">%d група</item>
   </plurals>
   <plurals name="number_of_items_available">
     <item quantity="other">%1$d елемента остават</item>
