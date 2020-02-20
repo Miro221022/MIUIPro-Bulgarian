@@ -1698,7 +1698,7 @@
     <string name="settings_safetylegal_activity_title">Информация за безопасност</string>
     <string name="settings_safetylegal_activity_unreachable">Нямате връзка за данни. За да видите тази информация сега, отворете %s от всеки компютър, свързан с интернет.</string>
     <string name="settings_safetylegal_activity_loading">Зарежда се…</string>
-    <string name="lockpassword_choose_your_password_header">Задайте паролата</string>
+    <string name="lockpassword_choose_your_password_header">Задайте своята парола</string>
     <string name="lockpassword_choose_your_pattern_header">Задайте фигура</string>
     <string name="lockpassword_choose_your_pin_header">Задайте своя PIN</string>
     <string name="lockpassword_confirm_your_password_header">Потвърдете паролата</string>
@@ -3833,7 +3833,7 @@
     <string name="ac_set_apps_title">Защитени приложения</string>
     <string name="ac_privacy_mode_title">Включи парола</string>
     <string name="ac_privacy_mode_sum">За да деактивирате режим Гост, въведете паролата си за достъп</string>
-    <string name="access_control_password_title">Задайте парола</string>
+    <string name="access_control_password_title">Парола</string>
     <string name="access_control_no_back_footer">Чукнете [icon] за изход</string>
     <string name="access_control_recording_intro_header">Начертайте фигура за отключване:</string>
     <string name="access_control_app_entry_single">Отвори приложението</string>
@@ -4963,7 +4963,7 @@
     <string name="radio_info_asdiv_switch_label">ASDiv Статус:</string>
     <string name="app_factory_reset_dlg_title">Деинсталиране на актуализациите?</string>
     <string name="app_factory_reset_dlg_text">Всички актуализации на това системно приложение ще бъдат деинсталирани.</string>
-    <string name="privacy_password">Парола за сигурност</string>
+    <string name="privacy_password">Парола за защита на поверителността</string>
     <string name="msim_sim_radio_off">Изключено</string>
     <string name="forbidden_switch_apn_string">Избраните APN настройки не съответстват на текущия тип мрежа</string>
     <string name="resetting_second_space_passwd">Сменете вашата парола за Второ работно място</string>
@@ -5114,20 +5114,20 @@
     <string name="forget_privacy_password_summary">Използвайте Mi профил, за да нулирате паролата си</string>
     <string name="confirm_privacy_password">Въведете паролата за защита на личните данни</string>
     <string name="confirm_privacy_password_fingerprint">Сканирайте пръстов отпечатък или въведете парола за защита на личните данни</string>
-    <string name="modify_privacy_password">Променете паролата</string>
+    <string name="modify_privacy_password">Промяна на паролата</string>
     <string name="instruction_privacy_password">Тази парола защитава следните елементи</string>
     <string name="privacy_mms">Съобщения</string>
     <string name="privacy_gallery">Снимки</string>
     <string name="privacy_file">Файлове</string>
     <string name="privacy_notes">Бележки</string>
     <string name="setting_privacy_password">Задайте парола за защита на личните данни</string>
-    <string name="mms_privacy_password_role_instruction">Разговорите ти с тайни контакти ще се съхраняват тук.</string>
-    <string name="gallery_privacy_password_role_instruction">Вашите тайни снимки ще се съхраняват тук.</string>
-    <string name="file_privacy_password_role_instruction">Вашите тайни файлове ще се съхраняват тук.</string>
-    <string name="notes_privacy_password_role_instruction">Вашите тайни бележки ще се съхраняват тук.</string>
-    <string name="fingerprint_not_identified_msg">Пръстовият отпечатък не може да бъде прочетен. Въведете паролата си.</string>
+    <string name="mms_privacy_password_role_instruction">Разговорите ви с поверителни контакти ще се съхраняват тук.</string>
+    <string name="gallery_privacy_password_role_instruction">Вашите поверителни снимки ще се съхраняват тук.</string>
+    <string name="file_privacy_password_role_instruction">Вашите поверителни файлове ще се съхраняват тук.</string>
+    <string name="notes_privacy_password_role_instruction">Вашите поверителни бележки ще се съхраняват тук.</string>
+    <string name="fingerprint_not_identified_msg">"Отпечатъкът ви не може да бъде прочетен. Въведете паролата си."</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Добави</string>
-    <string name="bind_xiaomi_account_dialog_summery">Ще добавите Mi профил %s. Ако си забравите паролата, ще можете да използвате този профил, за да я смените.</string>
+    <string name="bind_xiaomi_account_dialog_summery">"На път сте да добавите Mi профила %s. Ако забравите паролата си, можете да използвате този профил, за да я нулирате."</string>
     <string name="privacy_dlg_button_cancel">Отказ</string>
     <string name="bind_xiaomi_account_confirm">Добави</string>
     <string name="privacy_password_visible_pattern">Показване на шаблона</string>
@@ -5167,7 +5167,7 @@
     <string name="privacy_factory_reset_dlg_title">Архивирайте вашите данни</string>
     <string name="privacy_factory_reset_dlg_message">Ако сте забравили паролата си, вие ще бъдете помолен да направите възстановяване на фабрични настройки, за да зададете нова.</string>
     <string name="privacy_delete_space_dlg_message">За да смените паролата за вашето Второ работно място, трябва да изтриете текущото такова и да създадете ново.</string>
-    <string name="privacy_password_toggle_summary">Изисква се парола всеки път, когато искате достъп до лични файлове.</string>
+    <string name="privacy_password_toggle_summary">Ще изисква парола всеки път, когато искате достъп до лични файлове.</string>
     <string name="privacy_close_dlg_title">Предупреждение</string>
     <string name="privacy_close_dlg_msg">Когато паролата за сигурност е изключена, вашите файлове няма да бъдат повече защитени.</string>
     <string name="privacy_close_dlg_button_ok">Изключи</string>
@@ -5219,7 +5219,7 @@
     <string name="access_control_need_password">"\"%s е защитено с парола
 "</string>
     <string name="access_control_need_to_unlock">Изисква се парола:</string>
-    <string name="access_control_reset_by_account">Влезте в Mi профила си, за да нулирате паролата</string>
+    <string name="access_control_reset_by_account">Впишете се в Mi профила си, за да нулирате паролата</string>
     <string name="fingerprint_list_title">Пръстов отпечатък</string>
     <string name="delete_fingerprint_text">Премахване на пръстов отпечатък</string>
     <string name="fingerprint_removal_failed">Отпечатъка не може да се премахне, опитайте по-късно</string>

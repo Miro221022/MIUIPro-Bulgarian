@@ -12,7 +12,7 @@
   <string name="add_music">Добави музика</string>
   <string name="add_number_to_sender">Добави номер към %s</string>
   <string name="add_picture">Добави снимка</string>
-  <string name="add_private_contact">Добави частен контакт</string>
+  <string name="add_private_contact">Добави поверителен контакт</string>
   <string name="add_slide">Добави слайд</string>
   <string name="add_slide_before">Добави интро-слайд</string>
   <string name="add_slide_hint">Чукнете, за създаване на нов слайд</string>
@@ -121,7 +121,7 @@
   <string name="confirm_dlg__msg">СМСС бележка: Безплатните СМСС услуги и поддръжка няма да бъдат предлагани, ако се откажете. Отказ въпреки това?</string>
   <string name="confirm_dlg_title">Управление на устройства</string>
   <string name="confirm_export_dialog_description">Предишните разговори с този контакт вече няма да бъдат скрити.</string>
-  <string name="confirm_export_dialog_title">Премахване от частни контакти</string>
+  <string name="confirm_export_dialog_title">Премахване от поверителни контакти</string>
   <string name="confirm_no_block_positive">Не блокирайте</string>
   <string name="confirm_no_block_title">Сприране блокирането на такива съобщения? Предишните блокирани съобщения ще се покажат във входящата ви поща.</string>
   <string name="confirm_rate_limit">Изпращане на голям брой MMS съобщения.</string>
@@ -223,7 +223,7 @@
   <string name="exceed_message_size_limitation_add_slide">Размерът на съобщението не е достатъчен за добавяне на слайд</string>
   <string name="exceed_message_text_limitation">Надвишихте лимита за дължина на съобщението.</string>
   <string name="expire_on">Изтича на: %s</string>
-  <string name="exporting_progress_private_message">Експортиране на съобщения в частна пощенска кутия</string>
+  <string name="exporting_progress_private_message">Експортиране…</string>
   <string name="fail_to_add_attachment">Не може да се прикачи файл</string>
   <string name="fail_to_view_attachment">Прикаченият файл не е достъпен</string>
   <string name="failed_to_add_media">Обектът %1$s не може да бъде добавен в съобщението.</string>
@@ -286,12 +286,12 @@
   <string name="hybrid_try_again">Опитайте отново</string>
   <string name="i_know">OK</string>
   <string name="imageview_ad">Реклама</string>
-  <string name="importing_progress_private_message">Импортиране на съобщения от частна пощенска кутия</string>
+  <string name="importing_progress_private_message">Импортиране…</string>
   <string name="in_sms">Съобщение</string>
   <string name="insufficient_drm_rights">Вие нямате достатъчно DRM права.</string>
   <string name="invalid_conversation">Невалиден разговор</string>
   <string name="invalid_destination">Въвели сте невалиден адрес</string>
-  <string name="invalid_private_contact">Невалиден частен контакт</string>
+  <string name="invalid_private_contact">Невалиден контакт</string>
   <string name="invalid_recipient_message">Коригирайте получателите или съобщението няма да може да се достави.</string>
   <string name="is_composing">Пише се…</string>
   <string name="kilobyte">КБ</string>
@@ -468,7 +468,7 @@
   <string name="notification_group_name">Съобщения</string>
   <string name="notification_multiple_title">Нови съобщения</string>
   <string name="notification_seen">Маркирай като прочетено</string>
-  <string name="number_add_hint">Въведете номер за добавяне към частен контакт</string>
+  <string name="number_add_hint">Въведете телефонен номер</string>
   <string name="number_recognition_partner">Доставчици на услуги за разпознаване идентификацията на подателя</string>
   <string name="open_audio_record_panel">Отворете панела за записване на аудио</string>
   <string name="open_edit_sms_panel">Отворете панела за редакция на съобщения</string>
@@ -573,9 +573,9 @@
   <string name="privacy_password_title3">Подсилете паролата</string>
   <string name="privacy_password_title4">Паролата е подсилена</string>
   <string name="privacy_policy">Политика за поверителност</string>
-  <string name="private_message">Частни съобщения</string>
+  <string name="private_message">Поверителни съобщения</string>
   <string name="private_new_notification">Известие</string>
-  <string name="private_protect">Защита на частни съобщения</string>
+  <string name="private_protect">Защита на поверителността</string>
   <string name="private_settings">Настройки</string>
   <string name="processing">Обработка…</string>
   <string name="prompt_otp">Код</string>
@@ -583,7 +583,7 @@
   <string name="prompt_summary">RCS ви позволява да обменяте съобщения, снимки, видеоклипове и да създавате групови разговори безплатно.</string>
   <string name="prompt_title">Регистриране в RCS</string>
   <string name="prompt_user_agreement">С регистрирането си се съгласявате с RCS Потребителското споразумение и с Политиката за поверителност.</string>
-  <string name="prvate_contact">Частни контакти</string>
+  <string name="prvate_contact">Поверителни контакти</string>
   <string name="quick_reply">Отговори</string>
   <string name="rate_limit_surpassed">ОК</string>
   <string name="rcs_auto_resend_as_sms_remind_change">Промяна на настройките</string>

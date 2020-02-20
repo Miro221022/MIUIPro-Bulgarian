@@ -249,7 +249,7 @@
   <string name="app_managere_not_have_app">Празно</string>
   <string name="app_manger_des_separator">", "</string>
   <string name="app_mobile">Мобилни данни</string>
-  <string name="app_name">Заключване на приложения</string>
+  <string name="app_name">Заключване</string>
   <string name="app_name_na">Използване на данни</string>
   <string name="app_name_securitycenter">Сигурност</string>
   <string name="app_not_installed_toast">Приложението не е инсталирано на устройството ви.</string>
