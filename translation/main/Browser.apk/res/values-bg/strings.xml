@@ -947,7 +947,7 @@
   <string name="privacy_authorize_revoking">Анулиране на разрешение…</string>
   <string name="privacy_authorize_summary">Включете или изключете превключвателя, за да предоставите или оттеглите оторизацията</string>
   <string name="privacy_authorize_title">Оторизация</string>
-  <string name="privacy_message">Преди да използвате приложението, трябва да се съгласите с нашите &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Потребителско споразумение&lt;/a>&lt;/font> и &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Политика за поверителност&lt;/a>&lt;/font>.</string>
+  <string name="privacy_message">Преди да използвате приложението, трябва да се съгласите с нашите &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5;>Потребителско споразумение&lt;/a>&lt;/font> и &lt;font color=#4086f5>&lt;a href=%2$s style=color:#4086f5;>Политика за поверителност&lt;/a>&lt;/font>.</string>
   <string name="privacy_policy">Политика за поверителност</string>
   <string name="privacy_title">Добре дошли в Mi Браузър</string>
   <string name="private_title">Скрити файлове</string>
