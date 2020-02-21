@@ -1262,4 +1262,8 @@
   <string name="ytb_subscribed">Абониран</string>
   <string name="ytb_want_to_subscribe">Абониране за този канал?</string>
   <string name="vo_mi_ad_detail">Отоври в %s</string>
+  <string name="dark_mode_setting_dark">Нощен режим（Тъмен цвят）</string>
+  <string name="dark_mode_setting_follow">Автоматично</string>
+  <string name="dark_mode_setting_light">Дневен режим（Светъл цвят）</string>
+  <string name="dark_mode_setting_title">Нощен режим</string>
 </resources>
