@@ -237,7 +237,7 @@
   <string name="label_end_time">Край</string>
   <string name="label_exercise_goal">Цел</string>
   <string name="label_get_device_id">Получаване на идентификатора на устройството</string>
-  <string name="label_got_up">Ставане</string>
+  <string name="label_got_up">Събуждане</string>
   <string name="label_record_detail_page_record_date">Време</string>
   <string name="label_record_detail_page_source">Източник</string>
   <string name="label_set_exercise">Задайте цел на дейността</string>
