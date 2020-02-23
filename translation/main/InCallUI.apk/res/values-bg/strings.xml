@@ -139,8 +139,8 @@
   <string name="manager_conference_done">Готово</string>
   <string name="msim_select_default_time_left">(%d сек.)</string>
   <string name="notification_action_accept">Приемам</string>
-  <string name="notification_action_answer_video">Видеообаждане</string>
-  <string name="notification_action_answer_voice">Гласово обаждане</string>
+  <string name="notification_action_answer_video">Видео</string>
+  <string name="notification_action_answer_voice">Гласово</string>
   <string name="notification_action_dismiss">Отхвърляне</string>
   <string name="notification_action_earpiece">Слушалки</string>
   <string name="notification_action_end_call">Затваряне</string>

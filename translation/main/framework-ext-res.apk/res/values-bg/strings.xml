@@ -307,4 +307,6 @@
     <string name="help_content">"Ако не можете да намерите нужното устройство, помолете другия човек да включи Mi Споделяне."</string>
 	<string name="sunlight_notification_content">Регулиране на яркостта към силната околна светлина автоматично</string>
     <string name="sunlight_notification_title">Включете режим за слънчева светлина</string>
+	<string name="miaudiovisual_notification_summary">Включете, за да се показват ефекти на заключен екран</string>
+    <string name="miaudiovisual_notification_title">Аудио и визуални ефекти</string>
 </resources>

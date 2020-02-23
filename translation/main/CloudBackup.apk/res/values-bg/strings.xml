@@ -16,13 +16,13 @@
     <string name="cloud_app_restore_wifi_prompt">Възстановяване от резервно копие в Xiaomi Облак.</string>
     <string name="cloud_backup_detail_state">Автоматични резервни копия</string>
     <string name="cloud_backup_detail_title">Начален екран, приложения и настройки</string>
-    <string name="cloud_backup_detail_state_summary">Създаване на резервни копия в Xiaomi Облак автоматично когато сте свързани с WLAN.</string>
+    <string name="cloud_backup_detail_state_summary">Създаване на резервни копия в Xiaomi Облак автоматично когато сте свързани с Wi-Fi.</string>
     <string name="cloud_backup_detail_frequence">График за архивиране</string>
     <string name="cloud_backup_detail_time">Последен архив на: %1$s</string>
     <string name="cloud_backup_detail_manage">Управление на резервните копия</string>
     <string name="cloud_backup_derail_size_summary">Размер: %s</string>
     <string name="cloud_back_up_opening">Една секунда…</string>
-    <string name="cloud_back_up_no_network_warn">Не мога да се свържа с Wi-Fi мрежа</string>
+    <string name="cloud_back_up_no_network_warn">Не може да се свърже с Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_frequence_choice_title">График за архивиране</string>
     <string name="cloud_back_up_frequence_long">На всеки 7 дни</string>
@@ -30,12 +30,12 @@
     <string name="cloud_back_up_subscribe_vip_title">Надграждане на Mi профил</string>
     <string name="cloud_back_up_subscribe_vip_discription">Получете повече място за съхранение, ежедневно архивиране и още.</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Надстройка</string>
-    <string name="cloud_back_up_detail_discription">"Тези елементи ще бъдат съхранени в Xiaomi Облак, когато устройството ви се свърже с WLAN: 
+    <string name="cloud_back_up_detail_discription">"Тези елементи ще бъдат архивирани до Xiaomi Облак, когато устройството ви се свърже с Wi-Fi: 
 *  Приложения, оформление на начален екран и тапети 
-*  Аларма, часовник и настройки на часа 
+*  Аларми, часовник и настройките на часа 
 *  Настройки за известията 
 *  MIUI и системни настройки 
-\"Забележка: Данните от инсталираните приложения няма да бъдат съхранени на Xiaomi Облак\""</string>
+Забележка: Данните за приложенията, които сте инсталирали, няма да бъдат архивирани в Xiaomi Облак."</string>
     <string name="cloud_app_no_data">Не са открити инсталирани по-рано приложения</string>
     <string name="cloud_app_restore_error">Не може да се възстанови</string>
     <string name="cloud_app_restore_success">Приложенията са възстановени</string>
@@ -84,7 +84,7 @@
     <string name="recover_miui_settings">Възстановяване системните настройки на MIUI</string>
     <string name="wait_icon_download">Изтегляне икони на приложения</string>
     <string name="download_settings_fail">Неуспешно изтегляне на настройките на нач. екран</string>
-    <string name="backup_fail_wifi_needed">Не може да се направи резв. копие без Wi-Fi връзка.</string>
+    <string name="backup_fail_wifi_needed">"Не може да се архивира, необходима е Wi-Fi мрежа."</string>
     <string name="backup_success">Успешен архив на прил. от нач. екран</string>
     <string name="cloud_task_in_process">Да спре ли %s и да се изтрие това рез. копие? Това действие е необратимо.</string>
     <string name="cloud_back_up_task">Архивира се</string>

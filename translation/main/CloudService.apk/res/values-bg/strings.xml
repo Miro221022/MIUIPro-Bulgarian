@@ -835,4 +835,5 @@
   <string name="picker_search_empty">"Не са намерени контакти"</string>
   <string name="picker_search_hint">Търсене</string>
   <string name="starred_contact">Любими</string>
+  <string name="micloud_setting_sms_summary_for_google_csp">Текстиви съобщения</string>
 </resources>
