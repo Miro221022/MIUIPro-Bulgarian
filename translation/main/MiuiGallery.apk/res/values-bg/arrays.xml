@@ -196,4 +196,21 @@
         <item>Архивиране на снимки</item>
         <item>Синхронизиране на снимки с облака</item>
     </string-array>
+	    <string-array name="last_week_baby_title">
+        <item>Време за игра</item>
+        <item>"Уикендът на Кидо"</item>
+        <item>Малкият</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Нови приятели и стари другари</item>
+        <item>"Миналогодишни събирания"</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Заедно</item>
+        <item>Задължения и връзки</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Те растат толкова бързо</item>
+        <item>"Снимки на Кидо"</item>
+    </string-array>
 </resources>

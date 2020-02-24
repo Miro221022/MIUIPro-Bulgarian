@@ -257,16 +257,16 @@
     <item quantity="one">Избраната снимка (%dМБ) не е в устройството. Изтегляне чрез мобилни данни?</item>
   </plurals>
   <plurals name="picker_cancel_confirm_message">
-    <item quantity="other">Отмяна да изтеглянето, оставащи %d снимки?</item>
-    <item quantity="one">Отмяна на изтеглянето на последната снимка?</item>
+       <item quantity="other">"%d файла все още не са изтеглени. Отказ въпреки това?"</item>
+       <item quantity="one">"%d файл все още не е изтеглен. Отказ въпреки това?"</item>
   </plurals>
   <plurals name="picker_no_network_retry_image_confirm_message">
     <item quantity="other">Не могат да се изтеглят %1$d снимки, свържете се към мрежата и опитайте отново</item>
     <item quantity="one">Снимката не може да се изтегли, свържете се към мрежата и опитайте отново</item>
   </plurals>
   <plurals name="picker_no_network_retry_origin_confirm_message">
-    <item quantity="other">Не могат да се изтеглят %1$d снимки (%2$dМБ), свържете се към мрежата и опитайте отново</item>
-    <item quantity="one">Не може да се изтегли снимка (%2$dМБ), свържете се към мрежата и опитайте отново</item>
+       <item quantity="other">"Не могат да се изтеглят %1$d файла (%2$dМБ). Свържете се с мрежата и опитайте отново."</item>
+       <item quantity="one">"Не може да се изтегли %1$d файл (%2$dМБ). Свържете се с мрежата и опитайте отново."</item>
   </plurals>
   <plurals name="picker_retry_image_confirm_message">
     <item quantity="other">Не могат да се изтеглят %1$d снимки, повторен опит?</item>
@@ -364,4 +364,8 @@
     <item quantity="other">%1$d файла</item>
     <item quantity="one">%1$d файл</item>
   </plurals>
+      <plurals name="picker_origin_need_to_download">
+        <item quantity="other">"%1$d файла (%2$dМБ) все още не са изтеглени. Изтегляне чрез мобилни данни?"</item>
+        <item quantity="one">"%1$d файл (%2$dМБ) все още не е изтеглен. Изтегляне чрез мобилни данни?"</item>
+    </plurals>
 </resources>
