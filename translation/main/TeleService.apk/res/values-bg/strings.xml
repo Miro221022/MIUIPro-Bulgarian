@@ -1828,4 +1828,8 @@
     <string name="nr_usaged_used_time">Продължителност на използване</string>
 	<string name="notification_channel_demo">Демо устройство</string>
 	<string name="preferred_network_type_pref_entries_only_4g">LTE само</string>
+    <string name="phone_report_title">Четене на информацията за входящите обаждания</string>
+    <string name="report_method_entries_item1">Само когато са свързани слушалки</string>
+    <string name="report_method_entries_item2">Винаги</string>
+    <string name="report_method_entries_item3">Изключено</string>
 </resources>

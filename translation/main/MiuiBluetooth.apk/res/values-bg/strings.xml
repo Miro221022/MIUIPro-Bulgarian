@@ -88,12 +88,12 @@
   <string name="mi_home_device_start_binding">Сдвои сега</string>
   <string name="mihome_app_download">Инсталирай сега</string>
   <string name="mihome_app_update">Обнови сега</string>
-  <string name="mihome_download_tips">Инсталирайте приложението Mi Home, за да сдвоите устройството. Моля, инсталирайте приложението, влезте и дръжте телефона си близо до устройството.</string>
-  <string name="mihome_download_title">Инсталиране на приложението Mi Home</string>
   <string name="mihome_ignore">Отказ</string>
   <string name="mihome_ignore_query">Игнорирай</string>
-  <string name="mihome_ignore_tips">След като игнорирате, можете да продължите с добавянето в приложението Mi Home.</string>
   <string name="mihome_ignore_title">Да се игнорира ли това устройство?</string>
-  <string name="mihome_update_tips">Текущата версия на приложението Mi Home е твърде стара. Моля, задръжте телефона близо до устройството след актуализиране.</string>
   <string name="mihome_update_title">Актуализирай Mi Home</string>
+  <string name="mihome_download_tips">Инсталирайте приложението Mi Home, впишете се и дръжте телефона си близо до устройството.</string>
+  <string name="mihome_download_title">Инсталирай Mi Home</string>
+  <string name="mihome_ignore_tips">"Ако игнорирате това устройство, ще трябва да го добавите в приложението Mi Home ръчно."</string>
+  <string name="mihome_update_tips">Актуализирайте приложението Mi Home и след това дръжте телефона си близо до устройството.</string>
 </resources>

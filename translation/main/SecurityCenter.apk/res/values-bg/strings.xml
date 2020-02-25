@@ -3026,4 +3026,5 @@
     <string name="app_behavior_warning_audio_title">%1s записва звук във фонов режим</string>
     <string name="app_behavior_warning_content">"Прекратете този процес, ако не сте го разрешили"</string>
     <string name="app_behavior_warning_location_title">%1s осъществява достъп до местоположението ви</string>
+	<string name="gb_add_game_loading_tips">Само секунда…</string>
 </resources>

@@ -309,4 +309,6 @@
     <string name="sunlight_notification_title">Включете режим за слънчева светлина</string>
 	<string name="miaudiovisual_notification_summary">Включете, за да се показват ефекти на заключен екран</string>
     <string name="miaudiovisual_notification_title">Аудио и визуални ефекти</string>
+	<string name="handset_title_unsupported_handset_insert">"USB адаптери за слушалки не се поддържат"</string>
+    <string name="handset_title_usb_handset_insert">Възпроизвеждане на звук през USB</string>
 </resources>
