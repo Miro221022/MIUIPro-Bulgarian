@@ -1129,4 +1129,5 @@
     <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24кад/с</string>
     <string name="timbre">Промяна на гласа</string>
     <string name="unknow_error">Неизвестна грешка</string>
+	<string name="mimoji_gif_record_time_short">Записаното видео е твърде кратко</string>
 </resources>

@@ -6786,4 +6786,6 @@ USB резервни копия:
 	<string name="dark_wallpaper_mode">Настройване на тапета според тъмния режим</string>
 	<string name="tether_use_wifi6_summary">Някои устройства може да са несъвместими със стандарта 802.11ax. Изключете тази функция, ако срещате проблеми.</string>
     <string name="tether_use_wifi6_title">Поддръжка на стандарт за шесто поколение</string>
+	<string name="bluetooth_connect_settings">Настройки за Bluetooth връзка</string>
+  <string name="bluetooth_mi_fast_connect_summary">Свържете се с Bluetooth устройства наблизо</string>
 </resources>

@@ -354,8 +354,6 @@
     <string name="grant_permission">Даване на разрешения</string>
     <string name="permission_denied_albums">Разрешаване на достъп до снимки, медия и файлове на устройството ви за преглед на албуми</string>
     <string name="permission_denied_images">Разрешаване на достъп до снимки, медии и файлове на устройството ви за преглед на албуми</string>
-    <string name="select_from_album">Изберете от албум</string>
-    <string name="take_a_picture">Направете снимка</string>
 	<string name="add">确定</string>
     <string name="album_view">选择图片</string>
     <string name="image_view">单击选择</string>
@@ -373,4 +371,19 @@
     <string name="tip_permission_storage">没有使用SD卡的权限，请在权限管理中开启</string>
     <string name="tip_tips">提示</string>
     <string name="tip_type_not_image">选择的不是图片</string>
+	<string name="classesNameNull_toast">"Името на клас не може да бъде празно"</string>
+  <string name="classes_canfirmTitle">Потвърдете резултатите и започнете да импортирате</string>
+  <string name="classes_company">Импортирай</string>
+  <string name="classes_dealalert">Забележка: Импортираните класове ще презапишат предишните данни.</string>
+  <string name="classes_delete">Изтриване на клас</string>
+  <string name="classes_deleteMessage">Да се изтрие ли този клас завинаги?</string>
+  <string name="classes_edit_dialog_title">Име на клас</string>
+  <string name="classes_edit_name">Въведете име на клас</string>
+  <string name="classes_fail">"Неуспешно разпозанаване. Опитайте отново."</string>
+  <string name="classes_isNull">"Все още не сте добавили класове"</string>
+  <string name="classes_titlt">Учебна програма</string>
+  <string name="classes_topTitle">Сканирайте графика на вашия клас</string>
+  <string name="select_from_album">Галерия</string>
+  <string name="submitting">Изпращане…</string>
+  <string name="take_a_picture">Камера</string>
 </resources>
