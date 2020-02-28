@@ -37,13 +37,8 @@
         <item>Ниско</item>
     </string-array>
     <string-array name="record_quality_summaries">
-        <item>MP3, ~192кбит/с, ~90Мб/ч</item>
-        <item>MP3, ~100кбит/с, ~45Мб/ч</item>
-        <item>MP3, ~75кбит/с, ~32Мб/ч</item>
-    </string-array>
-    <string-array name="record_locale_language">
-        <item>fa</item>
-        <item>ar</item>
-        <item>bn</item>
+        <item>MP3, ~192кбит/с, ~90МБ/ч</item>
+        <item>MP3, ~100кбит/с, ~45МБ/ч</item>
+        <item>MP3, ~75кбит/с, ~32МБ/ч</item>
     </string-array>
 </resources>
