@@ -677,7 +677,7 @@
   <string name="filter_people_sepia">Сепия</string>
   <string name="filter_people_story">История</string>
   <string name="filter_people_tea">Чай</string>
-  <string name="filter_portrait_hint">Цветово изпъкване</string>
+  <string name="filter_portrait_hint">Изпъкване</string>
   <string name="filter_scene_city">Град</string>
   <string name="filter_scene_df">Мистика</string>
   <string name="filter_scene_koizora">Любов</string>
@@ -1211,8 +1211,8 @@
   <string name="request_sms_url_failed">Не може да се получи информация</string>
   <string name="request_sms_url_msg">Заявка за информация…</string>
   <string name="request_sms_url_title">Съвет</string>
-  <string name="retry_to_create_album">Отново</string>
-  <string name="retry_to_request_qr_code">Отново</string>
+  <string name="retry_to_create_album">Опитайте отново</string>
+  <string name="retry_to_request_qr_code">Опитайте отново</string>
   <string name="rubbish_album_move_to_other_album_success">Можете да видите тези елементи в „Други албуми“.</string>
   <string name="runtime_permission_ungranted">Галерия се затвори, няма необходимите разрешения</string>
   <string name="same_name_album_exist_and_toast">Вече съществува албум с това име. Вместо това е създаден \'%s\'.</string>
@@ -1797,4 +1797,9 @@
   <string name="vlog_video_importing">Импортиране на видео…</string>
   <string name="vlog_video_saved_in_my_create">Видеото е запазено успешно</string>
   <string name="vlog_video_selected_not_support">"Не можете да редактирате избрания видеоклип"</string>
+  <string name="risk_control_deleted_message">Някой е изтрил вашите елементи от галерията от облака с помощта на %3$s на %1$s в %2$s. Вие ли бяхте това?</string>
+  <string name="risk_control_deleted_title">Предупреждение за безопасност</string>
+  <string name="trash_bin_summary_local">Преглед на наскоро изтрити снимки и видеоклипове</string>
+  <string name="movie_download_sdk_without_wifi_msg">"Изглежда, че устройството ви не е свързано с Wi-Fi. Изтегляне на приставката (3МБ) чрез мобилни данни?"</string>
+  <string name="video_editor_not_support_8k_tips">"8K видеоклипове не могат да се редактират"</string>
 </resources>
