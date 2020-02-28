@@ -293,6 +293,6 @@
     <string name="usage_stats_limit_time_warn_summary">Показване на оставащото време в панела за известия</string>
     <string name="usage_stats_limit_time_warn_title">Предупреждение за оставащото време</string>
     <string name="usage_stats_no_limit">Изключения</string>
-	<string name="usage_remain_about_hour_miunte" formatted="false">Приблизително %1sч. %1sмин.</string>
-    <string name="usage_remain_hour_miunte" formatted="false">%1sч. %1sмин.</string>
+	<string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
 </resources>
