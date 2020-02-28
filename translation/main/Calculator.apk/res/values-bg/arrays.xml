@@ -30,4 +30,10 @@
         <item>JPY</item>
         <item>BGL</item>
     </string-array>
+	    <string-array name="height_array">
+        <item>Сантиметри</item>
+        <item>Метри</item>
+        <item>Крачки</item>
+        <item>Инчове</item>
+    </string-array>
 </resources>

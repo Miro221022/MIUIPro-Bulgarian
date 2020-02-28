@@ -1004,7 +1004,7 @@
   <string name="removed_from_bookmarks">Изтрито от отметките.</string>
   <string name="replace">Замени</string>
   <string name="replay">Изпълни отново</string>
-  <string name="reply_comment_title">Отговор: %s</string>
+  <string name="reply_comment_title">Отговори в: %s</string>
   <string name="return_to_homepage">Към началната страница</string>
   <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Няма</string>
@@ -1262,8 +1262,8 @@
   <string name="ytb_subscribed">Абониран</string>
   <string name="ytb_want_to_subscribe">Абониране за този канал?</string>
   <string name="vo_mi_ad_detail">Отоври в %s</string>
-  <string name="dark_mode_setting_dark">Нощен режим（Тъмен цвят）</string>
+  <string name="dark_mode_setting_dark">Нощен режим（тъмно）</string>
   <string name="dark_mode_setting_follow">Автоматично</string>
-  <string name="dark_mode_setting_light">Дневен режим（Светъл цвят）</string>
+  <string name="dark_mode_setting_light">Дневен режим（светло）</string>
   <string name="dark_mode_setting_title">Нощен режим</string>
 </resources>

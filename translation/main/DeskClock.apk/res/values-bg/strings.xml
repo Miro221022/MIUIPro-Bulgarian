@@ -413,7 +413,7 @@
      <string name="holiday_update_title">Актуализиране на информацията за официалните празници</string>
      <string name="label_input_desc">Този етикет ще се покаже на екрана, когато алармата се изключи</string>
      <string name="label_input_hint">Въведете етикет</string>
-     <string name="more_alert_setting">Допълнителни настройки на алармата</string>
+     <string name="more_alert_setting">Допълнителни настройки</string>
      <string name="net_permission_cancel">"Не приемам"</string>
      <string name="net_permission_ok">Приемам</string>
      <string name="new_label">Добавете етикет за алармата</string>

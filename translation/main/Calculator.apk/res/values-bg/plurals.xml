@@ -12,4 +12,16 @@
         <item quantity="other">Подробно погасяване (%d години), CNY</item>
         <item quantity="one">Подробно погасяване (%d година), CNY</item>
     </plurals>
+	    <plurals name="age_label_days">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d месеца</item>
+        <item quantity="one">%d месец</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">години</item>
+        <item quantity="one">година</item>
+    </plurals>
 </resources>

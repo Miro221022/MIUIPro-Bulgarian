@@ -1102,7 +1102,7 @@
   <string name="photo_portrait_color_download_fail">Приставката не може да се изтегли. Свържете се с мрежата и опитайте отново.</string>
   <string name="photo_portrait_color_download_success">Филтрите са изтеглени успешно</string>
   <string name="photo_portrait_color_no_face">Цветовото изпъкване работи само на снимки с хора</string>
-  <string name="photo_portrait_download_sdk_without_wifi_msg">Изглежда, че устройството в мимента не е свързано с Wi-Fi. Можете да изтеглите филтрите (%1$dМБ) чрез мобилни данни.</string>
+  <string name="photo_portrait_download_sdk_without_wifi_msg">Изглежда, че устройството в момента не е свързано с Wi-Fi. Можете да изтеглите филтрите (%1$dМБ) чрез мобилни данни.</string>
   <string name="photo_portrait_download_sdk_without_wifi_title">Изтегляне на филтри</string>
   <string name="photo_print_menu_loading">Зареждане на приставка…</string>
   <string name="photo_print_package_finish">Зареждането е успешно</string>
