@@ -544,4 +544,5 @@
   <string name="pwd_width_phone_number_or_mail_num">"Паролата не може да съдържа вашия телефонен номер, имейл или идентификационен номер на Mi профила"</string>
   <string name="risky_pwd_not_allow">"Новата парола не е сигурна. Задайте друга."</string>
   <string name="passport_can_not_receive_verification_code">"Не можете да получите код за потвърждение?"</string>
+  <string name="search_menu_title">Търсене</string>
 </resources>
