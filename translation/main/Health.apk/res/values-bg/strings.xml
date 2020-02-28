@@ -511,4 +511,15 @@
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКБ</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
   <string name="year">Година</string>
+  <string name="collect_diagnosis_log">Получаване на диагностичен отчет</string>
+    <string name="delete_all_data_sources">Изтриване на всички източници на данни</string>
+    <string name="delete_all_data_sources_description">Да се изтрият ли всички добавени източници на данни?</string>
+	<string name="diagnosis_log_send_failed">Очетът за диагностика не е изпратен.</string>
+	<string name="diagnosis_log_sent_format">"Очетът за диагностика е изпратен.
+ID:%s
+Моля, изпратете този код на техника."</string>
+    <string name="for_diagnosis_usage_only">Използвайте тази информация само за диагностика.</string>
+	<string name="passport_oauth_sucess_tip">Оторизиран успех</string>
+	<string name="send_diagnosis_log">Изпратете отчет за диагностика</string>
+    <string name="sending">Изпращане…</string>
 </resources>
