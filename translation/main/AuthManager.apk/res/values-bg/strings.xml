@@ -152,4 +152,7 @@
     <string name="permdesc_write_calendar">Достъп и събитията в календара</string>
     <string name="permdesc_write_storage">Достъп и запазване на снимки и файлове на устройството</string>
 	<string name="permdesc_location_background">Достъп до местоположението на заден план</string>
+	<string name="HIPS_Perm_clipboard">Буферна памет</string>
+    <string name="HIPS_Perm_clipboard_Desc">Достъп и промяна на съдържанието в буферната памет</string>
+    <string name="grant_dialog_button_allow_onetime">Позволи този път</string>
 </resources>

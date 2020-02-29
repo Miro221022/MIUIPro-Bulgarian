@@ -44,4 +44,5 @@
   <string name="summary_show_badge_enable_notification_first">Разрешете известията, за да можете да включите значките за известия</string>
   <string name="expand_top_notification">Разгъване на най-горното известие</string>
   <string name="last_sent_time_second">Сега</string>
+  <string name="tip_select_category">Изберете тип известие</string>
 </resources>

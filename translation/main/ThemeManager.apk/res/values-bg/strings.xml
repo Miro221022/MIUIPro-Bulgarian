@@ -808,4 +808,26 @@
   <string name="de_component_font_author">Дизайнер на шрифтa</string>
   <string name="de_component_tags">Отбелязвания</string>
   <string name="de_font_exchange_success">Закупено успешно</string>
+  <string name="desc_more_online_wallpaper">Още тапети онлайн</string>
+     <string name="lockscreen_desk_wallpaper">Тапети за начален и заключен екран</string>
+     <string name="more_system_wallpaper">Още системни тапети</string>
+     <string name="no_network_desc">"Неуспешно свързване с мрежата"</string>
+     <string name="no_network_please_retry">Проверете мрежовите настройки и опитайте отново</string>
+     <string name="no_wallpaper">Тук все още няма елементи</string>
+     <string name="not_support_incall_show">"Този тапет не работи с профилни видеоклипове"</string>
+     <string name="search_filter_name">Филтър</string>
+     <string name="search_non_filter_result">"Не са намерени резултати"</string>
+     <string name="search_price_charge">Платено</string>
+     <string name="search_price_free">Безплатно</string>
+     <string name="search_price_name">"Цена: "</string>
+     <string name="search_price_no_limit">Неограничено</string>
+     <string name="search_sort_name">Сортиране</string>
+     <string name="search_sort_news">Ново</string>
+     <string name="search_sort_synthesize">Основни</string>
+     <string name="search_sort_top">Популярни</string>
+     <string name="theme_settings_title">Теми</string>
+     <string name="theme_share_app_name">Mi Теми</string>
+     <string name="title_my_wallpaper">Моите тапети</string>
+     <string name="wallpaper_download_incall_show">Изтегли видео</string>
+     <string name="wallpaper_share_alert">Възникна грешка. Изчакайте минута или две и опитайте отново.</string>
 </resources>
