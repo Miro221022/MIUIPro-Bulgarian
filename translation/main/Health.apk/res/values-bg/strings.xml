@@ -200,7 +200,7 @@
   <string name="guide_data_cloud_sync_tip">Можете да изключите синхронизирането в Настройки &gt; Облачни услуги.</string>
   <string name="guide_local_data_sync_subtitle">Крачки, сън, тегло и периоди</string>
   <string name="guide_local_data_sync_title">Качване на данни от това устройство</string>
-  <string name="guide_other_data_sync_subtitle">Телефони, ленти, везни и други устройства</string>
+  <string name="guide_other_data_sync_subtitle">Телефони, гривни, везни и други устройства</string>
   <string name="guide_other_data_sync_title">Синхронизиране на данни от други устройства</string>
   <string name="guide_setting">За да получавате точна статистика за менструацията, посочете следните данни</string>
   <string name="harm_learn_more">Научете повече</string>
@@ -312,7 +312,7 @@
   <string name="not_open_auto_sync">Синхронизирането е изключено</string>
   <string name="not_support_step">Вашето устройство не може да брои крачки</string>
   <string name="open_data_sync_description">Включете синхронизирането с облака, за да синхронизирате здравни данни от други източници.</string>
-  <string name="open_sync">Включете синхронизирането</string>
+  <string name="open_sync">Включи синхронизация</string>
   <string name="open_unrestricted_permissions">За по-точно следене на съня разрешете на Mi Здраве винаги да работи във фонов режим.</string>
   <string name="other_can_add_data_source">Налични източници</string>
   <string name="password_toggle_content_description">Показване на паролата</string>

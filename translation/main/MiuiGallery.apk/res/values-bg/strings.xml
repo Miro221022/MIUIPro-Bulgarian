@@ -1802,4 +1802,10 @@
   <string name="trash_bin_summary_local">Преглед на наскоро изтрити снимки и видеоклипове</string>
   <string name="movie_download_sdk_without_wifi_msg">"Изглежда, че устройството ви не е свързано с Wi-Fi. Изтегляне на приставката (3МБ) чрез мобилни данни?"</string>
   <string name="video_editor_not_support_8k_tips">"8K видеоклипове не могат да се редактират"</string>
+    <string name="filter_sky_dynamic_note">Елементите с този филтър се запазват като видеоклипове</string>
+    <string name="filter_sky_dynamic_rain">Дъжд</string>
+    <string name="filter_sky_dynamic_saving">Създаване на видео</string>
+    <string name="filter_sky_dynamic_snow">Сняг</string>
+    <string name="filter_sky_dynamic_stop_saving">Докоснете отново, за да отмените запазването</string>
+    <string name="filter_sky_dynamic_unavailable">"Не може да се приложи този филтър към подобни изображения"</string>
 </resources>
