@@ -6788,4 +6788,7 @@ USB резервни копия:
     <string name="tether_use_wifi6_title">Поддръжка на стандарт за шесто поколение</string>
 	<string name="bluetooth_connect_settings">Настройки за Bluetooth връзка</string>
   <string name="bluetooth_mi_fast_connect_summary">Свържете се с Bluetooth устройства наблизо</string>
+    <string name="easymode_hint">Докоснете, за да изключите олекотения режим</string>
+  <string name="oldman_mode_settings">Олекотен режим</string>
+  <string name="video_tool_box_title">Видео инструменти</string>
 </resources>

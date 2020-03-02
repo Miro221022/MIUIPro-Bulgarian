@@ -975,7 +975,7 @@
     <string name="preferred_network_type_pref_entries_3g_preferred">Предпочита се 3G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Предпочита се 4G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Предпочита се 3G (CDMA)</string>
-    <string name="preferred_network_type_pref_entries_only_2g">Само 2G (пести батерия)</string>
+    <string name="preferred_network_type_pref_entries_only_2g">Само 2G</string>
     <string name="preferred_network_type_pref_entries_only_3g">Само 3G</string>
     <string name="preferred_network_type_3g_only_warning">Няма да бъдете в състояние да се свържете към мрежа, ако вашата SIM карта не разполага с 3G функционалност.</string>
     <string name="call_description_recording">Запис на разговор…</string>
@@ -1832,4 +1832,99 @@
     <string name="report_method_entries_item1">Само когато са свързани слушалки</string>
     <string name="report_method_entries_item2">Винаги</string>
     <string name="report_method_entries_item3">Изключено</string>
+	  <string name="data_disable_warning_no_mms">"Все още ще можете да изпращате и получавате MMS, ако изключите мобилните данни (WCDMA/LTE). За да използвате интернет, свържете се с WLAN."</string>
+  <string name="data_disable_warning_with_mms">"Все още ще можете да изпращате и получавате MMS, ако изключите мобилните данни (WCDMA/LTE). За да използвате интернет, свържете се с WLAN."</string>
+  <string name="data_disable_warning_with_mms_lgu">"Все още ще можете да изпращате и получавате MMS, ако изключите мобилните данни. За да използвате интернет, свържете се с WLAN.
+
+Изключване на мобилните данни?"</string>
+  <string name="data_enable_always_warn">Питай дали да се използват мобилни данни</string>
+  <string name="data_enable_warning">Разрешаването винаги да се използват мобилни данни може да генерира допълнителни такси извън плана ви. Свързване въпреки това?</string>
+  <string name="data_enable_warning_lgu">"Освен ако не е посочено друго в плана ви, използването на мобилни данни може да генерира допълнителни такси.
+
+Използване на мобилни данни?"</string>
+  <string name="emm_cause_11">"Текущият оператор не поддържа тази услуга."</string>
+  <string name="emm_cause_14">"Настоящият оператор не поддържа мобилни услуги за данни."</string>
+  <string name="emm_cause_2">"Неуспешна регистрация на теленонния номер. Изключете устройството си, след това го включете и опитайте отново."</string>
+  <string name="emm_cause_3">"Потребителят не е потвърден. Изключете устройството си, след това го включете и опитайте отново."</string>
+  <string name="emm_cause_6">"Неуспешно потвърцдаване устройството. Изключете устройството си, след това го включете и опитайте отново."</string>
+  <string name="emm_cause_7_8_12_13_15_16_17_22">"Не можете да използвате роуминг сега. Изключете устройството си, след това го включете и опитайте отново. Ако все още срещате този проблем след това, свържете се с поддръжката на клиенти на оператора (SKT: +82-2-6346-9000)."</string>
+  <string name="international_roaming_setting_kr">Международен роуминг</string>
+  <string name="international_roaming_setting_kr_skt">T роуминг</string>
+  <string name="kt_lte_emm_cause_19_22">Регистриране на мрежа… Изчакайте минута или две и опитайте отново.</string>
+  <string name="kt_lte_emm_cause_3">"Потребителят не може да се потвърди. Изключете устройството си, след това го включете и опитайте отново. Ако все още срещате този проблем след това, посетете център за обслужване на клиенти."</string>
+  <string name="kt_lte_emm_cause_6">"Устройството не може да се потвърди. Рестартирайте устройството си 2 или 3 пъти след инсталиране на новата USIM карта. Ако все още срещате този проблем след това, посетете център за обслужване на клиенти."</string>
+  <string name="kt_lte_emm_cause_8">Необходимо е активиране. Посетете център за обслужване на клиенти.</string>
+  <string name="kt_lte_emm_cause_others">"Мрежата не може да се регистрира"</string>
+  <string name="kt_lte_msim_emm_cause_19_22">SIM %d серегистрира в мрежата… Изчакайте минута или две и опитайте отново.</string>
+  <string name="kt_lte_msim_emm_cause_3">"SIM %d couldn't verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, visit a customer service center."</string>
+  <string name="kt_lte_msim_emm_cause_6">"SIM %d couldn't verify device. If you still encounter this problem after that, visit a customer service center."</string>
+  <string name="kt_lte_msim_emm_cause_8">SIM %d requires activation. Visit a customer service center.</string>
+  <string name="kt_lte_msim_emm_cause_others">"SIM %d couldn't register network"</string>
+  <string name="lgu_emm_16_17_22">Registering network… Wait a minute or two and try again.</string>
+  <string name="lgu_emm_cause_11_12_13_15">"Couldn't register network"</string>
+  <string name="lgu_emm_cause_2">Activation is required. Visit a customer service center (+82-2-3416-7010).</string>
+  <string name="lgu_emm_cause_3">"Couldn't verify user. Visit a customer service center (+82-2-3416-7010)."</string>
+  <string name="lgu_emm_cause_6">"Couldn't verify device. Visit a customer service center (+82-2-3416-7010)."</string>
+  <string name="lgu_emm_cause_7_14">"Network doesn't provide mobile data services"</string>
+  <string name="lgu_emm_cause_8">"Couldn't register network. Visit a customer service center (+82-2-3416-7010)."</string>
+  <string name="lgu_emm_cause_others">"Can't connect to the network. Visit a customer service center (+82-2-3416-7010)."</string>
+  <string name="lgu_msim_emm_cause_11_12_13_15">"SIM %d couldn't register network"</string>
+  <string name="lgu_msim_emm_cause_16_17_22">SIM %d is registering network… Wait a minute or two and try again.</string>
+  <string name="lgu_msim_emm_cause_2">SIM %d requires activation. Visit a customer service center (+82-2-3416-7010).</string>
+  <string name="lgu_msim_emm_cause_3">"SIM %d couldn't verify user. Visit a customer service center (+82-2-3416-7010)."</string>
+  <string name="lgu_msim_emm_cause_6">"SIM %d couldn't verify device. Visit a customer service center (+82-2-3416-7010)."</string>
+  <string name="lgu_msim_emm_cause_7_14">"SIM %d network doesn't provide mobile data services"</string>
+  <string name="lgu_msim_emm_cause_8">"SIM %d couldn't register network. Visit a customer service center (+82-2-3416-7010)."</string>
+  <string name="lgu_msim_emm_cause_others">"SIM %d can't connect to the network. Visit a customer service center (+82-2-3416-7010)."</string>
+  <string name="messageCFNRc_kr_kt">"A network service that diverts all incoming calls and text messages to a specified number when you are unable to answer calls (for example, when you are on the phone or your device is off). You have to subscribe to this service. Contact the customer centre (114+[Send]) to subscribe or unsubscribe from this service. Enter *72+[number to forward calls to][Send] to enable, or *720[Send] to disable.
+
+Number when unreachable"</string>
+  <string name="messageCFU_kr_kt">"A network service that diverts all incoming calls and text messages to a specified number. You have to subscribe to this service. You will be charged with monthly fee. Contact the customer center (114+[Send]) to subscribe or unsubscribe from this service. Enter *71+[number to forward calls to][Send] to enable, or *710[Send] to disable.
+
+Always use this number"</string>
+  <string name="messageCW_kr_kt">A free network service that allows you to answer a second call during a call, placing the first call on hold. Enter *40+[Send] to enable, or *400+[Send] to disable.</string>
+  <string name="msim_emm_cause_11">"SIM %d carrier doesn't support this service."</string>
+  <string name="msim_emm_cause_14">"SIM %d carrier doesn't support mobile data services."</string>
+  <string name="msim_emm_cause_2">"SIM %d couldn't register phone number. Turn your device off, then turn it back on and try again."</string>
+  <string name="msim_emm_cause_3">"SIM %d couldn't verify user. Turn your device off, then turn it back on and try again."</string>
+  <string name="msim_emm_cause_6">"SIM %d couldn't verify device. Turn your device off, then turn it back on and try again."</string>
+  <string name="msim_emm_cause_7_8_12_13_15_16_17_22">"SIM %d can't use roaming now. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact carrier customer support (SKT: +82-2-6346-9000)."</string>
+  <string name="network_active">Active networks</string>
+  <string name="network_available">Available networks</string>
+  <string name="network_state_display">Show network status</string>
+  <string name="network_state_display_title">Network status settings</string>
+  <string name="notification_switch_auto_text">"Looks like you're back. Switched to local networks."</string>
+  <string name="notification_switch_auto_title">Mobile networks</string>
+  <string name="reset_roaming_message">Your device will reboot to reset roaming.</string>
+  <string name="reset_roaming_not_support">"This SIM card can't initialize roaming."</string>
+  <string name="reset_roaming_tip">Resetting roaming…</string>
+  <string name="reset_roaming_title">Reset roaming</string>
+  <string name="roaming_customer_service_message_kr">Tap to contact roaming customer support (+82-2-2190-0901). This call is free abroad.</string>
+  <string name="roaming_customer_service_summary_kr">Free calls abroad</string>
+  <string name="roaming_customer_service_title_kr">Roaming customer support</string>
+  <string name="roaming_disable_kr">Data roaming and international roaming settings</string>
+  <string name="roaming_user_package_summary_kr">"Purchase, cancel, and edit your roaming package. You won't be charged for using this menu while roaming."</string>
+  <string name="roaming_user_package_title_kr">Use roaming package</string>
+  <string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">Deactivate</string>
+  <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">Select SIM to deactivate</string>
+  <string name="single_fiveg_dialog_title_prompt">Attention</string>
+  <string name="single_fiveg_dialog_title_remind">Attention</string>
+  <string name="single_fiveg_disable_fiveg_dialog_btn_getit">Got it</string>
+  <string name="single_fiveg_disable_fiveg_dialog_msg_disable_fiveg">Only one SIM card can be activated for 5G networks. Select a different network type for your data SIM first.</string>
+  <string name="single_fiveg_dual_sim_dialog_btn_deactivate_sim">Deactivate SIM card</string>
+  <string name="single_fiveg_dual_sim_dialog_btn_enable_dual_sims">Use Dual SIM</string>
+  <string name="single_fiveg_dual_sim_dialog_msg_dual_sim">Using 5G networks requires deactivating one of the SIM cards. If you want to continue using Dual SIM, select a different network type.</string>
+  <string name="single_fiveg_dual_sim_dialog_title_important_prompt">Attention</string>
+  <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">Only one SIM card can be activated for 5G networks. Tapping \"Activate\" below will deactivate the other SIM card.</string>
+  <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Activate</string>
+  <string name="skt_emm_cause_12_13_16_17_22">"Couldn't register network. Turn your device off, then turn it back on and try again."</string>
+  <string name="skt_emm_cause_2">"Couldn't register phone number. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+  <string name="skt_emm_cause_3">"Couldn't verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+  <string name="skt_emm_cause_6">"Couldn't verify device. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+  <string name="skt_emm_cause_7_8_15">"Couldn't register network. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+  <string name="skt_msim_emm_cause_12_13_16_17_22">"SIM %d couldn't register network. Turn your device off, then turn it back on and try again."</string>
+  <string name="skt_msim_emm_cause_2">"SIM %d couldn't register phone number. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+  <string name="skt_msim_emm_cause_3">"SIM %d couldn't verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+  <string name="skt_msim_emm_cause_6">"SIM %d couldn't verify device. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+  <string name="skt_msim_emm_cause_7_8_15">"SIM %d couldn't register network. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
 </resources>

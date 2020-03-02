@@ -124,7 +124,7 @@
     <string name="storage_usb">USB хранилище</string>
     <string name="task_already_exist">Задачата вече съществува</string>
     <string name="cta_runtime_perm_desc_account">Достъп до профилите на вашето устройство, за да се впишете чрез Mi профил</string>
-    <string name="cta_runtime_perm_desc_location">Достъп до местоположението, за да бъдат достъпни местните радиостанции</string>
+    <string name="cta_runtime_perm_desc_location">(Незадължително) Достъп до местоположението ви за показване на местни радиостанции</string>
     <string name="cta_runtime_perm_desc_phone">Достъп до информация за устройството, за да идентифицирате вашето устройство</string>
     <string name="cta_runtime_perm_desc_storage">Достъп до хранилището, за да получите достъп и запаметите обложките и изтеглените файлове</string>
     <string name="cta_runtime_perm_desc_storage_single">Достъп до хранилището, за да получите достъп и запаметите обложките и изтеглените файлове</string>
@@ -168,4 +168,8 @@
     <string name="play_mode_normal_hint">Възпроизвеждане на песни в първоначалния ред сега</string>
     <string name="play_mode_normal_title">Изпълни всички</string>
 	<string name="password_toggle_content_description">Покажи паролата</string>
+	<string name="miui_fm">FM Радио</string>
+    <string name="miui_fm_description">Много интернет радиостанции</string>
+    <string name="online_setting_message">Отворете услугата за онлайн съдържание, за да слушате по-популярно съдържание</string>
+    <string name="online_setting_title">Слушайте още</string>
 </resources>
