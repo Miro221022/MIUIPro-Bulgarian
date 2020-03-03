@@ -1832,7 +1832,7 @@
     <string name="report_method_entries_item1">Само когато са свързани слушалки</string>
     <string name="report_method_entries_item2">Винаги</string>
     <string name="report_method_entries_item3">Изключено</string>
-	  <string name="data_disable_warning_no_mms">"Все още ще можете да изпращате и получавате MMS, ако изключите мобилните данни (WCDMA/LTE). За да използвате интернет, свържете се с WLAN."</string>
+	  <string name="data_disable_warning_no_mms">"Няма да можете да изпращате и получавате MMS, ако изключите мобилни данни (WCDMA / LTE). Въпреки това ще можете да направите това, когато устройството ви е свързано с WLAN."</string>
   <string name="data_disable_warning_with_mms">"Все още ще можете да изпращате и получавате MMS, ако изключите мобилните данни (WCDMA/LTE). За да използвате интернет, свържете се с WLAN."</string>
   <string name="data_disable_warning_with_mms_lgu">"Все още ще можете да изпращате и получавате MMS, ако изключите мобилните данни. За да използвате интернет, свържете се с WLAN.
 
@@ -1856,14 +1856,13 @@
   <string name="kt_lte_emm_cause_8">Необходимо е активиране. Посетете център за обслужване на клиенти.</string>
   <string name="kt_lte_emm_cause_others">"Мрежата не може да се регистрира"</string>
   <string name="kt_lte_msim_emm_cause_19_22">SIM %d серегистрира в мрежата… Изчакайте минута или две и опитайте отново.</string>
-  <string name="kt_lte_msim_emm_cause_3">"SIM %d couldn't verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, visit a customer service center."</string>
-  <string name="kt_lte_msim_emm_cause_6">"SIM %d couldn't verify device. If you still encounter this problem after that, visit a customer service center."</string>
-  <string name="kt_lte_msim_emm_cause_8">SIM %d requires activation. Visit a customer service center.</string>
-  <string name="kt_lte_msim_emm_cause_others">"SIM %d couldn't register network"</string>
-  <string name="lgu_emm_16_17_22">Registering network… Wait a minute or two and try again.</string>
-  <string name="lgu_emm_cause_11_12_13_15">"Couldn't register network"</string>
-  <string name="lgu_emm_cause_2">Activation is required. Visit a customer service center (+82-2-3416-7010).</string>
-  <string name="lgu_emm_cause_3">"Couldn't verify user. Visit a customer service center (+82-2-3416-7010)."</string>
+  <string name="kt_lte_msim_emm_cause_3">"SIM %d не може да потвърди потребителя. Изключете устройството си, след това го включете и опитайте отново. Ако все още срещате този проблем след това, посетете център за обслужване на клиенти."</string>
+  <string name="kt_lte_msim_emm_cause_6">"SIM %d не може да потвърди устройството. Ако все още срещате този проблем след това, посетете център за обслужване на клиенти."</string>
+  <string name="kt_lte_msim_emm_cause_8">SIM %d изисква активиране. Посетете център за обслужване на клиенти.</string>
+  <string name="kt_lte_msim_emm_cause_others">"SIM %d не може да се регистрира в мрежата"</string>
+  <string name="lgu_emm_16_17_22">Регистриране на мрежа… Изчакайте минута или две и опитайте отново.</string>
+  <string name="lgu_emm_cause_2">Необходимо е активиране. Посетете център за обслужване на клиенти (+82-2-3416-7010).</string>
+  <string name="lgu_emm_cause_3">"Потребителят не може да се потвърди. Посетете център за обслужване на клиенти (+82-2-3416-7010)."</string>
   <string name="lgu_emm_cause_6">"Couldn't verify device. Visit a customer service center (+82-2-3416-7010)."</string>
   <string name="lgu_emm_cause_7_14">"Network doesn't provide mobile data services"</string>
   <string name="lgu_emm_cause_8">"Couldn't register network. Visit a customer service center (+82-2-3416-7010)."</string>

@@ -985,4 +985,12 @@
     <string name="err_remote_timeout">Времето за прехвърляне изтече</string>
     <string name="err_send_error">"Не може да се изпрати"</string>
     <string name="waiting_restore_desktop">Прехвърляне на приложения от трети страни за възстановяване на оформлението на началния екран…</string>
+	 <string name="backup_died_summary">Доксонете \"Свържи отново\". Напредъкът на трансфера ще се възобнови от мястото, където сте прекъснали.</string>
+     <string name="backup_died_title">Възникна грешка</string>
+     <string name="qq_app_receive_fail">"Не може да се получи QQ"</string>
+     <string name="qq_app_send_fail">"Не може да се еизпрати QQ"</string>
+     <string name="wechat_and_qq_app_receive_fail">"Не може да се получи WeChat и QQ"</string>
+     <string name="wechat_and_qq_app_send_fail">"Нед може да се еизпрати WeChat и QQ"</string>
+     <string name="wechat_app_receive_fail">"Не може да се получи WeChat"</string>
+     <string name="wechat_app_send_fail">"Не може да се изпрати WeChat"</string>
 </resources>

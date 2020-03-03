@@ -3027,4 +3027,5 @@
     <string name="app_behavior_warning_content">"Прекратете този процес, ако не сте го разрешили"</string>
     <string name="app_behavior_warning_location_title">%1s осъществява достъп до местоположението ви</string>
 	<string name="gb_add_game_loading_tips">Само секунда…</string>
+	<string name="antivirus_monitored_app_empty">"Не бяха намерени съвместими приложения за плащане"</string>
 </resources>
