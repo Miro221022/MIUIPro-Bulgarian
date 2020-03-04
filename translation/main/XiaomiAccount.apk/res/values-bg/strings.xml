@@ -263,7 +263,7 @@
   <string name="passport_bad_authentication">Невалидно име или парола</string>
   <string name="passport_barcode_add_account_prompt">За да добавите профила, сканирайте QR кодът отново след като се впишете.</string>
   <string name="passport_btn_change_account">Промяна на профила</string>
-  <string name="passport_change_account">&lt;u&gt;Промяна на профила&lt;/u&gt;</string>
+  <string name="passport_change_account"><u>Промяна на профила</u></string>
   <string name="passport_change_phone_number">Смяна на номерата</string>
   <string name="passport_checking_account">Проверка на паролата…</string>
   <string name="passport_checking_input">Проверка на данните…</string>
@@ -271,7 +271,7 @@
   <string name="passport_completed">Завършване</string>
   <string name="passport_confirm_login">Продължи</string>
   <string name="passport_confirm_recycle_account">Да</string>
-  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Изглежда че&lt;/font> номерът %s е рециклиран от вашия оператор и има свързан към него Mi профил. Този профил ваш ли е??"</string>
+  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Изглежда че&lt;/font> номерът %s е рециклиран от вашия оператор и има свързан към него Mi профил. Този профил ваш ли е?"</string>
   <string name="passport_continue">Продължи</string>
   <string name="passport_copy_message_text_success">Копирането е успешно</string>
   <string name="passport_copy_message_vcode">Копирай кода</string>
@@ -308,7 +308,7 @@
   <string name="passport_failed_to_send_activate_email">Не може да се изпрати имейл за активиране</string>
   <string name="passport_find_password_on_web_msg">Посетете account.mi.com за възстановяване на вашата парола.</string>
   <string name="passport_first_login_prompt">Mi профилът ще бъде създаден автоматично, когато се впишете за първи път.</string>
-  <string name="passport_forget_password">&lt;u&gt;Забравена парола&lt;/u&gt;</string>
+  <string name="passport_forget_password"><u>Забравена парола</u></string>
   <string name="passport_forget_password_no_underline">Забравена парола</string>
   <string name="passport_get_back_pwd">Възстанови паролата</string>
   <string name="passport_get_innetdate_agree">Проверка</string>
@@ -363,7 +363,7 @@
   <string name="passport_quick_login_step2_title">Потвърждаване в 2 стъпки</string>
   <string name="passport_quick_login_title">Въведете вашата парола</string>
   <string name="passport_quick_register">Регистриране</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;Нямате Mi профил? Направете си сега.&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice"><u>"Нямате Mi профил? Създайте го сега."</u></string>
   <string name="passport_re_get_verify_code">Изискай нов код</string>
   <string name="passport_re_register">Ново вписване</string>
   <string name="passport_recycle_account_prompt">Това вашият Mi профил ли е?</string>
@@ -377,7 +377,7 @@
   <string name="passport_reg_success">Профилът е създаден</string>
   <string name="passport_reg_success_summary">%1$s е свързан с Вашия профил. Можете да го използвате, за да влизете или за да смените паролата си.</string>
   <string name="passport_reg_type_email">Имейл адрес</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;Регистрация с друг телефонен номер&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone"><u>Използвайте алтернативен телефонен номер</u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"Създаване на нов профил чрез "</string>
   <string name="passport_reg_using_phone_number_prompt">Регистрация с телефонен номер</string>
   <string name="passport_reg_via_sms_alert">За активирането на услугата трябва да изпратите sms. Може да бъдете таксувани за изходящо съобщение от доставчика ви.</string>
@@ -385,7 +385,7 @@
   <string name="passport_register">Създаване на профил</string>
   <string name="passport_register_account_goto_email">Посетете вашата поща</string>
   <string name="passport_register_account_verified_confirm">Профилът е потвърден</string>
-  <string name="passport_register_by_email">&lt;u&gt;Създаване на профил чрез имейл адрес&lt;/u&gt;</string>
+  <string name="passport_register_by_email"><u>Създайте профил чрез имейл адрес</u></string>
   <string name="passport_register_restricted">Твърде много профили са свързани към този номер, опитайте с друг</string>
   <string name="passport_register_restricted_title">Този телефонен номер не може да се използва</string>
   <string name="passport_register_using_other_ways">Други начини за вписване</string>
