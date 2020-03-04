@@ -807,9 +807,9 @@
   <string name="menu_add_short_cut">Създай пряк път на началния екран</string>
   <string name="tip_short_cut_added_success">Създадено успешно</string>
   <string name="tip_short_cut_already_added">Създадено</string>
-  <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Този акаунт се използва и на друго устройство. Обединяване на елементите от няколко приложения (включително %1$s и %2$s) с елементите на това устройство?</string>
-  <string name="data_merge_dialog_alert_active_on_phone_msg_one">Този акаунт се използва и на друго устройство. Обединяване на елементите от %s с елементите на това устройство?</string>
-  <string name="data_merge_dialog_alert_active_on_phone_msg_two">Този акаунт се използва и на друго устройство. Обединяване на елементите от %1$s и %2$s с елементите на това устройство?</string>
+  <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Този профил се използва и на друго устройство. Обединяване на елементите от няколко приложения (включително %1$s и %2$s) с елементите на това устройство?</string>
+  <string name="data_merge_dialog_alert_active_on_phone_msg_one">Този профил се използва и на друго устройство. Обединяване на елементите от %s с елементите на това устройство?</string>
+  <string name="data_merge_dialog_alert_active_on_phone_msg_two">Този профил се използва и на друго устройство. Обединяване на елементите от %1$s и %2$s с елементите на това устройство?</string>
   <string name="data_merge_dialog_alert_msg_more_than_two">Елементите от няколко източника, включително %1$s и %2$s, се съхраняват в Xiaomi Облак. Да се синхронизират и обединят ли с елементите на това устройство?</string>
   <string name="data_merge_dialog_alert_msg_more_than_two_pad">Елементите от няколко източника, включително %1$s и %2$s, се съхраняват в Xiaomi Облак. Да се синхронизират и обединят ли с елементите на това устройство?</string>
   <string name="data_merge_dialog_alert_msg_one">Елементите от %s се съхраняват в Xiaomi Облак. Да се синхронизират и обединят ли с елементите на това устройство?</string>
