@@ -2848,8 +2848,8 @@
   <string name="uninstall_app_dialog_title">Деинсталиране сега?</string>
   <string name="uninstall_app_done">Успешно деинсталиране</string>
   <string name="uninstall_danagerous_btn">Деинсталирай</string>
-  <string name="uninstall_danagerous_desc">\"%s\" може да повреди вашето устройство</string>
-  <string name="uninstall_danagerous_msg">\"%s\" може да повреди вашето устройство, да забави работата му или да предизвика често рестартиране.</string>
+  <string name="uninstall_danagerous_desc">\"%s\" може да повреди устройството ви</string>
+  <string name="uninstall_danagerous_msg">\"%s\" може да повреди устройството ви, да забави работата му или да предизвика често рестартиране.</string>
   <string name="uninstall_danagerous_title">Премахване на вредните приложения</string>
   <string name="unlike">Не, благодаря</string>
   <string name="unlock_failed">Вътрешна грешка</string>
@@ -2964,7 +2964,7 @@
   <string name="xunyou_server_expired">Изкл.</string>
   <string name="st_hint_operatelist">Изглежда това правило вече съществува</string>
   <string name="reply_comment_title">Отговори в %s: </string>
-    <string name="app_behavior_audio">%1s опитва да запише аудио</string>
+    <string name="app_behavior_audio">%1s опитва да запише звук</string>
     <string name="app_behavior_audio_bg">%1s опитва да запише звук във фонов режим</string>
     <string name="app_behavior_audio_now">%1s записва звук във фонов режим</string>
     <string name="app_behavior_autostart">%1s опитва да стартира автоматично</string>
@@ -2984,7 +2984,7 @@
     <string name="app_behavior_list_load_more">Зареждане…</string>
     <string name="app_behavior_location">%1s опитва да получи достъп до местоположението ви</string>
     <string name="app_behavior_location_bg">%1s опитва да получи достъп до местоположението ви на заден план</string>
-    <string name="app_behavior_location_now">%1s осъществява достъп до вашето местоположение на заден план</string>
+    <string name="app_behavior_location_now">%1s осъществява достъп до местоположението ви на заден план</string>
     <string name="app_behavior_monitor_off">Изключване на известията</string>
     <string name="app_behavior_monitor_off_content">"Няма да можете да получавате известия за чувствителни действия, извършвани от това приложение. Изключване въпреки това?"</string>
     <string name="app_behavior_monitor_off_positive">Изключи</string>
@@ -2997,13 +2997,13 @@
     <string name="app_behavior_notification_title_calllog_write">%1s осъществява достъп до вашите контакти на заден план</string>
     <string name="app_behavior_notification_title_clipboard_read">%1s получи достъп до клипборда на заден план</string>
     <string name="app_behavior_notification_title_clipboard_write">%1s редактира елементи в клипборда</string>
-    <string name="app_behavior_notification_title_contact_read">%1s получи достъп до вашите контакти на заден план</string>
+    <string name="app_behavior_notification_title_contact_read">%1s получи достъп до контактите ви на заден план</string>
     <string name="app_behavior_notification_title_contact_write">%1s промени контактите ви на заден план</string>
     <string name="app_behavior_notification_title_just_audio">%1s записа звук във фонов режим</string>
     <string name="app_behavior_notification_title_just_location">%1s получи достъп до местоположението ви на заден план</string>
     <string name="app_behavior_notification_title_multi">Няколко приложения направиха чувствителни действия</string>
     <string name="app_behavior_notification_title_now_audio">%1s записва звук във фонов режим</string>
-    <string name="app_behavior_notification_title_now_location">%1s осъществява достъп до вашето местоположение на заден план</string>
+    <string name="app_behavior_notification_title_now_location">%1s осъществява достъп до местоположението ви на заден план</string>
     <string name="app_behavior_notification_title_single_group">%1s извърши няколко чувствителни действия</string>
     <string name="app_behavior_notification_title_storage">%1s промени файлове във фонов режим</string>
     <string name="app_behavior_perm_allow_always_danger_tip">Приложенията могат да извършват чувствителни действия, когато са предоставени разрешения</string>
