@@ -84,7 +84,7 @@
     <item>8 часа</item>
   </string-array>
   <string-array name="nav_bar_buttons">
-    <item>Клипборд</item>
+    <item>Буферна памет</item>
     <item>Код</item>
     <item>Превключвател на клавиатурата</item>
     <item>Нищо</item>

@@ -138,7 +138,7 @@
   <string name="clear_immediately">Почисти сега</string>
   <string name="clear_safe_notify">Джаджа в лентата с известия</string>
   <string name="clip_board_history_desc">Копирано/изрязано съдържание</string>
-  <string name="clipboard">Клипборд</string>
+  <string name="clipboard">Буферна памет</string>
   <string name="close">Затвори</string>
   <string name="confirm_auto_cleaner">ОК</string>
   <string name="conn_of_function_safe">Връзка с мрежата за Сигурност</string>
@@ -502,8 +502,8 @@
   <string name="privacy_cache_empty">Няма лични данни</string>
   <string name="privacy_cache_scaning">Проверява се…</string>
   <string name="privacy_cache_title">Лични данни</string>
-  <string name="privacy_clipboard_desc">Клипборд съдържание</string>
-  <string name="privacy_clipboard_type">Клипборд</string>
+  <string name="privacy_clipboard_desc">Съдържание на буферната памет</string>
+  <string name="privacy_clipboard_type">Буферна памет</string>
   <string name="privacy_search_desc">История на търсенията</string>
   <string name="privacy_search_type">Google търсене</string>
   <string name="promotion">Избор на редакторите</string>
@@ -570,7 +570,7 @@
   <string name="tips_of_virus_scan">Сканирайте устройството си периодично за вируси, за го запазите в безопасност</string>
   <string name="title_auto_cleaner">Напомняне за почистване</string>
   <string name="title_delete_cache">Изтриване на кеш данните?</string>
-  <string name="title_delete_clipboard">Клипборд съдържание</string>
+  <string name="title_delete_clipboard">Съдържание на буферната памет</string>
   <string name="title_delete_deepclean">Изтрий</string>
   <string name="title_delete_large_file">Изтриване на този файл?</string>
   <string name="title_of_app_manage">Приложения</string>

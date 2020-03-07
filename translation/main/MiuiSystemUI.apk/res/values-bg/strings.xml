@@ -462,7 +462,7 @@
   <string name="click_to_enter_text">Чукнете за преглед</string>
   <string name="click_to_return_multi_window">Чукнете за да се върнете в Разделен екран</string>
   <string name="click_to_return_multi_window_of_notch">Връщане към Разделен екран</string>
-  <string name="clipboard">Клипборд</string>
+  <string name="clipboard">Буферна памет</string>
   <string name="clock">Часовник</string>
   <string name="clock_city_name_local">Локално</string>
   <string name="clock_seconds">Показване на секундите на часовника</string>

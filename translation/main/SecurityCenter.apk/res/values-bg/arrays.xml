@@ -17,7 +17,7 @@
         <item>Всички записи</item>
         <item>Автостарт</item>
         <item>Верижно стартиране</item>
-        <item>Използване на разрешения</item>
+        <item>Разрешения</item>
         <item>Чувствителни действия</item>
   </string-array>
   <string-array name="applock_password_types">

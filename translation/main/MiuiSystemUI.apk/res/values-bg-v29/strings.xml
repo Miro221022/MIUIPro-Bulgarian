@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="accessibility_face_dialog_face_icon">Face icon</string>
+  <string name="accessibility_face_dialog_face_icon">Икона за лице</string>
   <string name="ask_me_later_bubbles">Попитай ме по-късно</string>
   <string name="biometric_dialog_confirm">Потвърди</string>
   <string name="biometric_dialog_try_again">Опитайте отново</string>
@@ -57,8 +57,8 @@
   <string name="osu_sign_up_complete">Регистрацията е завършена. Свързване…</string>
   <string name="osu_sign_up_failed">Регистрацията не може да завърши. Докоснете, за да опитате отново.</string>
   <string name="power_discharge_by_only_short">До %1$s</string>
-  <string name="power_suggestion_extend_battery">Extend battery life past %1$s</string>
-  <string name="preference_copied">\"%1$s\" копирано в клипборда.</string>
+  <string name="power_suggestion_extend_battery">Удължете живота на батерията до %1$s</string>
+  <string name="preference_copied">\"%1$s\" копирано в буферната памет.</string>
   <string name="search_menu">Търсене на настройки</string>
   <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
   <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMM</string>

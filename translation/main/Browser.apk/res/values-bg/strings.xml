@@ -593,7 +593,7 @@
   <string name="mw_common_open_on_phone">Отваряне в телефона</string>
   <string name="mw_common_signin_button_text">Впиши се</string>
   <string name="mw_common_signin_button_text_long">Вписване с Google</string>
-  <string name="mw_copy_to_clipboard_failure_message">Копирането в клипборда не бе успешно</string>
+  <string name="mw_copy_to_clipboard_failure_message">Копирането в буферната памет не бе успешно</string>
   <string name="mw_data_traffic_prompt_change">Използването на мобилната ви връзка за данни за гледане на видеоклипове ще увеличи разхода на данни. Ако превишите ограничението за данните в плана си, операторът може да ви таксува допълнително.</string>
   <string name="mw_data_traffic_prompt_message">Използването на мобилната ви връзка за данни за гледане на видеоклипове ще увеличи разхода на данни. Ако превишите ограничението за данните в плана си, операторът може да ви таксува допълнително.</string>
   <string name="mw_data_traffic_prompt_message_short">Използването на мобилни данни за поточно предаване на видеоклипове може да доведе до преодоляване на ограниченията за използване на данните за плановете.</string>

@@ -163,7 +163,7 @@
   <string name="michat_kefu_welcome">Добре дошли в Xiaomi онлайн-поддръжка!</string>
   <string name="michat_lose_artificial">Възникна грешка в мрежата, напуснахте чата</string>
   <string name="michat_menu_copy_text">Копиране</string>
-  <string name="michat_message_copy_info">Копирано в Клипборда</string>
+  <string name="michat_message_copy_info">Копирано в буферната памет</string>
   <string name="michat_message_error_network">Не може да се свърже с мрежата</string>
   <string name="michat_message_join_again">Очакваме ви отново</string>
   <string name="michat_message_robot_welcome">Моето име е Зайчето Ми. Аз съм робот по онлайн-поддръжка.</string>
@@ -302,7 +302,7 @@
   <string name="toast_pic_not_exists">Кешираното изображение беше изтрито</string>
   <string name="toast_post_deleted">Темата не съществува, изтрита е или редактирана.</string>
   <string name="toast_problem_class_required">Изберете категория</string>
-  <string name="toast_report_copied_to_clipboard">Отзивът е копиран в клипборда</string>
+  <string name="toast_report_copied_to_clipboard">Отзивът е копиран в буферната памет</string>
   <string name="toast_report_sent_failed">Не може да се изпрати отзив</string>
   <string name="toast_report_sent_succeed">Отзивът беше изпратен</string>
   <string name="toast_screenshot_too_large">"Не може да се качват изображения или видеоклипове, по-големи от 100Мб."</string>
