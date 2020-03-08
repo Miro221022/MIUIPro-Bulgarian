@@ -55,7 +55,7 @@
   <string name="ai_album_open_switch_button_title">Стартиране на анализ на снимките</string>
   <string name="ai_album_requesting_title">Интелигентният алгоритъм все още обработва вашите снимки. Върнете се след известно време.</string>
   <string name="ai_album_setting_key_word">Търсене на снимки</string>
-  <string name="ai_album_setting_sub_title">Позволете на интелигентния алгоритъм да идентифицира хора, места и обектите на снимките, за да можете да ги намерите по-бързо.</string>
+  <string name="ai_album_setting_sub_title">Позволете на интелигентния алгоритъм да идентифицира хора, места и обекти на снимките, за да можете да ги намерите по-бързо.</string>
   <string name="ai_album_setting_title">Идентификация на обектите на снимките</string>
   <string name="album_ai_description">Хора, места, обекти</string>
   <string name="album_ai_international_description">Хора</string>
@@ -1308,8 +1308,8 @@
   <string name="select_origin_tip">Оригинал (%s)</string>
   <string name="send_file_beautify_failed">Не може да се сподели</string>
   <string name="send_files_to">Изпрати елемента до</string>
-  <string name="send_heif_summary">Конвертирайте изображенията преди изпращане, за да гарантирате съвместимост</string>
-  <string name="send_heif_title">Конвертирайте HEIF в JPG преди изпращане</string>
+  <string name="send_heif_summary">Конвертиране на изображенията преди изпращане, за да се гарантира съвместимост</string>
+  <string name="send_heif_title">Конвертиране на HEIF в JPG преди изпращане</string>
   <string name="send_multiple_files_hint_format">Изпращане (%s)</string>
   <string name="send_public_url">Изпрати връзка към албума</string>
   <string name="send_secret_file_failed">Не може да се сподели</string>
