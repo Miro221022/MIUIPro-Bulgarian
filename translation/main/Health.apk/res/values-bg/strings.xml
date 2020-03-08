@@ -66,8 +66,8 @@
   <string name="body_weight">Тегло</string>
   <string name="body_weight_descripe_content">Индекс на телесна маса (ИТМ) е масата на тялото, разделена на квадрата на височината на тялото (кг/㎡).</string>
   <string name="body_weight_extremely_obesity">Болестно\nзатлъстяване</string>
-  <string name="body_weight_fkg">%1$.1f Кг</string>
-  <string name="body_weight_kg">%1$d Кг</string>
+  <string name="body_weight_fkg">%1$.1f кг</string>
+  <string name="body_weight_kg">%1$d кг</string>
   <string name="body_weight_little_obesity">Умерено\nзатлъстяване</string>
   <string name="body_weight_normal">Нормално тегло</string>
   <string name="body_weight_obesity">Сериозно\nзатлъстяване</string>
@@ -337,7 +337,7 @@
   <string name="prompt_more_than_3h">Повече от 3 часа</string>
   <string name="prompt_sleep_time_night">Сън през нощта</string>
   <string name="prompt_sleep_time_noon">Дрямка през деня</string>
-  <string name="recommand_body_weight_msg">Препоръчително целево тегло: %1$.1f Кг. Достигнете ИТМ %2$.1f за намаляване на риска от сърдечно-съдови и чернодробни заболявания.</string>
+  <string name="recommand_body_weight_msg">Препоръчително целево тегло: %1$.1f кг. Достигнете ИТМ %2$.1f за намаляване на риска от сърдечно-съдови и чернодробни заболявания.</string>
   <string name="record_body_weight_button">Запис на тегло</string>
   <string name="record_detail_page_title">Подробности</string>
   <string name="recorded_menstruation">Записан цикъл</string>
@@ -501,7 +501,7 @@
   <string name="v7_preference_on">ВКЛЮЧЕНО</string>
   <string name="weight_keep_up">Страхотно! Продължете да поддържате здравословно тегло.</string>
   <string name="weight_trend_offset_date">От %1$s до %2$s:</string>
-  <string name="weight_unit_kg">Кг</string>
+  <string name="weight_unit_kg">кг</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sБ</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Свързването на мениджъра за изтегляне не бе успешно, моля проверете състоянието му в Управление на приложенията</string>
   <string name="xiaomi_update_sdk_dialog_message">Представяне на версия %1$s\nРазмер: %2$s</string>
@@ -522,4 +522,5 @@ ID:%s
 	<string name="passport_oauth_sucess_tip">Оторизиран успех</string>
 	<string name="send_diagnosis_log">Изпратете отчет за диагностика</string>
     <string name="sending">Изпращане…</string>
+	<string name="temporary_not_available">временно не е на лице</string>
 </resources>

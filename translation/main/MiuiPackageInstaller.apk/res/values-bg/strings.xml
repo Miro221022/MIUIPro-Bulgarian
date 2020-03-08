@@ -97,7 +97,7 @@
   <string name="install_failed_system_incompatible">Това приложение не е съвместимо с MIUI</string>
   <string name="install_finished_notification_summary">Кликнете, за да почистите сега</string>
   <string name="install_finished_notification_title">%1$s е инсталирано, почистете %2$s</string>
-  <string name="install_from_appstore_hint">Препоръчваме ви да инсталирате приложението от &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
+  <string name="install_from_appstore_hint">Препоръчваме ви да инсталирате приложението от &lt;u>&lt;font color=#91c727>официален магазин&lt;/font>&lt;/u></string>
   <string name="installing">Инсталиране…</string>
   <string name="intercept_install">Инсталиране</string>
   <string name="launch">Отваряне</string>
@@ -148,7 +148,7 @@
   <string name="miui_failed_solution_4">Освободете място за съхранение в Сигурност > Почистване и опитайте отново.</string>
   <string name="miui_failed_solution_5">Опитайте да използвате съвместим инсталационен пакет.</string>
   <string name="miui_failed_solution_6">Деинсталирайте това приложение във второто пространство и опитайте отново.</string>
-  <string name="miui_failed_solution_7">Изтеглете най-новата версия на това приложение в GetApps.</string>
+  <string name="miui_failed_solution_7">Изтеглете най-новата версия на това приложение от официалния магазин.</string>
   <string name="miui_failed_system_incompatible">Несъвместим инсталационен пакет</string>
   <string name="miui_failed_update_incompatible">Конфликтни подписи на приложения</string>
   <string name="miui_failed_version_downgrade">Не може да се понижи версията на приложенията</string>
@@ -157,7 +157,7 @@
   <string name="miui_install_confirm_question">Ще инсталирате ли това приложение?</string>
   <string name="miui_install_confirm_question_update">Заместване на съществуващото приложение?</string>
   <string name="miui_install_fail">Не можe да се инсталира (%d)</string>
-  <string name="miui_install_fail_notify">Не може да се инсталира</string>
+  <string name="miui_install_fail_notify">"Неуспешно инсталиране"</string>
   <string name="miui_install_fail_reason">Причина</string>
   <string name="miui_install_source">Източник \"%s\"</string>
   <string name="miui_install_source_unkown">Неизвестно</string>
@@ -281,7 +281,7 @@
   <string name="uninstall_blocked_profile_owner">Това приложение е необходимо за потребителския ви профил и не може да бъде деинсталирано.</string>
   <string name="uninstall_confirm_question">Деинсталиране на това приложение?</string>
   <string name="uninstall_done">Деинсталирано успешно</string>
-  <string name="uninstall_failed">Не може да се инсталира</string>
+  <string name="uninstall_failed">"Неуспешно деинсталиране"</string>
   <string name="uninstall_failed_device_policy_manager">Не може да се деинсталира, защото този пакет е активен администратор на устройство.</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Не може да се деинсталира, защото този пакет е активен администратор на устройство за потребителя %1$s.</string>
   <string name="uninstall_failed_msg">%1$s не може да бъде инсталирано.</string>
@@ -298,8 +298,7 @@
   <string name="untrusted_external_source_always_click">Разреши винаги</string>
   <string name="untrusted_external_source_title">Разрешаване на \"%1$s\" да инсталира приложения?</string>
   <string name="untrusted_external_source_warning">За ваша сигурност телефонът ви не може да инсталира неизвестни приложения от този източник.</string>
-  <string name="untrusted_external_source_warning_summary">"Приложенията от неизвестни източници могат да бъдат вредни за вашето устройство и лични данни. Инсталирайки приложения от този източник, вие се съгласявате да носите отговорност за евентуални щети по вашия телефон или лични данни, които могат да бъдат причинени от тези приложения.
- \nМожете да давате и отнемате разрешения в Настройки -> Пароли и сигурност -> Поверителност -> Специален достъп -> Инсталиране на неизвестни приложения."</string>
+  <string name="untrusted_external_source_warning_summary">"Вашето устройство и личните ви данни са уязвими на атаки от приложения, инсталирани от неизвестни източници. Позволявайки инсталирането на приложения от този източник, вие се съгласявате да поемате отговорност за евентуални повреди или загуба на данни, които могат да възникнат, докато използвате тези приложения."</string>
   <string name="user_is_not_allowed_dlg_text">Настоящият потребител няма право да изпълнява тази деинсталация.</string>
   <string name="user_is_not_allowed_dlg_title">Не е рзрешено</string>
   <string name="virus_scan_caller_unknown">Неизвестен</string>
@@ -319,4 +318,9 @@
   <string name="install_control_lite_mode_solution_des">"Можете да изберете да инсталирате това приложение.
 Освен това можете да изключите олекотения режима и да опитате отново."</string>
   <string name="install_control_normal_mode_explain_des">"Това приложение не може да се инсталира поради законови ограничения"</string>
+  <string name="game_center_install">Инсталиране от Mi Games</string>
+  <string name="game_center_install_tips">Изтеглете и инсталирайте Mi Games, за да получите повече функции</string>
+  <string name="game_center_lunch_error">Първо инсталирайте Mi Games</string>
+  <string name="mimarket_install">Инсталиране от Mi App Store</string>
+  <string name="mimarket_install_tips">Изтеглете и инсталирайте Mi App Store, за да получите повече функции</string>
 </resources>

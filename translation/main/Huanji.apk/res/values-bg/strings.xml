@@ -495,7 +495,7 @@
     <string name="install_new_app_link_text">Инсталирайте Mi Трансфер на новото си устройство, за да можете да се свързвате. Докоснете, за да инсталирате.</string>
     <string name="instruction">Важна информация за безопасност</string>
     <string name="label">MIUI SDK</string>
-    <string name="lack_perm_msg">Mi Трансфер се нуждае от следните разрешения: &lt;b>%s&lt;/b>.</string>
+    <string name="lack_perm_msg">Mi Трансфер се нуждае от следните разрешения, за да работи нормално: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Нужни разрешения</string>
     <string name="launcher">Оформление на началния екран</string>
     <string name="less_than_1_minute">По-малко от 1 минута</string>
@@ -620,7 +620,7 @@
     <string name="other_user_data">Данни от приложения от трети страни</string>
     <string name="password">Въведете парола</string>
     <string name="password_null">"Паролата не може да е празна"</string>
-    <string name="perm_location">Местоположение</string>
+    <string name="perm_location">Достъп до местоположение</string>
     <string name="perm_package_stats">Достъп до статистика за използване на приложението</string>
     <string name="perm_payment_dspt">Разрешаване на приложението да плаща с помощта на услугата Mi Pay</string>
     <string name="perm_payment_lab">Mi Pay</string>
@@ -628,7 +628,7 @@
     <string name="perm_read_contacts">Достъп доконтактите</string>
     <string name="perm_read_phone_state">Достъп до състоянието на телефона</string>
     <string name="perm_read_sms">Достъп до съобщенията</string>
-    <string name="perm_storage">Четене и писане на външната памет</string>
+    <string name="perm_storage">Достъп и запазване на елементи на устройството</string>
     <string name="permission_alert_message_usage_access">Mi Трансфер трябва да има достъп до статистиката за използване на приложенията. Дайте на Mi Трансфер необходимите разрешения в Настройките.</string>
     <string name="permission_alert_title">Искани разрешения</string>
     <string name="phone">Телефон</string>
@@ -993,4 +993,27 @@
      <string name="wechat_and_qq_app_send_fail">"Нед може да се еизпрати WeChat и QQ"</string>
      <string name="wechat_app_receive_fail">"Не може да се получи WeChat"</string>
      <string name="wechat_app_send_fail">"Не може да се изпрати WeChat"</string>
+	  <string name="dialog_request_permission_message">"Можете да използвате това приложение за прехвърляне на данни от старото си устройство или iCloud на новото устройство.
+Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност.
+Обърнете внимание, че Mi Трансфер трябва да се свърже с интернет, да може да включва и изключва Wi-Fi и Bluetooth, и изисква следните разрешения за събиране на личната ви информация:"</string>
+     <string name="dialog_request_permission_message_extra">"Ако не сте съгласни да дадете такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. В такъв случай можете да изберете да деинсталирате или да излезете от приложението."</string>
+     <string name="dialog_request_permission_message_link" formatted="false"><Data>"Прочете и се съгласете с нашите &lt;a href='%1s'>Потребителско споразумение&lt;/a> и &lt;a href='%2s'>Политика за поверителност&lt;/a> преди да използвате това приложение."</Data></string>
+     <string name="perm_write_settings">Промяна на системните настройки</string>
+     <string name="permission_calender_summary">За прехвърляне на събития в календара от старото устройство към новото</string>
+     <string name="permission_calender_title">Достъп до календара</string>
+     <string name="permission_call_log_summary">За прехвърляне на историята на обажданията от старото устройство към новото</string>
+     <string name="permission_call_log_title">Достъп до историята на обажданията</string>
+     <string name="permission_contacts_summary">За прехвърляне на контакти от старото устройство към новото</string>
+     <string name="permission_contacts_title">Достъп до конталтите</string>
+     <string name="permission_locale_summary">За свързване към Wi-Fi мрежи в близост</string>
+     <string name="permission_locale_title">Достъп до информация за местоположението</string>
+     <string name="permission_message_summary">За прехвърляне на съобщения от старото устройство към новото</string>
+     <string name="permission_message_title">Четене на SMS</string>
+     <string name="permission_phone_summary">За идентифициране на устройства, използващи Android ID и откриване на проблеми със съвместимостта</string>
+     <string name="permission_phone_title">Достъп до информация за устройството</string>
+     <string name="permission_read_storage_summary">За определяне на обема на свободното пространство в хранилището и оценка на размера на файла</string>
+     <string name="permission_read_storage_title">Достъп до хранилището</string>
+     <string name="permission_write_storage_summary">За прехвърляне на файлове от старото устройство на новото</string>
+     <string name="permission_write_storage_title">Запазване на елементи в хранилището</string>
+     <string name="title_request_write_settings_perm">Необходимо е разрешение за промяна на системните настройки</string>
 </resources>
