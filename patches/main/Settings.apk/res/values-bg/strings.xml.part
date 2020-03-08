@@ -224,4 +224,6 @@
   <string name="wifi_network_set_5Gh">Принудително 5ГХц</string>
   <string name="wifi_network_set_5Gh_summary">За да се активира в някои страни се изисква рестартиране</string>
   <string name="folder_blur_title">Замъглен ефект в папките</string>
+  <string name="volbtn_toggle_summary">Възможност за превключване на песни, когато екранът е изключен</string>
+  <string name="set_in_aod_summary">Възможност за превключване на песни с активен режим Винаги включен</string>
 </resources>
