@@ -686,7 +686,7 @@
   <string name="filter_scene_series">Отражения</string>
   <string name="filter_scene_vivid">Живо</string>
   <string name="filter_scene_warm">Слънце</string>
-  <string name="filter_single_sky">Небесен изглед</string>
+  <string name="filter_single_sky">Небе</string>
   <string name="filter_sky_clear_sky">Ясно небе</string>
   <string name="filter_sky_cloudy">Облачно</string>
   <string name="filter_sky_cumulus">Купести</string>
@@ -1645,13 +1645,13 @@
   <string name="slideshow_loop_title">Безкрайно слайдшоу</string>
   <string name="sort">Сортиране</string>
   <string name="video_compress_download_failed_for_notwork">"Неуспешно изтегляне. Проверете мрежовите настройки и опитайте отново."</string>
-  <string name="video_compress_encode_video">Компресиране на видео…</string>
+  <string name="video_compress_encode_video">Компресиране на видеото…</string>
   <string name="video_compress_lib_download">Изтеглете приставката за компресиране на видео</string>
   <string name="">"Изглежда, че устройството ви не е свързано с Wi-Fi. Можете да използвате мобилни данни, за да изтеглите приставката за компресиране на видео (1.3МБ)."</string>
   <string name="video_compress_not_with_8k">"8K видеоклипове не могат да се компресират"</string>
   <string name="video_compress_not_with_format">"Компресирането на видео не се поддържа за този формат"</string>
   <string name="video_compress_not_with_low_quality">Текущата разделителна способност е най-ниската</string>
-  <string name="video_compress_save_stop_tips">Докоснете отново, за да спрете компресията</string>
+  <string name="video_compress_save_stop_tips">Докоснете отново, за да спрете компресирането</string>
   <string name="video_compress_size">≈%s след компресиране</string>
   <string name="video_quality_1080p_hd">1080P (висока резолюция)</string>
   <string name="video_quality_1080p_original">1080P (без компресия)</string>
@@ -1734,7 +1734,7 @@
   <string name="vlog_download_fail">"Не може да се изтегли. Проверете мрежовите настройки и опитайте отново."</string>
   <string name="vlog_download_failed_for_notwork">"Не може да се изтегли. Проверете мрежовите настройки и опитайте отново."</string>
   <string name="vlog_download_sdk_without_wifi_msg">"Не може да се свърже с Wi-Fi. Можете също да изтеглите елементите от облака чрез мобилни данни."</string>
-  <string name="vlog_download_sdk_without_wifi_title">Изтегляне на видео редактора…</string>
+  <string name="vlog_download_sdk_without_wifi_title">Изтегляне на видео редактор…</string>
   <string name="vlog_download_with_metered_network_msg">Използването на платени мрежи за изтегляне на оригинални файлове може да генерира допълнителни такси. Изтегляне?</string>
   <string name="vlog_download_with_metered_network_title">Използване на платена мрежа</string>
   <string name="vlog_downloading_cloud_file">Изтегляне на елементи от облака…</string>
@@ -1757,7 +1757,7 @@
   <string name="vlog_filter_zhaomu">Разсъмване</string>
   <string name="vlog_float_view_ratio">Съотношение</string>
   <string name="vlog_load_data_fail">"Неуспешно зреждане на данните"</string>
-  <string name="vlog_mi_clip">Видео редактор</string>
+  <string name="vlog_mi_clip">Редактор</string>
   <string name="vlog_nav_title_audio">Звук</string>
   <string name="vlog_nav_title_caption">Надписи</string>
   <string name="vlog_nav_title_clip">Редактор</string>
