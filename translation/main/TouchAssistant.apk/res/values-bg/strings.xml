@@ -54,4 +54,5 @@
     <string name="theme_manager_not_supported">"Теми не се поддържа."</string>
     <string name="three_seconds_auto_hide">Прибиране към ръба на екрана след 3 секунди бездействие</string>
 	<string name="name_mi_wallet">Mi Портвейл</string>
+	<string name="mi_ai">Mi AI преки пътища</string>
 </resources>

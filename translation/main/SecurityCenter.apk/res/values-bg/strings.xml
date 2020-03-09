@@ -3055,4 +3055,11 @@
   <string name="app_statusbar_audio_now">Запис</string>
   <string name="app_statusbar_camera_now">Заснемане</string>
   <string name="app_statusbar_location_now">Местоположение</string>
+  <string name="google_base_app_fail">"Не може да се изтегли. Проверете дали Сигурност има разрешение за връзка с интернет."</string>
+  <string name="google_base_app_installed">Инсталирано е успешно</string>
+  <string name="google_base_app_installing">Инсталиране…</string>
+  <string name="google_base_app_network_anomaly">"Не може да се свърже с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
+  <string name="google_base_app_timeout">Сесията изтече. Изчакайте минута или две и опитайте отново.</string>
+  <string name="google_base_app_title">Инсталиране на услугите на Google</string>
+  <string name="google_base_app_toast">Google Services Framework се инсталира на заден план. Изчакайте минута или две и опитайте отново.</string>
 </resources>

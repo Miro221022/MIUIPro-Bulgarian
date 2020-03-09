@@ -689,7 +689,7 @@
   <string name="user_detail_privacy_policy">Политика за поверителност</string>
   <string name="micloud_storage_unit_mb">%sМБ</string>
   <string name="micloud_storage_unit_gb">%sГБ</string>
-  <string name="find_device_gdpr_prompt">Чрез включването на Открий устройството, вие се съгласявате с нашата <u><a href="app://com.miui.cloudservice.gdpr.license">Политика за поверителност</a></u>. Ако трябва да отмените оторизацията, изключете тази функция.</string>
+  <string name="find_device_gdpr_prompt">Чрез включването на Открий устройството, вие се съгласявате с нашата &lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt;Политика за поверителност&lt;/u&gt;&lt;/a&gt;. Ако трябва да отмените оторизацията, изключете тази функция.</string>
   <string name="micloud_request_sync_too_frequent">Твърде много заявки. Изчакайте минута или две и опитайте отново.</string>
   <string name="waiting_for_sync">Изчакване…</string>
   <string name="system_busy_or_network_error">Възникна грешка. Изчакайте минута или две и опитайте отново.</string>

@@ -110,4 +110,6 @@ d/M"</string>
   <string name="aod_lock_screen_date_smartcover">"EE
 d/M"</string>
   <string name="aod_lock_screen_date_smartcover_b">M/d EE</string>
+  <string name="show_lunar">Покажи традиционен китайски календар</string>
+  <string name="show_lunar_desc">Двоен часовник не поддържа традиционен китайски календар</string>
 </resources>

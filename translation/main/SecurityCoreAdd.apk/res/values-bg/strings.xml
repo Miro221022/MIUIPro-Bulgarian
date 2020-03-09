@@ -478,4 +478,5 @@
   <string name="greenguard_install_confirm">Инсталирай</string>
   <string name="greenguard_install_message">"Семейна безопсност е системно приложение. Нямате нужда от интернет, за да го инсталирате."</string>
   <string name="greenguard_install_title">Инсталирай Семейна безопсност</string>
+  <string name="master_clear_not_available_ep">"Нямате право да извършвате нулиране до фабрични настройки или да оттеглите оторизацията си в момента. Свържете се с вашия ръководител."</string>
 </resources>

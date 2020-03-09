@@ -1124,7 +1124,7 @@
     <string name="mimoji_create_emoticon_error">"Неуспешно създаване на пакет със стикери"</string>
     <string name="mimoji_create_emoticon_progress">Създаване на пакет стикери…</string>
     <string name="mimoji_emoticon_save">Запази пакета със стикери</string>
-    <string name="mimoji_emoticon_with_jpeg_save">Запази изображенията като</string>
+    <string name="mimoji_emoticon_with_jpeg_save">Запази и изображенията</string>
     <string name="mimoji_gif_accelerate">Скорост</string>
     <string name="mimoji_gif_clear_bg">Премахване на фона</string>
     <string name="mimoji_gif_edit_hint">Докоснете, за да добавите текст</string>
@@ -1149,4 +1149,6 @@
     <string name="clone_start_capture">开始拍摄</string>
     <string name="clone_video_mode">视频模式</string>
     <string name="clone_video_mode_start_hint">请点击快门键开始录制</string>
+	<string name="speech_shutter_open_tip">说出“拍照”或“茄子”即可拍照</string>
+    <string name="speech_shutter_tip">语音快门</string>
 </resources>

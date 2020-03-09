@@ -294,7 +294,7 @@
     <string name="usage_stats_limit_time_warn_title">Предупреждение за оставащото време</string>
     <string name="usage_stats_no_limit">Изключения</string>
 	<string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s%2$s</string>
 	<string name="contact_description">Поставете преки пътища за контакти на началния си екран и докоснете, за да извършите повикване</string>
   <string name="contact_title">Преки пътища за контакти</string>
   <string name="display_description">По-големи икони, голям текст, по-малко визуално претрупване</string>
@@ -306,4 +306,10 @@
   <string name="touch_title">Подобрено сензорно управление</string>
   <string name="usage_home_premission_second_summary_double_link_prefix">"Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност. Ако не сте съгласни да дадете такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. Можете да оттеглите оторизацията в Екранно време &gt; Настройки &gt; Изключване на екранно време."</string>
   <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Преди да използвате това приложение, прочетете и се съгласете с нашите &amp;lt;a href='%1s'&amp;gt;Потребителско споразумение&amp;lt;/a&amp;gt; и &amp;lt;a href='%2s'&amp;gt;Политика за поверителност&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="cu_confirm">Настройка</string>
+  <string name="steady_on_screen_notification_title">Оставете телефона си и си починете</string>
+  <string name="steady_on_screen_notify">Известяване за непрекъснато използване</string>
+  <string name="steady_on_screen_setting">Лимит на времето за непрекъснати сесии</string>
+  <string name="steady_on_screen_summary">Лимит на времето за непрекъснати сесии</string>
+  <string name="to_authorize">Дайте разрешения</string>
 </resources>
