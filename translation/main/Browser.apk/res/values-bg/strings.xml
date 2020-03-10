@@ -921,7 +921,7 @@
   <string name="pref_security_show_security_warning">Предупреждения за сигурност</string>
   <string name="pref_security_show_security_warning_summary">Показване на предупреждение, ако има проблем с сертификата на сайта</string>
   <string name="pref_set_default_browser">Задаване като браузър по подразбиране</string>
-  <string name="pref_set_default_browser_don_ask">Не питай отново</string>
+  <string name="pref_set_default_browser_don_ask">"Не питай отново"</string>
   <string name="pref_set_default_browser_msg">Mi Браузър прави уеб сърфирането бързо, удобно и сигурно. Да се зададе ли като браузър по подразбиране?</string>
   <string name="pref_set_default_browser_no_keep_it">Запази Mi Браузър</string>
   <string name="pref_set_default_browser_no_thanks">Не благодаря</string>

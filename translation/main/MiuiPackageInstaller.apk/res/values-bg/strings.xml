@@ -196,7 +196,7 @@
   <string name="mobil_net_work_warning_msg">В момента използвате мобилни данни. Инсталирането на това приложение изисква %1$s мобилни данни. Инсталиране?</string>
   <string name="mobil_net_work_warning_ok">Инсталирай</string>
   <string name="mobil_net_work_warning_title">Предупреждение за използване на данни</string>
-  <string name="never_ask_again">Не питай отново</string>
+  <string name="never_ask_again">"Не питай отново"</string>
   <string name="new_permissions_category">Нови разрешения</string>
   <string name="newPerms">Нов</string>
   <string name="next">Следващ</string>

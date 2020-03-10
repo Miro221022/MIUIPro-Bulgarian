@@ -968,7 +968,7 @@
   <string name="finger_remind_message">Добавете първо вашия пръстов отпечатък. Чукнете за да отворите Настройки.</string>
   <string name="fingerprint_identify_msg">Включете отключване с пръстов отпечатък</string>
   <string name="fingerprint_not_identified_msg">За да отключите устройството, въведете паролата си.</string>
-  <string name="fingerprint_not_remind">Не питай отново</string>
+  <string name="fingerprint_not_remind">"Не питай отново"</string>
   <string name="fingerprint_remind_dialog_title">Отключване с пръстов отпечатък</string>
   <string name="fingerprint_to_lock">Отключете с отпечатък</string>
   <string name="fingerprint_to_lock_summary">Отключване на приложения, чрез пръстов отпечатък</string>

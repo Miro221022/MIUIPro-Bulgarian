@@ -230,7 +230,7 @@
   <string name="installing_email">Инсталиране…</string>
   <string name="item_num_selected">%1$d са избрани</string>
   <string name="limit_notification_date_format">d M (EE)</string>
-  <string name="load_more_hint">Заредете събития от%1$d</string>
+  <string name="load_more_hint">Заредете събития от %1$d</string>
   <string name="loading">Един момент…</string>
   <string name="local_calendar_display_name">Локален календар</string>
   <string name="local_owner_account_name">Запазени в устройството</string>
