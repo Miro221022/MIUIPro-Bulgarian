@@ -2351,9 +2351,9 @@
   <string name="sp_settings_check_item_title_wifi">WLAN</string>
   <string name="sp_settings_exception_count_zero">Няма съдържание</string>
   <string name="sp_settings_group_title_check_item">Други елементи</string>
-  <string name="sp_settings_info_input_method">Използване на системната клавиатура в платежните приложения</string>
+  <string name="sp_settings_info_input_method">Тествайте клавиатурите за проблеми със сигурността, докато извършвате плащания</string>
   <string name="sp_settings_info_monitor">Наблюдение на системната среда, когато се стартират приложенията за плащане</string>
-  <string name="sp_settings_title_input_method">Сигурна клавиатура</string>
+  <string name="sp_settings_title_input_method">Тестване на клавиатурите за проблеми със сигурността</string>
   <string name="sp_toast_removed_from_sign_white_list">Преместено от Изключенията. Елементът ще бъде сканиран следващият път.</string>
   <string name="special_number_group">Блокиране на докладвани номера</string>
   <string name="sponsored_sec_fb">Спонсорирани</string>
@@ -2945,7 +2945,7 @@
   <string name="wifi_item_title_arp_attack">ARP атаки</string>
   <string name="wifi_item_title_connection">WLAN връзка</string>
   <string name="wifi_item_title_dns">Сигурност на DNS сървъра</string>
-  <string name="wifi_item_title_encryption">Wi-Fi шифроване</string>
+  <string name="wifi_item_title_encryption">"WLAN не е шифрована"</string>
   <string name="wifi_item_title_fake">Засичане на фалшиво Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Няма връзка с интернет</string>
   <string name="wifi_optizition_loading">Включване на Xunyou мрежов ускорител…</string>
@@ -3062,4 +3062,9 @@
   <string name="google_base_app_timeout">Сесията изтече. Изчакайте минута или две и опитайте отново.</string>
   <string name="google_base_app_title">Инсталиране на услугите на Google</string>
   <string name="google_base_app_toast">Google Services Framework се инсталира на заден план. Изчакайте минута или две и опитайте отново.</string>
+    <string name="button_text_trust">Довери се на тази мрежа</string>
+    <string name="sp_background_risk_dialog_summary_new">Настоящата среда за плащане може да представлява риск за сигурността. Отделете малко време за решаване на съществуващите проблеми.</string>
+    <string name="wifi_danger_dialog_messgae">Настоящата WLAN мрежа може да представлява риск за сигурността. Използвайте я с повишено внимание.</string>
+    <string name="wifi_danger_dialog_tips">Можете да управлявате WLAN сигурността Сигурност > Антивирус > Настройки > WLAN.</string>
+    <string name="wifi_danger_dialog_title">"WLAN мрежата не е безопасна"</string>
 </resources>

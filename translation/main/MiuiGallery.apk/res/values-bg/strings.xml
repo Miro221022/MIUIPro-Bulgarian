@@ -1808,4 +1808,7 @@
     <string name="filter_sky_dynamic_snow">Сняг</string>
     <string name="filter_sky_dynamic_stop_saving">Докоснете отново, за да отмените запазването</string>
     <string name="filter_sky_dynamic_unavailable">"Не може да се приложи този филтър към подобни изображения"</string>
+	<string name="drag_view_tip_sub_title">Натиснете и задръжте албум, за да пренаредите</string>
+    <string name="drag_view_tip_title">Пренареждане на албуми</string>
+    <string name="vlog_clip_cut_fail_min_time">Клиповете трябва да са с продължителност поне %1$s секунди</string>
 </resources>
