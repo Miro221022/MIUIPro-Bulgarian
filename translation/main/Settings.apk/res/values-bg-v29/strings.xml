@@ -497,7 +497,7 @@
   <string name="roaming_alert_title">Да се разреши ли роуминг на данни?</string>
   <string name="roaming_check_price_warning">За цени се обърнете към оператора си.</string>
   <string name="rom_total_size">Общ размер на ROM</string>
-  <string name="rx_link_speed">%1$d МБ/сек</string>
+  <string name="rx_link_speed">%1$d М/с</string>
   <string name="rx_link_speed_label">Получавайте скорост на връзката:</string>
   <string name="rx_wifi_speed">Скорост на връзката за получав.</string>
   <string name="scanning_status_text_wifi_off_ble_off">Сканирането за Wi‑Fi и устройства с Bluetooth е изключено</string>
@@ -587,7 +587,7 @@
   <string name="trust_agents_extend_unlock_title">Удължено откл. само за надеждни агенти</string>
   <string name="trust_lost_locks_screen_summary">Ако функцията е активирана, устройството ще се заключи, когато бъде изгубено доверието в последния надежден агент</string>
   <string name="trust_lost_locks_screen_title">Заключ. на екрана при изгубено доверие</string>
-  <string name="tx_link_speed">%1$d Мб/сек</string>
+  <string name="tx_link_speed">%1$d М/с</string>
   <string name="tx_link_speed_label">Transmit link speed:</string>
   <string name="tx_wifi_speed">Скорост на връзката за предаване</string>
   <string name="unlock_footer_high_complexity_requested">%1$s препоръчва да зададете надежден ПИН код или надеждна парола и ако не го направите, може да не работи според очакванията</string>

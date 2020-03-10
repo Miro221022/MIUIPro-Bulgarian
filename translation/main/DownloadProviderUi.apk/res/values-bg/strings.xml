@@ -42,7 +42,7 @@
   <string name="confirm_delete_the_download_item_message">Изтриване на тези изтегляния?</string>
   <string name="continue_download">Продължаване</string>
   <string name="copy">Копиране</string>
-  <string name="copy_info">Копирано в кпипборда. Може да споделите с приятели!</string>
+  <string name="copy_info">Копирано в буферната памет. Може да споделите с приятели!</string>
   <string name="creat_task_success">Добавено към опашката за сваляне</string>
   <string name="create_task">Създай задача</string>
   <string name="delete">Изтрий</string>

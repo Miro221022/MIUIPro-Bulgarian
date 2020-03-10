@@ -191,7 +191,7 @@ In Android 6.0 и нагоре трябва да включите услугит
     <string name="settings_feedback">Обратна връзка</string>
     <string name="settings_score">Оценете Mi Drop</string>
     <string name="settings_set_name">Псевдоним</string>
-    <string name="share_desc">Споделете Mi Drop с използване на мобилни данни</string>
+    <string name="share_desc">Споделете Mi Drop чрез мобилни данни</string>
     <string name="share_mi_drop">Споделете Mi Drop на Вашите приятели</string>
     <string name="start_server">Старт</string>
     <string name="stay_awake_summary">Не позволявай на екрана да заспи, докато се използва FTP</string>

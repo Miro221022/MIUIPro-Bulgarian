@@ -24,13 +24,13 @@
   <string name="loading_injected_setting_summary">Зареждане…</string>
   <string name="manage_bubbles_text">Управление</string>
   <string name="media_transfer_this_device_name">Това устройство</string>
-  <string name="mr_button_content_description">Бутон за споделяне</string>
-  <string name="mr_cast_button_connected">Бутон за споделяне. Свързан</string>
-  <string name="mr_cast_button_connecting">Бутон за споделяне. Свързване</string>
-  <string name="mr_cast_button_disconnected">Бутон за споделяне. Несвързан</string>
+  <string name="mr_button_content_description">Бутон за излъчване</string>
+  <string name="mr_cast_button_connected">Бутон за излъчване. Свързан</string>
+  <string name="mr_cast_button_connecting">Бутон за излъчване. Свързване</string>
+  <string name="mr_cast_button_disconnected">Бутон за излъчване. Несвързан</string>
   <string name="mr_cast_dialog_title_view_placeholder">Няма налична информация</string>
   <string name="mr_chooser_searching">Намиране на устройства</string>
-  <string name="mr_chooser_title">Споделяне към</string>
+  <string name="mr_chooser_title">Излъчване към</string>
   <string name="mr_controller_album_art">Албум изкуство</string>
   <string name="mr_controller_casting_screen">Споделяне на екрана</string>
   <string name="mr_controller_close_description">Затваряне</string>
@@ -42,7 +42,7 @@
   <string name="mr_controller_pause">Пауза</string>
   <string name="mr_controller_play">Изпълни</string>
   <string name="mr_controller_stop">Спиране</string>
-  <string name="mr_controller_stop_casting">Спиране на споделянето</string>
+  <string name="mr_controller_stop_casting">Спиране на излъчването</string>
   <string name="mr_controller_volume_slider">Плъзгач за сила на звука</string>
   <string name="mr_dialog_groupable_header">Добави устройство</string>
   <string name="mr_dialog_transferable_header">Изпълни в група</string>

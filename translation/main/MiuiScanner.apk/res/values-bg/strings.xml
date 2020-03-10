@@ -198,12 +198,12 @@
     <string name="got_it">Разбрах</string>
     <string name="gps">Придвижване</string>
     <string name="impunity_declaration_positive_text">Разреши</string>
-    <string name="miracast_connect">Сподели</string>
+    <string name="miracast_connect">Излъчване</string>
     <string name="miracast_connect_fail">"Не можа да се сподели, опитайте отново"</string>
-    <string name="miracast_connecting">Споделяне</string>
+    <string name="miracast_connecting">Споделя се</string>
     <string name="miracast_details">Сканирайте QR кода, за да споделите</string>
-    <string name="miracast_switch_off">Безжичният дисплей е изключен</string>
-    <string name="miracast_switch_tip">Включете безжичен дисплей,за да използвате тази функция</string>
+    <string name="miracast_switch_off">Безжичният екран е изключен</string>
+    <string name="miracast_switch_tip">Включете безжичен екран,за да използвате тази функция</string>
     <string name="module_title_business_card">Визитна картичка</string>
     <string name="new_schedule">Създай събитие</string>
     <string name="open_url">Отвори URL</string>

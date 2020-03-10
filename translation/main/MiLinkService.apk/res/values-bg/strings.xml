@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">UniPlay услуга</string>
-    <string name="casting_tips">Споделяне…</string>
+    <string name="casting_tips">Излъчване…</string>
     <string name="service_name">UniPlay услуга</string>
 	<string name="console_guide_btn_got_it">Разбрах</string>
     <string name="notification_rc_title">XiaoMi TV асистент</string>

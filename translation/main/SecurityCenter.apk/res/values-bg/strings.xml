@@ -79,8 +79,8 @@
   <string name="after_the_lock_screen">Заключване на приложения заедно с екрана</string>
   <string name="alert_back_diving_mode_summary">Изключване на режим Потапяне сега?</string>
   <string name="alert_back_diving_mode_title">Режим потапяне</string>
-  <string name="alert_back_milink_hangup_tips_content">Споделянето няма да бъде прекъснато, когато приключвате повикване. Можете да натиснете бутона за захранване, за да събудите екрана.</string>
-  <string name="alert_back_milink_hangup_tips_content_vb">Предаването няма да бъде прекъснато, когато екранът е изключен и приложението работи във фонов режим. Можете да натиснете бутона за захранване, за да включите екрана отново.</string>
+  <string name="alert_back_milink_hangup_tips_content">"Излъчването няма да бъде прекъснато, когато приключвате повикване. Можете да натиснете бутона за захранване, за да събудите екрана."</string>
+  <string name="alert_back_milink_hangup_tips_content_vb">"Излъчването няма да бъде прекъснато, когато екранът е изключен и приложението работи във фонов режим. Можете да натиснете бутона за захранване, за да включите екрана отново."</string>
   <string name="all_address_choose_hint">Всички номера от този регион</string>
   <string name="already_close_gamebooster">Game Turbo е изключен</string>
   <string name="anti_disturb_msg_detail">Изключване на известията с изключение на входящите повиквания</string>
@@ -1131,7 +1131,7 @@
   <string name="gamebox_immersion_tips_title">Внимание</string>
   <string name="gamebox_immerson_open">Включване на режим Потапяне, не превключвайте мрежи…</string>
   <string name="gamebox_manual_record">Запис</string>
-  <string name="gamebox_milink">Споделяне</string>
+  <string name="gamebox_milink">Излъчване</string>
   <string name="gamebox_positive_button_text">OK (%1$dсек.)</string>
   <string name="gamebox_qq_not_find">Инсталирайте QQ и опитайте отново.</string>
   <string name="gamebox_recent_task_expand_fail">Не са инсталирани приложения, които работят с преки пътища</string>
@@ -2479,7 +2479,7 @@
   <string name="status_bar_network_flow_purchase">"   Купете &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Настройка на план за данни &gt;"</string>
   <string name="still_retain_btn">Запази</string>
-  <string name="stop_milink_connect">Спиране на споделянето</string>
+  <string name="stop_milink_connect">Спиране на излъчването</string>
   <string name="suggest_app_tolock">Предложения</string>
   <string name="suggest_app_tolock_masked">Съдържанието е скрито</string>
   <string name="suggest_app_tolock_unmasked">Видими известия</string>

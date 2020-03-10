@@ -19,7 +19,7 @@
     <string name="status_bar_toggle_quiet_mode">Не ме безпокойте</string>
     <string name="status_bar_toggle_paper_mode">Четене</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
-    <string name="status_bar_toggle_cast">Споделяне</string>
+    <string name="status_bar_toggle_cast">Излъчване</string>
     <string name="status_bar_toggle_edit">Сортиране</string>
     <string name="status_bar_toggle_battery_saver">Пестене на батерията</string>
     <string name="status_bar_toggle_nfc">NFC</string>

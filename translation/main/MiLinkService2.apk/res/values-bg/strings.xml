@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">UniPlay услуга</string>
-    <string name="casting_tips">Споделяне…</string>
+    <string name="casting_tips">Излъчване…</string>
     <string name="service_name">UniPlay услуга</string>
 	<string name="console_guide_btn_got_it">Разбрах</string>
     <string name="notification_rc_title">XiaoMi TV асистент</string>
-	<string name="console_guide_subtitle_hang_up">Можете да продължите да споделяте, когато екранът на вашето устройство е изключен. Тази функция намалява консумацията на енергия</string>
-    <string name="console_guide_subtitle_private">„Без показване на плаващи известия, входящи повиквания и други поверителни елементи на външни монитори“</string>
-    <string name="console_guide_subtitle_small_window">„СведеСмаляване на прозореца, който споделяте, за да можете да използвате други функции на телефона си“</string>
+	<string name="console_guide_subtitle_hang_up">Можете да продължите да излъчвате, когато екранът на вашето устройство е изключен. Тази функция намалява консумацията на енергия</string>
+    <string name="console_guide_subtitle_private">"Без показване на плаващи известия, входящи повиквания и други поверителни елементи на външни монитори"</string>
+    <string name="console_guide_subtitle_small_window">"Смаляване на прозореца, който излъчвате, за да можете да използвате други функции на телефона си"</string>
     <string name="dialog_can_not_find_device">"Не са намерени устройства наблизо"</string>
     <string name="dialog_cancle">Отказ</string>
     <string name="dialog_connect_fail">"Не може да се свърже"</string>
     <string name="dialog_connect_retry">Докоснете за повторен опит</string>
-    <string name="dialog_connect_verify_perssion">Първо разрешете споделяне на вашия телевизор</string>
-    <string name="dialog_connect_verify_perssion_fail">"Не е разрешено споделяне на телевизора ви. Изчакайте минута или две и опитайте отново."</string>
+    <string name="dialog_connect_verify_perssion">Първо разрешете излъчване на вашия телевизор</string>
+    <string name="dialog_connect_verify_perssion_fail">"Не е разрешено излъчване на телевизора ви. Изчакайте минута или две и опитайте отново."</string>
     <string name="dialog_connected">Свързан</string>
     <string name="dialog_connecting">Свързване…</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_only_suport_content">Споделяне на снимки, видеоклипове или музика</string>
     <string name="dialog_open_wifi_bt">Включи</string>
     <string name="dialog_please_make_sure_tv_ok">Целевото устройство трябва да включи безжично споделяне на екрана.</string>
-    <string name="dialog_please_make_sure_tv_ok_or_help">"Уверете се, че функцията за споделяне е включена на целевото устройство.
+    <string name="dialog_please_make_sure_tv_ok_or_help">"Уверете се, че функцията за излъчване е включена на целевото устройство.
 Вижте помощта, ако имате проблеми със свързването."</string>
     <string name="dialog_recent_connected">Последни</string>
     <string name="dialog_retry">Опитайте отново</string>
@@ -28,35 +28,35 @@
     <string name="dialog_scanning_precondition">Включете WLAN и Bluetooth на телефона си, за да използвате безжичния дисплей.</string>
     <string name="dialog_select_tv">Изберете устройство (%d)</string>
     <string name="dialog_show_help">Помощ</string>
-    <string name="disconnect">Спиране на споделянето</string>
-    <string name="hang_up">Споделяне с изключен екран</string>
-    <string name="hang_up_alert_dialog_content">Продължавайте да споделяте, когато екранът на вашето устройство е изключен. Тази функция намалява консумацията на енергия. Натиснете бутона за захранване, за да включите екрана отново.</string>
+    <string name="disconnect">Спиране на излъчването</string>
+    <string name="hang_up">Излъчване с изключен екран</string>
+    <string name="hang_up_alert_dialog_content">Продължавайте да излъчвате, когато екранът на вашето устройство е изключен. Тази функция намалява консумацията на енергия. Натиснете бутона за захранване, за да включите екрана отново.</string>
     <string name="hang_up_alert_dialog_neg">Отказ</string>
     <string name="hang_up_alert_dialog_pos">OK</string>
-    <string name="hang_up_alert_dialog_title">Предстои споделяне с изключен екран…</string>
+    <string name="hang_up_alert_dialog_title">Предстои излъчване с изключен екран…</string>
     <string name="help_page_text_01">Помощ</string>
-    <string name="help_page_text_02">Какво е Споделяне?</string>
-    <string name="help_page_text_03">"Споделянето е прожектиране на елементи от екрана на вашия телефон към по-голям външен монитор. То ви позволява да споделяте изображения и видеоклипове с приятелите и семейството си, без да използвате мобилни данни."</string>
+    <string name="help_page_text_02">Какво е Излъчване?</string>
+    <string name="help_page_text_03">"Излъчването е прожектиране на елементи от екрана на вашия телефон към по-голям външен монитор. То ви позволява да споделяте изображения и видеоклипове с приятелите и семейството си, без да използвате мобилни данни."</string>
     <string name="help_page_text_04">Как се споделят елементи на по-голям екран?</string>
     <string name="help_page_text_05">Стъпка 1: Проверете вашите устройства и мрежова среда</string>
    <string name="help_page_text_06">"1. Не е необходимо да се свързвате с интернет, ако искате да предавате нещо от Mi телефон на Mi TV.
 2. Ако не можете да установите връзка между двете устройства, опитайте да ги свържете в една и съща Wi-Fi мрежа."</string>
     <string name="help_page_text_07">3. Някои телевизори Xiaomi или други марки телевизори, не поддържат интелигентно екраниране. Ако няма безжична мрежа или ако телевизорът и мобилният телефон не могат да се свържат към същата мрежа, трябва да включите телевизора (или устройството с голям екран) чрез [Miracast] Mirror projection screen]. Това име може да се различава за различните марки телевизори, можете да плъзнете до края на тази страница, за да научите повече.</string>
-    <string name="help_page_text_08">Стъпка 2: Включете споделянето</string>
-    <string name="help_page_text_09">"Докоснете \"Споделяне\" В панела за известия. Включете WLAN и Bluetooth за по-стабилна връзка."</string>
+    <string name="help_page_text_08">Стъпка 2: Включете излъчването</string>
+    <string name="help_page_text_09">"Докоснете \"Излъчване\" В панела за известия. Включете WLAN и Bluetooth за по-стабилна връзка."</string>
     <string name="help_page_text_10">Ако искате да споделяте елементи от Галерия или Mi Видео, можете да използвате вградени функции за споделяне в тези приложения.</string>
     <string name="help_page_text_11">Стъпка 3: Изберете устройство</string>
-    <string name="help_page_text_12">Изберете външно устройство от списъка на наличните устройства, за да започнете споделяне.</string>
+    <string name="help_page_text_12">Изберете външно устройство от списъка на наличните устройства, за да започнете излъчване.</string>
     <string name="help_page_text_13">"Не можете да се свържете с външно устройство?"</string>
     <string name="help_page_text_14">"1. Ако искате да използвате Xiaomi устройство, но не можете да го намерите в списъка с наличните устройства, опитайте следното:
 Свържете както телефона, така и външния монитор (например телевизора си) към същата Wi-Fi мрежа или свържете външния монитор към горещата точка на телефона си. Ако няма налични Wi-Fi мрежи или не можете да свържете и двете устройства към една и съща мрежа, проверете дали функциите за споделяне на външния ви монитор са актуални, включете Bluetooth както на вашия телефон, така и на външния монитор, и включете Miracast на вашия телевизор. 
-2. Ако споделяте на устройство Xiaomi за първи път, трябва да завършите проверката. 
+2. Ако излъчвате на устройство Xiaomi за първи път, трябва да завършите проверката. 
 3. Ако искате да използвате устройство, което не е Xiaomi, но не можете да го намерите в списъка с наличните устройства, опитайте следното:
 Свържете както телефона, така и външния монитор (например телевизора си) към същата Wi-Fi мрежа или свържете външния монитор към горещата точка на телефона си. Ако това не помогне, инсталирайте приложението за споделяне на LeEco на вашия телевизор и следвайте инструкциите."</string>
     <string name="help_page_text_15">Функцията Miracast на различните устройства</string>
     <string name="help_page_text_16">Ми TV / Mi проектор</string>
     <string name="help_page_text_17">"Можете да прожектирате елементи от вашия Mi телефон на повечето модели Mi TV с Bluetooth възможности, без да включвате Miracast ръчно.
-Ако трябва да включите Miracast, натиснете бутона [МЕНЮ] и изберете Моите приложения > Споделяне > Miracast."</string>
+Ако трябва да включите Miracast, натиснете бутона [МЕНЮ] и изберете Моите приложения > Излъчване > Miracast."</string>
     <string name="help_page_text_17_1">Поддръжка на клиенти на Xiaomi: 400-100-5678</string>
     <string name="help_page_text_18">Samsung TV</string>
     <string name="help_page_text_19">Първо, уверете се, че функционалността на Miracast се поддържа на вашето устройство. При някои от моделите можете да натиснете бутона [SOURCE] на дистанционното управление и след това да изберете \"SCREEN MIRRORING\". Тази функция е включена по подразбиране на различни модели.</string>
@@ -71,10 +71,10 @@
     <string name="help_page_text_28">Първо, уверете се, че функционалността на Miracast се поддържа на вашето устройство. На някои от моделите можете да натиснете бутона [MENU] на дистанционното управление и след това да изберете Настройки > Връзка > Мрежа > Няколко екрана.</string>
     <string name="help_page_text_29">TPV поддръжка: 400-887-8007</string>
     <string name="help_page_text_30">Hisense</string>
-    <string name="help_page_text_31">Първо, уверете се, че функционалността на Miracast се поддържа на вашето устройство. На някои от моделите можете да натиснете бутона [SMART] на дистанционното управление и след това да изберете Споделяне > Безжичен екран;Някои модели могат да кликнат върху Hi Screen > Game Screening > Android.</string>
+    <string name="help_page_text_31">Първо, уверете се, че функционалността на Miracast се поддържа на вашето устройство. На някои от моделите можете да натиснете бутона [SMART] на дистанционното управление и след това да изберете Излъчване > Безжичен екран;Някои модели могат да кликнат върху Hi Screen > Game Screening > Android.</string>
     <string name="help_page_text_32">Hisense поддръжка: 400-611-1111</string>
     <string name="help_page_text_33">Skyworth</string>
-    <string name="help_page_text_34">Първо, уверете се, че функционалността на Miracast се поддържа на вашето устройство. На някои от моделите можете да изберете Приложения > Споделяне > Android устройство > Miracast.</string>
+    <string name="help_page_text_34">Първо, уверете се, че функционалността на Miracast се поддържа на вашето устройство. На някои от моделите можете да изберете Приложения > Излъчване > Android устройство > Miracast.</string>
     <string name="help_page_text_35">Skyworth поддръжка: 95105555</string>
     <string name="help_page_text_36">Sony</string>
     <string name="help_page_text_37">Първо, уверете се, че функцията Miracast се поддържа на вашето устройство. На някои от моделите можете да натиснете бутона [SOURCE] на дистанционното и след това изберете \"Screen Mirroring\". При някои други модели можете да включите тази функция в Networks > Wi-Fi Direct. Тази функция е включена по подразбиране на различни модели.</string>
@@ -98,17 +98,17 @@
     <string name="notification_show_more">Докоснете, за да видите още функции</string>
     <string name="private_protect">Скриване на поверителните елементи</string>
     <string name="small_window">Смяляване на прозореца</string>
-    <string name="status_bar_in_casting">Споделяне…</string>
+    <string name="status_bar_in_casting">Излъчва се…</string>
     <string name="status_bar_in_casting_long">Кликнете, за да видите още функции за споделяне</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="tile_label">Споделяне</string>
+    <string name="tile_label">Излъчване</string>
     <string name="toast_guide_show_more">Научете повече</string>
     <string name="toast_guide_title">Разгледайте нашите нови функции тук</string>
     <string name="toast_msg">Моля, използвайте малкия прозорец, за да споделите екрана в приложението.</string>
     <string name="toast_msg_for_multi_window">"Не може да се използва тази функция с Разделен екран"</string>
-	<string name="toast_msg_for_small_window">"Можете да смалите прозореца, който се споделя, за да можете да използвате други функции на телефона си, без да прекъсвате процеса на споделяне."</string>
+	<string name="toast_msg_for_small_window">"Можете да смалите прозореца, който се излъчва, за да можете да използвате други функции на телефона си, без да прекъсвате процеса на споделяне."</string>
     <string name="toast_title_for_small_window">Изберете \"Смаляване на прозореца\" в приложението</string>
-	<string name="privacy_text_1"><Data>"Добре дошли в Споделяне! Тази функция позволява прожектиране на елементи от екрана на вашия телефон на по-голям външен монитор.
+	<string name="privacy_text_1"><Data>"Добре дошли в Излъчване! Тази функция позволява прожектиране на елементи от екрана на вашия телефон на по-голям външен монитор.
 Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност. Някои функции се предоставят от доставчик на услуги от трета страна HappyCast. Преди да използвате тази функция, прочетете и се съгласете с &lt;a href=%2$s>Правната декларация на HappyCast&lt;/a> и &lt;a href=%1$s>Политиката за поверителност на HappyCast&lt;/a>.
 За да може да работи нормално, това приложение трябва да се свърже с интернет и изисква следните разрешения, за да събира личната ви информация:"</Data></string>
     <string name="privacy_text_2"><Data>"Ако не сте съгласни да предоставите такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. В такива случай можете да изберете да деинсталирате това приложение, да се отпишете или да ограничите разрешенията в Настройки.

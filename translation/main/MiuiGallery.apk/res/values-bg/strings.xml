@@ -493,7 +493,7 @@
   <string name="editor_talkback_undo">Отмяна</string>
   <string name="editphoto_datetime_needdownload_origin_subtitle">Изтеглете оригиналния файл от Xiaomi Облак, за да можете да промените времето.</string>
   <string name="editphoto_datetime_needdownload_origin_title">Изтегляне на оригинала</string>
-  <string name="email_picker_title">Добави споделен Имейл</string>
+  <string name="email_picker_title">Добави споделен имейл</string>
   <string name="empty_album_cloud_list_title">Няма албуми за синхронизиране</string>
   <string name="empty_album_hidden_list_title">Няма скрити албуми</string>
   <string name="empty_album_other_list_title">Тук няма албуми</string>
@@ -513,7 +513,7 @@
   <string name="enable_face_album_title">Сортиране по лица</string>
   <string name="enable_midrop">Включи</string>
   <string name="enter_choice_mode">Влезте в диалога за споделяне</string>
-  <string name="enter_email_hint">Въведете Имейл адрес</string>
+  <string name="enter_email_hint">Въведете имейл адрес</string>
   <string name="error_album_not_exist">Албумът не съществува.</string>
   <string name="error_build_thumbnail_action">Изтегляне на оригиналния файл</string>
   <string name="error_build_thumbnail_msg">Неуспешно изтегляне на миниатюри. Опитайте се да изтеглите оригиналния файл.</string>

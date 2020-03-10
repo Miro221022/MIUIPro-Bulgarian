@@ -103,7 +103,7 @@
     <string name="success_receive_much_file_from_pc">Получени са над 200 файла от %1$s. Докоснете за преглед.</string>
     <string name="support_device_type">Поддържани устройства</string>
     <string name="throwing_print">Принтиране</string>
-    <string name="throwing_screen">Споделяне</string>
+    <string name="throwing_screen">Излъчване</string>
     <string name="tips_prompt_enable_midrop">Споделяйте файлове с устройства наблизо</string>
     <string name="transfer_intercept_to_remote">"Не може да се изпрати: %1$s"</string>
     <string name="transfer_to_pc_summary">"Последната версия на софтуера AIoT, инсталиран на Mi Notebooks, е съвместима с Mi Споделяне. Можете да проверите списъка на поддържаните модели лаптопи на уебсайта на MIUI. Ако вашият лаптоп е в списъка, но AIoT не е инсталиран в него, актуализирайте BIOS и драйвера на мрежовия адаптер на вашия лаптоп и изтеглете AIoT."</string>
