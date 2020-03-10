@@ -596,7 +596,7 @@
   <string name="plus_change_poster">Промяна на корицата на албума</string>
   <string name="plus_deleting_wait">Изтриване</string>
   <string name="plus_dfolder_file_echange">Управление на файлове</string>
-  <string name="plus_fallback">Обратна връзка</string>
+  <string name="plus_fallback">Отзиви</string>
   <string name="plus_gallery_allvideos">Всички видеоклипове</string>
   <string name="plus_gallery_folder_switch_guid">Докоснете, за да превключите към изглед в списък</string>
   <string name="plus_gallery_folders_showall">Преглед на всички</string>
@@ -645,14 +645,14 @@
   <string name="plus_player_speed_toast">Превключено на скорост %s успешно</string>
   <string name="plus_player_speed_toast_error">Скоростта на възпроизвеждане сега е нестабилна. Върнете се до скоростта по подразбиране.</string>
   <string name="plus_player_subtitle">Субтитри</string>
-  <string name="plus_player_subtitle_dir_back">Върви нагоре.</string>
+  <string name="plus_player_subtitle_dir_back">Назад</string>
   <string name="plus_player_subtitle_local">Локални субтитри</string>
   <string name="plus_player_subtitle_local_add_fail">Не можаха да се добавят субтитри. Уверете се, че файлът не е повреден.</string>
   <string name="plus_player_subtitle_local_add_success">Добавени са субтитри успешно</string>
   <string name="plus_player_subtitle_no_file">Тук няма субтитри.</string>
   <string name="plus_player_subtitle_online">Онлайн субтитри</string>
-  <string name="plus_player_subtitle_online_declare_content">Предстои ви да търсите&lt;br/&gt;субтитри в&lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; база данни. &lt;br/&gt;Всички субтитри се предоставят от&lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
-  <string name="plus_player_subtitle_online_declare_title">Отговорност</string>
+  <string name="plus_player_subtitle_online_declare_content">"Предстои ви да търсите &lt;br/>субтитри в базата данни на &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>. &lt;br/>Всички субтитри се предоставят от &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>."</string>
+  <string name="plus_player_subtitle_online_declare_title">Отказ от отговорност</string>
   <string name="plus_player_subtitle_online_download_fail">Субтитрите не можаха да се изтеглят</string>
   <string name="plus_player_subtitle_online_download_start">Изтегляне на субтитри…</string>
   <string name="plus_player_subtitle_online_download_success">Успешно изтеглени субтитри</string>
@@ -1338,4 +1338,54 @@
     <string name="v_input_hint">Въведете име на файла</string>
 	<string name="lp_fullscreen_all">Цял екран</string>
 	<string name="vp_full_screen_play">Цял екран</string>
+	<string name="back_to_top_txt">Върнете се най-горе</string>
+	<string name="cancel_imei_dialog">Отказ</string>
+	<string name="continue_download">Изтеглянето продължава</string>
+	<string name="copy_imei">Натиснете и задръжте, за да копирате</string>
+	<string name="device_imei">"IMEI "</string>
+    <string name="device_imei_value">IMEI (%s)</string>
+	<string name="diy_imei">Потребителски IMEI</string>
+	<string name="downloading_progress">изтегляне %d%%</string>
+	<string name="entity_comment_count">Коментари (%s)</string>
+	<string name="generate_new_imei">Генерирай IMEI</string>
+	<string name="guess_you_like">Може да харесате</string>
+	<string name="imei_copy_success">IMEI е копиран успешно</string>
+    <string name="imei_count_max">"Не могат да се генерират още IMEI"</string>
+    <string name="imei_empty_tip">"IMEI не може да бъде празен"</string>
+    <string name="imei_rename">Промяна на персонализиран IMEI</string>
+    <string name="imei_switch">Потребителски IMEI</string>
+    <string name="imei_switch_summary">Текущ: %s</string>
+	<string name="inline_play_preview_complete">Изпълни пълното видео</string>
+    <string name="inline_play_preview_continue">Продължи изпълнението</string>
+    <string name="inline_play_preview_end">Прегледът приключи</string>
+	<string name="installing_now">Инсталиране</string>
+	<string name="live_look_back">Гледане на повторение</string>
+	<string name="look_more">Още</string>
+	<string name="no_comment">Бъдете първият отговорил</string>
+	<string name="plus_gallery_mediatype_aimusic">Музика</string>
+	<string name="plus_player_page_refresh">Този елемент беше актуализиран на заден план. Опитайте отново.</string>
+	<string name="reply_comment_title">Отговор: %s</string>
+	<string name="screenshot_8k">8K екаранна снимка</string>
+    <string name="screenshot_8k_save_toast">Запазена е 8K екаранна снимка в %s</string>
+    <string name="screenshot_8k_saving">Запазване на 8K екаранна снимка…</string>
+    <string name="screenshot_8k_share">Изпрати файла до</string>
+	<string name="summary_guide">"Докоснете тук,
+за да видите описание"</string>
+    <string name="test_imei">"Тестови IMEI "</string>
+	<string name="to_collect">Добави към любими</string>
+	<string name="v_ban_download">"Този видеоклип не може да бъде изтеглен"</string>
+	<string name="v_confirm_cancel_edit_subtitle_msg2">"Няма да можете да запазите този видеоклип, ако излезете сега. Излизане въпреки това?"</string>
+	<string name="v_livetv_copyrigth_issues">"Понастоящем този канал не е наличен поради ограничения на авторските права"</string>
+	<string name="view_detail">Подробности</string>
+    <string name="view_tv">Гледайте телевизия</string>
+    <string name="vp_ban_airplay">"Този видеоклип не може да бъде излъчен"</string>
+    <string name="vp_ban_pip">"Този видеоклип не може да се смали"</string>
+	<string name="vp_full_high_clarity_5g_toast">"Използвате 5G мрежова връзка. Опитайте да превключите към &lt;font color=\"#0F99FF\">FullHD&lt;/font>."</string>
+	<string name="vp_high_clarity_5g_toast">"Използвате 5G мрежова връзка. Опитайте да превключите към &lt;font color=\"#0F99FF\">high quality&lt;/font>."</string>
+	<string name="vp_mobile_network_using_warning_new">%1$s мобилни данни, необходими за изпълнение на този видеоклип</string>
+	<string name="vp_movie_audio">Подобрен звук</string>
+	<string name="vp_pip_play">Смаляване</string>
+	<string name="vp_player_speed">Скорост</string>
+	<string name="vp_standard_definition_new">Пестене на данни</string>
+	<string name="vp_super_clarity_5g_toast">"Използвате 5G мрежова връзка. Опитайте да превключите към &lt;font color=\"#0F99FF\">UltraHD&lt;/font>."</string>
 </resources>

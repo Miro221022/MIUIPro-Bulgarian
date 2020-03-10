@@ -247,7 +247,7 @@
   <string name="passport_account_hint_text">Имейл/Телефонен номер/Mi Профил</string>
   <string name="passport_account_identity_title">Проверка на идентичността</string>
   <string name="passport_account_label">Mi профил</string>
-  <string name="passport_account_name">Профил: %1$s</string>
+  <string name="passport_account_name">"Профил: %1$s "</string>
   <string name="passport_account_not_activated">Профилът не бе активиран</string>
   <string name="passport_account_not_actived">Профилът ви не беше активиран</string>
   <string name="passport_account_set_password">Задайте парола</string>
@@ -546,4 +546,10 @@
   <string name="passport_can_not_receive_verification_code">"Не можете да получите код за потвърждение?"</string>
   <string name="search_menu_title">Търсене</string>
   <string name="password_toggle_content_description">Видимост на паролата</string>
+  <string name="mtrl_chip_close_icon_content_description">Премахни %1$s</string>
+    <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">国内:SIM卡激活取号失败,运营商取号失败</string>
+    <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">国内:SIM卡激活取号失败,运营商取号成功(成功%s张)</string>
+    <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">国内:SIM卡激活取号成功(成功%s张)</string>
+    <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">国际:SIM卡激活取号失败</string>
+    <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">国际:SIM卡激活取号成功(成功%s张)</string>
 </resources>

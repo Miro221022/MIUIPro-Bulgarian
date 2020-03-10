@@ -124,4 +124,8 @@
     <item quantity="other">Изпълнение след %2$s %1$d секунди</item>
     <item quantity="one">Изпълнение след %2$s %1$d секунда</item>
   </plurals>
+      <plurals name="vp_ad_countdown_play">
+        <item quantity="other">Рекламата ще започне след %1$d секунди</item>
+        <item quantity="one">Рекламата ще започне след %1$d секунда</item>
+    </plurals>
 </resources>

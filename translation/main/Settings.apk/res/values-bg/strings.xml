@@ -6790,4 +6790,22 @@ USB резервни копия:
   <string name="bluetooth_mi_fast_connect_summary">Свържете се с Bluetooth устройства наблизо</string>
     <string name="easymode_hint">Докоснете, за да изключите олекотения режим</string>
   <string name="oldman_mode_settings">Олекотен режим</string>
+    <string name="input_method_clipboard_settings">Настройки в буферната памет</string>
+    <string name="input_method_cloud_data_title">Облачна буферна памет</string>
+    <string name="input_method_cloud_paste_mode_bubble_des">"Ще видите балонче да изскача всеки път, когато в облачната буферна памет се появи ново съдържание. Докоснете балончето, за да въведете копирания текст."</string>
+    <string name="input_method_cloud_paste_mode_bubble_title">Балонче</string>
+    <string name="input_method_cloud_paste_mode_no_des">"Няма да виждате известия, когато в облачната буферна памет се появи ново съдържание. Все пак ще можете да използвате паметта, като докоснете иконата."</string>
+    <string name="input_method_cloud_paste_mode_no_title">Без</string>
+    <string name="input_method_cloud_paste_mode_red_point_des">"В долната част на клавиатурата ще видите червена точка, когато се появи ново съдържание в буерната памет в облака. Докоснете иконата, за да отворите бъферната памет и да използвате копираното съдържание."</string>
+    <string name="input_method_cloud_paste_mode_red_point_title">Червена точка</string>
+    <string name="input_method_quick_access">Бърз достъп</string>
+    <string name="input_method_quick_cloud_mode_title">Известия за ново съдържание в буферната памет</string>
+    <string name="input_method_quick_cloud_summary">Копирайте елементи на съвместими компютри и ги поставете на устройството си</string>
+    <string name="input_method_quick_cloud_title">Облачна буферна памет</string>
+    <string name="input_method_quick_paste_summary">Преглеждайте копираните елементи, като докоснете иконата на буферната памет</string>
+    <string name="input_method_quick_paste_title">Бързо поставяне</string>
+    <string name="input_method_quick_taobao_summary">Отворете копираните Taobao връзки, като докоснете иконата на буферната памет</string>
+    <string name="input_method_quick_taobao_title">Taobao връзки</string>
+    <string name="input_method_quick_url_summary">Отворете копираните уеб адреси, като докоснете иконата на буферната памет</string>
+    <string name="input_method_quick_url_title">Уебстраници</string>
 </resources>

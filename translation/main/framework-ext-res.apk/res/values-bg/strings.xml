@@ -311,4 +311,18 @@
     <string name="miaudiovisual_notification_title">Аудио и визуални ефекти</string>
 	<string name="handset_title_unsupported_handset_insert">"USB адаптери за слушалки не се поддържат"</string>
     <string name="handset_title_usb_handset_insert">Възпроизвеждане на звук през USB</string>
+	<string name="input_method_clipboard_copy_success">Копирано е успешно</string>
+    <string name="input_method_clipboard_delete_success">Изтрито успешно</string>
+    <string name="input_method_clipboard_settings_button">Настройки</string>
+    <string name="input_method_clipboard_clear_all_button">Изчисти всичко</string>
+    <string name="input_method_clipboard_clear_all_phrase_title">Изчистване на буферната памет</string>
+    <string name="input_method_clipboard_clear_all_phrase_des">Изчистване на всички елементи от буферната памет?</string>
+    <string name="input_method_clipboard_checkbox_cancle">Отказ</string>
+    <string name="input_method_clipboard_checkbox_confirm">Изчисти</string>
+    <string name="input_method_clipboard_check_more_copy">Копирай</string>
+    <string name="input_method_clipboard_check_more_add_to_phrase">Добави като честа фраза</string>
+    <string name="input_method_clipboard_check_more_delete">Изтрий</string>
+    <string name="input_method_phrase_top">Закачи</string>
+    <string name="input_method_phrase_edit">Редакция</string>
+    <string name="input_method_clipboard_participle">Отделни думи</string>
 </resources>
