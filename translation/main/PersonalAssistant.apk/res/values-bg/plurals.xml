@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="agenda_count_down">
+    <item quantity="other">След %d минути</item>
+    <item quantity="one">След %d минута</item>
+  </plurals>
   <plurals name="assistant_day">
     <item quantity="other">За %d дни</item>
     <item quantity="one">За %d ден</item>
+  </plurals>
+  <plurals name="book_start_interval">
+    <item quantity="other">Изпращане след %d дни</item>
+    <item quantity="one">Изпращане след %d ден</item>
   </plurals>
   <plurals name="days_ago">
     <item quantity="other">преди %1$dд</item>
@@ -10,6 +18,10 @@
   <plurals name="express_history_menu_select_num">
     <item quantity="other">Избрани %s елемента</item>
     <item quantity="one">Избран  %s елемент</item>
+  </plurals>
+  <plurals name="express_setting_phone_binded_info">
+    <item quantity="other">Добавени са %d телефонни номера</item>
+    <item quantity="one">Добавен е %d телефонене номер</item>
   </plurals>
   <plurals name="hours_ago">
     <item quantity="other">преди %1$dч</item>
@@ -36,6 +48,10 @@
   <plurals name="payment_record_menu_select_num">
     <item quantity="other">Избрани %s елемента</item>
     <item quantity="one">Избран %s елемент</item>
+  </plurals>
+  <plurals name="shopping_delete_num">
+    <item quantity="other">Изтрий %s избрани елемента?</item>
+    <item quantity="one">Изтрий %s избран елемент?</item>
   </plurals>
   <plurals name="sms_day_suffix">
     <item quantity="other">Изпращане след %d дни</item>
@@ -70,16 +86,4 @@
     <item quantity="other">Преди %d минути</item>
     <item quantity="one">Преди %d минута</item>
   </plurals>
-  <plurals name="book_start_interval">
-    <item quantity="other">Изпращане след %d дни</item>
-    <item quantity="one">Изпращане след %d ден</item>
-   </plurals>
-       <plurals name="agenda_count_down">
-        <item quantity="other">След %d минути</item>
-        <item quantity="one">След %d минута</item>
-    </plurals>
-	    <plurals name="express_setting_phone_binded_info">
-        <item quantity="other">Добавени са %d телефонни номера</item>
-        <item quantity="one">Добавен е %d телефонене номер</item>
-    </plurals>
 </resources>
