@@ -6808,4 +6808,5 @@ USB резервни копия:
     <string name="input_method_quick_taobao_title">Taobao връзки</string>
     <string name="input_method_quick_url_summary">Отворете копираните уеб адреси, като докоснете иконата на буферната памет</string>
     <string name="input_method_quick_url_title">Уебстраници</string>
+	<string name="aggregate_title">Правила за групирани известия</string>
 </resources>

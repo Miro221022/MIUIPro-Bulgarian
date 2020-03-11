@@ -1497,4 +1497,14 @@
         <item>Наситено</item>
         <item>Оригинален цвят</item>
     </string-array>
+	    <string-array name="aggregate_entries">
+        <item>Препоръчани</item>
+        <item>Важни</item>
+        <item>Маловажни</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>MIUI ще реши кои известия трябва да се показват директно</item>
+        <item>Известията ще се покажат в панела за известия</item>
+        <item>Известията ще се покажат в отделна папка</item>
+    </string-array>
 </resources>

@@ -113,4 +113,5 @@
   <string name="warm_performance_tip">Устройството ви ще се затопли, когато се изпълняват повече процеси.</string>
   <string name="power_tools_current">Текущ</string>
   <string name="power_tools_fps">FPS</string>
+  <string name="cloud_russion_addr">Актуализирайте данните на руския сървър</string>
 </resources>
