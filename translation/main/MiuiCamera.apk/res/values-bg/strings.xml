@@ -1129,7 +1129,7 @@
     <string name="mimoji_gif_clear_bg">Премахване на фона</string>
     <string name="mimoji_gif_edit_hint">Докоснете, за да добавите текст</string>
     <string name="mimoji_gif_edit_title">Редакция на GIF</string>
-    <string name="mimoji_select_number_error">Изберете поне 1 елемент</string>
+    <string name="mimoji_select_number_error">Изберете поне %d елемент</string>
     <string name="preview_back_pressed_hint">Докоснете отново, за да се върнете за преглед</string>
     <string name="timbre">Глас</string>
     <string name="timbre_baby">Дете</string>

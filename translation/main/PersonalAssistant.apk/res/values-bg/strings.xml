@@ -1193,4 +1193,15 @@
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
   <string name="year_month_day_format">dd/MM/yyyy</string>
   <string name="yesterday">Вчера</string>
+     <string name="access_deselect">Отказани %s</string>
+     <string name="access_deselected">Отказани %s</string>
+     <string name="access_selected">Избрани %s</string>
+     <string name="app_version_name">"Версия: "</string>
+     <string name="debug_card_brief">Инструменти и настройки за отстраняване на грешки</string>
+     <string name="debug_card_detail">Инструменти и настройки за отстраняване на грешки</string>
+     <string name="debug_card_title">Отстраняване на грешки</string>
+     <string name="miot_device_closed">Устройството е изключено</string>
+     <string name="miot_device_disabled">"Не може да се контролира това устройство в момента"</string>
+     <string name="miot_device_opening">Устройството е включено</string>
+     <string name="trip_required_info">Задължително</string>
 </resources>

@@ -494,4 +494,6 @@
 	<string name="switch_personal_assitant_app_vault">Личен асистент</string>
 	<string name="switch_personal_assitant_google">Google</string>
 	<string name="switch_personal_assitant_none">Без</string>
+	<string name="permdesc_uninstall_widget">Разрешаване на приложението да премахва джаджи без намеса от потребителя.</string>
+    <string name="permlab_uninstall_widget">Деинсталиране на джаджи</string>
 </resources>
