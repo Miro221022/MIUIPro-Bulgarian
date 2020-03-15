@@ -39,7 +39,7 @@
     <string name="bluetooth_connected_no_map">Свързан (без достъп до съобщения)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (без телефон или мултимедия)</string>
     <string name="bluetooth_profile_a2dp">Аудио медия</string>
-    <string name="bluetooth_profile_headset">Аудио от телефон</string>
+    <string name="bluetooth_profile_headset">Телефонни обаждания</string>
     <string name="bluetooth_profile_opp">Прехвърляне на файлове</string>
     <string name="bluetooth_profile_hid">Входно устройство</string>
     <string name="bluetooth_profile_pan">Интернет достъп</string>
