@@ -1474,7 +1474,6 @@
         <item>Дълга латентност (300~500мс)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-	    <item>Оптимизиран за ниска латентност (192кб/с)</item>
 		<item>Оптимизиран за ниска латентност (256kкб/с)</item>
         <item>Оптимизиран за качество на връзката (400кб/с)</item>
         <item>Балансирано качество на звука и връзката (500/560кб/с)</item>

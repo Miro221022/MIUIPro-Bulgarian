@@ -419,5 +419,5 @@
   <string name="v_code_title">Въведете код за потвърждение</string>
   <string name="look_more">Вижте още</string>
   <string name="passport_can_not_receive_verification_code">"Не можете да получите код за потвърждение?"</string>
-  
+  <string name="pause_play">Пауза</string>
 </resources>

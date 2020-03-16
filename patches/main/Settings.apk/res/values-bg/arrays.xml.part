@@ -205,4 +205,12 @@
     <item>По подразбиране</item> 
     <item>Браузър</item> 
   </string-array>
+  <string-array name="network_speed_splitter_entries"> 
+        <item>"Не показвай"</item> 
+        <item>По подразбиране</item> 
+    </string-array>
+    <string-array name="battery_meter_legacy_entries"> 
+        <item>Правоъгълен</item> 
+        <item>Овален</item> 
+    </string-array
 </resources>

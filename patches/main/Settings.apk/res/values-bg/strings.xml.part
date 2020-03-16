@@ -226,4 +226,6 @@
   <string name="folder_blur_title">Замъглен ефект в папките</string>
   <string name="volbtn_toggle_summary">Възможност за превключване на песни, когато екранът е изключен</string>
   <string name="set_in_aod_summary">Възможност за превключване на песни с активен режим Винаги включен</string>
+  <string name="battery_meter_legacy_title">Икона на батерията</string>
+  <string name="network_speed_splitter_title">Разделител</string>
 </resources>
