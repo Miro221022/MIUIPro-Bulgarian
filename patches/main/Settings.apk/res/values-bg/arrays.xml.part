@@ -212,5 +212,5 @@
     <string-array name="battery_meter_legacy_entries"> 
         <item>Правоъгълен</item> 
         <item>Овален</item> 
-    </string-array
+    </string-array>
 </resources>
