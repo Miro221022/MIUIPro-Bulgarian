@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="adblock_notification">
+    <item quantity="other">%d блокирани реклами</item>
+    <item quantity="one">%d блокирана реклама</item>
+  </plurals>
+  <plurals name="adblock_rules_number_text">
+    <item quantity="other">%d блокирани елементи</item>
+    <item quantity="one">%d блокиран елемент</item>
+  </plurals>
+  <plurals name="articles_updated_amount">
+    <item quantity="other">Разгледайте %1$d нови статии</item>
+    <item quantity="one">Разгледайте %1$d нова статия</item>
+    <item quantity="few">Разгледайте %1$d нови статии</item>
+  </plurals>
+  <plurals name="auto_play_next_tips">
+    <item quantity="other">Изпълни на следващото видео след %d секунди</item>
+    <item quantity="one">Изпълни следващото видео след %d секунди</item>
+  </plurals>
+  <plurals name="download_business_v5_edit_mode_title">
+    <item quantity="other">%1$d избрани</item>
+    <item quantity="one">%1$d избрано</item>
+  </plurals>
+  <plurals name="download_dialog_confirm_delete_downloads_message">
+    <item quantity="other">Изтрий %d задачи?</item>
+    <item quantity="one">Изтрий %d задача?</item>
+  </plurals>
+  <plurals name="find_on_page_matches">
+    <item quantity="other">%d съвпадения</item>
+    <item quantity="one">%d съвпадение</item>
+  </plurals>
+  <plurals name="le_notification_download_completed">
+    <item quantity="other">Изтеглени са %d елемента успешно</item>
+    <item quantity="one">Изтеглен е %d елемент успешно</item>
+  </plurals>
+  <plurals name="mw_last_num_days">
+    <item quantity="other">Последните %d дни</item>
+    <item quantity="one">Последния %d ден</item>
+  </plurals>
+  <plurals name="mw_matches_found">
+    <item quantity="other">%1$d от %2$d</item>
+    <item quantity="one">1 съвпадение</item>
+  </plurals>
+  <plurals name="nav_screen_incognito_time">
+    <item quantity="other">След %d секунди автоматично ще се създаде нова страница</item>
+    <item quantity="one">След %d секунда автоматично ще се създаде нова сраница</item>
+  </plurals>
+  <plurals name="nf_item_like">
+    <item quantity="other">%s харесвания</item>
+    <item quantity="one">%s харесване</item>
+  </plurals>
+  <plurals name="players">
+    <item quantity="other">%d играчи</item>
+    <item quantity="one">%d играч</item>
+  </plurals>
+  <plurals name="pref_adblock_counts">
+    <item quantity="other">%d блокирани</item>
+    <item quantity="one">%d блокиран</item>
+  </plurals>
+  <plurals name="suggest_access_item_album_songs">
+    <item quantity="other">%d песни</item>
+    <item quantity="one">%d песен</item>
+  </plurals>
+  <plurals name="suggest_access_item_singer_albums">
+    <item quantity="other">%d албума</item>
+    <item quantity="one">%d албум</item>
+  </plurals>
+  <plurals name="suggest_access_item_singer_pop">
+    <item quantity="other">%d популярни песни</item>
+    <item quantity="one">%d популярна песен</item>
+  </plurals>
+  <plurals name="transfer_prompt">
+    <item quantity="other">Изпълни клипа след %1$d секунди</item>
+    <item quantity="one">Изпълни клипа след %1$d секунди</item>
+  </plurals>
+  <plurals name="v5_edit_mode_title">
+    <item quantity="other">Избрани: %1$d</item>
+    <item quantity="one">Избрани: %1$d</item>
+  </plurals>
+  <plurals name="video_download_clear_info">
+    <item quantity="other">Премахнахте успешно %1$d видеоклипа.</item>
+    <item quantity="one">Премахнахте успешно %1$d видеоклип.</item>
+  </plurals>
+  <plurals name="video_download_clear_prompt">
+    <item quantity="other">Да се изтрият ли %1$d видеоклипа?</item>
+    <item quantity="one">Да се изтрие ли %1$d видеоклип?</item>
+  </plurals>
+  <plurals name="video_history_clear_info">
+    <item quantity="other">%1$d елемента са изтрити от историята.</item>
+    <item quantity="one">%1$d елемент е изтрит от историята.</item>
+  </plurals>
+  <plurals name="video_history_clear_prompt">
+    <item quantity="other">Да се изтрият ли %1$d елементи от историята?</item>
+    <item quantity="one">Да се изтрие ли %1$d елемент от историята?</item>
+  </plurals>
+  <plurals name="video_push_multi_message">
+    <item quantity="other">%1$d налични актуализации.</item>
+    <item quantity="one">%1$d налична актуализация.</item>
+  </plurals>
+  <plurals name="video_subtitle_last_message">
+    <item quantity="other">%d минути остават</item>
+    <item quantity="one">%d минута остава</item>
+  </plurals>
+  <plurals name="videos_updated_amount">
+    <item quantity="other">Разгледайте %1$d нови видеоклипа</item>
+    <item quantity="one">Разгледайте %1$d ново видео</item>
+  </plurals>
+  <plurals name="view_count">
+    <item quantity="other">%1$d прегледа</item>
+    <item quantity="one">%1$d преглед</item>
+  </plurals>
+  <plurals name="vote_all_people">
+    <item quantity="other">%d хора са гласували</item>
+    <item quantity="one">%d човек е гласувал</item>
+    <item quantity="few">%d хора са гласували</item>
+  </plurals>
+      <plurals name="comment_detail_title">
+        <item quantity="other">%d отговора</item>
+        <item quantity="one">%d отговор</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">Преди %d часа</item>
+        <item quantity="one">Преди %d час</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Преглед на %d коментара</item>
+        <item quantity="one">Преглед на %d коментар</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">Преди %d минути</item>
+        <item quantity="one">Преди %d минута</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Избрани са %d причини</item>
+        <item quantity="one">Избрана %d причина</item>
+    </plurals>
+	    <plurals name="video_collection_reminder_view">
+        <item quantity="other">"Не сте гледали %d от любимите си видеоклипове отдавна."</item>
+        <item quantity="one">"Не сте гледали %d любим видеоклип от много време."</item>
+    </plurals>
+	    <plurals name="views">
+        <item quantity="other">%dk гледания</item>
+        <item quantity="one">%dk преглед</item>
+    </plurals>
+</resources>
