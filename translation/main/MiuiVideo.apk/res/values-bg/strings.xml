@@ -22,7 +22,7 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">"Версия "</string>
   <string name="account_exception_retry">Възникна грешка с профила. Влезте в профила си и опитайте отново.</string>
-  <string name="account_login_clause">С вписването си се съгласявате с нашите&lt;a href=http://www.miui.com/res/doc/eula.html&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href=http://www.miui.com/res/doc/privacy.html&gt;Политика за поверителност&lt;/a&gt;.</string>
+  <string name="account_login_clause">С вписването си се съгласявате с нашите &lt;a href=\"http://www.miui.com/res/doc/eula.html\">Потребителско споразумение&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/privacy.html\">Политика за поверителност&lt;/a>.</string>
   <string name="account_login_privacy_condition">Политика за поверителност</string>
   <string name="account_login_title">Влезте в Mi Video Lite</string>
   <string name="account_logout">Отписване</string>
@@ -110,7 +110,7 @@
   <string name="comment_back">Назад</string>
   <string name="comment_detail">Подробности</string>
   <string name="comment_let_me_comment">Имам коментар</string>
-  <string name="comment_reply" formatted="false">%s&lt;font color=#959AA0&gt;отговори в&lt;/font&gt;%s</string>
+  <string name="comment_reply" formatted="false">%s&lt;font color=\"#959AA0\">отговори в&lt;/font>%s</string>
   <string name="comment_reply_to">Отговаряте на %s</string>
   <string name="comment_send">Изпрати</string>
   <string name="comment_to_loading">Влезте, за да добавите коментари</string>
@@ -188,7 +188,7 @@
   <string name="empty_video_uri">невалиден видео uri, отказ на възпроизвеждане</string>
   <string name="engine_mode">Engineering mode</string>
   <string name="enter_detail">Виж подробности</string>
-  <string name="enter_developer_options">Tap to view available options</string>
+  <string name="enter_developer_options">Докоснете, за да видите наличните опции</string>
   <string name="episode_name_format">Епизод %1$s</string>
   <string name="episode_play_complete">Завърши възпроизвеждането на този епизод</string>
   <string name="episode_suffix">"Ep. %d "</string>
@@ -266,8 +266,8 @@
   <string name="integral_exp">Относно точките</string>
   <string name="is_open_closed_function_log">Включете, за да генерирате отчет за услуги по избор</string>
   <string name="is_open_engine_mode">Включете инженерния режим</string>
-  <string name="is_open_network_log">Turn on to generate network log</string>
-  <string name="is_open_tracker_log">Turn on to generate stats log</string>
+  <string name="is_open_network_log">Включете, за да генерирате отчет за мрежата</string>
+  <string name="is_open_tracker_log">Включете, за да генерирате отчет за статистиките</string>
   <string name="just_now">В момента</string>
   <string name="layer_gloable_search">Търсене</string>
   <string name="lcok_setting">Настройки за заключен на екран</string>
@@ -296,15 +296,15 @@
   <string name="menu_item_use_notch">Възпроизвеждане на цял екран</string>
   <string name="message_center_activity_title">Моите съобщения</string>
   <string name="message_center_activity_title_setting">Настройки</string>
-  <string name="message_comment_item_my_content">&lt;Data&gt;&lt;font color=#3f3f3f&gt;Me&lt;/font&gt;&lt;/Data&gt;: %s</string>
-  <string name="message_comment_item_my_reply_content">&lt;Data&gt;&lt;font color=#3f3f3f&gt;Моят&lt;/font&gt;&lt;/Data&gt; отговори в &lt;Data&gt;&lt;font color=#3f3f3f&gt;%1$s&lt;/font&gt;&lt;/Data&gt;: %2$s</string>
-  <string name="message_comment_item_reply">&lt;Data&gt;&lt;font color=#5C7997&gt;%s&lt;/font&gt;&lt;/Data&gt; отговори:</string>
-  <string name="message_list_fragment_login_comment">Впишете се, за да видите съобщенията за коментари.</string>
-  <string name="message_list_fragment_login_praise">Впишете се, за да видите съобщенията за харесвания.</string>
-  <string name="message_list_fragment_no_message">Все още нямате съобщения.</string>
-  <string name="message_praise_item_more">%1$s, %2$s, &lt;Data&gt;&lt;font color=#3f3f3f&gt;и&lt;/font&gt;&lt;/Data&gt; %3$s &lt;Data&gt;&lt;font color=#3f3f3f&gt;други хора&lt;/font&gt;&lt;/Data&gt;</string>
-  <string name="message_praise_item_my_content">&lt;Data&gt;&lt;font color=#3f3f3f&gt;Me&lt;/font&gt;&lt;/Data&gt;: %s</string>
-  <string name="message_praise_item_my_reply_content">&lt;Data&gt;&lt;font color=#3f3f3f&gt;Моят&lt;/font&gt;&lt;/Data&gt; отговори в &lt;Data&gt;&lt;font color=#3f3f3f&gt;%1$s&lt;/font&gt;&lt;/Data&gt;: %2$s</string>
+  <string name="message_comment_item_my_content"><Data>&lt;font color=\"#3f3f3f\">Мой&lt;/font></Data>: %s</string>
+    <string name="message_comment_item_my_reply_content"><Data>&lt;font color=\"#3f3f3f\">Моят&lt;/font></Data> отговор на <Data>&lt;font color=\"#3f3f3f\">%1$s&lt;/font></Data>: %2$s</string>
+    <string name="message_comment_item_reply"><Data>&lt;font color=\"#5C7997\">%s&lt;/font></Data> отговори:</string>
+    <string name="message_list_fragment_login_comment">Впишете се, за да видите съобщения за коментари.</string>
+    <string name="message_list_fragment_login_praise">Впишете се, за да видите съобщения за харесвания.</string>
+    <string name="message_list_fragment_no_message">"Все още нямате съобщения."</string>
+    <string name="message_praise_item_more">%1$s, %2$s, <Data>&lt;font color=\"#3f3f3f\">и&lt;/font></Data> %3$s <Data>&lt;font color=\"#3f3f3f\">други&lt;/font></Data></string>
+    <string name="message_praise_item_my_content"><Data>&lt;font color=\"#3f3f3f\">Мой&lt;/font></Data>: %s</string>
+    <string name="message_praise_item_my_reply_content"><Data>&lt;font color=\"#3f3f3f\">Моят&lt;/font></Data> отговор на <Data>&lt;font color=\"#3f3f3f\">%1$s&lt;/font></Data>: %2$s</string>
   <string name="message_praise_item_praise">харесва коментара ви</string>
   <string name="message_praise_item_praised">е харесал коментара ви</string>
   <string name="message_setting">Управление на съобщения</string>
@@ -434,7 +434,7 @@
   <string name="passport_back">Назад</string>
   <string name="passport_bad_authentication">Невалидно потребителско име или парола</string>
   <string name="passport_barcode_add_account_prompt">За да свържете акаунт, Сканирайте QR кода отново, след като влезете.</string>
-  <string name="passport_change_account">&lt;u&gt;Промяна на акаунта&lt;/u&gt;</string>
+  <string name="passport_change_account"><u>Промяна на профила</u></string>
   <string name="passport_change_phone_number">Превключване на номера</string>
   <string name="passport_checking_account">Проверка на паролата…</string>
   <string name="passport_checking_input">Проверка на въведеното…</string>
@@ -470,7 +470,7 @@
   <string name="passport_error_user_name">Въведеното от вас потребителско име е невалидно.</string>
   <string name="passport_failed_to_send_activate_email">Не можа да бъде изпратен имейл за активиране</string>
   <string name="passport_find_password_on_web_msg">Посетете account.mi.com, за да нулирате паролата си.</string>
-  <string name="passport_forget_password">&lt;u&gt;Забравена парола&lt;/u&gt;</string>
+  <string name="passport_forget_password"><u>Забравена парола</u></string>
   <string name="passport_forget_password_no_underline">Забравена парола</string>
   <string name="passport_get_back_pwd">Извличане на парола за акаунт</string>
   <string name="passport_get_verify_code">Получаване на код</string>
@@ -492,7 +492,7 @@
   <string name="passport_login_instead_reg_with_email">Използвай този имейл</string>
   <string name="passport_login_prompt">Един Mi акаунт. Всички Mi услуги.</string>
   <string name="passport_login_title">Влезте във вашия Mi акаунт</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;Други начини за вписване&lt;/u&gt;</string>
+  <string name="passport_login_using_other_ways"><u>Други начини за вписване</u></string>
   <string name="passport_message_dialog_title">SMS с потвърждаващи кодове</string>
   <string name="passport_next">Следващ</string>
   <string name="passport_notification_title">Грешка при вход за %1$s</string>
@@ -517,7 +517,7 @@
   <string name="passport_reg_success">Профилът е създаден</string>
   <string name="passport_reg_success_summary">%1$s е свързан с вашия акаунт. Можете да го използвате, за да влезете или да нулирате паролата си.</string>
   <string name="passport_reg_type_email">Използвай имейл адрес</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;Използвайте алтернативен телефонен номер&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone"><u>Използвайте алтернативен телефонен номер</u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"Създаване на нов акаунт чрез "</string>
   <string name="passport_reg_using_phone_number_prompt">Създаване на акаунт чрез телефонен номер</string>
   <string name="passport_reg_via_sms_alert">Вашият оператор може да начисли такса за SMS съобщение, използвано за активиране на тази услуга.</string>
@@ -525,7 +525,7 @@
   <string name="passport_register">Създаване на акаунт</string>
   <string name="passport_register_account_goto_email">Отидете във входящата поща</string>
   <string name="passport_register_account_verified_confirm">Профилът е потвърден</string>
-  <string name="passport_register_by_email">&lt;u&gt;Създайте акаунт, чрез имейл адрес&lt;/u&gt;</string>
+  <string name="passport_register_by_email"><u>Създайте акаунт, чрез имейл адрес</u></string>
   <string name="passport_register_restricted">Твърде много акаунти са свързани с този номер, опитайте друг</string>
   <string name="passport_register_restricted_title">Не може да се използва този телефонен номер</string>
   <string name="passport_registered_phone_user_ID">User ID: %s</string>
@@ -579,7 +579,7 @@
   <string name="performance_mode">Висока производителност</string>
   <string name="performance_mode_desc">Включете, за да увеличите скоростта</string>
   <string name="permission_content">Не можете да използвате видеоклипа, докато не дадете разрешения</string>
-  <string name="permission_content2">Mi Video се нуждае от разрешения, за да работи нормално. Отворете Настройки&gt; Инсталирани приложения&gt; Mi Видео&gt; Разрешения за приложения и дайте на Mi Видео необходимите разрешения, свързани със следното:\n\n1. Хранилище\n2. Телефон</string>
+  <string name="permission_content2">Mi Video се нуждае от разрешения, за да работи нормално. Отворете Настройки > Инсталирани приложения > Mi Видео > Разрешения за приложения и дайте на Mi Видео необходимите разрешения, свързани със следното:\n\n1. Хранилище\n2. Телефон</string>
   <string name="permission_open_settings">Настройки</string>
   <string name="permission_refuse">отказвам</string>
   <string name="permission_retry">повторен опит</string>
@@ -820,7 +820,7 @@
   <string name="subtitle_onlinesub_loading">Зареждане на субтитри…</string>
   <string name="subtitle_onlinesub_loading_wait">Зареждане на субтитри…</string>
   <string name="subtitle_onlinesub_right_declare">Отказ от отговорност</string>
-  <string name="subtitle_onlinesub_right_declare_content">Получете субтитри &lt;br/&gt;&lt;br/&gt;от &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Всички онлайн субтитри се предоставят от &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
+  <string name="subtitle_onlinesub_right_declare_content">Получете субтитри &lt;br/>&lt;br/>from &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>. &lt;br/>&lt;br/>Всички онлайн субтитри се предоставят от &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
   <string name="subtitle_onlinesub_save_failed">Субтитрите не можаха да се добавят</string>
   <string name="subtitle_onlinesub_save_success">Добавени са успешно субтитри</string>
   <string name="subtitle_onlinesub_search_keyword">Търсене на субтитри</string>
@@ -996,7 +996,7 @@
   <string name="v_episode_select_summary">Резюме</string>
   <string name="v_exit">Изход</string>
   <string name="v_exitapp">Излизане от Mi видео</string>
-  <string name="v_exitapp_create_shortcut">Не показвай това отново и създай пряк път &amp;quot;Безплатни телевизионни предавания&amp;quot; на началния екран.</string>
+  <string name="v_exitapp_create_shortcut">"Не показвай това отново и създай пряк път за \"Безплатни телевизионни предавания\" на началния екран."</string>
   <string name="v_exitapp_shortcut">Безплатни телевизионни предавания</string>
   <string name="v_exitapp_we_provide">Ето какво можем да предложим</string>
   <string name="v_feedback_title">Изберете причини, поради които вече не искате да виждате това.</string>
@@ -1036,7 +1036,7 @@
   <string name="v_menu_send">Изпрати</string>
   <string name="v_menu_unhide">Покажи</string>
   <string name="v_mobile_net_limit_text">Текущ лимит: Ограничаване след изтегляне на %1$s</string>
-  <string name="v_mobile_net_unlimited_text">Текущ лимит:&lt;Data&gt;&lt;font color=#FF0000&gt;Без&lt;/font&gt;&lt;/Data&gt;</string>
+  <string name="v_mobile_net_unlimited_text">Текущ лимит: <Data>&lt;font color=\"#FF0000\">Без&lt;/font></Data></string></string>
   <string name="v_more">Още</string>
   <string name="v_my_coin">Моите монети</string>
   <string name="v_my_favorite">Любими</string>
@@ -1195,7 +1195,7 @@
   <string name="vp_declaration">Условия за ползване</string>
   <string name="vp_declaration_content_td_custom">Това приложение трябва да се свърже с интернет, за да работи нормално.</string>
   <string name="vp_device_list">Устройства</string>
-  <string name="vp_device_list_seaching">&lt;Няма устройство за излъчване&gt;</string>
+  <string name="vp_device_list_seaching">&lt;Няма устройство за излъчване></string>
   <string name="vp_download_apk_from_video_ad">Инсталирай приложението</string>
   <string name="vp_download_connect_fail">URL адресът не можа да се получи</string>
   <string name="vp_download_file_fail">Файлът не може да се чете или записва. Уверете се, че имате достатъчно място за съхранение на устройството си.</string>
@@ -1211,8 +1211,8 @@
   <string name="vp_hint">Внимание</string>
   <string name="vp_install">Инсталирай</string>
   <string name="vp_install_title">Инсталирай</string>
-  <string name="vp_loading">&lt;CDATA&gt;Изтегляне…&lt;/CDATA&gt;</string>
-  <string name="vp_loading_download">&lt;CDATA&gt;Изтегляне…&lt;/CDATA&gt;</string>
+  <string name="vp_loading"><CDATA>Изтегляне…</CDATA></string>
+  <string name="vp_loading_download"><CDATA>Изтегляне…</CDATA></string>
   <string name="vp_loading_video">Една секунда…</string>
   <string name="vp_low_definition">НИСКА</string>
   <string name="vp_maintitlearea">Гледайте HD видео навсякъде</string>
@@ -1296,8 +1296,8 @@
   <string name="vp_video_bad_network_condition">Лоша интернет връзка, опитайте отново по-късно.</string>
   <string name="vp_video_create_video_error_info">Приставката не можа да се инициализира. Изчакайте минута и опитайте отново.</string>
   <string name="vp_video_invalid_cp_info">Информацията за доставчика на съдържание е невалидна, рестартирайте приложението.</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;Една секунда…&lt;/CDATA&gt;</string>
-  <string name="vp_video_loading_new_part1">&lt;CDATA&gt;Само секунда…&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading"><CDATA>Една секунда…</CDATA></string>
+  <string name="vp_video_loading_new_part1"><CDATA>Само секунда…</CDATA></string>
   <string name="vp_video_play_loading">Зареждане на плейъра…</string>
   <string name="vp_video_player_play_text">Докоснете за изпълнение на \"%1$s\"</string>
   <string name="vp_video_plugin_install_text">Подготовка %s…</string>
@@ -1381,7 +1381,7 @@
     <string name="vp_ban_airplay">"Този видеоклип не може да бъде излъчен"</string>
     <string name="vp_ban_pip">"Този видеоклип не може да се смали"</string>
 	<string name="vp_full_high_clarity_5g_toast">"Използвате 5G мрежова връзка. Опитайте да превключите към &lt;font color=\"#0F99FF\">FullHD&lt;/font>."</string>
-	<string name="vp_high_clarity_5g_toast">"Използвате 5G мрежова връзка. Опитайте да превключите към &lt;font color=\"#0F99FF\">high quality&lt;/font>."</string>
+	<string name="vp_high_clarity_5g_toast">"Използвате 5G мрежова връзка. Опитайте да превключите към &lt;font color=\"#0F99FF\">високо качество&lt;/font>."</string>
 	<string name="vp_mobile_network_using_warning_new">%1$s мобилни данни, необходими за изпълнение на този видеоклип</string>
 	<string name="vp_movie_audio">Подобрен звук</string>
 	<string name="vp_pip_play">Смаляване</string>
