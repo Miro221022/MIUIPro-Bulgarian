@@ -295,7 +295,7 @@
     <string name="usage_stats_no_limit">Изключения</string>
 	<string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
     <string name="usage_remain_hour_miunte">%1$s%2$s</string>
-	<string name="contact_description">Поставете преки пътища за контакти на началния си екран и докоснете, за да извършите повикване</string>
+	<string name="contact_description">Докоснете преките пътища на началния екран, за да извършите повиквания</string>
   <string name="contact_title">Преки пътища за контакти</string>
   <string name="display_description">По-големи икони, голям текст, по-малко визуално претрупване</string>
   <string name="display_title">По-големи елементи</string>

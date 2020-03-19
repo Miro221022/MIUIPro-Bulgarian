@@ -137,4 +137,11 @@
   <string name="time_location">Позиция на часовника</string>
   <string name="time_style">Стил</string>
   <string name="time_style_layout">Оформление</string>
+    <string name="btn_know">Разбрах</string>
+    <string name="modify_scheduled_time">Промяна навремето</string>
+    <string name="more_online_theme">Онлайн елементи</string>
+    <string name="open_aod_mode">Включи</string>
+    <string name="scheduled_mode_dialog_msg">През този период елементите ще се показват на вашият винаги включен екран: %s.</string>
+    <string name="scheduled_mode_msg">Активен период: %s</string>
+    <string name="tip_to_open_aod_mode">Винаги включеният екран е изключен. Включване?</string>
 </resources>

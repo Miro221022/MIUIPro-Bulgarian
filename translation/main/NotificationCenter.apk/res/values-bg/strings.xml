@@ -45,4 +45,30 @@
   <string name="expand_top_notification">Разгъване на най-горното известие</string>
   <string name="last_sent_time_second">Сега</string>
   <string name="tip_select_category">Изберете тип известие</string>
+     <string name="cancel">Отказ</string>
+     <string name="category_other">Други</string>
+     <string name="confirm">OK</string>
+     <string name="feedback">Отзиви</string>
+     <string name="feedback_tip_cancel">"Данните за известия няма да бъдат събирани."</string>
+     <string name="feedback_tip_msg">За да групираме известията по-точно, трябва да получим името на приложението, заглавието и описанието на известието и времето, когато е изпратено. Изпращане на отзива?</string>
+     <string name="feedback_tip_title">Отзиви относно категориите на известията</string>
+     <string name="function_description">Относно тази функция</string>
+     <string name="menu_setting_recommend_to_minus">Показване на по-малко известия</string>
+     <string name="menu_setting_recommend_to_normal">"Не намалявай известията"</string>
+     <string name="menu_setting_show_in_home">"Не групирай"</string>
+     <string name="menu_setting_tip_recommend_minus">"Ще видите по-малко известия от %s"</string>
+     <string name="menu_setting_tip_recommend_normal">"Известията от %s няма да бъдат намалени"</string>
+     <string name="menu_setting_tip_show_in_home">"Известията от %s няма да бъдат групирани"</string>
+     <string name="menu_setting_toast_recommend_minus">"Ще видите по-малко известия от %s"</string>
+     <string name="menu_setting_toast_recommend_normal">"Известията от %s няма да бъдат намалени"</string>
+     <string name="menu_setting_toast_show_in_home">"Известията от %s няма да бъдат групирани"</string>
+     <string name="notification_aggregate_description1">MIUI може автоматично да групира изскачащи и промоционални известия, което ще направи вашият панел за известия по-малко препълнен.</string>
+     <string name="notification_aggregate_description2">"Нашите алгоритми анализират съдържанието на известията и не прилагат тази функция към важни предупреждения и известия от приложения за незабавни съощения. Ако откриете, че важните известия са групирани по грешка, докладвайте за проблема, с който сте се сблъскали с чрез нашата функия за \"Отзиви\"."</string>
+     <string name="notification_aggregate_summary">Разрешете MIUI да групира известията автоматично</string>
+     <string name="notification_aggregate_summary_inner">Включете автоматично груповите изскачащи и промоционални известия</string>
+     <string name="notification_aggregate_title">Групирани известия</string>
+     <string name="notification_setting_menu_feedback_text">"Това известие не трябва да е тук?
+Докладвайте този проблем &gt;"</string>
+     <string name="tip_feedback_success">Изпратено успешно</string>
+     <string name="tip_select_category">Изберете категория за известията</string>
 </resources>
