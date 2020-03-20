@@ -497,15 +497,15 @@
     <item quantity="one">Троянски кон: %d</item>
   </plurals>
       <plurals name="app_behavior_notification_audio_more">
-        <item quantity="other">\"%1$1s\" и още %2$d приложение записват звук</item>
-        <item quantity="one">\"%1$1s\" записва звук</item>
+        <item quantity="other">%2$d приложения включително %1$1s записват звук</item>
+        <item quantity="one">%2$d приложение включително %1$1s записва звук</item>
     </plurals>
     <plurals name="app_behavior_notification_camera_more">
-        <item quantity="other">\"%1$1s\" и още %2$d приложение използва камерата</item>
-        <item quantity="one">\"%1$1s\" използва камерата</item>
+        <item quantity="other">%2$d приложения включително %1$1s заснемат снимки</item>
+        <item quantity="one">%2$d приложение включително %1$1s заснема снимки</item>
     </plurals>
     <plurals name="app_behavior_notification_location_more">
-        <item quantity="other">\"%1$1s\" и още %2$d приложение имат достъп до камерата</item>
-        <item quantity="one">\"%1$1s\" осъществява достъп до местоположението ви</item>
+        <item quantity="other">%2$d приложения включително %1$1s осъществяват достъп до местоположението ви</item>
+        <item quantity="one">%2$d приложение включително %1$1s осъществява достъп до местоположението ви</item>
     </plurals>
 </resources>

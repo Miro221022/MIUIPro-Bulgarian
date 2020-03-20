@@ -368,4 +368,5 @@
   <string name="window_animation_scale_title">Скала за анимация на прозорци</string>
   <string name="video_call_not_allowed_if_tty_enabled">Изключване на TTY режима за осъществяване на видеоповиквания.</string>
   <string name="missedcall_notification_public_version_title">Телефон</string>
+  <string name="volume_boost_text">Звукът е увеличен успешно</string>
 </resources>

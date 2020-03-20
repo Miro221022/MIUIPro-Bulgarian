@@ -127,7 +127,7 @@
   <string name="apn_exception_title">Проверка на APN настройките</string>
   <string name="apn_exception_wap_summary">WAP вече е нестабилен. Превключете към NET.</string>
   <string name="app_behavior_about_content_no_link">"MIUI може да показва, когато приложенията стартират други приложения, автоматично стартиране, използване на разрешения и извършване на чувствителни действия. Поради проблеми със съвместимостта на версията на Андроид, някои от тези записи може да не са точни. Ако намерите запис на поведение на приложението, който не е точен, докладвайте ни го с помощта на приложението \"Услуги и отзиви\""</string>
-  <string name="app_behavior_about_negative">Отзиви</string>
+  <string name="app_behavior_about_negative">Докладване за неточности</string>
   <string name="app_behavior_about_positive">Разбрах</string>
   <string name="app_behavior_allowed">Разреши</string>
   <string name="app_behavior_desc_allow_once">Разрешено в %1$s</string>
@@ -3052,8 +3052,8 @@
   <string name="app_behavior_storage_bg_single">Това приложение получава достъп или запазва файлове във фонов режим</string>
   <string name="app_behavior_storage_single">Това приложение има достъп или запазва файлове</string>
   <string name="app_behavior_wakepath_single">Това приложение стартира %2s</string>
-  <string name="app_statusbar_audio_now">Запис</string>
-  <string name="app_statusbar_camera_now">Заснемане</string>
+  <string name="app_statusbar_audio_now">Запис на звук</string>
+  <string name="app_statusbar_camera_now">Заснемане на снимки</string>
   <string name="app_statusbar_location_now">Местоположение</string>
   <string name="google_base_app_fail">"Не може да се изтегли. Проверете дали Сигурност има разрешение за връзка с интернет."</string>
   <string name="google_base_app_installed">Инсталирано е успешно</string>
@@ -3096,29 +3096,29 @@
     <string name="warningcenter_mijia_title">Предупреждения от умни домакински устройства</string>
     <string name="warningcenter_smarthome">Mi Home</string>
     <string name="warningcenter_title">Център за предупреждение на MIUI</string>
-	<string name="app_behavior_key_audio">Звук</string>
-    <string name="app_behavior_key_camera">Камера</string>
+	<string name="app_behavior_key_audio">Запис на звук</string>
+    <string name="app_behavior_key_camera">Заснемане на снимки</string>
     <string name="app_behavior_key_location">Местоположение</string>
     <string name="app_behavior_key_protect">Защита на личната информация</string>
     <string name="app_behavior_notification_audio_now_one">%1s записва звук</string>
-    <string name="app_behavior_notification_audio_now_two">%1s и още 1 приложение записват звук</string>
-    <string name="app_behavior_notification_camera_one">%1s използва камерата</string>
-    <string name="app_behavior_notification_camera_two">%1s и още 1 приложение използват камерата</string>
+    <string name="app_behavior_notification_audio_now_two" formatted="false">%1s и %2s записват звук</string>
+    <string name="app_behavior_notification_camera_one">%1s заснема снимки</string>
+    <string name="app_behavior_notification_camera_two" formatted="false">%1s и %2s заснемат снимки</string>
     <string name="app_behavior_notification_location_one">%1s осъществява достъп до местоположението ви</string>
-    <string name="app_behavior_notification_location_two">%1s и още 1 приложение имат достъп до вашето местоположение</string>
-    <string name="app_behavior_settings_category_perm">Напомняне за използване на разрешения</string>
+    <string name="app_behavior_notification_location_two" formatted="false">%1s и %2s имат достъп до местоположението ви</string>
+    <string name="app_behavior_settings_category_perm">Известяване за чувствителни действия</string>
     <string name="app_behavior_settings_category_privacy">Защита на личната информация</string>
-    <string name="app_behavior_settings_perm_tips">Показване на известие в лентата за състоянието всеки път, когато приложението използва някое от следните разрешения:</string>
-    <string name="app_behavior_settings_privacy_tips">Показване на известие всеки път, когато приложението чете/записва чувствителна информация на заден план (контакти, история на обажданията и т.н.)</string>
-    <string name="app_behavior_start_from_app_single">Стартира %1s</string>
-    <string name="app_behavior_start_from_launcher">%1s стартира от начален екран</string>
-    <string name="app_behavior_start_from_launcher_single">Стартира от начален екран</string>
-    <string name="app_behavior_start_from_notification">%1s стартира от известие</string>
-    <string name="app_behavior_start_from_notification_single">Стартира от известие</string>
-    <string name="app_behavior_start_from_recent">%1s стартира от последни</string>
-    <string name="app_behavior_start_from_recent_single">Стартира от последни</string>
+    <string name="app_behavior_settings_perm_tips">Показване на известие в лентата за състоянието, когато приложенията получат достъп до местоположението ви, записват звук или правят снимки</string>
+    <string name="app_behavior_settings_privacy_tips">Получавайте известия, когато приложенията имат достъп до вашите контакти, историята на обажданията или извършват други чувствителни действия</string>
+    <string name="app_behavior_start_from_app_single">Това приложение беше стартирано от %1s</string>
+    <string name="app_behavior_start_from_launcher">%1s беше стартирано от началния екран</string>
+    <string name="app_behavior_start_from_launcher_single">Това приложение беше стартирано от началния екран</string>
+    <string name="app_behavior_start_from_notification">%1s беше стартирано от известие</string>
+    <string name="app_behavior_start_from_notification_single">Това приложение беше стартирано чрез известие</string>
+    <string name="app_behavior_start_from_recent">%1s беше стартирано от Последни</string>
+    <string name="app_behavior_start_from_recent_single">Това приложение беше стартирано от ReceПоследниnts</string>
     <string name="app_behavior_time_today">Днес</string>
     <string name="app_behavior_time_yesterday">Вчера</string>
-    <string name="app_perm_manager_service">Управление на разрешенията</string>
-    <string name="notify_channel_name_behavior">Запис на поведението</string>
+    <string name="app_perm_manager_service">Разрешения</string>
+    <string name="notify_channel_name_behavior">История на поведението</string>
 </resources>
