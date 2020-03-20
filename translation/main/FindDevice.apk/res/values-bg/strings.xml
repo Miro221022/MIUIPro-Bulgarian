@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activate_xiaomi_account">Активиране на това утсройство</string>
   <string name="adding_or_updating_account">Обновяване на профила…</string>
   <string name="app_name">Открий устройството</string>
   <string name="captcha">Полета</string>
   <string name="change_find_device_status_failed">Не може да се отключи. %s.</string>
-  <string name="default_debt_msg_words">Това устройство е заключено поради просрочени задължения. \n Свържете се с вашия агент по продажби за повече подробности.</string>
-  <string name="default_lock_msg_words">Това устройство е свързано със съществуващ вече профил. За вашата сигурност, вие трябва да въведете паролата си, за да потвърдите устройството.</string>
-  <string name="default_lock_msg_words_with_phone">Здравейте! Аз си загубих телефона. Бихте ли се свързали с мен? Благодаря!</string>
+  <string name="default_debt_msg_words">Това устройство е заключено поради просрочено разсрочено плащане. \n Свържете се с вашия агент по продажби за повече подробности.</string>
+  <string name="default_lock_msg_words">Това устройство е свързано със съществуващ Mi профил. От съображения за сигурност е необходимо да въведете парола, за да потвърдите устройството.</string>
+  <string name="default_lock_msg_words_with_phone">Здравейте! Аз загубих телефона си. Бихте ли могли да се свържете с мен? Благодаря!</string>
   <string name="device_locked">Това устройство е заключено.</string>
   <string name="device_lost">Това устройство е изгубено.</string>
   <string name="disable_find_device_error">Не може да се изключи Открий устройството. %1$s</string>
   <string name="disable_find_device_success">Открий устройството е изключено</string>
-  <string name="doing_extra_login_steps">Потвърждава се влизане…</string>
+  <string name="doing_extra_login_steps">Потвърждаване на вписване…</string>
   <string name="emergency_call">Спешно повикване</string>
   <string name="enable_find_device_error">Не може да се включи Открий устройство. %1$s</string>
   <string name="enable_find_device_success">Открий устройството е включено</string>
@@ -26,17 +26,17 @@
   <string name="find_device_error_server">Грешка в сървъра (%s).</string>
   <string name="find_device_error_unknown">Неизвестна грешка (%s).</string>
   <string name="find_device_noise_title">Аларма за Открий устройството</string>
-  <string name="find_device_notice">Посете &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; ,за да намерите, заключите или нулирате устройството си.</string>
+  <string name="find_device_notice">Посете &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b>, за да намерите, заключите или нулирате устройството си.</string>
   <string name="find_device_notice_sms_alert">Ако смените SIM картите си, автоматично може да бъде изпратен друг SMS, за да активирате отново тази функция.</string>
   <string name="find_device_stop_noise">Докоснете OK, за да заглушите</string>
-  <string name="find_device_storage_corrupted">Хранилището на Открий устройството не работи. Вашето устройство не е защитено.</string>
+  <string name="find_device_storage_corrupted">Хранилището на Открий устройството е повредено. Вашето устройство не е защитено.</string>
   <string name="find_device_success_title">Открий устройството</string>
   <string name="find_device_telephony_fault">Открий устройството: Нарушение във връзката (%s).</string>
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Информация за контакт: %s</string>
   <string name="login_extra_steps">Потвърждение при влизане</string>
   <string name="login_failed">Неуспешно вписване. %s.</string>
-  <string name="open_wifi_settings">Отворете настройките на WLAN</string>
+  <string name="open_wifi_settings">WLAN настройки</string>
   <string name="passport_checking_vcode">Проверка на паролата…</string>
   <string name="passport_error_empty_vcode">Въведете код за потвърждение</string>
   <string name="passport_notification_need_unlock_again">Опитайте да отключите отново</string>
@@ -73,9 +73,9 @@
   <string name="unlock_error_wrong_vcode">Въведеният от вас код е неправилен</string>
   <string name="unlock_help">Останете свързани с мрежата.\nУверете се, че сте инсталирали работеща SIM карта (ако устройството ви поддържа такава) и устройството ви е свързано с валидна WLAN мрежа.\n\nЗабравена парола?\nОтидете на id.mi.com, за да я нулирате.\n\nДруги причини\nВпишете се в i.mi.com и опитайте отключване на устройството от там.</string>
   <string name="unlock_help_title">Помощ за отключване:</string>
+  <string name="unlock_number">Код за отключване: %s</string>
   <string name="unlock_wrong_captcha">Въведеният от вас код е неправилен</string>
   <string name="unlocking">Активиране…</string>
   <string name="verifing_account">Потвърждение на паролата…</string>
   <string name="verify_password_failed">Не може да се потвърди Mi-профил ID. %s.</string>
-  <string name="unlock_number">Код за отключване: %s</string>
 </resources>
