@@ -210,7 +210,7 @@
         <item>По подразбиране</item> 
     </string-array>
     <string-array name="battery_meter_legacy_entries"> 
-        <item>Правоъгълен</item> 
-        <item>Овален</item> 
+        <item>Правоъгълна</item> 
+        <item>Заоблена</item> 
     </string-array>
 </resources>

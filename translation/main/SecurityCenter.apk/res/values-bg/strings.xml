@@ -2910,7 +2910,7 @@
   <string name="video_repeat">Изпълни отново</string>
   <string name="videobox_hangup_tips_content">Тази функция позволява на приложението да работи във фонов режим, когато екранът е изключен. Включване сега?</string>
   <string name="videobox_hangup_tips_title">Внимание</string>
-  <string name="videobox_settings_line_location">Разположение на прякия път</string>
+  <string name="videobox_settings_line_location">Разположение на прекия път</string>
   <string name="videobox_settings_line_location_desc">Показване на пряк път на ръба на екрана</string>
   <string name="videobox_settings_line_location_left">Ляво</string>
   <string name="videobox_settings_line_location_right">Дясно</string>
