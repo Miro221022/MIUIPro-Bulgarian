@@ -155,4 +155,10 @@
 	<string name="HIPS_Perm_clipboard">Буферна памет</string>
     <string name="HIPS_Perm_clipboard_Desc">Разрешаване на приложението достъп и добавяне на елементи в буферната памет</string>
     <string name="grant_dialog_button_allow_onetime">Разреши само сега</string>
+	<string name="virtual_reject_notice_content">Към приложението беше изпратен празен отговор, за да защити вашата лична информация</string>
+    <string name="virtual_reject_notice_title_calendar">%1$s се опитва да получи достъп до календара</string>
+    <string name="virtual_reject_notice_title_calllog">%1$s се опитва да получи достъп до историята на обажданията</string>
+    <string name="virtual_reject_notice_title_contacts">%1$s се опитва да получи достъп до контактите</string>
+    <string name="virtual_reject_notice_title_phonestate">%1$s се опитва да получи достъп до информация за устройството</string>
+    <string name="virtual_reject_notice_title_sms">%1$s се опитва да получи достъп до съобщенията</string>
 </resources>

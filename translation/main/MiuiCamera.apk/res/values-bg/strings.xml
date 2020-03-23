@@ -1169,7 +1169,11 @@
     <string name="clone_guide_title1">01</string>
     <string name="clone_guide_title2">拍照教程</string>
     <string name="clone_guide_title3">02</string>
-    <string name="clone_guide_title4">效果示意</string>
+    <string name="clone_guide_title4">样片展示</string>
     <string name="clone_guide_video_tip4">最多支持2个分身</string>
     <string name="clone_guide_video_title2">录像教程</string>
+	<string name="clone_guide_tip5">对战游戏</string>
+    <string name="clone_guide_tip6">并排比心</string>
+    <string name="clone_guide_tip7">面对面互动</string>
+    <string name="clone_guide_tip8">更多创意等你解锁</string>
 </resources>

@@ -523,4 +523,10 @@
      <string name="setting_about_oaid">OAID:%1$s</string>
 	 <string name="notification_channel_name_no_sound">Заглушени напомняния</string>
 	 <string name="notification_channel_name_silent">Напомняния при Не ме безпокойте</string>
+	 <string name="productivity_add_event">Създай събитие</string>
+     <string name="productivity_cannot_move_event">"Това събитие не може да се премести"</string>
+     <string name="productivity_move_event_failed">"Това събитие не може да се премести за dd MMMM, yyyy"</string>
+     <string name="productivity_move_event_hint">Натиснете и задръжте събитие, за да го преместите на друга дата</string>
+     <string name="productivity_move_event_success">Събитието е преместено за dd MMMM, yyyy</string>
+     <string name="productivity_no_event">За днес няма планирани събития</string>
 </resources>
