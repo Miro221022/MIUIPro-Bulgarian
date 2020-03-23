@@ -61,12 +61,6 @@
     <item>Да</item>
     <item>Не</item>
   </string-array>
-  <string-array name="key_app_info">
-    <item>източник на инсталиране</item>
-    <item>час на инсталиране</item>
-    <item>източник на актуализиране</item>
-    <item>час на актуализиране</item>
-  </string-array>
   <string-array name="lock_mode">
     <item>Когато устройството е заключено</item>
     <item>Когато устройството е заключено или след изход от приложение</item>
@@ -98,18 +92,18 @@
     <item>Оставащ кредит</item>
   </string-array>
   <string-array name="sort_title">
-    <item>Сортиране по статус</item>
+    <item>Сортиране по състояние</item>
     <item>Сортиране по име</item>
     <item>Сортиране по честота на използване</item>
     <item>Сортиране по използване на памет</item>
     <item>Сортиране по час (дата) на инсталиране</item>
   </string-array>
   <string-array name="sort_type">
-    <item>Статус</item>
+    <item>Състояние</item>
     <item>По име</item>
     <item>Честота на използване</item>
     <item>Използване на памет</item>
-    <item>Час (Дата) на инсталиране</item>
+    <item>Час (дата) на инсталиране</item>
   </string-array>
   <string-array name="tether_limit_warn_type">
     <item>Изключи и извести</item>

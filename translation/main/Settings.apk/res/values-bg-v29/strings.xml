@@ -157,7 +157,7 @@
   <string name="dark_ui_mode">Тъмна тема</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_off">Временно включено с цел запазване на батерията</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_on">Включено/временно деактивирано с цел запазване на батерията</string>
-  <string name="dark_ui_mode_title">Set Theme</string>
+  <string name="dark_ui_mode_title">Задайте тема</string>
   <string name="dark_ui_settings_dark_summary">Поддържаните приложения също ще превключат към тъмна тема</string>
   <string name="dark_ui_settings_dialog_acknowledge">Разбрах</string>
   <string name="dark_ui_settings_light_summary">Тези настройки също се прилагат и за приложенията</string>
@@ -479,7 +479,7 @@
   <string name="preferred_network_mode_wcdma_only_summary">Предпочитан режим на мрежата: Само WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Предпочитан режим на мрежата: Предпочита се WCDMA</string>
   <string name="previous_connected_see_all">Преглед на всички</string>
-  <string name="privacy_authorize_dialog_message">&lt;Data&gt;\"За да използвате основните функции на тази услуга, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни. Вижте нашата Политика за поверителност, за да научите как събираме и обработваме лични данни. Избирането на \"Приемам\" означава, че сте прочели и сте се съгласили с нашите &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Политика за поверителност&lt;/a&gt; and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Потребителско споразумение&lt;/a&gt;.\"&lt;/Data&gt;</string>
+  <string name="privacy_authorize_dialog_message"><Data>"За да използвате основните функции на тази услуга, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни. Вижте нашата Политика за поверителност, за да научите как събираме и обработваме лични данни. Избирането на \"Приемам\" означава, че сте прочели и сте се съгласили с нашите &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Политика за поверителност&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Потребителско споразумение&lt;/a>."</Data></string>
   <string name="privacy_dashboard_summary">Разрешения, активност в профила, лични данни</string>
   <string name="privacy_dashboard_title">Поверителност</string>
   <string name="profile_owner_add_title_simplified">Да се разреши ли контролирането?</string>
@@ -539,7 +539,7 @@
   <string name="security_settings_face_settings_require_category">Изисквания за отключване с лице</string>
   <string name="security_settings_face_settings_require_confirmation">Бутон за потвърждаване</string>
   <string name="security_settings_face_settings_require_confirmation_details">При удостоверяване в приложенията винаги да се изисква потвърждение</string>
-  <string name="security_settings_face_settings_use_face_category">Откл. с лице с цел</string>
+  <string name="security_settings_face_settings_use_face_category">Използвай отключване с лице за</string>
   <string name="security_settings_face_settings_use_face_for_apps">Вход в приложения и плащания</string>
   <string name="security_settings_face_settings_use_face_unlock_phone">Отключв. на телефона</string>
   <string name="see_less">Преглед на по-малко</string>
@@ -559,7 +559,7 @@
   <string name="sms_access_restriction_enabled_summary">Само стандартните приложения за телефон и съобщения имат разрешения за SMS и списъка с обажданията</string>
   <string name="sms_preference">Предпочитание за SMS</string>
   <string name="snooze_options_title">Разрешаване на отлагането на известията</string>
-  <string name="software_version">Software version</string>
+  <string name="software_version">Софтуерна версия</string>
   <string name="special_access_more">Вижте още</string>
   <string name="speed_label_okay">ОK</string>
   <string name="spellcheckers_settings_for_work_title">Проверка на правописа за служебни цели</string>
@@ -691,7 +691,7 @@
   <string name="zen_mode_schedule_delete">Изтриване</string>
   <string name="zen_mode_schedule_title">График</string>
   <string name="zen_mode_settings_dnd_custom_settings_footer">Режимът „Не безпокойте“ е включен за „%s“ с персонализирани настройки.</string>
-  <string name="zen_mode_settings_dnd_custom_settings_footer_link">&lt;annotation id=\"link\"&gt; Преглед на персонализираните настройки&lt;/annotation&gt;</string>
+  <string name="zen_mode_settings_dnd_custom_settings_footer_link"><annotation id="link"> Вижте персонализирани настройки</annotation></string>
   <string name="zen_mode_slice_subtitle">Ограничаване на прекъсванията</string>
   <string name="zen_mode_system_list">звуци при докосване</string>
   <string name="zone_auto_title">Използване на часовата зона, предоставена от мрежата</string>

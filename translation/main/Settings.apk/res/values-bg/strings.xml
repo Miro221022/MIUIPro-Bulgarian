@@ -3126,7 +3126,7 @@
     <string name="configure_apps">Конфигуриране на приложенията</string>
     <string name="unknown_app">Неизвестно приложение</string>
     <string name="app_permissions">Разрешения</string>
-    <string name="app_permissions_summary" formatted="false">%d от %d приложения имат допълнителен достъп</string>
+    <string name="app_permissions_summary">Приложения, използващи %1$s</string>
     <string name="app_permissions_group_summary" formatted="false">%d от %d приложения имат разрешение</string>
     <string name="tap_to_wake">Докоснете за „събуждане“</string>
     <string name="tap_to_wake_summary">Докоснете два пъти произволно място на екрана, за да „събудите“ устройството</string>
@@ -3796,7 +3796,7 @@
     <string name="reading_data">Получаване на информация…</string>
     <string name="available_size">Свободни %s</string>
     <string name="total_size">Общо %s</string>
-    <string name="memory_title">Свободни: %1$s\u0009\u0009Общо: %2$s</string>
+    <string name="memory_title">Свободни: %1$s\u0009\Общо: %2$s</string>
     <string name="memory_rightvalue">Общо:%s</string>
     <string name="memory_system_space">Системна памет</string>
     <string name="memory_system_rom">Системна памет</string>
@@ -3825,7 +3825,7 @@
     <string name="ringtone_uniform_setting_title">Настройки за две карти</string>
     <string name="ringtone_slot_setting_title">Настройки за една карта</string>
     <string name="haptic_feedback_level">Сила на вибрация</string>
-    <string name="privacy_protect_title">Поверителност</string>
+    <string name="privacy_protect_title">Защита на поверителността</string>
     <string name="privacy_mode_enable_title">Режим гост</string>
     <string name="privacy_mode_enable_sum">Скрий списъка с повиквания, съобщения и друга лична информация.</string>
     <string name="ac_enable_title">Заключване на приложения</string>
@@ -4237,8 +4237,8 @@
     <string name="permission_detail_info_summary">%1$d сигурност | %2$d поверителност | %3$d друго</string>
     <string name="permission_manage">Мениджър за разрешения</string>
     <string name="permission_manage_summary">Автоматичен старт, поверителност и сигурност</string>
-    <string name="security_relative">Безопасност</string>
-    <string name="privacy_relative">Безопасност</string>
+    <string name="security_relative">Сигурност</string>
+    <string name="privacy_relative">Поверителност</string>
     <string name="other_relative">Други разрешения</string>
     <string name="permission_manage_title">%s информация за правата</string>
     <string name="remove_continue">Деинсталиране</string>
