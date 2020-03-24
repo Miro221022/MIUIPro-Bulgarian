@@ -500,7 +500,7 @@
   <string name="weekly">Ежеседмично (вс. %s)</string>
   <string name="when_label">Кога</string>
   <string name="widget_events">Предстоящи събития</string>
-  <string name="widget_get_weather_info">Получаване на инф. за времето</string>
+  <string name="widget_get_weather_info">Получаване на информация за времето</string>
   <string name="widget_no_events">Няма предстоящи събития</string>
   <string name="widget_select_style">Избери джаджа</string>
   <string name="work_day_default_banner_title">Успешен ден в работата!</string>
