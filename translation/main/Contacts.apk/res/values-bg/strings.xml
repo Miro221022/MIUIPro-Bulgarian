@@ -62,7 +62,7 @@
      <string name="callAgain">Повторно набиране</string>
      <string name="callBack">Обратно повикване</string>
      <string name="callDetailTitle">Детайли за повикване</string>
-     <string name="callDetailsDurationFormat" formatted="false">%s мин %s сек</string>
+     <string name="callDetailsDurationFormat">%1$s мин. %2$s сек.</string>
      <string name="callShortcutActivityTitle">Изберете номер за повикване</string>
      <string name="call_assistant">Набери номера %s</string>
      <string name="call_callback">Набери за обратно повикване</string>
@@ -380,18 +380,18 @@
      <string name="device_paired_dialog_title">Извличане на контакти…</string>
      <string name="device_pairing_dialog_message">Сдвояване…</string>
      <string name="device_pairing_dialog_title">Устройствата се свързват</string>
-     <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Включете Bluetooth на другото устройство.
+     <string name="device_transfer_by_bluetooth_message">"%1$d. Включете Bluetooth на другото устройство.
 
 - Bluetooth може да бъде намерен в мрежовите настройки на устройствата с Андроид.
 - При iOS устройствата, Bluetooth се намира в Настройки.
 
-%d. При устройствата с Андроид трябва да бъде включен режим на откриваемост.
+%2$d. При устройствата с Андроид трябва да бъде включен режим на откриваемост.
 
-%d. Докоснете \"Следващо\" и дайте на Контакти необходимите разрешения."</string>
-     <string name="device_transfer_by_sim_message">"1. Запаметяване на контактите от другото устройство на SIM картата;
+%3$d. Докоснете \"Следващо\" и дайте на Контакти необходимите разрешения."</string>
+     <string name="device_transfer_by_sim_message">"%1$d. Запазете контактите от другото устройство на SIM картата;
  
 
-2. Отворете настройките в приложението Контакти  и след това отидете в \"Импортиране/Експортиране на контакти\" -- \"Импортиране от SIM картата\", задръжте някой контакт на SIM картата, за да го изберете, изберете всички необходими контакти и докоснете \"Импортиране\"."</string>
+%2$d. Отворете настройките в приложението Контакти  и отидете в \"Импортиране/Експортиране на контакти\" -- \"Импортиране от SIM карта\", задръжте върху SIM контакт, за да го изберете, изберете всички необходими контакти и докоснете \"Импортиране\"."</string>
      <string name="device_version_header_bluetooth">Импортиране чрез Bluetooth</string>
      <string name="device_version_header_no_bluetooth">Импортиране чрез SIM картата</string>
      <string name="dial">Набери</string>
@@ -474,13 +474,13 @@
 Причина: \"%s\""</string>
      <string name="exporting_contact_failed_title">Неуспешно експортиране</string>
      <string name="exporting_contact_list_message">Вашите контактни данни се експортират във файла: %s.</string>
-     <string name="exporting_contact_list_progress" formatted="false">%s от %s контакти</string>
+     <string name="exporting_contact_list_progress">%1$s от %2$s контакта</string>
      <string name="exporting_contact_list_title">Експортиране на данни за контакт</string>
      <string name="exporting_vcard_canceled_title">Експортирането на %s е отменено.</string>
      <string name="exporting_vcard_finished_title">Експортирането на%s завърши.</string>
      <string name="external_profile_title">Моят профил %1$s</string>
      <string name="fail_reason_could_not_initialize_exporter">Неуспешно стартиране на функция експорт. Причина: \"%s\".</string>
-     <string name="fail_reason_could_not_open_file" formatted="false">Файлът \"%s не се отваря. Причина: %s.</string>
+     <string name="fail_reason_could_not_open_file">"Неуспешно отваряне \"%1$s\": %2$s."</string>
      <string name="fail_reason_error_occurred_during_export">Възникна грешка при експорт. Причина: \"%s\".</string>
      <string name="fail_reason_failed_to_collect_vcard_meta_info">Не е възможно да се получи информация от файл(ове) с визитки.</string>
      <string name="fail_reason_failed_to_read_files">Един или няколко файла не могат да бъдат импортирани (%s).</string>
@@ -1085,7 +1085,7 @@
      <string name="simContacts_title">Контакти на SIM карта</string>
      <string name="sim_account_name">SIM</string>
      <string name="sim_capacity">Преглед на капацитета на SIM картата</string>
-     <string name="sim_capacity_content" formatted="false">%d общо | %d заети</string>
+     <string name="sim_capacity_content">%1$d общо | %2$d заети</string>
      <string name="sim_card_no_free_space_message">Няма достатъчно свободна памет</string>
      <string name="sim_card_no_free_space_title">SIM картата е пълна!</string>
      <string name="sim_contact_existing">Вече съществува такъв SIM контакт.</string>
@@ -1114,8 +1114,8 @@
      <string name="smart_group_company_label">По фирма</string>
      <string name="smart_group_company_unavailable">Неизвестна фирма</string>
      <string name="smart_group_frequency_1">В рамките на месец</string>
-     <string name="smart_group_frequency_2">1 до 3 месеца</string>
-     <string name="smart_group_frequency_3">3 до 6 месеца</string>
+     <string name="smart_group_frequency_2">%1$d до %2$d месеца</string>
+     <string name="smart_group_frequency_3">%1$d до %2$d месеца</string>
      <string name="smart_group_frequency_4">Повече от 6 месеца</string>
      <string name="smart_group_frequency_label">По последни повиквания</string>
      <string name="smart_group_label">Интелигентни групи</string>
@@ -1303,4 +1303,13 @@
 	 <string name="send_contact_shortcut_todesktop_duplicate">Този пряк път вече съществува</string>
      <string name="send_contact_shortcut_todesktop_failed">"Неуспешно поставяне на пряк път на началния екран"</string>
     <string name="send_contact_shortcut_todesktop_overflow">"Не можете да поставите повече преки пътища на началния екран"</string>
+	<string name="miuix_sb_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshed">обновяването завършено</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshing">обновяване</string>
+    <string name="miuix_sb_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
+    <string name="miuix_sb_tracking_progress_labe_up_nodata">няма данни</string>
+    <string name="miuix_sb_tracking_progress_labe_up_none">не прави това</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh">обновяване</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">неуспешно</string>
+    <string name="multi_select">Избери</string>
 </resources>

@@ -1139,15 +1139,17 @@
     <string name="timbre_normal">Оригинално</string>
     <string name="timbre_robot">Робот</string>
 	<string name="clone_don_not_move_phone">请不要移动手机</string>
-    <string name="clone_landscape_hint">分身模式仅支持横屏拍摄</string>
+    <string name="clone_landscape_hint">人像分身仅支持横屏拍摄</string>
     <string name="clone_no_person_found_in_viewfinder">取景区域未识别到人</string>
+	<string name="clone_mode_start_hint">请点击快门开始拍摄</string>
+    <string name="clone_no_person_found">未识别到主体</string>
     <string name="clone_offset_is_too_large">手机偏移过大，请重新拍摄</string>
     <string name="clone_photo_mode">拍照模式</string>
     <string name="clone_photo_mode_start_hint">请点击快门键开始拍照</string>
     <string name="clone_preview_no_person">未识别到人,可能拍摄失败</string>
-    <string name="clone_put_phone_back_in_place">请把手机恢复原位</string>
-    <string name="clone_start_capture">开始拍摄</string>
-    <string name="clone_video_mode">视频模式</string>
+    <string name="clone_put_phone_back_in_place">请将手机恢复原位</string>
+    <string name="clone_start_capture">开拍分身</string>
+    <string name="clone_video_mode">录像模式</string>
     <string name="clone_video_mode_start_hint">请点击快门键开始录制</string>
 	<string name="speech_shutter_open_tip">Кажете \"拍照\" или \"茄子\", за да направите снимка</string>
     <string name="speech_shutter_tip">Гласов затвор</string>
@@ -1162,10 +1164,10 @@
     <string name="super_eis_pro_disabled_hint">Стабилно видео Pro е изключено</string>
 	<string name="mimoji_tab_cartoon">卡通形象</string>
     <string name="mimoji_tab_human">拟人形象</string>
-	<string name="clone_guide_tip1">请保持手机稳定、光线充足</string>
-    <string name="clone_guide_tip2">避开移动物体及纯色背景</string>
-    <string name="clone_guide_tip3">仅支持人像拍摄</string>
-    <string name="clone_guide_tip4">最多可支持4个分身</string>
+    <string name="clone_guide_tip1">仅支持人像拍摄</string>
+    <string name="clone_guide_tip2">最多支持%1$s个分身</string>
+    <string name="clone_guide_tip3">避开移动物体及纯色背景</string>
+    <string name="clone_guide_tip4">请保持手机稳定、光线充足</string>
     <string name="clone_guide_title1">01</string>
     <string name="clone_guide_title2">拍照教程</string>
     <string name="clone_guide_title3">02</string>
@@ -1176,4 +1178,5 @@
     <string name="clone_guide_tip6">并排比心</string>
     <string name="clone_guide_tip7">面对面互动</string>
     <string name="clone_guide_tip8">更多创意等你解锁</string>
+	<string name="clone_do_not_move_phone">请不要移动手机</string>
 </resources>
