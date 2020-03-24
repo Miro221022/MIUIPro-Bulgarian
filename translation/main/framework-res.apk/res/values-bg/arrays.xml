@@ -38,14 +38,14 @@
         <item>По избор</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>За да извършвате обаждания и да изпращате съобщения през Wi-Fi, първо помолете оператора си да настрои тази услуга. След това включете отново функцията за обаждания през Wi-Fi от настройките.</item>
+        <item>За да провеждате разговори и да изпращате съобщения по WLAN, първо помолете вашия оператор да настрои тази услуга. След това включете отново WLAN обаждане от Настройки. (Код на грешка: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Регистриране с оператора ви</item>
+        <item>Проблем с регистрирането на Wi‑Fi разговори с вашия оператор: %1$s</item>
     </string-array>
     <string-array name="wfcSpnFormats">
         <item>%s</item>
-        <item>%s – обаждания през Wi-Fi</item>
+        <item>%s – WLAN повикване</item>
     </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
