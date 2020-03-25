@@ -3116,7 +3116,7 @@
     <string name="app_behavior_start_from_notification">%1s беше стартирано от известие</string>
     <string name="app_behavior_start_from_notification_single">Това приложение беше стартирано чрез известие</string>
     <string name="app_behavior_start_from_recent">%1s беше стартирано от Последни</string>
-    <string name="app_behavior_start_from_recent_single">Това приложение беше стартирано от ReceПоследниnts</string>
+    <string name="app_behavior_start_from_recent_single">Това приложение беше стартирано от Последни</string>
     <string name="app_behavior_time_today">Днес</string>
     <string name="app_behavior_time_yesterday">Вчера</string>
     <string name="app_perm_manager_service">Разрешения</string>
@@ -3134,4 +3134,5 @@
     <string name="permission_upgrade_virtual">"若您不希望提供通讯录、通话记录等真实信息时
 可设置对应权限为“空信息授权”
 授予应用权限但返回空信息，保护隐私安全"</string>
+ <string name="app_behavior_perm_change_tip_virtual">\"%1s\"已更改为空信息授权</string>
 </resources>
