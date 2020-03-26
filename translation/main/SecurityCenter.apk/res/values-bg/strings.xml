@@ -3121,18 +3121,14 @@
     <string name="app_behavior_time_yesterday">Вчера</string>
     <string name="app_perm_manager_service">Разрешения</string>
     <string name="notify_channel_name_behavior">История на поведението</string>
-	<string name="app_behavior_desc_virtual_once">已于%1$s返回空信息</string>
-    <string name="permission_action_desc">授予应用权限但返回空信息，保护隐私安全</string>
-    <string name="permission_upgrade_more">查看更多隐私保护功能</string>
-    <string name="permission_upgrade_privacy_title">"为保护您的个人隐私信息
-录音、联系人等权限支持设置为“仅在使用时允许”
-设置该状态后，应用将无法在后台使用该权限"</string>
-    <string name="permission_upgrade_runtime">"应用申请权限时
-定位、拍照权限支持设置为“允许本次”
-设置后，若关闭该应用，权限将还原为“询问”"</string>
-    <string name="permission_upgrade_title">授权管理功能升级</string>
-    <string name="permission_upgrade_virtual">"若您不希望提供通讯录、通话记录等真实信息时
-可设置对应权限为“空信息授权”
-授予应用权限但返回空信息，保护隐私安全"</string>
- <string name="app_behavior_perm_change_tip_virtual">\"%1s\"已更改为空信息授权</string>
+    <string name="app_behavior_desc_virtual_once">Върнато е празно съобщение в %1$s</string>
+    <string name="app_behavior_perm_change_tip_virtual">\"%1s\" е променено на \"Връщане на празни съобщения\"</string>
+    <string name="permission_action_desc">Давайте разрешения, но връщайте празни съобщения в приложението, за да защитите поверителността</string>
+    <string name="permission_action_tag">Защита на поверителността</string>
+    <string name="permission_action_virtual">Въръшане на празни съобщения</string>
+    <string name="permission_upgrade_more">Още функции за защита на поверителността</string>
+    <string name="permission_upgrade_privacy_title">"Разрешенията за запис на звук и досъп до контактите вече имат опция, която ви позволява да давате такива разрешения само докато използвате съответните приложения. За да защитят поверителността на личната ви информация, приложенията няма да извършват тези действия на заден план."</string>
+    <string name="permission_upgrade_runtime">"Разрешенията за достъп до вашето местоположение или заснемане на снимки сега имат опция, която ви позволява да давате такива разрешения само веднъж. За да защитите поверителността на личната си информация, тези действия няма да се извършват, след като излезете от приложението. Ще получите запитване за разрешения отново, когато използвате съответните функции следващия път."</string>
+    <string name="permission_upgrade_title">Актуализирани разрешения</string>
+    <string name="permission_upgrade_virtual">"Ако не искате да разрешите на приложенията да имат достъп до вашите контакти или история на обажданията, можете да изберете \"Върни празни съобщения\" когато предоставяте съответните разрешения."</string>
 </resources>
