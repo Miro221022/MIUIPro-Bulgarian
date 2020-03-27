@@ -98,4 +98,9 @@
         <item>никога не преоразмерявай</item>
         <item>винаги преоразмерявй избрана опция, която след това се съхранява като стойност по подразбиране</item>
     </string-array>
+	    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Промоционални съобщения от %s</item>
+        <item>Съобщения за услуги от оператора %s</item>
+        <item>Финансови съобщения от %s</item>
+    </string-array>
 </resources>

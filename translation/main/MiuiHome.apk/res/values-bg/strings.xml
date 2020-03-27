@@ -496,4 +496,5 @@
 	<string name="switch_personal_assitant_none">Без</string>
 	<string name="permdesc_uninstall_widget">Разрешаване на приложението да премахва джаджи без намеса от потребителя.</string>
     <string name="permlab_uninstall_widget">Деинсталиране на джаджи</string>
+	<string name="slide_to_open_newhome">Плъзнете нагоре, за да отворите Ценър за съдържание</string>
 </resources>

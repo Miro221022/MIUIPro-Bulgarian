@@ -386,4 +386,18 @@
   <string name="select_from_album">Галерия</string>
   <string name="submitting">Изпращане…</string>
   <string name="take_a_picture">Камера</string>
+       <string name="choosed_title">Избрани</string>
+     <string name="create">Генерирай QR код</string>
+     <string name="createFail">"QR кодът не може да се генерира. Съобщението ви е твърде дълго."</string>
+     <string name="createQRCode_hint">Въведете текст</string>
+     <string name="createQRCode_save">Запази</string>
+     <string name="create_again">Обнови</string>
+     <string name="delete">Изтрий</string>
+     <string name="history">История</string>
+     <string name="importFailed">"Неуспешно импортиране"</string>
+     <string name="saveDone">Запазено успешно</string>
+     <string name="scanHistory">История на скенера</string>
+     <string name="scanHistory_close">Изключи</string>
+     <string name="scanHistory_isOpen">Да започнете ли проследявате историята на сканираните елементи сега?</string>
+     <string name="scanHistory_open">Включи</string>
 </resources>
