@@ -126,7 +126,7 @@
   <string name="copyright_restrict">Този файл не може да се изтегли поради проблеми с авторските права.</string>
   <string name="count_ge_media">%d клипа</string>
   <string name="create_tencent_shortcut_message">Добавен е Tencent Video пряк път към началния екран</string>
-  <string name="cta_tips">Съвет: за да оптимизирате възпроизвеждането, Ви каним да участвате в плана за подобрение, трябва да се свържете с мрежата, когато използвате плеъра. Съгласни ли сте или не?</string>
+  <string name="cta_tips">Съвет: за да оптимизираме изживяването при изпълнение, ви каним да участвате в плана за подобряване, трябва да се свържете с мрежата, когато използвате приложението. Съгласен ли сте или не?</string>
   <string name="current_price">Текуща цена</string>
   <string name="daily_tasks">Ежедневни мисии</string>
   <string name="debug_mode">Режим за отстраняване на грешки</string>
