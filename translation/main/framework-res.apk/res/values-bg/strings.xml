@@ -1420,7 +1420,7 @@
   <string name="usb_mtp_launch_notification_description">Докоснете, за да прегледате файловете</string>
   <string name="usb_mtp_launch_notification_title">Установена е връзка с %1$s</string>
   <string name="usb_mtp_notification_title">USB за прехвърляне на файлове</string>
-  <string name="usb_notification_message">Докоснете за още опции.</string>
+  <string name="usb_notification_message">Докоснете за още възможности</string>
   <string name="usb_power_notification_message">Зареждане на свързано устройство. Докоснете за още опции.</string>
   <string name="usb_ptp_notification_title">USB за прехвърляне на снимки</string>
   <string name="usb_storage_activity_title">USB хранилище</string>

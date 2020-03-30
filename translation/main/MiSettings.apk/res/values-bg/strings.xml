@@ -312,4 +312,9 @@
   <string name="steady_on_screen_setting">Лимит на времето за непрекъснати сесии</string>
   <string name="steady_on_screen_summary">Лимит на времето за непрекъснати сесии</string>
   <string name="to_authorize">Дайте разрешения</string>
+     <string name="focus_mode_timer_add_limit">Може да зададете до %d продължителност</string>
+     <string name="focus_mode_timer_delete">Изтрий</string>
+     <string name="focus_mode_timer_exist">Тази сесия вече съществува</string>
+     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">От %d до %d минути</string>
+     <string name="focus_mode_timer_pick_dialog_title">Въведете продължителност</string>
 </resources>
