@@ -3121,11 +3121,11 @@
     <string name="app_behavior_time_yesterday">Вчера</string>
     <string name="app_perm_manager_service">Разрешения</string>
     <string name="notify_channel_name_behavior">История на поведението</string>
-    <string name="app_behavior_desc_virtual_once">Върнато е празно съобщение в %1$s</string>
+    <string name="app_behavior_desc_virtual_once">Върнато е празно съобщение към %1$s</string>
     <string name="app_behavior_perm_change_tip_virtual">\"%1s\" е променено на \"Връщане на празни съобщения\"</string>
-    <string name="permission_action_desc">Давайте разрешения, но връщайте празни съобщения в приложението, за да защитите поверителността</string>
+    <string name="permission_action_desc">Даване на разрешение, чрез връщане празни съобщения, за да защитите поверителността</string>
     <string name="permission_action_tag">Защита на поверителността</string>
-    <string name="permission_action_virtual">Въръшане на празни съобщения</string>
+    <string name="permission_action_virtual">Празни съобщения</string>
     <string name="permission_upgrade_more">Още функции за защита на поверителността</string>
     <string name="permission_upgrade_privacy_title">"Разрешенията за запис на звук и досъп до контактите вече имат опция, която ви позволява да давате такива разрешения само докато използвате съответните приложения. За да защитят поверителността на личната ви информация, приложенията няма да извършват тези действия на заден план."</string>
     <string name="permission_upgrade_runtime">"Разрешенията за достъп до вашето местоположение или заснемане на снимки сега имат опция, която ви позволява да давате такива разрешения само веднъж. За да защитите поверителността на личната си информация, тези действия няма да се извършват, след като излезете от приложението. Ще получите запитване за разрешения отново, когато използвате съответните функции следващия път."</string>
