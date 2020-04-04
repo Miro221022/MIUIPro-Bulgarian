@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="add_secret_ensure_message">
-    <item quantity="other">Скриване на файловете?</item>
-    <item quantity="one">Скриване на файла?</item>
+        <item quantity="other">Да се добавят ли тези елементи в поверителен албум?</item>
+        <item quantity="one">Да се добави ли този елемент в поверителен албум?</item>
   </plurals>
   <plurals name="add_to_album_cloud_photo_count_tip">
     <item quantity="other">Добавени %d снимки в облака, изключете \"Показване само на локалните албуми\" за преглед.</item>
@@ -13,8 +13,8 @@
     <item quantity="one">%2$d елемент не можа да се добави към албума. %1$s.</item>
   </plurals>
   <plurals name="add_to_secret_failed_with_reason_and_count">
-    <item quantity="other">%2$d елемента не можаха да се добавят в скрит албум. %1$s.</item>
-    <item quantity="one">%2$d елемент не можа да се добави в скрит албум. %1$s.</item>
+        <item quantity="other">"%2$d елемента не могат да се добавят към поверителен албум. %1$s."</item>
+        <item quantity="one">"%2$d елемент не може да се добави към поверителен албум. %1$s."</item>
   </plurals>
   <plurals name="age_day">
     <item quantity="other">%d дни</item>
@@ -289,8 +289,8 @@
     <item quantity="one">Общо %d снимка</item>
   </plurals>
   <plurals name="remove_from_secret_failed_with_reason_and_count">
-    <item quantity="other">%2$d елемента не можаха да се премахнат от скрития албум. %1$s.</item>
-    <item quantity="one">%2$d елемент не можа да се премахне от скрития албум. %1$s.</item>
+        <item quantity="other">"%2$d елемента не могат да бъдат премахнати от поверителния албум. %1$s."</item>
+        <item quantity="one">"%2$d елемент не може да бъде премахнат от поверителния албум. %1$s."</item>
   </plurals>
   <plurals name="search_feedback_done_mark_and_contribute_false_negative">
     <item quantity="other">Добавени са %1$d снимки към \"%2$s\" и са записани в базата данни.</item>
@@ -367,5 +367,9 @@
       <plurals name="picker_origin_need_to_download">
         <item quantity="other">"%1$d файла (%2$dМБ) все още не са изтеглени. Изтегляне чрез мобилни данни?"</item>
         <item quantity="one">"%1$d файл (%2$dМБ) все още не е изтеглен. Изтегляне чрез мобилни данни?"</item>
+    </plurals>
+	    <plurals name="picker_file_will_download">
+        <item quantity="other">Изтегляне на %d оставащи файла</item>
+        <item quantity="one">Изтегляне на %d оставащ файл</item>
     </plurals>
 </resources>
