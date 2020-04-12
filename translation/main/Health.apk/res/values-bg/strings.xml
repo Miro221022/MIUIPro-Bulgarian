@@ -71,6 +71,7 @@
   <string name="awake_duration_good_description">Не сте имали нощни събуждания.</string>
   <string name="awake_duration_normal_description">Преживяхте някои нощни събуждания.</string>
   <string name="back">Назад</string>
+  <string name="back_stroke">Плуване по гръб</string>
   <string name="background_run_tips">Натиснете \"Настройки\" по-долу, за да разрешите на Mi Здраве винаги да работи на заден план.</string>
   <string name="backtrack">Назад</string>
   <string name="basic_info_label_age">Възраст</string>
@@ -233,8 +234,6 @@
   <string name="dialog_sure">OК</string>
   <string name="dialog_user_agreement_purpose">Добре дошли в Mi Здраве! Можете да използвате това приложение за броене на крачки, проследяване на съня, цикъл и тегло, както и получаване на здравни съвети.</string>
   <string name="disable">Изключено</string>
-  <string name="distance_km">%1$s %2$fкм</string>
-  <string name="distance_m">%1$s %2$dм</string>
   <string name="drag_sort">Пренареждане</string>
   <string name="dream_talk">Говорене %1$s</string>
   <string name="dream_talk_record">Били сте записани, когато сте говорили по време на сън</string>
@@ -299,6 +298,8 @@
   <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="fmt_time_12hour">HH:mm</string>
+  <string name="fmt_time_24hour">HH:mm</string>
   <string name="for_diagnosis_usage_only">Използвайте тази информация само за диагностика.</string>
   <string name="free_training">Тренировка свободен стил</string>
   <string name="freestyle">Свободен стил</string>
@@ -445,6 +446,9 @@
   <string name="min_pace">Най-ниско темпо</string>
   <string name="minimum">Минимум</string>
   <string name="minute">М</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Синхронизирането с облака е изключено</string>
+  <string name="miuix_appcompat_cloud_state_finished">Синхронизиранo с облака</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Синхронизиране с облака</string>
   <string name="model_card_setting">Настройки на картите</string>
   <string name="modify">Редактиране</string>
   <string name="modify_end_date">Променете крайната дата</string>
@@ -637,6 +641,7 @@
   <string name="sleep_detection_guide_one_title">Проследявайте съня си</string>
   <string name="sleep_detection_guide_schedule_hint_one">Без график за лягане вашите статистики няма да бъдат точни.</string>
   <string name="sleep_detection_guide_schedule_hint_two">Определете си график за лягане.</string>
+  <string name="sleep_detection_guide_schedule_hint_two_details">Препоръчва се да отидете в настройките за работа и почивка в часовника.</string>
   <string name="sleep_detection_guide_three_description">Когато е настроен графикът за лягане, сънят ви ще се проследява автоматично.</string>
   <string name="sleep_detection_guide_three_title">Автоматично генериране на статистически данни</string>
   <string name="sleep_detection_guide_two_description">За да получите точна статистика, поставете устройството си до или под възглавницата и се уверете, че не е на повече от 50 см от тялото ви.</string>
@@ -716,6 +721,7 @@
   <string name="snore_detection_guide_one_description">Звукът ще бъде записан, докато спите. Машинното обучение позволява на Xiaomi Здраве да открива хъркане, говорене и силен шум и да запазва записите на вашето устройство.</string>
   <string name="snore_detection_guide_one_title">Запис на звук чрез микрофон</string>
   <string name="snore_detection_guide_schedule_suggest">Микрофонът ще се включва и изключва в съответствие с вашия график за лягане. Задайте своя график за лягане, за да го направите&gt;</string>
+  <string name="snore_detection_guide_schedule_suggest_details">Микрофонът ще се включва и изключва в съответствие с вашия график за лягане. Препоръчва се да отидете в настройките за работа и почивка в часовника.</string>
   <string name="snore_detection_guide_three_description">Уверете се, че устройството ви е достатъчно заредено, преди да си легнете. Слабата батерия може да прекъсне записа на звука.</string>
   <string name="snore_detection_guide_three_title">Поддържайте устройството си заредено</string>
   <string name="snore_detection_guide_two_description">Микрофонът ще се включва и изключва в съответствие с вашия график за лягане.</string>
@@ -807,6 +813,7 @@
   <string name="tb_exercise_exercise_duration">Продължителност на упражнението в минути: %1$d. %2$s. Докоснете, за да видите подробности.</string>
   <string name="tb_exercise_exercise_no_data">Няма информация за продължителността на упражненията</string>
   <string name="tb_exercise_goal_info">Цел за ежедневна активност: %1$s. %2$s</string>
+  <string name="tb_exercise_home_banner">Ежедневна здравна проверка</string>
   <string name="tb_exercise_label_close">Затвори</string>
   <string name="tb_exercise_list_add">Добавете статистика на упражненията</string>
   <string name="tb_exercise_list_consume">Изгорени калории: %1$d. Крайно време: %2$s. Докоснете, за да видите подробности.</string>
@@ -902,6 +909,8 @@
   <string name="thursday_short">Чет</string>
   <string name="thursday_shortest">Ч</string>
   <string name="time_picker_dialog_title">Задайте време</string>
+  <string name="time_picker_label_hour">Ч</string>
+  <string name="time_picker_label_minute">М</string>
   <string name="tips_default">Няма данни</string>
   <string name="title_auto_run">Автоматично стартиране</string>
   <string name="title_click_record_menstruation">Запишете един цикъл</string>
@@ -939,6 +948,7 @@
   <string name="tuesday">Вторник</string>
   <string name="tuesday_short">Вто</string>
   <string name="tuesday_shortest">В</string>
+  <string name="turn_count">Включено</string>
   <string name="turn_on_necessary_permissions">За следене на съня се изискват разрешения.</string>
   <string name="unable_record_future_menstruation">Бъдещи цикли не могат да се записват.</string>
   <string name="unit_day">д</string>
@@ -946,13 +956,13 @@
   <string name="unit_kilo_calorie">\nккал</string>
   <string name="unit_kilometre">" км"</string>
   <string name="unit_metre">" м"</string>
-  <string name="unit_min">"МИН."</string>
+  <string name="unit_min">МИН.</string>
   <string name="unit_number_format">%1$d</string>
-  <string name="unit_second">"СЕК."</string>
+  <string name="unit_second">СЕК.</string>
   <string name="unit_thousand_format">%1$sК</string>
   <string name="unknown">Неизвестно</string>
   <string name="update_notify_dialog_ignore">По-късно</string>
-  <string name="update_notify_dialog_msg">Налична е актуализация: %1$s.\nКое ново:\n%2$s\nДа се обнови ли сега?</string>
+  <string name="update_notify_dialog_msg">Налична е актуализация: %1$s.\nКакво ново:\n%2$s\nДа се обнови ли сега?</string>
   <string name="update_notify_dialog_msg2">Налична е актуализация: %1$s. Актуализиране сега?</string>
   <string name="update_notify_dialog_title">Налично е обновление</string>
   <string name="update_notify_no_update_log">Тук няма все още нищо.</string>
