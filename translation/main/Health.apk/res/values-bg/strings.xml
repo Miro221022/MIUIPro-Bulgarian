@@ -255,7 +255,7 @@
   <string name="exercise_detail_no_exercise_hint">Избраният източник на данни (%1$s) не предоставя информация за продължителността на упражненията\nМожете да изберете друг източник на данни в Още&gt; Източници на данни.</string>
   <string name="exercise_detail_no_steps_hint">Избраният източник на данни (%1$s) не предоставя информация за броя на крачките.\nМожете да изберете друг източник на данни в Още&gt; Източници на данни.</string>
   <string name="exercise_duration">Продължителност на упражнението</string>
-  <string name="exercise_duration_consume">Продължителност: %1$d мин, %2$d кал</string>
+  <string name="exercise_duration_consume">Продължителност: %1$s, %2$s</string>
   <string name="exercise_goal">Цел на дейността</string>
   <string name="exercise_goal_accomplished">Целта е постигната</string>
   <string name="exercise_goal_lack_exercise">Няма достатъчно активност</string>
@@ -820,8 +820,8 @@
   <string name="tb_exercise_list_sport">%1$s. Разстояние в километри: %2$s. Крайно време: %3$s. Източник на данни: %4$s. Докоснете, за да видите подробности.</string>
   <string name="tb_exercise_list_sport_one">%1$s. Продължителност: %2$s. Крайно време: %3$s. Източник на данни: %4$s. Докоснете, за да видите подробности.</string>
   <string name="tb_exercise_list_walk">Брой крачки: %1$s. Крайно време: %2$s. Докоснете, за да видите подробности.</string>
-  <string name="tb_exercise_sport_no_distance">%1$s. Продължителност в минути: %2$d. Изгорени калории: %3$d.</string>
-  <string name="tb_exercise_sport_normal">%1$s. Разстояние в километри %2$.1f. Продължителност в минути: %3$d. Изгорени калории: %4$d.</string>
+  <string name="tb_exercise_sport_no_distance">%1$s. Продължителност %2$s. Изгорени калории: %3$s.</string>
+  <string name="tb_exercise_sport_normal">%1$s. Разстояние %2$s. Продължителност : %3$s. Изгорени калории: %4$s.</string>
   <string name="tb_exercise_sport_sum">Доклад за упражнения. %1$s. Докоснете, за да видите подробности.</string>
   <string name="tb_exercise_steps_no_data">Няма данни за крачки. Текуща цел: %1$d. Докоснете, за да видите подробности.</string>
   <string name="tb_exercise_steps_no_goal">Брой крачки: %1$d. Докоснете, за да видите подробности.</string>
