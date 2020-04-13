@@ -519,5 +519,6 @@
      <string name="productivity_move_event_failed">"Това събитие не може да се премести за dd MMMM, yyyy"</string>
      <string name="productivity_move_event_hint">Натиснете и задръжте събитие, за да го преместите на друга дата</string>
      <string name="productivity_move_event_success">Събитието е преместено за dd MMMM, yyyy</string>
-     <string name="productivity_no_event">За днес няма планирани събития</string>
+     <string name="productivity_no_event">Тук все още няма събития</string>
+	 <string name="action_text_card_manager">Канал</string>
 </resources>
