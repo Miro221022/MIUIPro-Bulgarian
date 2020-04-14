@@ -264,7 +264,7 @@
   <string name="exercise_information_label">Предоставете вашата информация, за да направите статистиката по-точна</string>
   <string name="exercise_intensity">Интензивност</string>
   <string name="exercise_no_question">Защо не можете да видите статистиката си?</string>
-  <string name="exercise_notification_content">%1$d мин.  упражнения (%2$d Кал)</string>
+  <string name="exercise_notification_content">%1$d мин.  упражнения (%2$d кал)</string>
   <string name="exercise_notification_meet_title">Днешни крачки: %d. Целта е постигната!</string>
   <string name="exercise_notification_no_meet_title">Днешни крачки: %d. Продължавайте до достигане целта!</string>
   <string name="exercise_question_answer_one">1. Някои модели устройства не са оборудвани със сензори с ниска консумация на енергия. Xiaomi Health не проследява данни за активността, за да спести батерия на следните устройства: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.\nАко вашето устройство е посочено тук, можете да добавяте източници на данни ръчно в Xiaomi Health&gt; Меню&gt; Източници на данни&gt; Добавяне на източници на данни.</string>
