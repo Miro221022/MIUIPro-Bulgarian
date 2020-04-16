@@ -498,4 +498,10 @@
     <string name="permlab_uninstall_widget">Деинсталиране на джаджи</string>
 	<string name="slide_to_open_newhome">Плъзнете нагоре, за да отворите Ценър за съдържание</string>
 	<string name="recents_exit_multi_window_mode">Изход</string>
+	<string name="accessibility_recent_task_enter">Отворени последни</string>
+    <string name="accessibility_recent_task_exit">Затворени последни</string>
+    <string name="accessibility_recent_task_locked_state">Заключен</string>
+    <string name="accessibility_recent_task_memory_info">Общо РАМ: %2$s | Налична РАМ: %1$s. Двойно почукване за почистване.</string>
+    <string name="accessibility_recent_task_unlocked_state">Отключен</string>
+    <string name="recents_incompatible_app_message">"Това приложение не поддържа разделен екран"</string>
 </resources>
