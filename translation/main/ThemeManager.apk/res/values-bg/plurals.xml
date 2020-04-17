@@ -60,4 +60,12 @@
     <item quantity="other">%1$s | %2$d изображения</item>
     <item quantity="one">%1$s | %2$d изображение</item>
   </plurals>
+       <plurals name="aod_batch_has_update_text">
+         <item quantity="one">Налична е актуализация за %1$d тема</item>
+         <item quantity="other">Наличниса актуализации за %1$d теми</item>
+     </plurals>
+     <plurals name="aod_batch_updating_text">
+         <item quantity="one">Актуализира се %1$d тема</item>
+         <item quantity="other">Актуализират се %1$d теми</item>
+     </plurals>
 </resources>

@@ -203,4 +203,7 @@
   <string name="yellow_page_sms_send_failed">Неуспешно изпращане на съобщението</string>
   <string name="yellow_page_sms_sending">Изпращане…</string>
   <string name="yellow_page_unable_send_sms">Не може да изпрати текстово съобщение</string>
+  <string name="digitaluniverse">Дигитална вселена (стерео)</string>
+  <string name="reveries">Мечти (стерео)</string>
+  <string name="atlantis">Atlantis (стерео)</string>
 </resources>
