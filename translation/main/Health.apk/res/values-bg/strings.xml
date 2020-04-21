@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Навигиране към началния екран</string>
-  <string name="abc_action_bar_up_description">Навигиране нагоре</string>
+  <string name="abc_action_bar_home_description">Придвижване към начален екран</string>
+  <string name="abc_action_bar_up_description">Придвижване нагоре</string>
   <string name="abc_action_menu_overflow_description">Още опции</string>
   <string name="abc_action_mode_done">Готово</string>
   <string name="abc_activity_chooser_view_see_all">Преглед на всички</string>
   <string name="abc_activitychooserview_choose_application">Изберете приложение</string>
   <string name="abc_capital_off">ИЗКЛ.</string>
   <string name="abc_capital_on">ВКЛ.</string>
-  <string name="abc_menu_alt_shortcut_label">Alt+</string>
-  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
-  <string name="abc_menu_enter_shortcut_label">enter</string>
-  <string name="abc_menu_function_shortcut_label">Function+</string>
-  <string name="abc_menu_meta_shortcut_label">Meta+</string>
-  <string name="abc_menu_shift_shortcut_label">Shift+</string>
-  <string name="abc_menu_space_shortcut_label">клавиша за интервал</string>
-  <string name="abc_menu_sym_shortcut_label">Sym+</string>
-  <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Търсете…</string>
+  <string name="abc_search_hint">Търсене…</string>
   <string name="abc_searchview_description_clear">Изчистване на заявката</string>
   <string name="abc_searchview_description_query">Заявка за търсене</string>
   <string name="abc_searchview_description_search">Търсене</string>
@@ -28,6 +18,8 @@
   <string name="abc_shareactionprovider_share_with_application">Споделяне със: %s</string>
   <string name="abc_toolbar_collapse_description">Свиване</string>
   <string name="abnormal">Необичайно</string>
+  <string name="achieve_goals">целта е постигната</string>
+  <string name="achieve_stand_goals">Достигнете целта за стоене</string>
   <string name="actionbar_button_up_description">Назад</string>
   <string name="activity_title_basic_info">Основна информация</string>
   <string name="activity_title_exercise">Дейност</string>
@@ -50,7 +42,9 @@
   <string name="add_record">Добави</string>
   <string name="added_data_source">Добавени източници</string>
   <string name="all_records">Всички записи</string>
+  <string name="allow_notice_periods">Разреши напомняне за цикъл</string>
   <string name="altitude">Надморска височина</string>
+  <string name="audio_record_perm_description">Записвайте хъркането и мечтите си по време на сън</string>
   <string name="audio_record_permission_description">За запис на говорене и хъркане, докато анализирате цикъла си на съня</string>
   <string name="auth_description">Разрешете на %1$s да синхронизира на данни от следните устройства</string>
   <string name="auto_start_fail">Неуспешно даване на разрешение</string>
@@ -60,6 +54,7 @@
   <string name="average_menstruation_days">Средна продължителност на цикъла</string>
   <string name="avg_altitude">Ср. надморска височина</string>
   <string name="avg_day">Средно</string>
+  <string name="avg_finish_stand">Среднодневно стоене</string>
   <string name="avg_heart_rate">Средна сърдечна честота</string>
   <string name="avg_steps">Крачки за деня</string>
   <string name="awake_count">Събуждания</string>
@@ -123,13 +118,18 @@
   <string name="clear">Изчисти</string>
   <string name="clear_text_end_icon_content_description">Изчистване на текста</string>
   <string name="clearable_edittext_clear_description">Изчисти</string>
+  <string name="click_finish_stand">Кликнете, за да завършите стоенето</string>
   <string name="climb">Изкачване на стълби</string>
   <string name="climbing">Изкачване</string>
   <string name="close">Изключи</string>
   <string name="close_once">Изключи веднъж</string>
+  <string name="close_stand_detection_tip">Напомнянето за стоене е изключено, не пропускайте да стоите и записвате след включване</string>
+  <string name="close_stand_notice_and_detection_tip">Откриването на стоене и напомнянето са изключени</string>
+  <string name="close_stand_notice_tip">Откриването на стоене е изключено, автоматичното откриване след отваряне е по-лесно</string>
   <string name="collect_diagnosis_log">Получаване на диагностичен отчет</string>
   <string name="complete_preference_basic_info">Завършете профила си</string>
   <string name="completed">Завършено</string>
+  <string name="completed_stand">Завършено стоене</string>
   <string name="copy">Копирай</string>
   <string name="copy_done">Копирането е успешно</string>
   <string name="copyright_statement">Авторско право © Xiaomi Inc. Всички права запазени.</string>
@@ -144,6 +144,7 @@
   <string name="data">Данни</string>
   <string name="data_account_info_loading">Получаване на информация за профила…</string>
   <string name="data_delete_tip">Изтриване на данните за здравето от това устройство…</string>
+  <string name="data_details">Подробности за данните</string>
   <string name="data_empty">Няма данни</string>
   <string name="data_safety_tip_details">Вашите данни за здравословното състояние ще се съхраняват на това устройство, след като се отпишете. Можете да ги изтриете в Здраве&gt; Източници на данни.</string>
   <string name="data_safety_tip_details2">Някои от вашите данни за здравословно състояние бяха качени в облака. Можете да изберете да ги запазите на това устройство или да ги изтриете. Избирането на \"Изтриване\" по-долу ще изтрие само данните от това устройство, синхронизираните елементи ще се съхраняват в облака.\nАко решите да изтриете данните, след като сте решили да ги запазите, можете да го направите в Здраве&gt; Източници на данни.</string>
@@ -153,6 +154,7 @@
   <string name="data_source_list_description">Mi Здраве получава данни за здравословното състояние (%1$s) от тези източници. Ако данните са дублирани в няколко източника, ще видите данните от източниците, които се появяват първо в списъка в Mi Здраве.</string>
   <string name="data_source_manage">Управление на източниците на данни</string>
   <string name="data_source_not_support_hm_description">%1$s не предоставя подробен брой крачки. Можете да опитате да преминете към други източници на данни в Още &gt; Източници на данни.</string>
+  <string name="date">Дата</string>
   <string name="date_format_m_d">d/M</string>
   <string name="date_format_m_d_2">dd/MM</string>
   <string name="date_format_m_d_3">dd/MM</string>
@@ -183,6 +185,7 @@
   <string name="delete_all_data_sources_description">Да се изтрият ли всички добавени източници на данни?</string>
   <string name="delete_menstruation_record_confirm">Да се изтрие ли този запис?</string>
   <string name="delete_origin_data_description">Изтриване на всички данни, генерирани от %1$s?</string>
+  <string name="delete_record">Изтриване на записа</string>
   <string name="description">Подробности</string>
   <string name="detection_stop">Тази сесия ще приключи, когато се събудите</string>
   <string name="device_data_manage">Управление на устройства</string>
@@ -233,6 +236,7 @@
   <string name="dialog_sleep_record_auto_start">За да проследите по-точно съня, разрешете на Mi Здраве да стартира автоматично.</string>
   <string name="dialog_sure">OК</string>
   <string name="dialog_user_agreement_purpose">Добре дошли в Mi Здраве! Можете да използвате това приложение за броене на крачки, проследяване на съня, цикъл и тегло, както и получаване на здравни съвети.</string>
+  <string name="dialog_user_agreement_purpose2">Добре дошли в Xiaomi Здраве, можете да използвате това приложение за спортен педометър, сън, запис на менструция, проследяване на теглото, Xiaomi Health Cloud услуга и други функции.</string>
   <string name="disable">Изключено</string>
   <string name="drag_sort">Пренареждане</string>
   <string name="dream_talk">Говорене %1$s</string>
@@ -409,6 +413,7 @@
   <string name="manual_page_label_body_weight_select">Изберете тегло</string>
   <string name="manual_page_label_measure_date">Час за претегляне</string>
   <string name="manual_page_measure_date_title">Дата и час</string>
+  <string name="manual_record">Ръчен запис</string>
   <string name="mark_end">Край</string>
   <string name="mark_start">Начало</string>
   <string name="max_altitude">Най-голяма надморска височина</string>
@@ -515,6 +520,7 @@
   <string name="no_records">Тук все още няма нищо.</string>
   <string name="no_snore">Не сте хъркали и говорили в съня си</string>
   <string name="normal">Нормално</string>
+  <string name="not_achieve_stand_goals">Целта за стоене не е постигната</string>
   <string name="not_added">Не е добавено</string>
   <string name="not_open_auto_sync">Синхронизирането е изключено</string>
   <string name="not_set">Не е зададено</string>
@@ -522,9 +528,11 @@
   <string name="not_up_to_standard">Под стандарт</string>
   <string name="open">Включи</string>
   <string name="open_data_sync_description">Включете синхронизирането с облака, за да синхронизирате здравни данни от други източници.</string>
+  <string name="open_stand_assistant">Кликнете, за да отворите асистента за стоене</string>
   <string name="open_swimming">Плуване в открити води</string>
   <string name="open_sync">Включи синхронизация</string>
   <string name="open_unrestricted_permissions">За по-точно следене на съня разрешете на Mi Здраве винаги да работи във фонов режим.</string>
+  <string name="origin">Произход</string>
   <string name="other_can_add_data_source">Налични източници</string>
   <string name="outdoor_riding">Външен цикъл</string>
   <string name="outdoor_running">Бягане</string>
@@ -538,6 +546,7 @@
   <string name="permission_check_result_failed">Не може да се зададе</string>
   <string name="permission_manage">Управление на разрешенията</string>
   <string name="permission_tip">Дайте на Mi Здраве следните разрешения, за да му разрешите да следи съня ви прецизно.</string>
+  <string name="phone_detection">Откриване на телефона</string>
   <string name="picker_day">Избран ден: %1$d. Плъзнете вертикално, за да изберете.</string>
   <string name="picker_month">Избран месец: %1$d. Плъзнете вертикално, за да изберете.</string>
   <string name="picker_year">Избрана година: %1$d. Плъзнете вертикално, за да изберете.</string>
@@ -610,6 +619,7 @@
   <string name="sedentary_time_is_too_long">Време е за движение! Пийте малко вода и се разходете.</string>
   <string name="sedentary_title">Напомняне за движение</string>
   <string name="sedentary_toggle_content">Mi Здраве ще ви напомня да станете и да се разходите, ако не сте извършвали никаква дейност за продължителен период от време.</string>
+  <string name="sedentaty_hazard_description">Заседналият начин на живот предизвиква много здравословни проблеми. Останете прави поне 1 минута на час и достигнете целта от 12 часа разходки на ден, далеч от заседналия начин на живот.</string>
   <string name="select_menstruation_end_date">Изберете крайната дата на този цикъл</string>
   <string name="select_null">Не е избрано</string>
   <string name="select_target">Изберете цел</string>
@@ -742,6 +752,21 @@
   <string name="snore_write_description">За запазване на звукови записи на вашето устройство</string>
   <string name="solar_term_winter_solstice">Зимното слънцестоене</string>
   <string name="sport_type">Тип тренировка</string>
+  <string name="stand">Стоене</string>
+  <string name="stand_assistant">Асистент за стоене</string>
+  <string name="stand_detection">Откриване на стоене</string>
+  <string name="stand_guide_page_title1">Постигайте целта за стоене всеки ден и се пазете от опасностите на заседналия начин на жовот</string>
+  <string name="stand_guide_page_title2">Автоматично откриване, запис и напомняне за стоене</string>
+  <string name="stand_notice">Известие за стоене</string>
+  <string name="stand_notice_subtitle1">%1$s-%2$s не откри стоене, ако то вече стоите, щракнете върху Готово</string>
+  <string name="stand_notice_subtitle2">Ако вече стоите, моля, докоснете, за да завършите. Не сте се изправили и протегнали.</string>
+  <string name="stand_notice_title1">Станете и станете активни!</string>
+  <string name="stand_notice_title2">Известие за стоене</string>
+  <string name="stand_notice_title3">Седите твърде много време</string>
+  <string name="stand_notice_title4">Изправете се и се протегнете</string>
+  <string name="stand_notice_title5">Няма открито стоене почти 1 час</string>
+  <string name="stand_notice_title6">Има ли някаква постоянна дейност през последния час?</string>
+  <string name="stand_setting">Настройка на стоене</string>
   <string name="standard_format">(стандарт: %1s)</string>
   <string name="state_agree">Приемам</string>
   <string name="state_auto_run_disenable">Изключено</string>
@@ -750,7 +775,7 @@
   <string name="state_disagree2">Не приемам</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stub_string">-</string>
-  <string name="subtitle_be_ready">Бъдете готова</string>
+  <string name="subtitle_be_ready">Бъдете готови</string>
   <string name="subtitle_exercise_and_sleep">Бъдете физически активни и спете достатъчно.</string>
   <string name="subtitle_get_health_advice">Получавайте точни статистически данни и съвети за здравето въз основа на данните, които предоставяте</string>
   <string name="subtitle_keep_warm">Обличайте се топло и спазвайте диетата си</string>
@@ -783,6 +808,7 @@
   <string name="sync_status_never_done">Не е синхронизирано</string>
   <string name="tb_audio_progress_bar">Лента за възпроизвеждане на звук</string>
   <string name="tb_card_on_using_list">Добавено</string>
+  <string name="tb_click_finish_stand">Незавършено стоене в продължение на близо 1 час, щракнете, за да завършите стоенето</string>
   <string name="tb_current_select">%1$s в момента е избрано</string>
   <string name="tb_date_label_info">%1$s в момента е избрано. Докоснете, за да промените датата.</string>
   <string name="tb_deep_light_detection_main">Относно анализа на цикъла на съня: %1$s. Плъзнете хоризонтално в горната част на екрана, за да преминете към следващата страница.</string>
@@ -885,6 +911,12 @@
   <string name="tb_sleep_ring_info">%1$s. Сън: %2$s. Докоснете, за да видите подробности.</string>
   <string name="tb_snore_detection_main">Относно функциите, свързани с говоренето и хъркането: %1%s. Плъзнете хоризонтално в горната част на екрана, за да преминете към следващата страница.</string>
   <string name="tb_snore_view_info">Графика за говорене и хъркане</string>
+  <string name="tb_stand_card_finish_stand">Днес,постигнахте %1$s стоене, целта е да завършите стоенето след 12 часа, текущото време е %2$s-%3$s, стоенето е завършено</string>
+  <string name="tb_stand_card_not_finish_stand">Днес,постигнахте %1$s стоене, целта е да завършите стоенето след 12 часа, текущото време е %2$s-%3$s, и стоенето не е завършено</string>
+  <string name="tb_stand_day_column_click">%1$s-%2$s завърши стоенето, от %3$s</string>
+  <string name="tb_stand_day_ring">Днес,%1$s са натрупани до пълното стоене, целта е да завършите стоенето след 12 часа</string>
+  <string name="tb_stand_wm_column_chart">%1$s-%2$s，Статистика за целта на стоене, плъзнете наляво и надясно, за да промените времевия диапазон, кликнете върху колоната, за да видите подробности</string>
+  <string name="tb_stand_wm_column_click">%1$s，стоене%2$d，%3$s</string>
   <string name="tb_user_account_signed">Ми профил: %1$s.</string>
   <string name="tb_user_account_unsigned">Докоснете, за да влезете в Mi профила си</string>
   <string name="tb_user_sleep_card_info">Цел за ежедневен сън: %1$s.</string>
@@ -982,6 +1014,7 @@
   <string name="weight_trend_offset_date">От %1$s до %2$s:</string>
   <string name="weight_unit_kg">кг</string>
   <string name="well">Добре</string>
+  <string name="write_strorage_perm_description">Запишете проблемите, които сте срещнали при използването</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sБ</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Свързването на мениджъра за изтегляне не бе успешно, моля проверете състоянието му в Управление на приложенията</string>
   <string name="xiaomi_update_sdk_dialog_message">Представяне на версия %1$s\nРазмер: %2$s</string>
