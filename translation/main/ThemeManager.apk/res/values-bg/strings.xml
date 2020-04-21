@@ -878,4 +878,8 @@
      <string name="theme_preview">Преглед на темата</string>
      <string name="v7_preference_off">ИЗКЛ.</string>
      <string name="v7_preference_on">ВКЛ.</string>
+	 <string name="system_cta_agree_desc">Разрешаване на това приложение да се свърже с интернет и да предостави задължителните разрешения, изброени по-горе.</string>
+     <string name="system_cta_all_purpose">Добре дошли в Теми! Можете да използвате това приложение за управление на вашите теми, тапети, мелодии и шрифтове.</string>
+	 <string name="system_cta_runtime_perm_desc_read_phone_state">Достъп до идентификационния номер на устройството, за идентифициране на устройството</string>
+     <string name="system_cta_runtime_perm_desc_storage">За съхранение на запазени теми и други елементи</string>
 </resources>

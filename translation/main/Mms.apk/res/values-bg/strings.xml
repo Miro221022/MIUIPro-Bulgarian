@@ -1042,4 +1042,19 @@
      <string name="private_entry_default">Плъзнете надолу, за да отворите поверителна папка</string>
      <string name="recent_label">Последни контакти</string>
      <string name="release_end">Пуснете за спиране</string>
+	 <string name="copy">Копирай</string>
+     <string name="expand_button_title">Разширени</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завършено</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">няма данни</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
+     <string name="not_set">Не е зададено</string>
+     <string name="preference_copied">\"%1$s\" е копиано в буферната памет.</string>
+     <string name="system_permission_declare_privacy_declare_new">Това приложение трябва да се свърже с интернет и изисква следните разрешения, за да може да работи нормално:</string>
+     <string name="v7_preference_off">ИЗКЛ.</string>
+     <string name="v7_preference_on">ВКЛ.</string>
 </resources>
