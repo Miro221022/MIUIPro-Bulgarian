@@ -68,4 +68,17 @@
          <item quantity="one">Актуализира се %1$d тема</item>
          <item quantity="other">Актуализират се %1$d теми</item>
      </plurals>
+	      <plurals name="de_icon_count">
+         <item quantity="one">%1$d икона</item>
+         <item quantity="other">%1$d икони</item>
+     </plurals>
+     </plurals>
+     <plurals name="icon_batch_has_update_text">
+         <item quantity="one">Налични са актуализации за %1$d икона</item>
+         <item quantity="other">Налични са актуализации за %1$d икони</item>
+     </plurals>
+     <plurals name="icon_batch_updating_text">
+         <item quantity="one">Актуализира се %1$d икона…</item>
+         <item quantity="other">Актуализират се %1$d икони…</item>
+     </plurals>
 </resources>

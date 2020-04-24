@@ -822,9 +822,9 @@
      <string name="search_price_name">"Цена: "</string>
      <string name="search_price_no_limit">Неограничено</string>
      <string name="search_sort_name">Сортиране</string>
-     <string name="search_sort_news">Ново</string>
+     <string name="search_sort_news">Първо новите</string>
      <string name="search_sort_synthesize">Основни</string>
-     <string name="search_sort_top">Популярни</string>
+     <string name="search_sort_top">Първо полулярните</string>
      <string name="theme_settings_title">Теми</string>
      <string name="theme_share_app_name">Mi Теми</string>
      <string name="title_my_wallpaper">Моите тапети</string>
@@ -882,4 +882,23 @@
      <string name="system_cta_all_purpose">Добре дошли в Теми! Можете да използвате това приложение за управление на вашите теми, тапети, мелодии и шрифтове.</string>
 	 <string name="system_cta_runtime_perm_desc_read_phone_state">Достъп до идентификационния номер на устройството, за идентифициране на устройството</string>
      <string name="system_cta_runtime_perm_desc_storage">За съхранение на запазени теми и други елементи</string>
+	 <string name="community_cta_dialog_cancel">Отказ</string>
+     <string name="community_cta_dialog_des">Тази тема съдържа пряк път за часовника, който показва идентификационния номер на вашия акаунт и състоянието на Mi Community. Можете да изключите тази функция, като превключите към друга тема или премахнете джаджата за часовник.</string>
+     <string name="community_cta_dialog_ok">Разбрах</string>
+     <string name="community_cta_dialog_title">Пряк път на часовника</string>
+     <string name="de_apply_icons">Икони на приложениата</string>
+     <string name="de_apply_icons_and_wallpaper">Икони на приложенията и тапети</string>
+     <string name="de_icon_text_discuss">Обсъждане</string>
+     <string name="de_resource_author">Автор (%1$s)</string>
+     <string name="has_mamual_hide_icons">Скрити икони</string>
+     <string name="hide_free_icons">"Не показвай безплатни икони"</string>
+     <string name="hide_free_miwallpaper">"Не показвай безплатни ефекти за началния екран"</string>
+     <string name="hide_mamual_hide_icons">"Не показвай ръчно скрити икони"</string>
+     <string name="hide_mamual_hide_miwallpaper">"Не показвай скрити ефекти за началния екран"</string>
+     <string name="show_free_icons">Показване на безплатни икони</string>
+     <string name="show_free_miwallpaper">Показване на безплатни ефекти за началния екран</string>
+     <string name="show_mamual_hide_icons">Показване на ръчно скрити икони</string>
+     <string name="show_mamual_hide_miwallpaper">Показване на скрити ефекти за началния екран</string>
+     <string name="theme_community">Общност</string>
+     <string name="update_community_tip">Актуализирайте Mi Community, за да можете да използвате тази функция</string>
 </resources>
