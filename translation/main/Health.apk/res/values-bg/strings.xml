@@ -44,6 +44,8 @@
   <string name="all_records">Всички записи</string>
   <string name="allow_notice_periods">Разреши напомняне за цикъл</string>
   <string name="altitude">Надморска височина</string>
+  <string name="audio_permission_dialog_desc">Разрешението за аудио запис е затворено, моля, отворете го.</string>
+  <string name="audio_permission_dialog_title">Дайте разрешение за запис на звук</string>
   <string name="audio_record_perm_description">Записвайте хъркането и мечтите си по време на сън</string>
   <string name="audio_record_permission_description">За запис на говорене и хъркане, докато анализирате цикъла си на съня</string>
   <string name="auth_description">Разрешете на %1$s да синхронизира на данни от следните устройства</string>
@@ -126,6 +128,7 @@
   <string name="close_stand_detection_tip">Напомнянето за стоене е изключено, не пропускайте да стоите и записвате след включване</string>
   <string name="close_stand_notice_and_detection_tip">Откриването на стоене и напомнянето са изключени</string>
   <string name="close_stand_notice_tip">Откриването на стоене е изключено, автоматичното откриване след отваряне е по-лесно</string>
+  <string name="collapse">Скрий</string>
   <string name="collect_diagnosis_log">Получаване на диагностичен отчет</string>
   <string name="complete_preference_basic_info">Завършете профила си</string>
   <string name="completed">Завършено</string>
@@ -247,6 +250,9 @@
   <string name="edit_basic_info_desc">Основна информация</string>
   <string name="edit_sleep_record_button">Редактиране</string>
   <string name="enable">Включено</string>
+  <string name="enable_go_now">Включи</string>
+  <string name="enable_not_now">Изключи</string>
+  <string name="enable_right_now">Включи</string>
   <string name="enough">Достатъчно</string>
   <string name="enter_mi_health">Отворете Mi Здраве</string>
   <string name="equivalent_exercise">≈%1$s км пеша (%2$s ккал)</string>
@@ -267,6 +273,8 @@
   <string name="exercise_info_tool_bar_title">Активност</string>
   <string name="exercise_information_label">Предоставете вашата информация, за да направите статистиката по-точна</string>
   <string name="exercise_intensity">Интензивност</string>
+  <string name="exercise_motor_perception">Проследявайте тренировките автоматично</string>
+  <string name="exercise_motor_perception_description">Носете устройството си с вас през целия ден, за да проследявате тренировките автоматично</string>
   <string name="exercise_no_question">Защо не можете да видите статистиката си?</string>
   <string name="exercise_notification_content">%1$d мин.  упражнения (%2$d кал)</string>
   <string name="exercise_notification_meet_title">Днешни крачки: %d. Целта е постигната!</string>
@@ -275,6 +283,7 @@
   <string name="exercise_question_answer_two">2. Понякога сензорите за движение може да не отчитат. Рестартирайте телефона си и проверете дали проследяването започва нормално в такива случаи.</string>
   <string name="exercise_question_title">Защо не можете да видите статистиката си?</string>
   <string name="exercise_record">История на тренировките</string>
+  <string name="exercise_record_no_data">Тук все още няма елементи</string>
   <string name="exercise_reminder_accomplished">Вие постигнахте своята цел за активност!</string>
   <string name="exercise_reminder_title">Напомняне за активност</string>
   <string name="exercise_reminder_unaccomplished">Не сте постигнали целта си. Не спирайте!</string>
@@ -283,6 +292,7 @@
   <string name="exercise_strokes">Брой на ударите</string>
   <string name="exercise_sum">Доклад за дейността</string>
   <string name="exercise_walk_description">Според диетичните насоки за жителите на Китай, активната физическа активност трябва да продължи поне 40 минути на ден, което е еквивалентно на изминзването на 6000 крачки. Стъпките, които предприемате всеки ден, за да ходите, да бягате и изкчаване на стълби са обобщени тук.</string>
+  <string name="expand_all">Покажи всички</string>
   <string name="expand_button_title">Разширени</string>
   <string name="exposed_dropdown_menu_content_description">Показване на падащото меню</string>
   <string name="fall_sleep_hard">Проблеми със заспиването</string>
@@ -519,11 +529,13 @@
   <string name="no_data">Няма данни</string>
   <string name="no_records">Тук все още няма нищо.</string>
   <string name="no_snore">Не сте хъркали и говорили в съня си</string>
+  <string name="no_snore_1">Не сте хъркали и говорили в съня си</string>
   <string name="normal">Нормално</string>
   <string name="not_achieve_stand_goals">Целта за стоене не е постигната</string>
   <string name="not_added">Не е добавено</string>
   <string name="not_open_auto_sync">Синхронизирането е изключено</string>
   <string name="not_set">Не е зададено</string>
+  <string name="not_standing">Не стойте</string>
   <string name="not_support_step">Вашето устройство не може да брои крачки</string>
   <string name="not_up_to_standard">Под стандарт</string>
   <string name="open">Включи</string>
@@ -706,7 +718,14 @@
   <string name="sleep_service">Услуга за следене на съня</string>
   <string name="sleep_service_background_running">Услугата за следене на съня работи във фонов режим.</string>
   <string name="sleep_setting_title">Настройки за сън</string>
+  <string name="sleep_snore_audio_auto">Проследяване на звуците ви</string>
+  <string name="sleep_snore_audio_auto_desc">Записвайте вашите разговори, когато спите и съхранявайте файла в телефона си, за да защитите поверителността си.</string>
+  <string name="sleep_snore_audio_close_desc">Можете да го деактивирате в настройките за сън.</string>
+  <string name="sleep_snore_audio_enable">Разпознаванията са активирани</string>
+  <string name="sleep_snore_audio_enable_desc">Тази вечер сънят ви ще бъде проследен автоматично.</string>
+  <string name="sleep_snore_audio_hight_power_desc">Уверете се, че устройството ви е достатъчно заредено, преди да си легнете.</string>
   <string name="sleep_snore_detection">Откриване на хъркане и говорене</string>
+  <string name="sleep_snore_detection_desc">Проследявайте съня си</string>
   <string name="sleep_sober">Събуждане</string>
   <string name="sleep_sober_times_title">Събуждане</string>
   <string name="sleep_status">Статус на съня</string>
@@ -746,6 +765,8 @@
   <string name="snore_detection_stop_pop_title">Край на сесията сега?</string>
   <string name="snore_detection_stopped_notification_title">Спряно е откриването на хъркане и говорене</string>
   <string name="snore_dream_talk">Хъркане и говорене</string>
+  <string name="snore_duration_label">Продължителност на хъркането</string>
+  <string name="snore_label">Хъркане</string>
   <string name="snore_record_audio_delete_message">Този запис се съхранява само на вашето устройство. Няма да можете да го възстановите, ако го изтриете. Изтриване въпреки това?</string>
   <string name="snore_record_audio_delete_title">Да се ​​изтрие ли записа?</string>
   <string name="snore_section">Хъркане %1$s</string>
@@ -901,6 +922,8 @@
   <string name="tb_picker_sleep_goal">Избрана цел за сън: %1$s. Плъзнете вертикално, за да изберете цел.</string>
   <string name="tb_picker_weight">Избрано тегло: %1$s. Плъзнете вертикално, за да изберете тегло.</string>
   <string name="tb_picker_year">Избрана година: %1$d. Плъзнете вертикално, за да изберете година.</string>
+  <string name="tb_play_next">Следващ звук</string>
+  <string name="tb_play_previous">Предишен звук</string>
   <string name="tb_select_a_column">Избрано %1$s</string>
   <string name="tb_show_sleep_info">Показване на статистики за съня за %1$s</string>
   <string name="tb_sleep_evaluation">Прогнозен резултат: %1$s</string>
@@ -940,6 +963,7 @@
   <string name="thursday">Четвъртък</string>
   <string name="thursday_short">Чет</string>
   <string name="thursday_shortest">Ч</string>
+  <string name="time">Време</string>
   <string name="time_picker_dialog_title">Задайте време</string>
   <string name="time_picker_label_hour">Ч</string>
   <string name="time_picker_label_minute">М</string>

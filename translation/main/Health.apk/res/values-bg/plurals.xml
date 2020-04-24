@@ -57,6 +57,10 @@
     <item quantity="other">%1$d записа</item>
     <item quantity="one">%1$d запис</item>
   </plurals>
+  <plurals name="dream_talk_segment_unit">
+    <item quantity="other">записа</item>
+    <item quantity="one">запис</item>
+  </plurals>
   <plurals name="goal_format_with_unit">
     <item quantity="other">Цел: %1$d крачки</item>
     <item quantity="one">Цел: %1$d крачка</item>
