@@ -44,7 +44,8 @@
   <string name="all_records">Всички записи</string>
   <string name="allow_notice_periods">Разреши напомняне за цикъл</string>
   <string name="altitude">Надморска височина</string>
-  <string name="audio_permission_dialog_desc">Разрешението за аудио запис е затворено, моля, отворете го.</string>
+  <string name="altitude_range">Надморска височина</string>
+  <string name="audio_permission_dialog_desc">За да анализира вашия цикъл на сън и да записва говорене и хъркане, Xiaomi Здраве се нуждае от разрешение за запис на звук.</string>
   <string name="audio_permission_dialog_title">Дайте разрешение за запис на звук</string>
   <string name="audio_record_perm_description">Записвайте хъркането и мечтите си по време на сън</string>
   <string name="audio_record_permission_description">За запис на говорене и хъркане, докато анализирате цикъла си на съня</string>
@@ -133,9 +134,11 @@
   <string name="complete_preference_basic_info">Завършете профила си</string>
   <string name="completed">Завършено</string>
   <string name="completed_stand">Завършено стоене</string>
+  <string name="confirm_opening">Включи</string>
   <string name="copy">Копирай</string>
   <string name="copy_done">Копирането е успешно</string>
   <string name="copyright_statement">Авторско право © Xiaomi Inc. Всички права запазени.</string>
+  <string name="cousume_unit_float_format">%1$.2f кал</string>
   <string name="cross_hiking">Туризъм</string>
   <string name="cumulative_decline">Загуба на височина</string>
   <string name="cumulative_rise">Промяна на височината</string>
@@ -161,6 +164,7 @@
   <string name="date_format_m_d">d/M</string>
   <string name="date_format_m_d_2">dd/MM</string>
   <string name="date_format_m_d_3">dd/MM</string>
+  <string name="date_format_m_d_h_m">dd-MM HH:mm</string>
   <string name="date_format_mm_dd">dd MMM</string>
   <string name="date_format_mm_dd_2">dd/MM</string>
   <string name="date_format_y_m">MMM yyyy</string>
@@ -172,6 +176,7 @@
   <string name="date_format_y_m_d_h_m_4">dd/MM/yyyy HH:mm:ss</string>
   <string name="date_format_y_m_d_h_m_s">dd/MM/yyy HH:mm:ss</string>
   <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
+  <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
   <string name="date_picker_lunar">Лунен календар</string>
   <string name="date_week_index">Седмица ww, yyyy г.</string>
   <string name="day">д</string>
@@ -233,6 +238,7 @@
   <string name="dialog_privacy_policy_statement">Изложение на политиката за поверителност</string>
   <string name="dialog_privacy_title">Условия за ползване</string>
   <string name="dialog_read_phone_perm_desc">За достъп до идентификационния номер на устройството за идентифициране на вашето устройство.</string>
+  <string name="dialog_request_network">Разреши на приложнието връзка с интернет.</string>
   <string name="dialog_sleep_goal_setting">Задайте цел за продължителност на съня</string>
   <string name="dialog_sleep_goal_subtitle">Получавайте 7-9 часа сън всеки ден</string>
   <string name="dialog_sleep_goal_title">Цел за продължителност на съня</string>
@@ -305,6 +311,7 @@
   <string name="feedback_permission_denied_msg">Mi Здраве не може да записва дневниците на картата памет. Дайте на Mi Здраве необходимите разрешения в настройките.</string>
   <string name="fewer">Малко</string>
   <string name="finish">Готово</string>
+  <string name="finish_stand">Да</string>
   <string name="finished_rate">Завършено %1$d%%</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
@@ -330,6 +337,7 @@
   <string name="getUp_time_late_description">Станахте късно. Прекомерното спане не носи съществени ползи за вашето здраве.</string>
   <string name="getUp_time_normal_description">Станахте навреме. Продължавай така!</string>
   <string name="go_back_to_today">Обратно към днес</string>
+  <string name="go_on">Продължи</string>
   <string name="go_open_sleep_detector">Начало</string>
   <string name="go_setting">Настройки</string>
   <string name="go_to_open">Включи</string>
@@ -338,6 +346,9 @@
   <string name="goal_title">Бъдете здрави</string>
   <string name="goto_setting_auto_start">Настройки</string>
   <string name="guide_data_cloud_sync_tip">Можете да изключите синхронизирането в Настройки &gt; Облачни услуги.</string>
+  <string name="guide_exit">Изход от Xiaomi Здраве</string>
+  <string name="guide_exit_description">Не можем да предоставим услуги на хора, които все още не са навършили 14 години. Уверете се, че използвате това устройство с разрешението на вашия законен настойник. Докоснете бутона по-долу, за да излезете от приложението.</string>
+  <string name="guide_exit_title">Можете да започнете да използвате Xiaomi Здраве след като навършите 14 години</string>
   <string name="guide_local_data_sync_subtitle">Крачки, сън, тегло и цикли</string>
   <string name="guide_local_data_sync_title">Качване на данни от това устройство</string>
   <string name="guide_other_data_sync_subtitle">Телефони, гривни, везни и други устройства</string>
@@ -464,6 +475,14 @@
   <string name="miuix_appcompat_cloud_state_disabled">Синхронизирането с облака е изключено</string>
   <string name="miuix_appcompat_cloud_state_finished">Синхронизиранo с облака</string>
   <string name="miuix_appcompat_cloud_state_syncing">Синхронизиране с облака</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завършено</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">няма данни</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
   <string name="model_card_setting">Настройки на картите</string>
   <string name="modify">Редактиране</string>
   <string name="modify_end_date">Променете крайната дата</string>
@@ -554,6 +573,7 @@
   <string name="password_toggle_content_description">Показване на паролата</string>
   <string name="pause">Пауза</string>
   <string name="per_time_minutes">%d на минута</string>
+  <string name="per_time_minutes1">" в минута"</string>
   <string name="permission_check_result">Настроено успешно</string>
   <string name="permission_check_result_failed">Не може да се зададе</string>
   <string name="permission_manage">Управление на разрешенията</string>
@@ -631,7 +651,7 @@
   <string name="sedentary_time_is_too_long">Време е за движение! Пийте малко вода и се разходете.</string>
   <string name="sedentary_title">Напомняне за движение</string>
   <string name="sedentary_toggle_content">Mi Здраве ще ви напомня да станете и да се разходите, ако не сте извършвали никаква дейност за продължителен период от време.</string>
-  <string name="sedentaty_hazard_description">Заседналият начин на живот предизвиква много здравословни проблеми. Останете прави поне 1 минута на час и достигнете целта от 12 часа разходки на ден, далеч от заседналия начин на живот.</string>
+  <string name="sedentaty_hazard_description">"Седенето не е от полза за вашето здраве. 12 часа движение с почивки всеки ден ще ви помогнат да избегнете рисковете от заседнал начин на живот."</string>
   <string name="select_menstruation_end_date">Изберете крайната дата на този цикъл</string>
   <string name="select_null">Не е избрано</string>
   <string name="select_target">Изберете цел</string>
@@ -653,6 +673,8 @@
   <string name="sleep_deep">Дълбок сън</string>
   <string name="sleep_deep_light_analysis">Лек сън и дълбок сън</string>
   <string name="sleep_deep_light_close_tip">Анализът на дълбок сън е изключен</string>
+  <string name="sleep_deep_light_no_data">Няма запис на дълбок сън</string>
+  <string name="sleep_deep_light_no_data_improvement">Функциите за дълбок и лек сън не са абсолютно точни и ще бъдат положени усилия за оптимизиране на алгоритъма.</string>
   <string name="sleep_detection_enable">Анализ на цикъла на съня</string>
   <string name="sleep_detection_feedback">Обратна връзка</string>
   <string name="sleep_detection_guide_four_description">Проследяването на съня ще изразходва около 1% от батерията дневно.</string>
@@ -672,7 +694,9 @@
   <string name="sleep_detection_question_four_answer">Различните видове мобилни устройства са оборудвани с различни сензори. Стойностите на консумацията на енергия могат да варират за различните хардуерни елементи.</string>
   <string name="sleep_detection_question_four_title">Защо различните устройства консумират различни количества енергия за проследяване на съня?</string>
   <string name="sleep_detection_question_one_answer">Когато устройството ви е изключено, рестартирано или батерията е изтощена, проследяването на съня ще бъде прекъснато, защото сензорите не могат да събират и анализират данни. В такива случаи статистиката за съня ще изглежда непълна.\nАко този проблем се появява често, проверявайте устройството си за планирани задачи за изключване или през нощта за актуализации на системата.</string>
+  <string name="sleep_detection_question_one_answer_1">Анализът на дълбок и лек сън разчита на данните за движението на тялото, събрани от сензори за мобилния телефон. Следните условия могат да доведат до липса на резултати от анализа на дълбок и лек сън:\n1. Провал в събирането на данни. Събирането и изчисляването на данни може да не се извършва обикновено поради изключване на мобилния телефон или недостатъчно заряд на батерията по време на сън\n2. Анализът на данните не бе успешен. Може да се окаже, че мобилният телефон е поставен далеч от тялото или е неподвижен, което води до малко събрана информация и характеристиките на дълбокия и лек сън не могат да бъдат анализирани временно. Ще продължим да оптимизираме алгоритъма.</string>
   <string name="sleep_detection_question_one_title">Защо статистиките ми са непълни?</string>
+  <string name="sleep_detection_question_one_title_1">Защо не е записан лек и дълбок сън?</string>
   <string name="sleep_detection_question_three_answer">Вашето устройство проследява движението на тялото ви по време на сън, използвайки вградени сензори. За да направите статистиката по-точна, поставете устройството на мека повърхност близо до тялото си. Избягвайте да го поставяте на нощни шкафчета или твърде далеч от матрака.</string>
   <string name="sleep_detection_question_three_title">Как мога да направя статистиката си по-точна?</string>
   <string name="sleep_detection_question_two_answer">Вашите цикли на сън се анализират на устройството локално. Проследяването на съня ще работи дори когато не сте свързани към мрежата или ако текущата ви връзка е прекъсната.</string>
@@ -789,6 +813,7 @@
   <string name="stand_notice_title6">Има ли някаква постоянна дейност през последния час?</string>
   <string name="stand_setting">Настройка на стоене</string>
   <string name="standard_format">(стандарт: %1s)</string>
+  <string name="standing_already">" Стоите"</string>
   <string name="state_agree">Приемам</string>
   <string name="state_auto_run_disenable">Изключено</string>
   <string name="state_auto_run_enable">Включено</string>
@@ -867,8 +892,6 @@
   <string name="tb_exercise_list_sport">%1$s. Разстояние в километри: %2$s. Крайно време: %3$s. Източник на данни: %4$s. Докоснете, за да видите подробности.</string>
   <string name="tb_exercise_list_sport_one">%1$s. Продължителност: %2$s. Крайно време: %3$s. Източник на данни: %4$s. Докоснете, за да видите подробности.</string>
   <string name="tb_exercise_list_walk">Брой крачки: %1$s. Крайно време: %2$s. Докоснете, за да видите подробности.</string>
-  <string name="tb_exercise_sport_no_distance">%1$s. Продължителност %2$s. Изгорени калории: %3$s.</string>
-  <string name="tb_exercise_sport_normal">%1$s. Разстояние %2$s. Продължителност : %3$s. Изгорени калории: %4$s.</string>
   <string name="tb_exercise_sport_sum">Доклад за упражнения. %1$s. Докоснете, за да видите подробности.</string>
   <string name="tb_exercise_steps_no_data">Няма данни за крачки. Текуща цел: %1$d. Докоснете, за да видите подробности.</string>
   <string name="tb_exercise_steps_no_goal">Брой крачки: %1$d. Докоснете, за да видите подробности.</string>
@@ -978,9 +1001,13 @@
   <string name="title_no_record_menstruation">Все още не сте записвали циклите си.</string>
   <string name="title_run_in_background">Работа във фонов режим</string>
   <string name="title_select_birthday">Изберете рожден ден</string>
+  <string name="title_select_birthday_description">Ние ще коригираме нашите услуги според вашата възраст</string>
   <string name="title_select_gender">Изберете пол</string>
+  <string name="title_select_gender_description">Ние ще коригираме нашите услуги според вашия пол</string>
   <string name="title_select_height">Задайте височина</string>
+  <string name="title_select_height_description">Това ще направи статистиката ни по-точна</string>
   <string name="title_select_weight">Задайте тегло</string>
+  <string name="title_select_weight_description">Това ще направи статистиката ни по-точна</string>
   <string name="title_start_use">Начало</string>
   <string name="title_start_use_menstruation_assistant">Записвайте менструалния си цикъл</string>
   <string name="title_today_exercise_detail">Активност днес</string>
@@ -995,12 +1022,6 @@
   <string name="total_consumption_label">Общо калории</string>
   <string name="total_distance_label">Общо разстояние</string>
   <string name="total_time_label">Общо време</string>
-  <string name="tracking_progress_labe_pull_to_refresh">дръпнете за опресняване</string>
-  <string name="tracking_progress_labe_refreshed">обновяването завършено</string>
-  <string name="tracking_progress_labe_refreshing">обновяване</string>
-  <string name="tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
-  <string name="tracking_progress_labe_up_nodata">няма данни</string>
-  <string name="tracking_progress_labe_up_refresh">дръпнете за обновяване</string>
   <string name="tuesday">Вторник</string>
   <string name="tuesday_short">Вто</string>
   <string name="tuesday_shortest">В</string>
@@ -1037,6 +1058,13 @@
   <string name="weight_keep_up">Страхотно! Продължете да поддържате здравословно тегло.</string>
   <string name="weight_trend_offset_date">От %1$s до %2$s:</string>
   <string name="weight_unit_kg">кг</string>
+  <string name="welcome_exercise">Проследявайте тренировки</string>
+  <string name="welcome_exercise_description">Носете устройството си със себе си, за да проследявате тренировките автоматично</string>
+  <string name="welcome_sedentary">Продължавайте да се движите</string>
+  <string name="welcome_sedentary_description">Xiaomi Health може да ви напомни да се изправите, когато седите дълго време</string>
+  <string name="welcome_sleep">Анализ на цикъла на съня</string>
+  <string name="welcome_sleep_description">Поставете телефона си до себе си, за да научите за вашия цикъл на сън сутрин</string>
+  <string name="welcome_start_use">Начало</string>
   <string name="well">Добре</string>
   <string name="write_strorage_perm_description">Запишете проблемите, които сте срещнали при използването</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sБ</string>

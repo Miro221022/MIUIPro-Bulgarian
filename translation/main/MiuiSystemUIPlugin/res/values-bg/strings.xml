@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="already_in_small_freeform">Some apps are opened in floating windows</string>
+    <string name="no_avaliable_application">No apps available</string>
+    <string name="quick_settings_hang_label">Floating windows</string>
+    <string name="quick_settings_hang_on">You can use floating windows now</string>
+</resources>

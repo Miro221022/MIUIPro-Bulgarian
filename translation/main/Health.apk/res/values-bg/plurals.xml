@@ -33,6 +33,10 @@
     <item quantity="other">%1$d-%2$d пъти</item>
     <item quantity="one">%1$d-%2$d път</item>
   </plurals>
+  <plurals name="cousume_unit_format">
+    <item quantity="other">%1$d кал</item>
+    <item quantity="one">%1$d кал</item>
+  </plurals>
   <plurals name="daily_suggestions_steps">
     <item quantity="other">Правете поне %1$d крачки всеки ден</item>
     <item quantity="one">Правете поне %1$d крачка всеки ден</item>
@@ -60,6 +64,18 @@
   <plurals name="dream_talk_segment_unit">
     <item quantity="other">записа</item>
     <item quantity="one">запис</item>
+  </plurals>
+  <plurals name="duration_unit_hour_format">
+    <item quantity="other">%1$d ч.</item>
+    <item quantity="one">%1$d ч.</item>
+  </plurals>
+  <plurals name="duration_unit_minute_format">
+    <item quantity="other">%1$d мин.</item>
+    <item quantity="one">%1$d мин.</item>
+  </plurals>
+  <plurals name="duration_unit_second_format">
+    <item quantity="other">%1$d сек.</item>
+    <item quantity="one">%1$d сек.</item>
   </plurals>
   <plurals name="goal_format_with_unit">
     <item quantity="other">Цел: %1$d крачки</item>
@@ -100,6 +116,10 @@
   <plurals name="last_measure_day_body_weight">
     <item quantity="other">%1$d дни от последното претегляне</item>
     <item quantity="one">%1$d ден от последното претегляне</item>
+  </plurals>
+  <plurals name="length_unit_meter_format">
+    <item quantity="other">%1$d метра</item>
+    <item quantity="one">%1$d метър</item>
   </plurals>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Сега</item>

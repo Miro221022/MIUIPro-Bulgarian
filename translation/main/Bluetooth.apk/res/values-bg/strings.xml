@@ -130,4 +130,8 @@
     <string name="bluetooth_map_remote_message_access_feature_downgrade">Намалете функциите за отдалечен до съобщенията</string>
     <string name="bluetooth_map_repair_for_adv_message_access_feature">Сдвоете отново, за да използвате разширени функции за достъп до съобщенията</string>
     <string name="bluetooth_map_repair_for_message_access_version_comp">Сдвоете отново, за да осигурите съвместимост на версията за достъп до съобщенията</string>
+	<string name="switch_audio_device_bt">Bluetooth</string>
+    <string name="switch_audio_device_phone">Това устройство</string>
+    <string name="switch_audio_notification_content">Текущо аудио изходно устройство:</string>
+    <string name="switch_audio_notification_title">Свързаност на устройството</string>
 </resources>

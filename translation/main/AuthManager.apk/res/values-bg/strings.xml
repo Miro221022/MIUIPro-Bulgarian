@@ -18,9 +18,9 @@
     <string name="HIPS_Perm_MMS">Писане и изтриване на MMS съобщения</string>
     <string name="HIPS_Perm_MMS_Desc">Писане и изтриване на MMS съобщения</string>
     <string name="HIPS_Perm_Contact">Промяна и изтриване на контакти</string>
-    <string name="HIPS_Perm_Contact_Desc">Промяна и изтриване на контакти</string>
+    <string name="HIPS_Perm_Contact_Desc">Редактиране на контакти</string>
     <string name="HIPS_Perm_CallLog">Писане и изтриване на историята на повикванията</string>
-    <string name="HIPS_Perm_CallLog_Desc">Писане и изтриване на история на повикванията</string>
+    <string name="HIPS_Perm_CallLog_Desc">Промяна на история на повикванията</string>
     <string name="HIPS_Perm_ROOT">Получаване на ROOT достъп</string>
     <string name="HIPS_Perm_ROOT_Desc">Получаване на ROOT достъп</string>
     <string name="HIPS_Perm_Settings">Промяна на системните настройки</string>
@@ -100,7 +100,6 @@
     <string name="screen_overlay_button">Отваряне на настройки</string>
     <string name="grant_dialog_button_allow">Позволи</string>
     <string name="grant_dialog_button_deny">Забрани</string>
-    <string name="current_permission_template">%1$s от %2$s</string>
     <string name="never_ask_again">"Не питай отново след забраняване"</string>
 	<string name="HIPS_Perm_UDevice_ID">Споделяне на части от информацията за устройството с разработчиците на игри, за да им помогнете да подобрят вашето изживяване в игрите. Съгласни ли сте?</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">Споделяне на части от информацията за устройството с разработчиците на игри, за да им помогнете да подобрят вашето изживяване в игрите. Съгласни ли сте?</string>
@@ -156,9 +155,28 @@
     <string name="HIPS_Perm_clipboard_Desc">Разрешаване на приложението достъп и добавяне на елементи в буферната памет</string>
     <string name="grant_dialog_button_allow_onetime">Разреши само сега</string>
 	<string name="virtual_reject_notice_content">Към приложението беше изпратен празен отговор, за да защити вашата лична информация</string>
-    <string name="virtual_reject_notice_title_calendar">%1$s се опитва да получи достъп до календара</string>
-    <string name="virtual_reject_notice_title_calllog">%1$s се опитва да получи достъп до историята на обажданията</string>
-    <string name="virtual_reject_notice_title_contacts">%1$s се опитва да получи достъп до контактите</string>
-    <string name="virtual_reject_notice_title_phonestate">%1$s се опитва да получи достъп до информация за устройството</string>
-    <string name="virtual_reject_notice_title_sms">%1$s се опитва да получи достъп до съобщенията</string>
+    <string name="virtual_reject_notice_title_calendar">Достъп до календара от %1$s</string>
+    <string name="virtual_reject_notice_title_calllog">Достъп до историята на обажданията от %1$s</string>
+    <string name="virtual_reject_notice_title_contacts">Достъп до контактите от %1$s</string>
+    <string name="virtual_reject_notice_title_phonestate">Достъп до информация за устройството от %1$s</string>
+    <string name="virtual_reject_notice_title_sms">Достъп до съобщения от %1$s</string>
+	<string name="HIPS_Perm_Intl_group_desc_audio_recorder">Записване на звук и извършване на повиквания</string>
+    <string name="HIPS_Perm_Intl_group_desc_auto_start">Автоматично стартиране на приложения във фонов режим</string>
+    <string name="HIPS_Perm_Intl_group_desc_calendar">Достъп до събития в календара</string>
+    <string name="HIPS_Perm_Intl_group_desc_call_log">Достъп и редактиране на историята на обажданията</string>
+    <string name="HIPS_Perm_Intl_group_desc_camera">Заснемане на снимки и видеоклипове</string>
+    <string name="HIPS_Perm_Intl_group_desc_contact">Редактиране и изтриване на контакти</string>
+    <string name="HIPS_Perm_Intl_group_desc_location">Достъп до точно местоположение (базирано на GPS и мрежата)</string>
+    <string name="HIPS_Perm_Intl_group_desc_storage">"Добавяне и изтриване на файлове във вътрешната памет на устройството"</string>
+    <string name="HIPS_Perm_Intl_group_name_audio_recorder">Микрофон</string>
+    <string name="HIPS_Perm_Intl_group_name_auto_start">Автостарт</string>
+    <string name="HIPS_Perm_Intl_group_name_calendar">Календар</string>
+    <string name="HIPS_Perm_Intl_group_name_call_log">История на повикванията</string>
+    <string name="HIPS_Perm_Intl_group_name_camera">Камера</string>
+    <string name="HIPS_Perm_Intl_group_name_contact">Контакти</string>
+    <string name="HIPS_Perm_Intl_group_name_location">Местоположение</string>
+    <string name="HIPS_Perm_Intl_group_name_storage">Хранилище</string>
+    <string name="permission_group_title_sensitive_privacy_related">Чувствителни разрешения</string>
+    <string name="permission_list_include">"Включително следните:
+"</string>
 </resources>

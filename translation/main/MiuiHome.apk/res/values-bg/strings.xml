@@ -504,4 +504,27 @@
     <string name="accessibility_recent_task_memory_info">Общо РАМ: %2$s | Налична РАМ: %1$s. Двойно почукване за почистване.</string>
     <string name="accessibility_recent_task_unlocked_state">Отключен</string>
     <string name="recents_incompatible_app_message">"Това приложение не поддържа разделен екран"</string>
+    <string name="copy">Копирай</string>
+    <string name="expand_button_title">Разширени</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Дръпнете за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновено успешно</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновяване…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Пуснете за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
+    <string name="not_set">Не е зададено</string>
+    <string name="preference_copied">\"%1$s\" е копирано в буферната памет.</string>
+    <string name="recents_smallwindow_text">Пуснете, за да добавите</string>
+    <string name="recents_tv_small_window_text">Плаващи прозорци</string>
+    <string name="small_window_button_complete">Готово</string>
+    <string name="small_window_edit_content">Можете да добавите до %d приложения</string>
+    <string name="small_window_edit_title">Текущи приложения</string>
+    <string name="small_window_empty">Изберете от наличните приложения</string>
+    <string name="small_window_select_title">Налични приложения</string>
+    <string name="small_window_title_text">Докоснете, за да отворите плаващ прозорец</string>
+    <string name="small_window_toast">Можете да добавите до %d приложения</string>
+    <string name="v7_preference_off">ИЗКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
 </resources>
