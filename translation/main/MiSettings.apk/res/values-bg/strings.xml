@@ -334,7 +334,7 @@
      <string name="miuix_appcompat_cloud_state_disabled">Синхронизирането с облака е изключено</string>
      <string name="miuix_appcompat_cloud_state_finished">Синхронизирано с облака</string>
      <string name="miuix_appcompat_cloud_state_syncing">Синхронизиране с облака</string>
-     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">пуснете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завърши</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
      <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>

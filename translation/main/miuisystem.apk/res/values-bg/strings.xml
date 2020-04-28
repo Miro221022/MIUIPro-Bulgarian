@@ -206,4 +206,25 @@
   <string name="digitaluniverse">Дигитална вселена (стерео)</string>
   <string name="reveries">Мечти (стерео)</string>
   <string name="atlantis">Atlantis (стерео)</string>
+    <string name="miui_clock_city_name_local">Локално</string>
+    <string name="miui_clock_city_name_second">Втори часовник</string>
+    <string name="wallpaper_group_natural_texture_title">Модели на природата</string>
+    <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen и други</string>
+    <string name="wallpaper_group_geometric_title">Геометрия</string>
+    <string name="wallpaper_group_dynamic_nebula_title">Динамична мъглявина</string>
+    <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
+    <string name="wallpaper_group_minimalist_scenery_title">Минимализъм</string>
+    <string name="wallpaper_group_black_white_title">Черно и бяло</string>
+    <string name="wallpaper_group_red_mars_title">Марс</string>
+    <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, университета в Аризона</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd/MM"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd/MM"</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+dd/MM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd/MM"</string>
 </resources>

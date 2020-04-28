@@ -11,7 +11,7 @@
   <string name="dialog_content_limit_max">Неограничен</string>
   <string name="dialog_content_limit0">Ограничаване на изтеглянията</string>
   <string name="dialog_data_limit_button1">Изчакване за WLAN</string>
-  <string name="dialog_data_limit_button2">Изтегляне сега</string>
+  <string name="dialog_data_limit_button2">Изтегляне</string>
   <string name="dialog_data_limit_msg1">%s от мобилни данни ще бъдат използвани за изтегляне на този файл. Изтегляне сега?</string>
   <string name="dialog_data_limit_msg3">Промяна на лимита</string>
   <string name="dialog_data_limit_title">Предупреждение за използването на данни</string>

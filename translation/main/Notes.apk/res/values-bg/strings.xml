@@ -384,4 +384,9 @@
     <string name="v7_preference_on">ВКЛ.</string>
 	<string name="data_empty_note">Тук все още няма бележки</string>
     <string name="data_empty_todo">Тук все още няма задачи</string>
+    <string name="todo_list">Контролен списък на подзадачи</string>
+    <string name="todo_list_edit_text_hint">Докоснете \"Въвеждане\" за създаване с подзадачи</string>
+    <string name="todo_list_new_finish_all_tip">Новите елементи трябва да съдържат поне една незавършена задача</string>
+    <string name="todo_list_overflow_tip">"Не могат да се създадат още подзадачи"</string>
+    <string name="todo_user_guide_tip6">Докоснете \"Въвеждане\" за да създадете контролен списък с подзадачи</string>
 </resources>

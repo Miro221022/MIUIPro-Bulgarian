@@ -36,4 +36,8 @@
         <item quantity="other">%1$d сек.</item>
         <item quantity="one">%1$d сек.</item>
     </plurals>
+	    <plurals name="number_items">
+        <item quantity="other">%s елемента</item>
+        <item quantity="one">%s елемент</item>
+    </plurals>
 </resources>

@@ -303,7 +303,7 @@
 	<string name="input_method_clipboard_tips">Копираните елементи ще бъдат изтрити от временната памет след 48 часа</string>
 	<string name="data_usage_context">Ако WLAN не е включена, устройството ви ще се свърже с мобилна мрежа, което може да доведе до допълнителни такси в зависимост от вашият абонаментен план. Благодарим ви!</string>
 	<string name="slatoast">Използването на мобилни данни за повишаване на скоростта може да генерира допълнителни такси на оператора</string>
-	<string name="help">Помощ</string>
+	<string name="help">"Не можете да намерите устройства?"</string>
     <string name="help_content">"Ако не можете да намерите нужното устройство, помолете другия човек да включи Mi Споделяне."</string>
 	<string name="sunlight_notification_content">Регулиране на яркостта към силната околна светлина автоматично</string>
     <string name="sunlight_notification_title">Включете режим за слънчева светлина</string>
@@ -325,4 +325,11 @@
     <string name="input_method_phrase_top">Закачи</string>
     <string name="input_method_phrase_edit">Редакция</string>
     <string name="input_method_clipboard_participle">Отделни думи</string>
+	<string name="device_status_failed">"Не може да се изпрати"</string>
+    <string name="device_status_sending">Изпращане…</string>
+    <string name="device_status_success">Изпратено успешно</string>
+    <string name="device_status_waiting">Изчакване…</string>
+    <string name="open_close_tip_action">Разбрах</string>
+    <string name="open_close_tip_content">За да затворите плаващия прозорец, натиснете и задръжте лентата за действие и след това прекарайте пръст нагоре</string>
+    <string name="security_share_text">Защита на поверителността</string>
 </resources>

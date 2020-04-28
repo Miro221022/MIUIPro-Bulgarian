@@ -28,4 +28,13 @@
   <string name="settings_safetylegal_title">Информация за безопасност</string>
   <string name="poco_launcher_privacy_policy">Политика за поверителност на POCO Launcher</string>
   <string name="poco_launcher_user_agreement">Потребителско споразумение на POCO Launcher</string>
+       <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завърши</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">няма данни</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
+	 <string name="privacy_station_title">Поверителност в Xiaomi</string>
 </resources>
