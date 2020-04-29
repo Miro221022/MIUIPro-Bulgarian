@@ -1926,4 +1926,15 @@
   <string name="skt_msim_emm_cause_3">"SIM %d не може да потвърди потребителя. Рестартирайте устройството си и опитайте отново. Ако все още срещате този проблем след това, свържете се с поддръжката на клиенти (1599-0011)."</string>
   <string name="skt_msim_emm_cause_6">"SIM %d не може да потвърди устройството. Рестартирайте устройството си и опитайте отново. Ако все още срещате този проблем след това, свържете се с поддръжката на клиенти (1599-0011)."</string>
   <string name="skt_msim_emm_cause_7_8_15">"SIM %d не може да се регистрира в мрежа. Рестартирайте устройството си и опитайте отново. Ако все още срещате този проблем след това, свържете се с поддръжката на клиенти (1599-0011)."</string>
+      <string name="ai_assistant_not_installed">Първо инсталирайте асистента за обаждания</string>
+    <string name="ai_assistant_setting_title">Интелигентен асистен за обаждания</string>
+    <string name="fiveg_sa_switch_warning_toast">Моля, рестартирайте телефона, за да влезе в сила.</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завърши</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">няма данни</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
 </resources>

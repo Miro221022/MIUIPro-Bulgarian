@@ -96,4 +96,6 @@
   <string name="mihome_download_title">Инсталирай Mi Home</string>
   <string name="mihome_ignore_tips">"Ако игнорирате това устройство, ще трябва да го добавите в приложението Mi Home ръчно."</string>
   <string name="mihome_update_tips">Актуализирайте приложението Mi Home и след това дръжте телефона си близо до устройството.</string>
+      <string name="perm_ble_des">Достъп до BLE настройките</string>
+    <string name="perm_ble_lab">Достъп до BLE настройките</string>
 </resources>

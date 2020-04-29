@@ -512,4 +512,48 @@
         <item quantity="other">Върнати са %3$d празни съобщения между %1$s и %2$s</item>
         <item quantity="one">Върнато е %3$d празно съобщение между %1$s и %2$s</item>
     </plurals>
+	    <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">Разрешено %2$d пъти в %1$s</item>
+        <item quantity="one">Разрешено %2$d път в %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">Отказано %2$d пъти в %1$s</item>
+        <item quantity="one">Отказано %2$d път в %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">Върнати са %2$d празни съобшения в %1$s</item>
+        <item quantity="one">Върнато е %2$d празно съобщение в %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">%1$1s стартирани %2$d приложения</item>
+        <item quantity="one">%1$1s стартирано %2$d приложение</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">Това приложение стартира %1$d други приложения</item>
+        <item quantity="one">Това приложение стартира %1$d друго проложение</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" часа"</item>
+        <item quantity="one">" час"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" мин."</item>
+        <item quantity="one">" мин."</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Разбрах (%dсек.)</item>
+        <item quantity="one">Разбрах (%dсек.)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">Устройството ви ще се изключи след %d секунди. Свържете зарядно.</item>
+        <item quantity="one">Устройството ви ще се изключи след %d секунда. Свържете зарядно.</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s приложения имат постоянен достъп</item>
+        <item quantity="one">%s приложение има постоянен достъп</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s пъти</item>
+        <item quantity="one">%s път</item>
+    </plurals>
 </resources>

@@ -583,7 +583,7 @@
   <string name="show_mamual_hide_font">Показване на скритите шрифтове</string>
   <string name="show_mamual_hide_theme">Показване на скритите теми</string>
   <string name="show_mamual_hide_wallpaper">Показване на скритите тапети</string>
-  <string name="swipe_find_more">плъзнете нагоре</string>
+  <string name="swipe_find_more">Плъзнете наляво, за да видите повече</string>
   <string name="system_precust">Вградени</string>
   <string name="tag_ad">Реклама</string>
   <string name="the_picture_is_not_support">Форматът не се поддържа</string>
@@ -901,4 +901,13 @@
      <string name="show_mamual_hide_miwallpaper">Показване на скрити ефекти за началния екран</string>
      <string name="theme_community">Общност</string>
      <string name="update_community_tip">Актуализирайте Mi Community, за да можете да използвате тази функция</string>
+	     <string name="ota_recovery_theme_dialog_message">Някои елементи от използваната по-рано тема може да не са съвместими с новата версия на MIUI. Несъвместимите елементи ще бъдат заменени с опции по подразбиране.</string>
+    <string name="ota_recovery_theme_dialog_title">Възстановяване на оригинална тема</string>
+    <string name="ota_recovery_theme_notity_btn">Възстанови</string>
+    <string name="ota_recovery_theme_notity_content">"Можете да се върнете към темата, която сте използвали преди актуализацията"</string>
+    <string name="ota_recovery_theme_notity_title">Възстановете темата си</string>
+    <string name="resource_incall_show_download">Изтегли видео</string>
+    <string name="super_wallpaper">Супер тапет</string>
+    <string name="theme_component_video_wallpaper">Динамични тапети</string>
+    <string name="theme_wallpaper">Категория тапети</string>
 </resources>

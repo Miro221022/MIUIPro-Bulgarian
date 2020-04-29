@@ -107,4 +107,13 @@
 	<string name="label_paper_size">Хартия</string>
 	<string name="copies_decrease">Минус едно копие</string>
     <string name="copies_increase">Плюс едно копие</string>
+	<string name="activity_convert_pdf_alert_message">Преобразуването на файлове се осигурява от WPS Office</string>
+    <string name="activity_convert_pdf_alert_title">Конвертиране на файла преди отпечатване…</string>
+    <string name="activity_jump_market_alert_install_message">"Инсталирайте WPS Office, за да конвертирате този файл и да го подготвите за печат. Ще трябва да започнете печатането отново, след като инсталацията приключи. Инсталиране сега?"</string>
+    <string name="activity_jump_market_alert_install_positive_button">Инсталиране</string>
+    <string name="activity_jump_market_alert_title">Внимание</string>
+    <string name="activity_jump_market_alert_update_message">"Актуализирайте WPS Office, за да конвертирате този файл и да го подготвите за печат. Ще трябва да започнете да печатате отново, след като новата версия е инсталирана. Актуализиране сега?"</string>
+    <string name="activity_jump_market_alert_update_positive_button">Актуализиране</string>
+    <string name="wps_convert_error_toast_text">"Файлът не може да се конвертира поради грешка във формата"</string>
+    <string name="wps_convert_too_large_and_wait_toast_text">Конвертирането може да отнеме повече време поради по-големия размер на файла. Конвертиране…</string>
 </resources>

@@ -321,7 +321,7 @@
     <string name="confirm_cancel">"Не приемам"</string>
     <string name="confirm_ok">Приемам</string>
     <string name="permission_get_account_desc">Синхронизиране на бележки с облака</string>
-    <string name="permission_microphone_desc">Създаване на гласови бележки</string>
+    <string name="permission_microphone_desc">За запис на гласови бележки</string>
     <string name="permission_network_for_cloud_desc">За да синхронизирате бележки с облака, трябва да се свържете с интернет. Мобилните данни могат да се използват за синхронизиране на елементи. Свързване сега?</string>
     <string name="permission_read_contact_desc">Свързване на бележките, създадени по време на разговори с контакти</string>
     <string name="permission_xiaoai_desc"><Data>Mi AI ще събира вашите гласови записи и идентификационен номер на устройството, за да преписва аудио и да създава гласови бележки. Научете повече в &lt;a href=\"%1$s\">Политиката за поверителност&lt;/a> на Mi AI .</Data></string>
@@ -389,4 +389,37 @@
     <string name="todo_list_new_finish_all_tip">Новите елементи трябва да съдържат поне една незавършена задача</string>
     <string name="todo_list_overflow_tip">"Не могат да се създадат още подзадачи"</string>
     <string name="todo_user_guide_tip6">Докоснете \"Въвеждане\" за да създадете контролен списък с подзадачи</string>
+	<string name="action_mode_cancel_folder_priority">"Не показвай папки първо"</string>
+    <string name="action_mode_switcher_folder_priority">Покажи първо папките</string>
+    <string name="actionbar_button_up_description">Назад</string>
+    <string name="cta_agree_desc">Разрешете това приложение да се свърже с интернет и да дайте незадължителните разрешения, за да може да използвате всички негови функции.</string>
+    <string name="cta_v2_app_purpose">Създаване, преглед и управление на бележки</string>
+    <string name="cta_v2_app_purpose_v12">Можете да използвате това приложение за създаване на задачи и бележки, които съдържат текст, изображения и звук.</string>
+    <string name="float_todo_guide_cancel">Отказ</string>
+    <string name="float_todo_guide_message">Прекият път на началния екран ви позволява да плъзнете от ръба на екрана, за да видите и създавате задачи. Да се създаде ли пряк път сега?</string>
+    <string name="float_todo_guide_ok">Създаване</string>
+    <string name="float_todo_guide_title">Пряк път на началния екран</string>
+    <string name="gesture_guide_cancel">Пропускане</string>
+    <string name="gesture_guide_message">Можете да докоснете, натиснете и задържите, и да плъзнете елементи за създаване и пренареждане на бележки. Ще научите ли тези жестове сега?</string>
+    <string name="gesture_guide_ok">Покажи</string>
+    <string name="gesture_guide_title">Жестове</string>
+    <string name="hear_note">Диктувани бележки</string>
+    <string name="menu_group">Създаване на папка</string>
+    <string name="merge_to_folder">Създаване на папка</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Синхронизирането с облака е изключено</string>
+    <string name="miuix_appcompat_cloud_state_finished">Синхронизирано с облака</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Синхронизиране с облака</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завърши</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">няма данни</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
+    <string name="permission_phone_state_desc">За спиране на записването на гласови бележки по време на разговори</string>
+    <string name="permission_storage_desc">За запазване на бележки като изображения</string>
+    <string name="private_entry_available">Пуснете, за да отворите поверителната папка</string>
+    <string name="private_entry_default">Плъзнете надолу, за да отворите поверителната папка</string>
+    <string name="time_picker_dialog_title">Задайте време</string>
 </resources>
