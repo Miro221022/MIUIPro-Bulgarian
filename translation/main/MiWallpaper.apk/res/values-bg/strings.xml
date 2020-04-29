@@ -2,4 +2,90 @@
 <resources>
     <string name="mi_wallpaper_title">Mi Тапет</string>
     <string name="mi_wallpaper_loading">Зареждане на Mi Тапет...</string>
+	    <string name="abc_action_bar_home_description">Придвижване към начало</string>
+    <string name="abc_action_bar_up_description">Придвижване нагоре</string>
+    <string name="abc_action_menu_overflow_description">Още опции</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Виж всички</string>
+    <string name="abc_activitychooserview_choose_application">Изберете приложение</string>
+    <string name="abc_capital_off">ИЗКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Търсене…</string>
+    <string name="abc_searchview_description_clear">Изчистване на заявката</string>
+    <string name="abc_searchview_description_query">Заявка за търсене</string>
+    <string name="abc_searchview_description_search">Търсене</string>
+    <string name="abc_searchview_description_submit">Изпрати заявката</string>
+    <string name="abc_searchview_description_voice">Гласово търсене</string>
+    <string name="abc_shareactionprovider_share_with">Сподели с</string>
+    <string name="abc_shareactionprovider_share_with_application">Сподели с %s</string>
+    <string name="abc_toolbar_collapse_description">Свиване</string>
+    <string name="actionbar_button_up_description">Назад</string>
+    <string name="app_name">Тапет</string>
+    <string name="clearable_edittext_clear_description">Изчисти</string>
+    <string name="date_picker_lunar">Лунен календар</string>
+    <string name="earth_summary">Земята е люлката на човешката цивилизация</string>
+    <string name="earth_title">Начало</string>
+    <string name="game_view_content_description">Изглед на играта</string>
+    <string name="mars_position_content_0">"Този регион съдържа скали, масиви и широки плоски долини, за които се смята, че са причинени от покрити отломки ледници. Тук са открити и глинени минерали, които представляват голям интерес при търсенето на доказателства за живота на древен Марс.
+
+NASA/JPL/Университета на Аризона"</string>
+    <string name="mars_position_content_1">"Recurring slope lineae (RSL) are active flows on warm Martian slopes that might be caused by seeping water. The RSL in Hale Crater have an unusually “reddish” color compared to most RSL, perhaps due to oxidized iron compounds, like rust.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_title_0">"Nilosyrtis
+Mensae Region"</string>
+    <string name="mars_position_title_1">"Central
+Mountains of
+Hale Crater"</string>
+    <string name="mars_position_title_2">"Crater in
+Mawrth Vallis"</string>
+    <string name="mars_summary">Големите пустини на Марс винаги са държали на страхопочитанието човечеството</string>
+    <string name="miui_clock_city_name_local">Локално</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завърши</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">няма данни</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
+    <string name="mtrl_chip_close_icon_content_description">Премахни %1$s</string>
+    <string name="not_set">Не е зададено</string>
+    <string name="password_toggle_content_description">Покажи паролата</string>
+    <string name="preference_copied">\"%1$s\" е копирано в буферната памет.</string>
+    <string name="saturn_summary">Пръстените на Сатурн правят най-невероятния спектакъл в Слънчевата система</string>
+    <string name="saturn_title">Далечни халки</string>
+    <string name="search_menu_title">Търсене</string>
+    <string name="super_wallpaper_list_label">Супер тапети</string>
+    <string name="super_wallpaper_setting_apply_success_toast">Приложено успешно</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Приложи</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">Изберете местоположние</string>
+    <string name="super_wallpaper_setting_coordinate_title">Координати</string>
+    <string name="super_wallpaper_setting_view_height_title">Надморска височина</string>
+    <string name="time_picker_dialog_title">Задаване на време</string>
+    <string name="time_picker_label_hour">Ч</string>
+    <string name="time_picker_label_minute">М</string>
+    <string name="v7_preference_off">ИЗКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_find_more_text">Още онлайн тапети</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">Начален екран</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Заключен екран</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Онлайн тапети</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">Открийте тапети</string>
+    <string name="wallpaper_setting_online_wallpaper_title">Онлайн тапети</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">Супер тапети</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Още</string>
+    <string name="wallpaper_setting_title">Тапет</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d/MM"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d/MM"</string>
 </resources>

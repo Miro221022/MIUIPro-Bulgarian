@@ -139,4 +139,7 @@
 Ако двете устройства не могат да бъдат свързани в една и съща мрежа, включете Miracast на външния си монитор. Името на функцията Miracast може да варира."</string>
     <string name="nfc_connect_failed_toast">"Не може да се излъчи. Опитайте отново."</string>
     <string name="small_window_not_supported">"Не може да се минимизира това приложение, докато се излъчва"</string>
+	    <string name="dialog_nfc_cast_wifi_off">Включете Wi-Fi, за да можете да излъчвате чрез NFC. Да се включи ли сега?</string>
+    <string name="toast_nfc_dont_move">"Не местете телефона си далеч"</string>
+    <string name="toast_turn_off_hotspot_before_cast">Изключете преносимата гореща точка преди излъчването</string>
 </resources>

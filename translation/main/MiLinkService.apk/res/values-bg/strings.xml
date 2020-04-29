@@ -132,4 +132,7 @@
    <string name="help_page_text_55_global">"Ако не можете да се свържете с мрежата, уверете се, че външният ви монитор поддържа Miracast функционалност и е включен. При някои модели тази функция се нарича Безжичен дисплей, Екранно огледало или Няколко екрана.
 4. Ако срещнете някакви проблеми, можете да ги съобщите, като използвате нашето приложение \"Услуги и отзиви\"."</string>
    <string name="actionbar_button_up_description">Назад</string>
+    <string name="dialog_nfc_cast_wifi_off">Включете Wi-Fi, за да можете да излъчвате чрез NFC. Да се включи ли сега?</string>
+    <string name="toast_nfc_dont_move">"Не местете телефона си далеч"</string>
+    <string name="toast_turn_off_hotspot_before_cast">Изключете преносимата гореща точка преди излъчването</string>
 </resources>

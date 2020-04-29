@@ -84,4 +84,10 @@
         <item quantity="other">Успешно са изпратени %2$d изображения до %1$s</item>
         <item quantity="one">Успешно е изпратено %2$d изображение до %1$s</item>
     </plurals>
+	    <string-array name="permissions_desc_v12">
+        <item>За изпращане и получаване на файлове</item>
+        <item>За прехвърляне на файлове чрез Bluetooth и Wi-Fi</item>
+        <item>За намиране на налични устройства наблизо, използващи Bluetooth</item>
+        <item>За намиране на налични устройства в близост и прехвърляне на файлове чрез Wi-Fi</item>
+    </string-array>
 </resources>

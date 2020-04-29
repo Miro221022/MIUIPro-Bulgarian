@@ -202,6 +202,11 @@
   <string name="volte_call">VoLTE повикване</string>
   <string name="wifi_call">VoWifi повикване</string>
   <string name="volume_boost_text">Успешно е увеличен звука</string>
-  <string name="wait_prompt_str">\"Да се изпратят ли следните мелодии? \"</string>
+  <string name="wait_prompt_str">\"Да се изпратят ли следните мелодии?\"</string>
   <string name="waiting_close_airplane_mode">Една секунда…</string>
+    <string name="ai_assistant">Интелигентен асистент за обаждания</string>
+    <string name="ai_assistant_not_installed">Първо инсталирайте асистента за обаждания</string>
+    <string name="enter_ai_assistant">Използвай</string>
+    <string name="enter_ai_assistant_tip">"Асистента може да приеме това повикване и да преписва речта на другия човек вместо вас. Да се разреши ли на асистента да отговори сега?"</string>
+    <string name="video_call_downgrade_insufficient_bandwidth">Недостатъчна честотна лента, преминаване към гласово повикване</string>
 </resources>

@@ -164,4 +164,22 @@
     <string name="miservice_notification_scan_title">Преведете набързо</string>
 	<string name="miservice_notification_boot_sub_title">Представяме ви местните характеристики и забавление на MIUI</string>
     <string name="miservice_notification_boot_title">Запознайте се бързо с новата си машина</string>
+	<string name="miuix_appcompat_cloud_state_disabled">Синхронизирането с облака е изключено</string>
+    <string name="miuix_appcompat_cloud_state_finished">Синхронизирано с облака успешно</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Синхронизиране с облака…</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Издърпайте надолу, за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновено успешно</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновяване…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Пуснете за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
+    <string name="share_cancel">Споделянето е анулирано</string>
+    <string name="share_failed">"Не може да се споделя"</string>
+    <string name="share_no_network">"Не може да се свърже с мрежата"</string>
+    <string name="share_not_install_wechat">Първо инсталирайте WeChat</string>
+    <string name="share_not_install_weibo">Първо инсталирайте Weibo</string>
+    <string name="share_success">Споделено успешно</string>
+    <string name="share_title">Сподели</string>
 </resources>

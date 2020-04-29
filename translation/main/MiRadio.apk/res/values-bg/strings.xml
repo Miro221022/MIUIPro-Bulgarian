@@ -420,4 +420,9 @@
   <string name="look_more">Вижте още</string>
   <string name="passport_can_not_receive_verification_code">"Не можете да получите код за потвърждение?"</string>
   <string name="pause_play">Пауза</string>
+  <string name="open_settings">Към Кастройки</string>
+     <string name="recommend">Препоръчани</string>
+    <string name="request_camera_permission_message">Тази услуга трябва да поиска следните разрешения, ние стриктно ще спазваме съответните закони за защита на личните ви данни: &lt;br>&lt;br>&lt;b> Достъп до камерата: изпробвайте услугите за запис в реално време за настройка на аватар &lt;/b>&lt;br>&lt;br> Ако не сте съгласни да дадете разрешенията, тази функция няма да работи правилно, но това няма да повлияе на използването на основните функции на това приложение. Можете да откажете горепосоченото разрешение в системните настройки, за да оттеглите съгласието си.</string>
+     <string name="no_hint">НЕ.</string>
+	 <string name="notification_download_complete">Изтеглено успешно</string>
 </resources>

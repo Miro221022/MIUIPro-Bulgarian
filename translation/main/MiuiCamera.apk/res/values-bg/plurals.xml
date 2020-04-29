@@ -8,4 +8,8 @@
         <item quantity="other">Серийното заснемане е готово, %1$s снимки са заснети</item>
         <item quantity="one">Серийното заснемане е готово, %1$s снимка е заснета</item>
     </plurals>
+	    <plurals name="clone_guide_tip2">
+        <item quantity="other">Можете да създадете до %d клонинга наведнъж.</item>
+        <item quantity="one">Можете да създадете до %d клонинг наведнъж.</item>
+    </plurals>
 </resources>
