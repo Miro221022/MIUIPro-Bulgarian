@@ -370,4 +370,18 @@
     <string name="video_banner_regional_weather_update">Регионални актуализации за времето</string>
   <string name="video_banner_weather_forecast">Прогноза за времето</string>
   <string name="video_banner_weather_update">Последни актуализации на времето</string>
+      <string name="dislike_alert_dialog_title">Защо не искате да видите това съдържание?</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Издърпайте надолу, за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновено успешно</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновяване…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Пуснете за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
+    <string name="not_set">Не е зададено</string>
+    <string name="preference_copied">\"%1$s\" е копирано в буферната памет.</string>
+    <string name="thanku_for_feedback">Благодаря за отзивите, можете да отворите отново видеото за времето на страницата с настройки</string>
+    <string name="v7_preference_off">ИЗКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
 </resources>
