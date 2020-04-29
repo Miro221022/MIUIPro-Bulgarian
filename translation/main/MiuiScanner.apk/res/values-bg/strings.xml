@@ -403,4 +403,8 @@
 	 <string name="download_mipay">Use Mi Pay</string>
      <string name="mipayin_dialog_more">Още</string>
      <string name="mipayin_dialog_title">Отвори с</string>
+	 <string name="translation_type_chat">Chat</string>
+    <string name="qureyGoods">Търсете продукти</string>
+    <string name="queryGoodsFailed">"Информация за продукта не можа да бъде намерена"</string>
+   <string name="downloadAiVison">Инсталирайте приставка, за да използвате тази функция</string>
 </resources>
