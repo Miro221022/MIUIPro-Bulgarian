@@ -479,4 +479,14 @@
   <string name="greenguard_install_message">"Семейна безопсност е системно приложение. Нямате нужда от интернет, за да го инсталирате."</string>
   <string name="greenguard_install_title">Инсталирай Семейна безопсност</string>
   <string name="master_clear_not_available_ep">"Нямате право да извършвате нулиране до фабрични настройки или да оттеглите оторизацията си в момента. Свържете се с вашия ръководител."</string>
+       <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завърши</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">няма данни</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
+    <string name="secondspace_homepage">"Задайте определено заключване на екрана за Второ пространство.
+Отделете и защитете данните си."</string>
 </resources>

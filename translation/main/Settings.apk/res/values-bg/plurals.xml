@@ -324,4 +324,12 @@
         <item quantity="other">" мин"</item>
         <item quantity="one">" мин"</item>
     </plurals>
+	    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d налични устройства</item>
+        <item quantity="one">%d налично устройство</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">Избрани са %d елемента</item>
+        <item quantity="one">Избран е %d елемент</item>
+    </plurals>
 </resources>

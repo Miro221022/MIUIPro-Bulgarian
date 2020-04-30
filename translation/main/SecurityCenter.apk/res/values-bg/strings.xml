@@ -80,7 +80,7 @@
   <string name="alert_back_diving_mode_summary">Изключване на режим Потапяне сега?</string>
   <string name="alert_back_diving_mode_title">Режим потапяне</string>
   <string name="alert_back_milink_hangup_tips_content">"Излъчването няма да бъде прекъснато, когато приключвате повикване. Можете да натиснете бутона за захранване, за да събудите екрана."</string>
-  <string name="alert_back_milink_hangup_tips_content_vb">"Излъчването няма да бъде прекъснато, когато екранът е изключен и приложението работи във фонов режим. Можете да натиснете бутона за захранване, за да включите екрана отново."</string>
+  <string name="alert_back_milink_hangup_tips_content_vb">Когато екранът е изключен, приложението ще работи във фонов режим, без да прекъсва процеса на излъчване. Натиснете бутона за захранване, за да включите екрана отново</string>
   <string name="all_address_choose_hint">Всички номера от този регион</string>
   <string name="already_close_gamebooster">Game Turbo е изключен</string>
   <string name="anti_disturb_msg_detail">Изключване на известията с изключение на входящите повиквания</string>
@@ -369,13 +369,13 @@
   <string name="auto_task_edit_choose_operation_title">Избор на действие</string>
   <string name="auto_task_edit_condition_summary">Например, \"В 23:00\"</string>
   <string name="auto_task_edit_condition_title">Добаваяне на състояние</string>
-  <string name="auto_task_edit_my_custom_task">Име</string>
+  <string name="auto_task_edit_my_custom_task">Въведете име на задачата</string>
   <string name="auto_task_edit_operation_summary">Например, \"Активиране на самолетен режим\"</string>
   <string name="auto_task_edit_step1">1.</string>
   <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Име</string>
   <string name="auto_task_main_title">Автоматизирани задачи</string>
-  <string name="auto_task_mamange_activity_title">Настройки</string>
+  <string name="auto_task_mamange_activity_title">Автоматични задачи</string>
   <string name="auto_task_manage_delete_prompt">Да се изтрият ли избраните?</string>
   <string name="auto_task_manage_new_task">Нови автоматични задачи</string>
   <string name="auto_task_manager_group_title">Автоматизирани задачи</string>
@@ -402,7 +402,7 @@
   <string name="auto_task_operation_mobile_data">\nМобилни данни</string>
   <string name="auto_task_operation_modify_string">\nРЕГУЛИРАНЕ НА: %s</string>
   <string name="auto_task_operation_mute">\nТих режим</string>
-  <string name="auto_task_operation_no_op">Не избирай това действие</string>
+  <string name="auto_task_operation_no_op">Без</string>
   <string name="auto_task_operation_open">Включено</string>
   <string name="auto_task_operation_open_string">ВКЛЮЧВАНЕ НА: %s</string>
   <string name="auto_task_operation_string_etc">, и др.</string>
@@ -626,8 +626,8 @@
   <string name="cta_dialog_negative">Изход</string>
   <string name="cta_dialog_positive">Приемам</string>
   <string name="cta_dialog_title">Известие за свързване</string>
-  <string name="cta_HIPS_Perm_Location_Desc">получаване на точно местоположение (на база GPS и мрежата)</string>
-  <string name="cta_main_purpose">Добре дошли в Сигурност! Можете да използвате това приложение, за да изчистите непотребните файлове в устройството си, да намерите и неутрализирате вируси, да оптимизирате производителността за игри, да спестите батерия, да управлявате приложения и други.</string>
+  <string name="cta_HIPS_Perm_Location_Desc">За показване на ранни предупреждения за земетресение, свързани с вашето местоположение</string>
+  <string name="cta_main_purpose">Добре дошли в Сигурност! Можете да използвате това приложение, за да освободите място за съхранение, да сканирате устройството си за вируси, да контролирате използването на батерията, да оптимизирате устройството си за игри, да управлявате приложения, да получавате ранно предупреждение за земетресение и други.</string>
   <string name="cta_settings">Разрешаване на достъп до интернет и местоположението</string>
   <string name="current_network_state_not_need_diagnose">Всичко е наред</string>
   <string name="customize_limit_pkg">%s(по избор)</string>
@@ -1169,7 +1169,7 @@
   <string name="gb_advance_settings_screen_hdr_summary">Увеличаване на контраста и подобряване на детайлите за игрите</string>
   <string name="gb_advance_settings_touch">Сензорен контрол</string>
   <string name="gb_advance_settings_vibration_4d">4D вибрация</string>
-  <string name="gb_advance_settings_vibration_4d_summary">Илюстриране на действията по време на игра, чрез вибрация</string>
+  <string name="gb_advance_settings_vibration_4d_summary">Вибрира по време на снимки в играта</string>
   <string name="gb_audition_instruction">Натиснете и задръжте за запис (%1$s-%2$sсек.)</string>
   <string name="gb_audition_play_instruction">Използвайте слушалки за най-добър ефект</string>
   <string name="gb_create_icon_summary">Създайте пряк път на началния екран</string>
@@ -2566,21 +2566,21 @@
   <string name="system_app">Системни приложения</string>
   <string name="system_application">Системни приложения</string>
   <string name="system_permission_declare_agree">Приемам</string>
-  <string name="system_permission_declare_analytics_declare">Благодарим ви, че се включихте в нашата програма за потребителски опит. Устройството ви трябва да бъде свързано с интернет, за да може тази функция да работи нормално. Също така се изисква да предоставите следните разрешения, за да ни позволите да събираме данните, които ще ни помогнат да подобрим нашите продукти и услуги. Тези данни се събират само за статистически цели. Няма да можем да използваме тези данни, за да ви идентифицираме лично.</string>
+  <string name="system_permission_declare_analytics_declare">"Каним ви да се запишете в нашата програма за потребителски опит. Това приложение трябва да се свърже с интернет и да използва следните разрешения или функции, за да събира статистически данни, за да подобри услугите, които ви предоставяме. Ние събираме данни тук само за статистически цели и не можем да ви идентифицираме лично въз основа на данните, които събираме."</string>
   <string name="system_permission_declare_disagree">Не приемам</string>
-  <string name="system_permission_declare_double_link">" "<Data>Прочетете и приемете нашите &lt;a href=\"%1$s\"&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политика за поверителност&lt;/a&gt; преди да използвате тази функция.</Data>" "</string>
+  <string name="system_permission_declare_double_link"><Data>За да разберете напълно вашите права като потребител, както и начините, по които използваме вашите данни, прочетете и се съгласете с нашите &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Политика за поверителност&lt;/a>.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Добре дошли в %1s! Това приложение ви позволява да използвате следната функция: %2s.</string>
   <string name="system_permission_declare_no_say_no">Ако решите да не давате необходимите разрешения или да не ни разрешите да събираме и използваме данните ви, това приложение няма да може да работи нормално.</string>
   <string name="system_permission_declare_no_say_no_analytics">Ако не искате да предоставите тези разрешения, можете да се откажете в Настройки &gt; Допълнителни настройки &gt; Поверителност &gt; Програма за потребителски опит.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Ако решите да не давате необходимите разрешения или не ни разрешите да събираме и използваме вашите данни, това приложение няма да работи частично.</string>
-  <string name="system_permission_declare_privacy_declare">Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност. Имайте предвид, че това приложение трябва да се свърже с интернет и изисква следните разрешения за събиране на вашата лична информация:</string>
-  <string name="system_permission_declare_privacy_no_permission">Имайте предвид, че това приложение трябва да се свърже с интернет и да събира необходимата лична информация, за да ви предоставя услуги. Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност.</string>
-  <string name="system_permission_declare_privacy_policy">" "<Data>Прочетете и приемете нашата &lt;a href=\"%1$s\"&gt;Политика за поверителност&lt;/a&gt; преди да използвате тази функция.</Data>" "</string>
+  <string name="system_permission_declare_privacy_declare">Това приложение трябва да се свърже с интернет и изисква следните разрешения, за да може да работи нормално:</string>
+  <string name="system_permission_declare_privacy_no_permission">Това приложение трябва да се свърже с интернет и да събира необходимите лични данни, за да може да работи нормално.</string>
+  <string name="system_permission_declare_privacy_policy"><Data>За да разберете напълно вашите права като потребител, както и начините, по които използваме вашите данни, прочетете и се съгласете с нашата &lt;a href=\"%1$s\">Политика за поверителност&lt;/a>.</Data></string>
   <string name="system_permission_declare_revoke_system">Можете да излезете от това приложение.</string>
   <string name="system_permission_declare_revoke_uninstallable">Можете да излезете, деинсталирате това приложение или да оттеглите пълномощното си в Сигурност &gt; Упрвление на приложения &gt; Разрешения &gt; Разрешения.</string>
   <string name="system_permission_declare_use_network">връзката с мрежата</string>
   <string name="system_permission_declare_use_network_no_permission">връзката с мрежата</string>
-  <string name="system_permission_declare_user_agreement">" "<Data>Прочетете и приемете нашето &lt;a href=\"%1$s\"&gt;Потребителско споразумение&lt;/a&gt; преди да използвате тази функция.</Data>" "</string>
+  <string name="system_permission_declare_user_agreement"><Data>За да разберете напълно вашите права като потребител, както и начините, по които използваме вашите данни, прочетете и се съгласете с нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a>.</Data></string>
   <string name="system_permission_perm_answer_call">Осъществяване на повиквания</string>
   <string name="system_permission_perm_optional">" (по избор)"</string>
   <string name="system_permission_perm_read_mms">Четене на MMS</string>
@@ -2908,7 +2908,7 @@
   <string name="vb_video_effects_settings_stereo">Сила на звука</string>
   <string name="vb_video_effects_srs_premium_sound">Звук</string>
   <string name="video_repeat">Изпълни отново</string>
-  <string name="videobox_hangup_tips_content">Тази функция позволява на приложението да работи във фонов режим, когато екранът е изключен. Включване сега?</string>
+  <string name="videobox_hangup_tips_content">Екранът ви ще бъде заключен, но приложението все още ще работи във фонов режим, когато тази функция е включена. Натиснете бутона за захранване, за да включите екрана отново. Да се включи ли функцията сега?</string>
   <string name="videobox_hangup_tips_title">Внимание</string>
   <string name="videobox_settings_line_location">Разположение на прекия път</string>
   <string name="videobox_settings_line_location_desc">Показване на пряк път на ръба на екрана</string>

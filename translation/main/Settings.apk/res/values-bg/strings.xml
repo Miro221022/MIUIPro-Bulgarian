@@ -3741,7 +3741,7 @@
     <string name="model_name">Модел</string>
     <string name="my_device">Моето устройство</string>
     <string name="device_miui_version">Версия на MIUI</string>
-    <string name="device_miui_version_update">Наличнa е актуализация</string>
+    <string name="device_miui_version_update">Актуализирай</string>
     <string name="rank_title">Предпочитани</string>
     <string name="device_miui_more">Виж повече</string>
     <string name="device_share_loading">Създаване на изображение</string>
@@ -5607,7 +5607,7 @@
     <string name="add_fingerprint_move_fast">Дръжте пръста си на екрана малко по-дълго</string>
 	<string name="status_bar_settings_show_keyguard_notification_summary">Разрешаване на важни известия на заключен екран</string>
     <string name="flash_drive_backup_restore">Архивиране или възстановяване чрез USB</string>
-    <string name="flash_drive_backup_restore_summary">Свържете USB памет</string>
+    <string name="flash_drive_backup_restore_summary">USB устройство</string>
     <string name="bt_ldac_declaration">Когато Bluetooth устройство поддържа LDAC, то ще бъде свързано по подразбиране. LDAC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. По време на възпроизвеждане могат да възникнат проблеми, дължащи се на ограниченията в хардуера на Bluetooth.</string>
     <string name="bt_ldac_dialog_summary">LDAC осигурява висококачествено аудио изживяване, но също така увеличава консумацията на енергия. Тази функция може да бъде изключена в Настройки.</string>
     <string name="bt_ldac_dialog_title">Текущото устройство поддържа LDAC, което беше свързано по подразбиране:</string>
@@ -6312,11 +6312,11 @@ OTG се изключва автоматично след 10 минути без
 	<string name="bluetooth_unlock_confirm_device_text_for_huami_band">Потвърдете на гривната.</string>
 	<string name="miui_touch_filtered_touchassistant_warning">Диалоговият прозорец на разрешенията е закрит от Плаваща топка. Преместете Плаваща топка или изключете тази функция.</string>
 	<string name="screen_paper_mode_hdr_toast_new">Режимът за четене ще се изключи автоматично по време на възпроизвеждане на HDR видео и проверка на пръстови отпечатъци. Вашето устройство ще се върне в режим за четене, след като тези действия бъдат завършени.</string>
-	<string name="allow_oaid_used">Разрешаване използването на идентификацията на устройство</string>
-    <string name="device_oaid">ID на устройството</string>
-    <string name="restore_oaid_content">Нулирането на текущия идентификатор на устройството ще създаде нов. Нулиране сега?</string>
+	<string name="allow_oaid_used">Ограничете достъпа до всеки идентификационен номер</string>
+    <string name="device_oaid">Управление на виртуалната идентификация</string>
+    <string name="restore_oaid_content">Нулирайте виртуалния си идентификационен номер, за да изчистите записи от поведението и предпочитанията си</string>
     <string name="restore_oaid_positive">Нулиране</string>
-    <string name="restore_oaid_title">Нулиране на идентификатора на устройството</string>
+    <string name="restore_oaid_title">Нулиране на виртуалната идентификация</string>
 	<string name="backup_set_new_continue">Продължаване</string>
     <string name="backup_set_new_exit">Изход</string>
     <string name="backup_set_new_pw_confirm_hint">Внимание</string>
@@ -6566,9 +6566,7 @@ OTG се изключва автоматично след 10 минути без
     <string name="weight_light">Light</string>
     <string name="weight_heavy">Bold</string>
     <string name="weight_setting_toast">Можете да промените едрината на шрифта само за шрифта по подразбиране на системата</string>
-    <string name="auto_clean_title">Ясен говорител</string>
     <string name="auto_clean_summary">Изпълнение на 30-секунден звук, за да изчистите високоговорителя</string>
-    <string name="auto_clean_description">Относно тази функция\n1. Изпълнете тази функция веднъж или два пъти, ако установите, че високоговорителят ви е леко замърсен от прах.\n2. Ако високоговорителят е блокиран замърсен, стартирайте тази функция 2-5 пъти, докато разклащате устройството си с високоговорителя надолу.</string>
     <string name="dialog_speaker_auto_clean_title">Внимание</string>
     <string name="dialog_speaker_auto_clean_content">"Почистването отнема 30 секунди. Не напускайте тази страница. Увеличете силата на звука за най-добър ефект."</string>
     <string name="dialog_speaker_auto_clean_button">Разбрах</string>
@@ -6720,10 +6718,10 @@ OTG се изключва автоматично след 10 минути без
 Резервни копия в облака:
 Резервните копия се съхраняват в Xiaomi Облак и могат да бъдат достъпни безжично. Този метод е по-бърз и лесен от локалните резервни копия, но не можете да архивирате данните за приложенията в Xiaomi Облак.
 "</string>
-    <string name="backup_difference_title">4. По какво се различават локалното архивиране от облачните резервни копия?</string>
+    <string name="backup_difference_title">По какво се различават локалното архивиране от облачните резервни копия?</string>
     <string name="backup_restore_data_content">"Вашите резервни копия могат да съдържат контакти, съобщения (SMS и MMS), история на обажданията, събития в календара, снимки, аудио файлове, видеоклипове, документи, приложения, данни за приложения и оформление на началния екран.
 "</string>
-    <string name="backup_restore_data_title">5. Какви елементи мога да архивирам или възстановя?</string>
+    <string name="backup_restore_data_title">Какви елементи мога да архивирам или възстановя?</string>
     <string name="clear_all_data">Изтрий всички данни</string>
     <string name="clear_phone_data_category">Изтрийте следните елементи</string>
     <string name="cloud_restore_section_summary_new">Архивиране на оформлението на началния екран, приложенията, системните настройки и други</string>
@@ -6732,50 +6730,50 @@ OTG се изключва автоматично след 10 минути без
     <string name="contact_data">Контакти</string>
     <string name="datasize_decrease_content">"Контакти, съобщения и системни данни се компресират, докато се архивират, което води до по-малък размер на файла.
 "</string>
-    <string name="datasize_decrease_title">6. Защо някои архивирани файлове са по-малки от действителните елементи?</string>
-    <string name="how_backup_content">"Има 3 вида архивиране, които можете да създадете: локални, облачни и USB.
+    <string name="datasize_decrease_title">Защо някои архивирани файлове са по-малки от действителните елементи?</string>
+    <string name="how_backup_content">"Можете да запазвате резервни копия локално или в облака. Локалните архиви могат да се съхраняват на вашето мобилно устройство, компютър или USB устройство.
 
-Локални резервни копия:
-Локалните резервни копия ви позволяват да запишете системните си настройки, акаунти, данни за приложения и други елементи в отделен файл, съхраняван на вашето устройство (MIUI-backup-AllBackup). След създаването на архивния файл можете да го прехвърлите на вашия компютър чрез USB кабел.
-Забележка:
-Можете да използвате Mi PC Suite за архивиране и възстановяване на елементи.
+Мобилно устройство
+Запишете системните си настройки, акаунти, данни за приложения и други елементи в отделен файл, съхраняван на вашето устройство (MIUI-backup-AllBackup). Забележка: Извършването на фабрично нулиране изтрива такива архиви за постоянно. Не забравяйте да копирате архивите на вашия компютър.
 
-Резервни копия в облака:
-Можете да архивирате системните настройки, оформлението на началния екран, приложенията и други елементи в Xiaomi Облак безжично.
+Компютър
+Създайте резервно копие на това устройство, след това отидете в MIUI-backup-AllBackup и копирайте архива на вашия компютър чрез USB кабел.
 
-USB архивиране:
-Този метод ви позволява да запишете системни настройки, акаунти, данни за приложения и други елементи на външно USB устройство за съхранение.
-"</string>
-    <string name="how_backup_title">1. Как мога да архивирам елементи?</string>
-    <string name="how_encrypt_content">"Можете да шифровате само локални архиви. Има два начина да направите това:
-a) Отворете страницата с локалните си резервни копия, докоснете бутона, за да включите криптирането и влезте във вашия Mi профил. Резервните копия ще бъдат шифровани автоматично след това. Не забравяйте, че ще трябва да влезете във вашия Mi профил, за да възстановите елементи от криптираните резервни копия.
+USB устройство
+Запазете системните си настройки, акаунти, данни за приложения и други елементи на USB устройство.
+
+Xiaomi Облак
+Синхронизирайте вашите контакти, снимки, видеоклипове, списъка с вашите приложения, системни настройки и оформление на началния екран с облака."</string>
+    <string name="how_backup_title">Как мога да архивирам елементи?</string>
+    <string name="how_encrypt_content">"Можете да шифровате само местни архиви. Ето някои методи за криптиране, които можете да използвате:
+a) Отидете в Настройки > Допълнителни настройки на страницата с локалните резервни копия, докоснете бутона, за да включите криптирането и влезте във вашия Mi акаунт. Резервните копия ще бъдат криптирани автоматично след това. Не забравяйте, че ще трябва да влезете във вашия Mi акаунт, за да възстановите елементи от криптирани архиви.
 b) Ако използвате Mi PC Suite за архивиране на елементи, можете да използвате опциите за криптиране там.
 
-Забележка:
-Запомнете паролата, която сте задали! Няма да можете да дешифрирате вашите архиви, ако я забравите.
-"</string>
-    <string name="how_encrypt_title">3. Как да шифровам резервните си копия?</string>
+Забележка: Запомнете паролата, която сте задали за криптираните архиви! Няма да можете да дешифрирате вашите архиви, ако я забравите."</string>
+    <string name="how_encrypt_title">Как да шифровам резервните си копия?</string>
     <string name="how_restore_backup_content">"Ето как можете да възстановите елементи, които са били архивирани с помощта на различни методи:
 
-Локални резервни копия:
-Копирайте архивния файл от компютъра на устройството си (MIUI-backup-AllBackup). Отворете Настройки> Архивиране, възстановяване или нулиране> На това устройство и изберете файла.
+Мобилно устройство
+Докоснете \"Мобилно устройство\" намерете опцията за възстановяване на елементи и изберете резервното копие, за да продължите.
 
-Резервни копия в облака:
-Влезте във вашия Mi профил, отворете Настройки> Резервно копие, възстановяване или нулиране> В Xiaomi Облак и изберете файла.
+Компютър
+Копирайте архива от вашия компютър в MIUI-backup-AllBackup чрез USB кабел и възстановете елементите от мобилното си устройство.
 
-USB резервни копия:
-Копирайте архивния файл на вашето устройство (MIUI-backup-AllBackup). Отворете Настройки> Архивиране, възстановяване или нулиране> На това устройство и изберете файла.
-"</string>
-    <string name="how_restore_backup_title">2. Как да възстановя архивираните елементи?</string>
+USB устройство
+Копирайте резервното копие от USB устройството си в MIUI-backup-AllBackup и изберете опцията за възстановяване на елементи от USB устройство, за да продължите.
+
+Xiaomi Облак
+Отворете Xiaomi Облак и възстановете елементите от там."</string>
+    <string name="how_restore_backup_title">Как да възстановя архивираните елементи?</string>
     <string name="local_backup_section_summary_new">Архивирайте профили, данни за приложения, системни настройки и др.</string>
     <string name="local_backup_section_title_new">На това устройство</string>
-    <string name="master_clear_title_new">Изтриване на всички данни (фабрично нулиране)</string>
+    <string name="master_clear_title_new">Фабрично нулиране</string>
     <string name="other_data">Други елементи на това устройство</string>
     <string name="photo_data">Снимки и видеоклипове</string>
-    <string name="privacy_settings_new">Архивиране, възстановяване или нулиране</string>
+    <string name="privacy_settings_new">Архивиране и възстановяване</string>
     <string name="reset_title">Нулиране</string>
     <string name="sd_data">Данни на SD картата</string>
-    <string name="system_backup_section_title_new">Архивиране или възстановяване</string>
+    <string name="system_backup_section_title_new">Локално</string>
     <string name="tip_remove_data">Фабричното нулиране ще изтрие тези елементи от вашето устройство</string>
     <string name="wifi_assist">WLAN асистент</string>
     <string name="wifi_link_turbo_customize">Персонализирани приложения</string>
@@ -6808,11 +6806,229 @@ USB резервни копия:
     <string name="input_method_quick_taobao_title">Taobao връзки</string>
     <string name="input_method_quick_url_summary">Отворете копираните уеб адреси, като докоснете иконата на буферната памет</string>
     <string name="input_method_quick_url_title">Уебстраници</string>
-	<string name="aggregate_title">Правила за групирани известия</string>
+	<string name="aggregate_title">Правила за групиране на известията</string>
 	<string name="ring_to_you">Потребителски тон за звънене</string>
     <string name="ring_to_you_info">Задайте персонализиран тон, който другите хора ще чуят, преди да вдигнете</string>
 	<string name="bluetooth_mi_fast_connect">Сдвояване на съвместими устройства</string>
     <string name="screen_dark_mode_smart_dark_3rd_apps_list">Приложения от трети страни</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Някои приложения може да се показват неправилно в тъмен режим. Тук можете да ограничите използването на тъмен режим за отделни приложения.</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Отделни приложения</string>
+	    <string name="allow_oaid_used_desc">"Приложенията няма да имат достъп до който и да е идентификационен номер, освен ако изрично не им разрешите да направят това. Някои функции на лични препоръки може да не работят правилно, когато тази функция е включена."</string>
+    <string name="auto_clean_description">"Относно тази функция
+1. Изпълнете тази функция веднъж или два пъти, ако установите, че високоговорителят ви е леко замърсен с прах.
+2. Ако високоговорителят е замърсен силно, стартирайте тази функция 2-5 пъти, докато разклащате устройството си с високоговорителя надолу."</string>
+    <string name="auto_clean_title">Изчистване на говорителя</string>
+    <string name="backup_at_once">Архивиране</string>
+    <string name="backup_more_settings">Настройки</string>
+    <string name="bluetooth_device_nearby_title">Устройства наблизо</string>
+    <string name="bottom_function_settings">Функции на допълнителните бутони</string>
+    <string name="change_lock_screen_password_title">Промяна на заключването на екрана</string>
+    <string name="clear_data_alert_info">Всички архиви, съхранявани на това устройство, ще бъдат изтрити за постоянно. Създайте резервно копие на важните елементи на вашия компютър и Xiaomi Облак преди да продължите.</string>
+    <string name="cloud_category_text">Облак</string>
+    <string name="computer_backup_summary">Архивирайте и възстановете елементи с помощта на компютър</string>
+    <string name="computer_backup_title">Компютър</string>
+    <string name="continue_reset_factory">Фабрично нулиране</string>
+    <string name="current_password">Текущо заключване на екрана</string>
+    <string name="custom_color">Потребителско</string>
+    <string name="dark_mode_contrast">Регулирайте контраста автоматично</string>
+    <string name="dark_mode_contrast_hint">Настройвайте цветовете и по-ниския контраст автоматично, когато яркостта е намалена</string>
+    <string name="default_keyboard">Стандартно</string>
+    <string name="detail_question">Подробности</string>
+    <string name="device_oaid_desc">Вместо вашия истински идентификатор, MIUI ще предостави виртуален идентификатор (OAID) на приложения на трети страни. Той не позволява на приложенията да следят вашето поведение и предпочитания и защитава поверителността ви.</string>
+    <string name="device_oaid_title">Виртуална идентификация</string>
+    <string name="device_of_someone">"%1$s's %2$s"</string>
+    <string name="dialog_backup_title">Актуализирайте архивирането преди да извършите фабричното нулиране?</string>
+    <string name="dialog_speaker_auto_clean_button">разбрах</string>
+    <string name="dialog_speaker_auto_clean_title">Внимание</string>
+    <string name="face_data_apply_for_category_title">Отключване чрез данни за лице</string>
+    <string name="face_data_apply_for_keyguard_title">Заключен екран</string>
+    <string name="face_data_input_camera_fail">"Камерата не може да се зареди"</string>
+    <string name="face_data_input_camera_ok">Зареждане на камерата…</string>
+    <string name="face_data_input_cancel_msg">"Не могат да се добавят лицеви данни"</string>
+    <string name="face_data_input_ok">Готово</string>
+    <string name="face_data_input_ok_title">Добавено успешно</string>
+    <string name="face_data_input_structure_title">3D лицеви данни</string>
+    <string name="face_data_input_title">Добави лицеви данни</string>
+    <string name="face_data_introduction_msg">Данните за лице могат да се използват за отключване на устройството ви или за проверка на самоличността ви. Добавете парола за заключен екран, преди да добавите личните си данни.</string>
+    <string name="face_data_introduction_next">Следващо</string>
+    <string name="face_data_introduction_title">Разпознаване на лице</string>
+    <string name="face_data_manage_delete">Да се изтрият ли личните данни?</string>
+    <string name="face_data_manage_delete_msg">Изтриване на лицевите данни</string>
+    <string name="face_data_manage_delete_sure">"Няма да можете да отключите устройството, чрез личните си данни, след като го изтриете."</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">След като екранът светне, плъзнете нагоре, за да отключите устройството, чрез данни за лице.</string>
+    <string name="face_data_manage_unlock_msg">Отключете устройството чрез личните си данни</string>
+    <string name="face_data_manage_unlock_slide_msg">Заменете плъзгащите икони с отключване с лицето</string>
+    <string name="face_data_manage_unlock_title">Отключване чрез данни за лице</string>
+    <string name="face_data_siggesstion_next">Следващо</string>
+    <string name="face_data_siggesstion_next_time">Следващо (%dсек.)</string>
+    <string name="face_data_suggesstion_first">Проблеми със сигурността: Отключването с лице е по-несигурно от PIN, парола или шаблон. Устройството ви може да се отключи с ваша снимка, както и от хора или предмети с подобен външен вид.</string>
+    <string name="face_data_suggesstion_second">"Уверете се, че всички части на лицето ви не са покрити от предмети и са ясно видими. Лицето ви също трябва да е добре осветено."</string>
+    <string name="face_unlock">Отключване с лице</string>
+    <string name="face_unlock_be_on_the_screen">Дръжте устройството пред лицето си</string>
+    <string name="face_unlock_by_notification_screen_on_msg">Можете да отключите устройството, като използвате данни за лице, когато екранът светне за входящи известия. Това може да изтощи батерията по-бързо.</string>
+    <string name="face_unlock_by_notification_screen_on_title">Разреши отключване с лице, когато светне екрана</string>
+    <string name="face_unlock_category_title">Опции за заключване на екрана</string>
+    <string name="face_unlock_check_failed">"Не сте разпознат"</string>
+    <string name="face_unlock_close_screen">Приближете се до екрана</string>
+    <string name="face_unlock_down">Повдигнете главата си</string>
+    <string name="face_unlock_not_found">"Не сте разпознат"</string>
+    <string name="face_unlock_offset_bottom">Спуснете малко телефона си</string>
+    <string name="face_unlock_offset_left">Придвижете надясно</string>
+    <string name="face_unlock_offset_right">Придвижете наляво</string>
+    <string name="face_unlock_offset_top">Повдигнете телефона си малко</string>
+    <string name="face_unlock_open_eye">Отворете очите си малко по-широко</string>
+    <string name="face_unlock_quality">"Лицето ви не се вижда ясно"</string>
+    <string name="face_unlock_reveal_eye">Покажете очите си</string>
+    <string name="face_unlock_reveal_mouth">Покажете устните си</string>
+    <string name="face_unlock_rise">Наведете главата си</string>
+    <string name="face_unlock_rotated_left">Завъртете главата си надясно</string>
+    <string name="face_unlock_rotated_right">Завъртете главата си наляво</string>
+    <string name="face_unlock_sc_status">Обърнете екрана надолу, за да отворите камерата</string>
+    <string name="face_unlock_stay_away_screen">Стойте на разстояние от 25 - 40 см от екрана</string>
+    <string name="face_unlock_success_show_message_dialog_msg">Разрешете известия за заключен екран, за да можете да ги виждате на заключения екран.</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">Не благодаря</string>
+    <string name="face_unlock_success_show_message_dialog_positive_btn">Разреши</string>
+    <string name="face_unlock_success_show_message_dialog_title">Известия на заключен екран</string>
+    <string name="face_unlock_success_show_message_msg">Показване само източника на известията, когато устройството е заключено и добавяне на подробности след потвърждаване на данните</string>
+    <string name="face_unlock_success_show_message_toast">Известията ще бъдат показани на заключен екран</string>
+    <string name="face_unlock_success_stay_screen_msg">Оставане на заключен екран, след като лицето ви е потвърдено. Плъзнете нагоре, за да отворите началния екран.</string>
+    <string name="face_unlock_success_stay_screen_title">Оставане на заключен екран след отключване</string>
+    <string name="feedback_btn_text">Изпрати отзива</string>
+    <string name="flash_drive_backup_disable">Свържете първо USB устройството</string>
+    <string name="flash_drive_backup_enable">Използвайте USB устройство за архивиране или възстановяване на елементи</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">Натиснете и задръжте и след това издърпайте лентата за действие на плаващия прозорец</string>
+    <string name="freeform_guide_move_summary">Натиснете и задръжте лентата за действие на плаващия прозорец, за да плъзнете</string>
+    <string name="freeform_guide_move_title">Преместване на плаващия прозорец</string>
+    <string name="freeform_guide_move_to_small_freeform_window_summary">Плъзнете плаващия прозорец в ъгъла на екрана</string>
+    <string name="freeform_guide_move_to_small_freeform_window_title">Минимизиране на плаващи прозорци</string>
+    <string name="freeform_guide_notification_drop_down_summary">Натиснете и задръжте и след това издърпайте лентата за действие на известието</string>
+    <string name="freeform_guide_notification_drop_down_title">Отваряне на плаващи прозорци</string>
+    <string name="freeform_guide_settings">Плаващ прозорец</string>
+    <string name="freeform_guide_slide_up_to_close_summary">Плъзнете нагоре от лентата за действие на плаващия прозорец</string>
+    <string name="freeform_guide_slide_up_to_close_title">Затваряне на плаващи прозорци</string>
+    <string name="freeform_vedio_description">"·Натиснете и задръжте и след това изтеглете известието, за да го отворите в плаващ прозорец.
+·Докоснете \"Плаващ прозорец\" в Последни, за да изберете приложения."</string>
+    <string name="gps_description_global">Няколко спътникови навигационни системи (%s) се поддържат</string>
+    <string name="help_and_feedback_title">Помощ и обратна връзка</string>
+    <string name="micloud_service_summary">Синхронизирайте списъка с приложения, архивирайте системните настройки и оформлението на началния екран</string>
+    <string name="micloud_service_title">Xiaomi Облак</string>
+    <string name="miui_accessibility_asr_summary">Препишете звук и запишете текст</string>
+    <string name="miui_accessibility_asr_title">Mi Ditto</string>
+    <string name="miui_face_enroll_success">"Можете да отключите това устройство, като използвате личните си данни.
+Продължете за достъп до допълнителни настройки."</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завърши</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">няма данни</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
+    <string name="multi_face_delete_message">Внимание</string>
+    <string name="multi_face_delete_show_message">Да се изтрият ли личните данни сега?</string>
+    <string name="multi_face_input">Добави данни за лице</string>
+    <string name="multi_face_input_reach_upper_limit">"Неуспешно добавяне на лицеви данни. Изчакайте минута или две и опитайте отново."</string>
+    <string name="multi_face_input_success_name_title">Име</string>
+    <string name="multi_face_list">Данни за лице</string>
+    <string name="multi_face_name_prefix">"Лице "</string>
+    <string name="multi_face_number_reach_limit">"Не могат да се добавят данни за повече от 2 лица"</string>
+    <string name="multifunction_keyboard">Многофункционална</string>
+    <string name="nfc_repair_action_btn">Възстановяване</string>
+    <string name="nfc_repair_action_desc">Докоснете \"<b>Възстановяване</b>"\", за да коригирате проблемите, които ви пречат да използвате функции на NFC. Не напускайте текущата страница, докато функционалността на NFC се възстановява. Рестартирайте устройството си, за да приложите промените."</string>
+    <string name="nfc_repair_btn_no">Не</string>
+    <string name="nfc_repair_btn_reboot">Рестартиране</string>
+    <string name="nfc_repair_btn_reboot_later">По-късно</string>
+    <string name="nfc_repair_btn_retry">Повторен опит</string>
+    <string name="nfc_repair_btn_yes">Да</string>
+    <string name="nfc_repair_confirm_desc" formatted="false">"Изпитвали ли сте някой от тези проблеми?
+%d. Не можете да добавите или допълвате NFC карта.
+%d. Вашата NFC карта не работи.
+%d. Други функции на NFC не се зареждат."</string>
+    <string name="nfc_repair_fail_desc">Възникна грешка, която попречи на възстановяването на функционалността на NFC. Опитайте отново.</string>
+    <string name="nfc_repair_fail_title">"Не може да се възстанови"</string>
+    <string name="nfc_repair_ongoing">"Възстановяване… Не напускайте старницата."</string>
+    <string name="nfc_repair_pass_desc">Рестартирайте устройството си, за да приложите промените.</string>
+    <string name="nfc_repair_pass_title">Възстановено е успешно</string>
+    <string name="nfc_repair_summary">Поправете проблемите, които ви пречат да използвате функциите на NFC</string>
+    <string name="nfc_repair_title">Възстановяване на функционалността на NFC</string>
+    <string name="oaid_string">"Текущ виртуален идентификатор:
+%1s"</string>
+    <string name="operation_guide_title">Упътване</string>
+    <string name="other_password">Други пароли</string>
+    <string name="password_and_security">Пароли и сигурност</string>
+    <string name="phone_backup_summary">Архивиране и възстановяване на елементи на това устройство</string>
+    <string name="phone_backup_title">Мобилно устройство</string>
+    <string name="privacy_protection">Защита на поверителността</string>
+    <string name="regional_screen_shot">Частична екранна снимка</string>
+    <string name="rgb_face_data_manage_delete_msg">Изтрий 2D данни за лице</string>
+    <string name="sos_phone_call_privacy_dialog_message">"За да се обадите на аварийните си контакти и да възпроизведете SOS запис, това приложение се нуждае от следните разрешения:
+• Обаждания
+За провеждане на разговори към вашите спешни контакти
+• Наблюдение на състоянието на устройството
+За възпроизвеждане на SOS запис, когато аварийните ви контакти отговорят
+Ако не сте съгласни да предоставите такива разрешения, няма да можете да използвате някои функции на това приложение; основната му функционалност обаче ще ви бъде достъпна. Винаги можете да изберете да изключите тази функция."</string>
+    <string name="sos_phone_call_privacy_dialog_message_confirm">Разреши</string>
+    <string name="sos_phone_log_privacy_dialog_message">"Това приложение се нуждае от разрешение за достъп до историята на обажданията ви, за да може да я споделя с вашите контакти за спешни случаи.
+Ако не сте съгласни да предоставите такива разрешения, няма да можете да използвате някои функции на това приложение; основната му функционалност обаче ще ви бъде достъпна. Винаги можете да изберете да изключите тази функция."</string>
+    <string name="sos_privacy_dialog_message_new_version">"Спешна SOS ви позволява да споделяте местоположението си в реално време и да изпращате текстови съобщения до вашите контакти за спешни случаи.
+Ние ще защитаваме вашата лична информация съгласно съответните закони, разпоредби и политики за поверителност.
+Имайте предвид, че това приложение трябва да се свърже с интернет и изисква следните разрешения за събиране на вашата лична информация:
+• Достъп до хранилището
+За запазване на спешни контакти
+• Достъп до контакти
+За маркиране на контактите като спешни контакти
+• Изпращане на SMS
+За изпращане на текстови съобщения до спешните контакти
+• Достъп до местоположението
+За споделяне на местоположението ви със спешните контакти
+Ако не сте съгласни да дадете такива разрешения или да споделяте и качвате личната си информация, няма да можете да използвате това приложение. В такъв случай можете да изберете да изключите или да не използвате спешни обаждания.
+Преди да използвате нашите услуги, прочетете и се съгласете с нашите %s."</string>
+    <string name="sound_assist_summary">Персонализирайте звуковите си настройки</string>
+    <string name="sound_assist_title">Звуков асистент</string>
+    <string name="storage_use_title">Заето</string>
+    <string name="structure_face_data_delete_fail">"Нуспешно изтриване на 3D данни за лице. Опитайте отново."</string>
+    <string name="structure_face_data_input_down">наведете главата си</string>
+    <string name="structure_face_data_input_error_away_screen">Отдалечете телефона малко от лицето си</string>
+    <string name="structure_face_data_input_error_expose_features">"Не се виждат части от лицето ви"</string>
+    <string name="structure_face_data_input_error_keep_inface">Дръжте лицето си в рамката</string>
+    <string name="structure_face_data_input_error_overly_light">Подсветката е твърде силна</string>
+    <string name="structure_face_data_input_left">Завъртете главата си наляво</string>
+    <string name="structure_face_data_input_right">Завъртете главата си надясно</string>
+    <string name="structure_face_data_input_timeout_msg">"Не може да се запише Опитайте отново."</string>
+    <string name="structure_face_data_input_timeout_title">Повторен опит</string>
+    <string name="structure_face_data_input_up">Погледнете нагоре</string>
+    <string name="structure_face_data_introduction_back">Назад</string>
+    <string name="structure_face_data_introduction_msg">3D данните за лице позволяват да отключите вашето устройство и да проверите вашата самоличност. Трябва да зададете парола, преди да използвате тази функция.</string>
+    <string name="structure_face_data_introduction_title">Добавяне на 3D данни за лице</string>
+    <string name="structure_face_data_ir_input_face">Преместете леко главата си</string>
+    <string name="structure_face_data_manage_delete_msg">Изтриване на 3D данни за лице</string>
+    <string name="structure_face_data_suggestion_text">"Уверете се, че всички части на лицето ви са ясно видими. Не носете шапки, слънчеви очила или други аксесоари, които могат да покриват лицето ви, докато записвате 3D данни. Уверете се, че и лицето ви е равномерно осветено."</string>
+    <string name="structure_face_data_suggestion_warning_text">Забележка: Използването на данни за 3D лице е малко по-несигурно, отколкото използването на парола. Хора или предмети, които приличат много на вас, може да успеят да отключат устройството ви.</string>
+    <string name="structure_face_delete_data_dialog_msg">"Камерата не може да стартира и да получите визуализация. Опитайте отново."</string>
+    <string name="structure_face_delete_data_dialog_msg_retry">Опитайте отново</string>
+    <string name="structure_face_delete_data_dialog_title">"Камерата не може да стартира"</string>
+    <string name="structure_face_hardware_abnormal_btn">Разбрах</string>
+    <string name="structure_face_hardware_abnormal_msg">"Възникна хардуерна грешка. Рестартирайте устройството си. Ако това не помогне, обадете се на 400–100–5678, за да получите помощ."</string>
+    <string name="structure_face_hardware_abnormal_title">Хардуерна грешка</string>
+    <string name="structure_face_modules_abnormal_btn">Рестартиране</string>
+    <string name="structure_face_modules_abnormal_msg">"Не могат да се записват данни за лице поради грешка в оптичния модул. Рестартирайте устройството си и опитайте отново."</string>
+    <string name="structure_face_modules_abnormal_title">Грешка в оптичния модъл</string>
+    <string name="structure_face_unlock_model2d_dialog_msg">"3D разпознаването ще бъде изключено. Вашите 3D данни за лице ще бъдат изтрити. Ще трябва да добавите и своите 2D данни за лице. Включване на 2D разпознаване?"</string>
+    <string name="structure_face_unlock_model2d_dialog_title">Включване на 2D разпознаване</string>
+    <string name="structure_face_unlock_model3d_dialog_msg">"2D разпознаването ще бъде изключено. Вашите 2D данни за лице ще бъдат изтрити. Ще трябва да добавите и своите 3D данни за лице. Включване на 3D разпознаване?"</string>
+    <string name="structure_face_unlock_model3d_dialog_title">Включване на 3D разпознаване</string>
+    <string name="structure_face_unlock_model_dialog_enable">Включи</string>
+    <string name="structure_face_unlock_model_dialog_notenable">Не благодаря</string>
+    <string name="structure_face_unlock_model_other">Други</string>
+    <string name="structure_face_unlock_model_other_msg_2d">2D разпознаване</string>
+    <string name="structure_face_unlock_model_other_msg_3d">3D разпознаване</string>
+    <string name="structure_face_unlock_model_other_suggestion_2d">2D разпознаването на лице е по-малко защитено от модел, ПИН или парола. Когато тази функция е включена, устройството ви може да се отключи с ваша снимка, както и от хора или предмети, които приличат на вас.</string>
+    <string name="structure_face_unlock_model_other_suggestion_3d">"3D разпознаването на лица е сравнително сигурно. Малко вероятно е вашето устройство да може да се отключи с ваша снимка, когато тази функция е включена. Може обаче да се отключи от хора или предмети, които приличат на вас."</string>
+    <string name="structure_face_unlock_model_other_title">Лицево разпознаване</string>
+    <string name="structure_face_unlock_not_same_person">"Трябва да изпълните всички стъпки сами. Не сменяйте мястото си с никого."</string>
+    <string name="structure_face_unlock_tof_covered">"Данните за лицето не можаха да се добавят. Отдалечете се от екрана."</string>
+    <string name="three_gesture_long_press">Натиснете и задръжте с %d пръста</string>
+    <string name="turn_off_keyguard_password_title">Изключи заключването на екрана</string>
+    <string name="unlock_failed">Вътрешна грешка</string>
+    <string name="use_control_panel">Използвайте Център за контрол</string>
 </resources>
