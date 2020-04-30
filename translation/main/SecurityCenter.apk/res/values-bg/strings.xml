@@ -3397,4 +3397,9 @@
     <string name="usb_mount">Монтирай USB устройството</string>
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+	<string name="app_manager_anomaly_analysis">Анализ на отклоненията в приложенията</string>
+	    <string name="oaid_reset_content_tip">若关闭虚拟身份ID，部分应用及五福可能无法正常使用，并可能造成部分数据丢失，请谨慎操作！</string>
+    <string name="oaid_reset_final_tip">是否确定关闭虚拟身份ID？</string>
+    <string name="privacy_mask_summary">MIUI将向三方应用提供虚拟的身份ID(OAID)代替您的真实身份识别，防止应用对您的行为及喜好记录进行追踪，保护您的个人隐私信息</string>
+    <string name="privacy_mask_title">已开启虚拟身份ID</string>
 </resources>

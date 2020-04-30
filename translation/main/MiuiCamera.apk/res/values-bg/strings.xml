@@ -1248,4 +1248,5 @@
     <string name="preference_copied">\"%1$s\" е копирано в буферната памет.</string>
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+	<string name="clone_recapture_alert">Започване отначало?</string>
 </resources>

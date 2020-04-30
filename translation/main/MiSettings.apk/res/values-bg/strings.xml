@@ -450,4 +450,6 @@
     <string name="usage_runtime_per_des_title">"Добавяне и изтриване на файлове във вътрешната памет на устройството"</string>
     <string name="usage_runtime_summary">Тези разрешения са необходими за предоставяне на основните функции и услуги на това приложение.</string>
     <string name="usage_runtime_title">Задължителни разрешения</string>
+	<string name="control_center_title_new">Използвано днес</string>
+    <string name="focus_mode_custom_time">Персонализирана продължителност</string>
 </resources>
