@@ -908,6 +908,5 @@
     <string name="ota_recovery_theme_notity_title">Възстановете темата си</string>
     <string name="resource_incall_show_download">Изтегли видео</string>
     <string name="super_wallpaper">Супер тапет</string>
-    <string name="theme_component_video_wallpaper">Динамични тапети</string>
     <string name="theme_wallpaper">Категория тапети</string>
 </resources>

@@ -3151,7 +3151,6 @@
     <string name="abc_shareactionprovider_share_with">Сподели с</string>
     <string name="abc_shareactionprovider_share_with_application">Сподели с %s</string>
     <string name="abc_toolbar_collapse_description">Свиване</string>
-    <string name="app_behavior_desc_virtual_once">Върнато празно съобщение в %1$s</string>
     <string name="app_behavior_get_install">%1s получи достъп до списъка с приложенията ви</string>
     <string name="app_behavior_get_install_single">Това приложение има достъп до списъка с вашите приложения</string>
     <string name="app_behavior_now_running">Работещи</string>
@@ -3194,7 +3193,6 @@
     <string name="perm_intercept_privacy_content">Тези действия могат да разкрият вашите лични данни. Даване на разрешение за (%1s) въпреки това?</string>
     <string name="perm_intercept_title">Даване на разрешение за достъп до данни за използването на %1s ще позволи на това приложение да извърши следните действия:</string>
     <string name="perm_intercept_unknown_title">Разрешаването на %1s да инсталира приложения от неизвестни  източници може да представлява следните рискове:</string>
-    <string name="permission_action_desc">Давайте разрешения, но връщайте празни съобщения в приложението, за да защитите поверителността</string>
     <string name="permission_action_desc_always">Това разрешение може да се използва по всяко време</string>
     <string name="permission_action_desc_foreground">"Това разрешение може да се използва само докато използвате приложението"</string>
     <string name="permission_action_desc_prompt">Това разрешение може да се използва само когато го разрешите</string>

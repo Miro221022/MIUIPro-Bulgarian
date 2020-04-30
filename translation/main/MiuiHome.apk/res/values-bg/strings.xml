@@ -518,13 +518,6 @@
     <string name="preference_copied">\"%1$s\" е копирано в буферната памет.</string>
     <string name="recents_smallwindow_text">Пуснете, за да добавите</string>
     <string name="recents_tv_small_window_text">Плаващи прозорци</string>
-    <string name="small_window_button_complete">Готово</string>
-    <string name="small_window_edit_content">Можете да добавите до %d приложения</string>
-    <string name="small_window_edit_title">Текущи приложения</string>
-    <string name="small_window_empty">Изберете от наличните приложения</string>
-    <string name="small_window_select_title">Налични приложения</string>
-    <string name="small_window_title_text">Докоснете, за да отворите плаващ прозорец</string>
-    <string name="small_window_toast">Можете да добавите до %d приложения</string>
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
 	<string name="small_window_button_complete">Готово</string>
@@ -534,4 +527,7 @@
     <string name="small_window_select_title">Налични приложения</string>
     <string name="small_window_title_text">Докоснете, за да отворите плаващ прозорец</string>
     <string name="small_window_toast">Можете да добавите до %d прилоения</string>
+	<string name="content_description_button_add">Докоснете, за да добавите към текущите приложения</string>
+    <string name="content_description_button_disable">"Не могат да се добавят повече текущи приложения"</string>
+    <string name="content_description_button_remove">Докоснете, за да премахнете от текущите приложения</string>
 </resources>

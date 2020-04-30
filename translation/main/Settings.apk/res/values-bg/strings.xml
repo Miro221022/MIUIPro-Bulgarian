@@ -6567,7 +6567,6 @@ OTG се изключва автоматично след 10 минути без
     <string name="weight_heavy">Bold</string>
     <string name="weight_setting_toast">Можете да промените едрината на шрифта само за шрифта по подразбиране на системата</string>
     <string name="auto_clean_summary">Изпълнение на 30-секунден звук, за да изчистите високоговорителя</string>
-    <string name="dialog_speaker_auto_clean_title">Внимание</string>
     <string name="dialog_speaker_auto_clean_content">"Почистването отнема 30 секунди. Не напускайте тази страница. Увеличете силата на звука за най-добър ефект."</string>
     <string name="dialog_speaker_auto_clean_button">Разбрах</string>
 	<string name="notification_animation_style">Специални ефекти</string>
@@ -6838,7 +6837,6 @@ Xiaomi Облак
     <string name="device_oaid_title">Виртуална идентификация</string>
     <string name="device_of_someone">"%1$s's %2$s"</string>
     <string name="dialog_backup_title">Актуализирайте архивирането преди да извършите фабричното нулиране?</string>
-    <string name="dialog_speaker_auto_clean_button">разбрах</string>
     <string name="dialog_speaker_auto_clean_title">Внимание</string>
     <string name="face_data_apply_for_category_title">Отключване чрез данни за лице</string>
     <string name="face_data_apply_for_keyguard_title">Заключен екран</string>
