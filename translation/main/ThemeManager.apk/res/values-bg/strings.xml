@@ -909,4 +909,8 @@
     <string name="resource_incall_show_download">Изтегли видео</string>
     <string name="super_wallpaper">Супер тапет</string>
     <string name="theme_wallpaper">Категория тапети</string>
+	<string name="apply_choosen_type_resource">Приложи избраните елементи</string>
+    <string name="gallery_wallpaper_theme">Трябва да имате тези тапети</string>
+    <string name="theme_not_include_module_desc">Тази тема не съдържа следните елементи: %s</string>
+    <string name="gallery_wallpaper">Ежедневни Тапети</string>
 </resources>
