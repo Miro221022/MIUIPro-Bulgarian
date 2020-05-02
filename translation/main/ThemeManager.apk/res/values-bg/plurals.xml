@@ -72,7 +72,6 @@
          <item quantity="one">%1$d икона</item>
          <item quantity="other">%1$d икони</item>
      </plurals>
-     </plurals>
      <plurals name="icon_batch_has_update_text">
          <item quantity="one">Налични са актуализации за %1$d икона</item>
          <item quantity="other">Налични са актуализации за %1$d икони</item>
