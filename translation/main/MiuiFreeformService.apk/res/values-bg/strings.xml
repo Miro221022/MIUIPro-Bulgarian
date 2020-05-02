@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Плаващ прозорец</string>
+  <string name="contentDescription">Преместване на прозореца</string>
+  <string name="freeform_demo_back">Назад</string>
+  <string name="freeform_demo_final_over">Готово</string>
+  <string name="freeform_demo_final_restart">Започни отначало</string>
+  <string name="freeform_demo_final_title">"Готови сте!"</string>
+  <string name="freeform_demo_go_on">Следващо</string>
+  <string name="freeform_demo_title_finish">Хубаво!</string>
+  <string name="freeform_demo_title_skip">Пропускане</string>
+  <string name="how_to_close_or_fullscreen_freeform">Затваряне на плаващите прозорци или преминаване към режим на цял екран</string>
+  <string name="how_to_drop_down_to_fullscreen">Превключване към режим на цял екран</string>
+  <string name="how_to_drop_down_to_fullscreen_summary">Натиснете и задръжте и след това издърпайте лентата за действие на плаващия прозорец</string>
+  <string name="how_to_hang_freeform">Смаляване на плаващите прозорци</string>
+  <string name="how_to_hang_to_small_freeform">Намаляване на плаващия прозорец</string>
+  <string name="how_to_hang_to_small_freeform_summary">Плъзнете плаващия прозорец в ъгъла на екрана</string>
+  <string name="how_to_move_freeform">Преместване на плаващи прозорци около</string>
+  <string name="how_to_move_freeform_window">Преместване на плаващия прозорец наоколо</string>
+  <string name="how_to_move_freeform_window_summary">Натиснете и задръжте лентата за действие на плаващия прозорец, за да плъзнете</string>
+  <string name="how_to_notification_drop_down">Отваряне на плаващ прозорец</string>
+  <string name="how_to_notification_drop_down_summary">Натиснете и задръжте и след това издърпайте лентата за действие на известието</string>
+  <string name="how_to_open_freeform">Отваряне на известия в плаващ прозорец</string>
+  <string name="how_to_slide_up_to_close">Затваряне на плаващия прозорец</string>
+  <string name="how_to_slide_up_to_close_summary">Плъзнете нагоре от лентата за действие на плаващия прозорец</string>
+  <string name="how_to_use_freeform">Как да използвате плаващи прозорци</string>
+</resources>
