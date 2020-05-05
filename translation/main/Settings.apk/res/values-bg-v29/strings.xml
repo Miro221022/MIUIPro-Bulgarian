@@ -87,7 +87,9 @@
   <string name="battery_saver_sticky_description_new">Режимът за запазване на батерията се изключва, когато телефонът ви е зареден на %1$s</string>
   <string name="battery_saver_sticky_title_new">Изключване при пълно зареждане</string>
   <string name="battery_saver_turn_on_summary">Удължаване на живота на батерията</string>
-  <string name="battery_tip_dialog_message">Телефонът ви е използван повече от обикновено. Батерията може да се изтощи по-рано от очакваното.\n\nПриложения с най-висок разход на батерията:</string>
+  <string name="battery_tip_dialog_message">"Телефонът ви е използван повече от обикновено. Батерията може да се изтощи по-рано от очакваното.
+  
+  Приложения с най-висок разход на батерията:"</string>
   <string name="battery_tip_dialog_message_footer">Включва активността на заден план, изразходваща много енергия</string>
   <string name="bluetooth_active_battery_level_untethered">Активно. Л: %1$s батерия. Д: %2$s батерия</string>
   <string name="bluetooth_battery_level_untethered">Л: %1$s батерия. Д: %2$s батерия</string>
@@ -700,10 +702,23 @@
   <string name="credential_for_vpn_and_apps">Инсталиран за VPN и приложения</string>
   <string name="credential_contains">Този запис съдържа:</string>
   <string name="wifi_status_mac_randomized">MAC е произволен</string>
-  <string name="bluetooth_display_settings">Bluetooth display settings</string>
+  <string name="bluetooth_display_settings">Настройки за показване на bluetooth</string>
   <string name="bluetooth_show_devices_without_names">Показване на Bluetooth устройства без имена</string>
   <string name="bluetooth_show_devices_without_names_summary">Ще бъдат показани Bluetooth устройства без имена (само MAC адреси)</string>
   <string name="application_permission_manager">Разрешения на приложението</string>
   <string name="app_permissions">Разрешения за приложенията</string>
   <string name="permission_settings_title">Разрешения за приложенията</string>
+  <string name="dev_settings_disabled_warning">Моля, първо активирайте опциите за програмисти.</string>
+  <string name="select_private_dns_configuration_title">Частен DNS</string>
+  <string name="select_private_dns_configuration_dialog_title">Изберете DNS режим</string>
+  <string name="private_dns_mode_provider_hostname_hint">Въведете име на хоста на DNS доставчика</string>
+  <string name="private_dns_mode_off">Изключено</string>
+  <string name="private_dns_mode_opportunistic">Автоматично</string>
+  <string name="private_dns_mode_provider">Име на хост за частен доставчик на DNS</string>
+  <string name="number_of_device_admins_none">Няма активни приложения</string>
+  <string name="external_source_trusted">Разрешено</string>
+  <string name="external_source_untrusted">Не е разрешено</string>
+  <string name="accessibility_disable_animations">Премахване на анимациите</string>
+  <string name="accessibility_notification_vibration_title">Вибрация при известия</string>
+  <string name="accessibility_autoclick_description">Ако използвате мишка, можете да настроите курсора да предприема действия автоматично, когато спре да се движи за определен период от време.</string>
 </resources>

@@ -285,7 +285,7 @@
   <string name="app_wifi">WLAN</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Почистете %s кеш от WeChat, за да освободи място за съхранение</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_title">Не забравяйте да изчистите кеша</string>
-  <string name="application_item_already_permission">Позволено</string>
+  <string name="application_item_already_permission">Разрешено</string>
   <string name="application_item_disable">Забранено</string>
   <string name="applock_add_account">Добави</string>
   <string name="applock_add_account_info">Добавете вашия Mi профил, за да можете да нулирате вашата парола в случай, че я забравите.</string>

@@ -126,7 +126,7 @@
     <string name="category_personal">Личен</string>
     <string name="category_work">Работен</string>
     <string name="development_settings_title">Опции на програмиста</string>
-    <string name="development_settings_enable">Активирайте Опции на програмиста</string>
+    <string name="development_settings_enable">Активирайте Опции за програмисти</string>
     <string name="development_settings_summary">Задай настройки за разработка на приложения</string>
     <string name="development_settings_not_available">Настройките за програмиране не са налице за този потребител</string>
     <string name="vpn_settings_not_available">Настройките за ВЧМ не са налице за този потребител</string>
@@ -2941,8 +2941,8 @@
     <string name="display_vr_pref_title">Когато устройството е в режим за виртуална реалност</string>
     <string name="display_vr_pref_low_persistence">Да се използват настройките за ниско ниво на замъгляване при движение</string>
     <string name="display_vr_pref_off">Да не се прави нищо</string>
-    <string name="manage_zen_access_title">Достъп до „Не ме безпокойте“</string>
-    <string name="zen_access_empty_text">Никое инсталирано приложение не е заявило достъп до „Не ме безпокойте“</string>
+    <string name="manage_zen_access_title">Достъп до Не ме безпокойте</string>
+    <string name="zen_access_empty_text">Никое инсталирано приложение не е заявило достъп до Не ме безпокойте</string>
     <string name="loading_notification_apps">Зареждане на приложения...</string>
     <string name="app_notification_block_title">Блокиране на всички</string>
     <string name="app_notification_block_summary">Известията от това приложение никога не се показват</string>
@@ -3339,7 +3339,7 @@
     <string name="wifi">WLAN</string>
     <string name="ethernet">Ethernet</string>
     <string name="cell_data_template">Мобилни данни (%1$s)</string>
-    <string name="wifi_data_template">%1$s данни през Wi-Fi</string>
+    <string name="wifi_data_template">^1 WLAN данни</string>
     <string name="ethernet_data_template">Данни през Ethernet (%1$s)</string>
     <string name="cell_warning_only">Предупреждение за данните: %1$s</string>
     <string name="cell_warning_and_limit">Предупреждение за данните: %1$s/ограничение за данните: %2$s</string>
