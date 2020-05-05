@@ -6846,7 +6846,7 @@ Xiaomi Облак
     <string name="face_data_input_ok">Готово</string>
     <string name="face_data_input_ok_title">Добавено успешно</string>
     <string name="face_data_input_structure_title">3D лицеви данни</string>
-    <string name="face_data_input_title">Добави лицеви данни</string>
+    <string name="face_data_input_title">Добавяне на лицеви данни</string>
     <string name="face_data_introduction_msg">Данните за лице могат да се използват за отключване на устройството ви или за проверка на самоличността ви. Добавете парола за заключен екран, преди да добавите личните си данни.</string>
     <string name="face_data_introduction_next">Следващо</string>
     <string name="face_data_introduction_title">Разпознаване на лице</string>
@@ -7030,5 +7030,6 @@ Xiaomi Облак
     <string name="unlock_failed">Вътрешна грешка</string>
     <string name="use_control_panel">Използвайте Център за контрол</string>
 	<string name="restore_oaid_positive_step">Нулиране(%1$d)</string>
-	    <string name="restore_oaid_dialog_content">目前多个应用已使用您的虚拟身份ID，若重置该ID，可能造成部分应用用户数据出现错误或丢失，是否确认进行虚拟身份ID重置操作？</string>
+	<string name="face_unlock_success_show_message_title">Показване на подробности за известията</string>
+	<string name="restore_oaid_dialog_content">Понастоящем вашият идентификационен номер за виртуална идентичност се използва от няколко приложения.Ако го рестартирате, това може да доведе до грешки или загуба на някои потребителски данни за приложенията. Сигурни ли сте да нулирате виртуалния идентификационен номер?</string>
 </resources>

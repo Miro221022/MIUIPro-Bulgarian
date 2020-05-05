@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">Преди 1 час</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">Преди 1 час</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Преди половин час</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">След 1 час</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">След половин час</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Веднага</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">вслед %d мин.</item>
+    <item quantity="one">след 1 мин.</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Сега</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">Преди %d мин.</item>
+    <item quantity="one">Преди 1 мин.</item>
+  </plurals>
   <plurals name="comment_count">
     <item quantity="other">%d коментари</item>
     <item quantity="one">%d коментар</item>
@@ -40,6 +69,25 @@
     <item quantity="other">Остават %d безплатни изтегляния</item>
     <item quantity="one">Остава %d безплатно изтегляне</item>
   </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Преди половин час</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">След 1 час</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">След половин час</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Веднага</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">след %d минути</item>
+    <item quantity="one">след 1 минута</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Сега</item>
+  </plurals>
   <plurals name="multichoice_title">
     <item quantity="other">%d елемента са избрани</item>
     <item quantity="one">%d елемент е избран</item>
@@ -65,8 +113,8 @@
     <item quantity="one">Изтегляне на %1$d файл</item>
   </plurals>
   <plurals name="notification_download_failed_more">
-    <item quantity="other">"%1$d песни не могат да бъдат изтеглени"</item>
-    <item quantity="one">"%1$d песен не може да бъде изтеглен"</item>
+    <item quantity="other">%1$d песни не могат да бъдат изтеглени</item>
+    <item quantity="one">%1$d песен не може да бъде изтеглен</item>
   </plurals>
   <plurals name="Nquit_warning">
     <item quantity="other">Приложението ще спре след %d минути</item>
@@ -92,6 +140,10 @@
     <item quantity="other">%d подобни песни</item>
     <item quantity="one">%d подобна песен</item>
   </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">Преди %d минути</item>
+    <item quantity="one">Преди 1 минута</item>
+  </plurals>
   <plurals name="reader_count">
     <item quantity="other">%d последователи</item>
     <item quantity="one">%d последовател</item>
@@ -112,6 +164,10 @@
     <item quantity="other">%d песни</item>
     <item quantity="one">%d песен</item>
   </plurals>
+  <plurals name="sound_fade_duration_in_seconds">
+    <item quantity="other">Преливане между песните: %d секунди</item>
+    <item quantity="one">Преливане между песните: %d секунда</item>
+  </plurals>
   <plurals name="video_count">
     <item quantity="other">Видеоклипове</item>
     <item quantity="one">Видеоклип</item>
@@ -124,12 +180,4 @@
     <item quantity="other">%d оставащи дни</item>
     <item quantity="one">%d оставащ ден</item>
   </plurals>
-    <plurals name="notification_download_success_more">
-        <item quantity="other">%1$d песни</item>
-        <item quantity="one">%1$d песен</item>
-    </plurals>
-	    <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Преливане между песните: %d секунди</item>
-        <item quantity="one">Преливане между песните: %d секунда</item>
-    </plurals>
 </resources>
