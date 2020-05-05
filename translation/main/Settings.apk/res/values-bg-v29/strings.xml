@@ -285,7 +285,7 @@
   <string name="location_app_permission_summary_location_off">Функцията за местоположението е изключена</string>
   <string name="location_category_location_services">Услуги за местоположение</string>
   <string name="location_category_recent_location_access">Скорошен достъп до местоположението</string>
-  <string name="location_category_recent_location_requests">Скорошни заявки за местопол.</string>
+  <string name="location_category_recent_location_requests">Скорошни заявки за местоположение</string>
   <string name="location_no_recent_accesses">Наскоро приложенията не са осъществявали достъп до местоположението</string>
   <string name="location_recent_location_access_view_details">Преглед на подробностите</string>
   <string name="location_recent_location_requests_see_all">Преглед на всички</string>
@@ -695,4 +695,15 @@
   <string name="zen_mode_slice_subtitle">Ограничаване на прекъсванията</string>
   <string name="zen_mode_system_list">звуци при докосване</string>
   <string name="zone_auto_title">Използване на часовата зона, предоставена от мрежата</string>
+  <string name="application_permissions">Разрешения за приложението</string>
+  <string name="decryption_settings_summary">Телефонът не е шифрован</string>
+  <string name="credential_for_vpn_and_apps">Инсталиран за VPN и приложения</string>
+  <string name="credential_contains">Този запис съдържа:</string>
+  <string name="wifi_status_mac_randomized">MAC е произволен</string>
+  <string name="bluetooth_display_settings">Bluetooth display settings</string>
+  <string name="bluetooth_show_devices_without_names">Показване на Bluetooth устройства без имена</string>
+  <string name="bluetooth_show_devices_without_names_summary">Ще бъдат показани Bluetooth устройства без имена (само MAC адреси)</string>
+  <string name="application_permission_manager">Разрешения на приложението</string>
+  <string name="app_permissions">Разрешения за приложенията</string>
+  <string name="permission_settings_title">Разрешения за приложенията</string>
 </resources>

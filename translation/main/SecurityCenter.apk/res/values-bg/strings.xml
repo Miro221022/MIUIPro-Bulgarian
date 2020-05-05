@@ -1338,7 +1338,7 @@
   <string name="HIPS_Perm_CallLog_Desc">Писане и изтриване на историята на обажданията</string>
   <string name="HIPS_Perm_Contact_Desc">Промяна и изтриване на контакти</string>
   <string name="HIPS_Perm_get_accounts_Desc">Достъп до всички профили, съхранявани на устройството</string>
-  <string name="HIPS_Perm_PhoneID_Desc">ДФостъп до телефонен номер, IMEI и IMSI</string>
+  <string name="HIPS_Perm_PhoneID_Desc">Достъп до телефонен номер, IMEI и IMSI</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">Достъп до телефонния номер и състоянието на устройството</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">Четене историята на обажданията</string>
   <string name="HIPS_Perm_Read_Contact_Desc">Четене вашите контакти</string>

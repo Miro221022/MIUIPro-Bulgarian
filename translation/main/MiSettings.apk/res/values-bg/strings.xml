@@ -238,7 +238,7 @@
      <string name="srgb_color_region_summary">Показване на цялото екранно съдържание в sRGB цветова гама</string>
 	 <string name="create">Създай</string>
      <string name="create_failed">"Неуспешно създаване"</string>
-     <string name="create_shortcut">Прак път на начален екран</string>
+     <string name="create_shortcut">Пряк път на начален екран</string>
      <string name="created">Създаден</string>
      <string name="created_successfully">Създадено успешно</string>
      <string name="lock_summary">Защитете личната си информация</string>
