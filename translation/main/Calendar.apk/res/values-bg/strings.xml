@@ -622,4 +622,10 @@
     <string name="search_history">История на търсенията</string>
     <string name="switch_orientation_desc">Ориентация на екрана</string>
     <string name="time_picker_dialog_title">Задаване на време</string>
+	<string name="accessibility_month_page_selected_prefix">Месечен изглед за %2$d от %1$d. Избрана дата: %4$d/%5$d/%3$d.</string>
+    <string name="accessibility_year_item_selected">Избран месец: %d. Докоснете, за да отворите месечния изглед.</string>
+    <string name="accessibility_year_page_selected">Годишен изглед за %d. Плъзгайте наляво или надясно, за да превключвате между години, докоснете, за да изберете месеци.</string>
+    <string name="action_bar_cancel">Отказ</string>
+    <string name="lunar_date_content_desc">Дата според традиционния китайски календар</string>
+    <string name="solar_date_content_desc">Дата според григорианския календар</string>
 </resources>

@@ -692,7 +692,7 @@
     <string name="new_pc_backup_restore_link">Мобилно устройство</string>
     <string name="new_pc_backup_summary1">Изберете елементи и докоснете \"Архивиране\".</string>
     <string name="new_pc_backup_summary2">Свържете мобилното си устройство с компютъра чрез USB кабел.</string>
-    <string name="new_pc_backup_summary4">Забележка: можете също да копирате снимки и видеоклипове от MIUI-DCIM.</string>
+    <string name="new_pc_backup_summary4">Забележка: можете също да копирате снимки и видеоклипове от DCIM.</string>
     <string name="new_pc_restore_content1">%d. Свържете мобилното си устройство с компютъра чрез USB кабел.</string>
     <string name="new_pc_restore_content2">%d. Копирайте архива от вашия компютър в MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Отоврете \"%2$s\" и изберете елементи за възстановяване.</string>
