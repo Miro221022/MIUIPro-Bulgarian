@@ -8,6 +8,10 @@
     <item quantity="other">%d блокирани елементи</item>
     <item quantity="one">%d блокиран елемент</item>
   </plurals>
+  <plurals name="adblock_total_counts">
+    <item quantity="other">Блокирани %d реклами досега</item>
+    <item quantity="one">Блокирана %d реклама досега</item>
+  </plurals>
   <plurals name="articles_updated_amount">
     <item quantity="other">Разгледайте %1$d нови статии</item>
     <item quantity="one">Разгледайте %1$d нова статия</item>
@@ -77,6 +81,10 @@
     <item quantity="other">Избрани: %1$d</item>
     <item quantity="one">Избрани: %1$d</item>
   </plurals>
+  <plurals name="video_collection_reminder_view">
+    <item quantity="other">Не сте гледали %d от любимите си видеоклипове отдавна.</item>
+    <item quantity="one">Не сте гледали %d любим видеоклип от много време.</item>
+  </plurals>
   <plurals name="video_download_clear_info">
     <item quantity="other">Премахнахте успешно %1$d видеоклипа.</item>
     <item quantity="one">Премахнахте успешно %1$d видеоклип.</item>
@@ -109,37 +117,13 @@
     <item quantity="other">%1$d прегледа</item>
     <item quantity="one">%1$d преглед</item>
   </plurals>
+  <plurals name="views">
+    <item quantity="other">%dk гледания</item>
+    <item quantity="one">%dk преглед</item>
+  </plurals>
   <plurals name="vote_all_people">
     <item quantity="other">%d хора са гласували</item>
     <item quantity="one">%d човек е гласувал</item>
     <item quantity="few">%d хора са гласували</item>
   </plurals>
-      <plurals name="comment_detail_title">
-        <item quantity="other">%d отговора</item>
-        <item quantity="one">%d отговор</item>
-    </plurals>
-    <plurals name="comment_hour_ago">
-        <item quantity="other">Преди %d часа</item>
-        <item quantity="one">Преди %d час</item>
-    </plurals>
-    <plurals name="comment_look_all">
-        <item quantity="other">Преглед на %d коментара</item>
-        <item quantity="one">Преглед на %d коментар</item>
-    </plurals>
-    <plurals name="comment_minute_ago">
-        <item quantity="other">Преди %d минути</item>
-        <item quantity="one">Преди %d минута</item>
-    </plurals>
-    <plurals name="comment_selected">
-        <item quantity="other">Избрани са %d причини</item>
-        <item quantity="one">Избрана %d причина</item>
-    </plurals>
-	    <plurals name="video_collection_reminder_view">
-        <item quantity="other">"Не сте гледали %d от любимите си видеоклипове отдавна."</item>
-        <item quantity="one">"Не сте гледали %d любим видеоклип от много време."</item>
-    </plurals>
-	    <plurals name="views">
-        <item quantity="other">%dk гледания</item>
-        <item quantity="one">%dk преглед</item>
-    </plurals>
 </resources>
