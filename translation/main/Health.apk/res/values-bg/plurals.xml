@@ -62,8 +62,8 @@
     <item quantity="one">%1$d запис</item>
   </plurals>
   <plurals name="dream_talk_segment_unit">
-    <item quantity="other">записа</item>
-    <item quantity="one">запис</item>
+    <item quantity="other"> записа</item>
+    <item quantity="one"> запис</item>
   </plurals>
   <plurals name="duration_unit_hour_format">
     <item quantity="other">%1$d ч.</item>

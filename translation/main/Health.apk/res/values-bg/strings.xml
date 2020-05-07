@@ -257,7 +257,7 @@
   <string name="edit_sleep_record_button">Редактиране</string>
   <string name="enable">Включено</string>
   <string name="enable_go_now">Включи</string>
-  <string name="enable_not_now">Изключи</string>
+  <string name="enable_not_now">Не сега</string>
   <string name="enable_right_now">Включи</string>
   <string name="enough">Достатъчно</string>
   <string name="enter_mi_health">Отвори Xiaomi Здраве</string>
@@ -548,7 +548,7 @@
   <string name="no_data">Няма данни</string>
   <string name="no_records">Тук все още няма нищо.</string>
   <string name="no_snore">Не сте хъркали и говорили в съня си</string>
-  <string name="no_snore_1">Не сте хъркали и говорили в съня си</string>
+  <string name="no_snore_1">Тук все още няма елементи</string>
   <string name="normal">Нормално</string>
   <string name="not_achieve_stand_goals">"Не сте достигнали целта си"</string>
   <string name="not_added">Не е добавено</string>
@@ -651,7 +651,7 @@
   <string name="sedentary_time_is_too_long">Време е за движение! Пийте малко вода и се разходете.</string>
   <string name="sedentary_title">Напомняне за движение</string>
   <string name="sedentary_toggle_content">Xiaomi Здраве ще ви напомня да станете и да се разходите, ако не сте извършвали никаква дейност за продължителен период от време.</string>
-  <string name="sedentaty_hazard_description">"Седенето не е от полза за вашето здраве. 12 часа движение с почивки всеки ден ще ви помогнат да избегнете рисковете от заседнал начин на живот."</string>
+  <string name="sedentaty_hazard_description">"Седенето не е от полза за вашето здраве. 12 часа с 1 минутна прекъсване за изправяне всеки ден ще ви помогне да избегнете рисковете от заседнал начин на живот."</string>
   <string name="select_menstruation_end_date">Изберете крайната дата на този цикъл</string>
   <string name="select_null">Не е избрано</string>
   <string name="select_target">Изберете цел</string>
@@ -673,8 +673,8 @@
   <string name="sleep_deep">Дълбок сън</string>
   <string name="sleep_deep_light_analysis">Лек сън и дълбок сън</string>
   <string name="sleep_deep_light_close_tip">Анализът на дълбок сън е изключен</string>
-  <string name="sleep_deep_light_no_data">Няма запис на дълбок сън</string>
-  <string name="sleep_deep_light_no_data_improvement">Функциите за дълбок и лек сън не са абсолютно точни и ще бъдат положени усилия за оптимизиране на алгоритъма.</string>
+  <string name="sleep_deep_light_no_data">Тук все още няма данни</string>
+  <string name="sleep_deep_light_no_data_improvement">"Не бяха открити фази на съня. Ние подобряваме нашите алгоритми. Останете на линия!"</string>
   <string name="sleep_detection_enable">Анализ на цикъла на съня</string>
   <string name="sleep_detection_feedback">Обратна връзка</string>
   <string name="sleep_detection_guide_four_description">Проследяването на съня ще изразходва около 1% от батерията дневно.</string>
@@ -694,9 +694,11 @@
   <string name="sleep_detection_question_four_answer">Различните видове мобилни устройства са оборудвани с различни сензори. Стойностите на консумацията на енергия могат да варират за различните хардуерни елементи.</string>
   <string name="sleep_detection_question_four_title">Защо различните устройства консумират различни количества енергия за проследяване на съня?</string>
   <string name="sleep_detection_question_one_answer">Когато устройството ви е изключено, рестартирано или батерията е изтощена, проследяването на съня ще бъде прекъснато, защото сензорите не могат да събират и анализират данни. В такива случаи статистиката за съня ще изглежда непълна.\nАко този проблем се появява често, проверявайте устройството си за планирани задачи за изключване или през нощта за актуализации на системата.</string>
-  <string name="sleep_detection_question_one_answer_1">Анализът на дълбок и лек сън разчита на данните за движението на тялото, събрани от сензори за мобилния телефон. Следните условия могат да доведат до липса на резултати от анализа на дълбок и лек сън:\n1. Провал в събирането на данни. Събирането и изчисляването на данни може да не се извършва обикновено поради изключване на мобилния телефон или недостатъчно заряд на батерията по време на сън\n2. Анализът на данните не бе успешен. Може да се окаже, че мобилният телефон е поставен далеч от тялото или е неподвижен, което води до малко събрана информация и характеристиките на дълбокия и лек сън не могат да бъдат анализирани временно. Ще продължим да оптимизираме алгоритъма.</string>
+  <string name="sleep_detection_question_one_answer_1">"Фазите на дълбок и лек сън се откриват въз основа на данни за движение на тялото, събрани от сензорите на вашето устройство. Ето защо може да не успеете да видите статистиката:
+1. Xiaomi Здраве не успя да събере данни. Това може да се случи, когато устройството ви се изключи докато спите, батерията му е слаба или на приложението не му е разрешено да работи на заден план. Позволете на Xiaomi Здраве да стартира автоматично, добавете го към изключенията при петсене на батерия и го заключете във фонов режим, за да не се случи това.
+2. Xiaomi Здраве не успя да анализира събраните данни. Това може да се случи, когато телефонът ви е поставен твърде далеч от тялото, докато спите. Освен това, движението на тялото ви може да бъде твърде леко, за да се направят каквито и да било предположения относно промените в цикъла на вашия сън. Ние непрекъснато подобряваме нашите алгоритми, за да накараме Xiaomi Здраве да анализира по-добре съня ви."</string>
   <string name="sleep_detection_question_one_title">Защо статистиките ми са непълни?</string>
-  <string name="sleep_detection_question_one_title_1">Защо не е записан лек и дълбок сън?</string>
+  <string name="sleep_detection_question_one_title_1">"Защо не виждам статистики за цикъла на съня?"</string>
   <string name="sleep_detection_question_three_answer">Вашето устройство проследява движението на тялото ви по време на сън, използвайки вградени сензори. За да направите статистиката по-точна, поставете устройството на мека повърхност близо до тялото си. Избягвайте да го поставяте на нощни шкафчета или твърде далеч от матрака.</string>
   <string name="sleep_detection_question_three_title">Как мога да направя статистиката си по-точна?</string>
   <string name="sleep_detection_question_two_answer">Вашите цикли на сън се анализират на устройството локално. Проследяването на съня ще работи дори когато не сте свързани към мрежата или ако текущата ви връзка е прекъсната.</string>
@@ -742,14 +744,14 @@
   <string name="sleep_service">Услуга за следене на съня</string>
   <string name="sleep_service_background_running">Услугата за следене на съня работи във фонов режим.</string>
   <string name="sleep_setting_title">Настройки за сън</string>
-  <string name="sleep_snore_audio_auto">Проследяване на звуците ви</string>
-  <string name="sleep_snore_audio_auto_desc">Записвайте вашите разговори, когато спите и съхранявайте файла в телефона си, за да защитите поверителността си.</string>
-  <string name="sleep_snore_audio_close_desc">Можете да го деактивирате в настройките за сън.</string>
-  <string name="sleep_snore_audio_enable">Функцията е включена</string>
-  <string name="sleep_snore_audio_enable_desc">Тази вечер сънят ви ще бъде проследен автоматично.</string>
-  <string name="sleep_snore_audio_hight_power_desc">Уверете се, че устройството ви е достатъчно заредено, преди да си легнете.</string>
+  <string name="sleep_snore_audio_auto">Автоматично записване на хъркане и говорене</string>
+  <string name="sleep_snore_audio_auto_desc">Xiaomi Здраве може да записва хъркане и говорене автоматично въз основа на вашия график за лягане. Записът ще спре, когато станете. За да защитите поверителността си, всички записани файлове ще се записват локално на вашето устройство с помощта на вградения алгоритъм.</string>
+  <string name="sleep_snore_audio_close_desc">Можете да изключите тази функция в Настройки по всяко време.</string>
+  <string name="sleep_snore_audio_enable">Автоматичното откриване е включено</string>
+  <string name="sleep_snore_audio_enable_desc">Хъркането и говоренето ви ще се записват автоматично, когато спите.</string>
+  <string name="sleep_snore_audio_hight_power_desc">"Не забравяйте, че използването на тази функция отнема значително количество енергия. Добре е да държите зарядното устройство свързано, докато спите, за да избегнете неочаквани прекъсвания."</string>
   <string name="sleep_snore_detection">Хъркане и говорене</string>
-  <string name="sleep_snore_detection_desc">Проследявайте съня си</string>
+  <string name="sleep_snore_detection_desc">Записвайте хъркане и говорене, за да научите повече за съня си</string>
   <string name="sleep_sober">Събуждане</string>
   <string name="sleep_sober_times_title">Събуждане</string>
   <string name="sleep_status">Статус на съня</string>
@@ -786,7 +788,7 @@
   <string name="snore_detection_running_state">Откриване…</string>
   <string name="snore_detection_running_state_description">Микрофонът е включен. Ще продължи да работи на заден план.</string>
   <string name="snore_detection_stop_pop_content">Няма да можете да възобновите тази сесия, ако приключите сега. Следващата сесия ще започне, когато си легнете следващия път.</string>
-  <string name="snore_detection_stop_pop_title">Край на сесията сега?</string>
+  <string name="snore_detection_stop_pop_title">Спиране на текущата сесия за откриване на хъркане?</string>
   <string name="snore_detection_stopped_notification_title">Спряно е откриването на хъркане и говорене</string>
   <string name="snore_dream_talk">Хъркане и говорене</string>
   <string name="snore_duration_label">Продължителност на хъркането</string>
@@ -945,8 +947,8 @@
   <string name="tb_picker_sleep_goal">Избрана цел за сън: %1$s. Плъзнете вертикално, за да изберете цел.</string>
   <string name="tb_picker_weight">Избрано тегло: %1$s. Плъзнете вертикално, за да изберете тегло.</string>
   <string name="tb_picker_year">Избрана година: %1$d. Плъзнете вертикално, за да изберете година.</string>
-  <string name="tb_play_next">Следващ звук</string>
-  <string name="tb_play_previous">Предишен звук</string>
+  <string name="tb_play_next">Превключване към следващия запис</string>
+  <string name="tb_play_previous">Превключване към предишния запис</string>
   <string name="tb_select_a_column">Избрано %1$s</string>
   <string name="tb_show_sleep_info">Показване на статистики за съня за %1$s</string>
   <string name="tb_sleep_evaluation">Прогнозен резултат: %1$s</string>
@@ -1077,4 +1079,7 @@
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
   <string name="year">Година</string>
   <string name="yesterday">Вчера</string>
+  <string name="snore_detection_sotp_opt_1">Спиране и изтриване на резултатите</string>
+  <string name="snore_detection_sotp_opt_2">Спиране и запазване на резултатите</string>
+  <string name="sync_status_oauth_error">Синхронизирането с източника на данни не бе успешно. Моля, разрешете го отново</string>
 </resources>
