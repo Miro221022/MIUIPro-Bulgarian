@@ -422,4 +422,8 @@
     <string name="private_entry_available">Пуснете, за да отворите поверителната папка</string>
     <string name="private_entry_default">Плъзнете надолу, за да отворите поверителната папка</string>
     <string name="time_picker_dialog_title">Задайте време</string>
+	<string name="btn_next">Следващо</string>
+    <string name="note_gesture_guide_step1">Натиснете и задръжте плюса, за да създадете гласова бележка</string>
+    <string name="note_gesture_guide_step2">Натиснете и задръжте бележка, след което я плъзнете върху друга бележка, за да създадете папка</string>
+    <string name="note_gesture_guide_step3">Натиснете и задръжте бележка, след което я плъзнете върху папка, за да преместите бележката там</string>
 </resources>
