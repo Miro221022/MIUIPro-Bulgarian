@@ -302,7 +302,7 @@
   <string name="cityname_2">Бриз</string>
   <string name="cleaner_empty_value_description">Всичко изглежда добре</string>
   <string name="cleaner_photo_pick_delete_selected">Изтрий избраните снимки</string>
-  <string name="cleaner_raw_action">Изчистване</string>
+  <string name="cleaner_raw_action">Преглед</string>
   <string name="cleaner_raw_description">Освободете място за съхранение чрез изтриване на големи необработени изображения</string>
   <string name="cleaner_raw_title">Изчистване на необработени файлове</string>
   <string name="cleaner_scan_description">Оптимизирането на елементи освобождава място за съхранение във вашето устройство</string>
@@ -313,10 +313,10 @@
   <string name="cleaner_scan_no_result">В момента не може да се освободи още място в хранилището</string>
   <string name="cleaner_scan_ok">Разбрах</string>
   <string name="cleaner_scan_title">Сканиране на албумите…</string>
-  <string name="cleaner_screen_shot_action">Почисти</string>
+  <string name="cleaner_screen_shot_action">Преглед</string>
   <string name="cleaner_screen_shot_description">Изтрийте екранните снимки, които вече не са ви нужни.</string>
   <string name="cleaner_screen_shot_title">Изтриване на екранни снимки</string>
-  <string name="cleaner_similar_action">Изтрий сега</string>
+  <string name="cleaner_similar_action">Преглед</string>
   <string name="cleaner_similar_description">Изтриване на дублирани снимки</string>
   <string name="cleaner_similar_title">Дублирани снимки</string>
   <string name="cleaner_slim_action">Стартиране на оптимизация…</string>
@@ -326,7 +326,7 @@
   <string name="cleaner_space_description">може да се освободи</string>
   <string name="cleaner_space_detail_description">Почистете снимки в Галерия, за да освободите място за съхранение</string>
   <string name="cleaner_stop_scan">Спри сканирането</string>
-  <string name="cleaner_video_action">Изтрий сега</string>
+  <string name="cleaner_video_action">Преглед</string>
   <string name="cleaner_video_description">Изтриване на видеоклипове, които заемат място</string>
   <string name="cleaner_video_pick_delete_selected">Изтриване на избраните видеоклипове</string>
   <string name="cleaner_video_title">Изтриване на видеоклипове</string>
@@ -1308,7 +1308,7 @@
   <string name="select_origin_tip">Оригинал (%s)</string>
   <string name="send_file_beautify_failed">Не може да се сподели</string>
   <string name="send_files_to">Изпрати елемента до</string>
-  <string name="send_heif_summary">Конвертиране на изображенията преди изпращане, за да се гарантира съвместимост</string>
+  <string name="send_heif_summary">Конвертиране на HEIF изображения в JPEG, за да осигурите съвместимост</string>
   <string name="send_heif_title">Конвертиране на HEIF в JPG преди изпращане</string>
   <string name="send_multiple_files_hint_format">Изпращане (%s)</string>
   <string name="send_public_url">Изпрати връзка към албума</string>
@@ -1999,4 +1999,21 @@
 	<string name="wednesday">Сряда</string>
     <string name="wednesday_short">Сря</string>
     <string name="wednesday_shortest">Сря</string>
+	<string name="album_tab_page_switch_view_style_to_grid">Изглед мрежа</string>
+    <string name="album_tab_page_switch_view_style_to_linear">Изглед списък</string>
+	<string name="continue_feedback">Допълнителни отзиви</string>
+    <string name="macarons_download_later">Изчакайте минута или две и опитайте отново</string>
+    <string name="macarons_download_network_fail">"Приставката не може да се изтегли. Проверете мрежовите си настройки и опитайте отново."</string>
+    <string name="macarons_download_other_fail">"Не може да се изтегли поради грешка"</string>
+    <string name="macarons_download_sdscard_fail">"Не може да се изтегли. SD картата не е налична."</string>
+    <string name="macarons_download_storage_fail">"Не може да се изтегли. Няма достатъчно място за съхранение."</string>
+    <string name="macarons_downloading">Изтегляне на приставката…</string>
+    <string name="problem_feedback">Отзиви</string>
+	<string name="vlog_clip_zoom">Използвайте два пръста, за да увеличите или намалите броя на кадрите в прегледа</string>
+    <string name="vlog_exit_message">Всички незапазени промени ще бъдат загубени. Връщане въпреки това?</string>
+    <string name="vlog_exit_title">Отхвърляне на промените</string>
+    <string name="vlog_float_view_original_ratio">Оригинално</string>
+    <string name="vlog_improt_encode_video_error">Възникна грешка в кодирането. Опитайте отново.</string>
+    <string name="vlog_photo_edit_not_support">"Не можете да редактирате изображения"</string>
+    <string name="vlog_video_trans_code_cons">Обработка на файл с висока разделителна способност…</string>
 </resources>
