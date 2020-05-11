@@ -537,4 +537,6 @@
 	<string name="switch_personal_assistant_app_vault">Личен асистент</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Без</string>
+    <string name="perfect_icons_switch_summary">Преначертаване на иконите на приложенията от трети страни</string>
+    <string name="perfect_icons_switch_title">Перфектни икони</string>
 </resources>
