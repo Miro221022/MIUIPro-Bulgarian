@@ -8,4 +8,8 @@
         <item quantity="other">Натиснете и задръжте всяка чувствителна на допир област на слушалките for %1$d секунди</item>
         <item quantity="one">Натиснете и задръжте всяка чувствителна на допир област на слушалките %1$d секунда</item>
     </plurals>
+	    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Задръжте горния бутон за %1$s секунди, докато се иключи</item>
+        <item quantity="one">Задръжте горния бутон за %1$s секунда, докато се иключи</item>
+    </plurals>
 </resources>

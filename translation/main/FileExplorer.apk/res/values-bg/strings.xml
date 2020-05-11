@@ -464,4 +464,6 @@
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="view_type">Преглед</string>
 	<string name="private_folder_no_file_hints">Натиснете и задръжте файлове или папки, за да ги добавите в поверителната си папка</string>
+	    <string name="des_hide_pwd">Скриване на паролата</string>
+    <string name="des_show_pwd">Показване на паролата</string>
 </resources>

@@ -256,7 +256,7 @@
   <string name="allow_lights_title">Използване на LED светлина</string>
   <string name="allow_mock_location">Разрешаване на привидни местоположения</string>
   <string name="allow_mock_location_summary">Разрешаване на привидни местоположения</string>
-  <string name="allow_oaid_used">Ограничете достъпа до всеки идентификационен номер</string>
+  <string name="allow_oaid_used">Използвай виртуален идентификатор</string>
   <string name="allow_oaid_used_desc">Приложенията няма да имат достъп до който и да е идентификационен номер, освен ако изрично не им разрешите да направят това. Някои функции на лични препоръки може да не работят правилно, когато тази функция е включена.</string>
   <string name="allow_overlay_description">Разрешаване на това приложение да се показва върху другите приложения, които използвате. Това може да ви попречи при използването на тези приложения или да промени начина, по който изглеждат или се държат.</string>
   <string name="allow_sound_title">Звук</string>
@@ -2260,7 +2260,7 @@
   <string name="google_title">Google</string>
   <string name="got_it">Разбрах това</string>
   <string name="gps_description">Поддържат се няколко сателитни навигационни системи (GPS, BeiDou, GLONASS, Galileo)</string>
-  <string name="gps_description_global">Няколко спътникови навигационни системи (%s) се поддържат</string>
+  <string name="gps_description_global">Устройствата Xiaomi са съвместими с няколко навигационни системи, включително GPS, NavIC, BeiDou, GLONASS и Galileo</string>
   <string name="gsm_to_wifi_connect_type_title">Мобилни към Wi-Fi</string>
   <string name="gxzw_add_fingerprint_continue">Продължаване</string>
   <string name="gxzw_add_fingerprint_edge_message">Преместете пръста си, за да запишете краищата на отпечатъка си.</string>
@@ -4148,7 +4148,7 @@
   <string name="restore_dialog_title">Внимание</string>
   <string name="restore_oaid_content">Нулирайте виртуалния си идентификационен номер, за да изчистите записи от поведението и предпочитанията си</string>
   <string name="restore_oaid_positive">Нулиране</string>
-  <string name="restore_oaid_positive_step">Нулиране(%1$d)</string>
+  <string name="restore_oaid_positive_step">Нулиране (%1$d)</string>
   <string name="restore_oaid_title">Нулиране на виртуалната идентификация</string>
   <string name="restr_pin_enter_admin_pin">Въведете администраторския ПИН код</string>
   <string name="restrict_background_blacklisted">Данните на заден план са изключени</string>
@@ -7755,4 +7755,8 @@
   <string name="zen_mode_slice_subtitle">Ограничете прекъсванията</string>
   <string name="zen_mode_system_list">звуци при докосване</string>
   <string name="zone_auto_title">Използвайте предоставена от мрежата часова зона</string>
+  <string name="bluetooth_paired">Запазено</string>
+  <string name="reset_confirm_directory">"Забележка: Преди да възстановите елементи, проверете дали папката \"MIUI-Backup-AllBackup\" съществува на вашето мобилно устройство. Ако несъществува, създайте я."</string>
+  <string name="reset_remove_data_hint">Всички изброени по-горе елементи ще бъдат изтрити за постоянно. Създайте резервно копие на всички важни елементи на вашия компютър или Xiaomi Облак преди да продължите.</string>
+  <string name="restore_oaid_dialog_content">Няколко приложения използват вашия виртуален идентификатор. Ако го нулирате сега, част от данните на приложенията ви може да се загубят или да станат неизползваеми. Нулиране въпреки това?</string>
 </resources>

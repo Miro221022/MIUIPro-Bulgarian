@@ -1224,4 +1224,25 @@
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
 	<string name="clone_recapture_alert">Започване отначало?</string>
+	<string name="ambilight_description_title">Относно дългата експозиция</string>
+    <string name="ambilight_intro_crowd_moving_part1">Когато снимате на многолюдна улица, помолете обекта да стои неподвижно. Другите хора ще се появят като размити следи.</string>
+    <string name="ambilight_intro_crowd_moving_part2">Можете също да правите снимки на натоварен трафик и движещи се тълпи. Дългата експозиция ще поддържа сградите ясни, но всички движещи се обекти ще бъдат замъглени.</string>
+    <string name="ambilight_intro_light_track">Използвайте източник на светлина, за да \"рисувате\" върху тъмна сцена, за да съберете всички осветени части заедно в едно изображение.</string>
+    <string name="ambilight_intro_magic_star">Използвайте този режим на места със слабо замърсяване. Експозицията ще бъде настроена на %d секунди, така че използването на статив е чудесна идея.</string>
+    <string name="ambilight_intro_silky_water_part1">Използвайте този режим, когато снимате движещи се облаци. Това ще даде на небето ефект  \"маслена картина\".</string>
+    <string name="ambilight_intro_silky_water_part2">Този режим прави движещата се вода (реки, водопади и езера) да изглеждат като сатен.</string>
+    <string name="ambilight_intro_star_track">"Снимането на звездното небе за дълго време може да улови траекториите на звездите. Не забравяйте да използвате статив и да снимате непрекъснато в продължение на поне %d минути."</string>
+    <string name="ambilight_intro_traffic_light">През нощта можете да уловите траекторията на ярки движещи се светлини (например на коли и кораби). Този режим позволява визуализация на крайния резултат на вашия екран в реално време.</string>
+    <string name="ambilight_scene_crowd_moving">Подвижна тълпа</string>
+    <string name="ambilight_scene_light_track">Светлинна живопис</string>
+    <string name="ambilight_scene_magic_star">Звездно небе</string>
+    <string name="ambilight_scene_silky_water">Копринена вода</string>
+    <string name="ambilight_scene_star_track">Звездни пътеки</string>
+    <string name="ambilight_scene_traffic_light">Неонови пътеки</string>
+    <string name="ambilight_tips_for_using_tripod">Използвайте статив</string>
+    <string name="more_mode_style">"Изберете как искате да подредите всички режими на камерата"</string>
+    <string name="more_mode_style_popup">Панел \"Още\"</string>
+    <string name="more_mode_style_tab">Раздел \"Още\"</string>
+    <string name="parameter_ambilight_title">Дълга експозиция</string>
+    <string name="pref_more_mode_style_title">Режими на камерата</string>
 </resources>
