@@ -514,7 +514,7 @@
     <string name="soundrecorder_sync_records">Синхронизация с Xiaomi Облак</string>
     <string name="soundrecorder_sync_only_in_wifi">Синхронизиране само чрез WLAN </string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Звукозапис няма да използва мобилни данни за изтегляне и качване на записи</string>
-    <string name="micloud_wipe_data_confirm_label">Премахване на данни от Xiaomi Облак</string>
+    <string name="micloud_wipe_data_confirm_label">Да се изтрият ли синхронизираните елементи от това устройство?</string>
     <string name="micloud_wipe_data_retain">Запази</string>
     <string name="micloud_wipe_data_remove">Премахване</string>
     <string name="wipe_data_dialog_title">Елементите не са синхронизирани</string>
@@ -588,7 +588,7 @@
     <string name="find_device_service_title">Открий устройството</string>
     <string name="find_device_service_summary">Посетете i.mi.com за да локализирате вашето устройство и да го заключите дистанционно</string>
     <string name="find_device_service_summary_international">Посетете i.mi.com за да локализирате вашето устройство и за да го заключите дистанционно</string>
-    <string name="micloud_wipe_data_confirm_title">Премахване на елементи, синхронизирани с Xiaomi Облак от телефона, след като излезете?</string>
+    <string name="micloud_wipe_data_confirm_title">Някои елементи от следните приложения се синхронизират с Xiaomi Облак. Можете да ги изтриете от това устройство, докато все още ги пазите в облака.</string>
     <string name="wipe_data_dialog_msg">Някои елементи %s не са синхронизирани. Те ще бъдат запазени на вашето устройство и няма да бъдат изтрити.</string>
 	<string name="user_agreement_content">"Използвайки тази услуга, вие се съгласявате с %s."</string>
     <string name="user_agreement_link">"Условия за ползване на Xiaomi Облак"</string>

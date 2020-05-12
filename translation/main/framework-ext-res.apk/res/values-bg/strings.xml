@@ -332,4 +332,5 @@
     <string name="open_close_tip_action">Разбрах</string>
     <string name="open_close_tip_content">За да затворите плаващия прозорец, натиснете и задръжте лентата за действие и след това прекарайте пръст нагоре</string>
     <string name="security_share_text">Защита на поверителността</string>
+	<string name="serviceEnabled">Услугата беше активирана.</string>
 </resources>

@@ -44,4 +44,7 @@
     <string name="doc_photo_idcard_portrait">Предна</string>
     <string name="doc_photo_not_support">"Това изображение не може да се редактира като документ"</string>
     <string name="doc_photo_view_effect">Преглед</string>
+	<string name="doc_photo_cancel">Отказ</string>
+    <string name="doc_photo_confirm">Изход</string>
+    <string name="doc_photo_idcard_alert_msg">Отхвърляне на промените и изход от редактора?</string>
 </resources>
