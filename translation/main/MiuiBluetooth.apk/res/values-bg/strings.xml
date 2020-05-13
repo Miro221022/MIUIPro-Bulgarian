@@ -99,4 +99,5 @@
       <string name="perm_ble_des">Достъп до BLE настройките</string>
     <string name="perm_ble_lab">Достъп до BLE настройките</string>
 	<string name="bluetooth_paired">Запазено</string>
+	<string name="fast_connect_reset_common">Нулирайте това устройство, за да можете да сдвоявате</string>
 </resources>

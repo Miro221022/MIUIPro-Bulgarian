@@ -1970,4 +1970,9 @@
 	<string name="status_bar_clock_date_weekday_format">EEE dd/MM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEE dd/MM</string>
 	<string name="bluetooth_paired">Запазено</string>
+	<string name="quick_settings_cellular_detail_dialog_message_turnoff">Мобилните данни (WCDMA / LTE) ще бъдат изключени. Ако не използвате WLAN, вече няма да можете да използвате приложения, които изискват връзка за данни. Изпращането или получаването на мултимедийни съобщения ще бъде ограничено.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Мобилните данни ще бъдат включени. Свързването с мобилни мрежи може да доведе до допълнителни такси в зависимост от вашия план.</string>
+    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Отказ</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Изключи</string>
 </resources>

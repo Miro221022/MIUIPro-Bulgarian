@@ -1937,4 +1937,6 @@
      <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
+	     <string name="fiveg_hosted_mode_summary">Автоматично преминаване към най-добрите налични мрежи, когато 5G връзката е лоша</string>
+    <string name="fiveg_hosted_mode_title">5G Интелигентно Превключване</string>
 </resources>
