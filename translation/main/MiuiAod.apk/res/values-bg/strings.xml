@@ -220,4 +220,6 @@
     <string name="wednesday_short">Сря</string>
     <string name="wednesday_shortest">С</string>
     <string name="yesterday">Вчера</string>
+	<string name="scheduled_mode_dialog_msg_12">hh:mm aa</string>
+	<string name="super_wallpaper_date">hh:mm aa</string>
 </resources>
