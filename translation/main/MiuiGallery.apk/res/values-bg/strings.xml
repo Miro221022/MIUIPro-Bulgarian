@@ -638,7 +638,7 @@
   <string name="filter_bi_warm">Топло</string>
   <string name="filter_category_film">Филм</string>
   <string name="filter_category_food">Храна</string>
-  <string name="filter_category_master">Господар</string>
+  <string name="filter_category_master">Изкуство</string>
   <string name="filter_category_portrait">Портрет</string>
   <string name="filter_category_scene">Пейзаж</string>
   <string name="filter_category_sky">Небе</string>
@@ -677,7 +677,7 @@
   <string name="filter_people_sepia">Сепия</string>
   <string name="filter_people_story">История</string>
   <string name="filter_people_tea">Чай</string>
-  <string name="filter_portrait_hint">Изпъкване</string>
+  <string name="filter_portrait_hint">Цветен фокус</string>
   <string name="filter_scene_city">Град</string>
   <string name="filter_scene_df">Мистика</string>
   <string name="filter_scene_koizora">Любов</string>
@@ -1101,7 +1101,7 @@
   <string name="photo_page_save_uri_image_ok">Снимката е записана в папката на камерата.</string>
   <string name="photo_portrait_color_download_fail">Приставката не може да се изтегли. Свържете се с мрежата и опитайте отново.</string>
   <string name="photo_portrait_color_download_success">Филтрите са изтеглени успешно</string>
-  <string name="photo_portrait_color_no_face">Цветовото изпъкване работи само на снимки с хора</string>
+  <string name="photo_portrait_color_no_face">Цветният фокус работи само върху снимки с хора</string>
   <string name="photo_portrait_download_sdk_without_wifi_msg">Изглежда, че устройството в момента не е свързано с Wi-Fi. Можете да изтеглите филтрите (%1$dМБ) чрез мобилни данни.</string>
   <string name="photo_portrait_download_sdk_without_wifi_title">Изтегляне на филтри</string>
   <string name="photo_print_menu_loading">Зареждане на приставка…</string>
@@ -1853,7 +1853,7 @@
      <string name="drag_failed_because_not_custom_sort">Можете да пренареждате елементите само когато е избран потребителски ред за сортиране</string>
      <string name="empty_description_conditions_new">"Уверете се, че сте направили достатъчно снимки, свържете зарядно и изключете екрана, за да се появят обектите по-бързо тук."</string>
     <string name="empty_description_no_cards">"Продължавайте да правите снимки. Елементите ще се появят тук веднага след като са генерирани."</string>
-     <string name="filter_category_general">Основно</string>
+     <string name="filter_category_general">Основни</string>
      <string name="filter_category_movie">Кино</string>
      <string name="filter_general_blackwhite">Б/Ч</string>
      <string name="filter_general_delicious">Храна</string>

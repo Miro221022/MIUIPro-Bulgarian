@@ -452,13 +452,23 @@
     <string name="usage_runtime_title">Задължителни разрешения</string>
 	<string name="control_center_title_new">Използвано днес</string>
     <string name="focus_mode_custom_time">Персонализирана продължителност</string>
-	     <string name="high_fps_description">Висока честота на опресняване на екрана. По-висока консумация на енергия.</string>
+	 <string name="high_fps_description">Висока честота на опресняване на екрана. По-висока консумация на енергия.</string>
      <string name="low_fps_description">Ниска честота на опресняване на екрана. По-ниска консумация на енергия.</string>
-<string name="silent_ringtone_hint">Звукът сега е заглушен. Увеличете силата на звука и опитайте отново.</string>
+     <string name="silent_ringtone_hint">Звукът сега е заглушен. Увеличете силата на звука и опитайте отново.</string>
      <string name="usage_new_home_app_limit_summary">Задайте дневно ограничение на екранното време за това приложение</string>
      <string name="usage_new_home_app_limit_title">Ограничаване на екранното време</string>
      <string name="usage_new_home_avg_usage_day">Среднодневно %s</string>
      <string name="usage_new_home_classify_manage">Управление на категории приложения</string>
      <string name="usage_new_home_sys_no_limit_summary">"Не може да се ограничи времето на екрана за системните приложения"</string>
      <string name="usage_new_home_usage_detail">Данни за ползването</string>
+	 <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+	<string name="fmt_time_12hour">HH:mm</string>
+	<string name="fmt_time_24hour">HH:mm</string>
+	<string name="time_picker_label_hour">Ч</string>
+    <string name="time_picker_label_minute">М</string>
 </resources>
