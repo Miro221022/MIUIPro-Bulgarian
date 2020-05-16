@@ -1870,14 +1870,14 @@
      <string name="filter_general_warm">Топлина</string>
      <string name="filter_movie_blackglod">Родиум</string>
      <string name="filter_movie_central">Централно</string>
-     <string name="filter_movie_classic">Класока</string>
-     <string name="filter_movie_cyberpunk">Cyberpunk</string>
+     <string name="filter_movie_classic">Класика</string>
+     <string name="filter_movie_cyberpunk">Киберпънк</string>
      <string name="filter_movie_encounter">Сблъсък</string>
      <string name="filter_movie_fengyin">Вятър</string>
      <string name="filter_movie_film">Филм</string>
      <string name="filter_movie_koizora">Манга</string>
      <string name="filter_movie_lost">Изгубен</string>
-     <string name="filter_movie_nordic">Nordic</string>
+     <string name="filter_movie_nordic">Скандинавски</string>
      <string name="filter_movie_rome">Рим</string>
      <string name="filter_movie_summer">Лято</string>
      <string name="filter_movie_travel">Пътуване</string>
