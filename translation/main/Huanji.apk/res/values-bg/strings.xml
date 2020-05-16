@@ -1064,4 +1064,5 @@
     <string name="prompt_before_transmission_message3_title">"Използвате Второ пространство"</string>
     <string name="prompt_before_transmission_message4_summary">"Не изключвайте Wi-Fi и не превключвайте между мрежите, докато прехвърлянето не завърши."</string>
     <string name="prompt_before_transmission_message4_title">Останете свързани през целия трансфер</string>
+	<string name="transfer_connect_fail_summary">Докоснете бутона по-долу, за да се свържете ръчно</string>
 </resources>

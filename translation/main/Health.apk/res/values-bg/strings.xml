@@ -34,7 +34,7 @@
   <string name="add_body_weight_button">Добавете данни за теглото</string>
   <string name="add_body_weight_record_button">Добавете данни за теглото</string>
   <string name="add_data_source">Добавяне на източници на данни</string>
-  <string name="add_data_source_description">Добавете данни за здравословното състояние, генерирани от други устройства към Xiaomi Здраве, за да увеличите точността на статистическите данни и да получите по-подходящи здравни съвети.\nXiaomi Здраве поддържа устройства, които преди сте добавили в приложението Mi Home. Ако не можете да намерите устройството, което искате да добавите, проверете дали вече сте го добавили в Mi Home.</string>
+  <string name="add_data_source_description">Добавете здравни данни, генерирани от други устройства в Xiaomi Здраве, за да увеличите точността на статистиката и да получите по-подходящи здравни съвети.</string>
   <string name="add_data_source_login_and_open_sync">Впишете се във вашия Mi профил и включете синхронизирането с облака, за да можете да добавяте източници на данни.</string>
   <string name="add_data_source_open_sync">Включете синхронизирането с облака, за да можете да добавяте източници на данни.</string>
   <string name="add_data_source_support_step">Това устройство не генерира данни за броя на крачките. Можете да опитате да преминете към други източници на данни.</string>
@@ -475,14 +475,14 @@
   <string name="miuix_appcompat_cloud_state_disabled">Синхронизирането с облака е изключено</string>
   <string name="miuix_appcompat_cloud_state_finished">Синхронизиранo с облака</string>
   <string name="miuix_appcompat_cloud_state_syncing">Синхронизиране с облака</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завършено</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">няма данни</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Издърпайте надолу, за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновено успешно</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновяване…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Пуснете за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
   <string name="model_card_setting">Настройки на картите</string>
   <string name="modify">Редактиране</string>
   <string name="modify_end_date">Променете крайната дата</string>
@@ -745,7 +745,7 @@
   <string name="sleep_service_background_running">Услугата за следене на съня работи във фонов режим.</string>
   <string name="sleep_setting_title">Настройки за сън</string>
   <string name="sleep_snore_audio_auto">Автоматично записване на хъркане и говорене</string>
-  <string name="sleep_snore_audio_auto_desc">Xiaomi Здраве може да записва хъркане и говорене автоматично въз основа на вашия график за лягане. Записът ще спре, когато станете. За да защитите поверителността си, всички записани файлове ще се записват локално на вашето устройство с помощта на вградения алгоритъм.</string>
+  <string name="sleep_snore_audio_auto_desc">Xiaomi Здраве може да записва хъркане и говорене автоматично въз основа на вашия график за лягане. Записът ще спре, когато станете.</string>
   <string name="sleep_snore_audio_close_desc">Можете да изключите тази функция в Настройки по всяко време.</string>
   <string name="sleep_snore_audio_enable">Автоматичното откриване е включено</string>
   <string name="sleep_snore_audio_enable_desc">Хъркането и говоренето ви ще се записват автоматично, когато спите.</string>
@@ -1081,5 +1081,15 @@
   <string name="yesterday">Вчера</string>
   <string name="snore_detection_sotp_opt_1">Спиране и изтриване на резултатите</string>
   <string name="snore_detection_sotp_opt_2">Спиране и запазване на резултатите</string>
-  <string name="sync_status_oauth_error">Синхронизирането с източника на данни не бе успешно. Моля, разрешете го отново</string>
+  <string name="sync_status_oauth_error">Данните не могат да се синхронизират. Първо дайте необходимите разрешения</string>
+  <string name="save">Запази</string>
+  <string name="tb_multiple_selecte_all">Избери всички</string>
+  <string name="tb_unmultiple_selecte_all">Откажи всички</string>
+     <string name="load_failed">加载失败，请稍后重试</string>
+     <string name="network_not_available">网络不可用，请联网后重试</string>
+     <string name="retry">重试</string>
+     <string name="sleep_snore_audio_file_mamagement_desc">建议开启。保留最新100MB的鼾声梦话音频，自动清理较旧音频，避免占用过多存储空间。</string>
+     <string name="sleep_snore_audio_file_mamagement_title">自动清理音频文件</string>
+     <string name="sleep_snore_audio_file_saved">音频文件保存在本地</string>
+     <string name="sleep_snore_audio_file_saved_desc">检测采用离线算法，音频文件保存在手机，个人隐私安全有保障。</string>
 </resources>

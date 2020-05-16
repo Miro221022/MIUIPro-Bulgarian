@@ -92,4 +92,13 @@
     <string name="permission_location_desc">За показване на координати</string>
 	<string name="cta_v2_app_purpose">Показва посоки, координати, атмосферно налягане и текуща надморска височина</string>
 	<string name="cta_agree_desc">Разрешете на това приложение да се свърже с интернет и да предоставете незадължителните разрешения, за да може да използвате всички негови функции.</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Издърпайте надолу, за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновено успешно</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновяване…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Пуснете за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
+	<string name="dialog_body_no_network_global">Свържете се с Wi-Fi или включете мобилни данни.</string>
 </resources>
