@@ -266,4 +266,5 @@
      <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
+	 <string name="help_and_feedback">Помощ и отзиви</string>
 </resources>

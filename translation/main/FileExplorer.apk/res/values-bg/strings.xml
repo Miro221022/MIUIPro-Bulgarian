@@ -466,4 +466,6 @@
 	<string name="private_folder_no_file_hints">Натиснете и задръжте файлове или папки, за да ги добавите в поверителната си папка</string>
 	    <string name="des_hide_pwd">Скриване на паролата</string>
     <string name="des_show_pwd">Показване на паролата</string>
+	    <string name="otg_data_transfer_success">Прехвърлено успешно</string>
+    <string name="otg_data_transferring">"Прехвърляне на файлове… Не изключвайте външната памет."</string>
 </resources>

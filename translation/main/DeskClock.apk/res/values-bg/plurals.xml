@@ -97,4 +97,12 @@
         <item quantity="other">%s часа назад</item>
         <item quantity="one">%s час назад</item>
     </plurals>
+	    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Хронометърът работи от %s дни. Докоснете за преглед.</item>
+        <item quantity="one">Хронометърът работи от %s ден. Докоснете за преглед.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Хронометърът работи от %s часа. Докоснете за преглед.</item>
+        <item quantity="one">Хронометърът работи от %s час. Докоснете за преглед.</item>
+    </plurals>
 </resources>

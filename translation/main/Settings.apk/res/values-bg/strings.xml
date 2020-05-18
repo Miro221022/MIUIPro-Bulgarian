@@ -7761,4 +7761,6 @@
   <string name="restore_oaid_dialog_content">Няколко приложения използват вашия виртуален идентификатор. Ако го нулирате сега, част от данните на приложенията ви може да се загубят или да станат неизползваеми. Нулиране въпреки това?</string>
   <string name="miui_sos_remind_close">Аварийният SOS режим е включен. Да се изключи ли заедно с цялата свързана функционалност?</string>
   <string name="miui_sos_remind_close_confirm">Изключи</string>
+      <string name="content_miui_music_mute_by_user">Изпълнение на медиен звук, когато е включен безшумен режим?</string>
+    <string name="title_miui_music_mute_by_user">Безшумен режим</string>
 </resources>

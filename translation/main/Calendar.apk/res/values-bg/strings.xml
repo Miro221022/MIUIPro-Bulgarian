@@ -628,4 +628,5 @@
     <string name="action_bar_cancel">Отказ</string>
     <string name="lunar_date_content_desc">Дата според традиционния китайски календар</string>
     <string name="solar_date_content_desc">Дата според григорианския календар</string>
+	<string name="miuix_search_recommendation_item_del_des">Изтрий</string>
 </resources>

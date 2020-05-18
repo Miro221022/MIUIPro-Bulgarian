@@ -36,4 +36,12 @@
         <item quantity="other">Изтриване на %d записа?</item>
         <item quantity="one">Изтриване на %d запис?</item>
     </plurals>
+	    <plurals name="search_alll_records_hint">
+        <item quantity="other">Search among %d recordings</item>
+        <item quantity="one">Search among %d recording</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Търсене сред %d записа на разговори</item>
+        <item quantity="one">Търсене сред %d запис на разговор</item>
+    </plurals>
 </resources>

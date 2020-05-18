@@ -407,4 +407,23 @@
     <string name="qureyGoods">Търсете продукти</string>
     <string name="queryGoodsFailed">"Информация за продукта не можа да бъде намерена"</string>
    <string name="downloadAiVison">Инсталирайте приставка, за да използвате тази функция</string>
+     <string name="copy">Копирай</string>
+  <string name="document_ocr_fail">"Текстът не може да бъде разпознат. Завъртете изображението, така че да съвпада с ориентацията на вашето устройство и опитайте отново."</string>
+  <string name="document_spin">Завърти</string>
+  <string name="expand_button_title">Разширени</string>
+  <string name="feedback_phone">Информация за контакт (по избор)</string>
+  <string name="history_empty">Тук все още няма елементи</string>
+  <string name="if_to_open_milogo_scanning">Разпознаване на логото на Xiaomi</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Издърпайте надолу, за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновено успешно</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновяване…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Пуснете за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
+  <string name="not_set">Не е зададено</string>
+  <string name="preference_copied">\"%1$s\" е копирано в буферната памет.</string>
+  <string name="v7_preference_off">ИЗКЛ.</string>
+  <string name="v7_preference_on">ВКЛ.</string>
 </resources>

@@ -447,4 +447,9 @@
     <string name="worldclock_local_time">Местно време</string>
     <string name="worldclock_second_time">Часа в %s</string>
     <string name="worldcolock_time_date">dd.MM.yyyy</string>
+	<string name="add_common_timer">Добвете таймер</string>
+    <string name="common_timer_selector">Изберете таймер</string>
+    <string name="stopwatch_reset_notification">Хронометърът е нулиран</string>
+    <string name="stopwatch_running_notification">Хронометър</string>
+    <string name="white_noise_selector">Изберете звук</string>
 </resources>

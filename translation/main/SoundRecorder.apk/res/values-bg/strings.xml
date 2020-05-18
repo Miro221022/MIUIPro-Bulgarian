@@ -315,4 +315,5 @@
     <string name="recognition_notification_error">"Не можа да се транскрибира \"%s\""</string>
     <string name="recognition_notification_running">Транскрибиране \"%s\"…</string>
     <string name="recognition_stop_current">Спри текущата задача</string>
+	<string name="agree_description">Разрешете на това приложение да се свърже с интернет, за да може да използвате всички негови функции.</string>
 </resources>

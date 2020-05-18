@@ -877,4 +877,7 @@
     <string name="storage_upgrade_card_title">Надстройте плана си</string>
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+	<string name="help_and_feedback">Помощ и отзиви</string>
+    <string name="micloud_find_device_guide_desc_pad">"Впишете се в &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> за да намерите, заключите или нулирате устройството си. Това може да ви помогне да намерите устройството си, в случай че го изгубите. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Помощ]&lt;/a>"</string>
+    <string name="micloud_find_device_guide_desc_phone">"Впишете се в &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> за да намерите, заключите или нулирате устройството си. Това може да ви помогне да намерите устройството си, в случай че го изгубите. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Помощ]&lt;/a>"</string>
 </resources>

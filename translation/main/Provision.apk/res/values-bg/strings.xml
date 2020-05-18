@@ -250,4 +250,10 @@
     <string name="permission_backup">Достъп до хранилището</string>
     <string name="permission_backup_introduction">За достъп и запазване на архиви на вашето устройство</string>
     <string name="service_name_backup">Архиви</string>
+	    <string name="mobile_network">Използване на мобилни данни</string>
+    <string name="move_data_dialog_box_le">"Това позволява използване на мобилни данни и GPS връзка въз основа на заявката на потребителя. Синхронизирането на профили и други елементи може да изисква използване на мобилни данни в зависимост от спецификациите на смартфона."</string>
+    <string name="move_data_dialog_box_title">Освен ако нямате план с неограничени данни, използването на мобилни данни може да генерира допълнителни такси от оператора. Ще използвате ли мобилни данни въпреки това?</string>
+    <string name="move_data_dialog_cancel">Отказ</string>
+    <string name="move_data_dialog_title">Можете да ограничите мобилната връзка за данни в настройките по-късно</string>
+    <string name="move_data_dialog_use">Използвай</string>
 </resources>

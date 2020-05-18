@@ -182,4 +182,5 @@
     <string name="share_not_install_weibo">Първо инсталирайте Weibo</string>
     <string name="share_success">Споделено успешно</string>
     <string name="share_title">Сподели</string>
+	<string name="miui_guide_accessibility_image_desc">Изображение</string>
 </resources>

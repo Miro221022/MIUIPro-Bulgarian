@@ -1975,4 +1975,6 @@
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Отказ</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Изключи</string>
+	<string name="notification_storage_float">Външно хранилище</string>
+    <string name="storage_is_connecting">%1$s е свързан</string>
 </resources>
