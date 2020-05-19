@@ -3392,7 +3392,7 @@
   <string name="normal_smartcover_title">Непрозрачен преден капак</string>
   <string name="not_battery_optimizing">Оптимизирането на батерията не се използва</string>
   <string name="not_installed">Не е инсталир. за потребителя</string>
-  <string name="notch_and_status_bar_settings">Прорез и лента за състоянието</string>
+  <string name="notch_and_status_bar_settings">Център за управление и лента за състоянието</string>
   <string name="notch_force_black_desc">Когато е включено, площта около прореза на екрана ще е черна</string>
   <string name="notch_force_black_title">Скриване на прореза на екрана</string>
   <string name="notch_settings">Прорез</string>

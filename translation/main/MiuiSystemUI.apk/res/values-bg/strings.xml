@@ -1977,4 +1977,6 @@
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Изключи</string>
 	<string name="notification_storage_float">Външно хранилище</string>
     <string name="storage_is_connecting">%1$s е свързан</string>
+	<string name="auto_brightness_off">Автоматичната яркост е деактивирана</string>
+    <string name="auto_brightness_on">Автоматичната яркост е активирана</string>
 </resources>

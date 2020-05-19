@@ -1246,4 +1246,13 @@
     <string name="parameter_ambilight_title">Дълга експозиция</string>
     <string name="pref_more_mode_style_title">Режими на камерата</string>
 	<string name="pref_module_settings">Режими</string>
+	<string name="accessibility_focus_face_pos_bottom">靠近底部边缘</string>
+    <string name="accessibility_focus_face_pos_left">靠近左侧边缘</string>
+    <string name="accessibility_focus_face_pos_left_bottom">靠近底部左侧边缘</string>
+    <string name="accessibility_focus_face_pos_left_top">靠近顶部左侧边缘</string>
+    <string name="accessibility_focus_face_pos_mid">居中</string>
+    <string name="accessibility_focus_face_pos_right">靠近右侧边缘</string>
+    <string name="accessibility_focus_face_pos_right_bottom">靠近底部右侧边缘</string>
+    <string name="accessibility_focus_face_pos_right_top">靠近顶部右侧边缘</string>
+    <string name="accessibility_focus_face_pos_top">靠近顶部边缘</string>
 </resources>
