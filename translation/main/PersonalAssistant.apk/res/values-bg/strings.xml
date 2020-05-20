@@ -1218,4 +1218,15 @@
      <string name="bluetooth_item_double_battery_level_right">R:%d%%</string>
      <string name="bluetooth_item_double_battery_level_right_invalid">R: Няма данни</string>
      <string name="bluetooth_setting_brief">Преглед на информация за използването на батерията на свързани устройства</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Издърпайте надолу, за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновено успешно</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновяване…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Пуснете за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
+     <string name="mru_setting_brief">Бързи приложения и преки пътища, които се появяват след като плъзнете надолу в асистента</string>
+     <string name="mru_setting_brief_detail">"Наскоро използвани бързи приложения и преки пътища. "</string>
+     <string name="mru_title">Последни елементи</string>
 </resources>
