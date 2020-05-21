@@ -387,4 +387,13 @@
 	<string name="rain_sound_setting_summary_text">Придружаване на промените във времето със звукови ефекти</string>
     <string name="rain_sound_setting_title_text">Звукови ефекти</string>
     <string name="request_cta_connect_net">Разрешете на това приложение да се свърже с интернет и да предостави задължителните разрешения, изброени по-горе.</string>
+	<string name="global_not_enable_warning">"Това приложение не може да се използва. То не е инсталирано от официалните източници."</string>
+    <string name="index_item_install_dialog">%1$s下载并安装成功,是否立即体验?</string>
+    <string name="widget_cta_not_agree">Докоснете, за да получите информация за времето</string>
+	<string name="aqi_15_days_desc">15-дневна прогноза за ИКВ</string>
+    <string name="aqi_24_hours_desc">24-часова прогноза за ИКВ</string>
+    <string name="aqi_48_hours_desc">48-часова прогноза за ИКВ</string>
+    <string name="aqi_5_days_desc">5-дневна прогноза за ИКВ</string>
+	<string name="weather_main_aqi_desc">ИКВ</string>
+    <string name="weather_main_minute_hour">2 часа валежи</string>
 </resources>
