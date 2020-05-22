@@ -471,4 +471,10 @@
 	<string name="fmt_time_24hour">HH:mm</string>
 	<string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
+     <string name="usage_app_limit_reach_summay_new">点击按钮延长使用%d分钟</string>
+     <string name="usage_app_limit_reach_title_new">“%1s”还可使用%2s</string>
+     <string name="usage_new_home_day_category_title_new">%s 类别使用情况</string>
+     <string name="usage_new_home_day_usage_title_new">%s 应用使用情况</string>
+     <string name="usage_week_avg_usage_title">本周平均使用</string>
+     <string name="usage_week_avg_usage_title2">平均使用</string>
 </resources>
