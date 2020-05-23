@@ -42,13 +42,13 @@
     </string-array>
     <array name="region_prefix" />
     <string-array name="transformation_entries">
-        <item>Плъзване</item>
-        <item>Избледняване</item>
-        <item>Разбъркване</item>
+        <item>Плъзгане</item>
+        <item>Преливане</item>
+        <item>Преобръщане</item>
         <item>Страница</item>
         <item>Каскада</item>
-        <item>Ротация</item>
-        <item>3D куб</item>
+        <item>Завъртане</item>
+        <item>Куб</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Според темата</item>

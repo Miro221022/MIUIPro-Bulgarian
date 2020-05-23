@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Придвижване към начало</string>
+    <string name="abc_action_bar_up_description">Придвижване нагоре</string>
+    <string name="abc_action_menu_overflow_description">Още опции</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Виж всички</string>
+    <string name="abc_activitychooserview_choose_application">Изберете приложение</string>
+    <string name="abc_capital_off">ИЗКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+	<string name="abc_search_hint">Търсене…</string>
+    <string name="abc_searchview_description_clear">Изчистване на заявката</string>
+    <string name="abc_searchview_description_query">Заявка за търсене</string>
+    <string name="abc_searchview_description_search">Търсене</string>
+    <string name="abc_searchview_description_submit">Изпрати заявката</string>
+    <string name="abc_searchview_description_voice">Гласово търсене</string>
+    <string name="abc_shareactionprovider_share_with">Сподели със</string>
+    <string name="abc_shareactionprovider_share_with_application">Сподели със %s</string>
+    <string name="abc_toolbar_collapse_description">Свиване</string>
+	<string name="search_menu_title">Търсене</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Добави в работно място</string>
     <string name="activity_not_found">Приложението не е инсталирано на телефона Ви.</string>
@@ -281,16 +299,16 @@
     <string name="title_select_live_folder">Избери папка</string>
     <string name="title_select_shortcut">Избери пряк път</string>
     <string name="toast_screen_icons_misplaced">Възстановено от други източници, някои икони може да разместени или липсват</string>
-    <string name="toggle_select_title">Избери превкл.</string>
+    <string name="toggle_select_title">Избери превключвател</string>
     <string name="toggle_title">Превключватели</string>
     <string name="transformation_type_classic">Приплъзване</string>
-    <string name="transformation_type_classic_no_overshoot">Плъзване</string>
-    <string name="transformation_type_crossfade">Избледняване</string>
-    <string name="transformation_type_cube">3D куб</string>
-    <string name="transformation_type_falldown">2D ротация</string>
+    <string name="transformation_type_classic_no_overshoot">Плъзгане</string>
+    <string name="transformation_type_crossfade">Преливане</string>
+    <string name="transformation_type_cube">Куб</string>
+    <string name="transformation_type_falldown">Преобръщане</string>
     <string name="transformation_type_leftpage">Страница</string>
-    <string name="transformation_type_rotate">3D ротация</string>
-    <string name="transformation_type_stack">Каскадно</string>
+    <string name="transformation_type_rotate">Завъртане</string>
+    <string name="transformation_type_stack">Каскада</string>
     <string name="uninstall">Деинсталиране</string>
     <string name="uninstall_dialog_message">Премахване на прилoжението</string>
     <string name="uninstall_dialog_title_format">Премахване на %s?</string>
@@ -541,4 +559,5 @@
     <string name="perfect_icons_switch_title">Перфектни икони</string>
 	<string name="accessibility_menu_item_smallwindow_disable">"Това приложение не поддържа плаващи прозорци"</string>
     <string name="accessibility_menu_item_smallwindow_enable">Това приложение поддържа плаващи прозорци</string>
+	<string name="all_apps_setting_classic_title">Класически</string>
 </resources>
