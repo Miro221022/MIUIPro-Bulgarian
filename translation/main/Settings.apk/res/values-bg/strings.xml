@@ -1551,6 +1551,10 @@
   <string name="date_time_search_region">Регион на търсенето</string>
   <string name="date_time_select_fixed_offset_time_zones">Изберете разликата спрямо UTC</string>
   <string name="date_time_select_region">Регион</string>
+  <string name="date_time_auto_summaryOff">Използване на часа предоставен от мрежата</string>
+  <string name="date_time_auto_summaryOn">Използване на часа предоставен от мрежата</string>
+  <string name="date_time_set_date">Задайте дата</string>
+  <string name="date_time_set_time">Задайте час</string>
   <string name="date_time_set_date_title">Датa</string>
   <string name="date_time_set_time_title">Час</string>
   <string name="date_time_set_timezone">Часова зона</string>
@@ -7764,4 +7768,5 @@
       <string name="content_miui_music_mute_by_user">Изпълнение на медиен звук, когато е включен безшумен режим?</string>
     <string name="title_miui_music_mute_by_user">Безшумен режим</string>
     <string name="face_unlock_success_show_message_title">Показване на подробности за известието след потвърждаване на лицевите данни</string>
+	<string name="zone_auto">Автоматична часова зона</string>
 </resources>
