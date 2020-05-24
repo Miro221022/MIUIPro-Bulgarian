@@ -533,7 +533,7 @@
         <item quantity="one">Това приложение стартира %1$d друго проложение</item>
     </plurals>
     <plurals name="pc_battery_history_hour">
-        <item quantity="other">" часа"</item>
+        <item quantity="other">" ч."</item>
         <item quantity="one">" ч."</item>
     </plurals>
     <plurals name="pc_battery_history_minute">
