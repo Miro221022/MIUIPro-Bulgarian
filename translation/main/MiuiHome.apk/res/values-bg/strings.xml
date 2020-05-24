@@ -551,13 +551,14 @@
 	<string name="remove_invalidate_gadget_tips">Едно от приспособленията, които използвате, вече не е налично. Можете да добавите друго.</string>
 	<string name="shortcut_share_dialog_content">"Файловете, които изпращате от телефона си, както и техните получатели се избират и определят от вас. Бъдете внимателни, когато избирате файлове, които да споделяте и избирате получатели. Нямате право да използвате телефона си за предаване на вируси, злонамерен софтуер, троянски програми, бомби и други вредни обекти на други хора. Не използвайте телефона си, за да предавате софтуер, който може да повлияе на нормалното ползване на устройството на получателя или всякакви елементи, които могат да повредят, да пречат, да прихващат или елиминират всякакви системни данни или лична информация на мобилни терминални устройства. Вие ще носите отговорност за щети, причинени на други потребители или мобилни терминални устройства. Xiaomi ще направи всичко възможно, за да гарантира, че функционалността за споделяне, както и включените технологии и информация са безопасни, ефективни, точни и надеждни. Поради настоящите технологични ограничения, Xiaomi не гарантира, че функционалността за споделяне е безупречна и ще задоволи всички ваши нужди."</string>
     <string name="shortcut_share_dialog_positive_button">Разбрах</string>
-    <string name="shortcut_share_dialog_title">Опровержение</string>
+    <string name="shortcut_share_dialog_title">Отказ от отговорност</string>
 	<string name="switch_personal_assistant_app_vault">Личен асистент</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Без</string>
-    <string name="perfect_icons_switch_summary">Преначертаване на иконите на приложенията от трети страни</string>
-    <string name="perfect_icons_switch_title">Перфектни икони</string>
+    <string name="perfect_icons_switch_summary">Показване на анимация за иконите на приложенията от трети страни</string>
+    <string name="perfect_icons_switch_title">Подобрени икони</string>
 	<string name="accessibility_menu_item_smallwindow_disable">"Това приложение не поддържа плаващи прозорци"</string>
     <string name="accessibility_menu_item_smallwindow_enable">Това приложение поддържа плаващи прозорци</string>
 	<string name="all_apps_setting_classic_title">Класически</string>
+	<string name="home_switch_personal_assistant">Асистент</string>
 </resources>

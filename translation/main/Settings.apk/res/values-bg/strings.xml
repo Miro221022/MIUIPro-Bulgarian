@@ -5668,7 +5668,7 @@
   <string name="usb_use_photo_transfers_desc">Прехвърляне на снимки или файлове, ако MTP не се поддържа (PTP)</string>
   <string name="usb_use_power_only">Захранване</string>
   <string name="usb_use_tethering">Тетъринг през USB</string>
-  <string name="use_control_panel">Използвайте Център за контрол</string>
+  <string name="use_control_panel">Център за управление</string>
   <string name="use_location_summary">Разрешавам на Google да използва местоположението ми за подобряване на резултатите от търсенето и др. услуги</string>
   <string name="use_location_title">Местоположение и търсене с Google</string>
   <string name="use_open_wifi_automatically_summary_scorer_unsupported_disabled">За да използвате, изберете съвместим доставчик на услуги за оценка на мрежите</string>
@@ -7763,4 +7763,5 @@
   <string name="miui_sos_remind_close_confirm">Изключи</string>
       <string name="content_miui_music_mute_by_user">Изпълнение на медиен звук, когато е включен безшумен режим?</string>
     <string name="title_miui_music_mute_by_user">Безшумен режим</string>
+    <string name="face_unlock_success_show_message_title">Показване на подробности за известието след потвърждаване на лицевите данни</string>
 </resources>

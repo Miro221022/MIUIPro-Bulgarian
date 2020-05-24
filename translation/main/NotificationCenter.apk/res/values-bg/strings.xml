@@ -60,9 +60,9 @@
      <string name="menu_setting_toast_recommend_normal">"Известията от %s няма да бъдат намалени"</string>
      <string name="menu_setting_toast_show_in_home">"Известията от %s няма да бъдат групирани"</string>
      <string name="notification_aggregate_description1">MIUI може автоматично да групира изскачащи и промоционални известия, което ще направи вашият панел за известия по-малко препълнен.</string>
-     <string name="notification_aggregate_description2">"Нашите алгоритми анализират съдържанието на известията и не прилагат тази функция към важни предупреждения и известия от приложения за незабавни съощения. Ако откриете, че важните известия са групирани по грешка, докладвайте за проблема, с който сте се сблъскали с чрез нашата функия за \"Отзиви\"."</string>
-     <string name="notification_aggregate_summary">Разрешете MIUI да групира известията автоматично</string>
-     <string name="notification_aggregate_summary_inner">Включете автоматично груповите изскачащи и промоционални известия</string>
+     <string name="notification_aggregate_description2">"Нашите алгоритми анализират съдържанието на известията и не прилагат тази функция към важни предупреждения и известия от приложения за незабавни съощения. Ако откриете, че важните известия са групирани по грешка, докладвайте за проблема, с който сте се сблъскали чрез нашата функия за \"Отзиви\"."</string>
+     <string name="notification_aggregate_summary">Разрешете на MIUI да групира известията автоматично</string>
+     <string name="notification_aggregate_summary_inner">Включете, за да се групират изскачащите и промоционалните известия автоматично</string>
      <string name="notification_aggregate_title">Групирани известия</string>
      <string name="notification_setting_menu_feedback_text">"Това известие не трябва да е тук?
 Докладвайте този проблем &gt;"</string>

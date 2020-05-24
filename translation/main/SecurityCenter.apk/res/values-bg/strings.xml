@@ -3209,7 +3209,7 @@
     <string name="power_superpower_title_systemui_highpower">Оставащо време</string>
     <string name="power_superpower_title_systemui_lowpower">Свържете зарядно</string>
     <string name="preference_copied">\"%1$s\" е копирано в буферната памет.</string>
-    <string name="pricacy_permission_use_total">Статистика на разрешителните</string>
+    <string name="pricacy_permission_use_total">Статистика на разрешенията</string>
     <string name="priority_storage_app_settings">Данните ще бъдат запазени в %1$s</string>
     <string name="priority_storage_settings_summary">"Ако не бъде открита SD карта, вашите данни ще бъдат записани автоматично във вътрешното хранилище на вашето устройство."</string>
     <string name="priority_storage_summary">Изберете местоположение, за да запазите данните си</string>
@@ -3242,7 +3242,7 @@
     <string name="privacy_empty_location">"Днес няма получен достъп до местоположението"</string>
     <string name="privacy_empty_record">"Няма запис на звук днес"</string>
     <string name="privacy_empty_storage">"Няма получен достъп до хранилището днес"</string>
-    <string name="privacy_guide_permission_guide_text">Можете да получавате сигнал в лентата на състоянието, когато приложенията имат достъп до вашето местоположение, записват звук или правят снимки.</string>
+    <string name="privacy_guide_permission_guide_text">Можете да получавате сигнал в лентата за състоянието, когато приложенията имат достъп до вашето местоположение, записват звук или правят снимки.</string>
     <string name="privacy_guide_permission_use_text">MIUI ще отчита и показва колко пъти приложението използва чувствителни разрешения, включително местоположение, контакт, история на обажданията и достъп до хранилището, както и запис на звук. Можете да научите колко пъти всяко приложение използва тези разрешения и да определите дали трябва да коригирате настройките на разрешенията си.</string>
     <string name="privacy_informed_title">Статистика</string>
     <string name="privacy_location_info_summary">Управление на достъпа до местоположението ви</string>
@@ -3401,7 +3401,8 @@
 	<string name="app_manager_anomaly_analysis">Анализ на отклоненията в приложенията</string>
 	    <string name="oaid_reset_content_tip">若关闭虚拟身份ID，部分应用及五福可能无法正常使用，并可能造成部分数据丢失，请谨慎操作！</string>
     <string name="oaid_reset_final_tip">是否确定关闭虚拟身份ID？</string>
-    <string name="privacy_mask_summary">Вместо вашия истински идентификатор, MIUI ще предостави виртуален идентификатор (PAID) на приложения от трети страни. Той не позволява на приложенията да следят вашето поведение и предпочитания и защитава поверителността ви.</string>
+    <string name="privacy_mask_summary">Вместо вашия истински идентификатор, MIUI ще предостави виртуален идентификатор (PAID) на приложения от трети страни. Той не позволява на приложенията да следят вашето поведение и предпочитания, и защитава поверителността ви.</string>
     <string name="privacy_mask_title">Виртуалният идентификатор е включен</string>
 	<string name="pm_newfeature_sub_text">НОВО</string>
+	<string name="privacy_permission_camera_title">Използване на камерата на заден план</string>
 </resources>

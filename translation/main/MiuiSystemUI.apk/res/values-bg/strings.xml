@@ -1962,7 +1962,7 @@
     <string name="qs_control_customize_sub_title">Плъзнете добавените превключватели, за да ги пренаредите</string>
     <string name="qs_control_customize_title">Добавени превключватели</string>
     <string name="qs_control_expand_detail_title">Моите данни</string>
-    <string name="qs_control_header_tiles_title">Контролен център</string>
+    <string name="qs_control_header_tiles_title">Управление</string>
     <string name="small_window_notification_text">Докоснете, за да научите повече за тази функция на MIUI %d</string>
     <string name="small_window_notification_title">Плаващи прозорци</string>
     <string name="wifi_security_none_owe">Без/Подобрен отворен</string>

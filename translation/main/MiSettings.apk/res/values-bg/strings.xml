@@ -294,7 +294,7 @@
     <string name="usage_stats_limit_time_warn_title">Предупреждение за оставащото време</string>
     <string name="usage_stats_no_limit">Изключения</string>
 	<string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-    <string name="usage_remain_hour_miunte">%1$s%2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
 	<string name="contact_description">Докоснете преките пътища на началния екран, за да извършите повиквания</string>
   <string name="contact_title">Преки пътища за контакти</string>
   <string name="display_description">По-големи икони, голям текст, по-малко визуално претрупване</string>

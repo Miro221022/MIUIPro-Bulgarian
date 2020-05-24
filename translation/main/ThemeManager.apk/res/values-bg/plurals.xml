@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">Преди 1 час</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">Преди 1 час</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Преди половин час</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">След 1 час</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">След половин час</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Веднага</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">след %d мин.</item>
+    <item quantity="one">след 1 мин.</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Сега</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">Преди %d мин.</item>
+    <item quantity="one">Преди 1 мин.</item>
+  </plurals>
+  <plurals name="aod_batch_has_update_text">
+    <item quantity="one">Наличниса актуализации за %1$d теми</item>
+    <item quantity="other">Налична е актуализация за %1$d тема</item>
+  </plurals>
+  <plurals name="aod_batch_updating_text">
+    <item quantity="one">Актуализират се %1$d теми</item>
+    <item quantity="other">Актуализира се %1$d тема</item>
+  </plurals>
+  <plurals name="de_author_fans_amount">
+    <item quantity="other">%1$d фена</item>
+    <item quantity="one">%1$d фен</item>
+  </plurals>
+  <plurals name="de_author_theme_amount">
+    <item quantity="other">%1$d елемента</item>
+    <item quantity="one">%1$d елемент</item>
+  </plurals>
+  <plurals name="de_icon_count">
+    <item quantity="one">%1$d икони</item>
+    <item quantity="other">%1$d икона</item>
+  </plurals>
+  <plurals name="de_more_comment">
+    <item quantity="other">Още %1$d коментара</item>
+    <item quantity="one">Още %1$d коментар</item>
+  </plurals>
   <plurals name="detail_update_time_hour">
     <item quantity="other">Преди %d часа</item>
     <item quantity="one">Преди %d час</item>
@@ -11,6 +64,41 @@
   <plurals name="guide_used_number">
     <item quantity="other">Приложено на %1$d устройства</item>
     <item quantity="one">Приложено на %1$d устройство</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Преди половин час</item>
+  </plurals>
+  <plurals name="icon_batch_has_update_text">
+    <item quantity="one">Налични са актуализации за %1$d икони</item>
+    <item quantity="other">Налични са актуализации за %1$d икона</item>
+  </plurals>
+  <plurals name="icon_batch_updating_text">
+    <item quantity="one">Актуализират се %1$d икони…</item>
+    <item quantity="other">Актуализира се %1$d икона…</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">След 1 час</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">След половин час</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Веднага</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">след %d минути</item>
+    <item quantity="one">след 1 минута</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Сега</item>
+  </plurals>
+  <plurals name="mtrl_badge_content_description">
+    <item quantity="other">%d нови известия</item>
+    <item quantity="one">%d ново известие</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">Преди %d минути</item>
+    <item quantity="one">Преди 1 минута</item>
   </plurals>
   <plurals name="resource_comment_score_count">
     <item quantity="other">%d коментара</item>
@@ -60,24 +148,4 @@
     <item quantity="other">%1$s | %2$d изображения</item>
     <item quantity="one">%1$s | %2$d изображение</item>
   </plurals>
-       <plurals name="aod_batch_has_update_text">
-         <item quantity="one">Налична е актуализация за %1$d тема</item>
-         <item quantity="other">Наличниса актуализации за %1$d теми</item>
-     </plurals>
-     <plurals name="aod_batch_updating_text">
-         <item quantity="one">Актуализира се %1$d тема</item>
-         <item quantity="other">Актуализират се %1$d теми</item>
-     </plurals>
-	      <plurals name="de_icon_count">
-         <item quantity="one">%1$d икона</item>
-         <item quantity="other">%1$d икони</item>
-     </plurals>
-     <plurals name="icon_batch_has_update_text">
-         <item quantity="one">Налични са актуализации за %1$d икона</item>
-         <item quantity="other">Налични са актуализации за %1$d икони</item>
-     </plurals>
-     <plurals name="icon_batch_updating_text">
-         <item quantity="one">Актуализира се %1$d икона…</item>
-         <item quantity="other">Актуализират се %1$d икони…</item>
-     </plurals>
 </resources>

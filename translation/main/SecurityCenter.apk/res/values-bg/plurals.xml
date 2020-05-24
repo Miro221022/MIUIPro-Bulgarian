@@ -349,8 +349,8 @@
     <item quantity="one">"%d ден "</item>
   </plurals>
   <plurals name="power_center_battery_hour">
-    <item quantity="other">"%d часа "</item>
-    <item quantity="one">"%d час "</item>
+    <item quantity="other">"%d ч. "</item>
+    <item quantity="one">"%d ч. "</item>
   </plurals>
   <plurals name="power_center_battery_minute">
     <item quantity="other">"%d минути "</item>
@@ -534,7 +534,7 @@
     </plurals>
     <plurals name="pc_battery_history_hour">
         <item quantity="other">" часа"</item>
-        <item quantity="one">" час"</item>
+        <item quantity="one">" ч."</item>
     </plurals>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" мин."</item>
