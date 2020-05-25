@@ -1255,4 +1255,7 @@
     <string name="accessibility_focus_face_pos_right_bottom">靠近底部右侧边缘</string>
     <string name="accessibility_focus_face_pos_right_top">靠近顶部右侧边缘</string>
     <string name="accessibility_focus_face_pos_top">靠近顶部边缘</string>
+	<string name="pref_camera_heic_image_format_description2">"Форматът на изображението с висока ефективност спестява място за съхранение, но не се поддържа от някои приложения от трети страни. Не можете да правите снимки на живо и да премахвате водни знаци в HEIF"</string>
+    <string name="ambilight_tips_for_longtime_using_tripod">长时间拍摄, 请使用三脚架</string>
+    <string name="ambilight_tips_for_suggest_using_tripod">建议使用三脚架拍摄</string>
 </resources>

@@ -1057,5 +1057,5 @@
      <string name="system_permission_declare_privacy_declare_new">Това приложение трябва да се свърже с интернет и изисква следните разрешения, за да може да работи нормално:</string>
      <string name="v7_preference_off">ИЗКЛ.</string>
      <string name="v7_preference_on">ВКЛ.</string>
-	 <string name="failed_to_send">Неуспешно изпращане</string>
+	 <string name="failed_to_send">"Неуспешно изпращане"</string>
 </resources>

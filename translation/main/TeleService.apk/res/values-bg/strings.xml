@@ -1942,7 +1942,7 @@
 	    <string name="incall_error_out_of_service_kr">Достъпно е само спешно повикване.</string>
     <string name="incall_number_anonymous">Неизвестен номер</string>
     <string name="msim_setting_default_data_description">SIM за данни %d</string>
-    <string name="msim_setting_default_voice_description">SIM %d</string>
+    <string name="msim_setting_default_voice_description">SIM %d за повиквания</string>
     <string name="private_num_kr">Идентификацията на обаждащия се е ограничена</string>
 	<string name="msim_setting_default_voice">Повиквания</string>
 	<string name="msim_setting_default_data">Данни</string>

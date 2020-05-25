@@ -1970,10 +1970,10 @@
 	<string name="status_bar_clock_date_weekday_format">EEEE dd/MM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE dd/MM</string>
 	<string name="bluetooth_paired">Запазено</string>
-	<string name="quick_settings_cellular_detail_dialog_message_turnoff">Мобилните данни (WCDMA / LTE) ще бъдат изключени. Ако не използвате WLAN, вече няма да можете да използвате приложения, които изискват връзка за данни. Изпращането или получаването на мултимедийни съобщения ще бъде ограничено.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Мобилните данни ще бъдат включени. Свързването с мобилни мрежи може да доведе до допълнителни такси в зависимост от вашия план.</string>
+	<string name="quick_settings_cellular_detail_dialog_message_turnoff">"Ако изключите мобилните данни, няма да можете да използвате интернет, освен ако не се свържете с WLAN. Все още ще можете да изпращате MMS. Да се изключат ли мобилните данни?"</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Използването на мобилни данни може да генерира допълнителни такси в зависимост от вашия план. Да се разреши ли използването на мобилни данни?</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Отказ</string>
-    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Разреши</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Изключи</string>
 	<string name="notification_storage_float">Външно хранилище</string>
     <string name="storage_is_connecting">%1$s е свързан</string>
@@ -1983,4 +1983,11 @@
 d MMMM"</string>
     <string name="lock_screen_date_two_lines_12">"EEEE
 d MMMM"</string>
+    <string name="accessibility_detail_switch">Превключване</string>
+    <string name="accessibility_expand_button">Разшири</string>
+    <string name="partial_screenshot_edit">Редакция</string>
+    <string name="partial_screenshot_repaint">Започни отначало</string>
+    <string name="partial_screenshot_save">Запази</string>
+    <string name="partial_screenshot_save_successful">Запазено успешно</string>
+    <string name="partial_screenshot_share">Сподели</string>
 </resources>

@@ -267,4 +267,14 @@
      <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
 	 <string name="help_and_feedback">Помощ и отзиви</string>
+	     <string name="btn_restore_wait_china">Изчаква се за WLAN</string>
+    <string name="cloud_back_up_detail_discription_china">"Тези елементи ще бъдат архивирани в Xiaomi Облак, когато устройството ви се свърже с WLAN: 
+*  Приложения, оформление на началния екран и тапети
+*  Настройки за аларма, часовник и време 
+*  Настройки за известията 
+*  MIUI и системни настройки 
+Забележка: Данните за инсталираните от вас приложения няма да бъдат архивирани в Xiaomi Облак."</string>
+    <string name="cloud_backup_detail_state_summary_china">Създайте автоматично архивиране в Xiaomi Облак, когато сте свързани с WLAN.</string>
+    <string name="dialog_msg_restore_require_wlan_china">Възстановяването на архивите изисква свързване към WLAN.</string>
+    <string name="dialog_title_require_wlan_china">Свързване към WLAN</string>
 </resources>

@@ -29,7 +29,7 @@
     <string name="first_settings_default_location_title">Споделяне без информация за местоположението по подразбиране</string>
     <string name="first_settings_share_enable">Добави значка \"Безопасно споделяне\"</string>
     <string name="first_settings_share_enable_subtitle">Елементите, които споделяте в WeChat, ще се показват със значка MIUI</string>
-    <string name="first_settings_subtitle">Тук са достъпни опциите за сигурно споделяне:</string>
+    <string name="first_settings_subtitle">Тук са достъпни опциите за безопасно споделяне:</string>
     <string name="first_settings_title">Защитете поверителността си</string>
       <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завърши</string>
@@ -44,7 +44,7 @@
     <string name="once_settings_subtitle">Как бихте искали да споделите избраните елементи?</string>
     <string name="once_settings_title">Защита на поверителността</string>
     <string name="settings_camera_subtitle_no">Няма метаданни</string>
-    <string name="settings_image_camera_summary">Модел на устройството, метаданни и т.н..</string>
+    <string name="settings_image_camera_summary">Модел на устройството, метаданни и т.н.</string>
     <string name="settings_location_subtitle_no">Няма информация за местоположението</string>
     <string name="settings_share_enable_summary">Елементите, които споделяте в WeChat, ще се показват със значка MIUI</string>
     <string name="settings_share_info">Ето опциите за сигурно споделяне, налични за елементите, споделени от Галерия и Файлов мениджър:</string>
@@ -53,4 +53,5 @@
     <string name="settings_title">Сигурно споделяне</string>
     <string name="text_done">OK</string>
     <string name="text_security">Поверителност</string>
+	<string name="loading_text_format" formatted="false">Премахване на личната информация от снимките (%d/%d)…</string>
 </resources>

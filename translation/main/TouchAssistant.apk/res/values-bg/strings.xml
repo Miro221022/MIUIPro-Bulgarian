@@ -55,4 +55,9 @@
     <string name="three_seconds_auto_hide">Прибиране към ръба на екрана след 3 секунди бездействие</string>
 	<string name="name_mi_wallet">Mi Портвейл</string>
 	<string name="mi_ai">Mi AI преки пътища</string>
+	<string name="edge_distance_pref_summary">Докоснете зоните за събуждане в близост до краищата на екрана, за да се появи бързата топка</string>
+    <string name="edge_distance_pref_title">Зони за събуждане</string>
+    <string name="edge_mode_custom_summary">Регулирайте размера на зоните за събуждане по краищата на екрана</string>
+    <string name="edge_mode_custom_title">Персонализиране</string>
+    <string name="edge_mode_default_title">По подразбиране</string>
 </resources>

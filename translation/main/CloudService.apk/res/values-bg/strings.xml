@@ -878,6 +878,16 @@
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
 	<string name="help_and_feedback">Помощ и отзиви</string>
-    <string name="micloud_find_device_guide_desc_pad">"Впишете се в &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> за да намерите, заключите или нулирате устройството си. Това може да ви помогне да намерите устройството си, в случай че го изгубите. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Помощ]&lt;/a>"</string>
-    <string name="micloud_find_device_guide_desc_phone">"Впишете се в &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> за да намерите, заключите или нулирате устройството си. Това може да ви помогне да намерите устройството си, в случай че го изгубите. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Помощ]&lt;/a>"</string>
+    <string name="micloud_find_device_guide_desc_pad">Ако вашето устройство е изгубено, влезте в &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> от всяко друго устройство, за да намерите, заключите дистанционно или изтриете данни на изгубеното устройство. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Подробности&lt;/a>.</string>
+    <string name="micloud_find_device_guide_desc_phone">Ако вашето устройство е изгубено, влезте в &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> от всяко друго устройство, за да намерите, заключите дистанционно или изтриете данни на изгубеното устройство. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Подробности&lt;/a>.</string>
+	   <string name="micloud_dspt_provision_china">Използвайте Xiaomi Облак, за да синхронизирате данни, да намерите вашето устройство и да споделяте неща с приятели.</string>
+    <string name="micloud_dspt_provision_xms_china">Използвайте Xiaomi Облак за синхронизиране на данни.</string>
+    <string name="micloud_notif_content_depend_wifi_china">Свържете се с WLAN, за да синхронизирате.</string>
+    <string name="micloud_setting_wifi_summary_china">WLAN настройки</string>
+    <string name="micloud_sync_result_wifi_only_china">Този елемент е твърде голям. Синхронизирайте го, когато сте свързани с WLAN.</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only_china">Използвай само WLAN за синхронизиране на снимки</string>
+    <string name="soundrecorder_sync_only_in_wifi_china">Използвай само WLAN за синхронизиране</string>
+    <string name="soundrecorder_sync_only_in_wifi_summary_china">Приложението за запис няма да използва мобилни данни за изтегляне или качване на записи</string>
+    <string name="sub_sync_item_sms_title_wifi_only_china">Използвай само WLAN за синхронизиране на MMS</string>
+    <string name="sync_dspt_entrance_provision_network_china">Това приложение трябва да се свърже с интернет, за да работи нормално. Синхронизирането може да изисква мобилна връзка за данни и включване на WLAN.</string>
 </resources>
