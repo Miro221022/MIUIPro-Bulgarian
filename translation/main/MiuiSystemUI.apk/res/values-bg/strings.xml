@@ -1983,11 +1983,14 @@
 d MMMM"</string>
     <string name="lock_screen_date_two_lines_12">"EEEE
 d MMMM"</string>
-    <string name="accessibility_detail_switch">Превключване</string>
-    <string name="accessibility_expand_button">Разшири</string>
+    <string name="accessibility_detail_switch">Превключване между превключвателите</string>
+    <string name="accessibility_expand_button">Покажи още</string>
     <string name="partial_screenshot_edit">Редакция</string>
     <string name="partial_screenshot_repaint">Започни отначало</string>
     <string name="partial_screenshot_save">Запази</string>
     <string name="partial_screenshot_save_successful">Запазено успешно</string>
     <string name="partial_screenshot_share">Сподели</string>
+    <string name="accessibility_detail_switch_disable">Не е налично</string>
+    <string name="accessibility_detail_switch_off">Изключи</string>
+    <string name="accessibility_detail_switch_on">Включи</string>
 </resources>

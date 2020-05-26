@@ -681,8 +681,8 @@
     <string name="new_local_detail_description">"Бележка:
 %1$d. Копирайте архивите на вашия компютър, за да избегнете загуба на данни. %2$s.
 %3$d. Резервните копия ще бъдат запазени в MIUI-Backup-AllBackup."</string>
-    <string name="new_local_tab_backup">Архивиране в мобилно устройство</string>
-    <string name="new_local_tab_restore">Възстановяване от мобилно устройство</string>
+    <string name="new_local_tab_backup">Архивиране</string>
+    <string name="new_local_tab_restore">Възстановяване</string>
     <string name="new_low_storage_title">Няма достатъчно място за съхранение</string>
     <string name="new_more_settings_label">Допълнителни настройки</string>
     <string name="new_pc_backup_content1">%1$d. Отворете \"%2$s\".</string>
@@ -705,8 +705,8 @@
     <string name="new_select_third">Приложения и данни от трети страни</string>
     <string name="new_select_third_apk">Приложения от трети страни</string>
     <string name="new_select_third_data">Данни за приложения от трети страни</string>
-    <string name="new_tab_pc_backup">Архивиране на компютъра</string>
-    <string name="new_tab_pc_restore">Възстановяване от компютър</string>
+    <string name="new_tab_pc_backup">Архивиране</string>
+    <string name="new_tab_pc_restore">Възстановяване</string>
     <string name="new_task_finished">Готово</string>
     <string name="new_usb_detail_description">"Забележка:
 %1$d. Този метод позволява архивиране на приложения и данни от трети страни.
@@ -714,8 +714,8 @@
     <string name="new_usb_disconnect_dialog_message">Свържете първо USB устройство.</string>
     <string name="new_usb_disconnect_dialog_title">"USB устройството не е намерено"</string>
     <string name="new_usb_select_data_no_space">Само %s свободно място е налично в USB устройството. Освободете място за съхранение.</string>
-    <string name="new_usb_tab_backup">Резервно копие на USB устройство</string>
-    <string name="new_usb_tab_restore">Възстановяване от USB устройство</string>
+    <string name="new_usb_tab_backup">Архивиране</string>
+    <string name="new_usb_tab_restore">Възстановяване</string>
     <string name="not_set">Не е зададено</string>
     <string name="preference_copied">\"%1$s\" е копирано в буферната памет.</string>
     <string name="search_menu_title">Търсене</string>
