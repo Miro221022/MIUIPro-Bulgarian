@@ -3399,8 +3399,8 @@
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
 	<string name="app_manager_anomaly_analysis">Анализ на отклоненията в приложенията</string>
-	<string name="oaid_reset_content_tip">若关闭虚拟身份ID，部分应用及五福可能无法正常使用，并可能造成部分数据丢失，请谨慎操作！</string>
-    <string name="oaid_reset_final_tip">是否确定关闭虚拟身份ID？</string>
+	<string name="oaid_reset_content_tip">Ако изключите виртуалния идентификатор сега, някои приложения може да спрат да работят правилно, част от данните на приложението ви може да се загубят или да станат неизползваеми.</string>
+    <string name="oaid_reset_final_tip">Да се изключи ли идентификатора въпреки това?</string>
     <string name="privacy_mask_summary">Вместо вашия истински идентификатор, MIUI ще предостави виртуален идентификатор (PAID) на приложения от трети страни. Той не позволява на приложенията да следят вашето поведение и предпочитания, и защитава поверителността ви.</string>
     <string name="privacy_mask_title">Виртуалният идентификатор е включен</string>
 	<string name="pm_newfeature_sub_text">НОВО</string>
