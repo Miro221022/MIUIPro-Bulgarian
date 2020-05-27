@@ -3405,6 +3405,11 @@
     <string name="privacy_mask_title">Виртуалният идентификатор е включен</string>
 	<string name="pm_newfeature_sub_text">НОВО</string>
 	<string name="privacy_permission_camera_title">Ограничаване използването на камерата на заден план</string>
-	    <string name="app_behavior_start_from_widget">%1s беше стартирано от приспособление</string>
+	<string name="app_behavior_start_from_widget">%1s беше стартирано от приспособление</string>
     <string name="app_behavior_start_from_widget_single">Това приложение беше стартирано от приспособление</string>
+	<string name="gb_game_video_ai_record_finish_tips">AI录制%d个视频，已保存至游戏加速</string>
+    <string name="gb_game_video_type_ai_record">AI录制</string>
+    <string name="gb_game_video_type_manual_record">手动录制</string>
+    <string name="gb_wonderful_moment_toast_window_new_pop">开启智能/手动录制，保存精彩瞬间</string>
+    <string name="gb_wonderful_video_goto_box">前往游戏加速查看</string>
 </resources>

@@ -27,4 +27,34 @@
     <item>Използване на произв. генериран MAC адрес (станд.)</item>
     <item>Използване на MAC адреса на устройството</item>
   </string-array>
+       <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Системен избор (По подразбиране)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
+        <item>Активиране на опционални кодеци</item>
+        <item>Деактивиране на опционалните кодеци</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Системен избор (По подразбиране)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
+        <item>Активиране на опционални кодеци</item>
+        <item>Деактивиране на опционалните кодеци</item>
+     </string-array>
 </resources>

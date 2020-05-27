@@ -44,10 +44,11 @@
     <item quantity="other">%d абонамента</item>
     <item quantity="one">1 абонамент</item>
   </plurals>
-  <plurals name="zen_mode_bypassing_apps_subtext">
-    <item quantity="other">Известията от %1$d приложения могат да отменят режима „Не безпокойте“</item>
-    <item quantity="one">Известията от 1 приложение могат да отменят режима „Не безпокойте“</item>
-  </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">Известията от %1$d приложения могат да отменят Не ме безпокойте</item>
+        <item quantity="zero">Нито едно приложение не може да отмени Не ме безпокойте</item>
+        <item quantity="one">Известията от 1 приложение могат да отменят Не ме безпокойте</item>
+    </plurals>
   <plurals name="zen_mode_duration_summary_time_hours">
     <item quantity="other">%d часа</item>
     <item quantity="one">1 час</item>

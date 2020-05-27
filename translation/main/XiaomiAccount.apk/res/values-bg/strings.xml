@@ -579,10 +579,11 @@
     <string name="passport_google_login">Влезте с използвания по-рано Google профил?</string>
     <string name="passport_google_login_agree">Google профил</string>
     <string name="passport_google_login_disagree">Mi профил</string>
-    <string name="passport_google_login_failed">"Couldn't sign in with Google. Sign in to your Mi Account directly."</string>
+    <string name="passport_google_login_failed">"Не може да се впишете с Google. Влезте директно във вашия Mi профил."</string>
     <string name="preference_copied">\"%1$s\" е копирано в буферната памет.</string>
     <string name="state_data_error">"Данни не можаха да се получат"</string>
     <string name="state_loading">Една секунда…</string>
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+	<string name="get_identity_auth_url_failed">"Идент. № не можа да се потвърди"</string>
 </resources>

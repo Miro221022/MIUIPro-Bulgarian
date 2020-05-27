@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="add_wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-     </string-array>
      <string-array name="aggregate_entries">
         <item>Групирай</item>
         <item>Групиране и по-нисък приоритет</item>
@@ -16,15 +10,6 @@
         <item>Изскачащите известия ще бъдат групирани и показани под други известия</item>
         <item>"Изскачащите известията няма да бъдат групирани"</item>
      </string-array>
-     <string-array name="aggregate_values">
-        <item>0</item>
-        <item>-1</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="agps_apn_entries">
-        <item>CMWAP</item>
-        <item>CMNET</item>
-     </string-array>
      <string-array name="agps_network_entries">
         <item>Домашна мрежа</item>
         <item>Всички мрежи</item>
@@ -33,10 +18,6 @@
         <item>ГОРЕЩ</item>
         <item>ТОПЪЛ</item>
         <item>СТУДЕН</item>
-     </string-array>
-     <string-array name="agps_si_mode_entries">
-        <item>MSB</item>
-        <item>MSA</item>
      </string-array>
      <string-array name="ai_key_item_name">
         <item>Говорете на Google асистент</item>
@@ -69,21 +50,6 @@
         <item>Скала на анимации 5x</item>
         <item>Скала на анимации 10x</item>
      </string-array>
-     <string-array name="aod_notification_status_entries">
-        <item>@string/aod_notification_style_none</item>
-        <item>@string/aod_notification_style_screen_on</item>
-        <item>@string/aod_notification_style_animation</item>
-     </string-array>
-     <string-array name="aod_show_style_entries">
-        <item>@string/temporary_style</item>
-        <item>@string/scheduled_style</item>
-        <item>@string/always_style</item>
-     </string-array>
-     <string-array name="aod_show_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </string-array>
      <string-array name="ap_identify">
         <item>По подразбиране</item>
         <item>Преносима точка за достъп</item>
@@ -94,18 +60,9 @@
         <item>CHAP</item>
         <item>PAP или CHAP</item>
      </string-array>
-     <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
-     </string-array>
      <string-array name="app_assistant_entries">
         <item>Google</item>
         <item>Yandex</item>
-     </string-array>
-     <string-array name="app_assistant_values">
-        <item>com.google.android.apps.googleassistant</item>
-        <item>ru.yandex.searchplugin</item>
      </string-array>
      <string-array name="app_install_location_entries">
         <item>Вътрешно устройство за съхранение</item>
@@ -262,14 +219,9 @@
         <item>Най-много 4 процеса</item>
      </string-array>
      <string-array name="automatic_storage_management_days">
-        <item>Over 30 days old</item>
-        <item>Over 60 days old</item>
-        <item>Over 90 days old</item>
-     </string-array>
-     <string-array name="automatic_storage_management_days_values">
-        <item>30</item>
-        <item>60</item>
-        <item>90</item>
+        <item>Над 30 дни възраст</item>
+        <item>Над 60 дни възраст</item>
+        <item>Над 90 дни възраст</item>
      </string-array>
      <string-array name="battery_indicator_style_entries">
         <item>Graphical</item>
@@ -277,73 +229,11 @@
         <item>Percentage (next to the icon)</item>
         <item>Top bar</item>
      </string-array>
-     <array name="battery_indicator_style_icons">
-        <item>@drawable/battery_indicator_graphic</item>
-        <item>@drawable/battery_indicator_percent_in</item>
-        <item>@drawable/battery_indicator_percent_out</item>
-        <item>@drawable/battery_indicator_percent</item>
-        <item>@drawable/battery_indicator_top</item>
-        <item>@drawable/battery_indicator_off</item>
-     </array>
      <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
         <item>100%</item>
      </string-array>
-     <string-array name="battery_off_values">
-        <item>0</item>
-        <item>1</item>
-     </string-array>
-     <integer-array name="batterymeter_bolt_points">
-        <item>73</item>
-        <item>0</item>
-        <item>392</item>
-        <item>0</item>
-        <item>201</item>
-        <item>259</item>
-        <item>442</item>
-        <item>259</item>
-        <item>4</item>
-        <item>703</item>
-        <item>157</item>
-        <item>334</item>
-        <item>0</item>
-        <item>334</item>
-     </integer-array>
-     <integer-array name="batterymeter_color_levels">
-        <item>15</item>
-        <item>100</item>
-     </integer-array>
-     <array name="batterymeter_color_values">
-        <item>?android:colorError</item>
-        <item>@android:color/white</item>
-     </array>
-     <integer-array name="batterymeter_plus_points">
-        <item>3</item>
-        <item>0</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-        <item>3</item>
-        <item>8</item>
-        <item>3</item>
-        <item>8</item>
-        <item>5</item>
-        <item>5</item>
-        <item>5</item>
-        <item>5</item>
-        <item>8</item>
-        <item>3</item>
-        <item>8</item>
-        <item>3</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-        <item>0</item>
-        <item>3</item>
-        <item>3</item>
-        <item>3</item>
-     </integer-array>
      <string-array name="bearer_entries">
         <item>Непосочено</item>
         <item>LTE</item>
@@ -370,10 +260,6 @@
         <item>Режим високо качество (по подразбиране)</item>
         <item>Режим на ниска латентност</item>
      </string-array>
-     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_values">
-        <item>134221824</item>
-        <item>134225920</item>
-     </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Системен избор (по подразбиране)</item>
         <item>16 бита/образец</item>
@@ -386,12 +272,6 @@
         <item>24 бита/образец</item>
         <item>32 бита/образец</item>
      </string-array>
-     <string-array name="bluetooth_a2dp_codec_bits_per_sample_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>4</item>
-     </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Системен избор (по подразбиране)</item>
         <item>Моно</item>
@@ -401,11 +281,6 @@
         <item>Системен избор (по подразбиране)</item>
         <item>Моно</item>
         <item>Стерео</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_channel_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Оптимизиран за качество на звука</item>
@@ -419,12 +294,6 @@
         <item>Оптимизиран за качество на връзката (330кбс/303кбс)</item>
         <item>Най-добър ефект (Адаптивна скорост на битовете)</item>
      </string-array>
-     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
-        <item>1000</item>
-        <item>1001</item>
-        <item>1002</item>
-        <item>1003</item>
-     </string-array>
      <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
         <item>Къса латентност</item>
         <item>Средна латентност</item>
@@ -435,30 +304,17 @@
         <item>Средна латентност (150~200мс)</item>
         <item>Дълга латентност (300~500мс)</item>
      </string-array>
-     <string-array name="bluetooth_a2dp_codec_lhdc_latency_values">
-        <item>49152</item>
-        <item>49153</item>
-        <item>49154</item>
-     </string-array>
      <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-        <item>Оптимизиран за ниска латентност (256kкб/с)</item>
         <item>Оптимизиран за качество на връзката (400кб/с)</item>
         <item>Балансирано качество на звука и връзката (500/560кб/с)</item>
         <item>Оптимизиран за качество на звука (900кб/с)</item>
         <item>Най-доброто избор (Авто скорост на битовете)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Оптимизиран за ниска латентност(256кб/с)</item>
         <item>Оптимизиран за качество на връзката (400кб/с)</item>
         <item>Балансирано качество на звука и връзката (500/560кб/с)</item>
         <item>Оптимизиран за качество на звука (900кб/с)</item>
         <item>Най-доброто избор (Авто скорост на битовете)</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_values">
-        <item>32768</item>
-        <item>32769</item>
-        <item>32770</item>
-        <item>32771</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Системен избор (по подразбиране)</item>
@@ -474,66 +330,35 @@
         <item>88.2 КХц</item>
         <item>96.0 КХц</item>
      </string-array>
-     <string-array name="bluetooth_a2dp_codec_sample_rate_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>4</item>
-        <item>8</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Системен избор (По подразбиране)</item>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Използване на системните предпочитания (по подразбиране)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
-        <item>Активиране на опционални кодеци</item>
-        <item>Деактивиране на опционалните кодеци</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Системен избор (По подразбиране)</item>
+        <item>LHDC</item>
+        <item>Активиране на незадължителни кодеци</item>
+        <item>Деактивиране на незадължителни кодеци</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Използване на системните предпочитания (по подразбиране)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
-        <item>Активиране на опционални кодеци</item>
-        <item>Деактивиране на опционалните кодеци</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_values">
-        <item>1000000</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-     </string-array>
+        <item>LHDC</item>
+        <item>Активиране на незадължителни кодеци</item>
+        <item>Деактивиране на незадължителни кодеци</item>
+    </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>" | Активно"</item>
         <item>" | Активно (медиа)"</item>
         <item>" | Активно (телефон)"</item>
-     </string-array>
-     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (По подразбиране)</item>
@@ -543,14 +368,6 @@
      </string-array>
      <string-array name="bluetooth_max_connected_audio_devices">
         <item>Use System Default: %1$d</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-     </string-array>
-     <string-array name="bluetooth_max_connected_audio_devices_values">
-        <item></item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -571,10 +388,6 @@
         <item>20 секунди</item>
         <item>Винаги</item>
      </string-array>
-     <array name="bytes_picker_sizes">
-        <item>@android:string/megabyteShort</item>
-        <item>@android:string/gigabyteShort</item>
-     </array>
      <string-array name="captioning_edge_type_selector_titles">
         <item>Стандартни</item>
         <item>Няма</item>
@@ -1203,53 +1016,15 @@
         <item>America/Paramaribo</item>
         <item>America/Panama</item>
      </string-array>
-     <array name="click_bottom">
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom04</item>
-        <item>@drawable/clickbottom05</item>
-        <item>@drawable/clickbottom06</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom08</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-     </array>
      <string-array name="color_mode_descriptions">
         <item>Подобрени цветове</item>
         <item>Естествени цетове, както се виждат</item>
         <item>Оптимизирани цветове за дигитално съдържание</item>
      </string-array>
-     <integer-array name="color_mode_ids">
-        <item>0</item>
-        <item>-1</item>
-        <item>7</item>
-     </integer-array>
      <string-array name="color_mode_names">
         <item>Резониращ</item>
         <item>Естествен</item>
         <item>Стандартен</item>
-     </string-array>
-     <string-array name="color_picker">
-        <item>синьо-зелено</item>
-        <item>синьо</item>
-        <item>индиго</item>
-        <item>лилаво</item>
-        <item>розово</item>
-        <item>червено</item>
      </string-array>
      <string-array name="common_password_business_names">
         <item>Заключване на екрана</item>
@@ -1259,59 +1034,14 @@
         <item>Заключване на приложения</item>
         <item>Второ пространство</item>
      </string-array>
-     <string-array name="config_downloaded_services">
-        <item>com.google.android.marvin.talkback/com.google.android.marvin.talkback.TalkBackService</item>
-     </string-array>
-     <string-array name="config_preinstalled_interaction_control_services">
-        <item>com.google.android.marvin.talkback/com.android.switchaccess.SwitchAccessService</item>
-        <item>com.android.settings/com.android.settings.accessibility.accessibilitymenu.AccessibilityMenuService</item>
-     </string-array>
-     <string-array name="config_preinstalled_screen_reader_services">
-        <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
-     </string-array>
      <string-array name="connect_mode_entries">
         <item>Съвместимост</item>
         <item>Висока скорост</item>
-     </string-array>
-     <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="crt_animation_framing_values">
-        <item>0</item>
-        <item>20</item>
-        <item>40</item>
-        <item>100</item>
-        <item>200</item>
-     </string-array>
-     <string-array name="crt_animation_values">
-        <item>0</item>
-        <item>2000</item>
-        <item>1400</item>
-        <item>900</item>
-        <item>700</item>
-        <item>500</item>
-        <item>300</item>
-        <item>150</item>
-     </string-array>
-     <string-array name="crt_fade_values">
-        <item>2</item>
-        <item>1</item>
-        <item>3</item>
-     </string-array>
-     <string-array name="cutout_mode_entries">
-        <item>@string/cutout_mode_default</item>
-        <item>@string/cutout_mode_always</item>
      </string-array>
      <string-array name="dark_ui_mode_entries">
         <item>Automatic (based on time of day)</item>
         <item>Always on</item>
         <item>Always off</item>
-     </string-array>
-     <string-array name="dark_ui_mode_values">
-        <item>auto</item>
-        <item>yes</item>
-        <item>no</item>
      </string-array>
      <string-array name="data_network_type_name_default">
         <item>4G</item>
@@ -1345,60 +1075,6 @@
         <item>Показване на опасните зони</item>
         <item>Показване на далтоничните зони</item>
      </string-array>
-     <string-array name="def_audio_values">
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-     </string-array>
-     <string-array name="defalut_browser_package">
-        <item>mx_telcel:com.android.chrome</item>
-     </string-array>
-     <string-array name="default_email_package">
-        <item>mx_telcel:com.google.android.gm</item>
-     </string-array>
-     <string-array name="default_gallery_package">
-        <item>mx_telcel:com.google.android.apps.photos</item>
-     </string-array>
-     <string-array name="default_mms_package">
-        <item>mx_telcel:com.google.android.apps.messaging</item>
-     </string-array>
-     <string-array name="default_search_values">
-        <item>0</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="default_video_package">
-        <item>mx_telcel:com.google.android.apps.photos</item>
-     </string-array>
-     <string-array name="device_support_pickup_by_MTK">
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>lotus</item>
-     </string-array>
-     <string-array name="device_support_slide_camera">
-        <item>perseus</item>
-        <item>andromeda</item>
-     </string-array>
-     <string-array name="disable_apptitmer_device_list">
-        <item>cactus</item>
-        <item>pine</item>
-        <item>rosy</item>
-        <item>willow</item>
-        <item>olive</item>
-        <item>tiare</item>
-        <item>cereus</item>
-        <item>riva</item>
-        <item>rolex</item>
-        <item>markw</item>
-        <item>santoni</item>
-        <item>land</item>
-        <item>vince</item>
-        <item>nikel</item>
-        <item>ugglite</item>
-        <item>ugg</item>
-        <item>kate</item>
-        <item>prada</item>
-        <item>dandelion</item>
-     </string-array>
      <string-array name="dream_timeout_entries">
         <item>Никога</item>
         <item>15 секунди</item>
@@ -1408,12 +1084,6 @@
         <item>5 минути</item>
         <item>10 минути</item>
         <item>30 минути</item>
-     </string-array>
-     <string-array name="eap_method_without_sim_auth">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Без ефекти</item>
@@ -1426,14 +1096,6 @@
         <item>По подразбиране</item>
         <item>Голям</item>
         <item>Най-голямо</item>
-     </string-array>
-     <string-array name="fingerprint_unlock_type_entries">
-        <item>@string/fingerprint_unlock_touch_type</item>
-        <item>@string/fingerprint_unlock_press_type</item>
-     </string-array>
-     <string-array name="fingerprint_unlock_type_values">
-        <item>0</item>
-        <item>1</item>
      </string-array>
      <string-array name="fluency_mode_confirms">
         <item>Да се рестартира ли устройството, за да се приложи настройката?</item>
@@ -1457,29 +1119,6 @@
         <item>Известията ще се покажат директно в лентата с известия</item>
         <item>Всички известия ще се покажат в отделна папка</item>
      </string-array>
-     <string-array name="fold_values">
-        <item>0</item>
-        <item>1</item>
-        <item>-1</item>
-     </string-array>
-     <string-array name="folder_toggle_values">
-        <item>3</item>
-        <item>4</item>
-     </string-array>
-     <string-array name="gesture_anywhere_position_values">
-        <item>3</item>
-        <item>5</item>
-     </string-array>
-     <string-array name="gesture_prevent_ringing_entries">
-        <item>@string/prevent_ringing_option_vibrate</item>
-        <item>@string/prevent_ringing_option_mute</item>
-        <item>@string/prevent_ringing_option_none</item>
-     </string-array>
-     <string-array name="gesture_prevent_ringing_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-     </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4.5 инча</item>
         <item>4.0 инча</item>
@@ -1501,105 +1140,10 @@
         <item>Проверявай само правата за управление на съдържанието</item>
         <item>Винаги извършвай проверка</item>
      </string-array>
-     <string-array name="hide_account_list">
-        <item>com.android.localphone</item>
-        <item>com.android.sim</item>
-     </string-array>
-     <string-array name="input_method_function_des">
-        <item>@string/input_method_function_voice_des</item>
-        <item>@string/input_method_function_xiaoai_des</item>
-        <item>@string/input_method_function_switch_des</item>
-        <item>@string/input_method_function_clipboard_des</item>
-        <item>@string/input_method_function_no_function_des</item>
-     </string-array>
-     <array name="input_method_function_icons">
-        <item>@drawable/input_method_voice_function_selector</item>
-        <item>@drawable/input_method_xiaoai_function_selector</item>
-        <item>@drawable/input_method_switch_function_selector</item>
-        <item>@drawable/input_method_clipboard_function_selector</item>
-        <item>@drawable/input_method_no_function_selector</item>
-     </array>
-     <string-array name="input_method_function_title">
-        <item>@string/input_method_function_voice</item>
-        <item>@string/input_method_function_xiaoai</item>
-        <item>@string/input_method_function_switch</item>
-        <item>@string/input_method_function_clipboard</item>
-        <item>@string/input_method_function_no_function</item>
-     </string-array>
-     <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
-     </string-array>
-     <string-array name="key_popup_voice_choice">
-        <item>popup_muqin_up.ogg</item>
-        <item>popup_muqin_down.ogg</item>
-        <item>popup_yingyan_up.ogg</item>
-        <item>popup_yingyan_down.ogg</item>
-        <item>popup_mofa_up.ogg</item>
-        <item>popup_mofa_down.ogg</item>
-        <item>popup_jijia_up.ogg</item>
-        <item>popup_jijia_down.ogg</item>
-        <item>popup_chilun_up.ogg</item>
-        <item>popup_chilun_down.ogg</item>
-        <item>popup_cangmen_up.ogg</item>
-        <item>popup_cangmen_down.ogg</item>
-     </string-array>
-     <string-array name="key_slider_voice_choice">
-        <item>slide_keji_open.ogg</item>
-        <item>slide_keji_close.ogg</item>
-        <item>slide_jianghu_open.ogg</item>
-        <item>slide_jianghu_close.ogg</item>
-        <item>slide_jiguan_open.ogg</item>
-        <item>slide_jiguan_close.ogg</item>
-        <item>slide_lingdong_open.ogg</item>
-        <item>slide_lingdong_close.ogg</item>
-        <item>slide_zippo_open.ogg</item>
-        <item>slide_zippo_close.ogg</item>
-     </string-array>
      <string-array name="keyguard_notification_status_entries">
         <item>"Без събуждане на екрана"</item>
         <item>Събуждане на екрана</item>
         <item>Показване на анимация</item>
-     </string-array>
-     <string-array name="keyguard_notification_status_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </string-array>
-     <string-array name="launcher_double_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>999</item>
-     </string-array>
-     <string-array name="launcher_swipe_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>12</item>
-        <item>999</item>
      </string-array>
      <string-array name="led_color_entries">
         <item>Син</item>
@@ -1620,31 +1164,6 @@
         <item>8 секунди</item>
         <item>9 секунди</item>
      </string-array>
-     <string-array name="listview_animation_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-     </string-array>
-     <string-array name="listview_interpolator_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-     </string-array>
      <string-array name="lock_after_timeout_entries">
         <item>Незабавно</item>
         <item>5 секунди</item>
@@ -1664,43 +1183,6 @@
         <item>След 5 минути</item>
         <item>Никога</item>
      </string-array>
-     <array name="long_press">
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom04</item>
-        <item>@drawable/clickbottom05</item>
-        <item>@drawable/clickbottom06</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-     </array>
      <string-array name="long_press_timeout_selector_titles">
         <item>Кратко</item>
         <item>Средно</item>
@@ -1741,14 +1223,6 @@
         <item>XL</item>
         <item>XXL</item>
         <item>XXXL</item>
-     </string-array>
-     <string-array name="miui_entryvalues_font_size">
-        <item>small</item>
-        <item>normal</item>
-        <item>medium</item>
-        <item>large</item>
-        <item>huge</item>
-        <item>godzilla</item>
      </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP и по-стари</item>
@@ -1793,280 +1267,18 @@
         <item>Връзката е бавна поради слаб сигнал</item>
         <item>Прехвърля се…</item>
      </string-array>
-     <string-array name="new_dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_contact</item>
-        <item>@string/dndm_vip_list_starred_contact</item>
-     </string-array>
      <string-array name="notch_battery_indicator_style_entries">
         <item>Графика</item>
         <item>Преценти (в иконата)</item>
         <item>Преценти (до иконата)</item>
      </string-array>
-     <array name="notch_battery_indicator_style_icons">
-        <item>@drawable/battery_indicator_graphic</item>
-        <item>@drawable/battery_indicator_percent_in</item>
-        <item>@drawable/battery_indicator_percent_out</item>
-     </array>
-     <string-array name="notch_battery_indicator_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-     </string-array>
-     <string-array name="notifi_importance_entries">
-        <item>@string/importance_high</item>
-        <item>@string/importance_default</item>
-        <item>@string/importance_low</item>
-        <item>@string/importance_min</item>
-     </string-array>
-     <string-array name="notifi_importance_summaries">
-        <item>@string/notifi_importance_high</item>
-        <item>@string/notifi_importance_default</item>
-        <item>@string/notifi_importance_low</item>
-        <item>@string/notifi_importance_min</item>
-     </string-array>
-     <string-array name="notifi_importance_values">
-        <item>4</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
-     </string-array>
      <string-array name="notification_shade_shortcut_entries">
         <item>Търсене</item>
         <item>Настройки</item>
      </string-array>
-     <string-array name="notification_shade_shortcut_values">
-        <item>0</item>
-        <item>1</item>
-     </string-array>
      <string-array name="notification_style_entries">
         <item>MIUI</item>
         <item>Андроид</item>
-     </string-array>
-     <string-array name="notification_style_values">
-        <item>0</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="organized_locales">
-        <item>af</item>
-        <item>al</item>
-        <item>dz</item>
-        <item>as</item>
-        <item>ad</item>
-        <item>ao</item>
-        <item>ai</item>
-        <item>ag</item>
-        <item>ar</item>
-        <item>am</item>
-        <item>aw</item>
-        <item>au</item>
-        <item>at</item>
-        <item>az</item>
-        <item>bs</item>
-        <item>bh</item>
-        <item>bd</item>
-        <item>bb</item>
-        <item>by</item>
-        <item>be</item>
-        <item>bz</item>
-        <item>bj</item>
-        <item>bt</item>
-        <item>bo</item>
-        <item>ba</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>vg</item>
-        <item>bn</item>
-        <item>bg</item>
-        <item>bf</item>
-        <item>bi</item>
-        <item>kh</item>
-        <item>cm</item>
-        <item>ca</item>
-        <item>cv</item>
-        <item>bq</item>
-        <item>ky</item>
-        <item>td</item>
-        <item>cl</item>
-        <item>co</item>
-        <item>km</item>
-        <item>cd</item>
-        <item>ck</item>
-        <item>cr</item>
-        <item>ci</item>
-        <item>hr</item>
-        <item>cu</item>
-        <item>cy</item>
-        <item>cz</item>
-        <item>dk</item>
-        <item>dj</item>
-        <item>dm</item>
-        <item>do</item>
-        <item>ec</item>
-        <item>eg</item>
-        <item>sv</item>
-        <item>gq</item>
-        <item>er</item>
-        <item>ee</item>
-        <item>et</item>
-        <item>fk</item>
-        <item>fo</item>
-        <item>fj</item>
-        <item>fi</item>
-        <item>fr</item>
-        <item>gf</item>
-        <item>pf</item>
-        <item>ga</item>
-        <item>gm</item>
-        <item>ge</item>
-        <item>de</item>
-        <item>gh</item>
-        <item>gi</item>
-        <item>gr</item>
-        <item>gl</item>
-        <item>gd</item>
-        <item>gu</item>
-        <item>gt</item>
-        <item>gg</item>
-        <item>gn</item>
-        <item>gw</item>
-        <item>gy</item>
-        <item>ht</item>
-        <item>hn</item>
-        <item>hk</item>
-        <item>hu</item>
-        <item>is</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>iq</item>
-        <item>ie</item>
-        <item>im</item>
-        <item>il</item>
-        <item>it</item>
-        <item>jm</item>
-        <item>jp</item>
-        <item>je</item>
-        <item>jo</item>
-        <item>kz</item>
-        <item>ke</item>
-        <item>ki</item>
-        <item>kw</item>
-        <item>kg</item>
-        <item>la</item>
-        <item>lv</item>
-        <item>lb</item>
-        <item>ls</item>
-        <item>lr</item>
-        <item>ly</item>
-        <item>li</item>
-        <item>lt</item>
-        <item>lu</item>
-        <item>mo</item>
-        <item>mk</item>
-        <item>mg</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mv</item>
-        <item>ml</item>
-        <item>mt</item>
-        <item>mh</item>
-        <item>mr</item>
-        <item>mu</item>
-        <item>yt</item>
-        <item>mx</item>
-        <item>fm</item>
-        <item>md</item>
-        <item>mn</item>
-        <item>me</item>
-        <item>ms</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>nr</item>
-        <item>np</item>
-        <item>nl</item>
-        <item>nc</item>
-        <item>nz</item>
-        <item>ni</item>
-        <item>ng</item>
-        <item>nu</item>
-        <item>nf</item>
-        <item>kp</item>
-        <item>mp</item>
-        <item>no</item>
-        <item>om</item>
-        <item>pk</item>
-        <item>pw</item>
-        <item>ps</item>
-        <item>pa</item>
-        <item>pg</item>
-        <item>py</item>
-        <item>pe</item>
-        <item>ph</item>
-        <item>pl</item>
-        <item>pt</item>
-        <item>pr</item>
-        <item>qa</item>
-        <item>ro</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sh</item>
-        <item>kn</item>
-        <item>lc</item>
-        <item>pm</item>
-        <item>vc</item>
-        <item>ws</item>
-        <item>sm</item>
-        <item>st</item>
-        <item>sa</item>
-        <item>sn</item>
-        <item>rs</item>
-        <item>sc</item>
-        <item>sl</item>
-        <item>sg</item>
-        <item>sk</item>
-        <item>si</item>
-        <item>sb</item>
-        <item>so</item>
-        <item>za</item>
-        <item>gs</item>
-        <item>kr</item>
-        <item>ss</item>
-        <item>es</item>
-        <item>lk</item>
-        <item>sd</item>
-        <item>sr</item>
-        <item>sz</item>
-        <item>se</item>
-        <item>ch</item>
-        <item>sy</item>
-        <item>tw</item>
-        <item>tj</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tl</item>
-        <item>tg</item>
-        <item>tk</item>
-        <item>to</item>
-        <item>tt</item>
-        <item>tn</item>
-        <item>tr</item>
-        <item>tm</item>
-        <item>tv</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>gb</item>
-        <item>us</item>
-        <item>uy</item>
-        <item>uz</item>
-        <item>vu</item>
-        <item>ve</item>
-        <item>vn</item>
-        <item>ye</item>
-        <item>zm</item>
-        <item>zw</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Без ефекти</item>
@@ -2094,103 +1306,6 @@
      <string-array name="poco_device_list">
         <item>beryllium</item>
      </string-array>
-     <string-array name="policy_control_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-     </string-array>
-     <array name="power_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-     </array>
-     <array name="power_double_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-     </array>
-     <array name="power_long_press">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-     </array>
      <string-array name="power_mode_entries">
         <item>Производителност</item>
         <item>Балансиран</item>
@@ -2245,10 +1360,6 @@
         <item>Критичнo</item>
         <item>\?</item>
      </string-array>
-     <string-array name="remove_oldman_mode_device_list">
-        <item>davinci</item>
-        <item>raphael</item>
-     </string-array>
      <string-array name="screen_button_style">
         <item>За лява ръка</item>
         <item>За дясна ръка</item>
@@ -2282,16 +1393,6 @@
         <item>Наситено</item>
         <item>Стандартно</item>
      </string-array>
-     <integer-array name="screen_resolution">
-        <item>1440</item>
-        <item>1080</item>
-        <item>720</item>
-     </integer-array>
-     <string-array name="screen_resolution_format">
-        <item>@string/screen_resolution_ultrahigh_format</item>
-        <item>@string/screen_resolution_high_format</item>
-        <item>@string/screen_resolution_normal_format</item>
-     </string-array>
      <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080p</item>
@@ -2314,17 +1415,6 @@
         <item>XS</item>
         <item>S</item>
         <item>L</item>
-     </string-array>
-     <string-array name="search_keywords_title_com_miui_securitycenter">
-        <item>title_of_auto_launch_manage</item>
-        <item>pc_install_manager</item>
-        <item>game_booster</item>
-        <item>power_consume_rank_title</item>
-        <item>activity_title_power_manager</item>
-        <item>app_manager_uninstall</item>
-        <item>app_manager_app_update</item>
-        <item>activity_title_permission_manager</item>
-        <item>card_main_hbassistant_title</item>
      </string-array>
      <string-array name="security_settings_premium_sms_values">
         <item>Да се пита</item>
@@ -2373,63 +1463,10 @@
         <item>All except radio</item>
         <item>Kernel only</item>
      </string-array>
-     <string-array name="select_logpersist_values">
-        <item></item>
-        <item>all</item>
-        <item>default,security,kernel</item>
-        <item>kernel</item>
-     </string-array>
-     <string-array name="set_haptic_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-     </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Изключено</item>
         <item>Загради неправоъгълната област на клипа в синьо</item>
         <item>Освети в зелено тестваните команди за изчертаване</item>
-     </string-array>
-     <string-array name="show_verification_device_list">
-        <item>land</item>
-        <item>markw</item>
-        <item>nikel</item>
-        <item>kenzo</item>
-        <item>kate</item>
-        <item>prada</item>
-        <item>helium</item>
-        <item>hydrogen</item>
-        <item>natrium</item>
-        <item>mido</item>
-        <item>capricorn</item>
-        <item>rolex</item>
-        <item>ugglite</item>
-        <item>santoni</item>
-        <item>ugg</item>
-        <item>oxygen</item>
-        <item>jason</item>
-        <item>rosy</item>
-        <item>riva</item>
-        <item>polaris</item>
-        <item>chiron</item>
-        <item>sagit</item>
-        <item>gemini</item>
-        <item>whyred</item>
-        <item>vince</item>
-        <item>lithium</item>
-        <item>scorpio</item>
-        <item>ysl</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>sakura_india</item>
-        <item>beryllium</item>
-        <item>nitrogen</item>
-        <item>dipper</item>
-        <item>tulip</item>
-        <item>equuleus</item>
-     </string-array>
-     <string-array name="silent_entries">
-        <item>@string/standard</item>
-        <item>@string/total</item>
      </string-array>
      <string-array name="silent_mode_duration_text">
         <item>Винаги</item>
@@ -2437,61 +1474,6 @@
         <item>1 час</item>
         <item>2 часа</item>
         <item>8 часа</item>
-     </string-array>
-     <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-     </string-array>
-     <string-array name="silent_values">
-        <item>4</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="sim_select_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-     </string-array>
-     <string-array name="smart_mobiledata_values">
-        <item>-1</item>
-        <item>1</item>
-        <item>2</item>
-        <item>11</item>
-        <item>18</item>
-        <item>20</item>
-        <item>3</item>
-        <item>12</item>
-        <item>9</item>
-     </string-array>
-     <string-array name="smart_timer_sleepon_values">
-        <item>-1</item>
-        <item>900000</item>
-        <item>1800000</item>
-        <item>3600000</item>
-     </string-array>
-     <string-array name="smart_timer_values">
-        <item>-1</item>
-        <item>900000</item>
-        <item>1800000</item>
-        <item>3600000</item>
-        <item>7200000</item>
-        <item>10800000</item>
-     </string-array>
-     <string-array name="special_locale_codes_global">
-        <item>zh_CN</item>
-        <item>zh_TW</item>
-        <item>zh_HK</item>
-        <item>es_US</item>
-        <item>pt_BR</item>
-     </string-array>
-     <string-array name="special_locale_names_global">
-        <item>简体中文</item>
-        <item>繁體中文 (台灣)</item>
-        <item>繁體中文 (香港)</item>
-        <item>Español (América)</item>
-        <item>Português (Brasil)</item>
      </string-array>
      <string-array name="standard_configuration_version">
         <item>3.00Гб</item>
@@ -2502,73 +1484,6 @@
         <item>Разреши</item>
         <item>Забрани</item>
      </string-array>
-     <string-array name="statusbar_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-     </string-array>
-     <string-array name="support_speaker_auto_clean_device_list">
-        <item>willow</item>
-        <item>ginkgo</item>
-        <item>olive</item>
-        <item>olivelite</item>
-     </string-array>
-     <string-array name="systemui_theme_entries">
-        <item>@string/systemui_theme_wallpaper</item>
-        <item>@string/systemui_theme_light</item>
-        <item>@string/systemui_theme_dark</item>
-     </string-array>
-     <string-array name="systemui_theme_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </string-array>
-     <array name="three_drop">
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop02</item>
-        <item>@drawable/threedrop03</item>
-        <item>@drawable/threedrop04</item>
-        <item>@drawable/threedrop05</item>
-        <item>@drawable/threedrop06</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-     </array>
-     <string-array name="time_format_entries">
-        <item>12-часов 1:00 PM</item>
-        <item>24-часов 13:00</item>
-        <item>Автоматично (на база системения език)</item>
-     </string-array>
-     <string-array name="time_format_values">
-        <item>12</item>
-        <item>24</item>
-        <item>null</item>
-     </string-array>
-     <string-array name="timer_values">
-        <item>0</item>
-        <item>1</item>
-        <item>60000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1200000</item>
-        <item>1800000</item>
-        <item>3600000</item>
-     </string-array>
      <string-array name="timezone_filters">
         <item>Америка</item>
         <item>Европа</item>
@@ -2577,11 +1492,6 @@
         <item>Австралия</item>
         <item>тихоокеанско</item>
         <item>Всички</item>
-     </string-array>
-     <string-array name="toggles_line_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="track_frame_time_entries">
         <item>Изключено</item>
@@ -2592,11 +1502,6 @@
         <item>Изкл</item>
         <item>Редовен</item>
         <item>Краен</item>
-     </string-array>
-     <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="traffic_type">
         <item>"Използване на мобилни данни "</item>
@@ -2670,19 +1575,6 @@
         <item>Само от контакти със звезда</item>
         <item>Без</item>
      </string-array>
-     <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-     </string-array>
-     <string-array name="volbtn_action_values">
-        <item>87</item>
-        <item>127</item>
-        <item>126</item>
-        <item>85</item>
-        <item>88</item>
-     </string-array>
      <string-array name="vpn_states">
         <item>Няма връзка</item>
         <item>Подготвя се за работа...</item>
@@ -2699,10 +1591,6 @@
         <item>VPN с IPSec със сертификати и удостоверяване за Xauth</item>
         <item>VPN с IPSec със сертификати и хибридно удостоверяване</item>
      </string-array>
-     <string-array name="wapi_psk_type">
-        <item>@string/wapi_psk_type_ascii</item>
-        <item>@string/wapi_psk_type_hex</item>
-     </string-array>
      <string-array name="wfd_status">
         <item>Създава се сесия…</item>
         <item>Сесията е създадена.</item>
@@ -2710,18 +1598,6 @@
         <item>Сесията е неуспешна.</item>
         <item>Времето изтече, повторен опит…</item>
         <item>Устройството е свързано</item>
-     </string-array>
-     <string-array name="when_to_start_screensaver_entries">
-        <item>@string/screensaver_settings_summary_sleep</item>
-        <item>@string/screensaver_settings_summary_dock</item>
-        <item>@string/screensaver_settings_summary_either_long</item>
-        <item>@string/screensaver_settings_summary_never</item>
-     </string-array>
-     <string-array name="when_to_start_screensaver_values">
-        <item>while_charging_only</item>
-        <item>while_docked_only</item>
-        <item>either_charging_or_docked</item>
-        <item>never</item>
      </string-array>
      <string-array name="whetstone_level_entries">
         <item>Изкл.</item>
@@ -2733,14 +1609,6 @@
         <item>Графика</item>
         <item>Проценти (в иконата)</item>
         <item>Проценти (до иконата)</item>
-     </string-array>
-     <string-array name="wifi_ap_band_config_2G_5G">
-        <item>@string/wifi_ap_choose_2G</item>
-        <item>@string/wifi_ap_choose_5G</item>
-     </string-array>
-     <string-array name="wifi_ap_band_summary_full">
-        <item>@string/wifi_ap_2G</item>
-        <item>@string/wifi_ap_5G</item>
      </string-array>
      <string-array name="wifi_calling_mode_choices">
         <item>Предпочита се Wi-Fi</item>
@@ -2760,10 +1628,6 @@
         <item>Предпочита се Wi-Fi</item>
         <item>Предпочита се клетъчна мрежа</item>
      </string-array>
-     <string-array name="wifi_calling_mode_values_without_wifi_only">
-        <item>2</item>
-        <item>1</item>
-     </string-array>
      <string-array name="wifi_connect_type_entries">
         <item>Автоматично свързване</item>
         <item>Ръчно свързване</item>
@@ -2774,15 +1638,6 @@
         <item>TLS</item>
         <item>TTLS</item>
         <item>ПАРОЛА</item>
-     </string-array>
-     <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>ПАРОЛА</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
      </string-array>
      <string-array name="wifi_frequency_band_entries">
         <item>Автоматично</item>
@@ -2801,11 +1656,6 @@
         <item>Detect automatically</item>
         <item>Treat as metered</item>
         <item>Treat as unmetered</item>
-     </string-array>
-     <string-array name="wifi_metered_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="wifi_p2p_status">
         <item>Установена е връзка</item>
@@ -2883,14 +1733,6 @@
         <item>Блокиран</item>
         <item>Временно е избегната лоша връзка</item>
      </string-array>
-     <string-array name="wifi_tether_security">
-        <item>@string/wifi_security_wpa2</item>
-        <item>@string/wifi_security_none</item>
-     </string-array>
-     <string-array name="wifi_tether_security_values">
-        <item>4</item>
-        <item>0</item>
-     </string-array>
      <string-array name="window_animation_scale_entries">
         <item>Изключване на анимациите</item>
         <item>Скала на анимации 0.5x</item>
@@ -2899,17 +1741,5 @@
         <item>Скала на анимации 2x</item>
         <item>Скала на анимации 5x</item>
         <item>Скала на анимации 10x</item>
-     </string-array>
-     <string-array name="zen_mode_contacts_entries">
-        <item>@string/zen_mode_from_anyone</item>
-        <item>@string/zen_mode_from_contacts</item>
-        <item>@string/zen_mode_from_starred</item>
-        <item>@string/zen_mode_from_none</item>
-     </string-array>
-     <string-array name="zen_mode_contacts_values">
-        <item>zen_mode_from_anyone</item>
-        <item>zen_mode_from_contacts</item>
-        <item>zen_mode_from_starred</item>
-        <item>zen_mode_from_none</item>
      </string-array>
 </resources>

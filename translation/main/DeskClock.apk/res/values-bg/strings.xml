@@ -452,4 +452,5 @@
     <string name="stopwatch_reset_notification">Хронометърът е нулиран</string>
     <string name="stopwatch_running_notification">Хронометър</string>
     <string name="white_noise_selector">Изберете звук</string>
+	<string name="channel_name_stopwatch">Хронометър</string>
 </resources>
