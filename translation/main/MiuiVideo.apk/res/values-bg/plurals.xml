@@ -12,6 +12,10 @@
     <item quantity="other">Преглед на всички %d коментари</item>
     <item quantity="one">Преглед на %d коментара</item>
   </plurals>
+  <plurals name="day_ago">
+    <item quantity="other">Преди %1$d дни</item>
+    <item quantity="one">Преди %1$d ден</item>
+  </plurals>
   <plurals name="downloading_task_num">
     <item quantity="other">%d файла</item>
     <item quantity="one">%d файл</item>
@@ -32,6 +36,22 @@
     <item quantity="other">%1$s видеоклипа</item>
     <item quantity="one">%1$s видеоклип</item>
   </plurals>
+  <plurals name="history_select_counts">
+    <item quantity="other">Избрани са %1$d елемента</item>
+    <item quantity="one">Избран е %1$d елемент</item>
+  </plurals>
+  <plurals name="history_total">
+    <item quantity="other">%1$d епизода</item>
+    <item quantity="one">%1$d епизод</item>
+  </plurals>
+  <plurals name="history_total_period">
+    <item quantity="other">%1$d епизода</item>
+    <item quantity="one">%1$d епизод</item>
+  </plurals>
+  <plurals name="hour_ago">
+    <item quantity="other">Преди %1$d часа</item>
+    <item quantity="one">Преди %1$d час</item>
+  </plurals>
   <plurals name="hours_before">
     <item quantity="other">Преди %d часа</item>
     <item quantity="one">Преди %d час</item>
@@ -39,6 +59,14 @@
   <plurals name="minites_before">
     <item quantity="other">Преди %d минути</item>
     <item quantity="one">Преди %d минута</item>
+  </plurals>
+  <plurals name="minute_ago">
+    <item quantity="other">Преди %1$d минути</item>
+    <item quantity="one">Преди %1$d минута</item>
+  </plurals>
+  <plurals name="month_ago">
+    <item quantity="other">Преди %1$d месеца</item>
+    <item quantity="one">Преди %1$d месец</item>
   </plurals>
   <plurals name="notification_sub_title">
     <item quantity="other">Успешно са изтеглени %d файла</item>
@@ -117,15 +145,19 @@
     <item quantity="one">%d видеоклип</item>
   </plurals>
   <plurals name="video_pre_play_tip">
-    <item quantity="other">%1$d-минутен предварителен преглед е налице. За да гледате пълния видеоклип, &lt;Data&gt;&lt;font color=#ffa201&gt;купете го сега&lt;/font&gt;&lt;/Data&gt;.</item>
-    <item quantity="one">%1$d-минутен предварителен преглед е налице. За да гледате пълния видеоклип, &lt;Data&gt;&lt;font color=#ffa201&gt;купете го сега&lt;/font&gt;&lt;/Data&gt;.</item>
+    <item quantity="other">%1$d-минутен предварителен преглед е налице. За да гледате пълния видеоклип, &lt;font color=\"#ffa201\"&gt;купете го сега&lt;/font&gt;.</item>
+    <item quantity="one">%1$d-минутен предварителен преглед е налице. За да гледате пълния видеоклип, &lt;font color=\"#ffa201\"&gt;купете го сега&lt;/font&gt;.</item>
+  </plurals>
+  <plurals name="vp_ad_countdown_play">
+    <item quantity="other">Рекламата ще започне след %1$d секунди</item>
+    <item quantity="one">Рекламата ще започне след %1$d секунда</item>
   </plurals>
   <plurals name="vp_video_tencent_loading">
     <item quantity="other">Изпълнение след %2$s %1$d секунди</item>
     <item quantity="one">Изпълнение след %2$s %1$d секунда</item>
   </plurals>
-      <plurals name="vp_ad_countdown_play">
-        <item quantity="other">Рекламата ще започне след %1$d секунди</item>
-        <item quantity="one">Рекламата ще започне след %1$d секунда</item>
-    </plurals>
+  <plurals name="year_ago">
+    <item quantity="other">Преди %1$d години</item>
+    <item quantity="one">Преди %1$d година</item>
+  </plurals>
 </resources>
