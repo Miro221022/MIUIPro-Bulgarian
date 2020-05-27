@@ -155,7 +155,7 @@
   <string name="bluetooth_show_devices_without_names">Показване на устройствата с Bluetooth без имена</string>
   <string name="bluetooth_show_devices_without_names_summary">Ще бъдат показани устройствата с Bluetooth без имена (само MAC адресите)</string>
   <string name="bluetooth_tethering_subtext">Споделете връзката с интернет на телефона през Bluetooth</string>
-  <string name="bluetooth_unpair_dialog_body">Телефонът ви вече няма да бъде сдвоен със „%1$s“</string>
+  <string name="bluetooth_unpair_dialog_body">Телефонът ви вече няма да бъде сдвоен с/ъс „%1$s“</string>
   <string name="bluetooth_unpair_dialog_forget_confirm_button">Забравяне на устройството</string>
   <string name="bluetooth_unpair_dialog_title">Да се забрави ли устройството?</string>
   <string name="call_volume_option_title">Сила на звука за обаждания</string>
@@ -243,6 +243,7 @@
   <string name="display_cutout_emulation">Симулиране на екран с прорез</string>
   <string name="display_cutout_emulation_keywords">прорез на екрана, прорез</string>
   <string name="display_cutout_emulation_none">Без</string>
+  <string name="disable_service_message">Натискането на ОК ще спре %1$s.</string>
   <string name="do_disclosure_learn_more_separator">" "</string>
   <string name="double_tap_power_for_camera_suggestion_title">Бързо отваряне на камерата</string>
   <string name="double_twist_for_camera_suggestion_title">По-бързо правене на селфи</string>
@@ -455,6 +456,7 @@
   <string name="show_operator_name_summary">Показване на името на мрежата в лентата на състоянието</string>
   <string name="show_operator_name_title">Име на мрежата</string>
   <string name="sim_change_data_title">Да се промени ли SIM картата за данни?</string>
+  <string name="sim_change_data_message">Да се използва ли %1$s вместо %2$s за данни през мобилната мрежа?</string>
   <string name="sim_pin_disable_failed">"PIN кода не може да се деактивира."</string>
   <string name="sim_pin_enable_failed">"PIN кода не може да се активира."</string>
   <string name="sim_selection_channel_title">Избиране на SIM карта</string>
@@ -565,8 +567,9 @@
   <string name="wifi_calling_settings_activation_instructions">Активиране на функцията за обаждания през Wi-Fi</string>
   <string name="wifi_calling_turn_on">Включване на функцията за обаждания през Wi-Fi</string>
   <string name="wifi_cant_connect">Не може да се установи връзка</string>
-  <string name="wifi_cant_connect_to_ap">Не може да се установи връзка със %1$s</string>
+  <string name="wifi_cant_connect_to_ap">Не може да се установи връзка с/ъс %1$s</string>
   <string name="wifi_carrier_connect">Wi‑Fi мрежа на оператор</string>
+  <string name="wifi_calling_off_explanation">Когато функцията \"Wi-Fi обаждания\" е включена, за изходящи разговори могат да се използват както Wi-Fi, така и мобилна мрежа (в зависимост от вашите предпочитания и сила на сигнала). Преди да активирате тази функция, свържете се с вашия оператор и уточнете подробностите.</string>
   <string name="wifi_carrier_content">Свържете се през %1$s</string>
   <string name="wifi_check_password_try_again">Проверете паролата и опитайте отново</string>
   <string name="wifi_connected_mac_randomization">Рандомизиране на свързания MAC адрес</string>

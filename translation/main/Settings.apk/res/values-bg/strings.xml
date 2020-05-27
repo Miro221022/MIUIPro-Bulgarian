@@ -164,7 +164,7 @@
      <string name="accessibility_vibration_intensity_medium">Средно</string>
      <string name="accessibility_vibration_intensity_off">Изключено</string>
      <string name="accessibility_vibration_settings_title">Вибриране</string>
-     <string name="accessibility_vibration_summary">Звънене %1$s, докосване %2$s</string>
+     <string name="accessibility_vibration_summary">Звънене %1$s, известие %2$s, докосване %3$s</string>
      <string name="accessibility_vibration_summary_high">За звъненето и известията е зададено „Силно“</string>
      <string name="accessibility_vibration_summary_low">За звъненето и известията е зададено „Слабо“</string>
      <string name="accessibility_vibration_summary_medium">За звъненето и известията е зададено „Средно“</string>
@@ -788,7 +788,7 @@
      <string name="battery_summary">%1$s използване от последното пълно зареждане</string>
      <string name="battery_tip_dialog_message">"Телефонът ви е използван повече от обикновено. Батерията ви може да се изтощи по-рано от очакваното.
 
-Топ %1$d приложения, които сте използвали след пълното зареждане:"</string>
+Приложенията с най-чисока консумация са:"</string>
      <string name="battery_tip_dialog_summary_message">"Приложенията ви използват обичайното количество от батерията. Ако те изразходват твърде много от нея, телефонът ви ще предложи действия, които можете да предприемете.
 
 Винаги можете да включите режима за запазване на батерията, ако тя е на път да се изтощи."</string>
@@ -1989,7 +1989,7 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="disable_overlays">Изключване на хардуерното наслагване</string>
      <string name="disable_overlays_summary">Винаги използвай CPU за рендериране на екрана</string>
      <string name="disable_power_key_long_press_under_keyguard">Изключи менюто за бутон Захранване</string>
-     <string name="disable_service_message">Докосването на OK ще спре %1$s.</string>
+     <string name="disable_service_message">Докосването на %1$s ще спре %2$s.</string>
      <string name="disable_service_title">Да се спре ли %1$s?</string>
      <string name="disable_text">Деактивиране</string>
      <string name="disabled">Деактивирано</string>
@@ -4046,7 +4046,7 @@ Xiaomi Облак
      <string name="notification_volume_title">Известие</string>
      <string name="notifications_disabled">Блокирани</string>
      <string name="notifications_enabled">Нормално</string>
-     <string name="notifications_enabled_with_info">On / %1$s</string>
+     <string name="notifications_enabled_with_info">%1$s / %2$s</string>
      <string name="notifications_hidden">Известията не се показват на заключен екран</string>
      <string name="notifications_label">Известия</string>
      <string name="notifications_partly_blocked">%1$d от %2$d категории са изключени</string>
@@ -5437,8 +5437,8 @@ UT интерфейс: %5$s"</string>
      <string name="sim_cards_changed_message_summary">Докоснете, за да зададете активности</string>
      <string name="sim_cellular_data_unavailable">Няма налични мобилни данни</string>
      <string name="sim_cellular_data_unavailable_summary">Докоснете, за да изберете SIM карта за данни</string>
-     <string name="sim_change_data_message">Да се използва ли %1$s вмести %2$s за мобилни данни?</string>
-     <string name="sim_change_data_title">Смяна на SIM картата за данни?</string>
+     <string name="sim_change_data_message">"Вие използвате %2$s за мобилни данни. Ако преминете към %1$s, %2$s вече няма да се използва за мобилни данни."</string>
+     <string name="sim_change_data_title">Да се използва ли %1$s за данни?</string>
      <string name="sim_change_failed">"ПИН кодът не може да се промени.
 Възможен неправилен ПИН."</string>
      <string name="sim_change_failed_enable_sim_lock">За да промените PIN кода, първо активирайте заключването на SIM/RUIM</string>
@@ -6858,7 +6858,7 @@ UT интерфейс: %5$s"</string>
      <string name="wifi_calling_mode_dialog_title">Режим на обаждания през Wi-Fi</string>
      <string name="wifi_calling_mode_title">Предпочитание за обаждания</string>
      <string name="wifi_calling_not_supported">Функцията за обаждания през Wi-Fi не се поддържа за %1$s</string>
-     <string name="wifi_calling_off_explanation">Когато WLAN повикването е включено, телефонът ви може да маршрутизира повиквания през WLAN мрежи или мрежата на вашия оператор, в зависимост от предпочитанията ви и кой сигнал е по-силен. Преди да включите тази функция, консултирайте се с вашия оператор относно таксите и други подробности.</string>
+     <string name="wifi_calling_off_explanation">Когато WLAN обажданията са включени, телефонът ви може да маршрутизира повиквания през WLAN мрежи или мрежата на вашия оператор, в зависимост от предпочитанията ви и кой сигнал е по-силен. Преди да включите тази функция, консултирайте се с вашия оператор относно таксите и други подробности.%1$s</string>
      <string name="wifi_calling_off_explanation_2" />
      <string name="wifi_calling_pref_managed_by_carrier">Настройката се управлява от оператора</string>
      <string name="wifi_calling_roaming_mode_dialog_title">Предпочитание за роуминг</string>

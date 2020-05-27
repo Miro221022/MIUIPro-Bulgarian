@@ -305,12 +305,14 @@
         <item>Дълга латентност (300~500мс)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+	    <item>Оптимизиран за ниска латентност</item>
         <item>Оптимизиран за качество на връзката (400кб/с)</item>
         <item>Балансирано качество на звука и връзката (500/560кб/с)</item>
         <item>Оптимизиран за качество на звука (900кб/с)</item>
         <item>Най-доброто избор (Авто скорост на битовете)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+	    <item>Оптимизиран за ниска латентност (256кб/с)</item>
         <item>Оптимизиран за качество на връзката (400кб/с)</item>
         <item>Балансирано качество на звука и връзката (500/560кб/с)</item>
         <item>Оптимизиран за качество на звука (900кб/с)</item>
@@ -338,9 +340,12 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Активиране на незадължителни кодеци</item>
-        <item>Деактивиране на незадължителни кодеци</item>
+        <item>Деактивиране на незадължителните кодеци</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Използване на системните предпочитания (по подразбиране)</item>
@@ -350,9 +355,12 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Активиране на незадължителни кодеци</item>
-        <item>Деактивиране на незадължителни кодеци</item>
+        <item>Деактивиране на незадължителните кодеци</item>
     </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>

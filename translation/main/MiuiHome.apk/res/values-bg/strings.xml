@@ -561,4 +561,8 @@
     <string name="accessibility_menu_item_smallwindow_enable">Това приложение поддържа плаващи прозорци</string>
 	<string name="all_apps_setting_classic_title">Класически</string>
 	<string name="home_switch_personal_assistant">Асистент</string>
+	<string name="common_home_search_delete">Изтриване на лентата за търсене на началния екран</string>
+    <string name="common_home_search_delete_cancle">Отказ</string>
+    <string name="common_home_search_delete_confirm">Изтрий</string>
+    <string name="common_home_search_delete_content">"След като я изтриете, няма да можете да търсите елементи чрез лентата за търсене на началния екран. Да се изтрие ли въпреки това?"</string>
 </resources>
