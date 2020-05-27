@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <plurals name="kg_too_many_failed_attempts_countdown">
-    <item quantity="other">Опитайте отново след %d секунди.</item>
-    <item quantity="one">"Опитайте отново след 1 секунда. "</item>
-  </plurals>
-</resources>
