@@ -375,8 +375,8 @@
   <string name="feed_back">Отзив</string>
   <string name="file_not_found">Файлът не съществува</string>
   <string name="filter_by_duration">Филтриране по продължителност</string>
-  <string name="filter_by_duration_max">%d мин</string>
-  <string name="filter_by_duration_min">%d сек</string>
+  <string name="filter_by_duration_max">%d мин.</string>
+  <string name="filter_by_duration_min">%d сек.</string>
   <string name="filter_by_duration_prefix">"Минимална продължителност: "</string>
   <string name="filter_by_duration_summary">Скриване на кратките аудио файлове</string>
   <string name="filter_by_folder">По папка</string>
@@ -906,7 +906,7 @@
   <string name="talkback_search">Търси</string>
   <string name="talkback_show_navigation_draw">Покажи чекмеджето</string>
   <string name="terms_of_service">Условия за ползване</string>
-  <string name="test_mode">Test mode</string>
+  <string name="test_mode">Тестов режим</string>
   <string name="thursday">Четвъртък</string>
   <string name="thursday_short">Чет</string>
   <string name="thursday_shortest">Ч</string>
