@@ -1706,7 +1706,7 @@
     <string name="vowifi_emergency_warning_title">Спешни повиквания чрез WLAN повикване</string>
     <string name="wifi_call_setting_vodafone_de">WLAN повикване</string>
     <string name="wifi_call_setting_vodafone_uk">WLAN повикване</string>
-	<string name="fiveg_switch_title">5G мрежа</string>
+	<string name="fiveg_switch_title">Използвай 5G мрежа</string>
 	<string name="jump_to_mobile_network_setting">Настройки на мобилна мрежа</string>
     <string name="select_dds_dialog_title">Изберете SIM картата по подразбиране за мобилни данни</string>
 	<string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM авто</string>
@@ -1937,9 +1937,9 @@
      <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
-	     <string name="fiveg_hosted_mode_summary">Автоматично преминаване към най-добрите налични мрежи, когато 5G връзката е лоша</string>
+	 <string name="fiveg_hosted_mode_summary">Автоматично преминаване към най-добрите налични мрежи, когато 5G връзката е лоша</string>
     <string name="fiveg_hosted_mode_title">5G Интелигентно Превключване</string>
-	    <string name="incall_error_out_of_service_kr">Достъпно е само спешно повикване.</string>
+	<string name="incall_error_out_of_service_kr">Достъпно е само спешно повикване.</string>
     <string name="incall_number_anonymous">Неизвестен номер</string>
     <string name="msim_setting_default_data_description">SIM за данни %d</string>
     <string name="msim_setting_default_voice_description">SIM %d за повиквания</string>
@@ -1947,4 +1947,7 @@
 	<string name="msim_setting_default_voice">Карта за повиквания</string>
 	<string name="msim_setting_default_data">Карта за данни</string>
 	<string name="msim_setting_no_sim_number">Не е настроено</string>
+	<string name="fiveg_network_title">5G мрежи</string>
+    <string name="switch_off">Изключи</string>
+    <string name="switch_on">Включи</string>
 </resources>

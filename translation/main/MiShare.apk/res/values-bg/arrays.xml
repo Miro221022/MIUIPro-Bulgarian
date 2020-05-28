@@ -4,4 +4,14 @@
         <item>За достъп и запазване на изображения, приложения и други файлове</item>
         <item>"За прехвърляне на файлове чрез Bluetooth и Wi-Fi "</item>
     </string-array>
+	    <string-array name="permissions_desc_china">
+        <item>За достъп и запазване на изображения, приложения и други файлове, както и за прехвърлянето им</item>
+        <item>За прехвърляне на файлове чрез Bluetooth и WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>За изпращане и получаване на файлове</item>
+        <item>За прехвърляне на файлове чрез Bluetooth и WLAN</item>
+        <item>За намиране на налични устройства наблизо, чрез Bluetooth</item>
+        <item>За намиране на налични устройства в близост и прехвърляне на файлове чрез WLAN</item>
+    </string-array>
 </resources>

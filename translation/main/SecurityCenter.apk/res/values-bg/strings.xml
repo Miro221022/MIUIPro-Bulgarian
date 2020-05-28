@@ -3412,4 +3412,13 @@
     <string name="gb_game_video_type_manual_record">手动录制</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">开启智能/手动录制，保存精彩瞬间</string>
     <string name="gb_wonderful_video_goto_box">前往游戏加速查看</string>
+	<string name="gb_dialog_game_uninstall_deleting">正在删除</string>
+    <string name="gb_dialog_game_uninstall_loading">游戏应用加载中</string>
+    <string name="gb_dialog_game_uninstall_multi_tips_title">卸载\"%1$s\"等%2$d款游戏</string>
+    <string name="gb_dialog_game_uninstall_tips_message">卸载后其所有数据也将被删除</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">将同时卸载关联的双开游戏,游戏内数据将会被删除</string>
+    <string name="gb_dialog_game_uninstall_tips_title">卸载“%s”</string>
+    <string name="gb_storage_game_uninstall">游戏卸载</string>
+    <string name="gb_storage_summary">将游戏应用收纳至游戏盒子，桌面将不再显示游戏图标</string>
+    <string name="gb_storage_title">收纳桌面游戏图标</string>
 </resources>

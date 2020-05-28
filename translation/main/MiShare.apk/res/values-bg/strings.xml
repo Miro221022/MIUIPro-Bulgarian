@@ -222,4 +222,7 @@
     <string name="user_instructions">Внимание</string>
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+	<string name="error_slave_wifi_in_use_china">"Mi Споделяне няма да работи, когато е включена двойна WLAN. Изключете двойната WLAN в настройките и опитайте отново."</string>
+    <string name="mishare_state_protection_summary_china">Включване отново на Mi Споделяне автоматично, когато Bluetooth или WLAN са включени отново</string>
+    <string name="wifi_is_not_enabled_china">Първо включете WLAN</string>
 </resources>
