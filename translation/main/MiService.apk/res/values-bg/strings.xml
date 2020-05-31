@@ -116,7 +116,7 @@
     <string name="miui_main_update_continue">Следващо</string>
     <string name="miui_main_update_learn_more">Научете повече</string>
     <string name="miui_main_update_start">Обнови сега</string>
-    <string name="miui_main_update_success_sub_title">Запознайте се с новият MIUI</string>
+    <string name="miui_main_update_success_sub_title">Запознайте се с новата MIUI</string>
     <string name="miui_main_update_success_title">Животът става по-лесен</string>
     <string name="permission_agree">Приемам</string>
     <string name="permission_china_version_msg"><Data>Преди да използвате \"Услуги и отзиви\", трябва да прочетете и да се съгласите с нашите &lt;a href=%1$s>Потребителско споразумение&lt;/a> и &lt;a href=%2$s>Политика за поверителност&lt;/a>. Това приложение също трябва да се свърже с интернет, за да работи нормално.</Data></string>

@@ -622,4 +622,7 @@
     <string name="restore_right_now">Възстанови</string>
     <string name="retry">Опитай отново</string>
     <string name="recovery_progress">Възстановяване на елементи (%1$d/%2$d)…</string>
+	<string name="mobile_data_remind">Предупреждение за използване на данни</string>
+    <string name="mobile_data_consume">Изтеглянето на елементи сега ще изисква използване %1$s МБ мобилни данни. Изтегляне въпреки това?</string>
+    <string name="download_right_now">Изтегли</string>
 </resources>

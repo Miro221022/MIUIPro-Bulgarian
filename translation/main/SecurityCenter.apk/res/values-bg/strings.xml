@@ -3302,7 +3302,7 @@
     <string name="required_permissions_desc">Тези разрешения са необходими за предоставяне на основните функции и услуги на това приложение.</string>
     <string name="sd_eject">Демонтиране на SD картата</string>
     <string name="sd_eject_summary">Демонтирайте SD картата, за да я премахнете безопасно</string>
-    <string name="sd_format">Форматирайте SD картата</string>
+    <string name="sd_format">Форматиране на SD картата</string>
     <string name="sd_format_summary">Изтрийте всички данни на SD картата (включително музика и снимки)</string>
     <string name="sd_insert_summary">Поставете SD карта за монтиране</string>
     <string name="sd_mount">Монтирай SD картата</string>
@@ -3330,7 +3330,7 @@
     <string name="storage_app_detail_uninstall_done">Деинсталирането е успешно</string>
     <string name="storage_app_detail_wechat_cleaner">WeChat почистване</string>
     <string name="storage_app_detail_wechat_session">"Изистване на историята на чатовете в WeChat"</string>
-    <string name="storage_app_list_activity_title">подробности за приложението</string>
+    <string name="storage_app_list_activity_title">Подробности за приложенията</string>
     <string name="storage_app_list_desc">Заето място: %s</string>
     <string name="storage_app_manager_clear_dlg_title">Изчисти данните</string>
     <string name="storage_app_manager_clear_failed_dlg_message">"Данните от приложението не могат да се изчистят"</string>
@@ -3345,21 +3345,21 @@
     <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"Клонингът на това приложение също ще бъде деинсталиран."</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Всички данни от приложението също ще бъдат изтрити, ако деинсталирате приложението.</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Деинсталиране на клонирано приложение?</string>
-    <string name="storage_app_space_details_entry">Вижте подробности за приложението</string>
+    <string name="storage_app_space_details_entry">Вижте подробности за приложенията</string>
     <string name="storage_app_uninstall_app_dialog_msg">Всички данни от приложението също ще бъдат изтрити, ако деинсталирате приложението.</string>
     <string name="storage_app_uninstall_app_dialog_title">Деинсталиране на приложението</string>
     <string name="storage_available_total_size">Превишено %1$s | %2$s налично</string>
     <string name="storage_available_total_size1">Заети: %1$s | Общо: %2$s</string>
     <string name="storage_deepclean_entry">Дълбоко почистване</string>
-    <string name="storage_dialog_unmountable">"Това ^1 е повредено.
+    <string name="storage_dialog_unmountable">"Тази ^1 е повредена.
 
-За да използвате това ^1, първо трябва да го настроите."</string>
-    <string name="storage_dialog_unmounted">"Това ^1 е премахнато безопасно, но все още е на разположение.
+За да използвате ^1, първо трябва да я настроите."</string>
+    <string name="storage_dialog_unmounted">"Тази ^1 е премахната безопасно, но все още е на разположение.
 
-За да използвате това ^1, първо трябва да го монтирате."</string>
-    <string name="storage_dialog_unsupported">"Това устройство не поддържа това ^1.
+За да използвате ^1, първо трябва да я монтирате."</string>
+    <string name="storage_dialog_unsupported">"Това устройство не поддържа ^1.
 
-За да използвате това ^1 с това устройство първо трябва да го настроите."</string>
+За да използвате ^1 с това устройство първо трябва да я настроите."</string>
     <string name="storage_format_failure">"Неуспешно форматиране %1$s"</string>
     <string name="storage_format_success">Форматирано е %1$s успешно</string>
     <string name="storage_item_apk_name">APK</string>
@@ -3377,11 +3377,11 @@
     <string name="storage_space_release_hint">Имате нужда от повече място за съхранение?</string>
     <string name="storage_unmount_failure">"Неуспешно демонтиране %1$s"</string>
     <string name="storage_unmount_success">Демонтирано %1$s успешно</string>
-    <string name="storage_wizard_format_confirm_v2_action">Форматиране на ^1</string>
-    <string name="storage_wizard_format_confirm_v2_body">"Това ^1 трябва да се форматира, за да съхранява приложения, файлове и медии.
+    <string name="storage_wizard_format_confirm_v2_action">Форматирай ^1</string>
+    <string name="storage_wizard_format_confirm_v2_body">"Тази ^1 трябва да се форматира, за да съхранява приложения, файлове и медии.
 
-Форматирането ще изтрие съществуващото съдържание в ^2. За да избегнете загуба на съдържание, архивирайте го на друго ^3 или устройството."</string>
-    <string name="storage_wizard_format_confirm_v2_title">Форматиране на това ^1 сега?</string>
+Форматирането ще изтрие съществуващото съдържание в ^2. За да избегнете загуба на съдържание, архивирайте го на друга ^3 или устройството."</string>
+    <string name="storage_wizard_format_confirm_v2_title">Форматиране на тази ^1 сега?</string>
     <string name="superpower_savemode_description_title">Свръх пестенето на батерия активира следните ограничения:</string>
     <string name="system_permission_declare_meanwhile_double_link"><Data>В същото време, за да разберете напълно вашите права като потребител, както и начините, по които използваме вашите данни, прочете и се съгласете с нашите &lt;a href=\"%1$s\">Потребитеско споразумение&lt;/a> и &lt;a href=\"%2$s\">Политика за поверителност&lt;/a>.</Data></string>
     <string name="system_permission_declare_meanwhile_privacy_policy"><Data>В същото време, за да разберете напълно вашите права като потребител, както и начините, по които използваме вашите данни, прочете и се съгласете с нашата &lt;a href=\"%1$s\">Политика за поверителност&lt;/a>.</Data></string>
@@ -3421,4 +3421,10 @@
     <string name="gb_storage_game_uninstall">游戏卸载</string>
     <string name="gb_storage_summary">将游戏应用收纳至游戏盒子，桌面将不再显示游戏图标</string>
     <string name="gb_storage_title">收纳桌面游戏图标</string>
+	<string name="size_byte">Б</string>
+    <string name="size_giga_byte">ГБ</string>
+    <string name="size_kilo_byte">КБ</string>
+    <string name="size_mega_byte">МБ</string>
+    <string name="size_peta_byte">ПБ</string>
+	<string name="size_tera_byte">ТБ</string>
 </resources>

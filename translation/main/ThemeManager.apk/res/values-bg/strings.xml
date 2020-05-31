@@ -420,9 +420,9 @@
   <string name="mtrl_picker_toggle_to_text_input_mode">Превключете в режим на въвеждане на текст</string>
   <string name="mtrl_picker_toggle_to_year_selection">Докоснете, за да преминете към избор на година</string>
   <string name="multi_sim_mms_ringtone_settings_dialog_message">Тази мелодия ще се прилага и за двете SIM карти.</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">Тонът на звънене е приложен за двете SIM карти.</string>
-  <string name="multi_sim_ringtone_settings_dialog_ok">Получаване</string>
-  <string name="multi_sim_ringtone_settings_dialog_remind_never">Не показвай повече</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Тонът за звънене е приложен за двете SIM карти.</string>
+  <string name="multi_sim_ringtone_settings_dialog_ok">Разбрах</string>
+  <string name="multi_sim_ringtone_settings_dialog_remind_never">Не показвай отново</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Проблеми със съвместимостта</string>
   <string name="my_gifts">Подаръци</string>
   <string name="my_gifts_purchased">Закупени</string>
