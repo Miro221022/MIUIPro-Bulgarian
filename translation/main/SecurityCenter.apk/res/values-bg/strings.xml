@@ -3427,4 +3427,11 @@
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
 	<string name="size_tera_byte">ТБ</string>
+	    <string name="gtb_dialog_btn_close">Изключи</string>
+    <string name="gtb_dialog_btn_open">Включи</string>
+    <string name="gtb_dialog_hint_smart_5g">Можете да включите и изключите тази функция в Game Turbo > Настройки.</string>
+    <string name="gtb_dialog_summary_smart_5g">Всеки път, когато Game Turbo открие 5G мрежа, той може да свърже вашето устройство с най-добрата налична мрежа, за да намали закъснението в мрежата. Да се включи ли тази функция сега?</string>
+    <string name="gtb_dialog_title_smart_5g">5G оптимизация на мрежата</string>
+    <string name="gtb_setting_item_summary_smart_5g">Всеки път, когато Game Turbo открие 5G мрежа, той може да свърже вашето устройство с най-добрата налична мрежа, за да намали закъснението в мрежата</string>
+    <string name="gtb_setting_item_title_smart_5g">5G оптимизация на мрежата</string>
 </resources>

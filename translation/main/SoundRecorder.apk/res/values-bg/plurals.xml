@@ -44,4 +44,8 @@
         <item quantity="other">Търсене сред %d записа на разговори</item>
         <item quantity="one">Търсене сред %d запис на разговор</item>
     </plurals>
+	    <plurals name="search_app_records_hint">
+        <item quantity="other">Търсене сред %d записа</item>
+        <item quantity="one">Търсене сред %d запис</item>
+    </plurals>
 </resources>

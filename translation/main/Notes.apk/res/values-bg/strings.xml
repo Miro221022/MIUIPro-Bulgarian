@@ -426,4 +426,10 @@
     <string name="note_gesture_guide_step1">Натиснете и задръжте плюса, за да създадете гласова бележка</string>
     <string name="note_gesture_guide_step2">Натиснете и задръжте бележка, след което я плъзнете върху друга бележка, за да създадете папка</string>
     <string name="note_gesture_guide_step3">Натиснете и задръжте бележка, след което я плъзнете върху папка, за да преместите бележката там</string>
+	    <string name="float_todo_guide_message_v2">Gesture shortcut allows you to view and create tasks by swiping from the edge of the screen. You can turn this feature on and off in the Settings.</string>
+    <string name="float_todo_guide_ok_v2">Включи</string>
+    <string name="float_todo_guide_title_v2">Пряк път с жестове</string>
+    <string name="pref_remind_type_summary_new">Игнориране на безшумния режим и продължаване възпроизвеждането на звук, докато алармата не бъде изключена</string>
+    <string name="pref_remind_type_title_new">Напомняния с висок приоритет</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">"Не може да се използва тази функция в разделен екран или плаващи прозорци"</string>
 </resources>

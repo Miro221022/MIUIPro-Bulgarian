@@ -94,7 +94,7 @@
   <string name="edit_alarm">Редактиране на аларма</string>
   <string name="edit_systemtime">Промяна на системното време</string>
   <string name="edit_systemtime_setting_summary">Дата, час и двоен часовник</string>
-  <string name="every_day">Всеки ден</string>
+  <string name="every_day">Ежедневно</string>
   <string name="expired_timers_dismissed">Таймерът е отхвърлен</string>
   <string name="force_touch_add_alarm">Добави аларма</string>
   <string name="force_touch_enter_stopwatch">Хронометър</string>

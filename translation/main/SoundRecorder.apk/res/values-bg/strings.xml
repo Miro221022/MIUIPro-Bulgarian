@@ -316,4 +316,7 @@
     <string name="recognition_notification_running">Транскрибиране \"%s\"…</string>
     <string name="recognition_stop_current">Спри текущата задача</string>
 	<string name="agree_description">Разрешете на това приложение да се свърже с интернет, за да може да използвате всички негови функции.</string>
+	    <string name="app_record">Записи на приложения</string>
+    <string name="app_record_preference_title">Записи на приложения</string>
+    <string name="record_list_app">Записи на приложения</string>
 </resources>

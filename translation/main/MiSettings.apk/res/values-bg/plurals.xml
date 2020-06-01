@@ -186,6 +186,7 @@
          <item quantity="other">Отключен %d пъти</item>
 	 </plurals>
 	      <plurals name="usage_new_home_total_unlocks_new">
-         <item quantity="other">%s 共解锁%d次</item>
-     </plurals>
+        <item quantity="other">Отключен %1$d пъти на %2$s</item>
+        <item quantity="one">Отключен %1$d път на %2$s</item>
+	 </plurals>
 </resources>

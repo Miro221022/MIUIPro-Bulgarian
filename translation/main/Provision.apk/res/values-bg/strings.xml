@@ -244,8 +244,8 @@
 Трябва да се съгласите с Политика за поверителност на Mint клавиатурата, преди да използвате тази функция."</string>
    <string name="service_policy_download"><Data>Преди да използвате нашите услуги, прочетете и се съгласете с &lt;a href=%1$s>Политика за поверителност на Xunlei&lt;/a >.</Data></string>
     <string name="service_name_fast_pairing">Mi Link</string>
-    <string name="fast_pairing_introduction">Mi Link позволява на вашето устройство да се свързва с Bluetooth устройства в близост. За да можете да намерите устройства наблизо, позволете на Mi Link да се свърже с интернет.</string>
-    <string name="disagreement_abnormal_running_fast_pairing">"Ако не сте съгласни да предоставите такива разрешения, няма да можете да използвате това приложение. В такъв случай можете да изберете да ограничите разрешенията в Настройки."</string>
+    <string name="fast_pairing_introduction">Mi Link позволява вашето устройство да се свързва с Bluetooth устройства наблизо, използвайки MIUI Bluetooth услуга. За да можете да намерите устройства наблизо, позволете на MIUI Bluetooth функцията да се свърже с интернет.</string>
+    <string name="disagreement_abnormal_running_fast_pairing">"Ако не сте съгласни да предоставите такива разрешения, няма да можете да използвате това приложение. В такъв случай можете да ограничите разрешенията и да изключите тази функция в Настройки."</string>
 	    <string name="backup_introduction">Можете да използвате това приложение за архивиране и възстановяване на елементи на вашето устройство.</string>
     <string name="permission_backup">Достъп до хранилището</string>
     <string name="permission_backup_introduction">За достъп и запазване на архиви на вашето устройство</string>
