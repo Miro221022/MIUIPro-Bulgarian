@@ -1088,8 +1088,8 @@
      <string name="load_failed">Зареждането не бе успешно. Моля, опитайте отново по-късно</string>
      <string name="network_not_available">Мрежата не е достъпна. Моля, опитайте отново</string>
      <string name="retry">Повторен опит</string>
-     <string name="sleep_snore_audio_file_mamagement_desc">建议开启。保留最新100MB的鼾声梦话音频，自动清理较旧音频，避免占用过多存储空间。</string>
-     <string name="sleep_snore_audio_file_mamagement_title">Автоматично почистване на аудио файлове</string>
+     <string name="sleep_snore_audio_file_mamagement_desc">Включете, за да запазите 100 МБ от най-новите записи на това устройство и изтрийте автоматично по-старите, за да спестите място в хранилището</string>
+     <string name="sleep_snore_audio_file_mamagement_title">Автоматично почистване на записите</string>
      <string name="sleep_snore_audio_file_saved">Аудио файлът се запазва локално</string>
      <string name="sleep_snore_audio_file_saved_desc">Откриването използва офлайн алгоритъм, аудио файлът се запазва на мобилния телефон, а личната поверителност е гарантирана.</string>
 </resources>
