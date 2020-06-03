@@ -77,138 +77,138 @@
         <item>Устройство</item>
      </string-array>
      <string-array name="app_ops_labels">
-        <item>Location</item>
-        <item>Location</item>
-        <item>Location</item>
-        <item>Vibrate</item>
-        <item>Read contacts</item>
-        <item>Modify contacts</item>
-        <item>Read call log</item>
-        <item>Modify call log</item>
-        <item>Read calendar</item>
-        <item>Modify calendar</item>
-        <item>Location</item>
-        <item>Post notification</item>
-        <item>Location</item>
-        <item>Call phone</item>
-        <item>Read SMS/MMS</item>
-        <item>Write SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Read SMS/MMS</item>
-        <item>Write SMS/MMS</item>
-        <item>Modify settings</item>
-        <item>Draw on top</item>
-        <item>Access notifications</item>
-        <item>Camera</item>
-        <item>Record audio</item>
-        <item>Play audio</item>
-        <item>Read clipboard</item>
-        <item>Modify clipboard</item>
-        <item>Media buttons</item>
-        <item>Audio focus</item>
-        <item>Master volume</item>
-        <item>Voice volume</item>
-        <item>Ring volume</item>
-        <item>Media volume</item>
-        <item>Alarm volume</item>
-        <item>Notification volume</item>
-        <item>Bluetooth volume</item>
-        <item>Keep awake</item>
-        <item>Location</item>
-        <item>Location</item>
-        <item>Get usage stats</item>
-        <item>Mute/unmute microphone</item>
-        <item>Show toast</item>
-        <item>Project media</item>
-        <item>Activate VPN</item>
-        <item>Write wallpaper</item>
-        <item>Assist structure</item>
-        <item>Assist screenshot</item>
-        <item>Read phone state</item>
-        <item>Add voicemail</item>
-        <item>Use sip</item>
-        <item>Process outgoing call</item>
-        <item>Fingerprint</item>
-        <item>Body sensors</item>
-        <item>Read cell broadcasts</item>
-        <item>Mock location</item>
-        <item>Read storage</item>
-        <item>Write storage</item>
-        <item>Turn on screen</item>
-        <item>Get accounts</item>
-        <item>Run in background</item>
-        <item>Accessibility volume</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вибрация</item>
+        <item>Четене на контактите</item>
+        <item>Промяна на контактите</item>
+        <item>Четене на списъка с обаждания</item>
+        <item>Промяна на списъка с обаждания</item>
+        <item>Четене на календара</item>
+        <item>Проманя на календара</item>
+        <item>Местоположение</item>
+        <item>Известие</item>
+        <item>Местоположение</item>
+        <item>Обаждане</item>
+        <item>Четене на SMS/MMS</item>
+        <item>Писане на SMS/MMS</item>
+        <item>Получване на SMS/MMS</item>
+        <item>Получване на SMS/MMS</item>
+        <item>Получване на SMS/MMS</item>
+        <item>Получване на SMS/MMS</item>
+        <item>Изпращане на SMS/MMS</item>
+        <item>Четене на SMS/MMS</item>
+        <item>Писане на SMS/MMS</item>
+        <item>Промяна на настройките</item>
+        <item>Чертаене отгоре</item>
+        <item>Достъп до известията</item>
+        <item>Камера</item>
+        <item>Запис на звук</item>
+        <item>Възпроизвеждане на звук</item>
+        <item>Четене на буферната памет</item>
+        <item>Промяна на буферната памет</item>
+        <item>Бутони</item>
+        <item>Аудиофокус</item>
+        <item>Сила на звука</item>
+        <item>Сила на гласа</item>
+        <item>Сила на звънене</item>
+        <item>Звук за медията</item>
+        <item>Звук за алармата</item>
+        <item>Звук за известията</item>
+        <item>Bluetooth звук</item>
+        <item>Поддържане буден</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Получаване на статистика за използването</item>
+        <item>Заглушаване на микрофона</item>
+        <item>Анимация</item>
+        <item>Прожектиране на медия</item>
+        <item>Активиране на VPN</item>
+        <item>Писане на тапет</item>
+        <item>Помощна структура</item>
+        <item>Подпомагане на екраната снимка</item>
+        <item>Четене на състоянието на телефона</item>
+        <item>Добавяне на гласова поща</item>
+        <item>Използваne на sip</item>
+        <item>Обработка на изходящи обаждания</item>
+        <item>Пръстов отпечатък</item>
+        <item>Сензори</item>
+        <item>Четете излъчвания от клетки</item>
+        <item>Мнимо местоположението</item>
+        <item>Четене на хранилището</item>
+        <item>Писане в хранилището</item>
+        <item>Включване на екрана</item>
+        <item>Получаване на профилите</item>
+        <item>Изпълнение на заден план</item>
+        <item>Достъп до звука</item>
      </string-array>
      <string-array name="app_ops_summaries">
-        <item>coarse location</item>
-        <item>fine location</item>
+        <item>приблизително местоположение</item>
+        <item>точно местоположение</item>
         <item>GPS</item>
-        <item>vibrate</item>
-        <item>read contacts</item>
-        <item>modify contacts</item>
-        <item>read call log</item>
-        <item>modify call log</item>
-        <item>read calendar</item>
-        <item>modify calendar</item>
-        <item>wi-fi scan</item>
-        <item>notification</item>
-        <item>cell scan</item>
-        <item>call phone</item>
-        <item>read SMS</item>
-        <item>write SMS</item>
-        <item>receive SMS</item>
-        <item>receive emergency SMS</item>
-        <item>receive MMS</item>
-        <item>receive WAP push</item>
-        <item>send SMS</item>
-        <item>read ICC SMS</item>
-        <item>write ICC SMS</item>
-        <item>modify settings</item>
-        <item>draw on top</item>
-        <item>access notifications</item>
-        <item>camera</item>
-        <item>record audio</item>
-        <item>play audio</item>
-        <item>read clipboard</item>
-        <item>modify clipboard</item>
-        <item>media buttons</item>
-        <item>audio focus</item>
-        <item>master volume</item>
-        <item>voice volume</item>
-        <item>ring volume</item>
-        <item>media volume</item>
-        <item>alarm volume</item>
-        <item>notification volume</item>
-        <item>bluetooth volume</item>
-        <item>keep awake</item>
-        <item>monitor location</item>
-        <item>monitor high power location</item>
-        <item>get usage stats</item>
-        <item>mute/unmute microphone</item>
-        <item>show toast</item>
-        <item>project media</item>
-        <item>activate VPN</item>
-        <item>write wallpaper</item>
-        <item>assist structure</item>
-        <item>assist screenshot</item>
-        <item>read phone state</item>
-        <item>add voicemail</item>
-        <item>use sip</item>
-        <item>process outgoing call</item>
-        <item>fingerprint</item>
-        <item>body sensors</item>
-        <item>read cell broadcasts</item>
-        <item>mock location</item>
-        <item>read storage</item>
-        <item>write storage</item>
-        <item>turn on screen</item>
-        <item>get accounts</item>
-        <item>run in background</item>
-        <item>accessibility volume</item>
+        <item>вибрация</item>
+        <item>четене на контакти</item>
+        <item>промяна на контакти</item>
+        <item>четене на повикванията</item>
+        <item>промяна на повикванията</item>
+        <item>четене на календара</item>
+        <item>промяна на календара</item>
+        <item>wi-fi сканиране</item>
+        <item>известия</item>
+        <item>сканиране на клетки</item>
+        <item>обаждане</item>
+        <item>четене на SMS</item>
+        <item>писане на SMS</item>
+        <item>получаване на SMS</item>
+        <item>получаване на спешни SMS</item>
+        <item>получаване на MMS</item>
+        <item>получаване на WAP push</item>
+        <item>изпращане на SMS</item>
+        <item>четене на ICC SMS</item>
+        <item>писане на ICC SMS</item>
+        <item>промяна на настройките</item>
+        <item>писане отгоре</item>
+        <item>достъп до известията</item>
+        <item>камера</item>
+        <item>запис на звук</item>
+        <item>възпроизвеждане на звук</item>
+        <item>четене на буферната памет</item>
+        <item>промяна на буферната памет</item>
+        <item>бутони</item>
+        <item>аудио фокус</item>
+        <item>сила на звука</item>
+        <item>сила на гласа</item>
+        <item>сила на звънене</item>
+        <item>звук за медията</item>
+        <item>звук за алармата</item>
+        <item>звук за известията</item>
+        <item>bluetooth звук</item>
+        <item>поддържане буден</item>
+        <item>наблюдение на местоположението</item>
+        <item>следене на местоположението с висока консумация</item>
+        <item>статистика за ползването</item>
+        <item>заглушаване на микрофона</item>
+        <item>анимация</item>
+        <item>прожектиране на медия</item>
+        <item>активиране на VPN</item>
+        <item>писане на тапет</item>
+        <item>помощна структура</item>
+        <item>помощ при екранна снимка</item>
+        <item>четене на състоянието на телефона</item>
+        <item>добавяне на гласова поща</item>
+        <item>използване на sip</item>
+        <item>обработка на изходящи обаждания</item>
+        <item>пръстов отпечатък</item>
+        <item>сензори за тяло</item>
+        <item>четете излъчвания на клетки</item>
+        <item>мнимо местоположение</item>
+        <item>четене на хранилището</item>
+        <item>писане в хранилището</item>
+        <item>включване на екрана</item>
+        <item>достъп ди профилите</item>
+        <item>работа във фонов режим</item>
+        <item>звук за достъпност</item>
      </string-array>
      <string-array name="app_process_limit_entries">
         <item>Стандартно ограничение</item>

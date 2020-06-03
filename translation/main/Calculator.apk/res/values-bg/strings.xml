@@ -559,4 +559,11 @@
   <string name="xiaomi_update_dialog_message_diff">Представяне на версия %1$s\nРазмер на актуализацията: %2$s</string>
   <string name="xiaomi_update_dialog_title">%1$s актуализация!</string>
   <string name="yesterday">Вчера</string>
+  <string name="delete">Изтрий</string>
+  <string name="delete_tips">Изтриване на елементи</string>
+  <string name="empty_history">Тук все още няма елементи</string>
+  <string name="histories">История</string>
+  <string name="history_time_date_format">dd/MM/yyyy</string>
+  <string name="pull_to_refresh">Изтеглете надолу, за да видите историята</string>
+  <string name="release_to_refresh">Пуснете, за да видите историята</string>
 </resources>
