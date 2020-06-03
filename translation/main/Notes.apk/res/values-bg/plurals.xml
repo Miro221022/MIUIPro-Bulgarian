@@ -1,75 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="note_terms">
-        <item quantity="other">%1$s бележки</item>
-        <item quantity="one">%1$s бележка</item>
-    </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">%1$s папки</item>
-        <item quantity="one">%1$s папка</item>
-    </plurals>
-    <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$s не са синхронизирани</item>
-        <item quantity="one">%1$s не е синхронизирана</item>
-    </plurals>
-	     <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">%d секунди остават</item>
-        <item quantity="one">%d секунда остава</item>
-     </plurals>
-     <plurals name="word_count">
-        <item quantity="other">%d символа</item>
-        <item quantity="one">%d символ</item>
-     </plurals>
-	    <plurals name="alert_message_delete">
-        <item quantity="other">Изтриване на %1$s елемента?</item>
-        <item quantity="one">Изтриване на %1$s елемент?</item>
-    </plurals>
-	<plurals name="format_move_notes_out_folder">
-        <item quantity="other">Премахнати са %1$s бележки от папаката</item>
-        <item quantity="one">Премахната е %1$s бележка от папаката</item>
-    </plurals>
-	 <plurals name="format_move_notes_to_folder">
-        <item quantity="other">Преместени са %1$s бележки в %2$s</item>
-        <item quantity="one">Преместена е %1$s бележка в %2$s</item>
-    </plurals>
-	<plurals name="toast_notes_hidden_count">
-        <item quantity="other">Успешно са скрити %1$s бележки</item>
-        <item quantity="one">Успешно е скрита %1$s бележка</item>
-    </plurals>
-    <plurals name="toast_notes_unhidden_count">
-        <item quantity="other">Успешно са показани %1$s бележки</item>
-        <item quantity="one">Успешно е показана %1$s бележка</item>
-    </plurals>
-	    <plurals name="date_calculate_days_after">
-        <item quantity="other">%1$d дни по-късно</item>
-        <item quantity="one">%1$d ден по-късно</item>
-    </plurals>
-    <plurals name="date_calculate_days_ago">
-        <item quantity="other">Преди %1$d дни</item>
-        <item quantity="one">Преди %1$d ден</item>
-    </plurals>
-	 <plurals name="todo_N_days_after">
-        <item quantity="other">След %1$d дни</item>
-        <item quantity="one">След %1$d ден</item>
-    </plurals>
-    <plurals name="todo_N_days_ago">
-        <item quantity="other">Преди %1$d дни</item>
-        <item quantity="one">Преди %1$d ден</item>
-    </plurals>
-    <plurals name="todo_alert_message_delete">
-        <item quantity="other">Изтриване на %1$s задачи?</item>
-        <item quantity="one">Изтриване на %1$s задача?</item>
-    </plurals>
-    <plurals name="todo_event_description_days_ago">
-        <item quantity="other">Преди %1$d дни</item>
-        <item quantity="one">Преди %1$d ден</item>
-    </plurals>
-    <plurals name="todo_event_description_days_later">
-        <item quantity="other">След %1$d дни</item>
-        <item quantity="one">След %1$d ден</item>
-    </plurals>
-	 <plurals name="todo_terms">
-        <item quantity="other">%1$s бележки</item>
-        <item quantity="one">%1$s бележка</item>
-    </plurals>
+  <plurals name="a_hour_ago">
+    <item quantity="other">Преди 1 час</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">Преди 1 час</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Преди половин час</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">След 1 час</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">След половин час</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Веднага</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">след %d мин.</item>
+    <item quantity="one">след 1 мин.</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Сега</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">Преди %d мин.</item>
+    <item quantity="one">Преди 1 мин.</item>
+  </plurals>
+  <plurals name="alert_message_delete">
+    <item quantity="other">Изтриване на %1$s елемента?</item>
+    <item quantity="one">Изтриване на %1$s елемент?</item>
+  </plurals>
+  <plurals name="cloud_state_unsynced_count">
+    <item quantity="other">%1$s не са синхронизирани</item>
+    <item quantity="one">%1$s не е синхронизирана</item>
+  </plurals>
+  <plurals name="date_calculate_days_after">
+    <item quantity="other">%1$d дни по-късно</item>
+    <item quantity="one">%1$d ден по-късно</item>
+  </plurals>
+  <plurals name="date_calculate_days_ago">
+    <item quantity="other">Преди %1$d дни</item>
+    <item quantity="one">Преди %1$d ден</item>
+  </plurals>
+  <plurals name="folder_terms">
+    <item quantity="other">%1$s папки</item>
+    <item quantity="one">%1$s папка</item>
+  </plurals>
+  <plurals name="format_move_notes_out_folder">
+    <item quantity="other">Премахнати са %1$s бележки от папаката</item>
+    <item quantity="one">Премахната е %1$s бележка от папаката</item>
+  </plurals>
+  <plurals name="format_move_notes_to_folder">
+    <item quantity="other">Преместени са %1$s бележки в %2$s</item>
+    <item quantity="one">Преместена е %1$s бележка в %2$s</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Преди половин час</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">След 1 час</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">След половин час</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Веднага</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">след %d минути</item>
+    <item quantity="one">след 1 минута</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Сега</item>
+  </plurals>
+  <plurals name="note_terms">
+    <item quantity="other">%1$s бележки</item>
+    <item quantity="one">%1$s бележка</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">Преди %d минути</item>
+    <item quantity="one">Преди 1 минута</item>
+  </plurals>
+  <plurals name="record_last_ten_seconds_reminder">
+    <item quantity="other">%d секунди остават</item>
+    <item quantity="one">%d секунда остава</item>
+  </plurals>
+  <plurals name="toast_notes_hidden_count">
+    <item quantity="other">Успешно са скрити %1$s бележки</item>
+    <item quantity="one">Успешно е скрита %1$s бележка</item>
+  </plurals>
+  <plurals name="toast_notes_unhidden_count">
+    <item quantity="other">Успешно са показани %1$s бележки</item>
+    <item quantity="one">Успешно е показана %1$s бележка</item>
+  </plurals>
+  <plurals name="todo_alert_message_delete">
+    <item quantity="other">Изтриване на %1$s задачи?</item>
+    <item quantity="one">Изтриване на %1$s задача?</item>
+  </plurals>
+  <plurals name="todo_event_description_days_ago">
+    <item quantity="other">Преди %1$d дни</item>
+    <item quantity="one">Преди %1$d ден</item>
+  </plurals>
+  <plurals name="todo_event_description_days_later">
+    <item quantity="other">След %1$d дни</item>
+    <item quantity="one">След %1$d ден</item>
+  </plurals>
+  <plurals name="todo_N_days_after">
+    <item quantity="other">След %1$d дни</item>
+    <item quantity="one">След %1$d ден</item>
+  </plurals>
+  <plurals name="todo_N_days_ago">
+    <item quantity="other">Преди %1$d дни</item>
+    <item quantity="one">Преди %1$d ден</item>
+  </plurals>
+  <plurals name="todo_terms">
+    <item quantity="other">%1$s бележки</item>
+    <item quantity="one">%1$s бележка</item>
+  </plurals>
+  <plurals name="word_count">
+    <item quantity="other">%d символа</item>
+    <item quantity="one">%d символ</item>
+  </plurals>
 </resources>
