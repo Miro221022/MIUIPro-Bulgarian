@@ -1976,7 +1976,7 @@
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Разреши</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Изключи</string>
 	<string name="notification_storage_float">Външно хранилище</string>
-    <string name="storage_is_connecting">%1$s е свързан</string>
+    <string name="storage_is_connecting">%1$s е свързана</string>
 	<string name="auto_brightness_off">Автоматичната яркост е изключена</string>
     <string name="auto_brightness_on">Автоматичната яркост е включена</string>
 	<string name="lock_screen_date_two_lines">"EEEE
