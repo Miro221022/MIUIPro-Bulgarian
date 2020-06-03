@@ -1625,12 +1625,12 @@
      </string-array>
      <string-array name="wifi_calling_mode_choices_v2">
         <item>WLAN</item>
-        <item>Mobile</item>
-        <item>WLAN only</item>
+        <item>Мобилни</item>
+        <item>WLAN само</item>
      </string-array>
      <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>WLAN</item>
-        <item>Mobile</item>
+        <item>Мобилни</item>
      </string-array>
      <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Предпочита се Wi-Fi</item>
@@ -1653,15 +1653,15 @@
         <item>Само 2,4 ГХц</item>
      </string-array>
      <string-array name="wifi_hidden_entries">
-        <item>No</item>
-        <item>Yes</item>
+        <item>Не</item>
+        <item>Да</item>
      </string-array>
      <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Статично</item>
      </string-array>
      <string-array name="wifi_metered_entries">
-        <item>Detect automatically</item>
+        <item>Откриване автоматично</item>
         <item>Treat as metered</item>
         <item>Treat as unmetered</item>
      </string-array>
@@ -1750,4 +1750,9 @@
         <item>Скала на анимации 5x</item>
         <item>Скала на анимации 10x</item>
      </string-array>
+	     <string-array name="time_format_entries">
+        <item>12-часов 1:00 PM</item>
+        <item>24-часов 13:00</item>
+        <item>Автоматично (въз основа на системния език)</item>
+    </string-array>
 </resources>

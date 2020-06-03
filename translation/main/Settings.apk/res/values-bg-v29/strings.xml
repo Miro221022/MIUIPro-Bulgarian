@@ -9,7 +9,7 @@
   <string name="accessibility_dialog_button_stop">Спиране</string>
   <string name="accessibility_hearingaid_instruction_continue_button">Напред</string>
   <string name="accessibility_ring_vibration_title">Вибриране при звънене</string>
-  <string name="accessibility_screen_magnification_navbar_summary">Когато функцията за увеличение е включена, можете да увеличавате мащаба на екрана.\n\n\"&lt;b&gt;За да промените мащаба&lt;/b&gt;\", стартирайте функцията за увеличение, след което докоснете произволно място на екрана.\n\"&lt;ul&gt;&lt;li&gt;• Плъзнете 2 или повече пръсти, за да превъртите.&lt;/li&gt;\"\n\"&lt;li&gt;• Съберете или разтворете 2 или повече пръсти, за да коригирате мащаба.&lt;/li&gt;&lt;/ul&gt;\"\n\n\"&lt;b&gt;За да промените временно мащаба&lt;/b&gt;\", стартирайте функцията за увеличение, след което докоснете и задръжте произволно място на екрана.\n\"&lt;ul&gt;&lt;li&gt;• Плъзнете пръста си, за да се придвижите на екрана.&lt;/li&gt;\"\n\"&lt;li&gt;• Вдигнете пръста си, за да намалите мащаба.&lt;/li&gt;&lt;/ul&gt;\"\n\nНе можете да увеличавате мащаба на клавиатурата или лентата за навигация.</string>
+  <string name="accessibility_screen_magnification_navbar_summary">Когато функцията за увеличение е включена, можете да увеличавате мащаба на екрана.\n\n\"&lt;b&gt;За да промените мащаба&lt;/b&gt;\", стартирайте функцията за увеличение, след което докоснете произволно място на екрана.\n\"&lt;ul&gt;&lt;li&gt;• Плъзнете 2 или повече пръсти, за да превъртите.&lt;/li&gt;\"\n\"&lt;li&gt;• Съберете или разтворете 2 или повече пръсти, за да коригирате мащаба.&lt;/li&gt;&lt;/ul&gt;\"\n\n\"&lt;b&gt;За да промените временно мащаба&lt;/b&gt;\", стартирайте функцията за увеличение, след което докоснете и задръжте произволно място на екрана.\n\"&lt;ul&gt;&lt;li&gt;• Плъзнете пръста си, за да се придвижите на екрана.&lt;/li&gt;\"\n\"&lt;li&gt;• Вдигнете пръста си, за да намалите мащаба.&lt;/li&gt;&lt;/ul&gt;\"\n\nНе можете да увеличавате мащаба на клавиатурата или лентата за управление.</string>
   <string name="accessibility_screen_magnification_navbar_title">Увеличаване на мащаба с пряк път</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Увелич. на мащаба с пряк път и трикратно докосване</string>
   <string name="accessibility_service_action_perform_description">Услугата може да проследява взаимодействията ви с дадено приложение или хардуерен сензор, както и да взаимодейства с приложенията от ваше име.</string>
@@ -46,7 +46,7 @@
   <string name="adaptive_sleep_summary_on">Включено – Екранът няма да се изключи, ако гледате в него</string>
   <string name="adaptive_sleep_title">Внимание към екрана</string>
   <string name="add">Добавяне</string>
-  <string name="ai_key">AI бутон</string>
+  <string name="ai_key">AI бутон</string> 
   <string name="ai_key_double_click">Двукратно натискане</string>
   <string name="ai_key_long_press">Натискане и задържане</string>
   <string name="ai_key_single_click">Натискане</string>

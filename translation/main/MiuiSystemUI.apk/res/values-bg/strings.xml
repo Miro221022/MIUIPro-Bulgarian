@@ -99,7 +99,7 @@
   <string name="accessibility_gps_enabled">GPS активиран.</string>
   <string name="accessibility_home">Начало</string>
   <string name="accessibility_ime_switch_button">Смяна на метода за въвеждане.</string>
-  <string name="accessibility_key">Потребителски бутон за навигация</string>
+  <string name="accessibility_key">Потребителски бутон за управление</string>
   <string name="accessibility_left_control_center_button">Пряк път</string>
   <string name="accessibility_left_lock_screen_magazine_button">Музика</string>
   <string name="accessibility_location_active">Заявките за местоположение са активни</string>

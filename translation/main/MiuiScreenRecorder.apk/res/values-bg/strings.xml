@@ -58,7 +58,7 @@
     <string name="screen_record_option">Опции на запис</string>
     <string name="screen_record_params">Параметри на запис</string>
     <string name="select_all">Избиране на всички</string>
-    <string name="show_hard_key">Показване на бутоните за навигация</string>
+    <string name="show_hard_key">Показване на бутоните за управление</string>
     <string name="show_hard_key_summary">Показане на запитване, при натискане на бутоните Начало, Меню и Назад</string>
     <string name="show_screen_touch">Показване на докосванията</string>
     <string name="show_screen_touch_summary">Визуализация на жестове чрез бяла точка</string>

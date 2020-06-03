@@ -3434,4 +3434,5 @@
     <string name="gtb_dialog_title_smart_5g">5G оптимизация на мрежата</string>
     <string name="gtb_setting_item_summary_smart_5g">Всеки път, когато Game Turbo открие 5G мрежа, той може да свърже вашето устройство с най-добрата налична мрежа, за да намали закъснението в мрежата</string>
     <string name="gtb_setting_item_title_smart_5g">5G оптимизация на мрежата</string>
+	<string name="card_main_hwtest_title">Тест на хардуера</string>
 </resources>

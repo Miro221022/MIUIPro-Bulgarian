@@ -1944,8 +1944,8 @@
     <string name="msim_setting_default_data_description">SIM за данни %d</string>
     <string name="msim_setting_default_voice_description">SIM %d за повиквания</string>
     <string name="private_num_kr">Идентификацията на обаждащия се е ограничена</string>
-	<string name="msim_setting_default_voice">Карта за повиквания</string>
-	<string name="msim_setting_default_data">Карта за данни</string>
+	<string name="msim_setting_default_voice">Повиквания</string>
+	<string name="msim_setting_default_data">Данни</string>
 	<string name="msim_setting_no_sim_number">Не е настроено</string>
 	<string name="fiveg_network_title">5G мрежи</string>
     <string name="switch_off">Изключи</string>

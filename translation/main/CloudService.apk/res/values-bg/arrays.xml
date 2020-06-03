@@ -142,4 +142,15 @@
         <item>Преглед на синхронизираните елементи</item>
         <item>Подробности за хранилището</item>
      </string-array>
+	     <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Синхронизирайте вашите контакти, съобщения, бележки, календар и др.</item>
+        <item>Архивирайте приложения, оформление на началния екран и тапети</item>
+        <item>Архивирайте важни настройки, включително WLAN и дисплей</item>
+        <item>"Заключете устройството си дистанционно, ако е изгубено"</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Синхронизирайте WLAN настройките с Xiaomi Облак</item>
+        <item>Включете синхронизирането</item>
+        <item>WLAN;wifi;Wi-Fi;Облак;Синхонизация;Облачни услуги;Xiaomi Облак</item>
+    </string-array>
 </resources>

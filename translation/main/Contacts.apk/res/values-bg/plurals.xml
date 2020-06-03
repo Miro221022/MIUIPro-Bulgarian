@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">Преди 1 час</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">Преди 1 час</item>
+  </plurals>
   <plurals name="abbrev_half_hour_ago">
     <item quantity="other">Преди половин час</item>
   </plurals>
@@ -12,179 +18,44 @@
   <plurals name="abbrev_in_less_than_one_minute">
     <item quantity="other">Веднага</item>
   </plurals>
-  <plurals name="batch_delete_msg">
-    <item quantity="other">Изтриване на %1$d контакта?</item>
-    <item quantity="one">Изтриване на %1$d контакт?</item>
-  </plurals>
-  <plurals name="btn_delete_multi_contacts">
-    <item quantity="other">Изтрий %1$d контакта</item>
-    <item quantity="one">Изтрий %1$d контакт</item>
-  </plurals>
-  <plurals name="callNoAnswerTimeFormat">
-    <item quantity="other">Звънял %1$d пъти</item>
-    <item quantity="one">Звънял %1$d път</item>
-  </plurals>
-  <plurals name="cloud_state_unsynced_count">
-    <item quantity="other">%1$d контакта или снимки не са били синхронизирани</item>
-    <item quantity="one">%1$d контакт или снимка не са синхронизирани</item>
-  </plurals>
-  <plurals name="confirm_delete_sim_entry_miui">
-    <item quantity="other">Изтриване на %1$d контакта от SIM картата?</item>
-    <item quantity="one">Изтриване на %1$d контакт от SIM картата?</item>
-  </plurals>
-  <plurals name="contacts_count">
-    <item quantity="other">%1$d контакта</item>
-    <item quantity="one">%1$d контакт</item>
-  </plurals>
-  <plurals name="device_import_done_toast">
-    <item quantity="other">%1$d контакта са импортирани</item>
-    <item quantity="one">%1$d контакт е импортиран</item>
-  </plurals>
-  <plurals name="dlg_add_blacklist">
-    <item quantity="other">Блокиране на %1$d телефонни номера?</item>
-    <item quantity="one">Блокиране на %1$d телефонен номер?</item>
-  </plurals>
-  <plurals name="dlg_remove_blacklist">
-    <item quantity="other">Деблокиране на %1$d телефонни номера?</item>
-    <item quantity="one">Деблокиране на %1$d телефонен номер?</item>
-  </plurals>
-  <plurals name="export_sim_contacts_dialog_message">
-    <item quantity="other">SIM картата може да се съхранява %1$d контакта.</item>
-    <item quantity="one">SIM картата може да се съхрани %1$d контакт.</item>
-  </plurals>
-  <plurals name="group_add_success_toast">
-    <item quantity="other">%1$d контакта са добавени</item>
-    <item quantity="one">%1$d контакт е добавен</item>
-  </plurals>
-  <plurals name="group_list_num_contacts_in_group">
-    <item quantity="other">%1$d контакта</item>
-    <item quantity="one">%1$d контакт</item>
-  </plurals>
-  <plurals name="group_list_num_numbers_in_group">
-    <item quantity="other">%1$d номера</item>
-    <item quantity="one">%1$d номер</item>
-  </plurals>
-  <plurals name="hint_account_contacts">
-    <item quantity="other">Открити са %1$d елемента</item>
-    <item quantity="one">Открит е %1$d елемент</item>
-  </plurals>
-  <plurals name="hint_search_contacts">
-    <item quantity="other">%1$d контакта</item>
-    <item quantity="one">%1$d контакт</item>
-  </plurals>
-  <plurals name="hint_search_emails">
-    <item quantity="other">%1$d имейла</item>
-    <item quantity="one">%1$d имейл</item>
-  </plurals>
-  <plurals name="hint_search_phone_numbers">
-    <item quantity="other">%1$d номера</item>
-    <item quantity="one">%1$d номер</item>
-  </plurals>
-  <plurals name="listFoundAllContacts">
-    <item quantity="other">%d намерени</item>
-    <item quantity="one">1 намерен</item>
-  </plurals>
-  <plurals name="listTotalAllContacts">
-    <item quantity="other">Показани %d контакта</item>
-    <item quantity="one">Показан 1 контакт</item>
-  </plurals>
-  <plurals name="listTotalPhoneContacts">
-    <item quantity="other">%d контакта с телефонни номера</item>
-    <item quantity="one">1 контакт с телефонен номер</item>
-  </plurals>
-  <plurals name="merge_info">
-    <item quantity="other">Обединен от %0$d източника</item>
-    <item quantity="one">необединен</item>
-  </plurals>
-  <plurals name="notification_voicemail_title">
-    <item quantity="other">%1$d гласови съобщения</item>
-    <item quantity="one">гласово съобщение</item>
-  </plurals>
-  <plurals name="num_contacts_in_group">
-    <item quantity="other">%1$d контакта от %2$s</item>
-    <item quantity="one">%1$d контакт от %2$s</item>
-  </plurals>
-  <plurals name="num_groups_in_account">
-    <item quantity="other">%d групи</item>
-    <item quantity="one">%d група</item>
-  </plurals>
-  <plurals name="number_of_items_available">
-    <item quantity="other">%1$d елемента остават</item>
-    <item quantity="one">%1$d елемент остава</item>
-  </plurals>
-  <plurals name="number_of_items_selected">
-    <item quantity="other">%1$d избрани</item>
-    <item quantity="one">%1$d избран</item>
-  </plurals>
-  <plurals name="numSelectedSimContacts">
-    <item quantity="other">%1$d избрани</item>
-    <item quantity="zero">%1$d избрани</item>
-    <item quantity="one">%1$d избран</item>
-  </plurals>
-  <plurals name="pick_favorites_contacts_list_title">
-    <item quantity="other">%1$d любими</item>
-    <item quantity="one">%1$d любим</item>
-  </plurals>
-  <plurals name="pick_favorites_list_title">
-    <item quantity="other">%1$d любими</item>
-    <item quantity="one">%1$d любим</item>
-  </plurals>
-  <plurals name="pick_recent_contacts_list_title">
-    <item quantity="other">%1$d последни контакти</item>
-    <item quantity="one">%1$d последен контакт</item>
-  </plurals>
-  <plurals name="pick_recent_list_title">
-    <item quantity="other">%1$d последни контакти</item>
-    <item quantity="one">%1$d последен контакт</item>
-  </plurals>
-  <plurals name="searchFoundContacts">
-    <item quantity="other">%d намерени</item>
-    <item quantity="one">1 намерен</item>
-  </plurals>
-  <plurals name="smart_group_member_count">
-    <item quantity="other">%1$d контакта</item>
-    <item quantity="one">%1$d контакт</item>
-  </plurals>
-  <plurals name="device_import_progress_toast_plurals">
-    <item quantity="other">Импортирани са %1$d контакта</item>
-    <item quantity="one">Импортиран е %1$d контакт</item>
-    </plurals>
-  <plurals name="foundTooManyContacts_plurals">
-    <item quantity="other">Намерени са повече от %d контакта.</item>
-    <item quantity="one">Намерени са повече от %d контакт.</item>
-  </plurals>
-    <plurals name="label_duplicate_count_plurals">
-    <item quantity="other">(%1$d)</item>
-    <item quantity="one">(%1$d)</item>
-  </plurals>
-	<plurals name="merge_contact_message_plurals">
-    <item quantity="other">%1$d контакта с частично идентична информация</item>
-    <item quantity="one">%1$d контакта с частично идентична информация</item>
-  </plurals>
-    <plurals name="select_all_exceed_plurals">
-    <item quantity="other">"Изберете не повече от %1$d, не може да се изберат всички"</item>
-    <item quantity="one">"Изберете не повече от %1$d, не може да се изберат всички"</item>
-  </plurals>
-  <plurals name="select_exceed_plurals">
-    <item quantity="other">Изберете не повече от %1$d</item>
-    <item quantity="one">Изберете не повече от %1$d</item>
-  </plurals>
-  	  <plurals name="a_hour_ago">
-    <item quantity="other">Преди 1 час</item>
-  </plurals>
-  <plurals name="abbrev_a_hour_ago">
-    <item quantity="other">Преди 1 час</item>
-  </plurals>
   <plurals name="abbrev_in_num_minutes">
-    <item quantity="other">след %d минути</item>
-    <item quantity="one">след 1 минута</item>
+    <item quantity="other">след %d мин.</item>
+    <item quantity="one">след 1 мин.</item>
   </plurals>
   <plurals name="abbrev_less_than_one_minute_ago">
     <item quantity="other">Сега</item>
   </plurals>
   <plurals name="abbrev_num_minutes_ago">
-    <item quantity="other">Преди %d минути</item>
-    <item quantity="one">Преди 1 минута</item>
+    <item quantity="other">Преди %d мин.</item>
+    <item quantity="one">Преди 1 мин.</item>
+  </plurals>
+  <plurals name="alert_message_delete">
+    <item quantity="other">Изтриване на %1$s елемента?</item>
+    <item quantity="one">Изтриване на %1$s елемент?</item>
+  </plurals>
+  <plurals name="cloud_state_unsynced_count">
+    <item quantity="other">%1$s не са синхронизирани</item>
+    <item quantity="one">%1$s не е синхронизирана</item>
+  </plurals>
+  <plurals name="date_calculate_days_after">
+    <item quantity="other">%1$d дни по-късно</item>
+    <item quantity="one">%1$d ден по-късно</item>
+  </plurals>
+  <plurals name="date_calculate_days_ago">
+    <item quantity="other">Преди %1$d дни</item>
+    <item quantity="one">Преди %1$d ден</item>
+  </plurals>
+  <plurals name="folder_terms">
+    <item quantity="other">%1$s папки</item>
+    <item quantity="one">%1$s папка</item>
+  </plurals>
+  <plurals name="format_move_notes_out_folder">
+    <item quantity="other">Премахнати са %1$s бележки от папаката</item>
+    <item quantity="one">Премахната е %1$s бележка от папаката</item>
+  </plurals>
+  <plurals name="format_move_notes_to_folder">
+    <item quantity="other">Преместени са %1$s бележки в %2$s</item>
+    <item quantity="one">Преместена е %1$s бележка в %2$s</item>
   </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Преди половин час</item>
@@ -205,24 +76,52 @@
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Сега</item>
   </plurals>
+  <plurals name="note_terms">
+    <item quantity="other">%1$s бележки</item>
+    <item quantity="one">%1$s бележка</item>
+  </plurals>
   <plurals name="num_minutes_ago">
     <item quantity="other">Преди %d минути</item>
     <item quantity="one">Преди 1 минута</item>
   </plurals>
-      <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d нови извстия</item>
-        <item quantity="one">%d ново известие</item>
-    </plurals>
-    <plurals name="n_attendees">
-        <item quantity="other">%d покани</item>
-        <item quantity="one">%d покана</item>
-    </plurals>
-    <plurals name="travel_time_range_hours">
-        <item quantity="other">%d ч.</item>
-        <item quantity="one">%d ч.</item>
-    </plurals>
-    <plurals name="travel_time_range_mins">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">%d мин.</item>
-    </plurals>
+  <plurals name="record_last_ten_seconds_reminder">
+    <item quantity="other">%d секунди остават</item>
+    <item quantity="one">%d секунда остава</item>
+  </plurals>
+  <plurals name="toast_notes_hidden_count">
+    <item quantity="other">Успешно са скрити %1$s бележки</item>
+    <item quantity="one">Успешно е скрита %1$s бележка</item>
+  </plurals>
+  <plurals name="toast_notes_unhidden_count">
+    <item quantity="other">Успешно са показани %1$s бележки</item>
+    <item quantity="one">Успешно е показана %1$s бележка</item>
+  </plurals>
+  <plurals name="todo_alert_message_delete">
+    <item quantity="other">Изтриване на %1$s задачи?</item>
+    <item quantity="one">Изтриване на %1$s задача?</item>
+  </plurals>
+  <plurals name="todo_event_description_days_ago">
+    <item quantity="other">Преди %1$d дни</item>
+    <item quantity="one">Преди %1$d ден</item>
+  </plurals>
+  <plurals name="todo_event_description_days_later">
+    <item quantity="other">След %1$d дни</item>
+    <item quantity="one">След %1$d ден</item>
+  </plurals>
+  <plurals name="todo_N_days_after">
+    <item quantity="other">След %1$d дни</item>
+    <item quantity="one">След %1$d ден</item>
+  </plurals>
+  <plurals name="todo_N_days_ago">
+    <item quantity="other">Преди %1$d дни</item>
+    <item quantity="one">Преди %1$d ден</item>
+  </plurals>
+  <plurals name="todo_terms">
+    <item quantity="other">%1$s бележки</item>
+    <item quantity="one">%1$s бележка</item>
+  </plurals>
+  <plurals name="word_count">
+    <item quantity="other">%d символа</item>
+    <item quantity="one">%d символ</item>
+  </plurals>
 </resources>
