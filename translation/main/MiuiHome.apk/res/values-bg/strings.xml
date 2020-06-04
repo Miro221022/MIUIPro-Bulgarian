@@ -556,7 +556,7 @@
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Без</string>
     <string name="perfect_icons_switch_summary">Показване на анимация за иконите на приложенията от трети страни</string>
-    <string name="perfect_icons_switch_title">Подобрени икони</string>
+    <string name="perfect_icons_switch_title">Анимирани икони</string>
 	<string name="accessibility_menu_item_smallwindow_disable">"Това приложение не поддържа плаващи прозорци"</string>
     <string name="accessibility_menu_item_smallwindow_enable">Това приложение поддържа плаващи прозорци</string>
 	<string name="all_apps_setting_classic_title">Класически</string>
