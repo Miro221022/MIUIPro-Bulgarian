@@ -88,4 +88,12 @@ d MMMM"</string>
 d/MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 d/MM"</string>
+    <string name="already_newest_version">Текущата версия е актуална</string>
+    <string name="cancel_download">Изтеглянето е анулирано</string>
+    <string name="download_failed">"Не може да се изтегли"</string>
+    <string name="install_failed">"Не може да се инсталира"</string>
+    <string name="no_cta_agreed">"GetApps няма CTA разрешения"</string>
+    <string name="no_install_permission">"Нямате разрешения за инсталиране на този елемент"</string>
+    <string name="task_already_exist">Тази задача вече съществува</string>
+    <string name="update">Актуализирай</string>
 </resources>

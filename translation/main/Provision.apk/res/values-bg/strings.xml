@@ -256,4 +256,10 @@
     <string name="move_data_dialog_cancel">Отказ</string>
     <string name="move_data_dialog_title">Можете да ограничите мобилната връзка за данни в настройките по-късно</string>
     <string name="move_data_dialog_use">Използвай</string>
+	    <string name="location_U">U+ GPSnWPS</string>
+    <string name="location_content">Съгласно закона мобилните оператори могат да получат информация за местоположението на мобилните устройства, за да се съобразят с изискванията на аварийните спасителни агенции (пожарните служби и полицията), които преследват целите на сигурността и спасяването при спешни случаи.</string>
+    <string name="location_location">Аварийните спасителни агенции могат да получат вашето текущо местоположение при поискване</string>
+    <string name="location_miui">За да можете да използвате MIUI, трябва да се съгласите с горните условия</string>
+    <string name="position_header">Споделяне на информация за местоположението</string>
+    <string name="position_subheading">Информация за местоположението</string>
 </resources>
