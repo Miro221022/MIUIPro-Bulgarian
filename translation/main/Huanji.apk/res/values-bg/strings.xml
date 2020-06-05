@@ -1004,7 +1004,7 @@
      <string name="permission_call_log_summary">За прехвърляне на историята на обажданията от старото устройство към новото</string>
      <string name="permission_call_log_title">Достъп до историята на обажданията</string>
      <string name="permission_contacts_summary">За прехвърляне на контакти от старото устройство към новото</string>
-     <string name="permission_contacts_title">Достъп до конталтите</string>
+     <string name="permission_contacts_title">Достъп до контактите</string>
      <string name="permission_locale_summary">За свързване към Wi-Fi мрежи в близост</string>
      <string name="permission_locale_title">Достъп до информация за местоположението</string>
      <string name="permission_message_summary">За прехвърляне на съобщения от старото устройство към новото</string>

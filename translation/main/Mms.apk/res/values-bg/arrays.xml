@@ -76,7 +76,7 @@
 	    <string-array name="message_sending_method">
         <item>Предлагана услуга за съобщения</item>
         <item>SMS, MMS</item>
-        <item>RCS чат, RCS файлов трансвер</item>
+        <item>RCS чат, RCS файлов трансфер</item>
     </string-array>
 	    <string-array name="rcs_ft_fallback">
         <item>Никога не питай и винаги изпращай като SMS връзка</item>
