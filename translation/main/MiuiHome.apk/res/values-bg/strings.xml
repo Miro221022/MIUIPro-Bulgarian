@@ -565,4 +565,10 @@
     <string name="common_home_search_delete_cancle">Отказ</string>
     <string name="common_home_search_delete_confirm">Изтрий</string>
     <string name="common_home_search_delete_content">"След като я изтриете, няма да можете да търсите елементи чрез лентата за търсене на началния екран. Да се изтрие ли въпреки това?"</string>
+	<string name="accessibility_all_app_custom_category_finish">Готово</string>
+    <string name="accessibility_all_app_custom_category_item_remove">Премахни \"%1$s\" ит категориите</string>
+    <string name="accessibility_clear_search_bar_text">Изчистване на лентата за търсене</string>
+    <string name="accessibility_enter_all_app_mode">Отворете чекмеджето за приложения</string>
+    <string name="accessibility_enter_all_app_settings">Отворете настройките на чекмеджето за приложения</string>
+    <string name="back">Назад</string>
 </resources>

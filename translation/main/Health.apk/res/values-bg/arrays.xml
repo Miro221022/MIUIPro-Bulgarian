@@ -91,4 +91,22 @@
         <item>"Xiaomi Здраве научава дали сте ставали въз основа на това как сте използвали устройството си. Ако не се установи движение в рамките на един час, ще ви бъде напомнено да изправите или добавите записа ръчно."</item>
         <item>Тази функция ще проследява вашето движение и ще ви изпраща напомняния.</item>
     </string-array>
+	    <string-array name="contact_relation_array">
+        <item>Не е зададено</item>
+        <item>Родител</item>
+        <item>Сетра</item>
+        <item>Брат</item>
+        <item>Съпруг</item>
+        <item>Партньор</item>
+        <item>Приятел</item>
+        <item>Колега</item>
+        <item>Съученик</item>
+    </string-array>
+	    <array name="normal_blood_array">
+        <item>Не е зададено</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>АБ</item>
+        <item>0</item>
+    </array>
 </resources>

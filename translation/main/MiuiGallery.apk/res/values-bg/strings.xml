@@ -302,7 +302,7 @@
   <string name="cityname_2">Бриз</string>
   <string name="cleaner_empty_value_description">Всичко изглежда добре</string>
   <string name="cleaner_photo_pick_delete_selected">Изтрий избраните снимки</string>
-  <string name="cleaner_raw_action">Преглед</string>
+  <string name="cleaner_raw_action">Преглед на подробности</string>
   <string name="cleaner_raw_description">Освободете място за съхранение чрез изтриване на големи необработени изображения</string>
   <string name="cleaner_raw_title">Изчистване на необработени файлове</string>
   <string name="cleaner_scan_description">Оптимизирането на елементи освобождава място за съхранение във вашето устройство</string>
@@ -316,7 +316,7 @@
   <string name="cleaner_screen_shot_action">Преглед</string>
   <string name="cleaner_screen_shot_description">Изтрийте екранните снимки, които вече не са ви нужни.</string>
   <string name="cleaner_screen_shot_title">Изтриване на екранни снимки</string>
-  <string name="cleaner_similar_action">Преглед</string>
+  <string name="cleaner_similar_action">Преглед на подробности</string>
   <string name="cleaner_similar_description">Изтриване на дублирани снимки</string>
   <string name="cleaner_similar_title">Дублирани снимки</string>
   <string name="cleaner_slim_action">Стартиране на оптимизация…</string>
@@ -326,7 +326,7 @@
   <string name="cleaner_space_description">може да се освободи</string>
   <string name="cleaner_space_detail_description">Почистете снимки в Галерия, за да освободите място за съхранение</string>
   <string name="cleaner_stop_scan">Спри сканирането</string>
-  <string name="cleaner_video_action">Преглед</string>
+  <string name="cleaner_video_action">Преглед на подробности</string>
   <string name="cleaner_video_description">Изтриване на видеоклипове, които заемат място</string>
   <string name="cleaner_video_pick_delete_selected">Изтриване на избраните видеоклипове</string>
   <string name="cleaner_video_title">Изтриване на видеоклипове</string>
@@ -717,7 +717,7 @@
   <string name="functions_are_being_developed">Тази функция ще бъде налична скоро. Останете на линия!</string>
   <string name="gallery_setting">Настройки</string>
   <string name="gallery_sync_disable_toast">Синхронизацията на Галерия е изключена</string>
-  <string name="generate_story_summary">MIUI ще анализира вашите снимки и ще създаде албуми със спомени. Изключете тази функция, за да спрете създаването на албуми със спомени.</string>
+  <string name="generate_story_summary">Направете достатъчно снимки, свържете зарядно и изключете екрана, за да се появят спомени</string>
   <string name="generate_story_title">Спомени</string>
   <string name="get_album_info_in_process">Получаване на информация за споделен албум…</string>
   <string name="gif_tip">GIF</string>
@@ -1088,7 +1088,7 @@
   <string name="photo_editor_talkback_recently">Последно използвани</string>
   <string name="photo_editor_talkback_redo">Редакция</string>
   <string name="photo_editor_talkback_undo">Отмяна</string>
-  <string name="photo_editor_text">Текст</string>
+  <string name="photo_editor_text">Воден знак</string>
   <string name="photo_font_cancel_download">Отказ</string>
   <string name="photo_font_download">Изтегляне</string>
   <string name="photo_font_download_failed_for_notwork">Не може да се изтегли. Свържете се с мрежата и опитайте отново.</string>
@@ -1445,8 +1445,8 @@
   <string name="text_edit_dialog_style_shadow">Сянка</string>
   <string name="text_edit_dialog_style_transparent">Прозрачност</string>
   <string name="text_edit_sub_menu_text">Балон</string>
-  <string name="text_tab_bubble">Балончета</string>
-  <string name="text_tab_watermark">Водни знаци</string>
+  <string name="text_tab_bubble">Балонче</string>
+  <string name="text_tab_watermark">Текст</string>
   <string name="things_album_empty_title">Снимките могат да бъдат сортирани по обекти в тях</string>
   <string name="throwing_print">Отпечатване</string>
   <string name="throwing_screen">Споделяне</string>
@@ -2016,4 +2016,18 @@
     <string name="vlog_improt_encode_video_error">Възникна грешка в кодирането. Опитайте отново.</string>
     <string name="vlog_photo_edit_not_support">"Не можете да редактирате изображения"</string>
     <string name="vlog_video_trans_code_cons">Обработка на файл с висока разделителна способност…</string>
+	<string name="filter_general_blackice">Черен лед</string>
+  <string name="filter_general_greenorange">Лайм</string>
+  <string name="filter_general_movie">Филм</string>
+  <string name="filter_movie_portrait">Цветен фокус</string>
+    <string name="online_video_normal_transcoding">Този видеоклип се прекодира в момента. Изчакайте минута или две и опитайте отново.</string>
+    <string name="online_video_vip_tip">Станете VIP член, за да предавате видеоклипове, без предварително зареждане</string>
+    <string name="online_video_vip_transcoding">"Предстои да започне VIP излъчване…
+Прекодирането може да отнеме известно време, когато използвате тази функция за първи път."</string>
+    <string name="operate_with_metered_network_msg">Вашето устройство е свързано с платена мрежа. Продължаване?</string>
+  <string name="sticker_graduation">Абитуриентски</string>
+    <string name="text_tab_city">Град</string>
+    <string name="text_tab_festival">Празник</string>
+    <string name="text_tab_scene">Сцена</string>
+    <string name="text_tab_spot">Декор</string>
 </resources>
