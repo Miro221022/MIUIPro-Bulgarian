@@ -542,4 +542,5 @@
     <string name="search_menu_title">Търсене</string>
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+	<string name="info_rank_show">热榜推荐</string>
 </resources>

@@ -1258,7 +1258,12 @@
 	<string name="pref_camera_heic_image_format_description2">"Форматът на изображението с висока ефективност спестява място за съхранение, но не се поддържа от някои приложения от трети страни. Не можете да правите снимки на живо и да премахвате водни знаци в HEIF."</string>
 	<string name="accessibility_8k_off">AI 8K е изключено</string>
     <string name="accessibility_8k_on">AI 8K е включено</string>
-	    <string name="ambilight_tips_for_longtime_using_tripod">Използвайте статив, за да заснемете по-дълга експозиция</string>
+	<string name="ambilight_tips_for_longtime_using_tripod">Използвайте статив, за да заснемете по-дълга експозиция</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Използвайте статив</string>
 	<string name="super_macro_mode">Супер макро</string>
+	<string name="timer_burst">Timer burst</string>
+    <string name="timer_burst_manu_param_interval">Интервал от време (не съдържа времето на експозицията)</string>
+    <string name="timer_burst_param_interval">Времеви интервал</string>
+    <string name="timer_burst_param_total_count">Общ брой на заснетото</string>
+    <string name="timer_burst_setting_total_count">Количетсво:%1$s</string>
 </resources>

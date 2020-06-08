@@ -422,7 +422,7 @@
   <string name="backsound_set_hint">Да се настрои ли звука за %s?</string>
   <string name="banner_optimizemanage_summary">Освободете памет</string>
   <string name="banner_red_money_assist_button">Включи</string>
-  <string name="battery_and_property">Батерия и производителност</string>
+  <string name="battery_and_property">Батерия</string>
   <string name="battery_can_use_time">%s остава</string>
   <string name="battery_capacity_title">Капацитет</string>
   <string name="battery_charge_estimating">Изчисляване</string>
@@ -1098,7 +1098,7 @@
   <string name="game_else_function">Друго</string>
   <string name="game_manual_record_setting_king">王者荣耀</string>
   <string name="game_manual_record_setting_peace">和平精英</string>
-  <string name="game_manual_record_setting_setting">Относно тази функция</string>
+  <string name="game_manual_record_setting_setting">Настройки</string>
   <string name="game_manual_record_setting_title">Ключови моменти</string>
   <string name="game_more_improve">Ограничете процесите на заден фон и скоростта за сваляне за да пестите батерия и да подобрите функционалността при игрите</string>
   <string name="game_setting">Настройки за игри</string>
@@ -1201,11 +1201,11 @@
   <string name="gb_first_window_summary">Увеличаване на скоростта и производителността на системно ниво</string>
   <string name="gb_first_window_title">Game Turbo</string>
   <string name="gb_game_end_toast">Прегледайте ключовите моменти от вашите игри</string>
-  <string name="gb_game_video_bottom_tips">Гледайте записи на вашите сесии в игрите. Видеоклиповете се съхраняват там стандартно по 7 дни.</string>
+  <string name="gb_game_video_bottom_tips">Прегледайте ключовите моменти от игралните си сесии в Game Turbo. Видеоклиповете ще бъдат изтрити автоматично след 7 дни</string>
   <string name="gb_game_video_item_tag">Ключов момент</string>
   <string name="gb_game_video_page_delete_success">Изтрити успешно</string>
   <string name="gb_game_video_page_null">Запишете ключовите моменти от своите игрови сесии</string>
-  <string name="gb_game_video_record_finish_tips">Успешно записано видео</string>
+  <string name="gb_game_video_record_finish_tips">Запазени е ръчно записано видео в Game Turbo</string>
   <string name="gb_game_video_save">Запази</string>
   <string name="gb_game_video_type_ai">AI</string>
   <string name="gb_game_video_type_manual">Ръчно</string>
@@ -1247,7 +1247,7 @@
   <string name="gb_wonderful_video_checkall">Избери всички</string>
   <string name="gb_wonderful_video_delete">Изтрий</string>
   <string name="gb_wonderful_video_header_title">Днес</string>
-  <string name="gb_wonderful_video_save_suc">Запазено успешно</string>
+  <string name="gb_wonderful_video_save_suc">Запазено</string>
   <string name="gdpr_msg">" "<Data>"За да използвате основните функции на Сигурност, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни, включително информация за начините, по които използвате функциите на Сигурност (например, статистика за използване на мобилни данни, информация за злонамерен софтуер, както и основна информация за вашето устройство) и други видове информация, посочени в нашата &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Политика за поверителност&lt;/a&gt;."</Data>" "</string>
   <string name="get_sys_info">Заявка за информация…</string>
   <string name="gigabyteShort">ГБ</string>
@@ -1273,12 +1273,11 @@
   <string name="gs_dialog_confirm_close_title">Изключи</string>
   <string name="gs_forbid_autosync">Ограничаване на синхронизацията на заден план</string>
   <string name="gs_game_ai_record">Зпис чрез AI</string>
-  <string name="gs_game_ai_record_subtitle">Можете да започнете да записвате в кутията с инструменти, докато играете. Видеоклиповете с ключови моменти ще бъдат генерирани автоматично и изтрити след 7 дни по подразбиране. Можете също така да изберете да запазите видеоклиповете за постоянно.</string>
+  <string name="gs_game_ai_record_subtitle">Записвайте ключовите моменти автоматично и генерирайте видеоклипове с акценти от сесията. Видеоклиповете ще бъдат изтрити автоматично след 7 дни. Можете да изберете да ги запазите за постоянно след всяка игрална сесия.</string>
   <string name="gs_game_disturb_msg">Тих режим</string>
   <string name="gs_game_duration">Време</string>
   <string name="gs_game_manual_record">Ръчен запис</string>
-  <string name="gs_game_manual_record_subtitle">"Можете да започнете да записвате в кутията с инструменти, докато играете. След докосване на бутона \"Запис\" може да се запише до 30 секунди видео.
-Видеоклиповете ще бъдат запазени в Game Turbo > Ключови моменти."</string>
+  <string name="gs_game_manual_record_subtitle">Използвайте плаващия пряк път, за да запишете до 30 секунди видеоклип. Видеоклиповете ще бъдат изтрити автоматично след 7 дни.</string>
   <string name="gs_game_manual_record_subtitle_child">Може да срещнете някои проблеми, докато използвате тази функция:</string>
   <string name="gs_game_manual_record_subtitle_child_carton">Записването на вашите игрални сесии изисква по-голяма консумация на енергия, което може да доведе до забавяне.</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Други функции за запис на екрана може да не работят правилно.</string>
@@ -1586,7 +1585,7 @@
   <string name="menu_text_networkassistants_unit_kb">КБ</string>
   <string name="menu_text_networkassistants_unit_mb">МБ</string>
   <string name="menu_text_optimize_manage">Ускорение</string>
-  <string name="menu_text_power_manager">Батерия и производителност</string>
+  <string name="menu_text_power_manager">Батерия</string>
   <string name="menu_text_power_percent_title">%s</string>
   <string name="menu_wh_remove">Премахни от изключения</string>
   <string name="menu_white">С изключение</string>
@@ -1821,7 +1820,7 @@
   <string name="pc_search_keywords_battery_use">Използване на батерията</string>
   <string name="pc_search_keywords_capacity">Капацитет на батерията</string>
   <string name="pc_search_keywords_property">Производителност</string>
-  <string name="pc_settings_title">Настройки за батерия и производителност</string>
+  <string name="pc_settings_title">Батерия</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$dч %2$dмин. остават</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$dч %2$dмин. от последното зареждане</string>
   <string name="pc_statistics_battery_use_summary">%s от последното зареждане</string>
@@ -1943,7 +1942,7 @@
   <string name="power_center_super_save_title_text">Свръх пестене на батерия</string>
   <string name="power_center_time_to_boot">Час за включване</string>
   <string name="power_center_time_to_shutdown">Час за изключване</string>
-  <string name="power_center_title">Батерия и производителност</string>
+  <string name="power_center_title">Батерия</string>
   <string name="power_consume_hardware_total_format">Устройство: %s</string>
   <string name="power_consume_other">Други</string>
   <string name="power_consume_rank_hardware">Устройство</string>
@@ -3408,26 +3407,23 @@
 	<string name="app_behavior_start_from_widget">%1s беше стартирано от приспособление</string>
     <string name="app_behavior_start_from_widget_single">Това приложение беше стартирано от приспособление</string>
 	<string name="gb_game_video_ai_record_finish_tips">AI录制%d个视频，已保存至游戏加速</string>
-    <string name="gb_game_video_type_ai_record">AI录制</string>
-    <string name="gb_game_video_type_manual_record">手动录制</string>
-    <string name="gb_wonderful_moment_toast_window_new_pop">开启智能/手动录制，保存精彩瞬间</string>
-    <string name="gb_wonderful_video_goto_box">前往游戏加速查看</string>
-	<string name="gb_dialog_game_uninstall_deleting">正在删除</string>
-    <string name="gb_dialog_game_uninstall_loading">游戏应用加载中</string>
+    <string name="gb_game_video_type_ai_record">Запис чрез AI</string>
+    <string name="gb_game_video_type_manual_record">Ръчен запис</string>
+<string name="gb_wonderful_moment_toast_window_new_pop">"Записвайте ключови моменти
+от сесиите ви в игрите"</string>
+    <string name="gb_wonderful_video_goto_box">Отовори Game Turbo</string>
+	<string name="gb_dialog_game_uninstall_deleting">Деинсталиране…</string>
     <string name="gb_dialog_game_uninstall_multi_tips_title">卸载\"%1$s\"等%2$d款游戏</string>
-    <string name="gb_dialog_game_uninstall_tips_message">卸载后其所有数据也将被删除</string>
-    <string name="gb_dialog_game_uninstall_tips_message_xspace">将同时卸载关联的双开游戏,游戏内数据将会被删除</string>
-    <string name="gb_dialog_game_uninstall_tips_title">卸载“%s”</string>
-    <string name="gb_storage_game_uninstall">游戏卸载</string>
-    <string name="gb_storage_summary">将游戏应用收纳至游戏盒子，桌面将不再显示游戏图标</string>
-    <string name="gb_storage_title">收纳桌面游戏图标</string>
+    <string name="gb_storage_game_uninstall">Деаинсталиране на игри</string>
+    <string name="gb_storage_summary">"Не показвай игрите, които са добавени в кутията за игри на началния екран"</string>
+    <string name="gb_storage_title">Премахване на добавените игри от началния екран</string>
 	<string name="size_byte">Б</string>
     <string name="size_giga_byte">ГБ</string>
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
 	<string name="size_tera_byte">ТБ</string>
-	    <string name="gtb_dialog_btn_close">Изключи</string>
+	<string name="gtb_dialog_btn_close">Изключи</string>
     <string name="gtb_dialog_btn_open">Включи</string>
     <string name="gtb_dialog_hint_smart_5g">Можете да включите и изключите тази функция в Game Turbo > Настройки.</string>
     <string name="gtb_dialog_summary_smart_5g">Всеки път, когато Game Turbo открие 5G мрежа, той може да свърже вашето устройство с най-добрата налична мрежа, за да намали закъснението в мрежата. Да се включи ли тази функция сега?</string>
@@ -3435,4 +3431,22 @@
     <string name="gtb_setting_item_summary_smart_5g">Всеки път, когато Game Turbo открие 5G мрежа, той може да свърже вашето устройство с най-добрата налична мрежа, за да намали закъснението в мрежата</string>
     <string name="gtb_setting_item_title_smart_5g">5G оптимизация на мрежата</string>
 	<string name="card_main_hwtest_title">Тест на хардуера</string>
+	<string name="intl_app_manager_card_permission_title">Поверителност и разрешения</string>
+    <string name="intl_perm_privacy_control_calendar">"Приложението има достъп или редактиране на елементи от календара само докато го използвате"</string>
+    <string name="intl_perm_privacy_control_calllog">"Приложението има достъп или редактиране на историята на обажданията само докато го използвате"</string>
+    <string name="intl_perm_privacy_control_camera">"Приложението може да прави снимки или да записва видео само докато го използвате"</string>
+    <string name="intl_perm_privacy_control_contact">"Приложението има достъп или редактиране на контакти само докато го използвате"</string>
+    <string name="intl_perm_privacy_control_data">Контрол на поверителността</string>
+    <string name="intl_perm_privacy_control_message">Контролирайте какви лични данни могат да използват приложенията</string>
+    <string name="intl_perm_privacy_control_microphone">"Приложението може да записва звук само докато го използвате"</string>
+    <string name="intl_perm_privacy_control_notification_message">Контролирайте какви лични данни могат да използват приложенията</string>
+    <string name="intl_perm_privacy_control_notification_title">Защитете поверителността си</string>
+    <string name="intl_perm_privacy_control_storage">"Приложението има достъп или редактиране на елементи от вътрешното хранилище само докато го използвате"</string>
+    <string name="intl_perm_privacy_control_title">Контролирайте поверителността</string>
+    <string name="warningcenter_disaster_search_keywords">Сигнали за времето</string>
+    <string name="warningcenter_mijia_search_keywords">Mi Home сигнали</string>
+    <string name="gb_dialog_game_uninstall_loading">Зареждане на игрите…</string>
+    <string name="gb_dialog_game_uninstall_tips_message">Всички данни от приложението ще бъдат изтрити.</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">Всички данни за приложенията и свързаните с тях клонирани приложения ще бъдат изтрити.</string>
+    <string name="gb_dialog_game_uninstall_tips_title">Деинсталирай %s</string>
 </resources>

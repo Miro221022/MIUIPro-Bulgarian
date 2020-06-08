@@ -3629,9 +3629,9 @@ Xiaomi Облак
      <string name="miui_sos_contacts_category">Спешни контакти</string>
      <string name="miui_sos_emergency_contacts">Спешни контакти</string>
      <string name="miui_sos_emergency_delete">Изтрий</string>
-     <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) вече е приет.</string>
-     <string name="miui_sos_emergency_delivered_sms_noname">%1s вече е приет</string>
-     <string name="miui_sos_emergency_failed_sms" formatted="false">Не може да се изпрати съобщение до %1s (%2s).</string>
+     <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) получи съобщението</string>
+     <string name="miui_sos_emergency_delivered_sms_noname">%1$s получи съобщението</string>
+     <string name="miui_sos_emergency_failed_sms">"Не може да се изпрати съобщение до %1$s (%2$s)"</string>
      <string name="miui_sos_emergency_failed_sms_noname">Не може да се изпрати съобщение до %1s.</string>
      <string name="miui_sos_enable_switch_summary">Натиснете бързо бутона за захранване 5 пъти, за да изпратите текстово съобщение за спешни случаи с местоположението си до вашите контакти за спешни случаи</string>
      <string name="miui_sos_enable_switch_title">Спешни съобщения</string>
@@ -7609,4 +7609,5 @@ UT интерфейс: %5$s"</string>
 ·Докоснете \"Плаващ прозорци\" в Последни, за да изберете приложения."</string>
     <string name="face_data_introduction_msg">Данните за лице могат да се използват за отключване на устройството ви или за проверка на самоличността ви. Добавете парола за заключен екран, преди да добавите личните си данни.</string>
 	<string name="error_apn_restrict_string">Полето APN не може да съдържа %1$s</string>
+	<string name="error_apn_not_allowed">"Това точка за достъп не е разрешена на това устройство. Опитайте с друга."</string>
 </resources>

@@ -126,4 +126,6 @@ Note that this app needs to connect to the internet and requires the following p
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="vendor_permission_allow_content_policy1">User Agreement</string>
+	<string name="pause_recognize_content_description">Stopped transcribing audio. Double tap to start again.</string>
+    <string name="start_recognize_content_description">Transcribing audio now. Double tap to stop.</string>
 </resources>

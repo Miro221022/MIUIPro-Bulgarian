@@ -1950,4 +1950,7 @@
 	<string name="fiveg_network_title">5G мрежи</string>
     <string name="switch_off">Изключи</string>
     <string name="switch_on">Включи</string>
+	<string name="smart_dual_sim_prompt">Вашето устройство ще се свърже с мобилна мрежа за данни чрез втората SIM, когато текущата връзка е лоша. Това може да генерира допълнителни такси. Свържете се с вашият оператор за подробности относно плана ви за данни.</string>
+    <string name="smart_dual_sim_summary">Превключете към втората SIM карта и използвайте автоматично мобилните й данни, когато текущата връзка е лоша. Когато връзката се подобри, превключете обратно към основната SIM карта</string>
+    <string name="smart_dual_sim_title">Интелигентен двусимов режим</string>
 </resources>

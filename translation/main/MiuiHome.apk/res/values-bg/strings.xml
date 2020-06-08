@@ -504,7 +504,7 @@
     <string name="recents_title_garbage_deepclean">Дълбоко почистване</string>
     <string name="recents_title_market">Търсене</string>
     <string name="recents_title_security_scan">Антивирус</string>
-    <string name="status_bar_recent_memory_info1">%1$sБ от %2$sБ налични</string>
+    <string name="status_bar_recent_memory_info1">%1$s от %2$s налично</string>
 	<string name="recents_forbid_dock_when_screening_toast_text">"Не може да се използва разделен екран по време на излъчване"</string>
     <string name="recents_task_screening">Споделяне</string>
     <string name="task_access_locked_app_msg">Включено заключване на приложения</string>	
@@ -571,4 +571,9 @@
     <string name="accessibility_enter_all_app_mode">Отворете чекмеджето за приложения</string>
     <string name="accessibility_enter_all_app_settings">Отворете настройките на чекмеджето за приложения</string>
     <string name="back">Назад</string>
+	<string name="all_app_category_personal">Лични</string>
+    <string name="all_app_category_work">Работа</string>
+    <string name="work_mode_off_label">Известията и приложенията са изключени</string>
+    <string name="work_mode_on_label">Управлявани от вашата организация</string>
+    <string name="work_profile_toggle_label">Работен профил</string>
 </resources>
