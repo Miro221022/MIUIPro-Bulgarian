@@ -476,4 +476,5 @@
   <string name="widget_content_loading">Зарежда се…</string>
   <string name="widget_havenot_content">Няма бележки, натиснете тук за създаване.</string>
   <string name="yesterday">Вчера</string>
+  <string name="trash_folder_reminder_new">Бележките се съхраняват в кошчето 30 дни, преди да бъдат изтрити за постоянно</string>
 </resources>
