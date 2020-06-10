@@ -102,10 +102,11 @@
   <string name="common_downloading">Изтегляне…</string>
   <string name="common_format_date_no_year">dd/MM</string>
   <string name="common_skip">Пропускане</string>
-  <string name="community_cta_dialog_cancel">Отказ</string>
-  <string name="community_cta_dialog_des">Тази тема съдържа пряк път за часовника, който показва идентификационния номер на вашия акаунт и състоянието на Mi Community. Можете да изключите тази функция, като превключите към друга тема или премахнете джаджата за часовник.</string>
-  <string name="community_cta_dialog_ok">Разбрах</string>
-  <string name="community_cta_dialog_title">Пряк път на часовника</string>
+  <string name="community_cta_dialog_cancel">Не благодаря</string>
+  <string name="community_cta_dialog_des">"Темите от трети страни вече поддържат приспособление за Mi Community . То работи като пряк път, който ви отвежда до подфорума Теми на Mi Community. Можете да изключите тази функция в Настройки.
+Разрешете на Теми да имат достъп до вашите идентификационни номера на Mi профила и състоянието на Mi Community, свързани с профила, за да можете да ги преглеждате тук. Можете също да включите и изключите известията от Mi Community в Настройки."</string>
+  <string name="community_cta_dialog_ok">Разреши</string>
+  <string name="community_cta_dialog_title">Необходими са разрешения</string>
   <string name="component_backup_preference_title">Архивиране на темата</string>
   <string name="component_category_finest_title">ОСНОВНИ</string>
   <string name="component_category_more_title">ДОПЪЛНИТЕЛНИ</string>
@@ -560,7 +561,7 @@
   <string name="resource_detail_window_title">Информация: %1$s</string>
   <string name="resource_download">Изтегляне</string>
   <string name="resource_download_notification_title_many">Изтеглени са %1$s теми</string>
-  <string name="resource_download_notification_title_one">Темата е изтеглена</string>
+  <string name="resource_download_notification_title_one">Изтеглени %1$s успешно</string>
   <string name="resource_download_trial">Опитай</string>
   <string name="resource_downloaded_title">Изтеглени ресурси</string>
   <string name="resource_downloading">Изтегляне</string>
@@ -576,7 +577,7 @@
   <string name="resource_exchange_share_code_content">Получихте подаръчен код (%2$s) за темата %1$s от магазина за теми на MIUI. Натиснете %3$s за да го използвате сега.</string>
   <string name="resource_exchange_share_code_dlg_content">Подаръчен код за %1$s: %2$s. Когато го изпратите на друг потребител, той може да го използва за изтегляне на тази MIUI тема</string>
   <string name="resource_exchange_share_code_dlg_title">Изпращане на код</string>
-  <string name="resource_exchange_success">Закупено успешно</string>
+  <string name="resource_exchange_success">Осребрено успешно</string>
   <string name="resource_exchange_unavailable">Въведеният код не е валиден за тази тема</string>
   <string name="resource_exchange_universal_finish">Използвайте този код за изтегляне на теми от магазина на Miui.</string>
   <string name="resource_exchange_universal_goon">Този код може да бъде използван за изтегляне на тема по избор от магазина на MIUI.</string>
@@ -739,7 +740,7 @@
   <string name="show_mamual_hide_miwallpaper">Показване на скрити ефекти за началния екран</string>
   <string name="show_mamual_hide_theme">Показване на скритите теми</string>
   <string name="show_mamual_hide_wallpaper">Показване на скритите тапети</string>
-  <string name="super_wallpaper">Супер тапет</string>
+  <string name="super_wallpaper">Супер тапети</string>
   <string name="support_theme_store_des">Добрите теми винаги се създават от талантливи дизайнери. Приложението ни съдържа малко количество реклами, които ни позволяват да подкрепим тяхната работа.</string>
   <string name="support_theme_store_supported">Благодарим за подкрепата!</string>
   <string name="support_theme_store_title">Подкрепете нашите дизайнери</string>
@@ -851,7 +852,7 @@
   <string name="theme_user_agreement_remind_never">Не показвай отново</string>
   <string name="theme_user_agreement_remind_summary">Показване на изскачащ прозорец с условията на ползване при всяко отваряне на приложението Теми. Тази настройка ще влезе в сила след рестартиране на устройството.</string>
   <string name="theme_user_agreement_title">Декларация</string>
-  <string name="theme_wallpaper">Категория тапети</string>
+  <string name="theme_wallpaper">Категории на тапетите</string>
   <string name="theme_yes">Да</string>
   <string name="third_party_pickers_activity_title">Добави %1$s</string>
   <string name="time_picker_dialog_title">Задайте време</string>
@@ -999,4 +1000,30 @@
   <string name="xiaomi_update_sdk_external_storage_unavailable">Хранилището не е налице, моля, проверете SD картата.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКБ</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
+     <string name="ad_details">Подробности</string>
+     <string name="ad_download_now">Изтегли</string>
+     <string name="ad_experience_now">Отвори</string>
+     <string name="community_community_message_trigger_summary">Получавайте известия за отговори, харесвания и актуализации на състоянието в Mi Community, използвайки вашия идентификационен номер на Mi профила</string>
+     <string name="community_community_message_trigger_title">Известяване за дейността</string>
+     <string name="community_entrance_summary">Намерете свързано с теми съдържание в Mi Community. Тази функция се поддържа от избрани теми.</string>
+     <string name="community_entrance_title">Mi Community приспособление за часовник</string>
+     <string name="community_message_trigger_disabled">Изключено</string>
+     <string name="community_message_trigger_triggered">Включено</string>
+     <string name="forbid_transparent_wallpaper_by_second_space">Първо задайте прозрачен тапет в Първо пространство.</string>
+     <string name="forbid_video_wallpaper_by_second_space">Първо задайте динамичен тапет в Първо пространство.</string>
+     <string name="i_know">Разбрах</string>
+     <string name="miui_clock_city_name_local">Локално</string>
+     <string name="miui_clock_city_name_second">Втори часовник</string>
+     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+     <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+     <string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+     <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+     <string name="miui_lock_screen_large_date">"EEE
+M/dd"</string>
+     <string name="miui_lock_screen_large_date_12">"EEE
+M/dd"</string>
+     <string name="theme_designer_products">Дизайнерски теми</string>
+     <string name="use_hint">Внимание</string>
 </resources>

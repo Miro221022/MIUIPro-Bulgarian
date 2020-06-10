@@ -117,8 +117,8 @@
     <item quantity="one">Преди %1$d ден</item>
   </plurals>
   <plurals name="todo_terms">
-    <item quantity="other">%1$s бележки</item>
-    <item quantity="one">%1$s бележка</item>
+    <item quantity="other">%1$s задачи</item>
+    <item quantity="one">%1$s задача</item>
   </plurals>
   <plurals name="word_count">
     <item quantity="other">%d символа</item>

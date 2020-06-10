@@ -148,4 +148,8 @@
     <item quantity="other">%1$s | %2$d изображения</item>
     <item quantity="one">%1$s | %2$d изображение</item>
   </plurals>
+       <plurals name="resource_download_notification_title_many">
+         <item quantity="one">Изтеглен е %1$d елемент успешно</item>
+         <item quantity="other">Изтеглени са %1$d елемента успешно</item>
+     </plurals>
 </resources>
