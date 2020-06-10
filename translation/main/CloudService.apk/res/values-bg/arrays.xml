@@ -114,10 +114,10 @@
         <item>Облак;Архивиране;Архивиране;Възстановяване;Облачни услуги;Xiaomi Облак</item>
      </string-array>
      <string-array name="settings_search_security">
-        <item>Синхронизиране на Сигурност с Xiaomi Облак</item>
-        <item>Включване на синхронизация</item>
-        <item>Сигурност;Облак;Синхронизиране;Облачни услуги;Xiaomi Облак</item>
-     </string-array>
+        <item>Безопасно облачно синхронизиране</item>
+        <item>Включи синхронизацията</item>
+        <item>Сигурност;Облак;Синхронизация;Облачни услуги;Xiaomi Облак</item>
+    </string-array>
      <string-array name="settings_search_sms">
         <item>Синхронизиране на съобщения с Xiaomi Облак</item>
         <item>Включване/настройка на синхронизация</item>
@@ -152,5 +152,10 @@
         <item>Синхронизирайте WLAN настройките с Xiaomi Облак</item>
         <item>Включете синхронизирането</item>
         <item>WLAN;wifi;Wi-Fi;Облак;Синхонизация;Облачни услуги;Xiaomi Облак</item>
+    </string-array>
+	    <string-array name="settings_search_phrase">
+        <item>Синхронизиране на бързи отговори</item>
+        <item>Включи синхронизирането</item>
+        <item>Бързи отговори;Буферна памет;Редактор;Облак;Синхронизация;Облачни услуги</item>
     </string-array>
 </resources>
