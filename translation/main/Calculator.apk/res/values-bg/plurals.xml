@@ -76,4 +76,9 @@
         <item quantity="other">Избрани са %d елемента</item>
         <item quantity="one">Избран е %d елемент</item>
     </plurals>
+	     <plurals name="tenure_years">
+         <item quantity="other">%d години</item>
+         <item quantity="one">%d година</item>
+     </plurals>
+
 </resources>
