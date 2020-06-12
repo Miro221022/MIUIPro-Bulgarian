@@ -573,7 +573,7 @@
     <string name="back">Назад</string>
 	<string name="all_app_category_personal">Лични</string>
     <string name="all_app_category_work">Работа</string>
-    <string name="work_mode_off_label">Известията и приложенията са изключени</string>
+    <string name="work_mode_off_label">"Известията са изключени и приложенията вече не са достъпни"</string>
     <string name="work_mode_on_label">Управлявани от вашата организация</string>
     <string name="work_profile_toggle_label">Работен профил</string>
 </resources>
