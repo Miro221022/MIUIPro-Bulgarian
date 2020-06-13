@@ -104,9 +104,24 @@
     </string-array>
 	    <array name="normal_blood_array">
         <item>Не е зададено</item>
-        <item>А</item>
-        <item>Б</item>
-        <item>АБ</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
         <item>0</item>
     </array>
+	    <string-array name="gender_array">
+        <item>Не е зададено</item>
+        <item>Мъж</item>
+        <item>Жена</item>
+    </string-array>
+	    <string-array name="rh_blood_array">
+        <item>Не е зададено</item>
+        <item>Отрицателен</item>
+        <item>Положителен</item>
+    </string-array>
+	    <string-array name="yes_no_array">
+        <item>Не е зададено</item>
+        <item>Да</item>
+        <item>Не</item>
+    </string-array>
 </resources>

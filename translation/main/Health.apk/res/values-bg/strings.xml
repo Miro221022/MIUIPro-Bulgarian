@@ -313,12 +313,6 @@
   <string name="finish">Готово</string>
   <string name="finish_stand">Да</string>
   <string name="finished_rate">Завършено %1$d%%</string>
-  <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">d-M</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-  <string name="fmt_date_short_month_day">d MMM</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="fmt_time_12hour">hh</string>
   <string name="fmt_time_24hour">H</string>
   <string name="for_diagnosis_usage_only">Използвайте тази информация само за диагностика.</string>
@@ -1186,4 +1180,11 @@
 	 <string name="sleep_notice">Известия за сън</string>
 	 <string name="sleep_report_notice">Известия за статистиката на съня</string>
 	 <string name="sync_is_not_closed">Синхронизирането е включено в момента</string>
+	 <string name="fast">Бързо</string>
+	 <string name="record_more">Записвайте повече</string>
+	 <string name="setting_gender">Задаване на пол</string>
+	 <string name="full_name">Име</string>
+	 <string name="high">Високо</string>
+	 <string name="low">Ниско</string>
+	 <string name="slow">Бавно</string>
 </resources>

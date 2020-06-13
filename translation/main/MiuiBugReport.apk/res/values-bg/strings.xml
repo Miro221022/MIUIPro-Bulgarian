@@ -26,7 +26,7 @@
   <string name="account_error_longer_user_name">Името не може да бъде по-дълго от 20 знака</string>
   <string name="account_error_shorter_user_name">Името трябва да е по-дълго от 2 знака</string>
   <string name="account_error_user_birthday">Рожденият ден, който сте въвели, е невалиден</string>
-  <string name="account_error_user_name">Този прякор е невалиден. Опитайте различен.</string>
+  <string name="account_error_user_name">Този псевдоним е невалиден. Опитайте с друг.</string>
   <string name="account_invalid_user_avatar">Тази снимка е невалидна. Опитайте с друга.</string>
   <string name="account_limit_update_birthday">В момента не може да се актуализира рожденият ден</string>
   <string name="account_no_set">Няма</string>

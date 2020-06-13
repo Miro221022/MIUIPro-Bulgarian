@@ -244,6 +244,10 @@
     <item quantity="other">" пъти"</item>
     <item quantity="one">" път"</item>
   </plurals>
+    <plurals name="birthday_format">
+    <item quantity="other">(%1$d години)</item>
+    <item quantity="one">(%1$d годишен)</item>
+  </plurals>
   <plurals name="user_age_display_format_year">
     <item quantity="other">%1$d години</item>
     <item quantity="one">%1$d година</item>
