@@ -43,8 +43,8 @@
     <string name="auto_redial_times_summary">Избрани: %s</string>
     <string name="button_color_title">Цвят на бутоните</string>  
     <string name="text_color_title">Цвят на текста на бутоните</string>
-	<string name="name_color_title">Цвят на име</string> 
-    <string name="icon_color_title">Цвят на сим карта</string>
+	<string name="name_color_title">Цвят на името</string> 
+    <string name="icon_color_title">Цвят на сим картата</string>
 	<string name="call_windows_title">Прозорец при повикване</string>
 	<string name="background_color_title">Фон при повикване</string>
     <string name="background_color_on">По подразбиране</string>
