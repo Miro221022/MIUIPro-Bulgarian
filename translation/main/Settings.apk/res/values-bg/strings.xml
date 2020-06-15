@@ -2852,11 +2852,11 @@ Xiaomi Облак
      <string name="input_method_bottom_open">Включване</string>
      <string name="input_method_clipboard_settings">Настройки в буферната памет</string>
      <string name="input_method_cloud_data_title">Облачна буферна памет</string>
-     <string name="input_method_cloud_paste_mode_bubble_des">Ще видите балонче да изскача всеки път, когато в облачната буферна памет се появи ново съдържание. Докоснете балончето, за да въведете копирания текст.</string>
+     <string name="input_method_cloud_paste_mode_bubble_des">"Ще видите изскачащо балонче. Докоснете го, за да въведете копирания текст."</string>
      <string name="input_method_cloud_paste_mode_bubble_title">Балонче</string>
-     <string name="input_method_cloud_paste_mode_no_des">Няма да виждате известия, когато в облачната буферна памет се появи ново съдържание. Все пак ще можете да използвате паметта, като докоснете иконата.</string>
+     <string name="input_method_cloud_paste_mode_no_des">"Няма да виждате известия. Все още ще можете да използвате буферната памет чрез натискане на прекия път."</string>
      <string name="input_method_cloud_paste_mode_no_title">Без</string>
-     <string name="input_method_cloud_paste_mode_red_point_des">В долната част на клавиатурата ще видите червена точка, когато се появи ново съдържание в буерната памет в облака. Докоснете иконата, за да отворите бъферната памет и да използвате копираното съдържание.</string>
+     <string name="input_method_cloud_paste_mode_red_point_des">"В долната част на клавиатурата ще видите червена точка. Докоснете иконата, за да отворите буферната памет и да използвате копираното съдържание.."</string>
      <string name="input_method_cloud_paste_mode_red_point_title">Червена точка</string>
      <string name="input_method_function_clipboard">Буферна памет и чести фрази</string>
      <string name="input_method_function_clipboard_des">Докоснете, за да видите съдържанието на буферната памет и честите фрази</string>
@@ -6828,9 +6828,9 @@ UT интерфейс: %5$s"</string>
      <string name="wifi_ask_disable">%s иска да изключи WLAN</string>
      <string name="wifi_ask_enable">%s иска да включи WLAN</string>
      <string name="wifi_assistant">Автоматичен избор на най-добрите мрежи</string>
-     <string name="wifi_assistant_auto_confirm_data_message">Текущата WLAN няма достъп до интернет, вместо това ще използват мобилни данни. Можете да изключите WLAN асистента в настройките</string>
-     <string name="wifi_assistant_confirm_always">Без повече съвети следващия път</string>
-     <string name="wifi_assistant_confirm_connection_title">Потвърждаване на връзката</string>
+     <string name="wifi_assistant_auto_confirm_data_message">"Използвайте мобилни мрежи за данни, когато устройството ви не може да се свърже с интернет чрез WLAN.."</string>
+     <string name="wifi_assistant_confirm_always">"Не показвай отново"</string>
+     <string name="wifi_assistant_confirm_connection_title">Автоматичен избор на най-добрите мрежи</string>
      <string name="wifi_assistant_data_prompt">Показване на предупреждение за използването на данни</string>
      <string name="wifi_assistant_data_prompt_summary">Показване на предупреждение за използване на данни при преминаване към мобилни данни</string>
      <string name="wifi_assistant_description">"След включване на тази функция:
@@ -7610,4 +7610,9 @@ UT интерфейс: %5$s"</string>
     <string name="face_data_introduction_msg">Данните за лице могат да се използват за отключване на устройството ви или за проверка на самоличността ви. Добавете парола за заключен екран, преди да добавите личните си данни.</string>
 	<string name="error_apn_restrict_string">Полето APN не може да съдържа %1$s</string>
 	<string name="error_apn_not_allowed">"Това точка за достъп не е разрешена на това устройство. Опитайте с друга."</string>
+	<string name="control_center">Център за управление</string>
+    <string name="double_knock">Двойно почукване с кокалче</string>
+    <string name="input_method_quick_cloud_tips">Тип на известието</string>
+    <string name="launch_ai_shortcut">Mi AI пряк път</string>
+    <string name="wifi_assistant_auto_confirm_data_help">Можете да изключите тази функция в Настройки > WLAN > WLAN асистент.</string>
 </resources>

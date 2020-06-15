@@ -568,4 +568,8 @@
         <item quantity="other">Можете да защитите %d елемента</item>
         <item quantity="one">Можете да защитите %d елемент</item>
     </plurals>
+	    <plurals name="om_running_apps_num">
+        <item quantity="other">%d приложения</item>
+        <item quantity="one">%d приложение</item>
+    </plurals>
 </resources>

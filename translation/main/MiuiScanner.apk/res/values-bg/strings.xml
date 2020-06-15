@@ -426,4 +426,45 @@
   <string name="preference_copied">\"%1$s\" е копирано в буферната памет.</string>
   <string name="v7_preference_off">ИЗКЛ.</string>
   <string name="v7_preference_on">ВКЛ.</string>
+      <string name="WeChatqr_code_auto_processing">Отваряне на WeChat</string>
+    <string name="agree_audio_permission">录制音频</string>
+    <string name="agree_monitor_use">检测上网课期间专心听讲、走神以及离开的时间和比例。您的所有个人数据将保存在本地</string>
+    <string name="downloadAiVisonReason">Depends on plugins need to be upgraded</string>
+    <string name="function">Функции</string>
+    <string name="if_open_result">Показване на резултата от сканиране, когато се върнете в приложението</string>
+    <string name="mipayin_dialog_more">Още</string>
+    <string name="mipayin_dialog_title">Отвори със</string>
+    <string name="monitor_low_android">Версията на ANDROID е твърде ниска</string>
+    <string name="monitor_low_miui">Версията на MIUI е твърде ниска</string>
+    <string name="monitor_result_option_delete">删除视频</string>
+    <string name="monitor_result_option_rename">重命名</string>
+    <string name="monitor_result_switch_text">录制结果</string>
+    <string name="monitor_result_switch_video">查看视频</string>
+    <string name="monitor_unsupport_device">Понастоящем устройството не се поддържа</string>
+    <string name="monitoringAlert_content">"　　请正对网课屏幕，保持正常坐姿。并将此手机竖直放在和视线正前方夹角不超过30°的位置，摄像头面向脸部。之后点击开始按钮。
+　　*本软件只做注意力检测，不做为网课设备。开始前需要数秒时间进行识别较正。"</string>
+    <string name="monitoringCHeck_pause">暂停</string>
+    <string name="monitoringCheck_alert">请端正坐姿正对网课屏幕</string>
+    <string name="monitoringCheck_alertChecking">检测中...</string>
+    <string name="monitoringCheck_checking">正等待返回检测结果...</string>
+    <string name="monitoringCheck_ing">录制中</string>
+    <string name="monitoringCheck_name">检测</string>
+    <string name="monitoringCheck_success">检测成功</string>
+    <string name="monitoringCheck_title">请端正坐姿正对网课屏幕</string>
+    <string name="monitoringCheck_titleFail">"检测失败
+请参照图上角度摆放设备再重试"</string>
+    <string name="monitoringCheck_willStart">即将开始录制</string>
+    <string name="monitoringHistory_rename">重命名</string>
+    <string name="monitoringHistory_renameAlert">为该录像重新命名</string>
+    <string name="monitoringHistory_renameAlert_hint">请输入名称</string>
+    <string name="monitoringHistory_title">历史记录</string>
+    <string name="monitoring_allTime">总时长</string>
+    <string name="monitoring_dangerousAlert">距离过近</string>
+    <string name="monitoring_leave">离开</string>
+    <string name="monitoring_lossFocus">走神</string>
+    <string name="monitoring_normal">正常状态</string>
+    <string name="monitoring_restart">重新检测</string>
+    <string name="monitoring_start">开始检测</string>
+    <string name="monitoring_title">AI网课助手</string>
+    <string name="wechatcode_auto_processing_function_requires_permissions">Функцията за автоматична обработка на кода WeChat изисква WeChat да има разрешения за камера и разрешения за съхранение.</string>
 </resources>

@@ -1058,4 +1058,19 @@
      <string name="v7_preference_off">ИЗКЛ.</string>
      <string name="v7_preference_on">ВКЛ.</string>
 	 <string name="failed_to_send">"Неуспешно изпращане"</string>
+	     <string name="copy_verification_code_tip">Копирано успешно</string>
+    <string name="menu_multi_select">Избери</string>
+    <string name="not_support_audio_forward">"Не може да се препращат гласови съобщения"</string>
+    <string name="pref_summary_voice_report">Включете, за да четете съобщения на глас, когато са получени. Натиснете бутона за намаляване на звука или бутона за захранване, за да спрете възпроизвеждането.</string>
+    <string name="pref_title_voice_report">Четене на съобщенията на глас</string>
+    <string name="top_conversation">Прикачен разговор</string>
+    <string name="verification_code_safety_warning">"Не разкривайте тези кодове на други хора"</string>
+    <string name="voice_report_anytime">Винаги</string>
+    <string name="voice_report_off">Изключено</string>
+    <string name="voice_report_wiredon">Със слушалки</string>
+	    <string name="pref_rcs_show_report_message">回执报告</string>
+    <string name="pref_rcs_show_report_message_tip">对方收到短信后返回已读状态</string>
+    <string name="rcs_chatbot_no_waring">消息免打扰</string>
+    <string name="rsc_chatbot_back">返回</string>
+    <string name="rsc_chatbot_detail">商户信息入口</string>
 </resources>
