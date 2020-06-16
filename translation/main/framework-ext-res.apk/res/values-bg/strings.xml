@@ -334,4 +334,8 @@
     <string name="security_share_text">Защита на поверителността</string>
 	<string name="serviceEnabled">Услугата беше активирана.</string>
 	<string name="talk_back_conflict_with_handy_mode">"Не може да се използва режим с една ръка, когато TalkBack е включен"</string>
+    <string name="bluetooth_disable_notification_content">%s изключи Bluetooth</string>
+    <string name="bluetooth_disable_notification_title">Bluetooth е изключен</string>
+    <string name="bluetooth_enable_notification_content">%s включи Bluetooth</string>
+    <string name="bluetooth_enable_notification_title">Bluetooth е включен</string>
 </resources>

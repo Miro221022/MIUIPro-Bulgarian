@@ -1296,4 +1296,6 @@
     <string name="pref_video_denoise_title">Филтър за шум</string>
     <string name="pref_wind_denoise_default">Включено</string>
     <string name="pref_wind_denoise_title">Филтър за вятър</string>
+	    <string name="settings_camera_near_range_description">近距离拍摄平面物体时，去除景深虚化效果</string>
+    <string name="settings_camera_near_range_title">近距模式</string>
 </resources>
