@@ -151,7 +151,6 @@ dd/MM"</string>
     <string name="summary">"За да намалите консумацията на енергия, елементите няма да се показват, когато устройството ви дълго време е на тъмно."</string>
     <string name="super_wallpaper_date">"EEaa
 dd/M"</string>
-    <string name="temporary_style">За 10 секунди след докосване</string>
     <string name="text_color">Цвят на текста</string>
     <string name="text_length_exceed_limit_alert">*Текстът, който въведохте, е твърде дълъг</string>
     <string name="text_size">Размер на текста</string>
