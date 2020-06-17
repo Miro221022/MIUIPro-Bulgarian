@@ -38,7 +38,7 @@
         <item quantity="other">Сега</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="one">Щреди 1 мин.</item>
+        <item quantity="one">Преди 1 мин.</item>
         <item quantity="other">Преди %d мин.</item>
     </plurals>
     <plurals name="half_hour_ago">

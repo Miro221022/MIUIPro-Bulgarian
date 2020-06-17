@@ -7615,4 +7615,7 @@ UT интерфейс: %5$s"</string>
     <string name="input_method_quick_cloud_tips">Тип на известието</string>
     <string name="launch_ai_shortcut">Mi AI пряк път</string>
     <string name="wifi_assistant_auto_confirm_data_help">Можете да изключите тази функция в Настройки > WLAN > WLAN асистент.</string>
+	<string name="bluetooth_unlock_confirm_device_text_for_mi_wear">потвърдете на устройството</string>
+    <string name="bluetooth_unlock_reject">заявката за свързване е отхвърлена</string>
+    <string name="bluetooth_unlock_unsupport">неподдържана версия</string>
 </resources>
