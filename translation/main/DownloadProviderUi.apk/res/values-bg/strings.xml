@@ -69,7 +69,7 @@
   <string name="dialog_insufficient_space_on_external">"Изтеглянето не може да завърши, няма достатъчно място във външното хранилище."</string>
   <string name="dialog_media_not_found">Свържете външното хранилище, за да изтеглите.</string>
   <string name="dialog_msg_disabled_net">%1$s ограничено изтегляне за текущата мрежа. Докоснете Мрежови настройки, за да отидете в приложението Сигурност.</string>
-  <string name="dialog_msg_recommend">"Няма да можете да преглеждате препоръчваните източници, след като ги изключите. Можете да изберете" Зареждане на съдържание само с WLAN ", за да спестите мобилните данни..</string>
+  <string name="dialog_msg_recommend">"Няма да можете да преглеждате препоръчваните източници, след като ги изключите. Можете да изберете \"Зареждане на съдържание само с WLAN\", за да спестите мобилните данни.</string>
   <string name="dialog_queued_body">Файлът е добавен на опашката и скоро ще бъде изтеглен.</string>
   <string name="dialog_speed_cancel">Отказ</string>
   <string name="dialog_speed_msg">Използването на мобилни данни за тестване на мрежа може да консумира големи количества мобилни данни. Продължавате ли въпреки това?</string>
@@ -189,7 +189,7 @@
   <string name="immediately_a_renewal">Подновяване сега</string>
   <string name="info_flow_only_load_wifi">Зареждане на съдържание само чрез Wi-Fi</string>
   <string name="info_flow_setting">Настройки за съдържание</string>
-  <string name="info_flow_show">Покажи препоръчаното съдържание</string>
+  <string name="info_flow_show">Показване на препоръчано съдържание</string>
   <string name="input_valid_address">Въведете път за файла</string>
   <string name="install">Инсталиране</string>
   <string name="install_failed">Не може да се инсталира %1$s\"</string>
