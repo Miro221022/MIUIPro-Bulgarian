@@ -369,7 +369,7 @@
   <string name="collage_choose">Избор</string>
   <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
   <string name="collage_drawable_rect_date_month_day">dd MMM</string>
-  <string name="collage_margin_text">Събери</string>
+  <string name="collage_margin_text">Полета</string>
   <string name="collage_mirror">Огледало</string>
   <string name="collage_poster_global_cat_text">ЛАПИ</string>
   <string name="collage_poster_global_city_text">МЕТРОПОЛИС</string>
@@ -1415,6 +1415,7 @@
   <string name="sync_album_in_proecess">Синхонизиране на албума…</string>
   <string name="sync_battery_low">Изтощена батерия</string>
   <string name="sync_cloud_space_full">Облачното хранилище е пълно</string>
+  <string name="tomorrow">Утре</string>
   <string name="sync_diabled_toast">Синхронизацията на Галерия е изключена</string>
   <string name="sync_metatata_wait_title">Изчакване за синхронизация с Xiaomi Облак</string>
   <string name="sync_not_allow_cta_title">Неуспешно свързване с мрежата</string>
@@ -1647,7 +1648,6 @@
   <string name="video_compress_download_failed_for_notwork">"Неуспешно изтегляне. Проверете мрежовите настройки и опитайте отново."</string>
   <string name="video_compress_encode_video">Компресиране на видеото…</string>
   <string name="video_compress_lib_download">Изтеглете приставката за компресиране на видео</string>
-  <string name="">"Изглежда, че устройството ви не е свързано с Wi-Fi. Можете да използвате мобилни данни, за да изтеглите приставката за компресиране на видео (1.3МБ)."</string>
   <string name="video_compress_not_with_8k">"8K видеоклипове не могат да се компресират"</string>
   <string name="video_compress_not_with_format">"Компресирането на видео не се поддържа за този формат"</string>
   <string name="video_compress_not_with_low_quality">Текущата разделителна способност е най-ниската</string>
@@ -2030,4 +2030,16 @@
     <string name="text_tab_festival">Празник</string>
     <string name="text_tab_scene">Сцена</string>
     <string name="text_tab_spot">Декор</string>
+	<string name="album_detail_default_sort_tip">Превключено към хронологичен ред</string>
+	    <string name="btn_cancel_send">Анулиране на този трансфер</string>
+    <string name="btn_exit_send">Изход</string>
+	    <string name="menu_detail_sort_create_date">Създадено</string>
+    <string name="menu_detail_sort_name">Име на файла</string>
+    <string name="menu_detail_sort_size">Размер на файла</string>
+    <string name="menu_detail_sort_update_date">Последна актуализация</string>
+	<string name="operation_hide_time">Скриване на датите</string>
+	 <string name="operation_show_time">Показване на датите</string>
+	 <string name="operation_sort">Сортиране</string>
+	 <string name="share_and_delete_screenshot">Изтриване след споделяне</string>
+	 <string name="special_type_ai_audio">AI звук</string>
 </resources>
