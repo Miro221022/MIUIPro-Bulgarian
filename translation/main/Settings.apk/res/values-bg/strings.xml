@@ -474,7 +474,7 @@
      <string name="application_permissions">Разрешения за приложението</string>
      <string name="application_restrictions">Разрешаване на приложения и съдържание</string>
      <string name="application_size_label">Приложение</string>
-     <string name="applications_settings">Управление на приложения</string>
+     <string name="applications_settings">Управление на приложенията</string>
      <string name="applications_settings_header">Настройки за приложения</string>
      <string name="applications_settings_summary">Управление на приложения, задаване на преки пътища за бързо стартиране</string>
      <string name="applications_settings_title">Приложения</string>

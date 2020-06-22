@@ -237,7 +237,7 @@
   <string name="app_manager_system_mobile_disable">Изключи мобилни данни</string>
   <string name="app_manager_thumbnail_blur_summary">Замъглен изглед на приложенията в Последи</string>
   <string name="app_manager_thumbnail_blur_title">Замъглен изглед на приложенията</string>
-  <string name="app_manager_title">Управление на приложения</string>
+  <string name="app_manager_title">Управление на приложенията</string>
   <string name="app_manager_total_size">Общо</string>
   <string name="app_manager_uninstall">Деинсталиране</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Деинсталирането на системни приложения може да предизвика грешки в работата на MIUI. Да се деинсталира въпреки това?</string>

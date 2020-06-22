@@ -1065,9 +1065,8 @@
     <string name="prompt_before_transmission_message4_summary">"Не изключвайте Wi-Fi и не превключвайте между мрежите, докато прехвърлянето не завърши."</string>
     <string name="prompt_before_transmission_message4_title">Останете свързани през целия трансфер</string>
 	<string name="transfer_connect_fail_summary">Докоснете бутона по-долу, за да се свържете ръчно</string>
-	     <string name="close_cellular_summary">由于系统限制，当前网络连接为数据流量，请您关闭数据流量后重新连接新手机</string>
-     <string name="close_cellular_title">连接异常</string>
-
+	     <string name="close_cellular_summary">В момента вашето устройство използва мобилни данни поради системни ограничения. Изключете мобилните данни и се свържете отново с новото устройство.</string>
+     <string name="close_cellular_title">"Не може да се свърже"</string>
      <string name="after_reset_need_restore_system_app">"Изглежда, че сте извършили фабрично нулиране. Свържете се с мрежата и възстановете системните елементи, за да можете да използвате MIUI нормално."</string>
      <string name="btn_mi_cloud_install_complete">"Инсталирах приложението"</string>
      <string name="btn_restore_data_to_device_complete">Вписване</string>
@@ -1114,4 +1113,11 @@
      <string name="system_app_restore_failed">Възникна грешка</string>
      <string name="system_app_restore_failed_detail">"Не можаха да се възстановят системните елементи. Проверете мрежовите си настройки и не рестартирайте или изключвайте устройството си, докато елементите не бъдат напълно възстановени. Докоснете бутона по-долу, за да опитате отново."</string>
      <string name="system_restore">Възстановяване на елементи</string>
+	   <string name="dialog_wechat_data_transfer_fail_button">我知道了</string>
+  <string name="dialog_wechat_data_transfer_fail_message">"由于微信版本限制，相关数据(含聊天记录)没有成功迁移，建议您使用微信APP内的聊天记录备份与迁移功能进行迁移。
+步骤：打开微信APP&gt;我的&gt;设置&gt;通用&gt;聊天记录备份与迁移。"</string>
+  <string name="dialog_wechat_data_transfer_fail_title">微信数据迁移失败</string>
+    <string name="prompt_before_transmission_message5_summary">"Прехвърлянето на големи количества данни безжично може да причини леко прегряване, което не е необичайно. Вашето устройство ще се охлади скоро след приключване на прехвърлянето."</string>
+  <string name="prompt_before_transmission_message5_title">Устройството ви може да се загрее по време на прехвърляне.</string>
+    <string name="scanner_not_support_data_transfer_tip">不支持从非小米手机迁移应用数据(包括微信、QQ聊天记录)</string>
 </resources>

@@ -103,8 +103,7 @@
   <string name="common_format_date_no_year">dd/MM</string>
   <string name="common_skip">Пропускане</string>
   <string name="community_cta_dialog_cancel">Не благодаря</string>
-  <string name="community_cta_dialog_des">"Темите от трети страни вече поддържат приспособление за Mi Community . То работи като пряк път, който ви отвежда до подфорума Теми на Mi Community. Можете да изключите тази функция в Настройки.
-Разрешете на Теми да имат достъп до вашите идентификационни номера на Mi профила и състоянието на Mi Community, свързани с профила, за да можете да ги преглеждате тук. Можете също да включите и изключите известията от Mi Community в Настройки."</string>
+  <string name="community_cta_dialog_des">Темите от трети страни вече поддържат приспособление за Mi Community. Разрешете на Теми достъп до идентификатора на Mi профила и състоянието на Mi Community, свързани с профила, за да можете да ги преглеждате тук.</string>
   <string name="community_cta_dialog_ok">Разреши</string>
   <string name="community_cta_dialog_title">Необходими са разрешения</string>
   <string name="component_backup_preference_title">Архивиране на темата</string>
