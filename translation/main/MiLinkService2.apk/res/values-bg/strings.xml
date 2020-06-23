@@ -142,4 +142,23 @@
 	    <string name="dialog_nfc_cast_wifi_off">Включете Wi-Fi, за да можете да излъчвате чрез NFC. Да се включи ли сега?</string>
     <string name="toast_nfc_dont_move">"Не местете телефона си далеч"</string>
     <string name="toast_turn_off_hotspot_before_cast">Изключете преносимата гореща точка преди излъчването</string>
+		<string name="dialog_no_device_message"><Data>1. Свържете телефона и телевизора си към една и съща Wi-Fi мрежа.&lt;br>&lt;br>2. При някои модели телевизори тази функция е достъпна само когато е включено Екранно огледало. Вижте &lt;a href=milink://com.milink.service/specification>\"Помощ\"&lt;/a>, за да научите повече.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>1. Свържете телефона и телевизора си към една и съща Wi-Fi мрежа.&lt;br>&lt;br>2. При някои модели телевизори тази функция е достъпна само когато е включено Екранно огледало. Вижте &lt;a href=milink://com.milink.service/specification>\"Помощ\"&lt;/a>, за да научите повече.</Data></string>
+    <string name="dialog_scan_message">"1. Свържете телефона и телевизора си към една и съща Wi-Fi мрежа.
+
+2. При някои модели телевизори тази функция е достъпна само когато е включено Екранно огледало. Вижте \"помощ\", за да научите повече."</string>
+    <string name="dialog_scan_message_china">"1. Свържете телефона и телевизора си към една и съща Wi-Fi мрежа.
+
+2. При някои модели телевизори тази функция е достъпна само когато е включено Екранно огледало. Вижте \"Помощ\", за да научите повече."</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Синхронизирането с облака е изключено</string>
+    <string name="miuix_appcompat_cloud_state_finished">Синхронизирано с облака</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Синхронизиране с облака</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Издърпайте надолу, за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновено успешно</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновяване…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Пуснете за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
 </resources>

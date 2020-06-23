@@ -1409,7 +1409,7 @@
     <string name="yellowpage_navigation_send_to_desktop_downloading">Изтегля се икона…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Не мога да се свържа с мрежата</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавено на началните екрани</string>
-    <string name="yellowpage_provider_label">Данните са предоставени от</string>
+    <string name="yellowpage_provider_label">Техническа поддръжка за разпознаване на идентификация на обаждащия се/подателя, предоставена от</string>
     <string name="yellowpage_search_the_yellowpage">Търсете в \"Жълти страници\"</string>
     <string name="yellowpage_user_profile">Профил</string>
     <string name="yesterday">Вчера</string>

@@ -304,18 +304,18 @@
     <string name="alert_dialog_close">Затваряне на потребителския профил</string>
     <string name="alert_dialog_ok">OК</string>
     <string name="close_profile">Затваряне</string>
-    <string name="registration_status_checking_status">Състоянието се проверява...</string>
-    <string name="registration_status_registering">Извършва се регистрация...</string>
-    <string name="registration_status_still_trying">Още се опитва...</string>
-    <string name="registration_status_not_receiving">Не се получават повиквания</string>
-    <string name="registration_status_no_data">Регистрацията на профила спря, защото няма връзка с интернет</string>
-    <string name="registration_status_no_wifi_data">Регистрацията на профила спря, защото няма връзка с Wi-Fi</string>
-    <string name="registration_status_not_running">Регистрацията на профила не бе успешна</string>
-    <string name="registration_status_done">Получават се повиквания</string>
-    <string name="registration_status_failed_try_later">Не може да се регистрира акаунт. %s.</string>
-    <string name="registration_status_invalid_credentials">Регистрацията на профила не бе успешна: Неправилно потребителско име или парола</string>
-    <string name="registration_status_server_unreachable">Регистрацията на профила не бе успешна: Проверете името на сървъра</string>
-    <string name="third_party_account_summary">Този профил понастоящем се използва от приложението „%s“.</string>
+    <string name="registration_status_checking_status">Състоянието се проверява…</string>
+    <string name="registration_status_registering">Извършва се регистрация…</string>
+    <string name="registration_status_still_trying">Още се опитва…</string>
+    <string name="registration_status_not_receiving">"Не могат да се получават обаждания"</string>
+    <string name="registration_status_no_data">"Профилът не може да се регистрира. Това устройство не е свързано с интернет."</string>
+    <string name="registration_status_no_wifi_data">"Профилът не може да се регистрира. Това устройство не е свързано с WLAN.."</string>
+    <string name="registration_status_not_running">"Профилът не може да се регистрира.."</string>
+    <string name="registration_status_done">Това устройство може да получава обаждания</string>
+    <string name="registration_status_failed_try_later">"Не може да се регистрира профила: %s. Ще бъде направен друг опит по-късно."</string>
+    <string name="registration_status_invalid_credentials">"Профилът не може да се регистрира. Неправилно потребителско име или парола."</string>
+    <string name="registration_status_server_unreachable">"Профилът не може да се регистрира. Проверете името на сървъра."</string>
+    <string name="third_party_account_summary">Този профил в момента се използва от приложението %s.</string>
     <string name="sip_edit_title">Профил интернет повиквания</string>
     <string name="sip_edit_new_title">Подробности за профила за SIP</string>
     <string name="domain_address_title">Сървър</string>
@@ -332,8 +332,8 @@
     <string name="default_preference_summary">&lt;Не е зададено></string>
     <string name="display_name_summary">&lt;Същото като потребителското име></string>
     <string name="optional_summary">&lt;По избор></string>
-    <string name="advanced_settings_show">▷ Натиснете за показване на всички</string>
-    <string name="advanced_settings_hide">▽ Натиснете за скриване на всички</string>
+    <string name="advanced_settings_show">▷ Докоснете за показване на всички</string>
+    <string name="advanced_settings_hide">▽ Докоснете за скриване на всички</string>
     <string name="all_empty_alert">Въведете подробностите за новия профил за SIP.</string>
     <string name="empty_alert">%s е задължително, трябва да се попълни.</string>
     <string name="not_a_valid_port">Номерът на порта трябва да бъде между %1$d  и %2$d</string>
@@ -1953,4 +1953,5 @@
 	<string name="smart_dual_sim_prompt">Вашето устройство ще се свърже с мобилна мрежа за данни чрез втората SIM, когато текущата връзка е лоша. Това може да генерира допълнителни такси. Свържете се с вашият оператор за подробности относно плана ви за данни.</string>
     <string name="smart_dual_sim_summary">Превключете към втората SIM карта и използвайте автоматично мобилните й данни, когато текущата връзка е лоша. Когато връзката се подобри, превключете обратно към основната SIM карта</string>
     <string name="smart_dual_sim_title">Интелигентен двусимов режим</string>
+	
 </resources>

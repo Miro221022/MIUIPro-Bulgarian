@@ -151,7 +151,6 @@
   <string name="disable_overlays_summary">Винаги да се използва GPU за изграждане на екрана</string>
   <string name="disabled_by_admin">Деактивирано от администратора</string>
   <string name="disabled_by_admin_summary_text">Контролира се от администратор</string>
-  <string name="duplicate_video_call_not_allowed">Не можете да добавяте повече повиквания</string>
   <string name="enable_account_preference_title">Профили за повиквания</string>
   <string name="enable_adb">През USB</string>
   <string name="enable_adb_summary">Режим за отстраняване на грешки, когато е свързано USB</string>
@@ -224,7 +223,6 @@
   <string name="oem_unlock_enable">Отключване от OEM</string>
   <string name="oem_unlock_enable_summary">Разрешаване на първонач. зареждащата прогр. да се откл.</string>
   <string name="outgoing_call_error_no_phone_number_supplied">За да осъществите повикване, въведете валиден номер.</string>
-  <string name="outgoing_call_not_allowed_no_permission">Това приложение не може да прави телефонни повиквания без разрешение.</string>
   <string name="outgoing_call_not_allowed_user_restriction">Разрешени са само спешни повиквания.</string>
   <string name="overlay_display_devices_title">Симулиране на алтерн. дисплеи</string>
   <string name="picture_color_mode">Цветови режим за снимките</string>
@@ -283,7 +281,6 @@
   <string name="simulate_color_space">Цвет. простр.: Симулиране</string>
   <string name="strict_mode">Строг режим: Активиран</string>
   <string name="strict_mode_summary">Примигване на екрана при дълги операции в главната нишка</string>
-  <string name="telecommAppLabel">Управление на повикванията</string>
   <string name="test_account_0_label">Q Mobile</string>
   <string name="test_account_0_short_description">Account with Q Mobile</string>
   <string name="test_account_1_label">Market Wireless</string>
@@ -369,4 +366,11 @@
   <string name="video_call_not_allowed_if_tty_enabled">Изключване на TTY режима за осъществяване на видеоповиквания.</string>
   <string name="missedcall_notification_public_version_title">Телефон</string>
   <string name="volume_boost_text">Звукът е увеличен успешно</string>
+  <string name="cant_call_due_to_ongoing_call">"Не може да се обадите. %1$s друго повикване е в ход."</string>
+  <string name="cant_call_due_to_ongoing_calls">"Не може да се обадите. Първо приключете разговора с %1$s."</string>
+  <string name="cant_call_due_to_ongoing_unknown_call">"Не може да се осъществи обаждане поради повикване в друго приложение."</string>
+  <string name="change_default_dialer_dialog_affirmative">Задаване като приложение за телефон по подразбиране</string>
+  <string name="duplicate_video_call_not_allowed">"Не могат да се добавят повече обаждания"</string>
+  <string name="outgoing_call_not_allowed_no_permission">"Това приложение не може да извършва изходящи обаждания без необходимите разрешения."</string>
+  <string name="telecommAppLabel">Управление на повикванията</string>
 </resources>
