@@ -1857,7 +1857,7 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="delete_fingerprint_text">Премахване на пръстов отпечатък</string>
      <string name="delete_legacy_fingerprint">Изтрий</string>
      <string name="delete_or_keep_legacy_passwords_confirm_msg">Да изтрия ли този пръстов отпечатък?</string>
-     <string name="delete_rule">Премахни правила</string>
+     <string name="delete_rule">Премахване на правила</string>
      <string name="delete_saved_network">Изтриване на запазените мрежи</string>
      <string name="delete_sound_effect">Звук при \"Изтриване\"</string>
      <string name="deleted_apps">Изтрити приложения</string>
@@ -4823,7 +4823,7 @@ UT интерфейс: %5$s"</string>
      <string name="screen">Екран</string>
      <string name="screen_cancel">Отказ</string>
      <string name="screen_color_and_optimize">Цветове и контраст</string>
-     <string name="screen_color_and_optimize_disabled">Цветната температура не може да се настройва в режим за четене</string>
+     <string name="screen_color_and_optimize_disabled">Цветовата температура не може да се настройва в режим за четене</string>
      <string name="screen_color_temperature">Цветова температура</string>
      <string name="screen_color_temperature_and_saturation">Цветове и насищане</string>
      <string name="screen_compatibility_label">Съвместимост на екрана</string>
@@ -7462,7 +7462,7 @@ UT интерфейс: %5$s"</string>
      <string name="zen_mode_from_contacts">Само от контакти</string>
      <string name="zen_mode_from_none">Никакви</string>
      <string name="zen_mode_from_sms">"Съобщения от "</string>
-     <string name="zen_mode_from_starred">Само от контакти със звезда</string>
+     <string name="zen_mode_from_starred">Само от избрани контакти</string>
      <string name="zen_mode_important_category">Приоритетни прекъсвания</string>
      <string name="zen_mode_media">Мултимедия</string>
      <string name="zen_mode_messages">Съобщения</string>

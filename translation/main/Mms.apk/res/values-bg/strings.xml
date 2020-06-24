@@ -1073,4 +1073,11 @@
     <string name="rcs_chatbot_no_waring">消息免打扰</string>
     <string name="rsc_chatbot_back">返回</string>
     <string name="rsc_chatbot_detail">商户信息入口</string>
+	  <string name="debug_about_mms">Относно Mms</string>
+  <string name="debug_category_db">База данни</string>
+  <string name="debug_category_others">Други</string>
+  <string name="debug_close_success">Отстраняването на грешки не е налично</string>
+  <string name="debug_enable_success">Отстраняването на грешки е налично</string>
+  <string name="debug_export_db">Експортиране на база данни</string>
+  <string name="debug_title">Отстраняване на грешки</string>
 </resources>
