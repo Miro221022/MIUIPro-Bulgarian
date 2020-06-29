@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (по подразбиране)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>Много малък размер на текста</item>
+        <item>Малък размер на текста</item>
+        <item>Размер на текста по подразбиране</item>
+        <item>Голям размер на текста</item>
+        <item>Много голям размер на текста</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Много малък</item>
+        <item>Малък</item>
+        <item>По подразбиране</item>
+        <item>Голям</item>
+        <item>Много голям</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Зададено от приложението</item>
+        <item>Бяло върху черно</item>
+        <item>Черно върху бяло</item>
+        <item>Жълто върху черно</item>
+        <item>Жълто върху синьо</item>
+        <item>Персонализиран</item>
+    </string-array>
+    <string-array name="eap_ocsp_type">
+        <item>Без удостоверяване</item>
+        <item>Заявка за състоянието на сертификата</item>
+        <item>Изискване на състоянието на сертификата</item>
+        <item>Изискване на състоянията на всички ненадеждни сертификати</item>
+    </string-array>
+    <string-array name="enabled_networks_subsidy_locked_choices">
+        <item>LTE само</item>
+        <item>GSM/WCDMA/LTE</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Предпочита се GSM/WCDMA</item>
+        <item>Само GSM</item>
+        <item>Само WCDMA</item>
+        <item>Авт. GSM/WCDMA</item>
+        <item>Авт. CDMA/EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>Само EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Глобална мрежа</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>Само TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>само NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_gsm_wcdma_choices">
+        <item>GSM само</item>
+        <item>WCDMA само</item>
+        <item>Предпочита се GSM/WCDMA</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>VPN с PPTP</item>
+        <item>VPN с L2TP/IPSec с предварително споделени ключове</item>
+        <item>VPN с L2TP/IPSec със сертификати</item>
+        <item>VPN с IPSec с предварително споделени ключове и удостоверяване за Xauth</item>
+        <item>VPN с IPSec със сертификати и удостоверяване за Xauth</item>
+        <item>VPN с IPSec със сертификати и хибридно удостоверяване</item>
+        <item>VPN с IKEv2/IPSec със сертификати и удостоверяване на потребителското име/паролата</item>
+        <item>VPN с IKEv2/IPSec с предварително споделени ключове</item>
+        <item>VPN с IKEv2/IPSec със сертификати</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
+        <item>Предпочита се Ims</item>
+        <item>WLAN</item>
+        <item>Мобилна</item>
+        <item>WLAN само</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
+        <item>Предпочита се Ims</item>
+        <item>WLAN</item>
+        <item>Мобилна</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>Wi-Fi</item>
+        <item>Мобилни данни</item>
+        <item>Само Wi-Fi</item>
+    </string-array>
+</resources>

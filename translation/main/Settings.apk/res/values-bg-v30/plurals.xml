@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibilty_autoclick_delay_unit_second">
+        <item quantity="other">%1$s секунди</item>
+        <item quantity="one">%1$s секунда</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Продължително (%1$s секунди)</item>
+        <item quantity="one">Продължително (%1$s секунда)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
+        <item quantity="other">Средно (%1$s секунди)</item>
+        <item quantity="one">Средно (%1$s секунда)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Кратко (%1$s секунди)</item>
+        <item quantity="one">Кратко (%1$s секунда)</item>
+    </plurals>
+    <plurals name="app_link_open_always_summary">
+        <item quantity="other">Приложението твърди, че може да обработи %d връзки</item>
+        <item quantity="one">Приложението твърди, че може да обработи %d връзка</item>
+    </plurals>
+    <plurals name="interact_across_profiles_number_of_connected_apps">
+        <item quantity="other">%d свързани приложения</item>
+        <item quantity="one">%d свързано приложение</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonnumerical">
+        <item quantity="other">Трябва да съдържа поне %d нецифрени знака</item>
+        <item quantity="one">Трябва да съдържа поне 1 нецифрен знак</item>
+    </plurals>
+    <plurals name="notification_history_count">
+        <item quantity="other">%d известия</item>
+        <item quantity="one">%d известие</item>
+    </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">%s могат да прекъсват</item>
+        <item quantity="one">%s може да прекъсва</item>
+    </plurals>
+    <plurals name="zen_mode_contacts_count">
+        <item quantity="other">%d контакта</item>
+        <item quantity="one">1 контакт</item>
+    </plurals>
+    <plurals name="zen_mode_conversations_count">
+        <item quantity="other">%d разговора</item>
+        <item quantity="one">1 разговор</item>
+    </plurals>
+    <plurals name="zen_mode_other_sounds_summary">
+        <item quantity="other">%s могат да прекъсват</item>
+        <item quantity="one">%s може да прекъсва</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item quantity="other">Зададени са %d графика</item>
+        <item quantity="one">Зададен е 1 график</item>
+    </plurals>
+</resources>
