@@ -47,4 +47,5 @@
 	<string name="doc_photo_cancel">Отказ</string>
     <string name="doc_photo_confirm">Изход</string>
     <string name="doc_photo_idcard_alert_msg">Отхвърляне на промените и изход от редактора?</string>
+	<string name="refocus_type_movie_relighting">Кино</string>
 </resources>

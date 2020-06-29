@@ -41,4 +41,10 @@
   <string name="waiting_to_send">Изчаква се да се изпрати</string>
   <string name="wifi_direct">WLAN Direct</string>
   <string name="wifi_direct_printers">WLAN Direct принтери</string>
+    <string name="print">Принтиране</string>
+    <string name="recommendation_enable_summary">Изберете, за да активирате</string>
+    <string name="recommendation_install_summary">Изберете, за да инсталирате</string>
+    <string name="recommendation_manage">Управление на услугите</string>
+    <string name="recommendation_summary">Услугата за печат по подразбиране предоставя основни възможности. Други възможности за този принтер може да са налични от друга услуга за печат.</string>
+    <string name="recommendations_heading">Препоръчани услуги</string>
 </resources>

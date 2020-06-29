@@ -125,4 +125,5 @@
     <string name="ew_share_save_tips">Запазено в %s</string>
     <string name="ew_share_title">Сподели</string>
     <string name="ew_warning_detail">Подробности за предупреждението</string>
+	<string name="ew_title_back">Назад</string>
 </resources>

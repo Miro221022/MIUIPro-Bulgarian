@@ -901,4 +901,7 @@
     <string name="micloud_find_device_guide_title">Впишете се в &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> с вашия Mi профил, за да намерите и заключите устройството си, да го отбележите като изгубено или да изтриете данните от разстояние. Вижте подробности &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>тук&lt;/a>.</string>
     <string name="send_last_location_summary">Синхронизирайте информация за местоположението, докато устройството е изключено</string>
     <string name="send_last_location_title">Локализиране преди да изключване</string>
+	    <string name="storage_manage_cloud_data_title">Преглед на елементи в облака</string>
+    <string name="storage_manage_full_summary">Облачното хранилище е пълно. Надстройте плана си.</string>
+    <string name="storage_manage_normal_summary">Променете плана за съхранение в облака</string>
 </resources>

@@ -12,4 +12,12 @@
         <item quantity="other">Можете да създадете до %d клонинга наведнъж.</item>
         <item quantity="one">Можете да създадете до %d клонинг наведнъж.</item>
     </plurals>
+	    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s мин.</item>
+        <item quantity="one">%1$s мин.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s снимки</item>
+        <item quantity="one">%1$s снимка</item>
+    </plurals>
 </resources>

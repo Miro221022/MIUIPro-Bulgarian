@@ -17,7 +17,7 @@
   <string name="invalid_cert">Сертификатът е невалиден.</string>
   <string name="n_cacrts">%d сертификата от сертифициращи органи</string>
   <string name="name_char_error">Въведете име, което съдържа само букви и цифри.</string>
-  <string name="name_credential_dialog_title">Наименуване на сертификата</string>
+  <string name="name_credential_dialog_title">Задаване на име за този сертификат</string>
   <string name="name_empty_error">Въведете име.</string>
   <string name="no_cert_file_found">В USB хранилището не бе намерен файл със сертификат.</string>
   <string name="no_cert_to_saved">Няма сертификат за инсталиране.</string>
@@ -53,4 +53,20 @@
   <string name="wifi_trust_config_text">Надежден сертификат:%\n\n</string>
   <string name="wifi_ttls_config_text">Потребителско име:%\n\n</string>
   <string name="storage_error">"Сертификатът не e запазен. Натиснете OK за повторен опит."</string>
+    <string name="ca_cert_is_added">CA сертификата е инсталиран</string>
+    <string name="ca_certificate">CA сертификат</string>
+    <string name="cert_temp_error">Временна грешка. Моля, опитайте отново по-късно.</string>
+    <string name="certificate">Сертификат</string>
+    <string name="certificate_name">Име на сертификата</string>
+    <string name="invalid_certificate_close_button">Затвори</string>
+    <string name="invalid_certificate_message">"Този файл не може да се използва като %1$s"</string>
+    <string name="invalid_certificate_title">"Този файл не може да се използва"</string>
+    <string name="redirect_ca_certificate_close_button">Затвори</string>
+    <string name="redirect_ca_certificate_message">CA сертификатите могат да изложат вашата поверителност на риск и трябва да бъдат инсталирани в Настройки</string>
+    <string name="redirect_ca_certificate_title">"CA сертификатите не могат да бъдат инсталирани"</string>
+    <string name="select_certificate_usage_title">Изберете тип сертификат</string>
+    <string name="user_cert_is_added">Инсталиран е потребителски сертификат</string>
+    <string name="user_certificate">VPN сертификат и потребителски сертификат</string>
+    <string name="wifi_cert_is_added">Wi‑Fi сертификат инсталиран installed</string>
+    <string name="wifi_certificate">Wi‑Fi сертификат</string>
 </resources>
