@@ -3458,11 +3458,15 @@
     <string name="om_shortcut_added_toast_text">Добавено успешно</string>
     <string name="om_shortcut_dialog_summary">"RAM Jet ви позволява да изчистите паметта и да увеличите скоростта на устройството си с едно докосване. Добавяне на RAM Jet към началния си екран?"</string>
     <string name="om_shortcut_dialog_title">RAM Jet</string>
-    <string name="security_bottom_guide_to_pm_text">Отваряне на помощния комплект…</string>
+    <string name="security_bottom_guide_to_pm_text">Пуснете за отваряне на комунални услуги</string>
     <string name="security_guide_bubble_text">Отвори</string>
     <string name="security_guide_summary">Едно място за инструменти и услуги</string>
     <string name="security_guide_title">MIUI Помощен комплект</string>
 	<string name="antivirus_privacy_dialog_summary_new"><Data>Тази функция използва антивирусни дефиниции, предоставени от Avast, AVL и Tencent. Прочетете свързаните &lt;a href=\"%1$s\">лицензионни споразумения&lt;/a>, за да научите повече.</Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Тази функция използва антивирусни дефиниции, предоставени от AVL и Tencent. Прочетете свързаните &lt;a href=\"%1$s\">лицензионни споразумения&lt;/a>, за да научите повече.</Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Тази функция използва антивирусни дефиниции, предоставени от Avast и AVL. Прочетете свързаните &lt;a href=\"%1$s\">лицензионни споразумения&lt;/a>, за да научите повече.</Data></string>
+	    <string name="clean_master_icon_recall_button_text">Добавяне</string>
+    <string name="clean_master_icon_recall_summary">Добавете пряк път на началния екран, за да изчистите кошчето по всяко време.</string>
+    <string name="clean_master_icon_recall_title">По-бързо изчистване на кошчето</string>
+    <string name="clean_master_icon_recall_toast_text">Успешно е добавен пряк път на началния екран за почистване</string>
 </resources>

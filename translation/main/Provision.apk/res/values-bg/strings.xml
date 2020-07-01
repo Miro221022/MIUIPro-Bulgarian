@@ -262,4 +262,7 @@
     <string name="location_miui">За да можете да използвате MIUI, трябва да се съгласите с горните условия</string>
     <string name="position_header">Споделяне на информация за местоположението</string>
     <string name="position_subheading">Информация за местоположението</string>
+	    <string name="home_settings_miui_home">Класически</string>
+    <string name="home_settings_poco_launcher">Чекмедже за приложения</string>
+    <string name="home_settings_title">Изберете стартер по подразбиране</string>
 </resources>

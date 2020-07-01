@@ -1755,4 +1755,9 @@
         <item>24-часов 13:00</item>
         <item>Автоматично (въз основа на системния език)</item>
     </string-array>
+	    <string-array name="paper_color_values">
+        <item>Пълни цветове</item>
+        <item>Светли цветове</item>
+        <item>Черно и бяло</item>
+    </string-array>
 </resources>

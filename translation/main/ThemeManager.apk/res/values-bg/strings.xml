@@ -184,7 +184,7 @@
   <string name="enable_transparent_wallpaper">Прозрачен тапет</string>
   <string name="enabling_all_free_mode">Осребряване…</string>
   <string name="error_icon_content_description">Грешка</string>
-  <string name="exchange_alert">Можете да получите купони по време на нашите промоционални събития и да ги обменяте за теми.</string>
+  <string name="exchange_alert">Можете да получите кодове по време на нашите събития и да ги осребрите тук.</string>
   <string name="exit_extreme_mode_dialog_agree">Приемам</string>
   <string name="exit_extreme_mode_dialog_cancel">Отказ</string>
   <string name="exit_extreme_mode_dialog_title">Изключете Екстремния режим</string>
@@ -568,7 +568,7 @@
   <string name="resource_exchange_confirm">ОК</string>
   <string name="resource_exchange_device_not_support">Този елемент не се поддържа на вашето устройство</string>
   <string name="resource_exchange_empty_format">Въведете кода!</string>
-  <string name="resource_exchange_has_bought">Вие вече закупихте тази тема.</string>
+  <string name="resource_exchange_has_bought">"Вече сте закупили този елемент"</string>
   <string name="resource_exchange_has_expired">Този код е изтекъл.</string>
   <string name="resource_exchange_has_used">Посоченият код вече е бил използван.</string>
   <string name="resource_exchange_hint">Въведете код</string>
@@ -577,7 +577,7 @@
   <string name="resource_exchange_share_code_dlg_content">Подаръчен код за %1$s: %2$s. Когато го изпратите на друг потребител, той може да го използва за изтегляне на тази MIUI тема</string>
   <string name="resource_exchange_share_code_dlg_title">Изпращане на код</string>
   <string name="resource_exchange_success">Осребрено успешно</string>
-  <string name="resource_exchange_unavailable">Въведеният код не е валиден за тази тема</string>
+  <string name="resource_exchange_unavailable">Този елемент не е наличен в момента</string>
   <string name="resource_exchange_universal_finish">Използвайте този код за изтегляне на теми от магазина на Miui.</string>
   <string name="resource_exchange_universal_goon">Този код може да бъде използван за изтегляне на тема по избор от магазина на MIUI.</string>
   <string name="resource_exchange_window_title">Активиране на код</string>
@@ -1025,4 +1025,33 @@ M/dd"</string>
 M/dd"</string>
      <string name="theme_designer_products">Дизайнерски теми</string>
      <string name="use_hint">Внимание</string>
+	     <string name="apply_failed">"Не може да се приложи"</string>
+    <string name="apply_succeed">Приложено успешно</string>
+    <string name="de_icon_text_reward">Награда</string>
+    <string name="detail_reward_alert">Възнаграждавайте талантливи дизайнери за тяхната работа</string>
+    <string name="detail_reward_build_order_error">"Не може да се създаде поръчка. Изчакайте минута или две и опитайте отново."</string>
+    <string name="detail_reward_custom_amount">Персонализирана стийност</string>
+    <string name="detail_reward_duplicate_order_error">Твърде много опити. Изчакайте минута или две и опитайте отново.</string>
+    <string name="detail_reward_exceed_limit">Наградите могат да съдържат до 200 CNY</string>
+    <string name="detail_reward_know_it">Разбрах</string>
+    <string name="detail_reward_limited_to_200">Наградите могат да съдържат до 200 Mi монети</string>
+    <string name="detail_reward_loading_failed">"Информацията не можа да се зареди Опитайте отново."</string>
+    <string name="detail_reward_no_one">Все още няма награди. Дайте първата!</string>
+    <string name="detail_reward_reached_upper_limit">"Не можете да наградите днес. Върнете се утре!"</string>
+    <string name="detail_reward_resource_error">"Не може да се награди поради грешка"</string>
+    <string name="detail_reward_server_error">Възникна грешка в сървъра. Изчакайте минута или две и опитайте отново.</string>
+    <string name="detail_reward_successed">Награден успешно</string>
+    <string name="detail_reward_thanks_for_fans_support">Благодарим за подкрепата!</string>
+    <string name="detail_reward_thanks_for_your_support">Благодарим за подкрепата!</string>
+    <string name="detail_reward_user_limited_to_display">Показват се само първите 100 души</string>
+    <string name="display">Показване</string>
+    <string name="resource_comment_error_not_bought">Трябва да използвате елемент, преди да го коментирате</string>
+    <string name="settings_search_keyword_font_free">Безплатни шрифтове</string>
+    <string name="settings_search_keyword_font_home">Шрифтове на началния екран</string>
+    <string name="settings_search_keyword_font_input">Шрифтове за метод на въвеждане</string>
+    <string name="settings_search_keyword_font_keyboard">Шрифтове на клавиатурата</string>
+    <string name="settings_search_keyword_font_manager">Управление на шрифтовете</string>
+    <string name="settings_search_keyword_font_online">Онлайн шрифтове</string>
+    <string name="settings_search_keyword_font_style">Формат на шрифта</string>
+    <string name="settings_search_keyword_font_wechat">WeChat шрифтове</string>
 </resources>

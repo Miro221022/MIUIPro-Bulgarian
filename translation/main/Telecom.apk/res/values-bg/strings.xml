@@ -366,11 +366,23 @@
   <string name="video_call_not_allowed_if_tty_enabled">Изключване на TTY режима за осъществяване на видеоповиквания.</string>
   <string name="missedcall_notification_public_version_title">Телефон</string>
   <string name="volume_boost_text">Звукът е увеличен успешно</string>
-  <string name="cant_call_due_to_ongoing_call">"Не може да се обадите. %1$s друго повикване е в ход."</string>
-  <string name="cant_call_due_to_ongoing_calls">"Не може да се обадите. Първо приключете разговора с %1$s."</string>
   <string name="cant_call_due_to_ongoing_unknown_call">"Не може да се осъществи обаждане поради повикване в друго приложение."</string>
-  <string name="change_default_dialer_dialog_affirmative">Задаване като приложение за телефон по подразбиране</string>
   <string name="duplicate_video_call_not_allowed">"Не могат да се добавят повече обаждания"</string>
   <string name="outgoing_call_not_allowed_no_permission">"Това приложение не може да извършва изходящи обаждания без необходимите разрешения."</string>
   <string name="telecommAppLabel">Управление на повикванията</string>
+    <string name="cant_call_due_to_no_supported_service">"Не може да се извърши повикване, защото няма профили за обаждания, които поддържат разговори от този тип."</string>
+    <string name="cant_call_due_to_ongoing_call">"Не може да се осъществи обаждане поради вашето %1$s обаждане."</string>
+    <string name="cant_call_due_to_ongoing_calls">"Не може да се обадите. Прекратете своето %1$s обаждане първо."</string>
+    <string name="change_default_call_screening_dialog_affirmative">Зададено по подразбиране</string>
+    <string name="change_default_dialer_dialog_affirmative">Зададено по подразбиране</string>
+    <string name="developer_title">Меню за програмисти на Telecom</string>
+    <string name="notification_channel_call_blocking">Блокиране на обаждания</string>
+    <string name="phone_settings_call_blocking_txt">Блокиране на обаждания</string>
+    <string name="phone_settings_number_not_in_contact_summary_txt">"Блокирайте номера, които не са посочени във вашите контакти"</string>
+    <string name="phone_settings_number_not_in_contact_txt">Нимера които не са в контакти</string>
+    <string name="phone_settings_private_num_summary_txt">"Блокирайте обаждащите се, които не разкриват техния номер"</string>
+    <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Блокирането на повиквания е изключено</string>
+    <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Блокиране на повиквания</string>
+    <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Блокирането на повиквания беше изключено, за да може спешните обаждания да се свържат с вас.</string>
+    <string name="respond_via_sms_failure_format">"Не можа да се изпрати съобщение до %s."</string>
 </resources>

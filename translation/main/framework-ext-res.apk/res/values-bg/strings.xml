@@ -338,4 +338,6 @@
     <string name="bluetooth_disable_notification_title">Bluetooth е изключен</string>
     <string name="bluetooth_enable_notification_content">%s включи Bluetooth</string>
     <string name="bluetooth_enable_notification_title">Bluetooth е включен</string>
+	    <string name="content_description_next">Следващо</string>
+    <string name="content_description_previous">Назад</string>
 </resources>

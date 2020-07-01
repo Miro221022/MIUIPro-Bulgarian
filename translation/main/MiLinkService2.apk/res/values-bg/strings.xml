@@ -161,4 +161,23 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
+	<string name="privacy_detail"><Data>Това приложение трябва да се свърже с интернет и да събира необходимите лични данни, за да може да работи нормално. За да разберете напълно вашите права като потребител, както и начините, по които използваме вашите данни, прочетете и се съгласете с нашите &lt;a href=%1$s>Потребителско споразумение&lt;/a> и &lt;a href=%2$s>Политика за поверителност&lt;/a>.</Data></string>
+    <string name="privacy_detail_extra"><Data>Някои функции се предоставят от трети доставчик на услуги HappyCast. Преди да използвате тази функция, прочетете и се съгласете с &lt;a href=%1$s>Политика за поверителност на HappyCast&lt;/a> и &lt;a href=%2$s>Правна декларация на HappyCast&lt;/a>.</Data></string>
+    <string name="privacy_explain">"Добре дошли в Излъчване! Излъчването позволява прожектиране на елементи от екрана на вашия телефон на по-голям външен монитор. Това приложение трябва да се свърже с интернет и изисква следните разрешения, за да може да работи нормално:"</string>
+    <string name="privacy_negative">Изход</string>
+    <string name="privacy_permission_ble">Включване и изключване на Bluetooth</string>
+    <string name="privacy_permission_ble_desc">За намиране на налични устройства в близост</string>
+    <string name="privacy_permission_location">Достъп до местоположението</string>
+    <string name="privacy_permission_location_desc">За намиране на налични устройства в близост</string>
+    <string name="privacy_permission_necessary">Задължителни разрешения</string>
+    <string name="privacy_permission_necessary_desc">Тези разрешения са необходими за предоставяне на основните функции и услуги на това приложение.</string>
+    <string name="privacy_permission_nfc_desc">За сдвояване на устройства, използващи NFC</string>
+    <string name="privacy_permission_optional">Разрешения по избор</string>
+    <string name="privacy_permission_optional_desc">"Използва се за допълнителни функции, докато ги използвате"</string>
+    <string name="privacy_permission_wlan">Включване и изключване на Wi-Fi</string>
+    <string name="privacy_permission_wlan_china">Включване и изключване на Wi-Fi</string>
+    <string name="privacy_permission_wlan_desc">За намиране на налични устройства в близост</string>
+    <string name="privacy_permission_wlan_desc_china">За намиране на налични устройства в близост</string>
+    <string name="privacy_positive">Приемам</string>
+    <string name="privacy_title">Внимание</string>
 </resources>

@@ -1993,4 +1993,8 @@ d MMMM"</string>
     <string name="accessibility_detail_switch_disable">Не е налично</string>
     <string name="accessibility_detail_switch_off">Изключи</string>
     <string name="accessibility_detail_switch_on">Включи</string>
+		    <string name="wifi_unsaved_network_linking">SSID мостове - автоматично свързване</string>
+    <string name="wifi_unsaved_network_linking_summary">Активиране на опити за автоматично свързване към нов WPA / WPA2-PSK 5GHz SSID с текущо свързани WPA / WPA2-PSK 2GHz SSID идентификационни данни за SSID и BSSID частично съвпадение</string>
+    <string name="wifi_whitelist_roaming">SSID мостове - бързо предаване</string>
+    <string name="wifi_whitelist_roaming_summary">Активиране на роуминг между различни SSID WPA / WPA2-PSK AP с същия MAC адрес на шлюза</string>
 </resources>

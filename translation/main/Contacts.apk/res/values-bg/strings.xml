@@ -160,7 +160,7 @@
     <string name="callrecordview_menu_batch_delete">Пакетно изтриване</string>
     <string name="callrecordview_menu_blocklist">Списък с блокирани</string>
     <string name="callrecordview_menu_conference">Конферентно обаждане</string>
-    <string name="callrecordview_menu_delete">Изчисти историята</string>
+    <string name="callrecordview_menu_delete">Изтриване</string>
     <string name="callrecordview_menu_delete_accepted">Изчистване на отговорените повиквания</string>
     <string name="callrecordview_menu_delete_all">Изчистване на историята на повикванията</string>
     <string name="callrecordview_menu_delete_called">Изчистване на изходящите повиквания</string>
