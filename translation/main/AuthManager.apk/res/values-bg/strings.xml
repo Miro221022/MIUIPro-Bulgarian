@@ -179,4 +179,6 @@
     <string name="permission_group_title_sensitive_privacy_related">Чувствителни разрешения</string>
     <string name="permission_list_include">"Включително следните:
 "</string>
+    <string name="HIPS_Perm_mediaVolume">Регулиране силата на звука на медията</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">Разрешаване на приложението да регулира силата на звука</string>
 </resources>

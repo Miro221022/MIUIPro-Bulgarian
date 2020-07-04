@@ -124,4 +124,18 @@
         <item>Да</item>
         <item>Не</item>
     </string-array>
+	     <string-array name="repeat_mode_mild_abnormal_array">
+         <item>Пон, Сря, Пет</item>
+         <item>Вто, Чет, Съб</item>
+         <item>Сря, Пет, Нед</item>
+     </string-array>
+     <string-array name="repeat_mode_week_array">
+         <item>Всеки Понеделник</item>
+         <item>Всеки Вторник</item>
+         <item>Всяка Сряда</item>
+         <item>Всеки Четвъртък</item>
+         <item>Всеки Петък</item>
+         <item>Всяка Събота</item>
+         <item>Всяка Неделя</item>
+     </string-array>
 </resources>

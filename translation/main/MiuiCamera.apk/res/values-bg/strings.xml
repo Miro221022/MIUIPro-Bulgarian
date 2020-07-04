@@ -1318,8 +1318,8 @@
     <string name="lighting_nostalgia">怀旧</string>
     <string name="lighting_phantom">魅影</string>
     <string name="lighting_rainbow">彩虹</string>
-    <string name="pref_camera_ai_shutter_description">智能选取按下快门时的最佳瞬间</string>
-    <string name="pref_camera_ai_shutter_title">AI抓拍</string>
-    <string name="unsupported_microphones_3d_record_tips">3D立体音不支持外接麦克风</string>
-    <string name="unsupported_microphones_audio_zoom_tips">音源变焦不支持外接麦克风</string>
+	<string name="pref_camera_ai_shutter_description">Автоматичен избор на най-добрите моменти при натискане на бутона за затвора</string>
+    <string name="pref_camera_ai_shutter_title">Интелигентен затвор</string>
+    <string name="unsupported_microphones_3d_record_tips">"3D звука не поддържа виншни микрофони"</string>
+    <string name="unsupported_microphones_audio_zoom_tips">"Аудио приближението не поддържа външни микрофони"</string>
 </resources>

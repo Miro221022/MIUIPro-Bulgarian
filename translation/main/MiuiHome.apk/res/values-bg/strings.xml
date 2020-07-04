@@ -576,4 +576,7 @@
     <string name="work_mode_off_label">"Известията са изключени и приложенията вече не са достъпни"</string>
     <string name="work_mode_on_label">Управлявани от вашата организация</string>
     <string name="work_profile_toggle_label">Работен профил</string>
+	<string name="navigation_type_full_screen">Жестове</string>
+    <string name="navigation_type_title">Придвижване в системата</string>
+    <string name="navigation_type_virtual_key">Бутони</string>
 </resources>
