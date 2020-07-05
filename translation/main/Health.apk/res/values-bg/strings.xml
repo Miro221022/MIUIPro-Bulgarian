@@ -1165,7 +1165,7 @@
      <string name="delete_dialog_close_sync_msg">За да изтриете %1$s, първо изключете синхронизирането на съответното устройство.</string>
      <string name="delete_dialog_confirm_msg_cloud">Изтриване на %1$s заедно със свързаните данни, съхранявани на това устройство и в облака?</string>
      <string name="delete_dialog_confirm_msg_local">Изтриване на %1$s заедно със свързаните данни?</string>
-     <string name="exercise_result_reminder_content">%1$d мин. упражнения (%2$d кал). Докоснете, за да видите подробности.</string>
+     <string name="exercise_result_reminder_content">%1$d мин. упражнения (%2$d кал). Докоснете за подробности.</string>
      <string name="exercise_result_reminder_title">"Днешният брой стъпки: %1$d. Достигнахте целта!"</string>
      <string name="exercise_result_reminder_title_unaccomplished">"Днешният брой стъпки: %1$d. Все още можете да достигнете целта!"</string>
 	 <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -1175,7 +1175,7 @@
      <string name="fmt_date_short_month_day">dd/MM</string>
 	 <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
 	 <string name="go_to_close">Настройки</string>
-     <string name="remind_sleep_report_content">Спахте %1$d час(а) %2$d мин. миналата нощ. Докоснете, за да видите подробности.</string>
+     <string name="remind_sleep_report_content">Спахте %1$d час(а) %2$d мин. миналата нощ. Докоснете за подробности.</string>
      <string name="remind_sleep_report_title">Статистиката на съня е готова</string>
 	 <string name="sleep_notice">Известия за сън</string>
 	 <string name="sleep_report_notice">Известия за статистиката на съня</string>
@@ -1208,6 +1208,7 @@
      <string name="each_week_day_format2">Всеки %1$s, %2$s, и %3$s</string>
      <string name="each_week_day_format3">Всеки %1$s до %2$s</string>
      <string name="every_day">Ежедневно</string>
+	 <string name="body_weight_2fkg">%1$.2f кг</string>
      <string name="high_pressure">Систолично (горна)</string>
      <string name="low_pressure">Диастолично (долна)</string>
      <string name="max_high_pressure">Максимално систолично (горна)</string>
