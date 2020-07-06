@@ -173,4 +173,30 @@
     <string name="privacy_permission_wlan_desc_china">За намиране на налични устройства в близост</string>
     <string name="privacy_positive">Приемам</string>
     <string name="privacy_title">Внимание</string>
+	
+	<string name="account_other">Друг</string>
+    <string name="close_hotspot_hint">Изключете преносимата гореща точка преди излъчването</string>
+    <string name="close_slave_wifi_hint">Прекъснете връзката от спомагателните Wi-Fi мрежи преди излъчването</string>
+    <string name="close_slave_wifi_hint_china">Прекъснете връзката от спомагателните Wi-Fi мрежи преди излъчването</string>
+    <string name="enable_screen_projection_summary">Прехвърляйте съдържанието на екрана към външен монитор</string>
+    <string name="keyguard_security_setting_privacy_policy">Политика за поверителност</string>
+    <string name="open_game_accelerate">Включи Game Turbo</string>
+    <string name="screen_projection">Излъчване</string>
+    <string name="screen_projection_characteristics">Специални функции</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Можете да продължите да излъчвате, когато екранът на вашето устройство е изключен. Тази функция намалява консумацията на енергия.</string>
+    <string name="screen_projection_characteristics_off_screen_title">Излъване със изключен екран</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">"Не показвай плаващи известия, входящи повиквания и други поверителни елементи на външни монитори."</string>
+    <string name="screen_projection_characteristics_privacy_protect_title">Скриване на поверителните елементи</string>
+    <string name="screen_projection_characteristics_small_window_summary">"Смаляване на прозореца, който се излъчва, за да можете да използвате други функции на вашия телефон."</string>
+    <string name="screen_projection_characteristics_small_window_title">Смаляване на прозореца</string>
+    <string name="screen_projection_example_document_summary">Показвайте презентации на външен монитор, докато използвате телефона си за превключване между слайдове и преглед на бележки. Отидете във Файлов мениджър > Документи, за да опитате тази функция.</string>
+    <string name="screen_projection_example_document_title">Документи</string>
+    <string name="screen_projection_example_gallery_summary">Докоснете бутона Споделяне под елемент в приложението Галерия, за да го покажете на външен монитор.</string>
+    <string name="screen_projection_example_gallery_title">Снимки и видеоклипове</string>
+    <string name="screen_projection_example_game_summary">Game Turbo ви позволява да прехвърляте игри към външен монитор. Използвайте прекия път в кутията с инструменти Game Turbo, за да включите тази функция.</string>
+    <string name="screen_projection_example_game_title">Игри</string>
+    <string name="screen_projection_help">Помощ</string>
+    <string name="screen_projection_sample_summary">Излъчване на документи, игри, снимки и видеоклипове</string>
+    <string name="screen_projection_sample_title">Демонстрации</string>
+    <string name="screen_projection_title">Излъчване</string>
 </resources>

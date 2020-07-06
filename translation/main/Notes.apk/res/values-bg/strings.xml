@@ -477,7 +477,10 @@
   <string name="widget_havenot_content">Няма бележки, натиснете тук за създаване.</string>
   <string name="yesterday">Вчера</string>
   <string name="trash_folder_reminder_new">Бележките се съхраняват в кошчето %d дни, преди да бъдат изтрити за постоянно</string>
-     <string name="cloud_service_state_open_reminder_note_and_todo">开启小米云同步，重要便签、待办不丢失</string>
-     <string name="sync_all_terms">%1$s и %2$s , %3$s</string>
+     <string name="cloud_service_state_open_reminder_note_and_todo">Включете синхронизирането с облака</string>
+     <string name="sync_all_terms">%1$s, %2$s и %3$s</string>
      <string name="sync_note_folder">%1$s и %2$s</string>
+	 <string name="cta_v2_agree_desc">Разрешете на това приложение да се свърже с интернет и да предостави задължителните разрешения, изброени по-горе.</string>
+     <string name="sync_folder_todo">%1$s и %2$s</string>
+     <string name="sync_note_todo">%1$s и %2$s</string>
 </resources>

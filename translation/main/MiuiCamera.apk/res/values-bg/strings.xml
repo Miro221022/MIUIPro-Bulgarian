@@ -1309,7 +1309,7 @@
     <string name="video_bokeh_zoom_out">Отдалечаване</string>
     <string name="watermark_tab_super_moon_silhouette">Силует</string>
     <string name="watermark_tab_super_moon_text">Текст</string>
-	    <string name="lighting_bright_red">嫣红</string>
+	<string name="lighting_bright_red">嫣红</string>
     <string name="lighting_dazzling">炫影</string>
     <string name="lighting_dreamland">梦境</string>
     <string name="lighting_gorgeous">斑斓</string>
@@ -1322,4 +1322,11 @@
     <string name="pref_camera_ai_shutter_title">Интелигентен затвор</string>
     <string name="unsupported_microphones_3d_record_tips">"3D звука не поддържа виншни микрофони"</string>
     <string name="unsupported_microphones_audio_zoom_tips">"Аудио приближението не поддържа външни микрофони"</string>
+	<string name="ambilight_intro_star_track_2">对星空进行长时间的拍摄，可将星星的移动路径完整保留在画面中，请使用三脚架。拍摄%d分钟以上时，可同时获得星轨视频与照片。</string>
+    <string name="cta_msg">欢迎您使用相机！您可使用本应用进行拍照和视频录制。在使用本应用时，我们将联网并向您申请以下可选权限：</string>
+    <string name="cta_perm_dec">记录拍摄照片和视频的位置信息</string>
+    <string name="cta_perm_loc">获取位置信息</string>
+    <string name="cta_perm_type">可选权限（用于附加功能，将在使用相关权限时申请）</string>
+    <string name="cta_user_tips"><Data>请您阅读并同意我们的&lt;a href =%1$s>《用户协议》&lt;/a>与&lt;a href =%2$s>《隐私政策》&lt;/a>，了解您的用户权益及相关使用数据的处理方法。</Data></string>
+    <string name="user_disagree">不同意</string>
 </resources>
