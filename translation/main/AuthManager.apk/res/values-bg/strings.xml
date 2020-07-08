@@ -181,4 +181,8 @@
 "</string>
     <string name="HIPS_Perm_mediaVolume">Регулиране силата на звука на медията</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Разрешаване на приложението да регулира силата на звука</string>
+	<string name="perm_action_allow">Разрешаване</string>
+    <string name="perm_action_deny">Никога не разрешавай</string>
+    <string name="perm_modem_location">Достъп до местоположението ви</string>
+    <string name="perm_modem_location_desc">Вашият оператор се опитва да получи достъп до информацията за вашето местоположение. Ще споделите ли информация за местоположението?</string>
 </resources>

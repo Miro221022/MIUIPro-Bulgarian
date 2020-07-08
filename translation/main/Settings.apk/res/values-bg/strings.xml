@@ -3921,7 +3921,7 @@ Xiaomi Облак
      <string name="not_battery_optimizing">Оптимизирането на батерията не се използва</string>
      <string name="not_installed">Не е инсталир. за потребителя</string>
      <string name="not_set">Не е зададено</string>
-     <string name="notch_and_status_bar_settings">Център за управление и панел за известия</string>
+     <string name="notch_and_status_bar_settings">Център за управление и лента за състоянието</string>
      <string name="notch_force_black_desc">Когато е включено, площта около прореза на екрана ще е черна</string>
      <string name="notch_force_black_title">Скриване на прореза на екрана</string>
      <string name="notch_settings">Прорез</string>
@@ -5643,7 +5643,7 @@ UT интерфейс: %5$s"</string>
      <string name="standby_bucket_summary">Състояние на готовност на приложението:  %s</string>
      <string name="start_silent_mode">Включи Тих режим</string>
      <string name="starting_android">Андроид се стартира…</string>
-     <string name="status_awaiting_tap">Tap a tag to write...</string>
+     <string name="status_awaiting_tap">Докоснете маркер, за да пишете...</string>
      <string name="status_awake_time">Време в будно състояние</string>
      <string name="status_bar_app_des_separator">", "</string>
      <string name="status_bar_app_disable_notification">Скрити известия</string>
@@ -5658,17 +5658,17 @@ UT интерфейс: %5$s"</string>
      <string name="status_bar_settings_manage_notification">Управление на известията</string>
      <string name="status_bar_settings_notification_bar">Лента с известия</string>
      <string name="status_bar_settings_status_bar">Лента за състоянието</string>
-     <string name="status_bar_title">Лента за състоянието</string>
+     <string name="status_bar_title">Център за управление и лента за състоянието</string>
      <string name="status_bt_address">Bluetooth адрес</string>
      <string name="status_data_network_type">Тип на мобилната мрежа за пренос на данни</string>
      <string name="status_data_state">Състояние на мобилната мрежа</string>
      <string name="status_esim_id">EID</string>
-     <string name="status_failed_to_write">Unable to write data to NFC tag. If the problem persists, try a different tag</string>
+     <string name="status_failed_to_write">Не може да се запишат данни в NFC маркер. Ако проблемът продължава, опитайте друг маркер</string>
      <string name="status_icc_id">Идентификатор на карта с ИС</string>
      <string name="status_iccid">ICCID</string>
      <string name="status_imei">IMEI</string>
      <string name="status_imei_sv">IMEI SV</string>
-     <string name="status_invalid_password">Invalid password, try again.</string>
+     <string name="status_invalid_password">Невалидна парола, опитайте отново.</string>
      <string name="status_latest_area_info">Информация за оператора</string>
      <string name="status_meid_number">MEID</string>
      <string name="status_min_number">MIN</string>
@@ -5687,7 +5687,7 @@ UT интерфейс: %5$s"</string>
      <string name="status_sim_1">SIM 1</string>
      <string name="status_sim_2">SIM 2</string>
      <string name="status_summary">Чукнете за подробности</string>
-     <string name="status_tag_not_writable">NFC tag is not writable. Please use a different tag.</string>
+     <string name="status_tag_not_writable">NFC маркерът не може да се записва. Моля, използвайте друг маркер.</string>
      <string name="status_unavailable">Няма данни</string>
      <string name="status_up_time">Време на активност</string>
      <string name="status_voice_network_type">Тип на мобилната мрежа за гласова комуникация</string>
@@ -7642,4 +7642,7 @@ UT интерфейс: %5$s"</string>
     <string name="wifi_unsaved_network_linking_summary">Активиране на опити за автоматично свързване към нов WPA / WPA2-PSK 5GHz SSID с текущо свързани WPA / WPA2-PSK 2GHz SSID идентификационни данни за SSID и BSSID частично съвпадение</string>
     <string name="wifi_whitelist_roaming">SSID мостове - бързо предаване</string>
     <string name="wifi_whitelist_roaming_summary">Активиране на роуминг между различни SSID WPA / WPA2-PSK AP с същия MAC адрес на шлюза</string>
+	<string name="location_modem_summary">Операторите ще получат вашето местоположение чрез базовите станции</string>
+    <string name="location_modem_title">Споделете информация за местоположението с оператора</string>
+	<string name="permission_action_prompt">Питане</string>
 </resources>

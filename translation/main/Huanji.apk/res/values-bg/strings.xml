@@ -1113,11 +1113,11 @@
      <string name="system_app_restore_failed">Възникна грешка</string>
      <string name="system_app_restore_failed_detail">"Не можаха да се възстановят системните елементи. Проверете мрежовите си настройки и не рестартирайте или изключвайте устройството си, докато елементите не бъдат напълно възстановени. Докоснете бутона по-долу, за да опитате отново."</string>
      <string name="system_restore">Възстановяване на елементи</string>
-	   <string name="dialog_wechat_data_transfer_fail_button">我知道了</string>
-  <string name="dialog_wechat_data_transfer_fail_message">"由于微信版本限制，相关数据(含聊天记录)没有成功迁移，建议您使用微信APP内的聊天记录备份与迁移功能进行迁移。
-步骤：打开微信APP&gt;我的&gt;设置&gt;通用&gt;聊天记录备份与迁移。"</string>
-  <string name="dialog_wechat_data_transfer_fail_title">微信数据迁移失败</string>
-    <string name="prompt_before_transmission_message5_summary">"Прехвърлянето на големи количества данни безжично може да причини леко прегряване, което не е необичайно. Вашето устройство ще се охлади скоро след приключване на прехвърлянето."</string>
-  <string name="prompt_before_transmission_message5_title">Устройството ви може да се загрее по време на прехвърляне.</string>
-    <string name="scanner_not_support_data_transfer_tip">不支持从非小米手机迁移应用数据(包括微信、QQ聊天记录)</string>
+     <string name="prompt_before_transmission_message5_summary">"Прехвърлянето на големи количества данни безжично може да причини леко прегряване, което не е необичайно. Вашето устройство ще се охлади скоро след приключване на прехвърлянето."</string>
+     <string name="prompt_before_transmission_message5_title">Устройството ви може да се загрее по време на прехвърляне.</string>
+	 <string name="dialog_wechat_data_transfer_fail_button">Разбрах</string>
+     <string name="dialog_wechat_data_transfer_fail_message">"Данните за приложението WeChat и историята на чата не можаха да се прехвърлят поради ограничения на приложението. Изпробвайте функцията за архивиране в приложението.
+Отворете WeChat и отидете в Мен > настройки > Основни > Архивиране и прехвърляне на чатове."</string>
+     <string name="dialog_wechat_data_transfer_fail_title">"Данните от приложението WeChat не можаха да се прехвърлят"</string>
+	 <string name="scanner_not_support_data_transfer_tip">"Данните от приложението (включително WeChat и QQ историята на чатовете) не могат да се прехвърлят от устройства, които не са Xiaomi."</string>
 </resources>

@@ -3465,8 +3465,12 @@
 	<string name="antivirus_privacy_dialog_summary_new"><Data>Тази функция използва антивирусни дефиниции, предоставени от Avast, AVL и Tencent. Прочетете свързаните &lt;a href=\"%1$s\">лицензионни споразумения&lt;/a>, за да научите повече.</Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Тази функция използва антивирусни дефиниции, предоставени от AVL и Tencent. Прочетете свързаните &lt;a href=\"%1$s\">лицензионни споразумения&lt;/a>, за да научите повече.</Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Тази функция използва антивирусни дефиниции, предоставени от Avast и AVL. Прочетете свързаните &lt;a href=\"%1$s\">лицензионни споразумения&lt;/a>, за да научите повече.</Data></string>
-	    <string name="clean_master_icon_recall_button_text">Добавяне</string>
+	<string name="clean_master_icon_recall_button_text">Добавяне</string>
     <string name="clean_master_icon_recall_summary">Добавете пряк път на началния екран, за да изчистите кошчето по всяко време.</string>
     <string name="clean_master_icon_recall_title">По-бързо изчистване на кошчето</string>
     <string name="clean_master_icon_recall_toast_text">Успешно е добавен пряк път на началния екран за почистване</string>
+	<string name="app_behavior_media_volume">%1s регулира сислата на звука на медията</string>
+    <string name="app_behavior_media_volume_bg">%1s регулира силата на звука на медията на заден план</string>
+    <string name="app_behavior_media_volume_bg_single">Това приложение коригира силата на звука на медията на заден план</string>
+    <string name="app_behavior_media_volume_single">Това приложение коригира силата на звука на медията</string>
 </resources>
