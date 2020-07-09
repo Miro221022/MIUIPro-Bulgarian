@@ -1268,7 +1268,7 @@
     <string name="timer_burst_setting_total_count">Количетсво:%1$s</string>
 	<string name="camera_fastmotion_title">Ускорено видео</string>
     <string name="pref_camera_ai_audio">ai audio</string>
-    <string name="pref_camera_fastmotion_duration_unit">%1$s分钟</string>
+    <string name="pref_camera_fastmotion_duration_unit">%1$s мин.</string>
     <string name="pref_camera_rec_type_3d_record">3D звук</string>
     <string name="pref_camera_rec_type_audio_zoom">Аудио приближение</string>
     <string name="pref_camera_rec_type_normal">Нормално</string>
@@ -1309,24 +1309,27 @@
     <string name="video_bokeh_zoom_out">Отдалечаване</string>
     <string name="watermark_tab_super_moon_silhouette">Силует</string>
     <string name="watermark_tab_super_moon_text">Текст</string>
-	<string name="lighting_bright_red">嫣红</string>
-    <string name="lighting_dazzling">炫影</string>
-    <string name="lighting_dreamland">梦境</string>
-    <string name="lighting_gorgeous">斑斓</string>
+	<string name="lighting_bright_red">Ярко червено</string>
+    <string name="lighting_dazzling">Ослепително</string>
+    <string name="lighting_dreamland">Страна на приказките</string>
+    <string name="lighting_gorgeous">Разкошно</string>
     <string name="lighting_lanshan">阑珊</string>
-    <string name="lighting_neon">霓虹</string>
-    <string name="lighting_nostalgia">怀旧</string>
-    <string name="lighting_phantom">魅影</string>
-    <string name="lighting_rainbow">彩虹</string>
+    <string name="lighting_neon">Неон</string>
+    <string name="lighting_nostalgia">Носталгия</string>
+    <string name="lighting_phantom">Фантом</string>
+    <string name="lighting_rainbow">Дъга</string>
 	<string name="pref_camera_ai_shutter_description">Автоматичен избор на най-добрите моменти при натискане на бутона за затвора</string>
     <string name="pref_camera_ai_shutter_title">Интелигентен затвор</string>
     <string name="unsupported_microphones_3d_record_tips">"3D звука не поддържа виншни микрофони"</string>
     <string name="unsupported_microphones_audio_zoom_tips">"Аудио приближението не поддържа външни микрофони"</string>
-	<string name="ambilight_intro_star_track_2">对星空进行长时间的拍摄，可将星星的移动路径完整保留在画面中，请使用三脚架。拍摄%d分钟以上时，可同时获得星轨视频与照片。</string>
-    <string name="cta_msg">欢迎您使用相机！您可使用本应用进行拍照和视频录制。在使用本应用时，我们将联网并向您申请以下可选权限：</string>
-    <string name="cta_perm_dec">记录拍摄照片和视频的位置信息</string>
-    <string name="cta_perm_loc">获取位置信息</string>
-    <string name="cta_perm_type">可选权限（用于附加功能，将在使用相关权限时申请）</string>
-    <string name="cta_user_tips"><Data>请您阅读并同意我们的&lt;a href =%1$s>《用户协议》&lt;/a>与&lt;a href =%2$s>《隐私政策》&lt;/a>，了解您的用户权益及相关使用数据的处理方法。</Data></string>
-    <string name="user_disagree">不同意</string>
+	 <string name="ambilight_intro_star_track_2">"Снимането на звездното небе за дълго време може да улови траекториите на звездите. Не забравяйте да използвате статив! Снимайте непрекъснато поне %d минути за да можете да получите както снимки, така и видеоклипове."</string>
+    <string name="cta_msg">Добре дошли в Камера! Можете да използвате това приложение за правене на снимки и заснемане на видеоклипове. Това приложение трябва да се свърже с интернет и изисква следните незадължителни разрешения:</string>
+     <string name="cta_perm_dec">За добавяне на информация за местоположението към снимки и видеоклипове</string>
+    <string name="cta_perm_loc">Местоположение</string>
+    <string name="cta_perm_type">"Незадължителни разрешения (използва се за допълнителни функции, докато ги използвате)"</string>
+     <string name="cta_user_tips"><Data>За да разберете напълно вашите права като потребител, както и начините, по които използваме данните ви, прочетете и се съгласете с нашите &lt;a href =%1$s>Потребителско споразумение&lt;/a> и &lt;a href =%2$s>Политика за поверителност&lt;/a>.</Data></string>
+    <string name="user_disagree">"Не приемам"</string>
+	<string name="ambilight_intro_magic_star_ae">在光污染较少的场所进行拍摄，即可拍出璀璨的星空；最久需要拍摄%d秒，请使用三脚架</string>
+    <string name="lighting_movie_light_effect_title">电影光效</string>
+	<string name="pref_multi_camera_dual_video_front">Предна камера</string>
 </resources>

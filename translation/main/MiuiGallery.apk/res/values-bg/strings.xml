@@ -639,7 +639,6 @@
   <string name="filter_category_film">Филм</string>
   <string name="filter_category_food">Храна</string>
   <string name="filter_category_master">Изкуство</string>
-  <string name="filter_category_portrait">Портрет</string>
   <string name="filter_category_scene">Пейзаж</string>
   <string name="filter_category_sky">Небе</string>
   <string name="filter_film_blackwhite">Ч/Б</string>
@@ -2020,7 +2019,7 @@
   <string name="filter_general_greenorange">Лайм</string>
   <string name="filter_general_movie">Филм</string>
   <string name="filter_movie_portrait">Цветен фокус</string>
-    <string name="online_video_normal_transcoding">Този видеоклип се прекодира в момента. Изчакайте минута или две и опитайте отново.</string>
+    <string name="online_video_normal_transcoding">"Онлайн изпълнението все още не е готово. Вместо това изтеглете елемента."</string>
     <string name="online_video_vip_tip">Станете VIP член, за да предавате видеоклипове, без предварително зареждане</string>
     <string name="online_video_vip_transcoding">"Предстои да започне VIP излъчване…
 Прекодирането може да отнеме известно време, когато използвате тази функция за първи път."</string>
@@ -2042,4 +2041,29 @@
 	 <string name="operation_sort">Сортиране</string>
 	 <string name="share_and_delete_screenshot">Изтриване след споделяне</string>
 	 <string name="special_type_ai_audio">AI звук</string>
+	 <string name="burst_save_video">Запази като видео</string>
+    <string name="burst_save_video_fail">"Не може да се запази"</string>
+    <string name="burst_save_video_progerss">Създаване на видео…</string>
+    <string name="burst_save_video_title">Разделителна способност на видеото</string>
+    <string name="filter_category_classic">Класика</string>
+    <string name="filter_category_popular">Популярни</string>
+    <string name="filter_category_portrait">Портрет</string>
+    <string name="filter_popular_humanity">Документални</string>
+    <string name="filter_popular_lnk">Мастило</string>
+    <string name="filter_popular_purple">Лилаво</string>
+    <string name="filter_portrait_greyish">Пепел</string>
+    <string name="filter_portrait_mist">Мъглявина</string>
+    <string name="filter_portrait_painting">Живопис</string>
+    <string name="loading_text_format" formatted="false">Премахване на лична информация от снимките (%d/%d)…</string>
+    <string name="online_video_error_unknown">Възникна грешка при онлайн възпроизвеждането. Вместо това изтеглете елемента.</string>
+    <string name="online_video_error_unsupported_type">"Онлайн плейърът не поддържа този формат. Вместо това изтеглете елемента."</string>
+    <string name="screen_editor_btn_shell_off">Премахване на рамката на устройството</string>
+    <string name="screen_editor_btn_shell_on">Добавете рамка на устройството</string>
+    <string name="screen_editor_crop_disallowed_with_shell">"Не можете да изрежете екранни снимки с рамката на устройството"</string>
+    <string name="screen_editor_shell_disallowed_with_crop">"Не може да се добави рамка на устройството към изрязани екранни снимки"</string>
+    <string name="screen_editor_shell_net_error">Свържете се с мрежата, за да изтеглите рамката на устройството</string>
+    <string name="screen_editor_shell_res_downloading">Изтегляне на рамката на устройството…</string>
+    <string name="screen_editor_shell_storage_insufficient">"Не може да се изтегли рамката на устройството поради недостатъчно място за съхранение"</string>
+    <string name="time_burst_photo_enter">Време за серийно заснемане</string>
+    <string name="time_burst_preview_title">Време за серийно заснемане</string>
 </resources>
