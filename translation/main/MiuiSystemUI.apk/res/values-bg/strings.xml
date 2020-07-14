@@ -988,8 +988,10 @@
   <string name="lockscreen_access_pattern_start">Фигурата е започната</string>
   <string name="lockscreen_carrier_default">Няма услуга</string>
   <string name="lockscreen_charging_msg">Зарежда се</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Направихте опит да отключите устройството неправилно %d пъти. След още %d неуспешни опита ще бъдат възстановени стандартните му фабрични настройки и всички потребителски данни ще бъдат заличени.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Въведохте неправилно паролата си %d пъти. След още %d неуспешни опита ще бъдете помолени да отключите устройството посредством данните за вход в профила ви.\n\n Опитайте отново след %d секунди.</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Неправилно сте се опитали да отключите телефона %1$d пъти. След още %2$d неуспешни опита телефонът ще бъде нулиран до фабрични настройки и всички потребителски данни ще бъдат загубени.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin">"Неправилно сте въвели паролата си %1$d пъти. След още %2$d неуспешни опита, ще бъдете помолени да отключите телефона си чрез вашият Mi профил.
+	
+Опитайте отново след %3$d секунди."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Направихте опит да отключите устройството неправилно %d пъти. Сега ще бъдат възстановени стандартните му фабрични настройки.</string>
   <string name="lockscreen_none">Няма</string>
   <string name="lockscreen_shortcut_left">Ляв пряк път</string>

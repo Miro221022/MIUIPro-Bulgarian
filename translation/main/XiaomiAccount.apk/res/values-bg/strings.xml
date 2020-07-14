@@ -586,4 +586,5 @@
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
 	<string name="get_identity_auth_url_failed">"Идент. № не можа да се потвърди"</string>
+	<string name="copy_to_clipboard_successful">Копирано успешно</string>
 </resources>

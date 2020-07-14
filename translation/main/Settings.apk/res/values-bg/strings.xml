@@ -3283,7 +3283,7 @@ Xiaomi Облак
      <string name="lockpassword_choose_your_pin_header_for_fingerprint">Задайте ПИН, за да ползвате отпечатък</string>
      <string name="lockpassword_choose_your_pin_header_second_space">\"Задайте PIN за Второ пространство\"</string>
      <string name="lockpassword_choose_your_pin_message">От съображения за сигурност задайте ПИН код</string>
-     <string name="lockpassword_choose_your_pin_title" formatted="false">Въведете %d-%d цифри</string>
+     <string name="lockpassword_choose_your_pin_title">Въведете %1$d-%2$d цифри</string>
      <string name="lockpassword_choose_your_screen_lock_header">Задаване на заключване на екрана</string>
      <string name="lockpassword_clear_label">Изчистване</string>
      <string name="lockpassword_confirm_for_second_user">Потвърдете вашата парола за Второ пространство</string>
@@ -6260,7 +6260,7 @@ UT интерфейс: %5$s"</string>
      <string name="unlock_set_unlock_password_title">Парола</string>
      <string name="unlock_set_unlock_pattern_summary">Начертайте прост шаблон с пръста си за да отключите устройството</string>
      <string name="unlock_set_unlock_pattern_title">Фигура</string>
-     <string name="unlock_set_unlock_pin_summary" formatted="false">Въведете %d-%d цифри,за да отключите устройството</string>
+     <string name="unlock_set_unlock_pin_summary">Въведете %1$d-%2$d цифри за отключване на устройството</string>
      <string name="unlock_set_unlock_pin_title">PIN</string>
      <string name="unlock_set_unlock_summary">Моля, включете заключването на екрана, преди да изберете метода му</string>
      <string name="unlock_setup_wizard_fingerprint_details">След като сте настроили заключване на екрана, можете да настроите и отпечатъка си от „Настройки“ &gt; „Сигурност“.</string>
@@ -7645,4 +7645,16 @@ UT интерфейс: %5$s"</string>
 	<string name="location_modem_summary">Операторите ще получат вашето местоположение чрез базовите станции</string>
     <string name="location_modem_title">Споделете информация за местоположението с оператора</string>
 	<string name="permission_action_prompt">Питане</string>
+	<string name="accessibility_settings_tabs_general">Основни</string>
+    <string name="accessibility_settings_tabs_hearing">Слухови</string>
+    <string name="accessibility_settings_tabs_physical">Психически</string>
+    <string name="accessibility_settings_tabs_visual">Виждане</string>
+    <string name="ai_call_assistant">ИИ повиквания</string>
+    <string name="hearing_aids_category">Слухови помощни средства</string>
+    <string name="input_device_category">Устройство за въвеждане</string>
+    <string name="security_input_enable">Безопасна клавиатура</string>
+    <string name="security_input_num_order">Фиксирано</string>
+    <string name="security_input_num_random_order">Произволно</string>
+    <string name="security_input_num_setting_title">Цифрова клавиатура</string>
+    <string name="voice_access">Гласово управление</string>
 </resources>

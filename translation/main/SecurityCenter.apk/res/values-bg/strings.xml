@@ -3473,4 +3473,31 @@
     <string name="app_behavior_media_volume_bg">%1s регулира силата на звука на медията на заден план</string>
     <string name="app_behavior_media_volume_bg_single">Това приложение коригира силата на звука на медията на заден план</string>
     <string name="app_behavior_media_volume_single">Това приложение коригира силата на звука на медията</string>
+	<string name="first_settings_default_camera_title">Споделяне без метаданни по подразбиране</string>
+    <string name="first_settings_default_location_subtitle">Премахване на информация за местоположението от споделените снимки</string>
+    <string name="first_settings_default_location_title">Споделяне без информация за местоположението по подразбиране</string>
+    <string name="first_settings_share_enable">Добавяне на значка \"Безопасно споделяне\"</string>
+    <string name="first_settings_share_enable_subtitle">Елементите, които споделяте в WeChat, ще се показват със значка MIUI</string>
+    <string name="first_settings_subtitle">Тук са достъпни опциите за безопасно споделяне:</string>
+    <string name="first_settings_title">Защитете поверителността си</string>
+    <string name="loading_text_format" formatted="false">Премахване на лична информация от снимките (%d/%d)…</string>
+    <string name="notification_garbage_clean_botton_text">Изчисти</string>
+    <string name="notification_garbage_clean_hint">Почистване на място за съхранение</string>
+    <string name="notification_garbage_clean_size">Освобождаване на %s</string>
+    <string name="notification_whatsapp_clean_button_text">Изчисти</string>
+    <string name="notification_whatsapp_clean_size">WhatsApp кеша достигна %s</string>
+    <string name="once_settings_camera_ttile">Споделяне без метаданни</string>
+    <string name="once_settings_location_title">Споделяне без информация за местоположението</string>
+    <string name="once_settings_subtitle">Как бихте искали да споделите избраните елементи?</string>
+    <string name="once_settings_title">Защита на поверителността</string>
+    <string name="settings_camera_subtitle_no">Няма метаданни</string>
+    <string name="settings_image_camera_summary">Модел на устройството, метаданни и т.н..</string>
+    <string name="settings_location_subtitle_no">Няма информация за местоположението</string>
+    <string name="settings_share_enable_summary">Елементите, които споделяте в WeChat, ще се показват със значка MIUI</string>
+    <string name="settings_share_info">Ето възможностите за безопасно споделяне, налични за елементите, споделени от Галерия и Файлов мениджър:</string>
+    <string name="settings_show_detail">Подробности</string>
+    <string name="settings_tip">Отидете в Галерия > Настройки, за да видите още възможности</string>
+    <string name="settings_title">Безопасно споделяне</string>
+    <string name="text_security">Поверителност</string>
+    <string name="vb_quick_func_auto_bgm">Разпознаване на музиката на заден план</string>
 </resources>

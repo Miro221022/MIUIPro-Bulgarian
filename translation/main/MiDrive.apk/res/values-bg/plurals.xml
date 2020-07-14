@@ -1,151 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="delete_files_confirm">
-        <item quantity="other">Изтриване на %1$d файла</item>
-        <item quantity="zero">Изтриване на %1$d файла</item>
-        <item quantity="one">Изтриване на %1$d файл</item>
-        <item quantity="two">Изтриване на %1$d файла</item>
-        <item quantity="few">Изтриване на %1$d файла</item>
-        <item quantity="many">Изтриване на %1$d файла</item>
-    </plurals>
-    <plurals name="delete_folders_confirm">
-        <item quantity="other">" и %1$d папки?"</item>
-        <item quantity="zero">" и %1$d папки?"</item>
-        <item quantity="one">" и %1$d папка?"</item>
-        <item quantity="two">" и %1$d папки?"</item>
-        <item quantity="few">" и %1$d папки?"</item>
-        <item quantity="many">" и %1$d папки?"</item>
-    </plurals>
-    <plurals name="directory_item_count">
-        <item quantity="other">%d елемента</item>
-        <item quantity="zero">%d елемента</item>
-        <item quantity="one">%d елемент</item>
-        <item quantity="two">%d елемента</item>
-        <item quantity="few">%d елемента</item>
-        <item quantity="many">%d елемента</item>
-    </plurals>
-    <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d файла остават за изтегляне</item>
-        <item quantity="zero">%1$d файла остават за изтегляне</item>
-        <item quantity="one">%1$d файл остава за изтегляне</item>
-        <item quantity="two">%1$d файла остават за изтегляне</item>
-        <item quantity="few">%1$d файла остават за изтегляне</item>
-        <item quantity="many">%1$d файла остават за изтегляне</item>
-    </plurals>
-    <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">%1$d файла остават за качване</item>
-        <item quantity="zero">%1$d файла остават за качване</item>
-        <item quantity="one">%1$d файл остава за качване</item>
-        <item quantity="two">%1$d файла остават за качване</item>
-        <item quantity="few">%1$d файла остават за качване</item>
-        <item quantity="many">%1$d файла остават за качване</item>
-    </plurals>
-    <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">%1$d файла остават за прехвърляне</item>
-        <item quantity="zero">%1$d файла остават за прехвърляне</item>
-        <item quantity="one">%1$d файл остава за прехвърляне</item>
-        <item quantity="two">%1$d файла остават за прехвърляне</item>
-        <item quantity="few">%1$d файла остават за прехвърляне</item>
-        <item quantity="many">%1$d файла остават за прехвърляне</item>
-    </plurals>
-    <plurals name="numSelectedFile">
-        <item quantity="other">%1$d избрани</item>
-        <item quantity="zero">%1$d избрани</item>
-        <item quantity="one">%1$d избран</item>
-        <item quantity="two">%1$d избрани</item>
-        <item quantity="few">%1$d избрани</item>
-        <item quantity="many">%1$d избрани</item>
-    </plurals>
-    <plurals name="items_file">
-        <item quantity="other"> (%1$d елемента)</item>
-        <item quantity="zero"> (%1$d елемента)</item>
-        <item quantity="one"> (%1$d елемент)</item>
-        <item quantity="two"> (%1$d елемента)</item>
-        <item quantity="few"> (%1$d елемента)</item>
-        <item quantity="many"> (%1$d елемента)</item>
-    </plurals>
-    <plurals name="items_picture">
-        <item quantity="other"> (%1$d елемента)</item>
-        <item quantity="zero"> (%1$d елемента)</item>
-        <item quantity="one"> (%1$d елемент)</item>
-        <item quantity="two"> (%1$d елемента)</item>
-        <item quantity="few"> (%1$d елемента)</item>
-        <item quantity="many"> (%1$d елемента)</item>
-    </plurals>
-    <plurals name="file_count">
-        <item quantity="other"> %1$d елемента</item>
-        <item quantity="zero"> %1$d елемента</item>
-        <item quantity="one"> %1$d елемент</item>
-        <item quantity="two"> %1$d елемента</item>
-        <item quantity="few"> %1$d елемента</item>
-        <item quantity="many"> %1$d елемента</item>
-    </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">Преди %1$d минути</item>
-        <item quantity="zero">Преди %1$d минути</item>
-        <item quantity="one">Преди %1$d минута</item>
-        <item quantity="two">Преди %1$d минути</item>
-        <item quantity="few">Преди %1$d минути</item>
-        <item quantity="many">Преди %1$d минути</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">Преди %1$d часа</item>
-        <item quantity="zero">Преди %1$d часа</item>
-        <item quantity="one">Преди %1$d час</item>
-        <item quantity="two">Преди %1$d часа</item>
-        <item quantity="few">Преди %1$d часа</item>
-        <item quantity="many">Преди %1$d часа</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">Преди %1$d дни</item>
-        <item quantity="zero">Преди %1$d дни</item>
-        <item quantity="one">Преди %1$d ден</item>
-        <item quantity="two">Преди %1$d дни</item>
-        <item quantity="few">Преди %1$d дни</item>
-        <item quantity="many">Преди %1$d дни</item>
-    </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%1$d секунди</item>
-        <item quantity="zero">%1$d секунди</item>
-        <item quantity="one">%1$d секунда</item>
-        <item quantity="two">%1$d секунди</item>
-        <item quantity="few">%1$d секунди</item>
-        <item quantity="many">%1$d секунди</item>
-    </plurals>
-    <plurals name="mins">
-        <item quantity="other">%1$d минути</item>
-        <item quantity="zero">%1$d минути</item>
-        <item quantity="one">%1$d минута</item>
-        <item quantity="two">%1$d минути</item>
-        <item quantity="few">%1$d минути</item>
-        <item quantity="many">%1$d минути</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%1$d часа</item>
-        <item quantity="zero">%1$d часа</item>
-        <item quantity="one">%1$d час</item>
-        <item quantity="two">%1$d часа</item>
-        <item quantity="few">%1$d часа</item>
-        <item quantity="many">%1$d часа</item>
-    </plurals>
-    <plurals name="days">
-        <item quantity="other">%1$d дни</item>
-        <item quantity="zero">%1$d дни</item>
-        <item quantity="one">%1$d ден</item>
-        <item quantity="two">%1$d дни</item>
-        <item quantity="few">%1$d дни</item>
-        <item quantity="many">%1$d дни</item>
-    </plurals>
-    <plurals name="des_running_trans">
-        <item quantity="other">"%1$d файла не бяха прехвърлени."</item>
-        <item quantity="one">"%1$d файл не бе пехвърлен."</item>
-    </plurals>
-    <plurals name="delete_folders">
-        <item quantity="other">Изтриване на %1$d папки?</item>
-        <item quantity="one">Изтриване на тази папка?</item>
-    </plurals>
-    <plurals name="delete_files">
-        <item quantity="other">Изтриване на %1$d файла?</item>
-        <item quantity="one">Изтриване на този файл?</item>
-    </plurals>
+  <plurals name="days_ago">
+    <item quantity="other">Преди %1$d дни</item>
+    <item quantity="one">Преди %1$d ден</item>
+  </plurals>
+  <plurals name="download_done_info_for_sys_content">
+    <item quantity="other">Изтеглени са %1$d елемента успешно</item>
+    <item quantity="one">Изтеглен е %1$d елемент успешно</item>
+  </plurals>
+  <plurals name="download_fail_info_for_sys_content">
+    <item quantity="other">"Не могат да се изтеглят %1$d елемента"</item>
+    <item quantity="one">"Не може да се изтегли %1$d елемент"</item>
+  </plurals>
+  <plurals name="downloading_info_for_sys_title">
+    <item quantity="other">Изтегля се… %1$d елемента остават (%2$s%%)</item>
+    <item quantity="one">Изтегля се… %1$d елемент остава (%2$s%%)</item>
+  </plurals>
+  <plurals name="exception_copy_delete">
+    <item quantity="other">"Някои елементи липсват. Не могат да се копират %1$d елемента."</item>
+    <item quantity="one">"Някои елементи липсват. Не може да се копира %1$d елемент."</item>
+  </plurals>
+  <plurals name="exception_move_delete">
+    <item quantity="other">"Някои елементи липсват. Не могат да се преместят %1$d елемента."</item>
+    <item quantity="one">"Някои елементи липсват. Не може да се премести %1$d елемент."</item>
+  </plurals>
+  <plurals name="hours_ago">
+    <item quantity="other">Преди %1$d часа</item>
+    <item quantity="one">Преди %1$d час</item>
+  </plurals>
+  <plurals name="mins_ago">
+    <item quantity="other">Преди %1$d минути</item>
+    <item quantity="one">Преди %1$d минута</item>
+  </plurals>
+  <plurals name="search_head_hint_file">
+    <item quantity="other">%2$d елемента съдържащи \"%1$s\"</item>
+    <item quantity="one">%2$d елемент съдържа \"%1$s\"</item>
+  </plurals>
+  <plurals name="setting_file_list_item_desc">
+    <item quantity="other">%1$d елемента | %2$s | %3$s</item>
+    <item quantity="one">%1$d елемент | %2$s | %3$s</item>
+  </plurals>
+  <plurals name="setting_list_folder_item_desc">
+    <item quantity="other">%1$d елемента | %2$s</item>
+    <item quantity="one">%1$d елемент | %2$s</item>
+  </plurals>
+  <plurals name="text_group_count">
+    <item quantity="other">%1$d елемента</item>
+    <item quantity="one">%1$d елемент</item>
+  </plurals>
+  <plurals name="upload_done_info_for_sys_content">
+    <item quantity="other">Качени са %1$d елемента успешно</item>
+    <item quantity="one">Качен е %1$d елемент успешно</item>
+  </plurals>
+  <plurals name="upload_fail_info_for_sys_content">
+    <item quantity="other">"Не могат да се качат %1$d елемента"</item>
+    <item quantity="one">"Не може да се качи %1$d елемент"</item>
+  </plurals>
+  <plurals name="uploading_info_for_sys_title">
+    <item quantity="other">Качва се… %1$d елемента остават (%2$s%%)</item>
+    <item quantity="one">Качва се… %1$d елемент остава (%2$s%%)</item>
+  </plurals>
 </resources>

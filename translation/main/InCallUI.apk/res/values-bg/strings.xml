@@ -207,6 +207,6 @@
     <string name="ai_assistant">Интелигентен асистент за обаждания</string>
     <string name="ai_assistant_not_installed">Първо инсталирайте асистента за обаждания</string>
     <string name="enter_ai_assistant">Използвай</string>
-    <string name="enter_ai_assistant_tip">"Асистента може да приеме това повикване и да преписва речта на другия човек вместо вас. Да се разреши ли на асистента да отговори сега?"</string>
+    <string name="enter_ai_assistant_tip">"ИИ може да преобразува текст в реч, ако не ви е удобно да говорите в момента. Да се използва ли ИИ за това повикване?"</string>
     <string name="video_call_downgrade_insufficient_bandwidth">Недостатъчна честотна лента, преминаване към гласово повикване</string>
 </resources>

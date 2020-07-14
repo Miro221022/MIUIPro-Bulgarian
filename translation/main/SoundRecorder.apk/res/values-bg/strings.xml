@@ -319,4 +319,12 @@
 	    <string name="app_record">Записи на приложения</string>
     <string name="app_record_preference_title">Записи на приложения</string>
     <string name="record_list_app">Записи на приложения</string>
+	    <string name="recovery">Възстановяване</string>
+    <string name="recovery_failed_dialog_button">Разбрах</string>
+    <string name="recovery_failed_dialog_title">Внимание</string>
+    <string name="save_record_dialog_title">Запази записа</string>
+    <string name="trash_box">Наскоро изтрити елементи</string>
+    <string name="trash_box_close_tip">Затвори подсказката</string>
+    <string name="trash_box_delete_all">Да се изтрият ли всички елементи от кошчето завинаги?</string>
+    <string name="user_feedback">Отзиви</string>
 </resources>
