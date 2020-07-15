@@ -1248,7 +1248,7 @@
   <string name="gb_wonderful_video_delete">Изтрий</string>
   <string name="gb_wonderful_video_header_title">Днес</string>
   <string name="gb_wonderful_video_save_suc">Запазено</string>
-  <string name="gdpr_msg">" "<Data>"За да използвате основните функции на Сигурност, трябва да се съгласите, че Xiaomi ще събира, обработва и използва вашите лични данни, включително информация за начините, по които използвате функциите на Сигурност (например, статистика за използване на мобилни данни, информация за злонамерен софтуер, както и основна информация за вашето устройство) и други видове информация, посочени в нашата &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Политика за поверителност&lt;/a&gt;."</Data>" "</string>
+  <string name="gdpr_msg">&lt;Data&gt;"За да можем да открием рискове за сигурността и да защитим вашите данни, трябва да съберем необходимото количество информация за вашето устройство. Прочетете и се съгласете с нашата &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Политика за поверителност&amp;lt;/a&amp;gt; преди да използвате нашите услуги. В случай, че не ни разрешите да събираме такава информация, все пак ще можете да използвате това приложение, но някои функции няма да са достъпни. "&lt;/Data&gt;</string>
   <string name="get_sys_info">Заявка за информация…</string>
   <string name="gigabyteShort">ГБ</string>
   <string name="global_wa_setting_alert_dialog_content">Можете да освободите %s</string>
@@ -3500,4 +3500,14 @@
     <string name="settings_title">Безопасно споделяне</string>
     <string name="text_security">Поверителност</string>
     <string name="vb_quick_func_auto_bgm">Разпознаване на музиката на заден план</string>
+	<string name="clean_master_icon_recall_dialog_button_negative">Не благодаря</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Добави</string>
+  <string name="clean_master_icon_recall_dialog_summary">Добавете пряк път на началния екран, за да изчистите кошчето по всяко време.</string>
+  <string name="clean_master_icon_recall_dialog_title">По-бързо изчистване на кошчето</string>
+  <string name="clean_master_icon_recall_hint">Добавете пряк път към началния екран</string>
+  <string name="gb_gpu_driver_btn_update">Проверка за актуализации</string>
+  <string name="gb_gpu_driver_update">Актуализация на драйверите на графичния процесор</string>
+  <string name="gb_gpu_driver_update_app">Актуализирай</string>
+  <string name="gb_gpu_driver_update_app_tips">Текущата версия е актуална</string>
+  <string name="vtb_function_video_translation">Превод в реално време</string>
 </resources>

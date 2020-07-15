@@ -60,4 +60,5 @@
     <string name="edge_mode_custom_summary">Регулирайте размера на зоните за събуждане по краищата на екрана</string>
     <string name="edge_mode_custom_title">Персонализиране</string>
     <string name="edge_mode_default_title">По подразбиране</string>
+	<string name="name_xiao_ai">Mi AI</string>  
 </resources>
