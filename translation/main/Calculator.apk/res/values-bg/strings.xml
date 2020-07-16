@@ -724,4 +724,15 @@
 	<string name="thursday">Четвъртък</string>
     <string name="thursday_short">Чет</string>
     <string name="thursday_shortest">Чет</string>
+	  <string name="investment_invalid_duration">Продължителността на инвестицията трябва да бъде по-голяма от нула</string>
+  <string name="investment_type_once">Еднократно</string>
+  <string name="investment_type_recurring">Повтарящи</string>
+  <string name="item_page_title_investment">Инвестиционен калкулатор</string>
+  <string name="item_title_investment">Инвестиция</string>
+  <string name="label_investment_duration">Продължителност</string>
+  <string name="label_total_investment">Обща инвестиция</string>
+  <string name="label_total_value">Обща стойност</string>
+  <string name="tv_recurrence_monthly">Месечно</string>
+  <string name="tv_recurrence_quaterly">Тримесечие</string>
+  <string name="tv_recurrence_yearly">Годишно</string>
 </resources>
