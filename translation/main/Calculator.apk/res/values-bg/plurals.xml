@@ -29,6 +29,18 @@
     <item quantity="other">Преди %d мин.</item>
     <item quantity="one">Преди 1 мин.</item>
   </plurals>
+  <plurals name="age_label_days">
+    <item quantity="other">%d дни</item>
+    <item quantity="one">%d ден</item>
+  </plurals>
+  <plurals name="age_label_months">
+    <item quantity="other">%d месеца</item>
+    <item quantity="one">%d месец</item>
+  </plurals>
+  <plurals name="age_label_yrs">
+    <item quantity="other">години</item>
+    <item quantity="one">година</item>
+  </plurals>
   <plurals name="entries">
     <item quantity="other">%d елемента</item>
     <item quantity="one">%d елемент</item>
@@ -49,6 +61,10 @@
     <item quantity="other">след %d минути</item>
     <item quantity="one">след 1 минута</item>
   </plurals>
+  <plurals name="items_selected">
+    <item quantity="other">%d избрани елемента</item>
+    <item quantity="one">%d избран елемент</item>
+  </plurals>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Сега</item>
   </plurals>
@@ -68,17 +84,12 @@
     <item quantity="other">Преди %d минути</item>
     <item quantity="one">Преди 1 минута</item>
   </plurals>
-      <plurals name="delete_msg">
-        <item quantity="other">Изтриване на %d елемента сега?</item>
-        <item quantity="one">Изтриване на %d елемент сега?</item>
-    </plurals>
-    <plurals name="select_items">
-        <item quantity="other">Избрани са %d елемента</item>
-        <item quantity="one">Избран е %d елемент</item>
-    </plurals>
-	     <plurals name="tenure_years">
-         <item quantity="other">%d години</item>
-         <item quantity="one">%d година</item>
-     </plurals>
-
+  <plurals name="tenure_months">
+    <item quantity="other">%d месеца</item>
+    <item quantity="one">%d месец</item>
+  </plurals>
+  <plurals name="tenure_years">
+    <item quantity="other">%d години</item>
+    <item quantity="one">%d година</item>
+  </plurals>
 </resources>

@@ -1235,4 +1235,10 @@
      <string name="systolic_pressure">Систолично</string>
      <string name="tb_home_blood_pressure_card">Кръвно налягане. Систолично: %1$d. Диастолично: %2$d. Записано: %3$s. Състояние: %4$s.</string>
      <string name="tb_home_blood_pressure_card_no_data">Кръвно налягане. Няма данни.</string>
+	 <string name="high2">Високо</string>
+	 <string name="remind_weight_content">Проверете как се е променило теглото ви в сравнение с предишното претегляне</string>
+     <string name="remind_weight_title">Претегляне</string>
+	 <string name="weight_notice">Известия за теглото</string>
+     <string name="weight_remind">Напомняния за претегляне</string>
+     <string name="weight_setting">Настройки на теглото</string>
 </resources>
