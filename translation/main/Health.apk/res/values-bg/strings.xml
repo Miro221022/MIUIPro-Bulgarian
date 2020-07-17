@@ -1241,4 +1241,12 @@
 	 <string name="weight_notice">Известия за теглото</string>
      <string name="weight_remind">Напомняния за претегляне</string>
      <string name="weight_setting">Настройки на теглото</string>
+	 <string name="app_setting">Приложения</string>
+     <string name="health_data_sync">Синхронизиране на данни за здравето</string>
+     <string name="miuix_appcompat_search_input_description">Търсене</string>
+     <string name="sync_health_data">Синхронизиране на данни за здравето</string>
+     <string name="system_app_setting">Настройки на системни приложения</string>
+     <string name="tb_blood_pressure_day_chart">%1$s. Най-високо систолно налягане: %2$d милиметра живак. Най-ниско диастолично налягане: %3$d милиметра живак.</string>
+     <string name="tb_blood_pressure_item">%1$s. Систолно налягане: %2$d милиметра живак. Диастолично налягане: %3$d милиметра живак.</string>
+     <string name="tb_blood_pressure_wm_card">Средно систолно налягане: %1$d милиметра живак. Средно диастолично налягане: %2$d милиметра живак. Най-високо систолно налягане: %3$d милиметра живак. Най-високо диастолично налягане: %4$d милиметра живак. Най-ниско систолно налягане: %5$d милиметра живак. Най-ниско диастолично налягане: %6$d милиметра живак.</string>
 </resources>

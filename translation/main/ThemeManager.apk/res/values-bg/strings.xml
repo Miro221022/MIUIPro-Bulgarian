@@ -325,7 +325,7 @@
   <string name="kuyin_user_agreement_content_href">Политика за поверителност на iFlytek</string>
   <string name="lab">Лаборатория за теми</string>
   <string name="like_list">Елементи които харесвам</string>
-  <string name="live_wallpaper">Живи тапети</string>
+  <string name="live_wallpaper">Динамичен тапет</string>
   <string name="loading">Един момент…</string>
   <string name="loading_resource_detail_fail">Ресурсът не може да се зареди</string>
   <string name="loading_resource_detail_info">Един момент…</string>
@@ -859,7 +859,7 @@
   <string name="title_component">Персонализиране на темата</string>
   <string name="title_my_audio_resource">Моите мелодии</string>
   <string name="title_my_miwallpaper_desktop_effects">Ефекти за начален екран</string>
-  <string name="title_my_miwallpaper_resource">Моите живи тапети</string>
+  <string name="title_my_miwallpaper_resource">Моите динамични тапети</string>
   <string name="title_my_miwallpaper_video_file_resource">Моите тапети филми</string>
   <string name="title_my_wallpaper">Моите тапети</string>
   <string name="title_my_wallpaper_resource">Моите тапети</string>
@@ -1054,4 +1054,5 @@ M/dd"</string>
     <string name="settings_search_keyword_font_online">Онлайн шрифтове</string>
     <string name="settings_search_keyword_font_style">Формат на шрифта</string>
     <string name="settings_search_keyword_font_wechat">WeChat шрифтове</string>
+	<string name="font_trial_end_purchase">Купи шрифта</string>
 </resources>
