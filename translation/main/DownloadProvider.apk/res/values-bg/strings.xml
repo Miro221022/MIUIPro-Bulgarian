@@ -38,7 +38,7 @@
   <string name="notif_text_engine_off">Xunlei ускорителят е изключен.</string>
   <string name="notif_text_engine_on">Ускоряване…</string>
   <string name="notif_title_file_size">Общо: %1$d</string>
-  <string name="notif_title_multiple_downloading">Изтегляне на %1$d файлове</string>
+  <string name="notif_title_multiple_downloading">Изтегляне на %1$d файла</string>
   <string name="notif_title_single_downloading">Изтегляне: %1$s</string>
   <string name="notification_download_complete">Изтеглянето е успешно.</string>
   <string name="notification_download_failed">Елементите не можаха да се изтеглят.</string>
