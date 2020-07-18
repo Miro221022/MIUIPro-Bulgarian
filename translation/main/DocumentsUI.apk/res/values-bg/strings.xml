@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Придвижване към „Начало“</string>
+  <string name="abc_action_bar_home_description">Придвижване към начален екран</string>
   <string name="abc_action_bar_up_description">Придвижване нагоре</string>
   <string name="abc_action_menu_overflow_description">Още опции</string>
   <string name="abc_action_mode_done">Готово</string>
@@ -19,7 +19,6 @@
   <string name="abc_toolbar_collapse_description">Свиване</string>
   <string name="allow">Разрешаване</string>
   <string name="apk_file_type">Приложение за Android</string>
-  <string name="app_label">Файлове</string>
   <string name="archive_file_type">%1$s архив</string>
   <string name="archive_loading_failed">Не може да се отвори архива за сърфиране. Файлът е или повреден или неподдържан формат.</string>
   <string name="audio_extension_file_type">%1$s звук</string>
@@ -40,8 +39,8 @@
   <string name="compress_preparing">Подготовка...</string>
   <string name="continue_in_background">Продължаване във фонов режим</string>
   <string name="copy_notification_title">Файловете се копират</string>
-  <string name="copy_preparing">Подготвя се за копиране…</string>
-  <string name="copy_remaining">Оставащо време: %s</string>
+  <string name="copy_preparing">Подготовка...</string>
+  <string name="copy_remaining">%s остава</string>
   <string name="create_error">Създаването на папката не бе успешно</string>
   <string name="datetime_format_12">dd MMM, yyyy, h: mm a</string>
   <string name="datetime_format_24">dd MMM, yyyy, H: mm</string>
@@ -62,8 +61,8 @@
   <string name="debug_supports_thumbnail">Поддържа миниатюра</string>
   <string name="debug_supports_weblink">Поддържа уеб връзка</string>
   <string name="debug_supports_write">Поддържа запис</string>
-  <string name="delete_filename_confirmation_message">Искате ли да изтриете „%1$s“?</string>
-  <string name="delete_foldername_confirmation_message">Искате ли да изтриете папката „%1$s“ и съдържанието в нея?</string>
+  <string name="delete_filename_confirmation_message">Изтриване на \"%1$s\"?</string>
+  <string name="delete_foldername_confirmation_message">Изтриване на папката \"%1$s\" и съдържанието в нея?</string>
   <string name="delete_notification_title">Изтриване на файлове</string>
   <string name="delete_preparing">Подготовка...</string>
   <string name="deny">Отказване</string>
@@ -103,7 +102,7 @@
   <string name="inspector_metadata_section">Подробности за медия</string>
   <string name="inspector_title">Информация</string>
   <string name="menu_advanced_hide">Скрий вътрешната памет</string>
-  <string name="menu_advanced_show">Покажи вътрешно хранилище</string>
+  <string name="menu_advanced_show">Покажи на вътрешната памет</string>
   <string name="menu_compress">Компресиране</string>
   <string name="menu_copy">Копиране във…</string>
   <string name="menu_copy_to_clipboard">Копиране</string>
@@ -140,22 +139,22 @@
   <string name="metadata_date_time">Направено на</string>
   <string name="metadata_dimensions">Размери</string>
   <string name="metadata_duration">Продължителност</string>
+  <string name="metadata_focal_format">%1$.2f мм</string>
   <string name="metadata_focal_length">Фокусно разстояние</string>
   <string name="metadata_iso_speed_ratings">ISO еквивалент</string>
   <string name="metadata_shutter_speed">Скорост на затвора</string>
   <string name="move_notification_title">Файловете се преместват</string>
-  <string name="move_preparing">Преместването се подготвя…</string>
-  <string name="mtrl_chip_close_icon_content_description">Затворете иконата</string>
+  <string name="move_preparing">Подготовка...</string>
   <string name="name_conflict">Файл с това име вече съществува.</string>
-  <string name="never_ask_again">Без повторно питане</string>
+  <string name="never_ask_again">Не питай отново</string>
   <string name="new_archive_file_name">архив%s</string>
-  <string name="no_results">В/ъв „%1$s“ няма съответствия</string>
+  <string name="no_results">Няма съвпадения в %1$s</string>
   <string name="not_sorted">Не са сортирани</string>
   <string name="notification_copy_files_converted_title">Някои файлове бяха преобразувани</string>
   <string name="notification_touch_for_details">Докоснете, за да видите подробности</string>
-  <string name="open_external_dialog_request">Да се предостави ли на &lt;b&gt;^1&lt;/b&gt; достъп до директорията „&lt;i&gt;^2&lt;/i&gt;“ в/ъв &lt;i&gt;^3&lt;/i&gt;?</string>
-  <string name="open_external_dialog_request_primary_volume">Да се предостави ли на &lt;b&gt;^1&lt;/b&gt; достъп до директорията „&lt;i&gt;^2&lt;/i&gt;“?</string>
-  <string name="open_external_dialog_root_request">Да се предостави ли на &lt;b&gt;^1&lt;/b&gt; достъп до данните ви в хранилището (&lt;i&gt;^2&lt;/i&gt;), включително снимки и видеоклипове?</string>
+  <string name="open_external_dialog_request">Да се предосрави ли на <b>^1</b> достъп до <i>^2</i> директорията в <i>^3</i>?</string>
+  <string name="open_external_dialog_request_primary_volume">Да се предосрави ли на <b>^1</b> достъп до <i>^2</i> доректорията?</string>
+  <string name="open_external_dialog_root_request">Да се предосрави ли на <b>^1</b> достъп до вашите данни, включително снимки и видеоклипове в <i>^2</i>?</string>
   <string name="overwrite_file_confirmation_message">Презаписване %1$s?</string>
   <string name="password_toggle_content_description">Задване на видимост на паролата</string>
   <string name="pdf_file_type">PDF документ</string>
