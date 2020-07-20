@@ -96,12 +96,18 @@
   <string name="mihome_download_title">Инсталирай Mi Home</string>
   <string name="mihome_ignore_tips">"Ако игнорирате това устройство, ще трябва да го добавите в приложението Mi Home ръчно."</string>
   <string name="mihome_update_tips">Актуализирайте приложението Mi Home и след това дръжте телефона си близо до устройството.</string>
-      <string name="perm_ble_des">Достъп до BLE настройките</string>
+    <string name="perm_ble_des">Достъп до BLE настройките</string>
     <string name="perm_ble_lab">Достъп до BLE настройките</string>
 	<string name="bluetooth_paired">Запазено</string>
 	<string name="fast_connect_reset_common">Нулирайте това устройство, за да можете да сдвоявате</string>
-	    <string name="wifi_unsaved_network_linking">SSID мостове - автоматично свързване</string>
+	<string name="wifi_unsaved_network_linking">SSID мостове - автоматично свързване</string>
     <string name="wifi_unsaved_network_linking_summary">Активиране на опити за автоматично свързване към нов WPA / WPA2-PSK 5GHz SSID с текущо свързани WPA / WPA2-PSK 2GHz SSID идентификационни данни за SSID и BSSID частично съвпадение</string>
     <string name="wifi_whitelist_roaming">SSID мостове - бързо предаване</string>
     <string name="wifi_whitelist_roaming_summary">Активиране на роуминг между различни SSID WPA / WPA2-PSK AP с същия MAC адрес на шлюза</string>
+	<string name="audio_relay_default_device_name">XiaoAi говорители</string>
+    <string name="mi_audio_relay_cancel">ok</string>
+    <string name="mi_audio_relay_connect_failed">неуспешно</string>
+    <string name="mi_audio_relay_localphone">телефон</string>
+    <string name="mi_audio_relay_phone_name">xiaomi телефон</string>
+    <string name="mi_audio_relay_title">изберете устройства за възпроизвеждане</string>
 </resources>

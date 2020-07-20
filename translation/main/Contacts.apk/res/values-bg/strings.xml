@@ -1415,4 +1415,7 @@
     <string name="yesterday">Вчера</string>
     <string name="zero_items_selected">Нищо не е избрано</string>
     <string name="zero_letter">+</string>
+	<string name="theme_dialog_confirm_button">Разбрах</string>
+    <string name="theme_dialog_confirm_content">"Тази версия на Контакти не поддържа темата, която е приложена в момента."</string>
+    <string name="theme_dialog_confirm_title">"Темата не може да се приложи"</string>
 </resources>

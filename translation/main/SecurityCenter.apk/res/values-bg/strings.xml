@@ -2403,9 +2403,9 @@
   <string name="st_call_other_group">Други</string>
   <string name="st_call_settings">Списък с блокирани обаждания</string>
   <string name="st_call_stranger_group">Блокиране на обаждания от непознати</string>
-  <string name="st_confirm_dialog_btn_open">Отваряне</string>
+  <string name="st_confirm_dialog_btn_open">Блокирай</string>
   <string name="st_confirm_dialog_summary_contact_call">Всички обаждания от контакти ще бъдат блокирани.</string>
-  <string name="st_confirm_dialog_summary_oversea_call">Включете, за да блокирате входящи повиквания от чуждестранни телефонни номера.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Всички обаждания от чужди телефонни номера ще бъдат блокирани.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Всички обаждания от непознати ще бъдат блокирани.</string>
   <string name="st_filter_keywords_setting_summary1">Съобщенията от непознати номера, които съдържат думите от този списък ще бъдат блокирани.</string>
   <string name="st_filter_keywords_setting_summary2">(Използвайте запетая, за да разделите думите)</string>
@@ -3449,7 +3449,8 @@
     <string name="gb_dialog_game_uninstall_tips_message">Всички данни от приложението ще бъдат изтрити.</string>
     <string name="gb_dialog_game_uninstall_tips_message_xspace">Всички данни за приложенията и свързаните с тях клонирани приложения ще бъдат изтрити.</string>
     <string name="gb_dialog_game_uninstall_tips_title">Деинсталирай %s</string>
-	<string name="memory_clean_no_need_clean_1" formatted="false">Освободено %s. Вашето устройство вече е %d%% по-бързо.</string>
+	<string name="memory_clean_no_need_clean_1" formatted="false">"Освободено %s.
+	Вашето устройство вече е %d%% по-бързо."</string>
     <string name="menu_summary_optimize_manage">Изчистване на паметта</string>
     <string name="menu_summary_optimize_manage_1">Направете вашето устройство %d%% по-бързо</string>
     <string name="menu_text_optimize_manage_1">Ускораване на скоростта</string>

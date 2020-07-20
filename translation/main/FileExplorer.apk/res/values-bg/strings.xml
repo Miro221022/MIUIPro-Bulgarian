@@ -474,4 +474,5 @@
     <string name="replace">Замени</string>
     <string name="skip">Пропусни</string>
     <string name="use_to_all">Приложи за всички</string>
+	<string name="storage_maintenance_mode">Хранилище за режим на поддръжка</string>
 </resources>

@@ -122,4 +122,6 @@
     <string name="switch_audio_dialog_title">Превключи звука към</string>
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+	<string name="ringtone_output_device_summary">Когато е свързана периферна (кабелна слушалка или Bluetooth устройство), високоговорителят ще има също тон на звънене или звук за известия</string>
+    <string name="ringtone_output_device_title">Разрешаване на високоговорителя да звъни</string>
 </resources>

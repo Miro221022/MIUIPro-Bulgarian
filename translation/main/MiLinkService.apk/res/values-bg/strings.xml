@@ -173,7 +173,6 @@
     <string name="privacy_permission_wlan_desc_china">За намиране на налични устройства в близост</string>
     <string name="privacy_positive">Приемам</string>
     <string name="privacy_title">Внимание</string>
-	
 	<string name="account_other">Друг</string>
     <string name="close_hotspot_hint">Изключете преносимата гореща точка преди излъчването</string>
     <string name="close_slave_wifi_hint">Прекъснете връзката от спомагателните Wi-Fi мрежи преди излъчването</string>

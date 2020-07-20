@@ -1807,7 +1807,7 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="day_of_week">Ден от седмицата</string>
      <string name="dc_light_dialog_summary">Качеството на изображението може да бъде повлияно, когато е включен режимът против трептене. Включване въпреки това?</string>
      <string name="dc_light_summary">Прилагане на затъмняване, за да се намали напрежението в очите</string>
-     <string name="dc_light_summary_new">DC затъмняването предотвратява силно трептене и намалява напрежението на очите при условия със слаба осветеност. Качеството на изображението обаче може да се повлияе, когато тази функция е включена.</string>
+     <string name="dc_light_summary_new">Предотвратяване на силно трептене и намаляване на напрежението в очите при условия на слаба осветеност</string>
      <string name="dc_light_title">Режим против трептене</string>
      <string name="debug_app">Избор на приложение за отстраняване на грешки</string>
      <string name="debug_app_not_set">Не е настроено приложение за отстраняване на грешки</string>
@@ -7657,4 +7657,13 @@ UT интерфейс: %5$s"</string>
     <string name="security_input_num_random_order">Произволно</string>
     <string name="security_input_num_setting_title">Цифрова клавиатура</string>
     <string name="voice_access">Гласово управление</string>
+	<string name="app_function">Функция на приложението</string>
+    <string name="forget_passpoint_wifi_message">Вашият телефон ще спре автоматично да се свързва с тази мрежа.</string>
+    <string name="passpoint_r1_privacy_dialog_message">"Passpoint е надеждна, безопасна и автоматична технология за WLAN свързване, стартирана от WLAN Alliance. Автоматично конфигуриране на акаунти, за да постигнете безпроблемна връзка между конфигурираната WLAN мрежа и мобилните устройства
+
+Тази функция получава вашия WLAN MAC адрес за регистрация на профила първия път. Ние ще обработваме вашите данни в съответствие с нашата %s. Моля, прочетете внимателно тази политика и се съгласете да продължите."</string>
+    <string name="passpoint_r1_privacy_dialog_no">Отказ</string>
+    <string name="passpoint_r1_privacy_dialog_title">Внимание</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">Политика за поверителност</string>
+    <string name="passpoint_r1_privacy_dialog_yes">Приемам и продължавам</string>
 </resources>
