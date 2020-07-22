@@ -10,14 +10,14 @@
     <string name="cross_profile_notification_channel_name">Свързване на служебните и личните приложения</string>
     <string name="cross_profile_notification_text">Осъществяване на достъп както до служебните, така и до личните данни. Докоснете, за да настроите.</string>
     <string name="cross_profile_notification_title">Свързване на служебните и личните приложения</string>
-    <string name="financed_device_screen_header">Това устройство се предоставя от %1$s</string>
-    <string name="install_creditor_app_description">Инсталиране на приложението %1$s на това устройство</string>
     <string name="just_a_sec">Една секунда…</string>
-    <string name="lock_device_description">"Заключване на това устройство, ако не извършвате плащания"</string>
     <string name="now_lets_set_up_everything_else">Добавете личен профил, за да се възползвате в по-голяма степен от устройството си</string>
     <string name="now_lets_set_up_everything_else_explanation">Служебният ви потребителски профил е готов. Сега можете да добавите и личен профил в Google, за да осъществявате достъп до приложенията и съдържанието си.</string>
     <string name="reset_device">Нулирайте това устройство и го настройте отново</string>
     <string name="something_went_wrong">Нещо се обърка</string>
     <string name="work_profile_provisioning_step_3_header">Данните в служебния ви потребителски профил са видими за системния ви администратор</string>
     <string name="work_profile_provisioning_summary">Служебните приложения се съхраняват в служебния ви потребителски профил. Можете да ги поставите на пауза, когато приключите работата за деня. Данните в служебния ви потребителски профил са видими за системния ви администратор.</string>
+    <string name="financed_device_screen_header">Това устройство е закупено на кредит от %1$s</string>
+    <string name="install_creditor_app_description">Инсталирайте приложението %1$s за да можете да извършвате плащания за това устройство</string>
+    <string name="lock_device_description">"Ограничете достъпа до това устройство, ако не извършвате плащания"</string>
 </resources>

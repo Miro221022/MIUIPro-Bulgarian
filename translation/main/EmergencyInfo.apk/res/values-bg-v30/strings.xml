@@ -112,4 +112,5 @@
     <string name="wifi_enhanced_mac_randomization">Подобр. рандом. на MAC адреса чрез Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Когато този режим е включен, MAC адресът на устройството може да се променя при всяко свързване с мрежа, за която е активирана функцията за произволен избор на MAC адреса.</string>
     <string name="wifi_passpoint_expired">Изтекло</string>
+	<string name="media_transfer_wired_usb_device_name">Кабелни слушалки</string>
 </resources>

@@ -25,8 +25,8 @@
         <item quantity="one">Изтриване на %1$d чернова?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d са избрани</item>
-        <item quantity="one">%d е избран</item>
+        <item quantity="one">Добавен е %d контакт</item>
+        <item quantity="other">Добавени са %d контакта</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> са архивирани.</item>
@@ -132,4 +132,44 @@
         <item quantity="other">"%1$s  неизпратените съобщения в %2$s "</item>
         <item quantity="one">"%1$s  неизпратено съобщение в %2$s "</item>
     </plurals>
+	     <plurals name="number_of_day_after">
+         <item quantity="one">%1$d ден по-късно</item>
+         <item quantity="other">%1$d дни по-късно</item>
+     </plurals>
+     <plurals name="number_of_day_before">
+         <item quantity="one">Преди %1$d ден</item>
+         <item quantity="other">Преди %1$d дни</item>
+     </plurals>
+     <plurals name="number_of_hour_after">
+         <item quantity="one">%1$d час по-късно</item>
+         <item quantity="other">%1$d часа по-късно</item>
+     </plurals>
+     <plurals name="number_of_hour_before">
+         <item quantity="one">Преди %1$d час</item>
+         <item quantity="other">Преди %1$d часа</item>
+     </plurals>
+     <plurals name="number_of_minute_after">
+         <item quantity="one">%1$d минута по-късно</item>
+         <item quantity="other">%1$d минути по-късно</item>
+     </plurals>
+     <plurals name="number_of_minute_before">
+         <item quantity="one">Преди %1$d минута</item>
+         <item quantity="other">преди %1$d минути</item>
+     </plurals>
+     <plurals name="number_of_second_after">
+         <item quantity="one">%1$d секунда по-късно</item>
+         <item quantity="other">%1$d секунди по-късно</item>
+     </plurals>
+     <plurals name="number_of_second_before">
+         <item quantity="one">Преди %1$d секунда</item>
+         <item quantity="other">Преди %1$d секунди</item>
+     </plurals>
+     <plurals name="number_of_week_after">
+         <item quantity="one">%1$d седмица по-късно</item>
+         <item quantity="other">%1$d седмици по-късно</item>
+     </plurals>
+     <plurals name="number_of_week_before">
+         <item quantity="one">Преди %1$d седмица</item>
+         <item quantity="other">Преди %1$d седмици</item>
+     </plurals>
 </resources>
