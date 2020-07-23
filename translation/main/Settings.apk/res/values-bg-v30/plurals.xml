@@ -52,4 +52,16 @@
         <item quantity="other">Зададени са %d графика</item>
         <item quantity="one">Зададен е 1 график</item>
     </plurals>
+	    <plurals name="priority_conversation_count">
+        <item quantity="other">%d приоритетни разговора</item>
+        <item quantity="one">%d приоритетен разговор</item>
+    </plurals>
+    <plurals name="see_all_apps_title">
+        <item quantity="other">Виж всички %1$d приложения</item>
+        <item quantity="one">Виж всички приложения</item>
+    </plurals>
+	    <plurals name="show_pho_countdown">
+        <item quantity="other">"Ве сте на %1$d стъпки от отваряне на информация за устройството."</item>
+        <item quantity="one">"Вие сте на %1$d стъпка от отваряне на информация за устройството."</item>
+    </plurals>
 </resources>

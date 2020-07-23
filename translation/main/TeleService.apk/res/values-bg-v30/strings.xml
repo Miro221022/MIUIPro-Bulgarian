@@ -112,4 +112,11 @@ Wi-Fi телефония: %3$s
     <string name="volte_provisioned_switch_string">Обезпечен за VoLTE</string>
     <string name="vt_provisioned_switch_string">Видеообажданията са обезпечени</string>
     <string name="wfc_provisioned_switch_string">Обажданията през Wi-Fi са обезпечени</string>
+	<string name="limited_service_alert_dialog_description"><b>Спешни повиквания чрез WLAN повикване</b>"
+Спешните повиквания не са възможни чрез WLAN повикване. 
+
+Устройството преминава автоматично към клетъчна мрежа (2G/3G), за да извърши спешно повикване. 
+
+Спешните повиквания са възможни само в райони с клетъчно покритие."</string>
+    <string name="media_transfer_wired_usb_device_name">Кабелни слушалки</string>
 </resources>

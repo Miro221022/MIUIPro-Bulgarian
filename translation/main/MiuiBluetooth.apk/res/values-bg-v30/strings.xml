@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Корекцията на цветове ви позволява да коригирате това, как цветовете се показват на устройството ви</string>
     <string name="accessibility_work_profile_app_description">Работа %s</string>
     <string name="accessor_expires_text">Споделянето приключва на %s</string>
     <string name="accessor_info_title">Приложения, споделящи данни</string>
@@ -38,10 +37,6 @@
     <string name="battery_info_status_charging_slow">Зарежда се бавно</string>
     <string name="blob_expires_text">Изтича на %s</string>
     <string name="blob_id_text">Идентификатор на споделените данни: %d</string>
-    <string name="bluetooth_connected_battery_level">Свързан, батерия %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Свързан (без медия), батерия %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Свързан (без телефон), батерия %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Свързан (без медия или телефон), батерия %1$s%2$s</string>
     <string name="bluetooth_enable_gabeldorsche">Активиране на Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Активира стека на функциите на Bluetooth Gabeldorsche.</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Неактивното състояние означава, че елементът не се поддържа от телефона или слушалките</string>
@@ -69,8 +64,6 @@
     <string name="media_transfer_wired_device_name">Аудиоустройство с кабел</string>
     <string name="power_charging_duration">%1$s – %2$s до пълно зареждане</string>
     <string name="power_remaining_charging_duration_only">Оставащо време до пълно зареждане: %1$s</string>
-    <string name="power_remaining_duration_only_shutdown_imminent">Възможно е телефонът да се изключи скоро</string>
-    <string name="power_remaining_duration_shutdown_imminent">Възможно е телефонът да се изключи скоро (%1$s)</string>
     <string name="power_remaining_less_than_duration">Остава(т) по-малко от %1$s (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Остава(т) по-малко от %1$s</string>
     <string name="power_remaining_more_than_subtext">Остава(т) повече от %1$s (%2$s)</string>
@@ -116,4 +109,15 @@
     <string name="wifi_enhanced_mac_randomization">Подобр. рандом. на MAC адреса чрез Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Когато този режим е включен, MAC адресът на устройството може да се променя при всяко свързване с мрежа, за която е активирана функцията за рандомизиране на MAC адреса.</string>
     <string name="wifi_passpoint_expired">Изтекло</string>
+	<string name="media_transfer_wired_usb_device_name">Кабелни слушалки</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Тази функция е експериментална и може да повлияе на производителността.</string>
+    <string name="bluetooth_connected_battery_level">Свързан | Батерия %1$s %2$s</string>
+    <string name="bluetooth_connected_no_a2dp">Свързан (без медия) %1$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Свързан (без медия) | Батерия %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Свързан (без телефон) | Батерия %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Свързан (без телефон или медия) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Свързан (без телефон или медия) | Батерия %1$s %2$s</string>
+    <string name="bluetooth_connected_no_map">Свързан (бе достъп до съобщенията) %1$s</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">Вашето устройство може да се изключи скоро</string>
+    <string name="power_remaining_duration_shutdown_imminent">Устройството може да се изключи скоро (%1$s)</string>
 </resources>
