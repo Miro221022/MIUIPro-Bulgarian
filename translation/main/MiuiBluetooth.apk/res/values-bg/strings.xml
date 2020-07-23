@@ -104,10 +104,10 @@
     <string name="wifi_unsaved_network_linking_summary">Активиране на опити за автоматично свързване към нов WPA / WPA2-PSK 5GHz SSID с текущо свързани WPA / WPA2-PSK 2GHz SSID идентификационни данни за SSID и BSSID частично съвпадение</string>
     <string name="wifi_whitelist_roaming">SSID мостове - бързо предаване</string>
     <string name="wifi_whitelist_roaming_summary">Активиране на роуминг между различни SSID WPA / WPA2-PSK AP с същия MAC адрес на шлюза</string>
-	<string name="audio_relay_default_device_name">XiaoAi говорители</string>
-    <string name="mi_audio_relay_cancel">ok</string>
-    <string name="mi_audio_relay_connect_failed">неуспешно</string>
-    <string name="mi_audio_relay_localphone">телефон</string>
-    <string name="mi_audio_relay_phone_name">xiaomi телефон</string>
-    <string name="mi_audio_relay_title">изберете устройства за възпроизвеждане</string>
+	<string name="audio_relay_default_device_name">Mi AI говорител</string>
+    <string name="mi_audio_relay_cancel">OK</string>
+    <string name="mi_audio_relay_connect_failed">Опитайте отново</string>
+    <string name="mi_audio_relay_localphone">Това устройство</string>
+    <string name="mi_audio_relay_phone_name">Моят телефон</string>
+    <string name="mi_audio_relay_title">Изберете устройство</string>
 </resources>

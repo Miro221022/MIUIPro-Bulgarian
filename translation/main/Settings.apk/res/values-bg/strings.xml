@@ -7658,14 +7658,14 @@ UT интерфейс: %5$s"</string>
     <string name="security_input_num_setting_title">Цифрова клавиатура</string>
     <string name="voice_access">Гласово управление</string>
 	<string name="app_function">Функция на приложението</string>
-    <string name="forget_passpoint_wifi_message">Вашият телефон ще спре автоматично да се свързва с тази мрежа.</string>
-    <string name="passpoint_r1_privacy_dialog_message">"Passpoint е надеждна, безопасна и автоматична технология за WLAN свързване, стартирана от WLAN Alliance. Автоматично конфигуриране на акаунти, за да постигнете безпроблемна връзка между конфигурираната WLAN мрежа и мобилните устройства
+    <string name="forget_passpoint_wifi_message">Вашето устройство ще спре автоматично да се свързва с тази мрежа.</string>
+    <string name="passpoint_r1_privacy_dialog_message">"Passpoint е надеждна, безопасна технология за безжична връзка, лансирана от WLAN Alliance. Тя конфигурира автоматично акаунти за постигане на безпроблемна връзка между WLAN мрежи и мобилни устройства.
 
-Тази функция получава вашия WLAN MAC адрес за регистрация на профила първия път. Ние ще обработваме вашите данни в съответствие с нашата %s. Моля, прочетете внимателно тази политика и се съгласете да продължите."</string>
+Тази функция получава вашия WLAN MAC адрес само за първоначална регистрация на профил. Ние ще обработваме вашите данни в съответствие с нашата %s. Прочетете и се съгласете с нашата Политика за поверителност, преди да използвате тази функция."</string>
     <string name="passpoint_r1_privacy_dialog_no">Отказ</string>
     <string name="passpoint_r1_privacy_dialog_title">Внимание</string>
     <string name="passpoint_r1_privacy_dialog_url_text">Политика за поверителност</string>
-    <string name="passpoint_r1_privacy_dialog_yes">Приемам и продължавам</string>
+    <string name="passpoint_r1_privacy_dialog_yes">Приемам</string>
 	<string name="input_method_function_switch_keyboard_language">Превключване на езици</string>
     <string name="input_method_function_switch_keyboard_language_des">Докоснете, за да превключвате между езици за въвеждане</string>
     <string name="input_method_function_switch_keyboard_type">Превключване на клавиатури</string>
