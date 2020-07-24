@@ -83,7 +83,7 @@
   <string name="card_vote_item_vs">За/Пр</string>
   <string name="change_alert">Проверете мрежовата връзка и опитайте отново</string>
   <string name="china_version_first_start_network_msg">Вие трябва да се съгласите с %1$s и %2$s на Xiaomi, за да можете да използвате Времето. Времето се нуждае от достъп до местоположението ви и връзка с интернет, за да работи нормално. Съгласни ли сте?</string>
-  <string name="city_exceeded_warning">Можете да добавите до 10 града</string>
+  <string name="city_exceeded_warning">"Не могат да се добавят още градове. За да добавите нов, изтрийте град, който вече е в списъка."</string>
   <string name="common_loading_text">"Един момент…"</string>
   <string name="connect_fail">Не може да се свърже с мрежа, опитайте отново</string>
   <string name="content_desc_activity_main_add_city">Добави град</string>
@@ -395,4 +395,10 @@
     <string name="aqi_5_days_desc">5-дневна прогноза за ИКВ</string>
 	<string name="weather_main_aqi_desc">ИКВ</string>
     <string name="weather_main_minute_hour">2 часа валежи</string>
+	  <string name="dialog_msg_score_midrop">Как ви се струва приложението?</string>
+  <string name="dialog_msg_score_not_good">Можете ли да ни дадете и вашите отзиви?</string>
+  <string name="dialog_msg_score_perfect">Хубаво! Ще оцените ли приложението и в Play Store?</string>
+  <string name="dialog_title_score">Оценете Времето</string>
+    <string name="rating_dialog_later">По-късно</string>
+  <string name="rating_dialog_rate_now">Оцени сега</string>
 </resources>

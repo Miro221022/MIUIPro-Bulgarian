@@ -46,4 +46,24 @@
         <item>宁</item>
         <item>琼</item>
     </string-array>
+	    <string-array name="agenda_weeks_of_year">
+         <item>Седмица 1</item>
+         <item>Седмица 2</item>
+         <item>Седмица 3</item>
+         <item>Седмица %1$d</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+         <item>Шофиране</item>
+         <item>Обществен транспорт</item>
+         <item>Такси</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+         <item>Вечер</item>
+         <item>Вечер</item>
+         <item>Сутрин</item>
+         <item>Следобед</item>
+         <item>Следобед</item>
+         <item>Вечер</item>
+         <item>Вечер</item>
+    </string-array>
 </resources>

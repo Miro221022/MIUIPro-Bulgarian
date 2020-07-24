@@ -86,4 +86,28 @@
     <item quantity="other">Преди %d минути</item>
     <item quantity="one">Преди %d минута</item>
   </plurals>
+       <plurals name="agenda_anniversary_day">
+         <item quantity="one">· %1$d ден</item>
+         <item quantity="other">· %1$d дни</item>
+     </plurals>
+     <plurals name="agenda_anniversary_year">
+         <item quantity="one">· %1$d година</item>
+         <item quantity="other">· %1$d години</item>
+     </plurals>
+     <plurals name="agenda_countdown_day">
+         <item quantity="one">· След %1$d ден</item>
+         <item quantity="other">· След %1$d дни</item>
+     </plurals>
+     <plurals name="agenda_tip_count_down">
+         <item quantity="one">Започва след %1$d минута</item>
+         <item quantity="other">Започва след %1$d минути</item>
+     </plurals>
+     <plurals name="app_express_content_title_1">
+         <item quantity="one">%d пакет е на път</item>
+         <item quantity="other">%d пакета са на път</item>
+     </plurals>
+     <plurals name="app_miot_total_device">
+         <item quantity="one">%1$d устройство</item>
+         <item quantity="other">%1$d устройства</item>
+     </plurals>
 </resources>
