@@ -16,7 +16,6 @@
   <string name="accessibility_caption_master_switch_summary">Само за поддържаното приложение</string>
   <string name="accessibility_caption_master_switch_title">Показване на надписите</string>
   <string name="accessibility_caption_preference_summary">Не всички приложения поддържат тези предпочитания за надписи</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Корекцията на цветове ви позволява да коригирате това, как цветовете се показват на устройството ви</string>
   <string name="accessibility_display_inversion_preference_subtitle">Функцията за инвертиране на цветовете превръща светлите цветове на екрана в тъмни.&lt;br/&gt;&lt;br/&gt; Забележка: &lt;ol&gt; &lt;li&gt; Функцията също така прави тъмните екрани светли.&lt;/li&gt; &lt;li&gt; Цветовете в мултимедийното съдържание и изображенията ще се променят.&lt;/li&gt; &lt;li&gt; Тъмната тема може да се използва за показване на тъмен фон. Тя работи с поддържаните приложения, а функцията за инвертиране на цветовете – с всички.&lt;/li&gt; &lt;/ol&gt;</string>
   <string name="accessibility_display_inversion_switch_title">Използване на функцията за инвертиране на цветовете</string>
   <string name="accessibility_hearingaid_pair_instructions_message">За да сдвоите слухов апарат, на следващия екран намерете устройството си и го докоснете. Слуховият апарат трябва да е в режим за сдвояване.</string>
@@ -119,10 +118,6 @@
   <string name="blob_expires_text">Изтича на %s</string>
   <string name="blob_id_text">Идентификатор на споделените данни: %d</string>
   <string name="bluetooth_connected">Свързано%1$s</string>
-  <string name="bluetooth_connected_battery_level">Свързано, батерия: %1$s%2$s</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">Свързано (без мултимедия), батерия: %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset_battery_level">Свързано (без телефон), батерия: %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Свързано (без телефон или мултимедия), батерия: %1$s%2$s</string>
   <string name="bluetooth_devices_card_off_summary">Докоснете за включване</string>
   <string name="bluetooth_devices_card_off_title">Функцията за Bluetooth е изключена</string>
   <string name="bluetooth_enable_gabeldorsche">Активиране на Gabeldorsche</string>
@@ -409,8 +404,6 @@
   <string name="power_menu_setting_name">Меню за включване/изключване</string>
   <string name="power_menu_setting_title">Меню за бутона за включване/изключване</string>
   <string name="power_remaining_charging_duration_only">Оставащо време до пълно зареждане: %1$s</string>
-  <string name="power_remaining_duration_only_shutdown_imminent">Възможно е телефонът да се изключи скоро</string>
-  <string name="power_remaining_duration_shutdown_imminent">Възможно е телефонът да се изключи скоро (%1$s)</string>
   <string name="power_remaining_less_than_duration">Остава(т) по-малко от %1$s (%2$s)</string>
   <string name="power_remaining_less_than_duration_only">Остава(т) по-малко от %1$s</string>
   <string name="power_remaining_more_than_subtext">Остава(т) повече от %1$s (%2$s)</string>

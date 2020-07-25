@@ -1297,8 +1297,8 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="cant_sync_dialog_message">Синхронизирането за този елемент понастоящем е деактивирано. За да промените настройката, временно включете данните на заден план и автоматичното синхронизиране.</string>
      <string name="cant_sync_dialog_title">Не може да се синхронизира ръчно</string>
      <string name="capabilities_list_title">%1$s изисква:</string>
-     <string name="capability_desc_receiveAccessibilityEvents">Receive notifications when you’re interacting with an app.</string>
-     <string name="capability_title_receiveAccessibilityEvents">Observe your actions</string>
+     <string name="capability_desc_receiveAccessibilityEvents">Получавайте известия, когато взаимодействате с приложение.</string>
+     <string name="capability_title_receiveAccessibilityEvents">Наблюдение на действията ви</string>
      <string name="captioning_background_color">Цвят на фона</string>
      <string name="captioning_background_opacity">Плътност на фона</string>
      <string name="captioning_custom_options_title">Персонализирани опции</string>
