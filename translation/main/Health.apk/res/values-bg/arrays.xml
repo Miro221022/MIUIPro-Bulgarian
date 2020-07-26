@@ -1,141 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="arr_prompt_label">
-        <item>Приемлив</item>
-        <item>Дълъг</item>
-        <item>Твърде дълъг</item>
-    </string-array>
-    <string-array name="arr_sedentary_reminder">
-        <item>Време е за движение!</item>
-        <item>Научете повече</item>
-        <item>Изпийте малко вода и се разходете.</item>
-        <item>Научете повече</item>
-        <item>Изкачете се по стълби</item>
-        <item>Научете повече</item>
-        <item>"Не сядайте за твърде дълго"</item>
-        <item>Научете повече</item>
-    </string-array>
-    <string-array name="arr_time_label">
-        <item>1 час</item>
-        <item>2 часа</item>
-    </string-array>
-    <string-array name="energy_unit">
-        <item>" ккал"</item>
-        <item>" КДж"</item>
-    </string-array>
-    <string-array name="length_unit">
-        <item>" см"</item>
-        <item>" м"</item>
-        <item>" км"</item>
-    </string-array>
-    <string-array name="pager_titles">
-        <item>Ден</item>
-        <item>Седмица</item>
-        <item>Месец</item>
-    </string-array>
-    <string-array name="run_in_background_state">
-        <item>Без ограничения</item>
-        <item>Ограничаване активността на заден план</item>
-        <item>Спиране след 10 минути</item>
-        <item>Никога</item>
-    </string-array>
-    <string-array name="speed_unit">
-        <item>" км/ч"</item>
-        <item>" м/с"</item>
-    </string-array>
-    <string-array name="splash_loading">
-        <item>Изчисляване на целта за изпълнение…</item>
-        <item>Цел на дейността: %1$d стъпки</item>
-        <item>Направихте %1$d стъпки днес</item>
-        <item>Изчисляване на целта за сън…</item>
-        <item>Цел на съня: %1$d часа</item>
-        <item>Засега няма данни за съня</item>
-        <item>Отваряне на Mi Здраве</item>
-    </string-array>
-    <string-array name="temperature_unit">
-        <item>℃</item>
-        <item>°F</item>
-    </string-array>
-	    <string-array name="week">
-        <item>Неделя</item>
-        <item>Понеделник</item>
-        <item>Вторник</item>
-        <item>Сряда</item>
-        <item>Четвъртък</item>
-        <item>Петък</item>
-        <item>Събота</item>
-    </string-array>
-    <string-array name="week_label">
-        <item>Пон</item>
-        <item>Вто</item>
-        <item>Сря</item>
-        <item>Чет</item>
-        <item>Пет</item>
-        <item>Съб</item>
-        <item>Нед</item>
-    </string-array>
-    <string-array name="weight_unit">
-        <item>" г"</item>
-        <item>" кг"</item>
-        <item>" т"</item>
-        <item>" liang"</item>
-        <item>" jin"</item>
-        <item>" лб"</item>
-    </string-array>
-	    <string-array name="stand_guide_page_content1">
-        <item>"Седенето не е от полза за вашето здраве. Дори ако не можете да намалите времето, което прекарвате в седнало положение, изправянето всеки път от време на време е добра идея."</item>
-        <item>Тази функция ще ви напомня да отделяте поне 1 минута за изправяне на всеки час. 12 часа с почивки всеки ден ще ви помогнат да избегнете рисковете от заседнал начин на живот.</item>
-        <item>Докоснете \"Продължи\" за да научите повече и да включите тази функция.</item>
-    </string-array>
-    <string-array name="stand_guide_page_content2">
-        <item>Асистентът за стоене засича дали сте станали чрез мобилния телефон и автоматично го записва. Включете постоянното напомняне, за да ви напомня, когато бъде установено, че не сте ставали в рамките на 1 час:</item>
-        <item>Тази функция ще проследява вашето движение и ще ви изпраща напомняния.</item>
-    </string-array>
-	    <string-array name="contact_relation_array">
-        <item>Не е зададено</item>
-        <item>Родител</item>
-        <item>Сетра</item>
-        <item>Брат</item>
-        <item>Съпруг</item>
-        <item>Партньор</item>
-        <item>Приятел</item>
-        <item>Колега</item>
-        <item>Съученик</item>
-    </string-array>
-	    <array name="normal_blood_array">
-        <item>Не е зададено</item>
-        <item>A</item>
-        <item>B</item>
-        <item>AB</item>
-        <item>0</item>
-    </array>
-	    <string-array name="gender_array">
-        <item>Не е зададено</item>
-        <item>Мъж</item>
-        <item>Жена</item>
-    </string-array>
-	    <string-array name="rh_blood_array">
-        <item>Не е зададено</item>
-        <item>Отрицателен</item>
-        <item>Положителен</item>
-    </string-array>
-	    <string-array name="yes_no_array">
-        <item>Не е зададено</item>
-        <item>Да</item>
-        <item>Не</item>
-    </string-array>
-	     <string-array name="repeat_mode_mild_abnormal_array">
-         <item>Пон, Сря, Пет</item>
-         <item>Вто, Чет, Съб</item>
-         <item>Сря, Пет, Нед</item>
-     </string-array>
-     <string-array name="repeat_mode_week_array">
-         <item>Всеки Понеделник</item>
-         <item>Всеки Вторник</item>
-         <item>Всяка Сряда</item>
-         <item>Всеки Четвъртък</item>
-         <item>Всеки Петък</item>
-         <item>Всяка Събота</item>
-         <item>Всяка Неделя</item>
-     </string-array>
+  <string-array name="arr_prompt_label">
+    <item>Приемлив</item>
+    <item>Дълъг</item>
+    <item>Твърде дълъг</item>
+  </string-array>
+  <string-array name="arr_sedentary_reminder">
+    <item>Време е за движение!</item>
+    <item>Научете повече</item>
+    <item>Изпийте малко вода и се разходете.</item>
+    <item>Научете повече</item>
+    <item>Изкачете се по стълби</item>
+    <item>Научете повече</item>
+    <item>Не сядайте за твърде дълго</item>
+    <item>Научете повече</item>
+  </string-array>
+  <string-array name="arr_time_label">
+    <item>1 час</item>
+    <item>2 часа</item>
+  </string-array>
+  <string-array name="contact_relation_array">
+    <item>Не е зададено</item>
+    <item>Родител</item>
+    <item>Сетра</item>
+    <item>Брат</item>
+    <item>Съпруг</item>
+    <item>Партньор</item>
+    <item>Приятел</item>
+    <item>Колега</item>
+    <item>Съученик</item>
+  </string-array>
+  <string-array name="energy_unit">
+    <item>" ккал"</item>
+    <item>" КДж"</item>
+  </string-array>
+  <string-array name="gender_array">
+    <item>Не е зададено</item>
+    <item>Мъж</item>
+    <item>Жена</item>
+  </string-array>
+  <string-array name="length_unit">
+    <item>" см"</item>
+    <item>" м"</item>
+    <item>" км"</item>
+  </string-array>
+  <string-array name="normal_blood_array">
+    <item>Не е зададено</item>
+    <item>A</item>
+    <item>B</item>
+    <item>AB</item>
+    <item>O</item>
+  </string-array>
+  <string-array name="pager_titles">
+    <item>Ден</item>
+    <item>Седмица</item>
+    <item>Месец</item>
+  </string-array>
+  <string-array name="repeat_mode_mild_abnormal_array">
+    <item>Пон, Сря, Пет</item>
+    <item>Вто, Чет, Съб</item>
+    <item>Сря, Пет, Нед</item>
+  </string-array>
+  <string-array name="repeat_mode_week_array">
+    <item>Всеки Понеделник</item>
+    <item>Всеки Вторник</item>
+    <item>Всяка Сряда</item>
+    <item>Всеки Четвъртък</item>
+    <item>Всеки Петък</item>
+    <item>Всяка Събота</item>
+    <item>Всяка Неделя</item>
+  </string-array>
+  <string-array name="rh_blood_array">
+    <item>Не е зададено</item>
+    <item>Отрицателен</item>
+    <item>Положителен</item>
+  </string-array>
+  <string-array name="run_in_background_state">
+    <item>Без ограничения</item>
+    <item>Ограничаване активността на заден план</item>
+    <item>Спиране след 10 минути</item>
+    <item>Никога</item>
+  </string-array>
+  <string-array name="speed_unit">
+    <item>" км/ч"</item>
+    <item>" м/с"</item>
+  </string-array>
+  <string-array name="stand_guide_page_content1">
+    <item>Седенето не е от полза за вашето здраве. Дори ако не можете да намалите времето, което прекарвате в седнало положение, изправянето всеки път от време на време е добра идея.</item>
+    <item>Тази функция ще ви напомня да отделяте поне 1 минута за изправяне на всеки час. 12 часа с почивки всеки ден ще ви помогнат да избегнете рисковете от заседнал начин на живот.</item>
+    <item>Докоснете \"Продължи\" за да научите повече и да включите тази функция.</item>
+  </string-array>
+  <string-array name="stand_guide_page_content2">
+    <item>Асистентът за стоене засича дали сте станали чрез мобилния телефон и автоматично го записва. Включете постоянното напомняне, за да ви напомня, когато бъде установено, че не сте ставали в рамките на 1 час:</item>
+    <item>Тази функция ще проследява вашето движение и ще ви изпраща напомняния.</item>
+  </string-array>
+  <string-array name="temperature_unit">
+    <item>℃</item>
+    <item>°F</item>
+  </string-array>
+  <string-array name="week">
+    <item>Неделя</item>
+    <item>Понеделник</item>
+    <item>Вторник</item>
+    <item>Сряда</item>
+    <item>Четвъртък</item>
+    <item>Петък</item>
+    <item>Събота</item>
+  </string-array>
+  <string-array name="week_label">
+    <item>Пон</item>
+    <item>Вто</item>
+    <item>Сря</item>
+    <item>Чет</item>
+    <item>Пет</item>
+    <item>Съб</item>
+    <item>Нед</item>
+  </string-array>
+  <string-array name="weight_unit">
+    <item>" г"</item>
+    <item>" кг"</item>
+    <item>" т"</item>
+    <item>" liang"</item>
+    <item>" jin"</item>
+    <item>" лб"</item>
+  </string-array>
+  <string-array name="yes_no_array">
+    <item>Не е зададено</item>
+    <item>Да</item>
+    <item>Не</item>
+  </string-array>
 </resources>
