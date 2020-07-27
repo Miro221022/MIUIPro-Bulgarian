@@ -156,7 +156,7 @@
   <string name="mtrl_picker_toggle_to_year_selection">Докоснете, за да преминете към избор на година</string>
   <string name="not_sent_recently">Не наскоро</string>
   <string name="not_set">Не е зададено</string>
-  <string name="notch_and_status_bar_setting">Прорез и лента за състоянието</string>
+  <string name="notch_and_status_bar_setting">Център за управление и лента за състоянието</string>
   <string name="notification_aggregate_description1">MIUI може автоматично да групира изскачащи и промоционални известия, което ще направи вашият панел за известия по-малко препълнен.</string>
   <string name="notification_aggregate_description2">Нашите алгоритми анализират съдържанието на известията и не прилагат тази функция към важни предупреждения и известия от приложения за незабавни съощения. Ако откриете, че важните известия са групирани по грешка, докладвайте за проблема, с който сте се сблъскали чрез нашата функия за \"Отзиви\".</string>
   <string name="notification_aggregate_summary">Разрешете на MIUI да групира известията автоматично</string>

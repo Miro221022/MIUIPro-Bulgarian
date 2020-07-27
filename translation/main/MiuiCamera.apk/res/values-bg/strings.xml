@@ -1325,7 +1325,7 @@
     <string name="user_disagree">"Не приемам"</string>
 	<string name="ambilight_intro_magic_star_ae">在光污染较少的场所进行拍摄，即可拍出璀璨的星空；最久需要拍摄%d秒，请使用三脚架</string>
 	<string name="pref_multi_camera_dual_video_front">Предна камера</string>
-	<string name="custom_watermark_tips_gen2" formatted="false">До %d китайски символа или %d букви.</string>
+	<string name="custom_watermark_tips_gen2">До %1$d китайски символа или %2$d букви.</string>
     <string name="lighting_dazzling">Лъчове</string>
     <string name="lighting_dreamland">Земя на мечтите</string>
     <string name="lighting_gorgeous">Пъстро</string>
@@ -1337,4 +1337,6 @@
     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD е изключено</string>
     <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
+	<string name="pref_camera_high_quality_preferred_description">通过画质优先算法提升成像效果，拍照时间会变长</string>
+    <string name="pref_camera_high_quality_preferred_title">Подобряване на качеството</string>
 </resources>

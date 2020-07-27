@@ -133,5 +133,15 @@
 	<string name="switch_audio_device_bt">Bluetooth</string>
     <string name="switch_audio_device_phone">Това устройство</string>
     <string name="switch_audio_notification_content">"Текущо аудио изходно устройство: "</string>
-    <string name="switch_audio_notification_title">Свързаност на устройството</string>
+    <string name="switch_audio_notification_title">Свързаност на устройството</string>]
+	<string name="switch_audio_device_bt_a2dp">Bluetooth (Звук)</string>
+    <string name="switch_audio_device_bt_a2dp_summary">Възпроизвеждане на звук на свързаното устройство</string>
+    <string name="switch_audio_device_bt_hfp">Bluetooth (Повиквания)</string>
+    <string name="switch_audio_device_bt_hfp_summary">Възпроизвеждане на звук за повикване на свързаното устройство. Тази функция трябва да бъде изключена ръчно.</string>
+    <string name="switch_audio_device_default">По подразбиране</string>
+    <string name="switch_audio_device_default_summary">Текущо устройство</string>
+    <string name="switch_audio_device_hfp_hint">Превключване към изход по подразбиране</string>
+    <string name="switch_audio_device_hfp_toast_hint">Изберете аудио изход по подразбиране, за да започнете възпроизвеждането на звук на това устройство отново.</string>
+    <string name="switch_audio_device_phone_summary">Възпроизвеждане на звук на това устройство</string>
+    <string name="switch_audio_dialog_title">Изберете аудио изход</string>
 </resources>

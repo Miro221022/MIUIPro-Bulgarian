@@ -345,4 +345,6 @@
     <string name="application_cannot_open_weixin_payment_code">"Кодът за плащане в WeChat не може да се отвори"</string>
     <string name="application_cannot_open_weixin_scanner">"WeChat скенера не може да се отвори"</string>
     <string name="application_not_install_content">"Изглежда приложението, което извършва това действие, не е инсталирано на вашето устройство. Можете да инсталирате това приложение или да зададете различно действие на този жест."</string>
+	<string name="bluetooth_close">Това приложение изключи Bluetooth</string>
+    <string name="bluetooth_open">Това приложение включи Bluetooth</string>
 </resources>

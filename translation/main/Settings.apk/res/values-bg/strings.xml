@@ -7620,7 +7620,7 @@ UT интерфейс: %5$s"</string>
     <string name="bluetooth_unlock_unsupport">"Версията на совтуера на това устройство не се поддържа"</string>
 	    <string name="adjust_temperature_title">Цветова температура</string>
     <string name="advanced_screen_paper_mode_title">Режим за четене</string>
-    <string name="auto_adjst_effect_summary">Регулирайте цветната температура към околната светлина автоматично, за да поддържате оптимално ниво на комфорт</string>
+    <string name="auto_adjst_effect_summary">Автоматично регулиране на цветовата температура към околната светлина</string>
     <string name="auto_adjust_effect_title">Регулирайте температурата на цвета автоматично</string>
     <string name="beauty_camera">Разкрасяване за видео разговори</string>
     <string name="beauty_camera_summary">Използвайте Beautify за видео разговори с WeChat</string>
@@ -7670,4 +7670,23 @@ UT интерфейс: %5$s"</string>
     <string name="input_method_function_switch_keyboard_language_des">Докоснете, за да превключвате между езици за въвеждане</string>
     <string name="input_method_function_switch_keyboard_type">Превключване на клавиатури</string>
     <string name="input_method_function_switch_keyboard_type_des">Докоснете, за да превключвате между различни клавиатури</string>
+	<string name="app_enable_bluetooth_record">Приложения, включващи Bluetooth</string>
+    <string name="back_double_tap">Двойно докосване за връщане</string>
+    <string name="back_tap">Докосване за връщане</string>
+    <string name="back_triple_tap">Тройно докосване за връщане</string>
+    <string name="bt_absVolume_open_dialog_summary">Поради проблеми със съвместимостта някои Bluetooth устройства може да имат необичайни нива на силата на звука, което може да бъде разрешено чрез изключване на тази функция.</string>
+    <string name="bt_absVolume_open_dialog_title">Внимание</string>
+    <string name="bt_absVolume_pre_title">Абсолютен звук</string>
+    <string name="bt_absVolume_summary">Поддържайте стриктно силата на звука на Bluetooth устройствата и телефона</string>
+    <string name="custom_gesture_title">Персонализирани жестове</string>
+    <string name="device_opcust_version">Персонализирана версия</string>
+    <string name="launch_ai_shortcut">Mi AI пряк път</string>
+    <string name="launch_alipay_payment_code">Alipay код за плащане</string>
+    <string name="launch_alipay_scanner">Alipay скенер</string>
+    <string name="launch_calculator">Калкулатор</string>
+    <string name="launch_control_center">Център за управление</string>
+    <string name="launch_notification_center">Панел за известия</string>
+    <string name="launch_wechat_payment_code">WeChat код за плащане</string>
+    <string name="launch_wechat_scanner">WeChat скенер</string>
+    <string name="mute">Тих режим</string>
 </resources>

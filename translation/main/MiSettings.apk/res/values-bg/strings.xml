@@ -320,7 +320,6 @@
 	 <string name="actionbar_button_up_description">Назад</string>
      <string name="anti_flicker_mode">Анти-трептене</string>
      <string name="anti_flicker_mode_categroy">Режими</string>
-     <string name="anti_flicker_mode_summary">Намалете трептенето при условия на слаба осветеност, за да намалите напрежението в очите. Някои елементи може да не се показват правилно.</string>
      <string name="anti_flicker_title">Режим против трептене</string>
      <string name="clearable_edittext_clear_description">Изчисти</string>
      <string name="control_center_title">Екранно време днес</string>
@@ -334,14 +333,6 @@
      <string name="miuix_appcompat_cloud_state_disabled">Синхронизирането с облака е изключено</string>
      <string name="miuix_appcompat_cloud_state_finished">Синхронизирано с облака</string>
      <string name="miuix_appcompat_cloud_state_syncing">Синхронизиране с облака</string>
-     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
-     <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завърши</string>
-     <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
-     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_nodata">няма данни</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
      <string name="monday">Понеделник</string>
      <string name="monday_short">Пон</string>
      <string name="monday_shortest">П</string>
@@ -477,4 +468,17 @@
     <string name="usage_new_home_day_usage_title_new">Екранно време на %s</string>
     <string name="usage_week_avg_usage_title">Средно тази седмица</string>
     <string name="usage_week_avg_usage_title2">Средно време</string>
+	<string name="dc_light_hint_enable_title">Внимание</string>
+    <string name="dc_light_hint_normal">DC затъмняването може да повлияе на начина, по който се показват някои елементи.</string>
+    <string name="dc_light_hint_other">DC затъмняването може да повлияе на скоростта на опресняване и начина на показване на някои елементи.</string>
+    <string name="dc_lignt_enable_hint">Режимът против трептене ще настрои честотата на опресняване на екрана до 60 Хц. Превключване към режим против трептене?</string>
+    <string name="anti_flicker_mode_summary">Предотвратяване на силно трептене и намаляване на напрежението в очите при условия на слаба осветеност</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Издърпайте надолу, за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновено успешно</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновяване…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Пуснете за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
 </resources>
