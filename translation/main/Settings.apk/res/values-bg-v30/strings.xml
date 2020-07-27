@@ -699,6 +699,9 @@
     <string name="ringer_mode_setting_summary">Заглушаване на входящите повиквания и известия</string>
     <string name="wifi_no_internet">"Не може да се свърже с интернет"</string>
     <string name="wifi_no_internet_no_reconnect">"Не може да се свърже с интернет"</string>
-     <string name="zen_mode_summary">Заглушаване на входящите повиквания, известия, медия и ограничаване на вибрацията</string>
+    <string name="zen_mode_summary">Заглушаване на входящите повиквания, известия, медия и ограничаване на вибрацията</string>
     <string name="zen_rule_name_hint">"Въведете името на правилото"</string>
+	<string name="dndm_wristband_detailed">"Включете Не ме безпокойте, ако вашето преносимо устройство установи, че спите в рамките на един час преди планираното начално време"</string>
+	<string name="doze_always_on_title">Винаги включен екран</string>
+	<string name="search_user_agreement">Условия за ползване;Потребителско споразумение</string>
 </resources>

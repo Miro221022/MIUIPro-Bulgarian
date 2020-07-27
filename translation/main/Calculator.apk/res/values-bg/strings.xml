@@ -28,7 +28,7 @@
   <string name="age_label_weeks">Седмици</string>
   <string name="allow">Приемам</string>
   <string name="app_name">Калкулатор</string>
-  <string name="app_name_danfa">Mi Калкулатор</string>
+  <string name="app_name_danfa">Калкулатор</string>
   <string name="app_notification_info">Калкулатор работи на заден план</string>
   <string name="base_rate">Основен лихвен процент</string>
   <string name="bmi_error_text">Този ИТМ не изглежда правилен. Уверете се, че височината и теглото, които сте въвели са правилни.</string>
