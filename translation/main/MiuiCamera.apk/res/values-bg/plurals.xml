@@ -20,4 +20,12 @@
         <item quantity="other">%1$s снимки</item>
         <item quantity="one">%1$s снимка</item>
     </plurals>
+	    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d снимки при серийно заснемане</item>
+        <item quantity="one">%d снимка при серийно заснемане</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Интервал: %d секунди</item>
+        <item quantity="one">Интервал: %d секунда</item>
+    </plurals>
 </resources>

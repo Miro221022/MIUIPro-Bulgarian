@@ -475,7 +475,6 @@
   <string name="show_refresh_rate">Честота на опресняване</string>
   <string name="show_refresh_rate_summary">Показва текущата честота на опресняване на екрана</string>
   <string name="silent_notifications_status_bar">Скриване на беззвучните известия в лентата на състоянието</string>
-  <string name="sound_mode">Режим на звука</string>
   <string name="sound_settings_example_summary">Силата на звука за звъненето и известията е зададена на 80%</string>
   <string name="sound_settings_summary">Силата на звука за звъненето и известията е зададена на %1$s</string>
   <string name="storage_category">Хранилище</string>
@@ -605,7 +604,6 @@
   <string name="zen_mode_conversations_section_title">Разговори, които могат да прекъсват режима</string>
   <string name="zen_mode_conversations_title">Разговори</string>
   <string name="zen_mode_duration_settings_title">Времетраене</string>
-  <string name="zen_mode_effected_always">Винаги влиза в сила</string>
   <string name="zen_mode_events_list">събития</string>
   <string name="zen_mode_events_list_first">Събития</string>
   <string name="zen_mode_events_summary">От предстоящи събития в календара</string>
@@ -635,7 +633,6 @@
   <string name="zen_mode_reminders_summary">От задачи и напомняния</string>
   <string name="zen_mode_restrict_notifications_category">Когато режимът „Не безпокойте“ е включен</string>
   <string name="zen_mode_restrict_notifications_title">Опции за показване на скритите известия</string>
-  <string name="zen_mode_screen_locked_only">Only when screen locked</string>
   <string name="zen_mode_settings_category">Разрешаване на звуковите прекъсвания</string>
   <string name="zen_mode_settings_summary">Получаване на известия само от важни хора и приложения</string>
   <string name="zen_mode_settings_summary_off">Няма</string>
@@ -694,14 +691,17 @@
     <string name="interact_across_profiles_install_personal_app_title">За да свържете тези приложения, инсталирайте %1$s в личния си профил</string>
     <string name="interact_across_profiles_install_work_app_title">За да свържете тези приложения, инсталирайте %1$s iвъв вашия работен профил</string>
     <string name="interact_across_profiles_summary_2">Свързвайте приложения само ако им се доверите да не споделят лични данни с вашия IT администратор.</string>
-    <string name="mute_media_sound_title">Заглуши звука на медията</string>
     <string name="other_conversations">Други разговори</string>
     <string name="ringer_mode_setting_summary">Заглушаване на входящите повиквания и известия</string>
     <string name="wifi_no_internet">"Не може да се свърже с интернет"</string>
     <string name="wifi_no_internet_no_reconnect">"Не може да се свърже с интернет"</string>
-    <string name="zen_mode_summary">Заглушаване на входящите повиквания, известия, медия и ограничаване на вибрацията</string>
-    <string name="zen_rule_name_hint">"Въведете името на правилото"</string>
 	<string name="dndm_wristband_detailed">"Включете Не ме безпокойте, ако вашето преносимо устройство установи, че спите в рамките на един час преди планираното начално време"</string>
 	<string name="doze_always_on_title">Винаги включен екран</string>
 	<string name="search_user_agreement">Условия за ползване;Потребителско споразумение</string>
+    <string name="mute_media_sound_title">Заглуши медията в Тих режим</string>
+    <string name="sound_mode">Тих режим и Не ме безпокойте</string>
+    <string name="zen_mode_effected_always">Винаги</string>
+    <string name="zen_mode_screen_locked_only">Когато устройството е заключено</string>
+    <string name="zen_mode_summary">Заглушаване на входящите повиквания, известия, медия и изключване на вибрацията</string>
+    <string name="zen_rule_name_hint">Въведете име за това правилото</string>
 </resources>

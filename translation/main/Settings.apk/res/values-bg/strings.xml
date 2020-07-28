@@ -7689,4 +7689,5 @@ UT интерфейс: %5$s"</string>
     <string name="launch_wechat_payment_code">WeChat код за плащане</string>
     <string name="launch_wechat_scanner">WeChat скенер</string>
     <string name="mute">Тих режим</string>
+	<string name="bluetooth_unlock_settings_devices_prompt">Поддържат се само избрани преносими Bluetooth устройства (например фитнес гривни и умни часовници)</string>
 </resources>
