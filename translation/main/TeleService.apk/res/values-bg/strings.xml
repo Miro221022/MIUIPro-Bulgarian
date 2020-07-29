@@ -1216,7 +1216,7 @@
     <string name="respond_via_sms_confirmation_format">До %s бе изпратено съобщение.</string>
     <string name="sip_add_account_tip_text">Добавете SIP профил, за да ползвате интернет повикване</string>
     <string name="callwait_open_hint">\"Изчакващо повикване\" е услуга, която се предоставя от вашия оператор. Ако видите съобщение \"Грешен MMI код\", обърнете се към оператора за помощ.</string>
-    <string name="open_miui">Отваряне</string>
+    <string name="open_miui">Включване</string>
     <string name="preferred_network_restrict_network_changed_incall">Мобилната мрежа не може да се пороменя по време на обаждане</string>
     <string name="alertdialogtitle">Резултати</string>
     <string name="bad_pin">Въведеният от вас стар PIN не е правилен. Моля, опитайте отново.</string>
