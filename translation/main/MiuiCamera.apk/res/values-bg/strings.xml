@@ -1425,7 +1425,7 @@
     <string name="ai_scene_mode_tower">Кула</string>
     <string name="ai_scene_mode_tutuk">Триколка</string>
     <string name="ai_scene_mode_unknown">Неизвестно</string>
-    <string name="pref_camera_high_quality_preferred_description">Използване на алгоритъма, който дава приоритет на качеството на изображението над скоростта на заснемане на изображението</string>
+    <string name="pref_camera_high_quality_preferred_description">Подобряване на качеството на изображението, използвайки интелигентния алгоритъм. Скоростта на заснемане на изображение може да намалее, когато тази функция е включена.</string>
     <string name="pref_camera_high_quality_preferred_title">Подобряване на качеството на изображението</string>
     <string name="pref_hdr10_video_mode_description">Оптимизирайте цветовете и контраста за 4K и 8K видеоклипове автоматично. Оптимизираните видеоклипове могат да се възпроизвеждат само на съвместими с HDR10 устройства.</string>
 </resources>

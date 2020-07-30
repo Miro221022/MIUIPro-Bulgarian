@@ -7680,7 +7680,6 @@ UT интерфейс: %5$s"</string>
     <string name="bt_absVolume_summary">Поддържайте стриктно силата на звука на Bluetooth устройствата и телефона</string>
     <string name="custom_gesture_title">Персонализирани жестове</string>
     <string name="device_opcust_version">Персонализирана версия</string>
-    <string name="launch_ai_shortcut">Mi AI пряк път</string>
     <string name="launch_alipay_payment_code">Alipay код за плащане</string>
     <string name="launch_alipay_scanner">Alipay скенер</string>
     <string name="launch_calculator">Калкулатор</string>
