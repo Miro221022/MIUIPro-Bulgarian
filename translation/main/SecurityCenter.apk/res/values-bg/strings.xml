@@ -108,7 +108,7 @@
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_not_wlan">Не сте свързан с Wi-Fi мрежа. Използването на мобилни данни може да е причина за допълнително таксуване. Продължете?</string>
   <string name="antivirus_privacy_dialog_cloudscan">Качване на имена и детайли за приложенията</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Качване и сканиране на имената на приложенията и подробности чрез онлайн вирусни дефиниции.</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">"За да открием и неутрализираме вирусите по-ефективно, ще качим имената и свойствата на пакетите на приложенията, за да ги сканираме чрез облачен метод."</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">Тази функция шифрова и качва идентификацията на устройството ви в сървърите на Avast, AVL и Tencent\'s (%s).</string>
   <string name="antivirus_privacy_dialog_summary_link">Политика за поверителност</string>
@@ -3582,4 +3582,5 @@
     <string name="warningcenter_disaster_type_update">Актуализирано</string>
     <string name="warningcenter_disaster_yellow">黄色预警</string>
     <string name="warningcenter_disaster_zhongwuran">重污染</string>
+	<string name="antivirus_privacy_dialog_summary"><Data>Тази функция се захранва от антивирусно задвижване от трета страна. За да научите повече, прочетете &lt;a href=\"%1$s\">Лицензионно споразумение&lt;/a> предоставено от третата страна.</Data></string>
 </resources>

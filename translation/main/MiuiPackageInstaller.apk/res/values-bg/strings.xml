@@ -358,4 +358,20 @@
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
 	<string name="ads_summary_default_value">Хората, които инсталираха това приложение, също харесаха</string>
+	<string name="action_bar_report_link_des">应用举报</string>
+	<string name="exit_install_button">退出安装</string>
+	    <string name="install_confirm_dialog_message">该应用为谷歌应用，需要安装谷歌服务框架才能正常使用，否则会出现闪退、无响应等问题，请您谨慎使用。选择继续安装，则表示您同意承担由此带来的体验损失。</string>
+    <string name="install_confirm_dialog_negative_button">取消</string>
+    <string name="install_confirm_dialog_positive_button">继续安装</string>
+    <string name="install_confirm_dialog_title">警告</string>
+	<string name="install_confirm_question_des_10">如您愿意承担相应风险，继续选择安装该应用，请前往“手机管家-应用管理-权限-风险应用安装授权”，对该应用授权后再继续安装。如您无法找到授权入口，请先前往应用商店升级“手机管家”。</string>
+	<string name="install_confirm_text_gms">该应用为谷歌应用，需要安装谷歌服务框架才能正常使用，否则会出现闪退、无响应等问题，请您谨慎使用。</string>
+	<string name="install_control_cancel_vip_account_install">退出</string>
+	<string name="install_control_vip_account_install">前往小米社区申请内测</string>
+	    <string name="install_vip_account_mode_explain_des">该应用为内测版本，您当前暂无该应用内测权限</string>
+    <string name="install_vip_account_mode_solution_des">前往小米社区申请内测权限</string>
+	    <string name="intercept_confirm_dialog_message">\"%1$s\"试图安装\"%2$s\"需要您验证身份后方可安装</string>
+    <string name="intercept_confirm_dialog_positive">验证身份</string>
+    <string name="intercept_confirm_dialog_title">提示</string>
+	<string name="spannable_continue_text">我已知道问题的严重性 无视风险安装</string>
 </resources>

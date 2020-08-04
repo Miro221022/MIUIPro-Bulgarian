@@ -1081,4 +1081,6 @@
   <string name="debug_export_db">Експортиране на база данни</string>
   <string name="debug_title">Отстраняване на грешки</string>
   <string name="ad_close_button_text">Промоционални</string>
+      <string name="chatbot_list_title">5G Съобщения</string>
+    <string name="chatbot_main_title">Мини приложения</string>
 </resources>

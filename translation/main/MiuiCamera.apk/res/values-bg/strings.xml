@@ -1144,9 +1144,9 @@
 	<string name="accessibility_eis_normal">Електронна стабилизация включена</string>
     <string name="accessibility_eis_off">Електронна стабилизация изключена</string>
     <string name="accessibility_eis_pro">EIS Pro е включено</string>
-    <string name="pref_camera_eis_entry_normal">Електронна стабилизация</string>
+    <string name="pref_camera_eis_entry_normal">Електронна стабилизация включена</string>
     <string name="pref_camera_eis_entry_off">Изключено</string>
-    <string name="pref_camera_eis_entry_pro">EIS Pro</string>
+    <string name="pref_camera_eis_entry_pro">EIS Pro включено</string>
     <string name="pref_camera_eis_title">Електронна стабилизация</string>
     <string name="super_eis_pro">Стабилно видео Pro</string>
     <string name="super_eis_pro_disabled_hint">Стабилно видео Pro е изключено</string>

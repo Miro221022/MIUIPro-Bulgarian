@@ -217,7 +217,7 @@
 	<string name="autofill_save_ok">Разрешаване</string>
     <string name="autofill_save_title">Автоматично запазване на паролите</string>
     <string name="autofill_save_message">Ще разрешите ли на MIUI да запазва профилите и паролите ви?</string>
-    <string name="autofill_save_sub_message">"Ще можете да управлявате запазените пароли в Настройки > Пароли и сигурност > %s."</string>
+    <string name="autofill_save_sub_message">Можете да преглеждате и управлявате паролите си в Настройки > Пароли и сигурност > %s.</string>
 	<string name="popup_camera_cancel_popup">Отказ</string>
     <string name="popup_camera_continue_popup">Отвори Камера</string>
 	<string name="popup_camera_remove_hid_device">Изглежда, че устройството ви е свързано с контролер за игри. Може да не успеете да отворите предната камера, когато е свързан контролер за игри.</string>

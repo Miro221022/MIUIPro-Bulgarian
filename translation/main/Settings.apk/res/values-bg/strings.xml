@@ -1262,9 +1262,6 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="call_records_name_1">Мирослав Тодоров</string>
      <string name="call_records_name_2">Тодор Младенов</string>
      <string name="call_records_name_3">Иван Иванов</string>
-     <string name="call_records_summary_1">9:35 | 26 секунди | China Unicom</string>
-     <string name="call_records_summary_2">16 Август | 1м 16с | China Mobile</string>
-     <string name="call_records_summary_3">16 Август | 2м 24с | China Unicom</string>
      <string name="call_settings_primary_user_only">Само основният потребител може да променя настройките за обаждане.</string>
      <string name="call_settings_summary">Настройка на гласова поща, пренасочване, изчакване и идентификация на обаждането</string>
      <string name="call_settings_title">Настройки за обаждане</string>
@@ -7689,4 +7686,11 @@ UT интерфейс: %5$s"</string>
     <string name="launch_wechat_scanner">WeChat скенер</string>
     <string name="mute">Тих режим</string>
 	<string name="bluetooth_unlock_settings_devices_prompt">Поддържат се само избрани преносими Bluetooth устройства (например фитнес гривни и умни часовници)</string>
+	<string name="airplane_mode_summary">Деактивира обаждания, SMS, мобилни данни</string>
+	    <string name="call_records_summary_1">9:35 | 26 сек.</string>
+    <string name="call_records_summary_2">16 Август | 1м. 16сек.</string>
+    <string name="call_records_summary_3">16 Август | 2м. 24сек.</string>
+	<string name="find_my_device_summary">Трябва да сте влезли в Mi профил</string>
+	    <string name="ipv4_congertion_control">Изберете TCP контрол на задръстванията</string>
+    <string name="ipv4_congertion_xontrol_chose">TCP алгоритъм за избягване на задръствания</string>
 </resources>
