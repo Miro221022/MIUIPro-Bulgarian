@@ -248,11 +248,25 @@
   <string name="usb_device_resolve_prompt_warn">Приложението няма разрешение за записване, но може да записва звук чрез това USB устройство.</string>
   <string name="usb_unsupported_audio_accessory_message">Свързаното устройство не е съвместимо с този телефон. Докоснете, за да научите повече.</string>
   <string name="usb_unsupported_audio_accessory_title">Открит е аналогов аудиоаксесоар</string>
-  <string name="volume_icon_description_bluetooth">Сила на звука за Bluetooth</string>
-  <string name="volume_icon_description_incall">Сила на звука за обаждания</string>
-  <string name="volume_icon_description_media">Сила на звука</string>
-  <string name="volume_icon_description_notification">Сила на звука при известие</string>
-  <string name="volume_icon_description_ringer">Сила на звука за мелодия</string>
   <string name="tethered_notification_title">Активно е тетъринг или преносима точка за достъп</string>
   <string name="personal_apps_suspension_soon_text">Личните приложения ще бъдат блокирани %1$s в %2$s. Вашият IT администратор не позволява на работния ви профил да не работи повече от %3$d дни.</string>
+  <string name="adb_active_notification_title">USB отстраняване на грешки е включено</string>
+  <string name="lock_to_app_description">"Прикрепването на екрана заключва дисплея в един изглед.
+
+За да изключите, натиснете и задръжте едновременно бутона Начало и бутона за захранване."</string>
+  <string name="lock_to_app_description_accessible">"Прикрепването на екрана заключва дисплея в един изглед.
+
+За да изключите, натиснете и задръжте едновременно бутона Начало и бутона за захранване."</string>
+  <string name="lock_to_app_toast">За да изключите, натиснете и задръжте едновременно бутона Начало и бутона за захранване.</string>
+  <string name="lock_to_app_toast_accessible">За да изключите, натиснете и задръжте едновременно бутона Начало и бутона за захранване.</string>
+  <string name="lockscreen_permanent_disabled_sim_instructions">"Вашата SIM карта е деактивирана за постоянно.
+Свържете се с вашия доставчик на безжични услуги за друга SIM карта."</string>
+  <string name="tethered_notification_message">Докоснете, за да настроите.</string>
+  <string name="usb_midi_notification_title">MIDI през USB е включено</string>
+      <string name="usb_tether_notification_title">USB тетъринг е включен</string>
+	    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Повикване</string>
+    <string name="volume_icon_description_media">Медия</string>
+    <string name="volume_icon_description_notification">Известие</string>
+    <string name="volume_icon_description_ringer">Звънене</string>
 </resources>

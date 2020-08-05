@@ -7659,7 +7659,7 @@ UT интерфейс: %5$s"</string>
     <string name="passpoint_r1_privacy_dialog_message">"Passpoint е надеждна, безопасна технология за безжична връзка, лансирана от WLAN Alliance. Тя конфигурира автоматично акаунти за постигане на безпроблемна връзка между WLAN мрежи и мобилни устройства.
 
 Тази функция получава вашия WLAN MAC адрес само за първоначална регистрация на профил. Ние ще обработваме вашите данни в съответствие с нашата %s. Прочетете и се съгласете с нашата Политика за поверителност, преди да използвате тази функция."</string>
-    <string name="passpoint_r1_privacy_dialog_no">Отказ</string>
+    <string name="passpoint_r1_privacy_dialog_no">Изход</string>
     <string name="passpoint_r1_privacy_dialog_title">Внимание</string>
     <string name="passpoint_r1_privacy_dialog_url_text">Политика за поверителност</string>
     <string name="passpoint_r1_privacy_dialog_yes">Приемам</string>
