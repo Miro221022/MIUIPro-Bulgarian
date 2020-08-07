@@ -480,11 +480,11 @@
     <string name="display_ungrouped">Всички други контакти</string>
     <string name="display_warn_remove_ungrouped">Ако премахнете синхронозацията на \"%s\", това ще се приложи и за всички контакти без група.</string>
     <string name="duplicate_group_name">Такава група вече съществува</string>
-    <string name="editContactDescription">Редактирайте контакт</string>
+    <string name="editContactDescription">Редактирай контакта</string>
     <string name="editContactNameExpandCloseDescription">Скрий името</string>
     <string name="editContactNameExpandOpenDescription">Покажи името</string>
     <string name="editGroupDescription">Редактирайте група</string>
-    <string name="edit_contact">Редактирайте контакт</string>
+    <string name="edit_contact">Редактирай контакта</string>
     <string name="edit_contact_card_title">Изберете обекти за споделяне</string>
     <string name="edit_contact_photo">Промени снимката на контакта</string>
     <string name="eight_letter">TUV</string>

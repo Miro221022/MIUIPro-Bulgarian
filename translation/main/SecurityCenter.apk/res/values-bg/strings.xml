@@ -110,7 +110,6 @@
   <string name="antivirus_privacy_dialog_cloudscan">Качване на имена и детайли за приложенията</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">"За да открием и неутрализираме вирусите по-ефективно, ще качим имената и свойствата на пакетите на приложенията, за да ги сканираме чрез облачен метод."</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">Тази функция шифрова и качва идентификацията на устройството ви в сървърите на Avast, AVL и Tencent\'s (%s).</string>
   <string name="antivirus_privacy_dialog_summary_link">Политика за поверителност</string>
   <string name="antivirus_privacy_dialog_title">Политика на поверителност</string>
   <string name="antivirus_sec_network_unavailable">Сигурност не може да се актуализира, защото сте ограничили интернет връзката. Да се разреши ли на Сигурност да се свърже с интернет?</string>
