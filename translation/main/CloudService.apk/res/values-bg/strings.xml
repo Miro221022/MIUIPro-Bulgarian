@@ -904,4 +904,13 @@
 	    <string name="storage_manage_cloud_data_title">Преглед на елементи в облака</string>
     <string name="storage_manage_full_summary">Облачното хранилище е пълно. Надстройте плана си.</string>
     <string name="storage_manage_normal_summary">Променете плана за съхранение в облака</string>
+	    <string name="midrive_guide1_desc">Архивирайте елементи в облака, за да освободите място за съхранение на устройството си.</string>
+    <string name="midrive_guide1_title">Безопасно архивиране</string>
+    <string name="midrive_guide2_desc">Изтегляне на елементи с висока скорост.</string>
+    <string name="midrive_guide2_title">Бързи изтегляния</string>
+    <string name="midrive_guide3_desc">Използвайте Mi Диск на мобилни устройства, компютри и браузъри.</string>
+    <string name="midrive_guide3_title">Работи навсякъде</string>
+    <string name="midrive_guide_btn_install">Инсталиране на Mi Диск</string>
+    <string name="midrive_guide_btn_installed">Отваряне на Mi Диск</string>
+    <string name="midrive_guide_btn_installing">Инсталиране…</string>
 </resources>

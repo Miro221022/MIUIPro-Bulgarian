@@ -212,4 +212,7 @@
   <string name="wednesday_short">Сря</string>
   <string name="wednesday_shortest">Сря</string>
   <string name="yesterday">Вчера</string>
+      <string name="float_notifications_short">Плаващи</string>
+    <string name="lockscreen_notifications_short">Заключен екран</string>
+    <string name="show_badge_notifications_short">Значки</string>
 </resources>

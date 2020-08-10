@@ -205,4 +205,7 @@
     <string name="screen_projection_sample_summary">Излъчване на документи, игри, снимки и видеоклипове</string>
     <string name="screen_projection_sample_title">Демонстрации</string>
     <string name="screen_projection_title">Излъчване</string>
+	  <string name="dialog_miplay_permission_message">Разрешаване на Излучване да записва звук, достъп до файлове във вътрешната памет и достъп до местоположението ви, за да можете да използвате тази функция нормално. Докоснете \"Настройки\" и изберете \"Разрешения за приложения\", за да продължите.</string>
+  <string name="dialog_miplay_permission_positive">Настройки</string>
+  <string name="dialog_miplay_permission_title">Изискват се разрешения</string>
 </resources>

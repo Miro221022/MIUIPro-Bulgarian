@@ -269,7 +269,6 @@
   <string name="passport_checking_input">Проверка на данните…</string>
   <string name="passport_click_email_to_valid">"За да активирате профила си, следвайте връзката, която изпратихме до пощата ви"</string>
   <string name="passport_completed">Завършване</string>
-  <string name="passport_confirm_login">Продължи</string>
   <string name="passport_confirm_recycle_account">Да</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Изглежда че&lt;/font> номерът %s е рециклиран от вашия оператор и има свързан към него Mi профил. Този профил ваш ли е?"</string>
   <string name="passport_continue">Продължи</string>
@@ -418,8 +417,6 @@
   <string name="passport_setting">Настройва се…</string>
   <string name="passport_skip_login">Пропускане</string>
   <string name="passport_skip_register">Пропусни вписването</string>
-  <string name="passport_skip_setup_account_msg">Може да настроите вашият Mi профил по-късно от Настройки.</string>
-  <string name="passport_skip_setup_account_title">Да не се използва Xiaomi Облак?</string>
   <string name="passport_sms_send_success">Изпратено</string>
   <string name="passport_sms_verification_code_login">Вписване със SMS</string>
   <string name="passport_sms_verification_code_login_or_register">Впишете се или създайте профил чрез SMS</string>
@@ -587,4 +584,7 @@
     <string name="v7_preference_on">ВКЛ.</string>
 	<string name="get_identity_auth_url_failed">"Идент. № не можа да се потвърди"</string>
 	<string name="copy_to_clipboard_successful">Копирано успешно</string>
+    <string name="passport_confirm_login">Вписване</string>
+    <string name="passport_skip_setup_account_msg">Вписването в Mi профил ви позволява да използвате услугите на Xiaomi Облак. Пропускане на тази стъпка въпреки това?</string>
+    <string name="passport_skip_setup_account_title">Mi профил и Xiaomi Облак</string>
 </resources>

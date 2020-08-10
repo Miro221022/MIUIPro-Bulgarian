@@ -3582,4 +3582,14 @@
     <string name="warningcenter_disaster_yellow">黄色预警</string>
     <string name="warningcenter_disaster_zhongwuran">重污染</string>
 	<string name="antivirus_privacy_dialog_summary"><Data>Тази функция се захранва от антивирусно задвижване от трета страна. За да научите повече, прочетете &lt;a href=\"%1$s\">Лицензионно споразумение&lt;/a> предоставено от третата страна.</Data></string>
+    <string name="activity_title_risk_app_install_manager">Приложения с възможни рискове</string>
+    <string name="risk_app_install_agree_button">Довери се на това приложение</string>
+    <string name="risk_app_install_agree_checkbox">"Готов съм да поема всички възможни рискове."</string>
+    <string name="risk_app_install_agree_message">"Това приложение е разработено от трета страна и може да наруши местните закони и разпоредби. Xiaomi не гарантира наличието, непрекъснатостта и достъпността на съдържанието и услугите, предоставяни от това приложение. Всяка загуба или щета, причинена от използването на това приложение, ще бъде поета от вас."</string>
+    <string name="risk_app_install_agree_title">Отказ от отговорност</string>
+    <string name="risk_app_install_auth_result">"Оторизирали сте инсталирането на %1$s. Можете да продължите, след като бъде открит инсталационният пакет."</string>
+    <string name="risk_app_install_empty_text">Тук все още няма елементи</string>
+    <string name="risk_app_install_history">История на разрешенията</string>
+    <string name="risk_app_install_item_des">Версия: %1$s</string>
+    <string name="risk_app_install_manager">Приложения с възможни рискове</string>
 </resources>

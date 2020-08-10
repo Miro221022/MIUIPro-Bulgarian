@@ -176,7 +176,10 @@
   <string name="feedback_delete_images">Изтрий изображенията</string>
   <string name="feedback_description">Описание</string>
   <string name="feedback_description_bugreport_hint">В някой случай () моя телефон има проблеми ().</string>
-  <string name="feedback_description_hint">Опишете проблема, с който сте се сблъскали</string>
+  <string name="feedback_description_hint">"Опишете проблема, който сте срещнали тук.
+%1$d. В кое приложение или на каква страница сте се сблъскали с проблема?
+%2$d. След какви действия, които сте извършили, се появи проблемът?
+%3$d. Дайте ни допълнителна информация, която може да ни помогне да отстраним проблема."</string>
   <string name="feedback_description_hint_suggestion">Кажете ни как искате да се подобри MIUI.</string>
   <string name="feedback_description_label">Описание</string>
   <string name="feedback_description_suggest_hint">Искам да добавя нова функция () защото имам нужда от ().</string>
@@ -529,7 +532,7 @@
   <string name="title_same_question_feedback_main">Подобен проблем в MIUI форум</string>
   <string name="title_system_app">MIUI прил.</string>
   <string name="title_user_guide">Упътване</string>
-  <string name="toast_app_tag_required">Изберете проблем</string>
+  <string name="toast_app_tag_required">Първо изберете проблем</string>
   <string name="toast_catch_full_log_catching">Можете да генерирате само един отчет в даден момент.</string>
   <string name="toast_catch_full_log_open_failed">Не може да се стартира записа на отчет</string>
   <string name="toast_description_required">Трябва да напишете описание (на Английски)</string>
