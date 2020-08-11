@@ -609,4 +609,7 @@
   <string name="navigation_guide_settings">Демонстрация на жестове</string>
   <string name="switch_screen_button_order">Размяна на бутоните</string>
   <string name="switch_screen_button_order_desc">Размяна на бутоните Назад и Меню</string>
+  <string name="auto_disable_screenbuttons_summary">Докоснете два пъти бутон за управление, за да го активирате отново</string>
+    <string name="auto_disable_screenbuttons_title">Автоматично деактивиране на бутоните за управление</string>
+    <string name="key_shortcut_settings_title">Клавишни комбинации</string>
 </resources>
