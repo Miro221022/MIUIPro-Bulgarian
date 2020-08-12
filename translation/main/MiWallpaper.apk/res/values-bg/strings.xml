@@ -96,4 +96,5 @@ d/MM"</string>
     <string name="no_install_permission">"Нямате разрешения за инсталиране на този елемент"</string>
     <string name="task_already_exist">Тази задача вече съществува</string>
     <string name="update">Актуализирай</string>
+	<string name="title_system_wallpaper_resource">Системни тапети</string>
 </resources>

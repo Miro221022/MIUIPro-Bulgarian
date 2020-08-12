@@ -7700,4 +7700,8 @@ UT интерфейс: %5$s"</string>
     <string name="long_press_power_key_half_second">Натиснете и задръжте бутона за захранване 0.5 секунди</string>
     <string name="airplane_mode_summary">"Включете, за да изключите устройството си от мобилните мрежи. Няма да можете да извършвате повиквания, да изпращате и получавате текстови съобщения или да използвате мобилни данни, когато тази функция е включена."</string>
     <string name="find_my_device_summary">Тази функция изисква вписване в Mi профил</string>
+	<string name="sim_card_lock">Състояние на SIM картата</string>
+    <string name="smart_home_title">Интелигентен дом</string>
+    <string name="smart_home_value_none">Без</string>
+    <string name="smart_home_value_unknown">Неизвестно</string>
 </resources>

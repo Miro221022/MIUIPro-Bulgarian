@@ -475,4 +475,9 @@
   <string name="warning_bar_title_cloud_space_full">Облачното хранилище е пълно. Не могат да се синхронизират снимки, история на обаждания или други елементи.</string>
   <string name="year_month_day_format">dd MMMM, yyyy</string>
   <string name="yesterday">Вчера</string>
+    <string name="setting_create_shortcut">Пряк път на началния екран</string>
+    <string name="shortcut_dialog_confirm">Създай</string>
+    <string name="shortcut_dialog_content">Да се създаде ли пряк път на началния екран за Mi Drive?</string>
+    <string name="tip_shortcut_added_success">Създаден успешно</string>
+    <string name="tip_shortcut_already_added">Прекият път на началния екран вече съществува</string>
 </resources>

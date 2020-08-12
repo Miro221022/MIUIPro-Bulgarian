@@ -154,7 +154,7 @@
   <string name="it_is_going_to_rain">Започва да вали</string>
   <string name="life_index_title">Индекс на времето</string>
   <string name="locate_fail_detail_err">Не може да се локализира устройството\nЧукнете екрана за ръчно въвеждане или промяна на град</string>
-  <string name="location_provider_btn_text">Включване на услугите за местоположение</string>
+  <string name="location_provider_btn_text">Разрешете на Времето да получи достъп до местоположението ви</string>
   <string name="location_tag">Локализиране</string>
   <string name="menu_location">Местоположения</string>
   <string name="menu_speaker">Предаване на глас</string>
@@ -401,4 +401,8 @@
   <string name="dialog_title_score">Оценете Времето</string>
     <string name="rating_dialog_later">По-късно</string>
   <string name="rating_dialog_rate_now">Оцени сега</string>
+      <string name="dynamic_weather">Времето</string>
+    <string name="save_to_gallery_failure_message">"Неуспешно запазване в Галерия"</string>
+    <string name="save_to_gallery_icon_name">Запазване в Галерия</string>
+    <string name="save_to_gallery_success_message">Запазено в Галерия успешно</string>
 </resources>
