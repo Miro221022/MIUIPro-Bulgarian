@@ -1086,7 +1086,7 @@
 	<string name="camcorder_tip_8k_max_video_duration">Можете да запишете до 6 минути в 8K</string>
     <string name="video_beauty_tip_filter">Филтри</string>
     <string name="video_beauty_tip_portrait_bokeh">Боке</string>
-	<string name="video_beauty_tip_beautification">Разкрасяване</string>
+	<string name="video_beauty_tip_beautification">Филтри</string>
 	<string name="ai_watermark_title">AI воден знак</string>
     <string name="document_mode_use_hint_text_body">"Автоматично подреждане и подобряване
 на сканирани документи"</string>
@@ -1144,9 +1144,9 @@
 	<string name="accessibility_eis_normal">Електронна стабилизация включена</string>
     <string name="accessibility_eis_off">Електронна стабилизация изключена</string>
     <string name="accessibility_eis_pro">EIS Pro е включено</string>
-    <string name="pref_camera_eis_entry_normal">Електронна стабилизация включена</string>
+    <string name="pref_camera_eis_entry_normal">Видео стабилизация</string>
     <string name="pref_camera_eis_entry_off">Изключено</string>
-    <string name="pref_camera_eis_entry_pro">EIS Pro включено</string>
+    <string name="pref_camera_eis_entry_pro">Видео стабилизация Pro</string>
     <string name="pref_camera_eis_title">Електронна стабилизация</string>
     <string name="super_eis_pro">Стабилно видео Pro</string>
     <string name="super_eis_pro_disabled_hint">Стабилно видео Pro е изключено</string>
@@ -1428,4 +1428,6 @@
     <string name="pref_camera_high_quality_preferred_description">Подобряване на качеството на изображението, използвайки интелигентния алгоритъм. Скоростта на заснемане на изображение може да намалее, когато тази функция е включена.</string>
     <string name="pref_camera_high_quality_preferred_title">Подобряване на качеството на изображението</string>
     <string name="pref_hdr10_video_mode_description">Оптимизирайте цветовете и контраста за 4K и 8K видеоклипове автоматично. Оптимизираните видеоклипове могат да се възпроизвеждат само на съвместими с HDR10 устройства.</string>
+	 <string name="pano_click_to_toggle_direction">Докоснете стрелката, за да превключите посоката</string>
+    <string name="pano_go_on_moving">Моля, движете телефона с постоянна скорост по посоката на стрелката</string>
 </resources>
