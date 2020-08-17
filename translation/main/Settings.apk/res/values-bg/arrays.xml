@@ -1760,4 +1760,8 @@
         <item>Светли цветове</item>
         <item>Черно и бяло</item>
     </string-array>
+	    <string-array name="screen_reader_mode_input_type_selector_titles">
+        <item>Почукване</item>
+        <item>Двукратно почукване</item>
+    </string-array>
 </resources>

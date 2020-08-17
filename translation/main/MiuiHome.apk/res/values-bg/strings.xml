@@ -612,4 +612,11 @@
   <string name="auto_disable_screenbuttons_summary">Докоснете два пъти бутон за управление, за да го активирате отново</string>
     <string name="auto_disable_screenbuttons_title">Автоматично деактивиране на бутоните за управление</string>
     <string name="key_shortcut_settings_title">Клавишни комбинации</string>
+	    <string name="menu_new_display_open">用新窗口打开</string>
+    <string name="menu_pc_open">用电脑程序打开</string>
+    <string name="navigation_type_title_synonyms_1">全面屏</string>
+    <string name="navigation_type_title_synonyms_2">小白条</string>
+    <string name="navigation_type_title_synonyms_3">全面屏手势</string>
+    <string name="navigation_type_title_synonyms_4">导航键</string>
+    <string name="open_personal_assistant_title_synonyms">负一屏</string>
 </resources>

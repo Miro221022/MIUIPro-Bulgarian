@@ -4206,7 +4206,7 @@ OTG се изключва автоматично след 10 минути без
      <string name="password_security_settings_title">Пароли и сигурност</string>
      <string name="password_turned_off_text">Няма зададена парола</string>
      <string name="password_turned_on_text">Паролата е зададена</string>
-     <string name="password_unlock_title">Парола</string>
+     <string name="password_unlock_title">Заключване на екрана</string>
      <string name="payment_summary">%1$s е стандартното приложение</string>
      <string name="peek_notification_icon_title">Показване на икони за входящи известия</string>
      <string name="performance_category">Производителност</string>
@@ -7704,4 +7704,6 @@ UT интерфейс: %5$s"</string>
     <string name="smart_home_title">Интелигентен дом</string>
     <string name="smart_home_value_none">Без</string>
     <string name="smart_home_value_unknown">Неизвестно</string>
+	    <string name="screen_reader_mode_input_type_summary">Изберете жест за активиране на въвеждането на текст, когато TalkBack е включен</string>
+    <string name="screen_reader_mode_input_type_title">Въвеждане на текст</string>
 </resources>
