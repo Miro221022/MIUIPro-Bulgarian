@@ -483,4 +483,7 @@
 	 <string name="cta_v2_agree_desc">Разрешете на това приложение да се свърже с интернет и да предостави задължителните разрешения, изброени по-горе.</string>
      <string name="sync_folder_todo">%1$s и %2$s</string>
      <string name="sync_note_todo">%1$s и %2$s</string>
+	   <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">%s нова версия</string>
 </resources>

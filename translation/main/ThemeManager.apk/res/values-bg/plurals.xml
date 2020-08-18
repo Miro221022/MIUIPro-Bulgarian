@@ -160,4 +160,36 @@
         <item quantity="one">%s награда</item>
         <item quantity="other">%s награди</item>
     </plurals>
+	    <plurals name="anonymous_resource_count_aod">
+        <item quantity="one">%1$d AOD тема</item>
+        <item quantity="other">%1$d AOD теми</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="one">%1$d шрифт</item>
+        <item quantity="other">%1$d шрифта</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="one">%1$d икона</item>
+        <item quantity="other">%1$d икони</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="one">%1$d тема</item>
+        <item quantity="other">%1$d теми</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="one">Добавяне на %1$d елемент</item>
+        <item quantity="other">Добавяне на %1$d елемента</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="one">Добавен е %1$d елемент към вашия профил. Преглеждайте добавените елементи в поръчките си.</item>
+        <item quantity="other">Добавени са %1$d елемента към вашия профил. Преглеждайте добавените елементи в поръчките си.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="one">"Можете да изтеглите само %1$d безплатен елемнт, ако не сте вписани (без тапети и мелодии). Впишете се, за да изтеглите елемнти без ограничения."</item>
+        <item quantity="other">"Можете да изтеглите само %1$d безплатни елемента, ако не сте вписани (без тапети и мелодии). Впишете се, за да изтеглите елемнти без ограничения."</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="one">"%1$d елемент не е добавен към вашия акаунт"</item>
+        <item quantity="other">"%1$d елемента не са добавени към вашия акаунт"</item>
+    </plurals>
 </resources>

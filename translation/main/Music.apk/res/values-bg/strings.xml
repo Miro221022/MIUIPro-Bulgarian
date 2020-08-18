@@ -1057,4 +1057,22 @@
   <string name="you_can_switch_mode_in_settings">Можете да превключвате между режими от Настройки</string>
   <string name="you_may_like">Може също да харесате</string>
   <string name="youtube_play_history">История на изпълненията</string>
+    <string name="dialog_score_msg_score_explorer">Харесва ли ви Mi Music?</string>
+  <string name="dialog_score_msg_score_not_good">Можете ли да ни дадете и вашите отзиви?</string>
+  <string name="dialog_score_msg_score_perfect">Хубаво! Ще оцените ли нашето приложение и в Play Store?</string>
+    <string name="dialog_score_toast_rate">Оценете първо нашето приложение</string>
+  <string name="dialog_score_toast_scroll_down_score_midrop">Превъртете надолу, за да оцените нашето приложение</string>
+  <string name="exo_controls_hide">Скриване на управлението на плейъра</string>
+    <string name="exo_controls_show">Показване на управлението на плейъра</string>
+  <string name="exo_controls_shuffle_off_description">Разбъркване изключено</string>
+  <string name="exo_controls_shuffle_on_description">Разбъркване включено</string>
+  <string name="exo_controls_vr_description">VR режим</string>
+    <string name="exo_track_role_alternate">Редуване</string>
+  <string name="exo_track_role_closed_captions">CC</string>
+  <string name="exo_track_role_commentary">Коментар</string>
+  <string name="exo_track_role_supplementary">Допълнително</string>
+  <string name="shuffle_play_toast_text">Разбъркване на песните…</string>
+    <string name="toast_will_play_list_when_ad_pause">Списъкът за изпълнение ще започне да се изпълнява след рекламите</string>
+  <string name="toast_will_play_song_when_ad_pause">Тази песен ще започне да се изпълнява след рекламите</string>
+  <string name="upload_favorite_setting_summary">Добавянето на онлайн песни към любими ги качва в облака и ви позволява да получите достъп до тях на други устройства</string>
 </resources>

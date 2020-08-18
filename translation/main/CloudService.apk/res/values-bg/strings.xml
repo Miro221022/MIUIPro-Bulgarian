@@ -913,4 +913,9 @@
     <string name="midrive_guide_btn_install">Инсталиране на Mi Диск</string>
     <string name="midrive_guide_btn_installed">Отваряне на Mi Диск</string>
     <string name="midrive_guide_btn_installing">Инсталиране…</string>
+	  <string name="low_battery_locate_summary">Автоматично докладвайте информация за местоположението, когато батерията е изтощена</string>
+  <string name="low_battery_locate_title">Докладвайте местоположението, когато батерията е изтощена</string>
+  <string name="power_off_locate_summary">"Докладвайте информация за местоположението, чрез дълго натискане на бутона за захранване.
+Информация за местоположението може да не се докладва, когато мрежовата връзка е лоша."</string>
+  <string name="power_off_locate_title">Докладвайте местоположението преди изключването</string>
 </resources>

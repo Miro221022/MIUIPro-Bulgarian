@@ -3706,8 +3706,8 @@ Xiaomi Облак
      <string name="mqs_privacy_automatically_upload">Качване автоматично следващия път</string>
      <string name="mqs_privacy_dialog_cancel">Отказ</string>
      <string name="mqs_privacy_dialog_confirm">Качване</string>
-     <string name="mqs_privacy_dialog_content">Ще качите ли регистрационните файлове, за да ни помогнете да открием и разрешим този проблем? Регистрационните файлове може да съдържат вашата лична информация, включително информацията за местоположението ви.</string>
-     <string name="mqs_privacy_dialog_title">Възникна грешка</string>
+     <string name="mqs_privacy_dialog_content">Изглежда, че на вашето устройство наскоро са възникнали грешки. Можете да качите отчетите, за да ни помогнете да намерим и решим този проблем. Отчетите могат да съдържат вашата лична информация, включително информацията за вашето местоположение. Качване сега?</string>
+     <string name="mqs_privacy_dialog_title">Качване на отчети</string>
      <string name="msd_driver_download">Изтегли драйвера</string>
      <string name="msd_driver_download_mac">За компютри с Mac ОС, изтеглете драйверът и кликнете на AndroidFileTransfer.dmg, за да го инсталирате</string>
      <string name="msd_driver_download_mac_url">Изтеглете драйверът от http://www.android.com/filetransfer/</string>
