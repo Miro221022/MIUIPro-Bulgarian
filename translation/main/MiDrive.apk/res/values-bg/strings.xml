@@ -488,4 +488,17 @@
   <string name="refresh_label_refreshed">Обновено успешно</string>
   <string name="refresh_label_refreshing">Обновяване…</string>
   <string name="refresh_label_release_to_refresh">Пуснете за обновяване</string>
+    <string name="update_dialog_button_cancel">Не сега</string>
+  <string name="update_dialog_button_ok">Актуализирай</string>
+  <string name="update_dialog_content">"Нова версия: %1$s
+%2$s"</string>
+  <string name="update_dialog_title">Налична е актуализация</string>
+  <string name="update_failed">Възникна грешка в сървъра. Изчакайте минута или две и опитайте отново.</string>
+  <string name="update_failed_no_app_info">"Инсталационният пакет не може да се получи"</string>
+  <string name="update_no_network">"Не може да се свърже с мрежата. Проверете мрежовите си настройки и опитайте отново."</string>
+  <string name="update_no_update">Текущата версия е актуална</string>
+  <string name="update_progress_dialog_content">Изтегля се…</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">%s нова версия</string>
 </resources>

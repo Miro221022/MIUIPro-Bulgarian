@@ -72,7 +72,7 @@
   <string name="activate_email_notice">Уверете се, че сте активирали профила си в рамките на 24 часа.</string>
   <string name="activity_not_found_notice">Не може да се намери приложението</string>
   <string name="add_account">Свързване на профил</string>
-  <string name="agreement_and_privacy">Политика за поверителност и потребителско споразумение</string>
+  <string name="agreement_and_privacy">Правила и условия</string>
   <string name="app_name">Mi профил</string>
   <string name="auth_fail_warning">Сесията е изтекла, опитайте по-късно</string>
   <string name="authorize_title">Оторизация</string>
@@ -587,4 +587,5 @@
     <string name="passport_confirm_login">Вписване</string>
     <string name="passport_skip_setup_account_msg">Вписването в Mi профил ви позволява да използвате услугите на Xiaomi Облак. Пропускане на тази стъпка въпреки това?</string>
     <string name="passport_skip_setup_account_title">Mi профил и Xiaomi Облак</string>
+	<string name="help_center">Помощ</string>
 </resources>

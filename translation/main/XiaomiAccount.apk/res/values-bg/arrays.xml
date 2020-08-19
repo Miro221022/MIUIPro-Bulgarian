@@ -4,4 +4,69 @@
     <item>Мъж</item>
     <item>Жена</item>
   </string-array>
+      <string-array name="settings_search_account_and_authority">
+        <item>Профили</item>
+        <item>Добавете и управлявайте акаунти от трети страни</item>
+        <item>Оторизация;Профил;Mi профил;Добави;Сдвои;Xiaomi;Прегледи;SNS;WeChat;Google;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Промяна на паролата</item>
+        <item>Промяна на паролата за Mi профила</item>
+        <item>Промяна;Парола;Xiaomi;Mi профил;Профил</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Помощ</item>
+        <item>Получете помощ и поддръжка за Mi профила</item>
+        <item>Xiaomi;Профил;Mi профил;Помощ;Поддръжка;Преглед</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Потвърждение в две стъпки</item>
+        <item>Задайте потвърждение в две стъпки за вашия Mi профил</item>
+        <item>Вписване;Влизане;2 стъпки;потвърждение;Xiaomi;Профил;Mi Профил;Настройки</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Вписване и сигурност</item>
+        <item>Телефон и имейл за възстановяване, управление на пароли</item>
+        <item>Профил;Сигурност;Вписване;Влизане;Xiaomi;Mi профил;Телефонен номер;Имейл;Промяна;Парола;Добави;Сдвояване</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Устройства</item>
+        <item>Управлявайте устройствата, свързани с вашия Mi профил</item>
+        <item>Устройства;Управление;Вписване;Влизане;Списък с устройства;Xiaomi;Mi профил;Профил</item>
+    </string-array>
+    <string-array name="settings_search_payment_information">
+        <item>Информация за плащане</item>
+        <item>Преглеждайте и управлявайте информация за плащанията</item>
+        <item>Плащане;Информация;Xiaomi;Mi профил;Профил</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Политика за поверителност</item>
+        <item>Преглед Политиката за поверителност на Mi акаунта</item>
+        <item>Xiaomi;Профил;Mi профил;Поверителност;Политика;Преглед</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Имейл за възстановяване</item>
+        <item>Добавете имейл за възстановяване</item>
+        <item>Сигурност;Имейл;Xiaomi;Профил;Mi Профил;Добави;Сдвояване</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Телефон за възстановяване</item>
+        <item>Добавете телефон за възстановяване</item>
+        <item>Сигурност;Профил;Mi профил;телефон;Xiaomi;Телефонен номер;Добави;Сдвои</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Реклами</item>
+        <item>Управление на системните реклами</item>
+        <item>Система;Реклами;Xiaomi;Профил;Mi профил;Настройки</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Информация за профила</item>
+        <item>Преглеждайте снимката на потребителския си профил и управлявайте информацията за профила</item>
+        <item>Профил;Инфо;Личен;Профилна снимка;Име;Xiaomi;Идентификация;Mi профил;Преглед;Настройки</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Потребителско споразумение</item>
+        <item>Вижте Споразумение за ползване на Mi профил</item>
+        <item>Xiaomi;Профил;Mi профил;Потребител;Споразумение;Преглед</item>
+    </string-array>
 </resources>
