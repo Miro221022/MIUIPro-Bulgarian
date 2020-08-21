@@ -1354,7 +1354,7 @@
      <string name="app_pa_setting_service_stock">Акции</string>
      <string name="app_pa_setting_service_stock_summary">Последни тенденции на пазара</string>
      <string name="app_pa_setting_service_timetable">Учебна програма</string>
-     <string name="app_pa_setting_service_timetable_summary">Всичките ви класове на едно място</string>
+     <string name="app_pa_setting_service_timetable_summary">Докоснете, за да планирате часовете</string>
      <string name="app_pa_setting_title">Настройки</string>
      <string name="app_pa_setting_version">Версия: %1$s</string>
      <string name="app_shopping_card_bottom_btn">Всички продукти</string>
@@ -1400,4 +1400,26 @@
      <string name="app_travel_train_status_outage">Отменен</string>
      <string name="app_travel_train_timetable">Разписание на влаковете</string>
      <string name="base_search_empty">"Не са намерени резултати"</string>
+	 <string name="app_sleep">Сън</string>
+     <string name="app_sleep_awake">Буден</string>
+     <string name="app_sleep_continue">Спете по-добре</string>
+     <string name="app_sleep_deep">Дълбок</string>
+     <string name="app_sleep_enough">Достатъчно</string>
+     <string name="app_sleep_light">Лек</string>
+     <string name="app_sleep_sleeping">Получете повече сън</string>
+     <string name="app_sleep_too_long">Твърде много</string>
+     <string name="app_sleep_too_short">Недостатъчно</string>
+     <string name="app_stock_network_unavailable">"Не може да се свърже с мрежата"</string>
+     <string name="app_stock_search_fail">"Не са намерени резултати"</string>
+     <string name="app_stock_search_loading">Една секунда…</string>
+     <string name="base_hour_minute">%1$dч. %2$dмин.</string>
+     <string name="commute_navigation_choice">Приложение за навигация</string>
+     <string name="commute_navigation_choice_recommend">Авто</string>
+     <string name="commute_navigation_dialog_item_recommend">Авто (въз основа на вашите предпочитания)</string>
+     <string name="commute_navigation_dialog_title">Изберете приложение за навигация</string>
+     <string name="cta_dialog_all_purpose">Добре дошли в Личен асистент! Това приложение е място за работа, начин на живот и услуги, свързани с пътувания.</string>
+     <string name="cta_dialog_desc_calendar">За показване на календарни събития и планирани пътувания</string>
+     <string name="cta_dialog_desc_location">За изчисляване на продължителността на ежедневното пътуване</string>
+     <string name="cta_dialog_desc_phone_state">За идентифициране на вашето устройство с помощта на IMEI</string>
+     <string name="cta_dialog_desc_storage">За запазване на елементи на вашето устройство</string>
 </resources>

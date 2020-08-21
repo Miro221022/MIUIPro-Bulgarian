@@ -119,4 +119,5 @@ Wi-Fi телефония: %3$s
 
 Спешните повиквания са възможни само в райони с клетъчно покритие."</string>
     <string name="media_transfer_wired_usb_device_name">Кабелни слушалки</string>
+	<string name="label_phoneid">Персонално заключено за</string>
 </resources>

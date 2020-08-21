@@ -20,4 +20,5 @@
     <string name="financed_device_screen_header">Това устройство е закупено на кредит от %1$s</string>
     <string name="install_creditor_app_description">Инсталирайте приложението %1$s за да можете да извършвате плащания за това устройство</string>
     <string name="lock_device_description">"Ограничете достъпа до това устройство, ако не извършвате плащания"</string>
+	<string name="car_ui_toolbar_nav_icon_content_description">Назад</string>
 </resources>

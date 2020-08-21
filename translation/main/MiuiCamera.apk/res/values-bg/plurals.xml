@@ -28,4 +28,8 @@
         <item quantity="other">Интервал: %d секунди</item>
         <item quantity="one">Интервал: %d секунда</item>
     </plurals>
+	    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Продължителност: %d секунди</item>
+        <item quantity="one">Продължителност: %d секунда</item>
+    </plurals>
 </resources>

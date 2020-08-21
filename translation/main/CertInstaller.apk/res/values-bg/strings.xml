@@ -63,10 +63,11 @@
     <string name="invalid_certificate_title">"Този файл не може да се използва"</string>
     <string name="redirect_ca_certificate_close_button">Затвори</string>
     <string name="redirect_ca_certificate_message">CA сертификатите могат да изложат вашата поверителност на риск и трябва да бъдат инсталирани в Настройки</string>
-    <string name="redirect_ca_certificate_title">"CA сертификатите не могат да бъдат инсталирани"</string>
+    <string name="redirect_ca_certificate_title">Инсталирайте CA сертификатите в Настройки</string>
     <string name="select_certificate_usage_title">Изберете тип сертификат</string>
     <string name="user_cert_is_added">Инсталиран е потребителски сертификат</string>
     <string name="user_certificate">VPN сертификат и потребителски сертификат</string>
     <string name="wifi_cert_is_added">Wi‑Fi сертификат инсталиран installed</string>
     <string name="wifi_certificate">Wi‑Fi сертификат</string>
+	<string name="redirect_ca_certificate_with_app_info_message">Този сертификат от %1$s трябва да бъде инсталиран в Настройки. Инсталирайте CA сертификати само от организации, на които имате доверие.</string>
 </resources>

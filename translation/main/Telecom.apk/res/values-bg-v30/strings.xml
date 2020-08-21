@@ -123,4 +123,6 @@
     <string name="wifi_enhanced_mac_randomization">Подобр. рандом. на MAC адреса чрез Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Когато този режим е включен, MAC адресът на устройството може да се променя при всяко свързване с мрежа, за която е активирана функцията за произволна промяна на MAC адреса.</string>
     <string name="wifi_passpoint_expired">Изтекло</string>
+	    <string name="notification_incallservice_not_responding_body">Обаждането ви използва приложението за телефон, което е доставено с вашето устройство</string>
+    <string name="notification_incallservice_not_responding_title">%s спря да отговаря</string>
 </resources>
