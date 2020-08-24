@@ -572,4 +572,8 @@
         <item quantity="other">%d приложения</item>
         <item quantity="one">%d приложение</item>
     </plurals>
+	    <plurals name="ew_concern_date">
+        <item quantity="other">Преди %d дни</item>
+        <item quantity="one">Преди %d Ден</item>
+    </plurals>
 </resources>

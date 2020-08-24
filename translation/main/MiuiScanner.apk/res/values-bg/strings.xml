@@ -526,4 +526,7 @@
     <string name="mihome_update_message">当前米家APP版本过低，请更新后，再次尝试。</string>
     <string name="mihome_update_title">更新米家APP</string>
 	<string name="general_location">Функцията за идентификация на магазина трябва да получи информация за местоположението, която да оторизира</string>
+	<string name="general_no">Не е намерена информация за елемента</string>
+    <string name="general_no_found">Препоръчайте подобни продукти за вас</string>
+    <string name="general_plant">Това, което търсите, може да бъде:</string>
 </resources>
