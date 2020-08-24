@@ -126,4 +126,7 @@
     <string name="ew_share_title">Сподели</string>
     <string name="ew_warning_detail">Подробности за предупреждението</string>
 	<string name="ew_title_back">Назад</string>
+	  <string name="tool_box_active_loading">Една секунда…</string>
+  <string name="tool_box_active_no_networ">"Не може да се свърже с мрежата"</string>
+  <string name="tool_box_active_reload">Опресняване</string>
 </resources>
