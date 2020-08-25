@@ -884,16 +884,11 @@
   <string name="ew_main_settings">Настройки</string>
   <string name="ew_main_warning_list">Преглед на предупрежденията</string>
   <string name="ew_main_warning_list_tips">Преглед</string>
-  <string name="ew_main_warning_list_title">История на предупрежденията</string>
   <string name="ew_push_message">Прогнозен интензитет: %s. Очаквайте леко разлюляване близо до вас.</string>
   <string name="ew_push_title">Предупреждение за земетресение за %s</string>
   <string name="ew_safe_place_no_maps_tips">Не може да се търси сега. Инсталирайте първо Baidu Maps или Amap.</string>
-  <string name="ew_setting_desc_message">Системата оценява интензитета на земетресението въз основа на магнитуда на земетресението, местоположението на епицентъра и разстоянието от вас. Колкото по-голям е интензитета на земетресението, толкова по-голямо опустошение може да доведе при вашето местоположение. Когато прогнозния интензитет е по-голям от 2,0 ще получите предупреждение за силно земетресение; когато прогнозния интензитет е по-нисък от 2,0 можете да изберете да получавате системни известия.</string>
-  <string name="ew_setting_desc_title">За прогнозния интензитет</string>
   <string name="ew_setting_more_title">Научете повече за предупрежденията за земетресение</string>
-  <string name="ew_setting_normal_push_message">За земетресения с интензитет по-нисък от 2,0</string>
   <string name="ew_setting_normal_push_title">Получаване на системни известия</string>
-  <string name="ew_setting_strong_push_message">За земетресения с интензитет от 2.0 и по-висок</string>
   <string name="ew_setting_strong_push_title">Предупреждение за силни земетресения (Включено по подразбиране)</string>
   <string name="examination_score_60_0">Сканирай сега</string>
   <string name="examination_score_80_60">Няколко елемента могат да бъдат оптимизирани</string>
@@ -3628,4 +3623,9 @@
     <string name="ew_subscribe_city_count">最多可以订阅%s个城市</string>
     <string name="ew_subscribe_search_hint">Търсене на райони</string>
     <string name="ew_subscribe_title">地震预警 | %1$s发生%2$s级左右地震，%3$s可能有震感</string>
+    <string name="ew_main_warning_list_title">Преглед на историята на предупрежденията</string>
+    <string name="ew_setting_desc_message">MIUI оценява интензивността на земетресението въз основа на неговата величина, местоположението на епицентъра и вашето местоположение. Колкото по-голяма е прогнозната интензивност, толкова по-опустошително ще бъде земетресението във вашия район.</string>
+    <string name="ew_setting_desc_title">Каква е прогнозната интензивност?</string>
+    <string name="ew_setting_normal_push_message">Когато прогнозната интензивност е по-ниска от предупредителния праг</string>
+    <string name="ew_setting_strong_push_message">Когато прогнозната интензивност е по-висока от предупредителния праг</string>
 </resources>

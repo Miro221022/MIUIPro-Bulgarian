@@ -1446,7 +1446,7 @@
   <string name="screenshot_edit">Редакция</string>
   <string name="screenshot_failed_title">Не може да се направи екранна снимка.</string>
   <string name="screenshot_failed_to_capture_text">Заснемането на екранни снимки не се допуска от приложението или от вашата организация</string>
-  <string name="screenshot_failed_to_capture_title">Това приложение не позволява да се правят екранни снимки</string>
+  <string name="screenshot_failed_to_capture_title">"Тук не могат да се правят екранни снимки"</string>
   <string name="screenshot_failed_to_save_text">Не може да се запази екранната снимка поради ограничено място в хранилището.</string>
   <string name="screenshot_failed_to_save_title">Няма достатъчно място за съхранение на нови екранни снимки</string>
   <string name="screenshot_failed_to_save_unknown_text">При запазването на екранната снимка възникна грешка.</string>
@@ -1995,8 +1995,10 @@ d MMMM"</string>
     <string name="accessibility_detail_switch_disable">Не е налично</string>
     <string name="accessibility_detail_switch_off">Изключи</string>
     <string name="accessibility_detail_switch_on">Включи</string>
-		    <string name="wifi_unsaved_network_linking">SSID мостове - автоматично свързване</string>
+    <string name="wifi_unsaved_network_linking">SSID мостове - автоматично свързване</string>
     <string name="wifi_unsaved_network_linking_summary">Активиране на опити за автоматично свързване към нов WPA / WPA2-PSK 5GHz SSID с текущо свързани WPA / WPA2-PSK 2GHz SSID идентификационни данни за SSID и BSSID частично съвпадение</string>
     <string name="wifi_whitelist_roaming">SSID мостове - бързо предаване</string>
     <string name="wifi_whitelist_roaming_summary">Активиране на роуминг между различни SSID WPA / WPA2-PSK AP с същия MAC адрес на шлюза</string>
+	<string name="sim_state_locked_dialog_title">Невалидна SIM карта</string>
+    <string name="sim_state_locked_puk_dialog_message">"Въвели сте неправилен PUK код поне 10 пъти. Вашата SIM карта вече е невалидна,сменете я с друга."</string>
 </resources>

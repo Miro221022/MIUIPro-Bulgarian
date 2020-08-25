@@ -7708,4 +7708,8 @@ UT интерфейс: %5$s"</string>
     <string name="screen_reader_mode_input_type_title">Въвеждане на текст</string>
 	    <string name="bt_show_notification_summary">Показване на постоянно известие в панела за известия</string>
     <string name="bt_show_notification_title">Известяване за Bluetooth връзки</string>
+	    <string name="input_method_middle_function_move_cursor">Преместване на курсора</string>
+    <string name="input_method_middle_function_move_cursor_des">Натиснете и задръжте централната зона, за да преместите курсора</string>
+    <string name="input_method_middle_function_no_function_des">"Не възлагай никакви действия"</string>
+    <string name="middle_function_key">Централна зона</string>
 </resources>

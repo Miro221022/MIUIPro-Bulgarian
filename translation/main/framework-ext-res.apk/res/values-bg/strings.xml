@@ -347,4 +347,6 @@
     <string name="application_not_install_content">"Изглежда приложението, което извършва това действие, не е инсталирано на вашето устройство. Можете да инсталирате това приложение или да зададете различно действие на този жест."</string>
 	<string name="bluetooth_close">Това приложение изключи Bluetooth</string>
     <string name="bluetooth_open">Това приложение включи Bluetooth</string>
+	<string name="input_method_clipboard_move_cursor_guide1">Натиснете и задръжте синята зона, за да преместите курсора ~</string>
+    <string name="input_method_clipboard_move_cursor_guide2">Преместете пръста си хоризонтално ~</string>
 </resources>
