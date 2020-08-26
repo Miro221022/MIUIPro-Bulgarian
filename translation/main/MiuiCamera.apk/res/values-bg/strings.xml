@@ -1539,4 +1539,5 @@
     <string name="super_moon_miss">Лунната светлина пада в подножието на леглото ми, приличаща на замръзване върху замръзналата земя.</string>
     <string name="super_moon_under">Лунна светлина</string>
     <string name="super_moon_window">Прозорец</string>
+	<string name="film_video_tip">请使用三脚架拍摄</string>
 </resources>

@@ -7674,7 +7674,7 @@ UT интерфейс: %5$s"</string>
     <string name="bt_absVolume_open_dialog_summary">Поради проблеми със съвместимостта някои Bluetooth устройства може да имат необичайни нива на силата на звука, което може да бъде разрешено чрез изключване на тази функция.</string>
     <string name="bt_absVolume_open_dialog_title">Внимание</string>
     <string name="bt_absVolume_pre_title">Абсолютен звук</string>
-    <string name="bt_absVolume_summary">Поддържайте стриктно силата на звука на Bluetooth устройствата и телефона</string>
+    <string name="bt_absVolume_summary">"Поддържайте стриктно силата на звука на Bluetooth устройствата и телефона. Можете да включите и изключите тази функция, когато медията не се възпроизвежда във фонов режим.."</string>
     <string name="custom_gesture_title">Персонализирани жестове</string>
     <string name="device_opcust_version">Персонализирана версия</string>
     <string name="launch_alipay_payment_code">Alipay код за плащане</string>

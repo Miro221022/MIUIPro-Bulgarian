@@ -160,4 +160,6 @@
   <string name="tip_to_open_aod_mode">Винаги включен екран е изключен. Да се включи сега?</string>
   <string name="v7_preference_off">ИЗКЛ.</string>
   <string name="v7_preference_on">ВКЛ.</string>
+      <string name="item_view_role_description">Раздел</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Повече от %1$d нови известия</string>
 </resources>

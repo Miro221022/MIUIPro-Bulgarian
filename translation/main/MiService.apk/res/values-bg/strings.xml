@@ -191,4 +191,5 @@
 	<string name="miui_guide_menu_privacy">Политика за поверителност</string>
 	    <string name="miui_mine_repair_mode_sub_title">售后维修时保证您的数据安全</string>
     <string name="miui_mine_repair_mode_title">维修模式</string>
+	<string name="miui_main_update_back_to_home">Подготовка на началния екран…</string>
 </resources>

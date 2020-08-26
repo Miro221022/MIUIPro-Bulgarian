@@ -3587,7 +3587,6 @@
     <string name="risk_app_install_history">История на разрешенията</string>
     <string name="risk_app_install_item_des">Версия: %1$s</string>
     <string name="risk_app_install_manager">Приложения с възможни рискове</string>
-	<string name="gtb_setting_item_summary_smart_wlan_speed">Увеличете скоростта на връзката с 10% -20%, когато сте свързани към Mi/Redmi рутери</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi ускоряване на скоростта</string>
     <string name="gtb_wlan_speed_tips">Използване на Mi WiFi…</string>
 	<string name="ew_city_support_tip">*仅支持为其下辖的%s预警</string>
@@ -3628,4 +3627,5 @@
     <string name="ew_setting_desc_title">Каква е прогнозната интензивност?</string>
     <string name="ew_setting_normal_push_message">Когато прогнозната интензивност е по-ниска от предупредителния праг</string>
     <string name="ew_setting_strong_push_message">Когато прогнозната интензивност е по-висока от предупредителния праг</string>
+	<string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Увеличете скоростта на връзката с 10% -20% при свързване към Mi/Redmi рутери</string>
 </resources>
