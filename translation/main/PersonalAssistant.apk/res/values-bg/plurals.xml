@@ -1,12 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">Преди 1 час</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">Преди 1 час</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Преди половин час</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">След 1 час</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">След половин час</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Веднага</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">след %d мин.</item>
+    <item quantity="one">след 1 мин.</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Сега</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">Преди %d минути</item>
+    <item quantity="one">Преди 1 мин</item>
+  </plurals>
+  <plurals name="agenda_anniversary_day">
+    <item quantity="one">· %1$d дни</item>
+    <item quantity="other">· %1$d ден</item>
+  </plurals>
+  <plurals name="agenda_anniversary_year">
+    <item quantity="one">· %1$d години</item>
+    <item quantity="other">· %1$d година</item>
+  </plurals>
   <plurals name="agenda_count_down">
     <item quantity="other">След %d минути</item>
     <item quantity="one">След %d минута</item>
   </plurals>
+  <plurals name="agenda_countdown_day">
+    <item quantity="one">· След %1$d дни</item>
+    <item quantity="other">· След %1$d ден</item>
+  </plurals>
+  <plurals name="agenda_tip_count_down">
+    <item quantity="one">Започва след %1$d минути</item>
+    <item quantity="other">Започва след %1$d минута</item>
+  </plurals>
+  <plurals name="app_express_content_title_1">
+    <item quantity="one">%d пакета са на път</item>
+    <item quantity="other">%d пакет е на път</item>
+  </plurals>
+  <plurals name="app_miot_total_device">
+    <item quantity="one">%1$d устройства</item>
+    <item quantity="other">%1$d устройство</item>
+  </plurals>
   <plurals name="assistant_day">
     <item quantity="other">За %d дни</item>
     <item quantity="one">За %d ден</item>
+  </plurals>
+  <plurals name="base_time_hour_ago">
+    <item quantity="other">Преди %d часа</item>
+    <item quantity="one">Преди %d час</item>
+  </plurals>
+  <plurals name="base_time_minute_ago">
+    <item quantity="other">Преди %d минути</item>
+    <item quantity="one">Преди %d минута</item>
   </plurals>
   <plurals name="book_start_interval">
     <item quantity="other">Изпращане след %d дни</item>
@@ -14,6 +75,10 @@
   </plurals>
   <plurals name="days_ago">
     <item quantity="other">преди %1$dд</item>
+  </plurals>
+  <plurals name="express_history_dialog_delete_message">
+    <item quantity="other">Изтриване %s на елемента от експреса?</item>
+    <item quantity="one">Изтриване на %s елемент от експреса?</item>
   </plurals>
   <plurals name="express_history_menu_select_num">
     <item quantity="other">Избрани %s елемента</item>
@@ -23,8 +88,27 @@
     <item quantity="other">Добавени са %d телефонни номера</item>
     <item quantity="one">Добавен е %d телефонене номер</item>
   </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Преди половин час</item>
+  </plurals>
   <plurals name="hours_ago">
     <item quantity="other">преди %1$dч</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">След 1 час</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">След половин час</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Веднага</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">след %d минути</item>
+    <item quantity="one">след 1 минута</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Сега</item>
   </plurals>
   <plurals name="main_delete_desc">
     <item quantity="other">Да се премахнат ли %s елемента от любими?</item>
@@ -40,6 +124,10 @@
   </plurals>
   <plurals name="mins_ago">
     <item quantity="other">преди %1$d мин</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">Преди %d минути</item>
+    <item quantity="one">Преди 1 минута</item>
   </plurals>
   <plurals name="payment_record_dialog_delete_message">
     <item quantity="other">Изтрий %s елемента от плащане?</item>
@@ -86,28 +174,4 @@
     <item quantity="other">Преди %d минути</item>
     <item quantity="one">Преди %d минута</item>
   </plurals>
-       <plurals name="agenda_anniversary_day">
-         <item quantity="one">· %1$d ден</item>
-         <item quantity="other">· %1$d дни</item>
-     </plurals>
-     <plurals name="agenda_anniversary_year">
-         <item quantity="one">· %1$d година</item>
-         <item quantity="other">· %1$d години</item>
-     </plurals>
-     <plurals name="agenda_countdown_day">
-         <item quantity="one">· След %1$d ден</item>
-         <item quantity="other">· След %1$d дни</item>
-     </plurals>
-     <plurals name="agenda_tip_count_down">
-         <item quantity="one">Започва след %1$d минута</item>
-         <item quantity="other">Започва след %1$d минути</item>
-     </plurals>
-     <plurals name="app_express_content_title_1">
-         <item quantity="one">%d пакет е на път</item>
-         <item quantity="other">%d пакета са на път</item>
-     </plurals>
-     <plurals name="app_miot_total_device">
-         <item quantity="one">%1$d устройство</item>
-         <item quantity="other">%1$d устройства</item>
-     </plurals>
 </resources>

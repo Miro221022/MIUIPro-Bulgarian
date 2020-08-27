@@ -1,0 +1,174 @@
+{
+  "configVersion": "33",
+  "minAppVersion": "1760",
+  "default": [
+    "50",
+    "30",
+    "130",
+    "131",
+    "210"
+  ],
+  "default_cm": [
+    "50",
+    "30",
+    "130",
+    "131",
+    "210"
+  ],
+  "data": [
+    {
+      "groupTitle": "Полезни",
+      "array": [
+        {
+          "title": "Почистване",
+          "subTitle": "Сигурност",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/shortcuts/System_Cleaner.png",
+          "packageName": "com.miui.securitycenter",
+          "uri": "intent:#Intent;action=miui.intent.action.GARBAGE_CLEANUP;category=android.intent.category.DEFAULT;launchFlags=0x10000000;component=com.miui.cleanmaster/com.miui.optimizecenter.MainActivity;end",
+          "id": "130",
+          "category": 1,
+          "actionType": "deeplink"
+        },
+        {
+          "title": "Почистване на паметта",
+          "subTitle": "Сигурност",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/webp/cleanup_memory.webp",
+          "packageName": "com.miui.securitycenter",
+          "id": "131",
+          "category": 1,
+          "actionType": "local"
+        },
+        {
+          "title": "Дълбоко почистване",
+          "subTitle": "Сигурност",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/webp/cleanup_power.webp",
+          "packageName": "com.miui.securitycenter",
+          "id": "132",
+          "category": 1,
+          "actionType": "local"
+        },
+        {
+          "title": "Създай",
+          "subTitle": "Бележки",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/shortcuts/System_Note.png",
+          "packageName": "com.miui.notes",
+          "uri": "intent:#Intent;action=android.intent.action.INSERT_OR_EDIT;launchFlags=0x10000000;component=com.miui.notes/.ui.NotesListActivity;end",
+          "id": "20",
+          "category": 1,
+          "actionType": "deeplink"
+        },
+        {
+          "title": "Валута",
+          "subTitle": "Калкулатор",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/shortcuts/System_Currency.png",
+          "packageName": "com.miui.calculator",
+          "className": ".convert.CurrencyActivity",
+          "uri": "intent:#Intent;launchFlags=0x10080000;component=com.miui.calculator/.convert.CurrencyActivity;S.miref=PersonalAssistant_QuickStart;end",
+          "id": "51",
+          "category": 1,
+          "actionType": "deeplink"
+        },
+        {
+          "title": "Научен",
+          "subTitle": "Калкулатор",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/shortcuts/System_Scientific.png",
+          "packageName": "com.miui.calculator",
+          "uri": "intent:#Intent;launchFlags=0x10080000;component=com.miui.calculator/.cal.AllInOneCalculatorActivity;B.extra_is_scientific=true;S.miref=PersonalAssistant_QuickStart;end",
+          "id": "50",
+          "category": 1,
+          "actionType": "deeplink"
+        },
+        {
+          "title": "Нов запис",
+          "subTitle": "Звукозапис",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/shortcuts/System_NewRecording.png",
+          "packageName": "com.android.soundrecorder",
+          "uri": "intent:#Intent;launchFlags=0x10000000;action=;component=com.android.soundrecorder/.SoundRecorder;S.miref=PersonalAssistant_QuickStart;end",
+          "id": "30",
+          "category": 1,
+          "actionType": "deeplink"
+        },
+        {
+          "title": "Добави събитие",
+          "subTitle": "Календар",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/shortcuts/Calendar_AddEvent.png",
+          "packageName": "com.android.calendar",
+          "uri": "intent:#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.android.calendar;component=com.android.calendar/.event.EditEventActivity;end",
+          "id": "40",
+          "category": 1,
+          "actionType": "deeplink"
+        },
+        {
+          "title": "Превод",
+          "subTitle": "Скенер",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/shortcuts/System_Translate.png",
+          "packageName": "com.xiaomi.scanner",
+          "uri": "intent:#Intent;action=miui.intent.action.scanner;launchFlags=0x10000000;component=com.xiaomi.scanner/.app.ScanActivity;i.extra_intent_module_index=2;S.fromApp=com.miui.personalassistant;S.miref=PersonalAssistant_QuickStart;end",
+          "id": "12",
+          "category": 1,
+          "actionType": "deeplink"
+        },
+        {
+          "title": "Документ",
+          "subTitle": "Скенер",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/shortcuts/System_Document.png",
+          "packageName": "com.xiaomi.scanner",
+          "uri": "intent:#Intent;action=miui.intent.action.scanner;launchFlags=0x10000000;component=com.xiaomi.scanner/.app.ScanActivity;i.extra_intent_module_index=5;S.fromApp=com.miui.personalassistant;S.miref=PersonalAssistant_QuickStart;end",
+          "id": "15",
+          "category": 1,
+          "actionType": "deeplink"
+        }
+      ]
+    },
+    {
+      "groupTitle": "Плащания",
+      "array": [
+        {
+          "title": "QR-код",
+          "subTitle": "Скенер",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/shortcuts/System_Scanner.png",
+          "packageName": "com.xiaomi.scanner",
+          "uri": "intent:#Intent;action=miui.intent.action.scanner;launchFlags=0x10000000;component=com.xiaomi.scanner/.app.ScanActivity;i.extra_intent_module_index=0;S.fromApp=com.miui.personalassistant;S.miref=PersonalAssistant_QuickStart;end",
+          "id": "10",
+          "category": 1,
+          "actionType": "deeplink"
+        }
+      ]
+    },
+    {
+      "groupTitle": "Друго",
+      "array": [
+        {
+          "title": "Музика",
+          "subTitle": "Музика",
+          "iconUrl": "https://cdn.cnbj1.fds.api.mi-img.com/assistant-icons/shortcuts/RecognizeMusic.png",
+          "packageName": "com.miui.player",
+          "className": ".ui.MusicBrowserActivity",
+          "id": "210",
+          "category": 1,
+          "actionType": "deeplink"
+        },
+		{
+          "title": "Батерия",
+          "subTitle": "Сигурност",
+          "iconUrl": "https://api.miuipro.org/assistant-icons/shortcuts/Battery.png",
+          "packageName": "com.miui.securitycenter",
+          "className": "com.miui.powercenter.batteryhistory.BatteryHistoryDetailActivity",
+          "id": "67",
+          "category": 1,
+          "actionType": "local"
+        },
+		{
+          "title": "Аларма",
+          "subTitle": "Часовник",
+          "iconUrl": "https://api.miuipro.org/assistant-icons/shortcuts/Alarm.png",
+		  "packageName": "com.android.deskclock",
+          "className": ".alarm.SetAlarmActivity",
+          "id": "35",
+          "category": 1,
+          "actionType": "local"
+        }
+      ]
+    }
+  ]
+}
