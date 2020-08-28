@@ -481,4 +481,5 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
+	<string name="usage_device_limit_app_prolong_time5">Добави време веднъж</string>
 </resources>

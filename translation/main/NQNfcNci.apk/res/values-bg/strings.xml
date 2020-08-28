@@ -48,4 +48,6 @@
   <string name="title_connect_to_network">Установяване на връзка с мрежата</string>
   <string name="transaction_failure">Тази транзакция не можа да бъде извършена със: %1$s.</string>
   <string name="wifi_connect">Свързване</string>
+  <string name="nfc_blocking_alert_message">Докоснете, за да научите как да коригирате.</string>
+    <string name="nfc_blocking_alert_title">КБП може би е блокирано</string>
 </resources>
