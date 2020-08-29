@@ -619,4 +619,7 @@
     <string name="navigation_type_title_synonyms_3">全面屏手势</string>
     <string name="navigation_type_title_synonyms_4">导航键</string>
     <string name="open_personal_assistant_title_synonyms">负一屏</string>
+	    <string name="alexa_notification_add">Добави</string>
+    <string name="alexa_notification_cancel">Не сега</string>
+    <string name="alexa_notification_content">Добавяне на пряк път за Alexa към Център за управление?</string>
 </resources>
