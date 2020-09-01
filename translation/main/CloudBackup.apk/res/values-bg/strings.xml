@@ -248,9 +248,7 @@
 	<string name="hint_restore_cross_space">Оформлението на началния екран може да се покаже неправилно, ако прехвърляте елементи между пространставата.</string>
 	<string name="selected">Избрано</string>
     <string name="unselected">Не е избрано</string>
-	<string name="backup_failed_reason_network_error">Мрежова грешка. Изчакайте минута или две и опитайте отново.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Няма достатъчно място за съхранение. Първо освободете място.</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">Няма достатъчно място за съхранение в Xiaomi Облак. Надстройте плана си или освободете място за съхранение.</string>
     <string name="restore_task_unfinished">"Не може да се възстанови"</string>
     <string name="restore_failed_reason_network_error">Мрежова грешка. Изчакайте минута или две и опитайте отново</string>
     <string name="restore_failed_reason_disk_space_not_enough">Няма достатъчно място за съхранение. Първо освободете място.</string>
@@ -277,4 +275,20 @@
     <string name="cloud_backup_detail_state_summary_china">Създайте автоматично архивиране в Xiaomi Облак, когато сте свързани с WLAN.</string>
     <string name="dialog_msg_restore_require_wlan_china">Възстановяването на архивите изисква свързване към WLAN.</string>
     <string name="dialog_title_require_wlan_china">Свързване към WLAN</string>
+	    <string name="backup_action_buy_cloud_space">Получете повече място за съхранение</string>
+    <string name="backup_action_check_network">Проверете мрежовите настройки</string>
+    <string name="backup_action_clean_disk_space">Освобождаване на място</string>
+    <string name="backup_action_retry_now">Повторен опит</string>
+    <string name="backup_remind_buy_cloud_space">Надстройте своя план за съхранение в облака</string>
+    <string name="backup_remind_clean_disk_space">Освободете място за съхранение</string>
+    <string name="backup_remind_cloud_space_cost">Размер на архива: %s</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">"Не може да се архивира"</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"Няма достатъчно място за съхранение
+Не може да се архивира"</string>
+    <string name="backup_warning_reason_network_error">"Грешка в мрежата
+Не може да се архивира"</string>
+    <string name="backup_warning_reason_no_server_response">"Връзката беше прекъсната
+Опитайте отново"</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Не е останало достатъчно място в хранилището в облака, за да се запази този архив. Надстройте плана си или освободете място за съхранение в облака.</string>
+    <string name="backup_failed_reason_network_error">Проверете мрежовите настройки и опитайте отново</string>
 </resources>

@@ -2066,7 +2066,6 @@
     <string name="screen_editor_shell_storage_insufficient">"Не може да се изтегли рамката на устройството поради недостатъчно място за съхранение"</string>
     <string name="time_burst_photo_enter">Време за серийно заснемане</string>
     <string name="time_burst_preview_title">Време за серийно заснемане</string>
-	    <string name="cleaner_empty">Изтрий всичко</string>
     <string name="drop_failed">"Не може да се запази"</string>
     <string name="drop_format_not_supported">"Този тип файл не се поддържа"</string>
     <string name="drop_success">Запазено успешно</string>
@@ -2115,11 +2114,22 @@
     <string name="sky_nocturne">Нощ</string>
     <string name="sky_sunny">Слънчево</string>
     <string name="text_tab_mark">Маркиране</string>
-    <string name="time_burst_save_all">Запази всички снимки</string>
-    <string name="time_burst_save_select">Запазване на избраните снимки</string>
     <string name="time_burst_save_video">Запази като видео</string>
     <string name="trash_size">Изтрити елементи (%s)</string>
-	    <string name="menu_new_display_open">Отвори в нов прозорец</string>
+	<string name="menu_new_display_open">Отвори в нов прозорец</string>
     <string name="menu_pc_open">Отваряне с компютърна програма</string>
     <string name="cleaner_title">Почистване</string>
+	<string name="burst_save_dialog_title">Изберете кои снимки да запазите</string>
+    <string name="filter_movie_quiet">Спокойно</string>
+    <string name="filter_popular_bluedream">Дрямка</string>
+    <string name="filter_popular_shallow_summer">Юни</string>
+    <string name="filter_popular_smokegreen">Мъдрост</string>
+    <string name="filter_popular_watergreen">Изумруд</string>
+    <string name="filter_portrait_mojito">Мохито</string>
+    <string name="filter_portrait_waterblue">Аквамарин</string>
+    <string name="photo_page_rotate_screen">Завъртане на екрана</string>
+    <string name="time_burst_save_dialog_title">Експортиране на елементи</string>
+    <string name="cleaner_empty">Изчисти всичко</string>
+    <string name="time_burst_save_all">Експортирай всички снимки</string>
+    <string name="time_burst_save_select">Експортирай избраните снимки</string>
 </resources>

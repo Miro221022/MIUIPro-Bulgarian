@@ -7712,4 +7712,5 @@ UT интерфейс: %5$s"</string>
     <string name="input_method_middle_function_move_cursor_des">Натиснете и задръжте централната зона, за да преместите курсора</string>
     <string name="input_method_middle_function_no_function_des">"Не възлагай никакви действия"</string>
     <string name="middle_function_key">Централна зона</string>
+	<string name="miui_master_clear_prompt_battery_low">"Не може да извърши фабрично нулиране, когато остане по-малко от %1$s батерия. Заредете устройството си, преди да продължите."</string>
 </resources>
