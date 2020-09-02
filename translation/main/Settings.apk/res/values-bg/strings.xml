@@ -7697,7 +7697,7 @@ UT интерфейс: %5$s"</string>
     <string name="gesture_function_dialog_message">%1$s се използва за \"%2$s\". Замяна с \"%3$s\"?</string>
     <string name="gesture_settings_title">Преки пътища с жестове</string>
     <string name="key_combination_power_volume_down">Намаляване на звука + Захранване</string>
-    <string name="long_press_power_key_half_second">Натиснете и задръжте бутона за захранване 0.5 секунди</string>
+    <string name="long_press_power_key_half_second">Натиснете и задръжте бутона за захранване %sсек.</string>
     <string name="airplane_mode_summary">"Включете, за да изключите устройството си от мобилните мрежи. Няма да можете да извършвате повиквания, да изпращате и получавате текстови съобщения или да използвате мобилни данни, когато тази функция е включена."</string>
     <string name="find_my_device_summary">Тази функция изисква вписване в Mi профил</string>
 	<string name="sim_card_lock">Състояние на SIM картата</string>

@@ -535,7 +535,7 @@
   <string name="toast_app_tag_required">Първо изберете проблем</string>
   <string name="toast_catch_full_log_catching">Можете да генерирате само един отчет в даден момент.</string>
   <string name="toast_catch_full_log_open_failed">Не може да се стартира записа на отчет</string>
-  <string name="toast_description_required">Трябва да напишете описание (на Английски)</string>
+  <string name="toast_description_required">Първо опишете проблема</string>
   <string name="toast_feedback_collect_store">Събиране на логове…</string>
   <string name="toast_feedback_network_unavailable">Мрежата е недостъпна</string>
   <string name="toast_feedback_submitted">Отзивът беше изпратен</string>
@@ -582,4 +582,13 @@
   <string name="xiaomi_update_sdk_external_storage_unavailable">Хранилището не е на разположение, моля, проверете SD картата.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКБ</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
+    <string name="stop_full_log_dialog_cancel">Не сега</string>
+  <string name="stop_full_log_dialog_confirm">Качване</string>
+  <string name="stop_full_log_dialog_content">Изглежда, че отчетите се генерират в момента. Спиране на генерирането и качване на готовите?</string>
+  <string name="stop_full_log_dialog_title">Генериране на отчети…</string>
+  <string name="suggest_upload_log_dialog_cancel">Не благодаря</string>
+  <string name="suggest_upload_log_dialog_confirm">Качване</string>
+  <string name="suggest_upload_log_dialog_content">"За да помогнете на нашите инженери да намерят и разрешат проблема, с който сте се сблъскали възможно най-скоро, препоръчваме да качите свързаните отчети. Те се използват само за анализ на проблеми и няма да се използват за други цели."</string>
+  <string name="suggest_upload_log_dialog_title">Качване на свързаните отчети</string>
+  <string name="toast_min_description_count">Описанието ви трябва да е по-дълго</string>
 </resources>

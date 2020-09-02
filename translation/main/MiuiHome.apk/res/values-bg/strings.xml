@@ -622,4 +622,9 @@
 	    <string name="alexa_notification_add">Добави</string>
     <string name="alexa_notification_cancel">Не сега</string>
     <string name="alexa_notification_content">Добавяне на пряк път за Alexa към Център за управление?</string>
+	    <string name="dialog_work_profile_button_1">Следващо</string>
+    <string name="dialog_work_profile_button_2">Разбрах</string>
+    <string name="dialog_work_profile_content_1">Личните данни са отделени и скрити от служебните приложения</string>
+    <string name="dialog_work_profile_content_2">Работните приложения и данни са видими за вашия ИТ администратор</string>
+    <string name="dialog_work_profile_title">Работен профил</string>
 </resources>
