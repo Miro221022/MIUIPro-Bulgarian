@@ -349,4 +349,8 @@
     <string name="bluetooth_open">Това приложение включи Bluetooth</string>
 	<string name="input_method_clipboard_move_cursor_guide1">Натиснете и задръжте синята зона, за да преместите курсора ~</string>
     <string name="input_method_clipboard_move_cursor_guide2">Преместете пръста си хоризонтално ~</string>
+	  <string name="trial_mode_dialog_button_cancel">Отказ</string>
+  <string name="trial_mode_dialog_button_save">Запази</string>
+  <string name="trial_mode_dialog_message">\"%s\" работи в пробен режим. Рестартирането на вашето устройство или превключването в режим на ниска скорост ще изтрие тази игра. Да се запази ли играта във вътрешно хранилище?</string>
+  <string name="trial_mode_dialog_title">Пробен режим</string>
 </resources>

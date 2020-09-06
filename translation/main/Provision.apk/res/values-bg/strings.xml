@@ -265,4 +265,15 @@
 	    <string name="home_settings_miui_home">Класически</string>
     <string name="home_settings_poco_launcher">Чекмедже за приложения</string>
     <string name="home_settings_title">Изберете стартер по подразбиране</string>
+	    <string name="wc_dialog_agree">Приемам</string>
+    <string name="wc_dialog_reject">"Не приемам"</string>
+    <string name="wc_dialog_summary">Ежедневни тапети доставя зашеметяващи изображения и вълнуващи истории, които ежедневно се показват на вашия заключен екран.</string>
+    <string name="wc_dialog_title">Преосмислен заключен екран</string>
+    <string name="wc_double_check_agree">Опитай</string>
+    <string name="wc_double_check_reject">Не благодаря</string>
+    <string name="wc_double_check_summary">Можете да включите Ежедневни тапети, за да видите дали работи за вас. Не забравяйте, че винаги можете да включите и изключите Ежедневни тапети в Настройки > Заключен екран.</string>
+    <string name="wc_double_check_title">Опитайте Ежедневни тапети</string>
+    <string name="wc_notice_link_agreement_index">Потребителско споразумение</string>
+    <string name="wc_notice_link_privacy_index">Политика за поверителност</string>
+    <string name="wc_notice_link_summary">"Прочетете и се съгласете с %1$s и %2$s на доставчика на съдържание от трета страна"</string>
 </resources>
