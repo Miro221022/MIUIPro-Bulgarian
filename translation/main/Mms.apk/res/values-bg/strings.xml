@@ -596,7 +596,7 @@
   <string name="rcs_cfs_dialog_content">Съобщенията не могат да бъдат доставени чрез RCS. Да се изпрати ли текстово съобщение вместо това?</string>
   <string name="rcs_cfs_dialog_title">Алтернативен трансфер на съобщения</string>
   <string name="rcs_create_new_group">Създайте групов чат</string>
-  <string name="rcs_dspt">След като China Mobile абонатите бъдат активирани, изпращане на съобщения по подразбиране чрез WLAN или мобилна мрежа.</string>
+  <string name="rcs_dspt">След като 5G абонатите бъдат активирани, изпращане на съобщения по подразбиране чрез WLAN или мобилна мрежа.</string>
   <string name="rcs_dspt_unavailable">Тази функция не може да се използва в момента. China Mobile SIM картата не е вашата стандартна карта за данни.</string>
   <string name="rcs_file_link_as_sms">Посетете %s за да видите изпратения до вас RCS файл.</string>
   <string name="rcs_forward_faild">Не може да се препрати</string>
@@ -1068,12 +1068,12 @@
     <string name="voice_report_anytime">Винаги</string>
     <string name="voice_report_off">Изключено</string>
     <string name="voice_report_wiredon">Със слушалки</string>
-	    <string name="pref_rcs_show_report_message">回执报告</string>
+	<string name="pref_rcs_show_report_message">回执报告</string>
     <string name="pref_rcs_show_report_message_tip">对方收到短信后返回已读状态</string>
     <string name="rcs_chatbot_no_waring">消息免打扰</string>
     <string name="rsc_chatbot_back">返回</string>
     <string name="rsc_chatbot_detail">商户信息入口</string>
-	  <string name="debug_about_mms">Относно Mms</string>
+	<string name="debug_about_mms">Относно Mms</string>
   <string name="debug_category_db">База данни</string>
   <string name="debug_category_others">Други</string>
   <string name="debug_close_success">Отстраняването на грешки не е налично</string>
@@ -1081,6 +1081,24 @@
   <string name="debug_export_db">Експортиране на база данни</string>
   <string name="debug_title">Отстраняване на грешки</string>
   <string name="ad_close_button_text">Промоционални</string>
-      <string name="chatbot_list_title">5G Съобщения</string>
+    <string name="chatbot_list_title">5G Съобщения</string>
     <string name="chatbot_main_title">Мини приложения</string>
+	<string name="banner_btn_install">Инсталирай</string>
+    <string name="banner_btn_not_now">Не сега</string>
+    <string name="banner_btn_open">Отвори</string>
+    <string name="default_google_message_promo_content">"Задали сте Messages by Google като приложение за съобщения по подразбиране. Докоснете \"Отвори\" за да започнете да изпращате съобщения."</string>
+    <string name="enable_classify_tip_dialog_content">Това ще рестартира приложението за съобщения. Да продължите ли все пак?</string>
+    <string name="google_message_promo_content">Xiaomi препоръчва да преминете към Съобщения от Google. Това ви позволява да изпращате текстови съобщения по Wi-Fi, да споделяте висококачествени медии и др. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Преглед на подробности</a></font>.</string>
+    <string name="google_message_promo_title">Надстройте приложението си за съобщения</string>
+    <string name="installed_google_message_promo_content">Xiaomi препоръчва да преминете към Съобщения от Google. Това ви позволява да изпращате текстови съобщения по Wi-Fi, да споделяте висококачествени медии и др.</string>
+    <string name="installed_google_message_promo_title">Започнете да използвате Messages</string>
+    <string name="permission_retry_deny">Отказ</string>
+    <string name="permission_retry_dialog_msg">Съобщения се нуждаят от разрешения, за да могат да работят нормално. За да дадете необходимите разрешения, докоснете \"Настройки\", изберете \"Разрешения за приложенията\" и разрешете на приложението достъп до телефон, SMS и контакти.</string>
+    <string name="permission_retry_setting">Настройки</string>
+    <string name="pref_summary_enable_classify">Преместете промоционалните и финансовите съобщения в отделни раздели</string>
+    <string name="pref_title_enable_classify">Групиране на съобщенията автоматично</string>
+    <string name="sp_msg_entry">Услуги</string>
+    <string name="toast_not_show_camera_perm_req">Разрешете на Messaging да използва камерата, за да може да използва тази функция</string>
+    <string name="toast_not_show_microphone_perm_req">Разрешете на Messaging да използва микрофона, за да може да използва тази функция</string>
+    <string name="toast_not_show_storage_perm_req">Разрешете на Messaging достъп до хранилището, за да може да използва тази функция</string>
 </resources>

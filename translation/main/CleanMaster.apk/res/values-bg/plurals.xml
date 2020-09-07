@@ -152,4 +152,12 @@
         <item quantity="other">&lt;Data>Намерени са &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> гласови съобщения&lt;/Data></item>
         <item quantity="one">&lt;Data>Намерено е &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> гласово съобщение&lt;/Data></item>
     </plurals>
+	    <plurals name="install_find_application">
+        <item quantity="other">Търсене сред %d приложения</item>
+        <item quantity="one">Търсене сред %d приложение</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">Намерени са %d приложения</item>
+        <item quantity="one">Намерено е %d приложение</item>
+    </plurals>
 </resources>

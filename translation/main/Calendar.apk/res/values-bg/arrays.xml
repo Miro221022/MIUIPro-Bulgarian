@@ -368,4 +368,11 @@
     <item>Черно прозрачно</item>
     <item>Бял фон</item>
   </string-array>
+       <string-array name="account_sync_frequency">
+         <item>Ръчно</item>
+         <item>На всеки 15 минути</item>
+         <item>На всеки час</item>
+         <item>На всеки 4 часа</item>
+         <item>На всеки 12 часа</item>
+     </string-array>
 </resources>

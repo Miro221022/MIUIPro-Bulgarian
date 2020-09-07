@@ -39,7 +39,7 @@
   <string name="account_has_been_set">Промени</string>
   <string name="account_invalid_user_avatar">Снимката е невалидна</string>
   <string name="account_limit_update_birthday">Съжаляваме, но в момента е невъзможно да обработим вашата заявка.</string>
-  <string name="account_mibi_center">Mi Кредити</string>
+  <string name="account_mibi_center">Mi Монети</string>
   <string name="account_mibi_charge">Mi кредити и такси</string>
   <string name="account_mipay_info">Mi плащане</string>
   <string name="account_no_set">Няма</string>
@@ -531,7 +531,7 @@
   <string name="update_email_address_dialog_title">Обнови имейл</string>
   <string name="update_phone_notice">Промяна на настройките за сигурност</string>
   <string name="update_phone_number_notice_message">Необходимо е да потвърдите самоличността си, преди да обновите телефонния си номер.</string>
-  <string name="used_cloud_storage_info">Използвано пространство %s</string>
+  <string name="used_cloud_storage_info">Използвано %s</string>
   <string name="user_avatar_update_title">Промяна на профилната снимка</string>
   <string name="user_avatar_uploading">Качва се…</string>
   <string name="vip_account_settings">VIP Настройки</string>

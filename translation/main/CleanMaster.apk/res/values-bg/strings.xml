@@ -776,4 +776,9 @@
     <string name="notification_uninstalled_clean_without_name">Деинсталираните приложения оставят остатъчни елементи</string>
     <string name="notification_whatsapp_clean_button_text">Изчистване</string>
     <string name="notification_whatsapp_clean_size">WhatsApp кеша достигна %s</string>
+	<string name="install_time_format">dd/MM/yyyy</string>
+    <string name="permission_dialog_storage_btn1">Настройки</string>
+    <string name="permission_dialog_storage_btn2">Отказ</string>
+    <string name="permission_dialog_storage_content">Програмата за почистване се нуждае от разрешение за достъп до вътрешното хранилище, за да може да работи нормално. Докоснете \"Настройки\" за управление на разрешенията на хранилището.</string>
+    <string name="permission_dialog_storage_title">Изискват се разрешения</string>
 </resources>

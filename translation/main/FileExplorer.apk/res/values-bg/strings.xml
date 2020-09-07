@@ -480,4 +480,12 @@
     <string name="menu_pc_open">用电脑程序打开</string>
 	<string name="pkgname_zsxq">知识星球</string>
 	<string name="save_file_to_mishare">"Запазено в папката Mi Share"</string>
+	    <string name="encrypt_setting">Шифроване</string>
+    <string name="not_use">Не сега</string>
+    <string name="operation_encrypt_summary">Шифроване на файлове в поверителната папка. Дешифрирането на големи файлове може да отнеме повече време от очакваното.</string>
+    <string name="operation_encrypt_title">Шифроване на поверителни файлове</string>
+    <string name="private_folder_update_msg">Файловият мениджър въвежда допълнителна мярка за сигурност: можете да шифровате поверителни файлове!</string>
+    <string name="private_folder_update_msg_summary">Дешифрирането ще забави премахването на файлове от поверителната папка. Можете да включите и изключите шифроването в Настройки.</string>
+    <string name="private_folder_update_tips">Нова функция</string>
+    <string name="use">Използвай</string>
 </resources>

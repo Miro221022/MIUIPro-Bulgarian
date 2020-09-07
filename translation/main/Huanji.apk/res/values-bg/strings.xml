@@ -720,7 +720,7 @@
     <string name="sunday">Неделя</string>
     <string name="sunday_short">Нед</string>
     <string name="sunday_shortest">Н</string>
-    <string name="switching_to_5g">Превключване към 5 ГХц мрежа…</string>
+    <string name="switching_to_5g">Превключване към високоскоростен трансферен канал…</string>
     <string name="sync_one_time_sync">Докоснете за синхронизиране ( %1$s )</string>
     <string name="task_backup_cancel_progress">Отказване…</string>
     <string name="task_canceled_all_local">Отказано</string>
@@ -1047,8 +1047,8 @@
     <string name="new_wait_link_message_1">Отидете в Настройки, въведете \"Mi Трансфер\" в лентата за търсене и докоснете \"Mi Трансфер\" в резултатите от търсенето.</string>
     <string name="new_wait_link_message_2">"Бутона \"Аз съм подател\" е на началната страница на Mi Трансфер."</string>
     <string name="new_wait_link_title_1">1. Отворете Настройки на старото си устройство.</string>
-    <string name="new_wait_link_title_2">2. Въведте \"Mi Трансфер\" в лентата за търсене.</string>
-    <string name="new_wait_link_title_3">3. Докоснете \"Mi Трансфер\" в резултатите от търсенето.</string>
+    <string name="new_wait_link_title_2">"1. Докоснете \"Аз съм подател\" и изчакайте."</string>
+    <string name="new_wait_link_title_3">2. Изберете точката за достъп до WLAN на старото устройство.</string>
     <string name="option_privacy_policy">Политика за поверителност</string>
     <string name="permission_bluetooth_summary">За намиране на налични устройства в близост</string>
     <string name="permission_bluetooth_title">Включване и изключване на Bluetooth</string>
@@ -1120,4 +1120,29 @@
 Отворете WeChat и отидете в Мен > настройки > Основни > Архивиране и прехвърляне на чатове."</string>
      <string name="dialog_wechat_data_transfer_fail_title">"Данните от приложението WeChat не можаха да се прехвърлят"</string>
 	 <string name="scanner_not_support_data_transfer_tip">"Данните от приложението (включително WeChat и QQ историята на чатовете) не могат да се прехвърлят от устройства, които не са Xiaomi."</string>
+	 <string name="dialog_connect_ap_timeout_button">Свържи</string>
+     <string name="dialog_connect_ap_timeout_message">Изглежда, че свързването автоматично отнема твърде много време. Опитайте да се свържете ръчно.</string>
+     <string name="dialog_connect_ap_timeout_title">Ръчно свързване</string>
+     <string name="guest_manual_connect_link_text">Свържете се с новото устройство ръчно</string>
+     <string name="host_manual_connect_link_text">Ако отнеме твърде много време на старото ви устройство да намери точката за достъп, опитайте да се свържете ръчно.</string>
+     <string name="manual_connection_content1">1. Докоснете \"Свържете се с новото устройство ръчно\" на старото устройство.</string>
+     <string name="manual_connection_content2">2. Изберете следната точка за достъп до WLAN.</string>
+     <string name="manual_connection_content3">3. Въведете тази парола на старото устройство, за да се свържете.</string>
+     <string name="manual_connection_summary2">"Ако не можете да намерите тази гореща точка, опреснете списъка с наличните WLAN мрежи и опитайте отново."</string>
+     <string name="manual_connection_title">Свържете се със старото устройство ръчно</string>
+     <string name="not_support_data_content1">1. Елементи, специфични за модела на устройството</string>
+     <string name="not_support_data_content2">2. Данни за избрани приложения</string>
+     <string name="not_support_data_content3">3. Данни за второто пространство</string>
+     <string name="not_support_data_content4">4. Клонирани приложения</string>
+     <string name="not_support_data_link">"Елементи, които не могат да бъдат прехвърлени"</string>
+     <string name="not_support_data_summary1">"Теми, тапети, транспортни карти, ключови карти не могат да се прехвърлят с помощта на Mi Трансфер."</string>
+     <string name="not_support_data_summary2">Някои приложения въвеждат строги мерки за сигурност, за да предотвратят прехвърлянето на данни за приложения. Такива приложения могат да включват банкови приложения или финансови услуги.</string>
+     <string name="not_support_data_summary3">"Поради системни ограничения, елементи от Второ пространство не могат да се прехвърлят с помощта на Mi Трансфер."</string>
+     <string name="not_support_data_summary4">"Клонираните приложения и техните данни също не могат да се прехвърлят. Можете обаче да прехвърлите съответните основни приложения."</string>
+     <string name="not_support_data_title">"Елементи, които не могат да бъдат прехвърлени"</string>
+     <string name="open_photo_and_contacts_cloud_sync_complete">Начало</string>
+     <string name="open_photo_and_contacts_cloud_sync_content1">%d. Включете синхронизирането за контакти и елементи от галерията.</string>
+     <string name="open_photo_and_contacts_cloud_sync_content2">%d. Докоснете \"Синхронизирай сега\".</string>
+     <string name="open_photo_and_contacts_cloud_sync_summary">Включете синхронизирането, за да се показват контакти и елементи от галерията на това устройство.</string>
+     <string name="open_photo_and_contacts_cloud_sync_title">Синхронизирайте контакти и елементи от галерията</string>
 </resources>
