@@ -468,11 +468,11 @@
   <string name="hr_input_heart_rate">Записване на сърдечната честота</string>
   <string name="hr_see_report">Преглед на отчета</string>
   <string name="hr_state">Състояние</string>
-  <string name="hr_state_active">Активно</string>
+  <string name="hr_state_active">Активност</string>
   <string name="hr_state_fast">Бързо</string>
   <string name="hr_state_normal">Нормално</string>
   <string name="hr_state_regular">Редовно</string>
-  <string name="hr_state_resting">Забавено</string>
+  <string name="hr_state_resting">Покой</string>
   <string name="hr_state_slow">Бавно</string>
   <string name="icon_content_description">Икона на диалогов прозорец</string>
   <string name="improve_step_target">Постигате целта си твърде често. Пробвайте да си поставите по-висока цел.</string>
@@ -483,12 +483,13 @@
   <string name="input_body_weight">Въведете данни за теглото, за да получите здравни съвети</string>
   <string name="inquire_recover_data">Възстановяване на здравни данни?</string>
   <string name="inquire_recover_data_subtitle">Изглежда, че има здравни данни, свързани с вашия Mi профил (%1$s). Да се включи ли синхронизирането с облака и да се възстановят ли данните сега?</string>
-  <string name="instructions_provider">Инструкции, предоставени от трети страни</string>
+  <string name="instructions_provider">Инструкции, предоставени от Miao Health</string>
   <string name="insufficient">Недостатъчно</string>
   <string name="jump_over">Пропусни</string>
   <string name="just_recently">Сега</string>
   <string name="keep_edit">Отказ</string>
   <string name="label_average_daily_sleep_duration">Средна продължителност на съня</string>
+  <string name="hr_report_common_desc">Състоянието на сърдечната честота, поддържано от човешкото тяло по време на ежедневни дейности.</string>
   <string name="label_average_daily_sleep_time">Приблизително време  \n за заспиване</string>
   <string name="label_average_daily_sleep_time2">Приблизително време  \n за заспиване</string>
   <string name="label_average_daily_wake_up_time">"  Приблизително времe\n за събуждане"</string>
@@ -1297,11 +1298,11 @@
      <string name="hr_detect_principle_desc_3">"Обърнете внимание, че външните фактори (например температура, тон на кожата, движение) могат да доведат до неточни или непълни измервания. Направете няколко измервания, за да сте сигурни, че текущото ви отчитане е точно. Резултатите, предоставени тук, са само за справка. Този метод на измерване не може да замести професионалното медицинско оборудване."</string>
      <string name="hr_detect_principle_title">Измерване на сърдечната ви честота</string>
      <string name="hr_detect_report_title">Доклад за сърдечната честота</string>
-     <string name="hr_detect_state_after_activity">Наскоро активен</string>
-     <string name="hr_detect_state_after_activity_desc">"Току-що сте имали тренировка."</string>
-     <string name="hr_detect_state_regular">Постоянна</string>
+     <string name="hr_detect_state_after_activity">След тренировка</string>
+     <string name="hr_detect_state_after_activity_desc">Измерване веднага след тренировка</string>
+     <string name="hr_detect_state_regular">Нормално състояние</string>
      <string name="hr_detect_state_regular_desc">Работите или учите както обикновено."</string>
-     <string name="hr_detect_state_reseting">Почивка</string>
+     <string name="hr_detect_state_reseting">Състояние на покой</string>
      <string name="hr_detect_state_reseting_desc">"Напълно сте отпуснати или току-що сте се събудили."</string>
      <string name="hr_disturb_detect">Измерването е прекъснато</string>
      <string name="hr_disturb_detect_desc">Започнете отначало. Опитайте се да не мърдате пръста си по време на измерването.</string>
@@ -1309,7 +1310,7 @@
      <string name="hr_measure_heart_rate">Измерване</string>
      <string name="hr_open_permission_desc">"Здраве трябва да има достъп до камерата на телефона ви, за да може да измерва сърдечната честота. Разрешавате ли?"</string>
      <string name="hr_open_permission_title">Изискват се разрешения</string>
-     <string name="hr_phone_detect_records">История на измерванията в телефона</string>
+     <string name="hr_phone_detect_records">История на измерванията с телефона</string>
      <string name="hr_pre_detect">"Напълно покрийте светкавицата и камерата
 с един пръст"</string>
      <string name="hr_pre_detect_finger">Проверява се…</string>
