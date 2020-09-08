@@ -41,6 +41,7 @@
   <string name="add_data_source_open_sync">Включете синхронизирането с облака, за да можете да добавяте източници на данни.</string>
   <string name="add_data_source_support_step">Това устройство не генерира данни за броя на крачките. Можете да опитате да преминете към други източници на данни.</string>
   <string name="add_model_card">Докоснете бутона в горния ляв ъгъл\nза добавяне на карти</string>
+  <string name="add_owned_device">Добавяне на съществуващо устройство</string>
   <string name="add_record">Добави</string>
   <string name="added_data_source">Добавени източници</string>
   <string name="afternoon">Следобед</string>
@@ -141,6 +142,7 @@
   <string name="cancel_mark_end">Цикълът не е приключил</string>
   <string name="cancel_mark_start">Изтриване на този запис</string>
   <string name="card_on_using">Използване</string>
+  <string name="centimeter_format">%1$d см</string>
   <string name="channel_desc_background">За предоставяне на услуги на заден план</string>
   <string name="channel_id_background_service">Услуги във фонов режим</string>
   <string name="channel_name_background">Услуги на заден план</string>
@@ -192,6 +194,7 @@
   <string name="data_safety_tip_details2">Някои от вашите данни за здравословно състояние бяха качени в облака. Можете да изберете да ги запазите на това устройство или да ги изтриете. Избирането на \"Изтриване\" по-долу ще изтрие само данните от това устройство, синхронизираните елементи ще се съхраняват в облака.\nАко решите да изтриете данните, след като сте решили да ги запазите, можете да го направите в Здраве&gt; Източници на данни.</string>
   <string name="data_safety_tip_title">Изтриване на данни</string>
   <string name="data_source">Източници на данни</string>
+  <string name="data_source_cannot_be_synchronized">Източниците на данни не могат да се синхронизират</string>
   <string name="data_source_data_updating">Актуализиране на данните…</string>
   <string name="data_source_list_description">Xiaomi Здраве получава данни за здравословното състояние (%1$s) от тези източници. Ако данните са дублирани в няколко източника, ще видите данните от източниците, които се появяват първо в списъка в Xiaomi Здраве.</string>
   <string name="data_source_manage">Управление на източниците на данни</string>
@@ -256,6 +259,7 @@
   <string name="device_description">Това устройство е свързано с Mi профил %s. Ако не можете да намерите необходимото устройство, добавете го първо в Mi Fit или Xiaomi Wear.</string>
   <string name="device_list_origin_description">Тези устройства са свързани с Mi профил %1$s. Ако не можете да намерите устройството, от което се нуждаете тук, уверете се, че вече сте го добавили в съответното приложение.</string>
   <string name="device_off_sync_description">Данните за здравословното състояние, генерирани на това устройство няма да бъдат синхронизирани с Xiaomi Здраве</string>
+  <string name="device_unbound_from_account">Устройството е освободено от вашия профил</string>
   <string name="diagnosis_log_send_failed">Очетът за диагностика не е изпратен.</string>
   <string name="diagnosis_log_sent_format">Очетът за диагностика е изпратен.\nID:%s\nМоля, изпратете този код на техника.</string>
   <string name="dialog_abandon">Отхвърляне</string>
@@ -283,7 +287,7 @@
   <string name="dialog_feedback_title">Отзиви</string>
   <string name="dialog_health_applicator">В момента Xiaomi Здраве предоставя услуги само за възрастни.</string>
   <string name="dialog_juveniles_details">Съгласно нашата политика за поверителност минималната възраст за ползване на този продукт е 18 години.</string>
-  <string name="dialog_juveniles_link">Според нашата &lt;font color=\"#FE6D67\">&lt;a href=%1$s>Политика за поверителност&lt;/a>&lt;/font>, минималната възраст за използване на този продукт е 18 години.</string>
+  <string name="dialog_juveniles_link">Според нашата &lt;font color=\"#FE6D67\"&gt;&lt;a href=%1$s&gt;Политика за поверителност&lt;/a&gt;&lt;/font&gt;, минималната възраст за използване на този продукт е 18 години.</string>
   <string name="dialog_keep">Запази</string>
   <string name="dialog_known">Разбрах</string>
   <string name="dialog_menstruation_purpose">Добре дошли в Xiaomi Здраве! \"Менструация\" ви позволява да записвате месечни цикли, да определяте вероятните дати на следващи цикли и да получавате напомняния. Всички свързани с това данни ще бъдат съхранявани локално на устройството ви, което позволява лесното им управление.</string>
@@ -343,6 +347,8 @@
   <string name="exercise_goal_accomplished">Целта е постигната</string>
   <string name="exercise_goal_lack_exercise">Няма достатъчно активност</string>
   <string name="exercise_goal_not_accomplished">Целта не е постигната</string>
+  <string name="exercise_heart_rate">Сърдечен ритъм</string>
+  <string name="exercise_heart_rate_range">Диапазон на сърдечната честота</string>
   <string name="exercise_info_tool_bar_title">Активност</string>
   <string name="exercise_information_label">Предоставете вашата информация, за да направите статистиката по-точна</string>
   <string name="exercise_intensity">Интензивност</string>
@@ -373,6 +379,7 @@
   <string name="exercise_result_reminder_title_unaccomplished">Днешният брой стъпки: %1$d. Все още можете да достигнете целта!</string>
   <string name="exercise_setting_label_reach_standard_remind">Предупреждение за активност</string>
   <string name="exercise_setting_page_title">Настройки на активността</string>
+  <string name="exercise_speed">Скорост</string>
   <string name="exercise_start">Начало</string>
   <string name="exercise_strokes">Брой на ударите</string>
   <string name="exercise_sum">Доклад за дейността</string>
@@ -425,6 +432,7 @@
   <string name="go_setting">Настройки</string>
   <string name="go_to_close">Настройки</string>
   <string name="go_to_open">Включи</string>
+  <string name="go_to_upgrade">Преминете към надстройката</string>
   <string name="goal_daily_exercise">Цел на дейността</string>
   <string name="goal_sleep_time">Цел за продължителност на съня</string>
   <string name="goal_title">Бъдете здрави</string>
@@ -464,9 +472,37 @@
   <string name="hour">Ч.</string>
   <string name="hour_in_day_format">%1$d</string>
   <string name="hour_in_day_format_short">%1$d</string>
+  <string name="hr_choose_detect_state">В какво състояние сте в момента?</string>
+  <string name="hr_cover_to_red">Моля, покрийте камерата, докато кръгът отдолу стане червен</string>
+  <string name="hr_detect">Измерване на сърдечната честота</string>
+  <string name="hr_detect_desc">По време на измерването светкавицата на телефона ви ще се използва като непрекъснат източник на светлина и камерата ще открие промени в кръвния поток. След това изображенията ще бъдат анализирани и сърдечната честота ще бъде определена въз основа на повтарящите се модели.</string>
+  <string name="hr_detect_finished">Готово!</string>
+  <string name="hr_detect_paused">Пауза на отчитането</string>
+  <string name="hr_detect_principle_desc_1">Можете да измерите сърдечната честота, просто като покриете с пръст светкавицата и камерата на телефона си. Светкавицата ще се използва като непрекъснат източник на светлина и камерата ще открие промени в кръвния поток. След това изображенията ще бъдат анализирани и сърдечната честота ще бъде определена въз основа на повтарящите се модели.</string>
+  <string name="hr_detect_principle_desc_3">Обърнете внимание, че външните фактори (например температура, тон на кожата, движение) могат да доведат до неточни или непълни измервания. Направете няколко измервания, за да сте сигурни, че текущото ви отчитане е точно. Резултатите, предоставени тук, са само за справка. Този метод на измерване не може да замести професионалното медицинско оборудване.</string>
+  <string name="hr_detect_principle_title">Измерване на сърдечната ви честота</string>
+  <string name="hr_detect_report_title">Доклад за сърдечната честота</string>
+  <string name="hr_detect_state_after_activity">След тренировка</string>
+  <string name="hr_detect_state_after_activity_desc">Измерване веднага след тренировка</string>
+  <string name="hr_detect_state_regular">Нормално състояние</string>
+  <string name="hr_detect_state_regular_desc">Работите или учите както обикновено.\"</string>
+  <string name="hr_detect_state_reseting">Състояние на покой</string>
+  <string name="hr_detect_state_reseting_desc">Напълно сте отпуснати или току-що сте се събудили.</string>
+  <string name="hr_disturb_detect">Измерването е прекъснато</string>
   <string name="hr_heart_rate_unit">Сърдечен ритъм (удара в мин.)</string>
+  <string name="hr_in_detect">Измерване на сърдечната честота. Не мърдайте пръста си.</string>
   <string name="hr_input_heart_rate">Записване на сърдечната честота</string>
+  <string name="hr_measure_heart_rate">Измерване</string>
+  <string name="hr_open_permission_desc">Здраве трябва да има достъп до камерата на телефона ви, за да може да измерва сърдечната честота. Разрешавате ли?</string>
+  <string name="hr_open_permission_title">Изискват се разрешения</string>
+  <string name="hr_phone_detect_records">История на измерванията с телефона</string>
+  <string name="hr_pre_detect">Напълно покрийте светкавицата и камерата\nс един пръст</string>
+  <string name="hr_pre_detect_finger">Проверява се…</string>
+  <string name="hr_re_detect_title">Повторен тест</string>
+  <string name="hr_report_active_desc">Пулсът веднага след тренировка е състоянието на сърдечната честота на човешкото тяло след тренировка.</string>
+  <string name="hr_report_common_desc">Състоянието на сърдечната честота, поддържано от човешкото тяло по време на ежедневни дейности.</string>
   <string name="hr_see_report">Преглед на отчета</string>
+  <string name="hr_start_detect">Начало</string>
   <string name="hr_state">Състояние</string>
   <string name="hr_state_active">Активност</string>
   <string name="hr_state_fast">Бързо</string>
@@ -474,6 +510,11 @@
   <string name="hr_state_regular">Редовно</string>
   <string name="hr_state_resting">Покой</string>
   <string name="hr_state_slow">Бавно</string>
+  <string name="hr_strength_high">Висока</string>
+  <string name="hr_strength_higher">По-висока</string>
+  <string name="hr_strength_lower_mid">Ниска/средна</string>
+  <string name="hr_strength_lowest">Най-ниска</string>
+  <string name="hr_strength_mid">Средна</string>
   <string name="icon_content_description">Икона на диалогов прозорец</string>
   <string name="improve_step_target">Постигате целта си твърде често. Пробвайте да си поставите по-висока цел.</string>
   <string name="improve_your_health_default_tips">За да сте здрави, правете упражнения и спете достатъчно.</string>
@@ -489,7 +530,6 @@
   <string name="just_recently">Сега</string>
   <string name="keep_edit">Отказ</string>
   <string name="label_average_daily_sleep_duration">Средна продължителност на съня</string>
-  <string name="hr_report_common_desc">Състоянието на сърдечната честота, поддържано от човешкото тяло по време на ежедневни дейности.</string>
   <string name="label_average_daily_sleep_time">Приблизително време  \n за заспиване</string>
   <string name="label_average_daily_sleep_time2">Приблизително време  \n за заспиване</string>
   <string name="label_average_daily_wake_up_time">"  Приблизително времe\n за събуждане"</string>
@@ -568,6 +608,12 @@
   <string name="member_name_select">Изберете потребителското си име</string>
   <string name="member_name_select_purpose">Синхронизирайте здравните си данни, генерирани от %1$s</string>
   <string name="member_name_select_purpose2">Изберете потребителското си име, за да синхронизирате здравни данни</string>
+  <string name="mens_day_in_guess_menstrual_period">Предполага се, че е ден %1$d на менструация</string>
+  <string name="mens_day_in_guess_ovu_period">Предполага се, че е %1$d ден на овулация</string>
+  <string name="mens_day_in_ovu_period">Физиологичен цикъл（%1$s-%2$s）Ден %3$d，Скоростта на овулацията е много висока</string>
+  <string name="mens_day_in_phy_period">Физиологичен цикъл（%1$s-%2$s）Ден %3$d</string>
+  <string name="mens_day_in_predict_menstrual_period">Прогнозата е ден %1$d на менструация</string>
+  <string name="mens_day_in_predict_ovu_period">Предвиден ден на овулация %1$d</string>
   <string name="menses_auto_start_description">Включването на напомнянията ще позволи на Xiaomi Здраве да стартира автоматично.</string>
   <string name="menses_features_description">Записвайте циклите си и получавайте напомняния</string>
   <string name="menstrual_assistant">Менструация</string>
@@ -657,6 +703,7 @@
   <string name="month_september_shortest">Сеп</string>
   <string name="more">Твърде много</string>
   <string name="more_card">Още карти</string>
+  <string name="more_questions">Още въпроси</string>
   <string name="mtrl_badge_numberless_content_description">Ново известие</string>
   <string name="mtrl_chip_close_icon_content_description">Премахни %1$s</string>
   <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
@@ -674,9 +721,11 @@
   <string name="network_not_available">Мрежата не е достъпна. Моля, опитайте отново</string>
   <string name="next_step">Напред</string>
   <string name="night">Вечер</string>
+  <string name="no_available_data_source">Няма налични източници на данни</string>
   <string name="no_available_device">Няма устройства</string>
   <string name="no_body_weight_record">Тук все още няма записи</string>
   <string name="no_data">Няма данни</string>
+  <string name="no_device_bound_to_the_account">Това устройство не се вижда като свързано с вашия профил. Моля, уверете се, че устройството е свързано успешно и опитайте отново</string>
   <string name="no_records">Тук все още няма нищо.</string>
   <string name="no_snore">Не сте хъркали и говорили в съня си</string>
   <string name="no_snore_1">Тук все още няма елементи</string>
@@ -703,9 +752,12 @@
   <string name="open_sync">Включи синхронизация</string>
   <string name="open_sync_and_enter_app">Включете синхронизирането</string>
   <string name="open_unrestricted_permissions">За по-точно следене на съня разрешете на Xiaomi Здраве винаги да работи във фонов режим.</string>
+  <string name="optional_data_source">Източници на данни по избор</string>
   <string name="organ_donation_volunteer">Доброволен донор на органи</string>
   <string name="origin">Произход</string>
   <string name="other_can_add_data_source">Налични източници</string>
+  <string name="other_optional_data_sources">Други източници на данни по избор</string>
+  <string name="other_question">Други въпроси</string>
   <string name="outdoor_riding">Външен цикъл</string>
   <string name="outdoor_running">Бягане</string>
   <string name="outdoor_walking">Ходене</string>
@@ -713,9 +765,12 @@
   <string name="passport_oauth_sucess_tip">Оторизиран успех</string>
   <string name="password_toggle_content_description">Показване на паролата</string>
   <string name="pause">Пауза</string>
+  <string name="per_count_minutes">" в минута"</string>
+  <string name="per_count_minutes1">%d в минута</string>
   <string name="per_time_minutes">%d в минута</string>
   <string name="per_time_minutes_heart_rate">" удара в мин."</string>
   <string name="per_time_minutes1">" в минута"</string>
+  <string name="period">Цикъл</string>
   <string name="permission_check_result">Настроено успешно</string>
   <string name="permission_check_result_failed">Не може да се зададе</string>
   <string name="permission_manage">Управление на разрешенията</string>
@@ -747,6 +802,10 @@
   <string name="prompt_sleep_time_noon">Дрямка през деня</string>
   <string name="protein_rate">Протеин</string>
   <string name="protein_rate_descripe_content">Процентът на протеина се отнася до съотношението на протеин в общото тегло на човешкото тяло. Важно е за откриване на хранителен дисбаланс и поддържане на здравословна диета.</string>
+  <string name="question_data_source_unable_add">Не може да се добави източник на данни</string>
+  <string name="question_data_synchronization_not_timely">Синхронизирането на данни не е навременно или не може да се синхронизира</string>
+  <string name="question_device_not_found">Не мога да намеря устройството си</string>
+  <string name="question_multiple_same_name_data_sources">Защо има няколко източника на данни със същото име?</string>
   <string name="rate_bit_high">Високо</string>
   <string name="rate_bit_low">Ниско</string>
   <string name="rate_bone_mass_reduce">Костната маса е намалена</string>
@@ -1118,6 +1177,7 @@
   <string name="tb_home_weight_card">Тегло. %1$.1f килограма. Време за претегляне: %2$s. Състояние: %3$s.</string>
   <string name="tb_home_weight_card_no_data">Тегло. Няма данни.</string>
   <string name="tb_manage_home">Тук можете да премахнете или пренаредите картите, показани на началната страница.</string>
+  <string name="tb_mens_mark_success">Маркирано успешно</string>
   <string name="tb_mens_month_date_selected">%1$s избрани.</string>
   <string name="tb_mens_month_date_unselected">%1$s. Докоснете, за да изберете дата.</string>
   <string name="tb_mens_month_expected_date_selected">%1$s. Ден %2$d на прогнозирания цикъл. Избрани.</string>
@@ -1245,11 +1305,13 @@
   <string name="unknown_birthday">Неизвестно</string>
   <string name="unknown_full_name">Неизвестно</string>
   <string name="unknown_gender">Неизвестно</string>
+  <string name="unknown_state">Неизвестно състояние</string>
   <string name="update_notify_dialog_ignore">По-късно</string>
   <string name="update_notify_dialog_msg">Налична е актуализация: %1$s.\nКакво ново:\n%2$s\nДа се обнови ли сега?</string>
   <string name="update_notify_dialog_msg2">Налична е актуализация: %1$s. Актуализиране сега?</string>
   <string name="update_notify_dialog_title">Налично е обновление</string>
   <string name="update_notify_no_update_log">Тук няма все още нищо.</string>
+  <string name="upgrade_suggestion">Версията на Xiaomi Здраве е твърде стара, моля, отидете в магазина за приложения, за да надстроите и опитайте отново.</string>
   <string name="user_agreement">Потребителско споразумение</string>
   <string name="user_birthday_display_format">dd/MM/yyyy</string>
   <string name="user_invalid_value">--</string>
@@ -1289,31 +1351,4 @@
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sМБ</string>
   <string name="year">Година</string>
   <string name="yesterday">Вчера</string>
-      <string name="hr_choose_detect_state">В какво състояние сте в момента?</string>
-     <string name="hr_detect">Измерване на сърдечната честота</string>
-     <string name="hr_detect_desc">"По време на измерването светкавицата на телефона ви ще се използва като непрекъснат източник на светлина и камерата ще открие промени в кръвния поток. След това изображенията ще бъдат анализирани и сърдечната честота ще бъде определена въз основа на повтарящите се модели."</string>
-     <string name="hr_detect_finished">Готово!</string>
-     <string name="hr_detect_principle_desc_1">"Можете да измерите сърдечната честота, просто като покриете с пръст светкавицата и камерата на телефона си. Светкавицата ще се използва като непрекъснат източник на светлина и камерата ще открие промени в кръвния поток. След това изображенията ще бъдат анализирани и сърдечната честота ще бъде определена въз основа на повтарящите се модели."</string>
-     <string name="hr_detect_principle_desc_2">Множество тестове показват, че допустимата грешка за този метод е около 2 удара в минута.</string>
-     <string name="hr_detect_principle_desc_3">"Обърнете внимание, че външните фактори (например температура, тон на кожата, движение) могат да доведат до неточни или непълни измервания. Направете няколко измервания, за да сте сигурни, че текущото ви отчитане е точно. Резултатите, предоставени тук, са само за справка. Този метод на измерване не може да замести професионалното медицинско оборудване."</string>
-     <string name="hr_detect_principle_title">Измерване на сърдечната ви честота</string>
-     <string name="hr_detect_report_title">Доклад за сърдечната честота</string>
-     <string name="hr_detect_state_after_activity">След тренировка</string>
-     <string name="hr_detect_state_after_activity_desc">Измерване веднага след тренировка</string>
-     <string name="hr_detect_state_regular">Нормално състояние</string>
-     <string name="hr_detect_state_regular_desc">Работите или учите както обикновено."</string>
-     <string name="hr_detect_state_reseting">Състояние на покой</string>
-     <string name="hr_detect_state_reseting_desc">"Напълно сте отпуснати или току-що сте се събудили."</string>
-     <string name="hr_disturb_detect">Измерването е прекъснато</string>
-     <string name="hr_disturb_detect_desc">Започнете отначало. Опитайте се да не мърдате пръста си по време на измерването.</string>
-     <string name="hr_in_detect">"Измерване на сърдечната честота. Не мърдайте пръста си."</string>
-     <string name="hr_measure_heart_rate">Измерване</string>
-     <string name="hr_open_permission_desc">"Здраве трябва да има достъп до камерата на телефона ви, за да може да измерва сърдечната честота. Разрешавате ли?"</string>
-     <string name="hr_open_permission_title">Изискват се разрешения</string>
-     <string name="hr_phone_detect_records">История на измерванията с телефона</string>
-     <string name="hr_pre_detect">"Напълно покрийте светкавицата и камерата
-с един пръст"</string>
-     <string name="hr_pre_detect_finger">Проверява се…</string>
-     <string name="hr_pre_detect_finger_desc">"Проверка дали светкавицата и камерата са напълно покрити. Не мърдайте пръста си."</string>
-     <string name="hr_start_detect">Начало</string>
 </resources>

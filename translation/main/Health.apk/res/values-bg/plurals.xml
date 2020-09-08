@@ -29,6 +29,10 @@
     <item quantity="other">Преди %d минути</item>
     <item quantity="one">Преди 1 минута</item>
   </plurals>
+  <plurals name="birthday_format">
+    <item quantity="other">(%1$d години)</item>
+    <item quantity="one">(%1$d годишен)</item>
+  </plurals>
   <plurals name="count_duration_standard">
     <item quantity="other">%1$d-%2$d пъти</item>
     <item quantity="one">%1$d-%2$d път</item>
@@ -44,6 +48,14 @@
   <plurals name="day_index">
     <item quantity="other">%1$d дни</item>
     <item quantity="one">%1$d ден</item>
+  </plurals>
+  <plurals name="days_in_menstrual_period">
+    <item quantity="other">Дни на менструалния цикъл %1$d дни</item>
+    <item quantity="one">Дни на менструалния цикъл %1$d ден</item>
+  </plurals>
+  <plurals name="days_in_period">
+    <item quantity="other">Дни на цикъла %1$d дни</item>
+    <item quantity="one">Дни на цикъла %1$d ден</item>
   </plurals>
   <plurals name="dialog_choose_items">
     <item quantity="other">Избрани са %1$d елемента</item>
@@ -62,8 +74,8 @@
     <item quantity="one">%1$d запис</item>
   </plurals>
   <plurals name="dream_talk_segment_unit">
-    <item quantity="other"> записа</item>
-    <item quantity="one"> запис</item>
+    <item quantity="other">записа</item>
+    <item quantity="one">запис</item>
   </plurals>
   <plurals name="duration_unit_hour_format">
     <item quantity="other">%1$d ч.</item>
@@ -88,6 +100,10 @@
   <plurals name="goal_unit_with_number">
     <item quantity="other">%1$d крачки</item>
     <item quantity="one">%1$d крачка</item>
+  </plurals>
+  <plurals name="group_unit">
+    <item quantity="other">%1$d Групи</item>
+    <item quantity="one">%1$d Група</item>
   </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Преди половин час</item>
@@ -123,6 +139,10 @@
   </plurals>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Сега</item>
+  </plurals>
+  <plurals name="mens_offset_predict_menstrual_period">
+    <item quantity="other">%1$d дни от предвидения цикъл</item>
+    <item quantity="one">%1$d ден от предвидения цикъл</item>
   </plurals>
   <plurals name="menstruation_sum_days">
     <item quantity="other">%1$d-дневен цикъл</item>
@@ -243,10 +263,6 @@
   <plurals name="unit_times">
     <item quantity="other">" пъти"</item>
     <item quantity="one">" път"</item>
-  </plurals>
-    <plurals name="birthday_format">
-    <item quantity="other">(%1$d години)</item>
-    <item quantity="one">(%1$d годишен)</item>
   </plurals>
   <plurals name="user_age_display_format_year">
     <item quantity="other">%1$d години</item>
