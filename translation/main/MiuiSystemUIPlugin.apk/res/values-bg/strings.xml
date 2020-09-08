@@ -65,4 +65,8 @@
     <string name="save">Запази</string>
     <string name="search_menu_title">Търсене</string>
     <string name="status_bar_setting_title">控制中心与状态栏</string>
+	<string name="quick_settings_pcmode_cancel_button">ОТКАЗ</string>
+    <string name="quick_settings_pcmode_dialog_message_turnoff">Изключете Pocket PC</string>
+    <string name="quick_settings_pcmode_dialog_message_turnon">Включете Pocket PC</string>
+    <string name="quick_settings_pcmode_dialog_remember_text">"Не показвай отново"</string>
 </resources>

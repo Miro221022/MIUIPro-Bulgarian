@@ -185,4 +185,6 @@
     <string name="perm_action_deny">Никога не разрешавай</string>
     <string name="perm_modem_location">Достъп до местоположението ви</string>
     <string name="perm_modem_location_desc">Вашият оператор се опитва да получи достъп до информацията за вашето местоположение. Ще споделите ли информация за местоположението?</string>
+	<string name="HIPS_Perm_recognition">Достъп до информация за активността</string>
+    <string name="HIPS_Perm_recognition_Desc">Разрешете на приложението достъп до вашата информация за активността</string>
 </resources>

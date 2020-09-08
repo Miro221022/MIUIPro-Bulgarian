@@ -1036,7 +1036,7 @@
   <string name="miui_ringer_standard_description">Заглушаване на мелодии за входящи повиквания и известия</string>
   <string name="miui_ringer_total">Не ме безпокойте</string>
   <string name="miui_ringer_total_description">Заглушаване на звука и изключване на вибрацията за всички елементи с изключение на алармите</string>
-  <string name="miui_screen_rotation_freeze_message">Автоматичното завъртане е деактивирано.</string>
+  <string name="miui_screen_rotation_freeze_message">Ориентацията на екрана е заключена в пейзажен режим</string>
   <string name="miui_toast_zen_dnd_to_off">Не ме безпокойте е изключен. Звуците и вибрациите се възстановяват до нормално състояние.</string>
   <string name="miui_toast_zen_standard_to_off">Безшумният режим е изключен. Мелодиите мелодиите са включени.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Безшумният режим е изключен. Мелодиите, както и звуците за известия ще се възпроизвеждат.</string>

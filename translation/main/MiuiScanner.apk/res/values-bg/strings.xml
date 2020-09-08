@@ -25,7 +25,7 @@
     <string name="continue_access_web_url">Отидете на уеб адрес</string>
     <string name="continue_to_website">Отидете на уеб страница</string>
     <string name="copy">Копиране</string>
-    <string name="copy_text">Копиране текст</string>
+    <string name="copy_text">Копирай текста</string>
     <string name="copy_text_success">Текстът копиран</string>
     <string name="crop_cancel_description">Отказ</string>
     <string name="crop_done_description">Готово</string>
@@ -118,7 +118,7 @@
     <string name="place_barcode_into_rectangle">Поставете кода в рамката</string>
     <string name="preparing_sd">Подготовка на карта с памет…</string>
     <string name="previous">Обратно</string>
-    <string name="qr_code_details">Детайли за QR код:</string>
+    <string name="qr_code_details">Подробности за QR кода:</string>
     <string name="recognition_error_download_cancel">По-късно</string>
     <string name="recognition_error_download_data_msg">Изтеглете услугата за разпознаване, за да сканирате карти. Размерът ѝ е около 15 МБ. Да се използва ли мобилен интернет за изтеглянето?</string>
     <string name="recognition_error_download_fail">Услугата за разпознаване не беше изтеглена</string>

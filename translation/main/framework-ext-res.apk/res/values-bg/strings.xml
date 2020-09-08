@@ -23,7 +23,7 @@
     <string name="status_bar_toggle_edit">Сортиране</string>
     <string name="status_bar_toggle_battery_saver">Пестене на батерията</string>
     <string name="status_bar_toggle_nfc">NFC</string>
-    <string name="screen_rotation_freeze_message">Автоматичното завъртане е изключено.</string>
+    <string name="screen_rotation_freeze_message">Ориентацията на екрана е заключена в пейзажен режим</string>
     <string name="perm_send_push_dspt">Разрешаване на Mi push съобщения</string>
     <string name="perm_send_push_lab">Изпращане на push съобщение</string>
     <string name="select">Избор</string>

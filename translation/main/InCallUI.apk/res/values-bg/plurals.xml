@@ -32,4 +32,8 @@
         <item quantity="other">Докладван от %d MIUI потребители</item>
         <item quantity="one">Докладван от %d MIUI потребител</item>
     </plurals>
+	    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Затваряне след %1$s сек.…</item>
+        <item quantity="one">Затваряне след %1$s сек.…</item>
+    </plurals>
 </resources>
