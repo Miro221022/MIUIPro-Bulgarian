@@ -275,5 +275,6 @@
     <string name="wc_double_check_title">Опитайте Ежедневни тапети</string>
     <string name="wc_notice_link_agreement_index">Потребителско споразумение</string>
     <string name="wc_notice_link_privacy_index">Политика за поверителност</string>
-    <string name="wc_notice_link_summary">"Прочетете и се съгласете %1$s и %2$s на доставчика на съдържание от трета страна преди да използвате тази функция."</string>
+    <string name="wc_notice_link_summary">"Прочетете и се съгласете с %1$s и %2$s на доставчика на съдържание от трета страна преди да използвате тази функция."</string>
+	<string name="wc_notice_link_announcement_summary">"Прочетете и се съгласете с &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> и &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> на доставчика на съдържание от трета страна преди да използвате тази функция."</string>
 </resources>

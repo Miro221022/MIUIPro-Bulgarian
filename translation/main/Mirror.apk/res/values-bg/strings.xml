@@ -167,4 +167,12 @@
 	<string name="wednesday">Сряда</string>
     <string name="wednesday_short">Сря</string>
     <string name="wednesday_shortest">Сря</string>
+	<string name="http_buffer_size">Размер на HTTP кеша</string>
+    <string name="log_warning">"Превключването на превключватели на отчети може да увеличи рисковете за сигурността и да повлияе на производителността. Използвайте тези превключватели само когато е необходимо."</string>
+    <string name="message_log">Отчети на съобщения</string>
+    <string name="resource_log">Ресурсни отчети</string>
+    <string name="settings_log_options">Отчети</string>
+    <string name="traffic_log">Отчети за трафика</string>
+    <string name="verbose_mode">Многословен режим</string>
+    <string name="worker_authorization_loading">Една секунда…</string>
 </resources>

@@ -485,7 +485,7 @@
   <string name="hr_detect_state_after_activity">След тренировка</string>
   <string name="hr_detect_state_after_activity_desc">Измерване веднага след тренировка</string>
   <string name="hr_detect_state_regular">Нормално състояние</string>
-  <string name="hr_detect_state_regular_desc">Работите или учите както обикновено.\"</string>
+  <string name="hr_detect_state_regular_desc">Работите или учите както обикновено.</string>
   <string name="hr_detect_state_reseting">Състояние на покой</string>
   <string name="hr_detect_state_reseting_desc">Напълно сте отпуснати или току-що сте се събудили.</string>
   <string name="hr_disturb_detect">Измерването е прекъснато</string>
