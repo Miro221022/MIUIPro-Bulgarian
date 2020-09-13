@@ -4,7 +4,7 @@
   <string name="abc_action_bar_up_description">Придвижване нагоре</string>
   <string name="abc_action_menu_overflow_description">Още опции</string>
   <string name="abc_action_mode_done">Готово</string>
-  <string name="abc_activity_chooser_view_see_all">Виж всчки</string>
+  <string name="abc_activity_chooser_view_see_all">Виж всички</string>
   <string name="abc_activitychooserview_choose_application">Изберете приложение</string>
   <string name="abc_capital_off">ИЗКЛ.</string>
   <string name="abc_capital_on">ВКЛ.</string>
@@ -54,6 +54,7 @@
   <string name="cancel_alarm_description">Отмени будилник</string>
   <string name="check_in_todo_app">Преглед на задачите</string>
   <string name="cloud_service_state_open_reminder">Включете синхронизирането с Xiaomi Облак за да синхронизирате бележките.</string>
+  <string name="cloud_service_state_open_reminder_note_and_todo">Включете синхронизирането с облака</string>
   <string name="cloud_trash_bin_title">Изтриване на бележки от Xiaomi Облак</string>
   <string name="confirm_cancel">Не приемам</string>
   <string name="confirm_ok">Приемам</string>
@@ -64,6 +65,7 @@
   <string name="cta_dialog_message">Бележки се нуждае от разрешения за свързване с интернет, запис на звук и достъп до контактите ви да работи нормално. Разрешавате ли?</string>
   <string name="cta_dialog_title">Необходими са разрешения</string>
   <string name="cta_reminder">Бележки се нуждае от разрешения за свързване с интернет, записване на звук и достъп до вашите контакти, за да работят нормално. Разрешаване?</string>
+  <string name="cta_v2_agree_desc">Разрешете на това приложение да се свърже с интернет и да предостави задължителните разрешения, изброени по-горе.</string>
   <string name="cta_v2_app_purpose">Създаване, преглед и управление на бележки</string>
   <string name="cta_v2_app_purpose_v12">Можете да използвате това приложение за създаване на задачи и бележки, които съдържат текст, изображения и звук.</string>
   <string name="data_empty_note">Тук все още няма бележки</string>
@@ -101,6 +103,7 @@
   <string name="done">Готово</string>
   <string name="edit_header_done_description">Готово</string>
   <string name="edit_header_lock_description">Тайна бележка</string>
+  <string name="edit_note_hint_title">Заглавие</string>
   <string name="empty_folder_import_notes">Импортиране на бележки</string>
   <string name="empty_folder_no_notes">Няма бележки тук</string>
   <string name="enable_sync">Синхронизация</string>
@@ -119,8 +122,11 @@
   <string name="first_enter_custom_folder_hint">Тук можете да преименувате или изтривате папки</string>
   <string name="float_todo_guide_cancel">Отказ</string>
   <string name="float_todo_guide_message">Прекият път на началния екран ви позволява да плъзнете от ръба на екрана, за да видите и създавате задачи. Да се създаде ли пряк път сега?</string>
+  <string name="float_todo_guide_message_v2">Прекият път с жестове ви позволява да преглеждате и създавате задачи, като плъзнете от ръба на екрана. Можете да включите и изключите тази функция в Настройки.</string>
   <string name="float_todo_guide_ok">Създаване</string>
+  <string name="float_todo_guide_ok_v2">Включи</string>
   <string name="float_todo_guide_title">Пряк път на началния екран</string>
+  <string name="float_todo_guide_title_v2">Преки пътища за жестове</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM,yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -260,12 +266,14 @@
   <string name="permission_phone_state_desc">За спиране на записването на гласови бележки по време на разговори</string>
   <string name="permission_read_contact_desc">Свързване на бележките, създадени по време на разговори с контакти</string>
   <string name="permission_storage_desc">За запазване на бележки като изображения</string>
-  <string name="permission_xiaoai_desc"><Data>Mi AI ще събира вашите гласови записи и идентификационен номер на устройството, за да преписва аудио и да създава гласови бележки. Научете повече в &lt;a href=\"%1$s\">Политика за поверителност&lt;/a>.</Data></string>
+  <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI ще събира вашите гласови записи и идентификационен номер на устройството, за да преписва аудио и да създава гласови бележки. Научете повече в &lt;a href=\"%1$s\"&gt;Политика за поверителност&lt;/a&gt;.&lt;/Data&gt;</string>
   <string name="permlab_accessNote">Достъп до бележките</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Плъзнете нагоре с 2 пръста, за изтриване на бележките без потвърждение</string>
   <string name="pref_desc_todo_float_mode">Плъзнете от ръба на екрана, за да отворите кутията с инструменти</string>
   <string name="pref_remind_type_summary">Възпроизвеждане на звук за напомняне в Безшумен режим</string>
+  <string name="pref_remind_type_summary_new">Игнориране на безшумния режим и продължаване възпроизвеждабето на звук, докато алармата се изключи</string>
   <string name="pref_remind_type_title">Игнориране на безшумния режим</string>
+  <string name="pref_remind_type_title_new">Напомняния с висок приоритет</string>
   <string name="pref_title_cloud_trash_bin">Изтриване на бележки от Xiaomi Облак</string>
   <string name="pref_title_common">Общи настройки</string>
   <string name="pref_title_font_size">Размер на шрифта</string>
@@ -348,6 +356,10 @@
   <string name="sunday">Неделя</string>
   <string name="sunday_short">Нед</string>
   <string name="sunday_shortest">Нед</string>
+  <string name="sync_all_terms">%1$s, %2$s и %3$s</string>
+  <string name="sync_folder_todo">%1$s и %2$s</string>
+  <string name="sync_note_folder">%1$s и %2$s</string>
+  <string name="sync_note_todo">%1$s и %2$s</string>
   <string name="sync_tips">Чукнете за синхронизиране на бележките с Xiaomi Облак.</string>
   <string name="theme_blue_description">Синьо</string>
   <string name="theme_green_description">Зелено</string>
@@ -383,6 +395,7 @@
   <string name="toast_reach_text_limit_truncate">Съдържанието на бележката ще се намали автоматично, защото е много дълго.</string>
   <string name="toast_refuse_to_record_when_in_call">Тази функция не може да се използва по време на разговори</string>
   <string name="toast_refuse_to_record_when_in_multi_window">Тази функция не може да се използва в режим разделен екран</string>
+  <string name="toast_refuse_to_record_when_in_multi_window_new">Не можете да използвате тази функция в разделен екран или плаващи прозорци</string>
   <string name="toast_refuse_to_use_contact">Разрешенията за контакти са ограничени.\nРазрешаване на Бележки да чете контактите ви и да намира профили в устройството.</string>
   <string name="toast_refuse_to_use_external_storage">Разрешенията за хранилището са ограничени.\nРазрешаване на Бележки да чете съдържанието на вашата SD карта.</string>
   <string name="toast_refuse_to_use_phone_state">Разрешенията за телефон са ограничени.\nРазрешаване на Бележки да чете състоянието и идентичността на телефона.</string>
@@ -462,6 +475,7 @@
   <string name="toolbar_voice_description">Глас</string>
   <string name="trash_folder_name">Кошче</string>
   <string name="trash_folder_reminder">Бележките, които изтриете, ще се изтрият за 30 дни.</string>
+  <string name="trash_folder_reminder_new">Бележките се съхраняват в кошчето %d дни, преди да бъдат изтрити за постоянно</string>
   <string name="tuesday">Вторник</string>
   <string name="tuesday_short">Вто</string>
   <string name="tuesday_shortest">Вто</string>
@@ -476,14 +490,4 @@
   <string name="widget_content_loading">Зарежда се…</string>
   <string name="widget_havenot_content">Няма бележки, натиснете тук за създаване.</string>
   <string name="yesterday">Вчера</string>
-  <string name="trash_folder_reminder_new">Бележките се съхраняват в кошчето %d дни, преди да бъдат изтрити за постоянно</string>
-     <string name="cloud_service_state_open_reminder_note_and_todo">Включете синхронизирането с облака</string>
-     <string name="sync_all_terms">%1$s, %2$s и %3$s</string>
-     <string name="sync_note_folder">%1$s и %2$s</string>
-	 <string name="cta_v2_agree_desc">Разрешете на това приложение да се свърже с интернет и да предостави задължителните разрешения, изброени по-горе.</string>
-     <string name="sync_folder_todo">%1$s и %2$s</string>
-     <string name="sync_note_todo">%1$s и %2$s</string>
-	   <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
-  <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">%s нова версия</string>
 </resources>
