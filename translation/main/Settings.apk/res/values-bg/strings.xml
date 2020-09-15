@@ -300,18 +300,15 @@
      <string name="allow_data_usage_title">Пренос на данни при роуминг</string>
      <string name="allow_device_id_access">Изберете приложения, които могат да използват идентификацията на устройство</string>
      <string name="allow_float_summary">Разрешаване на плаващи известия</string>
-     <string name="allow_float_title">Плаващи известия</string>
      <string name="allow_interruption">Разрешаване на прекъсвания</string>
      <string name="allow_interruption_summary">Разрешаване на приложението да издава звук, да вибрира и/или да показва изскачащи прозорци с известия на екрана</string>
      <string name="allow_keyguard_summary">Разрешаване на известия на заключения екран</string>
-     <string name="allow_keyguard_title">Известия на заключен екран</string>
      <string name="allow_lights_title">Използване на LED светлина</string>
      <string name="allow_mock_location">Разрешаване на привидни местоположения</string>
      <string name="allow_mock_location_summary">Разрешаване на привидни местоположения</string>
      <string name="allow_oaid_used">Използвай виртуален идентификатор</string>
      <string name="allow_oaid_used_desc">"MIUI не може да предостави виртуален идентификатор (PAID) на инсталираните приложения. Поради това някои функции на персонални препоръки може да не работят правилно."</string>
      <string name="allow_overlay_description">Разрешаване на това приложение да се показва върху другите приложения, които използвате. Това може да ви попречи при използването на тези приложения или да промени начина, по който изглеждат или се държат.</string>
-     <string name="allow_sound_title">Звук</string>
      <string name="allow_vibrate_title">Вибрация</string>
      <string name="alpha_build">Алфа</string>
      <string name="always">Винаги</string>
@@ -651,7 +648,6 @@
      <string name="backup_set_new_pw_title">Въведете нова парола за архивиране</string>
      <string name="backup_set_null_pw">Първо въведете парола</string>
      <string name="backup_set_pw_confirm_title">Потвърдете новата парола за архивиране</string>
-     <string name="badge_title">Значка върху иконата</string>
      <string name="band_mode_failed">Неуспешно</string>
      <string name="band_mode_loading">Списъкът с диапазони се зарежда…</string>
      <string name="band_mode_set">Задаване</string>
@@ -6025,7 +6021,6 @@ UT интерфейс: %5$s"</string>
      <string name="tap_to_wake">Докоснете за „събуждане“</string>
      <string name="tap_to_wake_summary">Докоснете два пъти произволно място на екрана, за да „събудите“ устройството</string>
      <string name="taplus_title">Taplus</string>
-     <string name="temporary_style">10 секунди след докосване на екрана</string>
      <string name="terms_title">Общи условия</string>
      <string name="testing">Тестване</string>
      <string name="testing_phone_info">Информация за телефон</string>
@@ -7715,4 +7710,12 @@ UT интерфейс: %5$s"</string>
 	<string name="miui_master_clear_prompt_battery_low">"Не може да извърши фабрично нулиране, когато остане по-малко от %1$s батерия. Заредете устройството си, преди да продължите."</string>
 	    <string name="wifi_connect_channel">WLAN канал:</string>
     <string name="wifi_connect_frequency">WLAN честота:</string>
+	    <string name="launch_noapp_dialog_cancel">Отказ</string>
+    <string name="launch_noapp_dialog_install">Инсталиране</string>
+    <string name="launch_noapp_dialog_replace">Настройки</string>
+    <string name="allow_float_title">Плаващи известия</string>
+    <string name="allow_keyguard_title">Известия на заключен екран</string>
+    <string name="allow_sound_title">Изпълнение на звук</string>	
+    <string name="badge_title">Значки за известия</string>
+    <string name="temporary_style">За 10 секунди след докосване</string>
 </resources>

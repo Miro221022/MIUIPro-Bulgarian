@@ -96,4 +96,8 @@
         <item quantity="other">%d WLAN мрежи</item>
         <item quantity="one">%d WLAN мрежа</item>
     </plurals>
+	    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">"Не могат да се синхронизират %s елемента"</item>
+        <item quantity="one">"Не може да се синхронизира %s елемент"</item>
+    </plurals>
 </resources>

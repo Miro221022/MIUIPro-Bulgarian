@@ -3665,6 +3665,25 @@
     <string name="traffic_calculation">流量按天计算，如1元/1GB/天</string>
     <string name="traffic_limit_input">流量预警限额（选填）</string>
     <string name="unknown_package">不清楚自己的套餐是什么？</string>
-	  <string name="fixed_traffic_by_month">每月固定流量</string>
-  <string name="fixed_traffic_value_by_month">每月固定流量额度</string>   
+	<string name="fixed_traffic_by_month">每月固定流量</string>
+    <string name="fixed_traffic_value_by_month">每月固定流量额度</string>
+    <string name="applock_add_account_ignore">Не сега</string>
+    <string name="applock_add_account_ignore_with_seconds">Не сега (%dсек.)</string>
+    <string name="applock_add_account_tips">"С Mi профила си ще можете да възстановите заключването на приложения, ако го забравите."</string>
+    <string name="applock_add_account_title">Добавете вашия Mi профил</string>
+    <string name="applock_already_add_account">Текущ профил: %s</string>
+    <string name="applock_bind_account_dialog_content">Вашият Mi профил е единственият начин да възстановите заключването на приложенията си, в случай че го забравите. Влезте, за да добавите своят Mi профил.</string>
+    <string name="applock_bind_account_dialog_title">Добавяне на Mi профил</string>
+    <string name="applock_guide_notification_summary">Защитете поверителността си с Заключване на приложения</string>
+    <string name="applock_guide_notification_title">Други хора може да видят поверителна информация на вашия екран</string>
+    <string name="applock_no_account_login">"Не сте влезли във Mi профила си"</string>
+    <string name="applock_operate_faceunlock_summary">Отключете приложенията, като просто погледнете в екрана</string>
+    <string name="applock_operate_faceunlock_title">Използване на лицеви данни</string>
+    <string name="applock_operate_fingerprint_summary">Заключването на приложения поддържа добавяне на няколко пръстови отпечатъка</string>
+    <string name="applock_operate_fingerprint_title">Използване на отпечатък</string>
+    <string name="applock_operate_hidenoti_summary">Заключването на приложения може да направи това за защитените приложения</string>
+    <string name="applock_operate_hidenoti_title">Искате ли да скриете чувствителни известия?</string>
+    <string name="applock_recommend_tips">%s от потребителите защитават тези приложения</string>
+    <string name="applock_recommend_title">Избор на приложения</string>
+    <string name="applock_set_complete">Използване на Заключване на приложения</string>
 </resources>

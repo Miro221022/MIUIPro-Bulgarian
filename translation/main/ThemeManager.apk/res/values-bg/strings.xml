@@ -1079,4 +1079,20 @@ M/dd"</string>
     <string name="miuix_compat_dialog_title">Приложена тема по подразбиране към \"%s\"</string>
     <string name="miuix_compat_dialog_update_title">Необходима е актуализация</string>
     <string name="miuix_compat_mms">Съобщения</string>
+	 <string name="home_daily">Ежедневни акценти</string>
+     <string name="item_view_role_description">Раздел</string>
+     <string name="loading_picture">Зареждане на изображение…</string>
+     <string name="material_slider_range_end">Край на обхвата,</string>
+     <string name="material_slider_range_start">Старт на обхвата,</string>
+     <string name="mtrl_exceed_max_badge_number_content_description">Повече от %1$d нови известия</string>
+     <string name="resource_status_error">"Възникна грешка. Не можете да видите този тапет в момента."</string>
+     <string name="share_copy_theme_url">Копиране на URL</string>
+     <string name="share_copy_url_success">Копирано успешно</string>
+     <string name="share_copy_wallpaper_url">Копиране на URL на тапета</string>
+     <string name="share_picture_loading">Зареждане на изображение…</string>
+     <string name="share_save_success">Запазено успешно</string>
+     <string name="share_save_to_photo">Галерия</string>
+     <string name="share_theme_content_text">"Можете да изтеглите невероятна тема \"%1$s\" тук: %2$s. От "</string>
+     <string name="share_wallpaper_content_text">"Можете да изтеглите невероятен тапет \"%1$s\" тук: %2$s. От "</string>
+     <string name="wallpaper_setting_library">Библиотека</string>
 </resources>

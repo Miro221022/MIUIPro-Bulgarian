@@ -180,4 +180,12 @@
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sКб</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sМб</string>
     <string name="freerun_symbol_colon">:</string>
+	    <string name="I_know">Разбрах</string>
+    <string name="bind_status_dialog_cancle">Отказ</string>
+    <string name="bind_status_dialog_confirm">Възстанови</string>
+    <string name="bind_status_dialog_des">Изглежда, че предварително добавено устройство вече не е защитено от Семейна безопасност Възстановяване на \"%s\" сега?</string>
+    <string name="bind_status_dialog_title">Възстановете добавеното устройство</string>
+    <string name="bind_status_last_bind_time">Първо добавено: %s</string>
+    <string name="refresh">Обновяване</string>
+    <string name="search_menu_title">Търсене</string>
 </resources>

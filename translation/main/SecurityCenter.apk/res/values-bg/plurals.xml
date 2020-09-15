@@ -576,4 +576,12 @@
         <item quantity="other">Преди %d дни</item>
         <item quantity="one">Преди %d Ден</item>
     </plurals>
+	    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Можете да използвате Заключване на приложения с %1$s приложения</item>
+        <item quantity="one">Можете да използвате Заключване на приложения с %1$s приложение</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s приложения ще бъдат защитени със Заключване на приложения</item>
+        <item quantity="one">%s приложение ще бъдат защитени със Заключване на приложения</item>
+    </plurals>
 </resources>

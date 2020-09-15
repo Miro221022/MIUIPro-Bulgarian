@@ -501,4 +501,5 @@
   <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
   <string name="xiaomi_market_sdk_update_dialog_title">%s нова версия</string>
+  <string name="request_permission_content_with_phone_state">小米云盘需要您授予获取手机帐号、读写设备上的照片及文件、获取手机IMEI权限，用于实现小米帐号快速登录，文件预览、上传下载及自动同步，检查更新功能。</string>
 </resources>

@@ -70,7 +70,7 @@
     <string name="search_menu_title">Търсене</string>
     <string name="settings_connect">Как да се свържете</string>
     <string name="settings_connect_more_help"><u>Помощ</u></string>
-    <string name="settings_connect_summary1">Отворете Mi Smart Share на вашия компютър и изберете \"Screen Combo\". Можете да изтеглите Mi Smart Share от www.miui.com.</string>
+    <string name="settings_connect_summary1">Отворете Mi Smart Share на вашия компютър и изберете \"Screen Combo\". Можете да изтеглите Mi Smart Share от https://pc.mi.com/aiot.</string>
     <string name="settings_connect_summary2">Сканирайте QR кода на екрана на компютъра с мобилното си устройство. Можете да използвате няколко системни приложения (напр. скенер, камера, браузър) да направите това това.</string>
     <string name="settings_connect_title1">Стъпка 1</string>
     <string name="settings_connect_title2">Стъпка 2</string>
@@ -175,4 +175,5 @@
     <string name="traffic_log">Отчети за трафика</string>
     <string name="verbose_mode">Многословен режим</string>
     <string name="worker_authorization_loading">Една секунда…</string>
+	<string name="tip_connect_fail_for_hotspot">"Не може да се свърже. Изключете преносимата точка за достъп и опитайте отново."</string>
 </resources>

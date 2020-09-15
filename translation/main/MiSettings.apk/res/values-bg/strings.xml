@@ -482,4 +482,11 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
 	<string name="usage_device_limit_app_prolong_time5">Добави време веднъж</string>
+	<string name="fps_nature_summary">Високата честота на опресняване поддържа всичко отчетливо и ясно</string>
+    <string name="fps_nature_title">Високо</string>
+    <string name="fps_smooth_summary">Средната честота на опресняване добавя повече яснота към детайлите</string>
+    <string name="fps_smooth_title">Средно</string>
+    <string name="fps_standard_summary">Стандартната честота на опресняване пести батерия</string>
+    <string name="fps_standard_title">Стандартно</string>
+    <string name="fps_user_tip">Тези демо анимации се възпроизвеждат с ниска скорост. Действителната производителност може да изглежда различно въз основа на различни фактори.</string>
 </resources>

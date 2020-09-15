@@ -918,4 +918,12 @@
   <string name="power_off_locate_summary">"Докладвайте информация за местоположението, чрез дълго натискане на бутона за захранване.
 Информация за местоположението може да не се докладва, когато мрежовата връзка е лоша."</string>
   <string name="power_off_locate_title">Докладвайте местоположението преди изключването</string>
+    <string name="cloud_space_full_gallery_notification_content_text">Надстройте плана си, за да получите повече място за съхранение в облака</string>
+    <string name="cta_notification_content_text">Разрешете на %s да се свърже с интернет, за да можете да възстановите елементи</string>
+    <string name="cta_notification_content_title">"Не могат да се възстановят елементи от %s"</string>
+    <string name="micloud_manual_request_permission_cancel">Отказ</string>
+    <string name="micloud_manual_request_permission_confirm">Настройки</string>
+    <string name="micloud_manual_request_permission_content">За да можете да използвате нашите услуги, дайте на Xiaomi Облак следните разрешения в Настройки: \"%s\".</string>
+    <string name="micloud_manual_request_permission_content_on_provision">Дайте първо необходимите разрешения в Сигурност</string>
+    <string name="micloud_manual_request_permission_title">Изискват се разрешения</string>
 </resources>

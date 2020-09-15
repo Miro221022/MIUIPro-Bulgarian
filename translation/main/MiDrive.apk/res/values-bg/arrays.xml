@@ -8,4 +8,9 @@
     <item>За вписване чрез Mi профил</item>
     <item>За преглед, качване, изтегляне и синхронизиране на файлове</item>
   </string-array>
+      <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>За вписване чрез Mi профил</item>
+        <item>За преглед, качване, изтегляне и синхронизиране на файлове</item>
+        <item>用于实现检查更新功能</item>
+    </string-array>
 </resources>
