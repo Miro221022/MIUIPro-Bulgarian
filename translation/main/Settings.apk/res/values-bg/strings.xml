@@ -7718,4 +7718,17 @@ UT интерфейс: %5$s"</string>
     <string name="allow_sound_title">Изпълнение на звук</string>	
     <string name="badge_title">Значки за известия</string>
     <string name="temporary_style">За 10 секунди след докосване</string>
+	<string name="activity_check_context">"Вашето устройство се опитва да се свърже с интернет. Този процес може да отнеме повече време от очакваното, ако използвате мобилни данни. Вместо това можете да се върнете и да се свържете с WLAN мрежа или да продължите да чакате, докато се установи мобилната връзка за данни."</string>
+  <string name="activity_check_title">Свързване с интернет</string>
+  <string name="dialog_check_button_negative">Повторен опит</string>
+  <string name="dialog_check_button_positive">Свързване с WLAN</string>
+  <string name="dialog_check_context">"Вашето устройство не може да се свърже с интернет в момента.
+1. Докоснете \"Свързване с WLAN\" за да изберете една от наличните мрежи.
+2. Ако искате да използвате мобилни данни, докоснете \"Повторен опит\" или извадете и поставете отново вашата SIM карта."</string>
+  <string name="dialog_check_title">"Не може да се свърже с интернет"</string>
+  <string name="dialog_wifi_button_negative">Не</string>
+  <string name="dialog_wifi_button_positive">Да</string>
+  <string name="dialog_wifi_context">Трябва да се свържете с интернет, за да настроите устройството си. Освен ако не се свържете с WLAN, може да се използват мобилни данни. Използването на мобилни данни може да генерира допълнителни такси от оператора. Да се използват ли мобилните данни все пак?</string>
+  <string name="dialog_wifi_title">Използване на мобилни данни</string>
+  <string name="font_size_kddi">Средно</string>
 </resources>
