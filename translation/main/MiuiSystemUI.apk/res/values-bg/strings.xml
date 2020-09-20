@@ -541,7 +541,6 @@
   <string name="disable_overlays">Изкл на хардуерно преизчертаване</string>
   <string name="disable_overlays_summary">Винаги използвай CPU за рендериране на екрана</string>
   <string name="disable_vpn">Изключване на VPN</string>
-  <string name="disabled">Деактивиран</string>
   <string name="disabled_by_admin">Деактивирано от администратор</string>
   <string name="disabled_by_admin_summary_text">Контролирано от администратора</string>
   <string name="disconnect_vpn">Деактивиране на VPN</string>
@@ -1929,14 +1928,6 @@
     <string name="clear_text_end_icon_content_description">Изчисти текста</string>
     <string name="lock_screen_signature_msg">Показване на подпис на заключения екран</string>
     <string name="lock_screen_signature_title">Информация за собственика на заключен екран</string>
-     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
-     <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завърши</string>
-     <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
-     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">пуснете за обновяване</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_nodata">няма данни</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_none">не прави това</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновяване</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
     <string name="mtrl_chip_close_icon_content_description">Премахни %1$s</string>
     <string name="mtrl_picker_cancel">Отказ</string>
     <string name="mtrl_picker_confirm">Запази</string>

@@ -49,14 +49,6 @@
     <item quantity="other">%1$d дни</item>
     <item quantity="one">%1$d ден</item>
   </plurals>
-  <plurals name="days_in_menstrual_period">
-    <item quantity="other">Дни на менструалния цикъл %1$d дни</item>
-    <item quantity="one">Дни на менструалния цикъл %1$d ден</item>
-  </plurals>
-  <plurals name="days_in_period">
-    <item quantity="other">Дни на цикъла %1$d дни</item>
-    <item quantity="one">Дни на цикъла %1$d ден</item>
-  </plurals>
   <plurals name="dialog_choose_items">
     <item quantity="other">Избрани са %1$d елемента</item>
     <item quantity="one">Избран е %1$d елемент</item>
@@ -101,10 +93,6 @@
     <item quantity="other">%1$d крачки</item>
     <item quantity="one">%1$d крачка</item>
   </plurals>
-  <plurals name="group_unit">
-    <item quantity="other">%1$d Групи</item>
-    <item quantity="one">%1$d Група</item>
-  </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Преди половин час</item>
   </plurals>
@@ -139,10 +127,6 @@
   </plurals>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Сега</item>
-  </plurals>
-  <plurals name="mens_offset_predict_menstrual_period">
-    <item quantity="other">%1$d дни от предвидения цикъл</item>
-    <item quantity="one">%1$d ден от предвидения цикъл</item>
   </plurals>
   <plurals name="menstruation_sum_days">
     <item quantity="other">%1$d-дневен цикъл</item>
@@ -268,4 +252,24 @@
     <item quantity="other">%1$d години</item>
     <item quantity="one">%1$d година</item>
   </plurals>
+      <plurals name="days_in_menstrual_period">
+        <item quantity="other">Продължителност на цикъла: %1$d дни</item>
+        <item quantity="one">Продължителност на цикъла: %1$d ден</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Продължителност на цикъла: %1$d дни</item>
+        <item quantity="one">Продължителност на цикъла: %1$d ден</item>
+    </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d цикъла</item>
+        <item quantity="one">%1$d цикъл</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Цикълът вероятно ще започне след %1$d дни</item>
+        <item quantity="one">Цикълът вероятно ще започне след %1$d ден</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" цикъла"</item>
+        <item quantity="one">" цикъл"</item>
+    </plurals>
 </resources>
