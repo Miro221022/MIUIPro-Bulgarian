@@ -6450,7 +6450,7 @@ UT интерфейс: %5$s"</string>
      <string name="use_open_wifi_automatically_summary_scoring_disabled">За да използвате, изберете доставчик на услуги за оценка на мрежите</string>
      <string name="use_open_wifi_automatically_title">Свържете се с отворени мрежи</string>
      <string name="use_personalized_ad_service">Персонализирани рекламни препоръки</string>
-     <string name="use_personalized_ad_service_summary">Когато препоръките са изключени все още ще виждате същото количество реклами, както когато са включени, но те няма да се основават на данните за поведението ви или на личната ви информация.</string>
+     <string name="use_personalized_ad_service_summary">"Когато препоръките за персонализирани реклами са изключени, пак ще виждате същото количество реклами, както когато функцията е включена. Рекламите обаче вече няма да са подходящи, тъй като няма да се основават на личните ви предпочитания.."</string>
      <string name="use_privacy_password_immediate">Използвай</string>
      <string name="use_system_language_to_select_input_method_subtypes">Използване на системните езици</string>
      <string name="use_this_wlan">Използване на това Wi-Fi</string>

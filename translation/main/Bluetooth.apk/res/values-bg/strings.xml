@@ -144,4 +144,5 @@
     <string name="switch_audio_device_hfp_toast_hint">Изберете аудио изход по подразбиране, за да започнете възпроизвеждането на звук на това устройство отново.</string>
     <string name="switch_audio_device_phone_summary">Възпроизвеждане на звук на това устройство</string>
     <string name="switch_audio_dialog_title">Изберете аудио изход</string>
+	<string name="switch_audio_device_switch_hint">Можете да изключите известията за свързани устройства в Настройки &gt; Bluetooth &gt; Допълнителни настройки.</string>
 </resources>

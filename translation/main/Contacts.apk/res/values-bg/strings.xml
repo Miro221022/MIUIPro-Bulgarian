@@ -1418,4 +1418,15 @@
 	<string name="theme_dialog_confirm_button">Разбрах</string>
     <string name="theme_dialog_confirm_content">"Тази версия на Контакти не поддържа темата, която е приложена в момента."</string>
     <string name="theme_dialog_confirm_title">"Темата не може да се приложи"</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Отмени избора</string>
+  <string name="miuix_appcompat_action_mode_select_all">Избери всичко</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Изберете елементи</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Още</string>
+  <string name="miuix_appcompat_cancel_description">Отказ</string>
+  <string name="miuix_appcompat_confirm_description">Потвърди</string>
+  <string name="miuix_appcompat_delete_description">Изтриване</string>
+  <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
+  <string name="miuix_appcompat_search_input_description">Търсене</string>
+  <string name="miuix_appcompat_select_all_description">Избери всичко</string>
 </resources>

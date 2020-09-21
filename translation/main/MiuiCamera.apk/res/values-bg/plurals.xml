@@ -32,4 +32,10 @@
         <item quantity="other">Продължителност: %d секунди</item>
         <item quantity="one">Продължителност: %d секунда</item>
     </plurals>
+	    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$dмин.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$dсек.</item>
+    </plurals>
 </resources>

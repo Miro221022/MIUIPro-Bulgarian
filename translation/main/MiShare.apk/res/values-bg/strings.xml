@@ -128,7 +128,7 @@
   <string name="refuse_file">Отказ</string>
   <string name="retry_task">Изпрати отново</string>
   <string name="scanning_device_tips">Търсене на устройства в близост… Уверете се, че другото устройство е в режим на видимост.</string>
-  <string name="scanning_only_xiaomi_device">Можете да изпратите този елемент само до устройство Xiaomi</string>
+  <string name="scanning_only_xiaomi_device">Този елемент може да бъде прехвърлен само на устройства Xiaomi или Black Shark</string>
   <string name="search_menu_title">Търсене</string>
   <string name="send_file">ИЗПРАТИ ФАЙЛА</string>
   <string name="send_files_to">Изпращане към</string>

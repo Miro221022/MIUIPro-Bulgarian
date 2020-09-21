@@ -1540,7 +1540,20 @@
     <string name="super_moon_under">Лунна светлина</string>
     <string name="super_moon_window">Прозорец</string>
 	<string name="film_video_tip">请使用三脚架拍摄</string>
-	    <string name="aiwatermark_location_absent_hint">"Не може да се получи информация за местоположението"</string>
+	<string name="aiwatermark_location_absent_hint">"Не може да се получи информация за местоположението"</string>
     <string name="aiwatermark_location_list_title">Местоположение</string>
     <string name="aiwatermark_location_tips">Позволете на Камера да осъществи достъп до вашето местоположение, за да получи по-подходящи водни знаци</string>
+	<string name="film_video_e_tip">Поддържа само пейзажно заснемане</string>
+	<string name="accessibility_dual_video_merged">双拼</string>
+    <string name="accessibility_dual_video_standalone">同录</string>
+    <string name="dual_video_record_merged">双拼</string>
+    <string name="dual_video_record_standalone">同录</string>
+    <string name="dual_video_user_guide_main_content">支持多个镜头的同时预览，任选两个自由组合，可以拍摄双拼或同录的视频。</string>
+    <string name="dual_video_user_guide_main_title">多摄同开功能介绍</string>
+    <string name="dual_video_user_guide_merge_content">同时录制两个镜头拍摄的视频，并保存为一段组合视频，支持分屏录制和大小窗录制。</string>
+    <string name="dual_video_user_guide_standalone_content">同时录制两个镜头拍摄的视频，并保存为两段视频。</string>
+    <string name="fastmotion_pro_adjust_name">专业参数</string>
+    <string name="fastmotion_pro_save_time_infinity">成片无限时</string>
+    <string name="fastmotion_pro_save_time_min_and_sec">成片%1$s%2$s</string>
+    <string name="fastmotion_pro_save_time_min_or_sec">成片%1$s</string>
 </resources>
