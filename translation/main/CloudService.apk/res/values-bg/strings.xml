@@ -469,7 +469,6 @@
     <string name="micloud_notif_content_dirty_data">Детайли</string>
     <string name="micloud_notif_title_privacy_reopen_failed">Облачната услуга не може да се стартира</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Виж детайли</string>
-    <string name="micloud_find_device_guide_title">"Влезте в &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> , за да намерите, заключите или нулирате устройството си. Това може да ви помогне да намерите устройството си, в случай че го изгубите."</string>
     <string name="micloud_find_device_guide_content">Изходящ SMS може да бъде изпратен за активация на тази услуга. Вашият оператор ще ви таксува за това съобщение. Когато смените вашата SIM карта, съобщението ще бъде изпратено автоматично отново за активация.</string>
     <string name="micloud_find_device_guide_button">Включване на Открий устройството</string>
     <string name="micloud_find_device_guide_progress">Открий устройството се включва…</string>
