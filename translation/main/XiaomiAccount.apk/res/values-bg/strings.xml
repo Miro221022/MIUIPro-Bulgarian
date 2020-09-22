@@ -588,4 +588,6 @@
     <string name="passport_skip_setup_account_msg">Вписването в Mi профил ви позволява да използвате услугите на Xiaomi Облак. Пропускане на тази стъпка въпреки това?</string>
     <string name="passport_skip_setup_account_title">Mi профил и Xiaomi Облак</string>
 	<string name="help_center">Помощ</string>
+	<string name="facebook_login">Вписване с Facebook</string>
+    <string name="google_login">Вписване с Google</string>
 </resources>

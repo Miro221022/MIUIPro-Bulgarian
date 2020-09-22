@@ -528,4 +528,12 @@
         <item quantity="other">Получават се %2$d архива (%3$s) от %1$s…</item>
         <item quantity="one">Получава се %2$d архив (%3$s) от %1$s…</item>
     </plurals>
+	    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="one">Филтриран е %d неподдържан елемент</item>
+        <item quantity="other">Филтрирани са %d неподдържани елемента</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="one">PDF файловете могат да съдържат до %d изображение</item>
+        <item quantity="other">PDF файловете могат да съдържат до %d изображения</item>
+    </plurals>
 </resources>

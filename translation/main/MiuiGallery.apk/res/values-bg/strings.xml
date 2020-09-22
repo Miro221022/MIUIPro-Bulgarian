@@ -241,7 +241,7 @@
   <string name="burst_image_download_item_title" formatted="false">Изтегляне на оригинала (%s|%s)</string>
   <string name="burst_preview_title">Серийна снимка</string>
   <string name="burst_save_all">Запази всички</string>
-  <string name="burst_save_choice_title" formatted="false">Избрани %d от %d</string>
+  <string name="burst_save_choice_title">Избраи са %1$d над %2$d</string>
   <string name="burst_save_error_msg">Не може да се запази</string>
   <string name="burst_save_processing">Обработка…</string>
   <string name="buy_member_tip">Станете член</string>
@@ -1850,7 +1850,7 @@
      <string name="device_status_success">Изпратено успешно</string>
      <string name="device_status_waiting">Изчакване…</string>
      <string name="drag_failed_because_not_custom_sort">Можете да пренареждате елементите само когато е избран потребителски ред за сортиране</string>
-     <string name="empty_description_conditions_new">"Уверете се, че сте направили достатъчно снимки, свържете зарядно и изключете екрана, за да се появят обектите по-бързо тук."</string>
+     <string name="empty_description_conditions_new">Свържете зарядното устройство и изключете екрана, за да се появят елементите по-бързо тук</string>
     <string name="empty_description_no_cards">"Продължавайте да правите снимки. Елементите ще се появят тук веднага след като са генерирани."</string>
      <string name="filter_category_general">Основни</string>
      <string name="filter_category_movie">Кино</string>
@@ -2132,4 +2132,31 @@
     <string name="cleaner_empty">Изчисти всичко</string>
     <string name="time_burst_save_all">Експортирай всички снимки</string>
     <string name="time_burst_save_select">Експортирай избраните снимки</string>
+	<string name="filter_popular_autumn">Есен</string>
+    <string name="filter_popular_coffee">Кафе</string>
+    <string name="filter_popular_coldsmoke">Хладна мъгла</string>
+    <string name="filter_popular_comic">Анимация</string>
+    <string name="filter_popular_dream">Мечта</string>
+    <string name="filter_popular_hill">Хълмове</string>
+    <string name="filter_popular_kamakura">Камакура</string>
+    <string name="internal_storage_device">Вътрешно хранилище</string>
+    <string name="operation_photo_rename">Преименуване</string>
+    <string name="operation_pic_to_pdf">Създай PDF</string>
+    <string name="photodetail_failed_already_exist">Файлът вече съществува</string>
+    <string name="photodetail_rename_failed">"Неуспешно преименуване"</string>
+    <string name="photodetail_rename_invalid">"Имената на файловете не могат да съдържат тези символи: /\\:*?&lt;&gt;|."</string>
+    <string name="photodetail_rename_success">Преименувано успешно</string>
+    <string name="photodetail_rename_title">Преименуване</string>
+    <string name="photodetail_rename_too_long">Името на файла е твърде дълго</string>
+    <string name="pic_to_pdf_a4_format">Хартия A4</string>
+    <string name="pic_to_pdf_all_not_support">"Избраните изображения не могат да се запазят като PDF"</string>
+    <string name="pic_to_pdf_exit_notice">"Този PDF файл няма да бъде запазен, ако излезете сега. Излизане въпреки това?"</string>
+    <string name="pic_to_pdf_not_support_video">"Видеото не може да се запази като PDF"</string>
+    <string name="pic_to_pdf_preview_loading">Зареждане на преглед…</string>
+    <string name="pic_to_pdf_save_in">Запазен PDF във %s</string>
+    <string name="save_error_try_a_different_template_msg">"Не може да се запази. Изображението е твърде голямо."</string>
+    <string name="search_title_photo_name">Име на файла</string>
+    <string name="toast_invalid_char">"Имената на файловете не могат да съдържат \"%s\""</string>
+    <string name="toast_invalid_prefix">"Имената на файловете не могат да започват с \".\" or \"_\""</string>
+    <string name="toast_rename_exit">Този файл вече съществува</string>
 </resources>

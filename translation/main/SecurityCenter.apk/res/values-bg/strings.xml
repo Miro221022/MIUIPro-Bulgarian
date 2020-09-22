@@ -902,7 +902,6 @@
   <string name="exit">Изход</string>
   <string name="exit_dialog_garbage_clean_message">Количеството на непотребните файлове във вашето устройство е повече от %s. Искате ли да ги почистите?</string>
   <string name="exit_dialog_garbage_clean_positive_button">Почистване</string>
-  <string name="exit_dialog_garbage_clean_title">Почистване на непотребни файлове</string>
   <string name="exit_dialog_homepage_optimise_message">Резултатът за ефективността на устройството ви е по-малък от 80 точки. Оптимизиране сега?</string>
   <string name="exit_dialog_release_storage_message">Повече от 80% от хранилището на вашето устройство е заето. Освобождаване на място, като деинсталирате приложенията, които никога не използвате.</string>
   <string name="exit_dialog_release_storage_positive_button">Освобождаване на място</string>
@@ -1569,7 +1568,6 @@
   <string name="menu_text_antispam">Списък с блокирани</string>
   <string name="menu_text_antivirus">Антивирус</string>
   <string name="menu_text_garbage_cleanup">Почистване</string>
-  <string name="menu_text_garbage_cleanup_danger">%s</string>
   <string name="menu_text_license_manager">Разрешения</string>
   <string name="menu_text_networkassistants">Използване на данни</string>
   <string name="menu_text_networkassistants_danger">%s над лимита</string>
@@ -2178,7 +2176,6 @@
   <string name="renew_now">Поднови</string>
   <string name="repair">Поправи</string>
   <string name="repair_loading_text">Един момент…</string>
-  <string name="repeated_marked_number_summary">Без блокиране на повторно обаждане от същия докладван номер в рамките на 3 минути</string>
   <string name="repeated_marked_number_title">Без блокиране на повтарящи се обаждания от докладвани номера</string>
   <string name="replace_dns">Автоматично заместване</string>
   <string name="report">Доклад</string>
@@ -2419,7 +2416,6 @@
   <string name="st_msg_settings">Списък с блокирани по SMS</string>
   <string name="st_msg_stranger_group">Блокиране на SMS от непознати</string>
   <string name="st_settings_name">Настройки за блокиране</string>
-  <string name="st_share_settings">Използвай настройки на SIM 1</string>
   <string name="st_sub_title_customize_mode_name">Име</string>
   <string name="st_sub_title_whiteblack_list_group">Списък блокирани</string>
   <string name="st_sum_call_wait">Звукът при блокиране може да се чува и при сигнал заето за входящи обаждания.</string>
@@ -3686,4 +3682,21 @@
     <string name="applock_recommend_tips">%s от потребителите защитават тези приложения</string>
     <string name="applock_recommend_title">Избор на приложения</string>
     <string name="applock_set_complete">Използване на Заключване на приложения</string>
+    <string name="bottom_func_guide_default_text">Още функции</string>
+    <string name="exit_dialog_exit">Изход</string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Почистващата програма може да се освободи &lt;font color=#0099ff>%s&lt;/font> място в хранилището. Почистване сега?</Data></string>
+    <string name="exit_dialog_release_memory_positive_button">Затвори</string>
+    <string name="exit_dialog_release_memory_title"><Data>Ускорете устройството си с &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
+    <string name="menu_item_notification_optimize_text">%d%% заето</string>
+    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s заето</string>
+    <string name="stranger_call_dialog_add_block_list">Блокиране</string>
+    <string name="stranger_call_dialog_add_contacts">Нов контакт</string>
+    <string name="stranger_call_dialog_notification_body">Добавете към контакти или блокирайте този номер</string>
+    <string name="stranger_call_dialog_notification_title_format">Неизвестен номер %s</string>
+    <string name="stranger_call_dialog_subtitle_format">"%s не е сред вашите контакти. Можете да добавите този телефонен номер към контакти или да го блокирате."</string>
+    <string name="stranger_call_dialog_title">"Неизвестен номер "</string>
+    <string name="exit_dialog_garbage_clean_title">Освобождаване на място в хранилището</string>
+    <string name="menu_text_garbage_cleanup_danger">%s непотребни файлове</string>
+    <string name="repeated_marked_number_summary">"Без блокиране на второ обаждане от същия докладван номер в рамките на %d минути"</string>
+    <string name="st_share_settings">Използвай SIM %d настройки</string>
 </resources>

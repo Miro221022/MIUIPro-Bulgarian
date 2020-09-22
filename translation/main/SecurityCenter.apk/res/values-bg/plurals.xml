@@ -584,4 +584,8 @@
         <item quantity="other">%s приложения ще бъдат защитени със Заключване на приложения</item>
         <item quantity="one">%s приложение ще бъдат защитени със Заключване на приложения</item>
     </plurals>
+	    <plurals name="exit_dialog_release_memory_message">
+        <item quantity="other">&lt;Data>Да се затворят ли &lt;font color=#0099ff>%d&lt;/font> приложения, за да се ускори устройството?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Да се затвори ли &lt;font color=#0099ff>%d&lt;/font> приложение,за да се ускори устройството?&lt;/Data></item>
+    </plurals>
 </resources>
