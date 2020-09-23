@@ -1552,8 +1552,10 @@
     <string name="dual_video_user_guide_main_title">多摄同开功能介绍</string>
     <string name="dual_video_user_guide_merge_content">同时录制两个镜头拍摄的视频，并保存为一段组合视频，支持分屏录制和大小窗录制。</string>
     <string name="dual_video_user_guide_standalone_content">同时录制两个镜头拍摄的视频，并保存为两段视频。</string>
-    <string name="fastmotion_pro_adjust_name">专业参数</string>
-    <string name="fastmotion_pro_save_time_infinity">成片无限时</string>
-    <string name="fastmotion_pro_save_time_min_and_sec">成片%1$s%2$s</string>
-    <string name="fastmotion_pro_save_time_min_or_sec">成片%1$s</string>
+	<string name="pref_camera_new_coloreffect_title">滤镜</string>
+    <string name="pref_hdr10plus_video_mode_description">优化4K/8K视频的色彩和对比度。需要支持HDR10+的设备才能正常播放</string>
+    <string name="fastmotion_pro_adjust_name">Параметри</string>
+    <string name="fastmotion_pro_save_time_infinity">Неограничена продължителност</string>
+    <string name="fastmotion_pro_save_time_min_and_sec">Продължителност: %1$s %2$s</string>
+    <string name="fastmotion_pro_save_time_min_or_sec">Продължителност: %1$s</string>
 </resources>

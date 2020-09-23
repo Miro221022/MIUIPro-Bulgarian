@@ -1429,4 +1429,10 @@
   <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
   <string name="miuix_appcompat_search_input_description">Търсене</string>
   <string name="miuix_appcompat_select_all_description">Избери всичко</string>
+      <string name="dialog_delete_contact_button_delete">Изтриване</string>
+    <string name="dialog_delete_contact_button_keep">Запази</string>
+    <string name="dialog_delete_contact_content">Xiaomi Облак иска да изтрие някои от вашите контакти. Да се изтрият ли сега?</string>
+    <string name="dialog_delete_contact_title">Изтриване на контакти</string>
+    <string name="notification_click_detail">Докоснете, за да видите подробности</string>
+    <string name="notification_micloudsync_delete_contact">Xiaomi Облак иска да изтрие някои от вашите контакти</string>
 </resources>

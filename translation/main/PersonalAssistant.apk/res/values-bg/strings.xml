@@ -274,11 +274,11 @@
   <string name="app_shopping_search_hint">Търсете продукти</string>
   <string name="app_sleep">Сън</string>
   <string name="app_sleep_awake">Буден</string>
-  <string name="app_sleep_continue">Спете по-добре</string>
+  <string name="app_sleep_continue">Да спите ли още?</string>
   <string name="app_sleep_deep">Дълбок</string>
   <string name="app_sleep_enough">Достатъчно</string>
   <string name="app_sleep_light">Лек</string>
-  <string name="app_sleep_sleeping">Получете повече сън</string>
+  <string name="app_sleep_sleeping">Сладки сънища</string>
   <string name="app_sleep_too_long">Твърде много</string>
   <string name="app_sleep_too_short">Недостатъчно</string>
   <string name="app_sports_action_live">На живо</string>
@@ -1672,4 +1672,8 @@
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
   <string name="year_month_day_format">dd/MM/yyyy</string>
   <string name="yesterday">Вчера</string>
+       <string name="app_pa_setting_global_display">Екран</string>
+     <string name="app_pa_setting_global_display_blur_option">Замъгляване на тапета</string>
+     <string name="app_pa_setting_global_display_blur_summary">Размазването на тапета забавя реакцията на плъзгане</string>
+	 <string name="app_sports_title_all_leagues">Всички мачове</string>
 </resources>

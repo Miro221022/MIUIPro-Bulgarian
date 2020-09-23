@@ -201,4 +201,5 @@
 		  <string name="dialog_miplay_permission_message">Разрешаване на Излучване да записва звук, достъп до файлове във вътрешната памет и достъп до местоположението ви, за да можете да използвате тази функция нормално. Докоснете \"Настройки\" и изберете \"Разрешения за приложения\", за да продължите.</string>
   <string name="dialog_miplay_permission_positive">Настройки</string>
   <string name="dialog_miplay_permission_title">Изискват се разрешения</string>
+  <string name="synergy_casting">"Не може да се използва излъчване, докато Screen Combo работи"</string>
 </resources>

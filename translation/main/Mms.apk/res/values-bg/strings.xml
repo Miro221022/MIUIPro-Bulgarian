@@ -1068,11 +1068,6 @@
     <string name="voice_report_anytime">Винаги</string>
     <string name="voice_report_off">Изключено</string>
     <string name="voice_report_wiredon">Със слушалки</string>
-	<string name="pref_rcs_show_report_message">回执报告</string>
-    <string name="pref_rcs_show_report_message_tip">对方收到短信后返回已读状态</string>
-    <string name="rcs_chatbot_no_waring">消息免打扰</string>
-    <string name="rsc_chatbot_back">返回</string>
-    <string name="rsc_chatbot_detail">商户信息入口</string>
 	<string name="debug_about_mms">Относно Mms</string>
   <string name="debug_category_db">База данни</string>
   <string name="debug_category_others">Други</string>
@@ -1101,4 +1096,14 @@
     <string name="toast_not_show_camera_perm_req">Разрешете на Messaging да използва камерата, за да може да използва тази функция</string>
     <string name="toast_not_show_microphone_perm_req">Разрешете на Messaging да използва микрофона, за да може да използва тази функция</string>
     <string name="toast_not_show_storage_perm_req">Разрешете на Messaging достъп до хранилището, за да може да използва тази функция</string>
+	<string name="ad_notification_title">Маловажни съобщения</string>
+    <string name="pref_group_ad_mms_recognition">Групоране на рекламни съобщения</string>
+    <string name="pref_summary_ad_mms_recognition">Поставете промоционалните съобщения в отделен раздел</string>
+    <string name="pref_summary_collapse_ad_notification_mms_new">Групирайте промоционалните съобщения и ги маркирайте като маловажни в панела за известия</string>
+    <string name="pref_title_ad_mms_recognition">Разпознаване на рекламни съобщения</string>
+    <string name="pref_rcs_show_report_message">Получавайте отчети за доставка</string>
+    <string name="pref_rcs_show_report_message_tip">Получавайте отчети, когато вашите съобщения се доставят на получателя</string>
+    <string name="rcs_chatbot_no_waring">Заглушаване на известията за съобщения</string>
+    <string name="rsc_chatbot_back">Назад</string>
+    <string name="rsc_chatbot_detail">Информация за продавача</string>
 </resources>

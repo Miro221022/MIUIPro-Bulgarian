@@ -162,4 +162,6 @@
   <string name="v7_preference_on">ВКЛ.</string>
       <string name="item_view_role_description">Раздел</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Повече от %1$d нови известия</string>
+	    <string name="aod_dual_clock_date">HH:mm dd/MM</string>
+    <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
 </resources>
