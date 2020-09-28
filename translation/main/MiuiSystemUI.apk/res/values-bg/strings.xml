@@ -2029,4 +2029,5 @@ d MMMM"</string>
     <string name="disabled">Не е налично</string>
     <string name="loading">Състояние неизвестно</string>
     <string name="status_bar_setting_title">Център за управление и лента за състоянието</string>
+	<string name="notification_control_center">Известия и център за управление</string>
 </resources>

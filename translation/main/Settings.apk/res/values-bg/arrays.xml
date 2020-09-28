@@ -2,12 +2,10 @@
 <resources>
      <string-array name="aggregate_entries">
         <item>Групирай</item>
-        <item>Групиране и по-нисък приоритет</item>
         <item>"Не групирай"</item>
      </string-array>
      <string-array name="aggregate_summaries">
         <item>Промоционалните и свързани със съдържание изскачащи известия ще бъдат групирани</item>
-        <item>Изскачащите известия ще бъдат групирани и показани под други известия</item>
         <item>"Изскачащите известията няма да бъдат групирани"</item>
      </string-array>
      <string-array name="agps_network_entries">

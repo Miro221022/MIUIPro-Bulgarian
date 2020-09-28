@@ -543,4 +543,5 @@
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
 	<string name="info_rank_show">Препоръчай популярни елементи</string>
+	<string name="thunder_download_speedup">Повишаване на скоростта с помощта на Xunlei…</string>
 </resources>

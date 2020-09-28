@@ -523,7 +523,7 @@
     <string name="confirm_delete">Изтрий</string>
     <string name="confirm_save">Запази</string>
     <string name="micloud_request_permission_title">Xiaomi Облак се нуждае от разрешения</string>
-    <string name="micloud_request_permission_content">Xiaomi Облак има нужда от разрешения за синхронизиране на данни. Позволете достъп на Xiaomi Облак до Календар, Контакти, Mi профил, състояние на SIM картата, списък с обаждания и съобщения.</string>
+    <string name="micloud_request_permission_content">За да можете да синхронизирате събития в календара, контакти, съобщения, история на обажданията, снимки, видеоклипове и други елементи, Xiaomi Облак се нуждае от разрешения за достъп до вашия календар, контакти, профили, състояние на SIM, история на обажданията, съобщения, снимки и видео.</string>
     <string name="micloud_request_permission_confirm">Разбрах</string>
     <string name="short_cut_desc">Добавяне на Xiaomi Облак икона към началния ектран?</string>
     <string name="add_short_cut">Добавяне</string>
@@ -925,4 +925,5 @@
     <string name="micloud_manual_request_permission_content">За да можете да използвате нашите услуги, дайте на Xiaomi Облак следните разрешения в Настройки: \"%s\".</string>
     <string name="micloud_manual_request_permission_content_on_provision">Дайте първо необходимите разрешения в Сигурност</string>
     <string name="micloud_manual_request_permission_title">Изискват се разрешения</string>
+	<string name="privacy_doc_cloudservice_global">Xiaomi Облак трябва да се свърже с интернет, за да работи нормално. Синхронизирането на данни може да изисква използване на мобилни данни и включване на Wi-Fi. Прочетете и приемете нашите &lt;a href=%1$s>&lt;u>Потребителско споразумение&lt;/u>&lt;/a> и &lt;a href=%2$s>&lt;u>Политика за поверителност&lt;/u>&lt;/a> преди да използвате услугите на Xiaomi Облак.</string>
 </resources>

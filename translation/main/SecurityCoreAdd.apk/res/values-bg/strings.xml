@@ -357,8 +357,6 @@
     <string name="xspace_description">"Клонираните приложения са копия на приложения, които могат да се използват отделно с друг профил.
 
 Някои клонирани приложения изискват поддръжка на Google Services Framework. В такива случаи се създава клонинг и на Google Services Framework."</string>
-  <string name="xspace_guide_des">Използвайте 2 профила без превключване</string>
-  <string name="xspace_guide_title">Създайте клонирано приложение</string>
   <string name="xspace_header">Клонирани приложения</string>
   <string name="xspace_install_completed">Иконата е добавена на начален екран</string>
   <string name="xspace_install_failed">Не може да се създаде</string>
@@ -489,4 +487,12 @@
      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">грешка</string>
     <string name="secondspace_homepage">"Задайте определено заключване на екрана за Второ пространство.
 Отделете и защитете данните си."</string>
+    <string name="xspace_guide_content_bound">Налични приложения</string>
+    <string name="xspace_guide_description">"Всеки профил
+заслужава собствено приложение"</string>
+    <string name="xspace_install_complete">&lt;font>Създадено успешно. &lt;/font>&lt;font color=#0D84FF>Отваряне сега&lt;/font></string>
+    <string name="xspace_notification_button">Опитайте</string>
+    <string name="xspace_start">Създаване</string>
+    <string name="xspace_guide_des">Клонираните приложения ви позволяват да използвате едновременно два профила</string>
+    <string name="xspace_guide_title">Опитайте Клонирани приложения</string>
 </resources>

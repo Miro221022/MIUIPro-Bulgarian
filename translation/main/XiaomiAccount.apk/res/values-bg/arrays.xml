@@ -4,7 +4,7 @@
     <item>Мъж</item>
     <item>Жена</item>
   </string-array>
-      <string-array name="settings_search_account_and_authority">
+      <string-array name="settings_search_account_and_authority_global">
         <item>Профили</item>
         <item>Добавете и управлявайте акаунти от трети страни</item>
         <item>Оторизация;Профил;Mi профил;Добави;Сдвои;Xiaomi;Прегледи;SNS;WeChat;Google;Weibo</item>
@@ -68,5 +68,10 @@
         <item>Потребителско споразумение</item>
         <item>Вижте Споразумение за ползване на Mi профил</item>
         <item>Xiaomi;Профил;Mi профил;Потребител;Споразумение;Преглед</item>
+    </string-array>
+	    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Профили</item>
+        <item>Добавете и управлявайте профили от трети страни</item>
+        <item>Оторизация;Профил;Mi профил;Добави;Сдвои;Xiaomi;Преглед;SNS;QQ;Weibo</item>
     </string-array>
 </resources>

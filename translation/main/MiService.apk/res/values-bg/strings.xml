@@ -83,7 +83,7 @@
     <string name="miui_feedback_edit_submit_dialog_title">Изпрати отчет</string>
     <string name="miui_feedback_edit_submit_directly">Изпрати</string>
     <string name="miui_feedback_edit_title_reproductivity">Изберете честота</string>
-    <string name="miui_feedback_edit_toast_description_required">Трябва да напишете описание</string>
+    <string name="miui_feedback_edit_toast_description_required">Първо опишете проблема</string>
     <string name="miui_feedback_edit_toast_module_required">Изберете елемент</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Вашето описание трябва да бъде по-дълго</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Изберете категория</string>

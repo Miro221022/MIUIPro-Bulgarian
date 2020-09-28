@@ -1401,4 +1401,6 @@
   <string name="upgrade_suggestion">Актуализирайте Xiaomi Здраве до най-новата версия и опитайте отново.</string>
   <string name="user_center">Потребителски център</string>
   <string name="yoga">Йога</string>
+       <string name="hr_camera_permission_desc">За определяне на честотата на светлините промени около пръста през камерата, за да се определи стойността на пулса</string>
+     <string name="hr_detect_fps_jitter">"Не може да се измери сърдечната честота. Опитайте отново."</string>
 </resources>

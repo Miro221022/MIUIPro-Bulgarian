@@ -7354,7 +7354,7 @@ UT интерфейс: %5$s"</string>
      <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Облак синхронизира вашите снимки, архивира вашите приложения и настройки и ви помага да намерите телефона си с Открий устройството.</string>
      <string name="xiaomi_cloud_service_disabled">Изключено</string>
      <string name="xiaomi_cloud_service_unknown">Непознат</string>
-     <string name="xiaomi_money_service">Mi Credit</string>
+     <string name="xiaomi_money_service">Mi монети</string>
      <string name="xiaomi_router_available_notif_summary">Докоснете за повече информация.</string>
      <string name="xiaomi_router_available_notif_title">Достъпен е Mi Router</string>
      <string name="xiaomi_router_notif_summary">Извести ме, когато Mi Router е достъпен</string>
@@ -7731,4 +7731,20 @@ UT интерфейс: %5$s"</string>
   <string name="dialog_wifi_context">Трябва да се свържете с интернет, за да настроите устройството си. Освен ако не се свържете с WLAN, може да се използват мобилни данни. Използването на мобилни данни може да генерира допълнителни такси от оператора. Да се използват ли мобилните данни все пак?</string>
   <string name="dialog_wifi_title">Използване на мобилни данни</string>
   <string name="font_size_kddi">Средно</string>
+    <string name="control_center_style">Стил на центъра за управление</string>
+    <string name="control_center_style_summary">"Изберете как искате да се показват превключвателите и известията"</string>
+    <string name="display_animate_category">Анимирани ефекти</string>
+    <string name="display_animate_content">Намаляване на анимираните ефекти, които се показват, докато устройството се отключва</string>
+    <string name="display_animate_title">Намаляване на анимациите</string>
+    <string name="legacy_control_center_desc">Издърпайте надолу лентата за състоянието, за да видите превключвателите и известията</string>
+    <string name="legacy_control_center_title">Стара версия</string>
+    <string name="lock_screen_action">Елементи, показани на заключения екран след плъзгане надолу</string>
+    <string name="modern_control_center_desc">Издърпайте лентата за състоянието отляво, за да видите известията. Издърпайте надолу лентата на състоянието отдясно, за да отворите Центъра за управление.</string>
+    <string name="modern_control_center_title">Нова версия</string>
+    <string name="notification_control_center">Нова версия</string>
+    <string name="notification_display_settings">Панел за известия</string>
+    <string name="notification_settings">Известия</string>
+    <string name="requires_modern_control_center">Работи с новата версия на центъра за управление</string>
+    <string name="show_badge_notifications_short">Значки</string>
+    <string name="switchNetworkToast">Свързването с мобилни мрежи може да генерира допълнителни такси</string>
 </resources>

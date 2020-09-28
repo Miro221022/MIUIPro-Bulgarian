@@ -70,4 +70,5 @@
     <string name="quick_settings_pcmode_dialog_message_turnoff">Изключи PC режим</string>
     <string name="quick_settings_pcmode_dialog_message_turnon">Включи PC режим</string>
 	<string name="quick_settings_pcmode_label">PC режим</string>
+	<string name="notification_control_center">Известия и център за управление</string>
 </resources>

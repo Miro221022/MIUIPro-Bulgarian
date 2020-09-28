@@ -463,7 +463,7 @@
     <string name="labelCW">Изчакващо повикване</string>
     <string name="sum_cw_enabled">Известяване за входящи повиквания по време на разговор</string>
     <string name="sum_cw_disabled">Известяване за входящи повиквания по време на разговор</string>
-    <string name="call_forwarding_settings">Настройки за пренасочване на повиквания</string>
+    <string name="call_forwarding_settings">Пренасочване на повиквания</string>
     <string name="call_forwarding_settings_with_label">Настройки за пренасочване на повикване (%s)</string>
     <string name="labelCF">Пренасочване на повиквания</string>
     <string name="labelCFU">Да се пренасочва винаги</string>
