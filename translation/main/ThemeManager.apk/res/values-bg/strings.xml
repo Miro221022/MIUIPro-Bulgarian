@@ -1095,4 +1095,34 @@ M/dd"</string>
      <string name="share_theme_content_text">"Можете да изтеглите невероятна тема \"%1$s\" тук: %2$s. От "</string>
      <string name="share_wallpaper_content_text">"Можете да изтеглите невероятен тапет \"%1$s\" тук: %2$s. От "</string>
      <string name="wallpaper_setting_library">Библиотека</string>
+	 <string name="already_newest_version">Текущата версия е актуална</string>
+    <string name="cancel_download">Изтеглянето е отменено</string>
+    <string name="desk_loop_will_change">Внимание</string>
+    <string name="install_failed">"Не може да се инсталира"</string>
+    <string name="no_cta_agreed">"GetApps няма CTA разрешения"</string>
+    <string name="no_install_permission">"Нямате разрешения за инсталиране на този елемент"</string>
+    <string name="pref_lockscreen_magazine_summary">Заменете тапета с плъзгащи се изображения от различни категории</string>
+    <string name="set_wallpaper_group_success">"%1$s беше приложено.
+Ще виждате ново изображение на всеки час."</string>
+    <string name="super_wallpaper_list_label">Супер тапети</string>
+    <string name="super_wallpaper_setting_apply_success_toast">Приложено успешно</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Приложи</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">Изберете местоположение</string>
+    <string name="super_wallpaper_setting_coordinate_title">Координати</string>
+    <string name="super_wallpaper_setting_view_height_title">Надморска височина</string>
+    <string name="task_already_exist">Тази задача вече съществува</string>
+    <string name="update">Актуализиране</string>
+    <string name="wallpaper_group_set_loop">Подобни плъзгащи се изображения на заключен екран</string>
+    <string name="wallpaper_set_as_loop_extra_msg">大家都在用</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_find_more_text">Още онлайн тапети</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">Начален екран</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Заключен екран</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Онлайн тапети</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">Открийте тапети</string>
+    <string name="wallpaper_setting_online_wallpaper_title">Онлайн тапети</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">Супер тапети</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Още</string>
+    <string name="wallpaper_setting_title">Тапет</string>
+    <string name="warning_subscribe_wallpaper_group_content">"Включили сте слайдшоуто на началния екран. %1$s ще се приложи към началния екран."</string>
 </resources>

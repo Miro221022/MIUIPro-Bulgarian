@@ -3708,4 +3708,10 @@
     <string name="traffic_calculation">Използвайте ежедневен цикъл</string>
     <string name="traffic_limit_input">Ограничение на данните (задължително)</string>
     <string name="unknown_package">Не сте сигурни какъв е вашият план?</string>
+	<string name="privacy_revoke_dialog_content">Изключвайки превключвателя, вие оттегляте своето съгласие с Политиката за поверителност на Сигурност. Ние ще спрем да събираме вашата лична информация, а вече събраната и запазена лична информация ще бъде изтрита в рамките на конкретния срок, както се изисква от приложимите закони. Сигурност трябва да събира необходимата лична информация, за да ви предостави основни услуги. Вашето оттегляне на съгласието с неговата Политика за поверителност ще се счита за отказ да приемете услугите му въз основа на събрана лична информация.</string>
+    <string name="privacy_revoke_dialog_negetive_text">Отказ</string>
+    <string name="privacy_revoke_dialog_positive_text">Оттегляне</string>
+    <string name="privacy_revoke_dialog_title">Оттегляне на съгласие</string>
+    <string name="settings_privacy_revoke_desc">Изключвайки превключвателя, вие оттегляте своето съгласие с Политиката за поверителност на Сигурност.</string>
+    <string name="settings_privacy_revoke_title">Оттегляне на съгласие</string>
 </resources>

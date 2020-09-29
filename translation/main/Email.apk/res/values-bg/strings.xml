@@ -1392,4 +1392,11 @@
      <string name="server_cet_title">Подробности за сертификата</string>
      <string name="show_server_cet">Преглед на сертификата</string>
      <string name="successfully_obtained_authorization_code">Код за потвърждение</string>
+	      <string name="server_log">服务协议</string>
+     <string name="user_experience_content">请确认您已阅读并同意《用户体验计划》</string>
+     <string name="user_experience_log">用户体验计划</string>
+     <string name="user_experience_login">参加</string>
+     <string name="user_experience_logout">退出体验计划</string>
+     <string name="user_experience_positive">同意并继续</string>
+     <string name="user_experience_title">声明与条款</string>
 </resources>
