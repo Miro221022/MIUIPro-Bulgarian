@@ -141,7 +141,7 @@
   <string name="miui_failed_older_sdk">SDK версията е твърде стара</string>
   <string name="miui_failed_other">Друго</string>
   <string name="miui_failed_parse">Инсталационният пакет не можe да бъде анализиран</string>
-  <string name="miui_failed_permission_model_downgrade">Не може да се понижат разрешенията</string>
+  <string name="miui_failed_permission_model_downgrade">"Не могат да се понижат разрешенията"</string>
   <string name="miui_failed_solution_1">Деинсталирайте текущата версия на това приложение и инсталирайте приложението отново.</string>
   <string name="miui_failed_solution_2">Инсталационният пакет може да е повреден. Изтеглете приложението отново.</string>
   <string name="miui_failed_solution_3">Опитайте да запазите инсталационния пакет на друго място.</string>
