@@ -129,4 +129,14 @@
     <item>Да</item>
     <item>Не</item>
   </string-array>
+       <string-array name="HomePageTabTitle">
+         <item>Здраве</item>
+         <item>Упражнение</item>
+     </string-array>
+     <string-array name="SportTabTitle">
+         <item>Бягане на открито</item>
+         <item>Ходене</item>
+         <item>Езда на открито</item>
+         <item>Бягаща пътека</item>
+     </string-array>
 </resources>
