@@ -12,4 +12,8 @@
         <item quantity="other">Натиснете и задръжте бутона за %1$s секунди, когато устройството е изключено</item>
         <item quantity="one">Натиснете и задръжте бутона за %1$s секунда, когато устройството е изключено</item>
     </plurals>
+	    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Натиснете и задръжте за %1$d секунди за нулиране</item>
+        <item quantity="one">Натиснете и задръжте за %1$d секунда за нулиране</item>
+    </plurals>
 </resources>

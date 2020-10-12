@@ -7747,4 +7747,9 @@ UT интерфейс: %5$s"</string>
     <string name="requires_modern_control_center">Работи с новата версия на центъра за управление</string>
     <string name="show_badge_notifications_short">Значки</string>
     <string name="switchNetworkToast">Свързването с мобилни мрежи може да генерира допълнителни такси</string>
+	<string name="dpp_qrcode_generator_summary">Сканирайте този QR код с устройство, което поддържа Easy Connect</string>
+    <string name="usb_reverse_charge">Обратно зареждане</string>
+    <string name="usb_use_file_transfers_miui12_5">Прехвърляне на файлове</string>
+    <string name="usb_use_miui12_5">Използвай USB за</string>
+    <string name="usb_use_photo_transfers_miui12_5">Фото трансфери</string>
 </resources>

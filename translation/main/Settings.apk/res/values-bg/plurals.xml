@@ -38,11 +38,11 @@
      </plurals>
      <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Никога не деактивирай за %d приложения.</item>
-        <item quantity="one">Никога не деактивирай за 1 приложение.</item>
+        <item quantity="one">Никога не деактивирай за %d приложение.</item>
      </plurals>
      <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Винаги деактивирай за %d приложения</item>
-        <item quantity="one">Винаги деактивирай за 1 приложение</item>
+        <item quantity="one">Винаги деактивирай за %d приложение</item>
      </plurals>
      <plurals name="auto_startup_count">
         <item quantity="other">%d приложения имат разрешение за автостарт</item>
@@ -464,4 +464,8 @@
         <item quantity="other">Активиране на режима „Само будилници“ за %1$d минути (до %2$s)</item>
         <item quantity="one">Активиране на режима „Само будилници“ за една минута до %2$s</item>
      </plurals>
+	     <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">WLAN ще се включи автоматично, когато вашето устройство открие запазени мрежи наблизо и ще се изключи след %d минути, ако не е установена връзка</item>
+        <item quantity="one">WLAN ще се включи автоматично, когато вашето устройство открие запазени мрежи наблизо и ще се изключи след %d минута, ако не е установена връзка</item>
+    </plurals>
 </resources>
