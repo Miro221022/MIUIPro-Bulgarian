@@ -438,7 +438,7 @@
   <string name="ime_action_search">Търсене</string>
   <string name="ime_action_send">Изпращане</string>
   <string name="imei">IMEI</string>
-  <string name="immersive_cling_description">За изход прекарайте пръст надолу от горната част.</string>
+  <string name="immersive_cling_description">За изход плъзнете надолу от горната част.</string>
   <string name="immersive_cling_positive">Разбрах</string>
   <string name="immersive_cling_title">Изглед на цял екран</string>
   <string name="importance_from_person">Това е важно заради участващите хора.</string>

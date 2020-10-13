@@ -756,7 +756,7 @@
   <string name="how_to_back_home">Отиване на Начален екран</string>
   <string name="how_to_switch_recents">Отваряне на Последни</string>
   <string name="how_to_use_drawer">Как да отворите плъзгащото меню</string>
-  <string name="how_to_use_drawer_summary">Прекарайте пръст надясно в горната част на екрана</string>
+  <string name="how_to_use_drawer_summary">Плъзнете надясно в горната част на екрана</string>
   <string name="how_to_use_fsg">Можете да извършите тези действия с помощта на жестове:</string>
   <string name="ime_security_warning">%1$s може да записва всичко, което въвеждате, включително пароли, номера на кредитни карти и други лични данни.</string>
   <string name="ime_security_warning_global">Методите за въвеждане е възможно да събират целия текст, който въвеждате, включително лични данни като пароли и номера на кредитни карти. Ще използвате ли %1$s?</string>

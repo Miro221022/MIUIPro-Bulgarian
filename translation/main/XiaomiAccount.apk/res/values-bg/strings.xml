@@ -439,7 +439,7 @@
   <string name="passport_use_generated_pwd_message">Уверете се, че сте запомнили паролата. Може да я използвате за вход в други Mi услуги.</string>
   <string name="passport_use_generated_pwd_title">Запомнете вашата парола!</string>
   <string name="passport_user_agreement">Потребителско споразумение</string>
-  <string name="passport_user_agreement_link"><Data>"Прочетох и се съгласих с &lt;a href=%1$s>Потребителското споразумение&lt;/a> и &lt;a href=%2$s>Политиката за поверителност&lt;/a> на Xiaomi."</Data></string>
+  <string name="passport_user_agreement_link"><Data>"Прочетох и се съгласих с &lt;a href=%1$s>Потреbителско споразумение&lt;/a> и &lt;a href=%2$s>Политика за поверителност&lt;/a> на Xiaomi."</Data></string>
   <string name="passport_user_agreement_required">Потребителско споразумение (задължително)</string>
   <string name="passport_user_id_notice">Вашият Mi Профил ID е %s.</string>
   <string name="passport_user_reg_region">Държава/Регион</string>

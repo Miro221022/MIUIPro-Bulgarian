@@ -9,9 +9,9 @@
   <string name="accessibility_enable_service_encryption_warning">Ако включите %1$s, устройството ви няма да подобрява шифроването на данни посредством опцията ви за заключване на екрана.</string>
   <string name="accessibility_enable_service_title">Искате ли да разрешите на %1$s да има пълен контрол над устройството ви?</string>
   <string name="accessibility_freeform_caption">Лента за надписи на %1$s.</string>
-  <string name="accessibility_gesture_3finger_instructional_text">За превключване между функциите прекарайте три пръста нагоре и задръжте.</string>
+  <string name="accessibility_gesture_3finger_instructional_text">За превключване между функциите плъзнете с три пръста нагоре и задръжте.</string>
   <string name="accessibility_gesture_3finger_prompt_text">Изберете коя функция да се използва с жеста за достъпност (прекарване на три пръста нагоре от долната част на екрана):</string>
-  <string name="accessibility_gesture_instructional_text">За превключване между функциите прекарайте два пръста нагоре и задръжте.</string>
+  <string name="accessibility_gesture_instructional_text">За превключване между функциите плъзнете с два пръста нагоре и задръжте.</string>
   <string name="accessibility_gesture_prompt_text">Изберете коя функция да се използва с жеста за достъпност (прекарване на два пръста нагоре от долната част на екрана):</string>
   <string name="accessibility_select_shortcut_menu_title">Докоснете дадена функция, за да започнете да я използвате:</string>
   <string name="accessibility_service_action_perform_description">Услугата може да проследява взаимодействията ви с дадено приложение или хардуерен сензор, както и да взаимодейства с приложенията от ваше име.</string>

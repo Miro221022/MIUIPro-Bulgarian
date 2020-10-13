@@ -30,10 +30,10 @@
   <string name="accessibility_touch_vibration_title">Обратна връзка при докосване</string>
   <string name="accessibility_tutorial_dialog_button">Разбрах</string>
   <string name="accessibility_tutorial_dialog_message_button">За да включите или изключите тази услуга, докоснете бутона за достъпност %s в долната част на екрана.\n\nЗа превключване между услугите докоснете и задръжте бутона за достъпност.</string>
-  <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">За да включите или изключите услуга за достъпност, прекарайте три пръста нагоре от долната част на екрана.\n\nЗа превключване между услугите прекарайте три пръста нагоре и задръжте.</string>
-  <string name="accessibility_tutorial_dialog_message_gesture_settings_without_talkback">За да включите или изключите услуга за достъпност, прекарайте два пръста нагоре от долната част на екрана.\n\nЗа превключване между услугите прекарайте два пръста нагоре и задръжте.</string>
-  <string name="accessibility_tutorial_dialog_message_gesture_with_talkback">За да включите или изключите тази услуга, прекарайте три пръста нагоре от долната част на екрана.\n\nЗа превключване между услугите прекарайте три пръста нагоре и задръжте.</string>
-  <string name="accessibility_tutorial_dialog_message_gesture_without_talkback">За да включите или изключите тази услуга, прекарайте два пръста нагоре от долната част на екрана.\n\nЗа превключване между услугите прекарайте два пръста нагоре и задръжте.</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">За да включите или изключите услуга за достъпност, плъзнете с три пръста нагоре от долната част на екрана.\n\nЗа превключване между услугите плъзнете с три пръста нагоре и задръжте.</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_settings_without_talkback">За да включите или изключите услуга за достъпност, плъзнете с два пръста нагоре от долната част на екрана.\n\nЗа превключване между услугите плъзнете с два пръста нагоре и задръжте.</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_with_talkback">За да включите или изключите тази услуга, плъзнете с три пръста нагоре от долната част на екрана.\n\nЗа превключване между услугите плъзнете с три пръста нагоре и задръжте.</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_without_talkback">За да включите или изключите тази услуга, плъзнете с два пръста нагоре от долната част на екрана.\n\nЗа превключване между услугите плъзнете с два пръста нагоре и задръжте.</string>
   <string name="accessibility_tutorial_dialog_title_button">Отваряне с бутона за достъпност</string>
   <string name="accessibility_tutorial_dialog_title_gesture">Отваряне с жест</string>
   <string name="accessibility_tutorial_dialog_title_gesture_settings">Използване на новите жестове за достъпност</string>
@@ -186,7 +186,7 @@
   <string name="dsds_switch_string">Активиране на DSDS</string>
   <string name="dual_cdma_sim_warning_notification_channel_title">Комбинация на SIM карти</string>
   <string name="dual_cdma_sim_warning_notification_summary">Използването на %1$s може да ограничи функционалността. Докоснете, за да научите повече.</string>
-  <string name="edge_to_edge_navigation_summary">За достъп до началния екран прекарайте пръст нагоре от долната част на дисплея. За превключване между приложенията прекарайте пръст нагоре от долната част, задръжте и след това освободете. За връщане назад прекарайте пръст настрани от левия или десния край.</string>
+  <string name="edge_to_edge_navigation_summary">За достъп до началния екран плъзнете нагоре от долната част на дисплея. За превключване между приложенията плъзнете нагоре от долната част, задръжте и след това освободете. За връщане назад плъзнете настрани от левия или десния край.</string>
   <string name="edge_to_edge_navigation_title">Навигиране с жестове</string>
   <string name="emergency_info_contextual_card_summary">Медицинска информация, контакти при спешни случаи</string>
   <string name="empty_networks_list">Няма намерени мрежи.</string>
@@ -573,10 +573,10 @@
   <string name="sud_back_button_label">Назад</string>
   <string name="sud_more_button_label">Още</string>
   <string name="sud_next_button_label">Следващо</string>
-  <string name="swipe_direction_ltr">Прекарайте пръст надясно, за да отхвърлите, и наляво за показване на менюто</string>
-  <string name="swipe_direction_rtl">Прекарайте пръст наляво, за да отхвърлите, и надясно за показване на менюто</string>
+  <string name="swipe_direction_ltr">Плъзнете надясно, за да отхвърлите, и наляво за показване на менюто</string>
+  <string name="swipe_direction_rtl">Плъзнете наляво, за да отхвърлите, и надясно за показване на менюто</string>
   <string name="swipe_direction_title">Действия при прекарване на пръст</string>
-  <string name="swipe_up_to_switch_apps_summary">За превключване между приложенията прекарайте пръст нагоре през бутона „Начало“. За преглед на всички приложения отново прекарайте пръст нагоре. За връщане докоснете бутона за назад.</string>
+  <string name="swipe_up_to_switch_apps_summary">За превключване между приложенията плъзнете нагоре през бутона „Начало“. За преглед на всички приложения отново плъзнете нагоре. За връщане докоснете бутона за назад.</string>
   <string name="system_navigation_title">Навигиране в системата</string>
   <string name="tap_to_sign_up">Докоснете, за да се регистрирате</string>
   <string name="theme_customization_accent_color_title">Цвят на акцентирането</string>

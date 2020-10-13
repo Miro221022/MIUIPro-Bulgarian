@@ -29,7 +29,7 @@
   <string name="accessibility_magnification_enable_mode_title">Режим за увеличение: Активиране</string>
   <string name="accessibility_magnification_mode_title">Област за увеличаване</string>
   <string name="accessibility_magnification_service_settings_title">Настройки за увеличението</string>
-  <string name="accessibility_screen_magnification_gesture_navigation_warning">За жеста за достъпност е зададено „%1$s“. За да използвате функцията за увеличение, прекарайте два пръста нагоре от долната част на екрана и задръжте. След това изберете опцията.</string>
+  <string name="accessibility_screen_magnification_gesture_navigation_warning">За жеста за достъпност е зададено „%1$s“. За да използвате функцията за увеличение, плъзнете с два пръста нагоре от долната част на екрана и задръжте. След това изберете опцията.</string>
   <string name="accessibility_screen_magnification_navbar_summary">Когато функцията за увеличение е включена, можете да увеличавате мащаба на екрана.\n\n\"&lt;b&gt;За да промените мащаба&lt;/b&gt;\", стартирайте функцията за увеличение, след което докоснете произволно място на екрана.\n\"&lt;ul&gt;&lt;li&gt;Плъзнете 2 или повече пръсти, за да превъртите.&lt;/li&gt;\"\n\"&lt;li&gt;Съберете или разтворете 2 или повече пръсти, за да коригирате мащаба.&lt;/li&gt;&lt;/ul&gt;\"\n\n\"&lt;b&gt;За да промените временно мащаба&lt;/b&gt;\", стартирайте функцията за увеличение, след което докоснете и задръжте произволно място на екрана.\n\"&lt;ul&gt;&lt;li&gt;Плъзнете пръста си, за да се придвижите на екрана.&lt;/li&gt;\"\n\"&lt;li&gt;Вдигнете пръста си, за да намалите мащаба.&lt;/li&gt;&lt;/ul&gt;\"\n\nНе можете да увеличавате мащаба на клавиатурата или лентата за навигация.</string>
   <string name="accessibility_screen_magnification_summary">Бързо увеличавайте мащаба на екрана, така че съдържанието да се показва по-ясно.&lt;br/&gt;&lt;br/&gt; &lt;b&gt;За целта:&lt;/b&gt;&lt;br/&gt; 1. Използвайте прекия път за стартиране на увеличението.&lt;br/&gt; 2. Докоснете екрана.&lt;br/&gt; 3. Плъзнете с 2 пръста, за да се придвижвате на екрана.&lt;br/&gt; 4. Съберете 2 пръста, за да коригирате мащаба.&lt;br/&gt; 5. Използвайте прекия път за спиране на увеличението.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;За временно увеличаване на мащаба:&lt;/b&gt;&lt;br/&gt; 1. Използвайте прекия път за стартиране на увеличението.&lt;br/&gt; 2. Докоснете и задръжте произволно място на екрана.&lt;br/&gt; 3. Плъзнете с пръст, за да се придвижвате на екрана.&lt;br/&gt; 4. Вдигнете пръста си, за да спрете увеличението.</string>
   <string name="accessibility_screen_option">Опции</string>
@@ -38,8 +38,8 @@
   <string name="accessibility_shortcut_description">Разрешете прекият път към функцията да се включва от заключения екран. Натиснете двата бутона за силата на звука и ги задръжте за няколко секунди.</string>
   <string name="accessibility_shortcut_edit_dialog_summary_hardware">Натиснете и задръжте двата бутона за силата на звука</string>
   <string name="accessibility_shortcut_edit_dialog_summary_software">Докоснете бутона за достъпност %s в долната част на екрана.\n\nЗа превключване между функциите докоснете и задръжте бутона за достъпност.</string>
-  <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">Прекарайте два пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите прекарайте два пръста нагоре и задръжте.</string>
-  <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">Прекарайте три пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите прекарайте три пръста нагоре и задръжте.</string>
+  <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">Плъзнете с два пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите плъзнете с два пръста нагоре и задръжте.</string>
+  <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">Плъзнете с три пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите плъзнете с три пръста нагоре и задръжте.</string>
   <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Бързо докоснете екрана 3 пъти. Това може да забави работата на устройството ви.</string>
   <string name="accessibility_shortcut_edit_dialog_title_advance">Разширени</string>
   <string name="accessibility_shortcut_edit_dialog_title_hardware">Задържане на бутоните за силата на звука</string>
@@ -58,10 +58,10 @@
   <string name="accessibility_summary_shortcut_disabled">Изкл.</string>
   <string name="accessibility_summary_shortcut_enabled">Прекият път е включен</string>
   <string name="accessibility_tutorial_dialog_message_button">За да включите или изключите тази функция, докоснете бутона за достъпност %s в долната част на екрана.\n\nЗа превключване между функциите докоснете и задръжте бутона за достъпност.</string>
-  <string name="accessibility_tutorial_dialog_message_gesture">За да включите или изключите тази функция, прекарайте два пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите прекарайте два пръста нагоре и задръжте.</string>
-  <string name="accessibility_tutorial_dialog_message_gesture_settings">За да включите или изключите функция за достъпност, прекарайте два пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите прекарайте два пръста нагоре и задръжте.</string>
-  <string name="accessibility_tutorial_dialog_message_gesture_settings_talkback">За да включите или изключите функция за достъпност, прекарайте три пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите прекарайте три пръста нагоре и задръжте.</string>
-  <string name="accessibility_tutorial_dialog_message_gesture_talkback">За да включите или изключите тази функция, прекарайте три пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите прекарайте три пръста нагоре и задръжте.</string>
+  <string name="accessibility_tutorial_dialog_message_gesture">За да включите или изключите тази функция, плъзнете с два пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите плъзнете с два пръста нагоре и задръжте.</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_settings">За да включите или изключите функция за достъпност, плъзнете с два пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите плъзнете с два пръста нагоре и задръжте.</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_settings_talkback">За да включите или изключите функция за достъпност, плъзнете с три пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите плъзнете с три пръста нагоре и задръжте.</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_talkback">За да включите или изключите тази функция, плъзнете с три пръста нагоре от долната част на екрана.\n\nЗа превключване между функциите плъзнете с три пръста нагоре и задръжте.</string>
   <string name="accessibility_tutorial_dialog_message_triple">За стартиране и спиране на увеличението докоснете три пъти където и да е на екрана.</string>
   <string name="accessibility_tutorial_dialog_message_volume">За да включите или изключите тази функция, натиснете и задръжте двата бутона за силата на звука.</string>
   <string name="accessibility_work_profile_app_description">Work %s</string>
@@ -171,7 +171,7 @@
   <string name="contact_discovery_opt_in_summary">Изпращане на телефонните номера на контактите ви с цел предоставяне на подобрени функции</string>
   <string name="contact_discovery_opt_in_title">Изпращане на контактите до оператора</string>
   <string name="conversation_category_title">Разговор</string>
-  <string name="conversation_onboarding_summary">След като означите даден разговор като приоритетен или направите други промени в разговорите, те ще се показват тук. \n\nЗа да промените настройките за разговорите: \nПрекарайте пръст надолу от горната част на екрана, за да отворите падащия панел, след което докоснете даден разговор и го задръжте.</string>
+  <string name="conversation_onboarding_summary">След като означите даден разговор като приоритетен или направите други промени в разговорите, те ще се показват тук. \n\nЗа да промените настройките за разговорите: \nПлъзнете надолу от горната част на екрана, за да отворите падащия панел, след което докоснете даден разговор и го задръжте.</string>
   <string name="conversation_onboarding_title">Приоритетните и променените разговори ще се показват тук</string>
   <string name="conversations_category_title">Разговори</string>
   <string name="credentials_install">Инсталиране на сертификат</string>

@@ -598,7 +598,7 @@
   <string name="navigation_guide_dialog_skip">Не сега</string>
   <string name="navigation_guide_dialog_summary">Научете какви жестове можете да използвате за навигиране в системата.</string>
   <string name="navigation_guide_dialog_title">Научете жестове</string>
-  <string name="navigation_guide_gesture_line_dialog_summary">След като скриете индикатора за пълен екран ще бъде използван нов жест за смяна между приложенията. Желаете ли да запомните този жест сега?</string>
+  <string name="navigation_guide_gesture_line_dialog_summary">След като скриете индикатора за цял екран ще бъде използван нов жест за смяна между приложенията. Желаете ли да запомните този жест сега?</string>
   <string name="navigation_guide_gesture_line_dialog_title">Запомняне на нов жест</string>
   <string name="navigation_guide_hide_gesture_line_summary">Не показвай индикатора за цял екран когато се използват жестове на цял екран</string>
   <string name="navigation_guide_hide_gesture_line_title">Скрий индикатора за цял екран</string>

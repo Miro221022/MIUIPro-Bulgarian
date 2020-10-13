@@ -490,9 +490,9 @@
     <string name="xspace_guide_content_bound">Налични приложения</string>
     <string name="xspace_guide_description">"Всеки профил
 заслужава собствено приложение"</string>
-    <string name="xspace_install_complete">&lt;font>Създадено успешно. &lt;/font>&lt;font color=#0D84FF>Отваряне сега&lt;/font>.</string>
+    <string name="xspace_install_complete">&lt;font>Успешно е създадено клонирано приложение. &lt;/font>&lt;font color=#0D84FF>Отваряне сега&lt;/font>.</string>
     <string name="xspace_notification_button">Опитайте</string>
     <string name="xspace_start">Създаване</string>
-    <string name="xspace_guide_des">Клонираните приложения ви позволяват да използвате едновременно два профила</string>
+    <string name="xspace_guide_des">Клонираните приложения ви позволяват да използвате два профила едновременно, без да превключвате между тях</string>
     <string name="xspace_guide_title">Опитайте Клонирани приложения</string>
 </resources>

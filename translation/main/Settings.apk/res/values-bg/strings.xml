@@ -5960,7 +5960,7 @@ UT интерфейс: %5$s"</string>
      <string name="suw_next_button_label">Напред</string>
      <string name="swipe_up_to_switch_apps_suggestion_summary">Включете новия жест за превключване между приложения</string>
      <string name="swipe_up_to_switch_apps_suggestion_title">Изпробвайте новия бутон „Начало“</string>
-     <string name="swipe_up_to_switch_apps_summary">За превключване между приложения прекарайте пръст нагоре през бутона „Начало“. Повторете жеста, за да видите всички приложения. Функцията работи от всеки екран. Вече няма да виждате бутон за общ преглед долу вдясно на дисплея.</string>
+     <string name="swipe_up_to_switch_apps_summary">За превключване между приложения плъзнете нагоре през бутона „Начало“. Повторете жеста, за да видите всички приложения. Функцията работи от всеки екран. Вече няма да виждате бутон за общ преглед долу вдясно на дисплея.</string>
      <string name="swipe_up_to_switch_apps_title">Прекарване на пръст нагоре през бутона „Начало“</string>
      <string name="switch_access_service_on">Превключване на достъп</string>
      <string name="switch_off_text">Изключено</string>
