@@ -1559,10 +1559,6 @@
     <string name="accessibility_preview_selected">已被选中</string>
     <string name="accessibility_preview_shrink">缩小</string>
     <string name="accessibility_preview_zoom_tip">%1$.1f倍变焦预览</string>
-    <string name="download_cancel_hint">是否取消下载%1$s ？</string>
-    <string name="download_confirm">下载</string>
-    <string name="download_hint">当前非WIFI环境，将会耗费约%1$sMB数据流量，确定下载吗？</string>
-    <string name="download_title">流量提醒</string>
     <string name="film_landscape_timefreeze_hint">仅支持横屏拍摄</string>
     <string name="film_timefreeze">tip on</string>
     <string name="film_timefreeze_hint">请不要移动手机 %ds</string>
@@ -1576,8 +1572,6 @@
     <string name="live_workspace_title_edit">请选择删除项</string>
     <string name="snap_cancel_draft">不保存</string>
     <string name="update_hint">请点击下载按钮，更新算法</string>
-    <string name="update_loading">已下载 %1$s</string>
-    <string name="update_start">更新%1$s</string>
     <string name="accessibility_dual_video_merged">Комбинирано видео</string>
     <string name="accessibility_dual_video_standalone">Отделни видеоклипове</string>
     <string name="dual_video_record_merged">Комбинирано</string>
@@ -1590,7 +1584,7 @@
     <string name="download_confirm">Изтегляне</string>
     <string name="download_hint">%1$s МБ мобилни данни ще бъдат използвани за изтегляне на елементите. Изтегляне въпреки това?</string>
     <string name="download_title">Предупреждение за използване на данни</string>
-    <string name="update_loading">Изтеглено %1$s</string>
+    <string name="update_loading">Изтеглено %1$d%%</string>
     <string name="update_start">Актуализирай %1$s</string>
 	    <string name="color_effect_entry_blackgold_describe">滤镜介绍</string>
     <string name="color_effect_entry_new_1_describe">滤镜介绍</string>

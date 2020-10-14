@@ -590,4 +590,9 @@
 	<string name="help_center">Помощ</string>
 	<string name="facebook_login">Вписване с Facebook</string>
     <string name="google_login">Вписване с Google</string>
+	<string name="passport_uplink_send_sms_hint">"Докоснете \"Изпрати\" след като сте пренасоченислед като бъдете пренасочени към страницата със съставено съобщение."</string>
+    <string name="passport_uplink_sms_send_confirm">Изпратено</string>
+    <string name="passport_uplink_sms_sending">Изпращане на платено съобщение…</string>
+    <string name="passport_uplink_suggest_dialog_msg">"Кодът не може да бъде получен. Вместо това да се използва ли SMS с платена връзка?"</string>
+    <string name="passport_uplink_suggest_dialog_title">Вниамние</string>
 </resources>

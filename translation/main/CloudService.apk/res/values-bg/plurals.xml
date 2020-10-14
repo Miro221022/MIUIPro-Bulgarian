@@ -100,4 +100,20 @@
         <item quantity="other">"Не могат да се синхронизират %s елемента"</item>
         <item quantity="one">"Не може да се синхронизира %s елемент"</item>
     </plurals>
+	    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Поканата е приета от %d души</item>
+        <item quantity="one">Поканата е приета от %d човек</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s дни</item>
+        <item quantity="one">%1$s ден</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s часа</item>
+        <item quantity="one">%1$s час</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s мин.</item>
+        <item quantity="one">%1$s мин.</item>
+    </plurals>
 </resources>
