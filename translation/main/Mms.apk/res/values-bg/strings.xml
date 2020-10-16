@@ -1110,7 +1110,7 @@
     <string name="privacy_state_revoked_content">Изключвайки превключвателя, вие оттегляте своето съгласие с Политиката за поверителност на Съобщения. Ние ще спрем да събираме вашата лична информация. Вече събраната и запазена лична информация ще бъде изтрита в рамките на конкретния срок, както се изисква от приложимото законодателство. Mi Message и Smart Messaging, предоставени от Messaging, трябва да събират необходимата лична информация, за да ви предоставят основни услуги. Вашето оттегляне на съгласието с Политиката за поверителност на съобщенията ще се счита за отказ да приемете услугите въз основа на събрана лична информация, предоставена от Mi Message и Smart Messaging.</string>
     <string name="privacy_state_revoked_dialog_title">Оттегляне на съгласие</string>
     <string name="privacy_state_revoked_revoked">Оттегляне</string>
-    <string name="privacy_state_revoked_switch">Withdrawal of consent</string>
+    <string name="privacy_state_revoked_switch">Оттегляне на съгласие</string>
     <string name="privacy_state_revoked_synopsis">Изключвайки превключвателя, вие оттегляте своето съгласие с Политиката за поверителност на Съобщения.</string>
 	<string name="smart_message_upgrade_title">Актуализация на Политиката за поверителност на интелигентните съобщения</string>
     <string name="smart_msg_upgrade_main_purpose">"Интелигентните съобщения вече работят с MMS. Ще можете да използвате повече услуги, предоставяни от подателите, както и да получавате съобщения в нови формати."</string>
