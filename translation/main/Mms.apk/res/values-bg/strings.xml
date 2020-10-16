@@ -506,7 +506,7 @@
   <string name="pref_show_photo_word_summary">Автоматично присвояване на снимки, за контакти без снимка</string>
   <string name="pref_show_sms_template_entry_summary">Открий еднократни пароли и покажи бързи менюта</string>
   <string name="pref_show_sms_template_in_summary">Автоматично засичане на OTP в SMS съобщенията</string>
-  <string name="pref_show_sms_template_summary">Включете смарт функциите на Mi Message - копиране на кодове, проверка на сметката и т.н.</string>
+  <string name="pref_show_sms_template_summary">Копирайте еднократни пароли, проследявайте доставката, проверявайте баланса на телефона и автоматично показвайте билети и сметки като карти.</string>
   <string name="pref_smart_messages_settings">Интелигентни съобщения</string>
   <string name="pref_sms_storage_title">Хранилище</string>
   <string name="pref_sms_theme_title">Показване</string>
@@ -1083,10 +1083,10 @@
     <string name="banner_btn_open">Отвори</string>
     <string name="default_google_message_promo_content">"Задали сте Messages by Google като приложение за съобщения по подразбиране. Докоснете \"Отвори\" за да започнете да изпращате съобщения."</string>
     <string name="enable_classify_tip_dialog_content">Това ще рестартира приложението за съобщения. Да продължите ли все пак?</string>
-    <string name="google_message_promo_content">Xiaomi препоръчва да преминете към Съобщения от Google. Това ви позволява да изпращате текстови съобщения по Wi-Fi, да споделяте висококачествени медии и др. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Преглед на подробности</a></font>.</string>
+    <string name="google_message_promo_content">Xiaomi препоръчва надстройка до Messages от Google. Инсталирайте сега, за да получите висококачествено споделяне на снимки, чат по Wi-Fi и др. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Научете повече</a></font></string>
     <string name="google_message_promo_title">Надстройте приложението си за съобщения</string>
-    <string name="installed_google_message_promo_content">Xiaomi препоръчва да преминете към Съобщения от Google. Това ви позволява да изпращате текстови съобщения по Wi-Fi, да споделяте висококачествени медии и др.</string>
-    <string name="installed_google_message_promo_title">Започнете да използвате Messages</string>
+    <string name="installed_google_message_promo_content">Xiaomi препоръчва използването на Messages от Google. Отворете Messages, за да получите висококачествено споделяне на снимки, чат по Wi-Fi и др.</string>
+    <string name="installed_google_message_promo_title">Отворете Messages за по-добър чат</string>
     <string name="permission_retry_deny">Отказ</string>
     <string name="permission_retry_dialog_msg">Съобщения се нуждаят от разрешения, за да могат да работят нормално. За да дадете необходимите разрешения, докоснете \"Настройки\", изберете \"Разрешения за приложенията\" и разрешете на приложението достъп до телефон, SMS и контакти.</string>
     <string name="permission_retry_setting">Настройки</string>
@@ -1106,4 +1106,14 @@
     <string name="rcs_chatbot_no_waring">Заглушаване на известията за съобщения</string>
     <string name="rsc_chatbot_back">Назад</string>
     <string name="rsc_chatbot_detail">Информация за продавача</string>
+	<string name="privacy_state_revoked_cancel">Отказ</string>
+    <string name="privacy_state_revoked_content">Изключвайки превключвателя, вие оттегляте своето съгласие с Политиката за поверителност на Съобщения. Ние ще спрем да събираме вашата лична информация. Вече събраната и запазена лична информация ще бъде изтрита в рамките на конкретния срок, както се изисква от приложимото законодателство. Mi Message и Smart Messaging, предоставени от Messaging, трябва да събират необходимата лична информация, за да ви предоставят основни услуги. Вашето оттегляне на съгласието с Политиката за поверителност на съобщенията ще се счита за отказ да приемете услугите въз основа на събрана лична информация, предоставена от Mi Message и Smart Messaging.</string>
+    <string name="privacy_state_revoked_dialog_title">Оттегляне на съгласие</string>
+    <string name="privacy_state_revoked_revoked">Оттегляне</string>
+    <string name="privacy_state_revoked_switch">Withdrawal of consent</string>
+    <string name="privacy_state_revoked_synopsis">Изключвайки превключвателя, вие оттегляте своето съгласие с Политиката за поверителност на Съобщения.</string>
+	<string name="smart_message_upgrade_title">Актуализация на Политиката за поверителност на интелигентните съобщения</string>
+    <string name="smart_msg_upgrade_main_purpose">"Интелигентните съобщения вече работят с MMS. Ще можете да използвате повече услуги, предоставяни от подателите, както и да получавате съобщения в нови формати."</string>
+    <string name="system_permission_declare_privacy_link">За да разберете напълно вашите права като потребител, както и начините, по които използваме вашите данни, прочетете и приемете нашата %1s.</string>
+    <string name="web_content_invalid_hint">Показването на този елемент е ограничено от местните закони и разпоредби</string>
 </resources>
