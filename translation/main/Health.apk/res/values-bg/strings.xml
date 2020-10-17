@@ -333,12 +333,12 @@
   <string name="exercise">Дейност</string>
   <string name="exercise_consume">Изразходени %1$d кал</string>
   <string name="exercise_consume_description">Според диетичните насоки за жителите на Китай ежедневната физическа активност трябва да изразходва повече от 15% от общите енергийни разходи. Енергията, изразходвана за ежедневната ви физическа активност, е обобщена тук, но не включва основни метаболитни разходи. Ако имате проблеми с управлението на теглото, трябва да се съсредоточите и върху приема на енергия.</string>
-  <string name="exercise_consume_exercise_description">Продължителността на упражненията е времето, прекарано в дейности със средна и висока интензивност. Според китайските здравни власти продължителността на упражненията седмично трябва да бъде най-малко 150 минути. Времето, прекарано за дейности с висока интензивност, като бързо ходене (ритъм по-голям от 100 крачки в минута), бягане и изкачване на стълби ще се добавят към продължителността на вашето упражнение.</string>
+  <string name="exercise_consume_exercise_description">Това е времето, което отделяте за дейности с умерена и висока интензивност. Според китайските здравни власти седмичната продължителност на упражненията трябва да бъде най-малко 150 минути (поне 30 минути на сесия). Дейности като бързо ходене (над 100 стъпки в минута), бягане и изкачване на стълби ще се разглеждат като тренировки с умерена до висока интензивност.</string>
   <string name="exercise_correct">Коригиране</string>
   <string name="exercise_detail_no_consume_hint">Избраният източник на данни (%1$s) не предоставя информация за броя на калориите\nМожете да изберете друг източник на данни в Още&gt; Източници на данни.</string>
   <string name="exercise_detail_no_exercise_hint">Избраният източник на данни (%1$s) не предоставя информация за продължителността на упражненията\nМожете да изберете друг източник на данни в Още&gt; Източници на данни.</string>
   <string name="exercise_detail_no_steps_hint">Избраният източник на данни (%1$s) не предоставя информация за броя на крачките.\nМожете да изберете друг източник на данни в Още&gt; Източници на данни.</string>
-  <string name="exercise_duration">Продължителност на упражнението</string>
+  <string name="exercise_duration">Умерена до висока интензитензивност</string>
   <string name="exercise_duration_consume">Продължителност: %1$s | Изгорени: %2$s</string>
   <string name="exercise_goal">Цел на дейността</string>
   <string name="exercise_goal_accomplished">Целта е постигната</string>
@@ -524,9 +524,9 @@
   <string name="just_recently">Сега</string>
   <string name="keep_edit">Отказ</string>
   <string name="label_average_daily_sleep_duration">Средна продължителност на съня</string>
-  <string name="label_average_daily_sleep_time">Приблизително време  \n за заспиване</string>
-  <string name="label_average_daily_sleep_time2">Приблизително време  \n за заспиване</string>
-  <string name="label_average_daily_wake_up_time">"  Приблизително времe\n за събуждане"</string>
+  <string name="label_average_daily_sleep_time">Приблизително време за заспиване</string>
+  <string name="label_average_daily_sleep_time2">Приблизително време за заспиване</string>
+  <string name="label_average_daily_wake_up_time">"Приблизително времe за събуждане"</string>
   <string name="label_average_sleep_time">Средно време за лягане</string>
   <string name="label_body_weight_evaluation">Оценка на теглото</string>
   <string name="label_body_weight_recent">Последни</string>

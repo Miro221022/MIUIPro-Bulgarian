@@ -389,12 +389,8 @@
     <string name="request_cta_connect_net">Разрешете на това приложение да се свърже с интернет и да предостави задължителните разрешения, изброени по-горе.</string>
 	<string name="global_not_enable_warning">"Това приложение не може да се използва. То не е инсталирано от официалните източници."</string>
     <string name="index_item_install_dialog">%1$s下载并安装成功,是否立即体验?</string>
-	<string name="aqi_15_days_desc">15-дневна прогноза за ИКВ</string>
-    <string name="aqi_24_hours_desc">24-часова прогноза за ИКВ</string>
-    <string name="aqi_48_hours_desc">48-часова прогноза за ИКВ</string>
-    <string name="aqi_5_days_desc">5-дневна прогноза за ИКВ</string>
 	<string name="weather_main_aqi_desc">ИКВ</string>
-    <string name="weather_main_minute_hour">2 часа валежи</string>
+    <string name="weather_main_minute_hour">%d час(a) валежи</string>
 	  <string name="dialog_msg_score_midrop">Как ви се струва приложението?</string>
   <string name="dialog_msg_score_not_good">Можете ли да ни дадете и вашите отзиви?</string>
   <string name="dialog_msg_score_perfect">Хубаво! Ще оцените ли приложението и в Play Store?</string>
@@ -405,4 +401,8 @@
     <string name="save_to_gallery_failure_message">"Неуспешно запазване в Галерия"</string>
     <string name="save_to_gallery_icon_name">Запазване в Галерия</string>
     <string name="save_to_gallery_success_message">Запазено в Галерия успешно</string>
+	    <string name="aqi_15_days_desc">%d-дневна прогноза за ИКВ</string>
+    <string name="aqi_24_hours_desc">%d-часова прогноза за ИКВ</string>
+    <string name="aqi_48_hours_desc">%d-часова прогноза за ИКВ</string>
+    <string name="aqi_5_days_desc">%d-дневна прогноза за ИКВ</string>
 </resources>
