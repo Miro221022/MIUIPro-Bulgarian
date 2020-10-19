@@ -1563,13 +1563,8 @@
     <string name="film_timefreeze">tip on</string>
     <string name="film_timefreeze_hint">请不要移动手机 %ds</string>
     <string name="film_timefreeze_reset">tip reset</string>
-    <string name="live_draft_continue">继续拍摄</string>
-    <string name="live_draft_empty">没有草稿</string>
     <string name="live_edit_exit_confirm_draft">保存并退出</string>
-    <string name="live_edit_exit_message_draft">保存当前进度至草稿箱</string>
     <string name="live_workspace_delete_dialog_title">是否删除%1$d项草稿？</string>
-    <string name="live_workspace_title">草稿箱</string>
-    <string name="live_workspace_title_edit">请选择删除项</string>
     <string name="snap_cancel_draft">不保存</string>
     <string name="update_hint">请点击下载按钮，更新算法</string>
     <string name="accessibility_dual_video_merged">Комбинирано видео</string>
@@ -1614,4 +1609,10 @@
     <string name="video_effect_entry_northern_europe_describe">滤镜介绍</string>
     <string name="video_effect_entry_rome_describe">滤镜介绍</string>
     <string name="video_effect_entry_summer_day_describe">滤镜介绍</string>
+	<string name="live_draft_continue">Възобновяване</string>
+    <string name="live_draft_empty">Тук няма елементи</string>
+    <string name="live_edit_exit_message_draft">Запазване като чернова</string>
+    <string name="live_workspace_title">Чернови</string>
+    <string name="live_workspace_title_edit">Изберете елементи за изтриване</string>
+	<string name="film_video_b_tip">请在暗光环境下拍摄</string>
 </resources>

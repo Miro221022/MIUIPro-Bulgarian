@@ -2030,4 +2030,8 @@ d MMMM"</string>
     <string name="loading">Състояние неизвестно</string>
     <string name="status_bar_setting_title">Център за управление и лента за състоянието</string>
 	<string name="notification_control_center">Известия и център за управление</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"Не може да се настрои по време на разговор"</string>
+    <string name="quick_settings_vowifi_label">WLAN повиквания</string>
+    <string name="quick_settings_vowifi_sim1_label">WLAN повиквания SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">WLAN повиквания SIM2</string>
 </resources>

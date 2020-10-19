@@ -4823,7 +4823,7 @@ UT интерфейс: %5$s"</string>
      <string name="screen_compatibility_text">Възможно е това приложение да не е създадено за екрана ви. Можете да контролирате оттук как то се настройва към него.</string>
      <string name="screen_confirm">Включи</string>
      <string name="screen_dark_mode_select_time_error_summary">Времето за начало и край не могат да са едни и същи</string>
-     <string name="screen_dark_mode_time_title">График</string>
+     <string name="screen_dark_mode_time_title">График за тъмния режим</string>
      <string name="screen_effect">Цветова схема</string>
      <string name="screen_key_long_press">Продължително натискане на екранните бутони</string>
      <string name="screen_key_long_press_action">Функция на бутоните</string>
@@ -7752,4 +7752,9 @@ UT интерфейс: %5$s"</string>
     <string name="usb_use_file_transfers_miui12_5">Прехвърляне на файлове</string>
     <string name="usb_use_miui12_5">Използвай USB за</string>
     <string name="usb_use_photo_transfers_miui12_5">Фото трансфери</string>
+	<string name="dark_mode_apps_header">Отделни приложения</string>
+    <string name="dark_mode_font_background_title">Автоматично регулиране на текста и фона</string>
+    <string name="exterior">Цветова схема</string>
+    <string name="light_color_mode">Режим на светлината</string>
+    <string name="more_dark_mode_settings">Още възможности за тъмен режим</string>
 </resources>
