@@ -10,4 +10,26 @@
     <string name="delete_frequent_phrases_confirm">Изтриване на избраните чести фрази?</string>
     <string name="frequent_phrases_size_exceeded">Могат да се добавят до %1$d чести фрази. Изтрийте ненужните, за да добавите нови.</string>
     <string name="sync_phrase_label">Чести фрази</string>
+	<string name="input_method_clipboard_check_more_add_to_phrase">Добавете честа фраза</string>
+    <string name="input_method_clipboard_check_more_copy">Копиране</string>
+    <string name="input_method_clipboard_check_more_delete">Изтрий</string>
+    <string name="input_method_clipboard_checkbox_cancle">Отказ</string>
+    <string name="input_method_clipboard_checkbox_confirm">Изчисти</string>
+    <string name="input_method_clipboard_clear_all_button">Изчисти всички</string>
+    <string name="input_method_clipboard_clear_all_phrase_des">Изчистване на всички елементи от буферната памет?</string>
+    <string name="input_method_clipboard_clear_all_phrase_title">Изчистване на буферната памет</string>
+    <string name="input_method_clipboard_copy_success">Копирано успешно</string>
+    <string name="input_method_clipboard_delete_success">Изтрито успешно</string>
+    <string name="input_method_clipboard_move_cursor_guide1">Натиснете и задръжте синята област, за да преместите курсора</string>
+    <string name="input_method_clipboard_move_cursor_guide2">Преместете пръста си хоризонтално</string>
+    <string name="input_method_clipboard_participle">Отделни думи</string>
+    <string name="input_method_clipboard_settings_button">Настройки</string>
+    <string name="input_method_clipboard_tips">Копираните елементи ще бъдат изтрити от буферната памет след 48 часа</string>
+    <string name="input_method_edit_phrase_text">Редактирайте чести фрази</string>
+    <string name="input_method_no_content_text">Тук все още няма елементи</string>
+    <string name="input_method_phrase_edit">Редактиране</string>
+    <string name="input_method_phrase_top">Закачи</string>
+    <string name="input_method_switch_settings_text">Настройки на клавиатурата</string>
+    <string name="input_method_tab_clipboard_text">Буферна памет</string>
+    <string name="input_method_tab_phrase_text">Чести фрази</string>
 </resources>

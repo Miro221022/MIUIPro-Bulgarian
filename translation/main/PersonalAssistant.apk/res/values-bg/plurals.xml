@@ -174,4 +174,8 @@
     <item quantity="other">Преди %d минути</item>
     <item quantity="one">Преди %d минута</item>
   </plurals>
+      <plurals name="app_express_settings_title_2">
+        <item quantity="other">Добавени са %d телефонни номера</item>
+        <item quantity="one">Добавен е %d телефонен номер</item>
+    </plurals>
 </resources>

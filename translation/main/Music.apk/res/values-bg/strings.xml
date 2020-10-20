@@ -103,7 +103,7 @@
   <string name="avoid_to_use_traffic_title">Питай, когато се използват мобилни данни за прослушване на песни</string>
   <string name="back">Обратно</string>
   <string name="back_confirm">Чукнете още веднъж за изход</string>
-  <string name="banner_op">Mi Music</string>
+  <string name="banner_op">Mi Музика</string>
   <string name="bluetooth_device">Bluetooth устройство</string>
   <string name="buffering">Буфериране…</string>
   <string name="button_cancel_download">Отмени</string>
@@ -205,7 +205,7 @@
   <string name="dialog_my_playlist_online_changed_merge">Запази</string>
   <string name="dialog_my_playlist_online_changed_message">Изглежда тази плейлиста се е променила. Можете да я замените с новата версия или да запазите старата.</string>
   <string name="dialog_my_playlist_online_changed_replace">Замени</string>
-  <string name="dialog_my_playlist_set_to_public">Споделяне на този плейлист с всички потребители на Mi Music и Hungama music</string>
+  <string name="dialog_my_playlist_set_to_public">Споделяне на този плейлист с всички потребители на Mi Музика и Hungama music</string>
   <string name="dialog_queued_body">Този файл е в списъка за бъдещо изтегляне.</string>
   <string name="dialog_renew_failure">За съжаление, действието не бе успешно</string>
   <string name="dialog_renew_free_end">Вашият пробен период приключи. Ще се абонирайте ли за Hungama PRO</string>
@@ -251,7 +251,7 @@
   <string name="download_complete_start_install">Инсталиране…</string>
   <string name="download_completed">Изтеглено</string>
   <string name="download_confirm_button_text">Инсталиране</string>
-  <string name="download_confirm_text">Mi Music ще изтегли и инсталира \"%s\"</string>
+  <string name="download_confirm_text">Mi Музика ще изтегли и инсталира \"%s\"</string>
   <string name="download_connect_wifi_dialog_message">Имаш нужда от Wi-Fi, за да изтеглиш тази песен. Свържи се сега?</string>
   <string name="download_connect_wifi_dialog_title">Свържи се към Wi-Fi</string>
   <string name="download_dialog_fail">Не може да се изтегли</string>
@@ -430,7 +430,7 @@
   <string name="hide_album">Скриване на обложката</string>
   <string name="hide_lyric">Скриване на текст</string>
   <string name="high_sound_quality">Високо</string>
-  <string name="higher_quality_music">Абонирайте се за Mi Music</string>
+  <string name="higher_quality_music">Абонирайте се за Mi Музика</string>
   <string name="higher_quality_music_summary">Слушайте и изтегляйте музика с високо качество</string>
   <string name="home_tab_home">Начало</string>
   <string name="home_tab_local">Моята музика</string>
@@ -783,7 +783,6 @@
   <string name="preset_music_playlist">Mi Музика плейлист</string>
   <string name="priority_storage">Съхраняване на SD картата</string>
   <string name="priority_storage_summary">При поставена SD карта, автоматично записване на файловете на SD картата</string>
-  <string name="privacy_authorize_network_error">Не може да се свърже с мрежата. Проверете мрежовите настройки и опитайте отново.</string>
   <string name="privacy_authorize_revoke_failed">Не може да се отмени оторизацията</string>
   <string name="privacy_authorize_revoke_success">Оторизацията е отхвърлена успешно</string>
   <string name="privacy_authorize_revoking">Анулиране на разрешението…</string>
@@ -806,12 +805,10 @@
   <string name="recommended_no_file_size_download_in_mobile">Да се използва ли връзка мобилни данни за изтегляне на файла?</string>
   <string name="remove">Премахни</string>
   <string name="remove_download">Премахни</string>
-  <string name="remove_user_privacy_dialog_message">След като оттеглите оторизацията, Музика ще спре да събира данни и всички свързани данни ще бъдат изтрити от сървърите. Това може да направи приложението практически неизползваемо. Оттегляне на оторизация въпреки това?</string>
-  <string name="remove_user_privacy_dialog_title">Анулиране на разрешението</string>
   <string name="renew_dialog_title">Станете Pro\nБъдете щастливи</string>
   <string name="repeat_all_notif">Повторение на всички песни.</string>
   <string name="repeat_current_notif">Повторение на текущата песен.</string>
-  <string name="request_overlay_permission_desc">Разрешете на Mi Music да показва плаващи прозорци, за да можете да използвате тази функция.</string>
+  <string name="request_overlay_permission_desc">Разрешете на Mi Музика да показва плаващи прозорци, за да можете да използвате тази функция.</string>
   <string name="request_share_info">Един момент…</string>
   <string name="request_subscription_status">Един момент…</string>
   <string name="restart_immediate">Рестартирайте сега</string>
@@ -1026,10 +1023,6 @@
   <string name="user_agreement">Потребителско споразумение</string>
   <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=bg_BG</string>
   <string name="user_privacy_dialog_negative_text">Отказ</string>
-  <string name="user_privacy_dialog_positive_count_down_text">Отмяна (%ss)</string>
-  <string name="user_privacy_dialog_positive_text">Отмени</string>
-  <string name="user_privacy_setting_group_title">Оторизация</string>
-  <string name="user_privacy_setting_title">Превключете, за да предоставите или отмените оторизацията</string>
   <string name="v7_preference_off">ИЗКЛ.</string>
   <string name="v7_preference_on">ВКЛ.</string>
   <string name="version_info">Версия</string>
@@ -1057,7 +1050,7 @@
   <string name="you_can_switch_mode_in_settings">Можете да превключвате между режими от Настройки</string>
   <string name="you_may_like">Може също да харесате</string>
   <string name="youtube_play_history">История на изпълненията</string>
-    <string name="dialog_score_msg_score_explorer">Харесва ли ви Mi Music?</string>
+    <string name="dialog_score_msg_score_explorer">Харесва ли ви Mi Музика?</string>
   <string name="dialog_score_msg_score_not_good">Можете ли да ни дадете и вашите отзиви?</string>
   <string name="dialog_score_msg_score_perfect">Хубаво! Ще оцените ли нашето приложение и в Play Store?</string>
     <string name="dialog_score_toast_rate">Оценете първо нашето приложение</string>
@@ -1075,4 +1068,44 @@
     <string name="toast_will_play_list_when_ad_pause">Списъкът за изпълнение ще започне да се изпълнява след рекламите</string>
   <string name="toast_will_play_song_when_ad_pause">Тази песен ще започне да се изпълнява след рекламите</string>
   <string name="upload_favorite_setting_summary">Добавянето на онлайн песни към любими ги качва в облака и ви позволява да получите достъп до тях на други устройства</string>
+      <string name="develop_mode">Режим за програмисти</string>
+    <string name="discover_more_music">Открийте още песни</string>
+    <string name="exo_media_action_repeat_all_description">Повтори всички</string>
+    <string name="exo_media_action_repeat_off_description">Без повтаряне</string>
+    <string name="exo_media_action_repeat_one_description">Повтори</string>
+    <string name="feedback_send_email_body_extra_info">Не изтривайте следната информация. Това ще ни помогне да открием проблема.</string>
+    <string name="info_app_package_name">Име на пакета:</string>
+    <string name="info_app_version">Версия на приложението:</string>
+    <string name="info_language">Език:</string>
+    <string name="info_location">Регион:</string>
+    <string name="info_product">Устройство:</string>
+    <string name="info_system">Система:</string>
+    <string name="info_system_version">Версия на системата:</string>
+    <string name="network_disable">"Не може да се свърже с мрежата"</string>
+    <string name="privacy_request_desc"><Data>"Mi Музика трябва да събира необходимата лична информация, за да ви предоставя онлайн услуги за стрийминг. Можете да научите как обработваме информацията, която събираме в нашата &lt;a href=\"%1$s\">Политика за поверителност&lt;/a>. Можете да оттеглите съгласието си с Политиката за поверителност на Mi Музика в настройките по всяко време.
+Прочетете и приемете нашеите &lt;a href=\"%2$s\">Потребителско спразумение&lt;/a> и &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> преди да използвате Mi Музика.
+Ако не сте съгласни да използвате гореспоменатите услуги, няма да можете да използвате някои функции на това приложение; основната му функционалност обаче ще остане достъпна."</Data></string>
+    <string name="privacy_request_subtitle">"Добре дошли в Mi Музика! Това приложение предлага следните услуги:
+
+- Приложение за слушане на музика
+
+- Онлайн стрийминг услуги"</string>
+    <string name="privacy_request_title">Правила и условия</string>
+    <string name="remove_user_privacy_dialog_message_canuse">Изключвайки превключвателя, вие оттегляте своето съгласие с Политиката за поверителност на Mi Музика. Ние ще спрем да събираме вашата лична информация, вече събраната и запазена лична информация ще бъде изтрита в рамките на конкретния срок, както се изисква от приложимото законодателство. Mi Музика трябва да събира необходимата лична информация, за да ви предоставя онлайн услуги за стрийминг. Вашето оттегляне на съгласието с неговата Политика за поверителност ще се счита за отказ да приемете гореспоменатите онлайн услуги въз основа на събрана лична информация.</string>
+    <string name="request_privacy_permission_title">Прочетете и приемете условията по-долу за достъп до всички наши услуги.</string>
+    <string name="skip">Пропускане</string>
+    <string name="start_update">Инсталиране на нова версия…</string>
+    <string name="summary_command_mode">Включете, за да влезете в команден режим</string>
+    <string name="title_command_mode">Команден режим</string>
+    <string name="toast_cant_commit_without_title">Въведете заглавие на песента</string>
+    <string name="toast_playmode_loop_playback">Текущият списък е цикличен</string>
+    <string name="toast_playmode_shuffle_play">Възпроизвеждането е разбъркано</string>
+    <string name="toast_playmode_single_cycle">Текущата песен е циклична</string>
+    <string name="privacy_authorize_network_error">Вашето устройство трябва да се свърже с мрежата, за да можете да оттеглите съгласието си. Проверете мрежовите настройки и опитайте отново.</string>
+    <string name="remove_user_privacy_dialog_message">Изключвайки превключвателя, вие оттегляте своето съгласие с Политиката за поверителност на Mi Музика. Ние ще спрем да събираме вашата лична информация, а вече събраната и запазена лична информация ще бъде изтрита в рамките на конкретния срок, както се изисква от приложимото законодателство. Mi Музика трябва да събира необходимата лична информация, за да ви предостави основни услуги. Вашето оттегляне на съгласието с неговата Политика за поверителност ще се счита за отказ да приемете услугите си въз основа на събрана лична информация.</string>
+    <string name="remove_user_privacy_dialog_title">Оттегляне на съгласието</string>
+    <string name="user_privacy_dialog_positive_count_down_text">Оттегляне (%ss)</string>
+    <string name="user_privacy_dialog_positive_text">Оттегляне</string>
+    <string name="user_privacy_setting_group_title">Оттегляне на съгласието</string>
+    <string name="user_privacy_setting_title">Изключвайки превключвателя, вие оттегляте съгласието си с Политиката за поверителност на Mi Музика.</string>
 </resources>

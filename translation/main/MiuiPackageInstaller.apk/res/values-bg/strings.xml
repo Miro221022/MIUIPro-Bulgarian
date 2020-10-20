@@ -251,8 +251,8 @@
   <string name="replace_app_des_text">Презаписване на приложението?</string>
   <string name="review_button_cancel">Отказ</string>
   <string name="review_button_continue">Продължаване</string>
-  <string name="risk_warning_bottom_button">Инсталирай от GetApps</string>
-  <string name="risk_warning_msg">Подписът на този инсталационен пакет не изглежда истински. За да избегнете възможни рискове, инсталирайте това приложение от GetApps.</string>
+  <string name="risk_warning_bottom_button">Инсталирай от официалния магазин</string>
+  <string name="risk_warning_msg">Подписът на този инсталационен пакет не изглежда истински. За да избегнете възможни рискове, инсталирайте това приложение от официалния магазин.</string>
   <string name="risk_warning_title">Открити са рискове</string>
   <string name="risk_warning_top_button">Не инсталирай</string>
   <string name="safe_guard_support">Техническа поддръжка, предоставена от %1$s</string>
