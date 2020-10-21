@@ -1964,4 +1964,5 @@
     <string name="fiveg_network_mode_nsa">NSA режим</string>
     <string name="fiveg_network_mode_sa_nsa">SA+NSA режим</string>
     <string name="fiveg_network_mode_title">Избор на 5G мрежов режим</string>
+	    <string name="preference_countrycode_title">Код на държавата</string>
 </resources>

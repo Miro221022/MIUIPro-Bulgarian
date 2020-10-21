@@ -226,4 +226,20 @@
     <string name="mishare_state_protection_summary_china">Включване отново на Mi Споделяне автоматично, когато Bluetooth или WLAN са включени отново</string>
     <string name="wifi_is_not_enabled_china">Първо включете WLAN</string>
 	<string name="error_send_transfer_pc_error">Времето за прехвърляне изтече. Актуализирайте приложението за споделяне на файлове на вашия компютър и опитайте отново.</string>
+	    <string name="guide_summary_1">Другият човек може да докосне превключвателя в панела за известия</string>
+    <string name="guide_summary_2">"Изберете устройството, на което искате да изпратите елементи, и докоснете иконата му"</string>
+    <string name="guide_title_1">Включете Mi Share и на двете устройства</string>
+    <string name="guide_title_2">Изберете устройство за споделяне</string>
+    <string name="menu_item_privacy_title">Политика за поверителност</string>
+    <string name="tile_state_active">Включено</string>
+    <string name="tile_state_inactive">Изключено</string>
+    <string name="tile_state_unavailable">Не е налично</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Издърпайте надолу, за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновено успешно</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновяване…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Пуснете за обновяване</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
 </resources>
