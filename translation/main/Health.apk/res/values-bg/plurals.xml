@@ -49,6 +49,14 @@
     <item quantity="other">%1$d дни</item>
     <item quantity="one">%1$d ден</item>
   </plurals>
+  <plurals name="days_in_menstrual_period">
+    <item quantity="other">Продължителност на цикъла: %1$d дни</item>
+    <item quantity="one">Продължителност на цикъла: %1$d ден</item>
+  </plurals>
+  <plurals name="days_in_period">
+    <item quantity="other">Продължителност на цикъла: %1$d дни</item>
+    <item quantity="one">Продължителност на цикъла: %1$d ден</item>
+  </plurals>
   <plurals name="dialog_choose_items">
     <item quantity="other">Избрани са %1$d елемента</item>
     <item quantity="one">Избран е %1$d елемент</item>
@@ -93,12 +101,20 @@
     <item quantity="other">%1$d крачки</item>
     <item quantity="one">%1$d крачка</item>
   </plurals>
+  <plurals name="group_unit">
+    <item quantity="other">%1$d цикъла</item>
+    <item quantity="one">%1$d цикъл</item>
+  </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Преди половин час</item>
   </plurals>
   <plurals name="hours">
     <item quantity="other">%1$d часа</item>
     <item quantity="one">%1$d час</item>
+  </plurals>
+  <plurals name="hr_fp_detect_time_remainder">
+    <item quantity="one">%1$d оставащи секунди</item>
+    <item quantity="other">%1$d оставаща секунда</item>
   </plurals>
   <plurals name="in_a_hour">
     <item quantity="other">След 1 час</item>
@@ -127,6 +143,10 @@
   </plurals>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Сега</item>
+  </plurals>
+  <plurals name="mens_offset_predict_menstrual_period">
+    <item quantity="other">Цикълът вероятно ще започне след %1$d дни</item>
+    <item quantity="one">Цикълът вероятно ще започне след %1$d ден</item>
   </plurals>
   <plurals name="menstruation_sum_days">
     <item quantity="other">%1$d-дневен цикъл</item>
@@ -167,6 +187,74 @@
   <plurals name="sleep_management_exp_hours">
     <item quantity="other">Текущите настройки няма да ви гарантират %1$d часа сън дневно. Имате нужда от повече.</item>
     <item quantity="one">Текущите настройки няма да ви гарантират %1$d час сън дневно. Имате нужда от повече.</item>
+  </plurals>
+  <plurals name="sport_tts_goal_consume">
+    <item quantity="one">Остават още %s калории за изгаряне, докато постигнете целта си</item>
+    <item quantity="other">Остава още %s калория за изгаряне, докато постигнете целта си</item>
+  </plurals>
+  <plurals name="sport_tts_goal_distance">
+    <item quantity="one">Остават още %s километра, докато достигнете целта си</item>
+    <item quantity="other">Остава още %s километър, докато достигнете целта си</item>
+  </plurals>
+  <plurals name="sport_tts_goal_time">
+    <item quantity="one">Остават още %s минути, докато достигнете целта си</item>
+    <item quantity="other">Остава още %s минута, докато достигнете целта си</item>
+  </plurals>
+  <plurals name="sport_tts_riding_distance">
+    <item quantity="one">Карахте велосипед %s километра</item>
+    <item quantity="other">Карахте велосипед %s километър</item>
+  </plurals>
+  <plurals name="sport_tts_running_distance">
+    <item quantity="one">Тичахте %s километра</item>
+    <item quantity="other">Тичахте %s километър</item>
+  </plurals>
+  <plurals name="sport_tts_total_consume">
+    <item quantity="one">Изгорихте %s калории</item>
+    <item quantity="other">Изгорихте %s калория</item>
+  </plurals>
+  <plurals name="sport_tts_walking_distance">
+    <item quantity="one">Изминахте %s километра</item>
+    <item quantity="other">Изминахте %s километър</item>
+  </plurals>
+  <plurals name="sporting_content_calories">
+    <item quantity="other">Вече сте изгорили %1$s калории</item>
+    <item quantity="one">Вече сте изгорили %1$s калория</item>
+  </plurals>
+  <plurals name="sporting_content_min">
+    <item quantity="other">%1$d минути</item>
+    <item quantity="one">%1$d минута</item>
+  </plurals>
+  <plurals name="sporting_content_riding_km">
+    <item quantity="other">Вече сте карали велосипед %1$s километра</item>
+    <item quantity="one">Вече сте карали велосипед %1$s километър</item>
+  </plurals>
+  <plurals name="sporting_content_running_km">
+    <item quantity="other">Вече тичахте %1$s километри</item>
+    <item quantity="one">Вече тичахте %1$s километър</item>
+  </plurals>
+  <plurals name="sporting_content_sec">
+    <item quantity="other">%1$d секунди</item>
+    <item quantity="one">%1$d секунда</item>
+  </plurals>
+  <plurals name="sporting_content_walking_km">
+    <item quantity="other">Вече сте ходили %1$s километра</item>
+    <item quantity="one">Вече сте ходили %1$s километър</item>
+  </plurals>
+  <plurals name="sporting_content_walking_stpe">
+    <item quantity="other">Вече направихте %1$s крачки</item>
+    <item quantity="one">Вече направихте %1$s крачка</item>
+  </plurals>
+  <plurals name="sporting_unit_calories">
+    <item quantity="one">%1$d калории</item>
+    <item quantity="other">%1$d калория</item>
+  </plurals>
+  <plurals name="sporting_unit_km">
+    <item quantity="other">%1$s км</item>
+    <item quantity="one">%1$s км</item>
+  </plurals>
+  <plurals name="sporting_unit_step">
+    <item quantity="one">крачки</item>
+    <item quantity="other">крачка</item>
   </plurals>
   <plurals name="step_num_format">
     <item quantity="other">%1$d крачки</item>
@@ -244,6 +332,30 @@
     <item quantity="other">" дни"</item>
     <item quantity="one">" ден"</item>
   </plurals>
+  <plurals name="unit_group">
+    <item quantity="other">" цикъла"</item>
+    <item quantity="one">" цикъл"</item>
+  </plurals>
+  <plurals name="unit_hours">
+    <item quantity="one">" ч. "</item>
+    <item quantity="other">" ч. "</item>
+  </plurals>
+  <plurals name="unit_hours2">
+    <item quantity="one">" часа "</item>
+    <item quantity="other">" час "</item>
+  </plurals>
+  <plurals name="unit_mins">
+    <item quantity="one">" мин. "</item>
+    <item quantity="other">" мин. "</item>
+  </plurals>
+  <plurals name="unit_mins2">
+    <item quantity="one">" минути "</item>
+    <item quantity="other">" минута "</item>
+  </plurals>
+  <plurals name="unit_seconds">
+    <item quantity="one">" сек. "</item>
+    <item quantity="other">" сек. "</item>
+  </plurals>
   <plurals name="unit_times">
     <item quantity="other">" пъти"</item>
     <item quantity="one">" път"</item>
@@ -252,78 +364,4 @@
     <item quantity="other">%1$d години</item>
     <item quantity="one">%1$d година</item>
   </plurals>
-      <plurals name="days_in_menstrual_period">
-        <item quantity="other">Продължителност на цикъла: %1$d дни</item>
-        <item quantity="one">Продължителност на цикъла: %1$d ден</item>
-    </plurals>
-    <plurals name="days_in_period">
-        <item quantity="other">Продължителност на цикъла: %1$d дни</item>
-        <item quantity="one">Продължителност на цикъла: %1$d ден</item>
-    </plurals>
-    <plurals name="group_unit">
-        <item quantity="other">%1$d цикъла</item>
-        <item quantity="one">%1$d цикъл</item>
-    </plurals>
-    <plurals name="mens_offset_predict_menstrual_period">
-        <item quantity="other">Цикълът вероятно ще започне след %1$d дни</item>
-        <item quantity="one">Цикълът вероятно ще започне след %1$d ден</item>
-    </plurals>
-    <plurals name="unit_group">
-        <item quantity="other">" цикъла"</item>
-        <item quantity="one">" цикъл"</item>
-    </plurals>
-	     <plurals name="hr_fp_detect_time_remainder">
-         <item quantity="one">%1$d оставаща секунда</item>
-         <item quantity="other">%1$d оставащи секунди</item>
-     </plurals>
-     <plurals name="unit_hours">
-         <item quantity="one">" ч. "</item>
-         <item quantity="other">" ч. "</item>
-     </plurals>
-     <plurals name="unit_hours2">
-         <item quantity="one">" час "</item>
-         <item quantity="other">" часа "</item>
-     </plurals>
-     <plurals name="unit_mins">
-         <item quantity="one">" мин. "</item>
-         <item quantity="other">" мин. "</item>
-     </plurals>
-     <plurals name="unit_mins2">
-         <item quantity="one">" минута "</item>
-         <item quantity="other">" минути "</item>
-     </plurals>
-     <plurals name="unit_seconds">
-         <item quantity="one">" сек. "</item>
-         <item quantity="other">" сек. "</item>
-	 </plurals>
-	      <plurals name="sport_tts_goal_time">
-         <item quantity="other">距离您的目标还有%s分钟</item>
-     </plurals>
-     <plurals name="sporting_content_calories">
-         <item quantity="other">共消耗%1$d千卡</item>
-     </plurals>
-     <plurals name="sporting_content_riding_km">
-         <item quantity="other">您已经骑行%1$s千米</item>
-     </plurals>
-     <plurals name="sporting_content_running_km">
-         <item quantity="other">您已经跑步%1$s千米</item>
-     </plurals>
-     <plurals name="sporting_content_speed">
-         <item quantity="other">当前速度为%1$d分%2$d秒每千米</item>
-     </plurals>
-     <plurals name="sporting_content_time">
-         <item quantity="other">共用时%1$d分%2$d秒</item>
-     </plurals>
-     <plurals name="sporting_content_walking_km">
-         <item quantity="other">共走了%1$s千米</item>
-     </plurals>
-     <plurals name="sporting_content_walking_stpe">
-         <item quantity="other">您已经步行%1$d步</item>
-     </plurals>
-     <plurals name="sporting_unit_calories">
-         <item quantity="other">%1$d千卡</item>
-     </plurals>
-     <plurals name="sporting_unit_km">
-         <item quantity="other">%1$s千米</item>
-     </plurals>
 </resources>

@@ -131,12 +131,12 @@
   </string-array>
        <string-array name="HomePageTabTitle">
          <item>Здраве</item>
-         <item>Упражнение</item>
+         <item>Тренировки</item>
      </string-array>
      <string-array name="SportTabTitle">
-         <item>Бягане на открито</item>
+         <item>Бягане</item>
          <item>Ходене</item>
-         <item>Езда на открито</item>
+         <item>Езда</item>
          <item>Бягаща пътека</item>
      </string-array>
 </resources>

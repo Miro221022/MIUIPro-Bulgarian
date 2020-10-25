@@ -198,8 +198,28 @@
     <string name="screen_projection_sample_summary">Излъчване на документи, игри, снимки и видеоклипове</string>
     <string name="screen_projection_sample_title">Демонстрации</string>
     <string name="screen_projection_title">Излъчване</string>
-		  <string name="dialog_miplay_permission_message">Разрешаване на Излучване да записва звук, достъп до файлове във вътрешната памет и достъп до местоположението ви, за да можете да използвате тази функция нормално. Докоснете \"Настройки\" и изберете \"Разрешения за приложения\", за да продължите.</string>
-  <string name="dialog_miplay_permission_positive">Настройки</string>
-  <string name="dialog_miplay_permission_title">Изискват се разрешения</string>
-  <string name="synergy_casting">"Не може да се използва излъчване, докато Screen Combo работи"</string>
+    <string name="dialog_miplay_permission_message">Разрешаване на Излучване да записва звук, достъп до файлове във вътрешната памет и достъп до местоположението ви, за да можете да използвате тази функция нормално. Докоснете \"Настройки\" и изберете \"Разрешения за приложения\", за да продължите.</string>
+    <string name="dialog_miplay_permission_positive">Настройки</string>
+    <string name="dialog_miplay_permission_title">Изискват се разрешения</string>
+    <string name="synergy_casting">"Не може да се използва излъчване, докато Screen Combo работи"</string>
+    <string name="normal_device_desc">"Устройствата, с които сте се свързали, но не сте ги означили като надеждни"</string>
+    <string name="normal_device_desc_limit">"Устройствата, с които сте се свързали, но не сте ги означили като надеждни"</string>
+    <string name="normal_device_none">Тук няма по-рано свързани устройства</string>
+    <string name="normal_device_title">Ненадеждни устройства</string>
+    <string name="notification_cast_desc">Излъчване…</string>
+    <string name="notification_desc_scanning">Търсене на устройства наблизо…</string>
+    <string name="path_setting_cast">Връзка и споделяне/Излъчване</string>
+    <string name="path_setting_cast_demo">Връзка и споделяне/Излъчване/Демонстрации</string>
+    <string name="path_setting_cast_demo_document">Връзка и споделяне/Излъчване/Демонстрации/Документи</string>
+    <string name="path_setting_cast_demo_gallery">Връзка и споделяне/Излъчване/Демонстрации/Снимки и видео</string>
+    <string name="path_setting_cast_demo_game">Връзка и споделяне/Излъчване/Демонстрации/Игри</string>
+    <string name="path_setting_cast_feature">Връзка и споделяне/Излъчване/Специални функции</string>
+    <string name="path_setting_cast_help">Връзка и споделяне/Излъчване/Помощ</string>
+    <string name="trust_device_desc">"Тези устройства ще се появят тук първо, когато са наблизо"</string>
+    <string name="trust_device_dialog_desc"><Data>"%s ще се появи сред наличните устройства първо, когато е наблизо, ако го маркирате като надеждно.&lt;br>&lt;br>Можете да &lt;a href=milink://com.milink.service/trust>управлявате надеждните устройства&lt;/a> в Настройки."</Data></string>
+    <string name="trust_device_dialog_pos">Надеждно</string>
+    <string name="trust_device_dialog_title">Ще се доверите ли на това устройство?</string>
+    <string name="trust_device_manager">Управление на надеждни устройства</string>
+    <string name="trust_device_none">Тук няма надеждни устройства</string>
+    <string name="trust_device_title">Доверени устройства</string>
 </resources>
