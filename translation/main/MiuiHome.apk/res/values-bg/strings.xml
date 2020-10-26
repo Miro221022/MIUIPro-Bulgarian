@@ -627,4 +627,7 @@
     <string name="work_profile_first_content">Личните данни са отделени и скрити от служебните приложения</string>
     <string name="work_profile_second_content">Работните приложения и данни са видими за вашия ИТ администратор</string>
     <string name="work_profile_title">Работен профил</string>
+	<string name="recents_layout_style">Подреждане на елементите в Последни</string>
+    <string name="recents_layout_style_horizontal">Хоризонтално</string>
+    <string name="recents_layout_style_vertical">Вертикално</string>
 </resources>

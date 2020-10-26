@@ -160,4 +160,8 @@
         <item quantity="other">Намерени са %d приложения</item>
         <item quantity="one">Намерено е %d приложение</item>
     </plurals>
+	    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Изтриване на %d инсталационни пакети</item>
+        <item quantity="one">Изтриване на %d инсталационен пакет</item>
+    </plurals>
 </resources>

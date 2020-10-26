@@ -5977,7 +5977,7 @@ UT интерфейс: %5$s"</string>
      <string name="sync_enable">Синхронизация</string>
      <string name="sync_enabled">Синхронизирането е включено</string>
      <string name="sync_error">Грешка при синхронизиране</string>
-     <string name="sync_failed">Синхронизирането не бе успешно</string>
+     <string name="sync_failed">"Не може да се синхронизира. Изчакайте минута-две и опитайте отново.."</string>
      <string name="sync_gmail">Gmail</string>
      <string name="sync_in_progress">Синхронизира се сега…</string>
      <string name="sync_is_failing">Синхронизирането понастоящем среща проблеми. Ще продължи скоро.</string>
@@ -7757,4 +7757,9 @@ UT интерфейс: %5$s"</string>
     <string name="exterior">Цветова схема</string>
     <string name="light_color_mode">Режим на светлината</string>
     <string name="more_dark_mode_settings">Още възможности за тъмен режим</string>
+	<string name="enabled">Включено</string>
+    <string name="not_enabled">Изключено</string>
+    <string name="other_input_method">Други клавиатури</string>
+    <string name="sync_success">Синхронизирано успешно</string>
+    <string name="xiaomi_custom_input_method">Персонализирано за Xiaomi</string>
 </resources>

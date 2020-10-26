@@ -365,16 +365,13 @@
   <string name="not_set">Не е зададено</string>
   <string name="nothing">--</string>
   <string name="open_feedback_main">Повече</string>
-  <string name="open_settings">Отиди на настройките</string>
   <string name="packaging_dialog_content">Създава се доклад…</string>
   <string name="passport_access_denied">Достъпът отказан</string>
   <string name="passport_account_label">Mi профил</string>
-  <string name="passport_account_name">Профил: %1$s</string>
   <string name="passport_activate_token_expired">Кодът за потвърждение е изтекъл. Опитайте отново.</string>
   <string name="passport_area_code_title">Код на държава</string>
   <string name="passport_bad_authentication">Невалидно потребителско име или парола</string>
   <string name="passport_barcode_add_account_prompt">За да свържете профил, сканирайте отново QR кода, след като се впишете.</string>
-  <string name="passport_can_not_receive_verification_code">Не можете да получите код за потвърждение?</string>
   <string name="passport_checking_account">Проверка на паролата…</string>
   <string name="passport_close">Затвори</string>
   <string name="passport_delete_account">Отписване</string>
@@ -441,8 +438,6 @@
   <string name="passport_unknow_error">Възникна неизвестна грешка</string>
   <string name="passport_unknow_host_network_error">Проверете настройките на мрежата и опитайте отново</string>
   <string name="passport_unknow_network_error">Възникна мрежова грешка</string>
-  <string name="passport_user_agreement_link">"&lt;Data>Прочетох и съм съгласен с &lt;a href=%1$s>Потребителско споразумение&lt;/a> и &lt;a href=%2$s>Политика за поверителност&lt;/a>.&lt;/Data>"</string>
-  <string name="passport_user_agreement_link_more">"&lt;Data>Прочетох и се съгласих със следните документи: &lt;a href=%1$s>Потребителско споразумение&lt;/a> и &lt;a href=%4$s>Политика за поверителност&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
   <string name="passport_user_id_intro">Въведете парола за %1$s</string>
   <string name="passport_v_code_error">Кодът за проверка е неправилен</string>
   <string name="passport_vcode_notification_title">Вашата проверка за влизане е непълна</string>
@@ -476,7 +471,6 @@
   <string name="reply_select_log_hint">Изберете отчет</string>
   <string name="reply_successful">Обратната връзка е успешна</string>
   <string name="report_miui">Докладване на проблем</string>
-  <string name="request_camera_permission_message">Тази услуга трябва да поиска вашето разрешение следва, ние стриктно ще спазваме съответните закони, за да защитим вашата лична информация: &lt;br>&lt;br>&lt;b> Камера за достъп: насладете се на услуги за запис в реално време за настройка на Avatar &lt;/b>&lt;br>&lt;br> Ако не се съгласите да се обадите на горните разрешения, тази функция няма да работи правилно, но това няма да повлияе на използването на основните функции на това приложение. Можете да изберете да изключите горното повикване за разрешение в системните настройки, за да оттеглите съгласието си.</string>
   <string name="resend_active_email">Изпрати отново</string>
   <string name="resend_email_reach_limit_message">Поискали сте твърде много имейли за потвърждение. Уверете се, че имейлът за потвърждение не е в папката \\"Спам\\" на входящата ви поща.</string>
   <string name="resend_email_reach_limit_title">Твърде много опити</string>
@@ -591,4 +585,11 @@
   <string name="suggest_upload_log_dialog_content">"За да помогнете на нашите инженери да намерят и разрешат проблема, с който сте се сблъскали възможно най-скоро, препоръчваме да качите свързаните отчети. Те се използват само за анализ на проблеми и няма да се използват за други цели."</string>
   <string name="suggest_upload_log_dialog_title">Качване на свързаните отчети</string>
   <string name="toast_min_description_count">Описанието ви трябва да е по-дълго</string>
+    <string name="open_settings">Към Настройки</string>
+    <string name="passport_can_not_receive_verification_code">"Не можете да получите код за потвърждение?"</string>
+    <string name="request_camera_permission_message">Тази услуга трябва да поиска вашето разрешение, следователно ние стриктно ще спазваме съответните закони, за да защитим вашата лична информация: &lt;br>&lt;br>&lt;b> Достъп до камерата: услуги за запис в реално време за настройка на аватар &lt;/b>&lt;br>&lt;br> Ако не сте съгласни да дадете горните разрешения, тази функция няма да работи правилно, но няма да повлияе на използването на основните функции на това приложение. Можете да изберете да изключите горното разрешение в системните настройки, за да оттеглите съгласието си.</string>
+    <string name="submit_dialog_not_show_again">"Не показвай отново"</string>
+    <string name="passport_account_name">"Профил: %1$s "</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Прочетох и се съгласявам с &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Политика за поверителност&lt;/a> на Xiaomi.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Прочетох и се съгласявам със следните документи: &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%4$s\">Политика за поверителност&lt;/a> на Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data>"</string>
 </resources>
