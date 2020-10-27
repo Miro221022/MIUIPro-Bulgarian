@@ -704,11 +704,21 @@
     <string name="zen_mode_screen_locked_only">Когато устройството е заключено</string>
     <string name="zen_mode_summary">Заглушаване на входящите повиквания, известия, медия и изключване на вибрацията</string>
     <string name="zen_rule_name_hint">Въведете име за това правилото</string>
-	    <string name="dpp_qrcode_generator_summary">Сканирайте този QR код с устройство, което поддържа Easy Connect</string>
+	<string name="dpp_qrcode_generator_summary">Сканирайте този QR код с устройство, което поддържа Easy Connect</string>
     <string name="miui_wifi_wakeup_summary">WLAN ще се включи автоматично, когато вашето устройство открие запазени мрежи наблизо и ще се изключи след 15 минути, ако не е установена връзка</string>
     <string name="wifi_wakeup_location_summary">Включете услугите за местоположение, за да можете да използвате тази функция.</string>
     <string name="wifi_wakeup_negative_button">Отказ</string>
     <string name="wifi_wakeup_positive_button">Включи</string>
     <string name="wifi_wakeup_scan_summary">Позволете на приложенията и услугите да търсят WLAN мрежи, за да могат да включат WLAN автоматично. Включването на тази функция ще позволи на вашето устройство да се свързва автоматично със запазени мрежи наблизо.</string>
     <string name="wifi_wakeup_title">Включване на допълнителни функции</string>
+	<string name="silent_mode_disable_media">Заглуши всички</string>
+    <string name="silent_mode_enable_media">Възпроизвеждане на медия</string>
+    <string name="silent_mode_summary">Заглушаване на обажданията, известията и медията</string>
+    <string name="silent_mode_toggle_title">Тих режим</string>
+    <string name="volume_adjustment">Регулиране на силата на звука</string>
+    <string name="zen_mode_always">Винаги</string>
+    <string name="zen_mode_auto_rule">Планирани сесии за Не ме безпокойте</string>
+    <string name="zen_mode_lockscreen">Когато е заключен</string>
+    <string name="zen_mode_more_actions">Още опции за Не ме безпокойте</string>
+    <string name="zen_mode_summary2">Заглушаване на обажданията и известията, изключване на вибрацията</string>
 </resources>
