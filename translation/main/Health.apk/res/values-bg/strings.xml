@@ -1418,9 +1418,6 @@
      <string name="hr_finger_permission_desc">За да измерите сърдечната честота, тази функция трябва да има достъп до скенера за пръстови отпечатъци, за да може да открие промени в кръвния поток. Разрешавате ли?</string>
      <string name="snore_detection_close_prompt_desc">"От известно време не се отчита хъркане и говорене. Изключихме тази функция, за да се спести батерия. Докоснете, за да проверите настройките."</string>
      <string name="sport_share_success">Споделено успешно</string>
-	 <string name="sport_btn_lock">Заключване</string>
-     <string name="sport_btn_unlock">Отключване</string>
-     <string name="sporting_location">Местоположение</string>
      <string name="detail_record_pace_describe">Темпо (Времето за изминаване на 1 км)</string>
      <string name="detail_record_pace_title">Темпови сегменти</string>
      <string name="gps_no_signal_hint">"Текущият GPS сигнал не позволява проследяване на вашата тренировка и запис на маршрути. Отидете до равна, открита външна зона."</string>
@@ -1488,4 +1485,27 @@
      <string name="sporting_title_running">Бягане</string>
      <string name="sporting_title_waking">Ходене</string>
      <string name="user_center">Профил</string>
+	 <string name="please_choose">Избор</string>
+     <string name="sport_no_internet_toast">"Не можете да получите достъп до точното си местоположение поради лош сигнал на мрежата."</string>
+     <string name="sporting_content_speed">Текущо темпо: %1$s %2$s на километър</string>
+     <string name="sporting_content_time">Продължителност на тренировката: %1$s %2$s</string>
+     <string name="exit_running_tips_cancel">Да</string>
+     <string name="exit_running_tips_confirm">Не</string>
+     <string name="exit_running_tips_desc">"Изглежда все още не сте започнали да тренирате. Завършване на тази тренировка?"</string>
+     <string name="exit_running_tips_title">Завършване на тренировката</string>
+     <string name="placement_tips_recommend">Препоръчано</string>
+     <string name="placement_tips_recommend_1">Раница</string>
+     <string name="placement_tips_title">Къде трябва да поставите телефона си?</string>
+     <string name="placement_tips_warn">Не се препоръчва</string>
+     <string name="placement_tips_warn_1">Бягаща пътека</string>
+     <string name="sport_btn_lock">Заключване</string>
+     <string name="sport_btn_unlock">Отключване</string>
+     <string name="sport_invalid_dialog_distance_content">Разстоянието, което изминахте по време на тази тренировка, е твърде кратко, за да създадете запис в хронологията. Приключване на тази тренировка все пак?</string>
+     <string name="sport_share_save_local_fail">"Не може да се запази. Опитайте отново."</string>
+     <string name="sport_share_save_local_success">Запазено успешно</string>
+     <string name="sport_tts_finish_by_user">Това беше хубава тренировка!</string>
+     <string name="sport_tts_goal_finish">Постигнахте целта си! Поздравления!</string>
+     <string name="sport_tts_goal_finish_half">Вече сте на половината път! Продължавайте!</string>
+     <string name="sport_tts_pause_by_user">Тренировката е на пауза</string>
+     <string name="sporting_location">Локализиране</string>
 </resources>

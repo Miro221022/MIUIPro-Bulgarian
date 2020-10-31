@@ -872,7 +872,6 @@
   <string name="movie_download">Изтегляне</string>
   <string name="movie_download_failed">Не може да се изтегли</string>
   <string name="movie_download_failed_for_notwork">Не може да се изтегли. Свържете се с мрежата и опитайте отново.</string>
-  <string name="movie_download_sdk_without_wifi_msg">Изглежда, че устройството ви не е свързано към Wi-Fi. Изтегляне на необходимата приставка (3MB) чрез мобилни данни?</string>
   <string name="movie_download_sdk_without_wifi_title">Изтегляне чрез мобилни данни</string>
   <string name="movie_download_with_metered_network_msg">Изтеглянето на оригинални файлове може да доведе до допълнителни такси от оператора. Изтегляне въпреки това?</string>
   <string name="movie_download_with_metered_network_title">Свързани сте към платена мрежа</string>
@@ -1048,7 +1047,6 @@
   <string name="photo_editor_miui_beauty_no_face">Не може да се разпознае лицето</string>
   <string name="photo_editor_mosaic">Мозайка</string>
   <string name="photo_editor_navigator_cancel">Отказ</string>
-  <string name="photo_editor_navigator_download_network_metered_msg">Изтеглянето на %s изисква около 4MB мобилни данни. Изтегляне сега?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Предупреждение за използване на данни</string>
   <string name="photo_editor_navigator_export">Запази</string>
   <string name="photo_editor_navigator_module_download_failed">Неуспешно изтегляне %s</string>
@@ -1120,7 +1118,6 @@
   <string name="picker_image_need_download">%d от избраните снимки не са в устройството, изтегляне чрез мобилни данни?</string>
   <string name="picker_image_will_download">%d от избраните снимки не са в устройството, изтегляне</string>
   <string name="picker_no_network_message">Свържете се към мрежата за да теглите файлове</string>
-  <string name="picker_origin_need_download">%1$d от избраните снимки не са в устройството (%2$dМБ), изтегляне чрез мобилни данни?</string>
   <string name="picker_origin_request_progress_fail">Оригиналното изображение не може да се изтегли поради грешка в мрежата.</string>
   <string name="picker_origin_request_progress_message">Подготовка на оригинални файлове (%1$d/%2$d)…</string>
   <string name="picker_title_format">Изберете %1$d до %2$d снимки</string>
@@ -1355,10 +1352,8 @@
   <string name="slim_cost_time_minute">%dмин остават</string>
   <string name="slim_cost_time_minute_and_second">%1$dмин %2$dсек остават</string>
   <string name="slim_cost_time_second">%dсек остават</string>
-  <string name="slim_description_dialog_detail">Намаляване размера на локалните снимки. Оригиналните ще бъдат съхранени в Xiaomi Облак.</string>
   <string name="slim_description_dialog_ok">Разбрах</string>
   <string name="slim_description_dialog_slim_after">След:  167KБ</string>
-  <string name="slim_description_dialog_slim_before">Преди:  3.07МБ</string>
   <string name="slim_exit_dialog_positive">Спри</string>
   <string name="slim_exit_dialog_title">Спри оптимизирането</string>
   <string name="slim_running">Оптимизиране…</string>
@@ -1993,7 +1988,6 @@
     <string name="tuesday_shortest">Вто</string>
 	<string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
-	<string name="video_compress_lib_download_without_wifi">"Изглежда, че устройството ви не е свързано с Wi-Fi. Можете да използвате мобилни данни, за да изтеглите приставката за компресиране на видео (1.3МБ)."</string>
 	<string name="vlog_mi_clip_cn">Видео-редактор</string>
 	<string name="wednesday">Сряда</string>
     <string name="wednesday_short">Сря</string>
@@ -2159,4 +2153,22 @@
     <string name="toast_invalid_char">"Имената на файловете не могат да съдържат \"%s\""</string>
     <string name="toast_invalid_prefix">"Имената на файловете не могат да започват с \".\" or \"_\""</string>
     <string name="toast_rename_exit">Този файл вече съществува</string>
+	<string name="download_type_origin_subtitle_china">Оригиналните изображения заемат повече място за съхранение и могат да бъдат изтеглени само чрез Wi-Fi</string>
+    <string name="download_type_origin_title">Оригинално</string>
+    <string name="download_type_thumbnail_subtitle">Висококачествените изображения изглеждат почти идентични с оригиналните, но заемат по-малко място за съхранение</string>
+    <string name="download_type_thumbnail_title">Високо качество</string>
+    <string name="new_album_invalid_byte">Това име е твърде дълго</string>
+    <string name="notice_click_lock_orientation">Докоснете, за да заключите ориентацията</string>
+    <string name="operation_replace_album_cover">Сменете обложката на албума</string>
+    <string name="operation_replace_album_cover_custom_mode">Потребителско</string>
+    <string name="operation_replace_album_cover_default_mode">По подразбиране</string>
+    <string name="photo_page_lock_screen">Заключване на ориентацията</string>
+    <string name="toast_orientation_locked">Заключена ориентация успешно</string>
+    <string name="watch_all_photo">Галерия</string>
+    <string name="movie_download_sdk_without_wifi_msg">"Изглежда, че устройството ви не е свързано с Wi-Fi. Изтегляне на необходимата приставка (%2$d МБ) чрез мобилни данни?"</string>
+    <string name="photo_editor_navigator_download_network_metered_msg">Изтеглянето %s изисква около %2$d МБ мобилни данни. Изтегляне сега?</string>
+    <string name="picker_origin_need_download">"%1$d от избраните снимки (%2$d МБ) не са на устройството. Изтегляне чрез мобилни данни?"</string>
+    <string name="slim_description_dialog_detail">Компресирайте снимки и оставяйте по-малки висококачествени копия на това устройство, запазвайки оригиналните файлове в облака.</string>
+    <string name="slim_description_dialog_slim_before">Преди: %2$d МБ</string>
+    <string name="video_compress_lib_download_without_wifi">"Изглежда, че устройството ви не е свързано с Wi-Fi. Можете да използвате мобилни данни, за да изтеглите приставката за компресиране на видео (%2$d МБ)."</string>
 </resources>

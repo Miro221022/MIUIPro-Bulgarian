@@ -327,4 +327,5 @@
     <string name="trash_box_close_tip">Затвори подсказката</string>
     <string name="trash_box_delete_all">Да се изтрият ли всички елементи от кошчето завинаги?</string>
     <string name="user_feedback">Отзиви</string>
+	 <string name="no_network">"Не може да се свърже с мрежата"</string>
 </resources>

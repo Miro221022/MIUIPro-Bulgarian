@@ -1125,4 +1125,25 @@ M/dd"</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">Още</string>
     <string name="wallpaper_setting_title">Тапет</string>
     <string name="warning_subscribe_wallpaper_group_content">"Включили сте слайдшоуто на началния екран. %1$s ще се приложи към началния екран."</string>
+	 <string name="de_mix_mode_superwallpaper">Супер тапет</string>
+     <string name="de_mix_mode_superwallpaper_with_aod_desc">Винаги включен екран, заключен екран и начален екран</string>
+     <string name="de_mix_mode_superwallpaper_without_aod_desc">Заключен екран и начален екран</string>
+     <string name="de_super_wp_apply_wallpaper_button_text">Прилагане</string>
+     <string name="de_super_wp_dialog_tip_content">Супер тапетите се прилагат едновременно към заключен екран, начален екран и други свързани елементи.</string>
+     <string name="de_super_wp_dialog_tip_title">Супер тапет</string>
+     <string name="de_super_wp_land_position_default_des">Точка на приземяване</string>
+     <string name="personalize_alarm_ringtone_title">Аларма</string>
+     <string name="personalize_aod_title">AOD</string>
+     <string name="personalize_call_ringtone_title">Мелодии</string>
+     <string name="personalize_charge_style_title">Зареждане</string>
+     <string name="personalize_default_font">Шрифт по подразбиране</string>
+     <string name="personalize_fingerprint_style_title">Пръстов отпечатък</string>
+     <string name="personalize_icon_title">Икони</string>
+     <string name="personalize_notify_ringtone_title">Известия</string>
+     <string name="personalize_notify_style_title">Ефекти</string>
+     <string name="personalize_theme_entrance">Теми</string>
+     <string name="personalize_third_font">Шрифтове</string>
+     <string name="personalize_title">Тапет и персонализация</string>
+     <string name="personalize_wallpaper_sub_title">Супер тапети и представени изображения</string>
+     <string name="personalize_wallpaper_title">Тапет</string>
 </resources>

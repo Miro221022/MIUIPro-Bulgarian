@@ -18,7 +18,7 @@
     <string name="audio_video_document">Звук, видео и документи</string>
     <string name="birthday">Рожден ден</string>
     <string name="btn_got_it">Разбрах</string>
-    <string name="btn_install_complete">Инсталирано. Стартиране…</string>
+    <string name="btn_install_complete">Инсталирано</string>
     <string name="button_finish">Готово</string>
     <string name="button_import">Внасяне</string>
     <string name="button_return">Назад</string>
@@ -431,7 +431,6 @@
     <string name="friday_shortest">П</string>
     <string name="get_known_tip">Опитайте отново</string>
     <string name="group_info_scanning">Изчисляване…</string>
-    <string name="guest_hint_connect_new_device">Докоснете новото устройство, за да се свържете</string>
     <string name="guest_unfinished_task_alert_btn_negative">Започни отначало</string>
     <string name="guest_unfinished_task_alert_btn_positive">Продължи</string>
     <string name="guest_unfinished_task_alert_message">Изглежда имате незавършени задачи за трансфер. Да продължа ли с трансфера?</string>
@@ -659,11 +658,9 @@
     <string name="scanner_send_dialog_btn">Разбрах</string>
     <string name="scanner_send_dialog_message">"Не изключвайте Wi-Fi и не превключвайте между мрежите по време на прехвърлянето."</string>
     <string name="scanner_size_selected">Избрани: %s</string>
-    <string name="scanner_time_remained">Оставащо време: %s</string>
     <string name="scanner_title_tip">Изберете елементи за прехвърляне</string>
     <string name="search_input_description">Търсене</string>
     <string name="search_mode_button_back_description">Назад</string>
-    <string name="searching_for_new_device">Търсене на устройства в близост ...</string>
     <string name="select_all">Избери всички</string>
     <string name="select_all_description">Избери всички</string>
     <string name="select_empty">Първо изберете елементи за импортиране</string>
@@ -690,7 +687,6 @@
     <string name="sim_unavailable">SIM картата не е налична.</string>
     <string name="sip_phone">SIP телефон</string>
     <string name="sms">SMS</string>
-    <string name="soft_ap_create_failed">"Не може да се създаде точка за достъп"</string>
     <string name="soft_ap_creating">Създаване на точка за достъп…</string>
     <string name="solar_term_autumn_begins">Есента започва</string>
     <string name="solar_term_autumn_equinox">Есенно равноденствие</string>
@@ -786,12 +782,9 @@
 2. Изтеглете и инсталирайте Mi Трансфер.
 3. Докоснете бутона по-долу, след като инсталацията приключи."</string>
     <string name="trans_intro_title">ЧЗВ</string>
-    <string name="trans_main_activity_tutor_first">"Преместете вашите снимки, контакти, съобщения, история на обажданията,
-звуци, видео, документи и приложения в новото устройство"</string>
     <string name="trans_one_key_migrate">Mi Трансфер</string>
     <string name="trans_receive_time_remained">Получени: %1$s | Остават: %2$s</string>
     <string name="trans_send_time_remained">Изпратени: %1$s | Остават: %2$s</string>
-    <string name="trans_show_qr_code_label">Свързване със старото устройство</string>
     <string name="trans_sync_transfer_data_list">Изберете елементи, които да прехвърлите на старото устройство</string>
     <string name="trans_time_format_second">По-малко от минута</string>
     <string name="trans_time_spent">Време: %s</string>
@@ -1145,4 +1138,29 @@
      <string name="open_photo_and_contacts_cloud_sync_content2">%d. Докоснете \"Синхронизирай сега\".</string>
      <string name="open_photo_and_contacts_cloud_sync_summary">Включете синхронизирането, за да се показват контакти и елементи от галерията на това устройство.</string>
      <string name="open_photo_and_contacts_cloud_sync_title">Синхронизирайте контакти и елементи от галерията</string>
+	 <string name="appname_app_data_suffix">%1$s данни за приложения</string>
+     <string name="fail_list_tips">"Следните елементи не могат да бъдат прехвърлени на новото устройство."</string>
+     <string name="guest_connect_dialog_ensure_text">Свързване</string>
+     <string name="guest_connect_dialog_fail_message">"Не може да се свърже. Опитайте отново."</string>
+     <string name="host_install_hint">"Mi Трансфер не е инсталирано?"</string>
+     <string name="main_receiver_summary">Докоснете, за да получите елементи</string>
+     <string name="main_receiver_title">Ново</string>
+     <string name="main_sender_summary">Докоснете, за да изпратите елементи</string>
+     <string name="main_sender_title">Старо</string>
+     <string name="receiver_finish_detail_button">Преглед на отчета</string>
+     <string name="receiver_finish_detail_fail">"Не може да се прехвърли"</string>
+     <string name="receiver_finish_detail_success">Прехвърлени елементи</string>
+     <string name="receiver_finish_title">"Готови сте!"</string>
+     <string name="select_android_summary">Huawei, OPPO, vivo и още</string>
+     <string name="select_mi_summary">Xiaomi и Redmi</string>
+     <string name="select_old_device_title">Изберете стар модел устройство</string>
+     <string name="sender_finish_bottom_tips">"Уверете се, че сте архивирали всички важни елементи, преди да изтриете данните на това устройство."</string>
+     <string name="sender_finish_title">Прехвърлено успешно</string>
+     <string name="transfer_finish_summary">Прехвърлено %1$s (%2$s)</string>
+     <string name="guest_hint_connect_new_device">Изберете ново устройство</string>
+     <string name="scanner_time_remained">Очаквано време за прехвърляне: %s</string>
+     <string name="searching_for_new_device">Търсене на новото устройство…</string>
+     <string name="soft_ap_create_failed">"Не може да се създаде точка за достъп. Опитайте отново."</string>
+     <string name="trans_main_activity_tutor_first">Прехвърлете елементи на ново устройство</string>
+     <string name="trans_show_qr_code_label">Отворете Mi Трансфер на старото устройство</string>
 </resources>

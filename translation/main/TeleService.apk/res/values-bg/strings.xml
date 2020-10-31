@@ -1960,9 +1960,10 @@
 	    <string name="mobile_intelligent_connection_title">Интелигентна свързаност с мобилна мрежа</string>
     <string name="traffic_mode_summary">Дайте приоритет на мобилната мрежова връзка за текущо използваните приложения. Приложенията във фонов режим може да не успеят да се свържат</string>
     <string name="traffic_mode_switch_title">Екстремен режим</string>
-	    <string name="fiveg_network_mode_default">Auto Mode</string>
-    <string name="fiveg_network_mode_nsa">NSA режим</string>
-    <string name="fiveg_network_mode_sa_nsa">SA+NSA режим</string>
+	    <string name="fiveg_network_mode_default">Авто</string>
+    <string name="fiveg_network_mode_nsa">NSA</string>
+    <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
     <string name="fiveg_network_mode_title">Избор на 5G мрежов режим</string>
 	    <string name="preference_countrycode_title">Код на държавата</string>
+    <string name="fiveg_sa_vice_switch_title">SA на втората SIM</string>
 </resources>

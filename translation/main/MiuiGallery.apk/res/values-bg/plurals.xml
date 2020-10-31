@@ -192,10 +192,6 @@
     <item quantity="other">Обработване на снимки…</item>
     <item quantity="one">Обработване на снимка…</item>
   </plurals>
-  <plurals name="fast_share_auto_render_failed">
-    <item quantity="other">Пропуснахте %1$d снимки които не могат да бъдат разкрасени.</item>
-    <item quantity="one">Пропуснахте снимка, която не може да бъде разкрасена.</item>
-  </plurals>
   <plurals name="file_type_detail_count">
     <item quantity="other">%1$d файла</item>
     <item quantity="one">%1$d файл</item>
@@ -203,10 +199,6 @@
   <plurals name="number_of_images_and_videos_to_upload">
     <item quantity="other">%1$d снимки изчакващи за синхронизиране</item>
     <item quantity="one">%1$d снимка за чакаща за синхронизиране</item>
-  </plurals>
-  <plurals name="number_of_images_synced">
-    <item quantity="other">%1$d снимки</item>
-    <item quantity="one">1 снимка</item>
   </plurals>
   <plurals name="number_of_images_to_upload">
     <item quantity="other">%1$d снимки чакат за синхронизиране</item>
@@ -223,10 +215,6 @@
   <plurals name="number_of_uploading_videos">
     <item quantity="other">Синхронизират се %1$d видеоклипа…</item>
     <item quantity="one">Синхронизира се 1 видеоклип…</item>
-  </plurals>
-  <plurals name="number_of_videos_synced">
-    <item quantity="other">%1$d видеоклипа</item>
-    <item quantity="one">1 видеоклип</item>
   </plurals>
   <plurals name="number_of_videos_to_upload">
     <item quantity="other">%1$d видеоклипа чакат за синхронизиране</item>
@@ -252,37 +240,13 @@
     <item quantity="other">Избраните снимки не са в устройството, изтегляне</item>
     <item quantity="one">Избраната снимка не е в устройството, изтегляне</item>
   </plurals>
-  <plurals name="picker_all_origin_need_download">
-    <item quantity="other">Избраните снимки (%dМБ) не са в устройството. Изтегляне чрез мобилни данни?</item>
-    <item quantity="one">Избраната снимка (%dМБ) не е в устройството. Изтегляне чрез мобилни данни?</item>
-  </plurals>
   <plurals name="picker_cancel_confirm_message">
        <item quantity="other">"%d файла все още не са изтеглени. Отказ въпреки това?"</item>
        <item quantity="one">"%d файл все още не е изтеглен. Отказ въпреки това?"</item>
   </plurals>
-  <plurals name="picker_no_network_retry_image_confirm_message">
-    <item quantity="other">Не могат да се изтеглят %1$d снимки, свържете се към мрежата и опитайте отново</item>
-    <item quantity="one">Снимката не може да се изтегли, свържете се към мрежата и опитайте отново</item>
-  </plurals>
-  <plurals name="picker_no_network_retry_origin_confirm_message">
-       <item quantity="other">"Не могат да се изтеглят %1$d файла (%2$dМБ). Свържете се с мрежата и опитайте отново."</item>
-       <item quantity="one">"Не може да се изтегли %1$d файл (%2$dМБ). Свържете се с мрежата и опитайте отново."</item>
-  </plurals>
-  <plurals name="picker_retry_image_confirm_message">
-    <item quantity="other">Не могат да се изтеглят %1$d снимки, повторен опит?</item>
-    <item quantity="one">Не може да се изтегли снимка, повторен опит?</item>
-  </plurals>
-  <plurals name="picker_retry_origin_confirm_message">
-    <item quantity="other">Не могат да се изтеглят %1$d снимки (%2$dМБ), повторен опит?</item>
-    <item quantity="one">Не може да се изтегли снимка (%2$dМБ), повторен опит?</item>
-  </plurals>
   <plurals name="picker_skip_unavailable_images">
     <item quantity="other">Пропуснати са %d снимки които не са в устройството.</item>
     <item quantity="one">Пропусната е снимка която не е в устройството.</item>
-  </plurals>
-  <plurals name="quickly_discovery_message_format">
-    <item quantity="other">Открити са %1$d нови снимки</item>
-    <item quantity="one">Открита е нова снимка</item>
   </plurals>
   <plurals name="remind_face_recommend_confirm_text">
     <item quantity="other">Общо %d снимки</item>
@@ -364,10 +328,6 @@
     <item quantity="other">%1$d файла</item>
     <item quantity="one">%1$d файл</item>
   </plurals>
-      <plurals name="picker_origin_need_to_download">
-        <item quantity="other">"%1$d файла (%2$dМБ) все още не са изтеглени. Изтегляне чрез мобилни данни?"</item>
-        <item quantity="one">"%1$d файл (%2$dМБ) все още не е изтеглен. Изтегляне чрез мобилни данни?"</item>
-    </plurals>
 	    <plurals name="picker_file_will_download">
         <item quantity="other">Изтегляне на %d оставащи файла</item>
         <item quantity="one">Изтегляне на %d оставащ файл</item>
@@ -535,5 +495,45 @@
     <plurals name="pic_to_pdf_support_max_count">
         <item quantity="one">PDF файловете могат да съдържат до %d изображение</item>
         <item quantity="other">PDF файловете могат да съдържат до %d изображения</item>
+    </plurals>
+	    <plurals name="fast_share_auto_render_failed">
+        <item quantity="one">"Пропусната е %1$d снимка, която не може да бъде изобразена."</item>
+        <item quantity="other">"Пропуснати са %1$d снимки, които не могат да бъдат изобразени."</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="one">%1$d снимка</item>
+        <item quantity="other">%1$d снимки</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+	        <item quantity="one">%1$d видеоклип</item>
+        <item quantity="other">%1$d видеоклипа</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="one">"Избраната снимка (%d МБ) не е на устройството. Да се изтегли ли чрез мобилни данни?"</item>
+        <item quantity="other">"Избраните снимки (%d МБ) не са на устройство. Да се изтеглят ли чрез мобилни данни?"</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="one">"Не може да се изтегли %1$d снимка, свържете се с мрежата и опитайте отново"</item>
+        <item quantity="other">"Не могат да се изтеглят %1$d снимки, свържете се с мрежата и опитайте отново"</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="one">"Не може да се изтегли %1$d файл (%2$d МБ). Свържете се с мрежата и опитайте отново."</item>
+        <item quantity="other">"Не могат да се изтеглят %1$d файла (%2$d МБ). Свържете се с мрежата и опитайте отново."</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="one">"%1$d файл (%2$d МБ) все още не е изтеглен. Да се изтегли ли чрез мобилни данни?"</item>
+        <item quantity="other">"%1$d файла (%2$d МБ) все още не са изтеглени. Да се изтеглят ли чрез мобилни данни?"</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="one">"Не може да се изтегли %1$d снимка, повторен опит?"</item>
+        <item quantity="other">"Не могат да се изтеглят %1$d снимки, повторен опит?"</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="one">"Не може да се изтегли %1$d снимка (%2$d МБ), повторен опит?"</item>
+        <item quantity="other">"Не могат да се изтеглят %1$d снимки (%2$d МБ), повторен опит?"</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="one">Намерена е %1$d нова снимка</item>
+        <item quantity="other">Намерени са %1$d нови снимки</item>
     </plurals>
 </resources>

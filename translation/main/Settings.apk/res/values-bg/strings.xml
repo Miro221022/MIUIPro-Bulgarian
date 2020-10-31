@@ -7762,4 +7762,5 @@ UT интерфейс: %5$s"</string>
     <string name="other_input_method">Други клавиатури</string>
     <string name="sync_success">Синхронизирано успешно</string>
     <string name="xiaomi_custom_input_method">Персонализирано за Xiaomi</string>
+	 <string name="smart_space_clock">Бърз преглед</string>
 </resources>

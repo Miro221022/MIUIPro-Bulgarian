@@ -527,7 +527,7 @@
     <string name="set_lock_password_dialog_title">Задайте нова парола</string>
     <string name="unlock_password_dialog_msg">Ще се използва парола за защита на поверителността. Работи за снимки, бележки и файлове.</string>
     <string name="unlock_password_dialog_title">Парола за защита на поверителността</string>
-	<string name="ai_ppt_to_pdf">Преобразувано в PDF</string>
+	<string name="ai_ppt_to_pdf">Конвертиране на слайдове в PDF</string>
     <string name="ai_recommend_pdf">Преобразувано в PDF</string>
     <string name="album">Галерия</string>
     <string name="all">Всчико</string>
@@ -553,4 +553,5 @@
     <string name="save">Запазване</string>
     <string name="save_pdf">Запазване</string>
     <string name="saving_pdf">Запазване…</string>
+	<string name="ai_ppt_to_pdf_view_all">Преглед на всички</string>
 </resources>

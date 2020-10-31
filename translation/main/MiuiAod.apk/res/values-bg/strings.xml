@@ -160,13 +160,13 @@
   <string name="tip_to_open_aod_mode">Винаги включен екран е изключен. Да се включи сега?</string>
   <string name="v7_preference_off">ИЗКЛ.</string>
   <string name="v7_preference_on">ВКЛ.</string>
-      <string name="item_view_role_description">Раздел</string>
+    <string name="item_view_role_description">Раздел</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Повече от %1$d нови известия</string>
-	    <string name="aod_dual_clock_date">HH:mm dd/MM</string>
+	<string name="aod_dual_clock_date">HH:mm dd/MM</string>
     <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
-	    <string name="add_custom_image">Персонализирано изображение</string>
+	<string name="add_custom_image">Персонализирано изображение</string>
     <string name="dual_clock_tip">Двойният часовник е включен. Докоснете, за да отворите Настройки.</string>
     <string name="share">Споделяне</string>
-    <string name="share_to_community">Споделяне в Mi Community</string>
     <string name="step_to_image_community">Открийте повече в Mi Community</string>
+    <string name="share_to_community">Споделяне в Mi Community</string>
 </resources>

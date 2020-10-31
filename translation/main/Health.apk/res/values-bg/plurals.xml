@@ -216,33 +216,13 @@
     <item quantity="one">Изминахте %s километра</item>
     <item quantity="other">Изминахте %s километър</item>
   </plurals>
-  <plurals name="sporting_content_calories">
-    <item quantity="other">Вече сте изгорили %1$s калории</item>
-    <item quantity="one">Вече сте изгорили %1$s калория</item>
-  </plurals>
   <plurals name="sporting_content_min">
     <item quantity="other">%1$d минути</item>
     <item quantity="one">%1$d минута</item>
   </plurals>
-  <plurals name="sporting_content_riding_km">
-    <item quantity="other">Вече сте карали велосипед %1$s километра</item>
-    <item quantity="one">Вече сте карали велосипед %1$s километър</item>
-  </plurals>
-  <plurals name="sporting_content_running_km">
-    <item quantity="other">Вече тичахте %1$s километри</item>
-    <item quantity="one">Вече тичахте %1$s километър</item>
-  </plurals>
   <plurals name="sporting_content_sec">
     <item quantity="other">%1$d секунди</item>
     <item quantity="one">%1$d секунда</item>
-  </plurals>
-  <plurals name="sporting_content_walking_km">
-    <item quantity="other">Вече сте ходили %1$s километра</item>
-    <item quantity="one">Вече сте ходили %1$s километър</item>
-  </plurals>
-  <plurals name="sporting_content_walking_stpe">
-    <item quantity="other">Вече направихте %1$s крачки</item>
-    <item quantity="one">Вече направихте %1$s крачка</item>
   </plurals>
   <plurals name="sporting_unit_calories">
     <item quantity="one">%1$d калории</item>
@@ -364,4 +344,24 @@
     <item quantity="other">%1$d години</item>
     <item quantity="one">%1$d година</item>
   </plurals>
+      <plurals name="sporting_content_calories">
+        <item quantity="one">"Вече сте изгорили %1$s калория"</item>
+        <item quantity="other">"Вече сте изгорили %1$s калории"</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="one">"Вече сте карали велосипед %1$s километър"</item>
+        <item quantity="other">"Вече сте карали велосипед %1$s километра"</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="one">"Вече тичахте %1$s километър"</item>
+        <item quantity="other">"Вече тичахте %1$s километра"</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="one">"Вече сте изминали %1$s километър"</item>
+        <item quantity="other">"Вече сте изминали %1$s километра"</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="one">"Вече сте направили %1$s крачка"</item>
+        <item quantity="other">"Вече сте направили %1$s крачки"</item>
+    </plurals>
 </resources>
