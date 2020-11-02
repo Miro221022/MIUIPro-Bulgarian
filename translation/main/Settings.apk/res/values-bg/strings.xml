@@ -2132,8 +2132,8 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="dual_setting_simcard1">SIM 1</string>
      <string name="dual_setting_simcard2">SIM 2</string>
      <string name="dump_log">Получаване на отчети, свързани с проблеми</string>
-     <string name="dump_log_summary">"Тази функция е предназначена за генериране на 284 отчети в алфа и бета версии на MIUI. Използвайте я внимателно.
-Можете да преглеждате генерираните отчети във файловия мениджър."</string>
+     <string name="dump_log_summary">"Тази функция е предназначена за генериране на 284 отчет в бета версията на MIUI. Използвайте я с повишено внимание.
+Можете да преглеждате генерирани отчети във Файлов мениджър."</string>
      <string name="dump_log_title">Относно тази функция</string>
      <string name="eab_provisioned_switch_string">Обезпечено за EAB/присъствие</string>
      <string name="easymode_hint">Докоснете, за да изключите олекотения режим</string>
@@ -7762,5 +7762,7 @@ UT интерфейс: %5$s"</string>
     <string name="other_input_method">Други клавиатури</string>
     <string name="sync_success">Синхронизирано успешно</string>
     <string name="xiaomi_custom_input_method">Персонализирано за Xiaomi</string>
-	 <string name="smart_space_clock">Бърз преглед</string>
+	<string name="smart_space_clock">Бърз преглед</string>
+	<string name="gxzw_lowlight_open_summary">Намалете яркостта на иконата за пръстови отпечатъци при условия на слаба осветеност. Устройството ви може да се отключва по-бавно, когато тази функция е включена.</string>
+    <string name="gxzw_lowlight_open_title">Отключване на пръстов отпечатък при слаба светлина</string>
 </resources>

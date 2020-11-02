@@ -518,4 +518,11 @@
      <string name="theme_title_leaf">Листа</string>
      <string name="theme_title_nightsky">Нощно небе</string>
      <string name="theme_title_shadow">Сенки</string>
+	<string name="dlg_update_cancel">Не сега</string>
+    <string name="dlg_update_checkbox_title">Игнорирай тази версия</string>
+    <string name="dlg_update_title">Налична е актуализация</string>
+    <string name="dlg_update_update_now">Актуализация</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Актуализация</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
 </resources>

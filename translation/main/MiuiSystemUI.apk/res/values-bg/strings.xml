@@ -2034,4 +2034,15 @@ d MMMM"</string>
     <string name="quick_settings_vowifi_label">WLAN повиквания</string>
     <string name="quick_settings_vowifi_sim1_label">WLAN повиквания SIM1</string>
     <string name="quick_settings_vowifi_sim2_label">WLAN повиквания SIM2</string>
+	<string name="touch_filtered_warning">Тъй като дадено приложение закрива искането за разрешение, настройките не могат да проверят отговора ви.</string>
+    <string name="wifi_debugging_allow">Разрешаване</string>
+    <string name="wifi_debugging_always">Винаги разрешавай в тази мрежа</string>
+    <string name="wifi_debugging_message">"Име на мрежата (SSID)
+%1$s
+
+WLAN адрес (BSSID)
+%2$s"</string>
+    <string name="wifi_debugging_secondary_user_message">Потребителят, който в момента е влязъл в това устройство, не може да включи безжичното отстраняване на грешки. За да използвате тази функция, превключете към основния потребител.</string>
+    <string name="wifi_debugging_secondary_user_title">Безжичното отстраняване на грешки не е разрешено</string>
+    <string name="wifi_debugging_title">Да се разреши ли безжично отстраняване на грешки в тази мрежа?</string>
 </resources>

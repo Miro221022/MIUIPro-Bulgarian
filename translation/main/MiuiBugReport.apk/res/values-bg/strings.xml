@@ -590,6 +590,26 @@
     <string name="request_camera_permission_message">Тази услуга трябва да поиска вашето разрешение, следователно ние стриктно ще спазваме съответните закони, за да защитим вашата лична информация: &lt;br>&lt;br>&lt;b> Достъп до камерата: услуги за запис в реално време за настройка на аватар &lt;/b>&lt;br>&lt;br> Ако не сте съгласни да дадете горните разрешения, тази функция няма да работи правилно, но няма да повлияе на използването на основните функции на това приложение. Можете да изберете да изключите горното разрешение в системните настройки, за да оттеглите съгласието си.</string>
     <string name="submit_dialog_not_show_again">"Не показвай отново"</string>
     <string name="passport_account_name">"Профил: %1$s "</string>
-    <string name="passport_user_agreement_link">"&lt;Data>Прочетох и се съгласявам с &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Политика за поверителност&lt;/a> на Xiaomi.&lt;/Data>"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Прочетох и се съгласявам със следните документи: &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%4$s\">Политика за поверителност&lt;/a> на Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Прочетох и се съгласявам с &lt;a href="%1$s">Потребителско споразумение&lt;/a> и &lt;a href="%2$s">Политика за поверителност&lt;/a> на Xiaomi.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Прочетох и се съгласявам със следните документи: &lt;a href="%1$s">Потребителско споразумение&lt;/a> и &lt;a href="%4$s">Политика за поверителност&lt;/a> на Xiaomi, &lt;a href="%2$s">"%3$s"&lt;/a>.&lt;/Data>"</string>
+	<string name="error_no_connection">"Не може да се свърже с мрежата"</string>
+    <string name="feedback_description_bugreport_hint">В някои случаи (…) телефонът ми се държи лошо (…).</string>
+    <string name="feedback_description_label">Описание</string>
+    <string name="feedback_hint_optional">Избор</string>
+    <string name="feedback_phone_model_label">Модел на телефона</string>
+    <string name="feedback_probability_label">Вероятност</string>
+    <string name="feedback_retest_label">Стъпки за възпроизвеждане</string>
+    <string name="feedback_third_packagename_hint">Кое приложение от трета страна създава проблеми?</string>
+    <string name="feedback_version_label">Версия</string>
+    <string name="from">от %1$s</string>
+    <string name="packaging_dialog_content">Създаване на отчет…</string>
+    <string name="plus_one_submit_dialog_content">"Вашите отзиви заедно с отчетите за грешки ще бъдат изпратени до сървърите на Mi."</string>
+    <string name="plus_one_submit_dialog_not_show_again">Запомняне на предпочитанията</string>
+    <string name="screen_lock">Заключване на екрана</string>
+    <string name="section_err_type">Тип на грешката</string>
+    <string name="select_system_app_tag">Изберете проблем</string>
+    <string name="systemui">Панел за известия</string>
+    <string name="toast_fill_brackets">В доклада ви липсва малко информация</string>
+    <string name="toast_log_too_large">"Не може да се качи. Отчетът е твърде голям."</string>
+    <string name="toast_title_required">Опишете вашия проблем</string>
 </resources>

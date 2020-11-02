@@ -1117,4 +1117,21 @@
     <string name="system_permission_declare_privacy_link">За да разберете напълно вашите права като потребител, както и начините, по които използваме вашите данни, прочетете и приемете нашата %1s.</string>
     <string name="web_content_invalid_hint">Показването на този елемент е ограничено от местните закони и разпоредби</string>
 	<string name="go_to">"Отвори "</string>
+	<string name="message_cannot_send_air_mode">"Не можете да изпращате съобщения.
+Изключете първо самолетния режим."</string>
+    <string name="message_cannot_send_sim_unavailable">"Не можете да изпращате съобщения.
+проверете вашата SIM карта."</string>
+    <string name="message_failed_and_cotanct_operator">Възникна грешка. <font color="#1c86ee">Свържете се с оператора си</font>.</string>
+    <string name="message_failed_and_feedback">Възникна грешка. <font color="#1c86ee">Съобщете за проблема</font>.</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_action_mode_select_all">Избери всички</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Изберете елементи</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Още</string>
+    <string name="miuix_appcompat_cancel_description">Отказ</string>
+    <string name="miuix_appcompat_confirm_description">Потвръди</string>
+    <string name="miuix_appcompat_delete_description">Изтриване</string>
+    <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
+    <string name="miuix_appcompat_search_input_description">Търсене</string>
+    <string name="miuix_appcompat_select_all_description">Избери всички</string>
 </resources>
