@@ -375,4 +375,5 @@
     <string name="intercept_confirm_dialog_positive">Потвърди</string>
     <string name="intercept_confirm_dialog_title">Внимание</string>
     <string name="spannable_continue_text">Разбирам рисковете. Инсталирай въпреки това.</string>
+	<string name="miui_other_permission">Друго</string>
 </resources>

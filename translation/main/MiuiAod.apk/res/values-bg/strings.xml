@@ -169,4 +169,11 @@
     <string name="share">Споделяне</string>
     <string name="step_to_image_community">Открийте повече в Mi Community</string>
     <string name="share_to_community">Споделяне в Mi Community</string>
+	<string name="always_style_symmary">Консумира повече енергия</string>
+    <string name="ambient_display_screen_title">Винаги включен екран</string>
+    <string name="ambient_display_screen_title_sp">Ambient display</string>
+    <string name="off">Изключен</string>
+    <string name="on">Включен</string>
+    <string name="scheduled_style_summary">Задайте персонализирано време</string>
+    <string name="temporary_style_summary">Препоръчано</string>
 </resources>

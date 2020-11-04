@@ -2045,4 +2045,8 @@ WLAN адрес (BSSID)
     <string name="wifi_debugging_secondary_user_message">Потребителят, който в момента е влязъл в това устройство, не може да включи безжичното отстраняване на грешки. За да използвате тази функция, превключете към основния потребител.</string>
     <string name="wifi_debugging_secondary_user_title">Безжичното отстраняване на грешки не е разрешено</string>
     <string name="wifi_debugging_title">Да се разреши ли безжично отстраняване на грешки в тази мрежа?</string>
+	<string name="miui_toast_zen_dnd_to_off_version_R">Не ме безпокойте е изключен. Звуците за известяване и вибрациите са включени отново.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Безшумният режим е изключен. Известията, медийните звуци и вибрациите отново са включени.</string>
+    <string name="miui_toast_zen_to_dnd_version_R">Не ме безпокойте е включен. Известията ще бъдат заглушени и вибрациите изключени.</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Безшумен режим е включен. Известията, медията и вибрацията ще бъдат изключени.</string>
 </resources>

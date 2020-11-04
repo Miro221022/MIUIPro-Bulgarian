@@ -500,8 +500,8 @@
     <string name="micloud_find_device_guide_alert_positive">OК</string>
     <string name="micloud_find_device_guide_alert_negtive">Не, благодаря</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">Не, благодаря</string>
-    <string name="micloud_find_device_close_alert_title">Изключване на Открий устройство?</string>
-    <string name="micloud_find_device_close_alert_content">"Ако изключите Открий устройството, няма да можете да намерите телефона си, чрез тази функция. Ако телефонът ви поддържа КБП функционалност, всичките ваши банкови карти и заключващи карти ще бъдат изтрити от Mi Pay."</string>
+    <string name="micloud_find_device_close_alert_title">Изключване на Открий устройството?</string>
+    <string name="micloud_find_device_close_alert_content">"Ако изключите Открий устройството, няма да можете да намерите устройството си с помощта на тази функция. Ако вашето устройство поддържа NFC, всички ваши банкови карти и ключови карти ще бъдат изтрити от Mi Pay. Хората, с които споделяте местоположение, също няма да могат да получават актуализации за местонахождението Ви."</string>
     <string name="micloud_find_device_close_alert_positive">Остави вкл</string>
     <string name="micloud_find_device_close_alert_negtive">Изключи въпреки това</string>
     <string name="activate_finddevice">Свържете се с мрежата, за да активирате устройството</string>

@@ -3855,4 +3855,11 @@
     <string name="write_clipboard_tip_title">Запазване на елементи в буферната памет</string>
     <string name="gb_sign_notification_summary">Играйте игри без забавяне в мрежата</string>
     <string name="gb_sign_notification_title">Опитайте Game Turbo безплатно</string>
+	<string name="privacy_thumbnail_blur_category_financial">Финанси</string>
+    <string name="privacy_thumbnail_blur_category_other">Друго</string>
+    <string name="privacy_thumbnail_blur_category_photography">Снимки и видео</string>
+    <string name="privacy_thumbnail_blur_category_tip">Препоръчано</string>
+    <string name="privacy_thumbnail_blur_search_empty">"Не са намерени резултати"</string>
+    <string name="privacy_thumbnail_blur_title">Замъглени изгледи</string>
+    <string name="privacy_thumbnail_blur_top_tip">Изберете приложения, за които визуализациите ще бъдат замъглени в Последни</string>
 </resources>

@@ -8,4 +8,12 @@
         <item quantity="other">%d разрешения</item>
         <item quantity="one">%d разрешение</item>
     </plurals>
+	    <plurals name="miui_app_all_permission_number">
+        <item quantity="other">%d разрешения</item>
+        <item quantity="one">%d разрешение</item>
+    </plurals>
+    <plurals name="miui_app_privacy_permission_number">
+        <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> разрешения, свързани с поверителността&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> разрешение, свързано с поверителността&lt;/Data></item>
+    </plurals>
 </resources>
