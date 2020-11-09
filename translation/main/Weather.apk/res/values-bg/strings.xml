@@ -75,8 +75,6 @@
   <string name="button_exit">Не приемам</string>
   <string name="button_not_allow">Забрани</string>
   <string name="button_settings_cancel">Отказ</string>
-  <string name="button_settings_confirm">Отмяна</string>
-  <string name="button_settings_confirm_to_revoke_msg">Вие няма да можете да използвате приложението Време след като отмените разрешението си.</string>
   <string name="button_settings_confirm_to_revoke_title">Отмяна на разрешението?</string>
   <string name="button_sure_abandon">Отмени промените?</string>
   <string name="card_item_ad_text">Реклама</string>
@@ -202,7 +200,6 @@
   <string name="precipitation_degree_three">Средно</string>
   <string name="precipitation_degree_two">Слабо</string>
   <string name="privacy_grant_failed">Не може да се предостави разрешението. Изчакайте минута-две и опитайте отново.</string>
-  <string name="privacy_grant_or_revoke_settings">Предоставяне на права и отмяна на разрешението</string>
   <string name="privacy_grant_success">Успешно придобито разрешение</string>
   <string name="privacy_policy">Политика за поверителност</string>
   <string name="privacy_revoke_failed">Не може да се отмени разрешението. Изчакайте минута-две и опитайте отново.</string>
@@ -405,4 +402,24 @@
     <string name="aqi_24_hours_desc">%d-часова прогноза за ИКВ</string>
     <string name="aqi_48_hours_desc">%d-часова прогноза за ИКВ</string>
     <string name="aqi_5_days_desc">%d-дневна прогноза за ИКВ</string>
+	     <string name="content_desc_close_button">Затвори</string>
+     <string name="dialog_internet_error_title">Възникна грешка</string>
+     <string name="download_rsc_tips">Зарежда се фонов звук…</string>
+     <string name="dynamic_weather">Времето</string>
+     <string name="no_internet_message">Вашето устройство трябва да се свърже с мрежата, за да можете да оттеглите съгласието си. Проверете мрежовите настройки и опитайте отново.</string>
+     <string name="non_wifi_environment">Свържете се с Wi-Fi, за да изтеглите звукови ефекти</string>
+     <string name="privacy_policy_msg"><Data>Това приложение съдържа следните функции:&lt;br/>• Информация за времето, специфична за вашето местоположение&lt;br/>• Прогноза за времето&lt;br/>• Предупреждения за времето&lt;br/>&lt;br/>Времето трябва да събира необходимата лична информация, за да ви предостави основни услуги. Можете да научите как се справяме с информацията, която събираме в нашата &lt;a href=\"%1$s\">Политика за поверителност&lt;/a>. Прочетете и приемете нашите &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%3$s\">Политика за поверителност&lt;/a> преди да използвате Времето. Можете да оттеглите съгласието си с Политиката за поверителност на Времето в настройките по всяко време.</Data></string>
+     <string name="privacy_policy_msg_for_gp"><Data>Това приложение съдържа следните функции:&lt;br/>• Информация за времето, специфична за вашето местоположение&lt;br/>• Прогноза за времето&lt;br/>• Предупреждения за времето&lt;br/>&lt;br/>Времето трябва да събира необходимата лична информация, включително данни за местоположението, за да направи тези функции достъпни, дори когато приложението е затворено или не се използва. Можете да научите как се разпореждаме с информацията, която събираме в нашата &lt;a href=\"%1$s\">Политика за поверителност&lt;/a>. Прочетете и приемете нашите &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%3$s\">Privacy Policy&lt;/a> преди да използвате Времето. Можете да оттеглите съгласието си с Политиката за поверителност на Времето в настройките по всяко време.</Data></string>
+     <string name="revoke_fail">"Не може да се свърже с мрежата"</string>
+     <string name="revoke_privacy_policy_title">Оттегляне на съгласие</string>
+     <string name="save_to_gallery_failure_message">"Не може да се запази в галерията"</string>
+     <string name="save_to_gallery_icon_name">Запазване в галерията</string>
+     <string name="save_to_gallery_success_message">Запазено в галерията успешно</string>
+     <string name="weather_aqi_full_air_quality_forcast">Пълна прогноза за качеството на въздуха</string>
+     <string name="weather_main_aqi_desc">ИКВ</string>
+     <string name="weather_more_air_quality">Още за качеството на въздуха</string>
+     <string name="welcome_app_title">Добре дошли във Времето!</string>
+     <string name="button_settings_confirm">Оттегляне</string>
+     <string name="button_settings_confirm_to_revoke_msg">Изключвайки превключвателя, вие оттегляте своето съгласие с Политиката за поверителност на Времето. Ние ще спрем да събираме вашата лична информация. Вече събраната и запазена лична информация ще бъде изтрита в рамките на конкретния срок, както се изисква от приложимото законодателство. Времето трябва да събира необходимата лична информация, за да ви предостави основни услуги. Вашето оттегляне на съгласието с неговата Политика за поверителност ще се счита за отказ да приемете услугите въз основа на събрана лична информация.</string>
+     <string name="privacy_grant_or_revoke_settings">Оттегляне на съгласие</string>
 </resources>

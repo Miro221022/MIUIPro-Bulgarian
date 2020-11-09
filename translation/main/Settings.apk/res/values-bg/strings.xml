@@ -1366,7 +1366,6 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="clear_adb_keys">Отмяна на разрешенията за отстраняване на грешки през USB</string>
      <string name="clear_all_data">Изтрий всички данни</string>
      <string name="clear_cache_btn_text">Изчистване на кеша</string>
-     <string name="clear_data_alert_info">Всички архиви, съхранявани на това устройство, ще бъдат изтрити за постоянно. Създайте резервно копие на важните елементи на вашия компютър и Xiaomi Облак преди да продължите.</string>
      <string name="clear_data_dlg_text">Всички данни на това приложение ще бъдат изтрити за постоянно. Това включва всички файлове, настройки, профили и т.н.</string>
      <string name="clear_data_dlg_title">Да се изтрият ли данните от приложенията?</string>
      <string name="clear_failed_dlg_text">Данните за приложението не можаха да бъдат изчистени.</string>
@@ -1940,7 +1939,6 @@ aptX-Adaptive: Режим на кодек"</string>
 За да опитате да решите този проблем, можете да спрете приложението %1$s и да му попречите да се изпълнява на заден план."</string>
      <string name="dialog_background_check_ok">Изключване</string>
      <string name="dialog_background_check_title">Да се спре ли приложението и използването му на заден план?</string>
-     <string name="dialog_backup_title">Актуализирайте архивирането преди да извършите фабричното нулиране?</string>
      <string name="dialog_chose_item">Изберете елемент за показване</string>
      <string name="dialog_content_login">Ще се впишете ли в Mi профила си, за да актуализирате?</string>
      <string name="dialog_location_message">"Телефонът ви не е в състояние да управлява батерията нормално, защото %1$s постоянно изисква достъп до местоположението ви, когато не използвате приложението.
@@ -7671,7 +7669,6 @@ UT интерфейс: %5$s"</string>
     <string name="bt_absVolume_pre_title">Абсолютен звук</string>
     <string name="bt_absVolume_summary">"Поддържайте стриктно силата на звука на Bluetooth устройствата и телефона. Можете да включите и изключите тази функция, когато медията не се възпроизвежда във фонов режим.."</string>
     <string name="custom_gesture_title">Персонализирани жестове</string>
-    <string name="device_opcust_version">Персонализирана версия</string>
     <string name="launch_alipay_payment_code">Alipay код за плащане</string>
     <string name="launch_alipay_scanner">Alipay скенер</string>
     <string name="launch_calculator">Калкулатор</string>
@@ -7765,4 +7762,7 @@ UT интерфейс: %5$s"</string>
 	<string name="smart_space_clock">Бърз преглед</string>
 	<string name="gxzw_lowlight_open_summary">Намалете яркостта на иконата за пръстови отпечатъци при условия на слаба осветеност. Устройството ви може да се отключва по-бавно, когато тази функция е включена.</string>
     <string name="gxzw_lowlight_open_title">Отключване на пръстов отпечатък при слаба светлина</string>
+	<string name="clear_data_alert_info">Всички архиви, съхранени на това устройство, ще бъдат изтрити за постоянно. Архивирайте важни елементи на вашия компютър и Xiaomi Облак, преди да извършите фабрично нулиране.</string>
+    <string name="device_opcust_version">Версия на оператора</string>
+    <string name="dialog_backup_title">Архивиране на елементи първо?</string>
 </resources>

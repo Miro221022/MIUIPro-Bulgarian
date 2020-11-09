@@ -525,4 +525,11 @@
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Актуализация</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
+	<string name="doodle_saving">Запазване</string>
+    <string name="doodle_tool_background">Смяна на фона</string>
+    <string name="doodle_tool_text_dialog_hint">Моля, въведете текст</string>
+    <string name="note_invalid_mindnote_hint">"Умните карти не са налични в тази версия. Актуализирайте приложението, за да използвате тази функция."</string>
+    <string name="note_mindnote_entrance_hint">"Започнете да пишете "</string>
+    <string name="note_mindnote_entrance_icon_text">Създайте мисловна карта</string>
+    <string name="toolbar_done_description">Готово</string>
 </resources>

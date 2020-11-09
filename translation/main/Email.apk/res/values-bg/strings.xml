@@ -1159,7 +1159,8 @@
   <string name="update_domain_summary">Актуализирайте списъка с налични домейни и конфигурации</string>
   <string name="update_domain_title">Актуализиране на настройките на домейна</string>
     <string name="account_options_actionbar_title">Настройки на профила</string>
-    <string name="mail_outlook_oauth_login">Вписване с OAuth</string>
+<string name="mail_outlook_oauth_login">"Вписване с OAuth
+(Потребителите на Персонален Outlook не могат да синхронизират календарите си, когато влизат с OAuth)"</string>
     <string name="mail_outlook_psw_login">Вписване чрез парола</string>
     <string name="outlook_login_failed_non_proxy_title">"Не може да се получи достъп до OutLook сървъра"</string>
     <string name="quick_reply_expend">Още</string>
@@ -1399,4 +1400,38 @@
      <string name="user_experience_logout">退出体验计划</string>
      <string name="user_experience_positive">同意并继续</string>
      <string name="user_experience_title">声明与条款</string>
+	      <string name="bottom_bar_more_pdf">Export to PDF</string>
+     <string name="bottom_bar_more_pdf_exporting">Exporting…</string>
+     <string name="contain_view_all_body">View the full text of the message</string>
+     <string name="copy">Copy</string>
+     <string name="drive_card_button_tips">Copy the extracted code and get the shared content</string>
+     <string name="drive_card_code">extraction code</string>
+     <string name="drive_card_tips">Found sharing link from %s</string>
+     <string name="drive_card_title">Disk link</string>
+     <string name="expand_button_title">Advanced</string>
+     <string name="invoice_card_amount">amount</string>
+     <string name="invoice_card_buyer">buyer</string>
+     <string name="invoice_card_date">date</string>
+     <string name="invoice_card_open">open invoice</string>
+     <string name="invoice_card_save">save invoice</string>
+     <string name="invoice_card_seller">seller</string>
+     <string name="invoice_card_title">e-invoice</string>
+     <string name="login_err_outlook_msg">"%s
+Please confirm whether the application password is turned on, if it is turned on, please go to the Microsoft website to reset the application password"</string>
+     <string name="message_all_body">Full Text</string>
+     <string name="not_set">Not set</string>
+     <string name="pdf_save_error">The body is too large, it cannot be exported as a PDF file</string>
+     <string name="pdf_save_no_body">Wait for the text to load successfully and try again</string>
+     <string name="pdf_save_to">Saved to</string>
+     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+     <string name="train_card_title">Train ticket purchased successfully</string>
+     <string name="train_card_title_alternate">Waiting for train ticket successfully</string>
+     <string name="train_card_title_change">Train ticket changed successfully</string>
+     <string name="train_card_title_change_arrival">Train ticket changed successfully</string>
+     <string name="train_card_title_refund">Successful refund of train ticket</string>
+     <string name="v7_preference_off">OFF</string>
+     <string name="v7_preference_on">ON</string>
+     <string name="wps_card_button_tips">Open Kingsoft Document</string>
+     <string name="wps_card_tips">Found sharing link from \"%s\"</string>
+     <string name="wps_card_title">Kingsoft Document</string>
 </resources>
