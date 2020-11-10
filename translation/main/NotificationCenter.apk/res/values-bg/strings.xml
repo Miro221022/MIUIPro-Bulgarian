@@ -224,4 +224,23 @@
       <string name="channel_name_aggregation">Групирани известия</string>
     <string name="channel_name_notification">Известия за приложения</string>
     <string name="channel_name_recovered">Възстановени известия</string>
+	    <string name="aggregate_title">Правила за групиране на известията</string>
+    <string name="channel_keyguard_hide_content">Показване на всички известия, но скриване на съдържанието</string>
+    <string name="channel_keyguard_show_content">Показване на всички известия и тяхното съдържание</string>
+    <string name="channel_keyguard_show_nothing">"Без показване на известия"</string>
+    <string name="fold_importance_default">Препоръчани</string>
+    <string name="fold_importance_important">Важни</string>
+    <string name="fold_importance_unimportant">Маловажни</string>
+    <string name="fold_title">Правила за групирани известия</string>
+    <string name="notification_keyguard_hide_content">Показване на всички известия, но скриване на съдържанието</string>
+    <string name="notification_keyguard_show_content">Показване на известия и тяхното съдържание</string>
+    <string name="notification_keyguard_show_nothing">"Без показване на известия на заключен екран"</string>
+    <string name="rule_keyguard_display">Формат</string>
+    <string name="summary_aggregate_default">Промоционалните и свързаните със съдържанието известия ще бъдат групирани</string>
+    <string name="summary_aggregate_home">"Изскачащите известията няма да бъдат групирани"</string>
+    <string name="summary_fold_importance_default">MIUI ще реши кои известия да се показват директно</string>
+    <string name="summary_fold_importance_important">Известието ще се появи в панела за известия</string>
+    <string name="summary_fold_importance_unimportant">Известието ще се появи в отделна папка</string>
+    <string name="title_aggregate_default">Групирани известия</string>
+    <string name="title_aggregate_home">"Без групиране на известията"</string>
 </resources>

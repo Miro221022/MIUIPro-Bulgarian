@@ -1146,4 +1146,8 @@ M/dd"</string>
      <string name="personalize_title">Тапет и персонализация</string>
      <string name="personalize_wallpaper_sub_title">Супер тапети и представени изображения</string>
      <string name="personalize_wallpaper_title">Тапет</string>
+	 <string name="boot_audio_dialog_cancel">Отказ</string>
+    <string name="boot_audio_dialog_confirm">OK</string>
+    <string name="boot_audio_dialog_content">Звукът за зареждане е изключен. Да се включили отново и да се приложи този звук?</string>
+    <string name="boot_audio_dialog_title">Внимание</string>
 </resources>

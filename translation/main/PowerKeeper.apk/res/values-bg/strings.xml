@@ -114,4 +114,5 @@
   <string name="power_tools_current">Текущ</string>
   <string name="power_tools_fps">FPS</string>
   <string name="cloud_russion_addr">Актуализирайте данните на руския сървър</string>
+  <string name="accessibility_service_description">Интелигентно пестене на енергия</string>
 </resources>

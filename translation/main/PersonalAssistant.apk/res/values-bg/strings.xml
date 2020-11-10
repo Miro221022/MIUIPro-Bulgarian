@@ -1672,13 +1672,14 @@
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
   <string name="year_month_day_format">dd/MM/yyyy</string>
   <string name="yesterday">Вчера</string>
-       <string name="app_pa_setting_global_display">Екран</string>
+     <string name="app_pa_setting_global_display">Екран</string>
      <string name="app_pa_setting_global_display_blur_option">Замъгляване на тапета</string>
      <string name="app_pa_setting_global_display_blur_summary">Размазването на тапета забавя реакцията на плъзгане</string>
 	 <string name="app_sports_title_all_leagues">Всички мачове</string>
-	      <string name="app_pa_more">Още</string>
+	 <string name="app_pa_more">Още</string>
      <string name="app_pa_search">Търсене</string>
      <string name="app_pa_setting_bugreport">Отзиви</string>
      <string name="shortcuts_download_dialog_text_install">Инсталирай</string>
      <string name="shortcuts_download_dialog_text_install_tip">За да може да се използва \"%2$s\", първо инсталирайте %1$s.</string>
+	 <string name="card_expand_note_toast_install">Инсталирайте Бележки, за да можете да използвате тази функция</string>
 </resources>

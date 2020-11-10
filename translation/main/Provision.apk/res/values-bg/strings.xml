@@ -278,4 +278,6 @@
 	<string name="wc_notice_link_announcement_summary">"Прочетете и се съгласете с &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> и &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> на доставчика на съдържание от трета страна преди да използвате тази функция."</string>
 	<string name="other_settings_ad_dialog_agree">Включване</string>
     <string name="other_settings_ad_dialog_disagree">Изключване</string>
+	<string name="boot_video_replay">Изпълни отново</string>
+    <string name="boot_video_skip">Пропускане</string>
 </resources>

@@ -291,4 +291,6 @@
 Опитайте отново"</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Не е останало достатъчно място в хранилището в облака, за да се запази този архив. Надстройте плана си или освободете място за съхранение в облака.</string>
     <string name="backup_failed_reason_network_error">Проверете мрежовите настройки и опитайте отново</string>
+	<string name="cloud_backup_detail_frequence_every_7_day">Архивиране на всеки %d дни</string>
+    <string name="cloud_backup_detail_frequence_every_day">Архивиране всеки ден</string>
 </resources>
