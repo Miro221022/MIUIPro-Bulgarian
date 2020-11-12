@@ -164,9 +164,9 @@
     <string name="individuation_service_switch">Персонализирани препоръки</string>
     <string name="mtrl_chip_close_icon_content_description">Премахни %1$s</string>
     <string name="play_mode_circle_hint">Повтаряне на една песен сега</string>
-    <string name="play_mode_circle_title">Безкрайно една</string>
+    <string name="play_mode_circle_title">Безкрайно</string>
     <string name="play_mode_normal_hint">Възпроизвеждане на песни в първоначалния ред сега</string>
-    <string name="play_mode_normal_title">Изпълни всички</string>
+    <string name="play_mode_normal_title">Последователност</string>
 	<string name="password_toggle_content_description">Покажи паролата</string>
 	<string name="miui_fm">FM Радио</string>
     <string name="miui_fm_description">Много интернет радиостанции</string>
@@ -425,4 +425,7 @@
     <string name="request_camera_permission_message">Тази услуга трябва да поиска следните разрешения, ние стриктно ще спазваме съответните закони за защита на личните ви данни: &lt;br>&lt;br>&lt;b> Достъп до камерата: изпробвайте услугите за запис в реално време за настройка на аватар &lt;/b>&lt;br>&lt;br> Ако не сте съгласни да дадете разрешенията, тази функция няма да работи правилно, но това няма да повлияе на използването на основните функции на това приложение. Можете да откажете горепосоченото разрешение в системните настройки, за да оттеглите съгласието си.</string>
      <string name="no_hint">НЕ.</string>
 	 <string name="notification_download_complete">Изтеглено успешно</string>
+	     <string name="play_mode_shuffle_title">Разбъркано</string>
+    <string name="play_mode_single_title">Повтаряне</string>
+    <string name="talkback_mode_repeat_none">Режим на последователност</string>
 </resources>

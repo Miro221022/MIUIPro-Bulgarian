@@ -489,4 +489,11 @@
     <string name="fps_standard_summary">Стандартната честота на опресняване пести батерия</string>
     <string name="fps_standard_title">Стандартно</string>
     <string name="fps_user_tip">Тези демо анимации се възпроизвеждат с ниска скорост. Действителната производителност може да изглежда различно въз основа на различни фактори.</string>
+	<string name="usage_new_home_week_average_count">Средно %s</string>
+    <string name="usage_new_home_week_compare_text1_new">(%s%% повече от миналата седмица)</string>
+    <string name="usage_new_home_week_compare_text2_new">(%s%% по-малко от миналата седмица)</string>
+    <string name="usage_new_home_week_unlock_compare_decrease">(%.2f по-малко от миналата седмица)</string>
+    <string name="usage_new_home_week_unlock_compare_increase">(%.2f повече от миналата седмица)</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary_new">Точност до минута (консумира повече енергия)</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary_new">Точно до минута в рамките на %d оставащи часа (спестява енергия)</string>
 </resources>

@@ -645,7 +645,7 @@
     <string name="ultra_wide_recommend_tip_hint">Опитайте ултра широкоъгълен режим</string>
 	<string name="pref_camera_zoom_mode_entry_standard">Стандартно</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">Слаба светлина</string>
-	<string name="pref_video_hfr_title">Видео с висока честота на кадрите</string>
+	<string name="pref_video_hfr_title">Честота на кадрите</string>
 	<string name="accessibility_ultra_pixel_photography_32mp_off">32MP е изключено</string>
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP е включено</string>
 	<string name="accessibility_ultra_pixel_photography_48mp_off">48MP е изключено</string>
@@ -1552,7 +1552,6 @@
     <string name="fastmotion_pro_save_time_min_or_sec">Продължителност: %1$s</string>
 	<string name="auto_hibernation_enter_tip">На път да изключите екрана…</string>
     <string name="pref_camera_auto_hibernation">Заснемане с изключен екран</string>
-    <string name="pref_camera_auto_hibernation_description">Изключване на екрана след %d минути снимане, за да спестите енергия</string>
 	<string name="accessibility_preview_expand">放大</string>
     <string name="accessibility_preview_front">前置预览</string>
     <string name="accessibility_preview_select_tip">顺序%1$d</string>
@@ -1616,4 +1615,7 @@
     <string name="live_workspace_title_edit">Изберете елементи за изтриване</string>
 	<string name="film_video_b_tip">请在暗光环境下拍摄</string>
 	<string name="pref_camera_video_ai_scene_title">Интелигентна камера</string>
+	<string name="pref_video_quality_hfr_title">Честота на кадрите и качество на картината</string>
+    <string name="confirm_fastmotion_reset_manually_parameter_message">Нулиране на параметрите сега?</string>
++    <string name="pref_camera_auto_hibernation_description">Докато снимате, изключете екрана след %d минути бездействие за пестене на енергия</string>
 </resources>

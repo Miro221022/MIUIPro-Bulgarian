@@ -189,4 +189,8 @@
         <item quantity="other">Отключен %1$d пъти на %2$s</item>
         <item quantity="one">Отключен %1$d път на %2$s</item>
 	 </plurals>
+	     <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">Средно %.2f пъти</item>
+        <item quantity="one">Средно %.2f път</item>
+    </plurals>
 </resources>
