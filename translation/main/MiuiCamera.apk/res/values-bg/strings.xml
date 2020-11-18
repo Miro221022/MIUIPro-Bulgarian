@@ -1552,12 +1552,6 @@
     <string name="fastmotion_pro_save_time_min_or_sec">Продължителност: %1$s</string>
 	<string name="auto_hibernation_enter_tip">На път да изключите екрана…</string>
     <string name="pref_camera_auto_hibernation">Заснемане с изключен екран</string>
-	<string name="accessibility_preview_expand">放大</string>
-    <string name="accessibility_preview_front">前置预览</string>
-    <string name="accessibility_preview_select_tip">顺序%1$d</string>
-    <string name="accessibility_preview_selected">已被选中</string>
-    <string name="accessibility_preview_shrink">缩小</string>
-    <string name="accessibility_preview_zoom_tip">%1$.1f倍变焦预览</string>
     <string name="film_landscape_timefreeze_hint">仅支持横屏拍摄</string>
     <string name="film_timefreeze">tip on</string>
     <string name="film_timefreeze_hint">请不要移动手机 %ds</string>
@@ -1617,5 +1611,12 @@
 	<string name="pref_camera_video_ai_scene_title">Интелигентна камера</string>
 	<string name="pref_video_quality_hfr_title">Честота на кадрите и качество на картината</string>
     <string name="confirm_fastmotion_reset_manually_parameter_message">Нулиране на параметрите сега?</string>
-+    <string name="pref_camera_auto_hibernation_description">Докато снимате, изключете екрана след %d минути бездействие за пестене на енергия</string>
+    <string name="pref_camera_auto_hibernation_description">Докато снимате, изключете екрана след %d минути бездействие за пестене на енергия</string>
+	<string name="time_stamp_date_format">dd/MM/yyyy</string>
+	<string name="accessibility_preview_expand">Приближаване</string>
+    <string name="accessibility_preview_front">Преглед на предна камера</string>
+    <string name="accessibility_preview_select_tip">Позиция %1$d</string>
+    <string name="accessibility_preview_selected">Избрано</string>
+    <string name="accessibility_preview_shrink">Отдалечаване</string>
+    <string name="accessibility_preview_zoom_tip">%1$.1fX увеличение на визуализацията</string>
 </resources>

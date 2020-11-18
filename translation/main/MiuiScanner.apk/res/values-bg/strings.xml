@@ -626,4 +626,6 @@
     <string name="open_url">Посети</string>
     <string name="take_the_word">Поставете думата в полето и натиснете, за да я получите</string>
     <string name="translation_type_word">Превод на разговора</string>
+	    <string name="identify_the_results">Идентифициране на резултатите</string>
+    <string name="picture_is_being_saved">Снимката се запазва</string>
 </resources>

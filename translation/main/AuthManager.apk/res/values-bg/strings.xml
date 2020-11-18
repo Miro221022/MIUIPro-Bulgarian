@@ -209,4 +209,17 @@
     <string name="perm_manager_suggest_operation">Управление на разрешенията</string>
     <string name="perm_manager_suggest_title">Коригиране на разрешенията?</string>
     <string name="yes">Да</string>
+	    <string name="HIPS_Perm_Access_Gallery">Достъп до галерията</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Разрешете на това приложение достъп до елементи във вашата галерия</string>
+	    <string name="HIPS_Perm_tencentControl">Достъп до съобщения в приложения за социални медии</string>
+    <string name="HIPS_Perm_tencentControl_Desc">Разрешете на това приложение достъп до вашите WeChat и QQ съобщения</string>
+    <string name="HIPS_SecurityPrompt_Reject_Never">"Откажи и не питай отново (%d)"</string>
+	    <string name="grant_dialog_storage_category_title">Това приложение изисква разрешения за достъп до галерията и съобщенията в приложенията за социални медии</string>
+    <string name="grant_dialog_storage_gallery_title">Галерия</string>
+    <string name="grant_dialog_storage_sociality_title">Съобщения в приложенията за социални медии</string>
+    <string name="storage_policy_notify_both_title">"%1$s няма разрешен достъп до галерията и съобщенията в приложенията на социалните медии"</string>
+    <string name="storage_policy_notify_content">Докоснете, за да коригирате разрешенията</string>
+    <string name="storage_policy_notify_gallery_title">"%1$s няма разрешен достъп до галерията"</string>
+    <string name="storage_policy_notify_sociality_title">"%1$s няма разрешен достъп до съобщения в приложения за социални медии"</string>
+    <string name="storage_policy_notify_title">"%1$s няма разрешен достъп до галерията"</string>
 </resources>

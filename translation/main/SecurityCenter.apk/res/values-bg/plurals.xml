@@ -614,4 +614,64 @@ You can get a %d-дневен безплатен пробен период се�
         <item quantity="other">Изтриване на %d инсталационни пакета</item>
         <item quantity="one">Изтриване на %d инсталационен пакет</item>
     </plurals>
+	    <plurals name="image_protect_del_tips">
+        <item quantity="other">Изтриване на %d изображения завинаги?</item>
+        <item quantity="one">Изтриване на %d изображение зазавинаги?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d изображенията ще бъдат изтрити за постоянно, след като напуснете тази страница. Да се изтрият ли въпреки това?</item>
+        <item quantity="one">%d изображението ще бъде изтрито за постоянно, след като напуснете тази страница. Изтриване въпреки това?</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Изтриване на %d изображения</item>
+        <item quantity="one">Изтриване на %d изображение</item>
+    </plurals>
+    <plurals name="pp_times">
+        <item quantity="other">%s пъти</item>
+        <item quantity="one">%s път</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d приложения</item>
+        <item quantity="one">%d приложение</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d предоставени разрешения с висок риск</item>
+        <item quantity="one">%d предоставено разрешение с висок риск</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d намерени рискови приложения</item>
+        <item quantity="one">%d намерено рисково приложения</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d открити рискове от разкриване на информация за местоположението</item>
+        <item quantity="one">%d открит риск от разкриване на информация за местоположението</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d открити риска</item>
+        <item quantity="one">%d открит риск</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d открити възможни рискове</item>
+        <item quantity="one">%d установен възможен риск</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d снимки може да съдържат информация, която е лична или чувствителна</item>
+        <item quantity="one">%d снимка може да съдържа лична или поверителна информация</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d функции, които защитават поверителността ви, са изключени</item>
+        <item quantity="one">%d функция, която защитава поверителността ви, е изключена</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d предоставени чувствителни разрешения</item>
+        <item quantity="one">%d предоставено чувствително разрешение</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Деинсталиране на %d приложения</item>
+        <item quantity="one">Деинсталиране на %d приложение</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d елемента се нуждаят от допълнителна защита</item>
+        <item quantity="one">%d елемент се нуждае от допълнителна защита</item>
+    </plurals>
 </resources>

@@ -91,7 +91,7 @@
   <string name="dlg_info_save_to_gallery_message">Запазване на снимката в Галерия…</string>
   <string name="dlg_message_password_reset">Паролата за скритите бележки ще бъде заменена от паролата за защита на личните данни, която защитава приложенията, снимките и скритите папки</string>
   <string name="dlg_message_set_password">Паролата за защита на личните данни защитава приложенията, снимките и скритите папки</string>
-  <string name="dlg_message_use_privacy_password">Използвайте парола за защита на личните данни. Тя защитава приложенията, снимките и скритите папки</string>
+  <string name="dlg_message_use_privacy_password">Използвайте парола за защита на личните данни. Тя защитава приложенията, снимките и скритите папки.</string>
   <string name="dlg_move_message">Преместване…</string>
   <string name="dlg_quick_delete_title">Бързо изтриване</string>
   <string name="dlg_restore_message">Възстановява се…</string>
@@ -532,4 +532,15 @@
     <string name="note_mindnote_entrance_hint">"Започнете да пишете "</string>
     <string name="note_mindnote_entrance_icon_text">Създайте мисловна карта</string>
     <string name="toolbar_done_description">Готово</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_action_mode_select_all">Избери всичко</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Изберете елементи</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Още</string>
+    <string name="miuix_appcompat_cancel_description">Отказ</string>
+    <string name="miuix_appcompat_confirm_description">Потвърди</string>
+    <string name="miuix_appcompat_delete_description">Изтриване</string>
+    <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
+    <string name="miuix_appcompat_search_input_description">Търсене</string>
+    <string name="miuix_appcompat_select_all_description">Избери всички</string>
 </resources>

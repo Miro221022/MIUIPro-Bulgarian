@@ -802,7 +802,6 @@
   <string name="recorded_menstruation">Записан цикъл</string>
   <string name="reference">Референтни материали</string>
   <string name="relationship_with_contact">Взаимоотношение</string>
-  <string name="rem_duration">REM продължителност на съня</string>
   <string name="rem_duration_decrease_description">Вашият REM сън е твърде кратък</string>
   <string name="rem_duration_description" formatted="false">REM се отнася до бързото движение на очите. Сънят може да бъде разделен на сън с резки движения на очите (REM) и сън с плавни движения на очите (NREM). Сънят с бързо движение на очите представлява около 20 до 25% от общата продължителност на съня. Когато хората се събудят на този етап, 74 до 95%% от тях казват, че са сънували и са в състояние да запомнят сънищата си. Мозъкът е много активен и тялото е напълно отпуснато по време на REM сън, което прави тази фаза на съня от съществено значение за поддържане на когнитивните функции.</string>
   <string name="rem_Duration_increase_description">Вашият REM сън е твърде дълъг</string>
@@ -881,7 +880,6 @@
   <string name="sleep_deep">Дълбок сън</string>
   <string name="sleep_deep_light_analysis">Лек сън и дълбок сън</string>
   <string name="sleep_deep_light_close_tip">Анализът на дълбок сън е изключен</string>
-  <string name="sleep_deep_light_no_data">Тук все още няма данни</string>
   <string name="sleep_deep_light_no_data_improvement">Не бяха открити фази на съня. Ние подобряваме нашите алгоритми. Останете на линия!</string>
   <string name="sleep_detection_enable">Анализ на цикъла на съня</string>
   <string name="sleep_detection_feedback">Обратна връзка</string>
@@ -912,7 +910,6 @@
   <string name="sleep_detector_title">Проследяване на съня</string>
   <string name="sleep_detector_unopened">Все още не сте започнали да следите съня си.</string>
   <string name="sleep_duration">Продължителност на съня</string>
-  <string name="sleep_duration_description">Продължителността на съня е времето между лягането и ставането. Периодите, когато се събудите и след това отново се върнете да спите през нощта, се изваждат.</string>
   <string name="sleep_duration_enough_description">Имате достатъчно сън.</string>
   <string name="sleep_duration_everyday">Дневна продължителност на съня</string>
   <string name="sleep_duration_fewer_description">Спали сте по-малко от 7 часа. Получаването на повече сън би било по-добре за вас.</string>
@@ -1146,7 +1143,6 @@
   <string name="tb_home_exercise_card_speed_of_progress">Упражнение. %1$s. Завършено: %2$s. Цел: %3$s. Прогрес: %4$s.</string>
   <string name="tb_home_heart_rate_card">Сърдечен ритъм. %1$d удара в минута. Записано на %2$s.</string>
   <string name="tb_home_heart_rate_card_no_data">Сърдечен ритъм. Няма данни.</string>
-  <string name="tb_home_sleep_card">Сън. %1$s днес. Легнахте си в %2$s. Събудихте се в %3$s. %4$s.</string>
   <string name="tb_home_sleep_card_no_data">Сън. Днес няма данни.</string>
   <string name="tb_home_sleep_card_not_open_trace">Сън. Анализът на цикъла на съня е изключен.</string>
   <string name="tb_home_tip_open_data_sync">Синхронизирайте продуктите на Xiaomi Здраве с Xiaomi Облак за достъп до тях на други устройства. Докоснете два пъти, за да започнете.</string>
@@ -1425,9 +1421,6 @@
      <string name="gps_unopened">GPS е изключен</string>
      <string name="hr_fp_area">Скенер за пръстови отпечатъци</string>
      <string name="hr_fp_detect_desc">Кръвта тече към пръстите ви при всеки пулс. Ярката светлина в областта на скенера за пръстови отпечатъци под екрана ни позволява да проследяваме промените в кръвния поток, да анализираме моделите и да ги преобразуваме в стойности на пулса.</string>
-     <string name="hr_fp_detect_principle_desc">"Кръвта не е напълно непрозрачна; следователно през нея може да премине светлина. При всеки сърдечен удар кръвта тече към пръстите ви, блокирайки повече светлина, отколкото между сърдечните удари. Ярката светлина в областта на скенера за пръстови отпечатъци под екрана ни позволява да проследяваме промените в кръвния поток, да анализираме моделите и да ги преобразуваме в стойности на пулса.
-
-Нашите тестове показват, че този метод измерва сърдечната честота с грешка от само ≤3 удара в минута."</string>
      <string name="hr_fp_detect_principle_desc_2">"Забележка: Уверете се, че пръстът ви напълно покрива иконата за пръстови отпечатъци по време на измерването. Не прилагайте сила, тъй като това може да блокира притока на кръв в върха на пръста ви и да направи резултатите неточни. Това измерване е предоставено само за справка. Не може да замени медицинските тестове."</string>
      <string name="hr_fp_detect_start_desc">"Натиснете леко иконата за пръстов отпечатък.
 Не мърдайте пръста си."</string>
@@ -1508,4 +1501,40 @@
      <string name="sport_tts_goal_finish_half">Вече сте на половината път! Продължавайте!</string>
      <string name="sport_tts_pause_by_user">Тренировката е на пауза</string>
      <string name="sporting_location">Локализиране</string>
+	 <string name="auth_dialog_description">"Да се включат ли препоръките?
+
+За да Ви предоставим препоръки, ние ще споделим вашите здравни данни с доставчик на услуги от трета страна. Елементите, които ще споделяме, включват лична информация (възраст, пол), статистически данни за здравето (ръст, тегло, рутинна тренировка), данни за поведението (начален и краен час, както и продължителността на вашите тренировки).
+
+Ще обработим тези елементи, преди да ги споделим, за да попречим на доставчиците на услуги от трети страни да ви идентифицират лично въз основа на данните, които получават.
+
+Ако не искате да получите достъп до препоръчаните класове, пак можете да използвате редовните тренировки."</string>
+     <string name="auth_dialog_link">За да разберете напълно вашите права като потребител, както и начините, по които използваме вашите данни, прочетете и приемете нашите &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Потребителско споразумение&lt;/a>&lt;/font> и &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Политика за поверителност&lt;/a>&lt;/font>.</string>
+     <string name="auth_dialog_title">Препоръчителни класове</string>
+     <string name="hr_fp_detect_principle_desc_3">Нашите тестове показват, че този метод измерва сърдечната честота с грешка от само ≤3 удара в минута.</string>
+     <string name="loading">Една секунда…</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Откажи</string>
+     <string name="miuix_appcompat_action_mode_select_all">Избери всички</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Изберете елементи</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Още</string>
+     <string name="miuix_appcompat_cancel_description">Отказ</string>
+     <string name="miuix_appcompat_confirm_description">Потвърди</string>
+     <string name="miuix_appcompat_delete_description">Изтриване</string>
+     <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
+     <string name="miuix_appcompat_select_all_description">Избери всички</string>
+     <string name="network_not_available2">"Не може да се свърже с мрежата"</string>
+     <string name="personal_course_recommend_subtitle">Получете достъп до препоръчаните ви класове въз основа на вашата лична информация, здравна статистика и предпочитания</string>
+     <string name="personal_course_recommend_title">Препоръчителни класове</string>
+     <string name="privacy_setting">Поверителност</string>
+     <string name="sleep_day_multi_short_title">Дрямка %1$d</string>
+     <string name="sleep_day_single_short_title">Дрямка</string>
+     <string name="sleep_day_title">Дълбок сън</string>
+     <string name="sleep_night_title">Сън през нощта</string>
+     <string name="sleep_state_this_month">"Сън този месец"</string>
+     <string name="sleep_state_this_week">"Сън тази седмица"</string>
+     <string name="hr_fp_detect_principle_desc">"Кръвта не е напълно непрозрачна; следователно през нея може да премине светлина. При всеки сърдечен удар кръвта тече към пръстите ви, блокирайки повече светлина, отколкото между сърдечните удари. Ярката светлина в областта на скенера за пръстови отпечатъци под екрана ни позволява да проследяваме промените в кръвния поток, да анализираме моделите и да ги преобразуваме в стойности на пулса."</string>
+     <string name="rem_duration">REM</string>
+     <string name="sleep_deep_light_no_data">Поставянето на мобилното ви устройство до възглавницата ще направи данните за съня по-точни</string>
+     <string name="sleep_duration_description">"Продължителността на съня е времето, когато не сте будни през деня. Обикновено възрастните трябва да спят 7-9 часа, докато тийнейджърите трябва да спят по-дълго от възрастните. Получаването на достатъчно сън е от съществено значение за доброто здраве и благосъстояние."</string>
+     <string name="tb_home_sleep_card">"Днешен сън: %1$s, %2$s"</string>
 </resources>

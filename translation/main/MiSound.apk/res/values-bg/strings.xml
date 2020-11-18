@@ -124,12 +124,9 @@
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="ringtone_output_device_summary">Разрешаване на звук за входящи повиквания и известия, когато са свързани аксесоари (кабелни слушалки или Bluetooth устройства)</string>
     <string name="ringtone_output_device_title">Разрешаване на звук от високоговорителите</string>
-	<string name="choose_bluetooth_device">选择设备</string>
-    <string name="end_wireless_transmission">结束传声</string>
-    <string name="switch_bluetooth_device">切换设备</string>
-    <string name="wireless_transmission">无线传声</string>
-    <string name="wireless_transmission_cancel">取消</string>
-    <string name="wireless_transmission_confirm">立即开启</string>
-    <string name="wireless_transmission_definition">手机麦克风采集的声音传到蓝牙设备播放</string>
-    <string name="wireless_transmission_prompt">使用无线传声时，需开启蓝牙功能。是否立即开启？</string>
+    <string name="wireless_transmission">Безжичен високоговорител</string>
+    <string name="wireless_transmission_cancel">Отказ</string>
+    <string name="wireless_transmission_confirm">Включи</string>
+    <string name="wireless_transmission_definition">"Предаване на микрофона на телефона към външно Bluetooth устройство"</string>
+    <string name="wireless_transmission_prompt">За да предава звук, безжичният високоговорител трябва да включи Bluetooth. Да се включи ли сега?</string>
 </resources>

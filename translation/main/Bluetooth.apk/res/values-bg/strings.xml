@@ -145,4 +145,7 @@
     <string name="switch_audio_device_phone_summary">Възпроизвеждане на звук на това устройство</string>
     <string name="switch_audio_dialog_title">Изберете аудио изход</string>
 	<string name="switch_audio_device_switch_hint">Можете да изключите известията за свързани устройства в Настройки &gt; Bluetooth &gt; Допълнителни настройки.</string>
+	<string name="bt_audio_share_notification_content">Докоснете, за да видите опциите</string>
+    <string name="bt_audio_share_notification_title">Споделяне на звук</string>
+    <string name="notice_audio_share_disconnected">Вече не се споделя звук поради прекъсната връзка</string>
 </resources>

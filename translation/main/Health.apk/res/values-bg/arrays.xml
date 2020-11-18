@@ -134,9 +134,10 @@
          <item>Тренировки</item>
      </string-array>
      <string-array name="SportTabTitle">
-         <item>Бягане</item>
-         <item>Ходене</item>
-         <item>Езда</item>
-         <item>Бягаща пътека</item>
+        <item>Бягане</item>
+        <item>Ходене</item>
+        <item>Колоездене</item>
+        <item>Бягаща пътека</item>
+        <item>Тренировка</item>
      </string-array>
 </resources>
