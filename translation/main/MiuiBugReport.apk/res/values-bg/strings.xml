@@ -150,7 +150,6 @@
   <string name="err_type_xiaomi_service">Обслужване на клиенти</string>
   <string name="error_dup_binded_email">Този имейл адрес вече е свързан с друг Mi акаунт.</string>
   <string name="error_invalid_bind_address">Въведеният от вас имейл адрес е невалиден.</string>
-  <string name="error_no_connection">Не може да се свърже с мрежата</string>
   <string name="exceed_binded_phone_times_notice">Този телефонен номер вече е свързан с друг Mi акаунт.</string>
   <string name="expand_button_title">Разширени</string>
   <string name="failed_dup_secure_phone_number">Този телефонен номер вече е свързан с друг Mi акаунт</string>
@@ -175,7 +174,6 @@
   <string name="feedback_continue">Продължете с обратната връзка</string>
   <string name="feedback_delete_images">Изтрий изображенията</string>
   <string name="feedback_description">Описание</string>
-  <string name="feedback_description_bugreport_hint">В някой случай () моя телефон има проблеми ().</string>
   <string name="feedback_description_hint">"Опишете проблема, който сте срещнали тук.
 %1$d. В кое приложение или на каква страница сте се сблъскали с проблема?
 %2$d. След какви действия, които сте извършили, се появи проблемът?
@@ -201,13 +199,11 @@
   <string name="feedback_edit_popup_window_related_title">Това може да е от полезно</string>
   <string name="feedback_empty_report_list">Няма доклади</string>
   <string name="feedback_guess">Вашето мнение:</string>
-  <string name="feedback_hint_optional">Избери</string>
   <string name="feedback_history_remind_login_desc">Влезте с вашия Mi акаунт за детайли по репортите Ви</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Ключ: %s</string>
   <string name="feedback_jira_key_place_holder">Създаване на Jira…</string>
   <string name="feedback_package_log_failed">Не може да се компресират логовете</string>
-  <string name="feedback_phone_model_label">Модел телефон</string>
   <string name="feedback_probability_label">Вероятност</string>
   <string name="feedback_remind_login_btn">Вход</string>
   <string name="feedback_report_remind_login_desc">Влезте с вашия Mi профил, за да може нашите инженери да се свържат с Вас.</string>
@@ -216,7 +212,6 @@
   <string name="feedback_reproductivity_occasionally">Понякога</string>
   <string name="feedback_reproductivity_often">Често</string>
   <string name="feedback_reproductivity_once">Веднъж</string>
-  <string name="feedback_retest_label">Стъпки</string>
   <string name="feedback_select_images">Добави изображение или видео</string>
   <string name="feedback_select_modem_log">Добавете отчети от модема</string>
   <string name="feedback_select_modem_log_not_select_desc">Не е избрано „Добавяне на отчети за модема“</string>
@@ -263,18 +258,15 @@
   <string name="feedback_submit_succ_button">Готово</string>
   <string name="feedback_submitting">Потвърдени</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s предложения \"%2$s\"</string>
-  <string name="feedback_third_packagename_hint">Кое външно приложение ви създава проблеми?</string>
   <string name="feedback_title">Заглавие</string>
   <string name="feedback_title_hint">Опишете кратко проблема</string>
   <string name="feedback_title_occurrence_time">Изберете време</string>
   <string name="feedback_title_reproductivity">Изберете репродуктивност</string>
   <string name="feedback_tracking">Проследи проблем</string>
-  <string name="feedback_version_label">Версия</string>
   <string name="feesback_list">Доклади</string>
   <string name="find_psw">Забравена парола</string>
   <string name="first_position">2#</string>
   <string name="floor">%1$s#</string>
-  <string name="from">от %1$s</string>
   <string name="get_back_pwd">Нулиране на паролата</string>
   <string name="get_ph_ticket">Получване на код</string>
   <string name="get_phone_bind_exceed_limit">Можете да свържете до 3 Mi акаунта с телефонен номер. Не могат да се добавят нови акаунти.</string>
@@ -365,7 +357,6 @@
   <string name="not_set">Не е зададено</string>
   <string name="nothing">--</string>
   <string name="open_feedback_main">Повече</string>
-  <string name="packaging_dialog_content">Създава се доклад…</string>
   <string name="passport_access_denied">Достъпът отказан</string>
   <string name="passport_account_label">Mi профил</string>
   <string name="passport_activate_token_expired">Кодът за потвърждение е изтекъл. Опитайте отново.</string>
@@ -455,8 +446,6 @@
   <string name="phone_num_use_for">Телефонният номер се използва за:</string>
   <string name="phone_number">Телефонен номер</string>
   <string name="photoPickerNotFoundText">Няма налични снимки.</string>
-  <string name="plus_one_submit_dialog_content">Вашите отзияи заедно с отчетите за грешки ще бъдат изпратени до сървърите на Mi.</string>
-  <string name="plus_one_submit_dialog_not_show_again">Запомни настройката</string>
   <string name="post_miui_bbs_failed">Неуспешно публикуване във форума</string>
   <string name="preference_copied">\"%1$s\" е кпирано в буферната памет.</string>
   <string name="privacy_category_title">Поверителност</string>
@@ -479,13 +468,10 @@
   <string name="restart_phone_bind_message">Може да отнеме известно време, за да получите SMS. Да се започне ли отначало?</string>
   <string name="restart_phone_bind_title">Промяна на телефона за възстановяване</string>
   <string name="same_new_and_old_pwd">Не може да бъде същото като текущата парола</string>
-  <string name="screen_lock">Заключване на екрана</string>
   <string name="search_menu_title">Търсене</string>
   <string name="second_position">3#</string>
   <string name="section_description">Описание</string>
-  <string name="section_err_type">Вид грешка</string>
   <string name="section_screenshot">Екранна снимка</string>
-  <string name="select_system_app_tag">Изберете даден проблем</string>
   <string name="send_diagnosis_log">Изпрати отчетите</string>
   <string name="send_email_activate_message">Изпратен е успешно имейл за потвърждение</string>
   <string name="sending">Изпращане…</string>
@@ -507,7 +493,6 @@
   <string name="submit_feedback_info_failed">Не може да се изпрати доклад</string>
   <string name="suggestion_description">Надявам се да добавите функцията Х, защото…</string>
   <string name="system_app_select">Системни приложения</string>
-  <string name="systemui">Лента с известия</string>
   <string name="tab_title_chat">ЧЗВ</string>
   <string name="tab_title_my_reports">Моите доклади</string>
   <string name="tab_title_preferences">Настройки</string>
@@ -535,9 +520,7 @@
   <string name="toast_feedback_submitted">Отзивът беше изпратен</string>
   <string name="toast_feedback_submitting">Публикува се…</string>
   <string name="toast_file_format_not_support">Този файлов формат не се поддържа. Опитайте да изберете друг файл.</string>
-  <string name="toast_fill_brackets">Моля, попълнете</string>
   <string name="toast_log_not_exists">Исканите данни са били изтрити или не съществуват</string>
-  <string name="toast_log_too_large">Не може да се качи. Отчетът е твърде голям.</string>
   <string name="toast_module_required">Изберете елемент</string>
   <string name="toast_network_unavailable">Неуспешно изпращане. Няма връзка с мрежата.</string>
   <string name="toast_pending_log_collection">Все още се събира информация…</string>
@@ -549,7 +532,6 @@
   <string name="toast_report_sent_succeed">Отзивът беше изпратен</string>
   <string name="toast_screenshot_too_large">Не може да се качват изображения или видеоклипове, по-големи от 100Мб.</string>
   <string name="toast_third_packagename_required">Въведете име на приложението</string>
-  <string name="toast_title_required">Опишете вашия проблем</string>
   <string name="topic_author">1#</string>
   <string name="update_dialog_cancel">Отказ</string>
   <string name="update_dialog_confirm">Актуализирай</string>
@@ -594,10 +576,8 @@
     <string name="passport_user_agreement_link_more">"&lt;Data>Прочетох и се съгласявам със следните документи: &lt;a href="%1$s">Потребителско споразумение&lt;/a> и &lt;a href="%4$s">Политика за поверителност&lt;/a> на Xiaomi, &lt;a href="%2$s">"%3$s"&lt;/a>.&lt;/Data>"</string>
 	<string name="error_no_connection">"Не може да се свърже с мрежата"</string>
     <string name="feedback_description_bugreport_hint">В някои случаи (…) телефонът ми се държи лошо (…).</string>
-    <string name="feedback_description_label">Описание</string>
     <string name="feedback_hint_optional">Избор</string>
     <string name="feedback_phone_model_label">Модел на телефона</string>
-    <string name="feedback_probability_label">Вероятност</string>
     <string name="feedback_retest_label">Стъпки за възпроизвеждане</string>
     <string name="feedback_third_packagename_hint">Кое приложение от трета страна създава проблеми?</string>
     <string name="feedback_version_label">Версия</string>

@@ -81,7 +81,6 @@
   <string name="auto_cleaner_open">Включване</string>
   <string name="back">Назад</string>
   <string name="browser_scan_history_desc">История на браузъра</string>
-  <string name="browser_search_history_desc">Търсени елементи</string>
   <string name="btn_text_done">Готово</string>
   <string name="btn_text_quick_cleanup">Почисти</string>
   <string name="btn_text_quick_cleanup_apk">Изтрий избраните приложения %1$s</string>
@@ -126,7 +125,6 @@
   <string name="cache_title_empty_folder2">Празна папка</string>
   <string name="cache_title_system_cache">Кеширани данни</string>
   <string name="cached_garbage">Кеш</string>
-  <string name="call_log">Дневник на обажданията</string>
   <string name="cancel">Отказ</string>
   <string name="cd_scanning">сканиране</string>
   <string name="clean_content_all">Всичко</string>
@@ -138,8 +136,6 @@
   <string name="clear_bigfiles">Изтриване на големи файлове, дублирани снимки и други непотребни елементи</string>
   <string name="clear_immediately">Почисти сега</string>
   <string name="clear_safe_notify">Джаджа в лентата с известия</string>
-  <string name="clip_board_history_desc">Копирано/изрязано съдържание</string>
-  <string name="clipboard">Буферна памет</string>
   <string name="close">Затвори</string>
   <string name="confirm_auto_cleaner">ОК</string>
   <string name="conn_of_function_safe">Връзка с мрежата за Сигурност</string>
@@ -460,7 +456,6 @@
   <string name="optimizecenter_data_support_tc">С подкрепата на Tencent</string>
   <string name="output_videos">Експортиране на видео</string>
   <string name="petabyteShort">ПБ</string>
-  <string name="phone_search">Търсене в Google</string>
   <string name="positive_confirm">ОК</string>
   <string name="pref_about_privacy_title">Политика за поверителност</string>
   <string name="pref_category_title_auto_clean_settings">Напомняне за почистване</string>
@@ -497,7 +492,6 @@
   <string name="privacy_app_desc_message">Профил, пароли и съобщения</string>
   <string name="privacy_app_desc_search">Профил, пароли и история на търсенията</string>
   <string name="privacy_app_desc_setting">Профил, пароли и настройки</string>
-  <string name="privacy_appdata_chrome_history_des">Посетени уебсайтове</string>
   <string name="privacy_browser_desc">Търсени елементи</string>
   <string name="privacy_cache_desc">Профил, пароли, история, настройки и др.</string>
   <string name="privacy_cache_empty">Няма лични данни</string>
@@ -812,12 +806,10 @@
     <string name="notification_wechat_clean_middle_level_hint">Изчистете кошчето, за да получавате известия без забавяне</string>
     <string name="notification_wechat_clean_middle_level_text_a">"Кошчето на WeChat заема много място за съхранение"</string>
     <string name="notification_wechat_clean_middle_level_text_b">"Кошчето на WeChat забавя приложението"</string>
-	<string name="browser_scan_history_desc">История на браузъра</string>
     <string name="browser_search_history_desc">Търсени елементи</string>
     <string name="call_log">Дневници на обажданията</string>
     <string name="clip_board_history_desc">Копирано/изрязано съдържание</string>
     <string name="clipboard">Буферна памет</string>
     <string name="phone_search">Google търсене</string>
     <string name="privacy_appdata_chrome_history_des">Посетени уебсайтове</string>
-    <string name="search_history">История на търсенията</string>
 </resources>

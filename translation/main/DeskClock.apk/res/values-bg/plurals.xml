@@ -84,7 +84,6 @@
          <item quantity="other">%1$s мин</item>
          <item quantity="one">%1$s мин</item>
      </plurals>
-	 plurals
     <plurals name="minute_text">
         <item quantity="other">" мин."</item>
         <item quantity="one">" мин."</item>

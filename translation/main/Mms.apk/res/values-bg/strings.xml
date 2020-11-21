@@ -1019,7 +1019,6 @@
      <string name="home_tab_common">Стандартни</string>
      <string name="menu_correct_as_ad">Премести в промоционални</string>
      <string name="menu_correct_as_normal">Премести в стандартни</string>
-     <string name="pref_title_collapse_ad_notification">Свиване на рекламното съобщение от известието</string>
      <string name="search_menu_title">Търсене</string>
 	 <string name="share">Сподели</string>
 	 <string name="dialog_choice_all_correct_as_normal">Всички съобщения от %s</string>

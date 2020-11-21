@@ -2151,7 +2151,7 @@
     <string name="save_error_try_a_different_template_msg">"Не може да се запази. Изображението е твърде голямо."</string>
     <string name="search_title_photo_name">Име на файла</string>
     <string name="toast_invalid_char">"Имената на файловете не могат да съдържат \"%s\""</string>
-    <string name="toast_invalid_prefix">"Имената на файловете не могат да започват с \".\" or \"_\""</string>
+    <string name="toast_invalid_prefix">"Имената на файловете не могат да започват с \".\" или \"_\""</string>
     <string name="toast_rename_exit">Този файл вече съществува</string>
 	<string name="download_type_origin_subtitle_china">Оригиналните изображения заемат повече място за съхранение и могат да бъдат изтеглени само чрез Wi-Fi</string>
     <string name="download_type_origin_title">Оригинално</string>
@@ -2166,7 +2166,7 @@
     <string name="toast_orientation_locked">Заключена ориентация успешно</string>
     <string name="watch_all_photo">Галерия</string>
     <string name="movie_download_sdk_without_wifi_msg">"Изглежда, че устройството ви не е свързано с Wi-Fi. Изтегляне на необходимата приставка (%2$d МБ) чрез мобилни данни?"</string>
-    <string name="photo_editor_navigator_download_network_metered_msg">Изтеглянето %s изисква около %2$d МБ мобилни данни. Изтегляне сега?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Изтеглянето %s изисква около %2$d МБ мобилни данни. Изтегляне сега?</string>
     <string name="picker_origin_need_download">"%1$d от избраните снимки (%2$d МБ) не са на устройството. Изтегляне чрез мобилни данни?"</string>
     <string name="slim_description_dialog_detail">Компресирайте снимки и оставяйте по-малки висококачествени копия на това устройство, запазвайки оригиналните файлове в облака.</string>
     <string name="slim_description_dialog_slim_before">Преди: %2$d МБ</string>
