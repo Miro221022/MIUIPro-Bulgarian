@@ -1545,7 +1545,7 @@
     <string name="aiwatermark_location_tips">Позволете на Камера да осъществи достъп до вашето местоположение, за да получи по-подходящи водни знаци</string>
 	<string name="film_video_e_tip">Поддържа само пейзажно заснемане</string>
 	<string name="pref_camera_new_coloreffect_title">滤镜</string>
-    <string name="pref_hdr10plus_video_mode_description">优化4K/8K视频的色彩和对比度。需要支持HDR10+的设备才能正常播放</string>
+    <string name="pref_hdr10plus_video_mode_description">Оптимизирайте цветовете и регулирайте контраста за 4K и 8K видеоклипове. Тази функция работи само на устройства, съвместими с HDR10 +.</string>
     <string name="fastmotion_pro_adjust_name">Параметри</string>
     <string name="fastmotion_pro_save_time_infinity">Неограничена продължителност</string>
     <string name="fastmotion_pro_save_time_min_and_sec">Продължителност: %1$s %2$s</string>

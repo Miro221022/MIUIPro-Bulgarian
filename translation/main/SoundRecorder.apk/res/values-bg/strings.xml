@@ -328,4 +328,6 @@
     <string name="trash_box_delete_all">Да се изтрият ли всички елементи от кошчето завинаги?</string>
     <string name="user_feedback">Отзиви</string>
 	 <string name="no_network">"Не може да се свърже с мрежата"</string>
+	   <string name="uninstall_warning_content">"Звукозапис е системно приложение. Няма да можете да записвате и транскрибирате звук и гласови повиквания, след като го деинсталирате."</string>
+  <string name="uninstall_warning_title">Деинсталиране на Звукозапис?</string>
 </resources>
