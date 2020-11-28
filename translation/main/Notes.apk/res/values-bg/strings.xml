@@ -543,4 +543,6 @@
     <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
     <string name="miuix_appcompat_search_input_description">Търсене</string>
     <string name="miuix_appcompat_select_all_description">Избери всички</string>
+	<string name="notes_description_content">"Бележки е системно приложение. Няма да можете да използвате това приложение, след като го деинсталирате."</string>
+    <string name="notes_description_title">Деинсталиране на Бележки?</string>
 </resources>

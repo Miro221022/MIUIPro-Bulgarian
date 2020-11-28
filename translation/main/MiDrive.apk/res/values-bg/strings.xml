@@ -554,4 +554,8 @@
     <string name="save_pdf">Запазване</string>
     <string name="saving_pdf">Запазване…</string>
 	<string name="ai_ppt_to_pdf_view_all">Преглед на всички</string>
+	<string name="exception_not_support_modify_for_overseas_user">"Тази функция не се предлага извън континентален Китай"</string>
+    <string name="not_support_upload_file_for_overseas_users">"Качването не е налично извън континентален Китай"</string>
+    <string name="stay_tuned">Останете на линия</string>
+    <string name="stay_tuned_sub_desc">Понастоящем тази услуга е достъпна само в континентален Китай</string>
 </resources>

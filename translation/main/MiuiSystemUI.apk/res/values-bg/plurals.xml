@@ -69,8 +69,8 @@
     <item quantity="one">Остава %1$d ч %2$d м</item>
   </plurals>
   <plurals name="kg_password_default_pin_message">
-    <item quantity="other">Въведете PIN код, имате още %d оставащи опита.</item>
-    <item quantity="one">Въведете PIN код, имате още %d оставащ опит преди да се наложи да се свържете с оператор, за да отключи устройстворо ви.</item>
+    <item quantity="other">Въведете PIN код. Имате още %d оставащи опита.</item>
+    <item quantity="one">Въведете PIN код. Имате още %d оставащ опит преди да се наложи да се свържете с оператор, за да отключи устройстворо ви.</item>
   </plurals>
   <plurals name="kg_password_default_puk_message">
     <item quantity="other">СИМ картата е деактивирана. Въведете PUK код за да продължите. Имате още %d оставащи опита преди СИМ картата да стане напълно неизползваема. Свържете се с оператор за подробности.</item>

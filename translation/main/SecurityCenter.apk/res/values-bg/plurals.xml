@@ -674,4 +674,59 @@ You can get a %d-дневен безплатен пробен период се�
         <item quantity="other">%d елемента се нуждаят от допълнителна защита</item>
         <item quantity="one">%d елемент се нуждае от допълнителна защита</item>
     </plurals>
+	    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d проблема с използването на батерията</item>
+        <item quantity="one">%d проблем с използването на батерията</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Оптимизаране на %d елемента за пестене на батерията</item>
+        <item quantity="one">Оптимизаране на %d елемент за пестене на батерията</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">пъти</item>
+        <item quantity="one">път</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d проблема с използването на батерията</item>
+        <item quantity="one">%d проблем с използването на батерията</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" часа"</item>
+        <item quantity="one">" час"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" мин."</item>
+        <item quantity="one">" мин."</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Заредете напълно устройството си поне %2$d пъти, за да получите точна статистика</item>
+        <item quantity="one">Заредете напълно устройството си поне %2$d път, за да получите точна статистика</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Поправяне на %d проблема с използването на батерията</item>
+        <item quantity="one">Поправяне на %d проблем с използването на батерията</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Можете да поправите %d проблема с използването на батерията</item>
+        <item quantity="one">Можете да поправите %d проблем с използването на батерията</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d елемента могат да бъдат оптимизирани"</item>
+        <item quantity="one">" %d елемент може да бъде оптимизиран"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Оптимизаре на %d елемента, за да спестите батерия</item>
+        <item quantity="one">Optimize %d елемент, за да спестите батерия</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Можете да оптимизирате %d елемента, за да спестите батерия</item>
+        <item quantity="one">Можете да оптимизирате %d елемент, за да спестите батерия</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d приложения често стартират автоматично</item>
+        <item quantity="one">%d приложение често стартират автоматично</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d приложения изтощават батерията</item>
+        <item quantity="one">%d приложение изтощава батерията</item>
 </resources>

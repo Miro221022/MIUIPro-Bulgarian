@@ -1393,13 +1393,6 @@
      <string name="server_cet_title">Подробности за сертификата</string>
      <string name="show_server_cet">Преглед на сертификата</string>
      <string name="successfully_obtained_authorization_code">Код за потвърждение</string>
-	      <string name="server_log">服务协议</string>
-     <string name="user_experience_content">请确认您已阅读并同意《用户体验计划》</string>
-     <string name="user_experience_log">用户体验计划</string>
-     <string name="user_experience_login">参加</string>
-     <string name="user_experience_logout">退出体验计划</string>
-     <string name="user_experience_positive">同意并继续</string>
-     <string name="user_experience_title">声明与条款</string>
 	      <string name="bottom_bar_more_pdf">Export to PDF</string>
      <string name="bottom_bar_more_pdf_exporting">Exporting…</string>
      <string name="contain_view_all_body">View the full text of the message</string>
@@ -1434,4 +1427,6 @@ Please confirm whether the application password is turned on, if it is turned on
      <string name="wps_card_button_tips">Open Kingsoft Document</string>
      <string name="wps_card_tips">Found sharing link from \"%s\"</string>
      <string name="wps_card_title">Kingsoft Document</string>
+	     <string name="app_uninstall_content">Поща е системно приложение на MIUI. След деинсталирането няма да можете да добавяте имейл акаунти, да изпращате и получавате имейли и да синхронизирате графици за имейли.</string>
+    <string name="app_uninstall_title">Деинсталиране на \"Поща\"?</string>
 </resources>

@@ -977,7 +977,6 @@
 	<string name="err_remote_no_space">Няма достатъчно място за съхранение на новото устройство</string>
     <string name="err_remote_timeout">Времето за прехвърляне изтече</string>
     <string name="err_send_error">"Не може да се изпрати"</string>
-    <string name="waiting_restore_desktop">Прехвърляне на приложения от трети страни за възстановяване на оформлението на началния екран…</string>
 	 <string name="backup_died_summary">Доксонете \"Свържи отново\". Напредъкът на трансфера ще се възобнови от мястото, където сте прекъснали.</string>
      <string name="backup_died_title">Възникна грешка</string>
      <string name="qq_app_receive_fail">"Не може да се получи QQ"</string>
@@ -1164,4 +1163,6 @@
      <string name="trans_main_activity_tutor_first">Прехвърлете елементи на ново устройство</string>
      <string name="trans_show_qr_code_label">Отворете Mi Трансфер на старото устройство</string>
 	 <string name="provision_receiver_finish_button">Следващо</string>
+	     <string name="waiting_restore_aod">Възстановяване на Винаги включен екран…</string>
+     <string name="waiting_restore_desktop">Възстановяване на оформлението на началния екран…</string>
 </resources>

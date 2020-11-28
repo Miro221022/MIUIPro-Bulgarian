@@ -25,11 +25,10 @@
     <string name="refocus_save_to_video">Запазване като видео</string>
     <string name="refocus_saving">Запазване…</string>
     <string name="refocus_title">Замъгляване</string>
-    <string name="refocus_type_relighting">"Студийно
-осветление"</string>
+    <string name="refocus_type_relighting">Студио</string>
     <string name="refocus_type_relighting_no_face">"Не е намерено лице"</string>
     <string name="refocus_type_relighting_small_face">Студио осветлението работи върху снимки, където лица заемат повече място, отколкото тук.</string>
-    <string name="refocus_type_static">Ниво на замъгляване</string>
+    <string name="refocus_type_static">Замъгляване</string>
     <string name="refocus_type_video">"Посока на
 светлината"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -48,4 +47,27 @@
     <string name="doc_photo_confirm">Изход</string>
     <string name="doc_photo_idcard_alert_msg">Отхвърляне на промените и изход от редактора?</string>
 	<string name="refocus_type_movie_relighting">Кино</string>
+	   <string name="refocus_dynamic_luoxuan">Вихър</string>
+    <string name="refocus_dynamic_tongxin">Прегръдка</string>
+    <string name="refocus_dynamic_xiantiao">Линии</string>
+    <string name="refocus_dynamic_xingxing">Звезди</string>
+    <string name="refocus_dynamic_xinxing">Сърца</string>
+    <string name="refocus_dynamic_yuanxing">Кръгове</string>
+    <string name="refocus_movie_banlan">Пъстър</string>
+    <string name="refocus_movie_caihong">Дъга</string>
+    <string name="refocus_movie_huaijiu">Носталгия</string>
+    <string name="refocus_movie_lanshan">Упадък</string>
+    <string name="refocus_movie_meiying">Фантом</string>
+    <string name="refocus_movie_mengjing">Страна на мечтите</string>
+    <string name="refocus_movie_niying">Неон</string>
+    <string name="refocus_movie_xuanying">Лъчи</string>
+    <string name="refocus_movie_yanhong">Скарлет</string>
+    <string name="refocus_none">Без</string>
+    <string name="refocus_relighting_baiyechuang">Щори</string>
+    <string name="refocus_relighting_caihong">Дъга</string>
+    <string name="refocus_relighting_dianying">Кино</string>
+    <string name="refocus_relighting_sahongjie">Холи</string>
+    <string name="refocus_relighting_shuye">Листа</string>
+    <string name="refocus_relighting_wutai">Сцена</string>
+    <string name="refocus_relighting_ziran">Натурално</string>
 </resources>

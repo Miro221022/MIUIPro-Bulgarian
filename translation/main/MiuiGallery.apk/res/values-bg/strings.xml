@@ -2171,4 +2171,5 @@
     <string name="slim_description_dialog_detail">Компресирайте снимки и оставяйте по-малки висококачествени копия на това устройство, запазвайки оригиналните файлове в облака.</string>
     <string name="slim_description_dialog_slim_before">Преди: %2$d МБ</string>
     <string name="video_compress_lib_download_without_wifi">"Изглежда, че устройството ви не е свързано с Wi-Fi. Можете да използвате мобилни данни, за да изтеглите приставката за компресиране на видео (%2$d МБ)."</string>
+	<string name="send_files_by">Споделяне на файлове чрез</string>
 </resources>

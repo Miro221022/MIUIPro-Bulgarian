@@ -106,7 +106,7 @@
     <string name="volume_dialog_accessibility_dismissed_message">Управлението за сила на звука е скрито</string>
     <string name="volume_dialog_accessibility_shown_message">%s показани управления за сила на звука. Плъзнете нагоре, за да отхвърлите.</string>
     <string name="wireless_charging_connected_message">"Не може да се използва обратно безжично зареждане, когато устройството ви се зарежда безжично."</string>
-    <string name="wireless_charging_low_battery_level_message">"Не може да се използва обратно безжично зареждане, когато батерията е заредена под 30%."</string>
+    <string name="wireless_charging_low_battery_level_message">"Не може да се използва обратно безжично зареждане, когато батерията е заредена под %d%%."</string>
     <string name="wireless_charging_ok">Разбрах</string>
     <string name="wireless_charging_saver_cancel">Изключване</string>
     <string name="wireless_charging_saver_message">Пестенето на батерията е включено. Да се продължи ли с обратното безжично зареждане?</string>
@@ -114,4 +114,7 @@
     <string name="wireless_charging_tips_disable">"Не показвай отново"</string>
     <string name="wireless_charging_tips_message">Поставете устройства, които поддържат Qi безжично зареждане (телефони, аксесоари и др.) на гърба на това устройство.</string>
     <string name="wireless_charging_tips_title">Обратно безжично зареждане</string>
+	<string name="safe_media_volume_warning">"Повишаване на силата на звука над препоръчаното ниво?
+ 
+Слушането с висока сила на звука за дълги периоди може да увреди слуха ви."</string>
 </resources>

@@ -78,8 +78,6 @@
     <string name="altitude_uncalibrate_refresh">Нов опит</string>
     <string name="altitude_uncalibrate_cancel">Отказ</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
-    <string name="app_description_title">За Компас</string>
-    <string name="app_description_content">Приложението Компас се използва за навигация и ориентация и показва вашата посока. Уверете се, че можете да използвате телефона си без тези услуги, преди да го деинсталирате.</string>
 	<string name="unit_degree">Градуси</string>
     <string name="allow">Разрешаване</string>
     <string name="cancel">Отказ</string>
@@ -103,4 +101,6 @@
 	<string name="dialog_body_no_network_global">Свържете се с Wi-Fi или включете мобилни данни.</string>
 	<string name="dialog_body_no_network_china">Свържете се с WLAN или включете мобилни данни.</string>
 	<string name="location_not_enabled_summary_no_pressure_sensor">Компас трябва да има достъп до вашето местоположение, за да покаже текущите ви координати.</string>
+	   <string name="app_description_content">"Компас е системно приложение. Няма да можете да го използвате за проверка на посоки, координати, атмосферно налягане и текуща надморска височина, след като го деинсталирате."</string>
+    <string name="app_description_title">Деинсталиране на Компас?</string>
 </resources>

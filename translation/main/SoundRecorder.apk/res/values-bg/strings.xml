@@ -330,4 +330,7 @@
 	 <string name="no_network">"Не може да се свърже с мрежата"</string>
 	   <string name="uninstall_warning_content">"Звукозапис е системно приложение. Няма да можете да записвате и транскрибирате звук и гласови повиквания, след като го деинсталирате."</string>
   <string name="uninstall_warning_title">Деинсталиране на Звукозапис?</string>
+      <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
 </resources>

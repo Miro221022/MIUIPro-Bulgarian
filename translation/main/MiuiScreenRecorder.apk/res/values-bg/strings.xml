@@ -129,4 +129,6 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
+	    <string name="uninstall_warning_content">"Запис на екрана е системно приложение. Няма да можете да записвате екранни видеоклипове, след като го деинсталирате."</string>
+    <string name="uninstall_warning_title">Деинсталиране на Запис на екрана?</string>
 </resources>

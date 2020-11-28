@@ -1966,4 +1966,6 @@
     <string name="fiveg_network_mode_title">Избор на 5G мрежов режим</string>
 	    <string name="preference_countrycode_title">Код на държавата</string>
     <string name="fiveg_sa_vice_switch_title">SA на втората SIM</string>
+	     <string name="vonr_switch_summary">Използвайте VoNR, за да подобрите качеството на гласовите повиквания</string>
+     <string name="vonr_switch_title">Използване на VoNR</string>
 </resources>
