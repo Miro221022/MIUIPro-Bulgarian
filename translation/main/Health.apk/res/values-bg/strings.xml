@@ -513,7 +513,7 @@
   <string name="improve_step_target">Постигате целта си твърде често. Пробвайте да си поставите по-висока цел.</string>
   <string name="improve_your_health_default_tips">За да сте здрави, правете упражнения и спете достатъчно.</string>
   <string name="inactivated">Не е активирано</string>
-  <string name="indoor_rinding">Вътрешен цикъл</string>
+  <string name="indoor_rinding">Велоергометър</string>
   <string name="indoor_running">Бягаща пътека</string>
   <string name="input_body_weight">Въведете данни за теглото, за да получите здравни съвети</string>
   <string name="inquire_recover_data">Възстановяване на здравни данни?</string>
@@ -1422,9 +1422,6 @@
      <string name="hr_fp_area">Скенер за пръстови отпечатъци</string>
      <string name="hr_fp_detect_desc">Кръвта тече към пръстите ви при всеки пулс. Ярката светлина в областта на скенера за пръстови отпечатъци под екрана ни позволява да проследяваме промените в кръвния поток, да анализираме моделите и да ги преобразуваме в стойности на пулса.</string>
      <string name="hr_fp_detect_principle_desc_2">"Забележка: Уверете се, че пръстът ви напълно покрива иконата за пръстови отпечатъци по време на измерването. Не прилагайте сила, тъй като това може да блокира притока на кръв в върха на пръста ви и да направи резултатите неточни. Това измерване е предоставено само за справка. Не може да замени медицинските тестове."</string>
-     <string name="hr_fp_detect_start_desc">"Натиснете леко иконата за пръстов отпечатък.
-Не мърдайте пръста си."</string>
-     <string name="hr_fp_detecting">Измерване…</string>
      <string name="hr_fp_not_put_well">"Помръднахте пръста си.
 Започнете отначало."</string>
      <string name="location_permission_dialog_content">Позволете на Xiaomi Здраве достъп до вашето местоположение в \"Xiaomi Здраве\" &gt; \"Управление на разрешенията\" за да можете да проследявате тренировките си на открито.</string>
@@ -1505,7 +1502,7 @@
 
 За да Ви предоставим препоръки, ние ще споделим вашите здравни данни с доставчик на услуги от трета страна. Елементите, които ще споделяме, включват лична информация (възраст, пол), статистически данни за здравето (ръст, тегло, рутинна тренировка), данни за поведението (начален и краен час, както и продължителността на вашите тренировки).
 
-Ще обработим тези елементи, преди да ги споделим, за да попречим на доставчиците на услуги от трети страни да ви идентифицират лично въз основа на данните, които получават.
+Ще направим анономни тези елементи, преди да ги споделим, за да попречим на доставчиците на услуги на трети страни да ви идентифицират лично въз основа на данните, които получават.
 
 Ако не искате да получите достъп до препоръчаните класове, пак можете да използвате редовните тренировки."</string>
      <string name="auth_dialog_link">За да разберете напълно вашите права като потребител, както и начините, по които използваме вашите данни, прочетете и приемете нашите &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Потребителско споразумение&lt;/a>&lt;/font> и &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Политика за поверителност&lt;/a>&lt;/font>.</string>
@@ -1539,4 +1536,98 @@
      <string name="tb_home_sleep_card">"Днешен сън: %1$s, %2$s"</string>
 	 <string name="hr_disable_in_split_screen">"Не можете да измерите сърдечната честота, докато използвате разделен екран"</string>
 	 <string name="placement_tips_recommend_2">Чанта за кръста</string>
+	 <string name="MediaControlView_ad_remaining_time">Реклама · %1$s остават</string>
+    <string name="MediaControlView_ad_skip_wait_time">Можете да пропуснете рекламата след %1$dсек.</string>
+    <string name="MediaControlView_ad_text">Посетете рекламодателя</string>
+    <string name="MediaControlView_audio_track_none_text">Без</string>
+    <string name="MediaControlView_audio_track_number_text">Песен %1$d</string>
+    <string name="MediaControlView_audio_track_text">Аудио запис</string>
+    <string name="MediaControlView_custom_playback_speed_text">%1$.2fx</string>
+    <string name="MediaControlView_playback_speed_normal">Нормално</string>
+    <string name="MediaControlView_playback_speed_text">Скорост на изпълнение</string>
+    <string name="MediaControlView_subtitle_off_text">Изключено</string>
+    <string name="MediaControlView_subtitle_track_number_and_lang_text">Песен %1$d - %2$s</string>
+    <string name="MediaControlView_subtitle_track_number_text">Песен %1$d</string>
+    <string name="MediaControlView_video_quality_auto_text">Авто</string>
+    <string name="altitude_pressure_hint">*Изчислено по въздушно налягане, има някои грешки</string>
+    <string name="default_notification_channel_name">Текущо изпълнявано</string>
+    <string name="environment_detection_again">Повторен опит</string>
+    <string name="environment_detection_fail">"Изглежда тук е твърде шумно"</string>
+    <string name="environment_detection_fail_hint">Преместете се на тихо място и опитайте отново.</string>
+    <string name="environment_detection_hint_one">Избягвайте шумни места, за да направите статистиката по-точна.</string>
+    <string name="environment_detection_hint_two">Вашата тренировка ще бъде поставена на пауза и ще бъде възобновена автоматично въз основа на звуците, които издавате.</string>
+    <string name="environment_detection_ing">Проверка на тренировъчната среда…</string>
+    <string name="health_uninstall_dialog_content">"Xiaomi Здраве е системно приложение. Можете да го използвате, за да броите стъпки, да проследявате съня, месечни цикли и теглото, както и да синхронизирате статистическите си данни с облака. Няма да можете да използвате това приложение, след като го деинсталирате."</string>
+    <string name="health_uninstall_dialog_title">Деинсталиране на Xiaomi Здраве?</string>
+    <string name="hr_report_active_high_desc">Настоящият ви сърдечен ритъм е интензивен сърдечен ритъм при упражнения. Ще се стимулира сърдечно-белодробната функция.</string>
+    <string name="hr_report_active_higher_desc">Настоящият ви пулс е интензивен сърдечен ритъм при упражнения. Функцията на сърцето и белите дробове получава силна стимулация, в същото време обърнете внимание на физическото състояние, ако има дискомфорт, трябва да спрете упражненията възможно най-скоро.</string>
+    <string name="hr_report_active_lower_mid_desc">Настоящият ви сърдечен ритъм е по-нисък интензивен сърдечен ритъм. Може да се затопли. Препоръчва се хората с влошено здраве да тренират с ниска до умерена интензивност.</string>
+    <string name="hr_report_active_lowest_desc">Настоящият ви сърдечен ритъм е нисък интензивен сърдечен ритъм. Може да предизвика определена стимулация на тялото, но интензивността на упражненията е малка.</string>
+    <string name="hr_report_active_mid_desc">Настоящият ви пулс е умерен. Препоръчва се повечето здрави възрастни да правят упражнения с умерена до висока интензивност за 150 минути седмично.</string>
+    <string name="hr_report_regular_fast_desc">Понастоящем сте с тахикардия. Тежките спортове, пиене, тежък физически труд, напрежение, тревожност или прием на някои лекарства могат да причинят физиологична тахикардия, докато сърдечно-съдови заболявания, анемия, хипертиреоидизъм, хипоксия, сърдечна недостатъчност и други заболявания могат да причинят патологична тахикардия. Ако се чувствате зле, моля консултирайте се с Вашия лекар.</string>
+    <string name="hr_report_regular_normal_desc">Пулсът ви е в нормалните граници. Сърцето ви се справя добре със стреса и тялото ви може да устои на външния стрес. Промяната на сърдечната честота е тясно свързана със сърдечните заболявания. Моля, обърнете внимание на промяната на пулса по всяко време, особено по време на тренировка.</string>
+    <string name="hr_report_resting_fast_desc">Вашият пулс в покой е по-висок от нормалния диапазон, което може да доведе до умора или тахикардия. Препоръчва се да подобрите начина си на живот, като диета с ниско съдържание на сол и по-малко масло, понижаване на теглото, спиране на тютюнопушенето и алкохола, психологическа и емоционална настройка, особено постепенно увеличаване на физическите упражнения, което може да помогне за забавяне на пулса в покой.</string>
+    <string name="hr_report_resting_normal_desc">Вашият пулс в покой е в нормални граници. Пулсът в покой се отнася до броя на сърдечните удари в минута на нормални хора в спокойно състояние. Най-доброто време за измерване на пулса в покой е събуждането сутрин, докато все още сте в леглото и без физическа активност. Преди да измерите пулса в покой, поемете дълбоко въздух, за да отпуснете напълно тялото.</string>
+    <string name="hr_report_resting_slow_desc">Вашият пулс в покой е под нормалния диапазон и може да има брадикардия. Ако сърдечната честота е твърде бавна за дълго време, лесно е да се предизвика исхемия и хипоксия на органи, особено на сърдечно-мозъчните съдове. Пулсът в покой е тясно свързан с диетата, упражненията, стреса, съня и физическото състояние. Препоръчително е да поддържате здравословен и добър начин на живот и да обръщате внимание на физическите реакции навреме. Ако имате симптоми като замаяност, умора, припадък и стягане в гърдите, моля потърсете медицинска помощ навреме.</string>
+    <string name="lowest_freq">Най-ниска честота</string>
+    <string name="mcv2_back_button_desc">Назад</string>
+    <string name="mcv2_cc_is_off">Субтитрите са изключени. Доксонете, за да ги покажете.</string>
+    <string name="mcv2_cc_is_on">Субтитрите са включени. Доксонете, за да ги скриете.</string>
+    <string name="mcv2_error_dialog_button">OK</string>
+    <string name="mcv2_ffwd_button_desc">Премести напред с 30 секунди</string>
+    <string name="mcv2_full_screen_button_desc">Цял екран</string>
+    <string name="mcv2_launch_button_desc">Стартиране на връзка</string>
+    <string name="mcv2_music_artist_unknown_text">Неизвестен изпълнител</string>
+    <string name="mcv2_music_title_unknown_text">Неизветсна песен</string>
+    <string name="mcv2_next_button_desc">Следващо</string>
+    <string name="mcv2_non_music_title_unknown_text">Името на видеото е неизвестно</string>
+    <string name="mcv2_overflow_left_button_desc">Назад към предишния списък с бутони</string>
+    <string name="mcv2_overflow_right_button_desc">Вижте още бутони</string>
+    <string name="mcv2_pause_button_desc">Пауза</string>
+    <string name="mcv2_play_button_desc">Изпълни</string>
+    <string name="mcv2_playback_error_text">"Заявеният от вас елемент не можа да се възпроизведе"</string>
+    <string name="mcv2_previous_button_desc">Предишна</string>
+    <string name="mcv2_replay_button_desc">Повторение</string>
+    <string name="mcv2_rewind_button_desc">Превъртете с 10 секунди назад</string>
+    <string name="mcv2_seek_bar_desc">Напредък на възпроизвеждане</string>
+    <string name="mcv2_settings_button_desc">Настройки</string>
+    <string name="mcv2_video_quality_button_desc">Избор на качество на видеото</string>
+    <string name="miuix_search_action_mode_cancel">Отказ</string>
+    <string name="miuix_search_history_clear">Изчистване на историята на търсенията</string>
+    <string name="miuix_search_history_default_title">История на търсенията</string>
+    <string name="miuix_search_recommendation_default_title">Може да се интересувате от тези</string>
+    <string name="miuix_search_recommendation_item_del_des">Изтриване</string>
+    <string name="pause_button_content_description">Пауза</string>
+    <string name="play_button_content_description">Изпълни</string>
+    <string name="rope_skipping_environment_warning">Моля, избягвайте шумна обстановка</string>
+    <string name="rope_skipping_ways">Идентифициране на прескачане на въже чрез гласа</string>
+    <string name="skip_to_next_item_button_content_description">Преминете към следващия елемент</string>
+    <string name="skip_to_previous_item_button_content_description">Преминаване към предишния елемент</string>
+    <string name="skipping_count">Скокове</string>
+    <string name="skipping_detection_no">"Не може да се открие вашата тренировка."</string>
+    <string name="skipping_detection_no_hint">Избягвайте шумни места и дръжте това устройство близо.</string>
+    <string name="skipping_kcal">Калории</string>
+    <string name="skipping_pause">Пропускане на времето за изчакване</string>
+    <string name="skipping_pause_tips">На пауза | Възобновете тренировката си, за да продължите да проследявате автоматично</string>
+    <string name="skipping_ready">Можете да започнете тренировката си сега</string>
+    <string name="skipping_ready_hint_one">Дръжте това устройство на по-малко от 1 метър от вас.</string>
+    <string name="skipping_ready_hint_two">Вашата тренировка ще бъде поставена на пауза и ще бъде възобновена автоматично въз основа на звуците, които издавате.</string>
+    <string name="skipping_ready_toast">"Увеличихме силата на звука, така че да чувате инструкциите по-добре."</string>
+    <string name="skipping_reset_time">Почивка</string>
+    <string name="skipping_start_counting">Начало</string>
+    <string name="skipping_time">Продължителност</string>
+    <string name="skipping_upload_dialog_agree_and_upload">Приемане и качване</string>
+    <string name="skipping_upload_dialog_msg">За да осигури по-точно преживяване при прескачане, Xiaomi Здраве ще качи файла за запис на вашето прескачане на въже през Wi-Fi, за да оптимизира ефекта на разпознаване на прескачането на въже. За да защитите поверителността си, качването и съхраняването на файлове за запис ще бъдат строго криптирани.</string>
+    <string name="skipping_upload_dialog_title">Качете запис с прескачане на въже, за да оптимизирате разпознаването</string>
+    <string name="skipping_upload_tips">Качете този запис на прескачане на въже, за да подобрите ефекта на разпознаване</string>
+    <string name="sport_audio_permission_dialog_content">Това приложение се нуждае от разрешения за запис на звук, за да може да проследява тренировки въз основа на звуците, които издавате.</string>
+    <string name="sport_audio_permission_dialog_desc">За проследяване на тренировки въз основа на звуците, които издавате</string>
+    <string name="sport_audio_permission_dialog_title">Изискват се разрешения</string>
+    <string name="sport_outdoor_running">Бягане</string>
+    <string name="swipe_right_to_end">Плъзнете надясно за край</string>
+    <string name="swipe_up_to_end">Плъзнете нагоре за край</string>
+    <string name="try_again">Повторен опит</string>
+    <string name="voice_remind">"Увеличихме силата на звука, така че да чувате инструкциите по-добре."</string>
+    <string name="hr_fp_detect_start_desc">Покрийте иконата с пръст</string>
+    <string name="hr_fp_detecting">"Не мърдайте пръста си"</string>
 </resources>
