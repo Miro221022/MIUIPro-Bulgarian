@@ -1151,7 +1151,6 @@
   <string name="gb_advance_settings_edge_gear4">Голямо</string>
   <string name="gb_advance_settings_edge_suppression">Област, чувствителна на допир</string>
   <string name="gb_advance_settings_edge_suppression_summary">Намалете чувствителността на докосване в близост до ръбовете, за да избегнете задействане на сензорните бутони.Дръжте устройството си в посочените области, за да не закривате говорителите.</string>
-  <string name="gb_advance_settings_finger_up">Чувствителност към повтарящи се докосвания</string>
   <string name="gb_advance_settings_follow_up">Чувствителност на допир</string>
   <string name="gb_advance_settings_reset">Визстановяване на настройките по подразбиране</string>
   <string name="gb_advance_settings_reset_dialog_content">Визстановяване на настройките по подразбиране сега?</string>
@@ -4096,7 +4095,6 @@
     <string name="power_optimize_enable_now_button">Включване</string>
     <string name="power_optimize_gps_summary">Забранете достъпа до местоположението за всички приложения</string>
     <string name="power_optimize_power_save_extend_time">Добавяне на %s</string>
-    <string name="power_optimize_power_save_summary">Превключете в тъмен режим и приложете множество системни оптимизации, които ограничават фоновата активност и пестят батерия</string>
     <string name="power_optimize_prohibit_app_autostart">"Не позволявайте на приложенията да се стартират автоматично"</string>
     <string name="power_optimize_reduce_fps">Намалете честотата на опресняване на екрана до %d Хц</string>
     <string name="power_optimize_reduce_fps_summary">По-ниската честота на опресняване работи за повечето случаи</string>
@@ -4170,4 +4168,6 @@
      <string name="special_perm_vr_title">Използване на VR аситент</string>
      <string name="special_perm_window_msg">Разрешаване на приложенията да показват елементи в режим картина в картината</string>
      <string name="special_perm_window_title">Показване на елементи в режим картина в картината</string>
+    <string name="gb_advance_settings_finger_up">Чувствителност към продължителни докосвания</string>
+    <string name="power_optimize_power_save_summary">Включете Пестене на батерия, за да приложите няколко системни оптимизации, които ограничават активността във фонов режим</string>
 </resources>

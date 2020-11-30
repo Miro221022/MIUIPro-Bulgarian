@@ -136,7 +136,7 @@
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. За да активирате %3$s, въведете телефонния номер на SIM %2$d. Ако замените тази SIM карта, ще бъде изпратен друг SMS за активиране.</string>
     <string name="activate_popup_desc_intl_sim_card_msg">За да активирате %2$s, %1$d ще бъде изпратен международен SMS. Вашият оператор ще ви таксува за това съобщение.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Прегледайте &lt;a href=https://account.xiaomi.com/helpcenter/faq>Ръководство за потребителя на Mi профил&lt;/a> ако някакви въпроси.</Data></string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg">За да активирате %3$s, %1$d ще бъдат изпратени нормален и %2$d международен SMS. Вашият оператор ще ви таксува за това съобщение.</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg">За да активирате %3$s, %1$d ще бъдат изпратени нормален и %2$d международен SMS. Вашият оператор ще ви таксува за тези съобщения.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">За да активирате %2$s, въведете телефонния номер на SIM %1$d.</string>
     <string name="activate_popup_desc_sim_card_msg">За да активирате %2$s, %1$d ще се изпрати нормален SMS. Вашият оператор ще ви таксува за това съобщение.</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. За да активирате %3$s, въведете телефонния номер на SIM %2$d. Техническата поддръжка се предоставя отчасти от Weihuitel. Обърнете се към Политиката за поверителност на Weihuitel за подробности.</string>

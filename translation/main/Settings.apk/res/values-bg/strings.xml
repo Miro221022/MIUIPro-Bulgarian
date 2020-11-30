@@ -7793,8 +7793,6 @@ UT интерфейс: %5$s"</string>
   <string name="gxzw_anim_dialog_enroll">OK</string>
   <string name="gxzw_anim_dialog_message">Добавете пръстовия си отпечатък, за да можете да видите анимация на пръстови отпечатъци. Добавяне сега?</string>
   <string name="gxzw_anim_dialog_title">Добавете пръстов отпечатък</string>
-  <string name="resolution_qhd_summary">3200×1440 (консумира повече енергия)</string>
-  <string name="save_battery_mode">Спестете енергия с QHD+</string>
   <string name="save_battery_mode_summary">Автоматично превключване на разделителната способност, за да спестите енергия</string>
       <string name="headset_connectiong">Свързване...</string>
     <string name="headset_remove_message">Искате ли да премахнете това устройство от вашия профил</string>
@@ -7809,4 +7807,17 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_rename_device">Преименуване</string>
     <string name="miheadset_soft">Мек</string>
     <string name="miheadset_transparent">Прозрачност</string>
+	<string name="adjust_font_size_answer_cn">Опитайте да коригирате размера на текста и едрината на шрифта, като използвате плъзгачите по-долу!</string>
+    <string name="adjust_font_size_answer_global">Опитайте да коригирате размера на текста, като използвате плъзгача по-долу!</string>
+    <string name="font_settings_jump">Достъпност > Размер на екрана</string>
+    <string name="font_settings_recommend_title">"Размерът на текста не е достатъчно голям?"</string>
+    <string name="font_settings_summary_cn">Шрифтове и размер на текста</string>
+    <string name="how_adjust_font_size">Как да коригирам размера на текста?</string>
+    <string name="personalize_title">Тапет и персонализация</string>
+    <string name="title_font_settings">Настройки на шрифта</string>
+    <string name="toast_apply_font_fail">"Не може да се зададе шрифт"</string>
+    <string name="resolution_sub_title">MIUI може да затвори приложенията, работещи във фонов режим, докато превключвате разделителната способност</string>
+    <string name="resolution_fhd_summary">2400×1080 (пести батерия)</string>
+    <string name="resolution_qhd_summary">3200×1440 (добавя яснота)</string>
+    <string name="save_battery_mode">Пестете батерия с WQHD+</string>
 </resources>

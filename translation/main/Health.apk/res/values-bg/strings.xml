@@ -1607,7 +1607,6 @@
     <string name="skipping_detection_no">"Не може да се открие вашата тренировка."</string>
     <string name="skipping_detection_no_hint">Избягвайте шумни места и дръжте това устройство близо.</string>
     <string name="skipping_kcal">Калории</string>
-    <string name="skipping_pause">Пропускане на времето за изчакване</string>
     <string name="skipping_pause_tips">На пауза | Възобновете тренировката си, за да продължите да проследявате автоматично</string>
     <string name="skipping_ready">Можете да започнете тренировката си сега</string>
     <string name="skipping_ready_hint_one">Дръжте това устройство на по-малко от 1 метър от вас.</string>
@@ -1617,7 +1616,6 @@
     <string name="skipping_start_counting">Начало</string>
     <string name="skipping_time">Продължителност</string>
     <string name="skipping_upload_dialog_agree_and_upload">Приемане и качване</string>
-    <string name="skipping_upload_dialog_msg">За да осигури по-точно преживяване при прескачане, Xiaomi Здраве ще качи файла за запис на вашето прескачане на въже през Wi-Fi, за да оптимизира ефекта на разпознаване на прескачането на въже. За да защитите поверителността си, качването и съхраняването на файлове за запис ще бъдат строго криптирани.</string>
     <string name="skipping_upload_dialog_title">Качете запис с прескачане на въже, за да оптимизирате разпознаването</string>
     <string name="skipping_upload_tips">Качете този запис на прескачане на въже, за да подобрите ефекта на разпознаване</string>
     <string name="sport_audio_permission_dialog_content">Това приложение се нуждае от разрешения за запис на звук, за да може да проследява тренировки въз основа на звуците, които издавате.</string>
@@ -1630,4 +1628,6 @@
     <string name="voice_remind">"Увеличихме силата на звука, така че да чувате инструкциите по-добре."</string>
     <string name="hr_fp_detect_start_desc">Покрийте иконата с пръст</string>
     <string name="hr_fp_detecting">"Не мърдайте пръста си"</string>
+    <string name="skipping_pause">Пропускане на паузата</string>
+    <string name="skipping_upload_dialog_msg">За да осигури по-точно преживяване при прескачане, Xiaomi Здраве ще качи файла за запис на вашето прескачане въже под %s условия за оптимизиране на ефекта на разпознаване на прескачане на въже. За да защитите поверителността си, качването и съхраняването на файлове за запис ще бъдат строго криптирани.</string>
 </resources>

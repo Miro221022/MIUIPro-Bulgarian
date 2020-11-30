@@ -1133,4 +1133,6 @@
     <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
     <string name="miuix_appcompat_search_input_description">Търсене</string>
     <string name="miuix_appcompat_select_all_description">Избери всички</string>
+	<string name="pref_summary_enable_ad_notification">Включете групираните известия за промоционални съобщения в панела за известия</string>
+    <string name="pref_title_enable_ad_notification">Промоционални съобщения</string>
 </resources>
