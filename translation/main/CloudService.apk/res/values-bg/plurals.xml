@@ -116,4 +116,8 @@
         <item quantity="other">%1$s мин.</item>
         <item quantity="one">%1$s мин.</item>
     </plurals>
+	    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Опитайте отново след %d секунди</item>
+        <item quantity="one">Опитайте отново след %d секунда</item>
+    </plurals>
 </resources>

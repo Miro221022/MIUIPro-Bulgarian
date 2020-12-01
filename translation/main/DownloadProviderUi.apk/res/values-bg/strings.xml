@@ -544,4 +544,6 @@
     <string name="v7_preference_on">ВКЛ.</string>
 	<string name="info_rank_show">Препоръчай популярни елементи</string>
 	<string name="thunder_download_speedup">Повишаване на скоростта с помощта на Xunlei…</string>
+    <string name="download_description_content">"Изтеглянията са системно приложение. Няма да можете да управлявате изтеглянията си, след като го премахнете."</string>
+    <string name="download_description_title">Премахване на \"Изтегляния\" от началния екран?</string>
 </resources>

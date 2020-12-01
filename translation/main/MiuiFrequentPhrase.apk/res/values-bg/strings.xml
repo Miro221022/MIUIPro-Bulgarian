@@ -32,4 +32,20 @@
     <string name="input_method_switch_settings_text">Настройки на клавиатурата</string>
     <string name="input_method_tab_clipboard_text">Буферна памет</string>
     <string name="input_method_tab_phrase_text">Чести фрази</string>
+	<string name="input_method_clipboard_add_to_phrase_success">Добавяне към чести фрази</string>
+    <string name="input_method_function_clipboard">Буферна памет и чести фрази</string>
+    <string name="input_method_function_clipboard_des">Докоснете, за да видите съдържанието на буферната памет и честите фрази</string>
+    <string name="input_method_function_select_guide_title">Натиснете и задръжте за повече опции</string>
+    <string name="input_method_function_select_left_view_title">Задайте функция за левия бутон</string>
+    <string name="input_method_function_select_right_view_title">Задайте функция за десния бутон</string>
+    <string name="input_method_function_switch">Превключване между клавиатури</string>
+    <string name="input_method_function_switch_des">Докоснете, за да превключите на различна клавиатура</string>
+    <string name="input_method_function_switch_keyboard_language">Превключване на езика</string>
+    <string name="input_method_function_switch_keyboard_language_des">Докоснете, за да превключвате между езиците за въвеждане</string>
+    <string name="input_method_function_switch_keyboard_type">Превключване на клавиатурите</string>
+    <string name="input_method_function_switch_keyboard_type_des">Докоснете, за да превключвате между различни клавиатури</string>
+    <string name="input_method_function_voice">Гласово въвеждане</string>
+    <string name="input_method_function_voice_des">Докоснете, за да използвате гласово въвеждане</string>
+    <string name="input_method_function_xiaoai">Mi AI гласово въвеждане</string>
+    <string name="input_method_function_xiaoai_des">Докоснете, за да използвате Mi AI гласово въвеждане</string>
 </resources>
