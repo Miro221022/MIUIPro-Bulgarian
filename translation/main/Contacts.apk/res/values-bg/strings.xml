@@ -1487,4 +1487,8 @@
     <string name="undefined">Не е зададено</string>
     <string name="webview_btn_retry">Повторен опит</string>
     <string name="webview_network_failure">"Не може да се свърже с мрежата"</string>
+	    <string name="call_record_user_notice_all_purpose">Намерете разговорите, по време на които са били споменати определени думи</string>
+    <string name="call_record_user_notice_permission_desc_microphone">За записване на разговори</string>
+    <string name="call_record_user_notice_permission_desc_storage">За запазване на записи</string>
+    <string name="call_record_user_notice_title">Търсене на гласово повикване</string>
 </resources>

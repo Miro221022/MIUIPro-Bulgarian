@@ -3959,7 +3959,6 @@
     <string name="pp_understanding_privacy">Информираност</string>
     <string name="pp_virtual_identity_manager">Виртуална идентификация</string>
     <string name="privacy_risk_app">Рискови приложения</string>
-    <string name="privacy_risk_app_fuzzy">Приложения с без замъглен изглед</string>
     <string name="privacy_risk_dangerous_bar_title">Разрешения с висок риск</string>
     <string name="privacy_risk_dangerous_manager">Контрол на устройство</string>
     <string name="privacy_risk_dangerous_manager_msg">Разрешете на приложенията да контролират частично вашето устройство</string>
@@ -4003,7 +4002,6 @@
     <string name="privacy_risk_result_uninstall_btn">Деинсталирай</string>
     <string name="privacy_risk_sensitive">Чувствителни разрешения</string>
     <string name="privacy_risk_sensitive_bar_title">Чувствителни разрешения</string>
-    <string name="privacy_risk_sensitive_call_records">Разрешете на приложенията да имат достъп до историята на обажданията</string>
     <string name="privacy_risk_sensitive_contact">Разрешете на приложенията да имат достъп или да редактират контакти</string>
     <string name="privacy_risk_sensitive_location">Разрешете на приложенията да намират вашето устройство чрез налични мрежи или сателити</string>
     <string name="privacy_risk_sensitive_permissions">Чувствителни разрешения</string>
@@ -4170,4 +4168,9 @@
      <string name="special_perm_window_title">Показване на елементи в режим картина в картината</string>
     <string name="gb_advance_settings_finger_up">Чувствителност към продължителни докосвания</string>
     <string name="power_optimize_power_save_summary">Включете Пестене на батерия, за да приложите няколко системни оптимизации, които ограничават активността във фонов режим</string>
+	    <string name="app_behavior_link_start">Задействано стартиране</string>
+    <string name="app_behavior_share_file">Споделяне на файл</string>
+    <string name="app_behavior_share_picture">Споделете изображението</string>
+	    <string name="privacy_risk_app_fuzzy">Приложения без замъглени изглед</string>
+    <string name="privacy_risk_sensitive_call_records">Разрешете на приложенията да имат достъп или да редактират историята на обажданията</string>
 </resources>

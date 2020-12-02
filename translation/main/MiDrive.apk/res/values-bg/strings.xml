@@ -498,9 +498,6 @@
   <string name="update_no_network">"Не може да се свърже с мрежата. Проверете мрежовите си настройки и опитайте отново."</string>
   <string name="update_no_update">Текущата версия е актуална</string>
   <string name="update_progress_dialog_content">Изтегля се…</string>
-  <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
-  <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">%s нова версия</string>
   <string name="request_permission_content_with_phone_state">За да можете да влизате с Mi профил, да преглеждате, качвате, изтегляте и синхронизирате файлове и да проверявате за актуализации, Mi Drive изисква разрешения за достъп до вашите профили, снимки, файлове и IMEI.</string>
     <string name="cancel">Отказ</string>
     <string name="confirm">OK</string>
@@ -558,4 +555,7 @@
     <string name="not_support_upload_file_for_overseas_users">"Качването не е налично извън континентален Китай"</string>
     <string name="stay_tuned">Останете на линия</string>
     <string name="stay_tuned_sub_desc">Понастоящем тази услуга е достъпна само в континентален Китай</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
 </resources>

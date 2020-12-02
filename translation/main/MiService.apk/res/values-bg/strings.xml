@@ -189,7 +189,11 @@
     <string name="permission_imei_enable_desc">Разрешете на това приложение да се свърже с интернет и да предостави задължителните разрешения, изброени по-горе.</string>
     <string name="permission_location_introduce">За показване на точки за услуги в близост</string>
 	<string name="miui_guide_menu_privacy">Политика за поверителност</string>
-	    <string name="miui_mine_repair_mode_sub_title">售后维修时保证您的数据安全</string>
+	<string name="miui_mine_repair_mode_sub_title">售后维修时保证您的数据安全</string>
     <string name="miui_mine_repair_mode_title">维修模式</string>
 	<string name="miui_main_update_back_to_home">Подготовка на началния екран…</string>
+	<string name="icon_add_description">Add a Home screen shortcut</string>
+    <string name="icon_remove_confirm">Премахване</string>
+    <string name="icon_remove_description_content">"\"Услуги и отзиви\" е системно приложение. Все още ще можете да го използвате чрез Настройки, след като премахнете прекия път на началния екран."</string>
+    <string name="icon_remove_description_title">Премахване на \"Услуги и отзиви\" от началния екран?</string>
 </resources>

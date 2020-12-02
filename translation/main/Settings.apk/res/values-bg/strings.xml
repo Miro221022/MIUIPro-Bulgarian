@@ -7820,4 +7820,6 @@ UT интерфейс: %5$s"</string>
     <string name="resolution_fhd_summary">2400×1080 (пести батерия)</string>
     <string name="resolution_qhd_summary">3200×1440 (добавя яснота)</string>
     <string name="save_battery_mode">Пестете батерия с WQHD+</string>
+    <string name="font_setting_weight_toast">"Текущият шрифт не поддържа регулиране на едрината на шрифта"</string>
+    <string name="face_unlock_prompt">Подкана за отключване с лице</string>
 </resources>

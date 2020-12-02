@@ -197,4 +197,8 @@
         <item quantity="other">%1$d контакта</item>
         <item quantity="one">%1$d контакт</item>
     </plurals>
+	    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d елемента</item>
+        <item quantity="one">%1$d елемент</item>
+    </plurals>
 </resources>

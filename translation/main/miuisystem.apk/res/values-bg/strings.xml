@@ -228,4 +228,6 @@ d MMMM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
 d MMMM"</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Още системни тапети</string>
+	    <string name="wallpaper_group_color_move_title">Течни цветове</string>
+    <string name="wallpaper_group_sgn_mountain_title">Планината Сигунянг</string>
 </resources>

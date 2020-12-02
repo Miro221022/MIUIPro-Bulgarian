@@ -333,4 +333,7 @@
       <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
+	    <string name="clear_data_dialog_content">Кешираните елементи, данни за приложения и персонализирани настройки ще бъдат изтрити, но вашите записи ще останат на място.</string>
+    <string name="clear_data_dialog_title">Изчистване на данните сега?</string>
+    <string name="preference_clear_data">Изчистване на данните</string>
 </resources>

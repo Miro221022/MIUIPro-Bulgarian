@@ -612,10 +612,10 @@
   <string name="auto_disable_screenbuttons_summary">Докоснете два пъти бутон за управление, за да го активирате отново</string>
     <string name="auto_disable_screenbuttons_title">Автоматично деактивиране на бутоните за управление</string>
     <string name="key_shortcut_settings_title">Клавишни комбинации</string>
-	    <string name="alexa_notification_add">Добави</string>
+	<string name="alexa_notification_add">Добави</string>
     <string name="alexa_notification_cancel">Не сега</string>
     <string name="alexa_notification_content">Добавяне на пряк път за Alexa към Център за управление?</string>
-	    <string name="work_profile_next_button">Следващо</string>
+	<string name="work_profile_next_button">Следващо</string>
     <string name="work_profile_got_button">Разбрах</string>
     <string name="work_profile_first_content">Личните данни са отделени и скрити от служебните приложения</string>
     <string name="work_profile_second_content">Работните приложения и данни са видими за вашия ИТ администратор</string>
@@ -623,6 +623,9 @@
 	<string name="recents_layout_style">Подреждане на елементите в Последни</string>
     <string name="recents_layout_style_horizontal">Хоризонтално</string>
     <string name="recents_layout_style_vertical">Вертикално</string>
-	    <string name="remove_dialog_message">Приложението съдържа необходимите функции на системата и поддържа само премахването на икони на работния плот.</string>
+	<string name="remove_dialog_message">Приложението съдържа необходимите функции на системата и поддържа само премахването на икони на работния плот.</string>
     <string name="remove_dialog_title_format">Премахване на %s?</string>
+	<string name="icon_customize_summary">Изберете стил и коригирайте размера</string>
+    <string name="icon_form">Икони</string>
+    <string name="icon_style">Стил</string>
 </resources>
