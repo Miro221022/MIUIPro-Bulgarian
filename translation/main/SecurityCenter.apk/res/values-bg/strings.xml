@@ -4173,4 +4173,5 @@
     <string name="app_behavior_share_picture">Споделете изображението</string>
 	    <string name="privacy_risk_app_fuzzy">Приложения без замъглени изглед</string>
     <string name="privacy_risk_sensitive_call_records">Разрешете на приложенията да имат достъп или да редактират историята на обажданията</string>
+	<string name="ai_allow_all">Известяване, когато се използва разрешение за всичко</string>
 </resources>
