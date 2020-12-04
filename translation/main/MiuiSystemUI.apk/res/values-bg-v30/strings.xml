@@ -559,4 +559,7 @@ This app has not been granted record permission but could capture audio through 
     <string name="usb_accessory_permission_prompt">Allow %1$s to access %2$s?</string>
     <string name="usb_device_confirm_prompt">Open %1$s to handle %2$s?</string>
     <string name="usb_device_permission_prompt">Allow %1$s to access %2$s?</string>
+	<string name="keyguard_plugged_in">%s • Зареждане</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Бързо зареждане</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Бавно зареждане</string>
 </resources>

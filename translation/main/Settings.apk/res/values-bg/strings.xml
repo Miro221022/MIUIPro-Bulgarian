@@ -7817,9 +7817,19 @@ UT интерфейс: %5$s"</string>
     <string name="title_font_settings">Настройки на шрифта</string>
     <string name="toast_apply_font_fail">"Не може да се зададе шрифт"</string>
     <string name="resolution_sub_title">MIUI може да затвори приложенията, работещи във фонов режим, докато превключвате разделителната способност</string>
-    <string name="resolution_fhd_summary">2400×1080 (пести батерия)</string>
-    <string name="resolution_qhd_summary">3200×1440 (добавя яснота)</string>
     <string name="save_battery_mode">Пестете батерия с WQHD+</string>
     <string name="font_setting_weight_toast">"Текущият шрифт не поддържа регулиране на едрината на шрифта"</string>
     <string name="face_unlock_prompt">Подкана за отключване с лице</string>
+	<string name="gxzw_anim_dialog_cancel_enroll">Отказ</string>
+    <string name="gxzw_anim_dialog_enroll">OK</string>
+    <string name="gxzw_anim_dialog_message">Добавете пръстовия си отпечатък, за да видите анимацията на пръстовия отпечатък. Добавяне сега?</string>
+    <string name="gxzw_anim_dialog_title">Добавете пръстов отпечатък</string>
+    <string name="intelligence_suppression_title">Авто (препоръчително)</string>
+    <string name="screen_enhance_engine_memc_note">"Не могат да се подобряват видеоклипове, когато е включена супер разделителна способност. С включването на подобрени видеоклипове ще изключите супер разделителната способност."</string>
+    <string name="screen_enhance_engine_sr_for_video_note">"Супер разделителната способност не работи с подобрени видеоклипове. С включването на супер разделителна способност ще изключите подобрените видеоклипове."</string>
+    <string name="screen_enhance_engine_sr_pic_summary_video_only">Почишаване на резолюцията на видеоклипове до 1440p. Тази функция се поддържа от избрани приложения и леко увеличава консумацията на енергия.</string>
+    <string name="wifi_connect_channel">WLAN канал:</string>
+    <string name="wifi_connect_frequency">WLAN честота:</string>
+	<string name="resolution_fhd_summary" formatted="false">%d×%d (пести батерия)</string>
+    <string name="resolution_qhd_summary" formatted="false">%d×%d (добавя яснота)</string>
 </resources>

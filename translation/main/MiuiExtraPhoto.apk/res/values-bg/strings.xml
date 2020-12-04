@@ -47,7 +47,7 @@
     <string name="doc_photo_confirm">Изход</string>
     <string name="doc_photo_idcard_alert_msg">Отхвърляне на промените и изход от редактора?</string>
 	<string name="refocus_type_movie_relighting">Кино</string>
-	   <string name="refocus_dynamic_luoxuan">Вихър</string>
+	<string name="refocus_dynamic_luoxuan">Вихър</string>
     <string name="refocus_dynamic_tongxin">Прегръдка</string>
     <string name="refocus_dynamic_xiantiao">Линии</string>
     <string name="refocus_dynamic_xingxing">Звезди</string>
@@ -70,4 +70,8 @@
     <string name="refocus_relighting_shuye">Листа</string>
     <string name="refocus_relighting_wutai">Сцена</string>
     <string name="refocus_relighting_ziran">Натурално</string>
+	<string name="cancel">Отказ</string>
+    <string name="exit_alert_msg">Всички незапазени промени ще бъдат загубени.</string>
+    <string name="exit_alert_title">Отхвърлияне на промените?</string>
+    <string name="ok">OK</string>
 </resources>

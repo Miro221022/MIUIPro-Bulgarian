@@ -4174,4 +4174,6 @@
 	    <string name="privacy_risk_app_fuzzy">Приложения без замъглени изглед</string>
     <string name="privacy_risk_sensitive_call_records">Разрешете на приложенията да имат достъп или да редактират историята на обажданията</string>
 	<string name="ai_allow_all">Известяване, когато се използва разрешение за всичко</string>
+	    <string name="allow_all">Разреши на всички</string>
+    <string name="confirm_allow_all_permission">Да се разреши ли на всички приложения да използват тази функция?</string>
 </resources>

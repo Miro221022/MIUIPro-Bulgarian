@@ -192,4 +192,12 @@
         <item quantity="one">"%1$d елемент не е добавен към вашия акаунт"</item>
         <item quantity="other">"%1$d елемента не са добавени към вашия акаунт"</item>
     </plurals>
+	    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Превъртане напред с %d секунди</item>
+        <item quantity="one">Превъртане напред с %d секунда</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Превъртане назад с %d секунди</item>
+        <item quantity="one">Превъртане назад с %d секунда</item>
+    </plurals>
 </resources>

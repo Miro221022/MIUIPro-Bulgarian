@@ -283,7 +283,6 @@
   <string name="apn_settings_not_available">Настройките за промяна на името на точката за достъп не са налице за този потребител</string>
   <string name="app_info">Информация за приложението</string>
   <string name="app_label">Системен изглед</string>
-  <string name="app_name">Заключен екран</string>
   <string name="app_process_limit_title">Ограничение за процесите на заден план</string>
   <string name="as_important">Важно</string>
   <string name="as_unimportant">Маловажно</string>
@@ -800,7 +799,6 @@
   <string name="invalid_sim_puk_hint">PUK кодът трябва да е поне с 8 цифри</string>
   <string name="keep_screen_on">Постоянно включен</string>
   <string name="keep_screen_on_summary">Екраня няма да заспива в режим на зареждане</string>
-  <string name="keyboard_key_back">Назад</string>
   <string name="keyboard_key_backspace">Назад</string>
   <string name="keyboard_key_button_template">Бутон %1$s</string>
   <string name="keyboard_key_dpad_center">Център</string>
@@ -898,9 +896,6 @@
   <string name="keyguard_password_wrong_pin_code">Неправилен PIN код.</string>
   <string name="keyguard_permanent_disabled_sim_instructions">Вашата СИМ-карта е била напълно деактивирана.\n Свържете се с вашия доставчик на безжични услуги за друга SIM карта.</string>
   <string name="keyguard_permanent_disabled_sim_message_short">Неизползваема SIM карта.</string>
-  <string name="keyguard_plugged_in">Зареждане</string>
-  <string name="keyguard_plugged_in_charging_fast">Зарежда се бързо</string>
-  <string name="keyguard_plugged_in_charging_slowly">Бавно зареждане</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Бързо зареждане. Чукнете за подробности.</string>
   <string name="keyguard_sim_locked_message">SIM картата е заключена.</string>
   <string name="keyguard_sim_puk_locked_message">SIM картата е заключена с PUK.</string>
@@ -2049,4 +2044,8 @@ WLAN адрес (BSSID)
     <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Безшумният режим е изключен. Известията, медийните звуци и вибрациите отново са включени.</string>
     <string name="miui_toast_zen_to_dnd_version_R">Не ме безпокойте е включен. Известията ще бъдат заглушени и вибрациите изключени.</string>
     <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Безшумен режим е включен. Известията, медията и вибрацията ще бъдат изключени.</string>
+    <string name="keyboard_key_back">Назад</string>
+    <string name="keyguard_plugged_in">Зареждане</string>
+    <string name="keyguard_plugged_in_charging_fast">Бързо зареждане</string>
+    <string name="keyguard_plugged_in_charging_slowly">Зарежда се бавно</string>
 </resources>
