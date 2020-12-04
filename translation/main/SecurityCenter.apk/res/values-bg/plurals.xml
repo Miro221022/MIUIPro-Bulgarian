@@ -729,4 +729,5 @@ You can get a %d-дневен безплатен пробен период се�
     <plurals name="power_optimize_close_app_summary">
         <item quantity="other">%d приложения изтощават батерията</item>
         <item quantity="one">%d приложение изтощава батерията</item>
+	</plurals>
 </resources>
