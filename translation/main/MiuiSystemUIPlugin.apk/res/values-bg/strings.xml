@@ -95,7 +95,7 @@
     <string name="power_off">Изключване</string>
     <string name="quick_settings_pcmode_dialog_description">Режимът на компютър поддържа задачи с няколко прозореца и може да се използва с клавиатура и мишка. Превключването в този режим ще затвори всички стартирани приложения. Някои приложения може да не поддържат режим компютър.</string>
     <string name="quick_settings_wireless_label">Обратно безжично зареждане</string>
-    <string name="reboot_info_auto_boot">Устройството трябва да се включи в %s</string>
+    <string name="reboot_info_auto_boot">Предстояща аларма: %s</string>
     <string name="reboot_info_shutdown_alarm">Аларма за изключване: %s</string>
     <string name="restart">Рестартиране</string>
     <string name="timer_1_hour">%d час</string>
@@ -117,4 +117,6 @@
 	<string name="safe_media_volume_warning">"Повишаване на силата на звука над препоръчаното ниво?
  
 Дългото излагане на силни звуци може да причини проблеми със слуха."</string>
+    <string name="accessibility_back">Назад</string>
+    <string name="slider_view_content_description">Плъзнете нагоре за изключване или плъзнете надолу, за да рестартирате</string>
 </resources>

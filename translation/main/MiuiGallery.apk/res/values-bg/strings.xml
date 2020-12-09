@@ -468,7 +468,6 @@
   <string name="document_provider_guide_step_4">4. Изберете \"SD карта\".</string>
   <string name="document_provider_guide_step_5">5. Докоснете \"Избор\".</string>
   <string name="double_tap_for_hr_preview_108m">Кликнете отново два пъти, за да преминете към 108MP преглед</string>
-  <string name="double_tap_to_higher_definition">Двойно почукване за HD Преглед</string>
   <string name="download_canceled">Изтеглянето е отменено</string>
   <string name="download_error_format">Неуспешно изтегляне %s</string>
   <string name="download_error_tip">. Изтеглянето беше прекъснато.</string>
@@ -2171,5 +2170,22 @@
     <string name="slim_description_dialog_detail">Компресирайте снимки и оставяйте по-малки висококачествени копия на това устройство, запазвайки оригиналните файлове в облака.</string>
     <string name="slim_description_dialog_slim_before">Преди: %2$d МБ</string>
     <string name="video_compress_lib_download_without_wifi">"Изглежда, че устройството ви не е свързано с Wi-Fi. Можете да използвате мобилни данни, за да изтеглите приставката за компресиране на видео (%2$d МБ)."</string>
-	<string name="send_files_by">Споделяне на файлове чрез</string>
+	<string name="send_files_by">Споделяне на файлове чрез</string> 
+	<string name="album_homepage_show_all_photos">Показване на всички снимки</string>
+    <string name="album_lockscreen_wallpapers">Тапети за заключен екран</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_action_mode_select_all">Избери всички</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Изберете елементи</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Още</string>
+    <string name="miuix_appcompat_cancel_description">Отказ</string>
+    <string name="miuix_appcompat_confirm_description">Потвърди</string>
+    <string name="miuix_appcompat_delete_description">Изтриване</string>
+    <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
+    <string name="miuix_appcompat_search_input_description">Търсене</string>
+    <string name="miuix_appcompat_select_all_description">Избери всички</string>
+    <string name="pic_to_pdf_saved_in_fileexplorer">Запазено успешно. Прегледайте елемента във Файлов мениджър.</string>
+    <string name="toast_orientation_unlock">Ориентацията на екрана е отключена</string>
+    <string name="double_tap_to_higher_definition">Докоснете два пъти отново, за да отворите HD преглед</string>
+    <string name="unsupport_type">"Този формат не се поддържа"</string>
 </resources>

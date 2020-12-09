@@ -241,30 +241,30 @@
     <string name="terms_of_use_lable_default_input_method_mint">"
 
 Трябва да се съгласите с Политика за поверителност на Mint клавиатурата, преди да използвате тази функция."</string>
-   <string name="service_policy_download"><Data>Преди да използвате нашите услуги, прочетете и се съгласете с &lt;a href=%1$s>Политика за поверителност на Xunlei&lt;/a >.</Data></string>
+    <string name="service_policy_download"><Data>Преди да използвате нашите услуги, прочетете и се съгласете с &lt;a href=%1$s>Политика за поверителност на Xunlei&lt;/a >.</Data></string>
     <string name="service_name_fast_pairing">Mi Link</string>
     <string name="fast_pairing_introduction">Mi Link позволява вашето устройство да се свързва с Bluetooth устройства наблизо, използвайки MIUI Bluetooth услуга. За да можете да намерите устройства наблизо, позволете на MIUI Bluetooth функцията да се свърже с интернет.</string>
     <string name="disagreement_abnormal_running_fast_pairing">"Ако не сте съгласни да предоставите такива разрешения, няма да можете да използвате това приложение. В такъв случай можете да ограничите разрешенията и да изключите тази функция в Настройки."</string>
-	    <string name="backup_introduction">Можете да използвате това приложение за архивиране и възстановяване на елементи на вашето устройство.</string>
+	<string name="backup_introduction">Можете да използвате това приложение за архивиране и възстановяване на елементи на вашето устройство.</string>
     <string name="permission_backup">Достъп до хранилището</string>
     <string name="permission_backup_introduction">За достъп и запазване на архиви на вашето устройство</string>
     <string name="service_name_backup">Архиви</string>
-	    <string name="mobile_network">Използване на мобилни данни</string>
+	<string name="mobile_network">Използване на мобилни данни</string>
     <string name="move_data_dialog_box_le">"Това позволява използване на мобилни данни и GPS връзка въз основа на заявката на потребителя. Синхронизирането на профили и други елементи може да изисква използване на мобилни данни в зависимост от спецификациите на смартфона."</string>
     <string name="move_data_dialog_box_title">Освен ако нямате план с неограничени данни, използването на мобилни данни може да генерира допълнителни такси от оператора. Ще използвате ли мобилни данни въпреки това?</string>
     <string name="move_data_dialog_cancel">Отказ</string>
     <string name="move_data_dialog_title">Можете да ограничите мобилната връзка за данни в настройките по-късно</string>
     <string name="move_data_dialog_use">Използвай</string>
-	    <string name="location_U">U+ GPSnWPS</string>
+	<string name="location_U">U+ GPSnWPS</string>
     <string name="location_content">Съгласно закона мобилните оператори могат да получат информация за местоположението на мобилните устройства, за да се съобразят с изискванията на аварийните спасителни агенции (пожарните служби и полицията), които преследват целите на сигурността и спасяването при спешни случаи.</string>
     <string name="location_location">Аварийните спасителни агенции могат да получат вашето текущо местоположение при поискване</string>
     <string name="location_miui">За да можете да използвате MIUI, трябва да се съгласите с горните условия</string>
     <string name="position_header">Споделяне на информация за местоположението</string>
     <string name="position_subheading">Информация за местоположението</string>
-	    <string name="home_settings_miui_home">Класически</string>
+	<string name="home_settings_miui_home">Класически</string>
     <string name="home_settings_poco_launcher">Чекмедже за приложения</string>
     <string name="home_settings_title">Изберете стартер по подразбиране</string>
-	    <string name="wc_dialog_agree">Приемам</string>
+	<string name="wc_dialog_agree">Приемам</string>
     <string name="wc_dialog_reject">"Не приемам"</string>
     <string name="wc_dialog_summary">Ежедневни тапети доставя зашеметяващи изображения и вълнуващи истории, които ежедневно се показват на вашия заключен екран.</string>
     <string name="wc_dialog_title">Преосмислен заключен екран</string>
@@ -280,4 +280,5 @@
     <string name="other_settings_ad_dialog_disagree">Изключване</string>
 	<string name="boot_video_replay">Изпълни отново</string>
     <string name="boot_video_skip">Пропускане</string>
+    <string name="service_security_over_r"><Data>Прочетете и приемете нашата &lt;a href=%1$s>Политика за поверителност&lt;/a > преди да използвате Сигурност.&lt;br/>&lt;br/>В съответствие със стандартите на Андроид 11, еднократното разрешение ще бъде отнето в рамките на 5 секунди, след като съответното приложение спре да работи. Ако отворите приложението през този кратък период от време, разрешението ще бъде оттеглено тогава.</Data></string>
 </resources>

@@ -341,8 +341,6 @@
      <string name="aod_and_lock_screen_settings_title">Винаги включен и заключен екран</string>
      <string name="aod_close_color_inversion">Тази функция не работи с цветова инверсия. Изключете първо инверсията на цветовете.</string>
      <string name="aod_name_wanxiang">Винаги включен</string>
-     <string name="aod_notification_style_animation">Покажи анимация</string>
-     <string name="aod_notification_style_none">Не прави нищо</string>
      <string name="aod_notification_style_screen_on">Осветяване на екрана</string>
      <string name="aod_settings_category_name">Винаги включен</string>
      <string name="aod_settings_title">Винаги включен</string>
@@ -6513,7 +6511,6 @@ UT интерфейс: %5$s"</string>
      <string name="user_exit_guest_dialog_remove">Премахване</string>
      <string name="user_exit_guest_title">Премахване на госта</string>
      <string name="user_experience_program">Потребителски отзиви</string>
-     <string name="user_experience_program_summary">Помогнете ни да подобрим нашите продукти и услуги, като споделите с нас статистическите данни за използването.</string>
      <string name="user_experience_program_title">Потребителски отзиви</string>
      <string name="user_guest">Гост акаунт</string>
      <string name="user_image_choose_photo">Избор на снимка от галерията</string>
@@ -7832,4 +7829,18 @@ UT интерфейс: %5$s"</string>
     <string name="wifi_connect_frequency">WLAN честота:</string>
 	<string name="resolution_fhd_summary" formatted="false">%d×%d (пести батерия)</string>
     <string name="resolution_qhd_summary" formatted="false">%d×%d (добавя яснота)</string>
+	<string name="user_experience_open_url">Научете повече за програмата за потребителски опит</string>
+    <string name="user_experience_program_summary">Позволете на Xiaomi да събира и анализира потребителски данни, за да подобри нашите продукти и услуги. Прочетете условията на нашата програма за потребителски опит, за да научите повече.</string>
+	<string name="aggregate_rule_group_disabled">"Не групирай"</string>
+    <string name="aggregate_rule_group_enabled">Групирай</string>
+    <string name="aod_notification_style">Ефект за известяване</string>
+    <string name="error_xcap_not_add">Типът APN не може да бъде тип XCAP.</string>
+    <string name="fold_rule_default">Препоръчани</string>
+    <string name="fold_rule_important">Важни</string>
+    <string name="fold_rule_unimportant">Маловажни</string>
+    <string name="aod_notification_style_animation">Анимация</string>
+    <string name="aod_notification_style_none">Без</string>
+	    <string name="magic_window_name">Разделен прозорец</string>
+    <string name="truetone_summary">Настройка на цветовете към околната светлина</string>
+    <string name="truetone_title">Адаптивни цветове</string>
 </resources>

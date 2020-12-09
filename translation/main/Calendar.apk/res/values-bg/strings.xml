@@ -711,4 +711,8 @@
     <string name="txt_account_name_empty">Въведете име на календара</string>
     <string name="txt_caldav_account_info_not_found">"Не бе открита информация за профила в CalDAV"</string>
     <string name="txt_server_url">Адрес на сървъра</string>
+	<string name="icon_add_description">Добавяне на пряк път на началния екран</string>
+    <string name="icon_remove_confirm">Премахване</string>
+    <string name="icon_remove_description_content">"Календаръ е системно приложение. То ви позволява да създавате събития и да ги управлявате. Все още ще можете да използвате Календар чрез приспособлението за начален екран от личен асистент, след като премахнете прекия път на началния екран."</string>
+    <string name="icon_remove_description_title">Премахване на \"Календар\" от началния екран?</string>
 </resources>

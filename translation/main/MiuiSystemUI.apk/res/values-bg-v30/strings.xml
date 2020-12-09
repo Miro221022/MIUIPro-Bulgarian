@@ -557,4 +557,10 @@
 	<string name="keyguard_plugged_in">%s • Зареждане</string>
     <string name="keyguard_plugged_in_charging_fast">%s • Бързо зареждане</string>
     <string name="keyguard_plugged_in_charging_slowly">%s • Бавно зареждане</string>
+	    <string name="face_unlock_password_and_fingerprint">Въведете парола или използвайте пръстов отпечатък, за да отключите</string>
+    <string name="face_unlock_pattern_and_fingerprint">Начертайте шаблон или използвайте пръстов отпечатък, за да отключите</string>
+    <string name="face_unlock_pin_and_fingerprint">Въведете ПИН или използвайте пръстов отпечатък, за да отключите</string>
+    <string name="input_lockscreen_password_hint_text">Въведете парола</string>
+    <string name="input_lockscreen_pattern_hint_text">Начертайте шаблон</string>
+    <string name="input_lockscreen_pin_hint_text">Въведете ПИН</string>
 </resources>

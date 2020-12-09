@@ -197,7 +197,6 @@
     <string name="HIPS_SecurityPrompt_Reject_Clear_This">Ограничи и изчисти буферната памет (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_This">Забрани веднъж (%d)</string>
     <string name="clipboard_ai_allow_once">Разрешено е на %1$s достъп до елементи в буферната памет автоматично</string>
-    <string name="clipboard_data">Елементи в буферната памет</string>
     <string name="clipboard_data_request">%1$s се опитва да получи достъп до елементи в буферната памет</string>
     <string name="clipboard_deny_notification_content">Този опит беше блокиран. Докоснете, за управление на разрешенията.</string>
     <string name="clipboard_deny_notification_operation">Управление</string>
@@ -209,12 +208,12 @@
     <string name="perm_manager_suggest_operation">Управление на разрешенията</string>
     <string name="perm_manager_suggest_title">Коригиране на разрешенията?</string>
     <string name="yes">Да</string>
-	    <string name="HIPS_Perm_Access_Gallery">Достъп до галерията</string>
+	<string name="HIPS_Perm_Access_Gallery">Достъп до галерията</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Разрешете на това приложение достъп до елементи във вашата галерия</string>
-	    <string name="HIPS_Perm_tencentControl">Достъп до съобщения в приложения за социални медии</string>
+	<string name="HIPS_Perm_tencentControl">Достъп до съобщения в приложения за социални медии</string>
     <string name="HIPS_Perm_tencentControl_Desc">Разрешете на това приложение достъп до вашите WeChat и QQ съобщения</string>
     <string name="HIPS_SecurityPrompt_Reject_Never">"Откажи и не питай отново (%d)"</string>
-	    <string name="grant_dialog_storage_category_title">Това приложение изисква разрешения за достъп до галерията и съобщенията в приложенията за социални медии</string>
+	<string name="grant_dialog_storage_category_title">Това приложение изисква разрешения за достъп до галерията и съобщенията в приложенията за социални медии</string>
     <string name="grant_dialog_storage_gallery_title">Галерия</string>
     <string name="grant_dialog_storage_sociality_title">Съобщения в приложенията за социални медии</string>
     <string name="storage_policy_notify_both_title">"%1$s няма разрешен достъп до галерията и съобщенията в приложенията на социалните медии"</string>
@@ -222,4 +221,15 @@
     <string name="storage_policy_notify_gallery_title">"%1$s няма разрешен достъп до галерията"</string>
     <string name="storage_policy_notify_sociality_title">"%1$s няма разрешен достъп до съобщения в приложения за социални медии"</string>
     <string name="storage_policy_notify_title">"%1$s няма разрешен достъп до галерията"</string>
+    <string name="clipboard_data">"Съдържание: "</string>
+    <string name="clipboard_read_ai_deny_once">Ограничен достъп до буферната памет за %1$s</string>
+    <string name="clipboard_read_deny_dialog_title">Ограничен достъп до буферната памет за %1$s</string>
+    <string name="forbid_notice_me">Спиране на известяването</string>
+    <string name="go_behavior_record">История на поведението на приложението</string>
+    <string name="keep_notice_me">Продължаване с известяването</string>
+    <string name="notification_click_tip">Докоснете, за да видите подробности</string>
+    <string name="blur_location_now_tip">Приблизителното местоположение е включено</string>
+    <string name="go_setting">Настройки</string>
+    <string name="real_location_off">Приблизителното местоположение е включено</string>
+    <string name="real_location_on">Приблизителното местоположение е изключено</string>
 </resources>

@@ -1003,7 +1003,6 @@
    <string name="pref_camera_heic_image_format_description">Правете снимки във високоефективен HEIF формат</string>
    <string name="pref_camera_heic_image_format_title">HEIC формат</string>
     <string name="document_blackwhite">Черно и бяло</string>
-    <string name="document_blur_warn">Размазан текст</string>
     <string name="document_origin">Оригинално изображение</string>
     <string name="document_strengthen">Подобряване</string>
     <string name="pref_document_mode">Документи</string>
@@ -1619,4 +1618,14 @@
     <string name="accessibility_preview_shrink">Отдалечаване</string>
     <string name="accessibility_preview_zoom_tip">%1$.1fX увеличение на визуализацията</string>
 	<string name="pref_hdr10_hdr10plus_video_mode_description">Оптимизирайте цветовете за 4K (HDR10 +) и 8K (HDR10) видеоклипове. Тази функция работи само на устройства, съвместими с HDR10 + / HDR10.</string>
+	<string name="module_name_fun_ar">Аватари за стикери</string>
+  <string name="capture_shortcut_long">Селфи</string>
+  <string name="capture_shortcut_short">Селфи</string>
+  <string name="doc_shortcut_long">Документи</string>
+  <string name="doc_shortcut_short">Документи</string>
+  <string name="document_blur_warn">Текстът е размазан</string>
+  <string name="professional_shortcut_long">Про</string>
+  <string name="professional_shortcut_short">Про</string>
+  <string name="video_shortcut_long">Видео</string>
+  <string name="video_shortcut_short">Видео</string>
 </resources>

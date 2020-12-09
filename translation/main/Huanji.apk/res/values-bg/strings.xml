@@ -507,7 +507,6 @@
     <string name="main_chooser_item_android_mi">Импортиране от Xiaomi устройство</string>
     <string name="main_chooser_item_ios">Импортиране от Apple устройство</string>
     <string name="main_chooser_title">Изберете старо устройство</string>
-    <string name="message_request_package_stats_perm">Докоснете \"Продължи\", за да отворите настройките и дайте на Mi Трансфер необходимите разрешения.</string>
     <string name="mms">MMS</string>
     <string name="mms_contacts_calllog">Съобщения, контакти и история на обажданията</string>
     <string name="monday">Понеделник</string>
@@ -1007,7 +1006,6 @@
      <string name="permission_read_storage_title">Достъп до хранилището</string>
      <string name="permission_write_storage_summary">За прехвърляне на файлове от старото устройство на новото</string>
      <string name="permission_write_storage_title">Запазване на елементи в хранилището</string>
-     <string name="title_request_write_settings_perm">Необходимо е разрешение за промяна на системните настройки</string>
 	 <string name="ble_connect_button">Свързване</string>
     <string name="ble_connect_failed">"Не може да се свърже. Опитайте да се свържете ръчно."</string>
     <string name="ble_connect_failed_title">"Не може да се свърже"</string>
@@ -1165,4 +1163,12 @@
 	 <string name="provision_receiver_finish_button">Следващо</string>
 	     <string name="waiting_restore_aod">Възстановяване на Винаги включен екран…</string>
      <string name="waiting_restore_desktop">Възстановяване на оформлението на началния екран…</string>
+	 <string name="location_permission_request">За свързване с други устройства наблизо</string>
+	 <string name="message_request_package_stats_perm">Mi Трансфер се нуждае от това разрешение, за да научи какви приложения са инсталирани на устройство и да прехвърли тези приложения на друго.</string>
+	     <string name="summary_open_wlan">Mi Трансфер се нуждае от това разрешение, за да гарантира стабилността на процеса на прехвърляне.</string>
+    <string name="summary_request_alert_window_prem">Mi Трансфер се нуждае от това разрешение, за да гарантира стабилността на процеса на прехвърляне.</string>
+    <string name="summary_request_write_settings_prem">Mi Трансфер се нуждае от това разрешение, за да включи WLAN и да създаде точка за достъп за прехвърляне на файлове.</string>
+	    <string name="title_open_wlan">Включване на WLAN</string>
+    <string name="title_request_alert_window_perm">Позволи плаващи прозорци</string>
+	 <string name="title_request_write_settings_perm">Разрешаване на промяна на системните настройки</string>
 </resources>

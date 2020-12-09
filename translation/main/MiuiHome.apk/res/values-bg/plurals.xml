@@ -32,7 +32,7 @@
         <item quantity="other">%2$s непрочетени от %1$s</item>
      </plurals>
 	     <plurals name="remove_dialog_title_multi_format">
-        <item quantity="one">Премахване на %1$d приложение?</item>
-        <item quantity="other">Премахване на %1$d приложения?</item>
+        <item quantity="one">Премахване на %1$d приложение от началния екран?</item>
+        <item quantity="other">Премахване на %1$d приложения от началния екран?</item>
     </plurals>
 </resources>

@@ -428,4 +428,7 @@
 	     <string name="play_mode_shuffle_title">Разбъркано</string>
     <string name="play_mode_single_title">Повтаряне</string>
     <string name="talkback_mode_repeat_none">Режим на последователност</string>
+	 <string name="permission_runtime_perm_desc_location">За достъп до местни радиостанции</string>
+	  <string name="description_content">"FM Радио е системно приложение. Няма да можете да слушате местните и онлайн радиостанции, след като ги деинсталирате."</string>
+    <string name="description_title">Деинсталиране на \"FM Радио\"?</string>
 </resources>

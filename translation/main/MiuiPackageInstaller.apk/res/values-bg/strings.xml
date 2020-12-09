@@ -147,12 +147,10 @@
   <string name="miui_failed_solution_3">Опитайте да запазите инсталационния пакет на друго място.</string>
   <string name="miui_failed_solution_4">Освободете място за съхранение в Сигурност > Почистване и опитайте отново.</string>
   <string name="miui_failed_solution_5">Опитайте да използвате съвместим инсталационен пакет.</string>
-  <string name="miui_failed_solution_6">Деинсталирайте това приложение във второто пространство и опитайте отново.</string>
   <string name="miui_failed_solution_7">Изтеглете най-новата версия на това приложение от официалния магазин.</string>
   <string name="miui_failed_system_incompatible">Несъвместим инсталационен пакет</string>
   <string name="miui_failed_update_incompatible">Конфликтни подписи на приложения</string>
   <string name="miui_failed_version_downgrade">Не може да се понижи версията на приложенията</string>
-  <string name="miui_failed_version_downgrade_space">Има по-нова версия на това приложение във Второ пространство.</string>
   <string name="miui_help_feedback_label">Помощ и обратна връзка</string>
   <string name="miui_install_confirm_question">Ще инсталирате ли това приложение?</string>
   <string name="miui_install_confirm_question_update">Заместване на съществуващото приложение?</string>
@@ -358,7 +356,6 @@
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
 	<string name="ads_summary_default_value">Хората, които инсталираха това приложение, също харесаха</string>
-	<string name="install_continue">Продължете инсталацията</string>
     <string name="action_bar_report_link_des">Сигнализация за приложения</string>
     <string name="exit_install_button">"не инсталирай"</string>
     <string name="install_confirm_dialog_message">Това приложение е направено от Google. Трябва да инсталирате Google Play услуги, за да можете да го използвате нормално. Инсталирането на това приложение сега може да доведе до неправилно поведение на устройството ви. Инсталиране все пак?</string>
@@ -376,4 +373,7 @@
     <string name="intercept_confirm_dialog_title">Внимание</string>
     <string name="spannable_continue_text">Разбирам рисковете. Инсталирай въпреки това.</string>
 	<string name="miui_other_permission">Друго</string>
+    <string name="install_continue">Инсталиране</string>
+    <string name="miui_failed_solution_6">Изтрийте вече инсталираната версия и опитайте да инсталирате отново.</string>
+    <string name="miui_failed_version_downgrade_space">"Има по-нова версия на това приложение, инсталирана във Второ спостранство или Детско пространство."</string>
 </resources>
