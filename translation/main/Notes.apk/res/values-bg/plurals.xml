@@ -124,4 +124,12 @@
     <item quantity="other">%d символа</item>
     <item quantity="one">%d символ</item>
   </plurals>
+      <plurals name="pc_notes_search_result">
+        <item quantity="other">Намерени са %1$s бележки</item>
+        <item quantity="one">Намерена е %1$s бележка</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Намерени са %1$s задачи</item>
+        <item quantity="one">Намерена е %1$s задача</item>
+    </plurals>
 </resources>

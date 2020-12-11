@@ -1365,7 +1365,7 @@
   <string name="saturday_shortest">Съб</string>
   <string name="save">Запази</string>
   <string name="save_edit">Запазите промените</string>
-  <string name="save_to_note">Прехвърляне към бележки</string>
+  <string name="save_to_note">Запази в Бележки</string>
   <string name="scan">Сканиране</string>
   <string name="scan_app">Сканиране</string>
   <string name="scan_card">Визитка</string>
@@ -1682,4 +1682,10 @@
      <string name="shortcuts_download_dialog_text_install">Инсталирай</string>
      <string name="shortcuts_download_dialog_text_install_tip">За да може да се използва \"%2$s\", първо инсталирайте %1$s.</string>
 	 <string name="card_expand_note_toast_install">Инсталирайте Бележки, за да можете да използвате тази функция</string>
+	     <string name="card_expand_note_dialog_message_new">Създава се нова бележка всеки път, когато докоснете бутона \"Запази\" в Личен асистент.</string>
+    <string name="card_expand_note_dialog_title_new">Запазване на бележки</string>
+    <string name="card_expand_note_toast_install_new">Инсталирайте Бележки, за да можете да използвате тази функция</string>
+    <string name="card_expand_note_toast_save_done_new">Запазено в Бележки</string>
+    <string name="save_to_note_new">Запази в Бележки</string>
+    <string name="toast_reach_text_limit_truncate_new">Вашата бележка е твърде дълга. Излишното съдържание беше съкратено.</string>
 </resources>
