@@ -1531,7 +1531,6 @@
      <string name="sleep_state_this_week">"Сън тази седмица"</string>
      <string name="hr_fp_detect_principle_desc">"Кръвта не е напълно непрозрачна; следователно през нея може да премине светлина. При всеки сърдечен удар кръвта тече към пръстите ви, блокирайки повече светлина, отколкото между сърдечните удари. Ярката светлина в областта на скенера за пръстови отпечатъци под екрана ни позволява да проследяваме промените в кръвния поток, да анализираме моделите и да ги преобразуваме в стойности на пулса."</string>
      <string name="rem_duration">REM</string>
-     <string name="sleep_deep_light_no_data">Поставянето на мобилното ви устройство до възглавницата ще направи данните за съня по-точни</string>
      <string name="sleep_duration_description">"Продължителността на съня е времето, когато не сте будни през деня. Обикновено възрастните трябва да спят 7-9 часа, докато тийнейджърите трябва да спят по-дълго от възрастните. Получаването на достатъчно сън е от съществено значение за доброто здраве и благосъстояние."</string>
      <string name="tb_home_sleep_card">"Днешен сън: %1$s, %2$s"</string>
 	 <string name="hr_disable_in_split_screen">"Не можете да измерите сърдечната честота, докато използвате разделен екран"</string>
@@ -1549,7 +1548,6 @@
     <string name="MediaControlView_subtitle_track_number_and_lang_text">Песен %1$d - %2$s</string>
     <string name="MediaControlView_subtitle_track_number_text">Песен %1$d</string>
     <string name="MediaControlView_video_quality_auto_text">Авто</string>
-    <string name="altitude_pressure_hint">*Изчислено по въздушно налягане, има някои грешки</string>
     <string name="default_notification_channel_name">Текущо изпълнявано</string>
     <string name="environment_detection_again">Повторен опит</string>
     <string name="environment_detection_fail">"Изглежда тук е твърде шумно"</string>
@@ -1615,9 +1613,6 @@
     <string name="skipping_reset_time">Почивка</string>
     <string name="skipping_start_counting">Начало</string>
     <string name="skipping_time">Продължителност</string>
-    <string name="skipping_upload_dialog_agree_and_upload">Приемане и качване</string>
-    <string name="skipping_upload_dialog_title">Качете запис с прескачане на въже, за да оптимизирате разпознаването</string>
-    <string name="skipping_upload_tips">Качете този запис на прескачане на въже, за да подобрите ефекта на разпознаване</string>
     <string name="sport_audio_permission_dialog_content">Това приложение се нуждае от разрешения за запис на звук, за да може да проследява тренировки въз основа на звуците, които издавате.</string>
     <string name="sport_audio_permission_dialog_desc">За проследяване на тренировки въз основа на звуците, които издавате</string>
     <string name="sport_audio_permission_dialog_title">Изискват се разрешения</string>
@@ -1628,6 +1623,12 @@
     <string name="voice_remind">"Увеличихме силата на звука, така че да чувате инструкциите по-добре."</string>
     <string name="hr_fp_detect_start_desc">Покрийте иконата с пръст</string>
     <string name="hr_fp_detecting">"Не мърдайте пръста си"</string>
-    <string name="skipping_pause">Пропускане на паузата</string>
-    <string name="skipping_upload_dialog_msg">За да осигури по-точно преживяване при прескачане, Xiaomi Здраве ще качи файла за запис на вашето прескачане въже под %s условия за оптимизиране на ефекта на разпознаване на прескачане на въже. За да защитите поверителността си, качването и съхраняването на файлове за запис ще бъдат строго криптирани.</string>
+     <string name="altitude_pressure_hint">*Надморската височина, изчислена въз основа на атмосферното налягане, е приблизителна</string>
+     <string name="skipping_pause">Тренировката е на пауза</string>
+     <string name="skipping_upload_dialog_agree_and_upload">Качване</string>
+     <string name="skipping_upload_dialog_msg">Когато устройството ви е свързано с %s, можете да изберете да качите звука, записан по време на тренировките, за да подобрите точността на статистическите данни за тренировките. За да се защити вашата поверителност, аудио файловете ще бъдат криптирани.</string>
+     <string name="skipping_upload_dialog_reject_not_remind">Не благодаря</string>
+     <string name="skipping_upload_dialog_title">Качване на звук</string>
+     <string name="skipping_upload_tips">Качете звук, за да направите статистиката по-точна</string>
+     <string name="sleep_deep_light_no_data">"Сънят не може да се проследи. Поставянето на мобилното ви устройство до възглавницата ще направи данните за съня по-точни."</string>
 </resources>

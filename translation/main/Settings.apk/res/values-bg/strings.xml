@@ -7834,7 +7834,19 @@ UT интерфейс: %5$s"</string>
     <string name="fold_rule_unimportant">Маловажни</string>
     <string name="aod_notification_style_animation">Анимация</string>
     <string name="aod_notification_style_none">Без</string>
-	    <string name="magic_window_name">Разделен прозорец</string>
+	<string name="magic_window_name">Разделен прозорец</string>
     <string name="truetone_summary">Настройка на цветовете към околната светлина</string>
     <string name="truetone_title">Адаптивни цветове</string>
+	<string name="dpp_before_share_summary">Споделяне на WLAN мрежата \"%1$s\" с друг човек?</string>
+    <string name="dpp_cannot_connect_target">"Не може да се свърже с целевата мрежа"</string>
+    <string name="dpp_connect_success">Свързан успешно</string>
+    <string name="dpp_not_support">"Не може да се споделя тази мрежа"</string>
+    <string name="dpp_qr_code_summary">Свържете се с WLAN мрежа, като сканирате този QR код.</string>
+    <string name="dpp_scanner_summary">Поставете QR код в рамката</string>
+    <string name="dpp_shared_fail">"WLAN не може да се сподели"</string>
+    <string name="dpp_shared_success">Успешно споделена WLAN</string>
+    <string name="dpp_sharing_wifi_summary">Споделяне на WLAN…</string>
+    <string name="dpp_theme_title">Споделена WLAN</string>
+    <string name="show_charging_in_non_lockscreen_animation">Показване на анимация за зареждане след отключване на устройството</string>
+    <string name="show_charging_in_non_lockscreen_animation_summary">Продължаване показването на анимация за зареждане, след като устройството ви е отключено, скривайки го само за възпроизвеждане на видео и други подобни сцени на цял екран</string>
 </resources>

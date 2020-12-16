@@ -1627,4 +1627,12 @@
   <string name="professional_shortcut_short">Про</string>
   <string name="video_shortcut_long">Видео</string>
   <string name="video_shortcut_short">Видео</string>
+      <string name="accessibility_reference_line_text">Панел за регулиране на референтната линия</string>
+    <string name="camcorder_tip_current_max_video_duration">Можете да запишете до %d минути в текуща разделителна способност</string>
+    <string name="center_mark">Централна маркировка</string>
+    <string name="pref_camera_reference_capture_title">Референтна линия</string>
+    <string name="pref_camera_reference_capture_title_golden_section">Златно сечение</string>
+    <string name="pref_camera_reference_capture_title_jiugongge">Jiugongge</string>
+    <string name="pref_camera_reference_capture_title_left_golden_spiral">Лява златна спирала</string>
+    <string name="pref_camera_reference_capture_title_right_golden_spiral">Дясна златна спирала</string>
 </resources>

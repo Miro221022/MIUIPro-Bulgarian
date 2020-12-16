@@ -1430,4 +1430,6 @@ Please confirm whether the application password is turned on, if it is turned on
 	     <string name="app_uninstall_content">Поща е системно приложение на MIUI. След деинсталирането няма да можете да добавяте имейл акаунти, да изпращате и получавате имейли и да синхронизирате графици за имейли.</string>
     <string name="app_uninstall_title">Деинсталиране на \"Поща\"?</string>
 	<string name="open_pdf_error">Pdf файлът не успя да се отвори. Моля, изтеглете други инструменти за отваряне на PDF и опитайте отново по-късно.</string>
+	     <string name="sms_not_found_tip">Не можете да стартирате системното приложение за SMS, моля, стартирайте ръчно приложението за SMS и изпратете SMS за потвърждение.</string>
+     <string name="webview_not_found">Страницата не може да се отвори, защото компонентът WebView не може да бъде намерен.</string>
 </resources>

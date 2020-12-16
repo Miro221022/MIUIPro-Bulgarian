@@ -1646,7 +1646,6 @@
   <string name="torch_activity_hint">Включете фенерчето като задържите [icon] при заключен екран</string>
   <string name="torch_activity_name">Фенерче</string>
   <string name="torch_closed">Фенерчето е изкл</string>
-  <string name="torch_high_temperature_warning">Устройството ви е прегряло. В момента не може да се използва фенерче.</string>
   <string name="torch_opened">Фенерчето е вкл</string>
   <string name="track_frame_time">Задаване на профил за видео рендериране</string>
   <string name="transition_animation_scale_title">Скала на анимацията на преход</string>
@@ -1958,9 +1957,6 @@
 	<string name="status_bar_clock_date_weekday_format">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, d MMMM</string>
 	<string name="bluetooth_paired">Запазено</string>
-	<string name="quick_settings_cellular_detail_dialog_message_turnoff">"Ако изключите мобилните данни, няма да можете да използвате интернет, освен ако не се свържете с WLAN. Все още ще можете да изпращате MMS. Да се изключат ли мобилните данни?"</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Използването на мобилни данни може да генерира допълнителни такси в зависимост от вашия план. Да се разреши ли използването на мобилни данни?</string>
-    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Отказ</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Разреши</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Изключи</string>
 	<string name="notification_storage_float">Външно хранилище</string>
@@ -2048,4 +2044,8 @@ WLAN адрес (BSSID)
     <string name="keyguard_plugged_in">Зареждане</string>
     <string name="keyguard_plugged_in_charging_fast">Бързо зареждане</string>
     <string name="keyguard_plugged_in_charging_slowly">Зарежда се бавно</string>
+	    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Мобилните данни (WCDMA/LTE) ще бъдат изключени. Освен ако не използвате WLAN, вече няма да можете да използвате приложения, които изискват връзка за данни. Изпращането или получаването на мултимедийни съобщения ще бъде ограничено.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Мобилните данни ще бъдат включени. Свързването с мобилни мрежи може да доведе до допълнителни такси в зависимост от вашия план.</string>
+    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Отказ</string>
+    <string name="torch_high_temperature_warning">"Вашето устройство е прегряло. Не може да се използва фенерче в момента."</string>
 </resources>
