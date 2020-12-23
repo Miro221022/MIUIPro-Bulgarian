@@ -97,4 +97,27 @@ d/MM"</string>
     <string name="task_already_exist">Тази задача вече съществува</string>
     <string name="update">Актуализирай</string>
 	<string name="title_system_wallpaper_resource">Системни тапети</string>
+	<string name="geometry_summary">Форми, светлина и цветове</string>
+    <string name="geometry_super_wallpaper_label">Геометрия</string>
+    <string name="geometry_title">Geometry</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_action_mode_select_all">Избери всички</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Изберете елементи</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Още</string>
+    <string name="miuix_appcompat_cancel_description">Отказ</string>
+    <string name="miuix_appcompat_confirm_description">Потвърди</string>
+    <string name="miuix_appcompat_delete_description">Изтриване</string>
+    <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
+    <string name="miuix_appcompat_search_input_description">Търсене</string>
+    <string name="miuix_appcompat_select_all_description">Избери всички</string>
+    <string name="snowmountain_summary">Слънчеви планински склонове</string>
+    <string name="snowmountain_super_wallpaper_label">Планината Сигунянг</string>
+    <string name="snowmountain_title">Планината Сигунянг</string>
+    <string name="weather_summary">Местна информация за времето</string>
+    <string name="weather_super_wallpaper_label">Времето</string>
+    <string name="weather_title">Времето</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
 </resources>

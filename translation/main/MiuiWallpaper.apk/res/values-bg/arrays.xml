@@ -15,4 +15,19 @@
         <item>Тапети/Супер тапети</item>
         <item>Супер тапети;Тапети;Динамични тапети;3D тапети</item>
     </string-array>
+	   <string-array name="settings_search_geometry">
+        <item>Геометрия</item>
+        <item>Тапет/Супер тапети/Геометрия</item>
+        <item>Геометрия;Абстракция;Супер тапет;Тапет</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Планината Сигунянг</item>
+        <item>Тапет/Супер тапети/Планината Сигунянг</item>
+        <item>Земя;Планини;Супер тапет;Тапет</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Времето</item>
+        <item>Тапет/Супер тапети/Времето</item>
+        <item>Времето;Информация за времето;Супер тапет;Тапет</item>
+    </string-array>
 </resources>

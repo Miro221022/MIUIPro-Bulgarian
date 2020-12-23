@@ -628,4 +628,6 @@
     <string name="icon_style">Стил</string>
     <string name="remove_dialog_message">Избраните приложения съдържат основни системни функции. Можете да премахнете само преките пътища на началния екран.</string>
     <string name="remove_dialog_title_format">Премахване на \"%s\" от началния екран?</string>
+	<string name="launcher_icon_management">Управление на преките пътища на началния екран</string>
+    <string name="restore_icon_successful">Добавено успешно</string>
 </resources>
