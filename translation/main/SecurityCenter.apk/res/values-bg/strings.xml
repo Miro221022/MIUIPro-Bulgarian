@@ -5,10 +5,6 @@
   <string name="ac_firstUseApplock_subTitle">Използвайте по-добри системни инструменти за сигурност</string>
   <string name="ac_firstUseApplock_title">Задайте парола, за да защитите приложенията си</string>
   <string name="ac_mask_all_apps">Скрий за всички</string>
-  <string name="ac_notification_contentText">Докоснете, за да включите</string>
-  <string name="ac_notification_contentTitle">Защитете приложенията чрез Заключване на приложения</string>
-  <string name="ac_post_notification_contentText">Получете защита на ниво система</string>
-  <string name="ac_post_notification_contentTitle">Включете Заключване на приложения</string>
   <string name="ac_pre_notification_contentText">Защитете вашата лична информация</string>
   <string name="ac_pre_notification_contentTitle">Опитайте Заключване на приложения</string>
   <string name="ac_recommend_guide_dialog_app_content">Използвайте Заключване на приложения с това приложение, за да защитите вашата лична информация и да избегнете изтичане на данни.</string>
@@ -1663,8 +1659,6 @@
   <string name="notification_low_battery_title">Остават по-малко от %s батерия</string>
   <string name="notification_mask_summary">Да не се показва съдържанието на известията от защитените приложения</string>
   <string name="notification_mask_title">Скриване на съдържанието на известията</string>
-  <string name="notification_masked_item">Как да скриете съдържанието на известия?</string>
-  <string name="notification_masked_subtitle">Използвайте заключване на приложениия, за да скриете съдържанието на известията за избраните приложения</string>
   <string name="notification_summary_cmcc_app_check">Докоснете за подробности.</string>
   <string name="notify_channel_mipush">Изскачаши съобщения</string>
   <string name="notify_channel_name_security">Системна сигурност</string>
@@ -3592,14 +3586,12 @@
     <string name="ew_guide_start">Включване</string>
     <string name="ew_guide_start_agree">Включване</string>
     <string name="ew_guide_start_find_area">Търсене на райони</string>
-    <string name="ew_guide_start_warning_range">目前地震预警为成都高新减灾研究所大陆地震预警网覆盖区域提供服务。具体地区可在【城市管理】中查找。</string>
     <string name="ew_info_agreement">Условия за ползване</string>
     <string name="ew_info_other">Друго</string>
     <string name="ew_info_range">Обхват на услугата</string>
     <string name="ew_info_rule">Правила</string>
     <string name="ew_info_rule_warning">Относно системата за предупреждение</string>
     <string name="ew_info_service_range">Обхват на услугата</string>
-    <string name="ew_location_failed">未获取到定位</string>
     <string name="ew_main_warning_all_title">Преглед на предварително издадени предупреждения</string>
     <string name="ew_not_support_area">"В тази област не се поддържат предупреждения"</string>
     <string name="ew_settings_choose_level">Задайте праг на предупреждение</string>
@@ -3828,13 +3820,11 @@
     <string name="app_behavior_read_clipboard">%1s получи достъп до елементи в буферната памет</string>
     <string name="app_behavior_read_clipboard_bg">%1s получи достъп до елементи в буферната памет във фонов режим</string>
     <string name="perm_list_header_title">Приложения</string>
-    <string name="permission_action_ai_prompt">Известяване, когато се използва разрешение</string>
     <string name="permission_with_read_write_clipboard">Разрешете на приложенията да имат достъп и да запазват елементи в буферната памет</string>
     <string name="read_and_write_clipboard">Достъп и запазване на елементи в буферната памет</string>
     <string name="read_clipboard_ai_close_no">Не сега</string>
     <string name="read_clipboard_ai_close_tip">"Вече няма да получавате известия, когато приложенията имат достъп до буферната памет. Вместо това ще им бъде разрешено да използват това разрешение само докато използвате приложението. Да се коригират ли разрешенията?"</string>
     <string name="read_clipboard_ai_close_yes">Коригиране</string>
-    <string name="read_clipboard_op_content">"Вместо да давате разрешение само когато използвате приложението, ще получавате известие всеки път, когато приложенията имат достъп до клипборда."</string>
     <string name="read_clipboard_op_title">Известяване, когато приложенията имат достъп до елементи в буферната памет</string>
     <string name="read_clipboard_tip_content">Това разрешение позволява на приложенията да четат всяко копирано от вас съдържание, което може да включва лична информация (напр. данни за сметки, номера на банкови карти и пароли).</string>
     <string name="read_clipboard_tip_title">Достъп до елементи в буферната памет</string>
@@ -3878,7 +3868,6 @@
     <string name="app_manager_permission_dcimcontrol_title">Достъп до галерията</string>
     <string name="comprehensive_protection_measures">Цялостна защита</string>
     <string name="fully_informed_privacy">Информираност относно поверителността</string>
-    <string name="gallery_confirm_start_activity">%s се опитва да получи достъп до изображения чрез друго приложение. Разрешавате ли?</string>
     <string name="image_protect_auto_del">%s се опитва да изтрие изображения</string>
     <string name="image_protect_del_pic_tips">Известяване за изтрити изображения</string>
     <string name="image_protect_del_success">Изтрито успешно</string>
@@ -4173,7 +4162,66 @@
     <string name="app_behavior_share_picture">Споделете изображението</string>
 	    <string name="privacy_risk_app_fuzzy">Приложения без замъглени изглед</string>
     <string name="privacy_risk_sensitive_call_records">Разрешете на приложенията да имат достъп или да редактират историята на обажданията</string>
-	<string name="ai_allow_all">Известяване, когато се използва разрешение за всичко</string>
-	    <string name="allow_all">Разреши на всички</string>
+	    <string name="ac_notification_action_text">Включи</string>
+    <string name="allow_all">Разреши всички</string>
+    <string name="app_behavior_access_gallery">%1s получи достъп до галерията</string>
+    <string name="app_behavior_access_gallery_single">Това приложение има достъп до галерията</string>
+    <string name="app_behavior_access_sociality">%1s получи достъп до съобщения в приложения за социални медии</string>
+    <string name="app_behavior_access_sociality_single">Това приложение има достъп до съобщения в приложения за социални медии</string>
+    <string name="app_behavior_delete_pic">%1s изтрити елемента от галерията</string>
+    <string name="app_behavior_delete_pic_single">Това приложение изтри елементите от галерията</string>
     <string name="confirm_allow_all_permission">Да се разреши ли на всички приложения да използват тази функция?</string>
+    <string name="ew_guide_start_warning_range">Предоставят се ранни предупреждения за районите, обхванати от континенталната мрежа за предупреждение за земетресения на Института за намаляване на бедствия в Ченгду. Можете да намерите конкретни зони на покритие в Настройки.</string>
+    <string name="ew_guide_statement_text_new">"Този отказ от отговорност се отнася за всички потребители (наричани по-долу \ "Вие \"), които включват функцията за предупреждение за земетресение. Съгласявайки се с този отказ от отговорност, вие сключвате правно обвързващ договор с Xiaomi Inc. и нейните филиали (наричан по-долу \ "Xiaomi \"). Потвърждавате, че сте прочели цялото съдържание на този отказ от отговорност и напълно разбирате и приемате всички правила и условия на този отказ от отговорност; в противен случай трябва незабавно да изключите функцията за предупреждение за земетресение.
+Съгласно съответните закони и разпоредби, Xiaomi ще ви предостави услуги за ранно предупреждение въз основа на обхвата на зоната за наблюдение на ранното предупреждение за земетресение, обхванат от съответните агенции. Тоест, когато включите функцията за предупреждение за земетресение, ще можете да получавате предупреждения за земетресение, издадени за конкретни райони. Можете да намерите конкретни зони на покритие в Настройки.
+Тази функция ви предоставя функционалност за предупреждение за земетресение. Трябва да знаете, че информацията за предупреждение за земетресение се предоставя от вискотехнологичния институт за намаляване на бедствията в Ченгду. Xiaomi не контролира тази организация и няма контрол над нея.
+Xiaomi не обещава и не гарантира точността, валидността и навременността на информацията за предупреждение за земетресение, нито гарантира, че услугата за предупреждение за земетресение ще отговори на всички ваши нужди.
+Получаването на информация за предупреждение за земетресение изисква да поддържате устройството си свързано с мобилната мрежа. Откази на комуникационни линии на трети страни, технически проблеми, откази на мрежово или терминално оборудване, нестабилност на системата и други различни форсмажорни събития могат да ви попречат да получавате информация за предупреждение за земетресение. Xiaomi не носи отговорност за загуби, причинени от такива събития.
+Трябва да знаете, че тази функция е предоставена само за справка. Предупреждението, което получавате, може да дойде секунди преди началото на земетресението. Вие носите пълната отговорност за рисковете и последиците от всякакви действия, които извършвате въз основа на информацията, предоставена от тази функция."</string>
+    <string name="ew_location_failed">Местоположение неизвестно</string>
+    <string name="file_confirm_start_activity">"%s няма разрешение за достъп до вашата галерията и приложенията за социални медии. Това приложение иска достъп до файлове, съхранени на това устройство, за да споделя елементи. Разрешавате ли?"</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_action_mode_select_all">Избери всички</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Изберете елементи</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Още</string>
+    <string name="miuix_appcompat_cancel_description">Отказ</string>
+    <string name="miuix_appcompat_confirm_description">Потвърди</string>
+    <string name="miuix_appcompat_delete_description">Изтриване</string>
+    <string name="miuix_appcompat_deselect_all">Отмени</string>
+    <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
+    <string name="miuix_appcompat_search_input_description">Търсене</string>
+    <string name="miuix_appcompat_select_all">Избери всички</string>
+    <string name="miuix_appcompat_select_all_description">Избери всички</string>
+    <string name="miuix_appcompat_select_item">Изберете елементи</string>
+    <string name="notification_antivirus_button_text">Сканиране</string>
+    <string name="notification_antivirus_message">Сканирайте сега, за да неутрализирате рисковете</string>
+    <string name="notification_link_cleaner_2001">Изчистване на %s непотребни файлове сега?</string>
+    <string name="notification_link_cleaner_2002">Изчистете боклука, за да ускорите устройството си</string>
+    <string name="notification_link_cleaner_2003">Остават по-малко от %s в хранилището. Освободете място за съхранение сега.</string>
+    <string name="notification_link_cleaner_2004">Само %s остават в хранилището. Освободете място за съхранение сега.</string>
+    <string name="notification_link_cleaner_2005">Изчистете паметта, за да ускорите устройството си</string>
+    <string name="notification_link_cleaner_3001">Изчистете кошчето на WeChat, за да ускорите устройството си</string>
+    <string name="notification_link_cleaner_3002">Изчистване на кошчето от WeChat</string>
+    <string name="notification_link_cleaner_4000">Clear QQ trash</string>
+    <string name="notification_link_optimizemanage_1011">%d%% заета памет. Изчистване сега.</string>
+    <string name="notification_optimize_button_text">Изчистване</string>
+    <string name="notification_optimize_message">Изчистете паметта, за да увеличите скоростта</string>
+    <string name="notification_optimize_title">%d%% заета памет</string>
+    <string name="read_clipboard_ai_action_desc">Получавайте известия, когато достъпът е разрешен или ограничен</string>
+    <string name="real_location_off">Приблизителното местоположение е включено</string>
+    <string name="real_location_on">Приблизителното местоположение е изключено</string>
+    <string name="version_can_update">Можете да актуализирате %s до най-новата бета версия за достъп до нови функции.</string>
+    <string name="version_check_update">Провери за актуализации</string>
+    <string name="version_update_title">Актуализирай %s</string>
+     <string name="read_clipboard_op_content">Получавайте известия, когато достъпът е разрешен или ограничен</string>
+     <string name="permission_action_ai_prompt">Реши за мен</string>
+     <string name="notification_masked_item">Искате ли да скриете съдържанието на известията?</string>
+     <string name="notification_masked_subtitle">Заключването на приложението може да свърши работа</string>
+     <string name="gallery_confirm_start_activity">"%s няма разрешение за достъп до вашата галерия и приложенията за социални медии. Това приложение иска достъп до изображения, съхранени на това устройство, за да споделя елементи. Разрепавате ли?"</string>
+     <string name="ai_allow_all">Реши за мен във всички случаи</string>
+     <string name="ac_notification_contentText">Скриване на чувствителна информация с помощта на парола</string>
+     <string name="ac_notification_contentTitle">Опитайте Заключване на приложения!</string>
+     <string name="ac_post_notification_contentText">То може да защити всички видове чувствителни приложения</string>
+     <string name="ac_post_notification_contentTitle">Защитете приложенията със Заключване на приложения</string>
 </resources>

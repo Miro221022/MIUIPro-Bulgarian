@@ -730,4 +730,28 @@ You can get a %d-дневен безплатен пробен период се�
         <item quantity="other">%d приложения изтощават батерията</item>
         <item quantity="one">%d приложение изтощава батерията</item>
 	</plurals>
+	    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="one">Свържете поне %s точка</item>
+        <item quantity="other">Свържете поне %s точки</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="one">%d избран елемент</item>
+        <item quantity="other">%d избрани елемента</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="one">%d ден без сканиране за сигурност</item>
+        <item quantity="other">%d дни без сканиране за сигурност</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="one">Изтриване на %d остатъчен APK</item>
+        <item quantity="other">Изтриване на %d остатъчни APK</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+	<item quantity="one">Свържете поне %s точка</item>
+	<item quantity="other">Свържете поне %s точки</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="one">Въведете %s цифра</item>
+        <item quantity="other">Въведете %s цифри</item>
+    </plurals>
 </resources>
