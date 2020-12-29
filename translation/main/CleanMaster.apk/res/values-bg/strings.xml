@@ -812,4 +812,6 @@
     <string name="clipboard">Буферна памет</string>
     <string name="phone_search">Google търсене</string>
     <string name="privacy_appdata_chrome_history_des">Посетени уебсайтове</string>
+	    <string name="gb_global_icon_ad_card_btn">ВЗЕМИ</string>
+    <string name="gb_global_icon_ad_card_title">Препоръчано за Вас</string>
 </resources>

@@ -120,4 +120,8 @@
         <item quantity="other">Опитайте отново след %d секунди</item>
         <item quantity="one">Опитайте отново след %d секунда</item>
     </plurals>
+	    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d бележки</item>
+        <item quantity="one">%d бележка</item>
+    </plurals>
 </resources>

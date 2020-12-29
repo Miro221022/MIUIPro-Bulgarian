@@ -232,4 +232,13 @@
     <string name="go_setting">Настройки</string>
     <string name="real_location_off">Приблизителното местоположение е включено</string>
     <string name="real_location_on">Приблизителното местоположение е изключено</string>
+	<string name="blur_location_is_on_tip">%1$s стартира приблизителната услуга за местоположение. Да се запази ли приблизителната услуга за местоположение включена?</string>
+    <string name="blur_location_title">Приблизително местоположение</string>
+    <string name="gold_master_dialog_reject">Отхвърли (%d)</string>
+    <string name="gold_master_dialog_title">%1$s иска да чета буферната памет</string>
+    <string name="keep_blur_location">Задръж включено</string>
+    <string name="miuix_appcompat_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_select_all">Избери всички</string>
+    <string name="miuix_appcompat_select_item">Изберете елементи</string>
+    <string name="stop_blur_location">Изключи</string>
 </resources>
