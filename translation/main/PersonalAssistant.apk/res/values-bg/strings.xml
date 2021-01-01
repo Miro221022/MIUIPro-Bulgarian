@@ -291,7 +291,6 @@
   <string name="app_sports_fav_add">Добави</string>
   <string name="app_sports_fav_cancel">Премахнете този екип</string>
   <string name="app_sports_fav_mine">Добавен екип</string>
-  <string name="app_sports_fav_title">Моите екипи</string>
   <string name="app_sports_more_match">Още</string>
   <string name="app_sports_title">Спортни</string>
   <string name="app_sports_title_add_team">Добавяне на елементи</string>
@@ -1688,4 +1687,15 @@
     <string name="card_expand_note_toast_save_done_new">Запазено в Бележки</string>
     <string name="save_to_note_new">Запази в Бележки</string>
     <string name="toast_reach_text_limit_truncate_new">Вашата бележка е твърде дълга. Излишното съдържание беше съкратено.</string>
+	    <string name="app_pa_setting_global_display_backdrop_blur_option">Замъгляване на фона на картите</string>
+    <string name="app_pa_setting_global_display_backdrop_blur_summary">Нанесете размиване по Гаус върху фона на картите. Тази функция може да забави реакцията на плъзгане.</string>
+    <string name="app_sports_all_club">Клуб</string>
+    <string name="app_sports_all_league">Лига</string>
+    <string name="app_sports_all_title">Изберете загриженост</string>
+    <string name="app_sports_card_settings">Настройки</string>
+    <string name="app_sports_dialog_msg_install_douyu">Инсталирайте Douyu, за да можете да използвате тази функция. Инсталиране сега?</string>
+    <string name="app_sports_dialog_msg_install_hupu">Инсталирайте Hupu, за да можете да използвате тази функция. Инсталиране сега?</string>
+    <string name="app_sports_fav_cancel_club">Премахване на този клуб</string>
+    <string name="app_sports_fav_cancel_league">Премахване на тази лига</string>
+    <string name="app_sports_fav_title">Моята грижа</string>
 </resources>

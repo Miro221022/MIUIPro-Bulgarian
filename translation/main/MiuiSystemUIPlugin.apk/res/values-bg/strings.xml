@@ -119,4 +119,6 @@
 Дългото излагане на силни звуци може да причини проблеми със слуха."</string>
     <string name="accessibility_back">Назад</string>
     <string name="slider_view_content_description">Плъзнете нагоре за изключване или плъзнете надолу, за да рестартирате</string>
+	    <string name="quick_settings_pcmode_turn_off_description">След като излезете от режим компютър, ще използвате работния плот Mi на по-големия екран. Наистина ли ще излезете?</string>
+    <string name="quick_settings_pcmode_turn_on_description">След като влезете в режим компютър, ще използвате работния плот на компютъра на по-големия екран. Наистина ли ще влезете?</string>
 </resources>

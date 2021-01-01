@@ -359,4 +359,6 @@
     <string name="disable_nfc_reverse">Изключен NFC за обратно безжично зареждане</string>
     <string name="enable_nfc">Вече не се зарежда. NFC отново е включено</string>
     <string name="enable_nfc_reverse">Вече няма обратно зареждане. NFC отново е включено.</string>
+	    <string name="freeform_exchange_tip">Пуснете, за да отворите приложението</string>
+    <string name="freeform_exchange_tip2">Плъзнете до ъгъла, за да отмените</string>
 </resources>

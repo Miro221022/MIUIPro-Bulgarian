@@ -595,4 +595,12 @@
     <string name="passport_uplink_sms_sending">Изпращане на платено съобщение…</string>
     <string name="passport_uplink_suggest_dialog_msg">"Кодът не може да бъде получен. Вместо това да се използва ли SMS с платена връзка?"</string>
     <string name="passport_uplink_suggest_dialog_title">Вниамние</string>
+	<string name="download_file">Изтегляне %s…</string>
+    <string name="passport_login_other_phone">Използвай друг профил</string>
+    <string name="passport_provision_input_email_register_prompt">Вашите лични данни ще се съхраняват в съответствие със законите и разпоредбите на региона, който сте избрали.</string>
+    <string name="passport_provision_password_req_notice">%1$d-%2$d знака от поне %3$d от следните типове: букви, цифри, специални символи</string>
+    <string name="passport_registered_phone_num_v2">Телефонен номер</string>
+    <string name="provision_back">Назад</string>
+    <string name="provision_next">Следващо</string>
+    <string name="provision_skip_underline">Пропускане</string>
 </resources>

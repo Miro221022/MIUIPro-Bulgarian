@@ -14,7 +14,6 @@
   <string name="autumn_equinox">Есенно равноденствие</string>
   <string name="beep">Биип</string>
   <string name="bells">Звънци</string>
-  <string name="birdcicada_preview">Природа - Птици и светулки</string>
   <string name="blues">Блус</string>
   <string name="bottle">Бутилка</string>
   <string name="breeze">Бриз</string>
@@ -193,7 +192,6 @@
   <string name="vip_login">Чукнете за вписване</string>
   <string name="vip_not_login">Не сте вписан</string>
   <string name="vip_sign">Подпис:</string>
-  <string name="waterdrop_preview">Природа - капчици</string>
   <string name="white_dews">Бяла роса</string>
   <string name="windchime">Вятърни камбанки</string>
   <string name="winter_begins">Начало на зимата</string>
@@ -230,4 +228,13 @@ d MMMM"</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Още системни тапети</string>
 	    <string name="wallpaper_group_color_move_title">Течни цветове</string>
     <string name="wallpaper_group_sgn_mountain_title">Планината Сигунянг</string>
+	    <string name="africaanimals_preview">Савана</string>
+    <string name="amazonanimals_preview">Дъждовна гора</string>
+    <string name="miui_clock_city_name_second">Втори часовник</string>
+    <string name="australiaanimals_preview">Австралия</string>
+    <string name="southwestmountain_preview">Планини</string>
+    <string name="stoneskimming_preview">Леки стъпки</string>
+    <string name="wallpaper_group_color_move_title">Течни цветове</string>
+    <string name="birdcicada_preview">Птици и светулки</string>
+    <string name="waterdrop_preview">Капчици</string>
 </resources>

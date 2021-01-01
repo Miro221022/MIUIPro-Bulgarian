@@ -630,4 +630,6 @@
     <string name="remove_dialog_title_format">Премахване на \"%s\" от началния екран?</string>
 	<string name="launcher_icon_management">Управление на преките пътища на началния екран</string>
     <string name="restore_icon_successful">Добавено успешно</string>
+	    <string name="all_apps_install_contentcenter_msg">Изглежда, че Центъра за съдържание е деинсталиран. Да се инсталира ли отново?</string>
+    <string name="all_apps_install_contentcenter_title">Инсталиране на Център за съдържание</string>
 </resources>

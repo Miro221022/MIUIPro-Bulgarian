@@ -1179,4 +1179,5 @@ M/dd"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
+	<string name="super_wallpaper_list_footer_text">Следете за новите ни версии!</string>
 </resources>

@@ -1953,8 +1953,8 @@
 	<string name="smart_dual_sim_prompt">Вашето устройство ще се свърже с мобилна мрежа за данни чрез втората SIM, ако текущата връзка е лоша. Това може да генерира допълнителни такси. Задайте лимит за използване на данни, за да избегнете допълнителни такси.</string>
     <string name="smart_dual_sim_summary">Превключете към втората SIM карта и използвайте автоматично мобилните й данни, когато текущата връзка е лоша. Когато връзката се подобри, превключете обратно към основната SIM карта</string>
     <string name="smart_dual_sim_title">Интелигентен двусимов режим</string>
-	<string name="fiveg_sa_switch_title_slot0">SIM 1 SA режим</string>
-    <string name="fiveg_sa_switch_title_slot1">SIM 2 SA режим</string>
+	<string name="fiveg_sa_switch_title_slot0">SIM %d SA режим</string>
+    <string name="fiveg_sa_switch_title_slot1">SIM %d SA режим</string>
 	<string name="smart_dual_sim_prompt_ok">Настройки</string>
     <string name="smart_dual_sim_prompt_title">Предупреждение за използване на данни (SIM %s)</string>
 	    <string name="mobile_intelligent_connection_title">Интелигентна свързаност с мобилна мрежа</string>
@@ -1968,4 +1968,5 @@
     <string name="fiveg_sa_vice_switch_title">SA на втората SIM</string>
 	     <string name="vonr_switch_summary">Използвайте VoNR, за да подобрите качеството на гласовите повиквания</string>
      <string name="vonr_switch_title">Използване на VoNR</string>
+	 <string name="stk_name">USIM инструменти</string>
 </resources>

@@ -23,7 +23,6 @@
   <string name="config_mode_title">Настройки за работа на заден план</string>
   <string name="config_no_restrict_description">Пестенето на батерия няма да ограничава дейността на приложението</string>
   <string name="config_no_restrict_title">Без ограничения</string>
-  <string name="config_restrict_function_description">Някои функции (например изскачащи известия) може да бъдат засегнати, но приложенията няма да бъдат затворени</string>
   <string name="config_restrict_function_title">Ограничаване на процесите на заден план</string>
   <string name="config_restrict_running_description">Приложенията ще бъдат затворени, за да се спести енергия</string>
   <string name="config_restrict_running_title">Ограничаване на активността на заден план</string>
@@ -114,5 +113,6 @@
   <string name="power_tools_current">Текущ</string>
   <string name="power_tools_fps">FPS</string>
   <string name="cloud_russion_addr">Актуализирайте данните на руския сървър</string>
-  <string name="accessibility_service_description">Интелигентно пестене на енергия</string>
+  <string name="accessibility_service_description">Пестене на батерия</string>
+   <string name="config_restrict_function_description">Затворяне на приложенията след 10 минути активност във фонов режим</string>
 </resources>

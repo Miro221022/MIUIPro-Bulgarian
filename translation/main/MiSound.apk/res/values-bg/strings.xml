@@ -129,4 +129,22 @@
     <string name="wireless_transmission_confirm">Включи</string>
     <string name="wireless_transmission_definition">"Предаване на микрофона на телефона към външно Bluetooth устройство"</string>
     <string name="wireless_transmission_prompt">За да предава звук, безжичният високоговорител трябва да включи Bluetooth. Да се включи ли сега?</string>
+	<string name="sound_effect_hall">Зала</string>
+    <string name="sound_effect_original">Оригинално</string>
+    <string name="sound_effect_room">Стая</string>
+    <string name="sound_effect_theater">Театър</string>
+    <string name="sound_transmission_cancel">Не благодаря</string>
+    <string name="sound_transmission_confirm">Разреши</string>
+    <string name="sound_transmission_continue">Възобнови</string>
+    <string name="sound_transmission_device">Устройство</string>
+    <string name="sound_transmission_dialog_message">Звуков асистент</string>
+    <string name="sound_transmission_dialog_title">Включи Bluetooth</string>
+    <string name="sound_transmission_end">Спри</string>
+    <string name="sound_transmission_processing">Микрофон</string>
+    <string name="sound_transmission_prompt">Позволете на тази функция да включи Bluetooth, за да може да използва безжичен микрофон.</string>
+    <string name="sound_transmission_scenes">Сцена</string>
+    <string name="sound_transmission_start">Начало</string>
+    <string name="sound_transmission_stop">Пауза</string>
+    <string name="sound_transmission_title">Безжичен микрофон</string>
+    <string name="transmission_volume_option_title">Сила на микрофона</string>
 </resources>

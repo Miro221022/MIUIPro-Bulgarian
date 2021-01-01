@@ -32,7 +32,7 @@
     <string name="input_method_switch_settings_text">Настройки на клавиатурата</string>
     <string name="input_method_tab_clipboard_text">Буферна памет</string>
     <string name="input_method_tab_phrase_text">Чести фрази</string>
-	<string name="input_method_clipboard_add_to_phrase_success">Добавяне към чести фрази</string>
+	<string name="input_method_clipboard_add_to_phrase_success">Добавено към чести фрази</string>
     <string name="input_method_function_clipboard">Буферна памет и чести фрази</string>
     <string name="input_method_function_clipboard_des">Докоснете, за да видите съдържанието на буферната памет и честите фрази</string>
     <string name="input_method_function_select_guide_title">Натиснете и задръжте за повече опции</string>

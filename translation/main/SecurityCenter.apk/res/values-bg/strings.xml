@@ -4157,9 +4157,6 @@
      <string name="special_perm_window_title">Показване на елементи в режим картина в картината</string>
     <string name="gb_advance_settings_finger_up">Чувствителност към продължителни докосвания</string>
     <string name="power_optimize_power_save_summary">Включете Пестене на батерия, за да приложите няколко системни оптимизации, които ограничават активността във фонов режим</string>
-	    <string name="app_behavior_link_start">Задействано стартиране</string>
-    <string name="app_behavior_share_file">Споделяне на файл</string>
-    <string name="app_behavior_share_picture">Споделете изображението</string>
 	    <string name="privacy_risk_app_fuzzy">Приложения без замъглени изглед</string>
     <string name="privacy_risk_sensitive_call_records">Разрешете на приложенията да имат достъп или да редактират историята на обажданията</string>
 	    <string name="ac_notification_action_text">Включи</string>
@@ -4224,4 +4221,11 @@ Xiaomi не обещава и не гарантира точността, вал
      <string name="ac_notification_contentTitle">Опитайте Заключване на приложения!</string>
      <string name="ac_post_notification_contentText">То може да защити всички видове чувствителни приложения</string>
      <string name="ac_post_notification_contentTitle">Защитете приложенията със Заключване на приложения</string>
+	     <string name="provision_back">Назад</string>
+    <string name="provision_next">Следващо</string>
+    <string name="provision_skip_underline">Пропускане</string>
+    <string name="view_traffic_detail">Преглед на подробности</string>
+    <string name="app_behavior_link_start">Верижно стартиране</string>
+    <string name="app_behavior_share_file">Споделяне на фйлове</string>
+    <string name="app_behavior_share_picture">Споделяне на изображения</string>
 </resources>

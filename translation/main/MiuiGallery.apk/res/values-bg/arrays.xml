@@ -213,4 +213,121 @@
         <item>Те растат толкова бързо</item>
         <item>"Снимки на Кидо"</item>
     </string-array>
+	    <string-array name="acc_category_color_description">
+        <item>Бяло</item>
+        <item>Тъмно синьо</item>
+        <item>Светло синьо</item>
+        <item>Червено</item>
+        <item>Зелено</item>
+        <item>Розово</item>
+        <item>Кафяво</item>
+        <item>Сиво</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Изберете снимка</item>
+        <item>Прозрачен фон</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Отдих</item>
+        <item>Бриз</item>
+        <item>Мечти</item>
+        <item>Облаци</item>
+        <item>Мисли</item>
+        <item>Пъпки</item>
+        <item>Метаморфоза</item>
+        <item>Дълбочина</item>
+        <item>Размисли</item>
+        <item>Минималистично</item>
+        <item>Мистерия</item>
+        <item>Мъгла</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Превърнете фона в скици</item>
+        <item>Фонове в акварелен стил</item>
+        <item>Киберпънк ретро</item>
+        <item>Заблудени вертикални сегменти</item>
+        <item>Мъгливо размазване</item>
+        <item>Футуристично усещане</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Скица</item>
+        <item>Акварел</item>
+        <item>RGB</item>
+        <item>Щори</item>
+        <item>Мъглив прозорец</item>
+        <item>Техно</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Цветен контур</item>
+        <item>Прекъснат контур</item>
+        <item>Флуоресцентен контур</item>
+        <item>Colored shadow</item>
+        <item>Електрическа вълна</item>
+        <item>Електичество</item>
+        <item>Текст</item>
+        <item>Крила</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Общо</item>
+        <item>Пъуване</item>
+        <item>Работа</item>
+        <item>Документо</item>
+        <item>Образование</item>
+        <item>Изпити</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Социална сигурност</item>
+        <item>Изявление за здравето</item>
+        <item>Медицинска застраховка</item>
+        <item>Идентификация</item>
+        <item>Разрешение за пребиваване</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Заявление за прием</item>
+        <item>Студентска мрежа</item>
+        <item>Ученическа мрежа за начални училища</item>
+        <item>Профил на студентската мрежа</item>
+        <item>Прием в университет</item>
+        <item>NCEE</item>
+        <item>Възобновяване</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Сертифициране на учители в начално и средно училище</item>
+        <item>Сертифициране на учители</item>
+        <item>"Шофьорска книжка"</item>
+        <item>Разрешително за водач</item>
+        <item>Електронно разрешение водач</item>
+        <item>Национален съдебен изпит</item>
+        <item>Електронен сертификат за първокласен конструктор</item>
+        <item>Втори клас сертификат за конструктор</item>
+        <item>Изпит за младши счетоводни заглавия</item>
+        <item>Дипломиран експерт-счетоводител</item>
+        <item>Разрешение за водач в Пекин</item>
+        <item>Проверка на междинно счетоводно звание</item>
+        <item>Изпит за старши счетоводни звания</item>
+        <item>Удостоверение за квалификация на счетоводството</item>
+        <item>Сертифициран експерт-счетоводител</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>САЩ</item>
+        <item>Виетнам</item>
+        <item>Япония</item>
+        <item>Хонг Конг и Макао</item>
+        <item>Южна Кореа</item>
+        <item>Тайланд (туристи)</item>
+        <item>Тайланд (при пристигане)</item>
+        <item>Индия</item>
+        <item>Израел</item>
+        <item>Тайван</item>
+        <item>Малайзия</item>
+        <item>Нова Зеландия</item>
+        <item>Италия</item>
+        <item>Аржентина</item>
+        <item>Бразилия</item>
+        <item>Исландия</item>
+        <item>Кения</item>
+    </string-array>
 </resources>

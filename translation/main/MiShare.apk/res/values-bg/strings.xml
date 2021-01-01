@@ -147,7 +147,7 @@
   <string name="support_device_type">Поддържани устройства</string>
   <string name="throwing_print">Принтиране</string>
   <string name="throwing_screen">Излъчване</string>
-  <string name="tips_prompt_enable_midrop">Споделяйте файлове с устройства наблизо</string>
+  <string name="tips_prompt_enable_midrop">Mi Споделяне</string>
   <string name="to_feedback">Докладвай</string>
   <string name="transfer_intercept_to_remote">Не може да се изпрати: %1$s</string>
   <string name="transfer_to_pc_summary">Последната версия на софтуера AIoT, инсталиран на Mi Notebooks, е съвместима с Mi Споделяне. Можете да проверите списъка на поддържаните модели лаптопи на уебсайта на MIUI. Ако вашият лаптоп е в списъка, но AIoT не е инсталиран в него, актуализирайте BIOS и драйвера на мрежовия адаптер на вашия лаптоп и изтеглете AIoT.</string>
@@ -242,4 +242,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Това е всичко за сега"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Една секунда…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
+	    <string name="error_mirror_working">"Не можете да споделяте елементи, докато споделяте екрана"</string>
+    <string name="error_remote_mirror_working">"Другото устройство не може да приема елементи, докато споделя екрана"</string>
+    <string name="send_files_by">Споделяне на файлове чрез</string>
 </resources>

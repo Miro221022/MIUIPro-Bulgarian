@@ -1074,7 +1074,6 @@
     <string name="parameter_peak_raw_title">RAW формат</string>
     <string name="parameter_wb_description">Освен предварително зададени баланси на бялото (нажежаема жичка, дневна светлина, флуоресцентна, облачна), можете също да зададете баланса на бялото на персонализирана стойност в рамките на 2000–8000 по гамата на Kelvin.</string>
     <string name="parameter_wb_title">Бял баланс</string>
-    <string name="parameter_zoom_slider_description">Плъзнете плъзгача за увеличение нагоре и надолу, за да промените плавно снимката си от далечен кадър в близък план.</string>
     <string name="parameter_zoom_slider_title">Проближение</string>
     <string name="pref_camera_auxiliary_close">Изключено</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Проверка на експозицията</string>
@@ -1604,7 +1603,6 @@
     <string name="live_edit_exit_message_draft">Запазване като чернова</string>
     <string name="live_workspace_title">Чернови</string>
     <string name="live_workspace_title_edit">Изберете елементи за изтриване</string>
-	<string name="film_video_b_tip">请在暗光环境下拍摄</string>
 	<string name="pref_camera_video_ai_scene_title">Интелигентна камера</string>
 	<string name="pref_video_quality_hfr_title">Честота на кадрите и качество на картината</string>
     <string name="confirm_fastmotion_reset_manually_parameter_message">Нулиране на параметрите сега?</string>
@@ -1635,4 +1633,8 @@
     <string name="pref_camera_reference_capture_title_jiugongge">Jiugongge</string>
     <string name="pref_camera_reference_capture_title_left_golden_spiral">Лява златна спирала</string>
     <string name="pref_camera_reference_capture_title_right_golden_spiral">Дясна златна спирала</string>
+	    <string name="manual_picture_style">Параметри</string>
+    <string name="parameter_manual_picturestyle_description">Наситеността ви позволява да контролирате дълбочината и интензивността на цветовете, регулирането на контраста извежда или минимизира разликата между светлина и тъмнина, а рязкостта прави детайлите по контурите.</string>
+    <string name="reset_manual_picture_style_toast">Нулирани са параметрите успешно</string>
+    <string name="parameter_zoom_slider_description">Плъзнете плъзгача за мащабиране хоризонтално, за да промените плавно снимката си от дълъг кадър в близък план.</string>
 </resources>
