@@ -164,4 +164,16 @@
         <item quantity="other">Изтриване на %d инсталационни пакети</item>
         <item quantity="one">Изтриване на %d инсталационен пакет</item>
     </plurals>
+	    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Достатъчно за %d снимки</item>
+        <item quantity="one">Достатъчно за %d снимка</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Достатъчно за %d песни</item>
+        <item quantity="one">Достатъчно за %d песен</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d приложения с кеширани видеоклипове</item>
+        <item quantity="one">%d приложение с кеширани видеоклипове</item>
+    </plurals>
 </resources>

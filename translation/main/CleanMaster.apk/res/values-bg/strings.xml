@@ -814,4 +814,41 @@
     <string name="privacy_appdata_chrome_history_des">Посетени уебсайтове</string>
 	    <string name="gb_global_icon_ad_card_btn">ВЗЕМИ</string>
     <string name="gb_global_icon_ad_card_title">Препоръчано за Вас</string>
+	    <string name="hints_quick_deep_clean2">Освободи %s</string>
+     <string name="powerful_acceleration">Дефрагментация</string>
+     <string name="powerful_acceleration_after">След</string>
+     <string name="powerful_acceleration_before">Преди</string>
+     <string name="powerful_acceleration_enable_summary">"Дефрагментацията ще се извърши автоматично, докато не използвате устройството"</string>
+     <string name="powerful_acceleration_enable_title">Извършете дефрагментиране във фонов режим</string>
+     <string name="powerful_acceleration_item_button">Включване</string>
+     <string name="powerful_acceleration_item_tip_normal">Хранилището ви изглежда добре!</string>
+     <string name="powerful_acceleration_notification_summary">Докоснете, за да освободите още място</string>
+     <string name="powerful_acceleration_notification_title">Дефрагментацията завърши</string>
+     <string name="powerful_acceleration_tip">Вътрешното хранилище страда от фрагментация, която може значително да забави вашето устройство. Дефрагментацията физически организира вашите файлове в най-малкия брой фрагменти, намалявайки забавянето.</string>
+     <string name="powerful_acceleration_tip_high"><Data>Хранилището е &lt;font color=#ff0000 >сериозно&lt;/font> фрагментирано. Дефрагментацията може да реши проблема.</Data></string>
+     <string name="powerful_acceleration_tip_middle"><Data>Хранилището е &lt;font color=#ff0000 >леко&lt;/font> фрагментирано. Дефрагментацията може да реши проблема.</Data></string>
+     <string name="powerful_acceleration_toast">"Дефрагментацията ще се извърши, когато не използвате устройството"</string>
+     <string name="rs_clean_size_free_space">Освободи %s</string>
+     <string name="rs_clean_size_storage_size">Заето %1$s/%2$s</string>
+     <string name="rs_clean_size_storage_title">Хранилище</string>
+     <string name="video_clean">Изчистване на кешираните видеоклипове</string>
+     <string name="video_clean_auto_clean">Автоматично изчистване</string>
+     <string name="video_clean_auto_clean_summary">Изчистване на кешираните видеоклипове автоматично след сканиране</string>
+     <string name="video_clean_cache_tip">Изчистените видеоклипове могат да бъдат заредени отново след това</string>
+     <string name="video_clean_create_desktop_icon">Пряк път на началния екран</string>
+     <string name="video_clean_create_desktop_icon_summary">Добавете пряк път на началния екран, за да изчистите кешираните видеоклипове с едно докосване</string>
+     <string name="video_clean_desktop_icon_created">Успешно е добавен пряк път към началния екран</string>
+     <string name="video_clean_garbage">Кеширани видеоклипове</string>
+     <string name="video_clean_garbage_cleared">Кешираните видеоклипове бяха изчистени успешно</string>
+     <string name="video_clean_notification_summary">Изчистете видеоклиповете, кеширани от приложения</string>
+     <string name="video_clean_notification_title">Освободи %s</string>
+     <string name="video_clean_personal_settings_title">Допълнителни настройки</string>
+     <string name="video_clean_qq_clean_summary">Изчистете непотребните файлове, за да освободите място за съхранение</string>
+     <string name="video_clean_qq_clean_title">QQ почистване</string>
+     <string name="video_clean_remind_settings_title">Напомняне за почистване</string>
+     <string name="video_clean_scan_app_tip">Сканиране на приложения %1$d/%2$d</string>
+     <string name="video_clean_video_manager_summary">Управлявайте всички видеоклипове, съхранявани на вашето устройство</string>
+     <string name="video_clean_video_manager_title">Видео мениджър</string>
+     <string name="video_clean_wechat_clean_summary">Изчистете непотребните файлове, за да увеличите скоростта</string>
+     <string name="video_clean_wechat_clean_title">WeChat почистване</string>
 </resources>

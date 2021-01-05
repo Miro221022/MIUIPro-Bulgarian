@@ -1928,7 +1928,6 @@
   <string name="skt_msim_emm_cause_7_8_15">"SIM %d не може да се регистрира в мрежа. Рестартирайте устройството си и опитайте отново. Ако все още срещате този проблем след това, свържете се с поддръжката на клиенти (1599-0011)."</string>
       <string name="ai_assistant_not_installed">Първо инсталирайте асистента за обаждания</string>
     <string name="ai_assistant_setting_title">Интелигентен асистен за обаждания</string>
-    <string name="fiveg_sa_switch_warning_toast">Моля, рестартирайте телефона, за да влезе в сила.</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">дръпнете за обновяване</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">обновяването завърши</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">обновяване</string>
@@ -1969,4 +1968,5 @@
 	     <string name="vonr_switch_summary">Използвайте VoNR, за да подобрите качеството на гласовите повиквания</string>
      <string name="vonr_switch_title">Използване на VoNR</string>
 	 <string name="stk_name">USIM инструменти</string>
+	 <string name="fiveg_sa_switch_warning_toast">Рестартирайте устройството си, за да приложите промените</string>
 </resources>

@@ -638,7 +638,7 @@
     <string name="sacred_ibis">Африкански свещен ибис</string>
     <string name="sanderling">Sanderling</string>
     <string name="scarlet_macaw">Macaw</string>
-    <string name="scarlet_macaw_info">Macaws are long-tailed, often colorful, New World parrots.</string>
+    <string name="scarlet_macaw_info">Ара са дългоопашати, често цветни папагали от Новия свят.</string>
     <string name="sea_otter">Морска видра</string>
     <string name="seal_info">Тюлените са морски бозайници, които могат да се движат бързо в дълбоки води, като се хранят с риби и скариди.</string>
     <string name="snowy_owl">Снежен бухал</string>
@@ -662,4 +662,8 @@
     <string name="walrus_info">Walruses are excellent divers. They prefer shallow shelf regions and forage primarily on the sea floor.</string>
     <string name="whipbird_eastern_whipbird">Източен камшик</string>
     <string name="white_bellied_sea_eagle">Белоопашат орел</string>
+	    <string name="animal_select_alert_info">Можете да изберете до 5 елемента</string>
+    <string name="random_play_sound_alert">"Ще чувате звуците на животни от този регион, когато получавате известия"</string>
+    <string name="branch_ramphastos">Ramphastidae</string>
+    <string name="item_liebird">Piciformes</string>
 </resources>

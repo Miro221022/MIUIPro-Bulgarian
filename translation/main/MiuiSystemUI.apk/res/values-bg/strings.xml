@@ -2048,4 +2048,5 @@ WLAN адрес (BSSID)
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Мобилните данни ще бъдат включени. Свързването с мобилни мрежи може да доведе до допълнителни такси в зависимост от вашия план.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Отказ</string>
     <string name="torch_high_temperature_warning">"Вашето устройство е прегряло. Не може да се използва фенерче в момента."</string>
+	<string name="heads_up_snooze_toast">"Известията от това приложение няма да се показват, докато не отключите отново устройството си"</string>
 </resources>
