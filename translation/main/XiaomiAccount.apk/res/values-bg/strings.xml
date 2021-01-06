@@ -603,4 +603,5 @@
     <string name="provision_back">Назад</string>
     <string name="provision_next">Следващо</string>
     <string name="provision_skip_underline">Пропускане</string>
+	<string name="passport_login_other_way">Други начини за вписване</string>
 </resources>
