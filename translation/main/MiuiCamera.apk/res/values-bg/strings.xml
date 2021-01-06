@@ -1651,4 +1651,9 @@
     <string name="makeup_effect_entry_palm">Палмово дърво</string>
     <string name="makeup_effect_entry_taro">Таро</string>
     <string name="makeup_effect_entry_vitality">Ентусиазъм</string>
+	   <string name="pref_camera_tip_doc">Скенер за документи</string>
+    <string name="pref_camera_tip_id_card">Идентификационен скенер</string>
+    <string name="pref_smart_guide_title">Умни предложения</string>
+    <string name="settings_camera_detect_card_description">Показвайте пряк път, когато AI камерата открие лична карта</string>
+    <string name="settings_camera_detect_description_doc">Показвайте пряк път, когато AI камерата открие документ или слайд за презентация</string>
 </resources>
