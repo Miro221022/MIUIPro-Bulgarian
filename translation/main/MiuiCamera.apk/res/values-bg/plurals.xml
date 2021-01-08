@@ -44,4 +44,8 @@
         <item quantity="other">Изтриване на %1$d чернови?</item>
         <item quantity="one">Изтриване на %1$d чернова?</item>
     </plurals>
+	    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Можете да снимате видеоклипове със замразяване на времето с до %d обекта.</item>
+        <item quantity="one">Можете да снимате видеоклипове със замразяване на времето с до %d обект.</item>
+    </plurals>
 </resources>

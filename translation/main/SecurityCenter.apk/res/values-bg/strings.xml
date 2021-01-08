@@ -3273,7 +3273,7 @@
     <string name="privacy_show_password_summary">Запазване на паролите видими за кратко време</string>
     <string name="privacy_special_permission_summary">Наблюдавайте как приложенията използват чувствителни разрешения</string>
     <string name="privacy_special_permission_title">Специални разрешения</string>
-    <string name="privacy_summary">Научете за защитата на поверителността в MIUI 12</string>
+    <string name="privacy_summary">Научете за защитата на поверителността в MIUI</string>
     <string name="privacy_type_open">Включване</string>
     <string name="privacy_using_camera">Използване на камерата</string>
     <string name="privacy_using_location">Достъп до местоположението</string>
@@ -4228,4 +4228,12 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="app_behavior_link_start">Верижно стартиране</string>
     <string name="app_behavior_share_file">Споделяне на фйлове</string>
     <string name="app_behavior_share_picture">Споделяне на изображения</string>
+	    <string name="ad_floating_window_title">Затворете плаващ прозорец, за да отключите</string>
+    <string name="dlg_onlie_service_summary">Изключването на онлайн услуги ще направи някои функции на приложението недостъпни. Да се изключи ли все пак?</string>
+    <string name="dlg_open_online_service_pos_text">Включи</string>
+    <string name="dlg_open_online_service_summary">"Някои функции няма да са налични, когато онлайн услугите са изключени. Да се включи ли онлайн услугата сега?"</string>
+    <string name="dlg_open_online_service_title">Онлайн услуги</string>
+    <string name="in_delete">Изтриване…</string>
+    <string name="in_recover">Възстановяване…</string>
+    <string name="setting_online_service">Онлайн услуги</string>
 </resources>

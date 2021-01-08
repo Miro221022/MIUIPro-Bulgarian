@@ -130,4 +130,8 @@
     <string name="headset_update_failed">"Не може да се актуализира"</string>
     <string name="headset_update_ok">Готово</string>
     <string name="headset_updating">Актуализиране</string>
+    <string name="fast_connect_new_feture_same_account">Същият профил без сдвояване</string>
+    <string name="fast_connect_new_feture_sound_normalizer">Нормализатор на звука</string>
+    <string name="fast_connect_new_feture_title">Нови функции</string>
+    <string name="fast_connect_same_accout_devices_title">Това е другото ви свързано устройство: %1$s</string>
 </resources>

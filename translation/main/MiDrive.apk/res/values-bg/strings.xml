@@ -558,4 +558,6 @@
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
+	    <string name="detail_download_path">"Местоположение: "</string>
+    <string name="detail_download_time">"Изтеглени: "</string>
 </resources>
