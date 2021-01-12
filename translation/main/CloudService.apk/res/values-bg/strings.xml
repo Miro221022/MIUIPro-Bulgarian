@@ -1077,4 +1077,7 @@
     <string name="provision_skip_underline">Пропусни</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">"Системните приложения на MIUI се нуждаят от Xiaomi Облак, за да архивират вашите снимки, съобщения, бележки и други. Xiaomi Облак е безплатен и готов за използване веднага след закупуване на устройството."</string>
     <string name="sync_dspt_entrance_provision_v2">Синхронизирайте вашите снимки, бележки и други елементи на всичките си устройства. Ще имате достъо до нещата, които синхронизирате от всеки браузър %s.</string>
+	<string name="retain_data_high_quality_photo_waring_message">Висококачествените изображения ще бъдат изтрити от вашата галерия, след като излезете. Съответните оригинални файлове все още ще се съхраняват в облака. Можете също да изтеглите оригинални файлове, преди да излезете.</string>
+    <string name="retain_data_high_quality_photo_waring_title">"Висококачествените изображения няма да бъдат налични"</string>
+    <string name="share_location_menu_create_shortcut">Пряк път на началния екран</string>
 </resources>

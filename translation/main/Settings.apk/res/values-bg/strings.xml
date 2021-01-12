@@ -7949,4 +7949,10 @@ UT интерфейс: %5$s"</string>
      <string name="seekbar_text">Плъзгач</string>
      <string name="tab_text">Раздел</string>
      <string name="wallet_header_title">Портфейл и плащания</string>
+	 <string name="launcher_icon_management">Управление на преките пътища на началния екран</string>
+	     <string name="switch_headset_anti_lost">Предупреждение за липсваща слушалка</string>
+    <string name="switch_headset_anti_lost_summary">Получавайте предупреждение, когато една от слушалките ви е далеч от ухото или кутията за зареждане за повече от минута</string>
+    <string name="switch_headset_anti_lost_title">Предупреждение за липсваща слушалка</string>
+    <string name="wifi_enhanced_handover">Подобрено предаване</string>
+    <string name="wifi_enhanced_handover_summary">Бързо превключвайте между AP със същия метод на криптиране</string>
 </resources>

@@ -1739,4 +1739,8 @@
     <string name="video_effect_entry_northern_europe_describe">Ниската наситеност и контраст внасят някои скандинавски ноар в облачна и меко осветена вътрешна среда.</string>
     <string name="video_effect_entry_rome_describe">Топло ретро монохромно работи за повечето сцени.</string>
     <string name="video_effect_entry_summer_day_describe">Ниският контраст и ярките тонове се представят добре, когато трябва да запазите тона на кожата. Този филтър е подходящ за слънчеви сцени на открито.</string>
+	    <string name="close_night_algo_toast_low_power">Заредете устройството си, за да можете да зададете експонация</string>
+    <string name="close_night_algo_toast_thermal">Охладете устройството си, за да можете да зададете експозиция</string>
+	    <string name="pref_super_night_se_summary">Разпознаването на среда с тъмна светлина автоматично ще задейства нощно заснемане и ще подобри ефекта на изображението чрез алгоритми</string>
+    <string name="pref_super_night_se_title">Автоматичен нощен режим</string>
 </resources>

@@ -851,4 +851,6 @@
      <string name="video_clean_video_manager_title">Видео мениджър</string>
      <string name="video_clean_wechat_clean_summary">Изчистете непотребните файлове, за да увеличите скоростта</string>
      <string name="video_clean_wechat_clean_title">WeChat почистване</string>
+	    <string name="video_clean_image_clean_summary">Изтрийте дублиращи се снимки, за да освободите място за съхранение</string>
+    <string name="video_clean_image_clean_title">Изтриване на дублиращи се снимки</string>
 </resources>

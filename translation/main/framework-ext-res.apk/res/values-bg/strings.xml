@@ -361,4 +361,10 @@
     <string name="enable_nfc_reverse">Вече няма обратно зареждане. NFC отново е включено.</string>
 	    <string name="freeform_exchange_tip">Пуснете, за да отворите приложението</string>
     <string name="freeform_exchange_tip2">Плъзнете до ъгъла, за да отмените</string>
+	    <string name="dock_tip_floatwindow">Задръжте лентата и я плъзнете до ръба на екрана, за да влезете в изглед с разделен екран.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Плъзнете лентата хоризонтално, за да разменяте позициите на двата прозореца на приложенията.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Задръжте и плъзнете надолу, за да превключите към плаващ прозорец.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Плъзнете лентата вертикално, за да размените позициите на двата прозореца на приложенията.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Задръжте и плъзнете отляво или отдясно на екрана, за да превключите към плаващ прозорец.</string>
+    <string name="miui_multiwindow_not_support_split">%1$s не поддържа разделен екран.</string>
 </resources>

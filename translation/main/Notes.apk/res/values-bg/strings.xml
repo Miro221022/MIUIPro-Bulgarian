@@ -629,4 +629,7 @@
     <string name="toast_excerpt_open_note">Отворена бележката с откъс</string>
     <string name="toast_excerpt_saved">Запазване на откъса в Бележки…</string>
 	<string name="view_all_notes">Преглед на всички</string>
+	    <string name="blackboard_note">Умна черна дъска</string>
+    <string name="default_update_documents">Налична е актуализация. Актуализиране сега?</string>
+    <string name="note_mindnote_entrance_hint_newversion">"Започнете да пишете "</string>
 </resources>

@@ -462,7 +462,6 @@
   <string name="user_avatar_update_title">Промяна на профилната снимка</string>
   <string name="user_avatar_uploading">Момент…</string>
   <string name="user_id_hint">Имейл/Телефон/ИН на Mi профил</string>
-  <string name="user_protocol_and_privacy_protocol">Прочетох и се съгласих с потребителското споразумение и политиката за поверителност.</string>
   <string name="v_code_title">Въведете код за проверка</string>
   <string name="v7_preference_off">ИЗКЛ.</string>
   <string name="v7_preference_on">ВКЛ.</string>
@@ -560,4 +559,5 @@
     <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
 	    <string name="detail_download_path">"Местоположение: "</string>
     <string name="detail_download_time">"Изтеглени: "</string>
+	<string name="user_protocol_and_privacy_protocol"><Data>"Прочетох и се съгласих с &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Политика за поверителност&lt;/a>."</Data></string>
 </resources>

@@ -31,4 +31,25 @@
     <string name="notification_title_message_shell">%s се затвори принудително поради вътрешна грешка</string>
     <string name="notification_title_message_unknown">%s се затвори принудително</string>
     <string name="search_menu_title">Търсене</string>
+	    <string name="dialog_content_message_anr">"%s не реагира поради вътрешна грешка. "</string>
+    <string name="er_app_anr">%s няма отговор</string>
+    <string name="er_app_crash">%s се затвори принудително</string>
+    <string name="er_app_crash_description_anr">"Приложението е затворено принудително, защото не отговаря"</string>
+    <string name="er_app_crash_description_oom">App force closed because it ran out of memory</string>
+    <string name="er_app_crash_description_other">App force closed due to an error</string>
+    <string name="er_app_crash_description_shell">App force closed due to a shell error</string>
+    <string name="er_app_description_native_oom">When an app runs out of memory, the screen might go black, start flashing, or the app might force close.</string>
+    <string name="er_app_update_button">Update</string>
+    <string name="er_exception_all">All issues</string>
+    <string name="er_exception_anr">No response</string>
+    <string name="er_exception_crash">Crash errors</string>
+    <string name="er_exception_npe">Null pointer exceptions</string>
+    <string name="er_exception_oom">Memory errors</string>
+    <string name="er_exception_other">Other</string>
+    <string name="er_exception_shell">Shell errors</string>
+    <string name="er_exception_type_title">All issues</string>
+    <string name="er_no_data">"Couldn't find results"</string>
+    <string name="er_notification_switch_content">Receive notifications about errors in third party apps</string>
+    <string name="er_notification_switch_title">Notify about errors</string>
+    <string name="er_wechat_update_64bit">Upgrade WeChat to the 64-bit version to increase stability</string>
 </resources>

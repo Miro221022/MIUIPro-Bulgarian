@@ -134,4 +134,6 @@
     <string name="fast_connect_new_feture_sound_normalizer">Нормализатор на звука</string>
     <string name="fast_connect_new_feture_title">Нови функции</string>
     <string name="fast_connect_same_accout_devices_title">Това е другото ви свързано устройство: %1$s</string>
+	    <string name="headset_loss_notify_summary">Изглежда поне една от вашите слушалки не е в кутията за зареждане. Проверете!</string>
+    <string name="headset_loss_notify_title">Предупреждение за липсваща слушалка</string>
 </resources>

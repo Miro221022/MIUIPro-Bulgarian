@@ -872,7 +872,7 @@
     <string name="alert_dialog_no">Не</string>
     <string name="alert_dialog_dismiss">Отхвърляне</string>
     <string name="voicemail_provider">Услуга за гласова поща</string>
-    <string name="voicemail_settings">Настройка на гласова поща</string>
+    <string name="voicemail_settings">Настройки на гласова поща</string>
     <string name="voicemail_number_not_set">&lt;не е зададен></string>
     <string name="other_settings">Други настройки за повикване</string>
     <string name="calling_via_template">Обаждане чрез %s</string>

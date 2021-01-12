@@ -55,7 +55,7 @@
   <string name="pref_title_data_slot">Предпочитана SIM карта за данни</string>
   <string name="pref_title_voice_slot">Предпочитана SIM карта за глас</string>
   <string name="privacy_policy">Политика за поверителност</string>
-  <string name="provision_inputmethod_policy_description">\nВижте Политиката за поверителност на избраната клавиатура.</string>
+  <string name="provision_inputmethod_policy_description"><Data>Вижте &lt;a href=%1$s>Политика за поверителност&lt;/a > на избраната клавиатура.</Data></string>
   <string name="provision_inputmethod_policy_description1">Политика за поверителност</string>
   <string name="setting_locale">Задаване на регион…</string>
   <string name="shut_down">Изключване</string>
