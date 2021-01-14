@@ -560,4 +560,21 @@
 	    <string name="detail_download_path">"Местоположение: "</string>
     <string name="detail_download_time">"Изтеглени: "</string>
 	<string name="user_protocol_and_privacy_protocol"><Data>"Прочетох и се съгласих с &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Политика за поверителност&lt;/a>."</Data></string>
+	    <string name="channel_pc_edit">Редактирано на компютъра</string>
+    <string name="channel_pc_upload">Качено от компютъра</string>
+    <string name="channel_pc_view">Видяно на компютъра</string>
+    <string name="channel_phone_edit">Редактирано на телефона</string>
+    <string name="channel_phone_upload">Качено от телефона</string>
+    <string name="channel_phone_view">Видяно от телефона</string>
+    <string name="channel_web_edit">Редактирано в браузъра</string>
+    <string name="channel_web_upload">Качено в браузъра</string>
+    <string name="channel_web_view">Видяно в браузъра</string>
+    <string name="delete_operation_record">Изтриване на този запис?</string>
+    <string name="delete_operation_record_timeout">"Записът не може да бъде изтрит. Изчакайте минута-две и опитайте отново."</string>
+    <string name="jump_to_directory">Отвори папката</string>
+    <string name="no_recent_activity">Тук няма последни елементи</string>
+    <string name="operation_dialog_jump_message">Отваряне на паката…</string>
+    <string name="operation_will_not_show_after_delete">Записът вече няма да се показва тук, ако го изтриете.</string>
+    <string name="recent_file">Последно</string>
+    <string name="recent_jump_to_privacy_fail_notice">Този файл е поверителен. Върнете се на началната страница и издърпайте надолу, за да видите.</string>
 </resources>

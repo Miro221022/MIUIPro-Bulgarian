@@ -86,11 +86,7 @@
     <string name="miui_ringer_status_open">Включване</string>
     <string name="miui_ringer_total">Не безпокойте</string>
     <string name="miui_ringer_total_description">Заглушаване на звуците и изключване на вибрациите за всички елементи, с изключение на будилника</string>
-    <string name="miui_toast_zen_dnd_to_off">Не безпокойте вече е изключен. Звуците и вибрациите са възстановявени до нормални стойности.</string>
-    <string name="miui_toast_zen_standard_to_off">Безшумният режим е изключен. Мелодиите на звънене са възстановявени до нормалното.</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Безшумният режим е изключен. Ще се възпроизвеждат мелодии, както и звуци за известия и медия.</string>
-    <string name="miui_toast_zen_to_dnd">Превключено към Не безпокойте. Звуците се заглушават и вибрациите вече са изключени.</string>
-    <string name="miui_toast_zen_to_standard">Превключено към безшумен режим. Мелодиите за обаждания и известия вече са заглушени.</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Превключено към безшумен режим. Мелодиите на звънене, както и звуците за известия и медия са заглушени.</string>
     <string name="power_off">Изключване</string>
     <string name="quick_settings_pcmode_dialog_description">Режимът на компютър поддържа задачи с няколко прозореца и може да се използва с клавиатура и мишка. Превключването в този режим ще затвори всички стартирани приложения. Някои приложения може да не поддържат режим компютър.</string>
@@ -112,7 +108,6 @@
     <string name="wireless_charging_saver_message">Пестенето на батерията е включено. Да се продължи ли с обратното безжично зареждане?</string>
     <string name="wireless_charging_saver_ok">Продължаване</string>
     <string name="wireless_charging_tips_disable">"Не показвай отново"</string>
-    <string name="wireless_charging_tips_message">Поставете устройства, които поддържат Qi безжично зареждане (телефони, аксесоари и др.) на гърба на това устройство.</string>
     <string name="wireless_charging_tips_title">Обратно безжично зареждане</string>
 	<string name="safe_media_volume_warning">"Повишаване на силата на звука над препоръчаното ниво?
  
@@ -156,4 +151,13 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Превключете на режим за въвеждане на текст</string>
     <string name="mtrl_picker_toggle_to_year_selection">Докоснете, за да превключите към избор на година</string>
     <string name="password_toggle_content_description">Покажи паролата</string>
+	<string name="dnd_popup_close_message">Разбрах</string>
+    <string name="dnd_popup_message">Можете да включите режима Не безпокойте, за да заглушите обажданията и известията, без да изключвате медийните звуци.</string>
+    <string name="miui_toast_zen_to_dnd_when_lock">Обажданията и известията ще бъдат заглушени, когато устройството е заключено</string>
+    <string name="wireless_charging_tips_sub_message">Другото устройство трябва да поддържа стандарта за Qi безжично зареждане.</string>
+    <string name="miui_toast_zen_dnd_to_off">"Обажданията и известията вече няма да бъдат заглушени"</string>
+    <string name="miui_toast_zen_standard_to_off">Безшумният режим е изключен</string>
+    <string name="miui_toast_zen_to_dnd">Обажданията и известията ще бъдат заглушени</string>
+    <string name="miui_toast_zen_to_standard">Безшумният режим е включен</string>
+    <string name="wireless_charging_tips_message">Поставете устройството, което искате да зареждате безжично (например телефон, умен часовник, слушалки) на гърба на този телефон. Уверете се, че този телефон е поне %d%% зсареден преди да използвате обратно безжично зареждане.</string>
 </resources>

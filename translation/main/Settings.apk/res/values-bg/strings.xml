@@ -7954,5 +7954,5 @@ UT интерфейс: %5$s"</string>
     <string name="switch_headset_anti_lost_summary">Получавайте предупреждение, когато една от слушалките ви е далеч от ухото или кутията за зареждане за повече от минута</string>
     <string name="switch_headset_anti_lost_title">Предупреждение за липсваща слушалка</string>
     <string name="wifi_enhanced_handover">Подобрено предаване</string>
-    <string name="wifi_enhanced_handover_summary">Бързо превключвайте между AP със същия метод на криптиране</string>
+   <string name="wifi_enhanced_handover_summary">Бързо превключвайте между различни точки за достъп</string>
 </resources>

@@ -136,4 +136,5 @@
     <string name="gb_game_speed_open">Режимът на светлинна скорост е включен</string>
     <string name="gb_game_speed_open_fail">"Не може да се включи режимът на светлинна скорост"</string>
 	<string name="install_success">%s Инсталирането е успешно</string>
+	<string name="gb_advance_settings_finger_up">Чувствителност към продължителни докосвания</string>
 </resources>

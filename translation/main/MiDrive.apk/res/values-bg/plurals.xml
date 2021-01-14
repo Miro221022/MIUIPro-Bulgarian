@@ -60,4 +60,8 @@
     <item quantity="other">Качва се… %1$d елемента остават (%2$s%%)</item>
     <item quantity="one">Качва се… %1$d елемент остава (%2$s%%)</item>
   </plurals>
+      <plurals name="view_all">
+        <item quantity="other">1$d елемента</item>
+        <item quantity="one">%1$d елемент</item>
+    </plurals>
 </resources>

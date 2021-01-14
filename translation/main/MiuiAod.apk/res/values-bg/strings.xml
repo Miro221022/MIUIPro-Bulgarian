@@ -176,4 +176,5 @@
     <string name="on">Включен</string>
     <string name="scheduled_style_summary">Задайте персонализирано време</string>
     <string name="temporary_style_summary">Препоръчано</string>
+	<string name="aod_theme_store">Теми</string>
 </resources>
