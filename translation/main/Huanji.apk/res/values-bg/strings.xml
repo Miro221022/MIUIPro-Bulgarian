@@ -1171,4 +1171,5 @@
 	    <string name="title_open_wlan">Включване на WLAN</string>
     <string name="title_request_alert_window_perm">Позволи плаващи прозорци</string>
 	 <string name="title_request_write_settings_perm">Разрешаване на промяна на системните настройки</string>
+	  <string name="host_new_device_hint">Това устройство</string>
 </resources>

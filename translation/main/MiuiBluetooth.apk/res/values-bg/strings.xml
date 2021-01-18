@@ -130,10 +130,17 @@
     <string name="headset_update_failed">"Не може да се актуализира"</string>
     <string name="headset_update_ok">Готово</string>
     <string name="headset_updating">Актуализиране</string>
-    <string name="fast_connect_new_feture_same_account">Същият профил без сдвояване</string>
-    <string name="fast_connect_new_feture_sound_normalizer">Нормализатор на звука</string>
-    <string name="fast_connect_new_feture_title">Нови функции</string>
-    <string name="fast_connect_same_accout_devices_title">Това е другото ви свързано устройство: %1$s</string>
 	    <string name="headset_loss_notify_summary">Изглежда поне една от вашите слушалки не е в кутията за зареждане. Проверете!</string>
     <string name="headset_loss_notify_title">Предупреждение за липсваща слушалка</string>
+	    <string name="fast_connect_anti_lost_content">"Настройте предупреждение, което ще се появи, когато една от слушалките ви липсва.
+Проверете настройките за подробности."</string>
+    <string name="fast_connect_new_feture_anti_lost">Предупреждение за липсваща слушалка</string>
+    <string name="fast_connect_new_feture_same_account">Свържете синхронизираните устройства</string>
+    <string name="fast_connect_new_feture_sound_normalizer">По-добър звук</string>
+    <string name="fast_connect_new_feture_title">"Какво ново"</string>
+    <string name="fast_connect_same_account_content">Bluetooth устройствата могат да се синхронизират с вашия Mi профил и да се свързват без сдвояване на други устройства.</string>
+    <string name="fast_connect_same_accout_devices_connecting">Свързване чрез Xiaomi Облак…</string>
+    <string name="fast_connect_same_accout_devices_title">"Свързахте %1$s с други устройства"</string>
+    <string name="fast_connect_sound_normalizer_content">"По-добър звук при гласови разговори.
+Протокол за по-бърза връзка."</string>
 </resources>

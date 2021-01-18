@@ -692,7 +692,6 @@
     <string name="interact_across_profiles_install_work_app_title">За да свържете тези приложения, инсталирайте %1$s iвъв вашия работен профил</string>
     <string name="interact_across_profiles_summary_2">Свързвайте приложения само ако им се доверите да не споделят лични данни с вашия IT администратор.</string>
     <string name="other_conversations">Други разговори</string>
-    <string name="ringer_mode_setting_summary">Заглушаване на входящите повиквания и известия</string>
     <string name="wifi_no_internet">"Не може да се свърже с интернет"</string>
     <string name="wifi_no_internet_no_reconnect">"Не може да се свърже с интернет"</string>
 	<string name="dndm_wristband_detailed">"Включете Не ме безпокойте, ако вашето преносимо устройство установи, че спите в рамките на един час преди планираното начално време"</string>
@@ -720,5 +719,12 @@
     <string name="zen_mode_auto_rule">Планирани сесии за Не ме безпокойте</string>
     <string name="zen_mode_lockscreen">Когато е заключен</string>
     <string name="zen_mode_more_actions">Още опции за Не ме безпокойте</string>
-    <string name="zen_mode_summary2">Заглушаване на обажданията и известията, изключване на вибрацията</string>
+	<string name="mute_media_sound_summary">Игри, музика, видео и други приложения</string>
+	    <string name="alarm_volume_option_title">Аларма</string>
+    <string name="media_volume_option_title">Медия</string>
+    <string name="repeat_call_info">Звънене или вибриране, докато приемате второто обаждане от същия телефонен номер в рамките на %d минути</string>
+    <string name="ring_volume_option_title">Мелодия на звънене</string>
+    <string name="ringer_mode_setting_summary">Заглушаване на обажданията и известията</string>
+    <string name="vip_list">Известяване за обаждания</string>
+    <string name="zen_mode_summary2">"Няма да има напомняния за входящи повиквания и известия"</string>
 </resources>

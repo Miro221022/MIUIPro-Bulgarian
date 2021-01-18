@@ -222,4 +222,29 @@
     <string name="trust_device_manager">Управление на надеждни устройства</string>
     <string name="trust_device_none">Тук няма надеждни устройства</string>
     <string name="trust_device_title">Доверени устройства</string>
+	    <string name="close">Затвори</string>
+    <string name="date_time_picker_dialog_title">Задайте дата и час</string>
+    <string name="global_privacy">Правила и условия</string>
+    <string name="global_privacy_detail"><Data>"Прочетете и приемете нашите &lt;a href=%1$s>Потребителско споразмение&lt;/a> и &lt;a href=%2$s>Политика за поверителност&lt;/a> преди да използвате това приложение.&lt;br>Ако не сте съгласни да използвате гореспоменатите услуги, няма да можете да използвате някои функции на това приложение; основната му функционалност обаче ще остане достъпна за вас."</Data></string>
+    <string name="global_privacy_explain">Добре дошли в Излъчване! Това приложение предлага следните услуги:</string>
+    <string name="global_privacy_feature">Използване на минимизирани прозорци, излъчване с изключен екран и скриване на поверителни елементи.</string>
+    <string name="global_privacy_main">"Прожектиране на елементите от екрана на телефона на по-голям външен монитор."</string>
+    <string name="global_privacy_negative">"Не приемам"</string>
+    <string name="global_privacy_positive">Приемам</string>
+    <string name="global_privacy_tip"><Data>Трябва да съберем необходимата лична информация, за да ви предоставим основните услуги и да оптимизираме процеса на излъчване. Можете да научите как се разпореждаме с информацията, която събираме в нашата &lt;a href=%1$s>Политиказа поверителност&lt;/a>. Можете да оттеглите съгласието си с Политиката за поверителност в Настройки по всяко време.</Data></string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_action_mode_select_all">Избери всички</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Изберете елементи</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Още</string>
+    <string name="miuix_appcompat_cancel_description">Отказ</string>
+    <string name="miuix_appcompat_confirm_description">Потвърди</string>
+    <string name="miuix_appcompat_delete_description">Изтрий</string>
+    <string name="miuix_appcompat_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
+    <string name="miuix_appcompat_search_input_description">Търсене</string>
+    <string name="miuix_appcompat_select_all">Избери всички</string>
+    <string name="miuix_appcompat_select_all_description">Избери всички</string>
+    <string name="miuix_appcompat_select_item">Изберете елементи</string>
+    <string name="send">Изпрати</string>
 </resources>

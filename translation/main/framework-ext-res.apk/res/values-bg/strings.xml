@@ -367,4 +367,5 @@
     <string name="dock_tip_splitscreen_portrait_drag">Плъзнете лентата вертикално, за да размените позициите на двата прозореца на приложенията.</string>
     <string name="dock_tip_splitscreen_portrait_float">Задръжте и плъзнете отляво или отдясно на екрана, за да превключите към плаващ прозорец.</string>
     <string name="miui_multiwindow_not_support_split">%1$s не поддържа разделен екран.</string>
+	<string name="turn_on_work_profile">Включи</string>
 </resources>
