@@ -1268,7 +1268,6 @@
 	    <string name="module_name_super_moon">Супер луна</string>
     <string name="pixel_ai_108">AI 100М ултра ярко</string>
     <string name="pixel_ai_108_close">Затворете AI 100М ултра ярко</string>
-	    <string name="pref_camera_dynamic_frame_rate_summary">Намаляване на честотата на кадрите при слаба осветеност от %1$d на %2$d кад/с за подобряване на качеството на видеото</string>
     <string name="pref_camera_dynamic_frame_rate_title">Регулиране на честотата на кадрите към слабата осветеност</string>
     <string name="pref_camera_fastmotion_duration">Продължителност</string>
     <string name="pref_camera_fastmotion_duration_description">Продължителността на снимачната сесия е неограничена по подразбиране. Можете също така да зададете таймера, който ще спре сесията във определен момент.</string>
@@ -1406,7 +1405,6 @@
     <string name="ai_scene_mode_tower">Кула</string>
     <string name="ai_scene_mode_tutuk">Триколка</string>
     <string name="ai_scene_mode_unknown">Неизвестно</string>
-    <string name="pref_camera_high_quality_preferred_description">Подобряване на качеството на изображението, използвайки интелигентния алгоритъм. Скоростта на заснемане на изображение може да намалее, когато тази функция е включена.</string>
     <string name="pref_camera_high_quality_preferred_title">Подобряване на качеството на изображението</string>
     <string name="pref_hdr10_video_mode_description">Оптимизирайте цветовете и контраста за 4K и 8K видеоклипове автоматично. Оптимизираните видеоклипове могат да се възпроизвеждат само на съвместими с HDR10 устройства.</string>
 	 <string name="pano_click_to_toggle_direction">Докоснете стрелката, за да превключите посоката</string>
@@ -1689,6 +1687,10 @@
     <string name="video_effect_entry_summer_day_describe">Ниският контраст и ярките тонове се представят добре, когато трябва да запазите тона на кожата. Този филтър е подходящ за слънчеви сцени на открито.</string>
 	    <string name="close_night_algo_toast_low_power">Заредете устройството си, за да можете да зададете експонация</string>
     <string name="close_night_algo_toast_thermal">Охладете устройството си, за да можете да зададете експозиция</string>
-	    <string name="pref_super_night_se_summary">Разпознаването на среда с тъмна светлина автоматично ще задейства нощно заснемане и ще подобри ефекта на изображението чрез алгоритми</string>
     <string name="pref_super_night_se_title">Автоматичен нощен режим</string>
+    <string name="pref_camera_high_quality_preferred_description">Подобряване на качеството на изображението с помощта на интелигентния алгоритъм. Скоростта на заснемане на изображението може да намалее, когато тази функция е включена. Нощният режим ще се включи автоматично, когато бъдат открити условия на слаба светлина.</string>
+    <string name="pref_super_night_se_summary">Откриване на условията на слаба светлина и подобряване на качеството на изображението автоматично</string>
+	    <string name="pref_camera_dynamic_frame_rate_summary">Честотата на кадрите ще бъде намалена автоматично при условия на слаба осветеност, за да се подобри качеството на видеото</string>
+    <string name="pref_camera_predictive_shutter_description">Проследявайте движението, за да сведете до минимум размазването на снимките на деца, домашни любимци и други активни обекти</string>
+    <string name="pref_camera_predictive_shutter_title">Проследяване на движението</string>
 </resources>

@@ -754,4 +754,26 @@ You can get a %d-дневен безплатен пробен период се�
         <item quantity="one">Въведете %s цифра</item>
         <item quantity="other">Въведете %s цифри</item>
     </plurals>
+	    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Гледате видеоклипове %d часа.
+Починете си!"</item>
+        <item quantity="one">"Гледате видеоклипове %d час.
+Починете си!"</item>
+    </plurals>
+	    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="one">Деинсталиране на %d приложение</item>
+        <item quantity="other">Деинсталиране на %d приложения</item>
+    </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="one">Налични са актуализации за %d приложение</item>
+        <item quantity="other">Налични са актуализации за %d приложения</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>Можете да деинсталирате &lt;font color=#F22424>%d&lt;/font> приложения&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можете да деинсталирате &lt;font color=#F22424>%d&lt;/font> приложение&lt;/Data></item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Актуализиране на &lt;font color=#F22424>%d&lt;/font> приложения&lt;/Data></item>
+        <item quantity="one">&lt;Data>Актуализиране на &lt;font color=#F22424>%d&lt;/font> приложение&lt;/Data></item>
+    </plurals>
 </resources>

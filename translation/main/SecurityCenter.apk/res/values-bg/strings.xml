@@ -3462,7 +3462,6 @@
     <string name="first_settings_share_enable_subtitle">Елементите, които споделяте в WeChat, ще се показват със значка MIUI</string>
     <string name="first_settings_subtitle">Тук са достъпни опциите за безопасно споделяне:</string>
     <string name="first_settings_title">Защитете поверителността си</string>
-    <string name="loading_text_format" formatted="false">Премахване на лична информация от снимките (%d/%d)…</string>
     <string name="notification_garbage_clean_botton_text">Изчисти</string>
     <string name="notification_garbage_clean_hint">Почистване на място за съхранение</string>
     <string name="notification_garbage_clean_size">Освобождаване на %s</string>
@@ -3650,7 +3649,6 @@
     <string name="exit_dialog_release_memory_positive_button">Затвори</string>
     <string name="exit_dialog_release_memory_title"><Data>Ускорете устройството си с &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="menu_item_notification_optimize_text">%d%% заето</string>
-    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s заето</string>
     <string name="stranger_call_dialog_add_block_list">Блокиране</string>
     <string name="stranger_call_dialog_add_contacts">Нов контакт</string>
     <string name="stranger_call_dialog_notification_body">Добавете към контакти или блокирайте този номер</string>
@@ -3912,7 +3910,6 @@
     <string name="pp_icon_layout_status_bg_content_enable">Защитено</string>
     <string name="pp_icon_layout_status_bg_content_unable">Изключено</string>
     <string name="pp_interception_net_visit_content_manager">Защитете галерията и приложенията за социални медии</string>
-    <string name="pp_interception_net_visit_content_manager_detail">Изберете на кои приложения е разрешен достъп до вашите снимки, видеоклипове и история на чатовете</string>
     <string name="pp_local_msg">Информация за местоположението</string>
     <string name="pp_manage_apps_location_information">Разрешете на приложенията да имат достъп до вашето местоположение</string>
     <string name="pp_one_app_two_use">Използвайте два профила, без да излизате</string>
@@ -3935,7 +3932,6 @@
     <string name="pp_prohibit_use_camera_in_background_detail">"Приложенията няма да могат да използват камерата във фонов режим по подразбиране"</string>
     <string name="pp_record_msg">Запис на звук</string>
     <string name="pp_safe_box">Поверително пространство</string>
-    <string name="pp_safe_box_detail">За да защити поверителността ви, MIUI ви позволява да контролирате как приложенията имат достъп до вашите снимки и история на чат в социалните медии.</string>
     <string name="pp_safe_box_summary">Защита на поверителността</string>
     <string name="pp_safe_input_pwd">Защитете паролите си</string>
     <string name="pp_safe_keyboard">Сигурна клавиатура</string>
@@ -4163,7 +4159,7 @@
     <string name="allow_all">Разреши всички</string>
     <string name="app_behavior_access_gallery">%1s получи достъп до галерията</string>
     <string name="app_behavior_access_gallery_single">Това приложение има достъп до галерията</string>
-    <string name="app_behavior_access_sociality">%1s получи достъп до съобщения в приложения за социални медии</string>
+    <string name="app_behavior_access_sociality">%1s получи достъп до съобщения до приложения за социални медии</string>
     <string name="app_behavior_access_sociality_single">Това приложение има достъп до съобщения в приложения за социални медии</string>
     <string name="app_behavior_delete_pic">%1s изтрити елемента от галерията</string>
     <string name="app_behavior_delete_pic_single">Това приложение изтри елементите от галерията</string>
@@ -4236,4 +4232,47 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="in_delete">Изтриване…</string>
     <string name="in_recover">Възстановяване…</string>
     <string name="setting_online_service">Онлайн услуги</string>
+	    <string name="gb_adv_touch_adv_title">Класически режим (по подразбиране)</string>
+    <string name="gb_adv_touch_custom1">Отговор при плъзгане</string>
+    <string name="gb_adv_touch_custom2">Чувствителност към непрекъснати докосвания</string>
+    <string name="gb_adv_touch_custom3">Точност</string>
+    <string name="gb_adv_touch_custom4">Стабилност на докосването</string>
+    <string name="gb_adv_touch_custom_tip1">По-високата реакция на плъзгане увеличава скоростта на реакция на този жест, докато по-ниската реакция на плъзгане прави жеста по-стабилен.</string>
+    <string name="gb_adv_touch_custom_tip2">По-високата чувствителност към непрекъснати докосвания увеличава скоростта на реакция към този жест, докато по-ниската чувствителност прави жеста по-стабилен.</string>
+    <string name="gb_adv_touch_custom_tip3">По-високата точност на прицелване прави по-малки прекарвания по-точни, докато по-ниската точност на прицелване прави този жест по-стабилен.</string>
+    <string name="gb_adv_touch_custom_tip4">По-високата стабилност на докосването прави докосванията по-стабилни, докато по-ниската стабилност на докосването увеличава точността на по-малките движения.</string>
+    <string name="gb_adv_touch_custom_title">Персонализиране</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Този режим е предназначен за професионални играчи. Редовните играчи могат да намерят този режим за неудобен.</string>
+    <string name="gb_adv_touch_mode_select_title">Жестове</string>
+    <string name="gb_adv_touch_pro_title">Про режим</string>
+    <string name="gtb_spring_festival_back_game">Обратно в играта</string>
+    <string name="gtb_spring_festival_goto_gameturbo">Преглед</string>
+    <string name="summary_password_manager">Мениджърът на пароли ви позволява да шифровате паролите си и да ги съхранявате в облака</string>
+    <string name="title_password_manager">Включете мениджъра на пароли</string>
+    <string name="vb_video_super_division">Повишаване</string>
+    <string name="vb_video_super_division_desc">"Повишаване на резолюция автоматично, когато е ≤720p.
+	
+Използването на тази функция увеличава консумацията на енергия.
+
+Тази функция не работи при изглаждане на движението.
+Включването на една от функциите ще изключи другата."</string>
+    <string name="vb_video_super_division_tips">"Не е достатъчно ясно?
+Опитайте увеличение на резолюцията!"</string>
+    <string name="menu_text_deepclean_summary">%1$s/%2$s заето</string>
+    <string name="pp_interception_net_visit_content_manager_detail">Изберете на кои приложения е разрешен достъп до галерията и файловете от вашите приложения в социалните медии</string>
+    <string name="pp_safe_box_detail">"Поверителните елементи се криптират и съхраняват само на това устройство. Други хора няма да имат достъп до тях, докато използват това устройство, а самото устройство няма да има достъп до криптирани елементи и да ги използва по какъвто и да е начин."</string>
+	<string name="app_manager_tab_app">Приложения</string>
+    <string name="app_manager_tab_manager">Управление</string>
+    <string name="app_manager_to_appstore">Открийте още приложения</string>
+    <string name="app_manager_uninstall_button_text">Деинсталиране</string>
+    <string name="app_manager_uninstall_notify_title">Деинсталирайте рядко използваните приложения</string>
+    <string name="app_manager_update">Актуализиране</string>
+    <string name="app_manager_updater_notify_message">Актуализирайте приложенията за достъп до нови функции</string>
+    <string name="card_uninstall_button_text">Управление</string>
+    <string name="card_uninstall_summary">Деинсталирайте рядко използвани приложения, за да освободите място за съхранение</string>
+    <string name="card_uninstall_title_1">Деинсталирайте рядко използваните приложения</string>
+    <string name="power_center_battery_health_poor_tip">Изглежда здравето на батерията е занижено. Проверете батерията си в оторизиран сервизен център</string>
+    <string name="power_center_battery_health_summary">Напълно заредете и разредете устройството си %1$d-%2$d пъти за подобряване на точността на статистическите данни за състоянието на батерията</string>
+    <string name="summary_app_update_new">Актуализирайте приложенията за достъп до нови функции</string>
+	<string name="loading_text_format" formatted="false">Проверка дали снимките съдържат лична информация (%d/%d)…</string>
 </resources>

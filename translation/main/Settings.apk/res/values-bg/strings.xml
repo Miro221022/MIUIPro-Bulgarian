@@ -7955,4 +7955,17 @@ UT интерфейс: %5$s"</string>
     <string name="switch_headset_anti_lost_title">Предупреждение за липсваща слушалка</string>
     <string name="wifi_enhanced_handover">Подобрено предаване</string>
    <string name="wifi_enhanced_handover_summary">Бързо превключвайте между различни точки за достъп</string>
+       <string name="miheadet_up_music">Предишна песен</string>
+    <string name="miheadset_active">Енергично</string>
+    <string name="miheadset_bright">Ярко</string>
+    <string name="miheadset_define_self">Потребителско</string>
+    <string name="miheadset_enhence_high">Подобрени високи честоти</string>
+    <string name="miheadset_enhence_low">Подобрен бас</string>
+    <string name="miheadset_formal">Стандартно</string>
+    <string name="miheadset_local_ota">Актуализирай</string>
+    <string name="miheadset_next">Следваща песен</string>
+    <string name="miheadset_play_pause">Изпълни/Пауза</string>
+    <string name="miheadset_soft">Меко</string>
+	    <string name="accessibility_back">Назад</string>
+    <string name="accessibility_clear">Изчисти</string>
 </resources>

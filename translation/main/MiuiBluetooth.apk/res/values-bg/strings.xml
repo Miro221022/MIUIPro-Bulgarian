@@ -143,4 +143,5 @@
     <string name="fast_connect_same_accout_devices_title">"Свързахте %1$s с други устройства"</string>
     <string name="fast_connect_sound_normalizer_content">"По-добър звук при гласови разговори.
 Протокол за по-бърза връзка."</string>
+<string name="fast_connect_same_accout_ok">Разбрах</string>
 </resources>

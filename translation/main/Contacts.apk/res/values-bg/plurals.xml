@@ -201,4 +201,12 @@
         <item quantity="other">%1$d елемента</item>
         <item quantity="one">%1$d елемент</item>
     </plurals>
+	    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">Изтрити са %d контакта за постоянно</item>
+        <item quantity="one">Изтрит е %d контакт за постоянно</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">Възстановени са %d контакта за постоянно</item>
+        <item quantity="one">Въстановен е %d контакт за постоянно</item>
+    </plurals>
 </resources>

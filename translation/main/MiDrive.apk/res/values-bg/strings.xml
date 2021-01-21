@@ -577,4 +577,5 @@
     <string name="operation_will_not_show_after_delete">Записът вече няма да се показва тук, ако го изтриете.</string>
     <string name="recent_file">Последно</string>
     <string name="recent_jump_to_privacy_fail_notice">Този файл е поверителен. Върнете се на началната страница и издърпайте надолу, за да видите.</string>
+	 <string name="home_action_up">Назад</string>
 </resources>

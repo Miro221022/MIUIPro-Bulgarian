@@ -1642,7 +1642,7 @@
     <string name="share_card_title_elliptical_trainer">Елипсовидно</string>
     <string name="share_card_title_free_training">Тренировка свободен стил</string>
     <string name="share_card_title_indoor_rinding">Стационарен велосипед %s</string>
-    <string name="share_card_title_indoor_running">Бягане %s</string>
+    <string name="share_card_title_indoor_running">Бягане на закрито %s</string>
     <string name="share_card_title_open_swimming">Плуване в открита вода %s</string>
     <string name="share_card_title_outdoor_hiking">Туризъм %s</string>
     <string name="share_card_title_outdoor_riding">Колоездене %s</string>
@@ -1662,4 +1662,9 @@
 	    <string name="sport_tts_1">Едно</string>
     <string name="sport_tts_2">Две</string>
     <string name="sport_tts_3">Три</string>
+	    <string name="dialog_new_version_title">Налична е актуализация</string>
+    <string name="discard_update">Не благодаря</string>
+    <string name="find_new_verision">Версия %s е налична сега</string>
+    <string name="immediately_experience">Актуализиране</string>
+    <string name="location_perm_description">За проследяване на тренировки на открито и записване на маршрути</string>
 </resources>

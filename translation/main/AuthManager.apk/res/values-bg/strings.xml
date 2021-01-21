@@ -241,4 +241,5 @@
     <string name="gold_master_dialog_title">%1$s иска да получи досъп до буферната памет</string>
     <string name="keep_blur_location">Не</string>
     <string name="stop_blur_location">Да</string>
+	<string name="date_time_picker_dialog_title">Задавне на дата и час</string>
 </resources>

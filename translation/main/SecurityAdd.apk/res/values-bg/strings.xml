@@ -137,4 +137,17 @@
     <string name="gb_game_speed_open_fail">"Не може да се включи режимът на светлинна скорост"</string>
 	<string name="install_success">%s Инсталирането е успешно</string>
 	<string name="gb_advance_settings_finger_up">Чувствителност към продължителни докосвания</string>
+		    <string name="gb_adv_touch_adv_title">Класически режим (по подразбиране)</string>
+    <string name="gb_adv_touch_custom1">Отговор при плъзгане</string>
+    <string name="gb_adv_touch_custom2">Чувствителност към непрекъснати докосвания</string>
+    <string name="gb_adv_touch_custom3">Точност</string>
+    <string name="gb_adv_touch_custom4">Стабилност на докосването</string>
+    <string name="gb_adv_touch_custom_tip1">По-високата реакция на плъзгане увеличава скоростта на реакция на този жест, докато по-ниската реакция на плъзгане прави жеста по-стабилен.</string>
+    <string name="gb_adv_touch_custom_tip2">По-високата чувствителност към непрекъснати докосвания увеличава скоростта на реакция към този жест, докато по-ниската чувствителност прави жеста по-стабилен.</string>
+    <string name="gb_adv_touch_custom_tip3">По-високата точност на прицелване прави по-малки прекарвания по-точни, докато по-ниската точност на прицелване прави този жест по-стабилен.</string>
+    <string name="gb_adv_touch_custom_tip4">По-високата стабилност на докосването прави докосванията по-стабилни, докато по-ниската стабилност на докосването увеличава точността на по-малките движения.</string>
+    <string name="gb_adv_touch_custom_title">Персонализиране</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Този режим е предназначен за професионални играчи. Редовните играчи могат да намерят този режим за неудобен.</string>
+    <string name="gb_adv_touch_mode_select_title">Жестове</string>
+    <string name="gb_adv_touch_pro_title">Про режим</string>
 </resources>

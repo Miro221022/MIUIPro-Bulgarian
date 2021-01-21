@@ -1497,4 +1497,15 @@
     <string name="restore_app_btn_restore">OK</string>
     <string name="restore_app_description_content">Добавете пряк път към началния екран, за да имате достъп до контактите си по-бързо.</string>
     <string name="restore_app_description_title">Добавяне на \"Контакти\" на началния екран?</string>
+	<string name="cancel">Отказ</string>
+    <string name="contacts_trash_activity_hint">Изберете контакти за възстановяване</string>
+    <string name="contacts_trash_activity_title">Наскоро изтрити контакти</string>
+    <string name="contacts_trash_delete">Изтриване</string>
+    <string name="contacts_trash_delete_dialog_continue">Изтриване</string>
+    <string name="contacts_trash_delete_dialog_hint">"Няма да можете да върнете това."</string>
+    <string name="contacts_trash_delete_dialog_loading">Изтриване…</string>
+    <string name="contacts_trash_delete_dialog_title">Да се изтрият ли избраните контакти?</string>
+    <string name="contacts_trash_restore">Възстановяване</string>
+    <string name="contacts_trash_restore_loading">Възстановяване…</string>
+    <string name="ensure">OK</string>
 </resources>

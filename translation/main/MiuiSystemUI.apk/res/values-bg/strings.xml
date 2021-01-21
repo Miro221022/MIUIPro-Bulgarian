@@ -2054,4 +2054,13 @@ WLAN адрес (BSSID)
     <string name="zen_mode_warnings_quit_immediately">Изключване</string>
     <string name="zen_mode_warnings_title">Не безпокойте е включен</string>
     <string name="memory_leak">Изтичане на памет</string>
+	    <string name="accessibility_enter_lock_setting">Докоснете, за да отворите настройките за Ежедневни тапети</string>
+    <string name="accessibility_keyboard_delete_button">Изтриване</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Клавиш за главни букви</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Цифри</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Символи</string>
+    <string name="accessibility_keyboard_ok_button">Въвежане</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Букви</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Заключване на символите</string>
+    <string name="accessibility_keyguard_face_unlock_view">Отключване с лице</string>
 </resources>

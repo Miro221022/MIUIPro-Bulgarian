@@ -288,4 +288,8 @@
     <string name="provision_next">Следващо</string>
     <string name="provision_skip_underline">Пропускане</string>
 	<string name="boot_video_desc">Вижте света в 2K</string>
+	    <string name="privacy_provision_more">Научете повече за защитата на поверителността</string>
+    <string name="privacy_provision_summary">Защитата на поверителността е ангажиментът, който стои зад дизайна на нашите продукти</string>
+    <string name="privacy_provision_text">Ние се ангажираме да уважаваме и защитаваме вашата поверителност. Приоритизирайки научните изследвания и разработките в областта на информационната сигурност, Xiaomi непрекъснато работи за подобряване на методите, практиките и техническите решения, които защитават вашите данни. Също така споделяме най-новите си постижения с нашите партньори, за да осигурим поверителността ви.</string>
+    <string name="privacy_provision_title">Поверителност</string>
 </resources>
