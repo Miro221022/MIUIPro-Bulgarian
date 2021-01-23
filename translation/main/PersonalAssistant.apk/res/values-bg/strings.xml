@@ -1698,4 +1698,16 @@
     <string name="app_sports_fav_cancel_club">Премахване на този клуб</string>
     <string name="app_sports_fav_cancel_league">Премахване на тази лига</string>
     <string name="app_sports_fav_title">Моята грижа</string>
+	     <string name="app_sports_fav_cancel_multi_league_content" formatted="false">"Графикът на клуба в %s и %s вече няма да бъде изпращан до вас"</string>
+     <string name="app_sports_title_tip">Данни, свързани с мача, предоставени от трета страна</string>
+     <string name="app_health_setting_music_name_fire">Огън</string>
+     <string name="app_health_setting_music_name_forest">Гора</string>
+     <string name="app_health_setting_music_name_night">Лятна нощ</string>
+     <string name="app_health_setting_music_name_ocean">Плаж</string>
+     <string name="app_health_setting_music_name_rain">Дъжд</string>
+     <string name="app_health_setting_text_default_duration">Продължителност</string>
+     <string name="app_health_setting_text_download_alert_message">"Изглежда, че не сте свързани с WLAN. Да се използват %1$s мобилни данни за изтегляне на елементи?"</string>
+     <string name="app_health_setting_text_sleep_aid_settings">Сън</string>
+     <string name="app_health_setting_text_title">Здраве</string>
+     <string name="app_travel_card_none">Няма данни</string>
 </resources>

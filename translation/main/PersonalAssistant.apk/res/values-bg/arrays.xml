@@ -38,4 +38,10 @@
         <item>Нормален</item>
         <item>Голям</item>
     </string-array>
+	  <string-array name="app_health_setting_text_array_duration">
+        <item>10 мин.</item>
+        <item>20 мин.</item>
+        <item>30 мин.</item>
+        <item>60 мин.</item>
+    </string-array>
 </resources>

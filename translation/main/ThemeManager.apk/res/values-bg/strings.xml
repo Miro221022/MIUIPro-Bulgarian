@@ -1174,10 +1174,24 @@ M/dd"</string>
     <string name="restore_icon_later">Можете отново да добавите пряк път към началния екран в Настройки</string>
     <string name="uninstall_theme">Премахване на \"Теми\" от началния екран?</string>
     <string name="uninstall_theme_description">"Теми е системно приложение. То осигурява тапети и множество опции за персонализация. Все още ще можете да използвате Теми чрез Настройки, след като премахнете прякия път от началния екран."</string>
-    <string name="exo_controls_next_description">Следваща</string>
+    <string name="exo_controls_next_description">Следваща песен</string>
     <string name="exo_controls_previous_description">Предишна</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
 	<string name="super_wallpaper_list_footer_text">Следете за новите ни версии!</string>
+	 <string name="can_not_apply_error">"Този видео формат не се поддържа"</string>
+     <string name="can_not_apply_size_invalid">Това видео е твърде голямо</string>
+     <string name="font_compat_dialog_buy_confirm">Купи</string>
+     <string name="font_compat_dialog_buy_content">Шрифтовете на трети страни може да не се поддържат от някои приложения. Този проблем със съвместимостта ще бъде отстранен от предстояща актуализация на системата. Да се закупи ли този шрифт все пак?</string>
+     <string name="font_compat_dialog_cancel">Отказ</string>
+     <string name="font_compat_dialog_download_confirm">Изтегляне</string>
+     <string name="font_compat_dialog_download_content">Шрифтовете на трети страни може да не се поддържат от някои приложения. Този проблем със съвместимостта ще бъде отстранен от предстояща актуализация на системата. Са се изтегли ли този шрифт все пак?</string>
+     <string name="font_compat_dialog_title">Проблеми със съвместимостта</string>
+     <string name="font_compat_dialog_trial_confirm">Опитай</string>
+     <string name="font_compat_dialog_trial_content">Шрифтовете на трети страни може да не се поддържат от някои приложения. Този проблем със съвместимостта ще бъде отстранен от предстояща актуализация на системата. Ще опитате ли този шрифт все пак?</string>
+     <string name="hide_retract_button">Скрий</string>
+     <string name="scrollable_wallpaper_close">Изключено превъртане</string>
+     <string name="scrollable_wallpaper_open">Включено превъртане</string>
+     <string name="set_as_colorring">Задай като персонализиран тон на звънене</string>
 </resources>

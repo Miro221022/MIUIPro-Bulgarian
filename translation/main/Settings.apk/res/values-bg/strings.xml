@@ -7784,13 +7784,10 @@ UT интерфейс: %5$s"</string>
     <string name="headset_remove_message_indicate">Всички устройства, свързани с Xiaomi профила, ще бъдат премахнати</string>
     <string name="miheadset_in_ear_check_summary">Пауза и възобновяване на възпроизвеждането автоматично, когато слагате или сваляте слушалки</string>
     <string name="miheadset_moreSettingsInAi">Допълнителни настройки</string>
-    <string name="miheadset_next">следващо</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Потискане на шума</string>
-    <string name="miheadset_play_pause">изпълни/пауза</string>
     <string name="miheadset_rename">Преименуване</string>
     <string name="miheadset_rename_device">Преименуване</string>
-    <string name="miheadset_soft">Мек</string>
     <string name="miheadset_transparent">Прозрачност</string>
 	<string name="adjust_font_size_answer_cn">Опитайте да коригирате размера на текста и едрината на шрифта, като използвате плъзгачите по-долу!</string>
     <string name="adjust_font_size_answer_global">Опитайте да коригирате размера на текста, като използвате плъзгача по-долу!</string>
