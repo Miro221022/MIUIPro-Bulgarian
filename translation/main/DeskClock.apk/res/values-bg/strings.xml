@@ -463,4 +463,5 @@
 	    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
+	<string name="voice_add_alarm">Добавете аларма с гласова команда</string>
 </resources>

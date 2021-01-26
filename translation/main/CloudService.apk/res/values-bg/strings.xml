@@ -1080,4 +1080,25 @@
 	<string name="retain_data_high_quality_photo_waring_message">Висококачествените изображения ще бъдат изтрити от вашата галерия, след като излезете. Съответните оригинални файлове все още ще се съхраняват в облака. Можете също да изтеглите оригинални файлове, преди да излезете.</string>
     <string name="retain_data_high_quality_photo_waring_title">"Висококачествените изображения няма да бъдат налични"</string>
     <string name="share_location_menu_create_shortcut">Пряк път на началния екран</string>
+	<string name="device_activation_card_cannot_get_yet">"Не може да се получи информация. Опитайте отново след 3-5 дни."</string>
+    <string name="device_activation_card_description">"Първото активиране се регистрира, когато дадено устройство се свърже с мрежата (включително, но не само Wi-Fi и мобилни мрежи) за първи път. Обикновено отнема известно време, за да регистрирате първото активиране, така че е по-добре да изчакате 3-5 дни след свързването към мрежата, преди да проверите състоянието на активиране.&lt;br>&lt;br>Активирането на устройството е основният фактор за определяне на срока на валидност на нашата разширена гаранция. Проверете нашата &lt;a href=%1$s>Политика за размяна и ремонт&lt;/a> за още подробности.&lt;br>&lt;br>Обадете се на нашата гореща линия за поддръжка на клиенти, ако имате някакви въпроси: 400-100-5678."</string>
+    <string name="device_activation_card_description_china">"Първото активиране се регистрира, когато дадено устройство се свърже за пръв път с мрежата (включително, но не само WLAN и мобилни мрежи). Обикновено отнема известно време, за да регистрирате първото активиране, така че е по-добре да изчакате 3-5 дни след свързването към мрежата, преди да проверите състоянието на активиране.&lt;br>&lt;br> Проверете нашата &lt;a href=%1$s>Политика за връщане, замяна и ремонт&lt;/a> за още подробности.&lt;br>&lt;br>Обадете се на нашата гореща линия за поддръжка на клиенти, ако имате някакви въпроси: 400-100-5678."</string>
+    <string name="device_activation_card_device_not_support">Не се поддържа на това устройство</string>
+    <string name="device_activation_card_local_service_error">"Не може да се получи информация. Изчакайте минута-две и опитайте отново."</string>
+    <string name="device_activation_card_no_network_error">"Не може да се свърже с мрежата. Проверете мрежовите настройки и опитайте отново."</string>
+    <string name="device_activation_card_title">Първа активация</string>
+    <string name="device_activation_page_title">Активиране на устройство</string>
+    <string name="quick_service_after_sale_policy_title">Политика</string>
+    <string name="quick_service_after_sale_service_title">Услуги</string>
+    <string name="quick_service_authenticity_check_title">Удостоверяване</string>
+    <string name="quick_service_maintenance_price_title">Ремонти</string>
+    <string name="quick_service_title">Бързи услуги</string>
+    <string name="recommend_service_cloudservice_description">Синхронизирайте системните данни за приложения, настройки за архивиране, оформление на началния екран и др.</string>
+    <string name="recommend_service_sharelocation_description">Намерете, заключете и изтрийте данни на липсващи устройства и споделете местоположението с приятелите и семейството си</string>
+    <string name="recommend_service_title">Препоръчани услуги</string>
+    <string name="sync_page_autofill_login">Влезте в Mi профила си, за да използвате мениджър на пароли</string>
+    <string name="sync_page_route_message">Мениджърът на пароли ви позволява да шифровате паролите си и да ги съхранявате в облака. Включване на мениджъра на пароли сега?</string>
+    <string name="sync_page_route_not_now">Не благодаря</string>
+    <string name="sync_page_route_ok">Включи</string>
+    <string name="sync_page_route_remember">"Не показвай отново"</string>
 </resources>

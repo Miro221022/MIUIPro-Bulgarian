@@ -514,4 +514,17 @@
     <string name="operation_open">Отвори</string>
     <string name="operation_paste_to_folder">Поставяне в папката</string>
     <string name="operation_send_to_pc">Преместване на компютъра</string>
+	<string name="access_limit">Ограничения за достъп</string>
+    <string name="access_tips">"Няма достъп до елементи. Опитайте вместо това да използвате Android Storage Access Framework."</string>
+    <string name="close">Затвори</string>
+    <string name="go_ahead">Отвори</string>
+    <string name="mirror_no_recommended_app">Няма препоръчани приложения</string>
+    <string name="mirror_open_mode_error">"Елементите не можаха да се заредят"</string>
+    <string name="mirror_open_mode_loading">Една секунда…</string>
+    <string name="operation_open_mode">Отвори с</string>
+    <string name="qq_msg">"Поради ограниченията на Андроид 11, Файлов мениджър няма достъп до и показва QQ документи."</string>
+    <string name="qq_title">"Няма достъп до документи на WeChat"</string>
+    <string name="send">Изпрати</string>
+    <string name="wechat_msg">"Поради ограниченията на Андроид 11, Файловият мениджър не може да осъществява достъп и да показва документите, визуализирани в WeChat. Отворете и запазете документи в WeChat, за да се появят тук."</string>
+    <string name="wechat_title">"Няма достъп до документи на WeChat"</string>
 </resources>
