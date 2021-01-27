@@ -7732,7 +7732,7 @@ UT интерфейс: %5$s"</string>
     <string name="lock_screen_action">Елементи, показани на заключения екран след плъзгане надолу</string>
     <string name="modern_control_center_desc">Издърпайте лентата за състоянието отляво, за да видите известията. Издърпайте надолу лентата на състоянието отдясно, за да отворите Центъра за управление.</string>
     <string name="modern_control_center_title">Нова версия</string>
-    <string name="notification_control_center">Нова версия</string>
+    <string name="notification_control_center">Известия и център за управление</string>
     <string name="notification_display_settings">Панел за известия</string>
     <string name="notification_settings">Известия</string>
     <string name="requires_modern_control_center">Работи с новата версия на центъра за управление</string>
