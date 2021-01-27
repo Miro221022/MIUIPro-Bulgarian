@@ -95,7 +95,6 @@
   <string name="mi_drop">Mi Споделяне</string>
   <string name="mishare_folder_in_file_explorer">Файлов мениджър &gt; Mi Споделяне</string>
   <string name="mishare_service_channel_desc">Известия за процесите на Mi Споделяне</string>
-  <string name="mishare_settings_summary_international">Можете да използвате Mi Споделяне, за да изпращате елементи до устройства в близост.\nMi Споделяне е съвместимо с телефони Mi и Redmi.\nOPPO, vivo, realme и други марки скоро ще бъдат съвместими и с Mi Споделяне. Можете да проверите списъка със съвместими устройства на нашия уебсайт.</string>
   <string name="mishare_state_protection">Автоматично включване на Mi споделяне</string>
   <string name="mishare_state_protection_summary">Автоматично включване на Mi споделяне, когато Bluetooth или Wi-Fi бъдат включени отново</string>
   <string name="mishare_transefer_channel_desc">Известия за елементи, изпратени и получени от Mi Споделяне</string>
@@ -228,7 +227,7 @@
 	<string name="error_send_transfer_pc_error">Времето за прехвърляне изтече. Актуализирайте приложението за споделяне на файлове на вашия компютър и опитайте отново.</string>
 	    <string name="guide_summary_1">Другият човек може да докосне превключвателя в панела за известия</string>
     <string name="guide_summary_2">"Изберете устройството, на което искате да изпратите елементи, и докоснете иконата му"</string>
-    <string name="guide_title_1">Включете Mi Share и на двете устройства</string>
+    <string name="guide_title_1">Включете Mi Споделяне и на двете устройства</string>
     <string name="guide_title_2">Изберете устройство за споделяне</string>
     <string name="menu_item_privacy_title">Политика за поверителност</string>
     <string name="tile_state_active">Включено</string>
@@ -245,4 +244,8 @@
 	    <string name="error_mirror_working">"Не можете да споделяте елементи, докато споделяте екрана"</string>
     <string name="error_remote_mirror_working">"Другото устройство не може да приема елементи, докато споделя екрана"</string>
     <string name="send_files_by">Споделяне на файлове чрез</string>
+	    <string name="error_permission_denied">За да можете да използвате тази функция, предоставете на Mi Споделяне всички необходими разрешения в настройките.</string>
+    <string name="nearby_share">Споделяне наблизо</string>
+	<string name="mishare_settings_summary_international">"Mi Споделяне ви позволява да изпращате елементи безжично до други устройства в близост.
+Тази функция се поддържа от OPPO, vivo, realme и други производители на смартфони. Можете да проверите списъка с поддържани устройства на официалния уебсайт на всяка избрана марка."</string>
 </resources>

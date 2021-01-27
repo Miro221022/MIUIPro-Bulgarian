@@ -74,4 +74,10 @@
     <string name="exit_alert_msg">Всички незапазени промени ще бъдат загубени.</string>
     <string name="exit_alert_title">Отхвърлияне на промените?</string>
     <string name="ok">OK</string>
+	    <string name="doc_photo_enhance_bin_desc">Черно-бяло копие</string>
+    <string name="doc_photo_enhance_color_desc">Подобрено цветно сканиране</string>
+    <string name="doc_photo_enhance_undistortion">Анти-изкривяване</string>
+    <string name="doc_photo_enhance_undistortion_desc">Корекция на изкривяване на изображението</string>
+    <string name="doc_photo_toast_undistortion_close">Анти-изкривяването е изключено</string>
+    <string name="doc_photo_toast_undistortion_open">Анти-изкривяването е включено</string>
 </resources>

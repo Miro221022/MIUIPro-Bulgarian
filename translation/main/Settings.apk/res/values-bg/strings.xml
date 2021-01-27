@@ -7967,4 +7967,19 @@ UT интерфейс: %5$s"</string>
     <string name="accessibility_clear">Изчисти</string>
 	<string name="miheadset_connect_toast_tips">Първо свържете слушалки</string>
 	<string name="miheadset_unpair_device_text">%1$s ще бъде раздвоен от всички устройства свързани с този Mi профил.</string>
+    <string name="miheadset_fitness_check">Тест за прилепване на върха на ухото</string>
+    <string name="miheadset_fitness_check_checking">Тестване…</string>
+    <string name="miheadset_fitness_check_continue">Следващо</string>
+    <string name="miheadset_fitness_check_restart">Започни отначало</string>
+    <string name="miheadset_fitness_check_result_dialog1">Поставете слушалки в двете уши, преди да започнете теста.</string>
+    <string name="miheadset_fitness_check_result_dialog2">Приключете текущото си обаждане, преди да започнете теста.</string>
+    <string name="miheadset_fitness_check_result_dialog_title">Внимание</string>
+    <string name="miheadset_fitness_check_result_not_ok">Лоша форма</string>
+    <string name="miheadset_fitness_check_result_ok">Добра форма</string>
+    <string name="miheadset_fitness_check_result_summary1">Това прилягане работи чудесно за вас!</string>
+    <string name="miheadset_fitness_check_result_summary2">Настройте или опитайте различен връх на ухото и тествайте отново.</string>
+    <string name="miheadset_fitness_check_start">Начало</string>
+    <string name="miheadset_fitness_check_summary1">Научете кои накрайници за уши осигуряват най-удобно прилепване и най-добро акустично представяне.</string>
+    <string name="miheadset_fitness_check_summary2">Поставете слушалки в двете уши и докоснете \"Начало\".</string>
+    <string name="miheadset_fitness_check_summary3">Дръжте слушалките в ушите си.</string>
 </resources>

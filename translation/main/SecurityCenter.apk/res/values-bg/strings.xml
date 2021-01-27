@@ -4275,4 +4275,18 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="power_center_battery_health_summary">Напълно заредете и разредете устройството си %1$d-%2$d пъти за подобряване на точността на статистическите данни за състоянието на батерията</string>
     <string name="summary_app_update_new">Актуализирайте приложенията за достъп до нови функции</string>
 	<string name="loading_text_format" formatted="false">Проверка дали снимките съдържат лична информация (%d/%d)…</string>
+	    <string name="date_time_picker_dialog_title">Задайте дата и час</string>
+    <string name="gtb_spring_festival_egg_obtain_fail">"Не може да се свърже с мрежата"</string>
+    <string name="gtb_spring_festival_guide">"Превключете в пейзажен режим
+да се присъединим към нашия лов за яйца!"</string>
+    <string name="gtb_spring_festival_guide_know">Разбрах</string>
+    <string name="gtb_spring_festival_push_active_desc">Спечелете телефони, умни устройства и купони</string>
+    <string name="gtb_spring_festival_push_active_title">Ловът на великденски яйца е включен!</string>
+    <string name="gtb_spring_festival_push_desc">Присъединете се към нашия лов на яйца, за да спечелите награди</string>
+    <string name="gtb_spring_festival_push_egg_title">Получихте великденско яйце!</string>
+    <string name="gtb_spring_festival_push_gift_title">Идват награди за лов на яйца!</string>
+    <string name="gtb_spring_festival_push_join">Присъединяване</string>
+    <string name="gtb_spring_festival_push_see">Преглед</string>
+    <string name="gtb_spring_festival_shortcut_create">Създай пряк път на началния екран</string>
+    <string name="send">Изпрати</string>
 </resources>
