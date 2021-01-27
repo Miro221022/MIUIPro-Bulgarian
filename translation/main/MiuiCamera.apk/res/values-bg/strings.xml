@@ -1693,4 +1693,7 @@
 	    <string name="pref_camera_dynamic_frame_rate_summary">Честотата на кадрите ще бъде намалена автоматично при условия на слаба осветеност, за да се подобри качеството на видеото</string>
     <string name="pref_camera_predictive_shutter_description">Проследявайте движението, за да сведете до минимум размазването на снимките на деца, домашни любимци и други активни обекти</string>
     <string name="pref_camera_predictive_shutter_title">Проследяване на движението</string>
+	   <string name="live_music_title_unknown">Неизвестна песен</string>
+	   <string name="live_music_author_unknown">Неизвестен изпълнител</string>
+    <string name="live_music_cut_prompt">Изберете песен</string>
 </resources>
