@@ -604,7 +604,7 @@
     <string name="doodle_guide_dialog_skip">Пропускане</string>
     <string name="doodle_guide_dialog_title">Скициране</string>
     <string name="doodle_guide_quick_shape_hint" formatted="false">Натиснете и задръжте скицата за %d–%d секунди, за да регулирате автоматично ходовете</string>
-	    <string name="excerpt">Създайте откъс</string>
+	    <string name="excerpt">Извадки</string>
     <string name="excerpt_bubble_tips">Копираният текст и запазените изображения ще бъдат запазени в Бележки</string>
     <string name="excerpt_link_bubble_tips">Докоснете, за да запазите в Бележки</string>
     <string name="excerpt_note">Моите откъси</string>

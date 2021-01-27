@@ -7965,4 +7965,6 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_soft">Меко</string>
 	    <string name="accessibility_back">Назад</string>
     <string name="accessibility_clear">Изчисти</string>
+	<string name="miheadset_connect_toast_tips">Първо свържете слушалки</string>
+	<string name="miheadset_unpair_device_text">%1$s ще бъде раздвоен от всички устройства свързани с този Mi профил.</string>
 </resources>

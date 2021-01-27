@@ -221,4 +221,25 @@
     <string name="miui_main_ring_title">Звуци за известяване вдъхновени от природата</string>
     <string name="miui_main_update_end_title">Добре дошли в MIUI</string>
     <string name="miui_main_update_success_title_12_5">Добре дошли в MIUI 12.5</string>
+	<string name="copy">Копирай</string>
+    <string name="date_time_picker_dialog_title">Задайте дата и час</string>
+    <string name="expand_button_title">Разширени</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Отмени</string>
+    <string name="miuix_appcompat_action_mode_select_all">Избери всички</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Изберете елементи</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Още</string>
+    <string name="miuix_appcompat_cancel_description">Отказ</string>
+    <string name="miuix_appcompat_confirm_description">Потвърди</string>
+    <string name="miuix_appcompat_delete_description">Изтрий</string>
+    <string name="miuix_appcompat_deselect_all">Отмени</string>
+    <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
+    <string name="miuix_appcompat_search_input_description">Търсене</string>
+    <string name="miuix_appcompat_select_all">Избери всички</string>
+    <string name="miuix_appcompat_select_all_description">Избери всички</string>
+    <string name="miuix_appcompat_select_item">Изберете елементи</string>
+    <string name="not_set">Не е зададено</string>
+    <string name="preference_copied">\"%1$s\" е копирано в буферната памет.</string>
+    <string name="v7_preference_off">ИЗКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
 </resources>
