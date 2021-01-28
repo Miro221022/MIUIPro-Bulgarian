@@ -447,8 +447,6 @@
   <string name="delete_from_all_devices_and_cloud">от всички устройства и Xiaomi Облак</string>
   <string name="delete_from_cloud">Премахнете елементите от Xiaomi Облак</string>
   <string name="delete_from_this_album_and_cloud">от този албум и Xiaomi Облак</string>
-  <string name="delete_in_album">Избраните елементи ще бъдат изтрити от облака и всички свързани устройства и ще се съхраняват в кошчето в облака 30 дни, ако имате безплатен план за съхранение. Изтриване въпреки това?</string>
-  <string name="delete_in_home_page">Избраните елементи ще бъдат изтрити от облака и всички свързани устройства и ще се съхраняват в кошчето в облака 30 дни, ако имате безплатен план за съхранение. Изтриване въпреки това?</string>
   <string name="delete_in_process">Изтрива се…</string>
   <string name="delete_origin">Изтрий снимките от оригиналния албум</string>
   <string name="delete_other_shared_images">Не може да изтривате снимки, споделени с другите</string>
@@ -462,11 +460,6 @@
   <string name="disable_auto_upload_tip">Да се изключи ли синхронизирането с Ми Облак за този албум?</string>
   <string name="disable_auto_upload_title">Изключване на синхронизирането с Xiaomi Облак</string>
   <string name="do_not_remind_me">Не показвай повече</string>
-  <string name="document_provider_guide_step_1">1. Докоснете бутона \"Още\".</string>
-  <string name="document_provider_guide_step_2">2. Докоснете \"Показване на вътрешното хранилище\".</string>
-  <string name="document_provider_guide_step_3">3. Докоснете бутона за страничното меню.</string>
-  <string name="document_provider_guide_step_4">4. Изберете \"SD карта\".</string>
-  <string name="document_provider_guide_step_5">5. Докоснете \"Избор\".</string>
   <string name="double_tap_for_hr_preview_108m">Кликнете отново два пъти, за да преминете към 108MP преглед</string>
   <string name="download_canceled">Изтеглянето е отменено</string>
   <string name="download_error_format">Неуспешно изтегляне %s</string>
@@ -845,7 +838,6 @@
   <string name="motion_photo_play">Изпълни</string>
   <string name="move_to_other_albums_tip">Да се премести ли този албум в Други албуми?</string>
   <string name="move_to_rubbish_albums_tip">Преместване на избраните албуми в кошчето?</string>
-  <string name="movie_add_disable">Можете да изберете до 20 снимки</string>
   <string name="movie_audio_antiquity">Ретро</string>
   <string name="movie_audio_custom">Локални</string>
   <string name="movie_audio_dream">Мечта</string>
@@ -861,13 +853,11 @@
   <string name="movie_audio_summertime">Лято</string>
   <string name="movie_audio_vitality">Жизненост</string>
   <string name="movie_cancel_download">Отказ</string>
-  <string name="movie_change_to_long_video">Избрахте повече от 5 снимки. Преминаване към по-дълъг видеоклип.</string>
   <string name="movie_content_describe_add">Добавяне на снимки</string>
   <string name="movie_content_describe_delete">Изтриване на снимки</string>
   <string name="movie_content_describe_pause">Пауза</string>
   <string name="movie_content_describe_play">Изпълни</string>
   <string name="movie_customer_unsupport_audio_file">Неподдържан аудио файл</string>
-  <string name="movie_delete_disable">Трябва да имате поне 3 снимки, за да създадете клип.</string>
   <string name="movie_download">Изтегляне</string>
   <string name="movie_download_failed">Не може да се изтегли</string>
   <string name="movie_download_failed_for_notwork">Не може да се изтегли. Свържете се с мрежата и опитайте отново.</string>
@@ -1090,7 +1080,7 @@
   <string name="photo_font_download_without_wifi_title">Предупреждение за използване на данни</string>
   <string name="photo_movie_module_finish">Клиповете са заредени успешно</string>
   <string name="photo_movie_module_loading">Зареждане на клипове…</string>
-  <string name="photo_movie_select_image_range">Клиповете могат да съдържат 3-20 снимки</string>
+  <string name="photo_movie_select_image_range">Клиповете могат да съдържат %1$d-%2$d снимки</string>
   <string name="photo_page_save_uri_image_fail">Неуспешно записване на снимката.</string>
   <string name="photo_page_save_uri_image_ok">Снимката е записана в папката на камерата.</string>
   <string name="photo_portrait_color_download_fail">Приставката не може да се изтегли. Свържете се с мрежата и опитайте отново.</string>
@@ -1342,7 +1332,7 @@
   <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Преместено в кошчето успешно</string>
   <string name="similar_keep_clear">Запазване на най-добрите снимки</string>
   <string name="slideshow_interval_dialog_title">Въведете интервал</string>
-  <string name="slideshow_interval_invalid">Интервалът трябва да бъде между 1 и 3600 секунди</string>
+  <string name="slideshow_interval_invalid">Интервалът трябва да бъде между %1$d и %2$d секунди</string>
   <string name="slideshow_interval_title">Показване на всяка снимка за</string>
   <string name="slim_complete">Готово</string>
   <string name="slim_complete_action_title">Оптимизирането е успешно</string>
@@ -1350,7 +1340,7 @@
   <string name="slim_cost_time_minute_and_second">%1$dмин %2$dсек остават</string>
   <string name="slim_cost_time_second">%dсек остават</string>
   <string name="slim_description_dialog_ok">Разбрах</string>
-  <string name="slim_description_dialog_slim_after">След:  167KБ</string>
+  <string name="slim_description_dialog_slim_after">След:  %dKБ</string>
   <string name="slim_exit_dialog_positive">Спри</string>
   <string name="slim_exit_dialog_title">Спри оптимизирането</string>
   <string name="slim_running">Оптимизиране…</string>
@@ -1548,7 +1538,7 @@
   <string name="video_editor_filter_wangshi">Ретро</string>
   <string name="video_editor_filter_xiaosenlin">Гора</string>
   <string name="video_editor_intelligent_special_effect">Ефекти</string>
-  <string name="video_editor_invalid_trim_arguments">Трябва да е по-дълго от 1сек</string>
+  <string name="video_editor_invalid_trim_arguments">Трябва да е по-дълго от %dсек</string>
   <string name="video_editor_loading_plugin">Зарежда се...</string>
   <string name="video_editor_loading_warning_msg">Поради грешка при разчитането, някой функции може да са неактивни при редактирането на файла. Това няма да окаже влияние на редактирания клип.</string>
   <string name="video_editor_loading_warning_title">Грешка при прочитане на файла</string>
@@ -1569,15 +1559,15 @@
   <string name="video_editor_smart_effect_fastslow">Движение</string>
   <string name="video_editor_smart_effect_freesze">Без движение</string>
   <string name="video_editor_smart_effect_halo">Ореол</string>
-  <string name="video_editor_smart_effect_high_iframes_text">Този ефект работи най-добре за видеоклипове с 120 кадъра в секунда.</string>
+  <string name="video_editor_smart_effect_high_iframes_text">Този ефект работи най-добре за видеоклипове с %d кадъра в секунда.</string>
   <string name="video_editor_smart_effect_movie">Филм</string>
   <string name="video_editor_smart_effect_none">Без</string>
   <string name="video_editor_smart_effect_radical">Оптимистично</string>
   <string name="video_editor_smart_effect_rhythm">Пулс</string>
   <string name="video_editor_smart_effect_street">Метрополис</string>
-  <string name="video_editor_smart_effect_time_limit_txt_6">Можете да приложите този ефект върху видеоклипове с продължителност поне 6 секунди.</string>
-  <string name="video_editor_smart_effect_time_limit_txt_40">Този ефект може да се приложи към видеоклипове с продължителност не повече от 40 секунди. Автоматично зададена продължителност.</string>
-  <string name="video_editor_smart_effect_time_limit_txt_60">Този ефект може да се приложи към видеоклипове с продължителност не повече от 60 секунди. Автоматично зададена продължителност.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_6">Можете да приложите този ефект върху видеоклипове с продължителност поне %d секунди.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_40">Този ефект може да се приложи към видеоклипове с продължителност не повече от %d секунди. Автоматично зададена продължителност.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_60">Този ефект може да се приложи към видеоклипове с продължителност не повече от %d секунди. Автоматично зададена продължителност.</string>
   <string name="video_editor_template_family">Подобни</string>
   <string name="video_editor_template_forbidden_tips">Не може да се използва, докато има шаблон</string>
   <string name="video_editor_template_oldfilm">Стари</string>
@@ -1636,7 +1626,7 @@
   <string name="video_compress_download_failed_for_notwork">"Неуспешно изтегляне. Проверете мрежовите настройки и опитайте отново."</string>
   <string name="video_compress_encode_video">Компресиране на видеото…</string>
   <string name="video_compress_lib_download">Изтеглете приставката за компресиране на видео</string>
-  <string name="video_compress_not_with_8k">"8K видеоклипове не могат да се компресират"</string>
+  <string name="video_compress_not_with_8k">"%dK видеоклипове не могат да се компресират"</string>
   <string name="video_compress_not_with_format">"Компресирането на видео не се поддържа за този формат"</string>
   <string name="video_compress_not_with_low_quality">Текущата разделителна способност е най-ниската</string>
   <string name="video_compress_save_stop_tips">Докоснете отново, за да спрете компресирането</string>
@@ -1788,7 +1778,7 @@
   <string name="risk_control_deleted_message">Някой е изтрил вашите елементи от галерията от облака с помощта на %3$s на %1$s в %2$s. Вие ли бяхте това?</string>
   <string name="risk_control_deleted_title">Предупреждение за безопасност</string>
   <string name="trash_bin_summary_local">Преглед на наскоро изтрити снимки и видеоклипове</string>
-  <string name="video_editor_not_support_8k_tips">"8K видеоклипове не могат да се редактират"</string>
+  <string name="video_editor_not_support_8k_tips">"%dK видеоклипове не могат да се редактират"</string>
     <string name="filter_sky_dynamic_note">Елементите с този филтър се запазват като видеоклипове</string>
     <string name="filter_sky_dynamic_rain">Дъжд</string>
     <string name="filter_sky_dynamic_saving">Създаване на видео</string>
@@ -2163,8 +2153,8 @@
     <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Изтеглянето %s изисква около %2$d МБ мобилни данни. Изтегляне сега?</string>
     <string name="picker_origin_need_download">"%1$d от избраните снимки (%2$d МБ) не са на устройството. Изтегляне чрез мобилни данни?"</string>
     <string name="slim_description_dialog_detail">Компресирайте снимки и оставяйте по-малки висококачествени копия на това устройство, запазвайки оригиналните файлове в облака.</string>
-    <string name="slim_description_dialog_slim_before">Преди: %2$d МБ</string>
-    <string name="video_compress_lib_download_without_wifi">"Изглежда, че устройството ви не е свързано с Wi-Fi. Можете да използвате мобилни данни, за да изтеглите приставката за компресиране на видео (%2$d МБ)."</string>
+    <string name="slim_description_dialog_slim_before">Преди: %.2f МБ</string>
+    <string name="video_compress_lib_download_without_wifi">"Изглежда, че устройството ви не е свързано с Wi-Fi. Можете да използвате мобилни данни, за да изтеглите приставката за компресиране на видео (%.1f МБ)."</string>
 	<string name="send_files_by">Споделяне на файлове чрез</string> 
 	<string name="album_homepage_show_all_photos">Показване на всички снимки</string>
     <string name="album_lockscreen_wallpapers">Тапети за заключен екран</string>
@@ -2412,10 +2402,10 @@
     <string name="vlog_filter_lading">Танго</string>
     <string name="vlog_filter_luoma">Рим</string>
     <string name="vlog_filter_qihuan">Фантазия</string>
-    <string name="vlog_filter_qingcheng">T&amp;O</string>
+    <string name="vlog_filter_qingcheng">Лайм</string>
     <string name="vlog_filter_shenmi">Мистерия</string>
     <string name="vlog_filter_wangjiao">Кармен</string>
-    <string name="vlog_filter_xiari">Април</string>
+    <string name="vlog_filter_xiari">Лято</string>
     <string name="vlog_filter_xiehou">Сблъсък</string>
     <string name="yuzhitiaojie">Скала за регулиране на дебелината</string>
     <string name="zi_ding_yi_wenben">Персонализиран размер</string>
@@ -2424,4 +2414,23 @@
     <string name="text_edit_dialog_style_align_center">Подравняване в центъра</string>
     <string name="text_edit_dialog_style_align_left">Подравняване вляво</string>
     <string name="text_edit_dialog_style_align_right">Подравняване вдясно</string>
+	<string name="magic_max_px">Това изображение е твърде голямо</string>
+    <string name="operation_replace_album_cover_status_default_mode_success">Възстановена обложка на албума по подразбиране успешно</string>
+    <string name="operation_replace_album_cover_status_success">Променена е обложката на албума успешно</string>
+    <string name="photo_editor_navigator_download_title">Зареждане…</string>
+    <string name="photo_editor_navigator_sticker_download_failed">"Не може да се изтегли. Проверете мрежовите настройки и опитайте отново."</string>
+    <string name="photo_editor_navigator_sticker_download_success">Изтеглено успешно</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Изглежда, че не сте свързани с Wi-Fi. Да се използват ли %1$d МБ мобилни данни за изтегляне на приставката?"</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Изглежда, че не сте свързани с WLAN. Да се използват ли %1$d МБ мобилни данни за изтегляне на приставката?"</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_title">Изтеглеяне на приставката</string>
+    <string name="delete_in_album">Избраните елементи ще бъдат изтрити от облака и всички свързани устройства и ще се съхраняват в кошчето за кошче в облака за %d дни, ако имате безплатен план за съхранение в облака. Да се изтрият въпреки това?</string>
+    <string name="delete_in_home_page">Избраните елементи ще бъдат изтрити от облака и всички свързани устройства и ще се съхраняват в кошчето за кошче в облака за %d дни, ако имате безплатен план за съхранение в облака. Да се изтрият въпреки това?</string>
+    <string name="document_provider_guide_step_1">%d. Докоснете бутона \"Още\".</string>
+    <string name="document_provider_guide_step_2">%d. Докоснете \"Покажи вътрешната памет\".</string>
+    <string name="document_provider_guide_step_3">%d. Докоснете бутона за странично меню.</string>
+    <string name="document_provider_guide_step_4">%d. Изберете \"SD карта\".</string>
+    <string name="document_provider_guide_step_5">%d. Докоснете \"Избери\".</string>
+    <string name="movie_add_disable">Можете да изберете до %d снимки</string>
+    <string name="movie_change_to_long_video">Избрахте повече от %d снимки. Превключено към по-дълъг видеоклип.</string>
+    <string name="movie_delete_disable">За да създадете клип, ви трябват поне %d снимки.</string>
 </resources>
