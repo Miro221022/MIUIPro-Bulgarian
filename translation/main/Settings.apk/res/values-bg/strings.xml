@@ -7779,9 +7779,7 @@ UT интерфейс: %5$s"</string>
     <string name="screen_enhance_status_enable">Включване</string>
     <string name="tether_password_illegal_character">Паролата съдържа неподходящи символи. Моля, въведете отново</string>
   <string name="save_battery_mode_summary">Автоматично превключване на разделителната способност, за да спестите енергия</string>
-      <string name="headset_connectiong">Свързване...</string>
-    <string name="headset_remove_message">Искате ли да премахнете това устройство от вашия профил</string>
-    <string name="headset_remove_message_indicate">Всички устройства, свързани с Xiaomi профила, ще бъдат премахнати</string>
+      <string name="headset_connectiong">Свързване…</string>
     <string name="miheadset_in_ear_check_summary">Пауза и възобновяване на възпроизвеждането автоматично, когато слагате или сваляте слушалки</string>
     <string name="miheadset_moreSettingsInAi">Допълнителни настройки</string>
     <string name="miheadset_ok_device">OK</string>
@@ -7982,4 +7980,21 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_fitness_check_summary1">Научете кои накрайници за уши осигуряват най-удобно прилепване и най-добро акустично представяне.</string>
     <string name="miheadset_fitness_check_summary2">Поставете слушалки в двете уши и докоснете \"Начало\".</string>
     <string name="miheadset_fitness_check_summary3">Дръжте слушалките в ушите си.</string>
+    <string name="headset_remove_message">Искате ли да раздвойте устройството?</string>
+    <string name="headset_remove_message_indicate">%1$s ще бъде отделено от всички устройства, свързани с този Mi профил.</string>
+    <string name="headset_unsaved_devices">Използва се на други устройства</string>
+    <string name="miheadset_anc_indicate">Свържете и сдвоете слушалки</string>
+    <string name="miheadset_audio_mode">Качество на звука</string>
+    <string name="miheadset_audio_mode_high">Високо</string>
+    <string name="miheadset_audio_mode_listen">Ниско</string>
+    <string name="miheadset_audio_mode_normal">Стандартно</string>
+    <string name="miheadset_auto_ack_mode">"Отговаряйте автоматично на обаждания, когато носите слушалките"</string>
+    <string name="miheadset_auto_ack_mode_summary">Отговаряйте автоматично на повиквания</string>
+    <string name="miheadset_double_click_key_mode">Двукратно докосване</string>
+    <string name="miheadset_double_click_right">Докоснете двукратно дясната слушалка</string>
+    <string name="miheadset_minus">Намаляване на звука</string>
+    <string name="miheadset_multi_connect_mode">Многоточково</string>
+    <string name="miheadset_multi_connect_mode_summary">Свържете се с няколко устройства едновременно</string>
+    <string name="miheadset_plus">Увеличаване на звука</string>
+    <string name="miheadset_triple_click_key_mode">Трикратно докосване</string>
 </resources>

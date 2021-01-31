@@ -4271,7 +4271,7 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="card_uninstall_button_text">Управление</string>
     <string name="card_uninstall_summary">Деинсталирайте рядко използвани приложения, за да освободите място за съхранение</string>
     <string name="card_uninstall_title_1">Деинсталирайте рядко използваните приложения</string>
-    <string name="power_center_battery_health_poor_tip">Изглежда здравето на батерията е занижено. Проверете батерията си в оторизиран сервизен център</string>
+    <string name="power_center_battery_health_poor_tip">Изглежда здравето на батерията е занижено. Проверете батерията си в оторизиран сервизен център.</string>
     <string name="power_center_battery_health_summary">Напълно заредете и разредете устройството си %1$d-%2$d пъти за подобряване на точността на статистическите данни за състоянието на батерията</string>
     <string name="summary_app_update_new">Актуализирайте приложенията за достъп до нови функции</string>
 	<string name="loading_text_format" formatted="false">Проверка дали снимките съдържат лична информация (%d/%d)…</string>
@@ -4289,4 +4289,9 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="gtb_spring_festival_push_see">Преглед</string>
     <string name="gtb_spring_festival_shortcut_create">Създай пряк път на началния екран</string>
     <string name="send">Изпрати</string>
+	<string name="antivirus_third_privacy_title">Политики за поверителност на трети страни</string>
+     <string name="gamebox_macro">Комбинации</string>
+     <string name="gb_game_macro_bubble_tips">Опитайте комбинации</string>
+     <string name="gb_game_macro_toast_tips">"Опитайте комбинации!
+Записвайте последователности и ги използвайте по всяко време!"</string>
 </resources>
