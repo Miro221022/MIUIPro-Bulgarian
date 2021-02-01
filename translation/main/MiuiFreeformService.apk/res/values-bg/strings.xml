@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Плаващ прозорец</string>
+  <string name="app_name">Плаващи прозорци</string>
   <string name="contentDescription">Преместване на прозореца</string>
   <string name="freeform_demo_back">Назад</string>
   <string name="freeform_demo_final_over">Готово</string>

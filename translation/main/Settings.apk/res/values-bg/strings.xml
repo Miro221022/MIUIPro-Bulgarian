@@ -7997,4 +7997,5 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_multi_connect_mode_summary">Свържете се с няколко устройства едновременно</string>
     <string name="miheadset_plus">Увеличаване на звука</string>
     <string name="miheadset_triple_click_key_mode">Трикратно докосване</string>
+    <string name="wlan_scanner_unresizeble">"Настройките за WLAN не могат да се показват в режим на разделен екран"</string>
 </resources>

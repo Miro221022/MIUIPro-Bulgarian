@@ -527,4 +527,10 @@
     <string name="send">Изпрати</string>
     <string name="wechat_msg">"Поради ограниченията на Андроид 11, Файловият мениджър не може да осъществява достъп и да показва документите, визуализирани в WeChat. Отворете и запазете документи в WeChat, за да се появят тук."</string>
     <string name="wechat_title">"Няма достъп до документи на WeChat"</string>
+	    <string name="cdd_message">"Поради ограниченията на Android 11 няма да можете да преглеждате някои от файловете, генерирани в приложенията на трети страни във Файлов мениджър."</string>
+    <string name="cdd_title">Внимание</string>
+    <string name="mirror_can_not_drag_mask_new">Плъзнете елементи в %s</string>
+    <string name="mirror_side_bar_tab_tranfer_name">Трансфери и изтегляния</string>
+    <string name="transfer">Трансфери и изтегляния</string>
+    <string name="transfer_summary">Изтегляния и елементи, прехвърлени чрез Mi Споделяне</string>
 </resources>

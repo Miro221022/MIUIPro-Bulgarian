@@ -2063,4 +2063,5 @@ WLAN адрес (BSSID)
     <string name="accessibility_keyboard_symbol_board_shift2letter_button">Букви</string>
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Заключване на символите</string>
     <string name="accessibility_keyguard_face_unlock_view">Отключване с лице</string>
+	<string name="control_center_notification_switch_guide">Плъзнете, за да превключите между Център за управление и панела за известия</string>
 </resources>
