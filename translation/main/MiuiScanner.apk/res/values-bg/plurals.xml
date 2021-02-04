@@ -15,4 +15,8 @@
         <item quantity="other">Изтриване на %1$d изображения сега?</item>
         <item quantity="one">Изтриване на %1$d изображение сега?</item>
     </plurals>
+	    <plurals name="document_duplicate_data_tip">
+        <item quantity="one">Импортиран успешно (филтриран е %1$d дублиран елемент)</item>
+        <item quantity="other">Импортиран успешно (филтрирани са %1$d дублирани елемента)</item>
+    </plurals>
 </resources>

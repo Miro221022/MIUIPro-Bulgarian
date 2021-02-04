@@ -412,10 +412,6 @@
   <string name="todo_edit_btn_today">Днес</string>
   <string name="todo_edit_btn_tomorrow">Утре</string>
   <string name="todo_edit_text_hint">Въведете описание на задачата</string>
-  <string name="todo_event_description_a_week_ago">Преди 1 седмица</string>
-  <string name="todo_event_description_a_week_later">След 1 седмица</string>
-  <string name="todo_event_description_day_after_tomorrow">След 2 дни</string>
-  <string name="todo_event_description_day_before_yesterday">Преди 2 дни</string>
   <string name="todo_event_description_today">Днес</string>
   <string name="todo_event_description_tomorrow">Утре</string>
   <string name="todo_event_description_yesterday">Вчера</string>
@@ -474,7 +470,6 @@
   <string name="toolbar_undo_description">Отмени</string>
   <string name="toolbar_voice_description">Глас</string>
   <string name="trash_folder_name">Кошче</string>
-  <string name="trash_folder_reminder">Бележките, които изтриете, ще се изтрият за 30 дни.</string>
   <string name="trash_folder_reminder_new">Бележките се съхраняват в кошчето %d дни, преди да бъдат изтрити за постоянно</string>
   <string name="tuesday">Вторник</string>
   <string name="tuesday_short">Вто</string>
@@ -632,4 +627,9 @@
 	    <string name="blackboard_note">Умна черна дъска</string>
     <string name="default_update_documents">Налична е актуализация. Актуализиране сега?</string>
     <string name="note_mindnote_entrance_hint_newversion">"Започнете да пишете "</string>
+	    <string name="todo_event_description_a_week_ago">Преди %1$d седмица</string>
+    <string name="todo_event_description_a_week_later">След %1$d седмица</string>
+    <string name="todo_event_description_day_after_tomorrow">След %1$d дни</string>
+    <string name="todo_event_description_day_before_yesterday">Преди %1$d дни</string>
+    <string name="trash_folder_reminder">Бележките, които изтриете, ще бъдат изтрити завинаги след %1$d дни.</string>
 </resources>

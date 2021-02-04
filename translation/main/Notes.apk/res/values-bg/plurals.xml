@@ -132,4 +132,8 @@
         <item quantity="other">Намерени са %1$s задачи</item>
         <item quantity="one">Намерена е %1$s задача</item>
     </plurals>
+		 <plurals name="item_terms">
+        <item quantity="other">%1$s елемента</item>
+        <item quantity="one">%1$s елемент</item>
+    </plurals>
 </resources>
