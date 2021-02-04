@@ -177,4 +177,10 @@
     <string name="scheduled_style_summary">Задайте персонализирано време</string>
     <string name="temporary_style_summary">Препоръчано</string>
 	<string name="aod_theme_store">Теми</string>
+	<string name="align_center_horizontally">Хоризонтално и централно подравнено</string>
+    <string name="align_center_vertically">Подредено и централно подравнено</string>
+    <string name="align_left_horizontally">Хоризонтално и подравнено от ляво</string>
+    <string name="align_left_vertically">Подредено и подравнено от ляво</string>
+    <string name="align_right_horizontally">Хоризонтално и дясно подравнено</string>
+    <string name="align_right_vertically">Подредено и дясно подравнено</string>
 </resources>
