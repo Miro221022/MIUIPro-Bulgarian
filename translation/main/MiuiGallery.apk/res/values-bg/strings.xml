@@ -800,7 +800,7 @@
   <string name="loading_video_fail_syncing">Изчакайте, докато всички метаданни се изтеглят и опитайте отново</string>
   <string name="loading_video_thumbnail">Изтегляне на видео обложка…</string>
   <string name="login_and_enable_service">Влезте в профила си и използвайте Xiaomi Облак.</string>
-  <string name="long_press_to_refocus">Задръжте за дофокусиране</string>
+  <string name="long_press_to_refocus">Натиснете и задръжте за рефокусиране</string>
   <string name="main_discard_confirm_message">Имате незаписани промени</string>
   <string name="main_discard_negative_btn">Отмени</string>
   <string name="main_discard_positive_btn">Запазване и Изход</string>
@@ -971,7 +971,7 @@
   <string name="operation_too_often">Прекалено много заявки от вашия IP адрес. Моля, опитайте отново след 1-2 минути.</string>
   <string name="operation_unforce_top">Откачи</string>
   <string name="operation_unhide">Покажи</string>
-  <string name="orientation_lock_tip">Заключена ориентация</string>
+  <string name="orientation_lock_tip">Ротацията е изключена</string>
   <string name="orientation_unlock_tip">Ротацията е включена</string>
   <string name="origin_gif_name">оригинален файл</string>
   <string name="origin_image_name">оригинален файл</string>
@@ -2260,7 +2260,7 @@
     <string name="id_photo_module_finish">Изтегляне на приставката \"Идентификация\" успешно</string>
     <string name="id_photo_module_loading">Изтегляне на приставка \"Идентификация\"…</string>
     <string name="magic_add_full">Можете да добавите до %1$d души</string>
-    <string name="magic_background">Заден план</string>
+    <string name="magic_background">Фон</string>
     <string name="magic_brush">Четка</string>
     <string name="magic_camera">Камера</string>
     <string name="magic_cancel">Отказ</string>
@@ -2409,6 +2409,7 @@
     <string name="vlog_filter_xiehou">Сблъсък</string>
     <string name="yuzhitiaojie">Скала за регулиране на дебелината</string>
     <string name="zi_ding_yi_wenben">Персонализиран размер</string>
+	<string name="filter_movie_prosperousangle">Кармен</string>
     <string name="movie_tab_music">Звук</string>
     <string name="movie_video_short">%dсек.</string>
     <string name="text_edit_dialog_style_align_center">Подравняване в центъра</string>

@@ -255,7 +255,7 @@
         <item>Скица</item>
         <item>Акварел</item>
         <item>RGB</item>
-        <item>Щори</item>
+        <item>Прикриване</item>
         <item>Мъглив прозорец</item>
         <item>Техно</item>
     </string-array>
@@ -281,6 +281,13 @@
         <item>Образование</item>
         <item>Изпити</item>
     </string-array>
+	    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>Един кун</item>
+        <item>Две куни</item>
+        <item>По-малко от един кун</item>
+        <item>По-малко от две куни</item>
+    </string-array>
     <string-array name="magic_idp_size_category_certificates">
         <item>Социална сигурност</item>
         <item>Изявление за здравето</item>
@@ -298,21 +305,33 @@
         <item>Възобновяване</item>
     </string-array>
     <string-array name="magic_idp_size_category_profession">
-        <item>Сертифициране на учители в начално и средно училище</item>
+        <item>Сертификат за учители в начално и средно училище</item>
         <item>Сертифициране на учители</item>
         <item>"Шофьорска книжка"</item>
         <item>Разрешително за водач</item>
-        <item>Електронно разрешение водач</item>
+        <item>Електронно разрешение за водач</item>
         <item>Национален съдебен изпит</item>
         <item>Електронен сертификат за първокласен конструктор</item>
         <item>Втори клас сертификат за конструктор</item>
-        <item>Изпит за младши счетоводни заглавия</item>
+        <item>Изпит за титла младши счетоводител</item>
         <item>Дипломиран експерт-счетоводител</item>
         <item>Разрешение за водач в Пекин</item>
-        <item>Проверка на междинно счетоводно звание</item>
+        <item>Изпит за междинно счетоводно звание</item>
         <item>Изпит за старши счетоводни звания</item>
-        <item>Удостоверение за квалификация на счетоводството</item>
+        <item>Удостоверение за квалификация за счетоводството</item>
         <item>Сертифициран експерт-счетоводител</item>
+    </string-array>
+	    <string-array name="magic_idp_size_category_examination">
+        <item>Тест по английски език за колеж 1</item>
+        <item>Тест по английски език за колеж 2</item>
+        <item>Тест по английски език за колеж 3</item>
+        <item>Тест за владеене на Putonghua 1</item>
+        <item>Тест за владеене на Putonghua 2</item>
+        <item>Тест по английски език за степен</item>
+        <item>PET за колежи</item>
+        <item>PETS ниво 3</item>
+        <item>Национален изпит за компютърна грамотност 1</item>
+        <item>Национален изпит за компютърна грамотност 2</item>
     </string-array>
     <string-array name="magic_idp_size_category_visa">
         <item>САЩ</item>
