@@ -143,5 +143,7 @@
     <string name="fast_connect_same_accout_devices_title">"Свързахте %1$s с други устройства"</string>
     <string name="fast_connect_sound_normalizer_content">"По-добър звук при гласови разговори.
 Протокол за по-бърза връзка."</string>
-<string name="fast_connect_same_accout_ok">Разбрах</string>
+    <string name="fast_connect_same_accout_ok">Разбрах</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Свързан към LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Използвай за LE_AUDIO</string>
 </resources>

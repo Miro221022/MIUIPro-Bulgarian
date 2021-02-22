@@ -368,4 +368,6 @@
     <string name="dock_tip_splitscreen_portrait_float">Задръжте и плъзнете отляво или отдясно на екрана, за да превключите към плаващ прозорец.</string>
     <string name="miui_multiwindow_not_support_split">%1$s не поддържа разделен екран.</string>
 	<string name="turn_on_work_profile">Включи</string>
+	    <string name="application_cannot_open_alipay_health_code">"Не можа да се отвори здравният код на Alipay"</string>
+    <string name="application_cannot_open_weixin_health_code">"Не можа да се отвори здравният код на WeChat"</string>
 </resources>

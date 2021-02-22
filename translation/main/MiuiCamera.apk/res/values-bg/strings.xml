@@ -1728,7 +1728,6 @@
     <string name="network_connection_rejected">Отхвърлено</string>
     <string name="network_connection_timed_out">Времето за свързване изтече</string>
     <string name="pref_video_cast_setting_summary">Включете, за да можете да заснемете едно видео с няколко устройства</string>
-    <string name="remote_online_connecting">Налични устройства</string>
     <string name="remote_online_disconnect_confirmation">Анулиране на свързването с %1$s?</string>
     <string name="remote_online_interrupted">Прекъснато. Свържете се отново, за да продължите.</string>
     <string name="remote_online_searching">Търсне на устройства…</string>
@@ -1740,4 +1739,8 @@
     <string name="video_cast_notification_content">Докоснете за спиране</string>
     <string name="video_cast_notification_title">Използване на няколко камери във фонов режим…</string>
     <string name="video_cast_state_paused">На пауза</string>
+	<string name="mimoji_eyelid">Клепачи</string>
+    <string name="remote_online_connecting">Изберете устройство за свързване</string>
+    <string name="remote_online_guide">Включете двойния запис на телефона на другото устройство, като използвате превключвателя в Центъра за управление.</string>
+    <string name="remote_online_introduction_ii">За да работи тази функция, другото Mi или Redmi устройство трябва да поддържа запис на двоен телефон. Може да се включи с помощта на превключвателя в Центъра за управление.</string>
 </resources>

@@ -1165,7 +1165,6 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="bootloader_status_locked">Заключено</string>
      <string name="bootloader_status_locked_info">Това устройство е заключено</string>
      <string name="bootloader_status_locked_summary">Телефона е защитен</string>
-     <string name="bootloader_status_privacy_dialog_message">Mi Unlock се нуждае от Mi профил, CPU ID, IMEI, IMSI за да работи нормално. Ние събираме, използваме и обработваме данните ви в съответствие с нашите %s. Съгласни ли сте?</string>
      <string name="bootloader_status_privacy_dialog_no">Отказ</string>
      <string name="bootloader_status_privacy_dialog_title">Искани разрешения</string>
      <string name="bootloader_status_privacy_dialog_url_text">Политика за поверителност</string>
@@ -7700,7 +7699,6 @@ UT интерфейс: %5$s"</string>
     <string name="input_method_middle_function_move_cursor_des">Натиснете и задръжте централната зона, за да преместите курсора</string>
     <string name="input_method_middle_function_no_function_des">"Не възлагай никакви действия"</string>
     <string name="middle_function_key">Централна зона</string>
-	<string name="miui_master_clear_prompt_battery_low">"Не може да извърши фабрично нулиране, когато остане по-малко от %1$s батерия. Заредете устройството си, преди да продължите."</string>
 	    <string name="launch_noapp_dialog_cancel">Отказ</string>
     <string name="launch_noapp_dialog_install">Инсталиране</string>
     <string name="launch_noapp_dialog_replace">Настройки</string>
@@ -7713,9 +7711,6 @@ UT интерфейс: %5$s"</string>
   <string name="activity_check_title">Свързване с интернет</string>
   <string name="dialog_check_button_negative">Повторен опит</string>
   <string name="dialog_check_button_positive">Свързване с WLAN</string>
-  <string name="dialog_check_context">"Вашето устройство не може да се свърже с интернет в момента.
-1. Докоснете \"Свързване с WLAN\" за да изберете една от наличните мрежи.
-2. Ако искате да използвате мобилни данни, докоснете \"Повторен опит\" или извадете и поставете отново вашата SIM карта."</string>
   <string name="dialog_check_title">"Не може да се свърже с интернет"</string>
   <string name="dialog_wifi_button_negative">Не</string>
   <string name="dialog_wifi_button_positive">Да</string>
@@ -7829,7 +7824,6 @@ UT интерфейс: %5$s"</string>
     <string name="dpp_cannot_connect_target">"Не може да се свърже с целевата мрежа"</string>
     <string name="dpp_connect_success">Свързан успешно</string>
     <string name="dpp_not_support">"Не може да се споделя тази мрежа"</string>
-    <string name="dpp_qr_code_summary">Свържете се с WLAN мрежа, като сканирате този QR код.</string>
     <string name="dpp_scanner_summary">Поставете QR код в рамката</string>
     <string name="dpp_shared_fail">"WLAN не може да се сподели"</string>
     <string name="dpp_shared_success">Успешно споделена WLAN</string>
@@ -7998,4 +7992,23 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_plus">Увеличаване на звука</string>
     <string name="miheadset_triple_click_key_mode">Трикратно докосване</string>
     <string name="wlan_scanner_unresizeble">"Настройките за WLAN не могат да се показват в режим на разделен екран"</string>
+	<string name="bluetooth_le_audio_profile_summary_connected">Свързан към LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Използвай за LE_AUDIO</string>
+    <string name="expert_detail_content_description">Преглед на подробности</string>
+    <string name="launch_alipay_health_code">Alipay здравен код</string>
+    <string name="launch_alipay_health_code_auto_close">Прекият път към здравния код на Alipay вече не е наличен. Можете да превключите към друг пряк път.</string>
+    <string name="launch_wechat_health_code">WeChat здравен код</string>
+    <string name="launch_wechat_health_code_auto_close">Прекият път към здравния код на WeChat вече не е достъпен. Можете да превключите към друг пряк път.</string>
+    <string name="miui_master_clear_prompt_battery_low">"Не може да извърши фабрично нулиране, когато остава по-малко от %1$s батерия. Заредете устройството си, преди да продължите."</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock се нуждае от достъп до вашия Mi акаунт, CPU ID, IMSI, за да работи нормално. Прочетете и приемете нашата &lt;a href=\"%1$s\">Политика за поверителност&lt;/a>. Приемате ли?</Data></string>
+    <string name="color_game_led_applications_title_summary">Изберете отделни приложения, които ще работят с LED светлина</string>
+    <string name="color_game_led_charging_summary">LED светлината ще се изключи, когато батерията се зареди</string>
+    <string name="color_game_led_end_time">Край</string>
+    <string name="color_game_led_notification_pulse_title">Пулсиране за известия при Винаги включен дисплей</string>
+    <string name="color_game_led_remind_title">Ефекти</string>
+    <string name="color_game_led_start_time">Старт</string>
+    <string name="color_game_led_time_title">График</string>
+    <string name="dialog_check_context">"Вашето устройство не може да се свърже с интернет в момента
+· Ако искате да използвате мобилни данни, докоснете \"Опитай отново\" или извадете и поставете отново вашата SIM карта."</string>
+    <string name="dpp_qr_code_summary">Помолете другия човек да сканира този QR код, използвайки скенера в настройките му за WLAN</string>
 </resources>

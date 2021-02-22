@@ -2064,4 +2064,7 @@ WLAN адрес (BSSID)
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Заключване на символите</string>
     <string name="accessibility_keyguard_face_unlock_view">Отключване с лице</string>
 	<string name="control_center_notification_switch_guide">Плъзнете, за да превключите между Център за управление и панела за известия</string>
+	    <string name="bluetooth_le_audio_profile_summary_connected">Свързан към LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Използвай за LE_AUDIO</string>
+    <string name="quick_settings_sim_disabled">" (Деактивирано)"</string>
 </resources>

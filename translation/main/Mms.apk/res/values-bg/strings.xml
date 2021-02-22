@@ -1136,4 +1136,5 @@
 	<string name="pref_summary_enable_ad_notification">Включете групираните известия за промоционални съобщения в панела за известия</string>
     <string name="pref_title_enable_ad_notification">Промоционални съобщения</string>
 	<string name="no_dialogue_yet">Изберете разговор</string>
+	<string name="rcs_chatbot_blocked_tip">"Това мини приложение е блокирано. Не може да се стартира разговор."</string>
 </resources>

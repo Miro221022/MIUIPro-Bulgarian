@@ -632,4 +632,8 @@
     <string name="todo_event_description_day_after_tomorrow">След %1$d дни</string>
     <string name="todo_event_description_day_before_yesterday">Преди %1$d дни</string>
     <string name="trash_folder_reminder">Бележките, които изтриете, ще бъдат изтрити завинаги след %1$d дни.</string>
+	    <string name="sync_desc_state_complete">Синхронизирано с облака</string>
+    <string name="sync_desc_state_complete_china">Всички %1$s бяха синхронизирани</string>
+    <string name="sync_desc_state_disable">Включете синхронизирането с облака</string>
+    <string name="sync_desc_state_running">Синхронизиране с облака</string>
 </resources>
