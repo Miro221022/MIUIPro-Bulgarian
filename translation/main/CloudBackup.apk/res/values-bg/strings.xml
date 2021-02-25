@@ -192,7 +192,6 @@
     <string name="btn_restore_cancel">Отказ</string>
     <string name="btn_restore_resume">Продължи</string>
     <string name="btn_restore_retry">Опитайте отново</string>
-    <string name="msg_alert_cancel_restore">Възстановяване на елементи. Спиране?</string>
     <string name="msg_alert_restore_error">"Не може да се възстановят елементи от Xiaomi Облак. Опитайте отново."</string>
     <string name="title_alert_cancel_restore">Спиране на възстановяването</string>
     <string name="title_alert_restore_error">Не може да се възстанови</string>
@@ -217,7 +216,6 @@
 	<string name="self_device_second_space">"Второ пространство в телефона"</string>
 	<string name="restore_finish_description">Възстановяването приключи</string>
     <string name="restore_init_description">Старт на възстановяването</string>
-    <string name="restoring_file_title_no_progress">Възстановяване на файлове…</string>
     <string name="restoring_settings">Възстановяване на настройките…</string>
 	<string name="desktop_wait_network">Изчакване…</string>
 	<string name="doing_calc_backup_data_size">Изчисляване на размера…</string>
@@ -228,7 +226,6 @@
     <string name="msg_restore_start_with_metered_network">"Началният ви екран ще бъде възобновен. Архивираните приложения ще се изтеглят автоматично. &lt;br />&lt;b>&lt;font color='red'>%s файла ще бъдат изтеглени.&lt;/font>&lt;/b>"</string>
     <string name="title_restore_with_current_network">Използване на текущата връзка за изтегляне на файлове</string>
     <string name="restore_network_unconnect">%s (Изчаква се връзка)</string>
-    <string name="restore_network_pause">%s (Докоснете за възобновяване)</string>
     <string name="restore_detail_title">Изберете елементи за възстановяване</string>
     <string name="restore_detail_category_settings">Настройки</string>
     <string name="restore_detail_category_apps">Оформление на начален екран и приложения</string>
@@ -296,4 +293,19 @@
 	    <string name="provision_back">Назад</string>
     <string name="provision_next">Следващо</string>
     <string name="provision_skip_underline">Пропускане</string>
+	    <string name="btn_restore_cancel_app_app">"Не възстановявай данните на WeChat"</string>
+    <string name="cloud_backup_detail_app_data">Архивиране на данните на WeChat</string>
+    <string name="cloud_backup_detail_app_data_summary">Архивирайте историята на чата, файловете и други елементи</string>
+    <string name="confirm_restore_app_data">Презаписване на данните за приложенията</string>
+    <string name="confirm_restore_app_data_summary">Възстановяването на данните на WeChat ще замени текущата версия на данните на приложението на това устройство. Да се възстанови ли все пак?</string>
+    <string name="dialog_backup_failed">"Не може да се направи резервно копие"</string>
+    <string name="dialog_buy_cloud_space">Надстройка</string>
+    <string name="dialog_cloud_space_not_enough">Това архивиране изисква %1$s безплатно място за съхранение в облака. Надстройте плана си за съхранение, за да архивирате елементи.</string>
+    <string name="hint_restore_wechat_data">Забележка: Възможно е данните на WeChat да не бъдат възстановени поради проблеми със съвместимостта в някои случаи.</string>
+    <string name="restore_detail_category_app_data">WeChat данни</string>
+    <string name="restore_detail_category_app_data_summary">История на чата, файлове и други елементи (%s)</string>
+    <string name="restoring_app_data_title_no_progress">Възстановяване на данни от WeChat…</string>
+    <string name="msg_alert_cancel_restore">Елементите се възстановяват от Xiaomi Облак. Да се отмени ли сега?</string>
+    <string name="restore_network_pause">Поставено на пауза за пестене на мобилни данни. Докоснете, за да продължите.</string>
+    <string name="restoring_file_title_no_progress">Възстановяване на приложения…</string>
 </resources>

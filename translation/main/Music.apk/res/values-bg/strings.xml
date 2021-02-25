@@ -1108,7 +1108,7 @@
     <string name="user_privacy_dialog_positive_text">Оттегляне</string>
     <string name="user_privacy_setting_group_title">Оттегляне на съгласието</string>
     <string name="user_privacy_setting_title">Изключвайки превключвателя, вие оттегляте съгласието си с Политиката за поверителност на Mi Музика.</string>
-	    <string name="add_to_playlist">Добави на опашката</string>
+	<string name="add_to_playlist">Добави на опашката</string>
     <string name="btn_text_edit">Редакция</string>
     <string name="dialog_message_unfollow">Прекратяване на следенето на този човек?</string>
     <string name="dialog_subtitle_make_playlist_public">Публичните плейлисти са достъпни за други хора. Частните плейлисти са видими само за вас на всички синхронизирани устройства.</string>
@@ -1127,4 +1127,7 @@
     <string name="user_profile_created_playlist_title">Персонализирани плейлисти</string>
     <string name="user_profile_fans_count">Последователи: %s</string>
     <string name="user_profile_follow_count">Следвани: %s</string>
+	<string name="app_description_content">"Музиката е системно приложение, което съдържа аудио плейър и ви позволява да управлявате аудио файлове. Все още ще можете да възпроизвеждате аудио файлове, след като премахнете прекия път на началния екран."</string>
+    <string name="app_description_title">Премахване на \"Музика\" от началния екран?</string>
+    <string name="talkback_cut">Редактор на мелодии</string>
 </resources>

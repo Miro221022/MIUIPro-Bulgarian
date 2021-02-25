@@ -969,7 +969,6 @@
 по-подробно"</string>
   <string name="ultra_tele_use_hint_text_title">50X увеличение</string>
   <string name="vv_duartion_hint">%1$s | Откъс %2$d | %3$sс</string>
-  <string name="vv_hint">Можете да снимате влогове само в пейзажен режим</string>
   <string name="vv_stability_hint">Поддържайте стабилно устройството си</string>
   <string name="vv_start">Заснемане на влог</string>
   <string name="vv_use_hint_text_body">"Режим влог ви позволява
@@ -1743,4 +1742,7 @@
     <string name="remote_online_connecting">Изберете устройство за свързване</string>
     <string name="remote_online_guide">Включете двойния запис на телефона на другото устройство, като използвате превключвателя в Центъра за управление.</string>
     <string name="remote_online_introduction_ii">За да работи тази функция, другото Mi или Redmi устройство трябва да поддържа запис на двоен телефон. Може да се включи с помощта на превключвателя в Центъра за управление.</string>
+	    <string name="audio_map_summary_tip">Следете силата на звука на левия и десния канал в реално време и го регулирайте с помощта на плъзгача</string>
+    <string name="histogram_summary_tip">Показване на обратна връзка за експозиция в реално време</string>
+	<string name="vv_hint">Можете да снимате влогове само в пейзажен режим</string>
 </resources>

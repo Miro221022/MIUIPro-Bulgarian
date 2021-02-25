@@ -113,7 +113,6 @@
   <string name="album_share_subtitle_requesting">Зареждане на информацията за албума...</string>
   <string name="album_share_title_new_album">Споделяне на нов албум</string>
   <string name="album_show_local_only">Показване само на локални албуми</string>
-  <string name="album_show_local_only_summary">Включете, за да виждате или изтривате снимките само на вашето устройство</string>
   <string name="album_type_baby">Сподели албум</string>
   <string name="album_type_share">Бебешки албум</string>
   <string name="album_type_system">Системен албум</string>
@@ -147,7 +146,6 @@
   <string name="authorize_to_device_failed">Не може да се упълномощи</string>
   <string name="authorize_watch_on_tv_failed">Не може да бъде разрешено за гледане на ТВ</string>
   <string name="auto_backup_introduce">Синхронизирайте снимки и видео автоматично(Изисква се Mi профил)</string>
-  <string name="auto_download_media_title">Автоматично изтегляне на снимки от Xiaomi Облак</string>
   <string name="auto_update_face">Автоматично добавяне на снимки</string>
   <string name="auto_update_face_summary">Автоматично сравняване и добавяне на снимките в бебешкия албум</string>
   <string name="auto_update_off">Изключено</string>
@@ -344,8 +342,6 @@
   <string name="cloud_guide_auto_backup_title">Изберете албуми за синхронизиране</string>
   <string name="cloud_guide_login_title">Архивирайте снимки и видео автоматично.</string>
   <string name="cloud_guide_welcome_title">Xiaomi Облак</string>
-  <string name="cloud_privacy_with_ai_album">Декларация за поверителност при автоматично синхронизиране и обработка на изображения</string>
-  <string name="cloud_privacy_with_face">Декларация за поверителност при автоматично синхронизиране и разпознаване на лица</string>
   <string name="cloud_screenshots_display_name">Екранни снимки</string>
   <string name="cloud_settings">Синхронизация</string>
   <string name="cloud_storage_extend">Разширяване на облачното пространство</string>
@@ -1324,7 +1320,6 @@
   <string name="share_public_url_text">Споделих албумът %1$s с вас. Разгледайте го на %2$s</string>
   <string name="share_with_family">Сподели със семейството</string>
   <string name="sharer_quota_fulfiled">Вече споделихте този албум с максималния брой потребители.</string>
-  <string name="show_cloud_albumlist_summary">Управлявайте албумите, които синхронизирате с облака</string>
   <string name="show_hidden_album_summary">Преглед и управление на скрити албуми</string>
   <string name="show_hidden_album_title">Показване на невидимите албуми</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Преместено успешно, отидете в Други албуми, за преглед</string>
@@ -2434,4 +2429,32 @@
     <string name="movie_add_disable">Можете да изберете до %d снимки</string>
     <string name="movie_change_to_long_video">Избрахте повече от %d снимки. Превключено към по-дълъг видеоклип.</string>
     <string name="movie_delete_disable">За да създадете клип, ви трябват поне %d снимки.</string>
+	<string name="auto_download_title">Изберете качество на изображението</string>
+  <string name="backup_settings">Синхронизиране с облака</string>
+  <string name="backup_settings_more">Допълнителни настройки</string>
+  <string name="cloud_backup_enable_title">Синхронизация</string>
+  <string name="cloud_backup_open_button">Включване</string>
+  <string name="cloud_backup_space">Хранилище в облака</string>
+  <string name="cloud_backup_status_disable">Изключване</string>
+  <string name="cloud_backup_status_eneble">Включване</string>
+  <string name="cloud_backup_title">Синхронизиране с облака</string>
+  <string name="cloud_bacup_disable_button">Изключване на синхронизирането</string>
+  <string name="cloud_bacup_disable_processing">Обработка…</string>
+  <string name="cloud_login_ok">Разбрах</string>
+  <string name="cloud_login_settings_title">Настройки на синхронизацията</string>
+  <string name="mi_mover_working_desc">Mi Трансфер прехвърля елементи…</string>
+  <string name="photo_size_not_support">Разделителната способност на изображението не се поддържа</string>
+  <string name="see_more_settings">Допълнителни настройки</string>
+  <string name="sync_backup_disable_confirm_message_downloading">Ако изключите синхронизирането сега, текущите изтегляния на оригиналните файлове, съхранявани в облака, ще бъдат прекъснати. Висококачествените изображения, съхранени на това устройство, също вече няма да бъдат достъпни. Да се изключи ли все пак?</string>
+  <string name="sync_backup_disable_confirm_message_wait">Висококачествени изображения, съхранени на това устройство, вече няма да са налични, след като изключите синхронизирането. Можете да изтеглите оригинални файлове от облака и да изключите синхронизирането след това.</string>
+  <string name="sync_backup_disable_confirm_title">Изключване на синхронизацията</string>
+  <string name="sync_backup_enable_confirm_message">Когато синхронизирането с облака е включено, елементите от това устройство ще бъдат качени и обединени с елементите, съхранявани в облака.</string>
+  <string name="sync_backup_enable_confirm_title">Обединяване на синхронизирани елементи</string>
+  <string name="vlog_filter_master_close">Премахнати видео ефекти</string>
+  <string name="vlog_filter_master_open">Приложени видео ефекти</string>
+    <string name="album_show_local_only_summary">Опцията за изтриване само на локални албуми ще стане достъпна, когато тази функция е включена</string>
+    <string name="auto_download_media_title">Автоматично изтегляне</string>
+    <string name="cloud_privacy_with_ai_album">Функции и поверителност</string>
+    <string name="cloud_privacy_with_face">Функции и поверителност</string>
+    <string name="show_cloud_albumlist_summary">"Новите елементи от избраните албуми няма да бъдат качени в облака, след като изключите синхронизирането."</string>
 </resources>
