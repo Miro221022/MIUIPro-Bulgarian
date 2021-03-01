@@ -1710,4 +1710,27 @@
      <string name="app_health_setting_text_sleep_aid_settings">Сън</string>
      <string name="app_health_setting_text_title">Здраве</string>
      <string name="app_travel_card_none">Няма данни</string>
+	     <string name="app_assist_sleep_timer_cancel_hint">Stop</string>
+    <string name="app_auth_router_dialog_loading">Adding account…</string>
+    <string name="app_auth_setting_bind">Add</string>
+    <string name="app_auth_setting_bind_fail">"Couldn't add account"</string>
+    <string name="app_auth_setting_bind_fail_uninstall">"Couldn't add account. Install %s first."</string>
+    <string name="app_auth_setting_bind_success_title">Current %s account</string>
+    <string name="app_auth_setting_bind_summry">Mi Account: %s</string>
+    <string name="app_auth_setting_bind_title">Add %s account</string>
+    <string name="app_auth_setting_login">Sign in</string>
+    <string name="app_auth_setting_login_summry">Sign in and add your Alipay account to be able to use popular services</string>
+    <string name="app_auth_setting_login_title">Sign in to Mi Account</string>
+    <string name="app_auth_setting_service_title">Popular services</string>
+    <string name="app_auth_setting_unbind">Remove</string>
+    <string name="app_auth_setting_unbind_dialog_positive">Remove</string>
+    <string name="app_auth_setting_unbind_dialog_title">Remove %s account</string>
+    <string name="app_auth_setting_unbing_dialog_message">"You won't be able to use popular %s services after removing your account."</string>
+    <string name="app_auth_setting_unbing_dialog_negative">Keep</string>
+	<string name="app_course_all_courses">All classes</string>
+	    <string name="app_course_on_going">Ongoing</string>
+    <string name="app_course_section">Section %s</string>
+    <string name="app_course_switch_to_dayily">Day view</string>
+    <string name="app_course_switch_to_weekly">Week view</string>
+	
 </resources>
