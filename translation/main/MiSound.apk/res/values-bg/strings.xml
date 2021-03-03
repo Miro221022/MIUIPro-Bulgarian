@@ -148,4 +148,9 @@
     <string name="sound_transmission_title">Безжичен микрофон</string>
     <string name="transmission_volume_option_title">Сила на микрофона</string>
 	<string name="sound_transmission_function_generalize">"Предавайте звук от микрофона на телефона си към външно Bluetooth устройство"</string>
+		<string name="dolby_dax_geq_select_title">Предварителни настройки</string>
+    <string name="dolby_dax_geq_title">Графичен еквалайзер</string>
+    <string name="dolby_dax_profile_dynamic">Динамично</string>
+    <string name="dolby_dax_setting">Dolby ефекти</string>
+	<string name="misound_effect_setting">Mi Sound</string>
 </resources>

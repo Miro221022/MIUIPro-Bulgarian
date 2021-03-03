@@ -8038,4 +8038,8 @@ UT интерфейс: %5$s"</string>
 	<string name="title_special_features_health_global">Сърдечен ритъм</string>
 	    <string name="miheadset_key_config_noise_control">Контрол на шума</string>
     <string name="miheadset_key_config_noise_control_summary">Натиснете и задръжте, за да превключвате между два избрани режима за контрол на шума</string>
+	   <string name="device_activation_info">Активиране на устройство</string>
+    <string name="miui_sos_pa_title">Местоположение при спешни случаи</string>
+    <string name="miui_sos_pa_turn_off">Изключено</string>
+    <string name="miui_sos_pa_turn_on">Включено</string>
 </resources>

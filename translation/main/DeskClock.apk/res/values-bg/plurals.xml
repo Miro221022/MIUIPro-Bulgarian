@@ -104,4 +104,8 @@
         <item quantity="other">Хронометърът работи от %s часа. Докоснете за преглед.</item>
         <item quantity="one">Хронометърът работи от %s час. Докоснете за преглед.</item>
     </plurals>
+	    <plurals name="miuix_appcompat_items_selected">
+      <item quantity="other">%d избрани елемента</item>
+      <item quantity="one">%d избран елемент</item>
+    </plurals>
 </resources>

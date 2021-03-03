@@ -632,4 +632,6 @@
     <string name="restore_icon_successful">Добавено успешно</string>
 	    <string name="all_apps_install_contentcenter_msg">Изглежда, че Центъра за съдържание е деинсталиран. Да се инсталира ли отново?</string>
     <string name="all_apps_install_contentcenter_title">Инсталиране на Център за съдържание</string>
+	    <string name="assistant_edge_gesture_summary">Плъзнете нагоре от долния ляв или десен ъгъл, за да събудите Google асистента</string>
+    <string name="assistant_edge_gesture_title">Плъзнете нагоре от ъгъла за Google асистент</string>
 </resources>

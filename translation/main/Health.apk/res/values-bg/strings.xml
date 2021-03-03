@@ -217,7 +217,7 @@
   <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
   <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
   <string name="date_picker_lunar">Лунен календар</string>
-  <string name="date_week_index">Седмица ww, yyyy г.</string>
+  <string name="date_week_index">"'W'ww yyyy"</string>
   <string name="day">д</string>
   <string name="deep_light_detection_open_prompt">Вашият цикъл на сън ще бъде анализиран следващия път, когато си легнете</string>
   <string name="deep_sleep">Дълбок сън</string>
@@ -284,7 +284,7 @@
   <string name="dialog_feedback_title">Отзиви</string>
   <string name="dialog_health_applicator">В момента Xiaomi Здраве предоставя услуги само за възрастни.</string>
   <string name="dialog_juveniles_details">Съгласно нашата политика за поверителност минималната възраст за ползване на този продукт е 18 години.</string>
-  <string name="dialog_juveniles_link">Според нашата &lt;font color=\"#FE6D67\"&gt;&lt;a href=%1$s&gt;Политика за поверителност&lt;/a&gt;&lt;/font&gt;, минималната възраст за използване на този продукт е 18 години.</string>
+  <string name="dialog_juveniles_link">Според нашата &lt;font color=\"#FE6D67\">&lt;a href=%1$s>Политика за поверителност&lt;/a>&lt;/font>, минималната възраст за използване на този продукт е 18 години.</string>
   <string name="dialog_keep">Запази</string>
   <string name="dialog_known">Разбрах</string>
   <string name="dialog_menstruation_purpose">Добре дошли в Xiaomi Здраве! \"Менструация\" ви позволява да записвате месечни цикли, да определяте вероятните дати на следващи цикли и да получавате напомняния. Всички свързани с това данни ще бъдат съхранявани локално на устройството ви, което позволява лесното им управление.</string>
@@ -433,7 +433,7 @@
   <string name="goal_sleep_time">Цел за продължителност на съня</string>
   <string name="goal_title">Бъдете здрави</string>
   <string name="goto_setting_auto_start">Настройки</string>
-  <string name="guide_data_cloud_sync_tip">Можете да изключите синхронизирането в Настройки &gt; Облачни услуги.</string>
+  <string name="guide_data_cloud_sync_tip">Можете да изключите синхронизирането в Настройки > Облачни услуги.</string>
   <string name="guide_exit">Изход от Xiaomi Здраве</string>
   <string name="guide_exit_description">Не можем да предоставим услуги на хора, които все още не са навършили 14 години. Уверете се, че използвате това устройство с разрешението на вашия законен настойник. Докоснете бутона по-долу, за да излезете от приложението.</string>
   <string name="guide_exit_title">Можете да започнете да използвате Xiaomi Здраве след като навършите 14 години</string>
@@ -699,7 +699,7 @@
   <string name="mtrl_picker_range_header_title">Изберете диапазон от дати</string>
   <string name="mtrl_picker_range_header_unselected">Начална дата - крайна дата</string>
   <string name="muscle_rate">Мускул</string>
-  <string name="muscle_rate_descripe_content">Мускулният процент се изчислява върху мускулна маса, телесно тегло и височина и т.н.. Полезно е да определите колко сте здрави и силни. Редовните упражнения са от съществено значение за поддържане на здравословно количество мускули в тялото ви.</string>
+  <string name="muscle_rate_descripe_content">Мускулният процент се изчислява върху мускулна маса, телесно тегло и височина и т.н. Полезно е да определите колко сте здрави и силни. Редовните упражнения са от съществено значение за поддържане на здравословно количество мускули в тялото ви.</string>
   <string name="my_data_source">Източници на данни</string>
   <string name="name_title_menstruation_today_end">Цикълът свършва днес</string>
   <string name="need_auto_start_permission">За по-точна статистика разрешете на Xiaomi Здраве да стартира автоматично.</string>
@@ -802,7 +802,7 @@
   <string name="reference">Референтни материали</string>
   <string name="relationship_with_contact">Взаимоотношение</string>
   <string name="rem_duration_decrease_description">Вашият REM сън е твърде кратък</string>
-  <string name="rem_duration_description" formatted="false">REM се отнася до бързото движение на очите. Сънят може да бъде разделен на сън с резки движения на очите (REM) и сън с плавни движения на очите (NREM). Сънят с бързо движение на очите представлява около 20 до 25% от общата продължителност на съня. Когато хората се събудят на този етап, 74 до 95%% от тях казват, че са сънували и са в състояние да запомнят сънищата си. Мозъкът е много активен и тялото е напълно отпуснато по време на REM сън, което прави тази фаза на съня от съществено значение за поддържане на когнитивните функции.</string>
+  <string name="rem_duration_description">REM се отнася до бързото движение на очите. Сънят може да бъде разделен на сън с резки движения на очите (REM) и сън с плавни движения на очите (NREM). Сънят с бързо движение на очите представлява около 20 до 25% от общата продължителност на съня. Когато хората се събудят на този етап, 74 до 95%% от тях казват, че са сънували и са в състояние да запомнят сънищата си. Мозъкът е много активен и тялото е напълно отпуснато по време на REM сън, което прави тази фаза на съня от съществено значение за поддържане на когнитивните функции.</string>
   <string name="rem_Duration_increase_description">Вашият REM сън е твърде дълъг</string>
   <string name="rem_duration_normal_description">REM продължителността на съня е нормална</string>
   <string name="remarks">Отбелязване</string>
@@ -985,7 +985,7 @@
   <string name="snore_detection_enable">Хъркане и говорене</string>
   <string name="snore_detection_guide_one_description">Звукът ще бъде записан, докато спите. Машинното обучение позволява на Xiaomi Здраве да отчита хъркане, говорене и силен шум и да запазва записите на вашето устройство.</string>
   <string name="snore_detection_guide_one_title">Запис на звук чрез микрофон</string>
-  <string name="snore_detection_guide_schedule_suggest">Микрофонът ще се включва и изключва в съответствие с вашия график за лягане. Задайте своя график за лягане, за да го направите&gt;</string>
+  <string name="snore_detection_guide_schedule_suggest">Микрофонът ще се включва и изключва в съответствие с вашия график за лягане. Задайте своя график за лягане, за да го направите></string>
   <string name="snore_detection_guide_schedule_suggest_details">Микрофонът ще се включва и изключва в съответствие с вашия график за лягане. Препоръчва се да отидете в настройките за работа и почивка в часовника.</string>
   <string name="snore_detection_guide_three_description">Уверете се, че устройството ви е достатъчно заредено, преди да си легнете. Слабата батерия може да прекъсне записа на звука.</string>
   <string name="snore_detection_guide_three_title">Поддържайте устройството си заредено</string>

@@ -292,9 +292,13 @@
     <string name="privacy_provision_title">Поверителност</string>
     <string name="google_service_introduction">За да може да работи нормално, Google Play трябва да се свърже с интернет, да осъществи достъп до вашето местоположение, да може да изпраща SMS и MMS, да записва звук, да осъществява повиквания, да има достъп до събитията в календара, историята на обажданията, сензори, хранилище, камера, информация за устройството и профилите.</string>
     <string name="user_agreement_declare">Преди да използвате MIUI, трябва да прочетете и да се съгласите с нашите Потребителско споразумение и Политика за поверителност. Докато устройството ви се активира, Mi SIM услуга за активиране, Xiaomi Облак, услуга за архивиране, Открий устройството, начален екран, Чести фрази, Xiaomi услуга за комуникация в Интернет, услуга за превод, MIUI Daemon, HTML Viewer, MIUI SDK, Приложение за защитен елемент, AI асистент , Батерия и производителност, Детектор на захранване, Joyose, Настройка на AI на OS и Актуализация ще се свържат към мрежата. Интелигентните карти, Мениджър за разрешения и интелигентните услуги ще се свържат с мрежата и ще получат достъп до вашето местоположение.</string>
-	    <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
+	    <string name="permission_MIUIDaemon_introduction">MIUI Daemon ви позволява да прехвърляте данни от вашето устройство, когато екранът му е повреден.</string>
     <string name="permission_read_contacts">Достъп до контактите</string>
     <string name="permission_read_contacts_introduction">За проверка на вашата самоличност</string>
     <string name="permission_read_message">Достъп до текстови съобщения</string>
     <string name="permission_read_message_introduction">За проверка на собствеността върху вашето устройство</string>
+	    <string name="item_contents_wwarning">"Ако вашето устройство изчезне, няма да можете да попречите на други хора да го използват и да имат достъп до вашите данни, освен ако не зададете заключване на екрана. Пропускане въпреки това?"</string>
+    <string name="item_return">Задаване</string>
+    <string name="item_skip">Пропускане</string>
+	<string name="title_set_fingerprint">Заключване на екрана</string>
 </resources>
