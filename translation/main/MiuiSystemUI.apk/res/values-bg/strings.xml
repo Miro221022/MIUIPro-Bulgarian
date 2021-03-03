@@ -2066,4 +2066,5 @@ WLAN адрес (BSSID)
 	    <string name="bluetooth_le_audio_profile_summary_connected">Свързан към LE_AUDIO</string>
     <string name="bluetooth_le_audio_profile_summary_use_for">Използвай за LE_AUDIO</string>
     <string name="quick_settings_sim_disabled">" (Деактивирано)"</string>
+	<string name="face_unlock_success">Отключено успешно</string>
 </resources>

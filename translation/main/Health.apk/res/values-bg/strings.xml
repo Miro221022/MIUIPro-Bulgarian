@@ -1667,4 +1667,9 @@
     <string name="find_new_verision">Версия %s е налична сега</string>
     <string name="immediately_experience">Актуализиране</string>
     <string name="location_perm_description">За проследяване на тренировки на открито и записване на маршрути</string>
+    <string name="date_time_picker_dialog_title">Задайте дата и час</string>
+    <string name="miuix_appcompat_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_select_all">Избери всички</string>
+    <string name="miuix_appcompat_select_item">Изберете елементи</string>
+    <string name="send">Изпрати</string>
 </resources>

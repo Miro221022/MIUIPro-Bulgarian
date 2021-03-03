@@ -111,7 +111,7 @@
   <string name="antivirus_sec_network_unavailable">Сигурност не може да се актуализира, защото сте ограничили интернет връзката. Да се разреши ли на Сигурност да се свърже с интернет?</string>
   <string name="antivirus_toast_already_update">Вече е актуализирано</string>
   <string name="antivirus_toast_network_unavailable">Не може да се свърже с мрежата</string>
-  <string name="antivirus_toast_update_failed">Неуспешна актуализация</string>
+  <string name="antivirus_toast_update_failed">Нашите сървъри са заети. Изчакайте минута-две и опитайте отново.</string>
   <string name="antivirus_toast_update_success">Успешно актуализиране</string>
   <string name="antivirus_toast_updating">Актуализиране…</string>
   <string name="antivirus_update_btn_contiue">Продължи</string>
@@ -4294,4 +4294,42 @@ Xiaomi не обещава и не гарантира точността, вал
      <string name="gb_game_macro_bubble_tips">Опитайте комбинации</string>
      <string name="gb_game_macro_toast_tips">"Опитайте комбинации!
 Записвайте последователности и ги използвайте по всяко време!"</string>
+    <string name="auto_task_edit_condition_summary_new">Например, \"В %s\"</string>
+    <string name="auto_task_notify_task_cancel_count_down_new">Автоматизираното действие ще бъде отменено след %d секунди</string>
+    <string name="auto_task_notify_task_count_down_new">Автоматизираното действие ще започне след %d секунди</string>
+    <string name="deep_power_save_item_summary_lock_screen_time_new">Поставете екрана да спи след %d секунди бездействие за пестене на батерията</string>
+    <string name="gb_shoulder_key_add_show_btn">Показване на виртуални бутони по време на игри</string>
+    <string name="gb_shoulder_key_btn_cancel">Отказ</string>
+    <string name="gb_shoulder_key_btn_save_exit">Запази</string>
+    <string name="gb_shoulder_key_guide_btn_done">Разбрах</string>
+    <string name="gb_shoulder_key_guide_btn_next">Следващо</string>
+    <string name="gb_shoulder_key_settings_guide_tips1">Преместете бутоните [L] и [R] във всяка функционална позиция, за да завършите конфигурацията</string>
+    <string name="never_new">%d време</string>
+    <string name="power_center_list_item_set_lockscreen_time_new">Поставете екрана да спи след това %d секунди бездействие</string>
+    <string name="power_save_mode_auto_exit_summary_new">Изключване, когато батерията е %s или напълно заредена​</string>
+    <string name="superpower_notification_title_new">По-малко от %s батерия остават</string>
+    <string name="superpower_settins_autoenter_summary_new">Включване на свръх пестене на батерия, автоматично, когато батерията е само с %s заряд</string>
+    <string name="superpower_settins_autoleave_summary_new">Изключване на свръх пестене на батерия, автоматично, когато батерията е с %s заряд</string>
+    <string name="traffic_to_limit_warning">"Използвали сте %s от лимита ви за данни"</string>
+    <string name="vb_video_effects_dolby_dialog_enhancer">Подобрен диалог</string>
+    <string name="vb_video_effects_dolby_headset">" (Само слушалки)"</string>
+    <string name="vb_video_effects_dolby_open">Dolby Atmos е включено</string>
+    <string name="vb_video_effects_dolby_stereo_expansion">Разширено стерео</string>
+    <string name="view_traffic_details">Преглед на данните за използването на мобилни данни</string>
+    <string name="warningcenter_policeassist_charge_tips">*Може да бъдете таксувани за изходящи текстови съобщения. Свържете се с вашия оператор, за да научите за тарифите.</string>
+    <string name="warningcenter_policeassist_close_btn">Изключване</string>
+    <string name="warningcenter_policeassist_flow_locating">Получаване на информация…</string>
+    <string name="warningcenter_policeassist_flow_locfailed">"Местоположението не беше споделено"</string>
+    <string name="warningcenter_policeassist_flow_privacy">Политика за поверителност</string>
+    <string name="warningcenter_policeassist_flow_send">Споделено местоположение с полицията</string>
+    <string name="warningcenter_policeassist_flow_tips">Споделяне на местоположението ви</string>
+    <string name="warningcenter_policeassist_noti_content">Изпратете автоматично текстово съобщение с вашето местоположение</string>
+    <string name="warningcenter_policeassist_noti_privacy">Докоснете, за да проверите Политика за поверителност</string>
+    <string name="warningcenter_policeassist_noti_send">Споделено местоположение с полицията</string>
+    <string name="warningcenter_policeassist_noti_title">Споделяйте местоположението по време на спешни повиквания</string>
+    <string name="warningcenter_policeassist_open_btn">Включване</string>
+    <string name="warningcenter_policeassist_open_content">"Изпращайте информацията за местоположението си до полицията автоматично чрез SMS или мобилни данни, докато се обаждате на 110, 120, 119, 122, or 12122."</string>
+    <string name="warningcenter_policeassist_open_title">Споделете местоположението си с полицията по време на спешни повиквания</string>
+    <string name="warningcenter_policeassist_privacy"><Data>"Прочетох и се съгласих с &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Политика за поверителност&lt;/a>."</Data></string>
+    <string name="warningcenter_policeassist_title">Местоположение при спешни случаи</string>
 </resources>

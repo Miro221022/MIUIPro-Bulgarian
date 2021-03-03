@@ -1971,4 +1971,5 @@
 	 <string name="fiveg_sa_switch_warning_toast">Рестартирайте устройството си, за да приложите промените</string>
 	   <string name="sensor_answer_summary">Приближете телефона до ухото си, за да отговорите автоматично на входящо повикване</string>
     <string name="sensor_answer_title">Вдигнете, за да отговорите</string>
+	<string name="select_apn_list_title">Изберете APN по подразбиране: за карта%1$s</string>
 </resources>

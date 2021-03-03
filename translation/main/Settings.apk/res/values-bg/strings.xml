@@ -8005,8 +8005,6 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_key_config_close_summary">Изключване на шумопотискането и прозрачността</string>
     <string name="miheadset_key_config_gesture_control">Жестове</string>
     <string name="miheadset_key_config_next_music">Следваща песен</string>
-    <string name="miheadset_key_config_noise_control">Активен контрол на шума</string>
-    <string name="miheadset_key_config_noise_control_summary">Натиснете и задръжте, за да превключвате между два избрани режима на активен контрол на шума</string>
     <string name="miheadset_key_config_noise_summary">Блокирайте външни звуци</string>
     <string name="miheadset_key_config_press_left">Натиснете и задръжте лявата слушалка</string>
     <string name="miheadset_key_config_press_right">Натиснете и задръжте дясната слушалка</string>
@@ -8037,4 +8035,7 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_ancIncrease">Високо</string>
     <string name="miheadset_transparentMode">Прозрачност</string>
     <string name="miheadset_voiceIncrease">Подобряване на звука</string>
+	<string name="title_special_features_health_global">Сърдечен ритъм</string>
+	    <string name="miheadset_key_config_noise_control">Контрол на шума</string>
+    <string name="miheadset_key_config_noise_control_summary">Натиснете и задръжте, за да превключвате между два избрани режима за контрол на шума</string>
 </resources>
