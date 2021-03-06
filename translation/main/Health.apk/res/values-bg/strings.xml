@@ -802,7 +802,7 @@
   <string name="reference">Референтни материали</string>
   <string name="relationship_with_contact">Взаимоотношение</string>
   <string name="rem_duration_decrease_description">Вашият REM сън е твърде кратък</string>
-  <string name="rem_duration_description">REM се отнася до бързото движение на очите. Сънят може да бъде разделен на сън с резки движения на очите (REM) и сън с плавни движения на очите (NREM). Сънят с бързо движение на очите представлява около 20 до 25% от общата продължителност на съня. Когато хората се събудят на този етап, 74 до 95%% от тях казват, че са сънували и са в състояние да запомнят сънищата си. Мозъкът е много активен и тялото е напълно отпуснато по време на REM сън, което прави тази фаза на съня от съществено значение за поддържане на когнитивните функции.</string>
+  <string name="rem_duration_description">REM се отнася до бързото движение на очите. Сънят може да бъде разделен на сън с резки движения на очите (REM) и сън с плавни движения на очите (NREM). Сънят с бързо движение на очите представлява около 20 до 25%% от общата продължителност на съня. Когато хората се събудят на този етап, 74 до 95%% от тях казват, че са сънували и са в състояние да запомнят сънищата си. Мозъкът е много активен и тялото е напълно отпуснато по време на REM сън, което прави тази фаза на съня от съществено значение за поддържане на когнитивните функции.</string>
   <string name="rem_Duration_increase_description">Вашият REM сън е твърде дълъг</string>
   <string name="rem_duration_normal_description">REM продължителността на съня е нормална</string>
   <string name="remarks">Отбелязване</string>
@@ -1162,7 +1162,6 @@
   <string name="tb_mens_month_period_date_unselected">%1$s. Ден %2$d на менструалния цикъл. Докоснете, за да изберете дата.</string>
   <string name="tb_month_dialog_go_today">Избрани днес</string>
   <string name="tb_month_dialog_select_date">Избрани %1$s</string>
-  <string name="tb_month_dialog_select_date_with_snore" formatted="false">Избрани %1$s, %s</string>
   <string name="tb_multiple_selecte_all">Избери всички</string>
   <string name="tb_not_add_list">Не е добавено</string>
   <string name="tb_pause_detection">Пауза</string>
