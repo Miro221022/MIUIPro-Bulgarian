@@ -308,4 +308,6 @@
     <string name="msg_alert_cancel_restore">Елементите се възстановяват от Xiaomi Облак. Да се отмени ли сега?</string>
     <string name="restore_network_pause">Поставено на пауза за пестене на мобилни данни. Докоснете, за да продължите.</string>
     <string name="restoring_file_title_no_progress">Възстановяване на приложения…</string>
+	<string name="button_confirm">Разбрах</string>
+    <string name="pc_mode_not_support_restore_warning">"Не можете да възстановите елементи в Режим компютър. Изключете Режим компютър и опитайте отново."</string>
 </resources>

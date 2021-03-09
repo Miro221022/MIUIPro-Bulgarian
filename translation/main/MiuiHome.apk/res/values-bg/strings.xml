@@ -634,4 +634,7 @@
     <string name="all_apps_install_contentcenter_title">Инсталиране на Център за съдържание</string>
 	    <string name="assistant_edge_gesture_summary">Плъзнете нагоре от долния ляв или десен ъгъл, за да събудите Google асистента</string>
     <string name="assistant_edge_gesture_title">Плъзнете нагоре от ъгъла за Google асистент</string>
+	   <string name="network_error">"Не може да се свърже с мрежата. Опитайте отново."</string>
+    <string name="russia_preinstall_folder_name">Русия</string>
+    <string name="server_error">Възникна грешка в сървъра. Изчакайте минута-две и опитайте отново.</string>
 </resources>

@@ -213,4 +213,5 @@
     <string name="ai_mode_manual">Ръчно</string>
     <string name="ai_mode_subtitles">Субтитри</string>
 	<string name="description_incoming_video">Профилно видео за входящи повиквания</string>
+	<string name="ai_dial">AI обаждане</string>
 </resources>

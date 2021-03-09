@@ -2067,4 +2067,5 @@ WLAN адрес (BSSID)
     <string name="bluetooth_le_audio_profile_summary_use_for">Използвай за LE_AUDIO</string>
     <string name="quick_settings_sim_disabled">" (Деактивирано)"</string>
 	<string name="face_unlock_success">Отключено успешно</string>
+	<string name="finger_error_single_mode">"Не може да се използва скенер за пръстови отпечатъци в режим с една ръка. Излезте от режим с една ръка и опитайте отново."</string>
 </resources>

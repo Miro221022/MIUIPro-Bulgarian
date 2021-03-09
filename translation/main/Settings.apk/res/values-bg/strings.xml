@@ -8042,4 +8042,7 @@ UT интерфейс: %5$s"</string>
     <string name="miui_sos_pa_title">Местоположение при спешни случаи</string>
     <string name="miui_sos_pa_turn_off">Изключено</string>
     <string name="miui_sos_pa_turn_on">Включено</string>
+	    <string name="bt_leaudio_open_dialog_summary">"Няма да можете да свържете няколко устройства към слушалките си, когато LC3 е включен. Другите свързани устройства ще бъдат прекъснати, ако включите тази функция. Да се включи ли LC3 все пак?"</string>
+    <string name="bt_leaudio_open_dialog_title">Внимание</string>
+    <string name="bt_leaudio_summary">Висококачествено аудио изживяване</string>
 </resources>
