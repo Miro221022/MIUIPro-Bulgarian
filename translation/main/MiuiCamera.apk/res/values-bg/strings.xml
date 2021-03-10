@@ -1745,4 +1745,10 @@
 	    <string name="audio_map_summary_tip">Следете силата на звука на левия и десния канал в реално време и го регулирайте с помощта на плъзгача</string>
     <string name="histogram_summary_tip">Показване на обратна връзка за експозиция в реално време</string>
 	<string name="vv_hint">Можете да снимате влогове само в пейзажен режим</string>
+	    <string name="pref_video_ai_audio_single">Фронтален звук</string>
+    <string name="prek_b_j_o">Пресъздаване на стерео заобикалящ ефект</string>
+    <string name="prek_b_j_p">Намалете въздействието на вятъра върху звукозаписа</string>
+    <string name="prep_video_ai_audio_new_desc_tip">Звуците от фокусирания обект се подобряват</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Звуците зад екрана се филтрират</string>
+    <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Аудио увеличението не работи с монитор в ухото на живо и външен микрофон"</string>
 </resources>

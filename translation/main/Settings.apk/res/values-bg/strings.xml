@@ -2321,7 +2321,7 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="face_data_manage_unlock_title">Отключване чрез данни за лице</string>
      <string name="face_data_siggesstion_next">Следващо</string>
      <string name="face_data_siggesstion_next_time">Следващо (%dсек.)</string>
-     <string name="face_data_suggesstion_first">Проблеми със сигурността: Отключването с лице е по-несигурно от PIN, парола или шаблон. Устройството ви може да се отключи с ваша снимка, както и от хора или предмети с подобен външен вид.</string>
+     <string name="face_data_suggesstion_first">Отключването с лице е по-малко сигурно от ПИН, парола или шаблон. Устройството ви може да бъде отключено с вашата снимка, както и от хора или обекти с подобен външен вид.</string>
      <string name="face_data_suggesstion_second">Уверете се, че всички части на лицето ви не са покрити от предмети и са ясно видими. Лицето ви също трябва да е добре осветено.</string>
      <string name="face_unlock">Отключване с лице</string>
      <string name="face_unlock_be_on_the_screen">Дръжте устройството пред лицето си</string>
@@ -8045,4 +8045,12 @@ UT интерфейс: %5$s"</string>
 	    <string name="bt_leaudio_open_dialog_summary">"Няма да можете да свържете няколко устройства към слушалките си, когато LC3 е включен. Другите свързани устройства ще бъдат прекъснати, ако включите тази функция. Да се включи ли LC3 все пак?"</string>
     <string name="bt_leaudio_open_dialog_title">Внимание</string>
     <string name="bt_leaudio_summary">Висококачествено аудио изживяване</string>
+	    <string name="already_delete_system_app">Деинсталирани системни приложения</string>
+    <string name="codec_low_latency_video_summary">Осигурете аудио изживяване с ниска латентност за игри и видео, правейки синхронизирането на звука и картината по-естествено.</string>
+    <string name="face_data_introduction_add">Начало</string>
+    <string name="headset_notification_switch_summary">Показване на състоянието в приспособлението в панела за известия, когато са свързани слушалки</string>
+    <string name="headset_notification_switch_title">Приспособление в панела за известия</string>
+    <string name="keyboard_skin_follow_system_enable">Превключете към тъмен режим заедно със системата</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">Отказ</string>
+    <string name="miui_face_enroll_risk_warning_title_text">Внимание</string>
 </resources>
