@@ -372,7 +372,7 @@
   <string name="pc_note_edit_text_format_title_level1">Заглавие</string>
   <string name="pc_note_edit_text_format_title_level2">Заглавие</string>
   <string name="pc_note_trash_folder_remind">Тази бележка беше изтрита. Възстановете, за да редактирате.</string>
-  <string name="pc_todo_fast_create_hint">Въведете тест и натиснете \"Въвеждане\", за да добавите незавършена задача</string>
+  <string name="pc_todo_fast_create_hint">Въведете текст и натиснете \"Въвеждане\", за да добавите незавършена задача</string>
   <string name="pc_todo_set_remind_time_hint">Задаване на час</string>
   <string name="permdesc_accessNote">Злонамерените приложения могат да използват това за достъп до личните ви данни.</string>
   <string name="permission_get_account_desc">Синхронизиране на бележки с облака</string>

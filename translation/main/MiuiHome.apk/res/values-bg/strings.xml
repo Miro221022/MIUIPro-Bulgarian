@@ -637,4 +637,7 @@
 	   <string name="network_error">"Не може да се свърже с мрежата. Опитайте отново."</string>
     <string name="russia_preinstall_folder_name">Русия</string>
     <string name="server_error">Възникна грешка в сървъра. Изчакайте минута-две и опитайте отново.</string>
+	   <string name="Деинсталирани системни приложения">Деинсталирани системни приложения</string>
+    <string name="remove_sys_app_content">"Ще можете отново да добавите пряк път към началния екран в Настройки &gt; Приложения &gt; Управление на преките пътища на началния екран. Премахване сега?"</string>
+    <string name="remove_sys_app_title">Премахване на прекия път на началния екран?</string>
 </resources>

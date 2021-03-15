@@ -8053,4 +8053,5 @@ UT интерфейс: %5$s"</string>
     <string name="keyboard_skin_follow_system_enable">Превключете към тъмен режим заедно със системата</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Отказ</string>
     <string name="miui_face_enroll_risk_warning_title_text">Внимание</string>
+	<string name="miheadset_key_config_ANC_list_title">Контрол на шума</string>
 </resources>

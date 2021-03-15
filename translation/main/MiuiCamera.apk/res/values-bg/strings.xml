@@ -1660,7 +1660,7 @@
     <string name="pref_e_p_k">Външен микрофон</string>
     <string name="pref_e_p_s_n">Записвайте звук чрез външен микрофон, когато са свързани микрофонни Bluetooth слушалки</string>
     <string name="pref_i_n_r_b">Интелигентно намаляване на шума</string>
-    <string name="pref_k_s_i">Възпроизвеждайте записан звук в слушалките, когато са свързани</string>
+    <string name="pref_k_s_i">Проследявайте записания звук с помощта на слушалките, когато са свързани</string>
     <string name="pref_n_s_a">Звукови настройки</string>
     <string name="pref_n_s_o_l">Включи</string>
     <string name="pref_n_s_o_m">Изключи</string>
@@ -1751,4 +1751,6 @@
     <string name="prep_video_ai_audio_new_desc_tip">Звуците от фокусирания обект се подобряват</string>
     <string name="prep_video_ai_audio_single_desc_tip">Звуците зад екрана се филтрират</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Аудио увеличението не работи с монитор в ухото на живо и външен микрофон"</string>
+	 <string name="dialog_button_goto">Настройки</string>
+    <string name="remote_online_permission">"Променете разрешението за местоположение на камерата на \"Разрешаване докато се използва приложението\" за да можете да използвате двоен телефонен запис."</string>
 </resources>
