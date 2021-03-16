@@ -1724,7 +1724,7 @@
     <string name="app_course_section">Секция %s</string>
     <string name="app_course_switch_to_dayily">Dневен изглед</string>
     <string name="app_course_switch_to_weekly">Седмичен изглед</string>
-	    <string name="app_travel_card_flight_info_tip">Тази информация е предоставена само за справка. За повече подробности се консултирайте с авиокомпанията.</string>
+	<string name="app_travel_card_flight_info_tip">Тази информация е предоставена само за справка. За повече подробности се консултирайте с авиокомпанията.</string>
     <string name="app_travel_card_train_info_tip">Тази информация е предоставена само за справка. За повече подробности се консултирайте с железопътната компания.</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Откажи</string>
     <string name="miuix_appcompat_action_mode_select_all">Избери всички</string>
@@ -1745,7 +1745,6 @@
     <string name="app_assist_sleep_redownload_dialog_confirm">Настройки</string>
     <string name="app_assist_sleep_redownload_dialog_content">Можете да изтеглите аудио файловете, необходими за тази функция в Настройки.</string>
     <string name="app_assist_sleep_redownload_dialog_title">Изтеглете звуци</string>
-    <string name="app_cancel">Отказ</string>
     <string name="app_download_failure">Изтеглянето е неуспешно</string>
     <string name="app_health_card_completion">Напредък</string>
     <string name="app_health_card_energy">Калории</string>
