@@ -776,4 +776,16 @@ You can get a %d-дневен безплатен пробен период се�
         <item quantity="other">&lt;Data>Актуализиране на &lt;font color=#F22424>%d&lt;/font> приложения&lt;/Data></item>
         <item quantity="one">&lt;Data>Актуализиране на &lt;font color=#F22424>%d&lt;/font> приложение&lt;/Data></item>
     </plurals>
+	    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Превъртане напред с %d секунди</item>
+        <item quantity="one">Превъртане напред с %d секунда</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Връщане с %d секунди</item>
+        <item quantity="one">Връщане с %d секунда</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Устройството ви ще бъде изключено след %d сек.</item>
+        <item quantity="one">Устройството ви ще бъде изключено след %d сек.</item>
+    </plurals>
 </resources>

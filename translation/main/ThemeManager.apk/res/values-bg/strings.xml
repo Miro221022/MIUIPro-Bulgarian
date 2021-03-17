@@ -1100,8 +1100,7 @@ M/dd"</string>
     <string name="no_cta_agreed">"GetApps няма CTA разрешения"</string>
     <string name="no_install_permission">"Нямате разрешения за инсталиране на този елемент"</string>
     <string name="pref_lockscreen_magazine_summary">Заменете тапета с плъзгащи се изображения от различни категории</string>
-    <string name="set_wallpaper_group_success">"%1$s беше приложено.
-Ще виждате ново изображение на всеки час."</string>
+    <string name="set_wallpaper_group_success">Тапетът \"%1$s\" е приложен успешно</string>
     <string name="super_wallpaper_list_label">Супер тапети</string>
     <string name="super_wallpaper_setting_apply_success_toast">Приложено успешно</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Приложи</string>
@@ -1194,4 +1193,6 @@ M/dd"</string>
      <string name="scrollable_wallpaper_close">Изключено превъртане</string>
      <string name="scrollable_wallpaper_open">Включено превъртане</string>
      <string name="set_as_colorring">Задай като персонализиран тон на звънене</string>
+	 <string name="ringtone_confirm_dialog_message">"Продължителността на тази мелодия е относително дълга. Да се използва ли въпреки това?"</string>
+     <string name="ringtone_confirm_dialog_title">Внимание</string>
 </resources>

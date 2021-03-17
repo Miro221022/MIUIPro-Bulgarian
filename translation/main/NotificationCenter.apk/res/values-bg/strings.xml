@@ -248,4 +248,10 @@
      <string name="notification_fold_description3">Ако известията, които смятате за важни, продължават да се показват в папката за известия, уверено ни съобщете за тези проблеми. Бихме оценили вашите отзиви.</string>
      <string name="notification_fold_footer_icon_summary">Показване на иконите на приложенията, когато маловажните известия са групирани</string>
      <string name="notification_fold_footer_icon_title">Показване на иконите на приложенията</string>
+	     <string name="float_notification_snooze_strategy">Временно скриване</string>
+    <string name="float_notification_snooze_summary">Плъзнете нагоре по плаващо известие, за да скриете временно предстоящите</string>
+    <string name="miui_snooze_always_float">"Не скривай"</string>
+    <string name="miui_snooze_cancel">Отказ</string>
+    <string name="miui_snooze_default_time">За %d минута</string>
+    <string name="miui_snooze_until_unlock_screen">Докато е заключен</string>
 </resources>

@@ -146,8 +146,14 @@
     <string name="fast_connect_same_accout_ok">Разбрах</string>
     <string name="bluetooth_le_audio_profile_summary_connected">Свързан към LE_AUDIO</string>
     <string name="bluetooth_le_audio_profile_summary_use_for">Използвай за LE_AUDIO</string>
-	    <string name="miheadset_notification_Box">Box</string>
+	<string name="miheadset_notification_Box">Box</string>
     <string name="miheadset_notification_Disconnect">Пекъсни връзката</string>
     <string name="miheadset_notification_LeftEar">Л</string>
     <string name="miheadset_notification_RightEar">Д</string>
+	<string name="headset_device_error_box_close">Калъфът за зареждане е изключен</string>
+    <string name="headset_device_error_disconnect">И двете слушалки са изключени. Затворете кутията за зареждане и я отворете отново, за да стартирате актуализацията отначало.</string>
+    <string name="headset_device_error_no_device">В кутията за зареждане липсва поне една слушалка</string>
+    <string name="headset_device_error_single_device">"Не може да се актуализира една слушалка. Сдвоете отново."</string>
+    <string name="headset_device_sync_donot_move_device">Синхронизиране… Изчакайте, докато синхронизирането приключи, преди да използвате слушалките.</string>
+    <string name="headset_device_sync_wait_connect">Синхронизиране… Изчакайте, докато връзката се установи автоматично, преди да използвате слушалките.</string>
 </resources>
