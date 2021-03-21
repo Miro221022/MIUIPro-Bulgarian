@@ -171,7 +171,6 @@
   <string name="feedback_choose_third_app_name">Посочете името на приложението</string>
   <string name="feedback_collect_log_failed">Не може да се получат логовете</string>
   <string name="feedback_contact_info_hint">Телефонен номер/Имейл</string>
-  <string name="feedback_continue">Продължете с обратната връзка</string>
   <string name="feedback_delete_images">Изтрий изображенията</string>
   <string name="feedback_description">Описание</string>
   <string name="feedback_description_hint">"Опишете проблема, който сте срещнали тук.
@@ -487,7 +486,6 @@
   <string name="sns_sign_in">Други начини за влизане</string>
   <string name="submit_dialog_cancel">Отказ</string>
   <string name="submit_dialog_confirm">Приемам</string>
-    <string name="submit_dialog_content"><Data>"Трябва да се съгласите с нашите &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> и &lt;a href=\"%2$s\">Потребитеслко споразумение&lt;/a> за да можете да използвате Отзиви. Проблемите, които докладвате заедно с елементите, които приказвате (може да съдържат лична информация, както и информацията за вашето устройство и мрежа), ще бъдат качени на сървърите на MIUI. Това ще ни помогне да намерим и решим проблемите, за които докладвате."</Data></string>
     <string name="submit_dialog_content_global"><Data>"Вашият отзив, заедно с прикачени файлове (ако има такива) и отчетите (можете да премахнете отметката от съответните квадратчета за елементите, които не искате да качвате) ще бъдат изпратени до сървърите на MIUI. Отчетите може да съдържат лична информация и данни за вашето местоположение. Избирането на \"Приемам\" означава, че сте прочели и сте се съгласили с нашите &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> и &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a>."</Data></string>
   <string name="submit_dialog_title">Изпращане на доклад до Mi</string>
   <string name="submit_feedback_info_failed">Не може да се изпрати доклад</string>
@@ -598,4 +596,6 @@
     <string name="miuix_appcompat_select_all">Избери всички</string>
     <string name="miuix_appcompat_select_item">Изберете елементи</string>
     <string name="send">Изпрати</string>
+    <string name="feedback_continue">Изпрати отзива</string>
+    <string name="submit_dialog_content"><Data>"Прочетете и приемете нашите &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> и &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> преди да изпратите обратна връзка. Проблемите, които докладвате заедно с елементите, които прикачвате (включително отчетите, които могат да съдържат лична информация, както и информацията за вашето устройство и мрежа), ще бъдат качени на сървърите на MIUI. Това ще ни помогне да намерим и разрешим проблемите, за които докладвате. Ако докладвате за проблеми, свързани с няколко устройства, отчетите от други устройства, където се използва вашият Mi профил, също ще бъдат качени."</Data></string>
 </resources>

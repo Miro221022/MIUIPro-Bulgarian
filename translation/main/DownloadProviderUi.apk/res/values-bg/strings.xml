@@ -546,7 +546,11 @@
 	<string name="thunder_download_speedup">Повишаване на скоростта с помощта на Xunlei…</string>
     <string name="download_description_content">"Изтеглянията са системно приложение. Няма да можете да управлявате изтеглянията си, след като го премахнете."</string>
     <string name="download_description_title">Премахване на \"Изтегляния\" от началния екран?</string>
-	    <string name="edit_hint2">Въведете HTTP, FTP, магнит или ed2k връзка</string>
+	<string name="edit_hint2">Въведете HTTP, FTP, магнит или ed2k връзка</string>
     <string name="new_add_bt2">Добавете торент задача</string>
     <string name="task_add">Добавя се задача…</string>
+	<string name="tip_download_icon_restore">Добавете пряк път на началния екран за Изтегляния</string>
+    <string name="tip_download_icon_retry">"Не може да се добави пряк път. Опитайте отново."</string>
+    <string name="toast_download_icon_restore_fail">"Не може да се добави пряк път"</string>
+    <string name="toast_download_icon_restore_success">Добавено успешно</string>
 </resources>

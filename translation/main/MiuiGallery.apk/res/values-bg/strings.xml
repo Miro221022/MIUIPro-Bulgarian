@@ -231,7 +231,6 @@
   <string name="backuping_title_gprs">Архивира се чрез мобилни данни…</string>
   <string name="backuping_title_normal">Архивиране…</string>
   <string name="base_btn_cancel">Отказ</string>
-  <string name="base_btn_download">Изтегляне</string>
   <string name="begin_share">Създаден е бебешки албум \"%s\", можете да го споделите сега</string>
   <string name="begin_share_toast">Да се създаде ли отделен албум за това дете преди споделяне?</string>
   <string name="browse_category_title">Показване</string>
@@ -2235,7 +2234,6 @@
     <string name="filter_popular_icesnow">Сняг</string>
     <string name="filter_popular_wintersun">Междинна зима</string>
     <string name="filter_sky_dynamic_text_yanhua">Текст</string>
-    <string name="filter_sky_dynamic_text_yanhua_hint" formatted="false">Въведете %1$d to %1$d знака</string>
     <string name="filter_sky_random_download_failed">"Не може да се изтегли. Код на грешка: "</string>
     <string name="filter_sky_text_yanhua">Текст</string>
     <string name="filter_texture_shadow">Здрач</string>
@@ -2452,9 +2450,27 @@
   <string name="sync_backup_enable_confirm_title">Обединяване на синхронизирани елементи</string>
   <string name="vlog_filter_master_close">Премахнати видео ефекти</string>
   <string name="vlog_filter_master_open">Приложени видео ефекти</string>
-    <string name="album_show_local_only_summary">Опцията за изтриване само на локални албуми ще стане достъпна, когато тази функция е включена</string>
-    <string name="auto_download_media_title">Автоматично изтегляне</string>
-    <string name="cloud_privacy_with_ai_album">Функции и поверителност</string>
-    <string name="cloud_privacy_with_face">Функции и поверителност</string>
-    <string name="show_cloud_albumlist_summary">"Новите елементи от избраните албуми няма да бъдат качени в облака, след като изключите синхронизирането."</string>
+	    <string name="filter_sky_hongxi">Пурпурно</string>
+    <string name="filter_sky_huanxia">Мечта</string>
+    <string name="filter_sky_jiyun">Кълбести</string>
+    <string name="filter_sky_nuanyang">Топлина</string>
+    <string name="filter_sky_xiaying">Алено</string>
+    <string name="filter_sky_xieyang">Здрач</string>
+    <string name="filter_sky_xiguang">Лъчи</string>
+    <string name="filter_sky_yunbo">Вълни</string>
+    <string name="filter_sky_yunmeng">Фантазия</string>
+    <string name="magic_bitmap_damaged">Файлът с изображение е повреден</string>
+    <string name="magic_matting_error_px">"Този размер на изображението не се поддържа"</string>
+    <string name="magic_video_cut_frame">Обработка…</string>
+    <string name="magic_video_cut_frame_back">Докоснете отново, за да отмените</string>
+    <string name="network_message">"Тази функция трябва да се свърже с мрежата, за да работи нормално. Изглежда, че това устройство не е свързано с Wi-Fi. Ще използвате ли мобилни данни, за да продължите? Използването на мобилни данни може да генерира допълнителни такси от оператора."</string>
+    <string name="network_title">Свържете се с мрежата</string>
+    <string name="operation_google_lens">Google обектив</string>
+    <string name="album_show_local_only_summary">Включете, за да преглеждате и изтривате снимки само на вашето устройство</string>
+    <string name="auto_download_media_title">Автоматично изтегляне на снимки от Xiaomi Облак</string>
+    <string name="base_btn_download">Продължаване</string>
+    <string name="cloud_privacy_with_ai_album">Декларация за поверителност при автоматично синхронизиране и обработка на изображения</string>
+    <string name="cloud_privacy_with_face">Декларация за поверителност при автоматично синхронизиране и разпознаване на лица</string>
+    <string name="filter_sky_dynamic_text_yanhua_hint">Въведете от %1$d до %2$d знака</string>
+    <string name="show_cloud_albumlist_summary">Управлявайте албумите, които синхронизирате с облака</string>
 </resources>

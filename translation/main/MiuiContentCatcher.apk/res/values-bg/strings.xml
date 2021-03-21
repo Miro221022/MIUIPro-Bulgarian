@@ -31,4 +31,5 @@
 	<string name="settings_clear_data_confirmation_description">"Ако изтриете паролите сега, ще трябва да ги въведете ръчно следващия път, когато се впишете.
 Изтриване на паролата?"</string>
     <string name="auth_fingerprint_content_message_error">"Отпечатъкът не може да се сканира, опитайте отново"</string>
+	<string name="back_button_label">Назад</string>
 </resources>

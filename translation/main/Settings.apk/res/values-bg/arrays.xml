@@ -1762,4 +1762,12 @@
         <item>Почукване</item>
         <item>Двукратно почукване</item>
     </string-array>
+	    <string-array name="wifi_link_turbo_mode_entries">
+        <item>Спомагателно</item>
+        <item>Пълно</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Увеличете скоростта, като използвате мобилни данни, само когато WLAN сигналът е лош</item>
+        <item>Комбинирайте WLAN и мобилни данни, за да увеличите скоростта на връзката</item>
+    </string-array>
 </resources>

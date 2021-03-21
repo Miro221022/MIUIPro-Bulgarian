@@ -1753,4 +1753,8 @@
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Аудио увеличението не работи с монитор в ухото на живо и външен микрофон"</string>
 	 <string name="dialog_button_goto">Настройки</string>
     <string name="remote_online_permission">"Променете разрешението за местоположение на камерата на \"Разрешаване докато се използва приложението\" за да можете да използвате двоен телефонен запис."</string>
+	    <string name="accessibility_double_click_to_exit">Докоснете два пъти, за да излезете</string>
+    <string name="accessibility_lock_focus_success">Заключен фокус успешно</string>
+    <string name="accessibility_touch_focus_fail">"Не може да се фокусира"</string>
+    <string name="accessibility_touch_focus_success">Фокусирано успешно</string>
 </resources>
