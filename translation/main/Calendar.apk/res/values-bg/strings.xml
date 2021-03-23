@@ -715,4 +715,16 @@
     <string name="icon_remove_confirm">Премахване</string>
     <string name="icon_remove_description_content">"Календаръ е системно приложение. То ви позволява да създавате събития и да ги управлявате. Все още ще можете да използвате Календар чрез приспособлението за начален екран от личен асистент, след като премахнете прекия път на началния екран."</string>
     <string name="icon_remove_description_title">Премахване на \"Календар\" от началния екран?</string>
+	<string name="calendar_privacy_policy">Политика за поверителност</string>
+    <string name="calendar_user_agreement">Потребителско споразумение</string>
+    <string name="copy">Копирай</string>
+    <string name="expand_button_title">Разширени</string>
+    <string name="miuix_appcompat_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_select_all">Избери всички</string>
+    <string name="miuix_appcompat_select_item">Изберете елементи</string>
+    <string name="not_set">Не е зададено</string>
+    <string name="preference_copied">\"%1$s\" е копирани в буферната памет.</string>
+    <string name="prefsx_notify_sound_none">Безшумен</string>
+    <string name="v7_preference_off">ИЗКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
 </resources>

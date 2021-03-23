@@ -8058,4 +8058,8 @@ UT интерфейс: %5$s"</string>
 	<string name="wifi_link_turbo_mode">Режим за ускоряване на скоростта</string>
     <string name="wifi_assistant_data_prompt">Показване на предупреждението за използване на данни</string>
     <string name="wifi_link_turbo_summary">Използвайте мобилни данни, за да увеличите скоростта на връзката. Използването на тази функция може да генерира допълнителни такси от оператора.</string>
+	    <string name="add_one_text_app_name_once">Можете да добавяте по един всеки път</string>
+    <string name="add_text_app_name">Добавете пакет на приложението за тестване</string>
+    <string name="add_text_app_name_here">Въведете име на пакета</string>
+    <string name="add_text_app_package_name">Добавете пакет на приложението за тестване</string>
 </resources>

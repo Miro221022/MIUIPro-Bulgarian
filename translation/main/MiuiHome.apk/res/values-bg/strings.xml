@@ -640,4 +640,5 @@
 	   <string name="Деинсталирани системни приложения">Деинсталирани системни приложения</string>
     <string name="remove_sys_app_content">"Ще можете отново да добавите пряк път към началния екран в Настройки &gt; Приложения &gt; Управление на преките пътища на началния екран. Премахване сега?"</string>
     <string name="remove_sys_app_title">Премахване на прекия път на началния екран?</string>
+	<string name="default_folder_title_hot">Популярни приложения</string>
 </resources>

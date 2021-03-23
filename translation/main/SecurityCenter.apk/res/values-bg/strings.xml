@@ -4364,4 +4364,14 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="notification_exit_power_save_mode_subtitle">Вашето устройство е заредено до %s в момента</string>
     <string name="notification_low_battery_need_charge">Свържете зарядно</string>
     <string name="superpower_notification_summary">Заредете устройството си или включете Свръх пестене на батерия</string>
+	<string name="gamebox_collimator">Гледка</string>
+    <string name="gamebox_time">Таймер</string>
+    <string name="gb_collimator_color">Цвят</string>
+    <string name="gb_collimator_size">Размер</string>
+    <string name="gb_collimator_style">Тип</string>
+    <string name="gb_collimator_toast">Изгледът прави прицелването много по-удобно</string>
+    <string name="gb_game_time_toast">Таймерът е наличен сега!</string>
+    <string name="gb_not_support_on_device">"Това приложение не може да се използва на външния екран"</string>
+    <string name="vb_ve_settings_ai_stronger">ИИ</string>
+    <string name="vtb_func_display_style_desc0">ИИ може да разпознава хора, животни, растения, небе, сгради и други обекти, представени във видеоклипове, и динамично да ги подобрява.</string>
 </resources>
