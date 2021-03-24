@@ -572,4 +572,5 @@
     <string name="web_url">Адрес</string>
     <string name="wifi_low_version_prompt">WLAN трябва да се включи ръчно</string>
      <string name="translate_try_again">Уверете се, че текстът е ясно видим</string>
+	 <string name="picture">Галерия</string>
 </resources>

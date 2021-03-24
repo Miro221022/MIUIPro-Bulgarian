@@ -8062,4 +8062,5 @@ UT интерфейс: %5$s"</string>
     <string name="add_text_app_name">Добавете пакет на приложението за тестване</string>
     <string name="add_text_app_name_here">Въведете име на пакета</string>
     <string name="add_text_app_package_name">Добавете пакет на приложението за тестване</string>
+	<string name="miheadset_adaptive">Адаптивно</string>
 </resources>
