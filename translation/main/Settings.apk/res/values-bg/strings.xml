@@ -8063,4 +8063,8 @@ UT интерфейс: %5$s"</string>
     <string name="add_text_app_name_here">Въведете име на пакета</string>
     <string name="add_text_app_package_name">Добавете пакет на приложението за тестване</string>
 	<string name="miheadset_adaptive">Адаптивно</string>
+	   <string name="mechanical_ime">Механична клавиатура</string>
+    <string name="mechanical_ime_hint">Поддържа се само от клавиатура, персонализирана за Xiaomi</string>
+    <string name="xiaomi_hp_location">активиране на местоположение с висока прецизност</string>
+    <string name="xiaomi_hp_location_description">подобряване на точността на GNSS чрез достъп до високо прецизна мрежа</string>
 </resources>

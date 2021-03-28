@@ -278,8 +278,6 @@
   <string name="weather_service_channel_name">Услуги на заден план</string>
   <string name="wind_direction_no_data">Вятър</string>
   <string name="wind_unit">%1$sкм/ч</string>
-  <string name="xiaomi_weather_description_content">Времето ви предоставя точна информация за метеорологичната обстановка. Без това приложение, лентата за известия и приспособлението за време на началния екран няма да работят правилно. Уверете се, че можете да използвате устройството си без тези функции, преди да деинсталирате приложението.</string>
-  <string name="xiaomi_weather_description_title">Относно Времето</string>
   <string name="yes_vote_ratio">За %1$s%%</string>
   <string name="your_location">Вашето местоположение</string>
   <string name="widget_cta_not_agree">Докоснете, за да получите информация за времето</string>
@@ -422,4 +420,8 @@
      <string name="button_settings_confirm">Оттегляне</string>
      <string name="button_settings_confirm_to_revoke_msg">Изключвайки превключвателя, вие оттегляте своето съгласие с Политиката за поверителност на Времето. Ние ще спрем да събираме вашата лична информация. Вече събраната и запазена лична информация ще бъде изтрита в рамките на конкретния срок, както се изисква от приложимото законодателство. Времето трябва да събира необходимата лична информация, за да ви предостави основни услуги. Вашето оттегляне на съгласието с неговата Политика за поверителност ще се счита за отказ да приемете услугите въз основа на събрана лична информация.</string>
      <string name="privacy_grant_or_revoke_settings">Оттегляне на съгласие</string>
+	    <string name="xiaomi_weather_description_content_remove">"Времето е системно приложение. Няма да можете да преглеждате информация за времето или да използвате свързани приспособления, след като премахнете прякия път на началния екран."</string>
+    <string name="xiaomi_weather_description_title_remove">Премахване на \"Времето\" от началния екран?</string>
+	    <string name="xiaomi_weather_description_content">"Времето е системно приложение. Няма да можете да преглеждате информация за времето или да използвате свързани приспособления, след като деинсталирате приложението."</string>
+    <string name="xiaomi_weather_description_title">Деинсталиране на \"Времето\"?</string>
 </resources>

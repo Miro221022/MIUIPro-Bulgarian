@@ -205,7 +205,6 @@
   <string name="reveries">Мечти (стерео)</string>
   <string name="atlantis">Atlantis (стерео)</string>
     <string name="miui_clock_city_name_local">Локално</string>
-    <string name="miui_clock_city_name_second">Втори часовник</string>
     <string name="wallpaper_group_natural_texture_title">Модели на природата</string>
     <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen и други</string>
     <string name="wallpaper_group_geometric_title">Геометрия</string>
@@ -226,7 +225,6 @@ d MMMM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
 d MMMM"</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Още системни тапети</string>
-	    <string name="wallpaper_group_color_move_title">Течни цветове</string>
     <string name="wallpaper_group_sgn_mountain_title">Планината Сигунянг</string>
 	    <string name="africaanimals_preview">Савана</string>
     <string name="amazonanimals_preview">Дъждовна гора</string>

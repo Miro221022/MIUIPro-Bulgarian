@@ -484,7 +484,6 @@
 	<string name="usage_device_limit_app_prolong_time5">Добави време веднъж</string>
     <string name="fps_standard_summary">Стандартната честота на опресняване пести батерия</string>
     <string name="fps_standard_title">Стандартно</string>
-    <string name="fps_user_tip">Тези демо анимации се възпроизвеждат с ниска скорост. Действителната производителност може да изглежда различно въз основа на различни фактори.</string>
 	<string name="usage_new_home_week_average_count">Средно %s</string>
     <string name="usage_new_home_week_compare_text1_new">(%s%% повече от миналата седмица)</string>
     <string name="usage_new_home_week_compare_text2_new">(%s%% по-малко от миналата седмица)</string>
@@ -754,4 +753,8 @@
     <string name="miuix_appcompat_select_all">Избери всички</string>
     <string name="miuix_appcompat_select_all_description">Избери всички</string>
     <string name="miuix_appcompat_select_item">Изберете елементи</string>
+	<string name="adaptive_fps_tip">2. Постигнете най-добрия баланс между плавността и живота на батерията чрез динамично регулиране на скоростта на опресняване.</string>
+    <string name="close">Затвори</string>
+    <string name="send">Изпрати</string>
+	<string name="fps_user_tip">1. Тези демо анимации се възпроизвеждат с ниска скорост. Действителната производителност може да изглежда различно въз основа на различни фактори.</string>
 </resources>
