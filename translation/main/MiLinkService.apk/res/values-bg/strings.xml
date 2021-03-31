@@ -247,4 +247,6 @@
     <string name="miuix_appcompat_select_all_description">Избери всички</string>
     <string name="miuix_appcompat_select_item">Изберете елементи</string>
     <string name="send">Изпрати</string>
+	    <string name="dialog_scanning_precondition_new_china">Включете WLAN, Bluetooth и услуги за местоположение, за да можете да използвате излъчване. Да се включи ли сега?</string>
+    <string name="dialog_scanning_precondition_new_global">Включете WLAN, Bluetooth и услуги за местоположение, за да можете да използвате излъчване. Да се включи ли сега?</string>
 </resources>

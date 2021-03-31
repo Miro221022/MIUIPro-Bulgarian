@@ -4374,4 +4374,24 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="gb_not_support_on_device">"Това приложение не може да се използва на външния екран"</string>
     <string name="vb_ve_settings_ai_stronger">ИИ</string>
     <string name="vtb_func_display_style_desc0">ИИ може да разпознава хора, животни, растения, небе, сгради и други обекти, представени във видеоклипове, и динамично да ги подобрява.</string>
+	    <string name="cetus_invisible_mode">Инкогнито</string>
+    <string name="cetus_invisible_mode_description_card">Спиране на разрешенията</string>
+    <string name="cetus_invisible_mode_description_switch">Включете, за да спрете разрешенията за микрофон, камера и местоположение за всички приложения</string>
+    <string name="cetus_invisible_mode_warn_all">"Вие сте инкогнито. Разрешенията за микрофон, камера и местоположение са спрени."</string>
+    <string name="cetus_invisible_mode_warn_camera">"Вие сте инкогнито. Разрешенията на камерата са спрени."</string>
+    <string name="cetus_invisible_mode_warn_location">"Вие сте инкогнито. Разрешенията за местоположение са спрени."</string>
+    <string name="cetus_invisible_mode_warn_record_audio">"Вие сте инкогнито. Разрешенията за микрофон са спрени."</string>
+    <string name="power_center_night_charge_noti_subtitle">Батерията ще бъде напълно заредена от %s</string>
+    <string name="power_center_night_charge_noti_title">Оптимизираното зареждане е включено</string>
+    <string name="power_center_night_charge_protection">Оптимизирано зареждане</string>
+    <string name="power_center_night_charge_protection_setting">Вижте още опции в Сигуност > Батерия.</string>
+    <string name="power_center_night_charge_protection_summary">За да намали стареенето на батерията, MIUI се учи от ежедневната ви рутина на зареждане, за да намали ненужното непрекъснато зареждане</string>
+    <string name="power_dailog_night_charge_protection_done">Разбрах</string>
+    <string name="power_dailog_night_charge_protection_summary">Изглежда, че батерията ви е напълно заредена през повечето време, което може да ускори стареенето. MIUI включи оптимизирано зареждане, за да избегнете подобни проблеми.</string>
+    <string name="storage_clear_available_total_size">%1$s/%3$s заето | %2$s налично</string>
+    <string name="storage_clear_cache">Освободи %s</string>
+    <string name="storage_clear_cache_deep">Освободете място за съхранение</string>
+    <string name="storage_clear_cache_large">Освободи %s</string>
+    <string name="storage_clear_more_tools">Още инструменти за почистване</string>
+    <string name="storage_clear_video">Изчистване на видео кеша</string>
 </resources>

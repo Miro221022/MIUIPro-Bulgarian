@@ -1972,4 +1972,5 @@
 	   <string name="sensor_answer_summary">Приближете телефона до ухото си, за да отговорите автоматично на входящо повикване</string>
     <string name="sensor_answer_title">Вдигнете, за да отговорите</string>
 	<string name="select_apn_list_title">Изберете APN по подразбиране: за карта%1$s</string>
+	<string name="wfcmode_ims_preferred">Предпочита се IMS</string>
 </resources>

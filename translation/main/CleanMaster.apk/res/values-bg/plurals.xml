@@ -176,4 +176,8 @@
         <item quantity="other">%d приложения с кеширани видеоклипове</item>
         <item quantity="one">%d приложение с кеширани видеоклипове</item>
     </plurals>
+	    <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">%1$s аудио фйла</item>
+        <item quantity="one">%1$s аудио файл</item>
+    </plurals>
 </resources>

@@ -8065,6 +8065,16 @@ UT интерфейс: %5$s"</string>
 	<string name="miheadset_adaptive">Адаптивно</string>
 	   <string name="mechanical_ime">Механична клавиатура</string>
     <string name="mechanical_ime_hint">Поддържа се само от клавиатура, персонализирана за Xiaomi</string>
-    <string name="xiaomi_hp_location">активиране на местоположение с висока прецизност</string>
-    <string name="xiaomi_hp_location_description">подобряване на точността на GNSS чрез достъп до високо прецизна мрежа</string>
+	    <string name="bluetooth_message_access_dialog_content">"Ненадеждно Bluetooth устройство, %1$s, иска да осъществи достъп до вашите съобщения.
+
+Не сте се свързали с %2$s преди."</string>
+    <string name="bluetooth_message_access_dialog_title">Разрешаване на достъп до съобщенията?</string>
+    <string name="bluetooth_message_access_notification_content">Ненадеждно устройство иска достъп до вашите съобщения. Докоснете за подробности.</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"Ненадеждно Bluetooth устройство, %1$s, иска да осъществи достъп до вашите контакти и списък с повиквания. Това включва данни за входящи и изходящи повиквания.
+
+Не сте се свързали с %2$s преди."</string>
+    <string name="bluetooth_phonebook_access_dialog_title">Разрешаване на достъп до контактите и списъка с повикванията?</string>
+    <string name="bluetooth_phonebook_access_notification_content">Ненадеждно устройство иска достъп до вашите контакти и списък с повиквания. Докоснете за подробности.</string>
+	<string name="xiaomi_hp_location">xiaomi_hp_location>Прецизен достъп до местоположението</string>
+    <string name="xiaomi_hp_location_description">Прецизната информация за местоположението позволява точна навигация</string>
 </resources>

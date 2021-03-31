@@ -209,4 +209,6 @@
   <string name="dialog_miplay_permission_positive">Настройки</string>
   <string name="dialog_miplay_permission_title">Изискват се разрешения</string>
   <string name="synergy_casting">"Не може да се използва излъчване, докато Screen Combo работи"</string>
+      <string name="dialog_scanning_precondition_new_china">Включете WLAN, Bluetooth и услуги за местоположение, за да можете да използвате излъчване. Да се включи ли сега?</string>
+    <string name="dialog_scanning_precondition_new_global">Включете WLAN, Bluetooth и услуги за местоположение, за да можете да използвате излъчване. Да се включи ли сега?</string>
 </resources>

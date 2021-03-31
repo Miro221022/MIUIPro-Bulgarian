@@ -183,4 +183,10 @@
     <string name="align_left_vertically">Подредено и подравнено от ляво</string>
     <string name="align_right_horizontally">Хоризонтално и дясно подравнено</string>
     <string name="align_right_vertically">Подредено и дясно подравнено</string>
+	    <string name="close">Затвори</string>
+    <string name="date_time_picker_dialog_title">Изберете дата и час</string>
+    <string name="miuix_appcompat_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_select_all">Избери всички</string>
+    <string name="miuix_appcompat_select_item">Изберете елементи</string>
+    <string name="send">Изпрати</string>
 </resources>

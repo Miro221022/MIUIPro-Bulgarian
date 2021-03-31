@@ -553,8 +553,6 @@
   <string name="dlg_ok">OК</string>
   <string name="dnd_is_off">Не ме безпокийте е изключен</string>
   <string name="dnd_notification_warnings_title">Не ме безпокойте е включен. Повикванията и известията ще бъдат заглушени</string>
-  <string name="do_disclosure_generic">Това устройство се управлява от вашата организация</string>
-  <string name="do_disclosure_with_name">Това устройство се управлява от %s</string>
   <string name="do_not_silence">Не заглушавай</string>
   <string name="do_not_silence_block">Без блокиране или заглушаване</string>
   <string name="dock_forced_resizable">Приложението може да не работи в Разделен екран</string>
@@ -2068,7 +2066,7 @@ WLAN адрес (BSSID)
     <string name="quick_settings_sim_disabled">" (Деактивирано)"</string>
 	<string name="face_unlock_success">Отключено успешно</string>
 	<string name="finger_error_single_mode">"Не може да се използва скенер за пръстови отпечатъци в режим с една ръка. Излезте от режим с една ръка и опитайте отново."</string>
-	    <string name="float_notification_snooze_strategy">Hide floating notifications temporarily</string>
+	    <string name="float_notification_snooze_strategy">Временно скриване на плаващи известия</string>
     <string name="miui_snooze_always_float">"Не скривай"</string>
     <string name="miui_snooze_cancel">Отказ</string>
     <string name="miui_snooze_default_time">За %d минута</string>
@@ -2078,4 +2076,6 @@ WLAN адрес (BSSID)
     <string name="miui_snooze_until_unlock_screen">Докато е заключено</string>
     <string name="miui_snooze_user_set_fail">Отидете в Настройки > Известия и Център за управление за още опции</string>
     <string name="miui_snooze_user_set_success">Приложено успешно. Отидете в Настройки > Известия и Център за управление за още опции.</string>
+	    <string name="do_disclosure_generic">Това устройство принадлежи на вашата организация</string>
+    <string name="do_disclosure_with_name">Това устройство принадлежи на %s</string>
 </resources>

@@ -136,4 +136,8 @@
         <item quantity="other">%1$s елемента</item>
         <item quantity="one">%1$s елемент</item>
     </plurals>
+		    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d избрани лемента</item>
+        <item quantity="one">%d избран елемент</item>
+    </plurals>
 </resources>

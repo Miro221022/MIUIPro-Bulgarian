@@ -337,4 +337,6 @@
     <string name="clear_data_dialog_title">Изчистване на данните сега?</string>
     <string name="notification_save_as_complete">Запазено успешно</string>
     <string name="save_as">Запази като</string>
+	   <string name="remove_icon_description_content">"Звукозапис е системно приложение. Няма да можете да управлявате записите, след като премахнете прякия път на началния екран."</string>
+    <string name="remove_icon_description_title">Премахване на \"Звукозапис\" от началния екран?</string>
 </resources>

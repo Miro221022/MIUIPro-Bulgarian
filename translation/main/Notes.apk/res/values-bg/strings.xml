@@ -332,7 +332,7 @@
   <string name="note_mindnote_entrance_hint_newversion">"Започнете да пишете "</string>
   <string name="note_mindnote_entrance_icon_text">Създайте мисловна карта</string>
   <string name="note_mindnote_entrance_icon_text_newversion">Създаване на мисловна карта</string>
-  <string name="note_sort_way">Подредба на бележките</string>
+  <string name="note_sort_way">Сортиране</string>
   <string name="notealert_enter">Покажи</string>
   <string name="notealert_ok">Игнорирай</string>
   <string name="notelist_string_info">…</string>
@@ -644,4 +644,9 @@
   <string name="xiaomi_market_sdk_update_dialog_ok">Актуализация</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
   <string name="yesterday">Вчера</string>
+  	<string name="close">Затвори</string>
+    <string name="miuix_appcompat_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_select_all">Избери всички</string>
+    <string name="miuix_appcompat_select_item">Изберете елементи</string>
+    <string name="send">Изпрати</string>
 </resources>
