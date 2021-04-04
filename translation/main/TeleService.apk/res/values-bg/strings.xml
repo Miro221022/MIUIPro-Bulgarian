@@ -1973,4 +1973,12 @@
     <string name="sensor_answer_title">Вдигнете, за да отговорите</string>
 	<string name="select_apn_list_title">Изберете APN по подразбиране: за карта%1$s</string>
 	<string name="wfcmode_ims_preferred">Предпочита се IMS</string>
+	    <string name="call_fold_setting">Сгъване и разгъване</string>
+    <string name="call_fold_setting_title">Сгъване и разгъване</string>
+    <string name="fold_answer_pref_summary">Сгънете устройството, за да приеме автоматично входящо повикване</string>
+    <string name="fold_answer_pref_title">Сгънете, за да приемате обаждания</string>
+    <string name="unfold_close_camera_pref_summary">Разгънете устройството по време на видео разговор, за да изключите камерата</string>
+    <string name="unfold_close_camera_pref_title">Разгънете, за да изключите камерата</string>
+    <string name="unfold_speaker_pref_summary">Разгънете устройството по време на разговор, за да включите високоговорителя</string>
+    <string name="unfold_speaker_pref_title">Разгънете, за да използвате високоговорител</string>
 </resources>

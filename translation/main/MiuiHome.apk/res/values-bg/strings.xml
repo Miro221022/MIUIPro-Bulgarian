@@ -641,4 +641,11 @@
     <string name="remove_sys_app_content">"Ще можете отново да добавите пряк път към началния екран в Настройки &gt; Приложения &gt; Управление на преките пътища на началния екран. Премахване сега?"</string>
     <string name="remove_sys_app_title">Премахване на прекия път на началния екран?</string>
 	<string name="default_folder_title_hot">Популярни приложения</string>
+	    <string name="default_screen_preview_title_inner_display">Задайте основен екран по подразбиране</string>
+    <string name="default_screen_preview_title_outer_display">Задайте външен екран по подразбиране</string>
+    <string name="icon_size_inner_display">Размер на иконите на главния екран</string>
+    <string name="menu_cell_setting_inner_display">Оформление на основния екран</string>
+    <string name="menu_default_screen_preview_inner_display">Задайте основен екран по подразбиране</string>
+    <string name="menu_default_screen_preview_outer_display">Задайте външен екран по подразбиране</string>
+    <string name="screen_cells_config_title_inner_display">Оформление на основния екран</string>
 </resources>

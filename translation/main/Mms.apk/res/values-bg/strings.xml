@@ -1137,4 +1137,30 @@
     <string name="pref_title_enable_ad_notification">Промоционални съобщения</string>
 	<string name="no_dialogue_yet">Изберете разговор</string>
 	<string name="rcs_chatbot_blocked_tip">"Това мини приложение е блокирано. Не може да се стартира разговор."</string>
+	    <string name="date_time_picker_dialog_title">Задайте дата и час</string>
+    <string name="messages_installed_notification_text_xiaomi">Докоснете, за да започнете чат</string>
+    <string name="messages_installed_notification_title_xiaomi">Съобщения е инсталирано</string>
+    <string name="miuix_appcompat_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_select_all">Избери всички</string>
+    <string name="miuix_appcompat_select_item">Изберете елементи</string>
+    <string name="notification_channel_name_xiaomi">Известия за надстройка на приложението</string>
+    <string name="privacy_revoke_nonetwork_msg">Вашето устройство трябва да се свърже с мрежата, за да можете да оттеглите съгласието си. Проверете мрежовите настройки и опитайте отново.</string>
+    <string name="privacy_revoke_nonetwork_ok">Разбрах</string>
+    <string name="privacy_revoke_nonetwork_title">"Не може да се свърже с мрежата"</string>
+    <string name="promo_back_btn_text_xiaomi">Връщане към Mi Message</string>
+    <string name="promo_install_btn_text">Следващо</string>
+    <string name="promo_install_bullet_1_xiaomi">Използвайте Google Assistant за текстове и задачи</string>
+    <string name="promo_install_bullet_2_xiaomi">Поддържайте текущите си разговори и медия</string>
+    <string name="promo_install_bullet_3_xiaomi">Намирайте лесно споделени съобщения и медия</string>
+    <string name="promo_install_bullet_4_xiaomi">Използвайте Messages като приложение за SMS по подразбиране</string>
+    <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Научете повече</a></string>
+    <string name="promo_install_subtitle_xiaomi">Получете по-богат и по-качествен чат по Wi-Fi или данни. Инсталирайте Съобщения и го използвайте като приложение за SMS по подразбиране. <a href="https://support.google.com/messages/answer/6089066">Научете повече</a></string>
+    <string name="promo_install_title_xiaomi">Xiaomi препоръчва надстройка до Messages от Google</string>
+    <string name="promo_launch_messages_btn_text">Отворете Messages</string>
+    <string name="promo_no_thanks_btn_text_xiaomi">Не благодаря</string>
+    <string name="promo_post_install_animation_alt_text_xiaomi">Messages от Google вече е приложението ви за SMS по подразбиране. За да поставите Google Messages като фаворит на началния екран, натиснете продължително Mi Message и го преместете от предпочитани, след това продължително натиснете Messages и го преместете в любими.</string>
+    <string name="promo_post_install_title_no_default_xiaomi">Заменете Mi Message с по-висококачествени съобщения от Google</string>
+    <string name="promo_post_install_title_with_default_xiaomi">Започнете по-висококачествени текстови съобщения сега с Messages от Google</string>
+    <string name="promo_use_messages_btn_text">Използвай Messages</string>
+    <string name="small_window_log_text">"Камерата не може да се използва в режим на няколко прозореца"</string>
 </resources>

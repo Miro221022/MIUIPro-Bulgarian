@@ -85,4 +85,8 @@
     <item quantity="other">%d получатели</item>
     <item quantity="one">%d получател</item>
   </plurals>
+      <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d избрани елемента</item>
+        <item quantity="one">%d избран елемент</item>
+    </plurals>
 </resources>

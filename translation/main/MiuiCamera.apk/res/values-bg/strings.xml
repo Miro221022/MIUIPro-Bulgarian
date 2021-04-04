@@ -1757,4 +1757,7 @@
     <string name="accessibility_lock_focus_success">Заключен фокус успешно</string>
     <string name="accessibility_touch_focus_fail">"Не може да се фокусира"</string>
     <string name="accessibility_touch_focus_success">Фокусирано успешно</string>
+	   <string name="accessibility_multi_cam_reselect_button">Изберете камери отново</string>
+    <string name="accessibility_pro_parameters_panel_on">Отворете менюто с PRO параметри</string>
+    <string name="super_night_owl_toast">Дръжте телефона си стабилно</string>
 </resources>

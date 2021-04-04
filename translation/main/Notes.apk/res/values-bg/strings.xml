@@ -649,4 +649,11 @@
     <string name="miuix_appcompat_select_all">Избери всички</string>
     <string name="miuix_appcompat_select_item">Изберете елементи</string>
     <string name="send">Изпрати</string>
+	    <string name="audio_btn_mode_meeting">Среща</string>
+    <string name="audio_btn_mode_single">Един човек</string>
+    <string name="audio_btn_trans">Китайско-английски превод</string>
+    <string name="audio_dialog_mode_meeting">Режим за среща (Бета)</string>
+    <string name="audio_dialog_mode_meeting_exit">Не благодаря</string>
+    <string name="audio_dialog_mode_meeting_sum">Режимът за среща ви позволява да разпознавате гласовете на до 4 различни души. Възможно е да възникнат някои грешки при разпознаване в бета версията.</string>
+    <string name="audio_dialog_mode_meeting_use">Начало</string>
 </resources>

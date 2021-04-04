@@ -370,4 +370,9 @@
 	<string name="turn_on_work_profile">Включи</string>
 	    <string name="application_cannot_open_alipay_health_code">"Не можа да се отвори здравният код на Alipay"</string>
     <string name="application_cannot_open_weixin_health_code">"Не можа да се отвори здравният код на WeChat"</string>
+	    <string name="relaunch_dialog_alwaysUsePrompt">Запомни избора ми</string>
+    <string name="relaunch_dialog_button_cancel">Отказ</string>
+    <string name="relaunch_dialog_button_confirm">OK</string>
+    <string name="relaunch_dialog_message">"Не можете да коригирате размера на прозореца, докато използвате приложението. Можете да рестартирате приложението, за да коригирате размера на прозореца, но данните за приложението, генерирани по време на тази сесия, ще бъдат загубени. Да се рестартира ли все пак?"</string>
+    <string name="relaunch_dialog_title">Рестарт \"%s\"?</string>
 </resources>

@@ -1195,4 +1195,13 @@ M/dd"</string>
      <string name="set_as_colorring">Задай като персонализиран тон на звънене</string>
 	 <string name="ringtone_confirm_dialog_message">"Продължителността на тази мелодия е относително дълга. Да се използва ли въпреки това?"</string>
      <string name="ringtone_confirm_dialog_title">Внимание</string>
+	 <string name="wallpaper_apply_full">Приложи и на двата</string>
+    <string name="wallpaper_apply_large">Приложи на главния екран</string>
+    <string name="wallpaper_apply_small">Приложи на външния екран</string>
+    <string name="wallpaper_set_as_both_large">Задай и двете на главния екран</string>
+    <string name="wallpaper_set_as_both_small">Задай и двете на външния екран</string>
+    <string name="wallpaper_set_as_desktop_large">Задай като основен начален екран</string>
+    <string name="wallpaper_set_as_desktop_small">Задай като външен начален екран</string>
+    <string name="wallpaper_set_as_lockscreen_large">Задай като основен заключен екран</string>
+    <string name="wallpaper_set_as_lockscreen_small">Задай като външен заключен екран</string>
 </resources>

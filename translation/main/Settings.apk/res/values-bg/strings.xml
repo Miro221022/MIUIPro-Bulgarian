@@ -8077,4 +8077,27 @@ UT интерфейс: %5$s"</string>
     <string name="bluetooth_phonebook_access_notification_content">Ненадеждно устройство иска достъп до вашите контакти и списък с повиквания. Докоснете за подробности.</string>
 	<string name="xiaomi_hp_location">xiaomi_hp_location>Прецизен достъп до местоположението</string>
     <string name="xiaomi_hp_location_description">Прецизната информация за местоположението позволява точна навигация</string>
+	<string name="headset_find_both">Both</string>
+    <string name="headset_find_cancel">Отказ</string>
+    <string name="headset_find_connected">Свързан</string>
+    <string name="headset_find_disconnect">Не е свързан</string>
+    <string name="headset_find_handle_tip">Докоснете, за да пуснете аларма</string>
+    <string name="headset_find_left">Ляво</string>
+    <string name="headset_find_notify_connected">Свързан</string>
+    <string name="headset_find_notify_disconnect">Прекъснато. Свържете се и опитайте отново.</string>
+    <string name="headset_find_play_warning">Изглежда поне една от слушалките е в ухото ви. Пускането на алармата сега може да увреди слуха ви. Извадете слушалките от ушите си, преди да продължите.</string>
+    <string name="headset_find_playing">Изпълнява се…</string>
+    <string name="headset_find_query_play">Изпълни</string>
+    <string name="headset_find_right">Дясно</string>
+    <string name="headset_find_tip">Слушалките ви трябва да са наблизо и да са свързани с това устройство, за да можете да ги намерите. Пускането на алармата, докато поне една от слушалките е в ухото ви, може да увреди слуха ви.</string>
+    <string name="headset_find_tip_title">Внимание</string>
+    <string name="headset_find_title">Намерете слушалките си</string>
+    <string name="headset_find_voice_warning">Предупреждение за силен звук</string>
+	<string name="dclight_unavailable_prompt">Режимът против трептене се поддържа само от външния екран</string>
+    <string name="display_prompt_confirm">Разбрах</string>
+    <string name="keyguard_notification_status_title">Когато известията дойдат и екранът е изключен</string>
+    <string name="launcher_wallpaper_title">Начален екран и тапет</string>
+    <string name="lock_screen_after_fold_screen_summary">"Устройството ще се заключи, след като го сгънете, с изключение на случаите, когато използвате предната камера или високоговорител."</string>
+    <string name="lock_screen_after_fold_screen_title">Сгънете, за да заключите</string>
+    <string name="screen_refresh_unavailable_prompt">Промяната на честотата на опресняване се поддържа само от външния екран</string>
 </resources>
