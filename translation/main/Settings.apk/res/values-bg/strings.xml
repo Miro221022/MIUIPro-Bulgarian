@@ -7762,7 +7762,6 @@ UT интерфейс: %5$s"</string>
     <string name="tether_password_illegal_character">Паролата съдържа неподходящи символи. Моля, въведете отново</string>
   <string name="save_battery_mode_summary">Автоматично превключване на разделителната способност, за да спестите енергия</string>
       <string name="headset_connectiong">Свързване…</string>
-    <string name="miheadset_in_ear_check_summary">Пауза и възобновяване на възпроизвеждането автоматично, когато слагате или сваляте слушалки</string>
     <string name="miheadset_moreSettingsInAi">Допълнителни настройки</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Потискане на шума</string>
@@ -8100,4 +8099,6 @@ UT интерфейс: %5$s"</string>
     <string name="lock_screen_after_fold_screen_summary">"Устройството ще се заключи, след като го сгънете, с изключение на случаите, когато използвате предната камера или високоговорител."</string>
     <string name="lock_screen_after_fold_screen_title">Сгънете, за да заключите</string>
     <string name="screen_refresh_unavailable_prompt">Промяната на честотата на опресняване се поддържа само от външния екран</string>
+	<string name="miheadset_in_ear_check">Откриване в ухото</string>
+    <string name="miheadset_in_ear_check_summary">"Поставяне на пауза звука при изваждане на слушалките и възобновете автоматично, когато ги поставите обратно"</string>
 </resources>

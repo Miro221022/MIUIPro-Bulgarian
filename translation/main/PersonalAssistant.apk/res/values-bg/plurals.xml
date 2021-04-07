@@ -178,4 +178,8 @@
         <item quantity="other">Добавени са %d телефонни номера</item>
         <item quantity="one">Добавен е %d телефонен номер</item>
     </plurals>
+	    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d избрани елемента</item>
+        <item quantity="one">%d избран елемент</item>
+    </plurals>
 </resources>

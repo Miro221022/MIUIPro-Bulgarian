@@ -104,4 +104,6 @@
 	   <string name="app_description_content">"Компас е системно приложение. Няма да можете да го използвате за проверка на посоки, координати, атмосферно налягане и текуща надморска височина, след като го деинсталирате."</string>
     <string name="app_description_title">Деинсталиране на Компас?</string>
 	<string name="gradienter_title">Ниво</string>
+	   <string name="remove_icon_description_content">"Компас е системно приложение. Няма да можете да го използвате за проверка на посоки, координати, атмосферно налягане и текуща надморска височина, след като премахнете прекия път на началния екран."</string>
+    <string name="remove_icon_description_title">Премахване на \"Компас\" от началния екран?</string>
 </resources>

@@ -2078,4 +2078,5 @@ WLAN адрес (BSSID)
     <string name="miui_snooze_user_set_success">Приложено успешно. Отидете в Настройки > Известия и Център за управление за още опции.</string>
 	    <string name="do_disclosure_generic">Това устройство принадлежи на вашата организация</string>
     <string name="do_disclosure_with_name">Това устройство принадлежи на %s</string>
+	<string name="choose_clock_dual_clock_hint_text">"Не може да се промени формата, когато е включен двоен часовник"</string>
 </resources>

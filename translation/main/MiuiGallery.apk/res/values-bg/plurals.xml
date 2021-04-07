@@ -536,4 +536,8 @@
         <item quantity="one">Намерена е %1$d нова снимка</item>
         <item quantity="other">Намерени са %1$d нови снимки</item>
     </plurals>
+	    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="one">%d избрани елемента</item>
+        <item quantity="other">%d избран елемент</item>
+    </plurals>
 </resources>
