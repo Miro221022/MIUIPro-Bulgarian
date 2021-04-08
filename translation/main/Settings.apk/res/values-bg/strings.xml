@@ -8101,4 +8101,7 @@ UT интерфейс: %5$s"</string>
     <string name="screen_refresh_unavailable_prompt">Промяната на честотата на опресняване се поддържа само от външния екран</string>
 	<string name="miheadset_in_ear_check">Откриване в ухото</string>
     <string name="miheadset_in_ear_check_summary">"Поставяне на пауза звука при изваждане на слушалките и възобновете автоматично, когато ги поставите обратно"</string>
+	<string name="miheadset_ancDepth">Дълбоко</string>
+    <string name="miheadset_ancEquilibrium">Балансирано</string>
+    <string name="miheadset_ancMild">Леко</string>
 </resources>

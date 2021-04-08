@@ -1760,4 +1760,6 @@
 	   <string name="accessibility_multi_cam_reselect_button">Изберете камери отново</string>
     <string name="accessibility_pro_parameters_panel_on">Отворете менюто с PRO параметри</string>
     <string name="super_night_owl_toast">Дръжте телефона си стабилно</string>
+	    <string name="accessibility_reference_line_image_off">Не показвай решетки</string>
+    <string name="accessibility_reference_line_image_on">Показване на решетки</string>
 </resources>

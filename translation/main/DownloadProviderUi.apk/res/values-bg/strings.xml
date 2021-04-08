@@ -553,4 +553,6 @@
     <string name="tip_download_icon_retry">"Не може да се добави пряк път. Опитайте отново."</string>
     <string name="toast_download_icon_restore_fail">"Не може да се добави пряк път"</string>
     <string name="toast_download_icon_restore_success">Добавено успешно</string>
+	<string name="dialog_download_dir_content" formatted="false">Папката по подразбиране за вашите изтегляния е променена от \"%s\" на \"%s/DLManager\".</string>
+    <string name="dialog_download_dir_title">Нова папка за изтегляния</string>
 </resources>

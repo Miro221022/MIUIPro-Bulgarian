@@ -2079,4 +2079,5 @@ WLAN адрес (BSSID)
 	    <string name="do_disclosure_generic">Това устройство принадлежи на вашата организация</string>
     <string name="do_disclosure_with_name">Това устройство принадлежи на %s</string>
 	<string name="choose_clock_dual_clock_hint_text">"Не може да се промени формата, когато е включен двоен часовник"</string>
+	<string name="start_camera_error_try_again">"Камерата не може да се стартира. Опитайте отново."</string>
 </resources>
