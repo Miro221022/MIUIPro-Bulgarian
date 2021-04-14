@@ -4403,4 +4403,14 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="permission_instruction_gallery">"Ако разрешите на приложенията да имат достъп до файлове в собствените им папки, MIUI ви позволява да решите дали искате тези приложения да имат достъп и до елементите във вашата галерия, за да защити поверителността ви. Тъй като приложенията с Android API ниво 29 или по-висока вече поддържат дялове за съхранение, този превключвател няма да бъде предоставен за тях."</string>
     <string name="permission_instruction_sociality">"Ако разрешите на приложенията да имат достъп до файлове в собствените им папки, MIUI ви позволява да решите дали искате тези приложения да имат достъп и до файловете, генерирани в приложенията за социални медии, за да защити вашата поверителност. Тъй като приложенията с Android API ниво 29 или по-висока вече поддържат дялове за съхранение, този превключвател няма да бъде предоставен за тях."</string>
     <string name="permission_instruction_storage">"Ако разрешите на приложенията да имат достъп до файлове в собствените им папки, MIUI ви позволява да решите дали искате тези приложения да имат достъп и до елементите във вашата галерия и до файловете, генерирани в приложенията за социални медии, за да защити поверителността ви. Тъй като приложенията с Android API ниво 29 или по-висока вече поддържат дялове за съхранение, този превключвател няма да бъде предоставен за тях."</string>
+	   <string name="power_center_super_wireless_charge">Бързо безжично зареждане</string>
+    <string name="power_center_super_wireless_charge_dialog_positive">Продължи</string>
+    <string name="power_center_super_wireless_charge_dialog_summary">"Този режим увеличава скоростта на вентилатора на охладителя на безжичното зарядно устройство. Запазете този режим включен, за да зареждате устройството си по-бързо, или го изключете, ако смятате, че шумът е твърде силен."</string>
+    <string name="power_center_super_wireless_charge_dialog_summary2">Отидете на Сигурност > Батерия > Настройки за още опции.</string>
+    <string name="power_center_super_wireless_charge_dialog_title">Бързо безжично зареждане</string>
+    <string name="power_center_super_wireless_charge_noti_summary">Докоснете, за да отворите Настройки</string>
+    <string name="power_center_super_wireless_charge_noti_switch">Известяване за бързо безжично зареждане</string>
+    <string name="power_center_super_wireless_charge_noti_title">Бързото безжично зареждане е включено</string>
+    <string name="power_center_super_wireless_charge_summary">"Увеличете скоростта на вентилатора на охладителя на безжичното зарядно устройство"</string>
+    <string name="power_center_super_wireless_charge_toast_close">Бързото безжично зареждане е изключено</string>
 </resources>

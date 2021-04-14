@@ -244,4 +244,8 @@
 	<string name="date_time_picker_dialog_title">Задавне на дата и час</string>
 	<string name="close">Затвори</string>
     <string name="send">Изпрати</string>
+	<string name="cetus_invisible_mode_notice_audio">"Вие сте инкогнито. Не може да използвате микрофон сега."</string>
+    <string name="cetus_invisible_mode_notice_camera">"Вие сте инкогнито. Не може да използвате камерата сега."</string>
+    <string name="cetus_invisible_mode_notice_location">"Вие сте инкогнито. Не може да използвате услуги за местоположение сега."</string>
+    <string name="cetus_invisible_mode_notice_tip">Докоснете, за да изключите режим инкогнито в Настройки</string>
 </resources>

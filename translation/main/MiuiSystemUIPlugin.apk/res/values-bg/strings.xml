@@ -72,7 +72,7 @@
 	<string name="notification_control_center">Известия и център за управление</string>
 	<string name="accessibility_volume_collapse">Свиване</string>
     <string name="accessibility_volume_expand">Разширяване</string>
-    <string name="miui_dnd_count_down">Таймер за Не безпокойте</string>
+    <string name="miui_dnd_count_down">Докоснете, за да настроите таймер</string>
     <string name="miui_dnd_count_down_time">"Таймер за Не безпокойте
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Настройки</string>

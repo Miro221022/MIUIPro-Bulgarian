@@ -1981,4 +1981,5 @@
     <string name="unfold_close_camera_pref_title">Разгънете, за да изключите камерата</string>
     <string name="unfold_speaker_pref_summary">Разгънете устройството по време на разговор, за да включите високоговорителя</string>
     <string name="unfold_speaker_pref_title">Разгънете, за да използвате високоговорител</string>
+	    <string name="four_point_five_switch_summary">Използвайте 4.5G, за да подобрите скоростта на достъп до данните и качеството на гласа.</string>
 </resources>

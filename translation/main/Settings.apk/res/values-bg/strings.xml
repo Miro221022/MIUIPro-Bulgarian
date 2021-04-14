@@ -8104,4 +8104,9 @@ UT интерфейс: %5$s"</string>
 	<string name="miheadset_ancDepth">Дълбоко</string>
     <string name="miheadset_ancEquilibrium">Балансирано</string>
     <string name="miheadset_ancMild">Леко</string>
+	    <string name="fingerprint_base_title">Пръстов отпечатък %s</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">Запазено като \"%s\"</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">Пренастройка на слушалката</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">Пренастройка на слушалката</string>
+    <string name="voip_assistant_settings">VoIP асистент</string>
 </resources>
