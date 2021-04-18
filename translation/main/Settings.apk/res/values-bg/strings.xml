@@ -2950,7 +2950,6 @@ Xiaomi Облак
      <string name="keyboard_shortcuts_helper">Помощник за клавишни комбинации</string>
      <string name="keyboard_shortcuts_helper_summary">Показване на наличните клавишни комбинации</string>
      <string name="keyguard_advance_setting_title">Разширени настройки</string>
-     <string name="keyguard_notification_status_title">При получаване на известия на изключен екран</string>
      <string name="keyguard_security_setting_others">Други</string>
      <string name="keyguard_security_setting_privacy_policy">Политика за поверителност</string>
      <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
