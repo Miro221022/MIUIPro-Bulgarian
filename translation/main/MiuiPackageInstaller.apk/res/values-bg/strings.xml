@@ -410,4 +410,6 @@
     <string name="virus_warning_title">Открити са вируси</string>
     <string name="virus_warning_title_2">Това приложение съдържа следните вируси:</string>
     <string name="warning_msg_virus">Открити са вируси</string>
+	    <string name="app_info_version_des">Версия:%1$s | Размер:%2$s</string>
+    <string name="app_info_version_des_replace">Версия: %1$s -&gt; %2$s | Размер:%3$s</string>
 </resources>
