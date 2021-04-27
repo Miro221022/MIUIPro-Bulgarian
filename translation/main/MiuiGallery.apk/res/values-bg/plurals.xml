@@ -540,4 +540,20 @@
         <item quantity="one">%d избрани елемента</item>
         <item quantity="other">%d избран елемент</item>
     </plurals>
+	    <plurals name="photo_count">
+        <item quantity="one">%d снимка</item>
+        <item quantity="other">%d снимки</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="one">Синхронизирана е %d снимка</item>
+        <item quantity="other">Синхронизирани са %d снимки</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="one">Синхронизиран е %d видеоклип</item>
+        <item quantity="other">Синхронизирани са %d видеоклипа</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="one">%d видео</item>
+        <item quantity="other">%d видеоклипа</item>
+    </plurals>
 </resources>

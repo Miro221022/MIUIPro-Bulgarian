@@ -1210,7 +1210,7 @@
   <string name="search_backup_now">Включи</string>
   <string name="search_backup_sub_title">Включване за откриване на още изображения</string>
   <string name="search_backup_title">Синхронизиране с Xiaomi Облак</string>
-  <string name="search_clear_histories">Изчисти</string>
+  <string name="search_clear_histories">Изчисти историята на търсенията</string>
   <string name="search_connection_error">Няма връзка с мрежа</string>
   <string name="search_connection_error_and_set">Проверете мрежовите си настройки</string>
   <string name="search_empty_title">Намерете снимки с конкретни хора, места и обекти в галерията си</string>
@@ -2498,4 +2498,16 @@
     <string name="cloud_privacy_with_ai_album">Функции и поверителност</string>
     <string name="cloud_privacy_with_face">Функции и поверителност</string>
     <string name="show_cloud_albumlist_summary">"Новите елементи от избраните албуми няма да бъдат качени в облака, след като изключите синхронизирането."</string>
+	    <string name="cloud_full_space_tip_message">Надстройте своя план за съхранение в облака, за да можете да синхронизирате всичките си снимки и видеоклипове в облака.</string>
+    <string name="cloud_full_space_tip_negative">Не сега</string>
+    <string name="cloud_full_space_tip_positive">Надстройка</string>
+    <string name="cloud_full_space_tip_title">Недостатъчно хранилище в облака</string>
+    <string name="filter_food_orangeflavor">Мандарина</string>
+    <string name="filter_general_past">Минало</string>
+    <string name="filter_popular_gingertea">Джинджифил</string>
+    <string name="filter_popular_mango">Манго</string>
+    <string name="filter_popular_windchime">Звън</string>
+    <string name="filter_travel_charlotte">Шарлота</string>
+    <string name="mishare_all_devices">Всички устройства</string>
+    <string name="synced_photo_video_count">Синхронизирано %1$s и %2$s</string>
 </resources>

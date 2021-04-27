@@ -4413,4 +4413,24 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="power_center_super_wireless_charge_noti_title">Бързото безжично зареждане е включено</string>
     <string name="power_center_super_wireless_charge_summary">"Увеличете скоростта на вентилатора на охладителя на безжичното зарядно устройство"</string>
     <string name="power_center_super_wireless_charge_toast_close">Бързото безжично зареждане е изключено</string>
+	    <string name="app_behavior_about_setting">Настройки</string>
+    <string name="app_behavior_dashboard_desc">Дейност в рамките на последните %d часа</string>
+    <string name="app_behavior_dashboard_total_usage_title">Преглед на всички записи</string>
+    <string name="app_behavior_dashboard_usage">Поведение на приложението</string>
+    <string name="app_behavior_dashboard_usage_list_title">Преглед с разрешение</string>
+    <string name="app_behavior_desc_allowed">Разрешено</string>
+    <string name="app_behavior_desc_allowed_on_background">Позволено във фонов режим</string>
+    <string name="app_behavior_desc_denied">Отказано</string>
+    <string name="app_behavior_desc_denied_on_background">Отказано във фонов режим</string>
+    <string name="app_behavior_desc_other_perm_allowed">Последна активност: %s</string>
+    <string name="app_behavior_desc_other_perm_denied">Дейност в рамките на последните %d часа</string>
+    <string name="app_behavior_global_settings_perm_tips">Получавайте предупреждение в лентата за състоянието, когато приложенията записват звук или използват камера</string>
+    <string name="app_behavior_record_setting_button_title">Показване на поведението на системните услуги</string>
+    <string name="app_behavior_record_setting_show_system">Показване на поведението на системните услуги</string>
+    <string name="app_behavior_record_setting_show_system_desc">"Включете, за да видите поведението на основните системни услуги. За да осигурят стабилност на системата, тези услуги ще използват необходимите разрешения, някои от които не могат да бъдат ограничени."</string>
+    <string name="app_behavior_record_setting_show_system_title">Показване на поведението на системните услуги</string>
+    <string name="app_behavior_record_setting_title">Записи на поведението</string>
+    <string name="cetus_invisible_mode_warn_open">Режимът „инкогнито“ спира разрешенията за микрофон, камера и местоположение за всички приложения. Да се включи ли сега?</string>
+    <string name="network_assistant_privacy">За да следим използването на данни по приложения, ние събираме информация като имена на пакети, използване на Wi-Fi и мобилни данни, пиково и извън пиково използване на данни и когато Wi-Fi и мобилните данни са включени. Тази информация се съхранява локално на вашето устройство.</string>
+    <string name="privacy_global_guide_permission_guide_text">"Ще получите предупреждение в лентата на състоянието, когато приложенията записват звук или използват камера. За да научите кое приложение прави това, докоснете предупреждението."</string>
 </resources>

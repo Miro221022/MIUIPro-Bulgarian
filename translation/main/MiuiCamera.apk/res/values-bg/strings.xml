@@ -1762,4 +1762,11 @@
     <string name="super_night_owl_toast">Дръжте телефона си стабилно</string>
 	    <string name="accessibility_reference_line_image_off">Не показвай решетки</string>
     <string name="accessibility_reference_line_image_on">Показване на решетки</string>
+	    <string name="dd_frn_f_t">Сгънете устройството си, за да използвате предната камера</string>
+    <string name="pref_camera_track_focus_preferred_description">"Включете, за да поддържате фокуса върху хората и животните автоматично. Също така ще можете ръчно да избирате обекти за проследяване."</string>
+    <string name="pref_camera_track_focus_preferred_title">Проследяване на фокуса</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Звуците от обекта на фокус се подобряват в пейзажен режим</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Звуците отзад на екрана се филтрират в пейзажен режим</string>
+    <string name="process_tips_1">"Не сгъвайте устройството, докато видеото не бъде запазено"</string>
+    <string name="process_tips_2">"Не разгъвайте устройството, докато видеото не бъде запазено"</string>
 </resources>

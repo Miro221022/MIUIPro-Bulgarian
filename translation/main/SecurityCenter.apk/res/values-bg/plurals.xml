@@ -792,4 +792,12 @@ You can get a %d-дневен безплатен пробен период се�
         <item quantity="other">Отказ (%dсек.)</item>
         <item quantity="one">Отказ (%dсек.)</item>
     </plurals>
+	    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d приложения</item>
+        <item quantity="one">%d приложение</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d приложения</item>
+        <item quantity="one">%d приложение</item>
+    </plurals>
 </resources>

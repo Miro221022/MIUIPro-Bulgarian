@@ -8108,4 +8108,13 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_fitness_check_result_l_not_ok">Пренастройка на слушалката</string>
     <string name="miheadset_fitness_check_result_r_not_ok">Пренастройка на слушалката</string>
     <string name="voip_assistant_settings">VoIP асистент</string>
+	    <string name="external_ram_dialog_btn_cancel">По-късно</string>
+    <string name="external_ram_dialog_btn_ok">Рестарт</string>
+    <string name="external_ram_dialog_message">Рестартирайте устройството си, за да приложите промени.</string>
+    <string name="external_ram_dialog_title">Рестартирайте устройството</string>
+    <string name="external_ram_summary">"Добавете %1$s %2$s RAM чрез заемане на място в хранилището. Използвайте тази функция само когато на вашето устройство има достатъчно място за съхранение."</string>
+    <string name="external_ram_title">Разширение на паметта</string>
+    <string name="external_ram_toast">"Не може да се използва разширение на паметта поради недостатъчно място за съхранение"</string>
+    <string name="permission_records">Използване на разрешения</string>
+    <string name="permission_records_summary">Обобщение на начина, по който приложенията използват разрешения</string>
 </resources>

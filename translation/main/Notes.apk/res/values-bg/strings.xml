@@ -430,10 +430,8 @@
   <string name="repeat_mode_set_item_none">Никога</string>
   <string name="repeat_mode_set_item_normal_workday">Понеделник до петък</string>
   <string name="repeat_mode_set_item_week">Всяка седмица (%s)</string>
-  <string name="repeat_mode_set_item_week_detail">Всяка седмица (%s)</string>
   <string name="repeat_mode_set_item_year">Всяка година (%s)</string>
-  <string name="repeat_mode_set_item_year_detail">Всяка година (%s)</string>
-  <string name="repeat_mode_set_item_year_detail_day">dd/MM</string>
+  <string name="repeat_mode_set_item_year_detail_day">dd MMM</string>
   <string name="repeat_mode_set_title">Повторение</string>
   <string name="repeat_mode_week">Всяка седмица</string>
   <string name="repeat_mode_year">Всяка година</string>
