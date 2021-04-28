@@ -1139,4 +1139,10 @@
   <string name="you_can_switch_mode_in_settings">Можете да превключвате между режими от Настройки</string>
   <string name="you_may_like">Може също да харесате</string>
   <string name="youtube_play_history">История на изпълненията</string>
+      <string name="btn_text_view_all">Виж всички</string>
+    <string name="failed_to_connect_hint">Проверете мрежовите настройки и опитайте отново</string>
+    <string name="failed_to_connect_text">"Не може да се свърже с мрежата"</string>
+    <string name="hint_search_songs_playlists_artists">Търсете песни, плейлисти и изпълнители</string>
+    <string name="loading_text">Една секунда…</string>
+    <string name="title_recently_played">Последно изпълнени</string>
 </resources>

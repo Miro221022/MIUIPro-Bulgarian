@@ -24,4 +24,7 @@
   <string name="how_to_slide_up_to_close">Затваряне на плаващия прозорец</string>
   <string name="how_to_slide_up_to_close_summary">Плъзнете нагоре от лентата за действие на плаващия прозорец</string>
   <string name="how_to_use_freeform">Как да използвате плаващи прозорци</string>
+      <string name="bottom_bar_smallwindow_text">Пуснете, за да закачите</string>
+    <string name="freeform_slide_to_small_freeform_summary">Натиснете и плъзнете до лентата за действие на плаващия прозорец в горния десен ъгъл</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Плъзнете от долната част на екрана до горния десен ъгъл на екрана</string>
 </resources>

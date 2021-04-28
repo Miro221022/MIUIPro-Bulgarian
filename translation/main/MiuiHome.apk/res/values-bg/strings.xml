@@ -648,4 +648,8 @@
     <string name="menu_default_screen_preview_inner_display">Задайте основен екран по подразбиране</string>
     <string name="menu_default_screen_preview_outer_display">Задайте външен екран по подразбиране</string>
     <string name="screen_cells_config_title_inner_display">Оформление на основния екран</string>
+	    <string name="provision_back">Назад</string>
+    <string name="provision_next">Следващо</string>
+    <string name="provision_skip_underline">Пропускане</string>
+	 <string name="recents_clear_all_tasks">Изчисти всичко</string>
 </resources>

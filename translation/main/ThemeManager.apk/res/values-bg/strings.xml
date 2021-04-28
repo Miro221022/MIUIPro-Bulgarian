@@ -1204,4 +1204,5 @@ M/dd"</string>
     <string name="wallpaper_set_as_desktop_small">Задай като външен начален екран</string>
     <string name="wallpaper_set_as_lockscreen_large">Задай като основен заключен екран</string>
     <string name="wallpaper_set_as_lockscreen_small">Задай като външен заключен екран</string>
+	 <string name="multiwindow_no_support_icon">"Не можете да променяте иконите, докато използвате разделен екран"</string>
 </resources>

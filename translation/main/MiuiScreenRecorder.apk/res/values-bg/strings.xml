@@ -131,4 +131,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Елементите не можаха да се заредят"</string>
 	    <string name="uninstall_warning_content">"Запис на екрана е системно приложение. Няма да можете да записвате екранни видеоклипове, след като го деинсталирате."</string>
     <string name="uninstall_warning_title">Деинсталиране на Запис на екрана?</string>
+	 <string name="app_notification_channel_record_complete">Известия за завършени записи</string>
+    <string name="app_notification_record_complete">"Записът на екрана е запазен в галерията.
+Докоснете за преглед"</string>
 </resources>

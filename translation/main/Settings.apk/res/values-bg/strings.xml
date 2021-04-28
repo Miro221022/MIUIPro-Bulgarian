@@ -8117,4 +8117,11 @@ UT интерфейс: %5$s"</string>
     <string name="external_ram_toast">"Не може да се използва разширение на паметта поради недостатъчно място за съхранение"</string>
     <string name="permission_records">Използване на разрешения</string>
     <string name="permission_records_summary">Обобщение на начина, по който приложенията използват разрешения</string>
+	<string name="screen_recorder_title">Запис на екрана</string>
+	   <string name="freeform_guide_slide_to_small_freeform_summary">Плъзнете от долната част на екрана до горния десен ъгъл на екрана</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Плъзгане до плаващи прозорци</string>
+    <string name="miheadset_double_press_left">Натиснете двукратно лявата слушалка</string>
+    <string name="miheadset_double_press_right">Натиснете двукратно дясната слушалка</string>
+    <string name="miheadset_triple_press_left">Трикратно натиснете лявата слушалка</string>
+    <string name="miheadset_triple_press_right">Трикратно натиснете дясната слушалка</string>
 </resources>

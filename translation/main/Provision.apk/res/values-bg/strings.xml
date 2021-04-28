@@ -301,4 +301,6 @@
     <string name="item_return">Задаване</string>
     <string name="item_skip">Пропускане</string>
 	<string name="title_set_fingerprint">Заключване на екрана</string>
+	    <string name="close">Затвори</string>
+    <string name="send">Изпрати</string>
 </resources>

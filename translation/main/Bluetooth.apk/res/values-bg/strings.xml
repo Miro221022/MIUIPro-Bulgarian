@@ -148,4 +148,6 @@
 	<string name="bt_audio_share_notification_content">Докоснете, за да видите опциите</string>
     <string name="bt_audio_share_notification_title">Споделяне на звук</string>
     <string name="notice_audio_share_disconnected">Вече не се споделя звук поради прекъсната връзка</string>
+	    <string name="close">Затвори</string>
+    <string name="send">Изпрати</string>
 </resources>
