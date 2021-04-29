@@ -205,4 +205,8 @@
         <item quantity="other">Възстановени са %d контакта за постоянно</item>
         <item quantity="one">Въстановен е %d контакт за постоянно</item>
     </plurals>
+	    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d избрани елемента</item>
+        <item quantity="one">%d избран елемент</item>
+    </plurals>
 </resources>

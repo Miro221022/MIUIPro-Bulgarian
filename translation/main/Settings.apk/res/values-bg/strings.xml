@@ -8124,4 +8124,5 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_double_press_right">Натиснете двукратно дясната слушалка</string>
     <string name="miheadset_triple_press_left">Трикратно натиснете лявата слушалка</string>
     <string name="miheadset_triple_press_right">Трикратно натиснете дясната слушалка</string>
+	<string name="miheadset_network_not_available">Проверете мрежовите настройки и опитайте отново</string>
 </resources>

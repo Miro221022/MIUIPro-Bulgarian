@@ -195,12 +195,12 @@
   <string name="saturday_shortest">Съб</string>
   <string name="search_menu_title">Търсене</string>
   <string name="send">Изпращане</string>
-  <string name="small_display_style">Тема на задния екран</string>
+  <string name="small_display_style">Заден екран</string>
   <string name="step_to_image_community">Открийте още в Mi Общност</string>
   <string name="sub_screen_app_name">Заден екран</string>
   <string name="subscreen_other">Други</string>
   <string name="subscreen_other_dialog_cancel">Отказ</string>
-  <string name="subscreen_other_dialog_confirm">ОК</string>
+  <string name="subscreen_other_dialog_confirm">Включи</string>
   <string name="subscreen_other_dialog_goto">Добавяне</string>
   <string name="subscreen_other_dialog_message">Супер икономия на батерията деактивира главния екран. Ще можете единствено да проверявате времето, да приемате повиквания и да звъните на вашия спешен контакт използвайки Задния дисплей. Вашето устройство ще работи до %d дни на едно зареждане когато е активирана Супер икономия на батерията. Желаете ли да активирате Супер икономия на батерията сега?</string>
   <string name="subscreen_other_dialog_title">Супер икономия на батерията</string>
@@ -286,4 +286,12 @@
   <string name="wednesday_shortest">Сря</string>
   <string name="wireless_change_to_ac_charging">Превключване към зареждане от кабел</string>
   <string name="yesterday">Вчера</string>
+      <string name="add_emergency_contact">Добавете контакт за спешни случаи</string>
+    <string name="has_add_contact">Добавено</string>
+    <string name="not_add_contact">Не е добавено</string>
+    <string name="sps_cancel">Натиснете и задръжте, за да излезете</string>
+    <string name="subscreen_could_edit_pic">Плъзнете изображенията за мащабиране, натиснете и задръжте, за да изтриете</string>
+    <string name="wilderness_dcalling">Свързан</string>
+    <string name="wilderness_dialing">Набиране</string>
+    <string name="wilderness_is_starting">Включване на Свръх пестене на енергия…</string>
 </resources>

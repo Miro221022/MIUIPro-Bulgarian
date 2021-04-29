@@ -1769,4 +1769,8 @@
     <string name="prep_video_ai_audio_single_desc_tip_alone">Звуците отзад на екрана се филтрират в пейзажен режим</string>
     <string name="process_tips_1">"Не сгъвайте устройството, докато видеото не бъде запазено"</string>
     <string name="process_tips_2">"Не разгъвайте устройството, докато видеото не бъде запазено"</string>
+	    <string name="module_name_scanner">Скенер</string>
+    <string name="scan_install_prompt_header">Инсталирай Скенер</string>
+    <string name="scan_install_prompt_loading">Инсталира се Скенер…</string>
+    <string name="scan_install_prompt_message">Инсталирайте скенера и опитайте отново.</string>
 </resources>
