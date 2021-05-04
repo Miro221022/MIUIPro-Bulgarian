@@ -150,4 +150,7 @@
     <string name="gb_adv_touch_mode_pro_tips">*Този режим е предназначен за професионални играчи. Редовните играчи могат да намерят този режим за неудобен.</string>
     <string name="gb_adv_touch_mode_select_title">Жестове</string>
     <string name="gb_adv_touch_pro_title">Про режим</string>
+	    <string name="gb_gpu_tips_lod">Подобрете яснотата на картината, като оптимизирате текстурите на отдалечените обекти</string>
+    <string name="gb_gpu_tips_render">Използвайте многонишково рендиране, за да оптимизирате производителността за игрите</string>
+    <string name="gb_gputuner_multi_render">Многонишково рендиране</string>
 </resources>

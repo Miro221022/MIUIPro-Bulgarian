@@ -742,7 +742,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Откажи</string>
     <string name="miuix_appcompat_action_mode_select_all">Избери всичко</string>
     <string name="miuix_appcompat_action_mode_title_empty">Изберете елементи</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Още</string>
     <string name="miuix_appcompat_cancel_description">Отказ</string>
     <string name="miuix_appcompat_confirm_description">Потвърди</string>
     <string name="miuix_appcompat_delete_description">Изтриване</string>
@@ -753,8 +753,9 @@
     <string name="miuix_appcompat_select_all">Избери всички</string>
     <string name="miuix_appcompat_select_all_description">Избери всички</string>
     <string name="miuix_appcompat_select_item">Изберете елементи</string>
-	<string name="adaptive_fps_tip">2. Постигнете най-добрия баланс между плавността и живота на батерията чрез динамично регулиране на скоростта на опресняване.</string>
     <string name="close">Затвори</string>
     <string name="send">Изпрати</string>
-	<string name="fps_user_tip">1. Тези демо анимации се възпроизвеждат с ниска скорост. Действителната производителност може да изглежда различно въз основа на различни фактори.</string>
+	<string name="service_ringtone_title">Мелодия за услуга</string>
+    <string name="adaptive_fps_tip">- Постигнете най-добрия баланс между плавността на движението и живота на батерията чрез динамично регулиране на скоростта на опресняване.</string>
+    <string name="fps_user_tip">- Тези демо анимации се изпълняват с ниска скорост. Действителната производителност може да изглежда различно въз основа на различни фактори.</string>
 </resources>

@@ -7802,7 +7802,6 @@ UT интерфейс: %5$s"</string>
     <string name="fold_rule_unimportant">Маловажни</string>
     <string name="aod_notification_style_animation">Анимация</string>
     <string name="aod_notification_style_none">Без</string>
-	<string name="magic_window_name">Разделен прозорец</string>
     <string name="truetone_summary">Настройка на цветовете към околната светлина</string>
     <string name="truetone_title">Адаптивни цветове</string>
 	<string name="dpp_before_share_summary">Споделяне на WLAN мрежата \"%1$s\" с друг човек?</string>
@@ -8125,4 +8124,5 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_triple_press_left">Трикратно натиснете лявата слушалка</string>
     <string name="miheadset_triple_press_right">Трикратно натиснете дясната слушалка</string>
 	<string name="miheadset_network_not_available">Проверете мрежовите настройки и опитайте отново</string>
+	 <string name="magic_window_name">Паралелни прозорци</string>
 </resources>
