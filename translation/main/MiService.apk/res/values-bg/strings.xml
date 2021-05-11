@@ -244,4 +244,9 @@
     <string name="v7_preference_on">ВКЛ.</string>
 	    <string name="close">Затвори</string>
     <string name="send">Изпрати</string>
+	    <string name="miui_feedback_main_item_customer_service">Следпродажбени услуги</string>
+    <string name="miui_feedback_main_menu_view_privacy">Политика за поверителност</string>
+    <string name="miui_feedback_main_search_no_answer">"Не са намерени резултати"</string>
+	    <string name="miui_feedback_main_item_catch_full_log">Получаване на отчети</string>
+    <string name="miui_feedback_main_item_feedback_list">Моят отзив</string>
 </resources>

@@ -1205,4 +1205,24 @@ M/dd"</string>
     <string name="wallpaper_set_as_lockscreen_large">Задай като основен заключен екран</string>
     <string name="wallpaper_set_as_lockscreen_small">Задай като външен заключен екран</string>
 	 <string name="multiwindow_no_support_icon">"Не можете да променяте иконите, докато използвате разделен екран"</string>
+	   <string name="date_time_picker_dialog_title">Задайте дата и час</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_action_mode_select_all">Избери всички</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Изберете елменти</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Още</string>
+    <string name="miuix_appcompat_cancel_description">Отказ</string>
+    <string name="miuix_appcompat_confirm_description">Потвърди</string>
+    <string name="miuix_appcompat_delete_description">Изтриване</string>
+    <string name="miuix_appcompat_deselect_all">Откажи</string>
+    <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
+    <string name="miuix_appcompat_search_input_description">Търсене</string>
+    <string name="miuix_appcompat_select_all">Избери всичко</string>
+    <string name="miuix_appcompat_select_all_description">Избери всичко</string>
+    <string name="miuix_appcompat_select_item">Изберете елемети</string>
+    <string name="send">Изпрати</string>
+    <string name="video_not_support_message">Това видео може да се показва неправилно или да забави устройството ви. Прилагане въпреки това?</string>
+    <string name="video_not_support_title">Това видео е твърде голямо</string>
+    <string name="wallpaper_dark_mode_image_preview_tip">Преглед в тъмен режим</string>
+    <string name="wallpaper_light_mode_image_preview_tip">Преглед в олекотен режим</string>
 </resources>

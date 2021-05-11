@@ -161,4 +161,7 @@
     <string name="miui_toast_zen_to_standard">Безшумният режим е включен</string>
     <string name="wireless_charging_tips_message">Поставете устройството, което искате да зареждате безжично (например телефон, умен часовник, слушалки) на гърба на този телефон. Уверете се, че този телефон е поне %d%% зсареден преди да използвате обратно безжично зареждане.</string>
 	<string name="smart_home_title">Умни устройства</string>
+	   <string name="wireless_charging_fg_control_cancel">Отказ</string>
+    <string name="wireless_charging_fg_control_messgae">"Обратното безжично зареждане беше изключено, защото има по-малко от %d%% заряд на батерията. Можете да регулирате настройките, за да позволите обратното безжично зареждане да работи по-дълго."</string>
+    <string name="wireless_charging_fg_control_ok">Регулиране</string>
 </resources>

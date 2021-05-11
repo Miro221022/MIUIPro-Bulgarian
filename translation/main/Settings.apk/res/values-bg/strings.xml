@@ -8125,4 +8125,6 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_triple_press_right">Трикратно натиснете дясната слушалка</string>
 	<string name="miheadset_network_not_available">Проверете мрежовите настройки и опитайте отново</string>
 	 <string name="magic_window_name">Паралелни прозорци</string>
+	     <string name="freeform_guide_slide_to_small_freeform_summary">Натиснете и задръжте долната част на прозореца и го плъзнете в горния десен ъгъл</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Смаляване на приложението</string>
 </resources>

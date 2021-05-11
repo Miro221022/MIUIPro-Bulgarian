@@ -431,4 +431,9 @@
 	 <string name="permission_runtime_perm_desc_location">За достъп до местни радиостанции</string>
 	  <string name="description_content">"FM Радио е системно приложение. Няма да можете да слушате местните и онлайн радиостанции, след като ги деинсталирате."</string>
     <string name="description_title">Деинсталиране на \"FM Радио\"?</string>
+	    <string name="global_app_description_content">"FM Радио е системно приложение. Няма да можете да слушате радиопредавания, след като деинсталирате приложението."</string>
+    <string name="global_app_description_title">Деинсталиране на FM Радио?</string>
+    <string name="global_remove_app_description_content">"FM Радио е системно приложение. Няма да можете да слушате радиопредавания, след като премахнете прекия път от началния екран."</string>
+    <string name="global_remove_app_description_title">Премахване на \"FM Радио\" от началния екран?</string>
+    <string name="talkback_speed">Скорост</string>
 </resources>

@@ -7,7 +7,6 @@
     <string name="search_led_indicator_prompt">Когато се записва, да се покаже в лентата за уведомления с пулсираща светлина от лед-индикатора при заключен екран</string>
     <string name="search_scenes">Тип на звукозапис</string>
     <string name="search_silent_mode">Заглушаване на звъненето, докато трае звукозапис</string>
-    <string name="search_enable_earpiece_title">Използвай слушалката за просвирване на аудио</string>
     <string name="search_quliaty_title">Качество на звукозапис</string>
     <string name="keywords_search_record_list">Записване;Презапис;Запис;Споделяне на записа;Споделяне на записите;Записване;Записи</string>
     <string name="keywords_search_record">Нов запис;Добави запис;Запис;Записи;Копие;Презапис;Записване;Запис на реч;Запис на звук;Приложение за записване;Как да направя запис;Как да запиша звук;Къде е програмата за звукозапис;MIUI Рекордер</string>
@@ -57,12 +56,9 @@
     <string name="sound_recorder_settings">Настройки на звукозаписа</string>
     <string name="preference_led_indicator">Известие на заключен екран</string>
     <string name="preference_tip_rename">Ръчно добавяне на имена на записите</string>
-    <string name="preference_led_indicator_prompt">Показване на пряк път в лентата за състояние и пулсираща светлина по време на запис</string>
     <string name="preference_scenes">Тип на записа</string>
     <string name="preference_record_scenes_dialog_title">Иберете тип на записа</string>
     <string name="preference_silent_mode">Заглушаване на звъненето по време на запис</string>
-    <string name="preference_enable_earpiece_title">Използване на приемника за възпроизвеждане на звук</string>
-    <string name="preference_enable_earpiece_summary">Използване на изхода за слушалки за възпроизвеждане на външно устройство</string>
     <string name="error_filename_too_long">Името на файла е твърде дълго</string>
     <string name="error_filename_illegal_char">Името на файла съдържа невалидни символи.</string>
     <string name="duration_format_hour">%s ч</string>
@@ -285,7 +281,6 @@
   <string name="call_record_list_group_all">Всичко</string>
   <string name="call_record_list_group_connected">Свързан</string>
   <string name="call_record_list_group_unconnected">Без връзка</string>
-  <string name="preference_status_bar_indicator_prompt">Показване на пряк път в лентата за състоянието по време на запис</string>
   <string name="shortcut_records">Записи</string>
   <string name="shortcut_start_record">Стартирай запис</string>
   <string name="shortcut_stop_record">Спри записа</string>
@@ -303,7 +298,6 @@
   <string name="cancel_rename">Отказ</string>
   <string name="loading_more">Една секунда…</string>
   <string name="delete_cloud_data_at_same_time">Изтриване също и от облака</string>
-  <string name="preference_record_desktop_indicator_summary">Показване на син индикатор на началния екран, когато приложението работи във фонов режим</string>
   <string name="preference_record_desktop_indicator_title">Индикатор на началния екран</string>
     <string name="recognition_button_add_to_queue">Добави към опашката</string>
     <string name="recognition_button_cancel">Не сега</string>
@@ -339,4 +333,19 @@
     <string name="save_as">Запази като</string>
 	   <string name="remove_icon_description_content">"Звукозапис е системно приложение. Няма да можете да управлявате записите, след като премахнете прякия път на началния екран."</string>
     <string name="remove_icon_description_title">Премахване на \"Звукозапис\" от началния екран?</string>
+	    <string name="all_record">Всички записи</string>
+    <string name="fm_record">Радио</string>
+    <string name="no_content">Тук все още няма елементи</string>
+    <string name="no_playback_file">Изберете запис, за да видите подробности</string>
+    <string name="normal_settings_pref_title">Основни настройки</string>
+    <string name="other_settings_pref_title">Допълнителни настройки</string>
+    <string name="recorder_record">Звук</string>
+    <string name="remind_settings_pref_title">Известия</string>
+    <string name="tap_to_record">Докоснете бутона, за да започнете да записвате</string>
+	    <string name="preference_enable_earpiece_summary">Възпроизвеждайте звук с помощта на високоговорителя на слушалката</string>
+    <string name="preference_enable_earpiece_title">Режим на слушалката</string>
+    <string name="preference_led_indicator_prompt">Показване на син индикатор на заключения екран и примигване на LED светлина по време на запис</string>
+    <string name="preference_record_desktop_indicator_summary">Показване на син индикатор на началния екран, докато записвате</string>
+    <string name="preference_status_bar_indicator_prompt">Показване на син индикатор на заключения екран по време на запис</string>
+    <string name="search_enable_earpiece_title">Режим на слушалката</string>
 </resources>

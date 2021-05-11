@@ -200,4 +200,8 @@
         <item quantity="other">Превъртане назад с %d секунди</item>
         <item quantity="one">Превъртане назад с %d секунда</item>
     </plurals>
+	    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d избрани елемента</item>
+        <item quantity="one">%d избран елемент</item>
+    </plurals>
 </resources>

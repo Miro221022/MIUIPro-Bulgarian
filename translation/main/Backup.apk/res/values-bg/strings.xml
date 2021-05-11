@@ -721,4 +721,11 @@
     <string name="search_menu_title">Търсене</string>
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+	    <string name="backup_hint_pad">Дръжте устройството си включено</string>
+    <string name="new_local_tab_backup_pad">Архивиране</string>
+    <string name="new_local_tab_restore_pad">Възстановяване</string>
+    <string name="new_pc_backup_restore_link_pad">Мобилно устройство</string>
+    <string name="new_pc_backup_summary2_pad">Свържете мобилното си устройство към компютъра чрез USB кабел.</string>
+    <string name="new_pc_restore_content2_pad">%d. Копирайте архива от вашия компютър в MIUI-Backup-AllBackup.</string>
+    <string name="not_enough_storage_tips">Недостатъчно място в хранилището. Освободете малко място и опитайте отново.</string>
 </resources>

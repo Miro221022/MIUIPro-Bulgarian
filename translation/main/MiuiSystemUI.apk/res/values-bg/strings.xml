@@ -912,7 +912,7 @@
   <string name="kg_invalid_confirm_pin_hint">PIN кодовете не съвпадат</string>
   <string name="kg_invalid_puk">Въведете правилния PUK код отново. Повторните опити ще деактивират за постоянно SIM картата.</string>
   <string name="kg_invalid_sim_pin_hint">Въведтете PIN който е с 4 до 8 цифри.</string>
-  <string name="kg_invalid_sim_puk_hint">PUK кодът трябва да бъде с 8 цифри.</string>
+  <string name="kg_invalid_sim_puk_hint">PUK кодът трябва да съдържа %1$d цифри.</string>
   <string name="kg_login_too_many_attempts">Твърде много опити с фигура</string>
   <string name="kg_password_instructions">Въведете парола</string>
   <string name="kg_password_pin_failed">Не може да се отключи чрез ПИН код</string>
