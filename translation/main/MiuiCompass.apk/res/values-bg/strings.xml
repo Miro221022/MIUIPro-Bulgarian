@@ -81,7 +81,7 @@
 	<string name="unit_degree">Градуси</string>
     <string name="allow">Разрешаване</string>
     <string name="cancel">Отказ</string>
-    <string name="open_perm_msg">Компас се нуждае от достъп до информация за местоположението и камера. This is necessary to determine coordinates and provide live previews. Allow?</string>
+    <string name="open_perm_msg">Компас се нуждае от достъп до информация за местоположението и камера. Това е необходимо, за да се определят координатите и да се предоставят визуализации на живо. Разрешавате ли?</string>
     <string name="open_perm_title">Необходими са разрешения</string>
 	<string name="preference_other">Други</string>
     <string name="preference_privacy_title">Политика за поверителност</string>
@@ -106,4 +106,6 @@
 	<string name="gradienter_title">Ниво</string>
 	   <string name="remove_icon_description_content">"Компас е системно приложение. Няма да можете да го използвате за проверка на посоки, координати, атмосферно налягане и текуща надморска височина, след като премахнете прекия път на началния екран."</string>
     <string name="remove_icon_description_title">Премахване на \"Компас\" от началния екран?</string>
+	    <string name="first_using_dialog_message_no_camera">Компас трябва да се свърже с интернет и да има достъп до информация за местоположението, за да може да работи нормално. Съгласни ли сте?</string>
+    <string name="open_perm_msg_no_camera">Компас трябва да има достъп до информация за местоположението, за да може да определя координатите. Разрешавате ли?</string>
 </resources>

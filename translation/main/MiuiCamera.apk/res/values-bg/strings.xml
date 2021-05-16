@@ -1689,7 +1689,7 @@
     <string name="pref_super_night_se_title">Автоматичен нощен режим</string>
     <string name="pref_camera_high_quality_preferred_description">Подобряване на качеството на изображението с помощта на интелигентния алгоритъм. Скоростта на заснемане на изображението може да намалее, когато тази функция е включена. Нощният режим ще се включи автоматично, когато бъдат открити условия на слаба светлина.</string>
     <string name="pref_super_night_se_summary">Откриване на условията на слаба светлина и подобряване на качеството на изображението автоматично</string>
-	    <string name="pref_camera_dynamic_frame_rate_summary">Честотата на кадрите ще бъде намалена автоматично при условия на слаба осветеност, за да се подобри качеството на видеото</string>
+	    <string name="pref_camera_dynamic_frame_rate_summary">Честотата на кадрите ще се понижи автоматично при условия на слаба светлина или висока температура, за да се подобри качеството на видеото</string>
     <string name="pref_camera_predictive_shutter_description">Проследявайте движението, за да сведете до минимум размазването на снимките на деца, домашни любимци и други активни обекти</string>
     <string name="pref_camera_predictive_shutter_title">Проследяване на движението</string>
 	   <string name="live_music_title_unknown">Неизвестна песен</string>

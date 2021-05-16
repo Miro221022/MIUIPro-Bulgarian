@@ -361,11 +361,6 @@
     <string name="enable_nfc_reverse">Вече няма обратно зареждане. NFC отново е включено.</string>
 	    <string name="freeform_exchange_tip">Пуснете, за да отворите приложението</string>
     <string name="freeform_exchange_tip2">Плъзнете до ъгъла, за да отмените</string>
-	    <string name="dock_tip_floatwindow">Задръжте лентата и я плъзнете до ръба на екрана, за да влезете в изглед с разделен екран.</string>
-    <string name="dock_tip_splitscreen_landscape_drag">Плъзнете лентата хоризонтално, за да разменяте позициите на двата прозореца на приложенията.</string>
-    <string name="dock_tip_splitscreen_landscape_float">Задръжте и плъзнете надолу, за да превключите към плаващ прозорец.</string>
-    <string name="dock_tip_splitscreen_portrait_drag">Плъзнете лентата вертикално, за да размените позициите на двата прозореца на приложенията.</string>
-    <string name="dock_tip_splitscreen_portrait_float">Задръжте и плъзнете отляво или отдясно на екрана, за да превключите към плаващ прозорец.</string>
     <string name="miui_multiwindow_not_support_split">%1$s не поддържа разделен екран.</string>
 	<string name="turn_on_work_profile">Включи</string>
 	    <string name="application_cannot_open_alipay_health_code">"Не можа да се отвори здравният код на Alipay"</string>
@@ -375,4 +370,11 @@
     <string name="relaunch_dialog_button_confirm">OK</string>
     <string name="relaunch_dialog_message">"Не можете да коригирате размера на прозореца, докато използвате приложението. Можете да рестартирате приложението, за да коригирате размера на прозореца, но данните за приложението, генерирани по време на тази сесия, ще бъдат загубени. Да се рестартира ли все пак?"</string>
     <string name="relaunch_dialog_title">Рестарт \"%s\"?</string>
+	    <string name="application_cannot_open_au_pay">Първо инсталирайте au PAY</string>
+    <string name="dock_tip_floatwindow">Задръжте лентата и я плъзнете до ръба на екрана, за да влезете в изглед с разделен екран.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Плъзнете лентата хоризонтално, за да размените позициите на двата прозореца на приложението.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Задръжте и плъзнете надолу, за да превключите към плаващ прозорец.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Плъзнете лентата вертикално, за да размените позициите на двата прозореца на приложението.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Задръжте и плъзнете отляво или отдясно на екрана, за да превключите към плаващ прозорец.</string>
+    <string name="miui_multiwindow_not_support_small_window">"%1$s не поддържа плаващи прозорци"</string>
 </resources>

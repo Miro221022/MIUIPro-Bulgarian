@@ -1671,4 +1671,9 @@
     <string name="miuix_appcompat_select_all">Избери всички</string>
     <string name="miuix_appcompat_select_item">Изберете елементи</string>
     <string name="send">Изпрати</string>
+	    <string name="add_model_card2">"Докоснете бутона по-горе, за да добавите карти.
+Ще можете да проследявате тренировките и активността си."</string>
+    <string name="dialog_exit_use">Изход</string>
+    <string name="download_apk">Изтегляне %s…</string>
+    <string name="download_background">Изтегли</string>
 </resources>
