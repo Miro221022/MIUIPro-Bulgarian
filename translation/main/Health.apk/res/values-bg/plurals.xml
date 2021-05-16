@@ -328,10 +328,10 @@
     <item quantity="one">" мин. "</item>
     <item quantity="other">" мин. "</item>
   </plurals>
-  <plurals name="unit_mins2">
-    <item quantity="one">" минути "</item>
-    <item quantity="other">" минута "</item>
-  </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" минути "</item>
+        <item quantity="one">" минута "</item>
+    </plurals>
   <plurals name="unit_seconds">
     <item quantity="one">" сек. "</item>
     <item quantity="other">" сек. "</item>
