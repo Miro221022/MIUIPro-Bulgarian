@@ -1676,4 +1676,14 @@
     <string name="dialog_exit_use">Изход</string>
     <string name="download_apk">Изтегляне %s…</string>
     <string name="download_background">Изтегли</string>
+	    <string name="course_consume_unit">ккал</string>
+    <string name="course_deatil_time">%1$dмин.</string>
+	<string name="oauth_invalid">Сесията изтече. Влезте отново.</string>
+	    <string name="recog_permission_dialog_content">Разрешете на Xiaomi Здраве да осъществи достъп до информацията за вашата активност, за да може да вижда броя на стъпките.</string>
+    <string name="recog_permission_dialog_title">Изискват се разрешения</string>
+<string name="tb_month_dialog_select_date_with_snore" formatted="false">Избрано %1$s, %s</string>
+<string name="unit_centimeter">" см"</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
 </resources>
