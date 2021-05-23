@@ -1982,4 +1982,6 @@
     <string name="unfold_speaker_pref_summary">Разгънете устройството по време на разговор, за да включите високоговорителя</string>
     <string name="unfold_speaker_pref_title">Разгънете, за да използвате високоговорител</string>
 		<string name="four_point_five_switch_summary">Използвайте 4.5G, за да увеличите скоростта на мобилната връзка за данни и да подобрите качеството на гласа</string>
+		    <string name="mobile_special_network_optimization_config_summary">Когато мрежата е се държи необичайно, опитай да поправиш автоматично</string>
+    <string name="mobile_special_network_optimization_config_title">Специална мрежова оптимизация</string>
 </resources>

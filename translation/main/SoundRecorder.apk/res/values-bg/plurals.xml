@@ -37,16 +37,16 @@
         <item quantity="one">Изтриване на %d запис?</item>
     </plurals>
 	    <plurals name="search_alll_records_hint">
-        <item quantity="other">Търсене сред %d записа</item>
-        <item quantity="one">Търсене сред %d запис</item>
+        <item quantity="other">%d записа</item>
+        <item quantity="one">%d запис</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">Търсене сред %d записа на разговори</item>
-        <item quantity="one">Търсене сред %d запис на разговор</item>
+        <item quantity="other">%d записа на разговори</item>
+        <item quantity="one">%d запис на разговори</item>
     </plurals>
 	    <plurals name="search_app_records_hint">
-        <item quantity="other">Търсене сред %d записа</item>
-        <item quantity="one">Търсене сред %d запис</item>
+        <item quantity="other">%d записа</item>
+        <item quantity="one">%d запис</item>
     </plurals>
 	    <plurals name="recovery_failed_dialog_message">
         <item quantity="other">"Не могат да се възстановят %d елемента поради неизвестна грешка."</item>
@@ -63,5 +63,13 @@
     <plurals name="trash_box_tip">
         <item quantity="other">Изтритите елементи могат да се съхраняват в кошчето до %d дни</item>
         <item quantity="one">Изтритите елементи могат да се съхраняват в кошчето до %d ден</item>
+    </plurals>
+	    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d радиозаписа</item>
+        <item quantity="one">%d радиозапис</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d звукозаписа</item>
+        <item quantity="one">%d звукозапис</item>
     </plurals>
 </resources>

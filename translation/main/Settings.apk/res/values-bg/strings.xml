@@ -1781,6 +1781,7 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="date_time_auto">Автоматични дата и час</string>
      <string name="date_time_auto_summaryOff">Използване на часа предоставен от мрежата</string>
      <string name="date_time_auto_summaryOn">Използване на часа предоставен от мрежата</string>
+	 <string name="zone_auto_title">Използване на предоставената от мрежата часова зона</string>
      <string name="date_time_search_region">Регион на търсенето</string>
      <string name="date_time_select_fixed_offset_time_zones">Изберете разликата спрямо UTC</string>
      <string name="date_time_select_region">Регион</string>
@@ -8125,4 +8126,5 @@ UT интерфейс: %5$s"</string>
 	 <string name="magic_window_name">Паралелни прозорци</string>
 	     <string name="freeform_guide_slide_to_small_freeform_summary">Натиснете и задръжте долната част на прозореца и го плъзнете в горния десен ъгъл</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Смаляване на приложението</string>
+	<string name="sound_mode">Тих режим</string>
 </resources>

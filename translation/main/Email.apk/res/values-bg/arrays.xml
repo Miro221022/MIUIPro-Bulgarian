@@ -77,4 +77,9 @@
         <item>Всички</item>
         <item>Само подателите</item>
     </string-array>
+	    <string-array name="sign_in_dialog_item">
+        <item>Outlook oauth imap протоколно вписване</item>
+        <item>IMAP (без календар)</item>
+        <item>EXCHANGE (с календар)</item>
+    </string-array>
 </resources>

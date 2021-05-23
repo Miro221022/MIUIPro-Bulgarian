@@ -471,4 +471,6 @@
 	    <string name="version_update_dialog_negative_desc">Не сега</string>
     <string name="version_update_dialog_positive_desc">Актуализирай</string>
     <string name="version_update_dialog_title">Налична е актуализация</string>
+	    <string name="select_operation">Изберете</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Включете, за да изключите зададените аларми, когато устройството ви е изключено. Само алармите настроени поне %d минути след като изключите устройството ще се изключат.</string>
 </resources>

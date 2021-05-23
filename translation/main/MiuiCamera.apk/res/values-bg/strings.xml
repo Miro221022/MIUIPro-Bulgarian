@@ -1031,7 +1031,7 @@
     <string name="portrait_india_effect_entry_young">Младост</string>
 	<string name="miservice_notification_content">Докоснете, за да научите повече</string>
     <string name="miservice_notification_title">Научете повече за новите функции в камерата</string>
-	<string name="location_access_allow">Разреши</string>
+	<string name="location_access_allow">Приемам</string>
 	<string name="accessibility_camera_switch_capture_recording">Превключване между фото и видео режими</string>
     <string name="auxiliary_close_status">Допълнителните ефекти са изключени</string>
     <string name="auxiliary_exposure_feedback_status">Проверката на експозицията е включена</string>
@@ -1780,4 +1780,6 @@ Dual phone recording also allows you to connect to the other device and create a
     <string name="dual_video_user_guide_remote_content">"Комбинирайте емисии от две различни устройства в едно видео. Ще можете да визуализирате както емисии, така и окончателното видео на това устройство. Имайте предвид, че звука ще бъде записан само от това устройство."</string>
     <string name="network_connection_prerequisites">Включете Bluetooth и Wi-Fi в Центъра за управление, за да можете да използвате Двоен телефонен запис.</string>
     <string name="network_connection_prerequisites_china">Включете Bluetooth и Wi-Fi в Центъра за управление, за да можете да използвате Двоен телефонен запис.</string>
+	    <string name="close">Затвори</string>
+    <string name="send">Изпрати</string>
 </resources>

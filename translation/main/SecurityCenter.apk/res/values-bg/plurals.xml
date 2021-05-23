@@ -804,4 +804,8 @@ You can get a %d-дневен безплатен пробен период се�
         .<item quantity="other">Разбрах (%dсек/)</item>
         <item quantity="one">Разбрах (%dсек.)</item>
     </plurals>
+	    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Разбрах (%dсек.)</item>
+        <item quantity="one">Разбрах (%dсек.)</item>
+    </plurals>
 </resources>
