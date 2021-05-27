@@ -4289,6 +4289,12 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="auto_task_notify_task_cancel_count_down_new">Автоматизираното действие ще бъде отменено след %d секунди</string>
     <string name="auto_task_notify_task_count_down_new">Автоматизираното действие ще започне след %d секунди</string>
     <string name="deep_power_save_item_summary_lock_screen_time_new">Поставете екрана да спи след %d секунди бездействие за пестене на батерията</string>
+    <string name="gb_shoulder_key_add_show_btn">Показване на виртуални бутони по време на игри</string>
+    <string name="gb_shoulder_key_btn_cancel">Отказ</string>
+    <string name="gb_shoulder_key_btn_save_exit">Запази</string>
+    <string name="gb_shoulder_key_guide_btn_done">Разбрах</string>
+    <string name="gb_shoulder_key_guide_btn_next">Следващо</string>
+    <string name="gb_shoulder_key_settings_guide_tips1">Преместете бутоните [L] и [R] във всяка функционална позиция, за да завършите конфигурацията</string>
     <string name="never_new">%d време</string>
     <string name="power_center_list_item_set_lockscreen_time_new">Поставете екрана да спи след това %d секунди бездействие</string>
     <string name="power_save_mode_auto_exit_summary_new">Изключване, когато батерията е %s или напълно заредена​</string>
@@ -4427,27 +4433,37 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="cetus_invisible_mode_warn_open">Режимът „инкогнито“ спира разрешенията за микрофон, камера и местоположение за всички приложения. Да се включи ли сега?</string>
     <string name="network_assistant_privacy">За да следим използването на данни по приложения, ние събираме информация като имена на пакети, използване на Wi-Fi и мобилни данни, пиково и извън пиково използване на данни и когато Wi-Fi и мобилните данни са включени. Тази информация се съхранява локално на вашето устройство.</string>
     <string name="privacy_global_guide_permission_guide_text">"Ще получите предупреждение в лентата на състоянието, когато приложенията записват звук или използват камера. За да научите кое приложение прави това, докоснете предупреждението."</string>
-	<string name="gamebox_micharge">Контрол на температурата на зареждане</string>
+	    <string name="gamebox_micharge">Контрол на температурата на зареждане</string>
     <string name="gamebox_micharge_dialog_message">"Включете тази функция, за да ограничите зареждането, когато зарядното устройство е свързано. Зарядното устройство ще се използва само за захранване, което ще ви помогне да избегнете прегряване, докато играете игри."</string>
     <string name="gamebox_micharge_dialog_title">Контрол на температурата на зареждане</string>
     <string name="gamebox_micharge_settings_summray">За да избегнете прегряване, използвайте зарядното устройство само за захранване</string>
     <string name="gamebox_micharge_toast">Контролът на температурата на зареждане е включен</string>
-	<string name="applock_mixtype_hidepwd_icon">Скрий</string>
-    <string name="applock_mixtype_showpwd_icon">Покажи</string>
-    <string name="exception_checking">Проверка…</string>
-    <string name="gamebooster_network_dialog_cn_message">"Не можете да използвате Game Turbo, когато на Сигурност не е позволено да се свързва с интернет и да осъществява достъп до вашето местоположение. Да се разреши ли сега?"</string>
-    <string name="gb_shoulder_key_add_show_btn">Показване на виртуални бутони по време на игри</string>
-    <string name="gb_shoulder_key_btn_cancel">Отказ</string>
-    <string name="gb_shoulder_key_btn_save_exit">Запази</string>
-    <string name="gb_shoulder_key_circle_left">L</string>
-    <string name="gb_shoulder_key_circle_right">R</string>
-    <string name="gb_shoulder_key_guide_btn_done">Разбрах</string>
-    <string name="gb_shoulder_key_guide_btn_next">Следващо</string>
-    <string name="gb_shoulder_key_settings_guide_tips1">Преместване на [L] и [R] бутоните до всяка функционална позиция, за да завършите конфигурацията</string>
-    <string name="gb_shoulder_key_settings_title_new">Бърз старт на Game Turbo</string>
-    <string name="xspace_warning_dialog_button">Разбрах</string>
-    <string name="xspace_warning_dialog_message">Поради ограниченията, въведени в Android %d, всички клонирани приложения ще имат достъп само до снимките и видеоклиповете, генерирани и запазени в съответното двойно приложение.</string>
-    <string name="xspace_warning_dialog_title">Внимание</string>
-	<string name="gb_storage_game_dialog_message">"Можете да съхранявате игри в Game Turbo автоматично. Те няма да се появят на началния екран, ако включите тази функция. Да се включи ли сега?"</string>
-    <string name="tips">Внимание</string>
+    <string name="gb_shoulder_key_settings_title_new">Бърз старт ма Game Turbo</string>
+	    <string name="exit_dialog_release_storage_message_new">Пояече от %s от хранилището на устройството ви е заето. Освободете място, като деинсталирате приложенията, които никога не използвате.</string>
+    <string name="vb_ve_settings_display_style_tips_new">*Ефектите ще бъдат приложени само към областта за възпроизвеждане на видео</string>
+    <string name="ew_monitor_content">Вашето мобилно устройство може да стане част от мрежата за ранно предупреждение за земетресения. След като сензорите му засекат сеизмични вълни, данните ще бъдат анализирани от алгоритъма на ИИ и ще бъдат отправени ранни предупреждения към хората в засегнатите райони.</string>
+    <string name="ew_monitor_exit">Отписване</string>
+    <string name="ew_monitor_exit_content">Здравей Доброволец номер %s! Вашето устройство може да наблюдава сеизмична активност и да събира данни, които биха помогнали за издаването на ранни предупреждения за земетресение. Отказване въпреки това?</string>
+    <string name="ew_monitor_exit_title">Внимание</string>
+    <string name="ew_monitor_have_been">"Гордея се, че съм "</string>
+    <string name="ew_monitor_info_title">Как работи?</string>
+    <string name="ew_monitor_join_number">Брой доброволци</string>
+    <string name="ew_monitor_join_path">Присъединете се към програмата, като използвате устройство Xiaomi: Сигурност > Предупреждение за земетресение > Доброволец за наблюдение на земетресения.</string>
+    <string name="ew_monitor_my_content">Моето мобилно устройство е част от мрежата за ранно предупреждение за земетресения. След като сензорите му засекат сеизмични вълни, данните ще бъдат анализирани от алгоритъма на ИИ и ще бъдат отправени ранни предупреждения към хората в засегнатите райони.</string>
+    <string name="ew_monitor_number_prex">НОМЕР. %s</string>
+    <string name="ew_monitor_open">Влез</string>
+    <string name="ew_monitor_read_privacy"><Data>"Прочетох и се съгласих с &lt;a href=\"%1$s\">Политика за поверителност&lt;/a>."</Data></string>
+    <string name="ew_monitor_share">Споделяне</string>
+    <string name="ew_monitor_slogan">"Присъдинете се към програма ни за
+наблюдение на земетресения"</string>
+    <string name="ew_monitor_summary1">Използвайте устройството си за сеизмеично наблюдение.</string>
+    <string name="ew_monitor_summary2">Отчетете информация, свързана с предупреждение за земетресение.</string>
+    <string name="ew_monitor_summary3">Помогнете на повече хора да получават предупреждения за земетресение по-бързо.</string>
+    <string name="ew_monitor_support">Техническа поддръжка, предоставена от Института за намаляване на бедствия в Ченгду</string>
+    <string name="ew_monitor_support_rom">*Тази функция се поддържа от определени устройства Xiaomi/Redmi и MIUI версии.</string>
+    <string name="ew_monitor_thanks_tips">"Благодарим ви, че станахте доброволец
+за наблюдение на земетресения НОМЕР %s!"</string>
+    <string name="ew_monitor_title">Доброволец за наблюдение на земетресения</string>
+    <string name="ew_monitor_title_spilt">"Доброволец за наблюдение на
+земетресения"</string>
 </resources>

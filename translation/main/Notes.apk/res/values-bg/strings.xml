@@ -655,4 +655,7 @@
     <string name="audio_dialog_mode_meeting_sum">Режимът за среща ви позволява да разпознавате гласовете на до 4 различни души. Възможно е да възникнат някои грешки при разпознаване в бета версията.</string>
     <string name="audio_dialog_mode_meeting_use">Начало</string>
 	<string name="pref_remind_type_summary_new_2">Възпроизвеждане на звук, дори когато е включен режим Без звук или Не безпокойте</string>
+	    <string name="data_empty_folder">Няма други папки за показване</string>
+    <string name="handwrite_description">Ръкописна бележка</string>
+    <string name="menu_add_handwrite_description">Добавете ръкописна бележка</string>
 </resources>

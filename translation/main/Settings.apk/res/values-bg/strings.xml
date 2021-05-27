@@ -8127,4 +8127,18 @@ UT интерфейс: %5$s"</string>
 	     <string name="freeform_guide_slide_to_small_freeform_summary">Натиснете и задръжте долната част на прозореца и го плъзнете в горния десен ъгъл</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Смаляване на приложението</string>
 	<string name="sound_mode">Тих режим</string>
+	    <string name="copyright">Авторско право</string>
+    <string name="dark_mode_auto_time_summary">Включете тъмния режим за персонализиран период</string>
+    <string name="dark_mode_auto_time_title">Персонализиран период</string>
+    <string name="dark_mode_day_night_mode_summary">Превключване автоматично в тъмен режим след залез слънце</string>
+    <string name="dark_mode_day_night_mode_title">Лека нощ с тъмен режим</string>
+    <string name="dark_mode_time_settings">График за тъмен режим</string>
+    <string name="dark_mode_time_settings_summary">Обобщение на настройките за време в тъмен режим</string>
+    <string name="maintenance_title">Режим за поправка</string>
+    <string name="miui_sos_remind_sendnow_donot_send">"Не изпращай"</string>
+    <string name="privacy_policy">Политика за поверителност</string>
+    <string name="sar">Информация за радиочестотната експозиция</string>
+    <string name="three_gesture_horizontal">Плъзнете хоризонтално с %d пръста</string>
+    <string name="three_gesture_pc_mode">Включете режим компютър</string>
+    <string name="user_agreement">Условия за ползване</string>
 </resources>

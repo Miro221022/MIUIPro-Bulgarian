@@ -134,4 +134,5 @@
 	 <string name="app_notification_channel_record_complete">Известия за завършени записи</string>
     <string name="app_notification_record_complete">"Записът на екрана е запазен в галерията.
 Докоснете за преглед"</string>
+    <string name="view_recorded_file">Докоснете, за да видите записания файл</string>
 </resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agree">Приемам</string>
+    <string name="cancel">Отказ</string>
+    <string name="check_protocol_msg">За да използвате режима на поддръжка, моля, докоснете тук и се съгласете </string>
+    <string name="check_protocol_msg_detail">Преди да стартирате режима на поправка, моля, уверете се, че данните са архивирани и следпродажбеното обслужване не носи отговорност за възможна загуба на данни, причинена от ремонтирания продукт.</string>
+    <string name="check_protocol_msg_sub">Отказ от отговорност на потребителските данни</string>
+    <string name="click_to_close">Докоснете тук, за да излезете от режима за поддръжка</string>
+    <string name="close_maintenance_mode">Затворете режима за поддръжка</string>
+    <string name="create_fail">Създаването на режима за поддръжка не бе успешно, моля, опитайте отново по-късно</string>
+    <string name="create_fail_because_max_user">Достигнат е максималният брой потребители в системата, моля, изтрийте аватара, двойно отворени данни или данни за детски режим и опитайте отново</string>
+    <string name="delete_maintenance_mode">изтриване на режима за поддръжка...</string>
+    <string name="disagree">Не приемам</string>
+    <string name="forbid_create">Режимът на поддръжка може да бъде създаден само в основното потребителско пространство</string>
+    <string name="maintenance_mode">Режим за поддръжка</string>
+    <string name="maintenance_mode_close_title">В режим на поддръжка</string>
+    <string name="maintenance_mode_loading">Стартиране на режим на поправка, телефона ще се рестартира скоро…</string>
+    <string name="maintenance_mode_reboot">Рестартиране на режима на поддръжка</string>
+    <string name="maintenance_mode_title">Цялостна защита на данните от мобилния телефон</string>
+    <string name="maintenance_mode_watch_out">Защитете важни лични данни като снимки, видеоклипове, контакти, дневници за обаждания и текстови съобщения по време на следпродажбената поддръжка</string>
+    <string name="open">Отворете режима за поддръжка</string>
+    <string name="open_maintenance_mode">Отворете режима за поддръжка</string>
+    <string name="open_maintenance_mode_msg">За да избегнете загуба на данни, препоръчително е да ги изпратите за ремонт след </string>
+    <string name="open_maintenance_mode_msg_sub">архивиране на вашите данни</string>
+    <string name="reached_max_user">Достигнат максимален брой потребители</string>
+    <string name="reboot_maintenance_mode">изтриването на режима за поддръжка завършен, за ефективност на устройството, моля, рестартирайте го</string>
+    <string name="reboot_msg">Включването на режима на поддръжка автоматично ще рестартира телефона, моля, потвърдете дали е включен незабавно</string>
+    <string name="set_password_main_user">Задайте парола за основния потребител</string>
+    <string name="set_password_main_user_context">За да осигурите сигурността на вашите данни, моля, задайте парола за заключен екран. Паролата не може да бъде извлечена, моля, запомнете я. Когато затваряте режима на поддръжка, трябва да проверите паролата за заключен екран, която сте задали.</string>
+    <string name="setting">Настройки</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_to_maintenance_mode">Превключете в режим на поддръжка</string>
+</resources>

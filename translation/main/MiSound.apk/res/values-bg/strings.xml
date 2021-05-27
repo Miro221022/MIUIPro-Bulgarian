@@ -157,4 +157,14 @@
     <string name="music_headset_audio_visual_unmute">Преглед със звук</string>
     <string name="not_support_sound_transmission_content">"Тази функция не се поддържа от свързаното устройство. Опитайте друго Bluetooth устройство."</string>
     <string name="not_support_sound_transmission_prompt">Внимание</string>
+	    <string name="hearing_assist_bluetooth_headset">Bluetooth слушалки</string>
+    <string name="hearing_assist_bluetooth_headset_disconnected">Не е свързано</string>
+    <string name="hearing_assist_bluetooth_headset_not_supported">Не е свързано</string>
+    <string name="hearing_assist_btn_headset_choice">Изберете устройство</string>
+    <string name="hearing_assist_btn_start">Начало</string>
+    <string name="hearing_assist_btn_stop">Стоп</string>
+    <string name="hearing_assist_exit_btn_continue">Продължаване</string>
+    <string name="hearing_assist_exit_btn_stop">Изключи</string>
+    <string name="hearing_assist_tips_message_two">%d. Тази функция се поддържа от определени модели Bluetooth слушалки.</string>
+    <string name="hearing_assist_volume">"Силата на звука на микрофона"</string>
 </resources>

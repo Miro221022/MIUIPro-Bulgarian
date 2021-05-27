@@ -1225,4 +1225,10 @@ M/dd"</string>
     <string name="video_not_support_title">Това видео е твърде голямо</string>
     <string name="wallpaper_dark_mode_image_preview_tip">Преглед в тъмен режим</string>
     <string name="wallpaper_light_mode_image_preview_tip">Преглед в олекотен режим</string>
+	    <string name="multiwindow_no_support">"Това действие не се поддържа в разделен екран"</string>
+    <string name="personalize_second_space_not_support_set_font">"Не може да се промени шрифта във второто пространство"</string>
+    <string name="share_content_text_first_font">Вижте това! Шрифта \"%1$s\" придава на телефона ви напълно нов облик.</string>
+    <string name="share_content_text_first_theme">Вижте това! темата \"%1$s\" придава на телефона ви напълно нов облик.</string>
+    <string name="share_content_text_first_wallpaper">Вижте това! Тапета \"%1$s\" придава на телефона ви напълно нов облик.</string>
+    <string name="share_content_text_second">" Намерете свой собствен стил в %1$s!"</string>
 </resources>

@@ -473,4 +473,10 @@
     <string name="version_update_dialog_title">Налична е актуализация</string>
 	    <string name="select_operation">Изберете</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Включете, за да изключите зададените аларми, когато устройството ви е изключено. Само алармите настроени поне %d минути след като изключите устройството ще се изключат.</string>
+    <string name="close_alarm_new">Стоп</string>
+    <string name="not_set_temporarily">Не благодаря</string>
+    <string name="set_now">Настройка</string>
+    <string name="slider_text_new">Плъзнете нагоре, за да спрете</string>
+    <string name="timer_got_it_new">Заглушаване</string>
+    <string name="week_ringtone_recommend_desc">Природната аларма възпроизвежда различни звуци в зависимост от датата. Да се зададе ли като аларма по подразбиране?</string>
 </resources>

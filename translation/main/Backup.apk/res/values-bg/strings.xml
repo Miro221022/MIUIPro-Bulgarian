@@ -728,4 +728,6 @@
     <string name="new_pc_backup_summary2_pad">Свържете мобилното си устройство към компютъра чрез USB кабел.</string>
     <string name="new_pc_restore_content2_pad">%d. Копирайте архива от вашия компютър в MIUI-Backup-AllBackup.</string>
     <string name="not_enough_storage_tips">Недостатъчно място в хранилището. Освободете малко място и опитайте отново.</string>
+	    <string name="apps_item_desc">Приложение</string>
+    <string name="new_pc_restore_content1_pad">%d. Свържете мобилното си устройство към компютъра чрез USB кабел.</string>
 </resources>
