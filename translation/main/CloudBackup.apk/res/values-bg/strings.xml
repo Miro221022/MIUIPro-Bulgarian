@@ -310,4 +310,12 @@
     <string name="restoring_file_title_no_progress">Възстановяване на приложения…</string>
 	<string name="button_confirm">Разбрах</string>
     <string name="pc_mode_not_support_restore_warning">"Не можете да възстановите елементи в Режим компютър. Изключете Режим компютър и опитайте отново."</string>
+	<string name="backup_action_access_permission">Настройки</string>
+    <string name="backup_failed_reason_app_usage_denied">Предоставете необходимите разрешения за архивиране на елементи</string>
+    <string name="backup_warning_reason_app_usage_denied">"Данните не можаха да се синхронизират.
+Изискват се разрешения."</string>
+    <string name="dialog_app_usage_denied">Дайте на Backup разрешение за \"Достъп до използване\" Настройки, за да можете да архивирате елементи.</string>
+    <string name="dialog_btn_confirm2">Разбрах</string>
+    <string name="dialog_btn_enter">Настройки</string>
+    <string name="dialog_need_permission">Изискват се разрешения</string>
 </resources>

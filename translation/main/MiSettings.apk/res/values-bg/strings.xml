@@ -758,4 +758,6 @@
 	<string name="service_ringtone_title">Мелодия за услуга</string>
     <string name="adaptive_fps_tip">- Постигнете най-добрия баланс между плавността на движението и живота на батерията чрез динамично регулиране на скоростта на опресняване.</string>
     <string name="fps_user_tip">- Тези демо анимации се изпълняват с ниска скорост. Действителната производителност може да изглежда различно въз основа на различни фактори.</string>
+	    <string name="authorization_btn_text">Начало</string>
+    <string name="authorization_tips">Изискават се разрешения</string>
 </resources>

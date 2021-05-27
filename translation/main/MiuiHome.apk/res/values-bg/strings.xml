@@ -421,7 +421,7 @@
     <string name="minus_one_screen_google">Google</string>
     <string name="minus_one_screen_none">Без</string>
 	<string name="apply_text">ПРИЛОЖИ</string>
-	<string name="system_text">Система</string>
+	<string name="system_text">Автоматично</string>
 	<string name="all_apps_setting_original_scrollbar">Оригинално оформление</string>
     <string name="all_apps_setting_scroll_bar">Плъзгач</string>
     <string name="icon_size">Размер на иконите</string>

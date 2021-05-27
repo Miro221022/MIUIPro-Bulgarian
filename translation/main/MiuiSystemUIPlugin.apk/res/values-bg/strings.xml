@@ -164,4 +164,9 @@
 	   <string name="wireless_charging_fg_control_cancel">Отказ</string>
     <string name="wireless_charging_fg_control_messgae">"Обратното безжично зареждане беше изключено, защото има по-малко от %d%% заряд на батерията. Можете да регулирате настройките, за да позволите обратното безжично зареждане да работи по-дълго."</string>
     <string name="wireless_charging_fg_control_ok">Регулиране</string>
+	    <string name="hearing_assist_bluetooth_enable_tips_cancle">Отказ</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">Включи</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">Включи Bluetooth</string>
+    <string name="hearing_assist_transmission_tips_cancel">Отказ</string>
+    <string name="hearing_assist_transmission_tips_continue">Включи</string>
 </resources>

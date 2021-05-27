@@ -1285,9 +1285,7 @@
     <string name="t9_search_empty_send_sms">Изпрати съобщение</string>
     <string name="t9_search_empty_video_call">Видео разговор</string>
     <string name="t9_search_guide_pinyin_title1">Въведете цифри, за да намерите контакти</string>
-    <string name="t9_search_guide_pinyin_title2">Въведете 5 и 6 за търсене на <font fgcolor="">М</font>ирослав <font fgcolor="">Т</font>одоров</string>
     <string name="t9_search_guide_zhuyin_title1">Въведете цифри, за да намерите контакти</string>
-    <string name="t9_search_guide_zhuyin_title2">Въведете 5 и 6 за търсене на <font fgcolor="">М</font>ирослав <font fgcolor="">Т</font>одоров</string>
     <string name="take_new_photo">Заснемане на нова снимка</string>
     <string name="take_photo">Направи снимка</string>
     <string name="three_letter">DEF</string>
@@ -1513,4 +1511,8 @@
     <string name="miuix_appcompat_select_all">Избери всичко</string>
     <string name="miuix_appcompat_select_item">Изберете елементи</string>
     <string name="send">Изпрати</string>
+	    <string name="no_contact_selected">Изберете контакт, за да видите подробности</string>
+    <string name="residual_time_description">%1$sден%2$sчас</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Въведете %d и %d за търсене на Мирослав Тодоров</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Въведете %d и %d за търсене на Мирослав Тодоров</string>
 </resources>
