@@ -2081,4 +2081,5 @@ WLAN адрес (BSSID)
 	<string name="start_camera_error_try_again">"Камерата не може да се стартира. Опитайте отново."</string>
 	    <string name="lock_screen_access_to_5G">Достъп до 5G</string>
     <string name="miui_screen_rotation_freeze_message">Заключване на ориентацията на екрана в пейзажен режим</string>
+	<string name="face_unlock_swipe_up_retry">Плъзнете нагоре, за да опитате отново</string>
 </resources>

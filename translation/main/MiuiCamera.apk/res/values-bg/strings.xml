@@ -1625,8 +1625,6 @@
     <string name="cta_perm_storage_desc">За преглед и запазване на снимки</string>
     <string name="cta_perm_voice">Използвай микрофона</string>
     <string name="cta_perm_voice_desc">За запис на звук по време на заснемане на видеоклипове</string>
-    <string name="dolly_zoom_capture_tip1">Поставете обекта си в рамката и дръжте устройството на поне %d метър</string>
-    <string name="dolly_zoom_capture_tip2">Постоянно отдалечавайте устройството от обекта</string>
     <string name="dolly_zoom_capture_tip4">Преместихте устройството твърде далеч. Започнете отначало.</string>
     <string name="dolly_zoom_capture_tip5">"Видеото не може да бъде запазено"</string>
     <string name="dolly_zoom_guide_tip1">"Make sure there's enough space between your subject and the background."</string>
@@ -1782,4 +1780,7 @@ Dual phone recording also allows you to connect to the other device and create a
     <string name="network_connection_prerequisites_china">Включете Bluetooth и Wi-Fi в Центъра за управление, за да можете да използвате Двоен телефонен запис.</string>
 	    <string name="close">Затвори</string>
     <string name="send">Изпрати</string>
+	<string name="dolly_zoom_capture_tip6">Преместете обекта си в центъра на кадъра</string>
+    <string name="dolly_zoom_capture_tip1">Поставете обекта си в рамката</string>
+    <string name="dolly_zoom_capture_tip2">Дръжте обекта си в центъра и отдалечавайте устройството</string>
 </resources>

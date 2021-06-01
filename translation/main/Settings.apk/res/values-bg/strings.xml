@@ -4912,11 +4912,11 @@ UT интерфейс: %5$s"</string>
      <string name="screen_resolution_title">Резолюция на екрана</string>
      <string name="screen_resolution_ultrahigh_format">Свръхвисока (%1$s)</string>
      <string name="screen_saturation">Насищане</string>
-     <string name="screen_settings">Lock screen</string>
+     <string name="screen_settings">Заключен екран</string>
      <string name="screen_shot">Екранна снимка</string>
      <string name="screen_timeout">Заспиване</string>
      <string name="screen_timeout_summary">След %1$s неактивност</string>
-     <string name="screen_timeout_title">Заспиване</string>
+     <string name="screen_timeout_title">Автоматично заключване на екрана</string>
      <string name="screen_usage_summary">Amount of time screen has been on since full charge</string>
      <string name="screen_zoom_big">L</string>
      <string name="screen_zoom_conversation_icon_alex">А</string>
@@ -4961,7 +4961,7 @@ UT интерфейс: %5$s"</string>
      <string name="screenshot_three_gesture">Плъзнете три пръста надолу по дисплея за снимка на екрана</string>
      <string name="screenshot_three_gesture_summary">Другите жестове с три пръста ще бъдат изключени</string>
      <string name="sd_card_settings_label">USB хранилище</string>
-     <string name="sd_card_storage">SD card storage</string>
+     <string name="sd_card_storage">Хранилище на SD картата</string>
      <string name="sd_data">Данни на SD картата</string>
      <string name="sd_eject">Демонтиране на SD картата</string>
      <string name="sd_eject_summary">Демонтирайте SD картата, за да можете безопасно да я премахнете</string>
@@ -7922,12 +7922,12 @@ UT интерфейс: %5$s"</string>
      <string name="tab_text">Раздел</string>
      <string name="wallet_header_title">Портфейл и плащания</string>
 	 <string name="launcher_icon_management">Управление на преките пътища на началния екран</string>
-	     <string name="switch_headset_anti_lost">Предупреждение за липсваща слушалка</string>
+	<string name="switch_headset_anti_lost">Предупреждение за липсваща слушалка</string>
     <string name="switch_headset_anti_lost_summary">Получавайте предупреждение, когато една от слушалките ви е далеч от ухото или кутията за зареждане за повече от минута</string>
     <string name="switch_headset_anti_lost_title">Предупреждение за липсваща слушалка</string>
     <string name="wifi_enhanced_handover">Подобрено предаване</string>
-   <string name="wifi_enhanced_handover_summary">Бързо превключвайте между различни точки за достъп</string>
-       <string name="miheadet_up_music">Предишна песен</string>
+    <string name="wifi_enhanced_handover_summary">Бързо превключвайте между различни точки за достъп</string>
+    <string name="miheadet_up_music">Предишна песен</string>
     <string name="miheadset_active">Енергично</string>
     <string name="miheadset_bright">Ярко</string>
     <string name="miheadset_define_self">Потребителско</string>
@@ -7938,7 +7938,7 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_next">Следваща песен</string>
     <string name="miheadset_play_pause">Изпълни/Пауза</string>
     <string name="miheadset_soft">Меко</string>
-	    <string name="accessibility_back">Назад</string>
+	<string name="accessibility_back">Назад</string>
     <string name="accessibility_clear">Изчисти</string>
 	<string name="miheadset_connect_toast_tips">Първо свържете слушалки</string>
 	<string name="miheadset_unpair_device_text">%1$s ще бъде раздвоен от всички устройства свързани с този Mi профил.</string>
@@ -7994,7 +7994,7 @@ UT интерфейс: %5$s"</string>
     <string name="dialog_check_context">"Вашето устройство не може да се свърже с интернет в момента
 · Ако искате да използвате мобилни данни, докоснете \"Опитай отново\" или извадете и поставете отново вашата SIM карта."</string>
     <string name="dpp_qr_code_summary">Помолете другия човек да сканира този QR код, използвайки скенера в настройките му за WLAN</string>
-	    <string name="miheadset_key_config_call_ai">Гласов асистент</string>
+	<string name="miheadset_key_config_call_ai">Гласов асистент</string>
     <string name="miheadset_key_config_close">Изключи</string>
     <string name="miheadset_key_config_close_summary">Изключване на шумопотискането и прозрачността</string>
     <string name="miheadset_key_config_gesture_control">Жестове</string>
@@ -8023,23 +8023,23 @@ UT интерфейс: %5$s"</string>
     <string name="wifi_traffic_priority_regular">Балансиран</string>
     <string name="wifi_traffic_priority_regular_summary">Разпределяне на еднаква честотна лента за приложенията и изтеглянията във фонов режим</string>
     <string name="wifi_traffic_priority_summary">Разпределяне на честотната лента за приложения и изтегляния на заден план</string>
-	   <string name="miheadset_ancBalance">Средно</string>
+	<string name="miheadset_ancBalance">Средно</string>
     <string name="miheadset_ancClosed">Изключено</string>
     <string name="miheadset_ancDecrease">Ниско</string>
     <string name="miheadset_ancIncrease">Високо</string>
     <string name="miheadset_transparentMode">Прозрачност</string>
     <string name="miheadset_voiceIncrease">Подобряване на звука</string>
 	<string name="title_special_features_health_global">Сърдечен ритъм</string>
-	    <string name="miheadset_key_config_noise_control">Контрол на шума</string>
+	<string name="miheadset_key_config_noise_control">Контрол на шума</string>
     <string name="miheadset_key_config_noise_control_summary">Натиснете и задръжте, за да превключвате между два избрани режима за контрол на шума</string>
-	   <string name="device_activation_info">Активиране на устройство</string>
+	<string name="device_activation_info">Активиране на устройство</string>
     <string name="miui_sos_pa_title">Местоположение при спешни случаи</string>
     <string name="miui_sos_pa_turn_off">Изключено</string>
     <string name="miui_sos_pa_turn_on">Включено</string>
-	    <string name="bt_leaudio_open_dialog_summary">"Няма да можете да свържете няколко устройства към слушалките си, когато LC3 е включен. Другите свързани устройства ще бъдат прекъснати, ако включите тази функция. Да се включи ли LC3 все пак?"</string>
+	<string name="bt_leaudio_open_dialog_summary">"Няма да можете да свържете няколко устройства към слушалките си, когато LC3 е включен. Другите свързани устройства ще бъдат прекъснати, ако включите тази функция. Да се включи ли LC3 все пак?"</string>
     <string name="bt_leaudio_open_dialog_title">Внимание</string>
     <string name="bt_leaudio_summary">Висококачествено аудио изживяване</string>
-	    <string name="already_delete_system_app">Деинсталирани системни приложения</string>
+	<string name="already_delete_system_app">Деинсталирани системни приложения</string>
     <string name="codec_low_latency_video_summary">Осигурете аудио изживяване с ниска латентност за игри и видео, правейки синхронизирането на звука и картината по-естествено.</string>
     <string name="face_data_introduction_add">Начало</string>
     <string name="headset_notification_switch_summary">Показване на състоянието в приспособлението в панела за известия, когато са свързани слушалки</string>
@@ -8054,14 +8054,14 @@ UT интерфейс: %5$s"</string>
 	<string name="wifi_link_turbo_mode">Режим за ускоряване на скоростта</string>
     <string name="wifi_assistant_data_prompt">Показване на предупреждението за използване на данни</string>
     <string name="wifi_link_turbo_summary">Използвайте мобилни данни, за да увеличите скоростта на връзката. Използването на тази функция може да генерира допълнителни такси от оператора.</string>
-	    <string name="add_one_text_app_name_once">Можете да добавяте по един всеки път</string>
+	<string name="add_one_text_app_name_once">Можете да добавяте по един всеки път</string>
     <string name="add_text_app_name">Добавете пакет на приложението за тестване</string>
     <string name="add_text_app_name_here">Въведете име на пакета</string>
     <string name="add_text_app_package_name">Добавете пакет на приложението за тестване</string>
 	<string name="miheadset_adaptive">Адаптивно</string>
-	   <string name="mechanical_ime">Механична клавиатура</string>
+	<string name="mechanical_ime">Механична клавиатура</string>
     <string name="mechanical_ime_hint">Поддържа се само от клавиатура, персонализирана за Xiaomi</string>
-	    <string name="bluetooth_message_access_dialog_content">"Ненадеждно Bluetooth устройство, %1$s, иска да осъществи достъп до вашите съобщения.
+	<string name="bluetooth_message_access_dialog_content">"Ненадеждно Bluetooth устройство, %1$s, иска да осъществи достъп до вашите съобщения.
 
 Не сте се свързали с %2$s преди."</string>
     <string name="bluetooth_message_access_dialog_title">Разрешаване на достъп до съобщенията?</string>
@@ -8101,12 +8101,12 @@ UT интерфейс: %5$s"</string>
 	<string name="miheadset_ancDepth">Дълбоко</string>
     <string name="miheadset_ancEquilibrium">Балансирано</string>
     <string name="miheadset_ancMild">Леко</string>
-	    <string name="fingerprint_base_title">Пръстов отпечатък %s</string>
+	<string name="fingerprint_base_title">Пръстов отпечатък %s</string>
     <string name="fingerprint_gxzw_add_fingerprint_finish">Запазено като \"%s\"</string>
     <string name="miheadset_fitness_check_result_l_not_ok">Пренастройка на слушалката</string>
     <string name="miheadset_fitness_check_result_r_not_ok">Пренастройка на слушалката</string>
     <string name="voip_assistant_settings">VoIP асистент</string>
-	    <string name="external_ram_dialog_btn_cancel">По-късно</string>
+	<string name="external_ram_dialog_btn_cancel">По-късно</string>
     <string name="external_ram_dialog_btn_ok">Рестарт</string>
     <string name="external_ram_dialog_message">Рестартирайте устройството си, за да приложите промени.</string>
     <string name="external_ram_dialog_title">Рестартирайте устройството</string>
@@ -8121,11 +8121,11 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_triple_press_left">Трикратно натиснете лявата слушалка</string>
     <string name="miheadset_triple_press_right">Трикратно натиснете дясната слушалка</string>
 	<string name="miheadset_network_not_available">Проверете мрежовите настройки и опитайте отново</string>
-	 <string name="magic_window_name">Паралелни прозорци</string>
-	     <string name="freeform_guide_slide_to_small_freeform_summary">Натиснете и задръжте долната част на прозореца и го плъзнете в горния десен ъгъл</string>
+	<string name="magic_window_name">Паралелни прозорци</string>
+	<string name="freeform_guide_slide_to_small_freeform_summary">Натиснете и задръжте долната част на прозореца и го плъзнете в горния десен ъгъл</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Смаляване на приложението</string>
 	<string name="sound_mode">Тих режим</string>
-	    <string name="copyright">Авторско право</string>
+	<string name="copyright">Авторско право</string>
     <string name="dark_mode_auto_time_summary">Включване и изключване на тъмния режим по график</string>
     <string name="dark_mode_auto_time_title">Персонализирано</string>
     <string name="dark_mode_day_night_mode_summary">Превключване на тъмен режим при залез слънце и изключване при изгрев слънце</string>
@@ -8139,10 +8139,16 @@ UT интерфейс: %5$s"</string>
     <string name="three_gesture_horizontal">Плъзнете хоризонтално с %d пръста</string>
     <string name="three_gesture_pc_mode">Включете режим компютър</string>
     <string name="user_agreement">Условия за ползване</string>
-	    <string name="smart_home_select_smart_device">Приложение за управление на интелигентни домашни устройства</string>
+	<string name="smart_home_select_smart_device">Приложение за управление на интелигентни домашни устройства</string>
     <string name="upload_debug_log_detail">"Помогнете да подобрите изживяването на вашето MIUI устройство, като автоматично изпращате данни за диагностика, използване на устройството и приложението на Xiaomi. Това ще помогне за подобряване на живота на батерията, стабилността на системата MIUI и приложенията, и др.
 Данните, които ще изпратите, ще съдържат обща информация за вашето устройство и как го използвате (напимер. ниво на батерията, активност в системата и приложението и грешки). Данните ще се използват за подобряване на устройствата с MIUI.
 Изключването на тази функция не засяга способността на вашето устройство да изпраща информацията, необходима за основни услуги като системни актуализации и сигурност."</string>
     <string name="upload_debug_log_summary">Споделяйте данни, за да помогнете за подобряването на MIUI</string>
     <string name="upload_debug_log_title">Употреба и диагностика</string>
+	<string name="screen_timeout_subtitle">Показването на статично съдържание за продължителни периоди от време може да направи цветовете неравномерни</string>
+    <string name="switch_power_sound">Звук при зареждане</string>
+	<string name="time_floating_window">Плаващ часовник</string>
+    <string name="time_floating_window_summary">Показване на часовника в плаващия прозорец над други приложения</string>
+	<string name="oaid_apps_summary">Разрешаване или ограничаване на достъпа за отделни приложения</string>
+    <string name="oaid_apps_title">Управление на виртуален идентификатор</string>
 </resources>

@@ -1986,7 +1986,7 @@
     <string name="vlog_float_view_original_ratio">Оригинално</string>
     <string name="vlog_improt_encode_video_error">Възникна грешка в кодирането. Опитайте отново.</string>
     <string name="vlog_photo_edit_not_support">"Не можете да редактирате изображения"</string>
-    <string name="vlog_video_trans_code_cons">Обработка на файл с висока разделителна способност…</string>
+    <string name="vlog_video_trans_code_cons">Импортиране…</string>
 	<string name="filter_general_blackice">Черен лед</string>
   <string name="filter_general_greenorange">Лайм</string>
   <string name="filter_general_movie">Филм</string>
@@ -2494,11 +2494,11 @@
     <string name="web_sso_login_fail">Трябва да се впишете отново</string>
     <string name="web_sso_login_message">Вписване…</string>
     <string name="webview_reload">Опитайте отново</string>
-	    <string name="album_show_local_only_summary">Опцията за изтриване само на локални албуми ще стане достъпна, когато тази функция е включена</string>
+	<string name="album_show_local_only_summary">Опцията за изтриване само на локални албуми ще стане достъпна, когато тази функция е включена</string>
     <string name="cloud_privacy_with_ai_album">Функции и поверителност</string>
     <string name="cloud_privacy_with_face">Функции и поверителност</string>
     <string name="show_cloud_albumlist_summary">"Новите елементи от избраните албуми няма да бъдат качени в облака, след като изключите синхронизирането."</string>
-	    <string name="cloud_full_space_tip_message">Надстройте своя план за съхранение в облака, за да можете да синхронизирате всичките си снимки и видеоклипове в облака.</string>
+	<string name="cloud_full_space_tip_message">Надстройте своя план за съхранение в облака, за да можете да синхронизирате всичките си снимки и видеоклипове в облака.</string>
     <string name="cloud_full_space_tip_negative">Не сега</string>
     <string name="cloud_full_space_tip_positive">Надстройка</string>
     <string name="cloud_full_space_tip_title">Недостатъчно хранилище в облака</string>
@@ -2510,4 +2510,7 @@
     <string name="filter_travel_charlotte">Шарлота</string>
     <string name="mishare_all_devices">Всички устройства</string>
     <string name="synced_photo_video_count">Синхронизирано %1$s и %2$s</string>
+	<string name="home_page_all_photos">Всички</string>
+    <string name="home_page_camera">Камера</string>
+    <string name="home_page_custom">Персонализирано</string>
 </resources>

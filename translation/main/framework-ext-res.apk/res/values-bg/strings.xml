@@ -377,6 +377,9 @@
     <string name="dock_tip_splitscreen_portrait_drag">Плъзнете лентата вертикално, за да размените позициите на двата прозореца на приложението.</string>
     <string name="dock_tip_splitscreen_portrait_float">Задръжте и плъзнете отляво или отдясно на екрана, за да превключите към плаващ прозорец.</string>
     <string name="miui_multiwindow_not_support_small_window">"%1$s не поддържа плаващи прозорци"</string>
-	    <string name="stylus_pen_mask_screenshot">Докоснете екрана, за да направите екранна снимка</string>
+	<string name="stylus_pen_mask_screenshot">Докоснете екрана, за да направите екранна снимка</string>
     <string name="stylus_pen_mask_text">Докоснете екрана, за да започнете да пишете</string>
+	<string name="battery_authentic_failed_button">Разбрах</string>
+    <string name="battery_authentic_failed_title">Внимание</string>
+    <string name="other_ime">Други клавиатури</string>
 </resources>
