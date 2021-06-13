@@ -1985,4 +1985,14 @@
     <string name="mobile_special_network_optimization_config_summary">Когато мрежата е се държи необичайно, опитай да поправиш автоматично</string>
     <string name="mobile_special_network_optimization_config_title">Специална мрежова оптимизация</string>
 	<string name="invalid_secretcode_format_txt">Невалиден формат на секретния код!</string>
+	  <string name="full_forwarding_number">Препращащ номер</string>
+  <string name="full_forwarding_number_error_msg">Само телефонни номера, които започват с \"0\" се поддържат.</string>
+  <string name="full_forwarding_number_error_title">Невалиден телефонен номер</string>
+  <string name="full_forwarding_number_prefix">"Телефонен номер: "</string>
+  <string name="full_forwarding_option_forwarding">Препращане</string>
+  <string name="full_forwarding_option_off">ИЗКЛ.</string>
+  <string name="full_forwarding_option_voicemail">Гласова поща</string>
+  <string name="full_forwarding_settings">Пълно препращане</string>
+  <string name="play_voicemail_settings">Възпроизвеждане на гласова поща</string>
+  <string name="voicemail_callforward_settings">Гласова поща и пренасочване на повиквания</string>
 </resources>

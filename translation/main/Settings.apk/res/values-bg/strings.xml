@@ -8161,4 +8161,5 @@ UT интерфейс: %5$s"</string>
     <string name="bt_audiorepair_summary">Поправяне на звуково прекъсване на свързани Bluetooth устройства</string>
     <string name="bt_audiorepair_working">Поправяне на звуково прекъсване…</string>
     <string name="bluetooth_unlock_settings_unlock_summary">Тази функция работи с избрани носими устройства, произведени от Xiaomi</string>
+	<string name="security_center_title">Сигурност</string>
 </resources>
