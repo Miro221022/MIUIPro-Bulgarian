@@ -8151,4 +8151,14 @@ UT интерфейс: %5$s"</string>
     <string name="time_floating_window_summary">Показване на часовника в плаващия прозорец над други приложения</string>
 	<string name="oaid_apps_summary">Разрешаване или ограничаване на достъпа за отделни приложения</string>
     <string name="oaid_apps_title">Управление на виртуален идентификатор</string>
+	<string name="miheadset_single_ear_indicate">Носете и двете слушалки, за да използвате шумопотискане</string>
+	    <string name="bt_audio_repair_property">Поправяне на звукови проблеми</string>
+    <string name="bt_audiorepair_dialog_open_success">Поправено успешно. Изчакайте, докато устройството се свърже отново.</string>
+    <string name="bt_audiorepair_dialog_openok">Поправи</string>
+    <string name="bt_audiorepair_open_dialog_summary">"MIUI ще открие и отстрани проблемите, които причиняват Bluetooth прекъсване. Bluetooth ще бъде рестартиран по време на този процес. Не напускайте тази страница, докато не видите резултатите."</string>
+    <string name="bt_audiorepair_open_dialog_title">Поправяне на звуково прекъсване</string>
+    <string name="bt_audiorepair_pre_title">Поправяне на звуково прекъсване</string>
+    <string name="bt_audiorepair_summary">Поправяне на звуково прекъсване на свързани Bluetooth устройства</string>
+    <string name="bt_audiorepair_working">Поправяне на звуково прекъсване…</string>
+    <string name="bluetooth_unlock_settings_unlock_summary">Тази функция работи с избрани носими устройства, произведени от Xiaomi</string>
 </resources>

@@ -348,4 +348,6 @@
     <string name="preference_record_desktop_indicator_summary">Показване на син индикатор на началния екран, докато записвате</string>
     <string name="preference_status_bar_indicator_prompt">Показване на син индикатор на заключения екран по време на запис</string>
     <string name="search_enable_earpiece_title">Режим на слушалката</string>
+	   <string name="delete_recorder">Изтрий</string>
+    <string name="play_speed">%1$.1fX скорост</string>
 </resources>

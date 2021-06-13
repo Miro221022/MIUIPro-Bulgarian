@@ -4516,4 +4516,26 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="pc_hidemode_power_save">Енергия</string>
     <string name="pc_performance_mode_dialog_summary">Устройството ви ще може да работи %s в режим на производителност. Имайте предвид, че режимът на производителност увеличава консумацията на енергия и може да доведе до прегряване.</string>
     <string name="pc_performance_mode_dialog_title">Режим на производителност</string>
+	<string name="app_predict_dialog_button">Добави към началния екран</string>
+    <string name="app_predict_dialog_message">ИИ ще предложи приложения, от които може да се нуждаете в момента</string>
+    <string name="app_predict_dialog_success">Добавен към началния екран успешно</string>
+    <string name="app_predict_guide_button">Добави</string>
+    <string name="app_predict_guide_message">ИИ ще предложи приложения, от които може да се нуждаете в момента</string>
+    <string name="app_predict_guide_title">Интелигентни предложения за приложения</string>
+    <string name="go_to_mi_sim">Докоснете, за да използвате Mi SIM.</string>
+    <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Докоснете, за да се отвори Mi Sim.&lt;/U>&lt;/font>"</string>
+    <string name="power_setting_wireless_reverse_charging_fg_control_title">Лимит на зареждане</string>
+    <string name="power_wireless_need_update_text">Актуализиране…</string>
+    <string name="power_wireless_update_button_text">Актуализирай</string>
+    <string name="power_wireless_update_dialog_button">Разбрах</string>
+    <string name="power_wireless_update_dialog_message">Заредете устройството си поне до %s, за да можете да актуализирате фърмуера за безжично зареждане.</string>
+    <string name="power_wireless_update_dialog_title">Слаба батерия</string>
+    <string name="power_wireless_update_driver">Актуализации на фърмуера</string>
+    <string name="power_wireless_update_notification_button">Преглед</string>
+    <string name="power_wireless_update_notification_subtitle">Актуализирайте фърмуера, за да подобрите стабилността на безжичното зареждане</string>
+    <string name="power_wireless_update_notification_title">Актуализация на безжичното зареждане</string>
+    <string name="power_wireless_update_text">Актуално</string>
+    <string name="power_wireless_update_tv_text">"Актуализиране на фърмуера 6 Не изключвайте устройството."</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Спрете обратното безжично зареждане, когато батерията на това устройство достигне %s</string>
+    <string name="setting_wireless_reverse_charging_summary">Поставете устройството, което поддържа безжично зареждане Qi (например телефон или носимо устройство) в центъра на гърба на това устройство</string>
 </resources>

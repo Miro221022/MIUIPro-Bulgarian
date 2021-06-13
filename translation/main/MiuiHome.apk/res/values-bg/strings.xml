@@ -652,4 +652,5 @@
     <string name="provision_next">Следващо</string>
     <string name="provision_skip_underline">Пропускане</string>
 	 <string name="recents_clear_all_tasks">Изчисти всичко</string>
+	 <string name="recents_smallwindow_drag_text">Плъзнете тук, за да закачите</string>
 </resources>

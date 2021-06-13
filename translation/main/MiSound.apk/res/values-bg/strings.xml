@@ -167,4 +167,11 @@
     <string name="hearing_assist_exit_btn_stop">Изключи</string>
     <string name="hearing_assist_tips_message_two">%d. Тази функция се поддържа от определени модели Bluetooth слушалки.</string>
     <string name="hearing_assist_volume">"Силата на звука на микрофона"</string>
+	    <string name="headset_use_long_time">"Изглежда, че носите слушалките си по-дълго от препоръчаното. Свалете ги и направете пауза."</string>
+    <string name="headset_use_loud_volume">Силата на звука на слушалките е висока от дълго време. За да защитите слуха си, той е понижен до препоръчителното ниво.</string>
+    <string name="headset_use_not_support_noise_reduction">Изглежда текущата ви среда е много шумна. Носенето на слушалките сега може да повлияе на слуха ви.</string>
+    <string name="headset_use_prompt">Слушалки</string>
+    <string name="headset_use_support_noise_reduction">Изглежда текущата ви среда е много шумна. Използвайте шумопотискане, за да защитите слуха си.</string>
+    <string name="headset_volume_content">Текущата сила на звука на слушалките надвишава препоръчаната граница. Понижете звука, за да защитите слуха си.</string>
+    <string name="headset_volume_prompt">Сила на звука на слушалките</string>
 </resources>
