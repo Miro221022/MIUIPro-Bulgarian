@@ -249,4 +249,6 @@
 	<string name="mishare_settings_summary_international">"Mi Споделяне ви позволява да изпращате елементи безжично до други устройства в близост.
 Тази функция се поддържа от OPPO, vivo, realme и други производители на смартфони. Можете да проверите списъка с поддържани устройства на официалния уебсайт на всяка избрана марка."</string>
     <string name="error_remote_ap_working">Помолете другия човек да изключи преносимата точка за достъп</string>
+	    <string name="common_google_play_services_unknown_issue">%1$s има проблеми с услугите на Google Play. Моля, опитайте отново.</string>
+    <string name="samsung_phone">Samsung телефон</string>
 </resources>

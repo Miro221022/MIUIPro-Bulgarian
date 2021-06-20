@@ -249,4 +249,6 @@
     <string name="miui_feedback_main_search_no_answer">"Не са намерени резултати"</string>
 	    <string name="miui_feedback_main_item_catch_full_log">Получаване на отчети</string>
     <string name="miui_feedback_main_item_feedback_list">Моят отзив</string>
+	    <string name="public_authorize_now">Настройки</string>
+    <string name="public_please_authorize">Разрешения, необходими за продължаване</string>
 </resources>

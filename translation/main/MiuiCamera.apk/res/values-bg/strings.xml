@@ -1783,4 +1783,8 @@ Dual phone recording also allows you to connect to the other device and create a
 	<string name="dolly_zoom_capture_tip6">Преместете обекта си в центъра на кадъра</string>
     <string name="dolly_zoom_capture_tip1">Поставете обекта си в рамката</string>
     <string name="dolly_zoom_capture_tip2">Дръжте обекта си в центъра и отдалечавайте устройството</string>
+	    <string name="time_freeze_action_end_tip">Докоснете бутона, за да размразите фона</string>
+    <string name="time_freeze_action_start_tip">Докоснете бутона, за да замразите фона</string>
+    <string name="time_freeze_adjust_button_title">Регулиране</string>
+    <string name="time_freeze_clipbox_tint">Замрази</string>
 </resources>

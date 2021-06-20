@@ -73,17 +73,12 @@
   <string name="bugreport_tool_log_dumping_title">Създаване на доклад за грешка</string>
   <string name="catch_full_log_action_cancel">Отказ</string>
   <string name="catch_full_log_action_complete">Завършване и качване</string>
-  <string name="catch_full_log_action_start">Генериране на отчет</string>
   <string name="catch_full_log_add_original_photo">Добавете оригинално изображение или кратко видео</string>
   <string name="catch_full_log_add_photo">Добавяне на снимка</string>
   <string name="catch_full_log_add_photo_dialog_content">Ако проблемът, който отчитате, е свързан с качеството на изображението на камерата, добавете оригинална примерна снимка (неорязана) за да ни помогне да намерим проблема. Добавяне на снимка сега?</string>
   <string name="catch_full_log_dialog_confirm_text">Отиди на Начален екран</string>
-  <string name="catch_full_log_dialog_content">MIUI генерира отчет. Това може да повлияе на цялостната производителност на устройството ви. Ако не можете да възпроизведете проблема, който искате да съобщите, върнете се към отчетите и докоснете \"Отказ\".</string>
   <string name="catch_full_log_dump_hprof_failed">Не може да се генерира отчет</string>
   <string name="catch_full_log_item_content_catch_direct">1. Върнете се към функцията, която искате да докладвате и я използвайте.\n2. Върнете се на тази страница и докоснете \"Завършване и качване\".</string>
-  <string name="catch_full_log_item_content_need_open">1. Докоснете \"Генериране на отчет\".\n2. Върнете се към функцията, която искате да докладвате и я използвайте.\n3. Върнете се на тази страница и докоснете \"Завършване и качване\".</string>
-  <string name="catch_full_log_item_content_title">Стъпки:</string>
-  <string name="catch_full_log_item_title_audio">Аудио, звукозапис и звук при обаждания</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_dump_heap">Пълен отчет</string>
   <string name="catch_full_log_item_title_gps">Услуги за местоположение</string>
@@ -598,4 +593,14 @@
     <string name="send">Изпрати</string>
     <string name="feedback_continue">Изпрати отзива</string>
     <string name="submit_dialog_content"><Data>"Прочетете и приемете нашите &lt;a href=\"%1$s\">Политика за поверителност&lt;/a> и &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> преди да изпратите обратна връзка. Проблемите, които докладвате заедно с елементите, които прикачвате (включително отчетите, които могат да съдържат лична информация, както и информацията за вашето устройство и мрежа), ще бъдат качени на сървърите на MIUI. Това ще ни помогне да намерим и разрешим проблемите, за които докладвате. Ако докладвате за проблеми, свързани с няколко устройства, отчетите от други устройства, където се използва вашият Mi профил, също ще бъдат качени."</Data></string>
+	    <string name="catch_full_log_dialog_title">Генериране на отчети…</string>
+		    <string name="catch_full_log_action_start">Начало</string>
+    <string name="catch_full_log_category">Типове на отчетите</string>
+    <string name="catch_full_log_item_content_catching">Генериране на отчети…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Докоснете \"Начало\" за да започнете.
+%2$d. Възпроизведете проблема, с който сте се сблъскали.
+%3$d. Върнете се на тази страница и докоснете \"Край и качване\"."</string>
+    <string name="catch_full_log_dialog_content">"Това може да повлияе на цялостната производителност на вашето устройство. Ако не можете да възпроизведете проблема, за който искате да подадете сигнал, върнете се в отчетите и докоснете \"Отказ\"."</string>
+    <string name="catch_full_log_item_content_title">Как се генерира отчет</string>
+    <string name="catch_full_log_item_title_audio">Звуци, звук от обаждане и аудио запис</string>
 </resources>

@@ -1390,12 +1390,12 @@
         <item>Показване на меню</item>
      </string-array>
      <string-array name="screen_optimize_summary">
-        <item>Регулиране на цветовете въз основа на текущото осветление</item>
+        <item>Регулиране на цветовете въз основа на показваното съдържание</item>
         <item>Винаги подобрени цветове</item>
         <item>Контрастът ще остане непроменен</item>
      </string-array>
      <string-array name="screen_optimize_title">
-        <item>Автоматично (препоръчва се)</item>
+        <item>Ярко (препоръчва се)</item>
         <item>Наситено</item>
         <item>Стандартно</item>
      </string-array>
@@ -1523,12 +1523,12 @@
         <item>Скала на анимации 10x</item>
      </string-array>
      <string-array name="true_color_screen_optimize_summary">
-        <item>Цветовете въз основа на текущото осветление</item>
+        <item>Регулиране на цветовете въз основа на показваното съдържание</item>
         <item>Винаги подобрени цветове</item>
         <item>Стандартен цвят на съдържанието на екрана с калибриране на цвета</item>
      </string-array>
      <string-array name="true_color_screen_optimize_title">
-        <item>Автоматично (препоръчително)</item>
+        <item>Ярко (препоръчително)</item>
         <item>Наситено</item>
         <item>Оригинален цвят</item>
      </string-array>

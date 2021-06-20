@@ -769,7 +769,7 @@
   <string name="inactive_apps_title">Неактивни приложения</string>
   <string name="incorrect_pincode">Неправилен PIN код</string>
   <string name="incorrect_pukcode">Неправилен PUK код</string>
-  <string name="input_password_after_boot_msg">За да отключите устройството, въведете паролата си</string>
+  <string name="input_password_after_boot_msg">Потвърждаването на заключването на екрана ви е необходимо, когато устройството се рестартира</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Не може да се превключва между пространства по време на обаждане</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Не можете да превключвате между пространствата, когато е включен родителски контрол</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Не можете да превключвате между пространствата, когато е включена функцията за свръх пестене на батерия</string>
@@ -2017,10 +2017,6 @@ d MMMM"</string>
     <string name="loading">Състояние неизвестно</string>
     <string name="status_bar_setting_title">Център за управление и лента за състоянието</string>
 	<string name="notification_control_center">Известия и център за управление</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">"Не може да се настрои по време на разговор"</string>
-    <string name="quick_settings_vowifi_label">WLAN повиквания</string>
-    <string name="quick_settings_vowifi_sim1_label">WLAN повиквания SIM1</string>
-    <string name="quick_settings_vowifi_sim2_label">WLAN повиквания SIM2</string>
 	<string name="touch_filtered_warning">Тъй като дадено приложение закрива искането за разрешение, настройките не могат да проверят отговора ви.</string>
     <string name="wifi_debugging_allow">Разрешаване</string>
     <string name="wifi_debugging_always">Винаги разрешавай в тази мрежа</string>
@@ -2082,4 +2078,14 @@ WLAN адрес (BSSID)
 	    <string name="lock_screen_access_to_5G">Достъп до 5G</string>
     <string name="miui_screen_rotation_freeze_message">Заключване на ориентацията на екрана в пейзажен режим</string>
 	<string name="face_unlock_swipe_up_retry">Плъзнете нагоре, за да опитате отново</string>
+	    <string name="device_locked_without_biometric">Биометричното откриване не може да се извърши поради използването на тристранна функция за заключване на екрана с един ключ</string>
+    <string name="miui_notification_menu_msg_unfold">Показване на %1$s известията отделно?</string>
+    <string name="miui_notification_menu_unfold">Маркирайте като важно</string>
+    <string name="miui_unimportant_notifications">Маловажни известия</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Натиснете и задръжте бутоните &lt;font color=#e6e6e6>[Захранване]&lt;/font> и &lt;font color=#e6e6e6>[Увеличение на звука]&lt;/font> докато не видите &lt;img src=\"\">.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Изберете &lt;font color=#e6e6e6>[Wipe data]&lt;/font> и докоснете &lt;font color=#e6e6e6>[Рестарт]&lt;/font> след това.</Data></string>
+	    <string name="msim_set_sub_not_supported_phone_in_call">"Не може да се настрои по време на разговор"</string>
+    <string name="quick_settings_vowifi_label">WLAN повикване</string>
+    <string name="quick_settings_vowifi_sim1_label">WLAN повикване SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">WLAN повикване SIM2</string>
 </resources>

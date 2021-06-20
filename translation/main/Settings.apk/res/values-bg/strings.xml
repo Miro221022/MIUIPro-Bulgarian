@@ -2604,8 +2604,6 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="gesture_setting_off">Включено</string>
      <string name="gesture_setting_on">Изключено</string>
      <string name="gesture_w">W pattern</string>
-     <string name="gesture_wakeup_summary">Можете да натиснете два пъти, за да изключите екрана, когато се използва темата по подразбиране или класическа</string>
-     <string name="gesture_wakeup_title">Двойно почукване за събуждане или изключване на екрана</string>
      <string name="gesture_z">Z pattern</string>
      <string name="getConfiguredNetworks">getConfiguredNetworks</string>
      <string name="getConnectionInfo">getConnectionInfo</string>
@@ -4668,7 +4666,6 @@ UT интерфейс: %5$s"</string>
      <string name="remove_managed_profile_label">Премахв. на служебния потр. профил</string>
      <string name="repeat">Повторение</string>
      <string name="repeat_call">Известяване за повтарящи се обаждания</string>
-     <string name="repeat_call_info">Разрешаване на звук за повтарящите се обаждания в рамките на 15 минути в Тих режим</string>
      <string name="repeat_title">Повтаряне</string>
      <string name="reset_aaid">Нулирай идентификатора на реклами</string>
      <string name="reset_app_preferences">Нулиране</string>
@@ -8122,7 +8119,6 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_triple_press_right">Трикратно натиснете дясната слушалка</string>
 	<string name="miheadset_network_not_available">Проверете мрежовите настройки и опитайте отново</string>
 	<string name="magic_window_name">Паралелни прозорци</string>
-	<string name="freeform_guide_slide_to_small_freeform_summary">Натиснете и задръжте долната част на прозореца и го плъзнете в горния десен ъгъл</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Смаляване на приложението</string>
 	<string name="sound_mode">Тих режим</string>
 	<string name="copyright">Авторско право</string>
@@ -8162,4 +8158,12 @@ UT интерфейс: %5$s"</string>
     <string name="bt_audiorepair_working">Поправяне на звуково прекъсване…</string>
     <string name="bluetooth_unlock_settings_unlock_summary">Тази функция работи с избрани носими устройства, произведени от Xiaomi</string>
 	<string name="security_center_title">Сигурност</string>
+	<string name="lockpassword_confirm_your_lock_pin_header">Потвърдете PIN  кода си</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">"Натиснете и задръжте долната част на прозореца и го плъзнете в горния десен ъгъл.
+Тази функция работи само когато системното управление е настроено на жестове."</string>
+    <string name="gesture_wakeup_summary">Можете да докоснете два пъти, за да изключите екрана само когато са приложени предварително инсталирани теми</string>
+    <string name="gesture_wakeup_title">Двукратно докосване за събудане или изключване на екрана, когато устройството е заключено</string>
+    <string name="repeat_call_info">Звънене или вибриране, при получаване на второто обаждане от същия контакт или телефонен номер в рамките %d минути, когато Не безпокойте е включен</string>
+	    <string name="miheadset_dual_connect_mode">Свържете се с две устройства</string>
+    <string name="miheadset_dual_connect_mode_summary">Включете, за да свържете слушалките си едновременно с две Bluetooth устройства</string>
 </resources>

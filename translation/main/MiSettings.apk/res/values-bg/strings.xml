@@ -763,4 +763,8 @@
 	<string name="usage_state_focus_mode_experience_warning_message_pad">"Режимът на съсредоточеност позволява използване само на камерата. Няма да можете да изключите режима на съсредоточеност преждевременно."</string>
 	    <string name="usage_state_focus_mode_warning_message_pad">"Режимът на съсредоточеност позволява използване само на камерата. Няма да можете да изключите режима на съсредоточеност преждевременно."</string>
     <string name="usage_state_focus_weak_summary_pad">Оставете устройството си на разстояние</string>
+	    <string name="all_ringtone_summary_pad">Изберете мелодии</string>
+    <string name="steady_on_screen_notification_title_pad">Оставете устройството си и си вземете почивка</string>
+    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"Режимът на съсредоточаване позволява само използване на камера и извършване на спешни повиквания. Няма да можете да изключите режима на съсредоточаване преждевременно."</string>
+    <string name="usage_state_focus_mode_warning_message_sim_pad">"Режимът на съсредоточаване позволява само използване на камера и извършване на спешни повиквания. Няма да можете да изключите режима на съсредоточаване преждевременно."</string>
 </resources>

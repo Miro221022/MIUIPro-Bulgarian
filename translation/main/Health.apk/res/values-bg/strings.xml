@@ -1686,4 +1686,7 @@
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
+	<string name="complete_progress">Напредък</string>
+  <string name="tb_step_widget" formatted="false">Днес. %1$s. Напредък: %2$d%</string>
+  <string name="view_step_and_progress">Вижте текущия брой крачки</string>
 </resources>
