@@ -641,4 +641,14 @@
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Да</string>
   <string name="yesterday">Вчера</string>
+     <string name="app_all_purpose_pad">Добре дошли във Файлов мениджър! Можете да използвате това приложение, за да управлявате файловете, съхранявани на вашето устройство.</string>
+     <string name="enter">Отвори Файлов мениджър</string>
+     <string name="guide_one_summary">Последните елементи са групирани заедно по дата.</string>
+     <string name="guide_one_title">Елементи, подредени във времева линия</string>
+     <string name="guide_three_summary">Добавете, премахнете и пренаредете клавишните комбинации на началната страница.</string>
+     <string name="guide_three_title">Пренаредете преките пътища</string>
+     <string name="guide_two_summary">Снимките в галерията и екранните снимки са скрити по подразбиране.</string>
+     <string name="guide_two_title">Вижте само основни елементи</string>
+     <string name="next">Следващо</string>
+     <string name="start_all">Виж всичко</string>
 </resources>

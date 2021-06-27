@@ -757,7 +757,7 @@
   <string name="currency_dialog_privacy_content"><Data>Конверторът на валута трябва да се свърже с интернет, за да получи най-новите валутни курсове. Прочетете и приемете нашите &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Политика за поверителност&lt;/a> преди да използвате тази функция.</Data></string>
   <string name="dont_allow">"Не приемам"</string>
   <string name="item_title_data_conversion">Данни</string>
-  <string name="label_powered_by">Осъществено от Mi Calculator</string>
+  <string name="label_powered_by">Осъществено от Mi Калкулатор</string>
   <string name="privacy_disagree">След като не се съгласите с нашите условия, Mi Calculator ще спре да събира данни и всички свързани данни ще бъдат изтрити от сървърите. Възможно е да не можете да използвате определени функции в приложението. Отказвате ли въпреки това?</string>
   <string name="privacy_switch">Оттегляне на съгласието</string>
   <string name="privacy_switch_disagree">Не приемам</string>
@@ -777,4 +777,10 @@
     <string name="privacy_revoke_progress">Оттегляне…</string>
     <string name="user_experience_program_title">Програма за потребителски опит</string>
     <string name="withdraw_network_error">Вашето устройство трябва да се свърже с мрежата, за да можете да оттеглите съгласието си. Проверете мрежовите настройки и опитайте отново.</string>
+	<string name="label_investment_disclaimer">Използваме тримесечен период на смесване за повтарящи се изчисления</string>
+	<string name="label_monthly_investment">Месечна инвестиция</string>
+	    <string name="xiaomi_calculator_delete_description">"Калкулаторът е системно приложение. Няма да можете да използвате множество конвертори и допълнителни функции, след като деинсталирате приложението."</string>
+    <string name="xiaomi_calculator_delete_title">Деинсталиране на Калкулатор?</string>
+    <string name="xiaomi_calculator_remove_icon_description">"Калкулаторът е системно приложение. Няма да можете да използвате множество конвертори и допълнителни функции, след като премахнете прякия път на началния екран."</string>
+    <string name="xiaomi_calculator_remove_icon_title">Премахване на \"Калкулатор\" от началния екран?</string>
 </resources>

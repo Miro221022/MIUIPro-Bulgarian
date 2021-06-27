@@ -26,7 +26,6 @@
   <string name="find_device_error_server">Грешка в сървъра (%s).</string>
   <string name="find_device_error_unknown">Неизвестна грешка (%s).</string>
   <string name="find_device_noise_title">Аларма за Открий устройството</string>
-  <string name="find_device_notice">Посете &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b>, за да намерите, заключите или нулирате устройството си.</string>
   <string name="find_device_notice_sms_alert">Ако смените SIM картите си, автоматично може да бъде изпратен друг SMS, за да активирате отново тази функция.</string>
   <string name="find_device_stop_noise">Докоснете OK, за да заглушите</string>
   <string name="find_device_storage_corrupted">Хранилището на Открий устройството е повредено. Вашето устройство не е защитено.</string>
@@ -90,4 +89,7 @@
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">"За да актуализирате състоянието на SIM картата и да се уверите, че всички услуги работят нормално, едно &lt;font color=#0097FF>&lt;b>международно платено текстово съобщение&lt;/b>&lt;/font> ще бъде изпратено, след като смените SIM картите. Ще бъдете таксувани за това съобщение от вашия оператор."</string>
 		<string name="close">Затвори</string>
     <string name="send">Изпрати</string>
+	   <string name="find_device_capture_notification_content">Друго упълномощено устройство прави снимка дистанционно чрез Открий устройството на i.mi.com.</string>
+    <string name="find_device_capture_notification_title">Открий устройството прави снимка от разстояние…</string>
+	<string name="find_device_notice">Посетете &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> за да намерите и заключите устройството си, да го маркирате като загубено, да изтриете данни или да направите снимки от разстояние.</string>
 </resources>

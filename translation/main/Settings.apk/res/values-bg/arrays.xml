@@ -1770,4 +1770,9 @@
         <item>Увеличете скоростта, като използвате мобилни данни, само когато WLAN сигналът е лош</item>
         <item>Комбинирайте WLAN и мобилни данни, за да увеличите скоростта на връзката</item>
     </string-array>
+	<string-array name="color_game_led_freq_entries">
+        <item>На всеки две секунди</item>
+        <item>На всеки три секунди</item>
+        <item>На всеки пет секунди</item>
+    </string-array>
 </resources>
