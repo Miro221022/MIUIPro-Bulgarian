@@ -1473,7 +1473,6 @@
   <string name="manual_input_free_traffic">Задайте лимит на мобилни данни</string>
   <string name="manual_input_traffic">Задайте лимит за трафика</string>
   <string name="manual_item_white_list_summary">Предотвратяване избраните елементи да бъдат оптимизирани</string>
-  <string name="manual_item_white_list_title">Изключения</string>
   <string name="mark_agent">Блокиране на докладвани агенции</string>
   <string name="mark_agent_block">Докладван като агенция</string>
   <string name="mark_agent_block_large">Агенции</string>
@@ -4415,7 +4414,6 @@ Xiaomi не обещава и не гарантира точността, вал
 	    <string name="app_behavior_about_setting">Настройки</string>
     <string name="app_behavior_dashboard_desc">Дейност в рамките на последните %d часа</string>
     <string name="app_behavior_dashboard_total_usage_title">Преглед на всички записи</string>
-    <string name="app_behavior_dashboard_usage">Поведение на приложението</string>
     <string name="app_behavior_dashboard_usage_list_title">Преглед с разрешение</string>
     <string name="app_behavior_desc_allowed">Разрешено</string>
     <string name="app_behavior_desc_allowed_on_background">Позволено във фонов режим</string>
@@ -4592,4 +4590,15 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="sp_website_scan_title">Проверка на страниците</string>
 	    <string name="power_wireless_update_tv_text">"Актуализиране на фърмуера… Не изключвайте устройството."</string>
     <string name="sp_monitored_apps_list_title">Сигурност на плащането</string>
+	    <string name="app_behavior_desc_allowed_at">Разрешено в %s</string>
+    <string name="app_behavior_desc_allowed_on_background_at">Позволено във фонов режим в %s</string>
+    <string name="app_behavior_desc_denied_at">Отказано в %s</string>
+    <string name="app_behavior_desc_denied_on_background_at">Отказано във фонов режим в %s</string>
+    <string name="first_aid_exception_sub_title">Тези елементи ще бъдат игнорирани по време на сканиране</string>
+    <string name="gtb_brightness_dialog_right_btn">Продължавай</string>
+    <string name="gtb_brightness_dialog_sub_message">*Можете да включите и изключите тази функция в Настройки.</string>
+    <string name="gtb_setting_item_title_brightness">Автоматично намаляване на яркостта на екрана</string>
+    <string name="pc_hidemode_normal_title">Балансирано</string>
+	    <string name="app_behavior_dashboard_usage">Използване на разрешения</string>
+    <string name="manual_item_white_list_title">Изключения при сканиране</string>
 </resources>

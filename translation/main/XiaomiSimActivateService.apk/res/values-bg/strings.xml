@@ -170,4 +170,15 @@
     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">За да активирате %2$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>платен SMS&lt;/font> ще бъде изпратен. Вашият оператор ще ви таксува за тези съобщения.</string>
 	    <string name="close">Затвори</string>
     <string name="send">Изпрати</string>
+	    <string name="sim_activate_failed">"Услугата не можа да се активира"</string>
+    <string name="sim_activate_prepare">Активирай услугата</string>
+	    <string name="activate_popup_desc_failed_query_info_msg_one_sim">"Телефонният номер не можа да се провери. Уверете се, че вашата SIM карта работи правилно и опитайте отново."</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. За да активирате \"%2$s\", въведете вашият телефонен номер. Ако замените тази SIM карта, ще бъде изпратен друг SMS за активиране.</string>
+    <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">За да активирате %s, въведете вашият телефонен номер.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. За да активирате \"%2$s\", въведете вашият телефонен номер. Техническата поддръжка се предоставя отчасти от Weihuitel. За подробности се обърнете към Политиката за поверителност на Weihuitel.</string>
+    <string name="activate_popup_failed_send_sms_desc_one_sim">"Не можа да се изпрати SMS за активиране. Уверете се, че вашата SIM карта работи правилно и опитайте отново."</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">"Телефонният номер не можа да бъде потвърден. Уверете се, че вашата SIM карта работи правилно и опитайте отново."</string>
+    <string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">"Не можа да получа SMS за активиране. Уверете се, че вашата SIM карта работи правилно и опитайте отново."</string>
+    <string name="error_no_get_send_sms_permission_one_sim">Разрешаване на изпращането на SMS първо.</string>
+    <string name="error_sim_not_in_service_tip_one_sim">"Не може да се свърже с мрежата. Уверете се, че вашата SIM карта работи правилно и опитайте отново."</string>
 </resources>

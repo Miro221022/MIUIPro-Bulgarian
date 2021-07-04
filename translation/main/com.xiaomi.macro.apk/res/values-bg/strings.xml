@@ -82,4 +82,5 @@
     <string name="times">пъти</string>
     <string name="two_guide_introduce">Докоснете екрана един по един, за да създадете набор от действия</string>
     <string name="using_tutorial">Използвайте инструкция</string>
+	<string name="gb_macro_floatview_noti">Моля, позволете MiMacro да се показва над други приложения</string>
 </resources>

@@ -135,4 +135,7 @@
     <string name="app_notification_record_complete">"Записът на екрана е запазен в галерията.
 Докоснете за преглед"</string>
     <string name="view_recorded_file">Докоснете, за да видите записания файл</string>
+	    <string name="low_battery_for_pad">Заредете устройството си, преди да започнете да записвате</string>
+    <string name="low_memory_for_pad">Имате по-малко от %1$d ГБ в хранилището. Можете да запишете до %2$d минути сега.</string>
+    <string name="view_recorded_videos">Преглед на записите</string>
 </resources>

@@ -120,4 +120,5 @@ d/MM"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сега</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Актуализирай</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Налична е актуализация</string>
+	<string name="download_button">Бутон за изтегляне</string>
 </resources>

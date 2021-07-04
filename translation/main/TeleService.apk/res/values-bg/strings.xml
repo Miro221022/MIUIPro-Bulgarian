@@ -1791,7 +1791,6 @@
     <string name="cfnry_time_thirty_sec">%d сек</string>
     <string name="cfnry_time_twenty_five_sec">%d сек</string>
     <string name="cfnry_time_twenty_sec">%d сек</string>
-	<string name="fiveg_sa_switch_title">SA мрежа</string>
 	<string name="advanced_mobile_settings">Разширени настройки</string>
 	<string name="main_netcheck_summary">Тестване на връзката за проблеми с мрежата</string>
 	<string name="mobile_advanced_dns_server_title">Адрес на DNS сървъра</string>
@@ -1956,7 +1955,6 @@
     <string name="fiveg_sa_switch_title_slot1">SIM %d SA режим</string>
 	<string name="smart_dual_sim_prompt_ok">Настройки</string>
     <string name="smart_dual_sim_prompt_title">Предупреждение за използване на данни (SIM %s)</string>
-	    <string name="mobile_intelligent_connection_title">Интелигентна свързаност с мобилна мрежа</string>
     <string name="traffic_mode_summary">Дайте приоритет на мобилната мрежова връзка за текущо използваните приложения. Приложенията във фонов режим може да не успеят да се свържат</string>
     <string name="traffic_mode_switch_title">Екстремен режим</string>
 	    <string name="fiveg_network_mode_default">Авто</string>
@@ -1982,8 +1980,6 @@
     <string name="unfold_speaker_pref_summary">Разгънете устройството по време на разговор, за да включите високоговорителя</string>
     <string name="unfold_speaker_pref_title">Разгънете, за да използвате високоговорител</string>
     <string name="four_point_five_switch_summary">Използвайте 4.5G, за да увеличите скоростта на мобилната връзка за данни и да подобрите качеството на гласа</string>
-    <string name="mobile_special_network_optimization_config_summary">Когато мрежата е се държи необичайно, опитай да поправиш автоматично</string>
-    <string name="mobile_special_network_optimization_config_title">Специална мрежова оптимизация</string>
 	<string name="invalid_secretcode_format_txt">Невалиден формат на секретния код!</string>
 	  <string name="full_forwarding_number">Препращащ номер</string>
   <string name="full_forwarding_number_error_msg">Само телефонни номера, които започват с \"0\" се поддържат.</string>
@@ -1995,4 +1991,11 @@
   <string name="full_forwarding_settings">Пълно препращане</string>
   <string name="play_voicemail_settings">Възпроизвеждане на гласова поща</string>
   <string name="voicemail_callforward_settings">Гласова поща и пренасочване на повиквания</string>
+      <string name="fiveg_sa_switch_title">Използвай SA мрежа</string>
+    <string name="mobile_geo_location_config_summary">Маркирайте необичайни местоположения на мрежови сигнали, за да подобрите комуникацията с потребителите</string>
+    <string name="mobile_geo_location_config_title">Оптимизация на качеството на мрежата с фиксирана точка</string>
+    <string name="mobile_network_dual_card_optimizationmobile_title">Двойна оптимизация на мобилната мрежа</string>
+    <string name="mobile_intelligent_connection_title">Интелигентна оптимизация на мобилната мрежа</string>
+    <string name="mobile_special_network_optimization_config_summary">Интелигентно възприемане нз множество сценарии в мрежата, за да се подобри комуникацията</string>
+    <string name="mobile_special_network_optimization_config_title">Адаптивен режим на сцена</string>
 </resources>

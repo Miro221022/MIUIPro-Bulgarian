@@ -169,4 +169,7 @@
     <string name="hearing_assist_bluetooth_enable_tips_title">Включи Bluetooth</string>
     <string name="hearing_assist_transmission_tips_cancel">Отказ</string>
     <string name="hearing_assist_transmission_tips_continue">Включи</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Известията вече не се заглушават</string>
+    <string name="miui_toast_zen_to_dnd_T">Известията ще бъдат заглушени</string>
+	<string name="app_name">Приставка за потребителски интерфейс на системата</string>
 </resources>

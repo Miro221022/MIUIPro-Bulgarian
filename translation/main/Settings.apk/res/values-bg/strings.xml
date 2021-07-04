@@ -8118,7 +8118,7 @@ UT интерфейс: %5$s"</string>
     <string name="miheadset_triple_press_left">Трикратно натиснете лявата слушалка</string>
     <string name="miheadset_triple_press_right">Трикратно натиснете дясната слушалка</string>
 	<string name="miheadset_network_not_available">Проверете мрежовите настройки и опитайте отново</string>
-	<string name="magic_window_name">Паралелни прозорци</string>
+	<string name="magic_window_name">Оптимизиране на приложенията за пейзажен изглед</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Смаляване на приложението</string>
 	<string name="sound_mode">Тих режим</string>
 	<string name="copyright">Авторско право</string>
@@ -8201,4 +8201,10 @@ Xiaomi Облак
     <string name="color_game_led_feature_on">Включено</string>
     <string name="color_game_led_freq">%s секунда</string>
     <string name="color_game_led_freq_title">Честота на трептене</string>
+	    <string name="gxzw_anim_unlock_effect">%s анимация на пръстови отпечатъци</string>
+    <string name="magic_list_empty_text">Сега няма приложения, съвместими с тази функция</string>
+    <string name="reset_network_title_noSim">Нулирай WLAN и Bluetooth</string>
+	    <string name="voip_assistant_settings_off">Изключено</string>
+    <string name="voip_assistant_settings_on">Включено</string>
+    <string name="voip_assistant_settings_summary">Записвайте VoIP разговори и използвайте оптимизация на гласов отпечатък</string>
 </resources>

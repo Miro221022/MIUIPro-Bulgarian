@@ -382,4 +382,8 @@
 	<string name="battery_authentic_failed_button">Разбрах</string>
     <string name="battery_authentic_failed_title">Внимание</string>
     <string name="other_ime">Други клавиатури</string>
+	    <string name="small_freeform_enter_warning">Плаващ прозорец</string>
+    <string name="small_freeform_exit_tip">Затвори плаващия прозорец</string>
+    <string name="small_freeform_memory_toast_app_type">"Не може да се отвори сега. Това приложение изисква твърде много памет, за да може да работи."</string>
+    <string name="small_freeform_memory_toast_game_type">"Не може да се отвори сега. Тази игра изисква твърде много памет, за да може да работи."</string>
 </resources>

@@ -49,7 +49,7 @@
   <string name="other_settings_location">Местоположение</string>
   <string name="other_settings_location_summary">Разрешаване на приложенията да получават достъп до местоположението ви</string>
   <string name="other_settings_user_experience">Програма за потребителски отзиви</string>
-  <string name="other_settings_user_experience_summary">Помогнете ни да подобрим нашите продукти и услуги, като споделите статистическите данни за използването с нас. Прегледайте подробностите</string>
+  <string name="other_settings_user_experience_summary">Помогнете ни да подобрим нашите продукти и услуги, като споделите статистическите данни за използването с нас.</string>
   <string name="pref_title_data_slot">Предпочитана SIM карта за данни</string>
   <string name="pref_title_voice_slot">Предпочитана SIM карта за глас</string>
   <string name="privacy_policy">Политика за поверителност</string>

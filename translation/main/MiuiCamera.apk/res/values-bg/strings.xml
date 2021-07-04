@@ -1787,4 +1787,8 @@ Dual phone recording also allows you to connect to the other device and create a
     <string name="time_freeze_action_start_tip">Докоснете бутона, за да замразите фона</string>
     <string name="time_freeze_adjust_button_title">Регулиране</string>
     <string name="time_freeze_clipbox_tint">Замрази</string>
+	     <string name="invisible_mode_dialog_cancel">Отказ</string>
+     <string name="invisible_mode_dialog_summary">"Не може да се използва камерата сега. Изключете режим „инкогнито“ в настройките, за да можете да използвате камерата."</string>
+     <string name="invisible_mode_dialog_title">"Инкогнито сте"</string>
+     <string name="invisible_mode_dialog_to_close">Настройки</string>
 </resources>

@@ -350,4 +350,6 @@
     <string name="search_enable_earpiece_title">Режим на слушалката</string>
 	   <string name="delete_recorder">Изтрий</string>
     <string name="play_speed">%1$.1fX скорост</string>
+	    <string name="low_battery_error_for_pad">"Остава по-малко от %s батерия. Спрете и запазете записа си, за да сте сигурни, че не е загубен."</string>
+     <string name="notification_recording_ticker_for_pad">Вашето устройство сега записва звук в безшумен режим. Използвайте бутоните за сила на звука, за да изключите безшумен режим.</string>
 </resources>
