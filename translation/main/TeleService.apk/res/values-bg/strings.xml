@@ -1992,10 +1992,10 @@
   <string name="play_voicemail_settings">Възпроизвеждане на гласова поща</string>
   <string name="voicemail_callforward_settings">Гласова поща и пренасочване на повиквания</string>
       <string name="fiveg_sa_switch_title">Използвай SA мрежа</string>
-    <string name="mobile_geo_location_config_summary">Маркирайте необичайни местоположения на мрежови сигнали, за да подобрите комуникацията с потребителите</string>
     <string name="mobile_geo_location_config_title">Оптимизация на качеството на мрежата с фиксирана точка</string>
-    <string name="mobile_network_dual_card_optimizationmobile_title">Двойна оптимизация на мобилната мрежа</string>
-    <string name="mobile_intelligent_connection_title">Интелигентна оптимизация на мобилната мрежа</string>
-    <string name="mobile_special_network_optimization_config_summary">Интелигентно възприемане нз множество сценарии в мрежата, за да се подобри комуникацията</string>
-    <string name="mobile_special_network_optimization_config_title">Адаптивен режим на сцена</string>
+   <string name="mobile_geo_location_config_summary">Маркирайте местата, където се появяват аномалии на мрежовия сигнал, за да подобрите качеството на разговора</string>
+    <string name="mobile_intelligent_connection_title">Оптимизация на мобилната мрежа</string>
+    <string name="mobile_network_dual_card_optimizationmobile_title">Двойна SIM и мобилни мрежи</string>
+    <string name="mobile_special_network_optimization_config_summary">Подобрете качеството на разговора, като се адаптирате автоматично към различни обстановки</string>
+    <string name="mobile_special_network_optimization_config_title">Адаптиране към различни обстановки</string>
 </resources>

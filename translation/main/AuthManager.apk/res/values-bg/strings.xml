@@ -247,4 +247,9 @@
     <string name="cetus_invisible_mode_notice_camera">"Вие сте инкогнито. Не може да използвате камерата сега."</string>
     <string name="cetus_invisible_mode_notice_location">"Вие сте инкогнито. Не може да използвате услуги за местоположение сега."</string>
     <string name="cetus_invisible_mode_notice_tip">Докоснете, за да изключите режим инкогнито в Настройки</string>
+	    <string name="HIPS_Perm_operator_get_phonenumbner">Достъп до телефонен номер за вписване</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Получаване телефонен номер от оператора за вписване</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Ако не можете да влезете с едно докосване сега, върнете се на страницата за вход и опитайте отново."</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Message">Това приложение иска да получи вашия телефонен номер от оператора за влизане. Да се разреши ли?</string>
+	<string name="pp_privacy_lab_operator_introduction">Внимание</string>
 </resources>

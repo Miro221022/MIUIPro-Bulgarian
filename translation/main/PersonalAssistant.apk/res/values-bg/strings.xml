@@ -1760,4 +1760,5 @@
     <string name="miuix_appcompat_select_item">Изберете елементи</string>
     <string name="search_header_dialog_title">Промяна на фона</string>
     <string name="send">Изпрати</string>
+	<string name="app_first_loading_txt">Една секунда…</string>
 </resources>

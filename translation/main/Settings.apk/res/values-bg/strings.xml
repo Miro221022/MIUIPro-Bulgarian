@@ -1849,7 +1849,6 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="delete_or_keep_legacy_passwords_confirm_msg">Да изтрия ли този пръстов отпечатък?</string>
      <string name="delete_rule">Премахване на правила</string>
      <string name="delete_saved_network">Изтриване на запазените мрежи</string>
-     <string name="delete_sound_effect">Звук при \"Изтриване\"</string>
      <string name="deleted_apps">Изтрити приложения</string>
      <string name="deletion_helper_automatic_title">Автоматично</string>
      <string name="deletion_helper_manual_title">Ръчно</string>
@@ -2583,7 +2582,6 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="gadget_toggle_bluetooth">Updating Bluetooth setting</string>
      <string name="gadget_toggle_wifi">Актуализиране на настройките за Wi-Fi</string>
      <string name="gadget_wifi">WLAN</string>
-     <string name="gallery_privacy_password_role_instruction">Вашите поверителни снимки ще се съхраняват тук.</string>
      <string name="game_booster">Игра;Игри;Турбо;Игра;Режим на игра</string>
      <string name="game_booster_title">Game Turbo</string>
      <string name="game_controller_settings_category">Контролер за игри</string>
@@ -2661,7 +2659,6 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="hardware_info">Модел и устройство</string>
      <string name="hardware_revision">Версия на хардуера</string>
      <string name="hardware_version">Версия на хардуера</string>
-     <string name="has_screenshot_sound">Звук при екранна снимка</string>
      <string name="hdcp_checking_dialog_title">Задайте модел на поведение HDCP проверка</string>
      <string name="hdcp_checking_title">HDCP Проверка</string>
      <string name="hdmi_3d_display_enable_summary">Активирайте за поддръжка на 3D игри</string>
@@ -7878,7 +7875,6 @@ UT интерфейс: %5$s"</string>
     <string name="sound_settings_tab_haptic">Докосване</string>
     <string name="sound_settings_tab_sound">Звук</string>
     <string name="special_preview">Демонстрации</string>
-    <string name="switch_bootup_sound">Звук при стартиране</string>
     <string name="system_touch">Вибрационна обратна връзка</string>
     <string name="miheadset_ignore">Раздвояване</string>
     <string name="screen_enhance_engine_ai_note">%d. Тази функция леко увеличава консумацията на енергия.</string>
@@ -8142,7 +8138,6 @@ UT интерфейс: %5$s"</string>
     <string name="upload_debug_log_summary">Споделяйте данни, за да помогнете за подобряването на MIUI</string>
     <string name="upload_debug_log_title">Употреба и диагностика</string>
 	<string name="screen_timeout_subtitle">Показването на статично съдържание за продължителни периоди от време може да направи цветовете неравномерни</string>
-    <string name="switch_power_sound">Звук при зареждане</string>
 	<string name="time_floating_window">Плаващ часовник</string>
     <string name="time_floating_window_summary">Показване на часовника в плаващия прозорец над други приложения</string>
 	<string name="oaid_apps_summary">Разрешаване или ограничаване на достъпа за отделни приложения</string>
@@ -8207,4 +8202,34 @@ Xiaomi Облак
 	    <string name="voip_assistant_settings_off">Изключено</string>
     <string name="voip_assistant_settings_on">Включено</string>
     <string name="voip_assistant_settings_summary">Записвайте VoIP разговори и използвайте оптимизация на гласов отпечатък</string>
+	    <string name="enable_local_backup">Включи</string>
+    <string name="enable_local_backup_cancel">Отказ</string>
+    <string name="enable_local_backup_message">Включете тази функция, за да можете да запазвате резервни копия на това устройство и да ги копирате на вашия компютър или USB устройство за съхранение. Да се включи ли сега?</string>
+    <string name="enable_local_backup_ok">OK</string>
+    <string name="enable_local_backup_title">Локални архиви</string>
+    <string name="local_backup_usestatus_title">Локалните архиви са изключени</string>
+    <string name="login_account_summary_temp">Управлявайте акаунти, облачни услуги и др.</string>
+    <string name="micloud_service_summary_temp">Синхронизирайте снимки, видеоклипове, контакти и др.</string>
+	    <string name="stylus_ota_check_update">Провери и актуализирай</string>
+    <string name="stylus_ota_current_firmware_version">Текущата версия на фърмуера</string>
+    <string name="stylus_ota_downloading_firmware">Изтегляне на фърмуера</string>
+    <string name="stylus_ota_firmware_update">Актуализация на фърмуера</string>
+    <string name="stylus_ota_hardware_version">Хардуерна версия</string>
+    <string name="stylus_ota_latest">Последна версия</string>
+    <string name="stylus_ota_model">Модел</string>
+    <string name="stylus_ota_new_version">Нова версия</string>
+    <string name="stylus_ota_serial_number">Сериен номер</string>
+    <string name="stylus_ota_update">Актуализирай</string>
+    <string name="stylus_ota_updating">Актуализиране</string>
+    <string name="gallery_privacy_password_role_instruction">За да видите елементите, които сте направили поверителни, плъзнете надолу \"Албуми\".</string>
+	    <string name="nfc_dnd_mode_summary">Отговорете на NFC маркери с ограничено количество NDEF маркери</string>
+    <string name="nfc_dnd_mode_title">КБП Не безпокойте</string>
+    <string name="sos_privacy_policy">Политика за поверителност</string>
+	    <string name="app_uninstall_sounds_enable_title">Възпроизвеждане на звук при деинсталиране на приложения</string>
+    <string name="lock_sound_effect_enable_title">Възпроизвеждане на звук при заключване на устройството</string>
+    <string name="unlock_sound_effect_enable_title">Възпроизвеждане на звук при отключване на устройството</string>
+    <string name="delete_sound_effect">Възпроизвеждане на звук при изтриване на елементи</string>
+    <string name="has_screenshot_sound">Възпроизвеждане на звук, когато правите екранни снимки</string>
+    <string name="switch_bootup_sound">Възпроизвеждане на звук при стартиране</string>
+    <string name="switch_power_sound">Възпроизвеждане на звук, когато е свързано зарядното устройство</string>
 </resources>

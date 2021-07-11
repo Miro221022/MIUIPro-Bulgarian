@@ -386,4 +386,10 @@
     <string name="small_freeform_exit_tip">Затвори плаващия прозорец</string>
     <string name="small_freeform_memory_toast_app_type">"Не може да се отвори сега. Това приложение изисква твърде много памет, за да може да работи."</string>
     <string name="small_freeform_memory_toast_game_type">"Не може да се отвори сега. Тази игра изисква твърде много памет, за да може да работи."</string>
+	    <string name="keyboard_identity_reject_confirm">Разбрах</string>
+    <string name="keyboard_identity_reject_message">"Изглежда клавиатурата ви не е съвместима с това устройство."</string>
+    <string name="keyboard_identity_transfer_error_message">"Клавиатурата не можа да се свърже. Опитайте отново."</string>
+    <string name="keyboard_upgrade_failed">"Клавиатурата не можа да се актуализира"</string>
+    <string name="keyboard_upgrade_start">Актуализиране на клавиатурата…</string>
+    <string name="keyboard_upgrade_success">Клавиатурата е актуализирана успешно</string>
 </resources>

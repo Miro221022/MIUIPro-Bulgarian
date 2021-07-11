@@ -496,4 +496,6 @@
     <string name="xspace_guide_des">Клонираните приложения ви позволяват да използвате два профила едновременно, без да превключвате между тях</string>
     <string name="xspace_guide_title">Опитайте Клонирани приложения</string>
 	<string name="bluetooth_unlock_settings_unlock_summary">Тази функция работи с Mi Smart Bands и Mi Watches</string>
+	    <string name="settings_notification_second_space_show_in_locked_summary">Показване на известия от второто пространство на заключения екран</string>
+    <string name="settings_notification_second_space_show_in_locked_title">Показване на известия на заключен екран</string>
 </resources>

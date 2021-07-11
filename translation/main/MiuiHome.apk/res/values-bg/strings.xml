@@ -654,4 +654,5 @@
 	 <string name="recents_clear_all_tasks">Изчисти всичко</string>
 	 <string name="recents_smallwindow_drag_text">Плъзнете тук, за да закачите</string>
 	 <string name="launcher_search">Търсене на начален екран</string>
+	  <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Вижте още демонстрации в Настройки &gt; Начален екран &gt; Управление на системата</string>
 </resources>

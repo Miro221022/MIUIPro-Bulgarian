@@ -2078,7 +2078,6 @@ WLAN адрес (BSSID)
 	    <string name="lock_screen_access_to_5G">Достъп до 5G</string>
     <string name="miui_screen_rotation_freeze_message">Заключване на ориентацията на екрана в пейзажен режим</string>
 	<string name="face_unlock_swipe_up_retry">Плъзнете нагоре, за да опитате отново</string>
-	    <string name="device_locked_without_biometric">Биометричното откриване не може да се извърши поради използването на тристранна функция за заключване на екрана с един ключ</string>
     <string name="miui_notification_menu_msg_unfold">Показване на %1$s известията отделно?</string>
     <string name="miui_notification_menu_unfold">Маркирайте като важно</string>
     <string name="miui_unimportant_notifications">Маловажни известия</string>
@@ -2088,15 +2087,23 @@ WLAN адрес (BSSID)
     <string name="quick_settings_vowifi_label">WLAN повикване</string>
     <string name="quick_settings_vowifi_sim1_label">WLAN повикване SIM1</string>
     <string name="quick_settings_vowifi_sim2_label">WLAN повикване SIM2</string>
-	    <string name="device_locked_without_biometric_face">Биометричното откриване не може да се извърши поради използването на тристранна функция за заключване на екрана с един ключ</string>
-    <string name="device_locked_without_biometric_finger">Биометричното откриване не може да се извърши поради използването на тристранна функция за заключване на екрана с един ключ</string>
-    <string name="fingerprint_again_identified_msg_password">Функцията за пръстови отпечатъци е възстановена. Може да се използва пръстов отпечатък или сложна парола за отключване</string>
-    <string name="fingerprint_again_identified_msg_pattern">Функцията за пръстови отпечатъци е възстановена, може да се отключи с пръстов отпечатък или графична парола</string>
-    <string name="fingerprint_again_identified_msg_pin">Функцията за пръстови отпечатъци е възстановена, може да се отключи с пръстов отпечатък или цифрова парола</string>
-    <string name="fingerprint_not_identified_msg_password">Проверката на пръстови отпечатъци не бе успешна максимален брой пъти. Моля, опитайте отново по-късно или използвайте сложна парола за отключване</string>
-    <string name="fingerprint_not_identified_msg_pattern">Моля, не успейте да потвърдите пръстовия отпечатък до максималния брой пъти, моля, опитайте отново по-късно или използвайте графична парола за извършване</string>
-    <string name="fingerprint_not_identified_msg_pin">Проверката на пръстовите отпечатъци е неуспешна максималния брой пъти. Моля, опитайте отново по-късно или използвайте цифрова парола за отключване</string>
     <string name="fs_gesture_final_see_more">Вижте още демонстрации в Настройки > Начален екран > Управление на системата</string>
     <string name="input_pattern_after_boot_msg">Начертаването на вашия шаблон е необходимо, когато устройството се рестартира</string>
     <string name="input_pin_after_boot_msg">Въвеждането на вашия ПИН е необходимо, когато устройството се рестартира</string>
+	<string name="keyguard_invalid_sim_puk_hint">PUK кодът трябва да съдържа %1$d цифри.</string>
+    <string name="device_locked_without_biometric">"Не можете да отключите това устройство с пръстови отпечатъци или данни за лице, когато използвате заключване на екрана от трета страна"</string>
+    <string name="device_locked_without_biometric_face">"Не можете да отключите това устройство с пръстови отпечатъци или данни за лице, когато използвате заключване на екрана от трета страна"</string>
+    <string name="device_locked_without_biometric_finger">"Не можете да отключите това устройство с пръстови отпечатъци или данни за лице, когато използвате заключване на екрана от трета страна"</string>
+    <string name="fingerprint_again_identified_msg_password">"Вашият пръстов отпечатък е активен сега.
+Използвайте го, за да отключите устройството или въведете паролата си."</string>
+    <string name="fingerprint_again_identified_msg_pattern">"Вашият пръстов отпечатък е активен сега.
+Използвайте го, за да отключите устройството или да нарисувате своя шаблон."</string>
+    <string name="fingerprint_again_identified_msg_pin">"Вашият пръстов отпечатък е активен сега.
+Използвайте го, за да отключите устройството, или въведете своя ПИН."</string>
+    <string name="fingerprint_not_identified_msg_password">"Твърде много неуспешни опити.
+Въведете паролата си, за да отключите."</string>
+    <string name="fingerprint_not_identified_msg_pattern">"Твърде много неуспешни опити.
+Начертайте вашия модел, за да отключите."</string>
+    <string name="fingerprint_not_identified_msg_pin">"Твърде много неуспешни опити.
+Въведете своя ПИН за отключване."</string>
 </resources>

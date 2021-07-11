@@ -1145,4 +1145,5 @@
     <string name="hint_search_songs_playlists_artists">Търсете песни, плейлисти и изпълнители</string>
     <string name="loading_text">Една секунда…</string>
     <string name="title_recently_played">Последно изпълнени</string>
+	<string name="privacy_request_subtitle_offline">Добре дошли в Mi Музика! Това приложение осигурява локален плейър за аудио файлове.</string>
 </resources>

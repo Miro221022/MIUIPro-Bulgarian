@@ -730,4 +730,10 @@
     <string name="not_enough_storage_tips">Недостатъчно място в хранилището. Освободете малко място и опитайте отново.</string>
 	    <string name="apps_item_desc">Приложение</string>
     <string name="new_pc_restore_content1_pad">%d. Свържете мобилното си устройство към компютъра чрез USB кабел.</string>
+	    <string name="disable_local_backup">Изключете локалните архиви</string>
+    <string name="disable_local_backup_and_restore">Изключете локалните архиви</string>
+    <string name="disable_local_backup_tips">"След като изключите тази функция, всички локални архиви ще бъдат изтрити. Настройките за архивиране ще бъдат изчистени и елементите вече няма да се архивират автоматично. Все още ще можете да използвате устройството си както обикновено. Да се изключи ли все пак?"</string>
+    <string name="enable_local_backup">Включете локални архиви</string>
+    <string name="enable_local_backup_and_restore">Включете локални архиви</string>
+    <string name="enable_local_backup_tips">Включете тази функция, за да можете да запазвате резервни копия на това устройство и да ги копирате на вашия компютър или USB устройство за съхранение. Да се включи ли сега?</string>
 </resources>

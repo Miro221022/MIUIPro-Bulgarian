@@ -658,4 +658,9 @@
 	    <string name="data_empty_folder">Няма други папки за показване</string>
     <string name="handwrite_description">Ръкописна бележка</string>
     <string name="menu_add_handwrite_description">Добавете ръкописна бележка</string>
+	    <string name="hybrid_provider">Предоставено от %1$s</string>
+    <string name="no_network">"Не може да се свърже с мрежата"</string>
+    <string name="web_sso_login_fail">Трябва да влезете отново</string>
+    <string name="web_sso_login_message">Вписване…</string>
+    <string name="webview_reload">Повторен опит</string>
 </resources>

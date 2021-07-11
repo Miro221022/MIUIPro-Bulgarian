@@ -3259,7 +3259,7 @@
     <string name="privacy_search_key_5">Специални разрешения</string>
     <string name="privacy_search_key_6">Известия за разрешения</string>
     <string name="privacy_search_key_7">Информация за местоположението</string>
-    <string name="privacy_search_key_8">Маска за поверителност</string>
+    <string name="privacy_search_key_8">Не проследявай</string>
     <string name="privacy_search_key_9">Виртуална идентификация</string>
     <string name="privacy_show_password">Покажи паролата</string>
     <string name="privacy_show_password_summary">Запазване на паролите видими за кратко време</string>
@@ -4601,4 +4601,22 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="pc_hidemode_normal_title">Балансирано</string>
 	    <string name="app_behavior_dashboard_usage">Използване на разрешения</string>
     <string name="manual_item_white_list_title">Изключения при сканиране</string>
+	    <string name="applock_numeric_pwd_type_line">Общ брой цифри в паролата: %1$d. Въведени цифри: %2$d.</string>
+    <string name="pc_performance_mode_dialog_summary2">Ефективността на устройството ще се подобри. Това може да увеличи консумацията на енергия и да доведе до проблеми с прегряването. Да се включи ли все пак?</string>
+    <string name="pc_performance_mode_noti_summary">Режимът на производителност може да увеличи консумацията на енергия и да доведе до проблеми с прегряването</string>
+    <string name="pc_performance_mode_noti_title">Подобрена производителност на устройството</string>
+    <string name="pp_anti_track_summary">"Не позволявайте проследяване на вашата активност"</string>
+    <string name="pp_antitrack_detail">Приложенията могат да проследяват активността ви чрез лични идентификатори, информация за местоположението и други видове лична информация, споделена с тях. Проследяването на активността ви в различни приложения и уебсайтове им позволява да персонализират реклами и да ви препоръчват подходящо съдържание.</string>
+    <string name="pp_block_mac">Ограничете достъпа до MAC адрес</string>
+    <string name="pp_block_mac_summary">Достъпът до вашия MAC адрес е ограничен по подразбиране за всички приложения.</string>
+    <string name="pp_identifier_protection">Защитете личните идентификатори</string>
+    <string name="pp_manage_track">Наблюдавайте тракери</string>
+    <string name="pp_manage_track_summary">Откриване и деактивиране на различни видове тракери, вградени в приложения. Такива тракери могат да споделят вашите лични идентификатори, като имат достъп и запазват елементи във вътрешно хранилище или използват споделени SDK за проследяване на вашата активност.</string>
+    <string name="pp_operator_get_number">Изисквайте одобрение за достъп до телефонен номер</string>
+    <string name="pp_operator_get_number_summary">Приложенията ще поискат вашето разрешение, когато искат да получат достъп до вашия телефонен номер за влизане.</string>
+    <string name="pp_privacy_lab_operator_get_number">Изисквайте одобрение за достъп до телефонен номер</string>
+    <string name="pp_privacy_lab_operator_get_number_summary">Изисквайте от приложенията да поискат вашето разрешение, когато искат да получат достъп до вашия телефонен номер за влизане</string>
+    <string name="pp_privacy_lab_operator_introduction">Внимание</string>
+    <string name="pp_privacy_lab_operator_introduction_summary">"Приложенията могат да съхраняват вашия телефонен номер, ако е бил получен преди това. Промяната на това разрешение няма да изтрие предварително получените телефонни номера."</string>
+    <string name="pp_virtual_identity_summary">Виртуален идентификатор (OAID) може да бъде предоставен на приложенията вместо вашия истински идентификатор. Той защитава поверителността ви и ви позволява да контролирате как приложенията проследяват поведението ви.</string>
 </resources>

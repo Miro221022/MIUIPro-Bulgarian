@@ -115,4 +115,7 @@
   <string name="cloud_russion_addr">Актуализирайте данните на руския сървър</string>
   <string name="accessibility_service_description">Пестене на батерия</string>
    <string name="config_restrict_function_description">Затворяне на приложенията след 10 минути активност във фонов режим</string>
+   <string name="sleep_config_enhance_description_pad">"Всеки път, когато MIUI открие, че спите, ще затвори фоновите приложения, ще ограничи използването на Bluetooth и WLAN и няма да включва екрана за известия."</string>
+       <string name="high_temp_benchmark_state">Прегряване</string>
+    <string name="high_temp_benchmark_state_message">Устройството ви прегрява. Моля опитайте по-късно, когато устройството се охлади:</string>
 </resources>
