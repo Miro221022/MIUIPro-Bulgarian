@@ -8190,12 +8190,10 @@ USB устройство
 
 Xiaomi Облак
 Отворете Xiaomi Облак и възстановете елементи от там."</string>
-    <string name="color_game_led_color_title">Цвятна светлината</string>
     <string name="color_game_led_dialog_freq">секунда</string>
     <string name="color_game_led_feature_off">Изключено</string>
     <string name="color_game_led_feature_on">Включено</string>
     <string name="color_game_led_freq">%s секунда</string>
-    <string name="color_game_led_freq_title">Честота на трептене</string>
 	    <string name="gxzw_anim_unlock_effect">%s анимация на пръстови отпечатъци</string>
     <string name="magic_list_empty_text">Сега няма приложения, съвместими с тази функция</string>
     <string name="reset_network_title_noSim">Нулирай WLAN и Bluetooth</string>
@@ -8232,4 +8230,8 @@ Xiaomi Облак
     <string name="has_screenshot_sound">Възпроизвеждане на звук, когато правите екранни снимки</string>
     <string name="switch_bootup_sound">Възпроизвеждане на звук при стартиране</string>
     <string name="switch_power_sound">Възпроизвеждане на звук, когато е свързано зарядното устройство</string>
+	<string name="color_game_led_freq_entries">На всеки %d секунди</string>
+    <string name="color_game_led_color_title">Цвят</string>
+    <string name="color_game_led_freq_title">Честота</string>
+    <string name="shoulder_key_game_light_settings">Анимации</string>
 </resources>

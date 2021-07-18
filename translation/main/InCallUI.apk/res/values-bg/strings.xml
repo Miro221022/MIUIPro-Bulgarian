@@ -214,4 +214,7 @@
     <string name="ai_mode_subtitles">Субтитри</string>
 	<string name="description_incoming_video">Профилно видео за входящи повиквания</string>
 	<string name="ai_dial">AI обаждане</string>
+	    <string name="relay_cal_from_device_name">От %1$s</string>
+    <string name="relay_call">Без ръце</string>
+    <string name="relay_call_device_name">Свързано устройство (%1$s)</string>
 </resources>

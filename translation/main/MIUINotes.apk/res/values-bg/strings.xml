@@ -663,4 +663,5 @@
     <string name="web_sso_login_fail">Трябва да влезете отново</string>
     <string name="web_sso_login_message">Вписване…</string>
     <string name="webview_reload">Повторен опит</string>
+	<string name="splash_note">Стилус</string>
 </resources>

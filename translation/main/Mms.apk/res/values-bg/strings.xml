@@ -1163,4 +1163,19 @@
     <string name="promo_post_install_title_with_default_xiaomi">Започнете по-висококачествени текстови съобщения сега с Messages от Google</string>
     <string name="promo_use_messages_btn_text">Използвай Messages</string>
     <string name="small_window_log_text">"Камерата не може да се използва в режим на няколко прозореца"</string>
+	    <string name="aim_show_card">Покажи картата</string>
+    <string name="aim_show_original">Покажи съобщението</string>
+    <string name="cancel">Отказ</string>
+    <string name="go_close">Настройки</string>
+    <string name="invisible_mode_on">"Инкогнито сте"</string>
+    <string name="leave_mms_tips_context_app">Искате ли да излезете от Съобщения и да отворите приложението сега?</string>
+    <string name="leave_mms_tips_context_app_name">Излизане от Съобщения и отваряне на \"%s\" сега?</string>
+    <string name="leave_mms_tips_context_browser">Излизане от Съобщения и отваряне на браузъра сега?</string>
+    <string name="leave_mms_tips_context_email">Излизане от Съобщения и отваряне на имейл приложението сега?</string>
+    <string name="leave_mms_tips_context_map">Излизане от Съобщения и отваряне на картата сега?</string>
+    <string name="pref_summary_switch_aim_card">Показване съобщения, съдържащи видеоклипове, изображения и сложно форматиране като карти</string>
+    <string name="pref_title_switch_aim_card">Преобразуване на съобщения в карти</string>
+    <string name="unable_connect_camera">"Вие сте инкогнито. Не може да се използва камерата сега."</string>
+    <string name="unable_get_location">"Вие сте инкогнито. Не може да се използват услуги за местоположение сега."</string>
+    <string name="unable_use_microphone">"Вие сте инкогнито. Не може да се използва микрофона сега."</string>
 </resources>

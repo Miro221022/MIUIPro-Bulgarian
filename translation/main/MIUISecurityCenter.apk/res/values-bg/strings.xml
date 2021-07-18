@@ -4619,4 +4619,11 @@ Xiaomi не обещава и не гарантира точността, вал
     <string name="pp_privacy_lab_operator_introduction">Внимание</string>
     <string name="pp_privacy_lab_operator_introduction_summary">"Приложенията могат да съхраняват вашия телефонен номер, ако е бил получен преди това. Промяната на това разрешение няма да изтрие предварително получените телефонни номера."</string>
     <string name="pp_virtual_identity_summary">Виртуален идентификатор (OAID) може да бъде предоставен на приложенията вместо вашия истински идентификатор. Той защитава поверителността ви и ви позволява да контролирате как приложенията проследяват поведението ви.</string>
+	    <string name="untrust_app_perm_install_list">Разрешаване на достъп до списъка с приложения, инсталирани на това устройство</string>
+    <string name="untrust_app_perm_network">Разрешаване на свързване към мрежата</string>
+    <string name="untrust_app_perm_notification">Разрешаване на известия</string>
+    <string name="untrust_app_perm_oaid">Разрешаване на достъп до вашия виртуален идентификатор</string>
+    <string name="untrust_app_perm_title">Приложение от неизвестен източник</string>
+    <string name="untrust_app_perm_warn">Това приложение идва от неизвестен източник и може да представлява риск за сигурността. То може да използва разрешенията, изброени по-долу, за да компрометира поверителността ви. Предоставете тези разрешения след внимателно обмисляне.</string>
+	    <string name="power_wireless_ubable_update_toast">"Не може да актуализира фърмуера по време на безжично зареждане"</string>
 </resources>

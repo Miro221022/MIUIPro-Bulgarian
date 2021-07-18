@@ -472,4 +472,8 @@
         <item quantity="other">Получавайте предупреждение, когато някоя от слушалките ви е далеч от ухото или кутията за зареждане повече от %d минути</item>
         <item quantity="one">Получавайте предупреждение, когато някоя от слушалките ви е далеч от ухото или кутията за зареждане повече от %d минута</item>
     </plurals>
+	    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">На всеки %d секунди</item>
+        <item quantity="one">На всяка %d секунда</item>
+    </plurals>
 </resources>

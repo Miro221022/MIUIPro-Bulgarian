@@ -27,4 +27,10 @@
       <string name="bottom_bar_smallwindow_text">Пуснете, за да закачите</string>
     <string name="freeform_slide_to_small_freeform_summary">Натиснете и плъзнете до лентата за действие на плаващия прозорец в горния десен ъгъл</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Плъзнете от долната част на екрана до горния десен ъгъл на екрана</string>
+	    <string name="copy">Копирай</string>
+    <string name="expand_button_title">Разширени</string>
+    <string name="not_set">Не е зададено</string>
+    <string name="preference_copied">\"%1$s\" е копирано буферната памет.</string>
+    <string name="v7_preference_off">ИЗКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
 </resources>
