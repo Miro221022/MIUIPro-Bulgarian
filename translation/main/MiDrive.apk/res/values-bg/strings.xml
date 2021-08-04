@@ -206,7 +206,7 @@
   <string name="micloud_space_applist_detail">Можете да видите резервни копия на оформлението на началния екран на мобилното си устройство.</string>
   <string name="micloud_space_duokan_detail">Отворете Duokan на телефона си и отидете в Лавица с книги &gt; Облачно хранилище, за да управлявате пространството за съхранение.\nУверете се, че използвате текущия Mi профил за вашия системен MIUI профил.</string>
   <string name="micloud_space_duokan_title">Пространство за съхранение в Duokan</string>
-  <string name="micloud_space_soundrecorder_detail">Отворете приложението Звукозапис на телефона си и изберете папката с елементите, съхранявани в облака.\nУверете се, че използвате текущия Mi профил за вашия системен MIUI профил.</string>
+  <string name="micloud_space_soundrecorder_detail">"Отворете приложението Звукозапис на мобилното си устройство и изберете папката с елементите, съхранявани в облака"</string>
   <string name="micloud_space_soundrecorder_title">Аудио записи</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Издърпайте надолу, за да се обновите</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновено успешно</string>
@@ -578,4 +578,7 @@
     <string name="recent_file">Последно</string>
     <string name="recent_jump_to_privacy_fail_notice">Този файл е поверителен. Върнете се на началната страница и издърпайте надолу, за да видите.</string>
 	 <string name="home_action_up">Назад</string>
+	     <string name="channel_client_edit">Редактирано на мобилното устройство</string>
+    <string name="channel_tablet_upload">Качено от таблет</string>
+    <string name="channel_tablet_view">Видяно на таблета</string>
 </resources>

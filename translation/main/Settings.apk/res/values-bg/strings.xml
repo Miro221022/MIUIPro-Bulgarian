@@ -8234,4 +8234,10 @@ Xiaomi Облак
     <string name="color_game_led_color_title">Цвят</string>
     <string name="color_game_led_freq_title">Честота</string>
     <string name="shoulder_key_game_light_settings">Анимации</string>
+		    <string name="fiveg_sa_switch_summary">Активирайте SA функцията на vice SIM, само за тест</string>
+    <string name="fiveg_sa_vice_switch_title">SA на втората SIM</string>
+	    <string name="stylus_ota_demands">Дръжте това устройство свързано със стилуса чрез Bluetooth. И двете устройства трябва да са поне %1$ заредени през цялата актуализация.</string>
+    <string name="stylus_ota_download_failed">"Не може да се изтегли фърмуера"</string>
+    <string name="stylus_ota_timeout_failed">Сесията изтече</string>
+    <string name="stylus_ota_update_failed">"Не може да се актуализира фърмуера"</string>
 </resources>

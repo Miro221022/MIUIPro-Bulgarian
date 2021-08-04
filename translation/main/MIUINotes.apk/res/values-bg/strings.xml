@@ -664,4 +664,9 @@
     <string name="web_sso_login_message">Вписване…</string>
     <string name="webview_reload">Повторен опит</string>
 	<string name="splash_note">Стилус</string>
+	    <string name="note_not_text_stub">Няма текст</string>
+    <string name="toast_notes_hidden_pad">Тази бележка е вече скрита. Издърпайте страничния панел надолу, за да видите скритите бележки.</string>
+    <string name="widget_create_select_size">Изберете размер</string>
+    <string name="widget_empty_content">Докоснете, за да изберете бележка</string>
+    <string name="widget_note_list_page_title">Изберете бележка</string>
 </resources>

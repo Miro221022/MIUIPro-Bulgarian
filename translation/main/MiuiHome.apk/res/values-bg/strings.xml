@@ -655,4 +655,8 @@
 	 <string name="recents_smallwindow_drag_text">Плъзнете тук, за да закачите</string>
 	 <string name="launcher_search">Търсене на начален екран</string>
 	  <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Вижте още демонстрации в Настройки &gt; Начален екран &gt; Управление на системата</string>
+	   <string name="navigation_guide_finish_text">Разбрах</string>
+    <string name="navigation_guide_prohibit_gesture_hint">"Не можете да използвате жестове на цял екран, докато гледате демонстрации"</string>
+    <string name="swipe_the_desktop_to_the_left">Плъзнете наляво на началния екран</string>
+    <string name="swipe_the_desktop_to_the_right">Плъзнете надясно по началния екран</string>
 </resources>

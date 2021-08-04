@@ -1172,7 +1172,6 @@
   <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Ще трябва да &amp;lt;font color=#a5220e&amp;gt;изтриете всички данни &amp;lt;/font&amp;gt;на вашето устройство, включително снимки и контакти и след това задайте нова парола за заключен екран.&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Следващ</string>
   <string name="phone_locked_foget_password_ok">Разбрах</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Изключете устройството, натиснете и задръжте &lt;font color=#a5220e&gt;бутон Захранване &lt;/font&gt; и бутон &lt;font color=#a5220e&gt;Усилване на звука &lt;/font&gt;едновременно, докато не видите логото на Mi.;&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Изберете &lt;font color=#a5220e&gt;\"Wipe &amp;amp; Reset\"&lt;/font&gt; и изчакайте, докато устройството се рестартира.;&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstions_title">Как да изтрия данните?</string>
   <string name="phone_locked_string">Устройството е заключено</string>
@@ -2106,4 +2105,7 @@ WLAN адрес (BSSID)
 Начертайте вашия модел, за да отключите."</string>
     <string name="fingerprint_not_identified_msg_pin">"Твърде много неуспешни опити.
 Въведете своя ПИН за отключване."</string>
+	    <string name="fiveg_sa_switch_summary">Активирайте SA функцията на vice SIM, само за тест</string>
+    <string name="fiveg_sa_vice_switch_title">SA на втората SIM</string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Изключете устройството си, след това натиснете и задръжте бутоните за &lt;font color=#e6e6e6>[Вкл./Изкл.]&lt;/font> и &lt;font color=#e6e6e6>[Усилване на звука]&lt;/font> докато видите &lt;img src=\"\">.</Data></string>
 </resources>

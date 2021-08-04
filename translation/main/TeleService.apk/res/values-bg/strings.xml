@@ -1999,5 +1999,5 @@
     <string name="mobile_special_network_optimization_config_summary">Подобрете качеството на разговора, като се адаптирате автоматично към различни обстановки</string>
     <string name="mobile_special_network_optimization_config_title">Адаптиране към различни обстановки</string>
 	    <string name="relay_call_answered_by_other_devices">На това обаждане беше отговорено на друго устройство.</string>
-    <string name="relay_call_released_due_to_connect_lost">Връзката беше изгубена. Продължете с разговора на изключеното устройство.</string>
+	<string name="relay_call_released_due_to_connect_lost">Връзката беше загубена. Продължете с разговора на другото си устройство.</string>
 </resources>

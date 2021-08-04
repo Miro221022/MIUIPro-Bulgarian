@@ -727,4 +727,8 @@
     <string name="prefsx_notify_sound_none">Безшумен</string>
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+	    <string name="ee_dd_short_month">EEE, dd MMM</string>
+    <string name="eee_dd_long_month">EEEE, dd MMMM</string>
+    <string name="xiaomi_calendar_delete_description">Календар е системно приложение, което ви позволява да създавате и управлявате събития. Някои от неговите функции ще продължат да бъдат налични, след като премахнете прекия път на началния екран.</string>
+    <string name="xiaomi_calendar_delete_title">Премахване на \"Календар\" от началния екран?</string>
 </resources>
