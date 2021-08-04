@@ -607,4 +607,5 @@
 	<string name="password_view_hide_password">Скриване на паролата</string>
     <string name="password_view_show_password">Покажи паролата</string>
     <string name="weixin_login">Вписване с WeChat</string>
+	<string name="passport_error_user_agreement_error">Първо се съгласете с правилата и условията</string>
 </resources>

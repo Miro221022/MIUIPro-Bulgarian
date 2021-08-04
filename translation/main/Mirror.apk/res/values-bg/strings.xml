@@ -231,10 +231,24 @@
     <string name="worker_authorization_trusted_only_once">Свържи се веднъж</string>
     <string name="app_name">MIUI+ Бета</string>
     <string name="display_max_screen_count_toast">Можете да отворите до 3 прозореца в тази версия</string>
-    <string name="enable_wifi_alert_message">MIUI+ Бета свързани устройства чрез Wi-Fi. Да се включи ли Wi-Fi сега?</string>
-    <string name="enable_wifi_alert_message_china">MIUI+ Beta свързва устройства чрез WLAN. Да се включи ли WLAN сега?</string>
     <string name="privacy_all_purpose">Добре дошли в MIUI+ Бета! Можете да използвате това приложение, за да свържете телефона си с компютър и да комбинирате две устройства в една работна станция.</string>
     <string name="settings_connect_summary1">Изтеглете и инсталирайте MIUI+ Бета на вашия компютър: https://plus.miui.com.</string>
     <string name="settings_home">MIUI+ Бета</string>
     <string name="worker_authorization_message">След свързване използвайте MIUI+ на вашия компютър, за да управлявате елементи на вашето мобилно устройство.</string>
+	    <string name="clipboard_tip">Копирано от %1$s</string>
+    <string name="fullscreen_sink_activity_label">Моят телефон</string>
+    <string name="settings_connect_pc_group">Работете с вашия компютър</string>
+    <string name="settings_feature_intro">За тази функция</string>
+    <string name="settings_how_use">Използване на предаване</string>
+    <string name="settings_pc_history_title">История на връзката</string>
+    <string name="settings_pc_trusted_title">Автоматично свързване</string>
+    <string name="settings_pc_use_tile">За тази функция</string>
+    <string name="settings_scanner_summary">Свържете се с MIUI+, чрез QR код</string>
+    <string name="settings_trusted_tips_china">Свържете се автоматично с избрани устройства в близост, когато Bluetooth и WLAN са включени</string>
+    <string name="softap_notification_action">Свързване</string>
+    <string name="softap_notification_message">Няма налични Wi-Fi мрежи. Да се свърже ли с тази гореща точка?</string>
+    <string name="softap_notification_message_china">Няма налични Wi-Fi мрежи. Да се свърже ли с тази гореща точка?</string>
+    <string name="softap_notification_title">"Свързване с точкатаза достъп %1$s"</string>
+    <string name="enable_wifi_alert_message">MIUI+ свързва устройства чрез Wi-Fi. Да се включи ли Wi-Fi сега?</string>
+    <string name="enable_wifi_alert_message_china">MIUI+ свързва устройства чрез WLAN. Да се включи ли WLAN сега?</string>
 </resources>

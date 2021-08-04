@@ -1761,4 +1761,9 @@
     <string name="search_header_dialog_title">Промяна на фона</string>
     <string name="send">Изпрати</string>
 	<string name="app_first_loading_txt">Една секунда…</string>
+	    <string name="app_olympic_card_service_des">Класирането се актуализира в реално време</string>
+    <string name="app_olympic_card_service_title">Олимпийска маса за медали</string>
+    <string name="app_olympic_card_title">Олимпийска маса за медали</string>
+    <string name="app_olympic_gold_medal_country_region">Отбор</string>
+    <string name="app_olympic_gold_medal_total">Общо</string>
 </resources>

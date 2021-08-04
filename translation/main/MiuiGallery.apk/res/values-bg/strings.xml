@@ -2736,16 +2736,41 @@
     <string name="vlog_talkback_text_vlog">Щастлив ден</string>
     <string name="vlog_talkback_view_pause">Пауза</string>
     <string name="vlog_talkback_view_play">Изпълни</string>
-    <string name="widget_custom_store_detail_desc">"Изберете изображенията, които искате да видите"</string>
     <string name="widget_editor_confirm">Готово</string>
     <string name="widget_editor_reselect">Изберете отново</string>
     <string name="widget_editor_title">Редакция</string>
-    <string name="widget_recommend_store_detail_desc">Последни снимки и ярки моменти от миналото</string>
     <string name="album_creative">Творчество</string>
     <string name="magic_save_ok">Запазено в Творчество</string>
     <string name="movie_customer_unsupport_audio_file">"Този аудио формат не се поддържа"</string>
-    <string name="privacy_permission_request_message"><Data>Галерията се нуждае от достъп до %3$s. Събираната от нас информация ще се използва в съответствие с нашите &lt;a href=\"%1$s\">\"Условия за ползване\"&lt;/a> и &lt;a href=\"%2$s\">\"Политика за поверителност\"&lt;/a>. Разрешаване?</Data></string>
    <string name="video_editor_unsupport_audio_file">"Този аудио формат не се поддържа"</string>
     <string name="vlog_video_saved_in_my_create">Запазено в Творчество</string>
     <string name="widget_label_custom">Избрани изображения</string>
+	   <string name="album_screenshot_and_screen_recorder_name">Екранни снимки и екранни записи</string>
+    <string name="assistant_page_community">Общност</string>
+    <string name="exif_title_smart_fusion">Подобряване на изображението:</string>
+    <string name="slim_action">Оптимизиране</string>
+    <string name="slim_action_auto_backup">Включване</string>
+    <string name="slim_action_auto_backup_disable_description">Съхранявайте оригинални снимки и видеоклипове в облака, като същевременно запазвате по-малки висококачествени копия на това устройство.</string>
+    <string name="slim_action_auto_backup_enable_description">Качване на елементи в облака…</string>
+    <string name="slim_action_auto_backup_sub_tip">Освободете място за съхранение</string>
+    <string name="slim_action_auto_backup_tip">Включете синхронизирането с облака</string>
+    <string name="slim_complete_count">"Оптимизирани %1$s и %2$s. "</string>
+    <string name="slim_complete_download_tip">Висококачествените копия ще се изтеглят автоматично вместо оригиналите.</string>
+    <string name="slim_dialog_empty_message">"Не са намерени елементи за оптимизиране."</string>
+    <string name="slim_dialog_empty_positive">Разбрах</string>
+    <string name="slim_dialog_empty_title">Внимание</string>
+    <string name="slim_dialog_message" formatted="false">"Заменете оригиналните снимки и видеоклипове с висококачествени копия %d дни след създаването на елементите. Оригиналните файлове ще се съхраняват в облака. Ще можете да освободите около %s локално хранилище."</string>
+    <string name="slim_dialog_positive">Оптимизирай</string>
+    <string name="slim_dialog_title">Оптимизирай хранилището</string>
+    <string name="slim_preference_scanning">Анализиране на снимки и видеоклипове…</string>
+    <string name="slim_preference_summery">Съхранявайте оригинални снимки и видеоклипове в облака, като същевременно запазвате по-малки висококачествени копия на това устройство. По-малките копия ще заменят оригиналните файлове %d дни след създаването на елементите.</string>
+    <string name="slim_preference_title">Оптимизирайте хранилището</string>
+    <string name="slim_stop_v2">Спиране</string>
+    <string name="slim_success_tip">Освободени %s в хранилището</string>
+    <string name="widget_editor_load_fail">"Снимката не можа да се зареди"</string>
+    <string name="widget_talkback_custom">Галерия. Избрани изображения.</string>
+    <string name="widget_talkback_recommend">Галерия. Спомени.</string>
+     <string name="widget_custom_store_detail_desc">Добавете приспособление и след това я докоснете, за да изберете снимки</string>
+    <string name="widget_recommend_store_detail_desc">Последни снимки и ярки моменти</string>
+    <string name="privacy_permission_request_message"><Data>Галерията се нуждае от достъп до %3$s. Събираната от нас информация ще се използва в съответствие с наште &lt;a href=\"%1$s\">\"Условия за ползване\"&lt;/a> и &lt;a href=\"%2$s\">\"Политика за поверителност\"&lt;/a>. Разрешаване?</Data></string>
 </resources>

@@ -128,7 +128,7 @@
   <string name="incall_error_supp_service_transfer">Обаждането не може да се прехвърли.</string>
   <string name="incall_error_supp_service_unknown">Неподдържана услуга.</string>
   <string name="inCallLabel">Телефон</string>
-  <string name="incoming_call_forwarded_title">Прехвърляне на входящите повиквания</string>
+  <string name="incoming_call_forwarded_title">Пренасочено обаждане</string>
   <string name="incoming_circle_text_answer">Отпуснете за приемане</string>
   <string name="incoming_circle_text_answer_p">Плъзнете за приемане</string>
   <string name="incoming_circle_text_reject">Отпуснете за отхвърляне</string>

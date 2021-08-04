@@ -174,4 +174,7 @@
     <string name="headset_use_support_noise_reduction">Изглежда текущата ви среда е много шумна. Използвайте шумопотискане, за да защитите слуха си.</string>
     <string name="headset_volume_content">Текущата сила на звука на слушалките надвишава препоръчаната граница. Понижете звука, за да защитите слуха си.</string>
     <string name="headset_volume_prompt">Сила на звука на слушалките</string>
+	<string name="effect_3dsurround">Съраунд звук</string>
+    <string name="effect_3dsurround_summary">Подобрете дълбочината на възпроизвеждане на звук за слушалки и високоговорители</string>
+    <string name="effect_3dsurround_summary_headphone">Подобрете дълбочината на възпроизвеждане на звук за слушалки</string>
 </resources>

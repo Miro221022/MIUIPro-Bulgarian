@@ -2322,7 +2322,6 @@ aptX-Adaptive: Режим на кодек"</string>
      <string name="face_data_siggesstion_next">Следващо</string>
      <string name="face_data_siggesstion_next_time">Следващо (%dсек.)</string>
      <string name="face_data_suggesstion_first">Отключването с лице е по-малко сигурно от ПИН, парола или шаблон. Устройството ви може да бъде отключено с вашата снимка, както и от хора или обекти с подобен външен вид.</string>
-     <string name="face_data_suggesstion_second">Уверете се, че всички части на лицето ви не са покрити от предмети и са ясно видими. Лицето ви също трябва да е добре осветено.</string>
      <string name="face_unlock">Отключване с лице</string>
      <string name="face_unlock_be_on_the_screen">Дръжте устройството пред лицето си</string>
      <string name="face_unlock_by_notification_screen_on_msg">Можете да отключите устройството, като използвате данни за лице, когато екранът светне за входящи известия. Това може да изтощи батерията по-бързо.</string>
@@ -8236,8 +8235,17 @@ Xiaomi Облак
     <string name="shoulder_key_game_light_settings">Анимации</string>
 		    <string name="fiveg_sa_switch_summary">Активирайте SA функцията на vice SIM, само за тест</string>
     <string name="fiveg_sa_vice_switch_title">SA на втората SIM</string>
-	    <string name="stylus_ota_demands">Дръжте това устройство свързано със стилуса чрез Bluetooth. И двете устройства трябва да са поне %1$ заредени през цялата актуализация.</string>
     <string name="stylus_ota_download_failed">"Не може да се изтегли фърмуера"</string>
     <string name="stylus_ota_timeout_failed">Сесията изтече</string>
     <string name="stylus_ota_update_failed">"Не може да се актуализира фърмуера"</string>
+	<string name="pad_flash_drive_backup_enable">Използвайте USB устройство за архивиране или възстановяване на елементи</string>
+	    <string name="disable_quick_start">Изключи бързия старт</string>
+    <string name="enable_quick_start">Включи бързия старт</string>
+	<string name="face_data_suggesstion_second">"Уверете се, че всички части на лицето ви са ясно видими. Не носете аксесоари, които могат да покрият лицето ви. Дръжте лицето си равномерно осветено и избягвайте пряката светлина."</string>
+	    <string name="stylus_ota_completed">Обновено успешно</string>
+    <string name="stylus_ota_completed_tip">Актуализиран фърмуер успешно. Прикрепете писалката за сдвояване.</string>
+    <string name="stylus_ota_firmware_info">Фърмуеър</string>
+    <string name="stylus_ota_hava_new_version">"Нова версия: "</string>
+    <string name="stylus_ota_net_error">"Не може да се провери за актуализации. Свържете се с мрежата и опитайте отново."</string>
+    <string name="stylus_ota_demands">"Дръжте Bluetooth включен през цялата актуализация. Уверете се, че батерията не е изтощена %1$s."</string>
 </resources>

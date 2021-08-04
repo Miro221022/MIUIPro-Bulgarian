@@ -89,7 +89,8 @@
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">"За да актуализирате състоянието на SIM картата и да се уверите, че всички услуги работят нормално, едно &lt;font color=#0097FF>&lt;b>международно платено текстово съобщение&lt;/b>&lt;/font> ще бъде изпратено, след като смените SIM картите. Ще бъдете таксувани за това съобщение от вашия оператор."</string>
 		<string name="close">Затвори</string>
     <string name="send">Изпрати</string>
-	   <string name="find_device_capture_notification_content">Друго упълномощено устройство прави снимка дистанционно чрез Открий устройството на i.mi.com.</string>
-    <string name="find_device_capture_notification_title">Открий устройството прави снимка от разстояние…</string>
 	<string name="find_device_notice">Посетете &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> за да намерите и заключите устройството си, да го маркирате като загубено, да изтриете данни или да направите снимки от разстояние.</string>
+	    <string name="find_device_capture_done_notification_content">Вижте снимката на i.mi.com</string>
+     <string name="find_device_capture_notification_content">Искането ви да направите снимка отдалечено с това устройство беше подадено от вашия акаунт</string>
+    <string name="find_device_capture_notification_title">Открий устройството е на път да направи снимка</string>
 </resources>

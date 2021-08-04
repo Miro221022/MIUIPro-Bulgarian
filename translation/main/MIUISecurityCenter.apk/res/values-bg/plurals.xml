@@ -168,10 +168,6 @@
     <item quantity="other">%d открити приложения</item>
     <item quantity="one">%d открито приложение</item>
   </plurals>
-  <plurals name="hints_scan_danger_result_with_number">
-    <item quantity="other">%d риска са намерени, поправяне сега</item>
-    <item quantity="one">%d риск е намерен, поправяне сега</item>
-  </plurals>
   <plurals name="hints_traffic_disable_title">
     <item quantity="other">Следене на използвани данни за %d приложения</item>
     <item quantity="one">Следене на използвани данни за %d приложение</item>
@@ -415,10 +411,6 @@
   <plurals name="result_sign_header">
     <item quantity="other">Открити са %d неофициални приложения</item>
     <item quantity="one">Открито е %d неофициално приложение</item>
-  </plurals>
-  <plurals name="result_virus_header">
-    <item quantity="other">Открити са %d вируси и опасни приложения</item>
-    <item quantity="one">Открит е %d вирус</item>
   </plurals>
   <plurals name="search_app_count_txt_na">
     <item quantity="other">Търсене на %d приложения</item>
@@ -843,5 +835,17 @@ You can get a %d-дневен безплатен пробен период се�
     <plurals name="simlock_set_puk_error">
         <item quantity="other">Въведете SIM PUK. %d остващи опита.</item>
         <item quantity="one">Въведете SIM PUK. %d оставащ опит.</item>
+    </plurals>
+	    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Изчистване на %d избрани приложения?</item>
+        <item quantity="one">Изчистване на %d избрано приложение?</item>
+    </plurals>
+	    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d открити риска</item>
+        <item quantity="one">%d открит риск</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">%d открити злонамерени приложения</item>
+        <item quantity="one">%d открито злонамерено приложение</item>
     </plurals>
 </resources>
