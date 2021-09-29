@@ -554,14 +554,6 @@
   <string name="mailbox_name_display_starred">Отбелязани</string>
   <string name="mailbox_name_display_trash">Кошче</string>
   <string name="mailbox_name_display_unread">Непрочетени</string>
-  <string name="mailbox_name_server_all_unread">Непрочетени</string>
-  <string name="mailbox_name_server_drafts">Чернови</string>
-  <string name="mailbox_name_server_inbox">Входящи</string>
-  <string name="mailbox_name_server_junk">Непотребни</string>
-  <string name="mailbox_name_server_outbox">Изходящи</string>
-  <string name="mailbox_name_server_sent">Изпратени</string>
-  <string name="mailbox_name_server_starred">Със звезда</string>
-  <string name="mailbox_name_server_trash">Непотребни</string>
   <string name="mailbox_settings_activity_title">Настройки за синхронизиране</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Настройки за синхронизиране (%s )</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Синхронизиране на поща от</string>
